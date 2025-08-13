@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Mid-1820s Colombian Caribbean coast, late night with single candle burning
+    location: Small dark room in depths of Buendía house serving as alchemical laboratory, Colombian jungle village
+    weather: Humid tropical night with oppressive heat trapped inside closed room
+  characters:
+  - appearance: Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse
+      by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with
+      long grey beard and hair, wild absent gaze
+    clothing: Simple rural linen shirts and pants in youth,  covered only by blanket or loincloth
+    position: Hunched over table covered with alchemical equipment
+    action: Frantically mixing mysterious substances with manic intensity, sweat beading on forehead
+  - appearance: Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment
+      of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes
+      so small and light resembles newborn or doll, skin becomes wrinkled and transparent
+    clothing: Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic
+      stiff starched petticoats that make quiet whisper during constant bustling
+    position: Standing in doorway with worried expression
+    action: Holding tray of untouched food while watching husband's descent into obsession
+  scene:
+    mainElements: Dark room lit only by window, full of dust that seems luminous, parchments, alchemical instruments, daguerreotype,
+      human skeleton, mysterious scientific atmosphere, smell of old books and chemicals, place where past present and future
+      converge, alembics, retorts, crucibles representing obsessive pursuit of knowledge and transformation of matter
+    details: Single candle flickering creating dancing shadows on stone walls, glass vials containing colored liquids, ancient
+      books opened to mysterious diagrams, metallic instruments catching candlelight, strong chemical odors mixing with humid
+      night air, no text or letters visible
+    background: Shelves lined with jars of unknown specimens, charts and drawings pinned to walls, small window showing tropical
+      night sky with stars
+    atmosphere: Growing obsession and isolation, brilliant mind beginning to lose touch with reality and family, dangerous
+      pursuit of forbidden knowledge consuming everything else
+  composition:
+    cameraAngle: Medium shot from Úrsula's worried perspective in doorway
+    focus: José Arcadio's manic concentration contrasted with wife's concerned presence
+    depth: 'Foreground: worried Úrsula with food, middle: obsessed alchemist at work, background: mysterious laboratory equipment
+      and shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

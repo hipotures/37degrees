@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1984, late afternoon, golden hour lighting
+    location: Impoverished working-class neighborhoods of London where 85% of population lives in neglect
+    weather: Clear evening with warm late afternoon light
+  characters: []
+  scene:
+    mainElements: Maze of narrow twisting streets, small grimy shops with hand-painted signs, noisy public houses with people
+      spilling onto sidewalks, ramshackle housing, clotheslines between buildings, children playing in rubble-strewn lots,
+      few or no telescreens visible
+    details: Authentic street life flourishes despite poverty. Laundry hangs from lines stretched between tenement windows.
+      Children kick balls made of rags through broken cobblestones. Women gather around public water pump gossiping. Men emerge
+      from pubs with tankards of beer. Shop windows display meager goods but show real commerce. Life here seems genuinely
+      human despite material want. No text or letters visible.
+    background: Narrow alley disappearing around corner, smoke rising from chimney stacks, hills of London visible in distance
+    atmosphere: Chaotic but genuine human vitality, poverty mixed with authentic emotion and spontaneity, freedom from constant
+      surveillance creating rare pockets of real life
+  composition:
+    cameraAngle: Street level perspective down narrow cobblestone lane
+    focus: Children playing while adults socialize near pub entrance
+    depth: Foreground cobblestones and playing children, middle ground pub and shops, background winding street leading to
+      distant hills
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,228 @@
+{
+  "title": "📋 Gemini Deep Research (ID: 27)",
+  "count": 37,
+  "data": [
+    {
+      "#": "1",
+      "Key": "0001_alice_in_wonderland",
+      "Task": "Deep Research for Alice's Adventures in Wonderland by Lewis Carroll",
+      "Status": "✅"
+    },
+    {
+      "#": "2",
+      "Key": "0002_animal_farm",
+      "Task": "Deep Research for Animal Farm by George Orwell",
+      "Status": "✅"
+    },
+    {
+      "#": "3",
+      "Key": "0003_anna_karenina",
+      "Task": "Deep Research for Anna Karenina by Leo Tolstoy",
+      "Status": "✅"
+    },
+    {
+      "#": "4",
+      "Key": "0004_brave_new_world",
+      "Task": "Deep Research for Brave New World by Aldous Huxley",
+      "Status": "✅"
+    },
+    {
+      "#": "5",
+      "Key": "0005_chlopi",
+      "Task": "Deep Research for The Peasants by Władysław Reymont",
+      "Status": "✅"
+    },
+    {
+      "#": "6",
+      "Key": "0006_don_quixote",
+      "Task": "Deep Research for Don Quixote by Miguel de Cervantes",
+      "Status": "✅"
+    },
+    {
+      "#": "7",
+      "Key": "0007_dune",
+      "Task": "Deep Research for Dune by Frank Herbert",
+      "Status": "✅"
+    },
+    {
+      "#": "8",
+      "Key": "0008_emma",
+      "Task": "Deep Research for Emma by Jane Austen",
+      "Status": "✅"
+    },
+    {
+      "#": "9",
+      "Key": "0009_fahrenheit_451",
+      "Task": "Deep Research for Fahrenheit 451 by Ray Bradbury",
+      "Status": "✅"
+    },
+    {
+      "#": "10",
+      "Key": "0010_great_gatsby",
+      "Task": "Deep Research for The Great Gatsby by F. Scott Fitzgerald",
+      "Status": "✅"
+    },
+    {
+      "#": "11",
+      "Key": "0011_gullivers_travels",
+      "Task": "Deep Research for Gulliver's Travels by Jonathan Swift",
+      "Status": "✅"
+    },
+    {
+      "#": "12",
+      "Key": "0012_harry_potter",
+      "Task": "Deep Research for Harry Potter and the Philosopher's Stone by J.K. Rowling",
+      "Status": "✅"
+    },
+    {
+      "#": "13",
+      "Key": "0013_hobbit",
+      "Task": "Deep Research for The Hobbit by J.R.R. Tolkien",
+      "Status": "✅"
+    },
+    {
+      "#": "14",
+      "Key": "0014_jane_eyre",
+      "Task": "Deep Research for Jane Eyre by Charlotte Brontë",
+      "Status": "✅"
+    },
+    {
+      "#": "15",
+      "Key": "0015_lady_of_the_camellias",
+      "Task": "Deep Research for The Lady of the Camellias by Alexandre Dumas (fils)",
+      "Status": "✅"
+    },
+    {
+      "#": "16",
+      "Key": "0016_lalka",
+      "Task": "Deep Research for The Doll by Bolesław Prus",
+      "Status": "✅"
+    },
+    {
+      "#": "17",
+      "Key": "0017_little_prince",
+      "Task": "Deep Research for The Little Prince by Antoine de Saint-Exupéry",
+      "Status": "✅"
+    },
+    {
+      "#": "18",
+      "Key": "0018_lord_of_the_rings",
+      "Task": "Deep Research for The Lord of the Rings by J.R.R. Tolkien",
+      "Status": "✅"
+    },
+    {
+      "#": "19",
+      "Key": "0019_master_and_margarita",
+      "Task": "Deep Research for The Master and Margarita by Mikhail Bulgakov",
+      "Status": "✅"
+    },
+    {
+      "#": "20",
+      "Key": "0020_narnia",
+      "Task": "Deep Research for The Chronicles of Narnia: The Lion, the Witch and the Wardrobe by C.S. Lewis",
+      "Status": "✅"
+    },
+    {
+      "#": "21",
+      "Key": "0021_nineteen_eighty_four",
+      "Task": "Deep Research for Nineteen Eighty-Four by George Orwell",
+      "Status": "✅"
+    },
+    {
+      "#": "22",
+      "Key": "0022_old_man_and_the_sea",
+      "Task": "Deep Research for The Old Man and the Sea by Ernest Hemingway",
+      "Status": "✅"
+    },
+    {
+      "#": "23",
+      "Key": "0023_one_hundred_years_of_solitude",
+      "Task": "Deep Research for One Hundred Years of Solitude by Gabriel García Márquez",
+      "Status": "✅"
+    },
+    {
+      "#": "24",
+      "Key": "0024_pan_tadeusz",
+      "Task": "Deep Research for Pan Tadeusz by Adam Mickiewicz",
+      "Status": "✅"
+    },
+    {
+      "#": "25",
+      "Key": "0025_portrait_of_dorian_gray",
+      "Task": "Deep Research for The Picture of Dorian Gray by Oscar Wilde",
+      "Status": "✅"
+    },
+    {
+      "#": "26",
+      "Key": "0026_pride_and_prejudice",
+      "Task": "Deep Research for Pride and Prejudice by Jane Austen",
+      "Status": "✅"
+    },
+    {
+      "#": "27",
+      "Key": "0027_quo_vadis",
+      "Task": "Deep Research for Quo Vadis by Henryk Sienkiewicz",
+      "Status": "✅"
+    },
+    {
+      "#": "28",
+      "Key": "0028_red_and_black",
+      "Task": "Deep Research for The Red and the Black by Stendhal",
+      "Status": "✅"
+    },
+    {
+      "#": "29",
+      "Key": "0029_robinson_crusoe",
+      "Task": "Deep Research for Robinson Crusoe by Daniel Defoe",
+      "Status": "✅"
+    },
+    {
+      "#": "30",
+      "Key": "0030_romeo_and_juliet",
+      "Task": "Deep Research for Romeo and Juliet by William Shakespeare",
+      "Status": "✅"
+    },
+    {
+      "#": "31",
+      "Key": "0031_solaris",
+      "Task": "Deep Research for Solaris by Stanisław Lem",
+      "Status": "✅"
+    },
+    {
+      "#": "32",
+      "Key": "0032_sorrows_of_young_werther",
+      "Task": "Deep Research for The Sorrows of Young Werther by Johann Wolfgang von Goethe",
+      "Status": "✅"
+    },
+    {
+      "#": "33",
+      "Key": "0033_the_trial",
+      "Task": "Deep Research for The Trial by Franz Kafka",
+      "Status": "✅"
+    },
+    {
+      "#": "34",
+      "Key": "0034_to_kill_a_mockingbird",
+      "Task": "Deep Research for To Kill a Mockingbird by Harper Lee",
+      "Status": "✅"
+    },
+    {
+      "#": "35",
+      "Key": "0035_tom_sawyer",
+      "Task": "Deep Research for The Adventures of Tom Sawyer by Mark Twain",
+      "Status": "✅"
+    },
+    {
+      "#": "36",
+      "Key": "0036_treasure_island",
+      "Task": "Deep Research for Treasure Island by Robert Louis Stevenson",
+      "Status": "✅"
+    },
+    {
+      "#": "37",
+      "Key": "0037_wuthering_heights",
+      "Task": "Deep Research for Wuthering Heights by Emily Brontë",
+      "Status": "✅"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1984, mid-morning, institutional fluorescent lighting
+    location: Ministry of Truth corridor with white walls and constant worker foot traffic
+    weather: Climate-controlled interior building environment
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Walking down corridor, stumbling slightly as woman approaches from opposite direction
+    action: Catching himself from stumble while woman steadies him, receiving something pressed into his palm
+  - appearance: Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face
+      with freckles, bold and confident expression, energetic and agile movements
+    clothing: Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure
+    position: Approaching from opposite direction, arm partially raised as if to prevent collision
+    action: Creating deliberate collision to pass folded paper secretly into Winston's hand during apparent accident
+  scene:
+    mainElements: Busy Ministry corridor with workers in blue overalls moving in both directions, white institutional walls,
+      harsh fluorescent lighting, government office atmosphere with people focused on destinations
+    details: Critical moment of resistance disguised as accident. Julia's athletic confidence contrasts Winston's nervous
+      frailty. Her scarlet sash provides only color in gray institutional environment. Other workers continue past without
+      noticing exchange. Fluorescent lights cast harsh shadows making everyone appear sick. The brief hand contact passes
+      forbidden communication. Both maintain expressions of casual indifference while performing dangerous act. No text or
+      letters visible.
+    background: Long institutional corridor stretching in both directions with other blue-uniformed workers walking past
+    atmosphere: Dangerous intimacy disguised as bureaucratic routine, electric tension of forbidden communication hidden in
+      plain sight
+  composition:
+    cameraAngle: Medium shot at chest level capturing hand exchange moment
+    focus: Moment of hand contact as paper passes between Winston and Julia
+    depth: Foreground Winston and Julia's touching hands, middle ground their faces showing controlled expressions, background
+      other workers walking past obliviously
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

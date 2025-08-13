@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Magical Encounter Amidst Swirling Celebration"
+  setting:
+    time: "Renaissance Italy, night during grand feast"
+    location: "Grand hall inside Capulet palace in Verona, high coffered ceilings, musicians' gallery above"
+    weather: "Warm interior lit by hundreds of candles, creating golden glow"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Standing transfixed near column at edge of dancing crowd"
+      action: "Gazing across room with transformed expression, wonder replacing melancholy, hand reaching unconsciously forward"
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "Luxurious gowns in warm tones - crimson silk dress with gold embroidery, fitted bodice with square neckline, full skirt over farthingale, pearl ornaments in hair"
+      position: "Center of dance floor, caught mid-turn in dance"
+      action: "Dancing with older partner but gaze drawn magnetically to young man, lips slightly parted in recognition"
+  scene:
+    mainElements: "Swirling dancers in elaborate costumes, golden candlelight creating moving shadows, musicians playing from gallery"
+    details: "Elaborate decorated masks covering upper faces, flower petals scattered on floor from earlier ceremony, golden light making everything seem enchanted, other dancers blurred in motion while two figures remain in sharp focus to each other"
+    background: "Blurred movement of other celebrants, tapestries seeming to ripple in candlelight"
+    atmosphere: "Time suspended in moment of recognition, world narrowing to two souls finding each other, magical transformation from melancholy to ecstasy"
+  composition:
+    cameraAngle: "Medium shot showing both figures with crowd between them"
+    focus: "The electric connection across crowded room, everything else becoming peripheral"
+    depth: "Romeo in foreground right, crowd in middle ground, Juliet in middle distance left, creating diagonal tension"

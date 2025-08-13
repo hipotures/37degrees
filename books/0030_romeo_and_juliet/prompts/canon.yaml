@@ -1,0 +1,148 @@
+canon:
+  characters:
+    - id: "romeo"
+      name: "Romeo Montague"
+      description_block: |
+        characters:
+          - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+            clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+            posture: "Initially withdrawn and melancholic, becomes more energetic and passionate when in love, graceful movements of a skilled swordsman"
+    
+    - id: "juliet"
+      name: "Juliet Capulet"
+      description_block: |
+        characters:
+          - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+            clothing: "Luxurious gowns in warm tones - crimson silk dress with gold embroidery, fitted bodice with square neckline, full skirt over farthingale, pearl ornaments in hair"
+            posture: "Initially obedient and reserved, becomes more determined and passionate, movements transition from childlike to womanly grace"
+    
+    - id: "mercutio"
+      name: "Mercutio"
+      description_block: |
+        characters:
+          - appearance: "Young man, late teens to early twenties, agile and energetic build, sharp features with ironic smile, quick darting movements like quicksilver"
+            clothing: "Extravagant courtier's attire - vibrant multicolored doublet, fantastical feathered hat, fashionable but theatrical, not aligned to any house colors"
+            posture: "Constantly in motion, theatrical gestures, sharp and witty movements, explosive energy barely contained"
+    
+    - id: "tybalt"
+      name: "Tybalt Capulet"
+      description_block: |
+        characters:
+          - appearance: "Young man, early twenties, athletic aggressive build, sharp angular features, dark hair slicked back, piercing hostile eyes"
+            clothing: "Impeccable nobleman's attire in Capulet warm tones - burgundy velvet doublet, gold chain, crimson cape, always wearing rapier and dagger"
+            posture: "Proud aggressive stance, precise controlled movements of master swordsman, coiled like predator ready to strike"
+    
+    - id: "friar_laurence"
+      name: "Friar Laurence"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged to elderly man, 45-60 years old, gentle weathered face marked by wisdom, graying hair with tonsure, kind but worried eyes"
+            clothing: "Simple rough Franciscan habit in brown or gray wool, tied with rope belt, wooden cross, sandals"
+            posture: "Slow deliberate movements, often bent over herbs and books, peaceful contemplative bearing"
+    
+    - id: "nurse"
+      name: "Juliet's Nurse"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman, 40-50 years old, plump jovial build, plain but kind face prone to laughter and tears, graying hair under cap"
+            clothing: "Simple servant's dress in muted colors - brown wool dress, white linen apron, modest cap covering hair"
+            posture: "Bustling energetic movements, physically affectionate with Juliet, earthy and maternal presence"
+    
+    - id: "lord_capulet"
+      name: "Lord Capulet"
+      description_block: |
+        characters:
+          - appearance: "Older man about 50 years old, imposing patrician build, face shifting between jovial and furious, graying beard and hair"
+            clothing: "Richest nobleman's attire - crimson velvet robes with fur trim, heavy gold chains, ornate rings, elaborate hat"
+            posture: "Commanding authoritative stance, initially jovial host gestures, capable of explosive violent movements when angry"
+    
+    - id: "lady_capulet"
+      name: "Lady Capulet"
+      description_block: |
+        characters:
+          - appearance: "Young woman, surprisingly only 26-28 years old, elegant slender build, beautiful but cold distant face, perfectly styled hair"
+            clothing: "Most fashionable noblewoman's attire - elaborate gowns in rich fabrics, extensive jewelry, ornate headdresses"
+            posture: "Graceful but emotionally distant, formal controlled movements, rarely showing warmth or spontaneity"
+    
+    - id: "paris"
+      name: "Count Paris"
+      description_block: |
+        characters:
+          - appearance: "Young nobleman, 20-30 years old, conventionally handsome, noble confident bearing, well-groomed appearance"
+            clothing: "Impeccable courtier's attire in neutral or princely colors - gray or purple velvet doublet, tasteful but expensive, showing connection to Prince"
+            posture: "Confident noble bearing, formal proper movements, possessive protective gestures toward Juliet"
+    
+    - id: "benvolio"
+      name: "Benvolio Montague"
+      description_block: |
+        characters:
+          - appearance: "Young man, 16-18 years old, similar build to Romeo but calmer presence, gentle reasonable face, concerned expression"
+            clothing: "Noble attire in Montague cool tones - blue doublet but more conservative cut than Romeo's, less dramatic, practical"
+            posture: "Calm measured movements, peaceful mediating gestures, rational and composed bearing"
+
+  locations:
+    - id: "verona_square"
+      name: "Public Square of Verona"
+      description_block: |
+        setting:
+          location: "Renaissance Italian city square in Verona, surrounded by pink and white limestone palaces, narrow streets radiating outward, stone fountain in center"
+        mainElements: "Cobblestone pavement, Renaissance facades with arched windows and loggias, market stalls, stone benches, central fountain"
+        atmosphere: "Bustling with life during day, tense with potential violence, hot July sun creating harsh shadows"
+    
+    - id: "capulet_ballroom"
+      name: "Capulet Palace Ballroom"
+      description_block: |
+        setting:
+          location: "Grand hall inside Capulet palace in Verona, high coffered ceilings, musicians' gallery above"
+        mainElements: "Long banquet tables, hundreds of candles in chandeliers, tapestries on walls, polished marble floor, ornate columns"
+        atmosphere: "Crowded festive atmosphere, golden flickering candlelight, hot and close with many bodies, music and laughter"
+    
+    - id: "juliet_balcony"
+      name: "Juliet's Balcony and Garden"
+      description_block: |
+        setting:
+          location: "Private walled garden behind Capulet palace in Verona, stone balcony on second floor overlooking orchard"
+        mainElements: "Stone balcony with carved balustrade, fruit trees below, cypress trees, flowering vines on walls, moonlit garden paths"
+        atmosphere: "Intimate magical nighttime sanctuary, moonlight and warm light from Juliet's window, peaceful escape from public world"
+    
+    - id: "friar_cell"
+      name: "Friar Laurence's Cell"
+      description_block: |
+        setting:
+          location: "Small stone chamber in Franciscan monastery in Verona, simple and austere"
+        mainElements: "Wooden table covered with herbs and vials, shelves of books and dried plants, simple wooden bed, small high window, crucifix on wall"
+        atmosphere: "Quiet contemplative space, dim light through small window, smell of herbs and earth, peaceful contrast to violent city"
+    
+    - id: "capulet_tomb"
+      name: "Capulet Family Tomb"
+      description_block: |
+        setting:
+          location: "Stone crypt in churchyard of Verona, underground vault with family sarcophagi"
+        mainElements: "Stone sarcophagi along walls, carved effigies, dust and cobwebs, stone steps leading down, iron gate at entrance"
+        atmosphere: "Cold dark and damp, deathly silence, musty stale air, shadows dancing from torch light"
+
+  items:
+    - id: "rapier"
+      name: "Rapier"
+      description_block: |
+        details: "Long slender thrusting sword with elaborate swept hilt, mark of nobility and tool of honor duels, worn at hip by all noblemen"
+    
+    - id: "poison_vial"
+      name: "Vial of Poison"
+      description_block: |
+        details: "Small glass vial containing dark liquid poison, purchased illegally, quick and lethal, symbol of desperate escape"
+    
+    - id: "sleeping_potion"
+      name: "Friar's Sleeping Draught"
+      description_block: |
+        details: "Glass vial containing herbal mixture that simulates death for 42 hours, cloudy liquid, last desperate hope"
+    
+    - id: "romeo_dagger"
+      name: "Romeo's Dagger"
+      description_block: |
+        details: "Short steel dagger with ornate handle, worn at belt as secondary weapon, becomes instrument of Juliet's final act"
+    
+    - id: "mask"
+      name: "Masquerade Mask"
+      description_block: |
+        details: "Elaborate decorated mask covering upper face, allows hidden identity at Capulet ball, symbol of deception and freedom"

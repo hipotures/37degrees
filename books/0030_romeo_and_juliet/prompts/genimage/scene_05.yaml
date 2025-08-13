@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, golden hour before sunset
+    location: Grand hall inside Capulet palace in Verona, high coffered ceilings, musicians' gallery above
+    weather: Warm evening light streaming through tall windows, dust motes dancing in rays
+  characters:
+  - appearance: Numerous servants of various ages, both men and women, busy with preparations
+    clothing: Matching house liveries in Capulet colors - crimson and gold trim, white aprons, caps
+    position: Scattered throughout hall in purposeful movement
+    action: Setting long tables, arranging flowers, polishing silver, lighting first candles, carrying platters
+  scene:
+    mainElements: Long banquet tables with white cloths, hundreds of unlit candles in chandeliers, tapestries on walls, polished
+      marble floor reflecting golden light
+    details: Fresh roses and orange blossoms in silver vases, gleaming goblets and plates, musicians tuning instruments in
+      gallery, smell of roasting meat wafting from kitchens, elaborate sugar sculptures as centerpieces, servants' synchronized
+      movements like choreographed dance
+    background: Ornate ceiling with gilded details catching light, tall windows showing gardens beyond, doorways leading to
+      other chambers
+    atmosphere: Anticipation and excitement building, transformation of space from day to night, busy harmony before celebration,
+      golden warmth before passionate darkness
+  composition:
+    cameraAngle: Wide shot from gallery level looking down at preparations
+    focus: The orchestrated transformation of grand space for momentous evening
+    depth: Busy servants and tables in foreground, architectural grandeur in middle ground, windows with fading daylight in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

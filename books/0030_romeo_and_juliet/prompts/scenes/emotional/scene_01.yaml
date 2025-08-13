@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Melancholy in Verona's Dawn"
+  setting:
+    time: "Renaissance Italy, early morning just after sunrise"
+    location: "Quiet grove of sycamore trees outside Verona city walls"
+    weather: "Soft morning mist rising from dew-covered grass, pale golden sunlight filtering through leaves"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Walking slowly among trees at edge of grove"
+      action: "Moving with heavy steps, head slightly bowed, one hand absently touching tree bark as he passes"
+  scene:
+    mainElements: "Ancient sycamore trees with gnarled trunks, morning mist pooling in hollows, distant view of Verona's pink limestone walls catching first light"
+    details: "Dewdrops glistening on spider webs between branches, fallen leaves creating soft carpet underfoot, birds beginning morning songs, empty stone bench beneath largest tree suggesting solitary refuge, wildflowers closed awaiting sun's warmth"
+    background: "Verona's towers and church spires emerging from mist, rolling Venetian hills in far distance, other early risers visible as tiny figures on distant paths"
+    atmosphere: "Profound solitude and romantic melancholy, nature awakening while human heart remains heavy, beauty of dawn contrasting with inner darkness, peaceful yet achingly lonely"
+  composition:
+    cameraAngle: "Wide establishing shot from slight elevation among trees"
+    focus: "Solitary figure dwarfed by ancient trees, emphasizing isolation within natural grandeur"
+    depth: "Figure in middle ground between dark tree trunks in foreground and misty city in background"

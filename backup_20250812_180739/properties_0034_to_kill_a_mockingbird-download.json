@@ -1,0 +1,51 @@
+     📋 All Item Properties for list '0034_to_kill_a_mockingbird-download'      
+╭──────────────────────┬──────────────────────┬────────────────────────────────╮
+│ Item Key             │ Property Key         │ Value                          │
+├──────────────────────┼──────────────────────┼────────────────────────────────┤
+│ item_0001            │ thread_id            │ 68986fca-2b24-8330-a3bc-cbc4c… │
+│ item_0002            │ thread_id            │ 6898713a-f2cc-8330-a3e3-46c0b… │
+│ item_0003            │ thread_id            │ 68987273-5a80-8327-b4bd-cbaac… │
+│ item_0004            │ thread_id            │ 6898738a-776c-8324-8a5e-c146a… │
+│ item_0005            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generation requests. │
+│                      │                      │ You can create more images     │
+│                      │                      │ when the limit resets in 10    │
+│                      │                      │ hours and 59 minutes.          │
+│ item_0005            │ thread_id            │ 689874d8-be90-832a-9e72-f9ce0… │
+│ item_0006            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generation requests. │
+│                      │                      │ You can create more images     │
+│                      │                      │ when the limit resets in 10    │
+│                      │                      │ hours and 55 minutes.          │
+│ item_0006            │ thread_id            │ 689875e6-b804-8328-86d7-ef59c… │
+│ item_0007            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 10 hours and 50 minutes.    │
+│ item_0007            │ thread_id            │ 68987713-e484-8332-9427-75879… │
+│ item_0008            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 10 hours and 45 minutes.    │
+│ item_0008            │ thread_id            │ 68987836-8110-832e-a4b6-574e9… │
+│ item_0009            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 10 hours and 40 minutes.    │
+│ item_0009            │ thread_id            │ 6898794b-a1fc-8324-91d0-6a1ee… │
+│ item_0010            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 10 hours and 35 minutes.    │
+│ item_0010            │ thread_id            │ 68987a7b-2a14-8331-bf9b-c29f1… │
+│ item_0011            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 10 hours and 30 minutes.    │
+│ item_0011            │ thread_id            │ 68987b97-29e0-8321-9984-2a222… │
+╰──────────────────────┴──────────────────────┴────────────────────────────────╯

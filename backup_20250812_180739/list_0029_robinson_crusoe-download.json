@@ -1,0 +1,171 @@
+{
+  "title": "📋 AI Image Generation for 0029_robinson_crusoe - Linked (ID: 57)",
+  "count": 25,
+  "data": [
+    {
+      "#": "1",
+      "Key": "scene_01",
+      "Task": "Generate image using scene_01.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "2",
+      "Key": "item_0001",
+      "Task": "Generate image using scene_02.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "3",
+      "Key": "item_0002",
+      "Task": "Generate image using scene_03.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "4",
+      "Key": "item_0003",
+      "Task": "Generate image using scene_04.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "5",
+      "Key": "item_0004",
+      "Task": "Generate image using scene_05.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "6",
+      "Key": "item_0005",
+      "Task": "Generate image using scene_06.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "7",
+      "Key": "item_0006",
+      "Task": "Generate image using scene_07.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "8",
+      "Key": "item_0007",
+      "Task": "Generate image using scene_08.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "9",
+      "Key": "item_0008",
+      "Task": "Generate image using scene_09.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "10",
+      "Key": "item_0009",
+      "Task": "Generate image using scene_10.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "11",
+      "Key": "item_0010",
+      "Task": "Generate image using scene_11.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "12",
+      "Key": "item_0011",
+      "Task": "Generate image using scene_12.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "13",
+      "Key": "item_0012",
+      "Task": "Generate image using scene_13.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "14",
+      "Key": "item_0013",
+      "Task": "Generate image using scene_14.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "15",
+      "Key": "item_0014",
+      "Task": "Generate image using scene_15.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "16",
+      "Key": "item_0015",
+      "Task": "Generate image using scene_16.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "17",
+      "Key": "item_0016",
+      "Task": "Generate image using scene_17.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "18",
+      "Key": "item_0017",
+      "Task": "Generate image using scene_18.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "19",
+      "Key": "item_0018",
+      "Task": "Generate image using scene_19.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "20",
+      "Key": "item_0019",
+      "Task": "Generate image using scene_20.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "21",
+      "Key": "item_0020",
+      "Task": "Generate image using scene_21.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "22",
+      "Key": "item_0021",
+      "Task": "Generate image using scene_22.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "23",
+      "Key": "item_0022",
+      "Task": "Generate image using scene_23.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "24",
+      "Key": "item_0023",
+      "Task": "Generate image using scene_24.yaml",
+      "Status": "⏳"
+    },
+    {
+      "#": "25",
+      "Key": "item_0024",
+      "Task": "Generate image using scene_25.yaml",
+      "Status": "⏳"
+    }
+  ]
+}
+
+{
+  "title": "Properties",
+  "count": 2,
+  "data": [
+    {
+      "Key": "book_folder",
+      "Value": "0029_robinson_crusoe"
+    },
+    {
+      "Key": "project_id",
+      "Value": "g-p-6897f60d228c8191bb611197144afecb"
+    }
+  ]
+}

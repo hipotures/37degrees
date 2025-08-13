@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Golden Monuments to Love's Sacrifice"
+  setting:
+    time: "Renaissance Italy, years later, peaceful afternoon"
+    location: "New memorial square in Verona with statues"
+    weather: "Soft golden sunlight, gentle breeze, perfect spring day"
+  characters:
+    - appearance: "Various citizens and visitors of all ages, modern for their time"
+      clothing: "Everyday Renaissance attire in various colors, no house divisions visible"
+      position: "Gathered peacefully around monument, some leaving flowers"
+      action: "Contemplating statues, teaching children the story, lovers holding hands"
+  scene:
+    mainElements: "Two golden statues on shared pedestal - young man and woman reaching toward each other, permanent embrace in metal"
+    details: "Fresh flowers at statue base, inscription telling their story, children playing nearby without fear, former enemies' families maintaining monument together, doves nesting in statue's arms, roses climbing pedestal"
+    background: "Peaceful Verona with no visible house conflicts, rebuilt unity, life continuing"
+    atmosphere: "Bittersweet legacy, love remembered and honored, peace finally achieved, tragedy transformed to hope for future generations"
+  composition:
+    cameraAngle: "Low angle making statues heroic against sky"
+    focus: "The golden lovers eternal and finally together, watched by peaceful city"
+    depth: "Statues prominent in foreground, peaceful citizens in middle ground, harmonious city in background"

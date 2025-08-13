@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Sacred Vows in Hidden Sanctuary"
+  setting:
+    time: "Renaissance Italy, afternoon with slanted light through window"
+    location: "Small stone chamber in Franciscan monastery in Verona, simple and austere"
+    weather: "Peaceful afternoon, golden light streaming through high window"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Kneeling before simple altar"
+      action: "Holding young woman's hands, gazing up at her with devotion, solemn joy transforming his features"
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "Simple white dress for secret ceremony, hair covered with white veil, minimal jewelry"
+      position: "Kneeling beside young man"
+      action: "Clasping his hands tightly, radiant expression mixing joy with gravity of moment"
+    - appearance: "Middle-aged to elderly man, 45-60 years old, gentle weathered face marked by wisdom, graying hair with tonsure, kind but worried eyes"
+      clothing: "Simple rough Franciscan habit in brown or gray wool, tied with rope belt, wooden cross, sandals"
+      position: "Standing before them with raised hands in blessing"
+      action: "Performing marriage blessing with mix of hope and concern on face"
+  scene:
+    mainElements: "Simple stone altar with crucifix, wooden table covered with herbs and vials, shelves of books and dried plants"
+    details: "Beam of sunlight illuminating couple like divine blessing, dust motes floating like tiny angels, worn prayer book open on altar, wildflowers in simple clay vase, atmosphere of herbs and incense"
+    background: "Stone walls with religious imagery, small high window showing blue sky"
+    atmosphere: "Sacred intimacy, secret joy mixed with underlying danger, holy rebellion against worldly hatred, peace before storm"
+  composition:
+    cameraAngle: "Medium shot from side showing all three figures and altar"
+    focus: "The joined hands of young couple with friar's blessing above"
+    depth: "Altar and figures in foreground, stone wall with window in background"

@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: Early 1820s Colombian Caribbean coast, golden afternoon light
+    location: Riverbank beside Macondo village with transparent water flowing over enormous white stones, Colombian jungle
+      clearing
+    weather: Warm tropical afternoon with dappled sunlight filtering through riverside vegetation
+  characters:
+  - appearance: Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child
+      and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression
+      of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but
+      significant physical detail emphasizing inner suffering
+    clothing: In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded
+      and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop
+    position: Sitting quietly on large white stone observing water patterns
+    action: Contemplating ripples in crystal water with intense concentration beyond his years
+  - appearance: Woman, from birth to death in old age, can be assumed attractive in youth since competed with Rebeca for Pietro
+      Crespi's affections, key unchanging visual feature is black silk bandage worn on right hand after deliberately burning
+      it in fire as penance after Pietro's suicide, wears bandage until death as symbol of virginity and rejected love
+    clothing: Usually wears dark stern dresses reflecting inner bitterness and permanent state of mourning over unfulfilled
+      life
+    position: Splashing playfully in shallow water near younger children
+    action: Laughing carefreely while helping other children catch small fish with hands
+  - appearance: Woman, arrives at age 11, dies as lonely old woman, upon arrival child with greenish skin, round tight-as-drum
+      belly and large frightened eyes indicating illness and malnutrition, has strange habit of eating earth and lime, after
+      healing and care by Úrsula grows into beautiful young woman, in old age after husband's death locks herself in house,
+      becomes wild and stops caring for herself
+    clothing: Arrives in dress with diagonal stripes dyed black worn and peeling patent leather shoes, as young lady dresses
+      fashionably according to latest trends brought by Pietro Crespi, in old age wears destroyed old clothes
+    position: Standing ankle-deep in water still shy but gradually joining play
+    action: Tentatively reaching toward other children while clutching small bag containing her parents' bones
+  scene:
+    mainElements: Crystal-clear river with smooth white stones large as prehistoric eggs, shallow pools perfect for children's
+      play, tropical vegetation creating natural playground, safe swimming areas with gentle current, exotic fish visible
+      in transparent water
+    details: Sunlight creating rainbow patterns in water spray, children's wet footprints on smooth stones, small fish darting
+      between fingers, tropical butterflies attracted to river flowers, gentle sound of water flowing over stones, no text
+      or letters visible
+    background: Dense jungle foliage hanging over water, adobe houses of village visible through trees, path leading back
+      to settlement
+    atmosphere: Pure childhood joy and innocence, carefree exploration of natural paradise, sense of timeless play where worries
+      haven't yet entered young minds
+  composition:
+    cameraAngle: Low angle from water level capturing children's perspective
+    focus: Young Aureliano's intense contemplation contrasted with carefree play around him
+    depth: 'Foreground: crystal water with stones, middle: children at play, background: overhanging tropical vegetation'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

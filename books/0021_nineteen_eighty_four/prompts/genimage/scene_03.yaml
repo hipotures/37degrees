@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1984, morning work hours, fluorescent lighting
+    location: Enormous white concrete pyramid rising 300 meters high, one of four government ministry buildings dominating
+      London skyline
+    weather: Climate controlled interior environment
+  characters: []
+  scene:
+    mainElements: Countless small office cubicles with pneumatic tube system, slit-like openings in office walls leading to
+      furnaces for destroying inconvenient documents (memory holes), dictating machines that convert speech to text connected
+      to keyboards and screens, stacks of documents being revised
+    details: Sterile institutional workspace designed for historical falsification. Pneumatic tubes carry documents through
+      walls with constant whooshing sounds. Workers sit at desks manipulating information without questioning content. Memory
+      holes gape like hungry mouths waiting to swallow inconvenient truths. Harsh fluorescent lighting eliminates all shadows
+      and warmth. Mechanical efficiency serves totalitarian control. No text or letters visible.
+    background: Endless rows of identical workstations extending beyond view, white walls punctuated by memory holes
+    atmosphere: Sterile brutality of bureaucratic evil, mechanized destruction of truth presented as routine clerical work
+  composition:
+    cameraAngle: Medium shot across office floor
+    focus: Memory hole opening in wall with pneumatic tube system
+    depth: Foreground empty desk with speakwrite machine, middle ground memory hole, background rows of cubicles fading into
+      distance
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

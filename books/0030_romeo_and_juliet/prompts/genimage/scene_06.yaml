@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, early evening as darkness approaches
+    location: View of Verona from hillside, city preparing for night
+    weather: Dark clouds massing on horizon, last rays of sun creating dramatic contrast, wind picking up
+  characters:
+  - appearance: Distant figures in streets below, too far to distinguish features
+    clothing: Colorful dots of festive attire, torches beginning to be lit
+    position: Moving through streets toward various palaces
+    action: Hurrying as weather changes, cloaks billowing in wind, seeking shelter or destinations
+  scene:
+    mainElements: Panoramic view of Verona with storm approaching from mountains, contrast between still-sunny city and dark
+      horizon
+    details: First torches creating points of warm light against gathering darkness, birds flying low seeking roosts, cypress
+      trees bending in strengthening wind, church bells ringing evening prayers, flags on towers snapping violently
+    background: Dramatic sky with collision of golden sunset and purple-black storm clouds, lightning flickering in distance
+    atmosphere: Nature's warning of approaching turmoil, beauty and threat in violent juxtaposition, festive anticipation
+      shadowed by ominous portents
+  composition:
+    cameraAngle: Elevated wide vista from hillside overlooking city
+    focus: The approaching storm as metaphor for coming emotional tempest
+    depth: Wind-bent trees in foreground, city spread in middle ground, dramatic sky dominating background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

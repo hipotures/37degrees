@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Exile's Anguish at City Gates"
+  setting:
+    time: "Renaissance Italy, pre-dawn darkness"
+    location: "City gates of Verona, ancient stone archway"
+    weather: "Cold mist, stars fading, first hint of dawn on horizon"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Travel-worn nobleman's attire, dark cloak with hood partially concealing face, mud-splattered boots"
+      position: "On horseback pausing at gate threshold"
+      action: "Turning in saddle for last look at city, hand reaching back toward unseen palace, face showing unbearable loss"
+    - appearance: "Middle-aged to elderly man, 45-60 years old, gentle weathered face marked by wisdom, graying hair with tonsure, kind but worried eyes"
+      clothing: "Simple rough Franciscan habit in brown or gray wool, tied with rope belt, wooden cross, sandals"
+      position: "Standing beside horse holding bridle"
+      action: "Hand on rider's knee in comfort, looking up with mixture of pity and fear"
+  scene:
+    mainElements: "Massive stone gate, road disappearing into dark countryside, city walls looming behind"
+    details: "Guard tower with single torch flickering, morning star still visible, horse's breath visible in cold air, bundle of possessions tied to saddle, sealed letter in rider's hand"
+    background: "Verona's towers and domes silhouetted against lightening sky, empty road ahead vanishing into mist"
+    atmosphere: "Banishment as living death, love severed by distance, last moment between two worlds, hope struggling against despair"
+  composition:
+    cameraAngle: "View from outside city looking back through gate arch"
+    focus: "The threshold moment - one foot in beloved past, one in uncertain future"
+    depth: "Rider and friar in foreground, gate arch framing city in middle ground, dawn sky in background"

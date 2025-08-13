@@ -13,7 +13,7 @@ from rich import print as rprint
 from src.config import get_config, set_override
 
 # Import CLI modules
-from src.cli import collections, list_books, video, ai, research, site, convert_scenes
+from src.cli import collections, list_books, video, ai, research, site, convert_scenes, download, download_todoit
 
 console = Console()
 
@@ -58,6 +58,9 @@ Examples:
   python main.py site                     # Generate complete static site
   python main.py site 17                  # Generate page for book #17
   python main.py site classics            # Generate pages for collection
+  
+  python main.py download 0009_fahrenheit_451  # Download images from ChatGPT
+  python main.py download-todoit 0011_gullivers_travels-download  # Download via TODOIT MCP
 """
     )
     
@@ -124,6 +127,14 @@ Examples:
                                help='Process subdirectories (default: recursive)')
     convert_parser.add_argument('--no-recursive', '-R', action='store_false', dest='recursive',
                                help='Do not process subdirectories')
+    
+    # Download command
+    download_parser = subparsers.add_parser('download', help='Download images from ChatGPT using TODOIT')
+    download_parser.add_argument('book_folder', help='Book folder name (e.g., 0009_fahrenheit_451)')
+    
+    # Download TODOIT command
+    download_todoit_parser = subparsers.add_parser('download-todoit', help='Download images from ChatGPT using TODOIT MCP')
+    download_todoit_parser.add_argument('download_list', help='Download list name (e.g., 0011_gullivers_travels-download)')
     
     args = parser.parse_args()
     
@@ -287,6 +298,15 @@ Examples:
                 if args.output:
                     console.print("[yellow]Warning: --output option is ignored for directory conversion[/yellow]")
                 convert_scenes.convert_directory(path_obj, from_format, to_format, args.recursive)
+                
+        elif args.command == 'download':
+            # Call download function
+            download.download_images(args.book_folder)
+            
+        elif args.command == 'download-todoit':
+            # Call download-todoit function
+            import asyncio
+            asyncio.run(download_todoit.download_todoit(args.download_list))
             
     except KeyboardInterrupt:
         console.print("\n[yellow]Operation cancelled by user[/yellow]")

@@ -1,0 +1,615 @@
+﻿Dogłębna Analiza i Przewodnik Adaptacyjny: Jane Eyre Charlotte Brontë
+
+
+
+
+CZĘŚĆ I: WPROWADZENIE
+
+
+
+
+Informacje Bibliograficzne
+
+
+Pełny tytuł i podtytuł: Jane Eyre: An Autobiography.1 Podtytuł,
+Autobiografia, nie jest jedynie konwencją stylistyczną, lecz fundamentalnym kluczem do zrozumienia dzieła. Natychmiastowo ramuje on narrację jako osobiste świadectwo, nadając pierwszoosobowej narratorce, Jane, bezprecedensowy poziom autorytetu i intymności w relacji z czytelnikiem. W 1847 roku było to posunięcie radykalne, zwłaszcza w przypadku bohaterki kobiecej. Podtytuł ten stanowił świadomy akt literacki, który z góry uprawomocniał wewnętrzne przeżycia postaci, tradycyjnie marginalizowanej ze względu na płeć, klasę społeczną i brak urody. To właśnie ta deklaracja autentyczności i wagi osobistego doświadczenia stała się jednym ze źródeł kontrowersji, jakie wzbudziła powieść.
+Autor: Charlotte Brontë (urodzona 21 kwietnia 1816, zmarła 31 marca 1855), opublikowała powieść pod męskim pseudonimem "Currer Bell".1 Użycie pseudonimu było strategiczną koniecznością w epoce, w której twórczość kobiet często oceniano przez pryzmat płci, przypisując jej mniejszą wagę intelektualną i artystyczną. Wybór męskiego imienia miał na celu zapewnienie, że dzieło zostanie osądzone na podstawie jego literackich walorów, a nie odrzucone jako sentymentalna "literatura kobieca".6 Jak pokazała późniejsza recepcja, manewr ten okazał się niezwykle skuteczny, zmuszając krytyków do konfrontacji z "męską" siłą i "niekobiecą" pasją tekstu, co po ujawnieniu prawdziwej tożsamości autorki tylko wzmocniło rewolucyjny wydźwięk powieści.
+Krótka biografia w kontekście książki: Charlotte Brontë była trzecią z sześciorga dzieci wielebnego Patricka Brontë i Marii Branwell.4 Jej życie naznaczone było serią osobistych tragedii, które znalazły bezpośrednie odzwierciedlenie w fabule
+Jane Eyre. Wczesna śmierć matki oraz utrata dwóch starszych sióstr, Marii i Elizabeth, które zmarły na choroby zakaźne nabyte w Clergy Daughters' School w Cowan Bridge, stały się fundamentem dla opisu okrutnej szkoły Lowood.4 Postać Helen Burns jest literackim hołdem dla zmarłej siostry autorki, Marii, co nadaje tym fragmentom powieści głęboko osobisty i przejmujący charakter.4 Równie istotny wpływ na kształt dzieła miała jej niespełniona miłość do Constantina Hégera, żonatego dyrektora szkoły w Brukseli, gdzie Charlotte pracowała jako nauczycielka. Ta skomplikowana, intelektualnie stymulująca, lecz społecznie niemożliwa relacja stała się inspiracją dla złożonej więzi między Jane a starszym, doświadczonym i cynicznym panem Rochesterem.4
+Data pierwszego wydania: Powieść została opublikowana 19 października 1847 roku przez wydawnictwo Smith, Elder and Co. w Londynie.6
+Gatunek literacki: Jane Eyre jest dziełem hybrydowym, które wymyka się prostej kategoryzacji. W swej istocie jest to Bildungsroman, czyli powieść o dojrzewaniu, śledząca moralny i psychologiczny rozwój bohaterki od dzieciństwa aż po dorosłość.11 Jednocześnie, jest to jedno z najważniejszych dzieł
+powieści gotyckiej, wykorzystujące jej kluczowe elementy: tajemnicę, elementy nadprzyrodzone, odizolowane i imponujące scenerie (Thornfield Hall) oraz postać mrocznego, udręczonego bohatera byronicznego w osobie pana Rochestera.13 Powieść czerpie również z tradycji
+realizmu obyczajowego, skupiając się na wewnętrznym życiu i codziennych zmaganiach bohaterki w specyficznych realiach społecznych.10
+Przynależność do nurtu literackiego: Powieść jest kanonicznym dziełem literatury wiktoriańskiej. Bezpośrednio podejmuje kluczowe dla epoki kwestie społeczne i moralne, takie jak sztywna hierarchia klasowa, ograniczona rola kobiet w społeczeństwie, hipokryzja religijna oraz poszukiwanie indywidualnej tożsamości w świecie zdominowanym przez konwenanse.2
+Okładka: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Oryginalne wydanie z 1847 roku, opublikowane w trzech tomach, miało skromną, typową dla tamtych czasów oprawę, pozbawioną ilustracji. Wizualna tożsamość powieści została ukształtowana dopiero przez późniejsze, ilustrowane edycje oraz liczne adaptacje filmowe, a nie przez jedną, ikoniczną okładkę pierwszego wydania.
+
+
+Kontekst powstania
+
+
+Okoliczności napisania książki: Jane Eyre powstała w niezwykle krótkim czasie po tym, jak pierwsza powieść Charlotte Brontë, Profesor, została odrzucona przez wydawców. Mimo porażki, konstruktywna krytyka zawarta w listach odmownych zmotywowała autorkę do podjęcia nowej próby. Pisząc Jane Eyre, czerpała obficie z własnych, często bolesnych, doświadczeń życiowych oraz z bogatego świata fantazji zwanego "Angrią", który od dzieciństwa tworzyła wraz z rodzeństwem.5 Ta mieszanka autobiograficznego realizmu i młodzieńczej wyobraźni nadała powieści unikalną intensywność emocjonalną i narracyjną siłę.
+Inspiracje autora:
+* Szkoła w Lowood: Jest to bezpośrednie literackie przetworzenie doświadczeń autorki z Clergy Daughters' School w Cowan Bridge. Opisane w powieści fatalne warunki sanitarne, głodowe racje żywnościowe, surowa dyscyplina i epidemia tyfusu są faktami z życia Brontë.4 Postać pana Brocklehursta jest zjadliwym portretem dyrektora szkoły, wielebnego Williama Carusa-Wilsona, którego hipokryzję i okrucieństwo autorka zapamiętała na całe życie.4
+* Pan Rochester: Postać ta jest w dużej mierze inspirowana osobą Constantina Hégera, charyzmatycznego i wymagającego intelektualnie nauczyciela z Brukseli, do którego Brontë żywiła głębokie, nieodwzajemnione uczucie.4 Dynamika relacji między Jane a Rochesterem – oparta na intelektualnym partnerstwie, ale naznaczona nierównością społeczną i emocjonalnym napięciem – jest echem tej biograficznej fascynacji.
+* Thornfield Hall: Inspiracją dla gotyckiej posiadłości Rochestera mogło być kilka rezydencji, które Brontë znała, w tym North Lees Hall w Derbyshire oraz Haddon Hall. Obie te posiadłości charakteryzują się elementami architektonicznymi – wieżami, blankami, mrocznymi wnętrzami – które odpowiadają literackiemu opisowi Thornfield.19
+Miejsce w dorobku pisarza: Jane Eyre była pierwszą opublikowaną powieścią Charlotte Brontë i przyniosła jej natychmiastowy, wręcz sensacyjny sukces. Popularność książki znacznie przewyższyła początkowe zainteresowanie dziełami jej sióstr, Wichrowymi Wzgórzami Emily i Agnes Grey Anne, które ukazały się w tym samym roku.5 Powieść ta ugruntowała pozycję "Currera Bella" jako jednego z najważniejszych głosów literackich epoki i otworzyła drogę do dalszej kariery pisarskiej Charlotte.
+Recepcja krytyczna i czytelnicza: Odbiór powieści był skrajnie spolaryzowany.21 Z jednej strony, krytycy i czytelnicy chwalili ją za niezwykłą siłę narracji, oryginalność, psychologiczny realizm i wciągającą fabułę.21 Z drugiej strony, konserwatywne kręgi potępiały dzieło za rzekomą "niemoralność", antyklerykalizm i podważanie autorytetów. Postać Jane, z jej nieokiełznaną pasją, niezależnością i otwartym buntem przeciwko niesprawiedliwości, była postrzegana jako niebezpieczny wzorzec kobiecej niesubordynacji. Krytyczka Elizabeth Rigby określiła ją jako "zdecydowanie wulgarną" i uznała powieść za wyraz "tonu myśli, który obalił autorytet i naruszył wszelkie kodeksy, ludzkie i boskie".12 Ta gwałtowna reakcja świadczy o tym, jak głęboko powieść Brontë uderzyła w fundamenty wiktoriańskiej moralności i patriarchalnego porządku społecznego.
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+Miejsce akcji
+
+
+Lokalizacje: Akcja powieści rozgrywa się w północnej Anglii w pierwszej połowie XIX wieku, obejmując okres od lat 20. do 40..10 Fabuła jest ściśle ustrukturyzowana przez podróż bohaterki przez pięć kluczowych, symbolicznych miejsc, które wyznaczają kolejne etapy jej życia. Każda z tych przestrzeni nie tylko stanowi tło dla wydarzeń, ale aktywnie kształtuje charakter Jane i odzwierciedla jej wewnętrzne stany.
+1. Gateshead Hall: Luksusowa, lecz duszna posiadłość rodziny Reedów. Jest to przestrzeń dziecięcego cierpienia, odrzucenia i głębokiej alienacji społecznej.
+2. Lowood Institution: Surowa szkoła dla sierot, symbolizująca instytucjonalne okrucieństwo, materialną i emocjonalną deprywację, a także miejsce, w którym hartuje się odporność i zasady moralne Jane.
+3. Thornfield Hall: Gotycka rezydencja pana Rochestera. Reprezentuje świat namiętności, tajemnicy, pokusy i bolesnego rozczarowania.
+4. Moor House (lub Marsh End): Skromny dom rodziny Riversów, położony na odludnym wrzosowisku. Symbolizuje intelektualne pokrewieństwo, chłodny racjonalizm, a także odnalezienie rodziny i niezależności finansowej.
+5. Ferndean Manor: Odizolowana, pogrążona w mroku i wilgoci posiadłość, do której udaje się Rochester po pożarze. Jest to miejsce odkupienia, uzdrowienia i ostatecznego zbudowania związku opartego na prawdziwej równości.
+Znaczenie miejsca dla fabuły: W Jane Eyre przestrzeń jest czymś więcej niż tylko tłem – staje się aktywnym uczestnikiem fabuły i potężnym narzędziem charakteryzacji psychologicznej.13 Przejście z jednej lokalizacji do drugiej wyznacza strukturę powieści, a każda z nich symbolizuje odrębny etap w rozwoju moralnym i emocjonalnym bohaterki. Architektura, atmosfera i krajobraz każdej z tych przestrzeni są starannie dobrane, aby odzwierciedlać wewnętrzne konflikty i dążenia Jane. Ta metoda czyni z powieści swoistą mapę psychologiczną, na której geografia i architektura stają się językiem opisującym podróż duszy.
+
+
+OPIS WIZUALNY MIEJSC
+
+
+Gateshead Hall:
+* Architektura i Wnętrza: Posiadłość jest przedstawiona jako symbol bogactwa i statusu rodziny Reedów. Wnętrza są luksusowe, z drogimi dywanami, polerowanymi meblami i ciężkimi draperiami. Kluczowe przestrzenie to salon, w którym Jane jest wykluczona z rodzinnego kręgu, oraz pokój śniadaniowy z wnęką okienną, gdzie dziesięcioletnia bohaterka szuka schronienia za "fałdami szkarłatnej draperii", czytając książkę.26
+* Czerwony Pokój (The Red-Room): Najważniejsze i najbardziej symboliczne pomieszczenie w Gateshead. Opisany jako jeden z "największych i najbardziej okazałych" pokoi, jest rzadko używany i owiany złą sławą.26 Wizualnie zdominowany jest przez odcienie czerwieni: "zasłony z głębokiego, czerwonego adamaszku" zwisają z masywnego mahoniowego łoża z czterema kolumnami, a podłogę pokrywa czerwony dywan.28 Kontrast dla tej przytłaczającej czerwieni stanowi "olśniewająca biel" materacy i poduszek oraz wielki fotel, który Jane postrzega jako "blady tron".26 Dominująca kolorystyka symbolizuje zarówno stłumioną pasję i gniew Jane, jak i śmiertelne niebezpieczeństwo.
+* Oświetlenie i Atmosfera: Pokój jest "chłodny", "cichy" i odizolowany od reszty domu, co potęguje poczucie uwięzienia.29 Skąpe światło dzienne, wpadające przez okno, stopniowo zanika, pogrążając pomieszczenie w mroku, co wywołuje u Jane paniczną grozę. Atmosfera jest ciężka od wspomnienia o śmierci (wuj Reed zmarł w tym pokoju) i przesycona poczuciem psychologicznego zniewolenia.23 Wielkie lustro odbija "wizjonerską pustkę", w której Jane dostrzega własną "dziwną, małą postać" o "białej twarzy i błyszczących ze strachu oczach" jako zjawę, co wzmacnia gotycki, nadprzyrodzony nastrój sceny.30
+Lowood Institution:
+* Architektura i Wnętrza: Powieściowy opis opiera się na autentycznej szkole w Cowan Bridge.9 Jest to duży, ponury, instytucjonalny budynek. Jadalnia (refektarz) to "wielka, niska, mroczna sala".32 Długi, prosty budynek z kratowanymi oknami ma wygląd przypominający kościół lub więzienie.33 Wnętrza są surowe i pozbawione wszelkich ozdób, co odzwierciedla ascetyczną ideologię założyciela.
+* Kolory i Oświetlenie: Dominująca paleta barw to szarości i brązy – kolory zgrzebnych mundurków uczennic i ponurej atmosfery miejsca. Oświetlenie jest słabe i skąpe, co symbolizuje brak intelektualnego i emocjonalnego "światła" pod rządami pana Brocklehursta.34
+* Atmosfera i Warunki: W Lowood panuje atmosfera żelaznej dyscypliny, wymuszonej ciszy i ciągłego niedostatku.32 Warunki życia są niezwykle surowe: zimą "woda w dzbanach zamarzała" 35, jedzenie jest niewystarczające i często niejadalne (przypalona owsianka określana jako "ohydna breja" i "mdła papka").32 Dziewczęta cierpią z powodu chronicznego głodu i zimna, co prowadzi do wybuchu śmiertelnej epidemii tyfusu.
+Thornfield Hall:
+* Architektura Zewnętrzna: "Piękna, stara rezydencja" o trzech kondygnacjach, zwieńczona blankami, co nadaje jej malowniczy, zamkowy wygląd.19 Szara, kamienna fasada budynku jest imponująca i nieco złowieszcza, otoczona przez gawronisko i stare, sękate cierniowe drzewa, od których posiadłość wzięła swoją nazwę.33 Jej odizolowanie od świata zewnętrznego potęguje gotycką atmosferę tajemnicy.38
+* Wnętrza: Wnętrza są okazałe, ale mroczne i pełne cieni. Kluczowe przestrzenie to kwadratowy hol z wysokimi drzwiami, przytulny salon z kominkiem, długa, wyłożona dębową boazerią galeria oraz wielka klatka schodowa, która wydaje się "chłodna jak krypta" i bardziej pasuje do kościoła niż do domu.33 Biblioteka pełna jest książek, a cała posiadłość sprawia wrażenie "świątyni pamięci", przechowującej relikty przeszłości.39
+* Trzecie Piętro: Serce gotyckiej tajemnicy posiadłości. Ciemny, cichy korytarz, odcięty od reszty domu, gdzie więziona jest Bertha Mason. To stąd dobiega Jane tajemniczy, "demoniczny" śmiech, który mrozi jej krew w żyłach.34 Panuje tu atmosfera napięcia, strachu i ukrytych sekretów.38
+* Ogród: Przylegający do rezydencji sad jest opisany jako miejsce "podobne do Edenu", osłonięte wysokim murem, z potężnym kasztanowcem pośrodku.39 To rajska sceneria oświadczyn Rochestera, która jednak szybko traci swoją idylliczność. Drzewo, pod którym para wyznaje sobie miłość, zostaje tej samej nocy rozłupane przez piorun, co staje się potężnym omenem ich gwałtownego rozstania.41
+Moor House (Marsh End):
+* Architektura i Otoczenie: Skromna, wiejska chata, położona pośród rozległych, dzikich i odludnych wrzosowisk.44 Sama nazwa "Marsh End" (Kraniec Bagna) sugeruje miejsce graniczne, symboliczne przejście od niepewności (bagno) do stabilnego gruntu.47
+* Wnętrza: Wnętrze domu stanowi całkowite przeciwieństwo Gateshead i Thornfield. Definiuje je czystość, porządek i prosta, surowa wygoda. Kuchnia ma "podłogę posypaną piaskiem", "sosnowy stół" i "kredens z orzechowego drewna". Centralnym punktem jest jasno płonący ogień torfowy na kominku, nadający wnętrzu ciepło i przytulność.
+* Atmosfera: Panuje tu atmosfera intelektualnego ciepła, domowego spokoju i autentycznej więzi rodzinnej. Jest ona jednak zabarwiona chłodem i brakiem namiętności, które charakteryzują St. Johna. Jasny ogień i lśniące cynowe naczynia kontrastują z zimnem otaczających wrzosowisk i emocjonalnym chłodem samego St. Johna.34
+Ferndean Manor:
+* Architektura i Otoczenie: Stara, pozbawiona architektonicznych pretensji rezydencja, "głęboko ukryta w lesie".48 Las jest tak gęsty i mroczny, że dom jest niemal niewidoczny, a jego "wilgotne i zielone" od rozkładu mury zlewają się z otaczającą roślinnością.48 Posiadłość jest zaniedbana, bez kwiatów, jedynie ze żwirową ścieżką i trawnikiem.48
+* Atmosfera: Miejsce to jest opisane jako "całkowicie opuszczone", wywołujące uczucie mroku, rozkładu i izolacji.48 Jedynym dźwiękiem jest nieustanny "szmer deszczu padającego na liście".48 Ta atmosfera jest lustrzanym odbiciem stanu ducha Rochestera – złamanego mężczyzny, żyjącego na dobrowolnym wygnaniu w rozpadającym się domu, który odzwierciedla jego własną fizyczną i duchową ruinę.
+
+
+Czas akcji i WIZUALNE MARKERY EPOKI
+
+
+Okres historyczny: Akcja powieści obejmuje około dwudziestu lat, od dzieciństwa Jane w latach 20. XIX wieku, przez jej młodość w latach 30., aż po małżeństwo w latach 40. XIX wieku.
+Stroje:
+* Moda kobieca (lata 30. i 40. XIX wieku): Powieść rozgrywa się w okresie przejściowym dla mody. Lata 30. charakteryzowały się bufiastymi rękawami typu gigot (udziec barani) i spódnicami do kostek.50 W latach 40. sylwetka uległa zmianie: rękawy stały się wąskie i dopasowane, gorset wydłużył się, tworząc z przodu szpic, a spódnica nabrała kształtu dzwonu, stając się znacznie szersza.51 Kluczową rolę w kształtowaniu sylwetki odgrywała bielizna: halka (chemise), pantalony, gorset ze sztywną drewnianą lub fiszbinową wstawką (busk) oraz liczne, często usztywniane, halki spodnie.51
+* Strój Guwernantki (Jane): Ubiór Jane jest konsekwentnie skromny, prosty i utrzymany w stonowanych kolorach – czerni, szarości i brązie. Jest to wizualny manifest jej niskiego statusu społecznego, purytańskiego wychowania i osobistej skromności.52 Zazwyczaj nosi "czarną wełnianą suknię" lub swoją najlepszą, również czarną, jedwabną suknię, z prostym białym kołnierzykiem lub chusteczką (tucker) przy szyi.52 Jej upór, by do ślubu założyć prostą, "perłowoszarą jedwabną suknię" zamiast oferowanych przez Rochestera luksusowych atłasów, jest wizualnym aktem obrony własnej niezależności.51
+* Strój Zamożnej Damy (Blanche Ingram): Arystokratki i zamożne kobiety nosiły suknie z kosztownych materiałów, takich jak jedwab i satyna, w żywych, modnych kolorach ("błyszczący fiolet ametystu", "wspaniały różowy atłas").51 Ich fryzury były skomplikowane, z misternie upiętymi lokami i warkoczami.54 Blanche Ingram jest opisana jako ubrana w "czystą biel", z "szarfą w kolorze bursztynu" i kwiatem wpiętym w "hebanową masę loków".54
+* Strój Duchownego (Pan Brocklehurst, St. John Rivers): Duchowni w tej epoce nosili stonowane, czarne garnitury, często składające się z surduta, białej chusty na szyję (stock lub cravat) oraz, podczas kazań, specjalnych białych beffek (Geneva bands).55 Ich wygląd wizualny emanuje surowością, powagą i autorytetem.
+Środki transportu: Głównym środkiem transportu na długich dystansach jest konny dyliżans lub prywatny powóz (chaise), co stanowi kluczowy wizualny element epoki, widoczny podczas podróży Jane do Lowood czy ucieczki z Thornfield.57
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+
+
+Protagoniści
+
+
+Jane Eyre: Powieść jest dogłębną analizą jej wewnętrznego rozwoju, od namiętnego, buntowniczego dziecka do pryncypialnej, niezależnej kobiety, która ostatecznie osiąga równowagę między miłością a autonomią.16 Jej podróż jest zmaganiem o zachowanie godności i integralności w świecie, który nieustannie próbuje ją złamać lub zdefiniować poprzez pryzmat jej płci, klasy i wyglądu. Jane odrzuca zarówno zniewalającą pasję (oferowaną przez Rochestera na jego warunkach), jak i bezduszną powinność (proponowaną przez St. Johna), by ostatecznie znaleźć formę miłości, która nie wymaga od niej poświęcenia własnego "ja".
+OPIS FIZYCZNY (Jane Eyre):
+* Wiek: 10 lat w Gateshead; od 10 do 18 lat w Lowood; 18-19 lat w Thornfield; 19-20 lat w Moor House; 20-30 lat w ostatnim rozdziale.
+* Wygląd ogólny: Konsekwentnie opisywana jako "niepozorna" (plain), "drobna" (little) i "blada" (pale).3 Jako dziecko, patrząc w lustro w czerwonym pokoju, widzi "dziwną, małą postać" o "białej twarzy" i "błyszczących ze strachu oczach".30 Jej wygląd jest świadomym odrzuceniem stereotypu pięknej heroiny romantycznej.
+* Cechy twarzy: Nieregularne rysy, pozbawione klasycznej urody. Sama marzy o "różanych policzkach, prostym nosie i małych, wiśniowych ustach", ale z goryczą przyznaje, że ich nie posiada.54 Jej wygląd często określany jest jako "elfi" lub nieziemski, co podkreśla jej odmienność i bogate życie wewnętrzne.31
+* Włosy i Oczy: BRAK OPISU KOLORU W ŹRÓDŁACH – Tekst powieści kładzie nacisk na wyraz oczu Jane, a nie na ich kolor. Są one często opisywane jako bystre, inteligentne, przenikliwe lub "błyszczące". Jej włosy są zawsze prosto uczesane: w Lowood gładko zaczesane do tyłu, bez loków, a później upięte w proste warkocze lub niski kok, co odzwierciedla jej skromność i praktyczność.61
+* Ubiór: Jak opisano w Części II, jej strój jest jej wizualną wizytówką – proste, ciemne suknie z wełny, jedwabiu lub perkalu.51
+Edward Fairfax Rochester: Jest archetypicznym bohaterem byronicznym: namiętnym, cynicznym, nastrojowym, obarczonym mroczną przeszłością, ale zdolnym do głębokiej miłości i ostatecznego odkupienia.16 Jego arogancja i próby zdominowania Jane maskują głęboką wrażliwość i poczucie winy. Jego przemiana – od dominującego pana do zależnego, pokutującego męża – jest centralnym elementem fabuły.
+OPIS FIZYCZNY (Edward Rochester):
+* Wiek: Około 35-38 lat podczas głównych wydarzeń powieści.
+* Wygląd przed pożarem: Zdecydowanie nie jest przystojny w klasycznym tego słowa znaczeniu. Opisany jako mężczyzna o "ciemnej twarzy, surowych rysach i ciężkich brwiach".62 Ma "szerokie i hebanowe brwi, kwadratowe czoło... wydatny nos, bardziej godny uwagi ze względu na charakter niż piękno; jego surowe usta, podbródek i szczęka".62 Jest średniego wzrostu, o atletycznej budowie – "szeroki w klatce piersiowej i szczupły w biodrach", choć nie jest ani wysoki, ani zgrabny.62 Jego włosy są "kruczoczarne".66
+* Wygląd po pożarze (w Ferndean): Jest fizycznie złamany, ale wciąż rozpoznawalny. Jego sylwetka zachowała "tę samą silną i krzepką posturę", a włosy są "wciąż kruczoczarne".62 Jednak jego twarz jest odmieniona, ma wyraz "desperacji i zadumy", przypominając "skrzywdzoną i spętaną dziką bestię lub ptaka" albo "orła w klatce".62 Jest niewidomy ("niewidzące oczy", "spalony wzrok") i stracił jedną dłoń, z której pozostał jedynie "poczerniały kikut".68 Porusza się "powoli i po omacku".68
+
+
+Postacie drugoplanowe
+
+
+St. John Rivers:
+* Wiek: Około 28-30 lat.
+* Opis fizyczny: Wysoki, smukły, o twarzy przypominającej "grecki posąg" – bardzo regularne, klasyczne rysy, prosty nos, jasne włosy i duże, niebieskie oczy. Jego wygląd jest uderzająco piękny i harmonijny, ale jego wyraz twarzy jest twardy, zimny i niespokojny. Jest wizualnym ucieleśnieniem "lodu" w opozycji do "ognia" Rochestera.16
+* Ubiór: Nosi prosty, surowy strój duchownego.
+Helen Burns:
+* Wiek: Około 13 lat.
+* Opis fizyczny: Ma "chudą twarz i zapadnięte, szare oczy". Nie jest ładna, ale jej twarz staje się piękna, gdy ożywia ją rozmowa – promienieje wówczas wewnętrznym blaskiem, a nie konwencjonalną urodą.54 Postać wzorowana na siostrze Charlotte, Marii.9
+* Ubiór: Jej ubranie jest często nieporządne, co staje się pretekstem do kar wymierzanych przez nauczycieli.
+Pani Reed:
+* Wiek: BRAK DOKŁADNYCH DANYCH W ŹRÓDŁACH, prawdopodobnie w średnim wieku, około 40-50 lat.
+* Opis fizyczny: Opisana jako "dokładna, bystra, zaradna kobieta".60 W adaptacji filmowej z 2011 roku nosi modne suknie z lat 30. XIX wieku z bufiastymi rękawami.61 Na łożu śmierci jest wychudzona i postarzała przez chorobę i poczucie winy.
+* Ubiór: Ubrana stosownie do swojego statusu zamożnej wdowy, w modne, ale stonowane stroje.
+Bertha Mason:
+* Wiek: W przybliżeniu w tym samym wieku co Rochester, około 40 lat.
+* Opis fizyczny: Kreolka z Jamajki. Przed chorobą była opisywana jako "wysoka, ciemna i majestatyczna", podobna w typie urody do Blanche Ingram.70 W momencie, gdy Jane ją widzi, jest przerażającą postacią: "wielka kobieta", "tęga", o "dzikiej", "fioletowej twarzy", "nabrzmiałych rysach" i "ciemnych, zmierzwionych włosach, dzikich jak grzywa".70 Porusza się na czworakach, "jak jakieś dziwne, dzikie zwierzę".73
+* Ubiór: Nosi prostą, białą suknię, która jest często brudna i podarta.
+Blanche Ingram:
+* Wiek: Młoda kobieta, prawdopodobnie około 20-25 lat.
+* Opis fizyczny: Uderzająco piękna arystokratka. "Wysoka, o wspaniałym biuście, spadzistych ramionach; długa, zgrabna szyja; oliwkowa cera, ciemna i czysta... duże i czarne" oczy oraz "kruczoczarne" włosy ułożone w "najbłyszczące loki".54 Jej uroda jest jednak "efektowna", ale pozbawiona "autentyczności" i ciepła.74
+* Ubiór: Nosi luksusowe, modne stroje z jedwabiu i satyny, ozdobione biżuterią, które podkreślają jej bogactwo i status.
+Pozostałe postacie:
+* John Reed: W wieku 14 lat jest "duży i tęgi jak na swój wiek, o ziemistej i niezdrowej cerze; grubych rysach na szerokiej twarzy, ciężkich kończynach i dużych dłoniach i stopach".54 Umiera młodo jako zniszczony przez nałogi mężczyzna.
+* Eliza i Georgiana Reed: Jako dzieci, Eliza jest chuda i poważna, a Georgiana to rozpieszczone dziecko o "długich lokach i niebieskich oczach".33 Jako dorosłe kobiety, Eliza staje się jeszcze bardziej surowa i ascetyczna, ostatecznie wstępując do klasztoru, podczas gdy Georgiana staje się "bardzo pulchną panną, jasną jak wosk, o pięknych i regularnych rysach" i "rozwianych, żółtych lokach".54
+* Panna Temple: Przełożona Lowood. Wysoka, o jasnej cerze, brązowych oczach i "dostojnej postawie". Jej ubiór jest elegancki, ale skromny, co odróżnia ją od hipokryzji Brocklehursta.
+* Pani Fairfax: Starsza gospodyni w Thornfield, około 50-60 lat. "Najschludniejsza, jaką można sobie wyobrazić, mała starsza pani, w czepku wdowy, czarnej jedwabnej sukni i śnieżnobiałym muślinowym fartuchu".33
+* Adèle Varens: Wychowanka Rochestera, ma około 8 lat. Jest "bladą, drobną" dziewczynką o francuskiej urodzie, żywą i nieco rozpieszczoną.60
+* Richard Mason: Brat Berthy, w wieku 30-40 lat. Przystojny mężczyzna o "regularnych, ale zbyt rozluźnionych" rysach. Ma "wyjątkowo ziemistą cerę", duży, ale "pusty w wyrazie" wzrok, co sprawia, że Jane czuje do niego instynktowną niechęć.75
+* Rosamond Oliver: Młoda, piękna i bogata dziedziczka. Opisana jako ucieleśnienie "doskonałego piękna", z regularnymi rysami, dużymi, ciemnymi oczami i kasztanowymi lokami.46
+
+
+Analiza psychologiczna
+
+
+Archetypy bohaterów: Powieść wykorzystuje i jednocześnie podważa tradycyjne archetypy. Jane jest archetypem Sieroty i Pielgrzyma, poszukującej swojego miejsca w świecie. Rochester to klasyczny Bohater Byroniczny – udręczony, tajemniczy i buntowniczy. St. John Rivers reprezentuje archetyp Ascety lub Męczennika, który poświęca ludzkie uczucia dla wyższego, abstrakcyjnego celu. Bertha Mason funkcjonuje jako archetyp "Szalonej na poddaszu" (Madwoman in the Attic), stając się w krytyce feministycznej symbolem stłumionej kobiecej pasji i gniewu.
+Konflikty wewnętrzne: Główny konflikt wewnętrzny Jane to walka między namiętnością a rozsądkiem (feeling vs. judgment) oraz między pragnieniem miłości a potrzebą autonomii.59 Przez całą powieść zmaga się z koniecznością pogodzenia swoich głębokich uczuć z zasadami moralnymi i poczuciem własnej wartości. Ten konflikt jest ucieleśniony w jej wyborze między Rochesterem (pasja, która grozi utratą siebie) a St. Johnem (zasady, które wymagają wyrzeczenia się miłości).
+Przemiany charakterologiczne: Jane przechodzi największą transformację – z impulsywnego, pełnego gniewu dziecka w dojrzałą kobietę, która nauczyła się panować nad swoimi emocjami bez ich tłumienia. Rochester również ewoluuje – od aroganckiego, egoistycznego pana do pokornego, odkupionego mężczyzny, który musi polegać na Jane. Jego fizyczne okaleczenie jest zewnętrznym znakiem tej wewnętrznej przemiany, która czyni go godnym partnerem dla niezależnej Jane.
+Jak wygląd odzwierciedla osobowość: W powieści wygląd zewnętrzny jest często kluczem do charakteru. "Niepozorność" Jane kryje jej niezwykłą siłę ducha i bogactwo wewnętrzne. "Surowe rysy" Rochestera odzwierciedlają jego udręczoną duszę. "Klasyczne piękno" St. Johna jest zimne i twarde jak marmur, co symbolizuje jego brak ludzkiego ciepła. Z kolei "efektowna" uroda Blanche Ingram maskuje jej wewnętrzną pustkę i podłość. Ta technika wizualnej charakteryzacji jest fundamentalna dla zrozumienia moralnego krajobrazu powieści.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+
+
+Ekspozycja: Gateshead Hall (Rozdziały 1-4)
+
+
+Powieść rozpoczyna się w posiadłości Gateshead Hall, gdzie dziesięcioletnia sierotka, Jane Eyre, mieszka pod opieką swojej ciotki, pani Reed. Sytuacja wyjściowa jest naznaczona głębokim poczuciem wyobcowania i niesprawiedliwości. Jane jest traktowana jako ciężar i outsiderka, nieustannie upokarzana przez ciotkę i dręczona przez trójkę jej rozpieszczonych dzieci: Johna, Elizę i Georgianę.
+WIZUALIZACJA SCENY OTWIERAJĄCEJ: Akcja rozpoczyna się w ponury, listopadowy dzień, kiedy deszcz i wiatr uniemożliwiają wyjście na zewnątrz. Jane, wykluczona z rodzinnego kręgu zgromadzonego przy kominku, szuka schronienia we wnęce okiennej pokoju śniadaniowego. Jest to scena o silnym ładunku wizualnym i symbolicznym.
+* Miejsce: Wnęka okienna, oddzielona od reszty pokoju ciężką, szkarłatną zasłoną.
+* Postać: Jane ma 10 lat. Jest małą, bladą dziewczynką, skuloną na parapecie. Jej pozycja – ukryta za zasłoną, ale z widokiem na świat zewnętrzny przez szybę – symbolizuje jej stan: fizycznie uwięziona w opresyjnym domu, ale duchem pragnąca wolności.
+* Oświetlenie i pogoda: Światło jest szare i przygaszone. Za oknem rozciąga się "blada pustka mgły i chmur" oraz "mokry trawnik i smagane burzą krzewy".27 Zimowy krajobraz odzwierciedla emocjonalny chłód i jałowość jej życia.
+* Przedmioty: Kluczowym rekwizytem jest książka, Historia ptaków brytyjskich Bewicka. Jane nie tyle czyta tekst, co pogrąża się w ilustracjach przedstawiających odległe, arktyczne krajobrazy – "śmiertelnie białe krainy" lodu i śniegu.27 Te obrazy samotności i surowości natury rezonują z jej własnym poczuciem izolacji.
+* Dynamika sceny: Spokojną kontemplację brutalnie przerywa jej kuzyn, John Reed – czternastoletni, "duży i tęgi" chłopak o "ziemistej i niezdrowej cerze".54 Wyzywa ją, nazywając intruzem, a następnie ciska w nią ciężką książką, która uderza ją w głowę, powodując krwawienie. W odpowiedzi na ten akt przemocy, Jane po raz pierwszy w życiu wybucha niekontrolowanym gniewem, rzucając się na niego "jak szalony kot". Ten wybuch pasji prowadzi do jej ukarania i staje się pierwszym aktem jej długiej walki o godność.
+Konsekwencją bójki jest zamknięcie Jane w owianym złą sławą czerwonym pokoju. To traumatyczne doświadczenie – połączenie klaustrofobii, strachu przed duchem zmarłego wuja i poczucia skrajnej niesprawiedliwości – kończy się atakiem histerii i utratą przytomności.29 Po tym incydencie, wezwany aptekarz, pan Lloyd, sugeruje pani Reed wysłanie Jane do szkoły. Dla Jane, perspektywa opuszczenia Gateshead jest pierwszą iskierką nadziei na zmianę i wolność. Przed wyjazdem dochodzi do ostatecznej konfrontacji z ciotką, podczas której Jane, z nowo odnalezioną odwagą, oskarża ją o okrucieństwo, co na zawsze pieczętuje ich wrogie relacje.
+
+
+Rozwinięcie akcji: Lowood, Thornfield, Moor House (Rozdziały 5-35)
+
+
+Ta najdłuższa część powieści śledzi podróż Jane przez trzy kluczowe lokalizacje, z których każda stanowi odrębny etap jej edukacji, dojrzewania i poszukiwania miłości oraz tożsamości.
+Etap I: Lowood (Rozdziały 5-10)
+Jane przybywa do Lowood Institution, szkoły dla sierot prowadzonej przez surowego i obłudnego duchownego, pana Brocklehursta. Życie w szkole to ciągła walka z zimnem, głodem i surową dyscypliną.
+* Kluczowa scena: Publiczne upokorzenie: Pan Brocklehurst, pamiętając oskarżenia pani Reed, publicznie piętnuje Jane jako kłamczuchę.
+   * Miejsce: Główna sala szkolna w Lowood, duża, mroczna i zimna.
+   * Postacie: Jane stoi na stołku, na podwyższeniu, wystawiona na widok całej szkoły – osiemdziesięciu dziewcząt w brązowych mundurkach. Pan Brocklehurst, opisany jako "czarny filar", góruje nad nią, wygłaszając potępiającą mowę. Obok niego stoją jego żona i córki, ubrane w "aksamity, jedwabie i futra", co stanowi jaskrawy, wizualny kontrast z nędzą uczennic i demaskuje jego hipokryzję.35
+   * Emocje i gesty: Na twarzy Jane maluje się wstyd i rozpacz. Stoi nieruchomo, zmuszona do znoszenia upokorzenia. W tłumie dziewcząt dostrzega jednak swoją przyjaciółkę, Helen Burns, która posyła jej subtelny uśmiech otuchy. Ten mały gest daje Jane siłę do przetrwania.
+W Lowood Jane nawiązuje dwie najważniejsze relacje: z Helen Burns, która uczy ją chrześcijańskiej cierpliwości i wybaczania, oraz z przełożoną, panną Temple, która staje się dla niej wzorem intelektualnej i moralnej prawości. Wiosną w szkole wybucha epidemia tyfusu. Helen, osłabiona gruźlicą, umiera w ramionach Jane. Śmierć przyjaciółki jest dla Jane bolesną lekcją o kruchości życia i sile duchowej. Po epidemii, która zwraca uwagę opinii publicznej na fatalne warunki w Lowood, sytuacja w szkole poprawia się. Jane spędza tam jeszcze osiem lat – sześć jako uczennica i dwa jako nauczycielka. W wieku osiemnastu lat, pragnąc zmiany, zamieszcza ogłoszenie i przyjmuje posadę guwernantki w Thornfield Hall.
+Etap II: Thornfield (Rozdziały 11-27)
+Jane przybywa do Thornfield, gotyckiej posiadłości, gdzie ma uczyć Adèle Varens, małą Francuzkę będącą pod opieką właściciela, pana Rochestera. Początkowo życie w Thornfield jest spokojne, ale Jane czuje niepokój z powodu tajemniczych odgłosów, zwłaszcza dziwnego, demonicznego śmiechu, dobiegającego z trzeciego piętra.
+   * OPIS WIZUALNY - Pierwsze Spotkanie z Rochesterem (Rozdział 12):
+   * Miejsce i czas: Samotna, oblodzona droga zwana Hay Lane, w pobliżu Thornfield. Jest zimowe popołudnie, zapada zmierzch, a na niebie pojawia się księżyc.64
+   * Sceneria: Krajobraz jest surowy i cichy. Droga jest wąska, otoczona przez bezlistne krzewy.
+   * Wydarzenia: Ciszę przerywa tętent kopyt. Z mroku wyłania się duży, czarno-biały pies, Pilot, który Jane początkowo bierze za Gytrasha – ducha z opowieści niani Bessie.78 Chwilę później pojawia się jeździec. Jego koń poślizguje się na lodzie i obaj upadają.
+   * Postacie i ich wygląd: Jeździec to mężczyzna w wieku około 35 lat, nieprzystojny, o "ciemnej twarzy, surowych rysach i ciężkich brwiach", owinięty w płaszcz jeździecki.62 To pan Rochester, choć Jane jeszcze o tym nie wie. Jane, drobna i niepozorna, podchodzi, by mu pomóc.
+   * Ruch i dynamika: Scena jest dynamiczna. Rochester z trudem próbuje się podnieść. Jane, przezwyciężając strach, pomaga mu okiełznać konia. Rochester, zraniony w kostkę, opiera się ciężko na jej ramieniu, aby wsiąść z powrotem na siodło.64 Ten pierwszy kontakt fizyczny jest znaczący – odwraca tradycyjne role, to kobieta udziela pomocy silniejszemu mężczyźnie, co zapowiada ich przyszłą relację.
+Relacja Jane i Rochestera rozwija się poprzez serię intensywnych, intelektualnych rozmów. Oboje rozpoznają w sobie pokrewne dusze. Jane zakochuje się w swoim pracodawcy, ale jej szczęście mącą tajemnicze wydarzenia w domu: próba podpalenia łóżka Rochestera, nocny atak na gościa, Richarda Masona, oraz pojawienie się grupy arystokratycznych znajomych Rochestera, w tym pięknej Blanche Ingram, którą Rochester rzekomo zamierza poślubić. Jane, przekonana, że straciła miłość, cierpi w milczeniu.
+   * OPIS WIZUALNY - Oświadczyny (Rozdział 23):
+   * Miejsce i czas: Ogród w Thornfield, w piękny, czerwcowy wieczór. Scena rozgrywa się pod wielkim, starym kasztanowcem.40
+   * Atmosfera i pogoda: Początkowo wieczór jest spokojny i idylliczny, powietrze pachnie kwiatami. Gdy Rochester wyznaje miłość, atmosfera gwałtownie się zmienia. Zrywa się wiatr, a na horyzoncie zbiera się burza.81
+   * Emocje i gesty: Rochester, dręcząc Jane opowieścią o jej rzekomym wyjeździe do Irlandii, doprowadza ją do łez i desperackiego wyznania miłości. Jego twarz jest "bardzo wzburzona i bardzo zarumieniona". Po jej zgodzie obejmuje ją, a ich pocałunek przypieczętowuje zaręczyny.
+   * Symbolika: Gdy para wraca do domu, rozpętuje się gwałtowna burza. W nocy piorun uderza w kasztanowiec, rozłupując go na dwie części – jest to potężny, wizualny omen zapowiadający katastrofę i rozdzielenie kochanków.41
+Przygotowania do ślubu są dla Jane czasem szczęścia, ale i niepokoju. W noc przed ślubem do jej pokoju wkrada się tajemnicza postać, która rozdziera jej welon na dwoje.
+Etap III: Ucieczka i Moor House (Rozdziały 27-35)
+Po ucieczce z Thornfield, Jane wędruje bez celu, bez pieniędzy i jedzenia. Po kilku dniach skrajnego wyczerpania i głodu, bliska śmierci, dociera do domu na wrzosowisku – Moor House. Zostaje przygarnięta przez mieszkające tam rodzeństwo: Dianę, Mary i St. Johna Riversów. Odzyskuje siły i pod przybranym nazwiskiem, Jane Elliott, rozpoczyna nowe życie jako nauczycielka w wiejskiej szkole. Zaprzyjaźnia się z Dianą i Mary, ale czuje dystans do ich brata, St. Johna – ambitnego, ale zimnego i fanatycznie religijnego duchownego. St. John odkrywa prawdziwą tożsamość Jane i wyjawia jej, że są kuzynami, a ich wspólny wuj, John Eyre z Madery, zostawił Jane w spadku ogromną fortunę w wysokości 20 000 funtów. Jane, odnalazłszy wreszcie rodzinę, dzieli spadek na cztery równe części. St. John, planując wyjazd na misję do Indii, prosi Jane, by została jego żoną i towarzyszyła mu w tej misji. Propozycja ta stanowi dla Jane ostateczną próbę – wybór między życiem w służbie surowej powinności a wiernością własnemu sercu.
+
+
+Punkt kulminacyjny
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Rozdział 35):
+Kulminacja powieści ma charakter wewnętrzny i nadprzyrodzony. Jest to moment ostatecznego wyboru Jane.
+   * Miejsce i czas: Salon w Moor House, późny wieczór. Na zewnątrz szaleje śnieżyca.
+   * Postacie i ich pozycje: Jane i St. John są sami. On stoi nad nią, wywierając ogromną presję psychiczną, by zgodziła się na małżeństwo. Jego uroda jest zimna i posągowa. Jane siedzi, czując, że jego wola ją paraliżuje.
+   * Oświetlenie i atmosfera: Pokój jest oświetlony jedynie światłem świecy i blaskiem księżyca na śniegu za oknem. Atmosfera jest niezwykle napięta, niemal hipnotyczna. Jane czuje, że ulega jego "lodowatemu zaklęciu".
+   * Wydarzenie: W chwili, gdy jest już gotowa się poddać i powiedzieć "tak", doznaje niewytłumaczalnego zjawiska. Słyszy głos – nie w pokoju, nie na zewnątrz, ale jakby w swojej duszy – wołający jej imię: "Jane! Jane! Jane!". Rozpoznaje w nim głos Rochestera, pełen bólu i tęsknoty.77
+   * Konsekwencje: To nadprzyrodzone wezwanie łamie czar St. Johna. Jane odzyskuje siłę woli i ostatecznie odrzuca jego propozycję. Uświadamia sobie, że jej miejsce jest u boku Rochestera. Następnego dnia opuszcza Moor House, by go odnaleźć.
+Powrót do Thornfield (Rozdział 36):
+Jane wraca do Thornfield, by zastać jedynie "poczerniałe ruiny".83 W pobliskiej gospodzie dowiaduje się o tragicznym pożarze, który wybuchł kilka miesięcy wcześniej. Bertha Mason podpaliła dom, a następnie rzuciła się z dachu, ginąc w płomieniach. Rochester, próbując ratować służbę i żonę, stracił w pożarze dłoń i wzrok.77 Dowiedziawszy się, że zamieszkał w swojej drugiej, odizolowanej posiadłości, Ferndean, Jane natychmiast tam wyrusza.
+
+
+Rozwiązanie
+
+
+OPIS WIZUALNY SCENY KOŃCOWEJ (Rozdziały 37-38):
+Zakończenie powieści rozgrywa się w Ferndean, mrocznej i wilgotnej rezydencji otoczonej gęstym lasem.
+   * Miejsce i atmosfera: Ferndean jest wizualnym przeciwieństwem Thornfield – to miejsce rozkładu, ale i schronienia. Atmosfera jest ponura, pada deszcz, co odzwierciedla stan Rochestera.
+   * Postacie i ich wygląd: Jane odnajduje Rochestera jako człowieka złamanego fizycznie. Jest niewidomy, ma amputowaną dłoń, a na jego twarzy maluje się "desperacja i zaduma".62 Jane, teraz bogata i niezależna, jest uosobieniem siły i spokoju.
+   * Dynamika sceny: Ich ponowne spotkanie jest ciche i pełne wzruszenia. Rochester początkowo bierze ją za ducha. Kiedy dotyka jej dłoni, rozpoznaje ją i ogarnia go radość. Role całkowicie się odwróciły: teraz to on jest zależny od niej. Jane oferuje mu swoją opiekę i miłość. Rochester ponownie prosi ją o rękę, a ona z radością się zgadza.
+   * Zakończenie: Powieść kończy się epilogiem, w którym Jane, zwracając się bezpośrednio do czytelnika, informuje: "Czytelniku, poślubiłam go". Opisuje dziesięć lat szczęśliwego małżeństwa, opartego na "doskonałej równości".77 Rochester odzyskuje częściowo wzrok w jednym oku, co pozwala mu zobaczyć narodziny ich pierwszego syna. Diana i Mary Rivers również znajdują szczęście w małżeństwie, a St. John umiera samotnie w Indiach, spełniając swoją misję. Ostateczny obraz to wizja domowego spokoju, miłości i spełnienia, osiągniętych po długiej i bolesnej walce.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+
+
+Główne tematy
+
+
+Miłość kontra autonomia: Centralnym tematem powieści jest poszukiwanie przez Jane miłości, która nie wymagałaby od niej rezygnacji z własnej tożsamości i niezależności.59 To zmaganie definiuje jej relacje z dwoma głównymi męskimi postaciami. Związek z Rochesterem oferuje namiętność i duchowe pokrewieństwo, ale w swojej pierwszej fazie grozi jej podporządkowaniem i utratą moralnej integralności – staniem się jego utrzymanką. Z kolei propozycja St. Johna Riversa gwarantuje jej rolę partnerki w szlachetnej misji, ale za cenę stłumienia wszelkich uczuć i emocjonalnej śmierci. Jane odrzuca obie te skrajności. Jej ostateczny powrót do okaleczonego Rochestera jest możliwy, ponieważ ich relacja może wreszcie zaistnieć na warunkach równości. On, pozbawiony patriarchalnej władzy, potrzebuje jej opieki, a ona, niezależna finansowo i pewna siebie, może mu ją ofiarować bez utraty autonomii.
+Religia: Powieść przedstawia krytyczną analizę różnych form życia religijnego w epoce wiktoriańskiej.59 Jane konfrontuje się z trzema modelami religijności, z których każdy odrzuca. Pierwszy to hipokryzja i okrucieństwo ewangelikalizmu w wykonaniu pana Brocklehursta, który używa religijnej retoryki do usprawiedliwiania własnej chciwości i sadyzmu. Drugi to pasywne, męczeńskie chrześcijaństwo Helen Burns, które nakazuje znosić cierpienie i kochać wrogów. Jane podziwia Helen, ale jej własna, buntownicza natura nie pozwala jej na przyjęcie tak biernej postawy. Trzeci model to zimny, fanatyczny i ambitny protestantyzm St. Johna Riversa, który w imię służby Bogu jest gotów poświęcić ludzkie uczucia i szczęście. Jane ostatecznie wypracowuje własną, osobistą formę wiary – opartą na bezpośredniej relacji z Bogiem, sumieniu i przekonaniu, że miłość i szczęście na ziemi nie stoją w sprzeczności z moralnością.
+Klasa społeczna: Jane Eyre jest przenikliwą krytyką sztywnej hierarchii społecznej wiktoriańskiej Anglii.59 Status Jane jako guwernantki jest tu kluczowy. Jest ona postacią z pogranicza – wykształcona jak arystokratka, ale finansowo zależna jak służąca. Ta niejednoznaczna pozycja generuje nieustanne napięcie. Jane jest intelektualnie równa Rochesterowi, ale pod względem społecznym dzieli ich przepaść. Jej niechęć do przyjęcia od niego drogich prezentów i obawa przed byciem postrzeganą jako jego utrzymanka, nawet w małżeństwie, jest wyrazem głębokiego zrozumienia, jak bardzo relacje międzyludzkie są determinowane przez klasę i pieniądze. Dopiero odziedziczenie fortuny pozwala jej stanąć u boku Rochestera jako równa mu partnerka, co sugeruje, że prawdziwa równość w miłości wymaga również pewnego stopnia niezależności materialnej.
+Rola płci: Powieść jest jednym z pierwszych i najważniejszych tekstów feministycznych w literaturze angielskiej. Jane otwarcie buntuje się przeciwko ograniczonym rolom przypisywanym kobietom. W słynnym fragmencie z rozdziału 12, stojąc na dachu Thornfield, wygłasza manifest na rzecz kobiecej potrzeby aktywności intelektualnej i emocjonalnej, twierdząc, że "kobiety czują tak samo jak mężczyźni". Jej całe życie jest walką o prawo do samostanowienia, do bycia postrzeganą jako istota ludzka, a nie tylko jako "anioł domowego ogniska" lub obiekt męskich pragnień. Postać Berthy Mason, "szalonej na poddaszu", jest często interpretowana jako mroczny sobowtór Jane – symbol stłumionego kobiecego gniewu i seksualności, które nie znajdują ujścia w patriarchalnym społeczeństwie.84
+
+
+Motywy literackie
+
+
+Ogień i lód: Te dwa przeciwstawne żywioły są wszechobecnym motywem w powieści, symbolizującym dychotomię między pasją a rozsądkiem.87 Ogień reprezentuje namiętność, gniew i ducha – cechy silnie związane z Jane i Rochesterem. Ich relacja jest "ognista", a pożar w Thornfield jest zarówno dosłownym, jak i symbolicznym punktem kulminacyjnym ich nieokiełznanej pasji. Lód symbolizuje natomiast emocjonalny chłód, opresję i śmierć. Zimno panujące w Lowood odzwierciedla brak miłości i człowieczeństwa, a St. John Rivers jest konsekwentnie opisywany za pomocą metafor lodu, kamienia i zimy, co podkreśla jego niezdolność do odczuwania ciepłych uczuć. Jane musi znaleźć drogę pomiędzy niszczycielskim ogniem a zamrażającym chłodem.
+Oczy i spojrzenie: Wzrok jest w powieści narzędziem władzy i poznania.87 Oczy są "zwierciadłem duszy". Jane jest nieustannie obserwowana i oceniana, ale sama również jest wnikliwą obserwatorką, a jej spojrzenie analizuje i demaskuje hipokryzję otaczającego ją świata. Szczególnie pociągają ją "czarne i błyskotliwe" oczy Rochestera, które symbolizują jego siłę i namiętność. Jego późniejsza ślepota jest symboliczna – pozbawiony władzy męskiego spojrzenia, które obiektywizuje kobietę, musi nauczyć się "widzieć" Jane sercem i polegać na niej, co umożliwia ich prawdziwie równą relację.
+Portrety i obrazy: Sztuka jest dla Jane formą autoekspresji i sposobem na zrozumienie świata i siebie samej.30 Jej akwarele, które pokazuje Rochesterowi, są mroczne i surrealistyczne, odsłaniając bogactwo jej wyobraźni i wewnętrzne lęki. Później, aby utrzymać w ryzach swoje uczucia do Rochestera, maluje dwa portrety: idealizowany wizerunek pięknej Blanche Ingram i surowy, nieupiększony autoportret. Ten dyptyk jest wizualnym przedstawieniem jej wewnętrznego konfliktu i poczucia niższości. Sztuka staje się dla niej narzędziem analizy psychologicznej i moralnej dyscypliny.
+Jedzenie i głód: Motyw jedzenia i głodu jest wskaźnikiem moralnego stanu postaci i relacji międzyludzkich.36 W Lowood głód fizyczny jest metaforą głodu miłości i akceptacji. Skromne, ale pożywne posiłki serwowane przez pannę Temple symbolizują jej dobroć i troskę. Później, podczas ucieczki z Thornfield, Jane ponownie doświadcza skrajnego głodu, co podkreśla jej całkowite wykluczenie ze społeczeństwa. Z kolei wspólne, proste posiłki w Moor House symbolizują odnalezioną wspólnotę i bezpieczeństwo.
+
+
+Problematyka moralna
+
+
+Dylematy etyczne: Głównym dylematem etycznym, przed którym staje Jane, jest propozycja Rochestera, by została jego kochanką i wyjechała z nim do Francji. Jest to dla niej wybór między miłością a moralną integralnością. Mimo ogromnej pokusy, Jane odmawia, kierując się głęboko zakorzenionymi zasadami religijnymi i poczuciem własnej wartości. Nie chce budować swojego szczęścia na grzechu i upokorzeniu, stając się "tą drugą". Jej decyzja o opuszczeniu Thornfield jest najtrudniejszym, ale i najważniejszym aktem moralnej odwagi w jej życiu.
+Wartości prezentowane w książce: Powieść afirmuje takie wartości jak niezależność, godność osobista, uczciwość, sprawiedliwość i wierność własnemu sumieniu. Jane Eyre dowodzi, że prawdziwa wartość człowieka nie leży w jego urodzie, bogactwie czy statusie społecznym, ale w sile jego charakteru i moralnym kręgosłupie. Książka promuje ideę miłości opartej na równości, wzajemnym szacunku i duchowym pokrewieństwie, a nie na konwenansach czy powierzchownym uroku.
+Krytyka społeczna: Brontë bezlitośnie krytykuje wiele aspektów wiktoriańskiego społeczeństwa. Atakuje hipokryzję religijną (pan Brocklehurst), nieludzkie warunki w instytucjach charytatywnych (Lowood), próżność i snobizm arystokracji (Blanche Ingram i jej otoczenie) oraz patriarchalny system, który ogranicza wolność i możliwości kobiet. Powieść jest potężnym głosem sprzeciwu wobec społecznej niesprawiedliwości i wezwaniem do poszanowania godności każdej jednostki, niezależnie od jej pochodzenia czy płci.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+
+
+Język i styl
+
+
+Charakterystyka języka narracji: Język Jane Eyre jest niezwykle bogaty, precyzyjny i naładowany emocjonalnie. Brontë łączy wiktoriańską formalność i elegancję z bezpośredniością i pasją, które były szokujące dla współczesnych jej czytelników. Narracja jest pełna obrazowych metafor, porównań i symboli, zwłaszcza tych zaczerpniętych ze świata natury (burze, pory roku) i zjawisk nadprzyrodzonych (duchy, elfy). Styl jest introspektywny, skupiony na szczegółowym opisie wewnętrznych stanów bohaterki – jej myśli, uczuć, dylematów moralnych.
+Dialogi: Dialogi, zwłaszcza między Jane a Rochesterem, są jednym z najmocniejszych punktów powieści. Są one dynamiczne, iskrzące od inteligencji i dowcipu. Stanowią pole bitwy intelektualnej, na którym Jane udowadnia swoją równość z Rochesterem. Język dialogów jest często teatralny i pełen pasji, co odzwierciedla intensywność relacji między bohaterami.
+Środki stylistyczne: Brontë mistrzowsko posługuje się szeroką gamą środków stylistycznych. Kluczową rolę odgrywa symbolika (ogień i lód, księżyc, kasztanowiec) oraz obrazowanie gotyckie (mroczne posiadłości, tajemnicze odgłosy, zjawy). Często stosuje personifikację, zwłaszcza w odniesieniu do natury, która staje się lustrem emocji bohaterki. Charakterystyczne jest również użycie aluzji biblijnych i literackich, które pogłębiają znaczenie przedstawianych wydarzeń.
+Ton narracji: Ton powieści jest niezwykle zmienny. Przechodzi od melancholijnej refleksji, przez gniewny bunt, gotycką grozę, romantyczną egzaltację, aż po spokojną, dojrzałą akceptację w finale. Ta dynamika tonalna jest bezpośrednim odbiciem burzliwego życia wewnętrznego Jane i sprawia, że narracja jest niezwykle wciągająca.
+
+
+Techniki narracyjne
+
+
+Typ narratora: Narratorką jest sama Jane Eyre, która opowiada historię swojego życia z perspektywy dziesięciu lat po jego szczęśliwym zakończeniu. Jest to narracja pierwszoosobowa, subiektywna i retrospektywna.3 Wybór takiej formy narracyjnej był rewolucyjny, ponieważ nadawał pełną wiarygodność i centralne znaczenie perspektywie kobiety.
+Perspektywa narracyjna: Dzięki pierwszoosobowej perspektywie czytelnik ma bezpośredni wgląd w myśli i uczucia Jane. Widzimy świat jej oczami, dzielimy jej lęki, nadzieje i moralne rozterki. Ta intymność buduje silną więź emocjonalną z bohaterką. Jednocześnie, ponieważ Jane-narratorka jest starsza i mądrzejsza od Jane-bohaterki, jej opowieść jest przefiltrowana przez doświadczenie i dojrzałość, co pozwala na autoironię i głębszą analizę minionych wydarzeń. Charakterystycznym zabiegiem jest bezpośredni zwrot do czytelnika ("Reader, I married him"), który przełamuje iluzję literacką i tworzy wrażenie osobistej, poufnej rozmowy.90
+Chronologia vs. retrospekcje: Narracja jest w przeważającej mierze chronologiczna, śledząc życie Jane od dzieciństwa do dorosłości. Retrospekcje pojawiają się głównie w opowieściach innych postaci, na przykład gdy Rochester wyjawia Jane historię swojego małżeństwa z Berthą. Ta linearna struktura podkreśla charakter powieści jako Bildungsroman – opowieści o stopniowym kształtowaniu się osobowości.
+Techniki budowania napięcia: Brontë jest mistrzynią budowania napięcia, co zawdzięcza umiejętnemu wykorzystaniu technik gotyckich. Tajemnicze wydarzenia w Thornfield – niewyjaśniony śmiech, nocne ataki, postać Grace Poole – są stopniowo dawkowane, tworząc atmosferę grozy i niepewności. Autorka często stosuje foreshadowing (zapowiedzi), jak na przykład rozłupany przez piorun kasztanowiec, który zwiastuje rozstanie kochanków. Napięcie budowane jest również na poziomie psychologicznym, poprzez wewnętrzne konflikty i dylematy Jane.
+
+
+Struktura kompozycyjna
+
+
+Podział na rozdziały/części: Powieść w oryginale została wydana w trzech tomach, co odpowiadało ówczesnym standardom wydawniczym. Współczesne wydania dzielą ją na 38 rozdziałów. Jednakże, najważniejsza struktura kompozycyjna opiera się na pięciu etapach życia Jane, z których każdy rozgrywa się w innej, symbolicznej lokalizacji (Gateshead, Lowood, Thornfield, Moor House, Ferndean).13 Ta pięcioaktowa struktura nadaje powieści klarowny i spójny rytm.
+Rytm narracji: Rytm narracji jest zróżnicowany. Fragmenty opisujące długie okresy stagnacji (np. ostatnie lata w Lowood) mają wolniejsze tempo, podkreślając poczucie uwięzienia bohaterki. Z kolei sceny dramatyczne (pożar, przerwany ślub, ucieczka) charakteryzują się szybkim, dynamicznym rytmem, który oddaje intensywność przeżyć Jane. Brontë doskonale balansuje między tymi tempami, utrzymując zainteresowanie czytelnika.
+Proporcje między opisem a akcją: Powieść charakteryzuje się równowagą między rozbudowanymi, introspektywnymi opisami a dynamiczną akcją. Długie fragmenty poświęcone są analizie uczuć i myśli Jane, co jest kluczowe dla powieści psychologicznej. Jednocześnie, nie brakuje w niej dramatycznych, pełnych napięcia wydarzeń, typowych dla powieści gotyckiej i romansu. Ta równowaga sprawia, że dzieło jest zarówno głęboką analizą charakteru, jak i wciągającą opowieścią fabularną.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+
+
+Interpretacje krytyczne
+
+
+Główne nurty interpretacyjne: Jane Eyre od momentu publikacji jest przedmiotem intensywnych analiz krytycznych. Wczesne recenzje skupiały się na kwestiach moralności i realizmu.21 W XX wieku dominować zaczęły inne perspektywy:
+   * Interpretacja psychoanalityczna: Skupia się na wewnętrznych konfliktach Jane, interpretując je w kategoriach freudowskich (walka id, ego i superego). Postacie takie jak Bertha Mason są postrzegane jako manifestacje stłumionych pragnień i lęków Jane – jej nieokiełznanego "id".84
+   * Interpretacja feministyczna: Jest to jeden z najważniejszych nurtów. Krytyczki, takie jak Sandra Gilbert i Susan Gubar w przełomowej pracy The Madwoman in the Attic (1979), analizują powieść jako opowieść o kobiecym dążeniu do artystycznej i osobistej autoekspresji w patriarchalnym świecie.85 Bertha Mason staje się w tej interpretacji symbolem kobiecego gniewu przeciwko opresji, mrocznym alter ego Jane, które wyraża to, czego sama Jane nie może.91
+   * Interpretacja postkolonialna: Ten nurt, zapoczątkowany przez krytyków takich jak Gayatri Spivak, skupia się na postaci Berthy Mason jako reprezentacji "Innego" – skolonizowanego podmiotu z Indii Zachodnich.92 Analizuje, w jaki sposób powieść, mimo swojego feministycznego potencjału, wpisuje się w imperialistyczną ideologię epoki, demonizując i uciszając postać Kreolki, by umożliwić szczęśliwe zakończenie dla białej, angielskiej bohaterki.72 Powieść Jean Rhys
+Szerokie Morze Sargassowe (1966) jest literacką odpowiedzią na tę krytykę, opowiadając historię z perspektywy Berthy.
+Kontrowersje interpretacyjne: Główne kontrowersje dotyczą zakończenia powieści. Czy małżeństwo Jane z okaleczonym Rochesterem jest ostatecznym triumfem feministycznym, w którym osiąga ona pełną równość, czy też kompromisem, w którym jej szczęście jest możliwe tylko dzięki osłabieniu mężczyzny? Czy powieść jest tekstem rewolucyjnym, czy też ostatecznie utrwala wiktoriańskie ideały domowego szczęścia? Te pytania pozostają otwarte i stanowią o niesłabnącej sile dzieła.
+Współczesne odczytania: Dziś Jane Eyre jest czytana nie tylko jako klasyk literatury, ale także jako tekst, który wciąż rezonuje ze współczesnymi debatami na temat płci, klasy, rasy i tożsamości. Analizuje się ją pod kątem traumy dziecięcej, dynamiki władzy w związkach oraz poszukiwania autentyczności w świecie pełnym społecznych presji.
+
+
+Znaczenie kulturowe
+
+
+Wpływ na literaturę: Jane Eyre wywarła ogromny wpływ na rozwój powieści. Ustanowiła nowy typ bohaterki – inteligentnej, pryncypialnej i namiętnej, która nie jest konwencjonalnie piękna. Zrewolucjonizowała powieść psychologiczną, skupiając się na wewnętrznym świecie postaci z bezprecedensową intensywnością. Jej połączenie realizmu, gotyku i romansu stworzyło nowy, niezwykle wpływowy model narracyjny, który inspirował pokolenia pisarzy, od George Eliot po Daphne du Maurier.
+Adaptacje (film, teatr, inne media): Powieść doczekała się niezliczonych adaptacji. Pierwsze wersje filmowe powstały już w epoce kina niemego. Do najważniejszych adaptacji kinowych należą m.in. wersja z 1943 roku w reżyserii Roberta Stevensona z Orsonem Wellesem i Joan Fontaine, film Franco Zeffirellego z 1996 roku z Williamem Hurtem i Charlotte Gainsbourg, oraz najnowsza, ceniona adaptacja Cary'ego Fukunagi z 2011 roku z Mią Wasikowską i Michaelem Fassbenderem.94 Powstały również liczne adaptacje telewizyjne (zwłaszcza produkcji BBC), teatralne, a nawet operowe i baletowe. Każda z tych adaptacji na nowo interpretuje dzieło Brontë, dostosowując je do wrażliwości swojej epoki.96
+Miejsce w kanonie: Jane Eyre jest niekwestionowanym i jednym z najważniejszych dzieł kanonu literatury angielskiej i światowej. Jest stałym elementem programów szkolnych i uniwersyteckich na całym świecie, cenionym zarówno za swoje walory artystyczne, jak i za historyczne znaczenie jako przełomowego dzieła literatury kobiecej.
+
+
+Aktualność przesłania
+
+
+Uniwersalne wartości: Mimo że powieść jest głęboko osadzona w realiach epoki wiktoriańskiej, jej przesłanie pozostaje niezwykle aktualne. Walka Jane o godność, niezależność i prawo do miłości na własnych warunkach jest uniwersalnym doświadczeniem. Tematy takie jak poszukiwanie tożsamości, przezwyciężanie traumy, walka z niesprawiedliwością społeczną i dążenie do równości w związkach rezonują z czytelnikami w każdej epoce.
+Znaczenie dla współczesnego czytelnika: Dla współczesnego czytelnika Jane Eyre jest inspirującą opowieścią o sile ludzkiego ducha. W dobie ruchów feministycznych i walki o prawa mniejszości, postać Jane – kobiety, która mimo przeciwności losu odmawia bycia ofiarą i walczy o swoje miejsce w świecie – jest potężnym i ponadczasowym symbolem. Powieść zachęca do krytycznego myślenia o społecznych konwencjach i do odwagi w byciu wiernym sobie.
+Lekcje moralne: Główna lekcja moralna płynąca z powieści to przekonanie, że prawdziwe szczęście można osiągnąć tylko poprzez połączenie miłości z szacunkiem do samego siebie. Jane uczy, że kompromis w kwestii fundamentalnych zasad moralnych prowadzi do utraty duszy, a prawdziwa siła polega na umiejętności powiedzenia "nie" nawet największej pokusie, jeśli zagraża ona naszej integralności. Jej historia to dowód na to, że nawet w najtrudniejszych okolicznościach można zachować godność i wywalczyć dla siebie życie pełne sensu i miłości.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+
+
+Katalog postaci z opisami wizualnymi
+
+
+Postać
+	Wiek
+	Wzrost i Budowa Ciała
+	Twarz i Włosy
+	Charakterystyczny Ubiór
+	Rekwizyty Osobiste
+	Jane Eyre
+	10-30
+	Niska, drobna, szczupła.
+	Blada cera, nieregularne rysy. Włosy i oczy - brak opisu koloru, ale oczy wyraziste, a włosy proste, skromnie upięte.
+	Proste, skromne suknie w ciemnych kolorach (szary, brązowy, czarny) z wełny lub perkalu. Biały, sztywny kołnierzyk (tucker).
+	Książki, przybory do rysowania, perłowa broszka od Panny Temple.
+	Edward Rochester
+	35-40
+	Średniego wzrostu, krępy, barczysty, atletyczna budowa.
+	Ciemna, surowa twarz, kwadratowe czoło, szerokie, czarne brwi, wydatny nos, zacięte usta. Włosy kruczoczarne. Po pożarze: blizny, niewidome oczy, brak jednej dłoni.
+	Strój zamożnego dżentelmena: surduty, kamizelki, wysokie kołnierze. Często w stroju do jazdy konnej. Po pożarze: prostsze, domowe ubranie.
+	Laska, cygara, duży pies Pilot.
+	St. John Rivers
+	28-30
+	Wysoki, smukły.
+	Twarz o klasycznych, "greckich" rysach, blada cera, jasne włosy, duże niebieskie oczy. Wyraz twarzy zimny i surowy.
+	Surowy, czarny strój duchownego.
+	Biblia, książki w obcych językach.
+	Pani Reed
+	40-50
+	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie postawna, o surowym wyrazie twarzy.
+	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+	Modne, ale stonowane suknie zamożnej wdowy z lat 30. XIX w.
+	Klucze do domostwa.
+	John Reed
+	14
+	Wysoki i tęgi jak na swój wiek.
+	Ziemista, niezdrowa cera, grube rysy.
+	Ubrania zamożnego chłopca.
+	Szpicruta, książki (jako broń).
+	Blanche Ingram
+	20-25
+	Wysoka, o pełnej, posągowej figurze, długa szyja.
+	Oliwkowa cera, duże, czarne oczy, kruczoczarne włosy w błyszczących lokach. Uroda efektowna, ale wyniosła.
+	Luksusowe, modne suknie balowe i wieczorowe z jedwabiu i satyny, w żywych kolorach. Bogata biżuteria.
+	Wachlarz, biżuteria.
+	Helen Burns
+	13
+	BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie chuda i wątła.
+	Chuda twarz, zapadnięte szare oczy. Twarz ożywia się i pięknieje podczas rozmowy.
+	Znoszony, często nieporządny mundurek szkolny z Lowood.
+	Książka (Rasselas).
+	Bertha Mason
+	ok. 40
+	Wysoka, "wielka", tęga, o męskiej sile.
+	Twarz "fioletowa", "nabrzmiała", rysy "dzikie". Długie, ciemne, zmierzwione włosy.
+	Prosta, biała, często podarta i brudna suknia.
+	BRAK.
+	Richard Mason
+	35-40
+	Wysoki, modnie ubrany.
+	Przystojny, o regularnych rysach, ale twarz "ziemista", a spojrzenie "puste" i "bez życia".
+	Strój podróżny zamożnego dżentelmena.
+	BRAK.
+	
+
+Katalog lokacji
+
+
+Lokacja
+	Architektura
+	Kolorystyka i Oświetlenie
+	Atmosfera i Nastrój
+	Elementy Charakterystyczne
+	Gateshead Hall
+	Zamożna, wiktoriańska rezydencja. Wnętrza luksusowe, ale ciężkie i przytłaczające.
+	Ciemne, polerowane drewno, bogate tkaniny. Czerwony Pokój: dominacja szkarłatu i czerwieni, kontrastująca z bielą pościeli. Oświetlenie generalnie mroczne.
+	Opresyjna, duszna, pełna hipokryzji i emocjonalnego chłodu. Czerwony Pokój: groza, klaustrofobia, nadprzyrodzony strach.
+	Czerwony Pokój z wielkim łożem i lustrem, wnęka okienna w pokoju śniadaniowym.
+	Lowood Institution
+	Surowy, duży, instytucjonalny budynek z kamienia, przypominający więzienie lub klasztor. Wnętrza ascetyczne, gołe i zimne.
+	Dominacja szarości i brązów. Słabe, zimne oświetlenie naturalne, skąpe światło świec.
+	Surowa dyscyplina, głód, zimno, choroba, rezygnacja. Atmosfera opresji i deprywacji.
+	Długa, mroczna jadalnia, zamarznięta woda w dzbanach, przypalona owsianka, stołek hańby.
+	Thornfield Hall
+	Imponująca, trzypiętrowa rezydencja w stylu gotyckim, z blankami i wieżyczkami. Wnętrza okazałe, ale mroczne, z dębową boazerią i ciężkimi meblami.
+	Szary kamień na zewnątrz. Wewnątrz dominują ciemne drewno, gobeliny, cienie. Oświetlenie głównie z kominków i świec, tworzące grę światła i cienia.
+	Tajemnica, namiętność, niepokój, uwięzienie. Atmosfera gotyckiego romansu, pełna napięcia i ukrytych sekretów.
+	Tajemnicze trzecie piętro, długa galeria, biblioteka, ogród z rozłupanym kasztanowcem.
+	Moor House
+	Skromna, kamienna, wiejska chata. Wnętrza proste, czyste i funkcjonalne.
+	Na zewnątrz szarość kamienia i brązy wrzosowiska. Wewnątrz: jasne, wyszorowane drewno, bielone ściany, blask ognia.
+	Spokój, porządek, intelektualne ciepło, ale też emocjonalny chłód (St. John). Atmosfera schronienia i odnalezionej rodziny.
+	Jasno płonący ogień na kominku, lśniące naczynia, posypana piaskiem podłoga w kuchni.
+	Ferndean Manor
+	Stara, zaniedbana rezydencja, otoczona gęstym, mrocznym lasem. Mury wilgotne i porośnięte mchem.
+	Ciemna zieleń i brąz lasu, szarość gnijącego drewna i kamienia. Wnętrza ciemne, zaniedbane, wilgotne.
+	Melancholia, rozkład, izolacja, pokuta. Atmosfera schronienia, ale i stagnacji, czekania na odkupienie.
+	Gęsty, nieprzenikniony las, padający deszcz, skromny ogień w kominku.
+	
+
+Kluczowe sceny do wizualizacji
+
+
+      1. Uwięzienie w Czerwonym Pokoju (Rozdział 2):
+      * Miejsce i czas: Czerwony Pokój w Gateshead, późne popołudnie przechodzące w noc.
+      * Postacie: 10-letnia Jane, sama.
+      * Ważne przedmioty: Wielkie mahoniowe łoże z czerwonymi zasłonami, lustro, "blady tron" (fotel).
+      * Dynamika: Od buntu, przez strach, po panikę i utratę przytomności. Jane miota się po pokoju, wpatruje w lustro, widząc zjawę.
+      * Emocje: Gniew, poczucie niesprawiedliwości, narastający strach, czysta groza.
+      2. Śmierć Helen Burns (Rozdział 9):
+      * Miejsce i czas: Pokój panny Temple w Lowood, noc.
+      * Postacie: Jane i umierająca Helen, leżące razem w łóżku.
+      * Ważne przedmioty: Wąskie łóżko, prosta pościel.
+      * Dynamika: Scena statyczna, intymna. Jane obejmuje Helen, zasypiają razem. Rano Jane budzi się przy martwym ciele przyjaciółki.
+      * Emocje: Smutek, miłość, spokój, akceptacja śmierci (ze strony Helen), ból straty (ze strony Jane).
+      3. Pierwsze spotkanie z Rochesterem (Rozdział 12):
+      * Miejsce i czas: Oblodzona droga Hay Lane, zmierzch w zimowy dzień.
+      * Postacie: Jane (18 lat), Rochester (ok. 35 lat), pies Pilot, koń Mesrour.
+      * Ważne przedmioty: Lód na drodze, płaszcz jeździecki Rochestera.
+      * Dynamika: Gwałtowny upadek konia i jeźdźca. Jane pomaga wstać Rochesterowi, który opiera się na jej ramieniu. Odwrócenie ról.
+      * Emocje: Zaskoczenie, ciekawość (Jane), irytacja i ból (Rochester).
+      4. Pożar w pokoju Rochestera (Rozdział 15):
+      * Miejsce i czas: Sypialnia Rochestera w Thornfield, środek nocy.
+      * Postacie: Jane i śpiący Rochester.
+      * Ważne przedmioty: Płonące zasłony łóżka, dzban z wodą.
+      * Dynamika: Jane budzi się, czując dym. Wbiega do pokoju Rochestera, wylewa wodę na płonące łóżko, ratując mu życie.
+      * Emocje: Strach, determinacja, ulga, rosnąca intymność między bohaterami.
+      5. Oświadczyny pod kasztanowcem (Rozdział 23):
+      * Miejsce i czas: Ogród w Thornfield, czerwcowy wieczór, nadciąga burza.
+      * Postacie: Jane i Rochester.
+      * Ważne przedmioty: Wielki kasztanowiec.
+      * Dynamika: Emocjonalna rozmowa, od łez Jane po namiętne wyznanie Rochestera i jej zgodę. Gwałtowna zmiana pogody odzwierciedla ich emocje.
+      * Emocje: Rozpacz, miłość, szok, ekstaza, złe przeczucia (burza).
+      6. Zjawa w pokoju Jane (Rozdział 25):
+      * Miejsce i czas: Sypialnia Jane w Thornfield, noc przed ślubem.
+      * Postacie: Śpiąca Jane i Bertha Mason.
+      * Ważne przedmioty: Welon ślubny, lustro.
+      * Dynamika: Bertha podchodzi do szafy, wyjmuje welon, zakłada go, patrzy w lustro, a następnie rozdziera go na dwoje i rzuca na podłogę.
+      * Emocje: Senny niepokój Jane przechodzący w przerażenie po przebudzeniu.
+      7. Przerwany ślub i ujawnienie Berthy (Rozdział 26):
+      * Miejsce i czas: Stary kościół, a następnie trzecie piętro Thornfield Hall, ranek.
+      * Postacie: Jane, Rochester, ksiądz, Mr. Briggs, Richard Mason, a na końcu Bertha.
+      * Ważne przedmioty: Rejestr ślubów, klucz do pokoju Berthy.
+      * Dynamika: Napięcie w kościele, dramatyczne przerwanie ceremonii. Przemarsz do Thornfield. Gwałtowna scena walki Rochestera z Berthą.
+      * Emocje: Szczęście Jane zmieniające się w szok i niedowierzanie. Furia i desperacja Rochestera. Strach Masona.
+      8. Telepatyczne wezwanie (Rozdział 35):
+      * Miejsce i czas: Salon w Moor House, noc, za oknem śnieżyca.
+      * Postacie: Jane i St. John.
+      * Ważne przedmioty: Listy misyjne, Biblia.
+      * Dynamika: Scena psychologicznej walki. St. John wywiera presję. W momencie kulminacyjnym Jane zastyga, słysząc głos Rochestera.
+      * Emocje: Rozterka, uległość, nagłe olśnienie, determinacja.
+      9. Ponowne spotkanie w Ferndean (Rozdział 37):
+      * Miejsce i czas: Zaniedbany salon w Ferndean, deszczowy wieczór.
+      * Postacie: Jane i niewidomy Rochester.
+      * Ważne przedmioty: Taca z jedzeniem, którą wnosi Jane.
+      * Dynamika: Cicha, pełna napięcia scena. Jane obserwuje go, zanim się ujawni. On rozpoznaje ją po głosie i dotyku.
+      * Emocje: Ból, współczucie, miłość, spokój, radość z odnalezienia.
+      10. Scena finałowa (Rozdział 38):
+      * Miejsce i czas: Dom Jane i Rochestera, dziesięć lat po ślubie.
+      * Postacie: Jane, Rochester (z częściowo odzyskanym wzrokiem), ich mały syn.
+      * Ważne przedmioty: BRAK, scena skupiona na relacji.
+      * Dynamika: Obraz domowego spokoju i szczęścia.
+      * Emocje: Spełnienie, pokój, trwała, dojrzała miłość.
+
+
+Przedmioty i symbole wizualne
+
+
+      * Książka Historia ptaków brytyjskich Bewicka: Symbol ucieczki w świat wyobraźni i pragnienia wolności. Jej arktyczne ilustracje odzwierciedlają emocjonalny chłód dzieciństwa Jane.
+      * Czerwony Pokój: Symbol opresji patriarchalnej, stłumionego gniewu i traumy.
+      * Welon ślubny: Symbol małżeństwa i niewinności. Jego rozdarcie przez Berthę jest wizualną zapowiedzią zniszczenia marzeń Jane.
+      * Kasztanowiec: Symbol miłości Jane i Rochestera. Jego rozłupanie przez piorun symbolizuje ich gwałtowne rozstanie i późniejsze, okaleczone, ale wciąż żywe ponowne zjednoczenie.
+      * Portrety (autoportret Jane i portret Blanche): Symbolizują wewnętrzny konflikt Jane, jej walkę z poczuciem niższości i próbę obiektywnej oceny sytuacji.
+      * Księżyc: Często pojawia się w kluczowych momentach, funkcjonując jako symbol matczynej, opiekuñczej siły natury, która prowadzi Jane i daje jej duchowe wskazówki.
+      * Ogień: Symbol pasji, gniewu, ale też zniszczenia (pożar w Thornfield).
+      * Lód/Zima: Symbol emocjonalnego chłodu, samotności i śmierci (Lowood, St. John).
+________________
+
+
+ŹRÓDŁA
+
+
+1
+Cytowane prace
+      1. CHARLOTTE BRONTE Jane Eyre 1997 full movie (Ciaran Hinds, Samantha Morton), otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=pOgCsSn1kNg
+      2. Jane Eyre | Summary, Characters, Analysis, & Facts - Britannica, otwierano: sierpnia 10, 2025, https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte
+      3. Jane Eyre: An Analysis in 8 Literary Elements - literature...no trouble, otwierano: sierpnia 10, 2025, https://www.literature-no-trouble.com/jane-eyre-an-analysis-in-8-literary-elements/
+      4. Charlotte Brontë - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Charlotte_Bront%C3%AB
+      5. Charlotte Bronte | Biography, Books, Novels, Jane Eyre, & Facts | Britannica, otwierano: sierpnia 10, 2025, https://www.britannica.com/biography/Charlotte-Bronte
+      6. Charlotte Brontë's “Jane Eyre” is published in London | October 19, 1847 | HISTORY, otwierano: sierpnia 10, 2025, https://www.history.com/this-day-in-history/october-19/jane-eyre-is-published
+      7. Charlotte Brontë | EBSCO Research Starters, otwierano: sierpnia 10, 2025, https://www.ebsco.com/research-starters/history/charlotte-bronte
+      8. The Blurry Line Between Charlotte Brontë and Jane Eyre - LaurelLit.com, otwierano: sierpnia 10, 2025, https://laurellit.com/the-blurry-line-between-charlotte-bronte-and-jane-eyre/
+      9. The-True-Story-of-the-Lowood-Institution1.docx - Glow Blogs, otwierano: sierpnia 10, 2025, https://blogs.glowscotland.org.uk/glowblogs/public/advancedhigherenglishira/uploads/sites/7995/2019/10/25111951/The-True-Story-of-the-Lowood-Institution1.docx
+      10. Jane Eyre by Charlotte Brontë | EBSCO Research Starters, otwierano: sierpnia 10, 2025, https://www.ebsco.com/research-starters/literature-and-writing/jane-eyre-charlotte-bronte
+      11. www.litcharts.com, otwierano: sierpnia 10, 2025, https://www.litcharts.com/lit/jane-eyre#:~:text=Jane%20Eyre%20is%20a%20Bildungsroman,as%20well%20as%20gender%20differences.
+      12. Jane Eyre by Charlotte Brontë | Faculty of English, otwierano: sierpnia 10, 2025, https://www.english.ox.ac.uk/ten-minute-book-club/bronte-jane-eyre
+      13. Story Skeleton—Jane Eyre - The Darling Axe, otwierano: sierpnia 10, 2025, https://darlingaxe.com/blogs/news/story-skeleton-jane-eyre
+      14. Jane Eyre by Charlotte Bronte | Full Audiobook - YouTube, otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=4aQ_18olSmU
+      15. Jane Eyre Summary, Plot, Character List + Essay Sample - EssayPro, otwierano: sierpnia 10, 2025, https://essaypro.com/blog/jane-eyre-summary
+      16. Jane Eyre - Holland Public Schools, otwierano: sierpnia 10, 2025, https://www.hollandpublicschools.org/downloads/virtual_tech/jane-eyre-litchart.pdf
+      17. Lowood Boarding School - COVE, otwierano: sierpnia 10, 2025, https://editions.covecollective.org/place/lowood-boarding-school
+      18. In Jane Eyre, the girls at the institute suffer from cold and hunger, to the point of getting sick and dying. How realistic is that historically speaking? : r/AskHistorians - Reddit, otwierano: sierpnia 10, 2025, https://www.reddit.com/r/AskHistorians/comments/nbenfw/in_jane_eyre_the_girls_at_the_institute_suffer/
+      19. Thornfield Hall - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Thornfield_Hall
+      20. Thornfield Hall: location and characters - The Reader's Guide to Jane Eyre, otwierano: sierpnia 10, 2025, https://jane-eyre.guidesite.co.uk/thornfield-hall
+      21. Critical Reception of Jane Eyre – UNSUITABLE - Sites@Duke Express, otwierano: sierpnia 10, 2025, https://sites.duke.edu/unsuitable/critical-reception-of-jane-eyre/
+      22. Critical responses to Jane Eyre over time | jcgenglishblog, otwierano: sierpnia 10, 2025, https://jcgenglishblog.wordpress.com/wp-content/uploads/2016/12/critical-responses-to-jane-eyre-over-time-1.pdf
+      23. Unveiling Jane Eyre: Space Escape and the Construction of Subjectivity through a Foucauldian Lens - ResearchGate, otwierano: sierpnia 10, 2025, https://www.researchgate.net/publication/381053266_Unveiling_Jane_Eyre_Space_Escape_and_the_Construction_of_Subjectivity_through_a_Foucauldian_Lens
+      24. “To Know One Country Is to Know No Country”: An Ecocritical Reading of Setting in Jane Eyre - DiVA portal, otwierano: sierpnia 10, 2025, https://www.diva-portal.org/smash/get/diva2:605676/FULLTEXT01.pdf
+      25. Jane Eyre: Developing By Setting - Victorian Women Writers & Celebrity, otwierano: sierpnia 10, 2025, https://victorianwomencelebrities.wordpress.com/2014/09/18/setting-the-setting/
+      26. 10 quotes about GATESHEAD HALL Flashcards | Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/gb/104423668/10-quotes-about-gateshead-hall-flash-cards/
+      27. Jane Eyre, otwierano: sierpnia 10, 2025, https://www.ucm.es/data/cont/docs/119-2014-04-09-Jane%20Eyre.pdf
+      28. The Red-Room - Prismatic Jane Eyre, otwierano: sierpnia 10, 2025, https://prismaticjaneeyre.org/the-red-room/
+      29. The Red-Room and Jane's Imprisonment (1847) - The Victorian Web, otwierano: sierpnia 10, 2025, https://victorianweb.org/authors/bronte/cbronte/trujillo1.html
+      30. Portraits and Pictures Symbol in Jane Eyre - LitCharts, otwierano: sierpnia 10, 2025, https://www.litcharts.com/lit/jane-eyre/symbols/portraits-and-pictures
+      31. The Space In-between: Exploring Liminality in Jane Eyre - BYU ScholarsArchive, otwierano: sierpnia 10, 2025, https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1167&context=criterion
+      32. Jane Eyre quotes - Lowood school Flashcards - Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/gb/599103458/jane-eyre-quotes-lowood-school-flash-cards/
+      33. The Project Gutenberg eBook of Jane Eyre, by Charlotte Brontë, otwierano: sierpnia 10, 2025, https://www.gutenberg.org/files/1260/1260-h/1260-h.htm
+      34. Jane Eyre: Writer's Methods & Techniques (AQA GCSE English Literature): Revision Note, otwierano: sierpnia 10, 2025, https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/jane-eyre/jane-eyre-writers-methods-and-techniques/
+      35. Quotations for Jane Eyre: Lowood School Flashcards | Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/gb/163452223/quotations-for-jane-eyre-lowood-school-flash-cards/
+      36. Food Symbol in Jane Eyre - LitCharts, otwierano: sierpnia 10, 2025, https://www.litcharts.com/lit/jane-eyre/symbols/food
+      37. Food in Brontë and Dickens - The Victorian Web, otwierano: sierpnia 10, 2025, https://victorianweb.org/authors/bronte/cbronte/bg5.html
+      38. Thornfield Hall - (English 12) - Vocab, Definition, Explanations | Fiveable, otwierano: sierpnia 10, 2025, https://library.fiveable.me/key-terms/english-12/thornfield-hall
+      39. “A Gentleman's Manor House” – Why Haddon Makes The Perfect Thornfield Hall, otwierano: sierpnia 10, 2025, https://www.haddonhall.co.uk/a-gentlemans-manor-house-why-haddon-makes-the-perfect-thornfield-hall/
+      40. Jane Eyre: Chapter XXIII - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/full-text/chapter-xxiii/
+      41. Superstition And Spirits In Charlotte Bronte's Jane Eyre - Cram, otwierano: sierpnia 10, 2025, https://www.cram.com/essay/Superstition-And-Spirits-In-Charlotte-Brontes-Jane/FJVCSE7B9NU
+      42. Chapter 23: Rochester proposes Use of symbolism Jane Eyre (Grades 9–1) - York Notes, otwierano: sierpnia 10, 2025, https://www.yorknotes.com/gcse/english-literature/jane-eyre-gcse-2017/study/plot-and-action/00220500_chapter-23-rochester-proposes
+      43. Jane Eyre: Symbols - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/symbols/
+      44. Jane Eyre: Chapter XXVIII - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/full-text/chapter-xxviii/
+      45. The Magic of a Moor - AUTHOR MICHELLE GRIEP, otwierano: sierpnia 10, 2025, https://michellegriep.com/journal/the-magic-of-a-moor
+      46. Moor House: location and characters - The Reader's Guide to Jane Eyre, otwierano: sierpnia 10, 2025, https://jane-eyre.guidesite.co.uk/moor-house
+      47. Symbols in Jane Eyre - Owl Eyes, otwierano: sierpnia 10, 2025, https://www.owleyes.org/text/jane-eyre/analysis/symbols
+      48. Jane Eyre: Chapter XXXVII - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/full-text/chapter-xxxvii/
+      49. Ferndean Manor: location and characters - The Reader's Guide to Jane Eyre, otwierano: sierpnia 10, 2025, https://jane-eyre.guidesite.co.uk/ferndean-manor
+      50. The 1830s in Fashionable Gowns: A Visual Guide to the Decade | Mimi Matthews, otwierano: sierpnia 10, 2025, https://www.mimimatthews.com/2015/11/30/the-1830s-in-fashionable-gowns-a-visual-guide-to-the-decade/
+      51. Dressing Jane Eyre | British Literature: Romantic Through Modern, otwierano: sierpnia 10, 2025, https://romanticthroughmodern.wordpress.com/2014/02/03/dressing-jane-eyre/
+      52. Jane Eyre on Page and Screen: Costumes and Hair | Linnet Moss, otwierano: sierpnia 10, 2025, https://linnetmoss.com/2016/07/27/jane-eyre-on-page-and-screen-costumes-and-hair/
+      53. Jane Eyre (1847) - Caitlin Duffy, otwierano: sierpnia 10, 2025, https://caitlinduffy.hcommons.org/2018/08/13/jane-eyre-1847/
+      54. Jane Eyre Character Description Quotes :) Flashcards - Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/27028211/jane-eyre-character-description-quotes-flash-cards/
+      55. The Well Dressed Clergyman - Jane Austen articles and blog, otwierano: sierpnia 10, 2025, https://janeausten.co.uk/blogs/uncategorized/well-dressed-clergyman
+      56. Clerical clothing - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Clerical_clothing
+      57. A Summary of the Novel - The Reader's Guide to Jane Eyre, otwierano: sierpnia 10, 2025, https://jane-eyre.guidesite.co.uk/summary
+      58. Jane Eyre Summary of Chapters | PDF - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/123152968/Jane-Eyre-Summary-of-Chapters
+      59. Jane Eyre: Themes - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/themes/
+      60. Jane Eyre: Analysis of Major Characters | EBSCO Research Starters, otwierano: sierpnia 10, 2025, https://www.ebsco.com/research-starters/literature-and-writing/jane-eyre-analysis-major-characters
+      61. Perfection in Period Costume: 2011 Movie Adaptation of Jane Eyre - The Looking Glass, otwierano: sierpnia 10, 2025, https://lookingglass.montroseschool.org/front-page-scroll/2021/04/02/perfection-in-period-costume-2011-movie-adaptation-of-jane-eyre/
+      62. Jane Eyre: Edward Rochester Quotes | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/quotes/character/edward-rochester/
+      63. Jane Eyre Characters Quotes: Mr Rochester Flashcards - Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/gb/693992702/jane-eyre-characters-quotes-mr-rochester-flash-cards/
+      64. Chapter 12 - Jane Eyre by Charlotte Brontë at literature.org, otwierano: sierpnia 10, 2025, https://www.literature.org/authors/bronte-charlotte/jane-eyre/chapter-12.html
+      65. Jane Eyre: Chapter XIII - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/full-text/chapter-xiii/
+      66. www.sparknotes.com, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/quotes/character/edward-rochester/#:~:text=His%20form%20was%20of%20the,countenance%20I%20saw%20a%20change.
+      67. Jane Eyre-Chapter 37 Flashcards | Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/gb/409021487/jane-eyre-chapter-37-flash-cards/
+      68. Chapter XXXVII [Jane meets and teases the blind Rochester] rom ..., otwierano: sierpnia 10, 2025, https://victorianweb.org/authors/bronte/cbronte/janeeyre/37.html
+      69. St. John Rivers Quotes - Jane Eyre - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/quotes/character/st-john-rivers/
+      70. Bertha Mason's race?? : r/JaneEyre - Reddit, otwierano: sierpnia 10, 2025, https://www.reddit.com/r/JaneEyre/comments/1d28gxv/bertha_masons_race/
+      71. Bertha Mason – Clark University MixLit, otwierano: sierpnia 10, 2025, https://wordpress.clarku.edu/mixlit/bertha-mason/
+      72. A Postcolonial Look into Jane Eyre – The Nineteenth-Century Novel - Dickinson Blogs, otwierano: sierpnia 10, 2025, https://blogs.dickinson.edu/19thcennovel/2017/03/03/a-postcolonial-look-into-jane-eyre/
+      73. Bertha Mason Character Analysis in Jane Eyre | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/character/bertha-mason/
+      74. Jane Eyre Blanche Ingram Character Analysis - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/character/blanche-ingram/
+      75. Richard Mason - The Victorian Web, otwierano: sierpnia 10, 2025, https://victorianweb.org/authors/bronte/cbronte/gordon1.html
+      76. Jane Eyre Character Descriptions Flashcards - Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/17127385/jane-eyre-character-descriptions-flash-cards/
+      77. Jane Eyre: Full Book Summary | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/summary/
+      78. Jane Eyre: Chapter XII - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/full-text/chapter-xii/
+      79. Jane meets Mr Rochester Writing about language Jane Eyre (Grades 9–1) - York Notes, otwierano: sierpnia 10, 2025, https://www.yorknotes.com/gcse/english-literature/jane-eyre-gcse-2017/study/plot-and-action/00130200_chapters-12-and-13-jane-meets-mr-rochester
+      80. Jane Eyre Chapters 11–16 Summary & Analysis | SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/section3/
+      81. Jane Eyre on Page and Screen 12: The Proposal Scene | Linnet Moss, otwierano: sierpnia 10, 2025, https://linnetmoss.com/2016/08/10/jane-eyre-on-page-and-screen-12-the-proposal-scene/
+      82. Jane Eyre: Chapters 29-38 Flashcards | Quizlet, otwierano: sierpnia 10, 2025, https://quizlet.com/204555859/jane-eyre-chapters-29-38-flash-cards/
+      83. Jane Eyre: Sparklet Chapter Summaries - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/sparklets/
+      84. Jane Eyre - critical review, otwierano: sierpnia 10, 2025, https://www.teenbookrecommendations.com/single-post/2020/03/14/jane-eyre-review
+      85. The Madwoman in the Attic - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/The_Madwoman_in_the_Attic
+      86. Gilbert Gubar on Jane Eyre.pdf - Moodle@Units, otwierano: sierpnia 10, 2025, https://moodle2.units.it/pluginfile.php/358843/mod_resource/content/1/Gilbert%20%20Gubar%20on%20Jane%20Eyre.pdf
+      87. Jane Eyre Symbols - LitCharts, otwierano: sierpnia 10, 2025, https://www.litcharts.com/lit/jane-eyre/symbols
+      88. Jane Eyre: Motifs - SparkNotes, otwierano: sierpnia 10, 2025, https://www.sparknotes.com/lit/janeeyre/motifs/
+      89. [Work: Jane Eyre, Charlotte Brontë, 1847] Powerful Vision - The Gemsbok, otwierano: sierpnia 10, 2025, https://thegemsbok.com/art-reviews-and-articles/tuesday-tome-jane-eyre-charlotte-bronte%CC%88/
+      90. The Reed Family In Jane Eyre - 1363 Words - Cram, otwierano: sierpnia 10, 2025, https://www.cram.com/essay/Summary-Of-Charlotte-Brontes-Jane-Eyre/PC8E7XTMFR
+      91. The Madwoman in the Attic | EBSCO Research Starters, otwierano: sierpnia 10, 2025, https://www.ebsco.com/research-starters/literature-and-writing/madwoman-attic
+      92. Analysis of Jane Eyre from the Postcolonial Perspective - Darcy & Roy Press, otwierano: sierpnia 10, 2025, https://drpress.org/ojs/index.php/jeer/article/view/29997
+      93. (PDF) Analysis of Jane Eyre from the Postcolonial Perspective - ResearchGate, otwierano: sierpnia 10, 2025, https://www.researchgate.net/publication/390287277_Analysis_of_Jane_Eyre_from_the_Postcolonial_Perspective
+      94. Read Bilingual Book Jane Eyre in English with translation - AnyLang, otwierano: sierpnia 10, 2025, https://anylang.net/en/books/en/jane-eyre
+      95. Jane Eyre - Prime Video, otwierano: sierpnia 10, 2025, https://www.primevideo.com/detail/Jane-Eyre/0OFM9JSQT6JQNDLUBVICNAS0NN
+      96. Vista de The Evolution of Jane Eyre in Film Adaptation: from Classic Female Stereotype to Independent Woman - Turia, otwierano: sierpnia 10, 2025, https://turia.uv.es/index.php/arslonga/article/view/16831/20656
+      97. Diverging Interpretations of Charlotte Brontë's Jane Eyre (1847): Franco Zeffirelli's and Robert Stevenson's Screen Adaptations - OpenEdition Journals, otwierano: sierpnia 10, 2025, https://journals.openedition.org/lisa/848?lang=en
+      98. Jane Eyre: genre, structure, language & literary devices - YouTube, otwierano: sierpnia 10, 2025, https://www.youtube.com/watch?v=XZgalWMNAB0
+      99. Diverging Interpretations of Charlotte Brontë's Jane Eyre (1847): Franco Zeffirelli's and Robert Stevenson's Screen Adaptations - OpenEdition Journals, otwierano: sierpnia 10, 2025, https://journals.openedition.org/lisa/848
+      100. Richard Mason: The Villain in Jane Eyre, Wide Sargasso Sea, and The Eyre Hall Series, otwierano: sierpnia 10, 2025, https://lucciagray.com/2014/02/27/richard-mason-the-villain-in-jane-eyre/
+      101. Chapter XXV from Charlotte Brontë's Jane Eyre - The Victorian Web, otwierano: sierpnia 10, 2025, https://victorianweb.org/authors/bronte/cbronte/janeeyre/25.html
+      102. MR. ROCHESTER'S PERSPECTIVE: RE-READING JANE EYRE - Literary Endeavour, otwierano: sierpnia 10, 2025, https://www.literaryendeavour.org/files/t20mnviwv1eaxhxxyhdp/2021-10%2006%20MR.%20ROCHESTER'S%20PERSPECTIVE%20RE-READING%20JANE%20EYRE%20-%20DR.%20MANOHAR%20S.%20VASWANI.pdf

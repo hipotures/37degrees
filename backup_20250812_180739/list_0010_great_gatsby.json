@@ -1,0 +1,171 @@
+{
+  "title": "📋 AI Image Generation for 0010_great_gatsby (ID: 8)",
+  "count": 25,
+  "data": [
+    {
+      "#": "1",
+      "Key": "quick_item_1_34",
+      "Task": "Generate image using scene_01.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "2",
+      "Key": "quick_item_2_34",
+      "Task": "Generate image using scene_02.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "3",
+      "Key": "quick_item_3_34",
+      "Task": "Generate image using scene_03.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "4",
+      "Key": "quick_item_4_34",
+      "Task": "Generate image using scene_04.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "5",
+      "Key": "quick_item_5_34",
+      "Task": "Generate image using scene_05.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "6",
+      "Key": "quick_item_6_34",
+      "Task": "Generate image using scene_06.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "7",
+      "Key": "quick_item_7_34",
+      "Task": "Generate image using scene_07.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "8",
+      "Key": "quick_item_8_34",
+      "Task": "Generate image using scene_08.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "9",
+      "Key": "quick_item_9_34",
+      "Task": "Generate image using scene_09.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "10",
+      "Key": "quick_item_10_34",
+      "Task": "Generate image using scene_10.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "11",
+      "Key": "quick_item_11_34",
+      "Task": "Generate image using scene_11.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "12",
+      "Key": "quick_item_12_34",
+      "Task": "Generate image using scene_12.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "13",
+      "Key": "quick_item_13_34",
+      "Task": "Generate image using scene_13.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "14",
+      "Key": "quick_item_14_34",
+      "Task": "Generate image using scene_14.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "15",
+      "Key": "quick_item_15_34",
+      "Task": "Generate image using scene_15.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "16",
+      "Key": "quick_item_16_34",
+      "Task": "Generate image using scene_16.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "17",
+      "Key": "quick_item_17_34",
+      "Task": "Generate image using scene_17.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "18",
+      "Key": "quick_item_18_34",
+      "Task": "Generate image using scene_18.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "19",
+      "Key": "quick_item_19_34",
+      "Task": "Generate image using scene_19.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "20",
+      "Key": "quick_item_20_34",
+      "Task": "Generate image using scene_20.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "21",
+      "Key": "quick_item_21_34",
+      "Task": "Generate image using scene_21.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "22",
+      "Key": "quick_item_22_34",
+      "Task": "Generate image using scene_22.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "23",
+      "Key": "quick_item_23_34",
+      "Task": "Generate image using scene_23.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "24",
+      "Key": "quick_item_24_34",
+      "Task": "Generate image using scene_24.yaml",
+      "Status": "✅"
+    },
+    {
+      "#": "25",
+      "Key": "quick_item_25_34",
+      "Task": "Generate image using scene_25.yaml",
+      "Status": "✅"
+    }
+  ]
+}
+
+{
+  "title": "Properties",
+  "count": 2,
+  "data": [
+    {
+      "Key": "book_folder",
+      "Value": "0010_great_gatsby"
+    },
+    {
+      "Key": "project_id",
+      "Value": "g-p-689446087660819195b432ab1f3e8191"
+    }
+  ]
+}

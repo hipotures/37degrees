@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, mid-morning market hours
+    location: Central market square of Verona, between merchant palaces
+    weather: Bright sunshine warming pink limestone, clear blue sky with few white clouds
+  characters:
+  - appearance: Mix of merchants, nobles, and servants of various ages, predominantly Italian Renaissance features
+    clothing: Colorful array - merchants in practical wool tunics, nobles in silk and velvet, servants in house liveries
+    position: Scattered throughout square in natural groupings
+    action: Trading, gossiping, carrying baskets, examining goods, animated conversations with expressive hand gestures
+  scene:
+    mainElements: Market stalls with striped awnings, central fountain with people gathering water, Renaissance palaces with
+      arched loggias surrounding square
+    details: Overflowing fruit and vegetable displays, bolts of rich fabric, hanging herbs and spices, chickens in wooden
+      cages, fresh bread in baskets, flower sellers with bouquets, dogs wandering between stalls, pigeons pecking at crumbs
+    background: Church bell tower rising above rooftops, laundry hanging from upper windows, narrow streets leading away into
+      shadows
+    atmosphere: Vibrant community life, warm social connections, comfortable daily rhythms, prosperity and abundance, underlying
+      tension in careful distances between certain groups
+  composition:
+    cameraAngle: High angle overview capturing entire square's activity
+    focus: The living tapestry of interconnected lives and daily commerce
+    depth: Market stalls and crowds in foreground, palace facades in middle ground, church tower in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

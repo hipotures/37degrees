@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dawn's Cruel Separation"
+  setting:
+    time: "Renaissance Italy, dawn breaking with first light"
+    location: "Juliet's bedchamber window and garden below"
+    weather: "Pink and gold sunrise, morning birds beginning to sing, dew forming"
+  characters:
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Disheveled nobleman's attire from night before, cape thrown over shoulder, one foot on rope ladder"
+      position: "Halfway down rope ladder from window"
+      action: "Pausing in descent, looking back up with anguished expression, hand reaching back toward window"
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "White nightgown with loose hair, morning light creating halo effect"
+      position: "Leaning dangerously far out window"
+      action: "Stretching down to maintain contact, fingers barely touching his, tears visible on cheeks"
+  scene:
+    mainElements: "High window with rope ladder, garden wall beyond which danger waits, contrast between warm chamber and cold world"
+    details: "Lark singing on tree branch (herald of day), torn flowers below from night's activities, long shadows of dawn, servants' voices heard in distance beginning day's work, single rose fallen to ground below"
+    background: "Verona awakening with smoke from morning fires, church bells about to ring"
+    atmosphere: "Desperate reluctance to part, time as enemy, safety of night giving way to dangerous day, love fighting against duty"
+  composition:
+    cameraAngle: "Side angle showing vertical separation and reaching figures"
+    focus: "The painful moment of forced separation, hands about to lose contact"
+    depth: "Window and figures in foreground, garden in middle ground, awakening city in background"

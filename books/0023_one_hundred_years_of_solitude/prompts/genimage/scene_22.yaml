@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1930s Colombian Caribbean coast, dawn during tragic childbirth
+    location: Bedroom of Buendía house during labor and delivery, Colombian jungle village
+    weather: Grey dawn with approaching storm clouds, humid air thick with tension
+  characters:
+  - appearance: Last woman of Buendía line, represents final chance for family redemption through love, beautiful and spirited
+      despite family's declining fortunes
+    clothing: White birthing gown now stained with blood and exhaustion
+    position: Lying in bed during difficult labor, face showing mixture of joy and mortal exhaustion
+    action: Giving birth to final heir while life ebbs away, ultimate sacrifice of mother for child
+  - appearance: Last scholar of family line, devoted to deciphering family mysteries and ancient prophecies, represents culmination
+      of family's intellectual obsessions
+    clothing: Disheveled clothes showing night of anguish and vigil
+    position: Kneeling beside bed holding beloved's hand
+    action: Torn between joy at child's birth and agony at losing the woman he loves
+  - appearance: Newborn child representing final generation and fulfillment of ancient prophecy
+    clothing: newborn with shocking physical abnormality
+    position: Just delivered, lying on bed between parents
+    action: First cries revealing the prophesied pig's tail that seals family's doom
+  scene:
+    mainElements: Bedroom transformed into scene of ultimate human drama combining birth and death, dawn light filtering through
+      windows illuminating tragedy, bed where family line reaches its prophesied conclusion, mixture of life's beginning and
+      ending in single moment
+    details: Small curled tail on newborn, ultimate fulfillment of incest curse, represents final consequence of family's
+      inability to love outside themselves, bloodstained sheets mixing triumph and tragedy, dawn light creating dramatic illumination,
+      storm approaching outside matching emotional intensity, no text or letters visible
+    background: Other rooms of house visible through doorway showing accumulated decay, ancient manuscripts scattered suggesting
+      scholarly obsession continuing even during crisis, approaching storm visible through windows
+    atmosphere: Ultimate tragedy of love defeated by ancient curse, family's century of isolation finally producing its prophesied
+      punishment, birth and death intertwined in moment of absolute devastation
+  composition:
+    cameraAngle: Intimate shot capturing birth, death, and curse fulfillment simultaneously
+    focus: Mother's sacrifice contrasted with child bearing family's cursed mark
+    depth: 'Foreground: tragic birth scene, middle: anguished father witnessing destiny, background: approaching storm representing
+      family''s approaching end'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

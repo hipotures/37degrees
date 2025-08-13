@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Fatal Decision in Desperate Solitude"
+  setting:
+    time: "Renaissance Italy, deep night before false dawn"
+    location: "Small stone chamber in Franciscan monastery in Verona, simple and austere"
+    weather: "Still night, no wind, oppressive silence"
+  characters:
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "Simple white nightgown, hair loose and wild, barefoot"
+      position: "Kneeling on cold stone floor before wooden table"
+      action: "Holding glass vial to lips, eyes closed in terrible resolve, other hand clutching crucifix"
+    - appearance: "Middle-aged to elderly man, 45-60 years old, gentle weathered face marked by wisdom, graying hair with tonsure, kind but worried eyes"
+      clothing: "Simple rough Franciscan habit in brown or gray wool, tied with rope belt, wooden cross, sandals"
+      position: "Standing in doorway, hand extended in blessing"
+      action: "Face torn between hope and dread, lips moving in silent prayer"
+  scene:
+    mainElements: "Table with herbs and vials, single candle providing only light, crucifix on wall casting long shadow"
+    details: "Glass vial containing herbal mixture that simulates death glinting in candlelight, scattered herbs on table, open prayer book with pressed flowers, moth circling candle flame, deadly stillness before act"
+    background: "Stone walls seeming to close in, darkness beyond candle's reach absolute"
+    atmosphere: "Moment between life and death, desperate gamble with fate, innocent child forced to extreme measures, faith tested to breaking point"
+  composition:
+    cameraAngle: "Intimate close angle at her level, showing profile with vial"
+    focus: "The precipice moment - vial at lips, choice being made"
+    depth: "Juliet and table in sharp foreground, friar blurred in doorway, darkness consuming background"

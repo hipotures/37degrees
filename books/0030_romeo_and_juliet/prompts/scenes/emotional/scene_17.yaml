@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mournful Procession Through Streets of Stone"
+  setting:
+    time: "Renaissance Italy, afternoon funeral procession"
+    location: "Streets of Verona leading to churchyard"
+    weather: "Overcast sky, threatening rain, oppressive humidity"
+  characters:
+    - appearance: "Funeral procession of nobles and servants in mourning attire"
+      clothing: "Black robes and veils, Capulet colors muted with black ribbons"
+      position: "Slow procession through narrow streets"
+      action: "Carrying open bier, throwing flower petals, some weeping, others singing dirges"
+  scene:
+    mainElements: "Open bier with figure in white surrounded by flowers, mourners in black, narrow streets creating canyon of grief"
+    details: "Rose petals crushed underfoot leaving red stains like blood, church bells tolling death knell, shuttered windows with watching faces, incense smoke drifting, contrast of youth in white among black-clad mourners"
+    background: "Church spire ahead, gray clouds gathering, normal life stopped to witness"
+    atmosphere: "Public grief as spectacle, beauty destroyed too young, community united in sorrow not knowing truth beneath"
+  composition:
+    cameraAngle: "Elevated view from building showing procession snaking through streets"
+    focus: "The river of black surrounding island of white innocence"
+    depth: "Procession filling street in foreground, buildings creating tunnel in middle ground, church destination in background"

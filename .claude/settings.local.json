@@ -7,7 +7,8 @@
     ],
     "deny": [],
     "additionalDirectories": [
-      "/tmp/playwright-mcp-files"
+      "/tmp/playwright-mcp-files",
+      "/tmp/playwright-mcp-output/"
     ]
   },
   "enableAllProjectMcpServers": true,

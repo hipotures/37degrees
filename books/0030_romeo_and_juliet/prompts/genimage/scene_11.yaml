@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, noon with merciless summer sun
+    location: Renaissance Italian city square in Verona, surrounded by pink and white limestone palaces, narrow streets radiating
+      outward, stone fountain in center
+    weather: Scorching July heat, sun at zenith creating minimal shadows, heat waves rising from stones
+  characters:
+  - appearance: Young man, late teens to early twenties, agile and energetic build, sharp features with ironic smile, quick
+      darting movements like quicksilver
+    clothing: Extravagant courtier's attire - vibrant multicolored doublet, fantastical feathered hat, fashionable but theatrical,
+      not aligned to any house colors
+    position: Center of square, staggering backward
+    action: Hand pressed to side where blood seeps through fingers, face showing shock transforming to bitter ironic smile,
+      knees beginning to buckle
+  - appearance: Young man, early twenties, athletic aggressive build, sharp angular features, dark hair slicked back, piercing
+      hostile eyes
+    clothing: Impeccable nobleman's attire in Capulet warm tones - burgundy velvet doublet, gold chain, crimson cape, always
+      wearing rapier and dagger
+    position: Few paces away, rapier still extended
+    action: Frozen in attack position, expression of triumph mixed with sudden realization
+  scene:
+    mainElements: Blood spreading on white limestone, overturned market stalls, scattered crowd forming horrified circle
+    details: Dropped rapier glinting in harsh sun, feathered hat fallen in dust, spilled fruit rolling across stones mixing
+      with blood, fountain water continuing to splash indifferently, shadows sharp and black like knife cuts
+    background: Palace windows with faces peering out, church bells silent, brutal clarity of noon sun
+    atmosphere: Shocking violence under peaceful sky, playfulness turned deadly, heat and blood and sudden mortality, comedy
+      becoming tragedy in single heartbeat
+  composition:
+    cameraAngle: High angle looking down at fallen figure and spreading chaos
+    focus: The moment of transformation from life to death, jest to tragedy
+    depth: Dying figure in foreground, attacker and crowd in middle ground, impassive architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

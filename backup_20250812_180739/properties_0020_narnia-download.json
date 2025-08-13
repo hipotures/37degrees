@@ -1,0 +1,52 @@
+             📋 All Item Properties for list '0020_narnia-download'             
+╭──────────────────────┬──────────────────────┬────────────────────────────────╮
+│ Item Key             │ Property Key         │ Value                          │
+├──────────────────────┼──────────────────────┼────────────────────────────────┤
+│ item_0001            │ thread_id            │ 689542de-94b4-8327-8731-9c89b… │
+│ item_0002            │ thread_id            │ 6895befb-de60-8324-9192-fb51e… │
+│ item_0003            │ thread_id            │ 6895c01f-eb08-8333-a231-189df… │
+│ item_0004            │ thread_id            │ 6895c170-82f0-8324-9d05-2e479… │
+│ item_0005            │ ERROR                │ ChatGPT image generation tool  │
+│                      │                      │ is disabled/limited. Daily     │
+│                      │                      │ limit appears to have been     │
+│                      │                      │ reached (seen '120 more        │
+│                      │                      │ available on August 8'         │
+│                      │                      │ message). The Create image     │
+│                      │                      │ option was disabled in the     │
+│                      │                      │ tool menu.                     │
+│ item_0005            │ thread_id            │ 68967c76-ff0c-8321-b99f-f537d… │
+│ item_0006            │ ERROR                │ ChatGPT Create image feature   │
+│                      │                      │ is disabled - daily usage      │
+│                      │                      │ limit reached. Shows "120 more │
+│                      │                      │ available on August 8"         │
+│ item_0006            │ thread_id            │ 68967da1-ef04-8333-88c2-d5bd8… │
+│ item_0007            │ error_message        │ ChatGPT Plus image generation  │
+│                      │                      │ limit reached. Create image    │
+│                      │                      │ option disabled with message:  │
+│                      │                      │ "120 more available on August  │
+│                      │                      │ 8"                             │
+│ item_0007            │ thread_id            │ 68967ebb-4d44-832e-82b3-46aea… │
+│ item_0008            │ thread_id            │ 6896803c-c694-8325-bdbd-ee044… │
+│ item_0009            │ ERROR                │ You've hit the plus plan limit │
+│                      │                      │ for image generations          │
+│                      │                      │ requests. You can create more  │
+│                      │                      │ images when the limit resets   │
+│                      │                      │ in 11 hours and 14 minutes.    │
+│ item_0009            │ thread_id            │ 6895cc0d-e1b4-8331-99b3-70ecb… │
+│ item_0010            │ thread_id            │ 68967b48-8894-8323-9410-8a0da… │
+│ item_0011            │ thread_id            │ 68968287-0e78-8327-8d32-560f1… │
+│ item_0012            │ thread_id            │ 689683d7-fb34-8333-87ad-e816f… │
+│ item_0013            │ thread_id            │ 68968517-6560-8333-a6f0-efc9d… │
+│ item_0014            │ thread_id            │ 68968655-b24c-832d-a55e-1af6a… │
+│ item_0015            │ thread_id            │ 68968788-b15c-832b-9dbe-b5766… │
+│ item_0016            │ thread_id            │ 689688b2-69dc-832b-8ed9-b86a0… │
+│ item_0017            │ thread_id            │ 68968a2c-6e68-8326-bb02-68b07… │
+│ item_0018            │ thread_id            │ 68968b5b-26e4-8326-8d8b-e7269… │
+│ item_0019            │ thread_id            │ 68968c72-a484-8325-a18b-fe9b3… │
+│ item_0020            │ thread_id            │ 68968db2-3d04-8328-8609-97718… │
+│ item_0021            │ thread_id            │ 68968ec5-69b4-8329-990f-5a4ed… │
+│ item_0022            │ thread_id            │ 68969028-e2e0-832a-8d5a-8f826… │
+│ item_0023            │ thread_id            │ 689691e8-d65c-8328-857c-f903b… │
+│ item_0024            │ thread_id            │ 6896933b-23a0-832b-86b7-51566… │
+│ item_0025            │ thread_id            │ 689694a0-ebd8-8324-a3bc-dcb90… │
+╰──────────────────────┴──────────────────────┴────────────────────────────────╯

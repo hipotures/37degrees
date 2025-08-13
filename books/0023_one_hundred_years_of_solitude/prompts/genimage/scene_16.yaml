@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1920s Colombian Caribbean coast, blazing Sunday afternoon with merciless sun
+    location: Central plaza adjacent to railway station during worker strike, Colombian jungle village
+    weather: Cloudless sky with oppressive heat creating shimmering air and dust
+  characters:
+  - appearance: Man, son (twin) of Arcadio and Santa Sofía, identical to brother Aureliano Segundo in youth, witnesses banana
+      massacre and survives to remember what everyone else forgets
+    clothing: Simple worker's clothes appropriate for Sunday gathering
+    position: Standing in crowd of over three thousand striking workers and families
+    action: Looking around nervously as military positions become visible on rooftops
+  - appearance: Military officer representing government authority and foreign business interests, stern expression of man
+      carrying out orders without question
+    clothing: Official military uniform with insignia of rank and government authority
+    position: Standing on makeshift platform reading decree to crowd
+    action: Reading official proclamation giving workers five minutes to disperse
+  scene:
+    mainElements: Plaza packed with over three thousand striking banana workers with wives and children in Sunday clothes,
+      military troops surrounding plaza with machine gun nests on rooftops invisible to crowd, small platform where officer
+      reads ultimatum, railway station visible in background, atmosphere of tense anticipation
+    details: Massive crowd of workers and families gathered peacefully in best clothes, machine gun nests strategically placed
+      on surrounding rooftops but hidden from crowd view, dust rising from packed earth plaza, intense heat creating oppressive
+      atmosphere, sense of impending tragedy, no readable text on official decree
+    background: Adobe buildings surrounding plaza with hidden military positions, railway station where freight train will
+      later remove evidence, jungle edge visible beyond village buildings
+    atmosphere: Peaceful labor gathering about to become scene of horrific violence, official indifference to human life,
+      moment before historical tragedy that will be erased from collective memory
+  composition:
+    cameraAngle: Wide shot from elevated position showing entire plaza and hidden military positions
+    focus: Massive crowd of innocent workers contrasted with hidden instruments of death on rooftops
+    depth: 'Foreground: densely packed crowd, middle: plaza and platform, background: surrounding buildings with hidden machine
+      guns'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

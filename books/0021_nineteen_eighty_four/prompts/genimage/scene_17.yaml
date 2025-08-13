@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1984, evening, warm electric lighting from quality lamps
+    location: Spacious Inner Party apartment with quality furnishings and real luxuries
+    weather: Comfortable controlled climate with warmth
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Sitting nervously in comfortable armchair, leaning forward with intense attention
+    action: Listening with desperate hope and fear while accepting wine glass, committing himself to dangerous path
+  - appearance: Man, approximately 50 years old, large powerfully built frame, burly build with thick neck and broad chest,
+      coarse humorous cruel face that is simultaneously intelligent and charming, prominent aquiline nose, thick dark hair,
+      wears eyeglasses which he frequently adjusts
+    clothing: Black overalls (Inner Party uniform) signifying high rank and authority
+    position: Standing beside Winston's chair in position of authority and control
+    action: Speaking with compelling authority while pouring wine, adjusting eyeglasses with characteristic gesture, weaving
+      web of deception
+  scene:
+    mainElements: Luxurious apartment with real carpet, crystal wine decanters, comfortable armchairs, telescreen that can
+      be switched off, warm electric lamps instead of harsh fluorescent lighting, quality pre-war furnishings, wooden table
+      with real wine and food
+    details: Elaborate deception disguised as revolutionary recruitment. O'Brien's powerful frame dominates comfortable space
+      as he manipulates desperate Winston. Crystal wine glasses catch warm lamplight. The switched-off telescreen represents
+      ultimate privilege and false freedom. Winston's thin frame appears even more fragile against luxury surroundings. O'Brien's
+      intelligent but cruel face shows pleasure in orchestrating elaborate trap. Real wine and food demonstrate Inner Party
+      privileges. Every comfort offered is part of psychological manipulation. No text or letters visible.
+    background: Large windows with heavy curtains, bookshelves with real books, comfortable furniture suggesting permanent
+      comfort
+    atmosphere: Sophisticated deception disguised as revolutionary conspiracy, luxurious manipulation using privilege to create
+      false intimacy and trust
+  composition:
+    cameraAngle: Medium shot showing power dynamic between standing O'Brien and seated Winston
+    focus: O'Brien's commanding presence as he manipulates hopeful Winston
+    depth: Foreground Winston in armchair accepting wine, middle ground O'Brien in position of authority, background luxurious
+      apartment fittings
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

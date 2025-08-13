@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Awakening to Ultimate Horror"
+  setting:
+    time: "Renaissance Italy, moments before dawn"
+    location: "Stone crypt in churchyard of Verona, underground vault with family sarcophagi"
+    weather: "First hints of dawn beginning outside, not reaching tomb"
+  characters:
+    - appearance: "Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent eyes, radiant fair complexion"
+      clothing: "White burial dress disheveled, flowers fallen from hair"
+      position: "Sitting up on stone bier, cradling dead lover's head in lap"
+      action: "Kissing lifeless lips seeking poison's remains, tears streaming, trembling with grief and cold"
+    - appearance: "Young man, 16-17 years old, athletic but slender build, dark brown hair slightly longer and tousled, expressive melancholic eyes, fair complexion"
+      clothing: "Rich nobleman's attire in cool tones - deep blue velvet doublet with silver embroidery, gray silk shirt, dark blue trunk hose, black leather boots, short blue cape"
+      position: "Dead in her arms, still warm"
+      action: "Perfectly still, peaceful expression, one hand still reaching toward her"
+  scene:
+    mainElements: "Empty poison vial, dropped dagger gleaming nearby, dying torches, sounds of approach from above"
+    details: "Her white dress stained with his blood, his face still beautiful in death, scattered funeral flowers mixed with fresh blood, stone angels watching from walls, first bird songs outside marking dawn"
+    background: "Stairs showing growing light, voices and footsteps approaching"
+    atmosphere: "Unbearable anguish, time running out, love choosing death over separation, childhood innocence destroyed forever"
+  composition:
+    cameraAngle: "Intimate close angle at her level showing both faces"
+    focus: "The moment of realization and terrible choice"
+    depth: "Juliet and Romeo in sharp foreground, tomb receding in middle ground, approaching light in background"

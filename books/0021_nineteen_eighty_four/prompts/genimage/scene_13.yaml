@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1984, evening after work, dim natural light from window
+    location: Small dingy flat in Victory Mansions with unusual alcove positioning
+    weather: Cold drafty apartment interior
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Seated at small table in alcove, hunched over blank notebook with cream-colored paper
+    action: Writing intently with old-fashioned pen and real ink, occasionally glancing toward telescreen to ensure hidden
+      position
+  scene:
+    mainElements: Shallow alcove where Winston can partially hide from telescreen's view, small table with blank notebook
+      with cream-colored paper, old-fashioned pen and ink bottle, oblong metal plaque resembling dulled mirror mounted on
+      wall (telescreen) partially visible from Winston's hiding spot, window showing bombed ruins outside
+    details: Dangerous act of individual consciousness hidden from surveillance. Winston's thin frame hunches protectively
+      over cream-colored pages. His weathered hand moves carefully with antique pen creating permanent record of forbidden
+      thoughts. The alcove provides only partial concealment from telescreen's mechanical gaze. Ink bottle catches dim evening
+      light. Outside window, bomb-damaged city serves as constant reminder of war and destruction. This secret writing represents
+      last bastion of human memory and individual truth. No text or letters visible on pages or anywhere in scene.
+    background: Window overlooking destroyed London cityscape, bombed buildings and rubble lots visible in distance
+    atmosphere: Desperate preservation of human consciousness against totalitarian erasure, fragile sanctuary of individual
+      thought threatened by constant surveillance
+  composition:
+    cameraAngle: Over Winston's shoulder showing writing position and partial telescreen visibility
+    focus: Winston's concentration as he writes forbidden thoughts in secret diary
+    depth: Foreground Winston and diary, middle ground alcove space and ink bottle, background window showing destroyed city
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

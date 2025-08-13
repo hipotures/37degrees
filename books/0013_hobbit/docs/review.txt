@@ -1,0 +1,678 @@
+﻿Hobbit, czyli tam i z powrotem: Kompleksowa Analiza i Przewodnik Wizualny dla Adaptacji
+
+
+
+
+CZĘŚĆ I: WPROWADZENIE
+
+
+
+
+Informacje bibliograficzne
+
+
+Pełny tytuł i podtytuł
+Pełny tytuł dzieła brzmi Hobbit, czyli tam i z powrotem. Tytuł oryginalny w języku angielskim to The Hobbit, or There and Back Again.1 Podtytuł, "Tam i z powrotem", w zwięzły sposób ujmuje strukturę narracyjną powieści – podróż z bezpiecznego domu w nieznane i ostateczny powrót, który stanowi ramę kompozycyjną dla przygód głównego bohatera. Ta prosta fraza jest kluczem do zrozumienia fundamentalnej transformacji Bilba Bagginsa i stanowi oś tematyczną całego utworu.
+Autor
+Autorem powieści jest John Ronald Reuel Tolkien (1892-1973), wybitny angielski filolog, profesor na Uniwersytecie Oksfordzkim i pisarz, uznawany za prekursora współczesnej literatury fantasy. Biografia Tolkiena jest nierozerwalnie związana z genezą Hobbita. Jako oddany ojciec czwórki dzieci, często tworzył dla nich opowieści. Hobbit narodził się właśnie z tych domowych narracji, snutych na dobranoc, co nadało mu początkowo lekki, baśniowy i gawędziarski ton.3 Jego głęboka wiedza akademicka na temat literatury staroangielskiej, mitologii nordyckiej i językoznawstwa historycznego stała się fundamentem, na którym zbudował niezwykle spójny i bogaty świat Śródziemia.4 Tolkien nie był jedynie pisarzem; był przede wszystkim "sub-kreatorem", twórcą wtórnego świata z własną historią, geografią, językami i mitologią. Jego podejście do tworzenia literatury było unikalne – opowieść wyrastała z języka i mitu, a nie była jedynie konstrukcją fabularną.5
+Data pierwszego wydania
+Książka została po raz pierwszy opublikowana 21 września 1937 roku przez brytyjskie wydawnictwo George Allen & Unwin w Londynie.1 Pierwsze polskie tłumaczenie autorstwa Marii Skibniewskiej ukazało się w 1960 roku, otwierając polskim czytelnikom drzwi do Śródziemia.1
+Gatunek literacki i przynależność do nurtu
+Hobbit jest klasyfikowany jako powieść fantasy, a ze względu na swój pierwotny charakter i ton, często zaliczany jest do literatury dziecięcej.1 Jednakże jego znaczenie wykracza daleko poza tę kategorię. Utwór ten, wraz z późniejszym
+Władcą Pierścieni, stał się kamieniem węgielnym dla podgatunku high fantasy, charakteryzującego się epicką skalą, szczegółowo skonstruowanym światem i wyraźnym konfliktem dobra ze złem.
+Powieść powstała w okresie dwudziestolecia międzywojennego, jednak stylistycznie i tematycznie stoi w opozycji do dominujących wówczas prądów modernistycznych, takich jak eksperymenty formalne czy psychologizm. Zamiast tego, Tolkien świadomie nawiązywał do dawniejszych tradycji literackich – staroangielskich eposów, sag nordyckich i baśni ludowych.4 Jego dzieło jest wyrazem tęsknoty za światem heroicznym, opartym na uniwersalnych wartościach, takich jak odwaga, lojalność i przyjaźń, co stanowiło swoistą ucieczkę od rozczarowań i niepokojów współczesności.
+Okładka – opis wizualny okładki pierwszego wydania
+Pierwsze wydanie Hobbita z 1937 roku posiadało oprawę i obwolutę zaprojektowaną przez samego J.R.R. Tolkiena, co czyni ją niezwykle istotnym artefaktem wizualnym, stanowiącym autorską wizję estetyki Śródziemia. Twarda okładka była w kolorze głębokiej zieleni, a na jej froncie widniał stylizowany, linearny rysunek smoka (Smauga) lecącego nad szczytami gór.7
+Obwoluta, również autorstwa Tolkiena, jest jeszcze bardziej szczegółowa. Przedstawia ona górzysty krajobraz w palecie barw ograniczonej do błękitu, zieleni, czerni i bieli. Po lewej i prawej stronie widać gęste, ciemne lasy, symbolizujące prawdopodobnie Mroczną Puszczę. Centralną część kompozycji zajmują ostre, spiczaste szczyty Gór Mglistych, nad którymi wznosi się słońce i księżyc. Poniżej gór wije się ścieżka, prowadząca w głąb fantastycznego świata. Styl rysunku jest charakterystyczny – uproszczony, niemal heraldyczny, czerpiący inspirację z dawnych map i iluminowanych manuskryptów. Brak tu realizmu; dominuje symbolizm i dekoracyjność.
+Znaczenie autorskiego projektu okładki jest fundamentalne dla każdej próby adaptacji. Tolkien miał bardzo sprecyzowane poglądy na temat wizualnej reprezentacji swojego świata. Jego późniejsza, bardzo krytyczna ocena polskiej okładki autorstwa Jana Młodożeńca, którą określił jako "mordorską" i "ohydną" 10, świadczy o tym, że odrzucał estetykę groteskową, mroczną i psychodeliczną. Preferował styl bardziej klasyczny, zakorzeniony w tradycji nordyckiej i średniowiecznej, który podkreślał baśniowy i mityczny, a nie potworny charakter jego świata. Oryginalna okładka jest zatem najwierniejszym punktem wyjścia dla określenia tonu wizualnego adaptacji – powinna ona dążyć do epickiej prostoty i symbolicznej głębi, a nie do naturalistycznego horroru czy przerysowanej fantastyki.
+
+
+Kontekst powstania
+
+
+Okoliczności napisania książki
+Geneza Hobbita jest niemal tak legendarna jak sama powieść. Jak wspomniano, utwór wyrósł z opowieści, które Tolkien, jako troskliwy ojciec, opowiadał swoim synom przed snem.3 Nie był to jednak od początku zaplanowany projekt literacki. Słynna anegdota, potwierdzona przez samego autora, głosi, że pewnego letniego dnia, podczas żmudnego sprawdzania prac egzaminacyjnych swoich studentów, Tolkien natrafił na pustą stronę. Pod wpływem nagłego impulsu napisał na niej zdanie, które miało zmienić historię literatury: "In a hole in the ground there lived a hobbit" ("W pewnej norze ziemnej mieszkał sobie pewien hobbit").4
+To zdanie stało się zalążkiem opowieści. Tolkien zaczął rozwijać historię, spisując ją i odczytując fragmenty na spotkaniach nieformalnego klubu literackiego "Inklingów" w Oksfordzie, do którego należeli również m.in. C.S. Lewis. To właśnie przyjaciele z tego kręgu zachęcili go do kontynuowania pracy i poszukiwania wydawcy.4 Maszynopis, jeszcze nieukończony, trafił w ręce Susan Dagnall, pracownicy wydawnictwa George Allen & Unwin. Zachwycona tekstem, namówiła Tolkiena do jego dokończenia. Ostateczną decyzję o publikacji podjął szef wydawnictwa, Stanley Unwin, po tym, jak dał książkę do przeczytania swojemu dziesięcioletniemu synowi, Raynerowi. Chłopiec napisał entuzjastyczną, jedno-szylingową recenzję, która przesądziła o losach książki.3
+Inspiracje autora
+Świat Hobbita jest misternie utkaną tkaniną, w której splatają się liczne wątki inspiracji. Najważniejszym i najgłębszym źródłem była mitologia nordycka i germańska. Tolkien, jako filolog, był zafascynowany sagami, eposami i mitami Północy. Znalazło to bezpośrednie odzwierciedlenie w powieści:
+* Imiona postaci: Imiona trzynastu krasnoludów (Dwalin, Balin, Kili, Fili, Dori, Nori, Ori, Oin, Gloin, Bifur, Bofur, Bombur, Thorin) oraz czarodzieja Gandalfa zostały zaczerpnięte bezpośrednio z fragmentu staronordyckiego poematu Völuspá, będącego częścią Eddy Starszej.4
+* Postacie i rasy: Wizerunek krasnoludów – dumnych, nieco chciwych rzemieślników i wojowników – ma swoje korzenie w mitologii germańskiej, ale został także przefiltrowany przez baśnie braci Grimm, takie jak "Królewna Śnieżka".4 Postać Beorna, człowieka potrafiącego zmieniać się w niedźwiedzia, nawiązuje do postaci berserkerów z sag nordyckich oraz do bohatera z baśni "Białośnieżka i Różyczka".4
+* Motywy: Motyw smoka strzegącego skarbu jest archetypiczny i obecny w wielu kulturach, ale jego najbardziej bezpośrednim literackim przodkiem dla Smauga jest smok z anglosaskiego eposu Beowulf.
+Poza mitologią, Tolkien czerpał także z literatury bliższej swoim czasom. Powieść Królewna i goblin szkockiego pisarza George'a MacDonalda, którą Tolkien podziwiał, dostarczyła inspiracji dla wizerunku goblinów i podziemnych królestw.4 Nie można również pominąć osobistych przekonań Tolkiena. Jego głęboka wiara katolicka, choć nieobecna w sposób dosłowny, przejawia się w uniwersalnych tematach walki dobra ze złem, miłosierdzia (oszczędzenie Golluma przez Bilba) i działania Opatrzności, która kieruje losami bohaterów. Sam Tolkien postrzegał świat jako przestrzeń "utkaną z mitów i elfich wzorów", gdzie język i opowieść mają moc kreacyjną.4
+Miejsce w dorobku pisarza
+Hobbit zajmuje wyjątkowe miejsce w dorobku Tolkiena. Jest to dzieło pomostowe, łączące jego prywatne, rodzinne opowieści z rozległym i poważnym legendarium Śródziemia, nad którym pracował przez większość swojego życia (a które zostało w dużej mierze opublikowane pośmiertnie jako Silmarillion). Początkowo Hobbit nie był pomyślany jako integralna część tej mitologii. Był samodzielną baśnią dla dzieci.
+Jednak ogromny sukces książki i prośby czytelników o "więcej opowieści o hobbitach" 3 skłoniły Tolkiena do napisania kontynuacji. Ta kontynuacja przerodziła się w monumentalnego
+Władcę Pierścieni, dzieło o znacznie mroczniejszym tonie i epickiej skali. Aby pogodzić obie opowieści, Tolkien musiał dokonać pewnych rewizji w późniejszych wydaniach Hobbita. Najsłynniejsza zmiana dotyczy rozdziału "Zagadki w ciemnościach". W pierwszym wydaniu z 1937 roku Gollum był mniej złowrogą postacią, która po przegranej w zagadki dobrowolnie oddaje Bilbowi pierścień jako nagrodę.11 W wydaniu z 1951 roku scena została przepisana, aby lepiej pasowała do mrocznej natury Jedynego Pierścienia, jaką Tolkien rozwinął we
+Władcy Pierścieni. Gollum stał się postacią tragiczną i niebezpieczną, a Bilbo zdobył Pierścień podstępem, co nadało całemu wydarzeniu znacznie większą wagę moralną. Hobbit jest więc zarówno wstępem do Śródziemia dla nowych czytelników, jak i fascynującym przykładem ewolucji twórczej autora.
+Recepcja krytyczna i czytelnicza
+Od samego początku Hobbit spotkał się z entuzjastycznym przyjęciem. Krytycy chwalili oryginalność, bogactwo wyobraźni i wciągającą fabułę. C.S. Lewis, przyjaciel Tolkiena, napisał pochlebną recenzję w "The Times Literary Supplement". Książka zdobyła prestiżową nagrodę New York Herald Tribune dla najlepszej książki dla dzieci sezonu.8 Czytelnicy, zarówno dzieci, jak i dorośli, pokochali historię Bilba Bagginsa.
+Popularność powieści nie osłabła z biegiem lat; wręcz przeciwnie, publikacja Władcy Pierścieni w latach 50. jeszcze bardziej wzmocniła jej status. Hobbit stał się lekturą obowiązkową dla pokoleń fanów fantasy i jest nieustannie wznawiany na całym świecie. Jego sukces dowodzi, że opowieść, choć napisana z myślą o dzieciach, porusza uniwersalne tematy i archetypy, które rezonują z odbiorcami w każdym wieku. Stała się bramą do jednego z najbardziej kochanych światów literackich XX wieku, a jej trwały wpływ na kulturę popularną jest nie do przecenienia.
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+Miejsce akcji
+
+
+Świat przedstawiony w Hobbicie jest kluczowym elementem, który nadaje powieści epicki wymiar i stanowi tło dla przemiany głównego bohatera. Akcja rozgrywa się w północno-zachodniej części fikcyjnego kontynentu zwanego Śródziemiem, w schyłkowym okresie jego Trzeciej Ery. Podróż kompanii Thorina jest podróżą linearną, prowadzącą ze spokojnego, cywilizowanego zachodu na dziki i niebezpieczny wschód. Każda z odwiedzanych krain posiada unikalny charakter, topografię, klimat i atmosferę, co stanowi serię wizualnych i fabularnych kontrastów.
+Mapowanie ważnych lokacji w książce
+Trasa wyprawy stanowi szkielet narracyjny powieści i może być precyzyjnie prześledzona na mapie, którą Tolkien dołączył do książki. Podróż rozpoczyna się w Hobbitonie, sercu krainy Shire. Stamtąd wiedzie na wschód, przez opuszczone i niebezpieczne Samotne Krainy, gdzie bohaterowie napotykają trolle. Następnie docierają do ukrytej doliny Rivendell (w języku elfów Imladris), ostatniego bastionu cywilizacji przed dzikimi ostępami. Kolejnym etapem jest przeprawa przez potężny łańcuch Gór Mglistych, w których wnętrzu znajduje się podziemne królestwo goblinów. Po drugiej stronie gór kompania znajduje schronienie w domu Beorna, a następnie staje przed najtrudniejszym wyzwaniem na trasie – przeprawą przez Mroczną Puszczę. Po wyjściu z lasu docierają do Długiego Jeziora, na którym zbudowane jest ludzkie Miasto na Jeziorze (Esgaroth). Ostatni etap podróży prowadzi ich do celu wyprawy: Samotnej Góry (Erebor), pod którą leżało zrujnowane miasto Dal.12
+
+
+OPIS WIZUALNY MIEJSC (OBOWIĄZKOWY)
+
+
+Hobbiton i Bag End
+* Architektura i Układ Przestrzenny: Hobbiton to idylliczna wioska położona w zielonej, pagórkowatej krainie Shire. Jej architektura jest unikalna i organiczna. Hobbici mieszkają w "smialach" – komfortowych norach wykopanych w zboczach łagodnych wzgórz.13 Najważniejszą z nich jest Bag End, rezydencja Bilba Bagginsa. Jej wejście stanowią idealnie okrągłe, pomalowane na zielono drzwi z lśniącą, żółtą mosiężną klamką umieszczoną dokładnie pośrodku.13 Drzwi otwierają się na długi, cylindryczny hol przypominający tunel, wyłożony boazerią i kafelkami, umeblowany politurowanymi krzesłami i licznymi wieszakami na płaszcze.2 Z tego centralnego korytarza odchodzą, bez użycia schodów, wszystkie pomieszczenia: sypialnie, łazienki, piwnice, garderoby i liczne, dobrze zaopatrzone spiżarnie. Najlepsze pokoje, z głęboko osadzonymi, okrągłymi oknami, wychodzą na południe, oferując widok na ogród i łąki schodzące ku rzece.2
+* Kolory i Oświetlenie: Dominującą paletą barw jest zieleń trawiastych dachów i drzwi, ciepłe brązy drewna i radosne kolory kwiatów w ogrodach. Wnętrza są jasne i przytulne, oświetlone naturalnym światłem wpadającym przez okna oraz ciepłym blaskiem kominków i lamp.
+* Atmosfera i Scenografia: Atmosfera Hobbitonu to kwintesencja spokoju, bezpieczeństwa i sielskiego komfortu (ang. comfort). W powietrzu unosi się zapach świeżo skoszonej trawy, pieczonego chleba i fajkowego ziela. Dźwięki to śpiew ptaków, brzęczenie pszczół i pogwizdywanie pracujących w ogrodach hobbitów. Wnętrze Bag End jest pełne wygodnych mebli, kolorowych dywanów, map i książek. Rysunki samego Tolkiena pokazują, że w holu wisiały również typowe dla angielskiego domu przedmioty, jak zegar ścienny i barometr, co dodatkowo ugruntowuje to miejsce w swojskiej, niemal realnej estetyce.14 Bag End nie jest jedynie domem; to wizualne ucieleśnienie idei domu – miejsca, do którego się tęskni i do którego pragnie się powrócić. Ten obraz stanowi fundamentalny kontrast dla surowości i niebezpieczeństw, z jakimi Bilbo zmierzy się podczas podróży.
+Rivendell (Imladris)
+* Architektura i Układ Przestrzenny: Rivendell, czyli "Głęboka Dolina Pocięta Szczelinami", jest opisane nie tyle przez pryzmat konkretnych budynków, co przez harmonijne wtopienie architektury w krajobraz. Jest to ukryte sanktuarium położone w głębokiej dolinie u stóp Gór Mglistych, przeciętej przez bystrą rzekę Bruinen.15 Dostęp do niego jest trudny, prowadzi przez jedyny, wąski kamienny most. W książce brakuje szczegółowych opisów budynków, jednak ilustracje Tolkiena dostarczają kluczowych wskazówek wizualnych.16 Przedstawiają one zbiór eleganckich, wielopoziomowych budowli o spadzistych dachach, z licznymi tarasami, otwartymi pawilonami i smukłymi wieżami, które zdają się wyrastać spomiędzy sosen i buków. Architektura elfów jest lekka, finezyjna i pozbawiona monumentalnej ciężkości krasnoludzkich budowli. To nie jest forteca, lecz miejsce mądrości i schronienia.
+* Kolory i Oświetlenie: Paleta barw Rivendell jest jesienna i nasycona. Dominują złoto, pomarańcz i czerwień liści buków, przełamane głęboką zielenią wiecznie zielonych sosen i bielą spienionych wodospadów. Oświetlenie jest łagodne i rozproszone, jakby przefiltrowane przez liście. Wieczorami dolinę rozświetla blask gwiazd i zawieszonych wśród drzew lampionów, tworząc magiczną, niemal senną poświatę.
+* Atmosfera i Scenografia: Atmosfera Rivendell jest nasycona spokojem, starożytną mądrością i subtelną magią. Jest to miejsce, które leczy "zmęczenie, lęk i smutek".15 W powietrzu unosi się zapach wilgotnej ziemi i żywicy. Dominującymi dźwiękami są nieustanny szum wody i melodyjny śpiew elfów, który rozbrzmiewa w dolinie.18 Wnętrza Domu Elronda są przestronne, pełne rzeźbionego drewna, gobelinów i map. Centralnym punktem jest Sala Kominkowa, gdzie płonie wieczny ogień i gdzie można usłyszeć opowieści i pieśni o dawnych dniach.15 Wizualnie Rivendell jest ucieleśnieniem przemijającego piękna i elfickiej tęsknoty za nieśmiertelnością, stanowiąc ostry kontrast zarówno dla przyziemnego komfortu Hobbitonu, jak i dla brutalnej dzikości nadchodzących krain.
+Mroczna Puszcza
+* Krajobraz i Układ Przestrzenny: Mroczna Puszcza to olbrzymi, starożytny las, który przytłacza swoją skalą i mrokiem. Nie ma tu żadnej architektury, jedynie nieprzenikniona, wroga natura. Bohaterowie poruszają się wąską, ledwo widoczną ścieżką, która wije się między potężnymi, starymi drzewami. Korony drzew są tak gęste i splecione ze sobą, że tworzą nad ścieżką "ciemny tunel", niemal całkowicie odcinający dostęp światła.2 Las jest klaustrofobiczny, a ścieżka wydaje się nie mieć końca.
+* Kolory i Oświetlenie: Paleta barw jest skrajnie ograniczona i mroczna. Dominuje czerń i ciemne odcienie zieleni i brązu. Liście są "sczerniałe", wiewiórki "czarne", a pajęczyny "grube i czarne".2 Zaczarowany strumień, który przecina ścieżkę, ma wodę czarną i mętną.2 Oświetlenie jest niemal zerowe. Panuje wieczny półmrok, a noce są absolutnie czarne, "czarne jak smoła".2 Rzadkie promienie słońca, które zdołają się przebić przez gęstwinę, są jak "wąskie, lśniące ostrza", co tylko podkreśla otaczającą ciemność.
+* Atmosfera i Scenografia: Atmosfera jest ciężka, duszna i opresyjna. Powietrze stoi w miejscu, pozbawione najmniejszego powiewu. Panuje niemal absolutna cisza, przerywana jedynie przez niepokojące, niezidentyfikowane dźwięki – "pomruki, sapania, stąpania" dobiegające z gęstwiny.2 Najbardziej charakterystycznym elementem scenografii są wszechobecne pajęczyny – grube, lepkie sieci rozwieszone między drzewami, które budzą odrazę i strach.2 Mroczna Puszcza jest wizualnym i psychologicznym testem wytrzymałości; to labirynt, który ma złamać ducha podróżników.
+Miasto na Jeziorze (Esgaroth)
+* Architektura i Układ Przestrzenny: Esgaroth to unikalna osada w całości zbudowana na wodzie. Jest to miasto wzniesione na wielkich, drewnianych palach wbitych w dno Długiego Jeziora, w pewnej odległości od brzegu, dla ochrony przed atakami.20 Długi, drewniany most łączy miasto z lądem. Architektura jest czysto funkcjonalna – budynki są drewniane, proste, często wielopiętrowe, połączone siecią pomostów i nabrzeży. Centralnym punktem miasta jest wielki rynek, który jest jednocześnie przystanią, do której przybijają łodzie kupieckie. Władca miasta rezyduje w wielkiej, drewnianej hali. Tekst wspomina o "gnijących palach większego miasta" widocznych przy niskim stanie wody, co sugeruje, że obecne Esgaroth jest cieniem swojej dawnej, bogatszej wersji.20
+* Kolory i Oświetlenie: Dominują naturalne kolory drewna – od jasnych brązów po ciemne, niemal czarne odcienie mokrych, omszałych desek. Kontrastuje z nimi ciemnoniebieska lub szara tafla jeziora. Oświetlenie jest zmienne, zależne od pogody, często zimne i surowe z powodu wiatrów wiejących od Samotnej Góry.2 Nocą miasto ożywa blaskiem lampionów i pochodni, których światła malowniczo odbijają się w wodzie.
+* Atmosfera i Scenografia: Esgaroth to tętniące życiem, choć nieco podupadłe, miasto handlowe. Atmosfera jest pragmatyczna i surowa. W powietrzu unosi się zapach ryb, mokrego drewna, smoły i zimnej wody. Wszechobecne dźwięki to skrzypienie desek pod stopami, plusk wody o pale, krzyki mew i gwar kupców na targu. Scenografia jest pełna sieci rybackich, beczek, łodzi i towarów sprowadzanych rzeką. To świat ludzi – twardych, praktycznych i nieufnych, ukształtowanych przez bliskość niebezpieczeństwa w postaci smoka.
+Samotna Góra (Erebor) i okolice
+* Geografia i Wygląd Zewnętrzny: Erebor to potężna, izolowana góra, która dominuje nad otaczającą ją równiną. Jej charakterystyczny kształt, z sześcioma długimi ramionami odchodzącymi od centralnego masywu, czyni ją rozpoznawalnym punktem orientacyjnym.21 U jej południowych podnóży, z wnętrza góry wypływa Bystra Rzeka. Przed przybyciem Smauga, okolica była żyzna i bogata, a u stóp góry leżało prosperujące miasto ludzi, Dal.13 W czasach akcji powieści krajobraz jest spustoszony i martwy. Dolina Dal jest zrujnowana, ziemia spalona, a roślinność karłowata. Główna Brama Ereboru, niegdyś wspaniała, jest teraz poczerniała od smoczego ognia i ziejąca pustką.
+* Wnętrze Góry: Przed zniszczeniem, wnętrze Ereboru było cudem krasnoludzkiej inżynierii i sztuki – ogromne, rzeźbione sale, korytarze o gładkich ścianach, bogato zdobione komnaty i potężne warsztaty.21 Po najeździe Smauga, większość tych wspaniałości popadła w ruinę i zapomnienie. Centralna i najniższa komnata góry stała się legowiskiem smoka. Jest to gigantyczna jaskinia, której podłoga jest w całości pokryta niewyobrażalną ilością skarbów: złotem, srebrem, klejnotami, zbrojami i bronią. Wnętrze jest pogrążone w mroku, rozświetlanym jedynie przez złowieszczy, czerwony blask bijący od śpiącego Smauga.22
+* Atmosfera: Atmosfera wokół i wewnątrz góry jest przytłaczająca. Na zewnątrz panuje grobowa cisza i poczucie straty. Wewnątrz czuć stęchliznę, zapach siarki i smoczego odoru. Powietrze jest ciężkie i gorące. To miejsce jest jednocześnie symbolem utraconej chwały krasnoludów i ucieleśnieniem destrukcyjnej siły chciwości.
+
+
+Czas akcji
+
+
+Konkretny okres historyczny i czas trwania akcji
+Akcja powieści osadzona jest w fikcyjnym świecie, ale jej wewnętrzna chronologia jest precyzyjna. Wydarzenia rozgrywają się w roku 2941 Trzeciej Ery Śródziemia. Wyprawa kompanii Thorina jest wydarzeniem o wyraźnie zaznaczonych ramach czasowych, trwającym nieco ponad rok. Rozpoczyna się wiosną, pod koniec kwietnia, kiedy to w norce Bilba odbywa się "nieproszone przyjęcie". Podróż trwa przez lato, jesień i zimę. Kluczowe wydarzenia pod Samotną Górą, w tym śmierć Smauga i Bitwa Pięciu Armii, mają miejsce późną jesienią. Droga powrotna zajmuje Bilbowi i Gandalfowi kolejne miesiące, a hobbit wraca do Bag End w czerwcu następnego roku (2942 T.E.), zamykając roczny cykl przygody.
+WIZUALNE MARKERY EPOKI
+Świat przedstawiony w Hobbicie pod względem technologicznym i kulturowym odpowiada estetyce europejskiego wczesnego lub dojrzałego średniowiecza, przefiltrowanej przez pryzmat mitologii nordyckiej.
+* Stroje charakterystyczne dla okresu: Ubiór postaci jest prosty, funkcjonalny i wykonany z naturalnych materiałów, takich jak wełna, len i skóra.
+   * Hobbici: Noszą kolorowe, wygodne ubrania. Bilbo preferuje zielone kubraki i żółte spodnie, co podkreśla jego pogodną naturę i związek z przyrodą.23
+   * Krasnoludy: Ich strój jest bardziej praktyczny i przygotowany na trudy podróży. Noszą grube płaszcze i charakterystyczne kaptury w różnych kolorach (błękitny, zielony, czerwony, żółty, purpurowy, szary, brązowy, biały), które służą do identyfikacji.2 Pod płaszczami mogą nosić kolczugi, a ich strój uzupełniają solidne, skórzane pasy i buty.
+   * Elfy: Ubiór elfów jest elegancki i finezyjny. Elfy z Rivendell noszą szaty zdobione drogocennymi kamieniami.18 Król Leśnych Elfów, Thranduil, nosi koronę wykonaną z naturalnych elementów – kwiatów wiosną, a jesienią z czerwonych liści i jagód, co wizualnie podkreśla jego głęboki związek z cyklami natury.24
+   * Ludzie: Mieszkańcy Esgaroth noszą proste, praktyczne ubrania odpowiednie dla rybaków i kupców – wełniane tuniki, skórzane kamizele i płaszcze chroniące przed zimnem i wilgocią. Bard, jako łucznik, ubrany jest zapewne w strój, który nie krępuje ruchów.
+* Środki transportu: Transport jest prymitywny i opiera się na sile mięśni ludzi i zwierząt. Podstawowym sposobem przemieszczania się jest piesza wędrówka. Kompania wykorzystuje kucyki do przewożenia zapasów. W dalszej części podróży kluczową rolę odgrywa transport wodny: beczki spławiane Leśną Rzeką oraz łodzie i barki używane na Długim Jeziorze.
+* Technologia i przedmioty codziennego użytku: Poziom technologii jest preindustrialny. Nie istnieją maszyny parowe ani skomplikowane mechanizmy (z wyjątkiem tych tworzonych przez gobliny, które lubują się w torturach i prostych urządzeniach wojennych). Rzemiosło, zwłaszcza kowalstwo, stoi na bardzo wysokim poziomie. Krasnoludy są mistrzami w obróbce metalu i kamienia, a elfy w tworzeniu przedmiotów o magicznych właściwościach. Broń to miecze, topory, włócznie i łuki. Przedmioty codziennego użytku to gliniane i drewniane naczynia, lampy olejne, krzesiwa do rozpalania ognia i nieodłączne atrybuty hobbitów i czarodziejów – gliniane fajki.
+* Wygląd ulic i przestrzeni publicznych: Przestrzenie publiczne są proste i funkcjonalne. W Esgaroth jest to drewniane targowisko na głównym pomoście. W Rivendell – otwarte sale i dziedzińce. Królestwo goblinów to sieć surowych, skalnych jaskiń i tuneli, oświetlonych blaskiem pochodni. Brak tu brukowanych dróg w dzikich krainach; bohaterowie poruszają się po ledwo wydeptanych ścieżkach.
+Retrospekcje i projekcje czasowe
+Narracja prowadzona jest w sposób linearny i chronologiczny. Retrospekcje pojawiają się głównie w formie opowieści snutych przez bohaterów, które dostarczają kontekstu historycznego. Najważniejszą z nich jest opowieść Thorina w Bag End o dawnej chwale Ereboru i najeździe Smauga. Podobnie Elrond w Rivendell opowiada o historii mieczy z Gondolinu. Nie ma tu skomplikowanych zabiegów czasowych; przeszłość istnieje w pamięci, legendach i pieśniach, co wzmacnia mityczny charakter świata.
+Znaczenie czasu dla rozwoju fabuły
+Czas odgrywa kluczową rolę w fabule, często jako element napędzający akcję lub stawiający przed bohaterami konkretne wyzwania. Cykl pór roku wpływa na warunki podróży – od przyjemnej wiosennej wędrówki po mroźną zimę u stóp Samotnej Góry. Czas jest również elementem zagadki. Słowa zapisane literami księżycowymi na mapie Throra precyzyjnie określają, kiedy można otworzyć sekretne drzwi: "Stań na szarym głazie, kiedy drozd dziobem zastuka (...) a zachodzące słońce ostatnim promieniem dnia Durina wskaże ci dziurkę od klucza".25 To zmusza bohaterów do cierpliwego wyczekiwania na konkretny moment astronomiczny, co buduje napięcie i podkreśla znaczenie dawnych tradycji i kalendarzy.
+
+
+Kontekst historyczny
+
+
+Akcja Hobbita osadzona jest w bogatym kontekście historycznym Śródziemia, choć w samej powieści jest on jedynie zarysowany. Wydarzenia, których świadkiem jest Bilbo, stanowią fragment znacznie większej, globalnej rozgrywki między siłami dobra i zła.
+Wydarzenia historyczne w tle
+Najważniejszym wydarzeniem rozgrywającym się równolegle do wyprawy do Ereboru jest atak Białej Rady na twierdzę Dol Guldur, położoną na południowym skraju Mrocznej Puszczy. Biała Rada, w skład której wchodzili najpotężniejsi czarodzieje i władcy elfów (m.in. Gandalf, Saruman i Elrond), postanowiła ostatecznie usunąć z tej twierdzy złowrogą istotę znaną jako Czarnoksiężnik. To właśnie ta misja jest prawdziwym powodem, dla którego Gandalf opuszcza kompanię Thorina przed wejściem do Mrocznej Puszczy i pojawia się ponownie dopiero przed Bitwą Pięciu Armii.14 W
+Hobbicie jest to wspomniane bardzo lakonicznie, gdy Gandalf na końcu wyjaśnia Bilbowi, że miał "pilne sprawy na południu".13 Jednak w szerszym kontekście legendarium, to wydarzenie ma ogromne znaczenie – Czarnoksiężnik to w rzeczywistości Sauron, główny antagonista
+Władcy Pierścieni, który po wygnaniu z Dol Guldur potajemnie przenosi się do Mordoru i rozpoczyna odbudowę swojej potęgi. Wyprawa krasnoludów, choć z ich perspektywy jest prywatnym przedsięwzięciem mającym na celu odzyskanie skarbu, z perspektywy Gandalfa jest strategicznym ruchem mającym na celu usunięcie smoka z północy, aby Sauron nie mógł go wykorzystać w nadchodzącej wojnie.
+Wpływ historii na losy bohaterów
+Historia Śródziemia bezpośrednio kształtuje losy i motywacje bohaterów. Thorin Dębowa Tarcza jest potomkiem wielkiego rodu królów krasnoludów, a jego duma i determinacja wynikają z poczucia historycznej krzywdy i obowiązku odzyskania dziedzictwa przodków. Bard jest potomkiem Giriona, ostatniego władcy miasta Dal, co legitymizuje jego roszczenia do części skarbu i rolę przywódcy po śmierci Smauga. Znalezione przez kompanię miecze, Glamdring i Orkrist, są reliktami z dawno upadłego elfickiego królestwa Gondolin, a ich historia i moc budzą lęk we wrogach.2 Cała opowieść jest przesiąknięta poczuciem głębokiej przeszłości, która nieustannie wpływa na teraźniejszość.
+
+
+Kontekst społeczny
+
+
+Struktura społeczna przedstawiona w książce
+Społeczeństwo Śródziemia jest zróżnicowane i podzielone wzdłuż linii rasowych. Każda z ras tworzy odrębną, w dużej mierze zamkniętą społeczność z własną kulturą, językiem, systemem wartości i strukturą władzy.
+* Hobbici: Tworzą egalitarną, rolniczą społeczność, która ceni spokój, dobre jedzenie i komfort. Ich struktura społeczna jest prosta, oparta na rodach i szacunku dla tradycji. Nie mają króla, a ich nominalnym przywódcą jest Thain, choć w praktyce rządzą się sami. Status społeczny zależy od zamożności i "szanowności" rodu. Rodzina Bagginsów jest uważana za bardzo szanowną, podczas gdy Tukowie mają reputację ekscentryków skłonnych do przygód.13
+* Krasnoludy: Ich społeczeństwo jest monarchiczne i klanowe. Na czele stoi król (w tym przypadku Thorin, prawowity dziedzic tytułu Króla pod Górą). Są ludem wygnańców, co wzmacnia ich wewnętrzną solidarność, ale też nieufność wobec obcych. Lojalność wobec przywódcy i rodu jest najwyższą wartością. Ich kultura jest patriarchalna, a status wojownika i rzemieślnika jest wysoko ceniony.
+* Elfy: Społeczeństwo elfów jest arystokratyczne i również monarchiczne. Władcy tacy jak Elrond i Thranduil cieszą się ogromnym autorytetem wynikającym z ich wieku, mądrości i potęgi. Istnieje wyraźny podział na różne grupy elfów. Elfy Wysokiego Rodu (jak Elrond) są mądrzejsze i bardziej otwarte na świat. Elfy Leśne z Mrocznej Puszczy są bardziej dzikie, ksenofobiczne i nieufne.26
+* Ludzie: Społeczeństwo ludzi z Esgaroth jest zorganizowane wokół handlu. Na ich czele stoi obieralny Władca (Mistrz), który jest bardziej kupcem i politykiem niż królem. Jest to społeczeństwo pragmatyczne, w którym status zależy od bogactwa i wpływów.
+Normy, obyczaje i konflikty
+Relacje między rasami są skomplikowane i często naznaczone starymi urazami. Najbardziej widoczny jest konflikt między krasnoludami a elfami. Jego korzenie sięgają dawnych wieków i sporów o skarby. W powieści objawia się on w niechęci, z jaką krasnoludy wchodzą do Rivendell, oraz w otwartej wrogości między kompanią Thorina a królem Thranduilem, który więzi krasnoludy za wkroczenie na jego terytorium.
+Innym źródłem konfliktów jest chciwość. "Smocza choroba" – obsesyjna żądza złota – dotyka nie tylko Smauga, ale również Thorina, który po odzyskaniu skarbu odmawia podzielenia się nim z ludźmi i elfami, co niemal doprowadza do wojny między niedawnymi sojusznikami. Powieść pokazuje, jak wspólne zagrożenie (atak goblinów) potrafi zmusić zwaśnione strony do współpracy, ale nie usuwa głębiej zakorzenionych uprzedzeń. Normy gościnności są bardzo ważne (przyjęcie w Rivendell i u Beorna), a ich złamanie jest uważane za poważne wykroczenie.
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+
+
+Protagonista
+
+
+Bilbo Baggins
+Bilbo Baggins jest sercem i duszą powieści. To przez jego oczy czytelnik odkrywa świat, a jego wewnętrzna przemiana stanowi główną oś tematyczną utworu. Jest on archetypem "małego człowieka" rzuconego w wir wielkich wydarzeń, który odkrywa w sobie nieoczekiwane pokłady odwagi i zaradności.
+
+
+OPIS FIZYCZNY (OBOWIĄZKOWY)
+
+
+* Dokładny wiek: W momencie rozpoczęcia wyprawy Bilbo ma około 50 lat.13 Warto zaznaczyć, że dla hobbitów jest to wiek średni, "wejście w smugę cienia", ponieważ pełnoletność osiągają dopiero w wieku 33 lat.28 Jego wiek podkreśla, że jest postacią ustabilizowaną, o ugruntowanych nawykach, co czyni jego decyzję o wyruszeniu na przygodę jeszcze bardziej niezwykłą.
+* Wzrost i budowa ciała: Jak wszyscy hobbici, jest niskiego wzrostu – niższy od krasnoludów, ale wyższy od liliputów.28 Jego postura jest opisana jako "skłonna do tycia", co manifestuje się w postaci "okrągłego brzuszka" 23, będącego dowodem zamiłowania do dobrego jedzenia i spokojnego trybu życia. Nie jest atletyczny ani muskularny, co wizualnie kontrastuje z wojowniczymi krasnoludami.
+* Kolor i styl włosów: Jego głowę porastają bujne, kędzierzawe włosy koloru brązowego (brunatnego).29 Nie nosi brody, co jest cechą charakterystyczną hobbitów.
+* Kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Tekst nie precyzuje koloru oczu ani szczegółowych rysów twarzy Bilba. Opisuje jego twarz ogólnie jako "sympatyczną".28 Adaptacja wizualna musi więc dokonać tu własnej interpretacji, sugeruje się jednak, aby twarz odzwierciedlała jego początkowo łagodną, nieco naiwną naturę, która z czasem nabiera wyrazu determinacji i mądrości.
+* Charakterystyczne cechy: Najbardziej wyróżniającą cechą fizyczną hobbitów, w tym Bilba, są ich stopy. Są one duże, porośnięte gęstym, brązowym futrem (podobnym do włosów na głowie) i posiadają twarde, skórzaste podeszwy. Dzięki temu hobbici nie potrzebują i nie noszą obuwia.13 Jego uszy są opisane jako "lekko spiczaste".28
+* Typowy ubiór: Bilbo, jak większość hobbitów, lubi kolorowe ubrania. Jego typowy strój składa się z zielonego kubraka i żółtych spodni.22 To zestawienie kolorów podkreśla jego związek z naturą i pogodny charakter. Podczas podróży jego ubiór staje się bardziej praktyczny. Nosi ciemnozielony płaszcz i kaptur, pożyczone od Dwalina, które są na niego za duże i wyglądają nieco komicznie.2 W późniejszym etapie wyprawy Thorin darowuje mu kolczugę z mithrilu, wykonaną dla młodego księcia elfów, która lśni jak "księżyc na wodzie".
+* Sposób poruszania się, gesty, mimika: Naturalną zdolnością hobbitów jest bezszelestne poruszanie się, co okazuje się niezwykle przydatne w jego roli "włamywacza".13 Początkowo jego gesty są nerwowe i niepewne, często macha rękami lub nerwowo bawi się guzikami kamizelki. W miarę rozwoju akcji jego postawa staje się pewniejsza, a ruchy bardziej zdecydowane. Jego mimika jest bardzo ekspresyjna – łatwo odczytać z niej strach, zdziwienie, a później także odwagę i spryt.
+Motywacje i cele
+Początkowo Bilbo nie ma żadnych motywacji do wyruszenia w podróż. Jego celem jest zachowanie status quo: spokojnego, wygodnego życia w Bag End. Zgadza się na udział w wyprawie pod wpływem perswazji Gandalfa i presji krasnoludów, a także z powodu przebudzenia się w nim uśpionej "tuczej" strony jego natury – żyłki przygody odziedziczonej po matce, Beladonnie Tuk.13 W trakcie podróży jego motywacje ewoluują. Początkowo chce jedynie przetrwać i wrócić do domu. Później jednak zaczyna czuć się odpowiedzialny za swoich towarzyszy i jego celem staje się pomoc im w osiągnięciu ich celu. Kulminacją tej zmiany jest jego decyzja o kradzieży Arcyklejnotu – nie robi tego dla zysku, ale aby zapobiec wojnie i ocalić przyjaciół przed zgubną chciwością Thorina. Jego ostatecznym celem staje się nie skarb, lecz przywrócenie pokoju i sprawiedliwości.
+Rozwój psychologiczny
+Przemiana Bilba jest najważniejszym wątkiem psychologicznym powieści. Jest to klasyczny przykład bohatera dynamicznego.30
+* Faza 1: Domator (rozdziały 1-2): Bilbo jest uosobieniem samozadowolenia i niechęci do zmian. Przygody uważa za "nieprzyjemne, niemiłe i niewygodne", a jego reakcją na propozycję Gandalfa jest strach i oburzenie.
+* Faza 2: Przebudzenie (rozdziały 3-8): Podróż zmusza go do wyjścia ze strefy komfortu. Kluczowe momenty tej fazy to spotkanie z trollami, gdzie po raz pierwszy musi użyć sprytu, oraz gra w zagadki z Gollumem, gdzie w samotności i śmiertelnym niebezpieczeństwie odkrywa w sobie zimną krew. Znalezienie pierścienia daje mu narzędzie, ale to walka z pająkami jest prawdziwym przełomem. Zabijając olbrzymiego pająka w pojedynkę, po raz pierwszy czuje się bohaterem i nadaje imię swojemu mieczykowi – Żądło. To symboliczny akt narodzin nowej tożsamości.13
+* Faza 3: Lider (rozdziały 9-16): Bilbo przestaje być jedynie pasażerem wyprawy, a staje się jej kluczowym strategiem. To on obmyśla i realizuje genialny plan ucieczki w beczkach z niewoli elfów. To on jako pierwszy wchodzi do legowiska Smauga i dzięki sprytowi odkrywa jego słaby punkt. Jego odwaga nie jest już brawurą, lecz wynikiem doświadczenia i pewności siebie.
+* Faza 4: Bohater moralny (rozdziały 16-19): Ostatecznym testem dla Bilba nie jest walka z potworem, lecz dylemat moralny. Widząc, jak Thorina ogarnia "smocza choroba", podejmuje najodważniejszą decyzję w całej książce – kradnie Arcyklejnot i przekazuje go Bardowi i królowi elfów, aby wymusić pokojowe rozwiązanie konfliktu.23 Działa wbrew woli swojego przywódcy, ryzykując jego gniew i utratę nagrody, w imię wyższego dobra. To dowodzi, że jego przemiana jest kompletna – z egoistycznego domatora stał się altruistycznym bohaterem, który ceni przyjaźń i pokój ponad złoto.
+Relacje między bohaterami
+* Bilbo i Gandalf: Gandalf jest mentorem i katalizatorem przemiany Bilba. Widzi w hobbicie potencjał, którego on sam nie jest świadomy. Ich relacja opiera się na zaufaniu i pewnej dozie ojcowskiej troski ze strony czarodzieja.
+* Bilbo i Thorin: Relacja ta jest dynamiczna i skomplikowana. Początkowo Thorin jest sceptyczny i nieco pogardliwie odnosi się do "włamywacza". Z czasem, po kolejnych dowodach odwagi i sprytu Bilba, jego szacunek rośnie. Konflikt osiąga apogeum w sprawie Arcyklejnotu, kiedy Thorin w gniewie nazywa Bilba zdrajcą. Ich ostateczne pojednanie na łożu śmierci Thorina jest jednym z najbardziej wzruszających momentów w książce i pieczętuje ich trudną przyjaźń.
+* Bilbo i krasnoludy: Początkowo krasnoludy traktują Bilba jak kłopotliwy bagaż. Jego status w kompanii zmienia się diametralnie po walce z pająkami i ucieczce z pałacu elfów. Staje się dla nich bohaterem i liderem, na którego opinii polegają.
+
+
+Postacie drugoplanowe
+
+
+Gandalf
+* WYGLĄD: Opisywany jako "mały staruszek" o przenikliwych oczach, co jest mylącym przebraniem dla jego prawdziwej mocy.29 W rzeczywistości jest Istari, jednym z potężnych duchów wysłanych do Śródziemia. Ma długą, siwą brodę spływającą poniżej pasa i krzaczaste brwi wystające spod ronda kapelusza. Jego strój jest ikoniczny: wysoki, spiczasty, niebieski kapelusz, długi szary płaszcz przepasany srebrną szarfą i ogromne, czarne, skórzane buty. Zawsze nosi przy sobie drewnianą laskę, która służy mu zarówno jako podpora, jak i narzędzie magiczne.13 Jego wiek jest nieokreślony, ale wydaje się być prastary.
+* Funkcja w fabule: Gandalf pełni rolę mentora, przewodnika i deus ex machina. To on inicjuje całą wyprawę, wybierając Bilba na czternastego uczestnika. Jego obecność często ratuje kompanię z beznadziejnych sytuacji (walka z trollami, ucieczka z jaskiń goblinów). Jego tajemnicze zniknięcia i powroty napędzają fabułę i podkreślają, że bierze on udział w znacznie większej grze, niż zdają sobie sprawę jego towarzysze.
+Thorin Dębowa Tarcza
+* WYGLĄD: Thorin jest dziedzicem królewskiego rodu Durina i jego wygląd odzwierciedla jego status. Jest opisany jako "ogromny, dostojny krasnolud".2 Nosi charakterystyczny błękitny kaptur z długim srebrnym chwostem oraz złoty pas. Jego broda jest długa i, jak u innych krasnoludów, jest oznaką godności. Jego twarz często ma dumny i nieustępliwy wyraz. Włada starożytnym mieczem Orkristem, a po jego utracie – toporem. Jest również utalentowanym muzykiem, grającym na złotej harfie.31 Jego wiek w momencie wyprawy to 195 lat.
+* Funkcja w fabule: Jest przywódcą wyprawy i głównym motorem napędowym akcji. Jego celem jest odzyskanie utraconego królestwa i skarbu. Jest postacią tragiczną – uosabia zarówno szlachetne cechy krasnoludów (odwagę, honor, lojalność), jak i ich największą wadę – chciwość. "Smocza choroba" ostatecznie prowadzi go do zguby, ale w ostatniej chwili życia odnajduje odkupienie, godząc się z Bilbem.
+Kompania Krasnoludów
+* Balin: Starszy brat Dwalina, jeden z najstarszych w kompanii (178 lat). Ma białą brodę i nosi czerwony kaptur.2 Jest najżyczliwiej nastawiony do Bilba i jako jedyny odwiedza go po latach w Shire.
+* Dwalin: Młodszy brat Balina (169 lat). Ma błękitną brodę, którą zatyka za złoty pas, i nosi ciemnozielony kaptur.2 Jest silnym wojownikiem.
+* Fili i Kili: Najmłodsi w kompanii (odpowiednio 82 i 77 lat), siostrzeńcy Thorina. Mają żółte brody, noszą niebieskie kaptury i srebrne pasy.2 Są zwinni, mają doskonały wzrok i często wysyłani są na zwiady. Giną, broniąc śmiertelnie rannego Thorina w Bitwie Pięciu Armii.
+* Dori, Nori, Ori: BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH, poza tym, że ich kaptury mają kolory purpurowy, szary i brązowy (nie wiadomo, który należy do kogo).2 Dori jest najsilniejszy i często pomaga Bilbowi. Ori jest tym, który potrafi pisać i to on zapisuje ostatnie strony kroniki w Morii, jak dowiadujemy się z
+Władcy Pierścieni.
+* Oin i Gloin: Bracia, kuzyni Thorina. BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH, poza tym, że ich kaptury mają kolory biały i brązowy (nie wiadomo, który do kogo).2 Są specjalistami od rozpalania ognia. Gloin jest ojcem Gimliego, członka Drużyny Pierścienia.
+* Bifur, Bofur, Bombur: Bracia, nie pochodzą z rodu Durina. Bifur i Bofur noszą żółte kaptury, a Bombur jasnozielony.2 Bombur jest ekstremalnie gruby i często stwarza problemy logistyczne, ale jest postacią komiczną i sympatyczną. Bifur ma w czole wbity czubek orkowego topora, przez co nie może mówić i komunikuje się gestami i chrząknięciami.
+* Funkcja w fabule: Jako grupa, krasnoludy stanowią tło dla przygód Bilba i reprezentują świat, z którym musi on się skonfrontować. Ich początkowa nieufność i późniejszy podziw dla hobbita są miarą jego przemiany.
+Smaug
+   * WYGLĄD: Smaug jest archetypem wielkiego, europejskiego smoka. Jest olbrzymi, skrzydlaty, pokryty czerwonozłocistymi łuskami.22 Jego brzuch, przez wieki leżenia na skarbie, jest inkrustowany złotem i klejnotami, co tworzy niemal nieprzebijalny pancerz. Posiada jednak jeden słaby punkt – niewielką, nieosłoniętą plamę pod lewą piersią.13 Ma długą, wężową szyję, potężne pazury i zionie ogniem. Jego oczy świecą złowrogo w mroku.
+   * Funkcja w fabule: Jest głównym antagonistą i celem wyprawy. Uosabia chciwość, pychę i niszczycielską siłę. Jest inteligentny, próżny i uwielbia zagadki, co pozwala Bilbowi na nawiązanie z nim niebezpiecznej gry słownej. Jego śmierć jest punktem zwrotnym fabuły, który rozwiązuje główny problem, ale jednocześnie tworzy nowy – konflikt o jego skarb.
+Beorn
+   * WYGLĄD: W ludzkiej postaci jest to potężnie zbudowany mężczyzna o bujnej, czarnej brodzie i włosach oraz muskularnych ramionach.33 Jego wygląd budzi respekt i sugeruje ogromną siłę fizyczną. W drugiej postaci jest olbrzymim, czarnym niedźwiedziem.33
+   * Funkcja w fabule: Jest tajemniczym sojusznikiem, który udziela kompanii schronienia i pomocy po ucieczce z Gór Mglistych. Reprezentuje dziką, nieokiełznaną naturę, która stoi po stronie dobra, ale działa na własnych zasadach. Jego interwencja w Bitwie Pięciu Armii jest decydująca dla zwycięstwa.
+Bard
+   * WYGLĄD: BRAK SZCZEGÓŁOWEGO OPISU WIZUALNEGO W ŹRÓDŁACH. Tekst opisuje go jako człowieka o surowym charakterze, odważnego i ponurego, potomka dawnych królów Dale. Jego wygląd powinien odzwierciedlać te cechy: twarz ogorzała od wiatru, przenikliwe spojrzenie, praktyczny strój łucznika.
+   * Funkcja w fabule: Jest bohaterem, który dokonuje czynu niemożliwego – zabija Smauga. Reprezentuje odwagę i prawość ludzi. Po śmierci smoka staje się przywódcą swojego ludu i głównym adwersarzem Thorina w sporze o skarb, domagając się sprawiedliwego odszkodowania za zniszczenie miasta.
+
+
+Analiza psychologiczna
+
+
+Archetypy bohaterów
+Postacie w Hobbicie często wpisują się w klasyczne archetypy, co nadaje opowieści uniwersalny, mityczny wymiar.
+   * Bilbo: Archetyp Niewinnego lub Każdego, który zostaje powołany na ścieżkę Bohatera. Jego podróż to klasyczny monomit – opuszczenie znanego świata, przejście przez próby i powrót jako odmieniona, mądrzejsza osoba.
+   * Gandalf: Archetyp Mędrca i Mentora. Jest posiadaczem tajemnej wiedzy, który prowadzi i chroni bohatera, ale nie rozwiązuje za niego wszystkich problemów, pozwalając mu na samodzielny rozwój.
+   * Thorin: Archetyp Władcy na Wygnaniu. Jego celem jest odzyskanie królestwa. Jest postacią tragiczną, która ulega własnej słabości (pycha, chciwość), co jest typowe dla wielu bohaterów szekspirowskich.
+   * Smaug: Archetyp Smoka – potężnej, chciwej siły chaosu, która strzeże skarbu (symbolu wiedzy, bogactwa lub duchowego celu) i musi zostać pokonana przez bohatera, aby ten mógł osiągnąć dojrzałość.
+Konflikty wewnętrzne i przemiany charakterologiczne
+Najgłębszy konflikt wewnętrzny przeżywa Bilbo. Jest to walka między jego "bággińską" stroną (miłość do komfortu, spokoju, bezpieczeństwa) a "tuczą" stroną (pragnienie przygody, ciekawość świata). Cała podróż jest procesem integracji tych dwóch aspektów jego osobowości. Wraca do domu jako ktoś, kto nadal ceni sobie wygodę, ale jest bogatszy o doświadczenia, mądrość i przyjaźnie.
+Thorin również przeżywa konflikt wewnętrzny między szlachetnym pragnieniem odzyskania dziedzictwa a niszczycielską, irracjonalną chciwością, którą Tolkien nazywa "smoczą chorobą". Ten konflikt prowadzi go niemal do katastrofy i ostatecznie do śmierci, ale jego przedśmiertne pojednanie z Bilbem pokazuje, że jego szlachetna natura ostatecznie zwycięża.
+Jak wygląd odzwierciedla osobowość
+W Hobbicie wygląd postaci jest często bezpośrednim odzwierciedleniem ich charakteru, co jest typowe dla baśni i mitów.
+   * Niski wzrost i okrągły brzuszek Bilba wizualnie podkreślają jego początkową nieheroiczność i zamiłowanie do prostych przyjemności.
+   * Dostojny wygląd Thorina, jego królewski kaptur i harfa, od razu sygnalizują jego status przywódcy.
+   * Mroczny, tajemniczy wygląd Gandalfa sugeruje jego ukrytą moc i wiedzę.
+   * Ogrom i czerwonozłocista barwa Smauga są wizualnym ucieleśnieniem jego potęgi i ognistej, niszczycielskiej natury.
+   * Oślizgły, czarny wygląd Golluma i jego blade, świecące oczy odzwierciedlają mrok, który go pochłonął z powodu długiego posiadania Pierścienia.
+Ta ścisła korelacja między wyglądem a charakterem jest kluczową wskazówką dla adaptacji wizualnej. Projekt każdej postaci powinien zaczynać się od analizy jej osobowości i roli w fabule, a następnie przełożyć te cechy na konkretne atrybuty fizyczne, strój i sposób bycia.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+
+
+Ekspozycja
+
+
+Wprowadzenie w świat przedstawiony i prezentacja sytuacji wyjściowej
+Powieść rozpoczyna się w idyllicznym, spokojnym świecie Hobbitonu, w krainie Shire. Czytelnik zostaje wprowadzony w zwyczaje i charakter hobbitów – małych, pokojowo nastawionych istot, ceniących nade wszystko komfort, dobre jedzenie i porządek.28 Główny bohater, Bilbo Baggins, jest typowym przedstawicielem swojej rasy: zamożnym, szanowanym kawalerem w średnim wieku, mieszkającym w luksusowej norze pod Pagórkiem, zwanej Bag End.13 Jego życie jest przewidywalne, uporządkowane i całkowicie pozbawione przygód, które uważa za rzecz niepożądaną.
+Sytuacja wyjściowa zostaje gwałtownie zaburzona wraz z pojawieniem się dwóch postaci: czarodzieja Gandalfa i krasnoluda Dwalina. Ich przybycie jest początkiem "nieproszonego przyjęcia", podczas którego do domu Bilba schodzi się kolejno dwunastu innych krasnoludów, z ich przywódcą, Thorinem Dębową Tarczą, na czele. Spokojna, uporządkowana nora hobbita zostaje wypełniona hałasem, gwarem i obcymi obyczajami, co wizualnie i fabularnie symbolizuje wtargnięcie chaosu i przygody w uporządkowane życie Bilba.
+Pierwsze napięcia fabularne
+Pierwsze napięcie rodzi się z konfrontacji dwóch światów: świata Bilba, opartego na komforcie i przewidywalności, oraz świata krasnoludów, naznaczonego wygnaniem, tęsknotą za utraconą ojczyzną i pragnieniem zemsty. Krasnoludy, przy akompaniamencie harfy i wiolonczeli, śpiewają pieśń o dawnej chwale Samotnej Góry (Ereboru), jej niezliczonych skarbach i o straszliwym smoku Smaugu, który zniszczył ich królestwo i zagarnął bogactwa.13
+Główny konflikt zostaje zarysowany: celem wyprawy jest dotarcie do Samotnej Góry, pokonanie smoka i odzyskanie skarbu. Gandalf wyjawia, że wybrał Bilba na czternastego członka kompanii, przypisując mu rolę "włamywacza" lub "doświadczonego poszukiwacza skarbów". To wywołuje konsternację zarówno u krasnoludów, którzy z powątpiewaniem patrzą na małego, przestraszonego hobbita, jak i u samego Bilba, który kategorycznie odmawia udziału. Napięcie budowane jest na pytaniu, czy Bilbo przezwycięży swój strach i wrodzoną niechęć do przygód i dołączy do wyprawy. Ostatecznie, po nocy pełnej snów o smokach i złocie, budzi się w nim uśpiona "tucza" ciekawość i w ostatniej chwili, bez chusteczki do nosa, wybiega z domu, by dołączyć do kompanii.
+
+
+WIZUALIZACJA SCENY OTWIERAJĄCEJ
+
+
+   * Scena 1: Spokojny poranek.
+   * Miejsce i czas: Hobbiton, słoneczny poranek późną wiosną. Kamera przesuwa się nad zielonymi, pofałdowanymi wzgórzami Shire. Widać zadbane ogródki, małe pola i wijącą się rzeczkę. Centralnym punktem jest Pagórek, w zboczu którego osadzone są liczne okrągłe drzwi.
+   * Postacie i pozycje: Przed jednymi z drzwi – idealnie okrągłymi, pomalowanymi na zielono, z lśniącą żółtą klamką – siedzi na ławce Bilbo Baggins. Ma na sobie wygodny, kolorowy strój (np. żółtą kamizelkę, zielone spodnie), jest boso, a jego owłosione stopy swobodnie spoczywają na ziemi. Z zadowoleniem pali długą, drewnianą fajkę, wypuszczając w powietrze kółka dymu. Jego twarz wyraża błogi spokój.
+   * Dynamika i ruch: Scena jest statyczna, spokojna. Jedynym ruchem są kółka dymu i lekki wiatr poruszający liśćmi. Nagle w kadrze pojawia się długi cień. Bilbo podnosi wzrok. Przed nim staje Gandalf – wysoka, lekko przygarbiona postać w spiczastym niebieskim kapeluszu i szarym płaszczu, opierająca się na lasce. Jego twarz jest poorana zmarszczkami, ale oczy błyszczą inteligencją i humorem. Kontrast między małym, krępym hobbitem a wysoką, tajemniczą postacią czarodzieja jest natychmiast widoczny.
+   * Scena 2: Nieproszeni goście.
+   * Miejsce i czas: Wnętrze Bag End, wieczór tego samego dnia. Przytulny, okrągły hol oświetlony jest ciepłym światłem lamp.
+   * Postacie i pozycje: Bilbo, wyraźnie zdenerwowany, otwiera drzwi, za którymi stoi Dwalin – krzepki krasnolud z błękitną brodą i w zielonym kapturze. Scena powtarza się, a do nory wchodzą kolejni krasnoludy, każdy w innym kolorze kaptura, z brodami różnej długości i barwy. Wieszaki w holu szybko zapełniają się kolorowymi kapturami. Krasnoludy bezceremonialnie wchodzą do spiżarni i kuchni, wynosząc jedzenie.
+   * Dynamika i ruch: Scena jest dynamiczna i pełna komicznego chaosu. Mała, uporządkowana przestrzeń nory zostaje opanowana przez hałaśliwych, głodnych gości. Bilbo biega w panice, próbując nadążyć z obsługą.
+   * Ważne przedmioty: Na stole w jadalni piętrzą się ciasta, sery, kurczaki i butelki wina. Po posiłku krasnoludy wyciągają instrumenty: Fili i Kili małe skrzypce, Dori, Nori i Ori flety, a Thorin – wspaniałą, złotą harfę.
+   * Emocje widoczne na twarzach: Twarz Bilba wyraża szok, oburzenie i bezradność. Twarze krasnoludów są wesołe i beztroskie, ale gdy zaczynają śpiewać pieśń o Samotnej Górze, ich miny stają się poważne, pełne tęsknoty i determinacji. Światło kominka rzuca migotliwe cienie na ich surowe rysy.
+   * Punkt kulminacyjny sceny: Gandalf rozkłada na stole starą, pożółkłą mapę, na której widać zarys góry z czerwonym smokiem. Thorin kładzie obok niej mały, srebrny klucz o skomplikowanym wzorze. Blask ognia odbija się w oczach zebranych, a w powietrzu czuć wagę rozpoczynającej się przygody.
+
+
+Rozwinięcie akcji
+
+
+Chronologiczny przebieg wydarzeń prowadzi kompanię przez serię prób i niebezpieczeństw, z których każda stanowi odrębny, wizualnie charakterystyczny epizod.
+Rozdział 2: Pieczeń barania
+   * Kluczowa scena: Spotkanie z trollami
+   * Miejsce i czas: Ciemny las, późna noc. Na niewielkiej polanie płonie wielkie ognisko, rzucające drgające cienie na otaczające drzewa. Powietrze jest chłodne, czuć zapach dymu i pieczonego mięsa.
+   * Obecne postacie i ich pozycje: Trzy olbrzymie trolle – William, Bert i Tom – siedzą wokół ognia na kamieniach. Mają wielkie, grubo ciosane, niemal kamienne twarze, a ich ruchy są ociężałe.2 Kłócą się prostackim językiem o ostatni kawałek pieczonej baraniny. Bilbo, wysłany na zwiady, skrada się w cieniu drzew, jego mała sylwetka jest niemal niewidoczna na tle potężnych pni. Jego twarz wyraża przerażenie, ale i ciekawość.
+   * Ważne przedmioty i rekwizyty: Przy ognisku leży wielka beczka z piwem. William trzyma w ręku sakiewkę, która, gdy Bilbo próbuje ją ukraść, zaczyna mówić, alarmując trolle.
+   * Dynamika i ruch: Scena przechodzi od skradania się do gwałtownej akcji. Bilbo zostaje schwytany. Następnie trolle łapią kolejno krasnoludów, którzy wpadają w pułapkę, i wkładają ich do brudnych worków. Scena jest pełna groteskowego komizmu i realnego zagrożenia. Gandalf, ukryty w mroku, interweniuje, naśladując głosy trolli i podjudzając ich do kłótni. Trolle zaczynają się okładać pięściami. Napięcie rośnie, gdy zbliża się świt. Pierwsze promienie słońca przebijają się przez liście, padając na kłócące się postacie. W jednej chwili trolle zamieniają się w kamienne posągi, zastygając w groteskowych pozach.
+   * Znalezisko w jaskini trolli: Po pokonaniu trolli, kompania odnajduje ich jaskinię. Wnętrze jest brudne, cuchnące i pełne zrabowanych przedmiotów oraz kości. Wśród łupów znajdują trzy niezwykłe miecze: dwa duże (Glamdring i Orkrist) i jeden krótki sztylet dla Bilba (później nazwany Żądłem). Ostrza są elfickiej roboty, ozdobione runami, a ich wygląd kontrastuje z surowym otoczeniem jaskini.2
+Rozdział 5: Zagadki w ciemnościach
+   * Kluczowa scena: Gra w zagadki
+   * Miejsce i czas: Głębiny Gór Mglistych. Ogromna, podziemna jaskinia wypełniona lodowato zimnym, czarnym jeziorem. Panuje absolutna ciemność i grobowa cisza, przerywana jedynie przez kapanie wody.
+   * Obecne postacie i ich pozycje: Bilbo, samotny i zagubiony po upadku i utracie przytomności, stoi na kamienistym brzegu jeziora. Jest przerażony, jego oddech tworzy obłoczki pary w zimnym powietrzu. Z mroku, zza jeziora, dobiega ciche syczenie. Po chwili na wodzie pojawia się mała łódka, a w niej Gollum. Jest to mały, oślizgły, czarny stwór. Jego ciało jest wychudzone, a jedynym widocznym elementem są dwa wielkie, blade, okrągłe oczy, które świecą w ciemności jak latarnie.35 Porusza się bezszelestnie, wiosłując swoimi wielkimi, płaskimi stopami.
+   * Ważne przedmioty i rekwizyty: Kluczowym przedmiotem jest Jedyny Pierścień. Bilbo znajduje go przypadkiem w ciemnym tunelu, tuż przed dotarciem do jeziora. Jest to prosty, złoty krążek, który wydaje się zimny w dotyku. W tej scenie Bilbo nie zna jeszcze jego mocy.
+   * Emocje widoczne na twarzach: Scena jest pojedynkiem psychologicznym. Twarz Bilba wyraża mieszankę strachu, desperacji i rosnącego sprytu. Twarz Golluma (a właściwie jego oczy, bo reszta jest w mroku) pokazuje chytrość, głód i obłęd. Napięcie rośnie z każdą kolejną zagadką.
+   * Dynamika i ruch: Scena jest w większości statyczna, oparta na dialogu. Ruch jest minimalny – Gollum powoli krąży w swojej łódce. Punkt zwrotny następuje, gdy Bilbo zadaje pytanie "Co mam w kieszeni?". Gollum wpada w furię. Gdy odkrywa, że zgubił swój "skarb", jego rozpacz zmienia się w morderczy gniew. Bilbo, w panice, przypadkowo wsuwa pierścień na palec i znika. Scena zmienia perspektywę – widzimy teraz świat oczami niewidzialnego Bilba. Słyszymy tylko syczenie i lamenty Golluma, który biegnie w stronę wyjścia, nieświadomie prowadząc hobbita. Bilbo w ostatniej chwili przeskakuje nad skulonym Gollumem i ucieka z jaskini.
+Rozdział 8: Muchy i pająki
+   * Kluczowa scena: Walka Bilba
+   * Miejsce i czas: Serce Mrocznej Puszczy. Gęsty, mroczny las, gdzie panuje wieczny półmrok. Drzewa są stare i poskręcane, a między nimi rozwieszone są grube, czarne pajęczyny.2
+   * Obecne postacie i ich pozycje: Krasnoludy wiszą bezradnie, owinięte w lepkie, białe kokony, zwisające z grubej gałęzi. Wokół nich, po sieciach i pniach drzew, poruszają się olbrzymie, czarne pająki. Mają wiele błyszczących oczu i owłosione odnóża. Bilbo, jedyny ocalały, stoi na ziemi.
+   * Dynamika i ruch: To pierwsza scena, w której Bilbo działa jako samodzielny bohater. Używa pierścienia, by stać się niewidzialnym. Jego ruchy są szybkie i zwinne. Rzuca kamieniami i drwi z pająków, by odciągnąć je od krasnoludów. Następnie podbiega i swoim małym mieczykiem przecina grube nici kokonów, uwalniając przyjaciół. Scena jest dynamiczną walką partyzancką – mały, niewidzialny bohater przeciwko hordzie potworów. Moment, w którym Bilbo, po zabiciu pierwszego pająka, nazywa swój mieczyk "Żądłem", jest wizualnym i symbolicznym aktem jego przemiany w bohatera.
+Rozdział 9: Beczki
+   * Kluczowa scena: Ucieczka z pałacu elfów
+   * Miejsce i czas: Podziemne jaskinie króla leśnych elfów. Scena rozgrywa się głównie w piwnicach. Są to kamienne, chłodne pomieszczenia, wyłożone rzędami wielkich, dębowych beczek z winem. W podłodze znajduje się duża, drewniana klapa, która prowadzi do podziemnej rzeki.
+   * Obecne postacie i ich pozycje: Krasnoludy są zamknięte w celach w innej części jaskiń. Niewidzialny Bilbo krąży po korytarzach, obserwując strażników. Kluczowe postacie to dowódca straży i podczaszy, którzy degustują wino i zasypiają pijani przy stole.
+   * Dynamika i ruch: Scena ma charakter skradanki (stealth). Bilbo bezszelestnie kradnie klucze pijanemu strażnikowi. Następnie biegnie do lochów i po cichu uwalnia krasnoludów. Prowadzi ich do piwnicy i każe im wchodzić do pustych beczek. Ruch jest szybki i nerwowy. Krasnoludy z trudem mieszczą się w beczkach. Elfy, nieświadome niczego, wrzucają zamknięte beczki przez klapę do ciemnej, wartkiej rzeki.
+   * Emocje i napięcie: Napięcie budowane jest na ryzyku odkrycia. Twarz Bilba wyraża koncentrację i determinację. Twarze krasnoludów – mieszankę strachu i nadziei. Ostatni obraz to Bilbo, który w ostatniej chwili wskakuje na jedną z płynących beczek, zdając sobie sprawę, że nikt go nie zamknął w środku. To moment komicznej grozy. Wizualnie, scena kontrastuje ciasne, kamienne korytarze z otwartą, płynącą wodą, symbolizując ucieczkę z niewoli ku wolności.
+
+
+Punkt kulminacyjny
+
+
+Kulminacja fabuły w Hobbicie jest rozłożona na kilka kluczowych, następujących po sobie wydarzeń, które razem tworzą dramatyczny finał wyprawy. Składają się na nią: konfrontacja Bilba ze Smaugiem, zniszczenie Miasta na Jeziorze, oblężenie Samotnej Góry i ostatecznie – Bitwa Pięciu Armii.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+Część 1: Konfrontacja ze Smaugiem i jego upadek (Rozdziały 12-14)
+   * Scena w legowisku smoka:
+   * Miejsce: Najniższa i największa sala we wnętrzu Samotnej Góry. Przestrzeń jest ogromna, niemal jak katedra, ale pogrążona w mroku. Podłoga jest całkowicie pokryta skarbem – lśniącymi górami złotych monet, pucharów, klejnotów, zbroi i broni. W powietrzu unosi się zapach siarki i stęchlizny.
+   * Postacie i oświetlenie: W samym centrum, na największym kopcu złota, śpi Smaug. Jest to olbrzymia, czerwonozłocista bestia. Jego łuski lśnią w półmroku. Z jego paszczy i nozdrzy wydobywa się pomruk i kłęby dymu, a jego ciało emituje słaby, czerwony blask, który jest jedynym źródłem światła w sali.22 Niewidzialny Bilbo, maleńka postać w tej ogromnej przestrzeni, podkrada się blisko.
+   * Dynamika i dialog: Scena zaczyna się od kradzieży jednego pucharu przez Bilba, co budzi smoka. Następnie Bilbo wraca, by stawić czoła bestii. Rozpoczyna się pojedynek na słowa. Bilbo, ukryty pod płaszczem niewidzialności, drwi ze Smauga, używając zagadek i metafor ("Jestem ten, który żywcem grzebie przyjaciół..."). Smaug, próżny i arogancki, próbuje go zdemaskować i zmanipulować. Aby zaimponować hobbitowi, smok prezentuje swój opancerzony brzuch. W tym momencie Bilbo dostrzega niewielką, nieosłoniętą plamę po lewej stronie jego klatki piersiowej. Scena kończy się gwałtownie – smok zieje strumieniem ognia, a Bilbo cudem ucieka z powrotem do tunelu.
+   * Scena zniszczenia Esgaroth:
+   * Miejsce i czas: Miasto na Jeziorze, bezgwiezdna noc. Drewniane miasto jest pogrążone we śnie.
+   * Dynamika i ruch: Nagle na niebie pojawia się Smaug, lecąc od strony Góry. Wygląda jak ognista kometa. Zaczyna atakować miasto, zionąc ogniem. Drewniane budynki stają w płomieniach. Wybucha panika, ludzie skaczą do wody, próbując uciec. Scena jest pełna chaosu, krzyków i huku walących się budowli.
+   * Pozycje postaci: Władca miasta tchórzliwie ucieka. Bard, dowódca straży, pozostaje na stanowisku. Stoi na płonącym pomoście, sam przeciwko bestii, z wielkim cisowym łukiem w ręku.
+   * Punkt zwrotny: Na ramię Barda siada stary drozd i, w języku, który Bard rozumie jako potomek władców Dale, zdradza mu informację o słabym punkcie smoka. Bard sięga po swoją ostatnią, czarną strzałę. Napina łuk, celując w miejsce wskazane przez ptaka. Strzała leci i trafia idealnie w cel.
+   * Konsekwencje: Smaug wydaje przeraźliwy ryk bólu i wściekłości. Spada z nieba jak kamień, a jego ogromne cielsko uderza w miasto, niszcząc je doszczętnie, po czym tonie w jeziorze. Wzburzona woda gasi pożary. Po chwili zapada cisza, przerywana tylko płaczem ocalałych.
+Część 2: Bitwa Pięciu Armii (Rozdział 17)
+   * Miejsce i czas: Szeroka dolina u południowych podnóży Samotnej Góry. Jest szary, chłodny, jesienny dzień. Niebo jest zachmurzone.
+   * Obecne postacie i ich pozycje: Bitwa rozpoczyna się od starcia trzech armii. Na wschodnim zboczu doliny, na wzgórzu, ustawiają się połączone siły elfów z Mrocznej Puszczy (z długimi włóczniami i łukami, w lekkich zbrojach) oraz ludzi z Miasta na Jeziorze (zbrojnych w topory, miecze i łuki, w zaimprowizowanych pancerzach). Na zachodnim zboczu, na drugim wzgórzu, barykadują się krasnoludy pod wodzą Thorina. Nagle z północy, spomiędzy ramion Góry, nadciągają dwie kolejne armie: horda goblinów na grzbietach wielkich, dzikich wilków – wargów. To czarna, chaotyczna masa, uzbrojona w krzywe szable i włócznie.
+   * Dynamika i ruch: Scena jest epicką, chaotyczną bitwą. Elfy rozpoczynają walkę, zasypując nadciągających wrogów gradem strzał. Następnie do szarży ruszają ludzie i krasnoludy Daina, które przybyły z odsieczą ze Żelaznych Wzgórz. Walka jest brutalna i zacięta. Mimo początkowych sukcesów, siły goblinów i wargów są przeważające. Sojusznicy zostają zepchnięci do defensywy, otoczeni na wzgórzu, na którym stoi Bard i król elfów.
+   * Emocje i napięcie: Na twarzach walczących widać determinację, strach i zmęczenie. Sytuacja wydaje się beznadziejna. Bilbo, stojący obok Gandalfa, czuje się bezużyteczny i przerażony.
+   * Punkt zwrotny i rozwiązanie: Gdy wszystko zdaje się stracone, na niebie pojawiają się Orły z Gór Mglistych, prowadzone przez swojego Wodza. Atakują gobliny od tyłu, siejąc zamęt w ich szeregach. W tym samym momencie z lasu wypada Beorn w postaci olbrzymiego niedźwiedzia. Jego ryk jest potężniejszy niż jakikolwiek okrzyk bojowy. Wpada w sam środek straży przybocznej Bolga, wodza goblinów, rozrzucając wrogów na wszystkie strony. Ten podwójny atak z flanki i z powietrza przełamuje impet goblinów i decyduje o zwycięstwie. W trakcie zamieszania Bilbo zostaje uderzony w głowę spadającym kamieniem i traci przytomność. Ostatnie, co widzi, to chaos bitwy.
+
+
+Rozwiązanie
+
+
+Zakończenie wszystkich wątków i losy bohaterów
+Po odzyskaniu przytomności Bilbo dowiaduje się o wyniku bitwy. Siły dobra zwyciężyły, ale koszt był wysoki. Thorin Dębowa Tarcza został śmiertelnie ranny, podobnie jak jego siostrzeńcy, Fili i Kili, którzy zginęli, broniąc go. Przed śmiercią Thorin godzi się z Bilbem, przepraszając za swoje słowa i czyny. Zostaje pochowany z honorami w najgłębszej komnacie pod Górą, a na jego piersi spoczywa Arcyklejnot – Serce Góry.13
+Królestwo pod Górą zostaje odnowione, a jego władcą zostaje Dain Żelazna Stopa, kuzyn Thorina. Zgodnie z umową, czternasta część skarbu zostaje przekazana Bardowi, który używa jej do odbudowy miasta Dal i pomocy mieszkańcom Esgaroth. Między krasnoludami, ludźmi i elfami zapanowuje pokój i dobrobyt.
+Bilbo, zrezygnowawszy z większości swojej doli, przyjmuje jedynie dwie małe skrzynki – jedną ze złotem, drugą ze srebrem. Wyrusza w drogę powrotną w towarzystwie Gandalfa. Podróż jest spokojna i pozbawiona niebezpieczeństw. Po drodze odwiedzają Beorna i Elronda. W jaskini trolli odkopują złoto, które tam ukryli, a które Bilbo niechętnie zabiera.
+OPIS WIZUALNY SCENY KOŃCOWEJ
+   * Miejsce i czas: Hobbiton, czerwcowe popołudnie, rok po rozpoczęciu przygody. Pogoda jest piękna, wszystko jest bujnie zielone i kwitnące.
+   * Scena powrotu: Bilbo i Gandalf docierają na szczyt Pagórka. Zamiast spokoju, zastają zgiełk i tłum hobbitów. Przed drzwiami Bag End odbywa się licytacja majątku "nieboszczyka Bilba Bagginsa". Jego meble, obrazy i naczynia są wynoszone na zewnątrz i sprzedawane.
+   * Dynamika i emocje: Scena jest komiczna i absurdalna. Bilbo, uznany za zmarłego, musi udowodnić swoją tożsamość i odkupić własne rzeczy. Jego powrót wywołuje sensację i skandal w spokojnej społeczności hobbitów. Traci reputację szanowanego Bagginsa, a zyskuje miano ekscentryka. Jego twarz wyraża mieszankę irytacji, rozbawienia i ostatecznie – akceptacji. Nie dba już o opinię sąsiadów.
+   * Ostatni akt: Wiele lat później. Bilbo, wyraźnie starszy, siedzi w swoim fotelu w przytulnym salonie Bag End. Na kolanach trzyma oprawioną w skórę księgę. Na okładce widnieje tytuł, który sam napisał: "Tam i z powrotem. Wakacje pewnego hobbita". Pisze lub czyta swoje wspomnienia. Za okrągłym oknem widać ten sam spokojny, sielski krajobraz co na początku powieści. Jednak twarz Bilba jest inna – naznaczona mądrością, nostalgią i cieniem wspomnień o wielkiej przygodzie. Scena zamyka kompozycyjną klamrę powieści, pokazując, że choć hobbit wrócił do tego samego miejsca, on sam jest już zupełnie inną osobą.
+Przesłanie autora
+Zakończenie niesie ze sobą kilka kluczowych przesłań. Po pierwsze, pokazuje, że prawdziwą nagrodą za podróż nie są materialne skarby, lecz wewnętrzna przemiana, zdobyta mądrość i przyjaźnie. Po drugie, podkreśla, że powrót do domu po wielkich przeżyciach nigdy nie jest powrotem do tego samego stanu – doświadczenie nieodwracalnie zmienia perspektywę. Ostatecznie, powieść afirmuje wartości takie jak odwaga, lojalność, miłosierdzie i poświęcenie, pokazując, że nawet najmniejsza, najskromniejsza osoba może wpłynąć na losy świata.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+
+
+Główne tematy
+
+
+Przemiana i odkrywanie siebie: Podróż bohatera
+Najważniejszym tematem Hobbita jest wewnętrzna przemiana Bilba Bagginsa, która realizuje klasyczny schemat monomitu, czyli podróży bohatera. Początkowo Bilbo jest ucieleśnieniem samozadowolenia i lęku przed nieznanym. Jego świat ogranicza się do komfortu własnej nory. Wyprawa, na którą zostaje niemal siłą wciągnięty, staje się dla niego procesem inicjacji. Każde kolejne wyzwanie – od spotkania z trollami, przez grę w zagadki z Gollumem, po walkę z pająkami – zmusza go do odkrywania w sobie cech, o których istnienie nigdy by siebie nie podejrzewał: sprytu, odwagi, zaradności i zdolności do przywództwa.30
+Wizualnie tę przemianę można przedstawić poprzez stopniową zmianę w wyglądzie i postawie Bilba. Na początku widzimy go w miękkich, wygodnych, domowych ubraniach. W trakcie podróży jego strój staje się znoszony i praktyczny, a on sam zdobywa broń (Żądło) i zbroję (kolczugę z mithrilu). Jego postawa z niepewnej i przygarbionej staje się wyprostowana i pewna siebie. Jego spojrzenie nabiera głębi i determinacji. Ta ewolucja jest uniwersalna – to opowieść o tym, jak wyjście ze strefy komfortu i zmierzenie się z przeciwnościami losu prowadzi do samopoznania i dojrzałości.
+Chciwość i jej destrukcyjna siła: "Smocza choroba"
+Drugim kluczowym tematem jest destrukcyjny wpływ niepohamowanej żądzy bogactwa. W powieści jest ona określana mianem "smoczej choroby", co sugeruje, że jest to niemal namacalna, zaraźliwa siła, która zatruwa serca i umysły.12 Najbardziej oczywistym jej ucieleśnieniem jest smok Smaug, który nie korzysta ze skarbu, a jedynie na nim leży, napawając się samym faktem jego posiadania. Jego chciwość doprowadziła do zniszczenia dwóch wielkich królestw i śmierci niezliczonych istot.37
+Jednak Tolkien pokazuje, że ta choroba może dotknąć również postacie pozytywne. Po odzyskaniu Samotnej Góry Thorin Dębowa Tarcza ulega tej samej obsesji. Widok złota zaślepia go, czyniąc go paranoicznym, upartym i okrutnym. Odmawia podzielenia się skarbem z ludźmi, którym smok zniszczył miasto, i z elfami, którzy pomogli im w potrzebie. Jego chciwość niemal doprowadza do bratobójczej wojny między niedawnymi sojusznikami. Wizualnie motyw ten można oddać poprzez przytłaczający, nienaturalny blask złota w skarbcu Ereboru, który rzuca złowrogie cienie na twarz Thorina, ukazując obłęd w jego oczach. Jedyną postacią, która pozostaje odporna na tę chorobę, jest Bilbo. Dla niego skarb nie ma wartości sam w sobie; ceni on bardziej przyjaźń, pokój i drogę do domu. Jego decyzja o oddaniu Arcyklejnotu jest aktem buntu przeciwko tyranii chciwości.
+Bohaterstwo wbrew pozorom: Siła małych rąk
+Hobbit redefiniuje pojęcie bohaterstwa. Wbrew konwencjom eposów heroicznych, gdzie bohaterami są potężni królowie i wojownicy, Tolkien czyni centralną postacią małego, skromnego hobbita.30 Bilbo nie posiada nadludzkiej siły ani magicznych mocy. Jego zwycięstwa są wynikiem sprytu, cierpliwości, zimnej krwi i, co najważniejsze, moralnej prawości. To on rozwiązuje zagadkę sekretnych drzwi, on przechytrza Smauga i to on podejmuje najtrudniejszą moralnie decyzję.
+Powieść konsekwentnie pokazuje, że wielkie czyny są często dziełem tych, których świat lekceważy. To wizualny i tematyczny kontrast między niewielką postacią Bilba a ogromem trolli, pająków i smoka. Przesłanie jest jasne: prawdziwe bohaterstwo nie leży w sile fizycznej, ale w sile charakteru, odwadze serca i gotowości do poświęcenia dla innych. To motyw, który Tolkien rozwinie później we Władcy Pierścieni, gdzie losy Śródziemia zależą od dwóch małych hobbitów.
+
+
+Motywy literackie
+
+
+Dom kontra droga
+Cała struktura powieści opiera się na napięciu między dwoma fundamentalnymi motywami: domem i drogą.12 Dom, symbolizowany przez przytulną norę Bilba w Hobbitonie, a także przez bezpieczne przystanie takie jak Rivendell czy dom Beorna, reprezentuje porządek, bezpieczeństwo, komfort i znaną, przewidywalną egzystencję. Droga, czyli podróż przez Dzikie Krainy, Góry Mgliste i Mroczną Puszczę, jest symbolem chaosu, niebezpieczeństwa, niepewności i przygody. Podróż Bilba "tam i z powrotem" jest symbolicznym przejściem od stanu bezpieczeństwa do stanu próby, a następnie powrotem do domu, ale już jako osoba odmieniona przez doświadczenia zdobyte na drodze.
+Światło kontra ciemność
+Motyw walki światła z ciemnością jest wszechobecny w powieści i ma bardzo silny wymiar wizualny. Ciemność jest domeną zła i zagrożenia: czarne, podziemne tunele goblinów, klaustrofobiczny mrok Mrocznej Puszczy, ciemna toń podziemnego jeziora Golluma. Światło symbolizuje dobro, nadzieję i bezpieczeństwo: ciepłe światło kominka w Bag End, rozgwieżdżone niebo i magiczne lampiony w Rivendell, blask elfickich mieczy, które świecą w obecności wrogów. Nawet ogień, który może być niszczycielski (ogień Smauga), bywa też pozytywny (ogień Gandalfa, który ratuje kompanię przed wargami). Ostateczne zwycięstwo dobra jest często przedstawiane jako powrót światła – słońca wschodzącego nad polem bitwy.
+Symbolika i ważne przedmioty wizualne
+   * Jedyny Pierścień: W Hobbicie jego rola jest jeszcze stosunkowo prosta. Jest to przede wszystkim magiczny przedmiot, który zapewnia niewidzialność i stanowi kluczowe narzędzie dla Bilba w jego roli "włamywacza".12 Jego mroczniejsza, uzależniająca natura jest jedynie subtelnie sugerowana przez obsesję Golluma na jego punkcie i fakt, że Bilbo od początku zataja jego posiadanie. Wizualnie jest to prosty, gładki, złoty krążek, którego niepozorny wygląd kryje ogromną moc.
+   * Arcyklejnot (Serce Góry): To najcenniejszy skarb krasnoludów, symbol ich królestwa, dumy i rzemieślniczego kunsztu. Jest opisany jako "wielki, drogocenny biały kamień", "kula o tysiącu oszlifowanych ścianek", która "świeciła własnym, wewnętrznym blaskiem", a jednocześnie łowiła każdy promień światła i przeobrażała go w "dziesięć tysięcy iskier białego blasku grającego wszystkimi kolorami tęczy".38 Jego olśniewające piękno jest tak wielkie, że staje się przedmiotem obsesji i symbolem niszczycielskiej chciwości, która zawładnęła Thorinem.
+   * Mapa i Klucz Thorina: Mapa Throra jest czymś więcej niż tylko kartograficznym przedstawieniem drogi. Jest to stary, tajemniczy pergamin, pokryty runami, z zaznaczonym sekretnym wejściem do Góry.39 Zawiera również ukryty napis widoczny tylko w świetle księżyca ("litery księżycowe"), co nadaje jej magicznego charakteru.2 Mały, srebrny klucz o skomplikowanym wzorze jest fizycznym narzędziem do otwarcia tych drzwi. Razem, mapa i klucz symbolizują dziedzictwo, utraconą wiedzę i nadzieję na odzyskanie domu.
+   * Miecze z Gondolinu (Glamdring i Orkrist) oraz Żądło: Te trzy ostrza to ważne symbole walki dobra ze złem. Glamdring ("Młot na wroga") i Orkrist ("Pogromca goblinów") to starożytne, elfickie miecze znalezione w jaskini trolli.2 Są one reliktami z dawnej, chwalebnej epoki i posiadają magiczną właściwość – świecą niebieskim lub białym światłem w pobliżu goblinów, działając jak system wczesnego ostrzegania. Ich wygląd powinien być elegancki, szlachetny, z wygrawerowanymi na klindze i jelcu runami.41 Żądło, krótki sztylet Bilba, początkowo jest tylko kozikiem. Dopiero gdy Bilbo samodzielnie zabija pająka, nadaje mu imię, co symbolizuje jego własną przemianę w bohatera. Dla niego jest to pełnoprawny miecz, a jego niewielki rozmiar idealnie pasuje do właściciela.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+
+
+Język i styl
+
+
+Charakterystyka języka narracji
+Język J.R.R. Tolkiena w Hobbicie jest jednym z najbardziej charakterystycznych elementów dzieła. Cechuje go pozorna prostota, która kryje w sobie bogactwo i precyzję. Styl jest gawędziarski, co wynika z genezy utworu jako opowieści dla dzieci. Narrator często zwraca się bezpośrednio do czytelnika, używając zwrotów takich jak "jak już słyszeliście", "musicie wiedzieć" czy "jak zapewne się domyślacie".8 Ten zabieg skraca dystans między opowiadającym a odbiorcą, tworząc intymną atmosferę wspólnego przeżywania przygody.
+Mimo że jest to książka dla dzieci, Tolkien nie unika języka poetyckiego i archaizującego, zwłaszcza w opisach przyrody i w pieśniach. Jego opisy fantastycznych miejsc i postaci są niezwykle plastyczne i sugestywne, przedstawione w taki sposób, jakby istniały naprawdę.8 Jednocześnie język jest klarowny i przystępny. Tolkien mistrzowsko operuje rytmem prozy, budując długie, płynne zdania w momentach opisowych i przechodząc do krótkich, dynamicznych fraz w scenach akcji.
+Dialogi
+Dialogi w Hobbicie są kluczowym narzędziem charakteryzacji postaci. Tolkien doskonale różnicuje sposób mówienia poszczególnych bohaterów i ras, co nadaje im indywidualność i wiarygodność.8
+   * Hobbici (Bilbo): Mówią językiem prostym, nieco potocznym, typowym dla angielskiej klasy średniej. Ich wypowiedzi są często pełne zwrotów grzecznościowych i wyrażają troskę o dobre maniery i komfort.
+   * Krasnoludy (Thorin): Ich mowa jest bardziej formalna, dostojna, a czasem wręcz pompatyczna. Używają archaicznych zwrotów i często mówią o honorze, dziedzictwie i skarbach.
+   * Elfy: Język elfów jest poetycki, melodyjny i elegancki. Ich wypowiedzi są często zagadkowe i pełne mądrości.
+   * Trolle: Mówią prostackim, slangowym językiem, pełnym błędów i wulgaryzmów, co odzwierciedla ich niską inteligencję i brutalną naturę.
+   * Smaug: Jego mowa jest wyniosła, arogancka i pełna jadu. Jest mistrzem manipulacji słownej, a jego dialog z Bilbem to wyrafinowany pojedynek psychologiczny.
+Środki stylistyczne i ton narracji
+Tolkien obficie korzysta z pieśni i wierszy, które są wplecione w narrację. Pełnią one różnorakie funkcje: charakteryzują kulturę poszczególnych ras (pieśni krasnoludów o złocie, wesołe piosenki elfów), budują nastrój (groźna pieśń goblinów) lub dostarczają informacji o świecie przedstawionym.
+Ton narracji jest zmienny. W początkowych rozdziałach dominuje lekkość, humor i baśniowa atmosfera. W miarę jak podróż staje się coraz bardziej niebezpieczna, ton staje się poważniejszy i mroczniejszy, zwłaszcza w Mrocznej Puszczy i podczas konfrontacji ze Smaugiem. Jednak nawet w najtrudniejszych momentach Tolkien nie traci z oczu perspektywy hobbita, co pozwala zachować pewien dystans i element optymizmu. Ostatecznie ton jest epicki, ale jednocześnie bardzo osobisty i skupiony na wewnętrznych przeżyciach głównego bohatera.
+
+
+Techniki narracyjne
+
+
+Typ narratora i perspektywa narracyjna
+Narrator w Hobbicie jest trzecioosobowy i wszechwiedzący, ale jego wszechwiedza jest specyficznie ograniczona. Choć zna myśli i uczucia różnych postaci, a także wydarzenia rozgrywające się w tle (jak atak na Dol Guldur), to przez większość czasu przyjmuje perspektywę Bilba Bagginsa. Świat, postacie i wydarzenia są filtrowane przez świadomość hobbita. Czytelnik odkrywa niebezpieczeństwa i cuda Śródziemia razem z nim, dzieli jego strach, zdziwienie i radość. Ta technika sprawia, że czytelnik łatwo identyfikuje się z głównym bohaterem i jego przemiana staje się bardziej wiarygodna.
+Narrator, jak wspomniano, jest również narratorem-gawędziarzem, który nie ukrywa swojej obecności. Komentuje wydarzenia, ocenia postawy bohaterów i zwraca się bezpośrednio do czytelnika. To sprawia, że akt lektury przypomina słuchanie opowieści snutej przy kominku, co doskonale pasuje do baśniowego charakteru utworu.
+Chronologia vs. retrospekcje
+Fabuła powieści jest prowadzona w sposób ściśle chronologiczny i linearny. Wydarzenia następują po sobie w porządku przyczynowo-skutkowym, od początku wyprawy do jej końca. Nie ma tu skomplikowanych inwersji czasowych ani retrospekcji w sensie formalnym. Przeszłość jest obecna w opowieściach, pieśniach i legendach, które przywołują bohaterowie, ale nie zaburza to linearnego toku narracji. Ta prosta, klasyczna struktura czyni fabułę klarowną i łatwą do śledzenia, co jest szczególnie ważne w literaturze skierowanej (przynajmniej pierwotnie) do młodszego odbiorcy.
+Techniki budowania napięcia
+Tolkien jest mistrzem w budowaniu napięcia, a stosuje w tym celu różnorodne techniki.
+   * Atmosfera i opis: Napięcie często rodzi się z opisów miejsc. Klaustrofobiczna ciemność Mrocznej Puszczy, grobowa cisza w legowisku Smauga czy złowroga atmosfera w jaskiniach goblinów budują poczucie zagrożenia, zanim jeszcze dojdzie do konfrontacji.
+   * Stopniowanie zagrożenia: Niebezpieczeństwa, z jakimi mierzy się kompania, stają się coraz poważniejsze. Od groteskowych, ale niezbyt inteligentnych trolli, przez zorganizowane hordy goblinów, po gigantyczne pająki i wreszcie – niemal niezwyciężonego smoka.
+   * Poczucie niepewności: Często bohaterowie (i czytelnik) nie wiedzą, co ich czeka. Tajemnicze zniknięcia Gandalfa pozostawiają kompanię bez opieki w najtrudniejszych momentach. Niewiadoma co do natury Golluma czy zamiarów leśnych elfów utrzymuje czytelnika w niepewności.
+   * Nagłe zwroty akcji: Tolkien często używa techniki nagłego zwrotu akcji (plot twist). Jaskinia, która miała być bezpiecznym schronieniem, okazuje się wejściem do państwa goblinów. Radosna uczta elfów w lesie okazuje się być iluzją. Te momenty zaskoczenia skutecznie podnoszą poziom napięcia.
+
+
+Struktura kompozycyjna
+
+
+Podział na rozdziały/części
+Powieść jest podzielona na 19 rozdziałów. Każdy z nich stanowi zamknięty epizod fabularny, często skupiony na konkretnym miejscu lub wyzwaniu (np. "Pieczeń barania", "Zagadki w ciemnościach", "Beczki"). Tytuły rozdziałów są sugestywne i często zapowiadają ich treść, co jest typowe dla literatury przygodowej i baśni. Ta epizodyczna struktura sprawia, że powieść jest łatwa w odbiorze i doskonale nadawała się do czytania na głos w odcinkach, co jest zgodne z jej genezą.
+Rytm narracji
+Rytm narracji jest starannie zaplanowany. Okresy dynamicznej, pełnej niebezpieczeństw akcji (przeprawa przez Góry Mgliste, walka z pająkami) przeplatają się z momentami wytchnienia i spokoju (pobyt w Rivendell, w domu Beorna). Te spokojniejsze rozdziały pozwalają bohaterom (i czytelnikowi) na odpoczynek, regenerację sił i refleksję. Dają też Tolkienowi przestrzeń na rozwinięcie opisów świata i pogłębienie charakterystyki postaci. Ta sinusoida napięcia sprawia, że narracja nie jest monotonna i utrzymuje zaangażowanie odbiorcy przez całą lekturę.
+Proporcje między opisem a akcją
+Tolkien zachowuje doskonałą równowagę między partiami opisowymi a dynamiczną akcją. Jego opisy, choć szczegółowe, rzadko są statyczne. Zazwyczaj służą budowaniu atmosfery i napięcia, przygotowując grunt pod nadchodzące wydarzenia. Akcja jest wartka i pełna zwrotów, ale nigdy nie jest bezmyślna – zawsze wynika z charakterów postaci i logiki świata przedstawionego. Ta harmonia między opisem a akcją jest jednym z kluczowych elementów, które sprawiają, że Hobbit jest tak satysfakcjonującą lekturą.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+
+
+Interpretacje krytyczne
+
+
+Główne nurty interpretacyjne
+Od momentu publikacji Hobbit stał się przedmiotem licznych analiz i interpretacji krytycznych. Można wyróżnić kilka głównych nurtów:
+   1. Interpretacja mitograficzna i filologiczna: Ten nurt, najbliższy intencjom samego autora, postrzega Hobbita jako część większego projektu mitopoetyckiego – próby stworzenia "mitologii dla Anglii". Krytycy z tej szkoły (w tym sam Tolkien w swoich esejach) analizują dzieło przez pryzmat jego źródeł: mitologii nordyckiej, eposów anglosaskich, baśni i języków starogermańskich.4 Zwracają uwagę na etymologię imion, symbolikę ras i motywów zaczerpniętych z dawnych tradycji.
+   2. Interpretacja psychologiczna i archetypowa: Ten nurt skupia się na wewnętrznej przemianie Bilba, analizując ją w kategoriach psychologii jungowskiej. Podróż bohatera jest postrzegana jako proces indywiduacji – integracji różnych aspektów osobowości (świadomości i nieświadomości, animy i cienia). Postacie takie jak Gandalf czy Smaug są interpretowane jako archetypy (Mędrca, Potwora) obecne w zbiorowej nieświadomości.30
+   3. Interpretacja chrześcijańska: Choć Tolkien unikał bezpośredniej alegorii, jego głęboka wiara katolicka jest widoczna w warstwie tematycznej powieści. Krytycy tego nurtu wskazują na motywy takie jak działanie Opatrzności, znaczenie miłosierdzia (oszczędzenie Golluma przez Bilba, co ma kluczowe konsekwencje w Władcy Pierścieni), walka dobra ze złem, upadek przez pychę i chciwość (Thorin) oraz odkupienie.
+   4. Interpretacja postkolonialna i ekokrytyczna: Nowsze odczytania zwracają uwagę na kwestie rasy i "inności" w Śródziemiu, a także na stosunek do natury. Analizuje się relacje między "cywilizowanymi" rasami a "dzikimi" goblinami czy wargami. Wątki ekokrytyczne podkreślają miłość Tolkiena do przyrody (sielanka Shire) i krytykę industrializacji i zniszczenia środowiska (spustoszona okolica Samotnej Góry).
+Kontrowersje interpretacyjne
+Główna kontrowersja dotyczy statusu gatunkowego książki. Czy Hobbit jest jedynie książką dla dzieci, czy pełnoprawnym dziełem literatury dla dorosłych? Pierwotny, baśniowy ton i prostota języka zdają się przemawiać za pierwszą opcją. Jednak głębia psychologiczna postaci, bogactwo świata przedstawionego i uniwersalność poruszanych tematów sprawiają, że powieść jest z powodzeniem odczytywana przez dorosłych czytelników. Sam Tolkien zdawał się mieć ambiwalentny stosunek, z czasem coraz bardziej starając się włączyć Hobbita w poważniejsze i mroczniejsze legendarium Śródziemia.
+Inną kwestią jest zarzut o pasywność i brak wyrazistych postaci kobiecych. W Hobbicie praktycznie nie ma kobiet (poza wspomnieniem matki Bilba, Beladonny Tuk). Jest to cecha wynikająca z konwencji eposu heroicznego i sag, na których wzorował się Tolkien, ale we współczesnych odczytaniach bywa podnoszona jako słabość utworu.
+
+
+Znaczenie kulturowe
+
+
+Wpływ na literaturę
+Wpływ Hobbita i Władcy Pierścieni na literaturę XX i XXI wieku jest nie do przecenienia. Dzieła Tolkiena w pojedynkę zdefiniowały i spopularyzowały gatunek high fantasy.42 Ustanowiły one zestaw konwencji i archetypów, które stały się standardem dla tysięcy późniejszych autorów:
+   * Szczegółowe budowanie świata (world-building): Stworzenie map, historii, języków i mitologii dla fikcyjnego świata stało się znakiem rozpoznawczym gatunku.
+   * Archetypowe rasy: Tolkienowskie wyobrażenia elfów (mądrych, długowiecznych, zwinnych), krasnoludów (krępych, brodatych, dumnych rzemieślników) i orków/goblinów (brutalnych, złych sługusów ciemności) stały się kanonem, powielanym i modyfikowanym w niezliczonych książkach, grach i filmach.
+   * Motyw wyprawy (quest): Podróż grupy bohaterów w celu zniszczenia zła lub odzyskania artefaktu stała się jednym z najpopularniejszych schematów fabularnych w fantasy.
+Adaptacje (film, teatr, inne media)
+Hobbit doczekał się wielu adaptacji na przestrzeni lat, co świadczy o jego trwałej popularności.
+   * Adaptacje wczesne: Pierwszą autoryzowaną adaptacją była sztuka teatralna wystawiona w Edynburgu w 1953 roku. W 1968 roku BBC Radio 4 wyemitowało popularne słuchowisko radiowe.4 W 1977 roku powstał amerykański film animowany studia Rankin/Bass, który dla wielu starszych fanów stanowił pierwsze wizualne przedstawienie tej historii.
+   * Trylogia filmowa Petera Jacksona: Najbardziej znaną i wpływową adaptacją jest wysokobudżetowa trylogia filmowa w reżyserii Petera Jacksona: Hobbit: Niezwykła podróż (2012), Hobbit: Pustkowie Smauga (2013) i Hobbit: Bitwa Pięciu Armii (2014). Decyzja o adaptacji stosunkowo krótkiej książki dla dzieci w formie trzech epickich filmów była kontrowersyjna, ale okazała się komercyjnym sukcesem.
+Analiza różnic między książką a filmami Jacksona jest kluczowa dla każdej nowej próby adaptacji. Jackson i jego ekipa dokonali znaczących zmian i rozszerzeń fabuły, aby dopasować ton Hobbita do swojej wcześniejszej, mroczniejszej trylogii Władcy Pierścieni.43
+   * Rozbudowa wątków pobocznych: Wątek Gandalfa i Białej Rady walczących z Czarnoksiężnikiem (Sauronem) w Dol Guldur, który w książce jest tylko wspomniany, w filmach staje się jedną z głównych linii fabularnych.
+   * Dodanie nowych postaci: Wprowadzono postacie nieobecne w książce, takie jak elfka Tauriel (aby dodać wątek romantyczny i silną postać kobiecą) czy ork Azog Plugawy, który staje się osobistym wrogiem Thorina i głównym antagonistą polującym na kompanię przez całą trylogię.
+   * Zmiana tonu: Filmy Jacksona są znacznie mroczniejsze, bardziej brutalne i pełne dynamicznych scen akcji w stylu gier komputerowych, co odchodzi od lżejszego, baśniowego tonu oryginału.45 Wiele subtelnych, komicznych lub spokojnych momentów z książki zostało pominiętych lub zmienionych na rzecz epickiego rozmachu.
+Każda przyszła adaptacja staje przed fundamentalnym wyborem: czy podążać ścieżką wytyczoną przez Jacksona, tworząc epicki prequel do Władcy Pierścieni, czy też spróbować stworzyć dzieło wierniejsze literackiemu pierwowzorowi – bardziej kameralne, baśniowe i skupione na perspektywie Bilba. Wybór ten będzie miał decydujący wpływ na styl wizualny, tempo narracji i ogólny odbiór dzieła.
+
+
+Aktualność przesłania
+
+
+Mimo upływu ponad 80 lat od pierwszego wydania, przesłanie Hobbita pozostaje niezwykle aktualne. Powieść promuje uniwersalne wartości, które nie tracą na znaczeniu:
+   * Odwaga w obliczu przeciwności: Historia Bilba uczy, że odwaga nie polega na braku strachu, ale na działaniu pomimo niego.
+   * Siła przyjaźni i lojalności: Sukces wyprawy jest możliwy tylko dzięki współpracy i wzajemnemu zaufaniu członków kompanii.
+   * Krytyka materializmu: "Smocza choroba" jest potężną metaforą destrukcyjnej siły chciwości i materializmu, która jest równie aktualna dziś, jak w 1937 roku.
+   * Znaczenie domu: Powieść jest piękną afirmacją wartości domu, spokoju i prostego życia, przypominając, że największe skarby to nie złoto, ale bezpieczeństwo i miłość bliskich.
+Dla współczesnego czytelnika, żyjącego w skomplikowanym i często cynicznym świecie, Hobbit oferuje ucieczkę do świata, w którym podziały na dobro i zło są jasne, a odwaga i dobroć serca ostatecznie zwyciężają. To opowieść, która daje nadzieję i przypomina, że nawet najmniejsza osoba może zmienić bieg historii.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+Ta sekcja stanowi skondensowany, praktyczny przewodnik wizualny, zaprojektowany jako podstawowe narzędzie dla zespołu produkcyjnego. Informacje zostały zebrane i usystematyzowane w formie tabel, aby ułatwić szybki dostęp do kluczowych danych niezbędnych w procesie projektowania postaci, lokacji, scen i rekwizytów.
+
+
+Katalog postaci z opisami wizualnymi
+
+
+Poniższa tabela zawiera szczegółowe opisy wizualne wszystkich kluczowych postaci występujących w powieści. Została stworzona w celu zapewnienia spójności projektów postaci z literackim pierwowzorem.
+
+
+Postać
+	Rasa
+	Przybliżony Wiek
+	Opis Fizyczny (Wzrost, Budowa, Włosy, Oczy, Twarz)
+	Charakterystyczny Ubiór (Styl, Kolory)
+	Rekwizyty Osobiste/Broń
+	Źródło opisu
+	Bilbo Baggins
+	Hobbit
+	50 lat
+	Niski, z okrągłym brzuszkiem. Bujne, kędzierzawe, brązowe włosy. Twarz sympatyczna. Duże, owłosione stopy z twardą podeszwą.
+	Kolorowe ubrania: zielony kubrak, żółte spodnie. W podróży: ciemnozielony płaszcz i kaptur, kolczuga z mithrilu.
+	Fajka, sztylet Żądło, Jedyny Pierścień.
+	13
+	Gandalf
+	Istari (Czarodziej)
+	Prastary
+	Wysoki (choć może wydawać się mniejszy), przygarbiony. Długa, siwa broda do pasa, krzaczaste brwi.
+	Wysoki, spiczasty, niebieski kapelusz. Długi szary płaszcz, srebrna szarfa. Ogromne czarne buty.
+	Drewniana laska (różdżka), miecz Glamdring, fajka.
+	13
+	Thorin Dębowa Tarcza
+	Krasnolud
+	195 lat
+	Dostojny, dumny. Długa broda.
+	Błękitny kaptur z długim srebrnym chwostem, złoty pas.
+	Miecz Orkrist, topór, złota harfa, dębowa tarcza (w przeszłości).
+	2
+	Balin
+	Krasnolud
+	178 lat
+	Stary, biała broda.
+	Czerwony kaptur.
+	BRAK DANYCH
+	2
+	Dwalin
+	Krasnolud
+	169 lat
+	Błękitna broda zatknięta za pas. Jasno błyszczące oczy.
+	Ciemnozielony kaptur, złoty pas.
+	BRAK DANYCH
+	2
+	Fili i Kili
+	Krasnoludy
+	82 i 77 lat
+	Najmłodsi, zwinni. Żółte brody.
+	Niebieskie kaptury, srebrne pasy.
+	Skrzypce.
+	2
+	Bombur
+	Krasnolud
+	BRAK DANYCH
+	Ekstremalnie gruby i ciężki.
+	Jasnozielony kaptur.
+	BRAK DANYCH
+	2
+	Pozostałe krasnoludy
+	Krasnoludy
+	Różny
+	Różne opisy lub ich brak.
+	Kaptury: 2 purpurowe, 1 szary, 1 brązowy, 1 biały, 2 żółte.
+	Różne instrumenty (flety, wiolonczele).
+	2
+	Smaug
+	Smok
+	Prastary
+	Olbrzymi, skrzydlaty. Czerwonozłociste łuski. Pancerz z klejnotów na brzuchu. Słaby punkt pod lewą piersią.
+	BRAK
+	BRAK
+	22
+	Gollum
+	Nieznana (dawniej Hobbit)
+	ok. 600 lat
+	Mały, wychudzony, oślizgły. Skóra czarna. Wielkie, blade, okrągłe oczy świecące w ciemności. Długie palce.
+	Nagi.
+	Mała łódka.
+	35
+	Beorn
+	Zmiennokształtny
+	BRAK DANYCH
+	Postać ludzka: potężny mężczyzna, czarne włosy i broda, muskularne ramiona. Postać zwierzęca: ogromny czarny niedźwiedź.
+	Prosta, wełniana tunika.
+	Drewniany topór.
+	33
+	Thranduil
+	Elf
+	Prastary
+	Złociste włosy. Majestatyczny, ale dziki wygląd.
+	Korona z liści i kwiatów, eleganckie szaty.
+	Rzeźbione dębowe berło.
+	24
+	Bard
+	Człowiek
+	BRAK DANYCH
+	BRAK SZCZEGÓŁOWEGO OPISU. Sugerowany wygląd: surowy, poważny, ogorzały od wiatru.
+	Praktyczny strój łucznika, skóra, ciemne kolory.
+	Wielki cisowy łuk, czarna strzała.
+	42
+	
+
+Katalog lokacji
+
+
+Poniższa tabela systematyzuje kluczowe informacje wizualne i atmosferyczne dotyczące najważniejszych miejsc akcji. Ma ona służyć jako przewodnik dla scenografów, reżysera i artystów koncepcyjnych.
+
+
+Lokacja
+	Opis Ogólny
+	Architektura/Krajobraz
+	Dominująca Paleta Kolorów
+	Charakterystyczne Oświetlenie
+	Atmosfera (Dźwięki, Zapachy)
+	Kluczowe Elementy Scenografii
+	Źródło opisu
+	Hobbiton / Bag End
+	Idylliczna, sielska wioska w pagórkowatej krainie.
+	Nory wkopane w zbocza, okrągłe drzwi i okna. Organiczna, przytulna architektura.
+	Zieleń, brązy, żółcienie, żywe kolory kwiatów.
+	Ciepłe, słoneczne światło. Blask kominka i lamp.
+	Spokój, bezpieczeństwo. Śpiew ptaków, zapach jedzenia i fajkowego ziela.
+	Wygodne meble, spiżarnie, mapy, książki, kominek.
+	2
+	Rivendell
+	Ukryta, magiczna dolina elfów.
+	Eleganckie, lekkie budowle wkomponowane w naturę, otwarte pawilony, mosty, wodospady.
+	Jesienne barwy: złoto, czerwień, pomarańcz, zieleń sosen, biel wody.
+	Łagodne, rozproszone światło. Wieczorem blask gwiazd i lampionów.
+	Mądrość, spokój, melancholia. Szum wody, śpiew elfów, zapach żywicy.
+	Rzeźbione drewno, gobeliny, Sala Kominkowa z wiecznym ogniem.
+	15
+	Mroczna Puszcza
+	Ogromny, mroczny i wrogi las.
+	Brak architektury. Gęste, stare drzewa tworzące tunel z gałęzi.
+	Czerń, ciemna zieleń, brąz. Monochromatyczna, mroczna paleta.
+	Niemal całkowita ciemność, wieczny półmrok. Rzadkie, ostre promienie słońca.
+	Klaustrofobia, zagrożenie. Opresyjna cisza, dziwne odgłosy, zapach zgnilizny.
+	Grube, czarne pajęczyny, czarny, zaczarowany strumień, wąska ścieżka.
+	2
+	Miasto na Jeziorze (Esgaroth)
+	Drewniane miasto handlowe zbudowane na palach na jeziorze.
+	Funkcjonalna, drewniana architektura. Pomosty, nabrzeża, rynek.
+	Szarości i brązy mokrego drewna, ciemny błękit wody.
+	Zimne, surowe światło. Nocą odbijające się w wodzie światła lampionów.
+	Pragmatyzm, gwar. Skrzypienie desek, plusk wody, zapach ryb i smoły.
+	Beczki, sieci rybackie, łodzie, towary na targu.
+	20
+	Samotna Góra (Erebor)
+	Izolowana, potężna góra, dawna siedziba krasnoludów.
+	Zewnętrze: zrujnowana dolina, spalona ziemia. Wnętrze: gigantyczne, puste sale, skarbiec zalany złotem.
+	Szarości i czernie spalonej ziemi. Wewnątrz: oślepiający blask złota i klejnotów.
+	Złowrogi, czerwony
+	
+
+	
+
+	
+
+	Cytowane prace
+   1. J.R.R Tolkien — Hobbit, czyli tam i z powrotem — opracowanie i streszczenie, otwierano: sierpnia 10, 2025, https://babaodpolskiego.pl/j-r-r-tolkien-hobbit-czyli-tam-i-z-powrotem-opracowanie-i-streszczenie/
+   2. J. R. R. Tolkien - Hobbit, czyli tam i z powrotem, otwierano: sierpnia 10, 2025, https://cloud-d.edupage.org/cloud/tolkienjrr__hobbit_czyli_tam_i_z_powrotem%281%29.pdf?z%3ASf6l0u0YJcPGYXttOZNcNH%2FWPIxH3jzZdoj016BLEyd5sRMUSfzqumYyratn8gi7
+   3. 75 lat temu ukazał się tolkienowski "Hobbit" | dzieje.pl - Historia Polski, otwierano: sierpnia 10, 2025, https://dzieje.pl/rozmaitosci/75-lat-temu-ukazal-sie-tolkienowski-hobbit
+   4. Hobbit, czyli tam i z powrotem – Wikipedia, wolna encyklopedia, otwierano: sierpnia 10, 2025, https://pl.wikipedia.org/wiki/Hobbit,_czyli_tam_i_z_powrotem
+   5. Jaki był J.R.R. Tolkien jako osoba? : r/Fantasy - Reddit, otwierano: sierpnia 10, 2025, https://www.reddit.com/r/Fantasy/comments/ghwahw/what_was_jrr_tolkien_like_as_a_person/?tl=pl
+   6. J.R.R. Tolkien. Biografia - Carpenter Humphrey | Książka w Empik, otwierano: sierpnia 10, 2025, https://www.empik.com/j-r-r-tolkien-biografia-carpenter-humphrey,p1396845196,ksiazka-p
+   7. Pierwsze wydanie „Hobbita” sprzedane za ponad 40 tys. funtów - Polskie Radio, otwierano: sierpnia 10, 2025, https://www.polskieradio.pl/399/7979/Artykul/3561832,pierwsze-wydanie-hobbita-sprzedane-za-ponad-40-tys-funtow
+   8. Hobbit, czyli tam i z powrotem - klp.pl, otwierano: sierpnia 10, 2025, https://klp.pl/hobbit-czyli-tam-i-z-powrotem/
+   9. Hobbit – lektura w kadrze - Nowa Era, otwierano: sierpnia 10, 2025, https://flipbook.nowaera.pl/dokumenty/Flipbook/Magazyn-Hobbit-lektura-w-kadrze/Hobbit-lektura-w-kadrze.pdf
+   10. Tolkienowski Serwis Informacyjny » Biografia Tolkiena - Elendilion, otwierano: sierpnia 10, 2025, http://www.elendilion.pl/category/biografie/
+   11. Hobbit – ponowne czytanie Rozdział 5: Zagadki w ciemności : r/TheHobbit - Reddit, otwierano: sierpnia 10, 2025, https://www.reddit.com/r/TheHobbit/comments/2jtaec/the_hobbit_reread_chapter_5_riddles_in_the_dark/?tl=pl
+   12. Proste wyjaśnienie: Hobbit - Szczegółowy Plan Wydarzeń i ..., otwierano: sierpnia 10, 2025, https://knowunity.pl/knows/jzyk-polski-opracowanie-lektury-hobbit-88c4a6b6-2f04-48b6-9401-cec0afdf5227
+   13. Hobbit czyli tam i z powrotem – streszczenie – Język polski, otwierano: sierpnia 10, 2025, https://aniakubica.com/lektury/hobbit/hobbit-streszczenie/
+   14. Bag End - Wikipedia, otwierano: sierpnia 10, 2025, https://en.wikipedia.org/wiki/Bag_End
+   15. Rivendell – Wikipedia, wolna encyklopedia, otwierano: sierpnia 10, 2025, https://pl.wikipedia.org/wiki/Rivendell
+   16. The fair valley of 'Rivendell', J.R.R. Tolkien - Museoteca, otwierano: sierpnia 10, 2025, https://museoteca.com/r/en/work/7376/j_r_r_tolkien/the_fair_valley_of_rivendell_/!/
+   17. An illustration of Rivendell painted by J.R.R. Tolkien himself. : r/lotr - Reddit, otwierano: sierpnia 10, 2025, https://www.reddit.com/r/lotr/comments/fnzswa/an_illustration_of_rivendell_painted_by_jrr/
+   18. Elfy – charakterystyka – Hobbit, czyli tam i z powrotem – J R R ..., otwierano: sierpnia 10, 2025, https://poezja.org/wz/interpretacja/4757/Elfy_charakterystyka
+   19. Hobbit | PDF - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/600850502/Hobbit
+   20. Jestem zdezorientowany/a co do Dale/Miasta na Jeziorze/Esgaroth ..., otwierano: sierpnia 10, 2025, https://www.reddit.com/r/tolkienfans/comments/abwygc/im_confused_about_dale_lake_town_esgaroth/?tl=pl
+   21. Samotna Góra – Wikipedia, wolna encyklopedia, otwierano: sierpnia 10, 2025, https://pl.wikipedia.org/wiki/Samotna_G%C3%B3ra
+   22. Hobbit, czyli tam i z powrotem - Charakterystyka bohaterów - John Ronald Reuel Tolkien, otwierano: sierpnia 10, 2025, https://www.bryk.pl/lektury/john-ronald-reuel-tolkien/hobbit-czyli-tam-i-z-powrotem.charakterystyka-bohaterow
+   23. Hobbit, czyli tam i z powrotem (J. R. R. Tolkien) - Bilbo Baggins ..., otwierano: sierpnia 10, 2025, https://opracowania.pl/opracowania/jezyk-polski/hobbit-czyli-tam-i-z-powrotem-j-r-r-tolkien-1,oid,183,bilbo-baggins-charakterystyka
+   24. Król leśnych elfów - klp.pl, otwierano: sierpnia 10, 2025, https://klp.pl/hobbit-czyli-tam-i-z-powrotem/a-9624.html
+   25. „Hobbit” – streszczenie szczegółowe - klp.pl, otwierano: sierpnia 10, 2025, https://klp.pl/hobbit-czyli-tam-i-z-powrotem/a-9589.html
+   26. Fragmenty o elfach i Rivendell : Forum dyskusyjne miłośników twórczości J.R.R. Tolkiena, otwierano: sierpnia 10, 2025, https://forum.tolkien.com.pl/viewtopic.php?t=5383
+   27. Hobbit - Streszczenie, Plan Wydarzeń i Opis Postaci (Język polski) - Knowunity, otwierano: sierpnia 10, 2025, https://knowunity.pl/knows/jzyk-polski-hobbit-71dd4990-1f16-4d4b-8ed0-f7b4de8866c7
+   28. Hobbici - charakterystyka – Hobbit, czyli tam i z powrotem – J R R ..., otwierano: sierpnia 10, 2025, https://poezja.org/wz/interpretacja/4734/Hobbici_charakterystyka
+   29. Hobbit, czyli tam i z powrotem (J. R. R. Tolkien) - Język polski - Opracowania.pl, otwierano: sierpnia 10, 2025, https://opracowania.pl/opracowania/jezyk-polski/hobbit-czyli-tam-i-z-powrotem-j-r-r-tolkien-1,oid,183
+   30. Przemiany Hobbita. Teoria poznawcza i behawioryzm instrumentalny tłumaczą zachowanie bohatera powieści J.R.R. Tolkiena - Adam Jank, otwierano: sierpnia 10, 2025, https://adamjank.pl/2023/04/13/przemiany-hobbita-teoria-poznawcza-i-behawioryzm-instrumentalny-tlumacza-zachowanie-bohatera-powiesci-j-r-r-tolkiena/
+   31. Hobbit - Streszczenie Klasa 6 i Ciekawe Fakty (Język polski) jako PDF - Knowunity, otwierano: sierpnia 10, 2025, https://knowunity.pl/knows/jzyk-polski-hobbit-czyli-tam-i-z-powrotem-6c8fe293-37fb-455c-9bdd-9e0442a29510
+   32. Hobbit | PDF - Scribd, otwierano: sierpnia 10, 2025, https://www.scribd.com/document/849094638/Hobbit
+   33. Beorn – charakterystyka – Hobbit, czyli tam i z powrotem – J R R ..., otwierano: sierpnia 10, 2025, https://poezja.org/wz/interpretacja/4706/Beorn_charakterystyka
+   34. Charakterystyka plemion w „Hobbicie, czyli tam i z powrotem” - klp.pl, otwierano: sierpnia 10, 2025, https://klp.pl/hobbit-czyli-tam-i-z-powrotem/a-10974.html
+   35. Gollum (Hobbit) - charakterystyka – Hobbit, czyli tam i z powrotem - poezja.org, otwierano: sierpnia 10, 2025, https://poezja.org/wz/interpretacja/4721/Gollum_Hobbit_charakterystyka
+   36. Hobbit czyli tam i z powrotem - Język polski, otwierano: sierpnia 10, 2025, https://aniakubica.com/lektury/hobbit/
+   37. Smaug – charakterystyka – Hobbit, czyli tam i z powrotem – J R R ..., otwierano: sierpnia 10, 2025, https://poezja.org/wz/interpretacja/4731/Smaug_charakterystyka
+   38. Forum dyskusyjne miłośników twórczości J.R.R. Tolkiena :: Z czego ..., otwierano: sierpnia 10, 2025, https://forum.tolkien.com.pl/viewtopic.php?printertopic=1&t=2965&postdays=0&postorder=asc&&start=8&sid=1e66aa28595c3eeba77294b5d0c47e0b
+   39. Mapa Throra i smok Smaug - Poznajbilbo.pl, otwierano: sierpnia 10, 2025, https://poznajbilbo.pl/mapa-throra-i-smok-smaug/
+   40. Hobbit, Mapa Ereboru Throra, Thräin Elrond, Samotna Góra Thorina, Smaug Smok, JRR Tolkien Władca Pierścieni, Śródziemie, Bilbo - Etsy Polska, otwierano: sierpnia 10, 2025, https://www.etsy.com/pl/listing/1111113843/hobbit-mapa-ereboru-throra-thrain-elrond
+   41. United Cutlery Hobbit Orkrist Miecz Thorina Dębowej Tarczy – Knyfe, otwierano: sierpnia 10, 2025, https://knyfe.de/pl/zjednoczone-sztu%C4%87ce/zjednoczone-sztu%C4%87ce-hobbit-orkryst-miecz-Thorina-D%C4%99bowej-Tarczy/united2928/
+   42. Hobbit, czyli tam i z powrotem (J. R. R. Tolkien) - Język polski - Opracowania.pl, otwierano: sierpnia 10, 2025, https://opracowania.pl/opracowania/jezyk-polski/hobbit-czyli-tam-i-z-powrotem-j-r-r-tolkien,oid,16
+   43. Lista różnic występujących pomiędzy ksiązką a wersją filmową. - Hobbit: Pustkowie Smauga, otwierano: sierpnia 10, 2025, https://www.filmweb.pl/film/Hobbit%3A+Pustkowie+Smauga-2013-469867/discussion/Lista+r%C3%B3%C5%BCnic+wyst%C4%99puj%C4%85cych+pomi%C4%99dzy+ksi%C4%85zk%C4%85+a+wersj%C4%85+filmow%C4%85.,2366359
+   44. Nieoczekiwana recenzja Hobbit: Niezwykła podróż, otwierano: sierpnia 10, 2025, https://www.elendilion.pl/2012/12/20/nieoczekiwana-recenzja-hobbit-niezwyka-podro/
+   45. "Władca Pierścieni" P. Jacksona - analiza : Forum dyskusyjne miłośników twórczości J.R.R. Tolkiena, otwierano: sierpnia 10, 2025, https://forum.tolkien.com.pl/viewtopic.php?p=143547&sid=a6fa50ab468f76f2fd820764b35a0847
+   46. Proszę o odpowiedź na pytania - Pytanie - Lektury - Bryk.pl, otwierano: sierpnia 10, 2025, https://www.bryk.pl/pytania/jezyk-polski/lektury/5387-prosze-o-odpowiedz-na-pytania-1.html

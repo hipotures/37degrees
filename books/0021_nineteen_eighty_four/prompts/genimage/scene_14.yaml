@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1984, late afternoon, dim interior shop lighting
+    location: Small dusty shop in prole district selling useless beautiful objects from forgotten past
+    weather: Sheltered from cold exterior, musty indoor air
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Standing near shop counter, examining blank notebook with cream-colored paper in his hands
+    action: Running fingers over paper surface while elderly shopkeeper watches, making decision to commit dangerous purchase
+  - appearance: Man appearing 60+ years old, frail and stooped elderly appearance, gray hair, long gentle nose, eyes distorted
+      by thick eyeglasses creating appearance of weakness and kindness
+    clothing: Worn velvet jacket, shabby but respectable old-fashioned attire
+    position: Behind wooden shop counter, leaning forward with interest
+    action: Watching Winston examine the notebook with gentle encouraging expression, ready to complete transaction
+  scene:
+    mainElements: Dark cramped interior filled with glass, china, and antique furniture covered in dust, wooden counter separating
+      customer from proprietor, blank notebook with cream-colored paper being examined, shelves crowded with forgotten treasures,
+      dim light filtering through dusty windows
+    details: Moment of dangerous choice disguised as innocent commerce. Winston's weathered hands hold forbidden beauty -
+      real paper and binding from destroyed past. Charrington's kindly elderly demeanor conceals deadly trap. Dust motes float
+      in dim afternoon light. Every antique object represents illegal connection to pre-revolutionary world. The notebook's
+      cream pages promise space for forbidden thoughts. Winston's nervous energy contrasts with shopkeeper's patient watching.
+      This purchase begins Winston's path to destruction. No text or letters visible.
+    background: Deep shelves extending into shadowy recesses filled with mysterious objects from forbidden past
+    atmosphere: Dangerous temptation disguised as harmless nostalgia, false sanctuary offering beautiful objects that carry
+      death sentence
+  composition:
+    cameraAngle: Medium shot showing both Winston and Charrington across counter
+    focus: Winston's hands holding the blank notebook while Charrington observes
+    depth: Foreground Winston examining notebook, middle ground counter and Charrington, background shop shelves fading into
+      darkness
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

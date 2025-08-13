@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1984, daily 11:00 AM mandatory session, harsh institutional lighting
+    location: Ministry of Truth assembly hall with rows of workers facing large telescreen
+    weather: Climate-controlled interior growing hot from crowd body heat
+  characters:
+  - appearance: Man, 39 years old, thin and frail build, below average height, very pale almost white hair, naturally ruddy
+      complexion made rough by cheap soap and dull razors, intelligent but sad and weary eyes, artificial teeth, chronic varicose
+      ulcer on right ankle above the ankle bone that frequently itches and suppurates
+    clothing: Blue Party overalls (standard Outer Party uniform), worn and shabby
+    position: Seated in middle of crowd, surrounded by other workers
+    action: Forcing expression of hatred and anger while internally maintaining emotional distance from the ceremony
+  - appearance: Woman, 26-27 years old, athletic and supple body, shapely feminine hips, thick glossy dark hair, pretty face
+      with freckles, bold and confident expression, energetic and agile movements
+    clothing: Blue Party overalls, narrow scarlet sash of Anti-Sex League worn tightly around waist accentuating her figure
+    position: Several rows behind Winston, visible in crowd
+    action: Participating in collective hatred with convincing enthusiasm, shouting and gesturing with apparent genuine fury
+  scene:
+    mainElements: Rows of blue-uniformed workers seated facing enormous telescreen displaying enemy images, crowd unified
+      in expressions of hatred and anger, raised fists and shouting mouths, telescreen showing Goldstein's face, collective
+      physical response to propaganda stimulus
+    details: Mass psychological manipulation in action. Hundreds of workers transform into screaming mob. Faces contort with
+      manufactured rage. Fists shake in unison toward telescreen. Julia's scarlet sash stands out among blue uniforms as she
+      performs perfect hatred. Winston forces appropriate expression while maintaining inner detachment. Body heat from crowd
+      creates stifling atmosphere. The telescreen dominates with enemy imagery designed to trigger primal response. Collective
+      humanity replaced by programmed response. No text or letters visible.
+    background: Assembly hall packed with workers in identical blue uniforms, institutional walls, large telescreen dominating
+      front wall
+    atmosphere: Mass hysteria and manufactured hatred, collective loss of individual identity in service to state-directed
+      emotion, suffocating group psychology
+  composition:
+    cameraAngle: Medium shot from Winston's perspective looking toward telescreen and crowd
+    focus: Sea of raised fists and contorted faces expressing collective hatred
+    depth: Foreground Winston among shouting crowd, middle ground mass of blue-uniformed workers, background enormous telescreen
+      displaying enemy image
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

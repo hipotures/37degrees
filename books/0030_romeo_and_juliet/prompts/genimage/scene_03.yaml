@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Renaissance Italy, late morning
+    location: Courtyard garden within wealthy Verona palace
+    weather: Warm sunlight filling enclosed courtyard, slight breeze moving through
+  characters:
+  - appearance: Young girl, 13 years old, petite and delicate build, light brown hair often elaborately styled, luminous intelligent
+      eyes, radiant fair complexion
+    clothing: Luxurious gowns in warm tones - crimson silk dress with gold embroidery, fitted bodice with square neckline,
+      full skirt over farthingale, pearl ornaments in hair
+    position: Seated on stone bench near flowering orange tree
+    action: Embroidering white silk with gold thread, peaceful concentration, occasionally glancing at butterflies
+  - appearance: Middle-aged woman, 40-50 years old, plump jovial build, plain but kind face prone to laughter and tears, graying
+      hair under cap
+    clothing: Simple servant's dress in muted colors - brown wool dress, white linen apron, modest cap covering hair
+    position: Standing nearby, slightly behind young girl
+    action: Holding basket of embroidery supplies, speaking animatedly with warm gestures
+  scene:
+    mainElements: Enclosed Renaissance garden with geometric herb beds, orange and lemon trees in terracotta pots, covered
+      walkway with columns
+    details: Fountain softly bubbling in center, white doves cooing on red tile roof, roses climbing stone walls, marble statues
+      in niches, embroidery frame with half-finished pattern, scattered rose petals on paved paths
+    background: Upper story windows with wooden shutters, loggia with potted plants, glimpse of blue sky above
+    atmosphere: Protected feminine space, comfortable intimacy between two women, peaceful domestic contentment, innocence
+      before storm
+  composition:
+    cameraAngle: Medium shot from garden path perspective
+    focus: Tranquil scene of maiden and nurse in their familiar comfort
+    depth: Women and bench in foreground, garden elements in middle ground, palace walls in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

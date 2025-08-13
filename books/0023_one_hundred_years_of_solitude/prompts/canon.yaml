@@ -5,7 +5,7 @@ canon:
       description_block: |
         characters:
           - appearance: "Man, late 20s to elderly, potężna budowa ciała with extraordinary strength that allows him to fell a horse by grabbing its ears, in youth charismatic patriarch full of energy and curiosity, in madness becomes emaciated with long grey beard and hair, wild absent gaze"
-            clothing: "Simple rural linen shirts and pants in youth, in madness nearly naked covered only by blanket or loincloth"
+            clothing: "Simple rural linen shirts and pants in youth, covered only by blanket or loincloth"
             posture: "In youth moves with energy and confidence, broad decisive gestures, in madness restricted movements, often talking to himself in incomprehensible Latin"
     
     - id: "ursula_iguaran"
@@ -20,7 +20,7 @@ canon:
       name: "José Arcadio (son)"
       description_block: |
         characters:
-          - appearance: "Man, teenager to adult, inherited enormous physical strength from father, described as possessing enormous penis becoming his characteristic feature, after return from long journey is enormous man, powerfully built with tanned skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and symbols from travels, wild exotic intimidating appearance"
+          - appearance: "Man, teenager to adult, inherited enormous physical strength from father, after return from long journey is enormous man, powerfully built with tanned skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and symbols from travels, wild exotic intimidating appearance"
             clothing: "Simple sailor clothes - loose pants and unbuttoned shirt, often walks with bare torso to display tattoos"
             posture: "Moves with nonchalance and self-confidence, speaks loudly, thunderous laugh, physically dominates space"
     
@@ -53,7 +53,7 @@ canon:
       description_block: |
         characters:
           - appearance: "Woman, from birth to ascension as young woman around 18-20 years old, described as most beautiful woman ever seen in Macondo, her beauty is unearthly, disturbing and mortally dangerous for men who look at her with desire, has long thick hair and radiant skin, body emits subtle disturbing scent that drives men to madness, completely unaware of her beauty and its effect on others giving impression of being mentally disabled though Colonel Aureliano believes she possesses extraordinary clarity of mind"
-            clothing: "Despises clothes and fashion preferring simplicity and comfort, often walks around house naked or in simple plain shirt which further enhances her natural beauty, at family's request shaves head to avoid having to comb her magnificent hair"
+            clothing: "Despises clothes and fashion preferring simplicity and comfort, often walks around house in simple plain shirt which further enhances her natural beauty, at family's request shaves head to avoid having to comb her magnificent hair"
             posture: "Natural graceful movements, completely unconscious of her effect on others, innocent childlike demeanor despite devastating beauty"
     
     - id: "aureliano_segundo"

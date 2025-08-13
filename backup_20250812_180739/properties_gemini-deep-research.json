@@ -1,0 +1,36 @@
+             📋 All Item Properties for list 'gemini-deep-research'             
+╭──────────────────────┬──────────────────────┬────────────────────────────────╮
+│ Item Key             │ Property Key         │ Value                          │
+├──────────────────────┼──────────────────────┼────────────────────────────────┤
+│ 0001_alice_in_wonde… │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0002_animal_farm     │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0003_anna_karenina   │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0004_brave_new_world │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0005_chlopi          │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0006_don_quixote     │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0007_dune            │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0008_emma            │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0009_fahrenheit_451  │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0010_great_gatsby    │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0012_harry_potter    │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0013_hobbit          │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0014_jane_eyre       │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0015_lady_of_the_ca… │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0016_lalka           │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0017_little_prince   │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0018_lord_of_the_ri… │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0019_master_and_mar… │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0020_narnia          │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0021_nineteen_eight… │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0022_old_man_and_th… │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0025_portrait_of_do… │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0028_red_and_black   │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0030_romeo_and_juli… │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0031_solaris         │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0032_sorrows_of_you… │ SEARCH_URL           │ https://gemini.google.com/u/2… │
+│ 0033_the_trial       │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0034_to_kill_a_mock… │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0035_tom_sawyer      │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0036_treasure_island │ SEARCH_URL           │ https://gemini.google.com/app… │
+│ 0037_wuthering_heig… │ SEARCH_URL           │ https://gemini.google.com/app… │
+╰──────────────────────┴──────────────────────┴────────────────────────────────╯

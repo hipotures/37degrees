@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1920s Colombian Caribbean coast, quiet morning after rain finally stops
+    location: Courtyard of deteriorating Buendía house beside ancient chestnut tree, Colombian jungle village
+    weather: First clear morning in years with gentle tropical breeze and filtered sunlight
+  characters:
+  - appearance: Man, from birth to death in lonely old age, born with open eyes prophesying his gift of clairvoyance, as child
+      and youth silent and withdrawn, slender almost ascetic build, as result of 32 lost wars face takes on harsh tired expression
+      of veteran, penetrating melancholic gaze, suffers from painful boils under armpits (hidradenitis suppurativa) rare but
+      significant physical detail emphasizing inner suffering
+    clothing: In youth simple modest clothes, as military commander wears liberal uniform which over time becomes worn faded
+      and repeatedly patched, in old age after wars simple shirt and pants working in goldsmith workshop
+    position: Standing beside massive chestnut tree trunk in final moment
+    action: Leaning forehead against tree bark in gesture of ultimate surrender and peace
+  - appearance: Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment
+      of vitality and strength through most of life, in old age when loses sight body begins to shrink, at end of life becomes
+      so small and light resembles newborn or doll, skin becomes wrinkled and transparent
+    clothing: Dark, stern, simple dresses throughout life reflecting pragmatism and mourning for family members, characteristic
+      stiff starched petticoats that make quiet whisper during constant bustling
+    position: Watching from kitchen doorway with profound sadness
+    action: Crossing herself while witnessing end of her most beloved son's tormented life
+  scene:
+    mainElements: Ancient chestnut tree where patriarch was once tied in madness now serving as final resting place for last
+      great warrior, post-flood courtyard showing damage but also renewal, morning light creating peaceful atmosphere after
+      years of darkness, end of an era represented by tree that witnessed entire family history
+    details: Massive chestnut tree trunk scarred by years of weather and family trauma, filtered morning sunlight creating
+      patterns through damaged leaves, courtyard still showing flood damage but beginning to dry, profound silence after years
+      of rain, air fresh with scent of earth beginning to recover, no text or letters visible
+    background: House showing flood damage but still standing, workshop visible through doorway with abandoned goldsmith tools,
+      village beyond beginning slow recovery from biblical deluge
+    atmosphere: Profound peace after lifetime of warfare and suffering, warrior finding final rest against tree that anchored
+      family through all generations, end of military glory and political struggle
+  composition:
+    cameraAngle: Medium shot capturing both Colonel's final peace and tree's eternal presence
+    focus: Colonel Aureliano's ultimate solitude and surrender beside family's anchor tree
+    depth: 'Foreground: Colonel''s final gesture against tree, middle: observing Úrsula representing family continuity, background:
+      house and village beginning recovery'
+visualElements:
+  colorPalette:
+    primary:
+    - muted blues
+    - soft purples
+    - misty grays
+    secondary:
+    - pale golds
+    - dusty roses
+    - seafoam greens
+    background: gradient washes, nebulous
+    usageNotes: Soft, dreamy colors that blend into each other
+    saturation: low to medium
+    contrast: soft, hazy
+  lineArt:
+    style: fluid, dissolving
+    weight: varied, sometimes fading
+    color: soft, often colored lines
+    texture: smooth, organic
+    edgeTreatment: soft, sometimes undefined
+  lighting:
+    type: otherworldly, multiple sources
+    direction: illogical, dreamlike
+    intensity: soft, glowing
+    shadows:
+      style: soft, sometimes defying physics
+      color: colored shadows
+      opacity: translucent
+    highlights: ethereal glows
+  rendering:
+    technique: smooth blending, sfumato
+    texture: soft, cloud-like
+    detailLevel: selective focus, some areas sharp, others dissolving
+    finish: dreamlike, atmospheric
+  perspective: impossible, shifting, non-Euclidean
+  mood:
+    overall: mysterious, contemplative, otherworldly
+    emotion: wonder, unease, transcendence
+    tempo: floating, timeless
+    keywords:
+    - mysterious
+    - dreamlike
+    - surreal
+    - metaphysical
+    - transcendent
+  stylePrecedents:
+  - Salvador Dalí
+  - René Magritte
+  - Remedios Varo
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
