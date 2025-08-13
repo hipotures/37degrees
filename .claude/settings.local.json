@@ -3,7 +3,14 @@
     "allow": [
       "mcp__ruv-swarm",
       "mcp__claude-flow",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "mcp__todoit__todo_get_all_items_properties",
+      "mcp__todoit__todo_get_item_property",
+      "mcp__todoit__todo_get_all_items_properties",
+      "mcp__todoit__todo_update_item_status",
+      "mcp__todoit__todo_set_item_property",
+      "mcp__todoit__todo_get_item",
+      "mcp__todoit__todo_get_list_items"
     ],
     "deny": [],
     "additionalDirectories": [
