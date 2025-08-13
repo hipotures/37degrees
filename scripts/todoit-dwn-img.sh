@@ -11,6 +11,8 @@
 # Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 declare -a book_directories=(
+    "0030_romeo_and_juliet"
+    "0023_one_hundred_years_of_solitude"
     "0026_pride_and_prejudice"
     "0028_red_and_black"
     "0029_robinson_crusoe"

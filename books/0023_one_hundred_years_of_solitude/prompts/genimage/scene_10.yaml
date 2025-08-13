@@ -4,11 +4,10 @@ sceneDescription:
     location: Edge of Macondo village where jungle path leads to outside world, Colombian settlement border
     weather: Clear tropical night with brilliant stars and gentle warm breeze carrying jungle scents
   characters:
-  - appearance: Man, teenager to adult, inherited enormous physical strength from father,
-      after return from long journey is enormous man, powerfully built with tanned
-      skin, entire body from neck to ankles covered with dense colorful tattoos in various languages depicting scenes and
-      symbols from travels, wild exotic intimidating appearance
-    clothing: Simple sailor clothes - loose pants and unbuttoned shirt, often walks with bare torso to display tattoos
+  - appearance: Man, teenager to adult, inherited enormous physical strength from father, after return from long journey is
+      enormous man, powerfully built with tanned skin, entire body from neck to ankles covered with dense colorful tattoos
+      in various languages depicting scenes and symbols from travels, wild exotic intimidating appearance
+    clothing: Simple sailor clothes - loose pants and open shirt revealing colorful tattoos
     position: Standing at jungle path entrance with travel pack
     action: Taking final look back at sleeping village before disappearing into unknown world
   - appearance: Woman, teenage to over 115 years old, described as active, small, stern woman with steel nerves, embodiment

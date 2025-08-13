@@ -12,6 +12,8 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
+  "0030_romeo_and_juliet"
+  "0034_to_kill_a_mockingbird"
   "0008_emma"
   "0009_fahrenheit_451"
   "0010_great_gatsby"
@@ -34,13 +36,12 @@ declare -a book_directories=(
   "0030_romeo_and_juliet"
   "0032_sorrows_of_young_werther"
   "0033_the_trial"
-  "0034_to_kill_a_mockingbird"
   "0035_tom_sawyer"
   "0037_wuthering_heights"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
-COMMAND_FILE="/home/xai/DEV/37degrees/.claude/commands/37d-c3.md"
+COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-a3.md"
 
 # Plik konfiguracyjny MCP.
 MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
@@ -99,18 +100,11 @@ calculate_sleep_time() {
 get_next_task() {
     local book_dir="$1"
     
-    # Pobierz następne pending zadanie
-    next_task=$(todoit item next "$book_dir" 2>/dev/null)
-    
-    if [ $? -eq 0 ] && [ -n "$next_task" ]; then
-        # Wyciągnij klucz zadania z odpowiedzi
-        task_key=$(echo "$next_task" | grep "Key:" | cut -d':' -f2 | xargs)
-        echo "$task_key"
-        return 0
-    else
-        echo ""
-        return 1
-    fi
+    # Pobierz następne zadanie z image_generated: pending
+    TODOIT_OUTPUT_FORMAT=json \
+    todoit item find "$book_dir" --property image_generated --value pending --first 2>/dev/null \
+    | jq -er 'if (.count // 0) > 0 then .data[0]["Item Key"] else halt_error(1) end' 2>/dev/null \
+    || return 1
 }
 
 # Funkcja do wykonania komendy claude z retry logic

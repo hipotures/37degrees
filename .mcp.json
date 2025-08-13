@@ -1,0 +1,66 @@
+{
+  "mcpServers": {
+    "playwright-headless": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@0.0.32",
+        "--headless",
+        "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile-1",
+        "--no-sandbox",
+        "--device=Galaxy S24",
+        "--output-dir=/tmp/playwright-mcp-files/headless",
+        "--save-session",
+        "--user-agent=Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+      ],
+      "env": {}
+    },
+    "playwright-show-browser": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@0.0.32",
+        "--user-data-dir=/home/xai/DEV/ms-playwright/mcp-chrome-profile-2",
+        "--no-sandbox",
+        "--device=Galaxy S24",
+        "--output-dir=/tmp/playwright-mcp-files/browser",
+        "--save-session",
+        "--user-agent=Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+      ],
+      "env": {}
+    },
+    "playwright-executeautomation": {
+      "type": "stdio", 
+      "command": "npx",
+      "args": [
+        "@executeautomation/playwright-mcp-server@1.0.6"
+      ],
+      "env": {}
+    },
+    "playwright-cdp": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp@0.0.32",
+        "--cdp-endpoint=http://localhost:9222",
+        "--no-sandbox"
+      ],
+      "env": {}
+    },
+    "todoit": {
+      "command": "python",
+      "args": ["-m", "interfaces.mcp_server"],
+      "env": {}
+    },
+    "gdrive": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@isaacphi/mcp-gdrive"],
+      "env": {
+        "CLIENT_ID": "${GOOGLE_CLIENT_ID}",
+        "CLIENT_SECRET": "${GOOGLE_CLIENT_SECRET}",
+        "GDRIVE_CREDS_DIR": "/home/xai/.config/mcp-gdrive"
+      }
+    }
+  }
+}
