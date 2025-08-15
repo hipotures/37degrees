@@ -1,0 +1,60 @@
+styleName: Steampunk Cogwork Style
+description: Victorian-inspired machinery with brass and copper elements, exposed gears, and analog technology
+aiPrompts:
+  basePrompt: steampunk cogwork, victorian machinery, brass and copper elements, exposed gears, analog technology, industrial revolution
+  negativePrompt: digital, plastic, modern, clean, minimalist
+  styleKeywords:
+  - steampunk
+  - cogwork
+  - victorian
+  - brass
+  - analog
+  - industrial
+visualElements:
+  colorPalette:
+    primary:
+    - '#B87333'  # copper
+    - '#CD7F32'  # bronze
+    - '#8B4513'  # saddle brown
+    - '#2F4F4F'  # dark slate gray
+    secondary:
+    - '#DAA520'  # goldenrod
+    - '#696969'  # dim gray
+    - '#FFD700'  # gold
+    background: aged parchment or dark metal
+    usageNotes: Patinated metals, warm tones
+    saturation: medium, aged feel
+    contrast: metallic highlights
+  lineArt:
+    style: technical drawing
+    weight: varied, precise
+    color: sepia or ink
+    texture: paper grain, rust
+    edgeTreatment: precise with wear
+  lighting:
+    type: warm gaslight
+    direction: from multiple sources
+    intensity: flickering, uneven
+    shadows: long, distorted
+    highlights: metallic sheen
+  rendering:
+    technique: technical illustration
+    texture: metal grain, patina
+    detailLevel: high mechanical details
+    finish: worn, aged
+  mood:
+    overall: inventive, industrial, nostalgic
+    emotion: curiosity, ingenuity, romance
+    tempo: mechanical, rhythmic
+    keywords:
+    - inventive
+    - industrial
+    - nostalgic
+    - mechanical
+    - romantic
+  stylePrecedents:
+  - Jules Verne's illustrations
+  - Victorian engineering blueprints
+  - H.G. Wells' technology
+  - Alan Lee's steampunk art
+  - Brian Kesinger's mechanical illustrations

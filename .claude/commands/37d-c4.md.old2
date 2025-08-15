@@ -17,7 +17,9 @@
   - `image_downloaded = completed|pending|in_progress|failed` (status pobierania)
 - **Nazewnictwo plików**: `[BOOK_FOLDER]_scene_[NN].png`, `[BOOK_FOLDER]_scene_[NN]_a.png`, ...
 
-NIE używaj playwright-show-browser
+> Jeśli nie masz `project_id` lub `thread_id`, zatrzymaj się i napraw stan w 37d‑a3.
+
+NIE uZywaj playwright-show-browser
 
 ## Algorytm (Properties)
 
@@ -37,71 +39,45 @@ const projectId = await mcp__todoit__todo_get_list_property({
 if (!bookFolder || !projectId) { throw new Error("Brak book_folder albo project_id"); }
 ```
 
-### 1) Pobierz następne zadanie do pobrania (lub użyj podanego task_key)
+### 1) Pobierz następne zadanie do pobrania
 
 ```javascript
-let sceneKey, threadId;
+// OPTYMALIZACJA: Pobierz wszystkie properties zadań z statusem pending/in_progress
+const allItemsProperties = await mcp__todoit__todo_get_all_items_properties({
+  list_key: SOURCE_LIST,
+  status: "in_progress"  // zadania w trakcie (będziemy filtrować po properties)
+});
 
-// Sprawdź czy task_key został podany na wejściu
-const taskKeyMatch = input.match(/Task key:\s*(\S+)/);
-if (taskKeyMatch) {
-  // Użyj podanego task_key
-  sceneKey = taskKeyMatch[1];
-  console.log(`Używam podanego task_key: ${sceneKey}`);
-  
-  // Pobierz thread_id dla tego konkretnego zadania
-  const threadIdProperty = await mcp__todoit__todo_get_item_property({
-    list_key: SOURCE_LIST,
-    item_key: sceneKey,
-    property_key: "thread_id"
-  });
-  
-  if (!threadIdProperty.success) {
-    throw new Error(`Brak thread_id dla ${sceneKey}`);
-  }
-  
-  threadId = threadIdProperty.property_value;
-} else {
-  // Szukaj następnego zadania automatycznie
-  console.log("Brak task_key - szukam następnego zadania...");
-  
-  // Pobierz wszystkie properties zadań z statusem pending/in_progress
-  const allItemsProperties = await mcp__todoit__todo_get_all_items_properties({
-    list_key: SOURCE_LIST,
-    status: "in_progress"  // zadania w trakcie (będziemy filtrować po properties)
-  });
-
-  if (!allItemsProperties.success || allItemsProperties.count === 0) {
-    console.log("Brak zadań w liście"); 
-    return; 
-  }
-
-  // Znajdź pierwsze zadanie gotowe do pobrania (image_downloaded=pending + image_generated=completed)
-  let nextTask = null;
-
-  for (const itemProps of allItemsProperties.properties) {
-    const properties = itemProps.properties;
-    
-    // Sprawdź czy image_downloaded=pending i image_generated=completed
-    const downloadStatus = properties.find(p => p.property_key === "image_downloaded")?.property_value;
-    const generateStatus = properties.find(p => p.property_key === "image_generated")?.property_value;
-    const threadIdProperty = properties.find(p => p.property_key === "thread_id")?.property_value;
-    
-    if (downloadStatus === "pending" && generateStatus === "completed" && threadIdProperty) {
-      nextTask = { item_key: itemProps.item_key };
-      threadId = threadIdProperty;
-      break;
-    }
-  }
-
-  if (!nextTask) {
-    console.log("Brak zadań gotowych do pobrania (pending download + completed generation)"); 
-    return; 
-  }
-
-  sceneKey = nextTask.item_key;
+if (!allItemsProperties.success || allItemsProperties.count === 0) {
+  console.log("Brak zadań w liście"); 
+  return; 
 }
 
+// Znajdź pierwsze zadanie gotowe do pobrania (image_downloaded=pending + image_generated=completed)
+let nextTask = null;
+let threadId = null;
+
+for (const itemProps of allItemsProperties.properties) {
+  const properties = itemProps.properties;
+  
+  // Sprawdź czy image_downloaded=pending i image_generated=completed
+  const downloadStatus = properties.find(p => p.property_key === "image_downloaded")?.property_value;
+  const generateStatus = properties.find(p => p.property_key === "image_generated")?.property_value;
+  const threadIdProperty = properties.find(p => p.property_key === "thread_id")?.property_value;
+  
+  if (downloadStatus === "pending" && generateStatus === "completed" && threadIdProperty) {
+    nextTask = { item_key: itemProps.item_key };
+    threadId = threadIdProperty;
+    break;
+  }
+}
+
+if (!nextTask) {
+  console.log("Brak zadań gotowych do pobrania (pending download + completed generation)"); 
+  return; 
+}
+
+const sceneKey = nextTask.item_key;          // np. "item_0012" 
 if (!threadId) {
   await mcp__todoit__todo_set_item_property({
     list_key: SOURCE_LIST, item_key: sceneKey, 
@@ -121,22 +97,13 @@ await mcp__playwright-headless__browser_navigate({ url: chatUrl });
 await mcp__playwright-headless__browser_wait_for(time: 5);
 await mcp__playwright-headless__browser_snapshot();
 
-// Sprawdź czy przycisk download istnieje i pobierz
-const downloadExists = await mcp__playwright-headless__browser_evaluate({
-  function: `() => {
-    const buttons = Array.from(document.querySelectorAll('button'));
-    return buttons.some(b => (b.getAttribute('aria-label')||'').includes('Download this image'));
-  }`
-});
-
-if (downloadExists) {
-  await mcp__playwright-headless__browser_click({ element: "Download this image button" });
-}
+// Pobieranie: pojedyncze odpowiedzi
+await mcp__playwright-headless__browser_click({ element: "Download this image button" });
 
 // Pobieranie: odpowiedzi wielokrotne (Previous/Next)
 let moved;
 do {
-  // Spróbuj cofnąć do pierwszej odpowiedzi
+  // Spróbuj cofnąć do pierwszej odpowiedzi i pobrać
   moved = await mcp__playwright-headless__browser_evaluate({
     function: `() => {
       const buttons = Array.from(document.querySelectorAll('button'));
@@ -145,20 +112,7 @@ do {
       return false;
     }`
   });
-  
-  // Sprawdź czy w tej odpowiedzi jest dostępny download i pobierz
-  if (moved) {
-    const downloadExists = await mcp__playwright-headless__browser_evaluate({
-      function: `() => {
-        const buttons = Array.from(document.querySelectorAll('button'));
-        return buttons.some(b => (b.getAttribute('aria-label')||'').includes('Download this image'));
-      }`
-    });
-    
-    if (downloadExists) {
-      await mcp__playwright-headless__browser_click({ element: "Download this image button" });
-    }
-  }
+  await mcp__playwright-headless__browser_click({ element: "Download this image button" });
 } while (moved === true);
 
 ```
@@ -182,15 +136,8 @@ mkdir -p "$DEST_DIR"
 
 # Nie nadpisuj. Doklejaj sufiksy _a _b ...
 move_one() {
-  src="$1"; name="$2"; idx=0
-  suffixes=("" "_a" "_b" "_c" "_d" "_e" "_f" "_g" "_h" "_i" "_j" "_k" "_l" "_m" "_n")
-  out="${DEST_DIR}/${name}.png"
-  
-  while [ -e "$out" ]; do 
-    idx=$((idx+1))
-    out="${DEST_DIR}/${name}${suffixes[$idx]}.png"
-  done
-  
+  src="$1"; name="$2"; idx=0; out="${DEST_DIR}/${name}.png"
+  while [ -e "$out" ]; do idx=$((idx+1)); suf=$(printf "_%c" $((96+idx))); out="${DEST_DIR}/${name}${suf}.png"; done
   mv -n "$src" "$out" && echo "$out"
 }
 
@@ -329,7 +276,7 @@ const generatedTasks = await mcp__todoit__todo_find_items_by_property({
 console.log(`Zadania z ukończonym generowaniem: ${generatedTasks.count}`);
 ```
 
-### Monitoring stanu zadań (przykłady)
+### Monitoring stanu zadań
 
 ```javascript
 // Sprawdź wszystkie zadania w trakcie pobierania
@@ -349,10 +296,10 @@ const failedTasks = await mcp__todoit__todo_find_items_by_property({
 console.log(`W trakcie: ${inProgressDownloads.count}, Nieudane: ${failedTasks.count}`);
 ```
 
-### Debugowanie właściwości zadań (przykłady)
+### Debugowanie właściwości zadań
 
 ```javascript
-// Pobierz wszystkie właściwości jednym wywołaniem
+// OPTYMALIZOWANE: Pobierz wszystkie właściwości jednym wywołaniem
 const allItemsProperties = await mcp__todoit__todo_get_all_items_properties({
   list_key: "0037_wuthering_heights"
 });

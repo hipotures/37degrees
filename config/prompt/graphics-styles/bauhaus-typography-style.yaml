@@ -1,0 +1,63 @@
+styleName: Bauhaus Typography Style
+description: Geometric letterforms with strict grid-based layouts, primary colors, and functional minimalism
+aiPrompts:
+  basePrompt: bauhaus typography, geometric lettering, grid-based layout, primary colors, sans-serif, functional minimalism, asymmetrical composition
+  negativePrompt: decorative, serif, curved, ornate, handwritten, emotional
+  styleKeywords:
+  - bauhaus
+  - typography
+  - geometric
+  - grid
+  - minimal
+  - functional
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'  # red
+    - '#00FF00'  # green
+    - '#0000FF'  # blue
+    - '#000000'  # black
+    secondary:
+    - '#FFFF00'  # yellow
+    - '#FF00FF'  # magenta
+    - '#00FFFF'  # cyan
+    background: white or solid primary
+    usageNotes: Strict primary colors only, no gradients
+    saturation: full saturation
+    contrast: maximum through color blocking
+  lineArt:
+    style: strict geometric forms
+    weight: uniform stroke weights
+    color: black or primary colors
+    texture: flat, no texture
+    edgeTreatment: precise, clean edges
+  typography:
+    integration: primary visual element
+    style: sans-serif geometric
+    weight: bold, uniform
+    layout: asymmetric grid
+    effects: none
+    characteristics: legible, objective
+    sizes: modular scaling
+  lighting:
+    type: flat graphic lighting
+    direction: not applicable
+    intensity: even
+    shadows: none
+    highlights: none
+  mood:
+    overall: objective, revolutionary, industrial
+    emotion: clarity, progress, order
+    tempo: precise, measured
+    keywords:
+    - functional
+    - revolutionary
+    - geometric
+    - industrial
+    - objective
+  stylePrecedents:
+  - Herbert Bayer universal alphabet
+  - Jan Tschichold's typographic rules
+  - Laszlo Moholy-Nagy's design
+  - Bauhaus school manifesto
+  - Swiss International Style influence

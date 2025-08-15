@@ -11,6 +11,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Python**: 3.12+ required, uses `uv` package manager
 - **Setup**: `uv pip install -r requirements.txt`
 - **Config**: Uses `config/settings.yaml` with environment variable overrides via `.env`
+- **Testing**: No formal test framework - use mock generators for testing (`--generator mock`, `--provider mock`)
+- **No linting/formatting**: Project doesn't use formal linting tools - follow existing code style
 
 ### Main CLI Commands
 ```bash
@@ -40,6 +42,11 @@ python main.py --config production.yaml video 17
 # 37d Agent System (Research)
 /37d-research "Book Title"                     # Run 8 specialized research agents
 ./scripts/export-37d-system.sh               # Export complete agent system
+
+# Automation Scripts
+./scripts/todoit-dwn-img.sh                   # Batch image download via TODOIT
+./scripts/run_research_batch.sh               # Batch research processing
+./scripts/prepare-book-folders.sh             # Initialize book directory structure
 ```
 
 ## Architecture Overview
@@ -95,6 +102,11 @@ Static Site ← Research Content ← 37d Agents ← Bibliography ← Source Vali
 - **YAML frontmatter**: `min_tasks`, `max_tasks`, `execution_order`
 - **Parallel execution**: Agents grouped by `execution_order`, executed in parallel within groups
 - **Output**: Research findings saved to `books/NNNN_book/docs/findings/`
+
+### MCP Tools Integration
+- **TODOIT MCP**: Task management with properties, list and item operations
+- **Playwright MCP**: Browser automation for ChatGPT image downloads
+- **37d Commands**: Specialized workflow agents in `.claude/commands/37d-*.md`
 
 ### Available Agents (8 core)
 - **37d-facts-hunter**: Historical facts, biographical details (8-14 tasks)
@@ -183,5 +195,30 @@ Each book requires:
 1. Inherit from `BaseImageGenerator` in `src/generators/`
 2. Implement required methods
 3. Auto-discovered by registry system
+
+### Automation Workflows
+1. **Image Download**: Use `scripts/todoit-dwn-img.sh` to batch download ChatGPT images
+2. **Research Batch**: Use `scripts/run_research_batch.sh` for multiple book research
+3. **Structure Setup**: Use `scripts/prepare-book-folders.sh` to create book directories
+
+## Key Files and Directories
+
+### Essential Scripts (`scripts/`)
+- **todoit-dwn-img.sh**: TODOIT-based batch image downloading
+- **export-37d-system.sh**: Export complete agent system for backup
+- **prepare-book-folders.sh**: Book directory structure initialization
+- **run_research_batch.sh**: Batch research processing automation
+
+### Configuration Locations
+- **`.claude/agents/`**: Agent definitions for 37d research system
+- **`.claude/commands/`**: Workflow command definitions (37d-c*.md)
+- **`config/settings.yaml`**: Main application configuration
+- **`collections/classics.yaml`**: Book collection definitions
+
+### Generated Content Structure
+- **`books/NNNN_name/generated/`**: 25 scene images per book
+- **`books/NNNN_name/docs/`**: Research findings and documentation
+- **`output/`**: Generated video files
+- **`site/`**: Static website generated from book content
 
 The system emphasizes modularity, Polish localization, and TikTok optimization for engaging educational content about world literature.

@@ -1,0 +1,1 @@
+../../todoit/docs/MCP_TOOLS.md
