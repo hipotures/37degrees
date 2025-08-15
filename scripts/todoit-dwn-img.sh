@@ -11,16 +11,20 @@
 # Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 declare -a book_directories=(
-    "0030_romeo_and_juliet"
-    "0023_one_hundred_years_of_solitude"
-    "0026_pride_and_prejudice"
-    "0028_red_and_black"
-    "0029_robinson_crusoe"
-    "0032_sorrows_of_young_werther"
-    "0033_the_trial"
     "0034_to_kill_a_mockingbird"
-    "0035_tom_sawyer"
-    "0037_wuthering_heights"
+    "0008_emma"
+    "0011_gullivers_travels"
+    "0012_harry_potter"
+    "0013_hobbit"
+    "0014_jane_eyre"
+    "0016_lalka"
+    "0018_lord_of_the_rings"
+    "0021_nineteen_eighty_four"
+    "0022_old_man_and_the_sea"
+    "0023_one_hundred_years_of_solitude"
+    "0029_robinson_crusoe"
+    "0030_romeo_and_juliet"
+    "0032_sorrows_of_young_werther"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
@@ -79,17 +83,18 @@ calculate_sleep_time() {
     echo "$sleep_time"
 }
 
-# Funkcja do pobrania następnego zadania z TODOIT
+# Funkcja do pobrania następnego zadania z TODOIT  
 get_next_task() {
   TODOIT_OUTPUT_FORMAT=json \
-  todoit item find "$1" --property image_downloaded --value pending --first 2>/dev/null \
-  | jq -er 'if (.count // 0) > 0 then .data[0]["Item Key"] else halt_error(1) end' 2>/dev/null \
-  || return 1
+  todoit item property list "$1" 2>/dev/null \
+  | jq -r 'to_entries[] | select(.value.image_downloaded == "pending" and .value.image_generated == "completed") | .key' \
+  | head -1 || return 1
 }
 
 # Funkcja do wykonania komendy claude z retry logic
 execute_claude_with_retry() {
     local book_dir="$1"
+    local task_key="$2"
     local max_attempts=3
     local sleep_between_retries=10
     local attempt=1
@@ -102,8 +107,8 @@ execute_claude_with_retry() {
         claude_output=$(
             {
                 cat "$COMMAND_FILE"
-                echo "Katalog książki: $book_dir"
-            } | claude --dangerously-skip-permissions -p --mcp-config "$MCP_CONFIG" --allowedTools "*" 2>&1
+                echo "Katalog książki: $book_dir, Task key: $task_key"
+            } | claude --dangerously-skip-permissions -p  --mcp-config "$MCP_CONFIG" --allowedTools "*" 2>&1
         )
         
         local exit_code=$?
@@ -166,11 +171,11 @@ for book_dir in "${book_directories[@]}"; do
             echo "✅ Brak pending zadań dla $book_dir - wszystko ukończone!"
             break
         fi
-        
+        date 
         echo "🎯 Następne zadanie: $task_key"
         
         # Wywołaj orchestrator 37d-c4 dla konkretnego zadania z retry logic
-        claude_output=$(execute_claude_with_retry "$book_dir")
+        claude_output=$(execute_claude_with_retry "$book_dir" "$task_key")
 
         # Sprawdzenie kodu wyjścia ostatniej komendy.
         exit_code=$?

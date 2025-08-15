@@ -1,0 +1,59 @@
+styleName: Japanese Ukiyo-e Style
+description: Traditional woodblock prints with flattened perspective, strong outlines, and stylized natural elements
+aiPrompts:
+  basePrompt: ukiyo-e woodblock print, flattened perspective, strong outlines, stylized nature, traditional japanese art, edo period
+  negativePrompt: 3D depth, realistic shadows, modern, western, photography
+  styleKeywords:
+  - ukiyo-e
+  - woodblock
+  - japanese
+  - edo
+  - stylized
+  - flat
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'  # beni red
+    - '#006400'  # pine green
+    - '#000000'  # ink black
+    - '#FFD700'  # gold
+    secondary:
+    - '#FFA500'  # orange
+    - '#4169E1'  # royal blue
+    - '#9370DB'  # medium purple
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
