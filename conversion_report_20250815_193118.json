@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-15T19:31:18.511486",
+  "mode": "live",
+  "summary": {
+    "total_lists": 1,
+    "successful": 1,
+    "failed": 0,
+    "total_items_migrated": 27,
+    "total_subtasks_created": 100,
+    "total_items_deleted": 0
+  },
+  "results": [
+    {
+      "list_key": "0028_red_and_black",
+      "new_list_key": "0028_red_and_black_subtask",
+      "items_migrated": 27,
+      "subtasks_created": 100,
+      "items_deleted": 0,
+      "errors": []
+    }
+  ]
+}

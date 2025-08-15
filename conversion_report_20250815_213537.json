@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-15T21:35:37.678076",
+  "mode": "live",
+  "summary": {
+    "total_lists": 1,
+    "successful": 1,
+    "failed": 0,
+    "total_items_migrated": 27,
+    "total_subtasks_created": 100,
+    "total_items_deleted": 0
+  },
+  "results": [
+    {
+      "list_key": "0014_jane_eyre",
+      "new_list_key": "0014_jane_eyre_subtask",
+      "items_migrated": 27,
+      "subtasks_created": 100,
+      "items_deleted": 0,
+      "errors": []
+    }
+  ]
+}
