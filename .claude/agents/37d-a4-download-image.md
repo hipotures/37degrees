@@ -1,5 +1,5 @@
 ---
-name: 37d-c4-download-image
+name: 37d-a4-download-image
 description: |
   Automates image download process from ChatGPT using MCP playwright-headless and TODOIT subtasks.
   Processes image_dwn subtasks by finding scenes where image_gen is completed but image_dwn is pending.
@@ -10,7 +10,7 @@ max_tasks: 1
 todo_list: true
 ---
 
-**UWAGA:** `todo_list: true` oznacza że system ma używać **MCP TODOIT** do zarządzania zadaniami i subtaskami.
+**UWAGA:** `todo_list: true` oznacza że agent używa **MCP TODOIT** do zarządzania zadaniami i subtaskami.
 
 # Custom Instruction: AI Image Download from ChatGPT (Subtasks Version)
 
@@ -61,7 +61,7 @@ if (!readyDownloadTasks.success || readyDownloadTasks.items.length === 0) {
 
 const nextTask = readyDownloadTasks.items[0];
 const sceneKey = nextTask.parent_key;          // np. "scene_0001"
-const imageDwnSubtaskKey = nextTask.item_key;  // np. "scene_0001_image_dwn"
+const imageDwnSubtaskKey = nextTask.item_key;  // np. "image_dwn"
 
 console.log(`Processing ${sceneKey} for image download`);
 ```
@@ -70,11 +70,12 @@ console.log(`Processing ${sceneKey} for image download`);
 
 ```javascript
 // Znajdź odpowiedni image_gen subtask aby odczytać thread_id
-const imageGenSubtaskKey = imageDwnSubtaskKey.replace('_image_dwn', '_image_gen');
+const imageGenSubtaskKey = "image_gen";
 
 const threadIdProperty = await mcp__todoit__todo_get_item_property({
   list_key: "[BOOK_FOLDER]",
   item_key: imageGenSubtaskKey,
+  parent_item_key: sceneKey,
   property_key: "thread_id"
 });
 
@@ -213,7 +214,8 @@ if (!downloadCheck || downloadCheck.includes("No such file")) {
   // Oznacz jako failed
   await mcp__todoit__todo_update_item_status({
     list_key: "[BOOK_FOLDER]",
-    item_key: imageDwnSubtaskKey,
+    item_key: sceneKey,
+    subitem_key: imageDwnSubtaskKey,
     status: "failed"
   });
   
@@ -233,6 +235,7 @@ if (!downloadCheck || downloadCheck.includes("No such file")) {
 const existingPathProperty = await mcp__todoit__todo_get_item_property({
   list_key: "[BOOK_FOLDER]",
   item_key: imageDwnSubtaskKey,
+  parent_item_key: sceneKey,
   property_key: "dwn_pathfile"
 });
 
@@ -243,7 +246,8 @@ if (!existingPathProperty.success || !existingPathProperty.property_value) {
   // Oznacz jako failed
   await mcp__todoit__todo_update_item_status({
     list_key: "[BOOK_FOLDER]",
-    item_key: imageDwnSubtaskKey,
+    item_key: sceneKey,
+    subitem_key: imageDwnSubtaskKey,
     status: "failed"
   });
   
@@ -295,7 +299,8 @@ console.log(`Image download process completed for ${sceneKey}`);
 // Oznacz image_dwn subtask jako completed
 await mcp__todoit__todo_update_item_status({
   list_key: "[BOOK_FOLDER]",
-  item_key: imageDwnSubtaskKey,
+  item_key: sceneKey,
+  subitem_key: imageDwnSubtaskKey,
   status: "completed"
 });
 

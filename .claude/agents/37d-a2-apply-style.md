@@ -74,7 +74,7 @@ For each found subtask, apply style and update status:
 ```javascript
 for (const subtask of readyStyleTasks.items) {
   const sceneKey = subtask.parent_key; // e.g., "scene_0001"
-  const styleSubtaskKey = subtask.item_key; // e.g., "scene_0001_scene_style"
+  const styleSubtaskKey = subtask.item_key; // e.g., "scene_style"
   
   // Extract scene number from key
   const sceneNumber = sceneKey.replace('scene_', '').replace(/^0+/, '') || '1';
@@ -114,7 +114,8 @@ for (const subtask of readyStyleTasks.items) {
     // Mark subtask as completed
     await mcp__todoit__todo_update_item_status({
       list_key: BOOK_FOLDER,
-      item_key: styleSubtaskKey,
+      item_key: sceneKey,
+      subitem_key: styleSubtaskKey,
       status: "completed"
     });
     
@@ -124,7 +125,8 @@ for (const subtask of readyStyleTasks.items) {
     // Mark subtask as failed
     await mcp__todoit__todo_update_item_status({
       list_key: BOOK_FOLDER,
-      item_key: styleSubtaskKey,
+      item_key: sceneKey,
+      subitem_key: styleSubtaskKey,
       status: "failed"
     });
     
@@ -182,7 +184,8 @@ try {
     // Mark subtask as completed
     await mcp__todoit__todo_update_item_status({
       list_key: BOOK_FOLDER,
-      item_key: styleSubtaskKey,
+      item_key: sceneKey,
+      subitem_key: styleSubtaskKey,
       status: "completed"
     });
   }

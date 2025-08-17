@@ -60,10 +60,8 @@ if (!readyImageTasks.success || readyImageTasks.items.length === 0) {
 }
 
 const nextTask = readyImageTasks.items[0];
-const imageGenSubtaskKey = nextTask.item_key;  // np. "scene_0001_image_gen"
-
-// Wyciągnij scene key z subtask key 
-const sceneKey = imageGenSubtaskKey.replace('_image_gen', ''); // np. "scene_0001"
+const imageGenSubtaskKey = nextTask.item_key;  // np. "image_gen"
+const sceneKey = nextTask.parent_key;          // np. "scene_0001"
 
 console.log(`Processing ${sceneKey} for image generation`);
 console.log(`Found ${readyImageTasks.count} total image_gen tasks ready`);
@@ -81,11 +79,12 @@ console.log(`Starting image generation for ${imageGenSubtaskKey}`);
 
 ```javascript
 // Znajdź odpowiedni scene_style subtask aby odczytać ścieżkę pliku
-const styleSubtaskKey = imageGenSubtaskKey.replace('_image_gen', '_scene_style');
+const styleSubtaskKey = "scene_style";
 
 const stylePathProperty = await mcp__todoit__todo_get_item_property({
   list_key: "[TODOIT_LIST]",
   item_key: styleSubtaskKey,
+  parent_item_key: sceneKey,
   property_key: "scene_style_pathfile"
 });
 
@@ -352,7 +351,8 @@ if (responseText.includes("can't create that image") ||
   // Ustaw subtask jako failed
   await mcp__todoit__todo_update_item_status({
     list_key: "[TODOIT_LIST]",
-    item_key: imageGenSubtaskKey,
+    item_key: sceneKey,
+    subitem_key: imageGenSubtaskKey,
     status: "failed"
   });
   
@@ -378,7 +378,8 @@ await mcp__todoit__todo_set_item_property({
 // Ustaw subtask jako completed
 await mcp__todoit__todo_update_item_status({
   list_key: "[TODOIT_LIST]",
-  item_key: imageGenSubtaskKey,
+  item_key: sceneKey,
+  subitem_key: imageGenSubtaskKey,
   status: "completed"
 });
 
