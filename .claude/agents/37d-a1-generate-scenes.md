@@ -172,32 +172,32 @@ for (let i = 1; i <= 25; i++) {
   });
   
   // Add 4 subtasks for each stage
-  await mcp__todoit__todo_add_subtask({
+  await mcp__todoit__todo_add_item({
     list_key: BOOK_FOLDER,
-    parent_key: sceneKey,
-    subtask_key: `${sceneKey}_scene_gen`,
-    content: `Scene generation for ${sceneKey}.yaml`
+    item_key: sceneKey,
+    content: `Scene generation for ${sceneKey}.yaml`,
+    subitem_key: "scene_gen"
   });
   
-  await mcp__todoit__todo_add_subtask({
+  await mcp__todoit__todo_add_item({
     list_key: BOOK_FOLDER,
-    parent_key: sceneKey,
-    subtask_key: `${sceneKey}_scene_style`,
-    content: `Scene styling for ${sceneKey}.yaml`
+    item_key: sceneKey,
+    content: `Scene styling for ${sceneKey}.yaml`,
+    subitem_key: "scene_style"
   });
   
-  await mcp__todoit__todo_add_subtask({
+  await mcp__todoit__todo_add_item({
     list_key: BOOK_FOLDER,
-    parent_key: sceneKey,
-    subtask_key: `${sceneKey}_image_gen`,
-    content: `Image generation for ${sceneKey}.yaml`
+    item_key: sceneKey,
+    content: `Image generation for ${sceneKey}.yaml`,
+    subitem_key: "image_gen"
   });
   
-  await mcp__todoit__todo_add_subtask({
+  await mcp__todoit__todo_add_item({
     list_key: BOOK_FOLDER,
-    parent_key: sceneKey,
-    subtask_key: `${sceneKey}_image_dwn`,
-    content: `Image download for ${sceneKey}.yaml`
+    item_key: sceneKey,
+    content: `Image download for ${sceneKey}.yaml`,
+    subitem_key: "image_dwn"
   });
 }
 
@@ -208,18 +208,18 @@ await mcp__todoit__todo_add_item({
   content: "Audio for video"
 });
 
-await mcp__todoit__todo_add_subtask({
+await mcp__todoit__todo_add_item({
   list_key: BOOK_FOLDER,
-  parent_key: "audio",
-  subtask_key: "audio_gen",
-  content: "Audio generation"
+  item_key: "audio",
+  content: "Audio generation",
+  subitem_key: "audio_gen"
 });
 
-await mcp__todoit__todo_add_subtask({
+await mcp__todoit__todo_add_item({
   list_key: BOOK_FOLDER,
-  parent_key: "audio",
-  subtask_key: "audio_dwn",
-  content: "Audio download"
+  item_key: "audio",
+  content: "Audio download",
+  subitem_key: "audio_dwn"
 });
 
 await mcp__todoit__todo_add_item({
@@ -234,11 +234,12 @@ await mcp__todoit__todo_add_item({
 // Mark all scene_gen subtasks as completed since scenes are already generated
 for (let i = 1; i <= 25; i++) {
   const sceneNum = i.toString().padStart(4, '0');
-  const subtaskKey = `scene_${sceneNum}_scene_gen`;
+  const sceneKey = `scene_${sceneNum}`;
   
   await mcp__todoit__todo_update_item_status({
     list_key: BOOK_FOLDER,
-    item_key: subtaskKey,
+    item_key: sceneKey,
+    subitem_key: "scene_gen",
     status: "completed"
   });
 }
