@@ -31,8 +31,9 @@ logger = logging.getLogger(__name__)
 class TodoitConverter:
     """Klasa do konwersji properties na subtaski w TODOIT"""
     
-    def __init__(self, dry_run: bool = False):
+    def __init__(self, dry_run: bool = False, force: bool = False):
         self.dry_run = dry_run
+        self.force = force
         self.backup_dir = Path(f"backup_{datetime.now().strftime('%Y%m%d_%H%M%S')}")
         self.conversion_log = []
         
@@ -75,7 +76,7 @@ class TodoitConverter:
         """Pobierz informacje o liście"""
         try:
             output = self.run_todoit_command(
-                f'TODOIT_OUTPUT_FORMAT=json todoit list show "{list_key}"'
+                f'TODOIT_OUTPUT_FORMAT=json todoit list show --list "{list_key}"'
             )
             if output:
                 return json.loads(output)
@@ -106,7 +107,7 @@ class TodoitConverter:
         """Pobierz wszystkie itemy z listy"""
         try:
             output = self.run_todoit_command(
-                f'TODOIT_OUTPUT_FORMAT=json todoit list show "{list_key}"'
+                f'TODOIT_OUTPUT_FORMAT=json todoit list show --list "{list_key}"'
             )
             if output:
                 data = json.loads(output)
@@ -127,7 +128,7 @@ class TodoitConverter:
         properties = {}
         try:
             output = self.run_todoit_command(
-                f'TODOIT_OUTPUT_FORMAT=json todoit item property list "{list_key}"'
+                f'TODOIT_OUTPUT_FORMAT=json todoit item property list --list "{list_key}"'
             )
             if output:
                 data = json.loads(output)
@@ -155,7 +156,7 @@ class TodoitConverter:
         # Backup properties
         try:
             output = self.run_todoit_command(
-                f'TODOIT_OUTPUT_FORMAT=json todoit item property list "{list_key}"'
+                f'TODOIT_OUTPUT_FORMAT=json todoit item property list --list "{list_key}"'
             )
             if output:
                 backup_file = self.backup_dir / f"{list_key}_properties.json"
@@ -173,7 +174,7 @@ class TodoitConverter:
         logger.info(f"Creating main task: {task_key} for list: {list_key}")
         
         self.run_todoit_command(
-            f'todoit item add "{list_key}" "{task_key}" "{task_content}"'
+            f'todoit item add --list "{list_key}" --item "{task_key}" --title "{task_content}"'
         )
         
         # Status głównego taska będzie automatycznie synchronizowany
@@ -196,14 +197,14 @@ class TodoitConverter:
         subtasks_created = 0
         
         for subtask_def in self.subtask_definitions:
-            subtask_key = f"{main_task_key}_{subtask_def['key']}"  # Dodaj prefix głównego taska
+            subtask_key = subtask_def['key']  # Użyj prostego klucza bez prefiksu
             # Extract scene number from main_task_key (e.g., scene_0001 -> scene_0001)
             subtask_content = f"{subtask_def['desc']} for {main_task_key}.yaml"
             
             # Utwórz subtask w nowej liście
             logger.info(f"    Creating subtask: {subtask_key}")
             self.run_todoit_command(
-                f'todoit item add-subtask "{new_list_key}" "{main_task_key}" "{subtask_key}" "{subtask_content}"'
+                f'todoit item add --list "{new_list_key}" --item "{main_task_key}" --subitem "{subtask_key}" --title "{subtask_content}"'
             )
             
             # Przenieś odpowiednie properties do nowej listy
@@ -216,7 +217,7 @@ class TodoitConverter:
                     prop_value = f"books/{original_list_key}/images/{original_list_key}_scene_{scene_number}.png"
                     logger.info(f"      Setting property: {prop_key}={prop_value}")
                     self.run_todoit_command(
-                        f'todoit item property set "{new_list_key}" "{subtask_key}" "{prop_key}" "{prop_value}"'
+                        f'todoit item property set --list "{new_list_key}" --item "{main_task_key}" --subitem "{subtask_key}" --key "{prop_key}" --value "{prop_value}"'
                     )
                 elif prop_key == 'scene_style_pathfile':
                     # Generuj ścieżkę pliku dla scene_style subtasków
@@ -225,21 +226,42 @@ class TodoitConverter:
                     prop_value = f"books/{original_list_key}/prompts/genimage/scene_{scene_number}.yaml"
                     logger.info(f"      Setting property: {prop_key}={prop_value}")
                     self.run_todoit_command(
-                        f'todoit item property set "{new_list_key}" "{subtask_key}" "{prop_key}" "{prop_value}"'
+                        f'todoit item property set --list "{new_list_key}" --item "{main_task_key}" --subitem "{subtask_key}" --key "{prop_key}" --value "{prop_value}"'
                     )
                 elif prop_key in properties:
                     prop_value = properties[prop_key]
                     logger.info(f"      Setting property: {prop_key}={prop_value}")
                     self.run_todoit_command(
-                        f'todoit item property set "{new_list_key}" "{subtask_key}" "{prop_key}" "{prop_value}"'
+                        f'todoit item property set --list "{new_list_key}" --item "{main_task_key}" --subitem "{subtask_key}" --key "{prop_key}" --value "{prop_value}"'
                     )
+            
+            
                     
             # Ustaw status subtaska na podstawie properties
             status = self.determine_subtask_status(subtask_def['key'], properties)
+            logger.info(f"      Setting status: {subtask_key} -> {status}")
             if status != 'pending':
-                self.run_todoit_command(
-                    f'todoit item status "{new_list_key}" "{subtask_key}" --status {status}'
-                )
+                status_command = f'todoit item status --list "{new_list_key}" --item "{main_task_key}" --subitem "{subtask_key}" --status {status}'
+                logger.info(f"      EXECUTING COMMAND: {status_command}")
+                try:
+                    self.run_todoit_command(status_command)
+                    logger.info(f"      Status set successfully: {subtask_key} -> {status}")
+                    
+                    # Sprawdź rzeczywisty status po ustawieniu
+                    check_output = self.run_todoit_command(
+                        f'TODOIT_OUTPUT_FORMAT=json todoit list show --list "{new_list_key}"'
+                    )
+                    if check_output:
+                        import json
+                        data = json.loads(check_output)
+                        items = data.get('items', {}).get('data', [])
+                        for item in items:
+                            if item.get('Key', '').strip() == subtask_key:
+                                actual_status = item.get('Status', 'unknown')
+                                logger.info(f"      VERIFICATION: {subtask_key} actual status is: {actual_status}")
+                                break
+                except Exception as e:
+                    logger.error(f"      Failed to set status: {subtask_key} -> {status}, Error: {str(e)}")
                 
             subtasks_created += 1
             
@@ -273,7 +295,7 @@ class TodoitConverter:
         for item_key in items_to_delete:
             logger.info(f"  Deleting item: {item_key}")
             self.run_todoit_command(
-                f'todoit item delete "{list_key}" "{item_key}" --force'
+                f'todoit item delete --list "{list_key}" --item "{item_key}" --force'
             )
             
     def get_list_properties(self, list_key: str) -> Dict[str, str]:
@@ -281,7 +303,7 @@ class TodoitConverter:
         properties = {}
         try:
             output = self.run_todoit_command(
-                f'TODOIT_OUTPUT_FORMAT=json todoit list property list "{list_key}"'
+                f'TODOIT_OUTPUT_FORMAT=json todoit list property show --list "{list_key}"'
             )
             if output:
                 data = json.loads(output)
@@ -314,7 +336,7 @@ class TodoitConverter:
             try:
                 logger.info(f"    Copying property: {prop_key}={prop_value}")
                 self.run_todoit_command(
-                    f'todoit list property set "{new_list_key}" "{prop_key}" "{prop_value}"'
+                    f'todoit list property set --list "{new_list_key}" --key "{prop_key}" --value "{prop_value}"'
                 )
             except Exception as e:
                 logger.error(f"    Failed to copy property {prop_key}: {str(e)}")
@@ -331,7 +353,7 @@ class TodoitConverter:
         logger.info(f"Creating new list: {new_list_key} with title: {new_title}")
         
         self.run_todoit_command(
-            f'todoit list create "{new_list_key}" --title "{new_title}"'
+            f'todoit list create --list "{new_list_key}" --title "{new_title}"'
         )
         
         # Skopiuj wszystkie properties z oryginalnej listy
@@ -384,7 +406,7 @@ class TodoitConverter:
                     
                     logger.info(f"Creating main task for item: {item_key} -> {main_task_key}")
                     self.run_todoit_command(
-                        f'todoit item add "{new_list_key}" "{main_task_key}" "{item_content}"'
+                        f'todoit item add --list "{new_list_key}" --item "{main_task_key}" --title "{item_content}"'
                     )
                     
                     # Migruj item na subtaski pod tym głównym taskiem
@@ -401,7 +423,7 @@ class TodoitConverter:
             audio_main_content = "Audio for video"
             logger.info(f"Creating audio generation main task: {audio_main_key}")
             self.run_todoit_command(
-                f'todoit item add "{new_list_key}" "{audio_main_key}" "{audio_main_content}"'
+                f'todoit item add --list "{new_list_key}" --item "{audio_main_key}" --title "{audio_main_content}"'
             )
             result['items_migrated'] += 1
             
@@ -410,31 +432,31 @@ class TodoitConverter:
             audio_gen_subtask_content = "Audio generation"
             logger.info(f"Creating audio generation subtask: {audio_gen_subtask}")
             self.run_todoit_command(
-                f'todoit item add-subtask "{new_list_key}" "{audio_main_key}" "{audio_gen_subtask}" "{audio_gen_subtask_content}"'
+                f'todoit item add --list "{new_list_key}" --item "{audio_main_key}" --subitem "{audio_gen_subtask}" --title "{audio_gen_subtask_content}"'
             )
             # Ustaw status audio_gen na completed
             logger.info(f"Setting audio_gen status to completed")
             self.run_todoit_command(
-                f'todoit item status "{new_list_key}" "{audio_gen_subtask}" --status completed'
+                f'todoit item status --list "{new_list_key}" --item "{audio_main_key}" --subitem "{audio_gen_subtask}" --status completed'
             )
             
             audio_dwn_subtask = "audio_dwn"
             audio_dwn_subtask_content = "Audio download"
             logger.info(f"Creating audio download subtask: {audio_dwn_subtask}")
             self.run_todoit_command(
-                f'todoit item add-subtask "{new_list_key}" "{audio_main_key}" "{audio_dwn_subtask}" "{audio_dwn_subtask_content}"'
+                f'todoit item add --list "{new_list_key}" --item "{audio_main_key}" --subitem "{audio_dwn_subtask}" --title "{audio_dwn_subtask_content}"'
             )
             # Ustaw status audio_dwn na completed
             logger.info(f"Setting audio_dwn status to completed")
             self.run_todoit_command(
-                f'todoit item status "{new_list_key}" "{audio_dwn_subtask}" --status completed'
+                f'todoit item status --list "{new_list_key}" --item "{audio_main_key}" --subitem "{audio_dwn_subtask}" --status completed'
             )
             
             # Dodaj property dwn_pathfile dla audio_dwn subtaska
             audio_pathfile = f"books/{list_key}/audio/{list_key}.m4a"
             logger.info(f"Setting audio download path property: dwn_pathfile={audio_pathfile}")
             self.run_todoit_command(
-                f'todoit item property set "{new_list_key}" "{audio_dwn_subtask}" "dwn_pathfile" "{audio_pathfile}"'
+                f'todoit item property set --list "{new_list_key}" --item "{audio_main_key}" --subitem "{audio_dwn_subtask}" --key "dwn_pathfile" --value "{audio_pathfile}"'
             )
 
             # Dodaj task dla video generacji
@@ -442,7 +464,7 @@ class TodoitConverter:
             video_task_content = "Video from all scenes"
             logger.info(f"Creating video generation task: {video_task_key}")
             self.run_todoit_command(
-                f'todoit item add "{new_list_key}" "{video_task_key}" "{video_task_content}"'
+                f'todoit item add --list "{new_list_key}" --item "{video_task_key}" --title "{video_task_content}"'
             )
             result['items_migrated'] += 1
             
@@ -450,7 +472,7 @@ class TodoitConverter:
             video_pathfile = f"books/{list_key}/video/{list_key}.mp4"
             logger.info(f"Setting video download path property: dwn_pathfile={video_pathfile}")
             self.run_todoit_command(
-                f'todoit item property set "{new_list_key}" "{video_task_key}" "dwn_pathfile" "{video_pathfile}"'
+                f'todoit item property set --list "{new_list_key}" --item "{video_task_key}" --key "dwn_pathfile" --value "{video_pathfile}"'
             )
 
             # Nie usuwamy starych itemów - zostawiamy oryginalną listę nietknętą
@@ -566,7 +588,7 @@ class TodoitConverter:
         logger.info(f"Found {len(lists_to_process)} lists to process")
         
         # Potwierdzenie
-        if not self.dry_run:
+        if not self.dry_run and not self.force:
             print(f"\n⚠️  WARNING: This will modify {len(lists_to_process)} lists!")
             print("Lists to process:", ', '.join(lists_to_process))
             response = input("\nContinue? (y/n): ")
@@ -650,13 +672,18 @@ def main():
         action='store_true',
         help='Enable verbose output'
     )
+    parser.add_argument(
+        '--force',
+        action='store_true',
+        help='Skip confirmation prompt'
+    )
     
     args = parser.parse_args()
     
     if args.verbose:
         logger.setLevel(logging.DEBUG)
         
-    converter = TodoitConverter(dry_run=args.dry_run)
+    converter = TodoitConverter(dry_run=args.dry_run, force=args.force)
     
     try:
         success = converter.run_conversion(args.list_key)

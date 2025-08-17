@@ -11,12 +11,12 @@
 # Tablica zawierająca nazwy katalogów z książkami, które mają być przetworzone.
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 declare -a book_directories=(
+    "0014_jane_eyre"
     "0034_to_kill_a_mockingbird"
     "0008_emma"
     "0011_gullivers_travels"
     "0012_harry_potter"
     "0013_hobbit"
-    "0014_jane_eyre"
     "0016_lalka"
     "0018_lord_of_the_rings"
     "0021_nineteen_eighty_four"
@@ -28,7 +28,7 @@ declare -a book_directories=(
 )
 
 # Plik z komendą/promptem dla modelu Claude.
-COMMAND_FILE="/home/xai/DEV/37degrees/.claude/commands/37d-c4.md"
+COMMAND_FILE="/home/xai/DEV/37degrees/.claude/commands/37d-a4-download-image.md"
 
 # Plik konfiguracyjny MCP.
 MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
@@ -46,7 +46,7 @@ fi
 check_progress() {
     local book_dir="$1"
     echo "📊 Sprawdzam postęp dla $book_dir..."
-    todoit list show "$book_dir"
+    todoit list show --list "$book_dir"
 }
 
 # Funkcja do rozpoznawania błędów limitu Claude'a
@@ -85,10 +85,16 @@ calculate_sleep_time() {
 
 # Funkcja do pobrania następnego zadania z TODOIT  
 get_next_task() {
+  local list_key="$1"
+  
+  # Znajdź zadania gdzie image_gen=completed i image_dwn=pending
   TODOIT_OUTPUT_FORMAT=json \
-  todoit item property list "$1" 2>/dev/null \
-  | jq -r 'to_entries[] | select(.value.image_downloaded == "pending" and .value.image_generated == "completed") | .key' \
-  | head -1 || return 1
+  todoit item find-subitems \
+    --list "$list_key" \
+    --conditions '{"image_gen":"completed","image_dwn":"pending"}' \
+    --limit 1 2>/dev/null \
+  | jq -r '.data[0].Parent // empty' 2>/dev/null \
+  || return 1
 }
 
 # Funkcja do wykonania komendy claude z retry logic
