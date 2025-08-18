@@ -397,7 +397,7 @@ Generate YAML data that will be used as prompts for AI image generation
 **LOCATIONS:** When creating entries in canon.yaml, every location must have a complete description.
 
 **CHARACTERS:** When creating entries in canon.yaml, every character must have a complete description:
-- age (exact for children, approximate for adults: 20s, 40s, 60s)
+- age (exact for children, approximate for adults: 20s, 40s, 60s). If book scenes show the same characters at different life stages, do not write age ranges like "0-100". Instead, note that age depends on the specific scene and should be inferred from scene context if not definitively stated.
 - hair color and style
 - build (slender, stocky, athletic, muscular, frail)
 - height indication (tall, average, short)

@@ -5,10 +5,12 @@ sceneDescription:
     location: "// Place of action (e.g. 'Parisian cafe, terrace') [recommended: 5-20 words]"
     weather: "// Weather [optional, recommended: 5-15 words]"
   characters:
+    # If scene contains characters, list them as:
     - appearance: "// Gender, age, basic appearance [recommended: 10-40 words]"
       clothing: "// Period-appropriate attire [recommended: 10-40 words]"
       position: "// Where and how positioned [recommended: 5-20 words]"
       action: "// What they're doing [recommended: 10-30 words]"
+    # If scene has NO characters, write: "No characters present in this scene"
   scene:
     mainElements: "// Main scene elements [recommended: 20-80 words]"
     details: "// Important details and objects [recommended: 30-100 words | max: 150 words]"
