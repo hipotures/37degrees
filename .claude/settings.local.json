@@ -11,7 +11,8 @@
       "mcp__todoit__todo_set_item_property",
       "mcp__todoit__todo_get_item",
       "mcp__todoit__todo_get_list_items",
-      "mcp__todoit__todo_get_list"
+      "mcp__todoit__todo_get_list",
+      "mcp__todoit__todo_rename_item"
     ],
     "deny": [],
     "additionalDirectories": [
