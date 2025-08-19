@@ -1,0 +1,155 @@
+folder,title,author
+0001_alice_in_wonderland,Alice's Adventures in Wonderland,Lewis Carroll
+0002_animal_farm,Animal Farm,George Orwell
+0003_anna_karenina,Anna Karenina,Leo Tolstoy
+0004_brave_new_world,Brave New World,Aldous Huxley
+0005_chlopi,The Peasants,Władysław Reymont
+0006_don_quixote,Don Quixote,Miguel de Cervantes
+0007_dune,Dune,Frank Herbert
+0008_emma,Emma,Jane Austen
+0009_fahrenheit_451,Fahrenheit 451,Ray Bradbury
+0010_great_gatsby,The Great Gatsby,F. Scott Fitzgerald
+0011_gullivers_travels,Gulliver's Travels,Jonathan Swift
+0012_harry_potter,Harry Potter and the Philosopher's Stone,J.K. Rowling
+0013_hobbit,The Hobbit,J.R.R. Tolkien
+0014_jane_eyre,Jane Eyre,Charlotte Brontë
+0015_lady_of_the_camellias,The Lady of the Camellias,Alexandre Dumas (fils)
+0016_lalka,The Doll,Bolesław Prus
+0017_little_prince,The Little Prince,Antoine de Saint-Exupéry
+0018_lord_of_the_rings,The Lord of the Rings,J.R.R. Tolkien
+0019_master_and_margarita,The Master and Margarita,Mikhail Bulgakov
+0020_narnia,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",C.S. Lewis
+0021_nineteen_eighty_four,Nineteen Eighty-Four,George Orwell
+0022_old_man_and_the_sea,The Old Man and the Sea,Ernest Hemingway
+0023_one_hundred_years_of_solitude,One Hundred Years of Solitude,Gabriel García Márquez
+0024_pan_tadeusz,Pan Tadeusz,Adam Mickiewicz
+0025_portrait_of_dorian_gray,The Picture of Dorian Gray,Oscar Wilde
+0026_pride_and_prejudice,Pride and Prejudice,Jane Austen
+0027_quo_vadis,Quo Vadis,Henryk Sienkiewicz
+0028_red_and_black,The Red and the Black,Stendhal
+0029_robinson_crusoe,Robinson Crusoe,Daniel Defoe
+0030_romeo_and_juliet,Romeo and Juliet,William Shakespeare
+0031_solaris,Solaris,Stanisław Lem
+0032_sorrows_of_young_werther,The Sorrows of Young Werther,Johann Wolfgang von Goethe
+0033_the_trial,The Trial,Franz Kafka
+0034_to_kill_a_mockingbird,To Kill a Mockingbird,Harper Lee
+0035_tom_sawyer,The Adventures of Tom Sawyer,Mark Twain
+0036_treasure_island,Treasure Island,Robert Louis Stevenson
+0037_wuthering_heights,Wuthering Heights,Emily Brontë
+0038_iliad,Iliad,Homer
+0039_odyssey,Odyssey,Homer
+0040_hamlet,Hamlet,William Shakespeare
+0041_macbeth,Macbeth,William Shakespeare
+0042_king_lear,King Lear,William Shakespeare
+0043_crime_and_punishment,Crime and Punishment,Fyodor Dostoevsky
+0044_the_brothers_karamazov,The Brothers Karamazov,Fyodor Dostoevsky
+0045_war_and_peace,War and Peace,Leo Tolstoy
+0046_madame_bovary,Madame Bovary,Gustave Flaubert
+0047_les_miserables,Les Misérables,Victor Hugo
+0048_the_hunchback_of_notredame,The Hunchback of Notre-Dame,Victor Hugo
+0049_the_count_of_monte_cristo,The Count of Monte Cristo,Alexandre Dumas (père)
+0050_the_three_musketeers,The Three Musketeers,Alexandre Dumas (père)
+0051_mobydick,Moby-Dick,Herman Melville
+0052_uncle_toms_cabin,Uncle Tom's Cabin,Harriet Beecher Stowe
+0053_the_scarlet_letter,The Scarlet Letter,Nathaniel Hawthorne
+0054_the_catcher_in_the_rye,The Catcher in the Rye,J.D. Salinger
+0055_of_mice_and_men,Of Mice and Men,John Steinbeck
+0056_the_grapes_of_wrath,The Grapes of Wrath,John Steinbeck
+0057_east_of_eden,East of Eden,John Steinbeck
+0058_for_whom_the_bell_tolls,For Whom the Bell Tolls,Ernest Hemingway
+0059_a_farewell_to_arms,A Farewell to Arms,Ernest Hemingway
+0060_the_sun_also_rises,The Sun Also Rises,Ernest Hemingway
+0061_one_flew_over_the_cuckoos_nest,One Flew Over the Cuckoo's Nest,Ken Kesey
+0062_catch22,Catch-22,Joseph Heller
+0063_slaughterhousefive,Slaughterhouse-Five,Kurt Vonnegut
+0064_the_metamorphosis,The Metamorphosis,Franz Kafka
+0065_the_castle,The Castle,Franz Kafka
+0066_doctor_zhivago,Doctor Zhivago,Boris Pasternak
+0067_the_gulag_archipelago,The Gulag Archipelago,Aleksandr Solzhenitsyn
+0068_one_day_in_the_life_of_ivan_denisovich,One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn
+0069_lolita,Lolita,Vladimir Nabokov
+0070_on_the_road,On the Road,Jack Kerouac
+0071_beloved,Beloved,Toni Morrison
+0072_the_color_purple,The Color Purple,Alice Walker
+0073_their_eyes_were_watching_god,Their Eyes Were Watching God,Zora Neale Hurston
+0074_invisible_man,Invisible Man,Ralph Ellison
+0075_native_son,Native Son,Richard Wright
+0076_things_fall_apart,Things Fall Apart,Chinua Achebe
+0077_the_god_of_small_things,The God of Small Things,Arundhati Roy
+0078_midnights_children,Midnight's Children,Salman Rushdie
+0079_the_satanic_verses,The Satanic Verses,Salman Rushdie
+0080_a_passage_to_india,A Passage to India,E.M. Forster
+0081_the_jungle_book,The Jungle Book,Rudyard Kipling
+0082_heart_of_darkness,Heart of Darkness,Joseph Conrad
+0083_lord_of_the_flies,Lord of the Flies,William Golding
+0084_a_clockwork_orange,A Clockwork Orange,Anthony Burgess
+0085_the_handmaids_tale,The Handmaid's Tale,Margaret Atwood
+0086_frankenstein,Frankenstein,Mary Shelley
+0087_dracula,Dracula,Bram Stoker
+0088_the_strange_case_of_dr_jekyll_and_mr_hyde,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson
+0089_twenty_thousand_leagues_under_the_sea,Twenty Thousand Leagues Under the Sea,Jules Verne
+0090_around_the_world_in_eighty_days,Around the World in Eighty Days,Jules Verne
+0091_journey_to_the_center_of_the_earth,Journey to the Center of the Earth,Jules Verne
+0092_the_time_machine,The Time Machine,H.G. Wells
+0093_the_war_of_the_worlds,The War of the Worlds,H.G. Wells
+0094_the_invisible_man,The Invisible Man,H.G. Wells
+0095_foundation,Foundation,Isaac Asimov
+0096_i_robot,"I, Robot",Isaac Asimov
+0097_neuromancer,Neuromancer,William Gibson
+0098_the_man_in_the_high_castle,The Man in the High Castle,Philip K. Dick
+0099_do_androids_dream_of_electric_sheep,Do Androids Dream of Electric Sheep?,Philip K. Dick
+0100_the_left_hand_of_darkness,The Left Hand of Darkness,Ursula K. Le Guin
+0101_the_epic_of_gilgamesh,The Epic of Gilgamesh,Anonymous
+0102_the_divine_comedy,The Divine Comedy,Dante Alighieri
+0103_one_thousand_and_one_nights,One Thousand and One Nights,Anonymous
+0104_the_canterbury_tales,The Canterbury Tales,Geoffrey Chaucer
+0105_a_christmas_carol,A Christmas Carol,Charles Dickens
+0106_the_tale_of_genji,The Tale of Genji,Murasaki Shikibu
+0107_journey_to_the_west,Journey to the West,Wu Cheng'en
+0108_candide,Candide,Voltaire
+0109_faust,Faust,Johann Wolfgang von Goethe
+0110_oedipus_rex,Oedipus Rex,Sophocles
+0111_a_dolls_house,A Doll's House,Henrik Ibsen
+0112_ulysses,Ulysses,James Joyce
+0113_all_quiet_on_the_western_front,All Quiet on the Western Front,Erich Maria Remarque
+0114_the_diary_of_anne_frank,The Diary of Anne Frank,Anne Frank
+0115_mahabharata,Mahabharata,Vyasa
+0116_ramayana,Ramayana,Valmiki
+0117_aeneid,Aeneid,Virgil
+0118_the_republic,The Republic,Plato
+0119_the_art_of_war,The Art of War,Sun Tzu
+0120_the_prince,The Prince,Niccolò Machiavelli
+0121_essays,Essays,Michel de Montaigne
+0122_leviathan,Leviathan,Thomas Hobbes
+0123_the_social_contract,The Social Contract,Jean-Jacques Rousseau
+0124_the_wealth_of_nations,The Wealth of Nations,Adam Smith
+0125_a_vindication_of_the_rights_of_woman,A Vindication of the Rights of Woman,Mary Wollstonecraft
+0126_the_communist_manifesto,The Communist Manifesto,Karl Marx and Friedrich Engels
+0127_on_liberty,On Liberty,John Stuart Mill
+0128_thus_spoke_zarathustra,Thus Spoke Zarathustra,Friedrich Nietzsche
+0129_the_second_sex,The Second Sex,Simone de Beauvoir
+0130_the_wretched_of_the_earth,The Wretched of the Earth,Frantz Fanon
+0131_on_the_origin_of_species,On the Origin of Species,Charles Darwin
+0132_the_interpretation_of_dreams,The Interpretation of Dreams,Sigmund Freud
+0133_silent_spring,Silent Spring,Rachel Carson
+0134_père_goriot,Père Goriot,Honoré de Balzac
+0135_adventures_of_huckleberry_finn,Adventures of Huckleberry Finn,Mark Twain
+0136_in_search_of_lost_time,In Search of Lost Time,Marcel Proust
+0137_mrs_dalloway,Mrs Dalloway,Virginia Woolf
+0138_the_waste_land,The Waste Land,T.S. Eliot
+0139_the_sound_and_the_fury,The Sound and the Fury,William Faulkner
+0140_the_stranger,The Stranger,Albert Camus
+0141_waiting_for_godot,Waiting for Godot,Samuel Beckett
+0142_the_real_story_of_ahq,The Real Story of Ah-Q,Lu Xun
+0143_gitanjali,Gitanjali,Rabindranath Tagore
+0144_ficciones,Ficciones,Jorge Luis Borges
+0145_the_cairo_trilogy,The Cairo Trilogy,Naguib Mahfouz
+0146_season_of_migration_to_the_north,Season of Migration to the North,Tayeb Salih
+0147_the_house_of_the_spirits,The House of the Spirits,Isabel Allende
+0148_red_sorghum,Red Sorghum,Mo Yan
+0149_the_oresteia,The Oresteia,Aeschylus
+0150_tartuffe,Tartuffe,Molière
+0151_death_of_a_salesman,Death of a Salesman,Arthur Miller
+0152_a_streetcar_named_desire,A Streetcar Named Desire,Tennessee Williams
+0153_long_days_journey_into_night,Long Day's Journey into Night,Eugene O'Neill
+0154_mother_courage_and_her_children,Mother Courage and Her Children,Bertolt Brecht
