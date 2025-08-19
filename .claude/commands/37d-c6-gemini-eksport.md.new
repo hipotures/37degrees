@@ -1,0 +1,158 @@
+# GEMINI_EXPORT_AUTOMATION.md
+
+## Prerequisites
+- MCP servers: `todoit`, `playwright-cdp`
+- Required: BOOK_FOLDER parameter
+- Stop if BOOK_FOLDER is missing
+
+## Instructions
+
+### STEP 1: Get Task
+```javascript
+const task = await mcp__todoit__todo_find_subitems_by_status({
+  list_key: "[BOOK_FOLDER]",
+  conditions: { "ds_gen": "completed", "ds_exp": "pending" },
+  limit: 1
+});
+```
+- Extract book key (e.g., `0002_animal_farm`)
+- Stop if no tasks found
+
+### STEP 2: Connect Browser
+- Connect to `playwright-cdp`
+- Stop and report error if connection fails
+
+### STEP 3: Navigate to Chat
+```javascript
+const search_url = await mcp__todoit__todo_get_item_property({
+  list_key: '[BOOK_FOLDER]',
+  item_key: 'ds_gen',
+  property_key: 'SEARCH_URL'
+});
+```
+
+**IF search_url is empty or error:**
+1. Navigate: `browser_navigate("https://gemini.google.com/search")`
+2. Wait 2 seconds
+3. Type book key in search field
+4. Click matching chat (exact match only)
+
+**ELSE if search_url exists:**
+1. Navigate: `browser_navigate(search_url)`
+2. Wait for page load
+
+### STEP 4: Export to Docs
+Execute these actions WITHOUT checking state:
+```javascript
+await browser_click('button[data-test-id="export-menu-button"]');
+await sleep(500);
+await browser_click('button[data-test-id="export-to-docs-button"]');
+```
+
+After success, update status:
+```javascript
+await mcp__todoit__todo_update_item_status({
+  list_key: "[BOOK_FOLDER]",
+  item_key: "gemini-ds",
+  subitem_key: "ds_exp",
+  status: "completed"
+});
+```
+
+### STEP 5: Switch to Docs Tab
+1. Execute: `browser_tab_select(1)`
+2. **IF tab 1 doesn't exist:** Return to STEP 3
+3. Wait for Docs to load (3 seconds)
+
+### STEP 6: Download as TXT
+Execute in sequence:
+1. Click: File menu
+2. Click: Download
+3. Click: Plain text (.txt)
+4. Wait 5 seconds for download
+
+### STEP 7: Move File
+1. List files: `ls -la /tmp/playwright-mcp-output/*/`
+2. Find latest `.txt` file
+3. Read first 10 lines to verify book title
+4. Move file:
+```bash
+mv "/tmp/playwright-mcp-output/[timestamp]/[filename].txt" \
+   "/home/xai/DEV/37degrees/books/[book_key]/docs/review.txt"
+```
+5. **IF file not found:** Repeat STEP 6
+
+### STEP 8: Verify and Complete
+1. Read first 10 lines of review.txt
+2. Confirm correct book title
+3. Update status:
+```javascript
+await mcp__todoit__todo_update_item_status({
+  list_key: "[BOOK_FOLDER]",
+  item_key: "gemini-ds",
+  subitem_key: "ds_dwn",
+  status: "completed"
+});
+```
+
+### STEP 9: Cleanup
+1. Close Docs tab: `browser_tab_close()`
+2. Verify only one tab remains
+
+## Error Handling
+
+### Large Response Errors
+- Ignore errors about >25000 tokens
+- Add `log_limit=100` to browser commands
+
+### File Not Found
+- Return to download step
+- Check all subdirectories in `/tmp/playwright-mcp-output/`
+
+### Tab Navigation Failed
+- Use `browser_tab_list()` to check available tabs
+- Return to STEP 3 if needed
+
+## Commands Reference
+
+### Browser Commands
+```javascript
+browser_navigate(url)
+browser_click(selector)
+browser_tab_select(index)
+browser_tab_close()
+browser_evaluate(js_code)
+```
+
+### Todo Commands
+```javascript
+todo_find_subitems_by_status(params)
+todo_get_item_property(params)
+todo_update_item_status(params)
+```
+
+### Selectors
+- Export button: `button[data-test-id="export-menu-button"]`
+- Docs option: `button[data-test-id="export-to-docs-button"]`
+
+## Verification Points
+
+**CHECKPOINT 1:** After STEP 3
+- Verify Gemini page loaded
+- Confirm correct chat opened
+
+**CHECKPOINT 2:** After STEP 6
+- Verify file exists in `/tmp/playwright-mcp-output/`
+- Check file is not empty
+
+**CHECKPOINT 3:** After STEP 7
+- Verify review.txt contains expected book
+- Confirm file moved (not copied)
+
+## Quick Reference
+
+1. Get task → 2. Connect browser → 3. Open chat → 4. Export → 5. Switch tab → 6. Download → 7. Move file → 8. Verify → 9. Cleanup
+
+**Always use `mv` not `cp` for file operations**
+**Never skip verification steps**
+**Ignore token limit warnings**
