@@ -35,6 +35,12 @@ for book_dir in "$BOOKS_DIR"/*/; do
             echo "  Utworzono katalog: $docs_dir"
         fi
         
+        # Sprawdź czy plik już istnieje
+        if [ -f "$output_file" ]; then
+            echo "  Pominięto: plik już istnieje - $output_file"
+            continue
+        fi
+        
         # Wyciągnij title i author z book.yaml
         title=$(grep "title:" "$book_yaml" | sed 's/.*title: *"\([^"]*\)".*/\1/' | head -1)
         author=$(grep "author:" "$book_yaml" | sed 's/.*author: *"\([^"]*\)".*/\1/' | head -1)

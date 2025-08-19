@@ -90,7 +90,11 @@ await mcp__playwright-headless__browser_click({
 
 ### FAZA 4: Wklejenie instrukcji (OPTYMALIZACJA TOKENÓW)
 
-**KRYTYCZNE**: Nie czytam pliku, tylko ładuję go do schowka i wklejam:
+**KRYTYCZNE**: 
+- Ten proces może trwać długo i nie udać się za pierwszym razem, należy go wtedy powtórzyć 
+  (metoda działa, była testowana wielokrotnie)
+- NIE testuj innych metod!!! Skup się na opise, może coś przeoczyłeś.
+- Nie czytaj pliku, tylko ładuj go do schowka i wklejaj:
 
 ```bash
 # Wczytaj plik do schowka systemowego (bez czytania w Claude Code)
