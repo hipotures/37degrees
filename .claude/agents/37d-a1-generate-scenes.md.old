@@ -20,18 +20,18 @@ Create TODOIT list with hierarchical subtask structure for systematic processing
 ## Input Parameters
 - Book Title: (e.g., "Wuthering Heights")
 - Author: (e.g., "Emily Brontë")
-- Generator Type: Optional - name of generator from config/prompt/scene-generator/ directory (without .md extension). If not provided, will be auto-detected from config/prompt/book_styles.txt
-- BOOK_FOLDER, optional with Book Title/Autor (e.g. 0017_little_prince)
+- Generator Type: Choose one: narrative, flexible, podcast, atmospheric, or emotional (default: podcast if not specified)
 
 ## Process Steps
 
 ### 0. Create and Save Canonical Definitions File (MANDATORY First Step)
 
-Before any other action, analyze the book research file (review.md if exists for this book).
+Before any other action, analyze the book research files (37d-*_findings.md and review.md if exists for this book).
+Read full file review.md it's important!
 
 Identify all major recurring characters, locations, and items.
 
-Create and save a new file named canon.yaml in the books/[BOOK_FOLDER]/prompts/ directory.
+Create and save a new file named canon.yaml in the books/[book_number]_[book_name]/prompts/ directory.
 
 In this canon.yaml file, create canonical entries for each recurring element. The file must have a main key, canon, which contains lists of characters, locations, and items.
 
@@ -73,13 +73,11 @@ canon:
 
 ### 1. Validate Generator Type and Locate Book Directory
 
+- If no generator type is provided, inform user: "No generator type specified. Using default: podcast"
+- Validate generator type is one of: narrative, flexible, podcast, atmospheric, or emotional
+- Read docs/STRUCTURE.md to understand project structure
 - Find book directory by searching for book title/author in books/ directories
 - Identify book number and path (e.g., books/0037_wuthering_heights/)
-- Use command: `grep [BOOK_FOLDER] config/prompt/book_styles.txt` to find assigned generator
-- If no entry found in book_styles.txt and no generator type provided, inform user: "No generator type specified" and stop
-- If generator type provided manually, check if file exists in config/prompt/scene-generator/[generator_type].md
-- If generator file doesn't exist, list available generators and ask user to choose
-- Read docs/STRUCTURE.md to understand project structure
 
 ### 2. Load Templates and Guidelines
 
@@ -89,8 +87,12 @@ canon:
 - Understand all required and optional fields
 - Note any comments and length recommendations within the template
 
-**Generator File:** Read and analyze the specified generator file:
-- Read config/prompt/scene-generator/[generator_type].md where [generator_type] is the specified generator name
+**Generator File:** Read and analyze ONLY ONE generator file based on the chosen generator type:
+- If narrative: Read config/prompt/scene-generator/narrative-prompt-generator.md
+- If flexible: Read config/prompt/scene-generator/flexible-prompt-generator.md
+- If podcast: Read config/prompt/scene-generator/podcast-image-prompt-generator.md
+- If atmospheric: Read config/prompt/scene-generator/atmospheric-moments-generator.md
+- If emotional: Read config/prompt/scene-generator/emotional-journey-generator.md
 
 **IMPORTANT:** Read ONLY the file corresponding to the selected generator type. Do NOT read the other generators.
 
@@ -100,23 +102,23 @@ Study the selected generator thoroughly:
 - Note all instructions and constraints
 - Understand how it differs from other generators
 
-### 3. Analyze Book Review
-pwd - should be inside 37degrees/ directory
-Wykonaj te 3 polecenia:
-  1. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=1, limit=400)
-  2. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=401, limit=400)
-  3. Jeśli odczytałeś 400 w poprzednim wywołaniu, to wykonaj jeszcze to
-       Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=801, limit=400)
+### 3. Analyze Book Research
+
+Navigate to books/[book_dir]/docs/ directory, this is your search directory!
+
+Read ONLY files matching the pattern 37d-*_findings.md and the file review.md (they may exist in various combinations, some may be missing, but at least review.md must be present).
+
+Read ALL files, from the first to the last line (for tool Read use offsets if needed)
 
 These files contain all necessary book analysis and insights
-Extract themes, characters, historical context, and key discoveries from file
+Extract themes, characters, historical context, and key discoveries from these findings files
 
 ### 4. Check Existing Files and Generate Scene Set
 
 Before generating scenes:
-- First, check if canon.yaml exists in books/[BOOK_FOLDER]/prompts/. If not, you must create it by following Step 0.
-- Check if any scene files already exist in prompts/scenes/[generator_type]/
-- If scene_0001.yaml exists, read ALL existing scene files to understand the story so far.
+- First, check if canon.yaml exists in books/[book_number]_[book_name]/prompts/. If not, you must create it by following Step 0.
+- Check if any scene files already exist in /prompts/scenes/[generator_type]/.
+- If scene_01.yaml exists, read ALL existing scene files to understand the story so far.
 - Find the first missing scene number. If all 25 scenes exist, STOP and inform user.
 
 Generate missing scenes:
@@ -130,22 +132,57 @@ Generate missing scenes:
 
 After generating all 25 scenes, create TODOIT list with subtask hierarchy:
 
+#### Initialize TODOIT List:
+```javascript
+// Create main list for the book
+const BOOK_FOLDER = "[BOOK_FOLDER]"; // e.g., "0028_red_and_black"
+
+await mcp__todoit__todo_create_list({
+  list_key: BOOK_FOLDER,
+  title: `AI Image Generation for ${BOOK_FOLDER}`,
+  list_type: "sequential"
+});
+
+// Set book folder property
+await mcp__todoit__todo_set_list_property({
+  list_key: BOOK_FOLDER,
+  property_key: "book_folder",
+  property_value: BOOK_FOLDER
+});
+
+// Add project tag
+await mcp__todoit__todo_add_list_tag({
+  list_key: BOOK_FOLDER,
+  tag_name: "37d"
+});
+```
+
 #### Mark Scene Generation Subtasks as Completed:
+```javascript
 // Mark all scene_gen subtasks as completed since scenes are already generated
-Uruchom Bash, polecenie z parametrem
+for (let i = 1; i <= 25; i++) {
+  const sceneNum = i.toString().padStart(4, '0');
+  const sceneKey = `scene_${sceneNum}`;
+  
+  await mcp__todoit__todo_update_item_status({
+    list_key: BOOK_FOLDER,
+    item_key: sceneKey,
+    subitem_key: "scene_gen",
+    status: "completed"
+  });
+}
 ```
-./scripts/internal/37d-a1-01.sh [BOOK_FOLDER]
-```
+
 ### 6. Output Structure
 
 Create directories if they don't exist. The final structure should be:
 ```
-books/[BOOK_FOLDER]/prompts/
+books/[book_number]_[book_name]/prompts/
   ├── canon.yaml
   └── scenes/
       └── [generator_type]/
-          ├── scene_0001.yaml
-          ├── scene_0002.yaml
+          ├── scene_01.yaml
+          ├── scene_02.yaml
           └── ... (25 files total)
 ```
 
@@ -168,7 +205,7 @@ Each file must match scene-description-template.yaml structure exactly.
 After generating all scenes, you MUST perform verification:
 
 **First Verification (Automated Search for Relative References):**
-- Use grep/search to find any remaining relative cross-references in scene_XXXX.yaml files.
+- Use grep/search to find any remaining relative cross-references in scene_XX.yaml files.
 - Search for patterns like: "same.*from", "same.*scene", "previous.*scene", "earlier.*scene", "from scene", "scene [0-9]".
 - If ANY are found, it's a critical failure. Fix them.
 
@@ -321,12 +358,17 @@ Generate YAML data that will be used as prompts for AI image generation
 - Good: "rope bridge spanning 50-foot gorge"
 - Bad: "moral dilemma"
 
-- Follow the exact structure and field requirements from scene-description-template.yaml
-- Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
-- The 25 scenes must be internally consistent and cohesive
-- Follow narrative arc defined in the selected generator
-- Focus only on the chosen approach without mixing styles
-- Output must be valid YAML matching the template structure
+Follow the exact structure and field requirements from scene-description-template.yaml
+
+Do NOT define visual style (colors, artistic technique, rendering style) - only describe WHAT is in the scene
+
+The 25 scenes must be internally consistent and cohesive
+
+Follow narrative arc defined in the selected generator
+
+Focus only on the chosen approach without mixing styles
+
+Output must be valid YAML matching the template structure
 
 ## Final Report
 
@@ -334,5 +376,8 @@ After completing all steps, provide a report:
 
 1. **Scenes Generated:** Number of new scenes created (if any)
 2. **TODOIT Structure:** Confirm creation of hierarchical task structure
-3. **Subtasks Created:** Report total count (should be 25 scenes)
+3. **Subtasks Created:** Report total count (should be 25 scenes × 4 subtasks + 3 additional = 103 subtasks)
 4. **Scene Generation Status:** All scene_gen subtasks marked as completed
+5. **Ready for Next Stage:** Confirm system is ready for 37d-a2 (style application)
+
+The system is now ready for the next agent (37d-a2-apply-style) to process the scene_style subtasks.

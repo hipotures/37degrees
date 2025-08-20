@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Assembly of Greek War Council"
+  setting:
+    time: "Late Bronze Age 13th century BCE, tense evening before battle"
+    location: "central gathering place agora in temporary military encampment on sandy beach of Aegean Sea near Troy, northwestern Anatolia"
+    weather: "Cool evening with sea breeze carrying salt spray"
+  characters:
+    - appearance: "45-year-old king of Mycenae, tall and imposing build, dark hair with streaks of gray, stern face often showing arrogance or uncertainty"
+      clothing: "most elaborate armor with gold ornamentation befitting high king, royal robes of purple and gold, ornate bronze helmet"
+      position: "center of circle holding golden scepter, standing elevated on wooden platform"
+      action: "gesturing dramatically while addressing assembled war chiefs"
+    - appearance: "40-year-old king of Ithaca, shorter than Agamemnon but broad-shouldered and muscular, dark intelligent eyes, weathered face showing cunning"
+      clothing: "functional bronze armor without excessive decoration, practical leather and bronze gear, simple bronze helmet"
+      position: "seated on campaign stool at right side of circle, leaning forward intently"
+      action: "listening carefully with hands clasped, calculating strategy"
+    - appearance: "35-year-old Salaminian prince, massive build towering over other warriors, dark curly hair, broad face showing determination"
+      clothing: "heavy bronze armor scaled to his enormous frame, massive bronze helmet, thick bronze greaves"
+      position: "standing at left side of assembly, arms crossed over chest"
+      action: "nodding grimly at war plans while gripping spear shaft"
+  scene:
+    mainElements: "Master shot showing complete war council geography, circular arrangement of fifty Greek commanders around central fire, bronze weapons and shields stacked nearby, torches illuminating faces"
+    details: "Tactical meeting before decisive battle, scrolls with battle plans, bronze figurines representing troop positions, wooden camp furniture, amphora of wine for libations, guard sentries visible at perimeter, flickering firelight creating dramatic shadows, no text or letters visible"
+    background: "smell of salt air and ship tar, sounds of waves and seabirds, smoke from countless cooking fires, noise of military activity and weapon maintenance"
+    atmosphere: "Tension of command decisions affecting thousands, brotherhood of warriors facing uncertain fate, divine weight of epic conflict"
+  composition:
+    cameraAngle: "High angle master shot showing all participants and their relationships within war council"
+    focus: "Complete scene geography establishing power dynamics and alliances before battle"
+    depth: "Foreground: bronze weapons and battle standards, middle: circular council with central fire, background: ships and ocean under starlit sky"

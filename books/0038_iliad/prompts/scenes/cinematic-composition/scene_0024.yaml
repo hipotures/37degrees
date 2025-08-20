@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silhouette of Destiny"
+  setting:
+    time: "Late Bronze Age 13th century BCE, blazing sunset creating dramatic backlighting"
+    location: "flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia"
+    weather: "Clear evening with spectacular sunset creating silhouette opportunities"
+  characters:
+    - appearance: "25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed"
+      clothing: "divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested helmet with horsehair plume, bronze greaves"
+      position: "perfect silhouette against blazing sunset, standing over fallen enemy"
+      action: "dragging body behind chariot in ritual desecration, divine armor creating stark black outline"
+    - appearance: "35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered face showing responsibility and resolve"
+      clothing: "finest Trojan bronze armor with distinctive helmet bearing flowing horsehair crest, bronze cuirass and greaves, purple cloak of nobility"
+      position: "lifeless form being dragged, creating second silhouette of defeat"
+      action: "body trailing behind chariot, arms outstretched in death"
+  scene:
+    mainElements: "Shadow frame created by blazing sunset reducing figures to pure black silhouettes against golden sky"
+    details: "Chariot wheels visible only as black circles against light, horsehair plumes and armor details lost in silhouette, dust clouds backlit by sunset creating golden atmosphere, ropes and harness visible only as dark lines, battlefield debris reduced to abstract shapes, divine armor outline showing perfect proportions, no text or letters visible"
+    background: "open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks, riverbank vegetation along Scamander"
+    atmosphere: "dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat mixing with earth"
+  composition:
+    cameraAngle: "Wide shot with dramatic backlighting creating perfect silhouettes against sky"
+    focus: "Pure form and movement without detail, reducing epic action to essential shapes"
+    depth: "Single dramatic plane with silhouettes against blazing sky, eliminating all detail except essential action"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Helena's Haunted Beauty"
+  setting:
+    time: "Late Bronze Age 13th century BCE, afternoon light through window"
+    location: "royal residence within Troy citadel, largest building complex with multiple courtyards and halls"
+    weather: "Bright afternoon with wind stirring curtains"
+  characters:
+    - appearance: "30-year-old woman of supernatural beauty, tall with perfect proportions, golden hair arranged in elaborate style, striking blue eyes, flawless skin"
+      clothing: "richly layered Mycenaean-style gowns with multiple tiers of fabric, intricate gold jewelry, elaborate headdress with precious stones"
+      position: "medium shot from torso up, standing by window with light streaming across face"
+      action: "gazing out at battlefield while hand touches throat in gesture of guilt and regret"
+  scene:
+    mainElements: "Medium shot revealing beauty that launched thousand ships, now haunted by consequences of divine gift"
+    details: "Perfect features marred by shadow of sorrow, golden jewelry catching light, blue eyes reflecting distant battles, elaborate hairstyle with gold pins and ribbons, silk fabric with intricate embroidery, window frame creating natural border, afternoon light creating divine aureole effect, no text or letters visible"
+    background: "Sounds of distant warfare drifting through window, royal chambers with rich tapestries"
+    atmosphere: "Divine beauty as curse rather than blessing, guilt over thousands dead for her sake, trapped between gods' will and human consequence"
+  composition:
+    cameraAngle: "Medium shot with window light creating dramatic side lighting"
+    focus: "Beautiful face shadowed by awareness of her role in epic tragedy"
+    depth: "Foreground: elaborate clothing and jewelry details, middle: illuminated figure, background: window view of distant battlefield"
