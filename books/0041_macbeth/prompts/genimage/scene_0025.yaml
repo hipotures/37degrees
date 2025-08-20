@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, sunset after resolution of conflict
+    location: Ancient stone circle where opposing forces recognize eternal balance
+    weather: Balanced light of sunset where day and night meet in perfect harmony
+  characters:
+  - appearance: Macbeth's severed head impaled on spear point or sword blade, held aloft by Macduff. Face frozen in final
+      expression of shock and agony. Blood-stained and grotesque but necessary symbol of justice restored and tyranny ended
+    clothing: No longer applicable as physical form
+    position: Elevated as symbol while spirit observes eternal cycle
+    action: In death becomes part of balanced forces that maintain cosmic harmony
+  scene:
+    mainElements: Sacred stone circle where ancient wisdom recognizes necessity of opposing forces. Weathered monoliths stand
+      in perfect balance, each stone supporting others through opposition. Sunset creates equal portions of light and darkness
+      across landscape
+    details: Carved symbols on stones show eternal cycle where light defines darkness, growth requires decay, creation needs
+      destruction. Flowers bloom beside recently filled graves, new leaders emerge from conflicts that ended previous rulers.
+      Children play games requiring both hero and villain roles
+    background: 'Landscape shows evidence of continuing cycle: villages rebuilt from war''s destruction, rivers flowing through
+      channels carved by flood and drought, forests growing from ashes of previous fires. Natural world demonstrates balance
+      through apparent opposites'
+    atmosphere: Profound understanding that the perceived villain served necessary function in cosmic balance, creating conditions
+      for growth that comfort could never achieve. Death becomes transformation rather than ending, opposition reveals itself
+      as essential partner to harmony rather than enemy to overcome
+  composition:
+    cameraAngle: Circular view showing how all elements depend on their opposites
+    focus: Visual representation of yin and yang, light and darkness in perfect harmony
+    depth: Foreground shows immediate symbols of balance, middle ground reveals natural cycles, background suggests eternal
+      continuation of necessary opposing forces
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

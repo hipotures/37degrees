@@ -15,7 +15,14 @@
       "mcp__todoit__todo_rename_item",
       "mcp__playwright-show-browser__browser_click",
       "mcp__playwright-show-browser__browser_type",
-      "mcp__playwright-show-browser__browser_snapshot"
+      "mcp__playwright-show-browser__browser_snapshot",
+      "mcp__todoit__todo_get_next_pending",
+      "Bash(test:*)",
+      "mcp__playwright-headless__browser_navigate",
+      "mcp__playwright-headless__browser_wait_for",
+      "mcp__playwright-headless__browser_click",
+      "mcp__playwright-headless__browser_press_key",
+      "Bash(xsel:*)"
     ],
     "deny": [],
     "additionalDirectories": [

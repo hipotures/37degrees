@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, early afternoon
+    location: Shipyard workshop near Mediterranean harbor showing Bronze Age naval engineering and vessel construction
+    weather: Bright afternoon sunlight illuminating wooden ship construction
+  characters: No characters present in this scene
+  scene:
+    mainElements: Partially constructed Mycenaean warship showing wooden hull framework, bronze-reinforced steering oar systems,
+      rope and leather rigging equipment, tar and resin waterproofing materials, bronze ram fitted to ship's prow for naval
+      warfare
+    details: Curved wooden ribs forming ship's skeleton connected with bronze nails and wooden dowels, planked hull showing
+      sophisticated joinery techniques, bronze fittings including cleats and reinforcement plates, coiled hemp ropes with
+      bronze terminals, leather and canvas sail material stretched on wooden frames, bronze anchor stones with rope attachments,
+      wooden oars with bronze blade reinforcements, ship's mast with bronze cap and rigging points, tar barrels and pitch
+      for waterproofing hull seams
+    background: Wooden scaffolding supporting ship construction, stone-lined harbor visible through workshop opening, Mediterranean
+      sea with distant islands, olive wood planks and timber stacked for shipbuilding
+    atmosphere: Maritime craftsmanship and Bronze Age naval engineering, smell of pine tar and cut wood, sense of preparation
+      for long sea voyages, advanced technology enabling Mediterranean exploration and warfare
+  composition:
+    cameraAngle: Side view showing ship construction details and naval technology
+    focus: Central warship hull with bronze fittings and construction techniques clearly visible
+    depth: 'Foreground: construction tools and bronze ship fittings, middle ground: ship hull and rigging, background: harbor
+      and Mediterranean landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

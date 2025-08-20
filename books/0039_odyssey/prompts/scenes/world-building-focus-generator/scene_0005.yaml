@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mycenaean Residential Courtyard with Daily Life Objects"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, mid-afternoon"
+    location: "Interior courtyard of typical Mycenaean dwelling showing domestic arrangements and Bronze Age household technology"
+    weather: "Bright sunny afternoon with shadows creating cool areas within courtyard"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone-paved central courtyard surrounded by covered porticos, wooden loom frame set up under roof overhang, large ceramic storage vessels arranged along walls, central hearth area with cooking implements, stone grinding quern for grain processing"
+    details: "Colorful wool threads hanging from loom frame in natural dyes of red, blue and yellow, bronze cooking pots and ladles arranged near hearth stones, ceramic bowls and cups showing geometric painted decoration, wooden furniture including low stools and storage chests, oil lamps with long wicks in ceramic holders, baskets woven from reed and palm fronds, dried herbs and grain hanging in bundles from wooden roof beams, stone mortar and pestle for food preparation, bronze mirrors and personal ornaments"
+    background: "Wooden columns supporting roof structure, interior doorways leading to private chambers, stone stairs ascending to upper floor, glimpses of Mediterranean garden with olive trees and grape vines visible through entrance archway"
+    atmosphere: "Peaceful domestic environment showing sophisticated Bronze Age household management, warm afternoon light filtering through roof opening, sense of established daily routines and comfortable living, aroma of cooking food and burning olive oil"
+  composition:
+    cameraAngle: "Three-quarter view from courtyard entrance showing full interior space"
+    focus: "Central loom and domestic work area as heart of household activity"
+    depth: "Foreground: courtyard paving and immediate household objects, middle ground: main domestic equipment and furniture, background: covered porticos and interior doorways"

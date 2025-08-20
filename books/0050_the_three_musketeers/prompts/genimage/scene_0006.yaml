@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1625, morning
+    location: cobblestone streets of Paris, France under Louis XIII, narrow medieval lanes with overhanging timber buildings
+    weather: bright morning with clear light
+  characters:
+  - appearance: 20-year-old Gascon youth with energetic bearing and confident posture
+    clothing: worn blue woolen kaftan faded to indistinct shade between wine sediment and sky blue, single-feathered hat,
+      simple brown leather boots
+    position: filling entire frame with face dominant
+    action: gazing forward with mix of determination and nervous anticipation
+  scene:
+    mainElements: extreme close-up focusing on facial expression and micro-emotions
+    details: youthful features showing determination mixed with inexperience, eyes bright with ambition, slight tension in
+      jaw muscles, morning light catching texture of weather-beaten hat feather, skin showing traces of travel dust
+    background: Paris street architecture completely out of focus, creating dreamy bokeh effect
+    atmosphere: intimate emotional revelation showing inner character before great adventure, morning light creating soft
+      modeling on features
+  composition:
+    cameraAngle: close-up with face filling frame, eyes positioned on upper third line
+    focus: sharp detail on eyes and expression with shallow depth of field
+    depth: eyes perfectly sharp, nose slightly soft, background completely blurred into abstract shapes, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

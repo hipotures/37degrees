@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Porfiry's Clinical View of Raskolnikov's Den"
+  setting:
+    time: "July 1865, methodical afternoon inspection"
+    location: "Tiny cramped attic room in a tenement building in St. Petersburg slums, July 1865"
+    weather: "Stifling heat creating perfect laboratory conditions for studying criminal psychology"
+  characters:
+    - appearance: "Thirty-five years old, short and plump man with a small belly, yellowish sickly complexion, short-cropped hair, almost white eyelashes, round puffy face with intelligent watery eyes that constantly blink as if conspiratorially"
+      clothing: "Clean and well-maintained clothing appropriate for a government official, possibly wearing a dressing gown when at home"
+      position: "Standing in center of room, examining space with professional detachment"
+      action: "Methodically cataloging every detail as evidence of psychological deterioration, noting how environment shaped criminal mind"
+  scene:
+    mainElements: "Extremely small coffin-like space barely six steps long, oppressively low ceiling that tall person would hit their head on, dominant feature of dusty yellow wallpaper peeling from walls. Three broken chairs, painted table, enormous clumsy sofa covered in rags"
+    details: "From Porfiry's analytical perspective, the room becomes fascinating case study in environmental criminology. The oppressive space explains the claustrophobic thinking that led to violence, yellowed wallpaper represents systematic mental decay, broken furniture indicates progressive deterioration of social bonds. Every detail becomes evidence in psychological profile - the exact dimensions creating pressure, specific patterns of wear showing inhabitant's obsessive behaviors"
+    background: "Room viewed as crime scene laboratory where all elements contribute to understanding of criminal pathology, walls and furniture positioned as factors in psychological equation"
+    atmosphere: "Clinical interest replaces emotional reaction - this is perfect environment for breeding criminal ideation, compressed space creating psychological pressure cooker where dangerous theories could ferment unchecked"
+  composition:
+    cameraAngle: "Porfiry's analytical eye level, surveying room like scientist studying specimen habitat"
+    focus: "Room's oppressive dimensions and deteriorating condition as data points in criminal psychology case study"
+    depth: "Foreground shows measuring hands cataloging space, middle ground captures systematic examination of environment, background reveals wallpaper patterns as psychological indicators, no text or letters visible"

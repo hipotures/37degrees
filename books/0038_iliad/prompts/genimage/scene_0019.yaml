@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, late afternoon shadows growing long
+    location: ancient fortified city of Troy in northwestern Anatolia, Turkey, massive limestone walls rising from hillside
+      overlooking Trojan plain
+    weather: Clear air with lengthening shadows creating ominous atmosphere
+  characters:
+  - appearance: 35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered
+      face showing responsibility and resolve
+    clothing: divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested
+      helmet with horsehair plume, bronze greaves
+    position: looking up at massive walls from ground level, dwarfed by architecture
+    action: running desperately along base of walls seeking shelter that cannot save him
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: new divine bronze armor gleaming like fire, golden-crested helmet, bronze greaves
+    position: pursuing figure visible in background, gaining ground with supernatural speed
+    action: chasing Hector with relentless divine fury and inhuman determination
+  scene:
+    mainElements: Extreme low angle worm's eye view making Troy's walls tower overwhelmingly while showing Hector's vulnerability
+    details: Massive limestone blocks rising like mountain faces, shadows creating geometric patterns on ground, bronze armor
+      reflecting light as tiny figure runs beneath crushing architecture, dust clouds from running feet, Achilles' distant
+      figure gaining steadily, defensive walls offering no protection from fate, carved stone details looming overhead, no
+      text or letters visible
+    background: sounds of distant battle echoing off walls, dust from siege activities, smoke from cooking fires, tension
+      of prolonged siege, voices calling from watchtowers
+    atmosphere: Crushing weight of destiny, mortal man dwarfed by divine architecture yet unable to escape human fate
+  composition:
+    cameraAngle: Extreme worm's eye view emphasizing overwhelming oppression and helplessness
+    focus: Tiny human figure crushed beneath weight of fate and architecture
+    depth: 'Foreground: ground-level perspective, middle: running figure dwarfed by walls, background: pursuing nemesis approaching
+      inexorably'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

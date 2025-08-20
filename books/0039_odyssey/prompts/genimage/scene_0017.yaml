@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, twilight hour
+    location: Concealed cove on remote side of Greek island, protected harbor used for discrete activities away from main
+      settlement
+    weather: Calm evening with fading light and rising mist obscuring visibility
+  characters: No characters present in this scene
+  scene:
+    mainElements: Small natural harbor hidden between high cliffs, dark-hulled vessels designed for stealth rather than display,
+      primitive wooden dock structures built into rock formations, covered storage areas carved into cliff faces, lookout
+      positions commanding views of surrounding waters
+    details: Ships with blackened hulls and dark sails for night sailing, bronze weapons secured in waterproof containers,
+      ceramic vessels containing valuable trade goods, rope and leather equipment for rapid loading and departure, bronze
+      navigation instruments including sun compasses and measuring devices, emergency supplies cached in cliff-side caves,
+      signal fires prepared but unlit for communication, water barrels and provisions for extended voyages
+    background: Steep limestone cliffs providing natural concealment, narrow entrance channel difficult for large vessels
+      to navigate, Mediterranean pine forests extending to cliff edges, distant islands barely visible through evening haze
+    atmosphere: Secretive maritime operations conducted away from official oversight, tension between legitimate trade and
+      dangerous ventures, misty twilight creating atmosphere of mystery and concealment, sense of Bronze Age world containing
+      both civilization and lawlessness
+  composition:
+    cameraAngle: Elevated view from cliff edge looking down into hidden harbor
+    focus: Central harbor area with concealed vessels and clandestine infrastructure
+    depth: 'Foreground: cliff-top vegetation and lookout positions, middle ground: harbor and vessel details, background:
+      open sea and distant islands'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

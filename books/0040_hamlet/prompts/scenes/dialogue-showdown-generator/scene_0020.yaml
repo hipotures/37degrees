@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Point of No Return - Ophelia's Torn Flowers"
+  setting:
+    time: "Late 1590s, day"
+    location: "Castle garden or courtyard at Elsinore, outdoor space with scattered flower petals"
+    weather: ""
+  characters:
+    - appearance: "Very young woman 16-18 years old, small and slender build, delicate features, traditionally long fair hair, innocent and sensitive face"
+      clothing: "Simple gowns in light pastel colors (white, blue, pale pink) symbolizing purity and virginity. In madness: hair loose and disheveled, gown crumpled or torn, carrying wild flowers and herbs"
+      position: "Kneeling among scattered flower petals and stems"
+      action: "Mechanically shredding flowers while singing fragments of songs, petals falling like tears"
+  scene:
+    mainElements: "Garden path with stone benches, scattered flower petals creating carpet of destruction, broken stems and wilted blooms"
+    details: "The destroyed flowers mirror Ophelia's shattered mind and lost innocence. Each torn petal represents piece of her former self scattered by trauma. The garden setting, normally place of growth and beauty, becomes scene of destruction and decay symbolizing loss of hope."
+    background: "Castle garden with stone paths and benches, natural beauty now tainted by tragedy"
+    atmosphere: "Beauty destroyed by violence, innocence obliterated by corrupt adult world, nature reflecting human devastation"
+  composition:
+    cameraAngle: "Low angle close-up showing Ophelia surrounded by destroyed flowers"
+    focus: "Torn flowers as symbol of destroyed innocence and beauty"
+    depth: "Foreground shows scattered petals, middle shows Ophelia's destructive actions, background shows garden path"

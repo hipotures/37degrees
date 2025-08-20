@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Symbol - Grinding Mill of Human Souls"
+  setting:
+    time: "1832, eternal operation of social machinery"
+    location: "Metaphorical representation of society as massive crushing mechanism"
+    weather: "Industrial atmosphere with smoke and steam from grinding apparatus"
+  characters:
+    - appearance: "Human figures being processed through social machinery, individual identity crushed by systematic operation"
+      clothing: "Garments torn and stained by passage through grinding mechanism, personal items stripped away by processing system"
+      position: "Moving through various stages of social crushing apparatus"
+      action: "Being transformed from individual humans into standardized social products, resistance overcome by mechanical pressure"
+    - appearance: "System operators maintaining crushing apparatus, expressions showing indifference to human suffering"
+      clothing: "Work uniforms marking their role in operating social grinding system, protective equipment shielding them from human screams"
+      position: "Positioned at control points throughout grinding mechanism"
+      action: "Adjusting machinery to maintain efficient human processing, oiling gears with tears, stoking furnaces with broken dreams"
+  scene:
+    mainElements: "Massive industrial mill with human beings fed into grinding mechanism, gears powered by desperation, conveyor system processing souls"
+    details: "Human individuals entering as complex beings, emerging as identical social products. Grinding stones powered by accumulated suffering, steam engines fueled by broken hopes. Collection bins for processed humanity sorted by utility to system, waste products of crushed spirits discarded"
+    background: "Industrial landscape extending beyond visible frame, suggesting systematic processing of entire population through dehumanizing social mechanism"
+    atmosphere: "Ultimate metaphor for social system that destroys individual humanity to produce compliant mass, mechanical crushing of human spirit for systematic control"
+  composition:
+    cameraAngle: "Industrial view revealing society as soul-crushing mechanism"
+    focus: "Grinding apparatus as central metaphor for systematic dehumanization"
+    depth: "Human processing in foreground, grinding mechanism in middle ground, endless industrial system in background representing total social machinery"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Daily cycle across decades, morning opening and evening closing
+    location: Marseilles waterfront café where sailors and merchants gather
+    weather: Morning light transforming to evening lamplight
+  characters:
+  - appearance: Around 25 years old, average build typical of southern French craftsman. Face increasingly marked by envy,
+      greed, and alcoholism as years pass, showing moral degradation through physical deterioration
+    clothing: Initially vain and well-dressed in colorful southern French style - ornate sashes, embroidered bodices, velvet
+      waistcoats, elegant stockings, silver shoe buckles. Later reduced to tattered, impoverished clothing reflecting his
+      moral and financial ruin
+    position: Seated at café table during morning opening, later shown during evening closing
+    action: Caderousse beginning day with hope and ending with bitter disappointment, cycle repeating across years
+  scene:
+    mainElements: Waterfront café with outdoor tables, simple furnishings, view of harbor activity, showing same establishment
+      opening with hope each morning and closing with resignation each evening
+    details: Tables wiped clean each morning and stained each evening, same chairs worn by countless patrons, windows opened
+      to fresh air and closed against night chill, lanterns lit and extinguished in eternal cycle
+    background: Harbor showing ships arriving with morning hope and departing with evening cargo, same maritime rhythm continuing
+      regardless of human fortunes
+    atmosphere: Daily cycle of commercial hope and financial disappointment repeating endlessly. Morning sounds of opening
+      business and evening sounds of closing accounts, daily renewal offering fresh start despite yesterday's failures, no
+      text or letters visible
+  composition:
+    cameraAngle: Medium shot showing café patron across daily and yearly cycles
+    focus: Daily commercial ritual showing how small human dramas repeat within larger patterns
+    depth: Foreground shows café table and morning/evening activities, middle ground captures figure experiencing daily cycles,
+      background reveals harbor business continuing regardless
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

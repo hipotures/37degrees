@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1824, midday break at industrial facility
+    location: Factory courtyard where workers take regulated meal period
+    weather: Overcast day with factory smoke obscuring natural light
+  characters:
+  - appearance: Workers seated in geometric patterns consuming identical meals, movements regulated even during rest periods
+    clothing: Matching work uniforms with company identification numbers, caps worn at regulation angles, personal items forbidden
+    position: Sitting in assigned places on wooden benches arranged in precise rows
+    action: Eating regulation portions with mechanical efficiency, conversations limited to permitted topics, preparing for
+      work resumption signal
+  - appearance: Factory bell-ringer with timepiece monitoring break duration, authoritarian control over basic human needs
+    clothing: Supervisor's uniform with brass buttons indicating authority level, official time-keeping device prominently
+      displayed
+    position: Standing on elevated platform overlooking meal period
+    action: Watching regulation time limits, preparing to signal return to production, ensuring no unauthorized social interaction
+  scene:
+    mainElements: Precisely arranged eating area with numbered benches, factory bell tower dominating courtyard, official
+      schedule boards posting time regulations
+    details: Identical lunch containers issued by company commissary, workers eating with same tempo and posture. Posted rules
+      governing break behavior, punishment notices for time violations, guards positioned to prevent unauthorized gathering.
+      Company water barrels with regulation cups, no personal food items permitted
+    background: Factory buildings surrounding courtyard like prison walls, smokestacks releasing constant industrial emissions,
+      time clock visible through window
+    atmosphere: Human basic needs regulated by industrial requirements, personal time controlled by production schedule, individual
+      autonomy eliminated through systematic organization
+  composition:
+    cameraAngle: Elevated view showing geometric organization of human rest period
+    focus: Regimented arrangement of workers during supposedly free time
+    depth: Organized eating formation in foreground, supervisory control in middle ground, industrial infrastructure controlling
+      human activities in background
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

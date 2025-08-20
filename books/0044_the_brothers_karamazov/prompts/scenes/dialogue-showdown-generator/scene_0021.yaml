@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Arrest in the moment of joy"
+  setting:
+    time: "1860s Russian Empire, very late night"
+    location: "Inn hall at Mokre village during height of celebration"
+    weather: "Cold night outside, suddenly interrupted warm interior"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Center of hall, surrounded by officials, frozen mid-celebration
+      action: Face transitioning from euphoric joy to shocked disbelief as accusation strikes
+    - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+      clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+      position: Beside Dymitr, recoiling in horror
+      action: Face showing terror and disbelief, reaching toward accused lover
+  scene:
+    mainElements: "Inn hall transformed from celebration to courtroom, officials in dark formal attire contrasting with colorful celebration, silence replacing music and laughter"
+    details: "Candles still burning from celebration now illuminating scene of justice, scattered money taking on sinister significance, musical instruments fallen silent, crowd frozen in tableau"
+    background: "Rural inn suddenly filled with official presence, village celebration interrupted by urban justice, primitive joy crushed by formal accusation"
+    atmosphere: "Explosive joy instantly transformed into nightmare reality, celebration becoming arrest scene, wild freedom crushed by inexorable law"
+  composition:
+    cameraAngle: "Close-up on Dymitr's face showing transition from euphoria to devastating shock"
+    focus: "Eyes showing transformation from joy to horror as patricide accusation hits"
+    depth: "Foreground shows shocked accused, middle ground captures recoiling beloved, background shows celebration transformed to judgment scene"

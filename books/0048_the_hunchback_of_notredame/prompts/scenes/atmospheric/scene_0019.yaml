@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Night Shadows Within Shadows"
+  setting:
+    time: "1482, deep night, darkness between moon phases"
+    location: "Vast interior of Gothic cathedral with enormous ribbed vaulted ceiling supported by massive pillars"
+    weather: "Dark overcast night with no moonlight penetrating"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Majestic and mysterious space with half-darkness broken by colored light from stained glass windows, atmosphere of majesty and dread especially at night"
+    details: "Interior plunged in profound darkness with only faint starlight through windows, massive pillars create forest of black shadows, side chapels disappear into complete darkness, occasional glint of metal or stone catches minimal light"
+    background: "Rose window appears as barely visible circle, altar area vanishes in darkness, sense of vast unseen space extending beyond vision"
+    atmosphere: "Complete nocturnal mystery and sacred darkness, sense of cathedral as sleeping giant, profound silence and hidden spiritual presence"
+  composition:
+    cameraAngle: "Interior view emphasizing darkness and barely visible architectural elements"
+    focus: "Subtle interplay of darkness with minimal light revealing cathedral vastness"
+    depth: "Foreground shows suggestion of floor pattern, middle ground hints at pillar forest, background dissolves into complete darkness"

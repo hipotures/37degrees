@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Time-Lapse Truth of Crime to Confession"
+  setting:
+    time: "July 1865 through multiple months, compressed time sequence"
+    location: "Various locations throughout St. Petersburg showing passage of time"
+    weather: "Seasonal progression from summer heat through autumn to winter"
+  characters:
+    - appearance: "Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow during illness"
+      clothing: "Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly groomed appearance"
+      position: "Shown at multiple time points revealing progression of psychological deterioration"
+      action: "Time-compressed sequence showing actual behavioral changes from crime through investigation to final confession"
+  scene:
+    mainElements: "Multiple locations and time periods compressed into single frame showing objective progression of events - crime scene, interrogation rooms, Sonia's room, public confession site"
+    details: "Time-lapse perspective reveals objective truth versus character memories and perceptions - actual duration of events, real sequence of psychological breakdown, documented behavior changes over time. Shows how memory distorts timeline, how guilt compounds over months, how investigation systematically closes around suspect despite his belief in his cleverness"
+    background: "St. Petersburg shown across seasons demonstrating actual time passage versus subjective experience of compressed trauma time"
+    atmosphere: "Objective temporal reality showing how actual time progression differs from psychological experience of guilt and investigation pressure"
+  composition:
+    cameraAngle: "Time-lapse documentary perspective showing objective chronological progression without emotional interpretation"
+    focus: "Factual sequence of events from crime through confession revealing psychological deterioration over actual measured time"
+    depth: "Foreground shows temporal markers and chronological documentation, middle ground captures behavioral progression, background reveals seasonal and environmental changes, no text or letters visible"

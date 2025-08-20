@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, day following death
+    location: Elder Zosima's cell in Orthodox monastery hermitage, death chamber
+    weather: Bright daylight contrasting with spiritual darkness
+  characters:
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Standing near body, face showing shock and spiritual crisis
+    action: Recoiling from unexpected reality, faith shaking as miracle fails to manifest
+  scene:
+    mainElements: Death chamber filled with crowd of disappointed believers, expected miracle replaced by natural decay, icons
+      seeming to judge rather than console
+    details: Harsh daylight revealing uncomfortable truth, flowers wilting in oppressive atmosphere, oil lamp flame seeming
+      dimmer, crowd's excitement turning to scandal and disappointment
+    background: Religious artwork witnessing crisis of faith, other monks showing consternation and embarrassment, doorway
+      crowded with curious onlookers
+    atmosphere: Spiritual crisis erupting from failed expectations, faith tested by confrontation with natural reality rather
+      than supernatural intervention
+  composition:
+    cameraAngle: Wide shot showing crowd reaction to spiritual disappointment
+    focus: Alosza's face registering profound spiritual shock and beginning of faith crisis
+    depth: Foreground shows disillusioned believers, middle ground captures Alosza's crisis, background shows gathering scandal
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

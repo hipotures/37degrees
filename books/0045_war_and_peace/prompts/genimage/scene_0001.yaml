@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1805, evening
+    location: elegant drawing room in aristocratic St. Petersburg mansion, Russian capital under Tsar Alexander I, neoclassical
+      architecture with French and Italian influences
+    weather: clear winter evening with frost patterns on tall windows
+  characters:
+  - appearance: massive, corpulent young man in his late 20s with gentle eyes behind spectacles, broad shoulders and tall
+      frame, soft refined features marked by kindness rather than aristocratic sharpness
+    clothing: ill-fitting court dress in deep blue with gold trim, white silk stockings, black shoes with silver buckles,
+      clothing worn without conviction or natural elegance
+    position: standing somewhat apart from elegant guests, posture awkward and uncertain
+    action: adjusting spectacles nervously while observing social interactions with mixture of fascination and discomfort
+  - appearance: statuesque beauty with classical features like marble sculpture, famous beautiful white shoulders and arms,
+      unchanging serene smile, calculating cold eyes
+    clothing: empire-style evening gown in rich burgundy silk with deep decolletage revealing marble-white shoulders, diamond
+      jewelry, hair elaborately arranged
+    position: standing with regal slowness and conscious grace of practiced beauty
+    action: moving with deliberate elegance to maximize impact of her physical perfection on all observers
+  scene:
+    mainElements: gilded furniture upholstered in silk brocade, polished parquet floors reflecting candlelight, crystal chandeliers
+      casting warm glow, tall windows with heavy draperies, same salon layout that will endure decades, identical conversations
+      repeating across generations, no text or letters visible
+    details: French porcelain tea service on mahogany table, guests in formal court dress clustering in practiced social formations,
+      flickering candle flames creating dancing shadows that will dance in same patterns for generations, wallpaper roses
+      fresh and bright that will fade over decades, no text or letters visible
+    background: tall arched windows showing winter cityscape of St. Petersburg, street lamps beginning to glow in gathering
+      dusk, distant spires and palaces of imperial capital
+    atmosphere: artificial controlled elegance where French conversation flows as performance art, each gesture calculated
+      for social effect, imported European refinement divorced from Russian soil, sense of ritual that transcends individual
+      participants and will outlast them all, no text or letters visible
+  composition:
+    cameraAngle: elevated three-quarter view capturing entire salon space and guest arrangements
+    focus: the eternal nature of aristocratic social performance transcending individual participants
+    depth: foreground shows detailed character interactions, middle ground reveals salon's architectural permanence, background
+      hints at wider world beyond windows that remains unchanged by salon conversations, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

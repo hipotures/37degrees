@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Light and Shadow - Claudius at Prayer"
+  setting:
+    time: "Late 1590s, night"
+    location: "Small private prayer alcove adjacent to main castle corridor in Elsinore"
+    weather: ""
+  characters:
+    - appearance: "Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace, possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual"
+      clothing: "Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains, and jewels, manifesting power and attempting to legitimize his reign"
+      position: "Kneeling at prie-dieu, illuminated by single candle"
+      action: "Attempting prayer but failing, face contorted with spiritual anguish and inability to repent"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Standing in doorway shadow, half-hidden by darkness"
+      action: "Drawing sword silently, then hesitating as he observes uncle's spiritual struggle"
+  scene:
+    mainElements: "Stone walls, prie-dieu kneeler, simple altar, crucifix, single narrow window high on wall"
+    details: "Dramatic chiaroscuro lighting divides the scene between Claudius in golden candlelight and Hamlet emerging from shadow. The light represents attempted redemption while shadow embodies vengeance. The spiritual setting becomes arena for moral debate."
+    background: "Spiritual torment and moral isolation, failed repentance, cold stone emphasizing spiritual emptiness"
+    atmosphere: "Sacred space profaned by murder and revenge, divine light struggling against human darkness"
+  composition:
+    cameraAngle: "Low angle emphasizing dramatic lighting contrast between prayer and shadow"
+    focus: "Chiaroscuro effect dividing frame between illuminated guilt and shadowed vengeance"
+    depth: "Foreground shows Hamlet in shadow, middle shows candlelit space, background shows kneeling Claudius"

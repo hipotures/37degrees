@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The father alone in his decay"
+  setting:
+    time: "1860s Russian Empire, late night"
+    location: "Interior of Karamazov family house in provincial town Skotoprigoniewsk, main room in solitude"
+    weather: "Cold night outside, single lamp inside"
+  characters:
+    - appearance: 55-year-old man with long, fleshy bags under perpetually insolent, suspicious and lustful small eyes, small fat face covered with numerous deep wrinkles
+      clothing: Provincial gentleman attire in disarray, stained clothing reflecting neglectful lifestyle, loose garments for comfort at home
+      position: Sitting alone in neglected room, occasionally walking to window
+      action: Waiting for Gruszeńka who will never come, talking to himself in empty house
+  scene:
+    mainElements: "Neglected house interior showing years of moral decay, single oil lamp casting long shadows, furniture worn and stained, windows showing dark night"
+    details: "Solitary lamp creating isolated circle of light in moral darkness, crumbling wallpaper and unexpected cupboards witnessing solitary corruption, smell of decay and loneliness"
+    background: "House's labyrinthine layout creating maze of isolation, red roof invisible in darkness, servants' quarters separated by cold courtyard"
+    atmosphere: "Profound loneliness and moral isolation, corrupt soul waiting in decaying environment for pleasure that will not come"
+  composition:
+    cameraAngle: "Wide shots emphasizing isolation in decaying domestic environment"
+    focus: "Corrupt father figure alone with his desires and moral emptiness"
+    depth: "Foreground shows solitary figure, middle ground captures decaying domestic details, background shows vast emptiness of moral isolation"

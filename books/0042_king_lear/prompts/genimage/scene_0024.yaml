@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, eternal moment where transformation completes
+    location: Chalky white cliffs overlooking English Channel near Dover, ancient Britain, with fields of wildflowers leading
+      to dramatic cliff edge above churning sea
+    weather: Beautiful but melancholy landscape where natural beauty contrasts tragically with human suffering, misty air
+      from sea spray
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Grotesque crown woven from weeds, thistles, nettles and other poisonous plants representing twisted wisdom gained
+      through madness, worn over tattered remnants of royal robes
+    position: Standing among wildflowers, now fully merged with his transformed mental state
+    action: Moving with strange new confidence, speaking to flowers and weeds as trusted advisors
+  scene:
+    mainElements: Towering white limestone cliffs dropping vertically to sea below, wild meadows with scattered flowers and
+      weeds, distant sound of crashing waves
+    details: Grotesque crown woven from weeds, thistles, nettles and other poisonous plants representing twisted wisdom gained
+      through madness now appearing as natural as any royal crown. Flowers and weeds responding to his presence as if they
+      were courtiers. His integration with natural world now complete - no longer fighting madness but embodying it
+    background: Beautiful coastal landscape that accepts and embraces his transformed state, nature providing sanctuary that
+      human world denied
+    atmosphere: Tragic completion of transformation where madness becomes new form of wisdom. Terror transformed into strange
+      peace through complete acceptance of altered consciousness
+  composition:
+    cameraAngle: Wide shots showing Lear now harmoniously integrated with natural environment
+    focus: Lear's transformed state where madness has become his new normal, no longer struggling against it
+    depth: Lear in harmony with immediate natural environment, cliffs and sea providing backdrop for his new existence
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

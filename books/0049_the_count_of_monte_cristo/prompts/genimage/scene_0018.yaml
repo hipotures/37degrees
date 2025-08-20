@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1838, compressed timeline showing rapid collapse
+    location: Classical hôtel particulier in aristocratic district of Paris with courtyard and garden
+    weather: Indoor lighting dimming as tragedy accelerates
+  characters:
+  - appearance: Man in his 50s, features hardened by years of hiding secrets. Face has become cold, impenetrable mask marked
+      by stress and guilt. Eyes show growing strain of maintaining his facade
+    clothing: Same austere black attire but now representing fallen authority - judicial robes that become symbols of corrupted
+      justice, clothing in increasing disarray as his world collapses
+    position: Standing in study, aging rapidly as scandal unfolds around him
+    action: Villefort experiencing rapid mental and physical deterioration as his secrets are revealed
+  scene:
+    mainElements: Austere architecture reflecting owner's character, prosecutor's study filled with legal documents, heavy
+      dark wood furniture, marble surfaces, formal portraits showing accelerated aging effects
+    details: Books simultaneously accumulating dust and falling from shelves, furniture aging rapidly from polished to worn
+      to decrepit, legal documents yellowing and crumbling in fast motion, wine in glass evaporating and refilling in cycle
+      of despair
+    background: Study walls showing paint peeling and portraits aging in fast motion, window view revealing garden seasons
+      cycling rapidly from spring to winter
+    atmosphere: Compressed lifetime of corruption catching up in moments. Sounds of ticking clocks accelerating, papers rustling
+      faster than wind, footsteps pacing in rapid rhythm of anxiety. Time itself punishing delayed justice, no text or letters
+      visible
+  composition:
+    cameraAngle: Close-up showing rapid aging and deterioration effects
+    focus: Man experiencing accelerated consequences of lifetime of moral compromise
+    depth: Foreground shows deteriorating personal effects, middle ground captures figure aging rapidly, background reveals
+      home environment decaying in compressed time
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

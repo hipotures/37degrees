@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Rivalry erupts over Gruszeńka"
+  setting:
+    time: "1860s Russian Empire, early evening"
+    location: "Elegant salon in Katerina Iwanowna's residence in provincial town Skotoprigoniewsk"
+    weather: "Clear evening with warm indoor lighting"
+  characters:
+    - appearance: Early twenties rare beauty, exceptionally tall even taller than Grusznenka, pale somewhat earthy elongated face with magnificent burning black eyes and excellent mouth
+      clothing: Impeccably dressed according to latest European fashion reflecting status and pride, elegant structured garments more austere in style
+      position: Standing imperiously in center of salon, hands clenched at sides
+      action: Voice rising in aristocratic fury, pointing accusingly at rival with trembling finger
+    - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+      clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+      position: Seated gracefully but tensely on sofa, preparing to rise
+      action: Smile fading from face revealing calculating hardness beneath surface charm
+    - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+      clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+      position: Standing between women, arms slightly extended in peacemaking gesture
+      action: Face showing distress at witnessing feminine hatred, trying unsuccessfully to mediate
+  scene:
+    mainElements: "Luxurious salon with European furnishings reflecting Katerina's status, elegant sofa where Grusznenka sits, ornate decorations witnessing clash of rival beauties"
+    details: "Crystal chandeliers and lamps illuminating beautiful faces transformed by hatred, expensive fabrics and furniture contrasting with ugly emotions, salon's refinement mocking primitive jealousy"
+    background: "Fine European artwork and decorations creating ironic backdrop for elemental female rivalry, servants hovering nervously at doorways"
+    atmosphere: "Civilized veneer cracking to reveal primal feminine competition, elegant setting polluted by base jealousy and possessiveness"
+  composition:
+    cameraAngle: "Wide shot showing triangle of conflict with two women and Alosza caught between them"
+    focus: "Contrasting beauties facing each other across elegant room like gladiators in arena"
+    depth: "Foreground shows pointing accusatory gestures, middle ground captures Alosza's mediation attempt, background reveals expensive setting mocking the scene"

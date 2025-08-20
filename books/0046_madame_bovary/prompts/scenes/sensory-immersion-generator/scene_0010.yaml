@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Marketplace cacophony with overlapping motion blur and explosive debris clouds"
+  setting:
+    time: "1840s market day, busy midday trading"
+    location: "Główny plac w Yonville przed ratuszem - market square during agricultural fair with crowds and livestock"
+    weather: "Sunny day with dust kicked up by crowds and animals"
+  characters:
+    - appearance: "Crowds of Norman peasants, merchants, and townspeople in chaotic movement"
+      clothing: "Work clothes, market attire, Sunday best mixed together, aprons, caps, work boots"
+      position: "Overlapping in constant motion, creating visual chaos and blur"
+      action: "Shouting, gesturing wildly, herding animals, waving auction paddles, children running between legs"
+  scene:
+    mainElements: "Sztandary z napisami 'Handel', 'Rolnictwo', 'Przemysł', 'Sztuki piękne', medale dla zasłużonych rolników - chaotic marketplace with livestock, produce stalls, official podium, crowds in constant motion"
+    details: "Multiple overlapping layers of movement creating visual noise and motion blur, people gesturing simultaneously in different directions, livestock stamping and kicking up dust clouds, auction hammers creating explosive dust puffs with each strike, children weaving between adult legs like visual static, vendors' mouths open mid-shout frozen in aggressive selling poses, animals pulling against restraints creating tension lines, flying debris from hay and straw, overlapping conversations visible as competing gesture patterns, dust clouds from stamping feet creating atmospheric chaos, pottery and goods trembling on unstable market tables, no text or letters visible"
+    background: "Ostre słońce oświetla scenę wydobywając wszystkie detale - pot na czołach, kurz, jaskrawe kolory wstążek i sztandarów - provincial Norman architecture with pretentious town hall"
+    atmosphere: "Twarze chłopów ogorzałe od słońca wyrażające prostą radość lub zmęczenie, twarze urzędników napuszone i pełne powagi - visual pandemonium where competing sounds create overlapping motion patterns, sensory overload expressed through chaotic movement and atmospheric disturbance"
+  composition:
+    cameraAngle: "Multiple rapid cuts and overlapping exposures showing motion blur and chaos"
+    focus: "Competing movement patterns, explosive dust clouds, overlapping gestural chaos"
+    depth: "Foreground: dust explosions and debris, middle ground: overlapping crowd motion blur, background: official ceremonies amid chaos"

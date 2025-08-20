@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Protest Across Centuries - Same Square, Different Wars"
+  setting:
+    time: "Multiple historical protests compressed: 1825 Decembrist uprising, 1850s student demonstrations, 1860s reform protests"
+    location: "public square in St. Petersburg showing architectural continuity across decades of political upheaval"
+    weather: "winter conditions across different decades overlapping in same space"
+  characters:
+    - appearance: "young military officer in 1825 with idealistic expression, uniform of Guards regiment, bearing suggesting aristocratic background"
+      clothing: "military dress uniform with decorations, heavy winter cloak, polished boots suitable for parade ground"
+      position: "standing on improvised platform addressing gathered soldiers and civilians"
+      action: "gesturing with passionate conviction while proclaiming political reforms"
+    - appearance: "university student in 1850s with intellectual intensity, civilian clothes suggesting middle-class background"
+      clothing: "dark wool coat and student cap, simple but respectable attire, books carried under arm"
+      position: "occupying same spatial coordinates as earlier officer but addressing different crowd"
+      action: "reading from written manifesto while surrounded by fellow students and sympathetic citizens"
+    - appearance: "mature reformer in 1860s with experienced bearing, clothing suggesting professional or merchant class"
+      clothing: "business attire with practical overcoat, clothing reflecting emerging middle class prosperity"
+      position: "standing in same central location as previous speakers but with different crowd configuration"
+      action: "addressing larger crowd with measured speech about gradual social change"
+  scene:
+    mainElements: "same cobblestone square showing wear patterns from decades of gatherings, identical government buildings surrounding space with increasing military presence across time periods, crowd sizes and compositions evolving across temporal layers, no text or letters visible"
+    details: "individual cobblestones worn smooth by repeated political gatherings, same architectural details witnessing different generational protests, snow and ice conditions varying across different winter demonstrations, no text or letters visible"
+    background: "Winter Palace and government buildings maintaining constant architectural presence while showing subtle security modifications across decades, same surrounding streets showing different levels of military control"
+    atmosphere: "cyclical nature of Russian political reform movements, understanding that each generation rediscovers same fundamental conflicts, square as eternal witness to recurring human desires for freedom and justice, no text or letters visible"
+  composition:
+    cameraAngle: "elevated view of square showing speakers and crowds across multiple temporal layers"
+    focus: "the repetitive nature of political protest across generational cycles"
+    depth: "foreground emphasizes detailed speakers and immediate crowd reactions, middle ground reveals square's architectural permanence hosting different movements, background shows government power structures maintaining continuity despite political challenges, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Treacherous Mirror - Reflection Shows Truth"
+  setting:
+    time: "Ancient Britain, dusk"
+    location: "Chamber with polished metal mirror or reflecting surface"
+    weather: "Twilight with single candle providing flickering illumination"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Robes now noticeably disheveled, hair wild and unkempt"
+      position: "Standing before polished metal mirror mounted on wall"
+      action: "Staring into reflection, reaching toward mirror surface, backing away in confusion"
+  scene:
+    mainElements: "Stone chamber with large polished metal mirror or reflecting pool, single candle on wooden stand, simple wooden furniture"
+    details: "Mirror reflection that shows Lear but aged beyond his actual years, with wild hair and expression of complete madness. Reflected image moves independently - nodding when he shakes his head, smiling when he frowns, raising hand when his hands are at his sides. Candle flame reflected appears to burn with different color or intensity. Background in reflection shows different room than actual chamber"
+    background: "Stone walls that appear different in reflection, shadows that don't match actual room, reflected doorway showing different scene than actual door"
+    atmosphere: "Mirror world reveals hidden truth about his deteriorating mental state. Reflection serves as prophetic vision of his complete breakdown. Reality of his condition shown through supernatural mirror that refuses to lie"
+  composition:
+    cameraAngle: "Shot includes both Lear and his reflection, emphasizing differences between them"
+    focus: "Sharp detail on both actual Lear and reflected image showing contrasting expressions and postures"
+    depth: "Lear in foreground, mirror surface in middle ground, reflected world suggesting different spatial reality"

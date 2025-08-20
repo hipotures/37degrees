@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Prison of Light and Shadow"
+  setting:
+    time: "1628, night"
+    location: "dark riverbank in northern France at night, remote location chosen for secret execution"
+    weather: "stormy night with dramatic lightning"
+  characters:
+    - appearance: "beautiful woman in her 30s with pale complexion, golden blonde hair in elaborate curls, piercing blue eyes, ethereal beauty"
+      clothing: "white silk gown torn and disheveled, no longer concealing criminal brand"
+      position: "center of single spotlight surrounded by darkness"
+      action: "facing final judgment with mixture of defiance and fear"
+  scene:
+    mainElements: "dramatic spotlight isolating figure in circle of harsh light while everything else disappears into absolute darkness"
+    details: "rushing water reflecting moonlight barely visible, harsh spotlight creating prison of illumination, burn scar in shape of fleur-de-lis flower clearly visible, white gown creating stark contrast against black void, lightning occasionally revealing shadowy figures at edge of light"
+    background: "complete darkness hiding executioners and creating sense of isolation and judgment"
+    atmosphere: "final dramatic confrontation between light and darkness, justice emerging from shadows"
+  composition:
+    cameraAngle: "medium shot with stark chiaroscuro lighting creating natural frame"
+    focus: "figure in spotlight perfectly sharp, everything beyond light completely black"
+    depth: "harsh light circle in foreground, condemned figure in middle ground, absolute darkness beyond, no text or letters visible"

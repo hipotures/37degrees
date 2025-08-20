@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, midday
+    location: Stone courtyard of castle with cobbled ground and surrounding walls
+    weather: Bright sunlight creating harsh contrasts between light and shadow
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Traveling clothes, cloak thrown hastily over shoulders
+    position: Standing in center of courtyard, slowly turning to take in surroundings
+    action: Extending hand toward walls as if testing distance, squinting at edges of vision
+  - appearance: Ageless figure, could be young boy or old man. Small, delicate, almost androgynous build. Pale face with intelligent
+      but melancholy eyes
+    clothing: Traditional motley costume with diamond patterns, or modern interpretation using tattered clothes resembling
+      vagrant's rags, always with fool's cap with bells
+    position: Following behind at distance, staying within Lear's peripheral vision
+    action: Making gestures that seem to mock Lear's confusion, jingling bells that echo strangely
+  scene:
+    mainElements: Cobblestone courtyard surrounded by high stone walls, wooden gates leading to exterior, various outbuildings
+      and storage structures
+    details: Edges of peripheral vision seem to curve inward like looking through curved glass. Cobblestones that appear to
+      ripple like water when not looked at directly. Shadows that don't match their casting objects, falling at impossible
+      angles. Stone walls that seem to bow outward at edges of vision but appear straight when looked at directly
+    background: Castle towers that seem to lean and shift, clouds moving too quickly across sky, distant figures walking in
+      patterns that seem purposeless yet deliberate
+    atmosphere: Reality becoming elastic at the margins of perception. Center of vision remains clear but everything peripheral
+      warps and shifts. Sense that the world is curving away from observer, like standing on shrinking sphere
+  composition:
+    cameraAngle: Central perspective with strong vignetting effect darkening edges
+    focus: Sharp central focus on Lear with increasingly distorted peripheral elements
+    depth: Clear foreground center, distorted middle ground at frame edges, background that seems to curve away unnaturally
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

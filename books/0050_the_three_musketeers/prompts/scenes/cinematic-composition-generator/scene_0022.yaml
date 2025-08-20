@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Imprisoned by Inn Doorway"
+  setting:
+    time: "1625, evening"
+    location: "courtyard of roadside inn in French countryside, typical staging post between cities"
+    weather: "sunset with warm golden light"
+  characters:
+    - appearance: "20-year-old Gascon youth with energetic bearing and confident posture"
+      clothing: "worn blue woolen kaftan faded to indistinct shade between wine sediment and sky blue, single-feathered hat, simple brown leather boots"
+      position: "framed within wooden doorway arch"
+      action: "pausing at threshold with expression of determination"
+  scene:
+    mainElements: "natural frame created by inn doorway containing figure at moment of decision"
+    details: "wooden galleries surrounding cobblestone yard, hitching posts for horses, simple folk going about evening business, rustic wooden doorframe creating natural border around figure, warm sunset light streaming through opening"
+    background: "inn courtyard visible beyond threshold, representing world of adventure beyond"
+    atmosphere: "moment of transition and decision, warm sunset creating romantic adventure mood"
+  composition:
+    cameraAngle: "medium shot with doorway creating strong natural frame"
+    focus: "figure sharp within doorway frame, courtyard scene softly focused beyond"
+    depth: "wooden doorframe sharp in foreground, d'Artagnan in middle ground, courtyard activity in background, no text or letters visible"

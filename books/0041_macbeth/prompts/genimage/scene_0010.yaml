@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, afternoon in private royal chamber
+    location: Luxurious royal apartments with rich furnishings and comforts
+    weather: Gentle spring day with warm sunlight and pleasant breeze
+  characters:
+  - appearance: Elderly man around 60 years with dignified bearing. Noble face expressing kindness and trust. Gray or white
+      hair and beard. Features convey wisdom and fatherly benevolence, making his betrayal more tragic.
+    clothing: Royal robes of fine materials with fur-lined cloak. Simple but elegant crown befitting rightful monarch. Colors
+      reflect status but not ostentatious - deep blues and purples with gold trim.
+    position: Sits comfortably in padded chair beside window, completely relaxed and unguarded
+    action: Discusses plans for improving kingdom while servants attend to every comfort, utterly unaware that his generosity
+      toward some requires cruelty toward others
+  scene:
+    mainElements: Richly appointed chamber with tapestries, carved furniture, silver vessels, and luxurious fabrics. Servants
+      move silently providing food, drink, and comfort. Maps and documents spread across table show territories and resources
+    details: King speaks warmly of building new monastery while peasants starve to pay for stone. Plans charitable gifts to
+      church using taxes squeezed from desperate families. Discusses wedding feast costing more than annual income of hundred
+      households. Views kingdom as personal garden rather than home to suffering people
+    background: Through window, green countryside appears peaceful and prosperous from royal perspective. Guards patrol walls
+      protecting comfortable isolation from reality. Rich artwork depicts previous kings as saints and heroes rather than
+      flawed humans
+    atmosphere: Privilege creates perfect insulation from consequences of royal decisions. Good intentions combined with total
+      ignorance of real cost makes every generous gesture an act of unwitting cruelty. System designed to show rulers only
+      success stories while hiding failures and suffering
+  composition:
+    cameraAngle: View through window showing gap between royal comfort and external reality
+    focus: Contrast between comfortable ignorance and unseen suffering that funds comfort
+    depth: Foreground shows luxurious royal environment, middle ground reveals oblivious beneficiary, background suggests
+      wider world bearing true cost of his comfort
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

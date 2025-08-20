@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 'Geological and human time compressed: centuries of tree growth witnessing waves of human civilization'
+    location: ancient oak tree location showing temporal layers of human settlement and natural endurance
+    weather: seasonal cycles compressed across centuries of climate variations
+  characters: No characters present in this scene
+  scene:
+    mainElements: enormous ancient oak tree showing centuries of growth rings, trunk containing visible history of surrounding
+      civilization, branches that have witnessed countless human generations, root system spreading beneath archaeological
+      layers of human habitation, no text or letters visible
+    details: tree bark containing embedded artifacts from different eras, branches showing scars from various historical events,
+      hollow sections created by lightning and weather across centuries, accumulated soil layers around roots containing pottery
+      shards and metal fragments from multiple civilizations, no text or letters visible
+    background: landscape showing ghostly overlays of different settlement patterns across centuries, same location hosting
+      wooden villages, stone towns, and modern developments in temporal succession, distant horizon showing geological features
+      unchanged by human activity
+    atmosphere: profound meditation on human transience relative to natural time, understanding that individual lives and
+      even entire civilizations are brief episodes in tree's memory, cosmic perspective reducing human dramas to seasonal
+      variations in tree's annual cycle, no text or letters visible
+  composition:
+    cameraAngle: low angle emphasizing tree's massive scale and temporal endurance relative to human activity
+    focus: the relationship between natural time and human historical time
+    depth: foreground shows detailed bark texture containing embedded historical artifacts, middle ground reveals tree's full
+      magnificent structure witnessing civilizational changes, background emphasizes geological landscape's endurance beyond
+      both human time and tree time, extending toward cosmic temporal scale, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

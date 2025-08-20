@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: January 6th 1482, mid-morning, warming sunlight
+    location: Large irregular unpaved square in medieval Paris gently sloping toward sandy bank of Seine River, main river
+      port and public gathering place
+    weather: Cool morning with mist rising from river water, gentle breeze stirring fog
+  characters: No characters present in this scene
+  scene:
+    mainElements: Place of extreme contrasts - festival life and celebrations versus dread and macabre as main execution square,
+      mixing fear and morbid entertainment with Maison-aux-Piliers building predecessor to city hall, permanent constructions
+      of gallows and pillory in center
+    details: White mist swirls up from Seine River gradually revealing riverside activities, wooden boats moored at sandy
+      banks emerge from fog, morning sun creates golden shafts through dissipating mist, cobblestones glisten with moisture,
+      wooden structures stand silhouetted against brightening sky
+    background: Medieval buildings frame square with timber construction and overhanging upper floors, cathedral towers visible
+      through clearing mist in distance
+    atmosphere: Mysterious transformation as fog reveals familiar yet ominous public space, sense of hidden secrets being
+      uncovered, mixture of natural beauty with civic functions both festive and grim
+  composition:
+    cameraAngle: Ground level view across square toward river with mist effects
+    focus: Dramatic mist patterns swirling around square structures and revealing river
+    depth: Foreground shows cobblestone plaza details, middle ground features structures emerging from mist, background displays
+      river and far shore through fog
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

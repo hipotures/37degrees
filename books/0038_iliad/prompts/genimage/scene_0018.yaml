@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, afternoon of supernatural slaughter
+    location: flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia
+    weather: Clear sky allowing divine perspective on mortal carnage
+  characters:
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested
+      helmet with horsehair plume, bronze greaves
+    position: tiny figure moving across battlefield leaving trail of destruction
+    action: pursuing fleeing Trojans with supernatural speed and fury
+  scene:
+    mainElements: Extreme high angle bird's eye view showing Achilles' rampage as geometric pattern of death across landscape
+    details: Trail of fallen Trojans marking Achilles' path like dark line across dusty earth, Scamander River running red
+      with blood, fleeing figures scattering in all directions, overturned chariots and abandoned weapons creating pattern
+      of destruction, crows gathering in anticipation, divine armor glinting like moving star among carnage, no text or letters
+      visible
+    background: open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks,
+      riverbank vegetation along Scamander
+    atmosphere: dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat
+      mixing with earth
+  composition:
+    cameraAngle: Extreme high angle god's eye view showing patterns invisible from ground level
+    focus: Geometric patterns of death and destruction spreading across landscape
+    depth: Single plane showing entire battlefield as canvas for divine wrath and mortal suffering
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

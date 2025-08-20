@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Street Life Under Artificial Torchlight"
+  setting:
+    time: "1482, evening, torch and lamplight"
+    location: "Secret criminal district in medieval Paris, hideous ulcer on face of city - labyrinth of dark twisting dirty alleys and courtyards"
+    weather: "Clear evening with still air carrying scents and sounds"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "World of reversed values and pandemonium where beggars miraculously heal each night, brutal freedom with own harsh code of laws, narrow alley with overhanging buildings"
+    details: "Flickering torches mounted in wall brackets cast dancing orange light on cobblestones, shadows shift and move with flame movement, smoke rises from torches creating atmospheric haze, wooden shutters glow with interior candlelight creating warm rectangles in darkness"
+    background: "Maze of passages recede into darkness beyond torch range, distant sounds echo from tavern cellars, glimpses of other illuminated windows deeper in district"
+    atmosphere: "Mix of human-made illumination creating pockets of warmth in hostile urban darkness, sense of hidden community and alternative society operating by night"
+  composition:
+    cameraAngle: "Ground level view down torchlit alley emphasizing light and shadow play"
+    focus: "Dramatic torch lighting effects creating pools of warm light in darkness"
+    depth: "Foreground shows cobblestone detail in torchlight, middle ground features illuminated alley, background fades to mysterious darkness"

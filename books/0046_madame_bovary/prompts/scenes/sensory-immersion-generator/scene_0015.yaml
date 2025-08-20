@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Smoke tendrils before fire visible with approaching storm clouds forming"
+  setting:
+    time: "1840s late afternoon, threatening weather approaching"
+    location: "Większy dom w miasteczku Yonville-l'Abbaye, Normandia, lata 40. XIX wieku - kitchen and hearth area in Bovary house"
+    weather: "Ominous storm clouds gathering, air thick with atmospheric pressure"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Household dress, apron, sleeves rolled up for domestic work"
+      position: "Standing near fireplace, watching smoke patterns with growing anxiety"
+      action: "Stirring embers, noticing unusual smoke behavior, glancing nervously at threatening sky"
+  scene:
+    mainElements: "Mieszczańskie wnętrza które Emma próbuje urządzać luksusowo kupując meble na kredyt, fortepian na którym nie gra, gotycki klęcznik, drogie tkaniny od Lheureux - fireplace with unusual smoke patterns, storm clouds visible through windows"
+    details: "Thin smoke tendrils rising from hearth in abnormal patterns, smoke being pushed down chimney by changing air pressure, wisps of smoke escaping into room instead of rising properly, storm clouds forming distinctive threatening shapes in dark colors, atmospheric pressure changes making smoke behave erratically, fire flames flickering and dancing in unusual directions, smoke creating warning spirals and patterns, distant lightning illuminating cloud formations, smoke color changing from clear to gray as weather worsens, air becoming thick and oppressive as storm approaches, no text or letters visible"
+    background: "Napięcie między aspiracjami Emmy a rzeczywistością finansową, miejsce kłamstw i sekretów - domestic interior with windows showing approaching storm"
+    atmosphere: "Warning signs made visible through smoke behavior and cloud formations, approaching danger suggested through atmospheric disturbance, sense of foreboding created by unusual smoke patterns and threatening sky"
+  composition:
+    cameraAngle: "Medium shot showing both indoor smoke patterns and outdoor storm formation"
+    focus: "Unusual smoke behavior contrasting with threatening cloud formations"
+    depth: "Foreground: erratic smoke tendrils from fireplace, middle ground: figure watching storm approach, background: dark threatening clouds gathering outside windows"

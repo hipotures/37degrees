@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Claudius Above, Hamlet Below - Staircase Confrontation"
+  setting:
+    time: "Late 1590s, evening"
+    location: "Grand stone staircase in Elsinore Castle, king descending from upper chambers"
+    weather: ""
+  characters:
+    - appearance: "Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace, possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual"
+      clothing: "Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains, and jewels, manifesting power and attempting to legitimize his reign"
+      position: "Several steps above, looking down with calculated authority"
+      action: "Pausing mid-descent to address Hamlet below, using height advantage to assert dominance"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "At bottom of stairs, forced to look up"
+      action: "Tilting head back to meet uncle's gaze, refusing to bow despite disadvantageous position"
+  scene:
+    mainElements: "Wide stone staircase with ornate railings, torches in wall sconces, high vaulted ceiling"
+    details: "The architecture creates perfect metaphor for power dynamics. Claudius uses elevation to literally look down on Hamlet, while Hamlet's refusal to show deference demonstrates his resistance to authority. The staircase becomes a visual representation of social hierarchy being challenged."
+    background: "Medieval castle architecture with soaring stonework emphasizing scale and power"
+    atmosphere: "Architectural intimidation meets stubborn resistance, gravity itself working against rebellion"
+  composition:
+    cameraAngle: "Low angle from Hamlet's perspective looking up at Claudius"
+    focus: "Power imbalance created by architectural positioning and royal versus mourning attire"
+    depth: "Foreground shows Hamlet's upturned face, middle shows stone steps, background shows Claudius's elevated authority"

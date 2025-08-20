@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1840s afternoon, during elegant social gathering
+    location: Arystokratyczna posiadłość w stylu włoskim w normandzkiej wsi - dining room at La Vaubyessard castle during
+      ball
+    weather: Perfect afternoon with golden sunlight streaming through tall windows
+  characters:
+  - appearance: Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z
+      tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z
+      różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech
+    clothing: Wykwintna suknia z bladożółtego szafranu ozdobiona trzema bukietami różowych pomponów z zielonymi dodatkami
+    position: Seated at elegant dining table, delicately tasting aristocratic desserts
+    action: Savoring exotic desserts, marveling at crystal sugar decorations, experiencing tastes she's never known
+  scene:
+    mainElements: Srebrne pokrywy do naczyń, kryształowe kieliszki, bukiety kwiatów, lody ananasowe których Emma próbuje po
+      raz pierwszy - elaborate dessert service with crystal sugar sculptures and exotic fruits
+    details: Refined white sugar crystals arranged in decorative patterns catching candlelight like precious diamonds, crystal
+      sugar formations creating miniature architectural sculptures on dessert plates, exotic fruits arranged in perfect geometric
+      displays showing peak ripeness, pineapple ice creating perfect sphere shapes with sugar crystal coating, crystal formations
+      refracting light into rainbow patterns, sugar work so fine it appears like carved gemstones, fruits glazed with sugar
+      creating glossy mirror surfaces, candied violets and rose petals preserving flowers in crystalline amber, delicate spun
+      sugar creating edible lace patterns, no text or letters visible
+    background: Ciepłe złociste światło od setek świec, błysk srebra, kryształu, diamentów - aristocratic dining room with
+      elaborate table settings
+    atmosphere: Magiczna olśniewająca atmosfera luksusu i bogactwa - luxury and refinement expressed through crystalline beauty,
+      sweet perfection suggesting unattainable elegance, aristocratic sophistication made tangible through sugar artistry
+  composition:
+    cameraAngle: Macro close-up showing sugar crystal details and light refraction
+    focus: Crystal sugar formations catching light, glazed fruit surfaces reflecting candles
+    depth: 'Foreground: detailed sugar crystal work, middle ground: elegant figure at formal dining, background: aristocratic
+      dining room splendor'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

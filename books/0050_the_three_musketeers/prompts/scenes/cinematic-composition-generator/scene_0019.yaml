@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Crushed Beneath Cardinal's Authority"
+  setting:
+    time: "1628, evening"
+    location: "Palais-Cardinal in Paris, private residence and office of Cardinal Richelieu"
+    weather: "stormy evening with dramatic lighting"
+  characters:
+    - appearance: "20-year-old Gascon youth with energetic bearing and confident posture"
+      clothing: "worn blue woolen kaftan faded to indistinct shade between wine sediment and sky blue, single-feathered hat, simple brown leather boots"
+      position: "bottom of frame, appearing small and vulnerable"
+      action: "standing before authority with mixture of defiance and fear"
+    - appearance: "50s statesman with sharp intelligent features, calculating eyes, thin build, commanding presence"
+      clothing: "cardinal red robes with gold embroidery, red biretta cap, ornate silver cross on chain"
+      position: "looming large in upper portion of frame"
+      action: "exercising absolute authority with calculated mercy"
+  scene:
+    mainElements: "extreme low angle making cardinal appear monumental and threatening while reducing d'Artagnan to vulnerable small figure"
+    details: "opulent interior with red tapestries, ornate furniture, religious artifacts creating overwhelming vertical dominance, cardinal red robes filling upper frame, storm light through windows adding drama, power dynamic emphasized through scale"
+    background: "palace chambers towering overhead with religious imagery suggesting divine authority"
+    atmosphere: "overwhelming political power and individual vulnerability, storm lighting enhancing dramatic confrontation"
+  composition:
+    cameraAngle: "extreme low angle from floor level emphasizing power differential"
+    focus: "both figures sharp but cardinal dominating upper frame space"
+    depth: "d'Artagnan small in foreground, cardinal towering in middle ground, palace architecture overwhelming in background, no text or letters visible"

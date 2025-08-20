@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Polonius's Nervous Authority - Hands and Hidden Fears"
+  setting:
+    time: "Late 1590s, day"
+    location: "Private quarters in Elsinore Castle, Polonius's chamber or corridor"
+    weather: ""
+  characters:
+    - appearance: "Elderly man around 60-70 years, slightly stooped and thin, long gray beard, sharp and curious eyes reflecting his meddling nature"
+      clothing: "Dark formal robes of high state official, possibly with fur collar emphasizing his position as chief advisor, conservative and dignified"
+      position: "Behind writing desk, papers scattered before him"
+      action: "Wringing hands nervously while discussing plans to spy on Laertes, fingers drumming on desk with anxiety"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Standing in doorway, one hand gripping door frame"
+      action: "Observing Polonius with calculating gaze, other hand clenched into fist at his side"
+  scene:
+    mainElements: "Writing desk cluttered with official papers, quill and inkwell, formal chamber with tapestries"
+    details: "Polonius's nervous hand movements reveal his anxiety about Hamlet's changed behavior. His fingers betray his worry as he discusses surveillance plans. Hamlet's rigid grip on the doorframe shows his own tension as he watches this scheming bureaucrat."
+    background: "Formal court chambers filled with state papers and official business"
+    atmosphere: "Paranoia building on both sides, each man suspicious of the other's intentions"
+  composition:
+    cameraAngle: "Medium shot capturing both men's hand positions and body tension"
+    focus: "Nervous hand gestures revealing internal anxiety and distrust"
+    depth: "Foreground shows Hamlet's clenched fist, middle shows Polonius's fidgeting hands, background shows official papers"

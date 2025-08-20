@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, late afternoon with low sun creating long shadows
+    location: royal residence within Troy citadel, largest building complex with multiple courtyards and halls
+    weather: Clear afternoon with sharp shadows cutting across interior spaces
+  characters:
+  - appearance: 30-year-old woman of supernatural beauty, tall with perfect proportions, golden hair arranged in elaborate
+      style, striking blue eyes, flawless skin
+    clothing: richly layered Mycenaean-style gowns with multiple tiers of fabric, intricate gold jewelry, elaborate headdress
+      with precious stones
+    position: seated by window with strong afternoon light creating shadow pattern
+    action: weaving funeral shroud while shadow bars from window cross her face like prison
+  - appearance: 28-year-old Trojan noblewoman, elegant build befitting princess, dark hair in traditional style, expressive
+      eyes showing constant worry
+    clothing: long flowing robes in earth tones suitable for Trojan nobility, simple but fine jewelry, practical dress for
+      daily duties
+    position: standing in doorway with shadows crossing her figure
+    action: bringing news of husband's death while own grief shadows her features
+  scene:
+    mainElements: Shadow frame created by window mullions and doorways casting prison-like bars across grieving women
+    details: Window frame creating regular shadow pattern across Helena's face and hands, weaving loom with half-finished
+      funeral cloth, golden threads catching light between shadows, doorway frame casting parallel shadows across Andromacha's
+      figure, tears reflecting light despite shadowed face, rich textiles and palace furnishings, oil lamps unnecessary in
+      bright afternoon, no text or letters visible
+    background: formal royal setting with echoing stone chambers, scent of incense and oil lamps, sounds of court activity
+      and royal business
+    atmosphere: Grief creating invisible prison for survivors, shadow patterns suggesting bars of fate and consequence
+  composition:
+    cameraAngle: Medium shot using window and door shadows to create symbolic imprisonment
+    focus: Shadow patterns framing faces to suggest entrapment by consequences of beauty and war
+    depth: 'Foreground: shadow patterns and architectural details, middle: grieving women framed by light and dark, background:
+      palace chambers suggesting luxury that cannot protect from loss'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

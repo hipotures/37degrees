@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, mid-afternoon
+    location: Terraced hillside showing clear architectural distinction between royal palace complex above and common residential
+      areas below
+    weather: Clear afternoon with bright Mediterranean sunlight revealing social contrasts
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive palace complex with cyclopean walls and bronze decorations dominating upper terraces, modest stone
+      dwellings with simple construction on lower slopes, clear visual hierarchy emphasizing social stratification, different
+      qualities of architecture and decoration
+    details: 'Upper palace area: elaborate stonework with fitted blocks, colorful frescoes on exterior walls, bronze-fitted
+      gates and doorways, spacious courtyards with decorative paving, luxury goods visible through doorways. Lower residential
+      area: smaller buildings with rough stone construction, simple wooden doors and shutters, basic ceramic vessels and tools,
+      narrow alleyways between closely-packed dwellings, functional rather than decorative architecture'
+    background: Mediterranean landscape with terraced agriculture showing how social hierarchy extends to land control, harbor
+      area where common workers support elite maritime activities, natural boundaries reinforcing social divisions
+    atmosphere: Clear visual representation of Bronze Age social stratification, contrast between luxury and necessity, sense
+      of established social order with defined roles and expectations, peaceful coexistence within hierarchical system
+  composition:
+    cameraAngle: Elevated perspective showing full social hierarchy from palace to common quarters
+    focus: Central contrast between elaborate palace architecture and simple residential buildings
+    depth: 'Foreground: common residential area with modest construction, middle ground: intermediate social levels, background:
+      dominant palace complex and elite architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

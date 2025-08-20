@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, golden hour before sunset
+    location: main entrance to Troy citadel, massive double gateway with flanking towers providing commanding view of battlefield
+    weather: Clear evening with gentle wind stirring horsehair crest
+  characters:
+  - appearance: 35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered
+      face showing responsibility and resolve
+    clothing: finest Trojan bronze armor with distinctive helmet bearing flowing horsehair crest, bronze cuirass and greaves,
+      purple cloak of nobility
+    position: face filling frame from slightly below, eyes looking toward battlefield
+    action: moment of contemplation before final battle, hand touching amulet at throat
+  scene:
+    mainElements: Close-up revealing Hector's humanity beneath heroic exterior, brief shadow of fear crossing features before
+      courage returns
+    details: Dark eyes reflecting weight of responsibility for Troy's fate, lines of worry etched around eyes from years of
+      siege, scar on cheek from previous battle, bronze cheek guard casting shadow, horsehair plume moving in breeze, family
+      amulet visible at neck, no text or letters visible
+    background: Strategic position overlooking entire Trojan plain, sounds of battle drifting up from below, stone echoing
+      with footsteps and voices of defenders
+    atmosphere: Lonely burden of heroic duty, mortal man facing immortal champion, love for family driving courage despite
+      certain doom
+  composition:
+    cameraAngle: Close-up from slightly below emphasizing noble bearing while showing vulnerability
+    focus: Eyes revealing inner conflict between duty and desire to live
+    depth: Face in sharp focus with armor details, background architecture softly blurred suggesting isolation
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,126 @@
+canon:
+  characters:
+    - id: "hamlet"
+      name: "Prince Hamlet"
+      description_block: |
+        characters:
+          - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+            clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court. In madness scenes: disheveled appearance with doublet unbuttoned, no hat, dirty hose hanging to ankles without garters. In final duel: white linen fencing shirt"
+            posture: "Variable: hunched and slow when melancholy, erratic and unpredictable when feigning madness, calm and natural with Horatio"
+    - id: "claudius"
+      name: "King Claudius"
+      description_block: |
+        characters:
+          - appearance: "Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace, possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual"
+            clothing: "Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains, and jewels, manifesting power and attempting to legitimize his reign"
+            posture: "Upright and confident, royal bearing, but capable of sudden tension and barely controlled anger"
+    - id: "gertrude"
+      name: "Queen Gertrude"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 45-50 years, royal bearing and attractive, full figure, face showing possible weakness or sensuality, needing to be center of male attention"
+            clothing: "Luxurious, fashionable gowns in rich jeweled colors, much jewelry, quickly abandoning mourning dress for wedding attire symbolizing moral weakness in Hamlet's eyes"
+            posture: "Graceful and queenly, but capable of defensive or shocked postures when confronted"
+    - id: "polonius"
+      name: "Lord Polonius"
+      description_block: |
+        characters:
+          - appearance: "Elderly man around 60-70 years, slightly stooped and thin, long gray beard, sharp and curious eyes reflecting his meddling nature"
+            clothing: "Dark formal robes of high state official, possibly with fur collar emphasizing his position as chief advisor, conservative and dignified"
+            posture: "Formal and pompous bearing, tendency to lean forward when eavesdropping or speaking"
+    - id: "ophelia"
+      name: "Ophelia"
+      description_block: |
+        characters:
+          - appearance: "Very young woman 16-18 years old, small and slender build, delicate features, traditionally long fair hair, innocent and sensitive face"
+            clothing: "Simple gowns in light pastel colors (white, blue, pale pink) symbolizing purity and virginity. In madness: hair loose and disheveled, gown crumpled or torn, carrying wild flowers and herbs"
+            posture: "Graceful and modest, but in madness becomes unpredictable, sometimes dancing, sometimes frozen"
+    - id: "laertes"
+      name: "Laertes"
+      description_block: |
+        characters:
+          - appearance: "Young man in early 20s (22-25), handsome, athletic and agile, passionate face, skilled swordsman suggesting strength and quickness"
+            clothing: "Fashionable young nobleman's attire in French style, stylish doublet and breeches, possibly short cloak. In duel: white fencing shirt"
+            posture: "Confident and athletic, quick movements, capable of sudden violent actions"
+    - id: "horatio"
+      name: "Horatio"
+      description_block: |
+        characters:
+          - appearance: "Man around 30 years, average build, calm and balanced face, intelligent eyes, trustworthy expression reflecting reason and loyalty"
+            clothing: "Modest dark scholar's attire from Wittenberg, less ornate than court dress, practical and simple emphasizing he's not part of corrupt court"
+            posture: "Steady and reliable bearing, thoughtful and measured movements"
+    - id: "ghost"
+      name: "Ghost of King Hamlet"
+      description_block: |
+        characters:
+          - appearance: "Man appearing 50 years old as at death, exact likeness of dead king, beautiful and martial bearing, face expressing sorrow more than anger, beard 'sable silvered' (black sprinkled with gray)"
+            clothing: "Full plate armor from head to foot, same as worn in battle with Norway's king. In private scenes: domestic robe or gown as worn in life"
+            posture: "Majestic and silent, moves with 'martial stalk', ethereal and commanding presence"
+    - id: "fortinbras"
+      name: "Prince Fortinbras"
+      description_block: |
+        characters:
+          - appearance: "Young man 20-25 years, tall and strong, military bearing, determined face full of ambition, natural leader"
+            clothing: "Military commander's armor, cloak, practical warrior's attire"
+            posture: "Upright military bearing, decisive and commanding movements"
+  locations:
+    - id: "elsinore_battlements"
+      name: "Castle Battlements"
+      description_block: |
+        setting:
+          location: "Stone defensive platform atop Elsinore Castle walls in Denmark, wide terrace exposed to elements with view of dark turbulent sea"
+        mainElements: "Stone crenellated walls, guard posts, single lantern for watch duty, thick stone flooring"
+        atmosphere: "Bitter cold winter nights, mist rising from sea, isolated and liminal space between human world and spirit realm, supernatural dread and mounting tension"
+    - id: "throne_hall"
+      name: "Great Hall of State"
+      description_block: |
+        setting:
+          location: "Massive ceremonial hall in Elsinore Castle, over 60 meters long, representing seat of Danish royal power"
+        mainElements: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+        atmosphere: "Formal grandeur masking underlying tension, false gaiety of Claudius's court, public spectacle of power hiding private corruption"
+    - id: "queen_chamber"
+      name: "Queen's Private Chamber"
+      description_block: |
+        setting:
+          location: "Gertrude's intimate private room in Elsinore Castle, her personal retreat and study"
+        mainElements: "Large canopied bed, dressing table with mirror, chairs, heavy patterned tapestry (arras) hanging on wall large enough to conceal a person"
+        atmosphere: "Private intimacy brutally violated, soft candlelight creating warmth that becomes claustrophobic during violent confrontation"
+    - id: "cemetery"
+      name: "Castle Churchyard"
+      description_block: |
+        setting:
+          location: "Burial ground near Elsinore Castle chapel, uneven muddy terrain with old graves"
+        mainElements: "Simple stone tomb markers and crosses, many old and moss-covered, freshly dug open grave, scattered skulls and bones"
+        atmosphere: "Melancholy confrontation with mortality, physical decay and decomposition, ultimate equalizer of death"
+    - id: "chapel"
+      name: "Castle Chapel"
+      description_block: |
+        setting:
+          location: "Small private prayer alcove adjacent to main castle corridor in Elsinore"
+        mainElements: "Stone walls, prie-dieu kneeler, simple altar, crucifix, single narrow window high on wall"
+        atmosphere: "Spiritual torment and moral isolation, failed repentance, cold stone emphasizing spiritual emptiness"
+  items:
+    - id: "poison_vial"
+      name: "Poison Flask"
+      description_block: |
+        details: "Small glass vial containing thick dark liquid (hebenon/henbane), used for murder by pouring into ear, appears as oily substance on rapier blade, dissolves as 'pearl' in wine cup with sizzling sound"
+    - id: "rapiers"
+      name: "Dueling Rapiers"
+      description_block: |
+        details: "Long slender swords 100-120 cm length, complex swept-hilt guards protecting hand, one rapier sharp and unprotected at tip, smeared with dark poisonous oil, other blunted for safe practice"
+    - id: "yoricks_skull"
+      name: "Yorick's Skull"
+      description_block: |
+        details: "Realistic human skull yellowed with age, possibly missing teeth, no lower jaw, earth stains from grave, belonged to court jester remembered from Hamlet's childhood"
+    - id: "ophelias_flowers"
+      name: "Symbolic Flowers and Herbs"
+      description_block: |
+        details: "Fresh-picked bundle of wild plants each with meaning: rosemary (remembrance), pansies (thoughts), fennel (flattery), columbines (adultery), rue (sorrow), daisies (innocence), violets (faithfulness)"
+    - id: "ghost_armor"
+      name: "Spectral Armor"
+      description_block: |
+        details: "Complete steel plate armor in Gothic/Renaissance style, functional not ceremonial, may bear battle marks, surface catches light unnaturally, worn by armed ghost on battlements"
+    - id: "portrait_medallions"
+      name: "Miniature Portrait Lockets"
+      description_block: |
+        details: "Two small painted portraits for comparison, one showing noble bearded king (old Hamlet), other showing Claudius, worn by Hamlet or produced during confrontation with mother"

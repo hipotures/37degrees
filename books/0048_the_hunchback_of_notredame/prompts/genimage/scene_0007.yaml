@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1482 summer, blazing noon, intense sunlight
+    location: Secret criminal district in medieval Paris, hideous ulcer on face of city - labyrinth of dark twisting dirty
+      alleys and courtyards
+    weather: Scorching summer heat with shimmering air and oppressive stillness
+  characters: No characters present in this scene
+  scene:
+    mainElements: World of reversed values and pandemonium where beggars miraculously heal each night, brutal freedom with
+      own harsh code of laws, narrow courtyard surrounded by crumbling buildings
+    details: Intense summer sun bleaches color from wooden shutters and stone walls, heat waves shimmer above cobblestones,
+      shadows compressed to thin lines beneath overhanging upper floors, dust hangs motionless in stifling air, scattered
+      refuse and debris bakes in heat
+    background: Maze of crooked alleys and passages leading deeper into criminal quarter, glimpses of ramshackle buildings
+      and sagging rooflines through heat haze
+    atmosphere: Oppressive heat and hidden danger in lawless district, sense of desperation and survival in harsh environment,
+      brutal conditions of medieval urban poverty
+  composition:
+    cameraAngle: Eye level view down narrow courtyard emphasizing enclosure and heat
+    focus: Heat distortion effects and bleached surfaces in oppressive environment
+    depth: Foreground shows baking cobblestones and debris, middle ground features surrounding buildings, background dissolves
+      into shimmering passages
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

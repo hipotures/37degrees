@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, late August, warm afternoon continuing
+    location: Elder Zosima's cell in Orthodox monastery hermitage near provincial town Skotoprigoniewsk
+    weather: Clear warm day with gentle sunlight
+  characters:
+  - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face
+      capable of rapid changes from rage to passion to despair
+    clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle
+      and financial problems, occasionally blood-stained shirt
+    position: Standing in doorway then striding aggressively into cell
+    action: Bursting through door with violent energy, pointing accusingly at father, voice raised in furious confrontation
+  - appearance: 55-year-old man with long, fleshy bags under perpetually insolent, suspicious and lustful small eyes, small
+      fat face covered with numerous deep wrinkles
+    clothing: Provincial gentleman attire in disarray, stained clothing reflecting neglectful lifestyle, loose garments for
+      comfort at home
+    position: Recoiling on chair, defensive posture
+    action: Switching from buffoonish behavior to calculating cruelty, smirking at son's rage
+  - appearance: Around 65 years old appearing much older, short hunched elderly man with very weak legs, very thin face covered
+      with network of fine wrinkles especially around small bright lively shining eyes
+    clothing: Simple dark Orthodox monk habit, plain robes of schimnik
+    position: Rising slowly from sofa despite physical weakness
+    action: Standing with effort, moving toward confrontation with prophetic intention
+  scene:
+    mainElements: Monastery cell now filled with explosive tension, religious icons witnessing family hatred, mahogany sofa
+      abandoned as elder rises, chairs scattered from violent entry
+    details: Sunlight through windows contrasting with dark emotions, oil lamp flame flickering from door slam, flower pots
+      trembling, monks pressing against walls in shock, sacred space violated by worldly rage
+    background: Religious artwork on walls seeming to judge the conflict, shadows of other monks retreating, door frame showing
+      passage from peaceful exterior to chaotic interior
+    atmosphere: Sacred tranquility completely shattered by primal family hatred, escalating tension building toward prophetic
+      climax
+  composition:
+    cameraAngle: Medium shot capturing physical confrontation between father and son with elder rising in background
+    focus: Dymitr's face transformed by rage, clenched fists and aggressive stance dominating frame
+    depth: Foreground shows Dymitr's threatening advance, middle ground captures father's defensive cringe, background reveals
+      elder's mysterious rising
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

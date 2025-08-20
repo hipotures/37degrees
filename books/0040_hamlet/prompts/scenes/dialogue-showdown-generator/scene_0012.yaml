@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hamlet's Exultation - The Hunter's Triumph"
+  setting:
+    time: "Late 1590s, evening"
+    location: "Massive ceremonial hall in Elsinore Castle after the play has ended"
+    weather: ""
+  characters:
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Center of now-empty hall, arms spread wide in victory"
+      action: "Laughing with manic joy, spinning to address absent uncle with vindicated triumph"
+    - appearance: "Man around 30 years, average build, calm and balanced face, intelligent eyes, trustworthy expression reflecting reason and loyalty"
+      clothing: "Modest dark scholar's attire from Wittenberg, less ornate than court dress, practical and simple emphasizing he's not part of corrupt court"
+      position: "Standing nearby, watching with mixture of relief and concern"
+      action: "Nodding confirmation of what they both witnessed while studying Hamlet's intense celebration"
+  scene:
+    mainElements: "Empty theater space with scattered chairs, abandoned stage, flickering torches, remnants of court panic"
+    details: "The hall now empty after Claudius's panicked exit becomes Hamlet's moment of vindication. His black mourning attire contrasts with the theatrical chaos he has created. The abandoned royal seats and scattered props evidence his successful trap."
+    background: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+    atmosphere: "Triumphant revelation in aftermath of chaos, truth finally emerging from theatrical deception"
+  composition:
+    cameraAngle: "Wide shot showing Hamlet's victory celebration in emptied hall"
+    focus: "Hamlet's vindicated joy contrasted with debris of his successful psychological warfare"
+    depth: "Foreground shows celebrating Hamlet, middle shows scattered theatrical remnants, background shows abandoned royal thrones"

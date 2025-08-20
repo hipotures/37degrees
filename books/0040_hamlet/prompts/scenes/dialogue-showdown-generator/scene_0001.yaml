@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "First Encounter - The Court Presentation"
+  setting:
+    time: "Late 1590s, afternoon"
+    location: "Massive ceremonial hall in Elsinore Castle, over 60 meters long, representing seat of Danish royal power"
+    weather: ""
+  characters:
+    - appearance: "Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace, possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual"
+      clothing: "Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains, and jewels, manifesting power and attempting to legitimize his reign"
+      position: "Standing regally beside throne on raised dais, addressing court"
+      action: "Delivering public speech about his marriage and royal duties, gestures of authority and control"
+    - appearance: "Woman aged 45-50 years, royal bearing and attractive, full figure, face showing possible weakness or sensuality, needing to be center of male attention"
+      clothing: "Luxurious, fashionable gowns in rich jeweled colors, much jewelry, quickly abandoning mourning dress for wedding attire symbolizing moral weakness in Hamlet's eyes"
+      position: "Seated on throne beside Claudius, elevated on dais"
+      action: "Listening attentively to her new husband, occasionally glancing toward her son with concern"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Standing apart from colorful courtiers, isolated in his black attire"
+      action: "Listening with visible tension, jaw clenched, eyes narrowed with barely concealed disgust"
+  scene:
+    mainElements: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+    details: "Assembled court in bright ceremonial dress creates stark contrast with Hamlet's mourning black. Claudius speaks of necessity and duty while Hamlet's body language communicates rejection and anger. Distance between throne and where Hamlet stands emphasizes his alienation from this new order."
+    background: "Formal grandeur masking underlying tension, false gaiety of Claudius's court, public spectacle of power hiding private corruption"
+    atmosphere: "Surface formality concealing deep familial and political tensions, ceremonial pomp undermined by one figure's visible dissent"
+  composition:
+    cameraAngle: "Wide establishing shot capturing full court hierarchy and Hamlet's isolation"
+    focus: "Contrast between royal couple's elevated position and Hamlet's separated stance"
+    depth: "Foreground shows Hamlet's black figure, middle shows colorful court assembly, background shows thrones and tapestries"

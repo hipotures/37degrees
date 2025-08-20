@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1805, late spring
+    location: vast Russian countryside several days journey from Moscow, ancient oak tree standing alone in meadow surrounded
+      by birch groves
+    weather: warm spring morning with fresh green leaves emerging from branches
+  characters:
+  - appearance: very handsome man of average height in his late 20s, with resolute and sharply defined features, expression
+      of weariness and intellectual superiority, pale complexion
+    clothing: civilian traveling clothes in dark blue wool, riding boots, leather gloves removed and held in one hand
+    position: standing close to massive oak trunk, one hand placed flat against rough bark
+    action: leaning against tree in moment of philosophical contemplation, eyes closed as if listening to ancient wisdom within
+      the wood
+  scene:
+    mainElements: enormous oak tree with trunk several meters in diameter, gnarled branches reaching toward sky some bare
+      and some showing tiny new buds, spreading root system visible at ground level, meadow grass beginning to green around
+      base, no text or letters visible
+    details: deeply furrowed bark showing centuries of growth and weather, hollow spaces where branches once grew, fresh moss
+      growing in bark crevices, tiny wildflowers scattered in grass around roots, young birch saplings in middle distance
+      showing contrast between ancient permanence and fresh growth, no text or letters visible
+    background: rolling Russian countryside extending to horizon, birch forest creating light green backdrop, distant farmland
+      with wooden structures barely visible, sky with high white clouds
+    atmosphere: profound sense of natural time spanning centuries, juxtaposition of human lifetime against tree's ancient
+      endurance, spring renewal carrying echoes of countless previous seasons, silent communion between man and nature transcending
+      individual existence, no text or letters visible
+  composition:
+    cameraAngle: low angle emphasizing tree's massive scale and age relative to human figure
+    focus: the relationship between human transience and natural permanence
+    depth: foreground shows detailed bark texture and human contact, middle ground reveals tree's full magnificent structure,
+      background extends to endless countryside suggesting continuity beyond immediate scene, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

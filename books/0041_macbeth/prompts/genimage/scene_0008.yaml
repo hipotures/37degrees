@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, moment before dawn with first pale light
+    location: Threshold of victim's chamber door with symbolic gateway elements
+    weather: Absolute stillness before storm, air thick with anticipation
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Stands at doorway threshold, one foot in corridor of past, one foot crossing into chamber of transformed future
+    action: Pauses with hand on door latch, taking final breath before abandoning old identity and embracing new role as agent
+      of necessary change
+  scene:
+    mainElements: Heavy wooden door carved with religious symbols and family crests stands partially open, revealing darkness
+      beyond. Stone archway frames threshold moment, torchlight from corridor casting long shadow forward into unknown future
+    details: Door handle worn smooth by countless innocent entrances and exits now serves final, irreversible purpose. Carved
+      wooden crosses and protective symbols on door frame provide no barrier to determined will. Through gap, sleeping chamber
+      visible with unconscious victim representing all corrupt authority that must be removed. Tools of transformation ready
+      in hand
+    background: Corridor behind represents world of moral constraint and social order about to be abandoned. Chamber ahead
+      promises new reality where necessary action replaces paralyzed conscience. Dawn light begins to penetrate narrow windows,
+      suggesting birth of new order
+    atmosphere: Moment crystallizes choice between continued complicity with corrupt system and decisive action to create
+      better world. Stepping across threshold means death of naive believer in established order and birth of practical reformer
+      willing to use any means for just ends. Freedom lies in embracing this necessary transformation
+  composition:
+    cameraAngle: Low angle from behind looking through doorway toward moment of choice
+    focus: Threshold itself as symbolic boundary between old and new moral reality
+    depth: Foreground shows familiar world being left behind, middle ground captures moment of transformation, background
+      reveals unknown territory requiring courage to enter
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

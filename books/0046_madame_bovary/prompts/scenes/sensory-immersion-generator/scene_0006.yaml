@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dancers' movements echoing violin strings while dust jumps on surfaces"
+  setting:
+    time: "1840s evening, aristocratic ball at height of festivities"
+    location: "Arystokratyczna posiadłość w stylu włoskim w normandzkiej wsi, nowoczesny zamek z dwiema oficynami, marmurowe posadzki i wysokie sufity z boazeriami"
+    weather: "Clear evening with warm air circulating through ballroom"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Wykwintna suknia z bladożółtego szafranu ozdobiona trzema bukietami różowych pomponów z zielonymi dodatkami, we włosach róża ze sztucznymi kroplami rosy"
+      position: "Dancing waltz in center of ballroom, spinning in perfect synchronization with music"
+      action: "Whirling in three-quarter time, silk skirts flowing in musical rhythm, arms moving in harmony with violin melody"
+    - appearance: "Multiple aristocratic dancers, elegant men and women in formal evening wear"
+      clothing: "Men in black tailcoats, women in colorful silk ball gowns"
+      position: "Filling ballroom floor in coordinated waltz patterns"
+      action: "Dancing in synchronized waves across floor, creating visual rhythm matching musical tempo"
+  scene:
+    mainElements: "Jasno oświetlone sale balowe z setkami świec w kandelabrach i żyrandolach, światło odbijające się w lustrach srebrnych zastawach i kryształach, długie stoły jajalne, stoły bilardowe, portrety przodków na ścianach - dancers moving like living violin strings, dust particles jumping and dancing in air from vibrations"
+    details: "Bodies swaying and turning in perfect three-quarter rhythm mimicking violin bow strokes, silk gowns flowing like sound waves made visible, dust motes on marble surfaces bouncing and leaping in response to musical vibrations, chandeliers swaying slightly from rhythm of dancing feet, crystal glasses on tables trembling with bass notes, shadows of dancers undulating across walls like visual music, mirrors reflecting multiplied movement creating echo effect, couples spinning in mathematical precision suggesting musical notation, no text or letters visible"
+    background: "Ciepłe złociste światło od setek świec, błysk srebra, kryształu, diamentów - magnificent ballroom with orchestral alcove, musicians with gleaming instruments"
+    atmosphere: "Magiczna olśniewająca atmosfera luksusu i bogactwa - music made visible through synchronized human movement, sound transformed into elegant visual patterns, harmonic beauty expressed through coordinated motion and environmental response"
+  composition:
+    cameraAngle: "Overhead shot capturing synchronized movement patterns across ballroom floor"
+    focus: "Dancers creating visual rhythm, dust particles responding to sound vibrations"
+    depth: "Foreground: dancing dust in air, middle ground: whirling couples, background: musicians and shimmering ballroom"

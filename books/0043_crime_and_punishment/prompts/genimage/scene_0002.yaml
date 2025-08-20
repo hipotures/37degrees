@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: July 1865, blazing midday sun
+    location: Streets and squares of St. Petersburg during oppressive July heat wave, 1865
+    weather: Suffocating heat creating visible air distortion, no breeze, sun beating down mercilessly
+  characters:
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Walking among the crowd but feeling completely isolated and exposed
+    action: Moving through packed streets while paranoid every face in the crowd is watching and judging him, unconsciously
+      touching his coat pocket where he hides stolen items
+  scene:
+    mainElements: Suffocating heat creating visible air distortion, dust from constant construction covering everything with
+      lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg
+      stench from canals cheap alcohol and human sweat
+    details: From Raskolnikov's feverish perspective, every passerby appears to stare accusingly - merchants' eyes seem to
+      pierce through him, workers' faces twist into knowing sneers, even children point at his guilt. The crowd becomes a
+      living organism that threatens to expose and crush him. Street dust coats everything in sickly yellow film matching
+      his internal state of decay. Construction noise pounds in his head like hammers of judgment
+    background: Buildings lean inward creating canyon-like effect, trapping heat and humanity in claustrophobic maze, scaffolding
+      and lime dust creating apocalyptic industrial landscape
+    atmosphere: Sensory overload environment that attacks all senses, city functioning as living antagonist that oppresses
+      and sickens its inhabitants, external heat mirroring internal fever of madness. Every sound seems amplified and threatening,
+      every smell nauseating and accusatory
+  composition:
+    cameraAngle: Raskolnikov's eye level but tilted slightly, showing his disoriented mental state as he navigates through
+      crowd
+    focus: Raskolnikov's haunted face in center of frame with blurred threatening faces surrounding him on all sides
+    depth: Foreground shows reaching hands and staring eyes of crowd members, middle ground captures Raskolnikov's isolated
+      figure, background reveals oppressive architecture and yellow dust haze, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

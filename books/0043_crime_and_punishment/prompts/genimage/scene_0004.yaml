@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: July 1865, afternoon interrogation hour
+    location: Government office building in St. Petersburg, bureaucratic interior reflecting Russian imperial administration
+    weather: Stuffy indoor air with no circulation, heat trapped inside building
+  characters:
+  - appearance: Thirty-five years old, short and plump man with a small belly, yellowish sickly complexion, short-cropped
+      hair, almost white eyelashes, round puffy face with intelligent watery eyes that constantly blink as if conspiratorially
+    clothing: Clean and well-maintained clothing appropriate for a government official, possibly wearing a dressing gown when
+      at home
+    position: Standing behind his desk but constantly moving, circling around the room like predator
+    action: Pacing slowly around Raskolnikov with calculating movements, hands gesturing with deceptive casualness while eyes
+      never stop analyzing
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Seated rigidly in chair, trying to maintain composure while feeling increasingly trapped
+    action: Attempting to appear calm while paranoia builds, unconsciously gripping chair arms, eyes darting to track Porfiry's
+      movements
+  scene:
+    mainElements: Official desks with papers and documents, chairs for visitors, yellow glass with yellow water symbolizing
+      institutional corruption, formal governmental atmosphere with portraits and official decorations
+    details: From Raskolnikov's terrified perspective, Porfiry appears to grow larger and more menacing as he circles, his
+      watery eyes becoming predatory and omniscient. The office transforms into a web with Porfiry as the spider, papers on
+      desk seeming to contain accusations, official portraits watching judgmentally. Every blink of Porfiry's white eyelashes
+      appears calculated and knowing
+    background: Government office walls seem to close in, official decorations and portraits becoming gallery of accusers,
+      yellow tinge to everything suggesting corruption and sickness
+    atmosphere: Intimidating bureaucratic environment designed to make citizens feel powerless, yellow-tinted details connecting
+      to overall symbolic color scheme of sickness and moral decay. Air becomes increasingly oppressive as psychological tension
+      mounts
+  composition:
+    cameraAngle: Tilted slightly upward from Raskolnikov's seated position, emphasizing Porfiry's looming presence and authority
+    focus: Porfiry's intense blinking eyes and knowing smile as he circles, while Raskolnikov remains trapped in center of
+      frame
+    depth: Foreground shows Raskolnikov's white knuckles gripping chair, middle ground captures Porfiry's predatory movement,
+      background reveals oppressive official atmosphere with watching portraits, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

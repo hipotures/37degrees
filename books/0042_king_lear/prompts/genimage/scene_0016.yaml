@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, pre-dawn darkness
+    location: Desolate moorland in ancient Britain, endless barren landscape of rough grassland, heather, and scattered rocks
+      with no shelter from elements
+    weather: Wild, primitive, apocalyptic during storm with howling winds, driving rain, and constant thunder and lightning
+      illuminating the wasteland
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Soaked rags clinging to aged frame, no longer recognizable as royal garments
+    position: Standing on open moorland, facing identical figure in distance
+    action: Approaching his own double with mixture of recognition and horror
+  - appearance: Figure identical to Lear but representing his worst aspects - more bent, more wild-eyed, crowned with thorns
+      and weeds
+    clothing: Grotesque parody of royal robes, tattered and stained with mud and darker substances
+    position: Standing motionless until Lear approaches, then moving to mirror his actions
+    action: Speaking words Lear thinks but dares not say aloud, representing his suppressed cruelty and vanity
+  scene:
+    mainElements: Rolling hills covered in coarse vegetation, twisted shrubs, rocky outcroppings, muddy ground with standing
+      water, single ramshackle hovel built of sticks and sod
+    details: Two figures confronting each other on barren heath, one real and one representing dark psychological projection.
+      Grotesque crown woven from weeds, thistles, nettles and other poisonous plants representing twisted wisdom gained through
+      madness worn by shadow figure. Lightning illuminating both figures, showing they cast same shadow despite being separate
+      beings
+    background: Desolate landscape stretching to horizon, storm clouds suggesting apocalyptic judgment, no shelter or witness
+      to this internal confrontation
+    atmosphere: Psychological showdown made physical, confrontation with repressed aspects of personality given form. Terror
+      of recognizing oneself in monster, realizing potential for evil that existed within
+  composition:
+    cameraAngle: Medium shots alternating between both figures, emphasizing their similarities and differences
+    focus: Facial expressions showing recognition, horror, and reluctant acceptance
+    depth: Two figures in foreground/middle ground, vast empty landscape emphasizing isolation of this internal battle
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

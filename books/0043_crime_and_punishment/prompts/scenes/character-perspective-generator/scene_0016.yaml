@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Documentary Reality of Raskolnikov's Room"
+  setting:
+    time: "July 1865, neutral observation hour"
+    location: "Tiny cramped attic room in a tenement building in St. Petersburg slums, July 1865"
+    weather: "Measured temperature of 28 degrees Celsius, humidity at 75 percent"
+  characters:
+    - appearance: "Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow during illness"
+      clothing: "Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly groomed appearance"
+      position: "Lying on couch in exactly measured position"
+      action: "Existing in documented state of physical and mental deterioration without romantic interpretation"
+  scene:
+    mainElements: "Extremely small coffin-like space barely six steps long, oppressively low ceiling that tall person would hit their head on, dominant feature of dusty yellow wallpaper peeling from walls. Room measures 2.1 meters by 3.8 meters, ceiling height 2.3 meters"
+    details: "Objective documentation reveals room's actual physical dimensions without emotional coloring - precisely measured space, actual temperature and humidity readings, documented state of wallpaper deterioration, catalogued furniture condition. No psychological interpretation or symbolic meaning applied, simply factual record of environment and its measurable effects on human physiology"
+    background: "Building constructed 1847, fourth floor walkup, structural deterioration documented, neighboring units showing similar conditions of poverty and overcrowding"
+    atmosphere: "Neutral scientific observation without emotional bias, environmental conditions measured and recorded as objective data affecting human health and behavior"
+  composition:
+    cameraAngle: "Clinical documentary perspective maintaining emotional distance and objective measurement"
+    focus: "Precise physical documentation of living conditions and their measurable impact on human subject"
+    depth: "Foreground shows measuring instruments and documentation tools, middle ground captures subject in environment, background provides architectural and structural context, no text or letters visible"

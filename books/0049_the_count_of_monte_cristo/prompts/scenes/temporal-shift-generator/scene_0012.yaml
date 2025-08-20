@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Wedding Traditions - Three Generations of Mercy"
+  setting:
+    time: "1790, 1815, and 1838 superimposed"
+    location: "Small Catalan church in Marseilles fishing district"
+    weather: "Three different lighting conditions showing different seasons of marriage"
+  characters:
+    - appearance: "17-year-old beautiful girl with hair black as ebony and velvet eyes like a gazelle. Olive complexion, slender tanned arms modeled after Venus of Arles. Natural, somewhat wild beauty typical of Mediterranean women"
+      clothing: "Traditional Catalan folk costume - simple skirt, white shirt, colorful bodice. Red cotton stocking with grey and blue pattern. Bright, cheerful colors reflecting her joyful spirit and cultural heritage"
+      position: "Standing at altar with radiant smile, surrounded by family"
+      action: "Young Mercédès in wedding ceremony that never happened with Edmond"
+    - appearance: "Woman in her early 40s who retains her beauty but marked by deep, permanent sadness. Still black hair and dark eyes, but now pale complexion. Her movements are slow and dignified, eyes have lost their youthful sparkle"
+      clothing: "Elegant Parisian fashion of 1830s - rich silk and velvet gowns with huge puffed sleeves, very narrow corseted waist, wide dome-shaped skirts. Muted color palette - pearl greys, deep violets, navy blues reflecting her inner melancholy"
+      position: "Same altar position but in different ceremony, expression showing resignation rather than joy"
+      action: "Mature Mercédès marrying Fernand in ceremony born of desperation rather than love"
+    - appearance: "Elderly woman showing same bone structure but aged by sorrow, white hair and deeply lined face"
+      clothing: "Simple black widow's attire, humble and unadorned"
+      position: "Same altar but now alone, lighting candle in solitary prayer"
+      action: "Elderly Mercédès seeking forgiveness and peace in same sacred space"
+  scene:
+    mainElements: "Simple stone church with wooden pews, carved altar, religious artifacts accumulating across generations, stained glass windows showing different light quality through decades"
+    details: "Same altar showing wear from countless ceremonies, wooden pews polished smooth by generations of worshippers, candles burned down and replaced countless times, prayer books aged and replaced, stone floor worn smooth by generations of brides"
+    background: "Church interior unchanged in architecture but aged in detail, same religious scenes painted on walls but faded and restored across decades"
+    atmosphere: "Sacred space witnessing three generations of women seeking blessing for different kinds of love - passionate youth, resigned compromise, lonely repentance. Incense and prayer creating continuity across time, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot down church aisle showing three temporal layers at altar"
+    focus: "Three generations of same woman in same sacred space, showing how love transforms across lifetime"
+    depth: "Foreground shows church pews and congregation, middle ground captures altar ceremonies across time, background reveals unchanging religious architecture"

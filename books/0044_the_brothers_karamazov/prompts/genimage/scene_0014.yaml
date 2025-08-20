@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, night continuing
+    location: Gruszeńka's house interior, intimate conversation space
+    weather: Dark night providing privacy for confession
+  characters:
+  - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly
+      exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+    clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality
+      and newfound wealth
+    position: Seated at respectful distance, posture showing vulnerability and openness
+    action: Telling parable of sinful woman and single onion with tears and genuine emotion
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Listening intently, leaning forward with renewed spiritual interest
+    action: Face showing recognition of spiritual truth in unexpected source, faith beginning to heal
+  scene:
+    mainElements: Intimate domestic space transformed into confessional, candlelight creating sacred atmosphere for shared
+      spiritual story, simple furniture witnessing profound exchange
+    details: Soft candlelight illuminating tear-streaked faces, worldly decorations fading into background as spiritual story
+      unfolds, atmosphere of sanctuary rather than seduction
+    background: Expensive furnishings becoming irrelevant to spiritual exchange, night providing privacy for authentic encounter,
+      space feeling enlarged by spiritual significance
+    atmosphere: Worldly woman revealing spiritual truth, unlikely teacher offering lesson in redemption, expected corruption
+      becoming source of grace
+  composition:
+    cameraAngle: Close intimate shots emphasizing spiritual exchange between unlikely teacher and student
+    focus: Gruszeńka's face showing authentic spiritual feeling beneath worldly exterior
+    depth: Foreground shows shared spiritual moment, middle ground captures transformed relationship, background shows worldly
+      setting redeemed by spiritual truth
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

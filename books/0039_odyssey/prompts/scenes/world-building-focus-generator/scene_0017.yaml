@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Hidden Harbor for Clandestine Maritime Activities"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, twilight hour"
+    location: "Concealed cove on remote side of Greek island, protected harbor used for discrete activities away from main settlement"
+    weather: "Calm evening with fading light and rising mist obscuring visibility"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Small natural harbor hidden between high cliffs, dark-hulled vessels designed for stealth rather than display, primitive wooden dock structures built into rock formations, covered storage areas carved into cliff faces, lookout positions commanding views of surrounding waters"
+    details: "Ships with blackened hulls and dark sails for night sailing, bronze weapons secured in waterproof containers, ceramic vessels containing valuable trade goods, rope and leather equipment for rapid loading and departure, bronze navigation instruments including sun compasses and measuring devices, emergency supplies cached in cliff-side caves, signal fires prepared but unlit for communication, water barrels and provisions for extended voyages"
+    background: "Steep limestone cliffs providing natural concealment, narrow entrance channel difficult for large vessels to navigate, Mediterranean pine forests extending to cliff edges, distant islands barely visible through evening haze"
+    atmosphere: "Secretive maritime operations conducted away from official oversight, tension between legitimate trade and dangerous ventures, misty twilight creating atmosphere of mystery and concealment, sense of Bronze Age world containing both civilization and lawlessness"
+  composition:
+    cameraAngle: "Elevated view from cliff edge looking down into hidden harbor"
+    focus: "Central harbor area with concealed vessels and clandestine infrastructure"
+    depth: "Foreground: cliff-top vegetation and lookout positions, middle ground: harbor and vessel details, background: open sea and distant islands"

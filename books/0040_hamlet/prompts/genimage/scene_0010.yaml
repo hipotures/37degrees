@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1590s, evening
+    location: Private royal chamber in Elsinore Castle, intimate space away from court
+    weather: ''
+  characters:
+  - appearance: Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace,
+      possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual
+    clothing: Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains,
+      and jewels, manifesting power and attempting to legitimize his reign
+    position: Seated in ornate chair, momentarily unguarded
+    action: Face revealing genuine terror for split second before royal mask reassembles, hand gripping armrest with white
+      knuckles
+  - appearance: Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair
+      in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to
+      sudden fury
+    clothing: Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court
+    position: Standing in doorway, having just spoken
+    action: Watching intently as uncle's composure cracks, eyes sharpening like predator sensing weakness
+  scene:
+    mainElements: Richly appointed private chamber with tapestries, ornate furniture, royal luxury
+    details: For one unguarded moment, Claudius's political mask drops and raw fear shows through. His grip on chair betrays
+      inner terror while Hamlet observes this crucial revelation. The private setting allows honest emotion to briefly surface
+      before public performance reasserts control.
+    background: Luxurious royal quarters emphasizing Claudius's stolen position and guilty privilege
+    atmosphere: Moment of psychological truth in sea of political deception, authentic fear breaking through performed confidence
+  composition:
+    cameraAngle: Close-up on Claudius's face capturing fleeting moment of revealed terror
+    focus: Micro-expression of genuine fear before royal composure returns
+    depth: Sharp focus on Claudius's fearful expression, Hamlet slightly blurred in background doorway
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

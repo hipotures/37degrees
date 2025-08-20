@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: July 1865, evening lamplight
+    location: Barn-like room with bizarre geometry in old three-story green house overlooking canal in St. Petersburg, July
+      1865
+    weather: Evening air bringing slight relief from day's heat
+  characters:
+  - appearance: Eighteen-year-old girl, small and thin build, fair blonde hair, gentle blue eyes that reflect purity despite
+      her circumstances, youthful face marked by suffering and humility
+    clothing: Simple, modest, poor but clean clothing that reveals her true nature
+    position: Sitting at simple pine table reading by candlelight, positioned near the three windows
+    action: Reading holy scripture with profound concentration, occasionally looking up with compassionate understanding
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Standing hesitantly in doorway, leaning forward with desperate hope
+    action: Watching Sonia with mixture of desperate need and unworthiness, hands trembling with suppressed confession
+  scene:
+    mainElements: Large but very low-ceilinged space forming irregular quadrilateral, one wall runs diagonally creating sharp
+      acute angle disappearing into darkness and obtuse angle grotesquely wide, three windows facing canal, sparse furniture
+      including bed, chair, simple pine table with blue cloth, small dresser lost in emptiness
+    details: Through Raskolnikov's tormented perception, Sonia appears surrounded by soft golden light from the single candle
+      that transforms the grotesque room into something sacred. The bizarre angular geometry that normally disturbs becomes
+      mysteriously harmonious around her presence. Her humble clothing seems to glow with inner purity while the yellow wallpaper
+      fades into background insignificance
+    background: Canal waters visible through three windows reflect candlelight like stars, creating ethereal backdrop, while
+      room's harsh angles soften in the warm light
+    atmosphere: Grotesque distorted space reflecting occupant's twisted social position, physical deformity of room mirrors
+      moral distortion of circumstances while maintaining potential for sanctity. Despite architectural oppression, spiritual
+      light transforms environment into sanctuary of hope and redemption
+  composition:
+    cameraAngle: Raskolnikov's eye level looking across room, capturing both the geometric distortion and Sonia's transformative
+      presence
+    focus: Sonia illuminated by candlelight reading scripture, her face showing divine compassion and understanding
+    depth: Foreground shows Raskolnikov's shadowy figure reaching toward light, middle ground captures Sonia's luminous presence
+      at table, background reveals irregular walls that seem to bend protectively around her, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

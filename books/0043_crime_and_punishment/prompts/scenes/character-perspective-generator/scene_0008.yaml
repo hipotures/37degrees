@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Svidrigailov's Predatory Assessment of Sonia"
+  setting:
+    time: "July 1865, calculated evening observation"
+    location: "Barn-like room with bizarre geometry in old three-story green house overlooking canal in St. Petersburg, July 1865"
+    weather: "Humid evening air creating intimate oppressive atmosphere"
+  characters:
+    - appearance: "Man around fifty years old, stocky and broad-shouldered build, light blond hair and beard, face resembling a mask with artificial white and rosy coloring, unnaturally blue eyes with heavy immobile gaze"
+      clothing: "Impeccably dressed in elegant fashionable attire, always maintaining perfect external appearance"
+      position: "Standing in doorway observing with calculated interest, maintaining respectable distance"
+      action: "Evaluating Sonia as potential victim with cold systematic assessment, noting her vulnerability and purity as attractive qualities to corrupt"
+    - appearance: "Eighteen-year-old girl, small and thin build, fair blonde hair, gentle blue eyes that reflect purity despite her circumstances, youthful face marked by suffering and humility"
+      clothing: "Simple, modest, poor but clean clothing that reveals her true nature"
+      position: "Unaware of observation, focused on humble domestic activity"
+      action: "Engaged in simple task like mending clothes or reading, completely innocent of predatory attention"
+  scene:
+    mainElements: "Large but very low-ceilinged space forming irregular quadrilateral, one wall runs diagonally creating sharp acute angle disappearing into darkness and obtuse angle grotesquely wide, three windows facing canal, sparse furniture including bed, chair, simple pine table with blue cloth, small dresser lost in emptiness"
+    details: "From Svidrigailov's calculating predator perspective, the room's grotesque angles become advantages for entrapment, shadows offering concealment, bizarre geometry creating disorientation. Sonia's poverty makes her vulnerable to financial manipulation, her religious faith creates fascinating challenge for corruption, her purity represents ultimate prize for degradation. The room's isolation by the canal provides perfect privacy for anticipated seduction"
+    background: "Canal waters reflecting evening light create romantic setting that masks sinister intentions, room's irregularity suggesting moral distortion"
+    atmosphere: "Calculated predatory interest viewing innocence as commodity to be acquired and corrupted, room's physical deformity reflecting observer's moral depravity"
+  composition:
+    cameraAngle: "Svidrigailov's predatory perspective from doorway, examining victim with systematic calculation"
+    focus: "Sonia's innocent vulnerability contrasted with room's threatening irregular geometry"
+    depth: "Foreground shows Svidrigailov's elegant but menacing presence, middle ground captures Sonia's unaware innocence, background reveals room's twisted angles as psychological trap, no text or letters visible"

@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, height of storm
+    location: Desolate moorland in ancient Britain, endless barren landscape of rough grassland, heather, and scattered rocks
+      with no shelter from elements
+    weather: Wild, primitive, apocalyptic during storm with howling winds, driving rain, and constant thunder and lightning
+      illuminating the wasteland
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Soaked rags clinging to aged frame, no longer recognizable as royal garments
+    position: Surrounded by figures from his past, turning frantically between them
+    action: Attempting to speak to memories, reaching for figures that dissolve when touched
+  - appearance: Young woman around 20-22 years old, slender build with natural grace and dignity. Noble features with honest,
+      direct gaze. Fair complexion with light brown or blonde hair
+    clothing: Simple yet elegant court dress in modest colors like cream, pale blue, or soft green
+    position: Standing at distance, neither approaching nor retreating
+    action: Speaking words from their final confrontation, face showing disappointment and love
+  - appearance: Figures from Lear's past appearing as translucent projections - his deceased queen, younger versions of his
+      daughters, trusted advisors he dismissed
+    clothing: Period dress from different eras of his reign, some appearing in funeral shrouds
+    position: Arranged in circle around him, each representing different failure or loss
+    action: Repeating words from past confrontations, displaying wounds his decisions created
+  scene:
+    mainElements: Rolling hills covered in coarse vegetation, twisted shrubs, rocky outcroppings, muddy ground with standing
+      water, single ramshackle hovel built of sticks and sod
+    details: Past events playing out simultaneously in present moment, traumatic memories given physical form. Figures appear
+      solid but fade when approached, representing inability to change past actions. Storm providing dramatic lighting that
+      makes memories appear and disappear
+    background: Desolate landscape now populated by ghostly scenes from throne room, family gatherings, moments of decision
+      that led to current tragedy
+    atmosphere: Past invading present, making linear time meaningless. Regret and guilt given form through supernatural manifestation
+      of memory. No escape from consequences of past actions
+  composition:
+    cameraAngle: Wide shots showing Lear surrounded by his past, close-ups on individual memory figures
+    focus: Interaction between present Lear and manifestations of his past mistakes
+    depth: Multiple temporal planes existing simultaneously - present Lear, past events, timeless landscape
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

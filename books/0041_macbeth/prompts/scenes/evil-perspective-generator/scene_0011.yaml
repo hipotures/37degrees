@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Noble Words Without Noble Deeds"
+  setting:
+    time: "11th century Scotland, evening during court assembly"
+    location: "Great hall where court gathers to hear royal proclamations"
+    weather: "Clear twilight with first stars appearing in darkening sky"
+  characters:
+    - appearance: "Young man around 20-25 years with slight build but bearing royal authority. Face shows youth and inexperience beneath crown's weight"
+      clothing: "Fine royal garments in bright colors, new crown that gleams in torchlight, costly fabrics that have never known hardship"
+      position: "Stands on raised dais addressing assembled court with grand gestures"
+      action: "Proclaims new laws protecting innocent while surrounded by guards who will violently enforce those same laws tomorrow"
+  scene:
+    mainElements: "Torch-lit great hall filled with nobles in rich clothing, royal dais elevated above audience, banners displaying royal arms and noble crests. Assembled court listens to proclamation with ceremonial attention"
+    details: "Young ruler speaks passionately about justice and mercy while courtiers nod approval, none mentioning that yesterday's executions violated every principle being proclaimed today. Guards who will torture confessions from innocent suspects tomorrow stand at attention during speech about protecting the weak. Nobles who profit from slavery applaud declaration that all men deserve freedom"
+    background: "Tapestries depict legendary heroes and saints whose teachings are praised in words but ignored in practice. Through arched doorways, shadows suggest dungeons where proclamation's opposite will be practiced. Weapons displayed on walls wait to enforce royal will rather than royal words"
+    atmosphere: "Beautiful ideals serve as decoration for ugly realities, allowing speakers and listeners to feel virtuous while changing nothing about systematic cruelty. Words become substitute for action, rhetoric replaces reform, and good intentions excuse bad outcomes"
+  composition:
+    cameraAngle: "View from crowd looking up at elevated speaker surrounded by symbols of power"
+    focus: "Contrast between noble proclamation and ignoble enforcers surrounding speaker"
+    depth: "Foreground shows audience accepting noble words, middle ground reveals speaker believing his own rhetoric, background hints at violent machinery that will contradict every promise"

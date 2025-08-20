@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Underground Knowledge - Secret Book Circulation"
+  setting:
+    time: "1831, late evening in clandestine meeting"
+    location: "Hidden cellar beneath Paris bookshop, secret library of forbidden works"
+    weather: "Interior scene with candle illumination creating dramatic shadows"
+  characters:
+    - appearance: "Underground librarian with ink-stained fingers, face showing dedication to preserving forbidden knowledge"
+      clothing: "Simple scholar's attire darkened by years of secret work, practical clothing suitable for hiding dangerous books"
+      position: "Seated at makeshift desk surrounded by banned publications"
+      action: "Copying forbidden texts by hand, preparing multiple versions for secret distribution despite legal punishment"
+    - appearance: "Young student receiving contraband book, expression mixing excitement with fear of possession"
+      clothing: "Student's black coat with hidden inner pockets for concealing forbidden literature, ordinary appearance concealing revolutionary reading"
+      position: "Standing beside secret library receiving dangerous knowledge"
+      action: "Accepting banned book with reverent care, preparing to risk imprisonment for access to forbidden ideas"
+  scene:
+    mainElements: "Shelves lined with prohibited books and pamphlets, secret copying desk with multiple manuscripts, single candle providing concealed illumination"
+    details: "Banned works by forbidden authors, revolutionary pamphlets copied by hand for distribution, hiding places built into false walls. Emergency procedures for destroying evidence, network of coded messages connecting underground readers, special bookmarks indicating dangerous passages"
+    background: "Stone cellar walls with moisture stains, legitimate books stored above providing cover story, tunnel connections for emergency escape"
+    atmosphere: "Intellectual resistance maintaining forbidden knowledge despite official censorship, dangerous dedication to preserving suppressed truth"
+  composition:
+    cameraAngle: "Intimate interior view emphasizing secretive knowledge preservation"
+    focus: "Forbidden book as symbol of intellectual resistance"
+    depth: "Knowledge transaction in foreground, hidden library in middle ground, concealment system in background protecting dangerous ideas from official destruction"

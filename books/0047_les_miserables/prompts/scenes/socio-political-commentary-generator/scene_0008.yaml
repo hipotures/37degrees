@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Two Worlds Collide - Luxury Beside Squalor"
+  setting:
+    time: "1827, afternoon contrast in Paris neighborhoods"
+    location: "Street boundary between wealthy Faubourg Saint-Germain and impoverished Faubourg Saint-Antoine"
+    weather: "Bright afternoon sunlight revealing stark contrasts"
+  characters:
+    - appearance: "Elegantly dressed aristocratic lady stepping from private carriage, refined features showing delicate upbringing"
+      clothing: "Silk dress with intricate embroidery, fur-trimmed velvet cloak, satin slippers unsuitable for walking on rough streets"
+      position: "Descending from luxurious carriage at intersection"
+      action: "Lifting skirts to avoid street dirt, turning face away from unpleasant sights, hurrying toward wealthy district"
+    - appearance: "Ragged woman with hollow cheeks and desperate expression, physical deterioration from chronic hunger"
+      clothing: "Threadbare dress with visible patches, torn shawl providing inadequate warmth, broken shoes revealing bare feet"
+      position: "Standing at corner edge of poverty district"
+      action: "Extending thin hand requesting charity, eyes following expensive carriage with mixture of envy and despair"
+  scene:
+    mainElements: "Sharp visual division where elegant cobblestone meets broken pavement, ornate street lamp beside simple post, manicured trees contrasting with bare branches"
+    details: "Luxury carriage with gold fittings and liveried driver, while broken cart with missing wheel sits abandoned nearby. Clean glass windows reflecting sunlight on wealthy side, while shuttered or broken windows characterize poor area. Fresh flowers in wealthy district window boxes contrast with weeds growing through poor district cobblestones"
+    background: "Magnificent townhouse mansions with classical facades on one side, crumbling tenements with laundry hanging from windows on other side"
+    atmosphere: "Shocking juxtaposition revealing systematic inequality, geographic proximity emphasizing social chasm between classes sharing same city"
+  composition:
+    cameraAngle: "Wide angle capturing entire street division in single frame"
+    focus: "Sharp boundary line between worlds as central element"
+    depth: "Contrasting figures in foreground, dividing street in middle ground, opposed architectural styles in background demonstrating institutionalized inequality"

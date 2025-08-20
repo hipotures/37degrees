@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty theater with dust motes floating undisturbed in perfect stillness"
+  setting:
+    time: "1840s afternoon, during opera intermission"
+    location: "Grand opera house in Rouen, capital of Normandy, empty auditorium"
+    weather: "Indoor environment with filtered daylight through tall windows"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Elegant opera dress suitable for city theater, silk gloves, small opera glasses"
+      position: "Sitting alone in red velvet box seat, completely motionless"
+      action: "Staring at empty stage with absolute stillness, holding breath to maintain perfect quiet, only eyes moving to track floating dust"
+  scene:
+    mainElements: "Magnificent empty theater with hundreds of red velvet seats, ornate gold decorations, empty stage with abandoned set pieces, afternoon light streaming through tall windows creating visible dust beams"
+    details: "Thousands of dust particles floating in absolute stillness through shafts of filtered sunlight, motes drifting so slowly they seem suspended in amber, not a single seat cushion moving or curtain stirring, dust patterns so undisturbed they form perfect geometric shapes in light beams, air so motionless that dust creates three-dimensional sculptures, abandoned opera glasses on seat rests catching light without trembling, silk curtains hanging like frozen waterfalls, empty orchestra pit with instruments covered in fine dust coating, stage sets casting shadows that haven't shifted in hours, no text or letters visible"
+    background: "Grand Norman opera house architecture with ornate boxes, painted ceiling, crystal chandeliers hanging motionless"
+    atmosphere: "Cathedral-like reverence for perfect stillness, dust motes becoming visible meditation objects, silence so complete it seems sacred, emptiness creating a vacuum where even air appears motionless"
+  composition:
+    cameraAngle: "High angle looking down through dust-filled light beams toward stage"
+    focus: "Undisturbed dust patterns floating in geometric formations"
+    depth: "Foreground: detailed dust motes in light beams, middle ground: empty ornate seating, background: abandoned stage and theater architecture"

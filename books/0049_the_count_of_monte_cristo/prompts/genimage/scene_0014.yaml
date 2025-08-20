@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1820 and 1838 military career progression
+    location: Balkan battlefield transitioning to Paris Chamber of Peers
+    weather: Battlefield smoke clearing to reveal formal indoor lighting
+  characters:
+  - appearance: 20-22 years old, tall young man with olive complexion typical of Catalans. Dark hair and eyes, face expressing
+      irritation and anxiety. Strong build from physical labor as fisherman
+    clothing: French military uniform showing recent promotion, epaulettes bright and new, decorations freshly earned from
+      battlefield service
+    position: Standing over defeated enemy commander, sword drawn in moment of victory
+    action: Young Fernand achieving military glory through betraying his patron Ali Pasha
+  - appearance: 45-year-old military man with bearing of French general and peer. Still tall and imposing, dark features now
+      marked by hidden secrets and anxiety. Face shows military pride but underlying nervousness
+    clothing: French general's uniform with epaulettes, military orders and decorations, ceremonial sash. For civilian occasions,
+      formal dark suits befitting a peer of France. Military bearing evident in posture
+    position: Standing in Chamber of Peers facing accusation, military decorations now seeming like weights
+    action: Mature Fernand facing public disgrace as his treacherous past is revealed
+  scene:
+    mainElements: Battlefield scene with smoke and carnage transforming into formal legislative chamber with marble columns
+      and judicial proceedings, military trophies becoming evidence of betrayal
+    details: Same military decorations appearing in both scenes - first as symbols of valor, later as mockery of honor, sword
+      that won glory now powerless against truth, uniform that commanded respect now representing false identity
+    background: Balkan mountains and battle smoke dissolving into formal architecture of French government, foreign battlefield
+      becoming domestic judgment hall
+    atmosphere: Military triumph built on betrayal ultimately leading to social destruction. Battle sounds fading into formal
+      judicial proceedings, smoke of war clearing to reveal harsh light of justice, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing warrior transformed to defendant in parallel poses
+    focus: Same man showing how military success built on treachery leads inevitably to disgrace
+    depth: Foreground shows military symbols of honor and dishonor, middle ground captures figure in triumph and defeat, background
+      reveals transformation from battlefield to courtroom
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

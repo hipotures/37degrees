@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: July 1865, twilight of wisdom observation
+    location: Streets and squares of St. Petersburg during oppressive July heat wave, 1865
+    weather: Evening heat bringing memories of similar summers from decades past
+  characters:
+  - appearance: Elderly woman in her seventies, bent with age, wrinkled face showing decades of experience, gray hair beneath
+      worn headscarf, eyes that have seen much suffering
+    clothing: Simple dark dress of working class elderly woman, worn but dignified, black shawl despite heat
+    position: Sitting on building step watching street activity with ancient patience
+    action: Observing young man with knowing sadness, recognizing familiar pattern of youth destroying itself
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Walking erratically through crowd, unaware of elder's observation
+    action: Moving with fevered agitation and suppressed guilt, displaying behavior elder has witnessed many times before
+  scene:
+    mainElements: Suffocating heat creating visible air distortion, dust from constant construction covering everything with
+      lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg
+      stench from canals cheap alcohol and human sweat
+    details: From elder's experienced perspective, Raskolnikov appears as ghostly echo of countless young men she has watched
+      destroy themselves over decades. His fevered appearance superimposes with memories of sons, brothers, lovers who followed
+      similar paths to ruin. Street scene blends present with past - construction scaffolding becomes gallows from earlier
+      times, taverns transform into places where she lost loved ones to drink and despair
+    background: Present Petersburg overlaying with memories of city across multiple decades, showing how patterns of suffering
+      repeat across generations
+    atmosphere: Profound sadness at witnessing eternal cycle of youth's self-destruction, recognition that current suffering
+      echoes historical patterns of Russian tragedy
+  composition:
+    cameraAngle: Elder's weary but wise perspective observing from position of experience and acceptance
+    focus: Raskolnikov as tragic figure representing countless young men destroyed by pride and circumstances
+    depth: Foreground shows elder's weathered hands folded in resignation, middle ground captures Raskolnikov's fevered movement,
+      background blends present city with ghostly memories, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

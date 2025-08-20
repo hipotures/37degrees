@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1829, evening during public gathering
+    location: Public square during official ceremony, Paris under government surveillance
+    weather: Evening twilight with artificial illumination from torches
+  characters:
+  - appearance: Single individual standing within crowd but completely isolated, face showing internal conflict with surrounding
+      conformity
+    clothing: Simple dark clothing indistinguishable from crowd except for subtle resistance in posture, hands clenched with
+      suppressed emotion
+    position: Surrounded by mass of people but psychologically separated
+    action: Standing silent while others participate in official ceremony, eyes showing doubt and questioning while maintaining
+      external compliance
+  - appearance: Surrounding crowd participating in official demonstration with mechanical enthusiasm
+    clothing: Identical ceremonial garments provided for public display, regulation ribbons and symbols of approved loyalty
+    position: Filling square in organized formation around isolated individual
+    action: Cheering official slogans with practiced enthusiasm, waving approved banners, creating wall of conformity around
+      questioning figure
+  scene:
+    mainElements: Public square filled with organized crowd displaying official enthusiasm, raised platform with authority
+      figures, ceremonial torches creating dramatic lighting
+    details: Official banners displaying government slogans, crowd holding regulation flags and symbols. Platform decorated
+      with portraits of authority figures, speeches amplified through organized cheering responses. Torchlight creating shadows
+      that emphasize individual isolation within mass participation
+    background: Government buildings surrounding square with official decorations, guards positioned to monitor crowd behavior
+      for signs of dissent
+    atmosphere: Individual consciousness struggling against mass psychological pressure, personal doubt existing within environment
+      of enforced public agreement
+  composition:
+    cameraAngle: Close focus on individual figure within crowd context
+    focus: Single questioning face surrounded by conforming mass
+    depth: Isolated individual in foreground, participating crowd in middle ground, controlling authority structures in background
+      representing systematic pressure for conformity
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

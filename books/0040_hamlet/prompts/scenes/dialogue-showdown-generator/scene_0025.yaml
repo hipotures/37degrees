@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The End of Conversation - Fortinbras Arrives"
+  setting:
+    time: "Late 1590s, late afternoon"
+    location: "Massive ceremonial hall in Elsinore Castle after the final tragedy"
+    weather: ""
+  characters:
+    - appearance: "Young man 20-25 years, tall and strong, military bearing, determined face full of ambition, natural leader"
+      clothing: "Military commander's armor, cloak, practical warrior's attire"
+      position: "Standing in great hall doorway with armed soldiers behind him"
+      action: "Surveying scene of carnage with mixture of shock and respect, taking command of shattered kingdom"
+    - appearance: "Man around 30 years, average build, calm and balanced face, intelligent eyes, trustworthy expression reflecting reason and loyalty"
+      clothing: "Modest dark scholar's attire from Wittenberg, less ornate than court dress, practical and simple emphasizing he's not part of corrupt court"
+      position: "Kneeling beside Hamlet's body, only survivor of main players"
+      action: "Looking up at Fortinbras with grief-stricken but resolute expression, ready to tell the true story"
+  scene:
+    mainElements: "Multiple bodies scattered across great hall - Hamlet, Claudius, Gertrude, Laertes, overturned furniture, spilled wine and blood, military banners now visible"
+    details: "The great hall has become charnel house, with four royal bodies testament to corruption's price. Fortinbras's arrival brings military order to political chaos. The conversation between Hamlet and Claudius has finally ended in mutual destruction, leaving silence for new voices."
+    background: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+    atmosphere: "Tragic end of Danish royal line, military order replacing corrupt court, new beginning from total destruction"
+  composition:
+    cameraAngle: "Wide establishing shot showing full scope of destruction and new arrival"
+    focus: "Contrast between multiple death and single surviving witness with new military authority"
+    depth: "Foreground shows scattered bodies, middle shows grieving Horatio, background shows arriving soldiers"

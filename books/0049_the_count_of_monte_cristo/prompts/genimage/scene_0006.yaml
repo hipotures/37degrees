@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1815-1816, winter transitioning to spring
+    location: Fortress prison on rocky island off Marseilles coast, isolated in Mediterranean Sea
+    weather: Harsh winter storms giving way to gentle spring warmth
+  characters:
+  - appearance: 19-year-old sailor, tall and slender build, athletic physique from life at sea. Black hair like raven's wing,
+      naturally tousled by sea wind. Deep black eyes, round and open face with tanned, weathered complexion from sun exposure
+    clothing: Prison rags, torn and patched that original design is barely recognizable. Tattered remains of what might once
+      have been sailor's garments, now reduced to mere scraps
+    position: Crouched in corner of stone cell, hands covering face in despair
+    action: Young prisoner in depths of suicidal depression during first winter of imprisonment
+  scene:
+    mainElements: Grim fortress of thick stone rising from black, threatening rock. Damp corridors, stone staircases, small
+      prison cells. Dantès' cell is small stone chamber with high barred window, straw pallet, wooden stool, clay jug. View
+      of blue sea through bars
+    details: Barred window showing seasonal transformation - winter storms with grey seas and driving rain transitioning to
+      spring with returning seabirds, budding vegetation on distant coastline, ice melting from cell window bars, straw pallet
+      becoming less mouldy as air warms
+    background: Mediterranean vista changing from stormy winter grey to hopeful spring blue, distant Marseilles emerging from
+      seasonal haze as visibility improves
+    atmosphere: Overwhelming isolation and despair gradually lifting with seasonal change. Winter sounds of howling wind and
+      driving rain giving way to spring sounds of returning birds and gentle waves. Cold, damp air slowly warming, bringing
+      subtle hope, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing cell interior with window revealing seasonal transition
+    focus: Prisoner's despair contrasted with nature's renewal visible through bars
+    depth: Foreground shows dark cell interior and suffering figure, middle ground captures barred window frame, background
+      reveals seasonal Mediterranean transformation
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

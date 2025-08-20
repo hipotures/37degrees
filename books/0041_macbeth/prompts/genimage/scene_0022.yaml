@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, peaceful morning in formerly contested territory
+    location: Thriving community that has known only peace under unopposed rule
+    weather: Gentle sunshine illuminating prosperous but complacent settlement
+  characters:
+  - appearance: Man aged 20-25 years with youthful face initially expressing suspicion but gradually gaining royal confidence.
+      Slender but carrying himself with increasing authority as rightful heir assumes power
+    clothing: Rich garments of young prince gradually transitioning to royal robes. Quality fabrics in royal colors showing
+      legitimate claim to throne. Crown fits properly unlike usurper's uncomfortable regalia
+    position: Walks among peaceful citizens who show respect but lack urgent purpose
+    action: Observes population that has grown soft and unprepared for challenges because opposition removed too completely
+  scene:
+    mainElements: Prosperous village where citizens enjoy unprecedented safety and abundance. Children play in streets never
+      knowing danger, merchants trade without guards, crops grow untended because abundance requires no effort. Peace reigns
+      but energy stagnates
+    details: Unused weapons rust in peaceful homes, watchtowers stand empty because threats eliminated, training grounds grow
+      weeds because warriors see no need for preparation. Libraries gather dust because learning serves no urgent purpose.
+      Young people choose comfort over achievement because challenges were removed rather than overcome
+    background: Border areas show abandoned defenses because enemies eliminated rather than deterred. Former battlefields
+      bloom with flowers but also hide lessons that complacent generation ignores. Distant territories show different tribes
+      growing stronger while protected population grows weaker
+    atmosphere: Unsettling realization that complete victory creates new problems - population without challenges grows weak,
+      progress without opposition becomes stagnation, security without vigilance invites unexpected threats. The eliminated
+      enemy served purpose by maintaining strength and purpose in those they opposed
+  composition:
+    cameraAngle: Wide peaceful vista revealing hidden dangers of unchallenged prosperity
+    focus: Recognition that opposition's absence creates different but serious problems
+    depth: Foreground shows peaceful daily life, middle ground reveals signs of growing complacency, background suggests threats
+      developing beyond protected borders
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

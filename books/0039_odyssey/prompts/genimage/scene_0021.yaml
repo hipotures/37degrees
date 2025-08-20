@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, evening during harvest festival
+    location: Large ceremonial plaza within Mycenaean settlement, decorated for major religious and civic celebration
+    weather: Clear evening with warm Mediterranean air and gentle breeze
+  characters: No characters present in this scene
+  scene:
+    mainElements: Elaborate festival decorations combining religious symbols, royal regalia, and agricultural abundance, bronze
+      cauldrons burning aromatic offerings, decorated pavilions displaying finest craftsmanship, ceremonial bronze vessels
+      and weapons arranged for public viewing, colorful textiles and banners displaying community identity
+    details: Bronze tripods filled with burning incense and aromatic oils, garlands of olive branches and grape vines decorating
+      stone columns, painted pottery displaying festival scenes and divine protection, ceremonial bronze armor polished to
+      mirror brightness, wooden tables laden with harvest offerings including grain, oil, and wine, musical instruments including
+      lyres and bronze cymbals, torch stands providing dramatic evening illumination, ceremonial masks and religious artifacts
+    background: Palace complex illuminated with bronze lamps and torches, temple areas decorated with fresh offerings and
+      flowers, harbor visible with festival vessels decorated for celebration, Mediterranean landscape providing natural amphitheater
+      for community gathering
+    atmosphere: Joyous celebration uniting all aspects of Bronze Age society, aromatic smoke from ceremonial fires, festive
+      sounds of music and community gathering, sense of cultural unity transcending social hierarchy, spiritual connection
+      between human community and divine blessing
+  composition:
+    cameraAngle: Wide ceremonial view showing full festival environment and cultural displays
+    focus: Central plaza with bronze ceremonial equipment and festival decorations
+    depth: 'Foreground: detailed ceremonial objects and festival arrangements, middle ground: decorated pavilions and community
+      spaces, background: illuminated palace and temple architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

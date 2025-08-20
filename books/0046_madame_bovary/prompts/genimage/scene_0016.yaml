@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1840s summer afternoon, harvest season
+    location: Kitchen and pantry of prosperous Norman farm, Les Bertaux during Emma's youth
+    weather: Warm summer afternoon with golden sunlight streaming through windows
+  characters:
+  - appearance: Young Emma in her teenage years, before marriage, full of simple pleasures
+    clothing: Simple farm girl dress, apron stained with fruit juices, bare arms
+    position: Standing at wooden table laden with summer fruits and honey jar
+    action: Drizzling honey from wooden spoon, biting into ripe peach, sticky fingers glistening
+  scene:
+    mainElements: Wooden farmhouse table covered with peak-season fruits - peaches, pears, cherries, and open clay honey jar
+      with wooden dipper, golden afternoon light illuminating everything
+    details: Thick golden honey flowing in perfect streams from wooden dipper, creating glossy ribbons that catch sunlight
+      like liquid amber, ripe peach juice running down fingertips in clear rivulets, fruit flesh so ripe it releases sweet
+      nectar at first bite, honey pooling on wooden table surface in perfect golden circles, sticky residue on fingers catching
+      light like precious resin, fruit skins glistening with natural moisture, honey crystals visible in jar catching light
+      like tiny diamonds, summer fruits so ripe they split open revealing jewel-like interiors, golden honey streams creating
+      elegant curves as they fall, no text or letters visible
+    background: Traditional Norman farmhouse kitchen with wooden beams, stone floors, copper pots, summer abundance displayed
+      on shelves
+    atmosphere: Pure sweetness and natural abundance suggested through golden colors and flowing honey, summer's peak represented
+      by perfectly ripe fruit, simple pleasure and innocence conveyed through sticky fingers and honey streams
+  composition:
+    cameraAngle: Close-up macro shot showing honey streams and fruit juice details
+    focus: Golden honey ribbons falling in elegant curves, fruit juice glistening on fingers
+    depth: 'Foreground: detailed honey streams and juice droplets, middle ground: figure enjoying simple pleasures, background:
+      summer abundance in farmhouse kitchen'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1482, late afternoon, after summer storm
+    location: Large irregular unpaved square in medieval Paris gently sloping toward sandy bank of Seine River, main river
+      port and public gathering place
+    weather: Post-storm clarity with gleaming wet surfaces and fresh air
+  characters: No characters present in this scene
+  scene:
+    mainElements: Place of extreme contrasts - festival life and celebrations versus dread and macabre as main execution square,
+      mixing fear and morbid entertainment, now washed clean by rain
+    details: Cobblestones shine like mirrors reflecting clearing sky, puddles create perfect reflections of surrounding buildings,
+      fresh-washed air carries scent of wet stone and earth, droplets cling to wooden structures and metal fixtures, steam
+      rises gently from warming surfaces
+    background: Medieval buildings frame square with clean-washed walls and gleaming roof tiles, Seine River flows smoothly
+      beyond plaza carrying storm runoff
+    atmosphere: Refreshed and renewed atmosphere after cleansing storm, sense of purification and new beginning, natural beauty
+      enhanced by water effects
+  composition:
+    cameraAngle: Ground level view emphasizing reflective surfaces and water effects
+    focus: Spectacular reflections in puddles and wet stone surfaces
+    depth: Foreground shows detailed puddle reflections, middle ground features gleaming structures, background displays clear
+      sky and clean architecture
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

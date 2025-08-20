@@ -1,0 +1,113 @@
+canon:
+  characters:
+    - id: "king_lear"
+      name: "King Lear"
+      description_block: |
+        characters:
+          - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+            clothing: "Initially ornate royal robes of purple and gold with ermine-lined ceremonial cloak and heavy golden crown. Later tattered traveling garments, then rain-soaked rags, and finally simple white garments"
+            posture: "Begins upright and commanding, deteriorates to hunched and trembling, with wild gesticulations during madness"
+    - id: "cordelia" 
+      name: "Cordelia"
+      description_block: |
+        characters:
+          - appearance: "Young woman around 20-22 years old, slender build with natural grace and dignity. Noble features with honest, direct gaze. Fair complexion with light brown or blonde hair"
+            clothing: "Simple yet elegant court dress in modest colors like cream, pale blue, or soft green. Later practical travel attire or military-inspired clothing when leading French army"
+            posture: "Stands with quiet dignity and inner strength, movements are graceful but purposeful"
+    - id: "goneril"
+      name: "Goneril" 
+      description_block: |
+        characters:
+          - appearance: "Woman around 35 years old, tall with sharp, angular features. Cold, calculating expression. Dark hair typically pulled back severely. Piercing, intelligent eyes"
+            clothing: "Elegant but austere gowns in dark colors - black, deep green, burgundy. Rich fabrics but severe, masculine-influenced cuts that emphasize authority"
+            posture: "Rigid, controlled bearing with precise, commanding gestures"
+    - id: "regan"
+      name: "Regan"
+      description_block: |
+        characters:
+          - appearance: "Woman around 32 years old, more conventionally attractive than Goneril but with cruel undertones. Dark hair worn more loosely. Eyes that flash with sadistic pleasure"
+            clothing: "Rich, ostentatious gowns in bold colors like deep red or royal purple. More revealing necklines and sensuous fabrics than her sister"
+            posture: "More fluid and seductive movements, but with underlying aggression"
+    - id: "gloucester"
+      name: "Earl of Gloucester"
+      description_block: |
+        characters:
+          - appearance: "Nobleman around 60-70 years old, well-built but showing signs of age. Kind but somewhat weak facial features suggesting naivety. After blinding, empty, bandaged eye sockets create tragic mask of suffering"
+            clothing: "Fine aristocratic garments in subdued colors like brown, navy, or dark green. Quality wool and velvet. After exile, clothes become torn and soiled"
+            posture: "Initially confident aristocratic bearing. After blinding, hesitant, groping movements, completely dependent on guidance"
+    - id: "edgar"
+      name: "Edgar"
+      description_block: |
+        characters:
+          - appearance: "Young nobleman around 25-28 years old, athletic build with honest, open features. Clean-shaven with light brown hair. As Poor Tom: nearly naked, covered in mud and filth, hair matted into knots, simulating madness"
+            clothing: "As Edgar: well-tailored young nobleman's attire in light colors. As Poor Tom: practically naked except for tattered cloth or blanket. Later various disguises including peasant clothes and full armor"
+            posture: "As Edgar: upright, noble bearing. As Poor Tom: hunched, trembling, erratic movements mimicking madness"
+    - id: "edmund"
+      name: "Edmund"
+      description_block: |
+        characters:
+          - appearance: "Young man around 24-27 years old, handsome in a predatory way with dark hair and eyes. Charismatic with cynical or seductive smile. Athletic build that moves with predatory grace"
+            clothing: "Fashionable, elegant attire often in black or dark colors, emphasizing his outsider status and Machiavellian nature"
+            posture: "Confident, fluid movements with natural charisma and sexual magnetism"
+    - id: "kent"
+      name: "Earl of Kent"
+      description_block: |
+        characters:
+          - appearance: "Loyal nobleman around 50-60 years old with soldier's bearing. Honest, weathered face showing determination and loyalty. As Caius: unshaven with simple disguise"
+            clothing: "Noble's attire befitting his station. As Caius: rough servant's clothing in coarse materials"
+            posture: "Upright military bearing, direct and honest in all movements"
+    - id: "fool"
+      name: "The Fool"
+      description_block: |
+        characters:
+          - appearance: "Ageless figure, could be young boy or old man. Small, delicate, almost androgynous build. Pale face with intelligent but melancholy eyes"
+            clothing: "Traditional motley costume with diamond patterns, or modern interpretation using tattered clothes resembling vagrant's rags, always with fool's cap with bells"
+            posture: "Quick, darting movements with gestures that emphasize words and songs"
+
+  locations:
+    - id: "lear_palace_throne_room"
+      name: "King Lear's Palace Throne Room"
+      description_block: |
+        setting:
+          location: "Grand stone throne room in King Lear's palace in ancient Britain, massive interior with high vaulted ceilings supported by heavy oak beams"
+        mainElements: "Imposing stone walls lined with dark wood paneling, tall narrow windows deeply set in thick walls, enormous fireplace with iron fittings, raised dais with ornate wooden throne"
+        atmosphere: "Formal, oppressive, heavy with authority and tradition. Cold stone surfaces, flickering firelight casting dancing shadows, echoing footsteps on stone floors"
+    - id: "gloucester_castle"
+      name: "Earl of Gloucester's Castle"  
+      description_block: |
+        setting:
+          location: "Fortress of Earl of Gloucester in ancient Britain, smaller and more military than royal palace, built for defense rather than ceremony"
+        mainElements: "Stone courtyards with cobbled surfaces, functional halls with minimal decoration, wooden stocks in central courtyard, iron-bound doors and gates"
+        atmosphere: "Austere, militaristic, cold stone and practical furnishings creating sense of harsh justice and brutality"
+    - id: "heath_wasteland"
+      name: "The Heath Wasteland"
+      description_block: |
+        setting:
+          location: "Desolate moorland in ancient Britain, endless barren landscape of rough grassland, heather, and scattered rocks with no shelter from elements"
+        mainElements: "Rolling hills covered in coarse vegetation, twisted shrubs, rocky outcroppings, muddy ground with standing water, single ramshackle hovel built of sticks and sod"
+        atmosphere: "Wild, primitive, apocalyptic during storm with howling winds, driving rain, and constant thunder and lightning illuminating the wasteland"
+    - id: "dover_cliffs"
+      name: "Dover Cliffs and Fields" 
+      description_block: |
+        setting:
+          location: "Chalky white cliffs overlooking English Channel near Dover, ancient Britain, with fields of wildflowers leading to dramatic cliff edge above churning sea"
+        mainElements: "Towering white limestone cliffs dropping vertically to sea below, wild meadows with scattered flowers and weeds, distant sound of crashing waves"
+        atmosphere: "Beautiful but melancholy landscape where natural beauty contrasts tragically with human suffering, misty air from sea spray"
+
+  items:
+    - id: "kingdom_map"
+      name: "Map of the Kingdom"
+      description_block: |
+        details: "Large map of ancient Britain drawn on thick parchment or animal hide, showing territorial divisions marked in different colors, rolled or spread flat on heavy wooden table, archaic symbols and decorations marking major cities and borders"
+    - id: "royal_crown"
+      name: "Royal Crown"
+      description_block: |
+        details: "Heavy golden crown with precious gems, symbol of absolute royal authority, later replaced by grotesque crown woven from weeds, thistles, nettles and other poisonous plants representing twisted wisdom gained through madness"
+    - id: "wooden_stocks" 
+      name: "Punishment Stocks"
+      description_block: |
+        details: "Heavy wooden restraining device with two hinged planks containing holes for imprisoning legs, made of rough oak beams, locked with iron chains or wooden pegs, placed prominently in castle courtyard for public humiliation"
+    - id: "fool_cap"
+      name: "Fool's Cap with Bells"
+      description_block: |
+        details: "Traditional jester's cap in bright colors with multiple fabric points each tipped with small jingling bells, made of patchwork cloth in yellow, red, and green, worn as badge of profession and protection from royal anger"

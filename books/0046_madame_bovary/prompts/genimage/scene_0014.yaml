@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1840s afternoon, quiet reading time
+    location: Gabinet Karola mały i ciasny wypełniony zakurzonymi tomami słownika medycznego - Charles's medical study in
+      house, Tostes
+    weather: Warm afternoon with sunlight filtering through dusty windows
+  characters:
+  - appearance: Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z
+      tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z
+      różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech
+    clothing: Simple afternoon dress, reading glasses, hair loosely arranged for comfort
+    position: Seated at wooden desk surrounded by towers of old medical books
+    action: Długie dłonie o białych lśniących paznokciach, charakterystyczny gest trzymania szylkretowych binokli między guzikami
+      stanika, czytanie romantycznych powieści - turning pages of old volumes, creating dust clouds
+  scene:
+    mainElements: Zakurzone tomy słownika medycznego - ancient leather-bound medical texts stacked on shelves and desk, afternoon
+      sunlight creating visible dust beams, particles floating in geometric patterns
+    details: Old book pages releasing clouds of ancient dust when turned, leather bindings so aged they shed particles into
+      air, sunlight streaming through windows revealing thousands of dust motes floating in perfect geometric patterns, book
+      spine lettering faded and partially illegible, pages yellowed and brittle creating paper dust, bookworm holes visible
+      in aged volumes, dust settling on reading glasses and clothing, particles dancing in air currents created by page turning,
+      musty paper and leather aging made visible through floating debris, light beams turning dust into golden galaxies, no
+      text or letters visible except faded book spines
+    background: Ciasne mieszczańskie wnętrza - cramped medical office with simple wooden furniture, medical instruments on
+      shelves
+    atmosphere: Zapachy topionego masła z kuchni przenikające do gabinetu - age and accumulated knowledge suggested through
+      dust patterns, scholarly solitude represented by floating particles in light, sense of time passing through visible
+      decay and settled dust
+  composition:
+    cameraAngle: Close-up showing dust particles dancing in light beams from open books
+    focus: Floating dust patterns creating geometric shapes in sunlight, aged book pages
+    depth: 'Foreground: detailed dust motes in light beams, middle ground: figure reading among book stacks, background: shelves
+      of ancient volumes'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

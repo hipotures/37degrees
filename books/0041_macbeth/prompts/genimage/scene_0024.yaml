@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, dawn of final confrontation
+    location: Battlefield where opposing forces meet, each believing themselves righteous
+    weather: First light of dawn revealing mirror image armies facing each other
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Stands with loyal forces who see him as protector of necessary change
+    action: Prepares to defend transformation of corrupt system against those who would restore old inequities
+  scene:
+    mainElements: Identical battlefield viewed from opposite sides, each army seeing enemy as evil force threatening righteousness.
+      Same terrain, same weapons, same prayers to same divine authority. Morning light reveals no physical difference between
+      opposing warriors
+    details: 'Banners display different symbols but identical concepts: justice, protection of innocent, divine mandate to
+      rule. Soldiers carry letters from families supporting their cause, priests bless weapons for holy war, commanders review
+      identical tactical principles. Both sides mourn identical losses from previous engagements'
+    background: 'Contested territory shows mixed evidence of both armies'' claims: villages helped and harmed by each force,
+      civilians caught between competing protections, landscapes scarred by necessary strategies both sides employed. Truth
+      depends entirely on perspective rather than fact'
+    atmosphere: Profound realization that moral certainty exists equally on both sides, each army serving genuine principles
+      they believe absolute. The battle will decide practical outcome but cannot resolve philosophical question of which righteousness
+      deserves victory. History written by winners, not truth
+  composition:
+    cameraAngle: Split screen showing identical preparations from opposing viewpoints
+    focus: Recognition that same events appear completely different depending on observer's position
+    depth: Foreground shows determined warriors believing their cause just, middle ground reveals contested battlefield, background
+      suggests complexity defying simple moral judgment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

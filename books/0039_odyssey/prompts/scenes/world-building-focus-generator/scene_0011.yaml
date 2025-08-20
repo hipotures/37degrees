@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mycenaean Marketplace and Commercial Quarter"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, morning hours"
+    location: "Central marketplace within Mycenaean settlement, showing Bronze Age commercial activity and trade"
+    weather: "Bright morning light illuminating marketplace activities"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone-paved market square surrounded by covered porticos, wooden stalls displaying various goods and commodities, large ceramic storage vessels containing grain, oil, and wine, bronze scales and measuring implements for trade, wooden benches and tables for displaying merchandise"
+    details: "Colorful textiles woven in geometric patterns hanging from wooden frames, bronze mirrors, jewelry, and decorative objects arranged on display tables, ceramic pottery showing painted decoration in Mycenaean motifs, dried fish and preserved foods hanging from wooden beams, baskets filled with olives, grapes, and grain, amphora jars with sealed stoppers indicating long-distance trade goods, bronze coins and ingots for currency exchange, wooden carts with bronze-reinforced wheels for transporting goods"
+    background: "Covered workshops where artisans produce pottery and metalwork, stone warehouses for storing imported goods, residential buildings rising on terraced hillsides, glimpses of harbor area where trading ships arrive"
+    atmosphere: "Bustling commercial activity showing sophisticated Bronze Age economy, mingled aromas of spices, oils, and foods, sounds of trade negotiations and craft production, sense of prosperous civilization with extensive trade networks"
+  composition:
+    cameraAngle: "Central marketplace view showing full commercial environment"
+    focus: "Market stalls with diverse goods and Bronze Age trade implements"
+    depth: "Foreground: detailed merchandise and trading equipment, middle ground: market stalls and commercial buildings, background: residential areas and harbor connections"

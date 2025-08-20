@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, morning
+    location: Great hall of castle with long wooden table and high vaulted ceiling
+    weather: Overcast morning with uncertain light shifting through windows
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Royal robes that appear somehow ill-fitting, as if they no longer belong on his frame
+    position: Standing at head of long table, gripping edge with both hands
+    action: Looking down length of hall, blinking repeatedly as if trying to clear vision
+  - appearance: Woman around 32 years old, more conventionally attractive than Goneril but with cruel undertones. Dark hair
+      worn more loosely. Eyes that flash with sadistic pleasure
+    clothing: Rich, ostentatious gowns in bold colors like deep red or royal purple. More revealing necklines and sensuous
+      fabrics than her sister
+    position: Seated at side of table, watching father with cold amusement
+    action: Speaking in honeyed tones while cutting food with deliberate precision
+  scene:
+    mainElements: Long wooden table set for morning meal, high stone arches supporting vaulted ceiling, series of narrow windows
+      along one wall, heavy wooden chairs
+    details: Straight lines of table edges and floor stones that appear to bend and curve when viewed directly. Window light
+      seems unnaturally bright in some areas, creating sharp contrasts with deep shadows. Food on table appears to shift color
+      slightly - bread that looks golden then gray, wine that seems darker than it should be. Ceiling arches seem to press
+      lower, creating sense of enclosure
+    background: Stone walls with hanging banners that appear to flutter without wind, doorways that seem narrower than before,
+      distant servants moving in ways that create afterimages
+    atmosphere: Visual reality becoming unreliable, geometric certainties dissolving. Colors more saturated in some areas,
+      completely drained in others. Perspective seems unstable, making familiar space feel foreign and threatening
+  composition:
+    cameraAngle: Wide shot with slight fisheye effect to suggest visual distortion
+    focus: Lear's disoriented expression contrasted with the unnaturally straight lines of architecture
+    depth: Sharp foreground details that seem to warp, middle ground with characters, background dissolving into uncertain
+      shadows
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

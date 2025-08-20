@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fresh bread cooling with steam curling upward while flour dust dances"
+  setting:
+    time: "1840s early morning, dawn in village bakery"
+    location: "Village bakery near market square in Yonville-l'Abbaye, provincial Normandy"
+    weather: "Cool morning air with warmth radiating from ovens"
+  characters:
+    - appearance: "Village baker, middle-aged man with flour-dusted clothes and arms"
+      clothing: "White apron covered in flour dust, rolled sleeves, simple work clothes"
+      position: "Arranging fresh loaves on cooling racks, wiping sweat from forehead"
+      action: "Moving hot bread from ovens, adjusting loaves to release steam, flour dust coating everything he touches"
+  scene:
+    mainElements: "Dozens of golden-brown loaves arranged on wooden racks with visible steam rising in curling patterns, flour particles suspended in morning light streaming through windows, ovens radiating heat waves"
+    details: "Steam rising from hot bread crusts in elegant spiraling patterns, flour dust dancing in air currents like tiny snowflakes, golden loaves crackling audibly as crusts cool and contract, flour coating every surface with fine white powder, bread crust so hot it releases moisture clouds, steam condensing on cool window glass creating privacy veils, flour particles catching first sunlight like golden glitter, baker's hands leaving white prints on everything touched, yeast and wheat aromas made visible through steam patterns, no text or letters visible"
+    background: "Traditional Norman bakery with stone ovens, wooden shelves, flour sacks, primitive but efficient bread-making equipment"
+    atmosphere: "Warmth and nourishment suggested through visual steam patterns, comfort and sustenance represented by golden bread colors, morning productivity and care shown through careful arrangement and rising vapor"
+  composition:
+    cameraAngle: "Close-up showing steam patterns rising from fresh bread"
+    focus: "Curling steam creating elegant patterns, flour dust particles dancing in light"
+    depth: "Foreground: detailed steam curls and flour particles, middle ground: golden bread arrangement, background: warm bakery interior with stone ovens"

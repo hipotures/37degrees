@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1590s, night
+    location: Gertrude's private chamber in Elsinore Castle after violent confrontation
+    weather: ''
+  characters:
+  - appearance: Woman aged 45-50 years, royal bearing and attractive, full figure, face showing possible weakness or sensuality,
+      needing to be center of male attention
+    clothing: Luxurious, fashionable gowns in rich jeweled colors, much jewelry, quickly abandoning mourning dress for wedding
+      attire symbolizing moral weakness in Hamlet's eyes
+    position: Sitting at dressing table, staring at her reflection
+    action: Touching her face as if seeing herself clearly for first time, jewelry scattered around mirror base
+  scene:
+    mainElements: Large canopied bed, dressing table with mirror, chairs, heavy patterned tapestry (arras) hanging on wall
+      large enough to conceal a person
+    details: The mirror reflects not just her physical image but her moral reality exposed by Hamlet's brutal honesty. Scattered
+      jewelry represents the superficial ornaments of her new life. The arras in background reminds of Polonius's death and
+      consequences of court deception.
+    background: Private intimacy brutally violated, soft candlelight creating warmth that becomes claustrophobic during violent
+      confrontation
+    atmosphere: Painful self-recognition, guilt confronting self-deception, beauty tarnished by moral awareness
+  composition:
+    cameraAngle: Close-up on mirror reflection showing both face and moral realization
+    focus: Mirror as tool of self-revelation and moral awakening
+    depth: Foreground shows reflected face, middle shows scattered jewelry, background shows bloodstained arras
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

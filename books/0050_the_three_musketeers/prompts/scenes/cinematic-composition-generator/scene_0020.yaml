@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Focus Shifts from Love to Betrayal"
+  setting:
+    time: "1628, night"
+    location: "luxurious chamber in Parisian mansion"
+    weather: "clear night with candlelight"
+  characters:
+    - appearance: "beautiful woman in her 30s with pale complexion, golden blonde hair in elaborate curls, piercing blue eyes, ethereal beauty"
+      clothing: "luxurious silk gown in deep burgundy with gold embroidery, jeweled necklace, delicate lace gloves concealing marked left shoulder"
+      position: "initially sharp in foreground, then blurring as focus shifts"
+      action: "revealing deceptive nature through changing expression"
+    - appearance: "burn scar in shape of fleur-de-lis flower on pale skin"
+      clothing: "exposed shoulder showing criminal brand mark"
+      position: "background becoming sharp as focus pulls"
+      action: "criminal mark becoming visible as truth is revealed"
+  scene:
+    mainElements: "rack focus moment shifting attention from beautiful face to criminal brand, revealing hidden truth"
+    details: "luxurious chamber with silk furnishings, candlelight creating dramatic illumination, focus pulling from seductive beauty to damning evidence, burn scar in shape of fleur-de-lis flower becoming sharp and clear"
+    background: "expensive decorations blurring and sharpening as focus changes, revealing duplicity of environment"
+    atmosphere: "shocking revelation of hidden truth, dramatic lighting enhancing moment of discovery"
+  composition:
+    cameraAngle: "close angle allowing dramatic focus pull between two critical elements"
+    focus: "beautiful face sharp then soft, criminal brand soft then sharp, creating dramatic revelation"
+    depth: "seductive foreground shifting to damning background evidence, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Born into Privilege Blind to Cost"
+  setting:
+    time: "11th century Scotland, afternoon in private royal chamber"
+    location: "Luxurious royal apartments with rich furnishings and comforts"
+    weather: "Gentle spring day with warm sunlight and pleasant breeze"
+  characters:
+    - appearance: "Elderly man around 60 years with dignified bearing. Noble face expressing kindness and trust. Gray or white hair and beard. Features convey wisdom and fatherly benevolence, making his betrayal more tragic."
+      clothing: "Royal robes of fine materials with fur-lined cloak. Simple but elegant crown befitting rightful monarch. Colors reflect status but not ostentatious - deep blues and purples with gold trim."
+      position: "Sits comfortably in padded chair beside window, completely relaxed and unguarded"
+      action: "Discusses plans for improving kingdom while servants attend to every comfort, utterly unaware that his generosity toward some requires cruelty toward others"
+  scene:
+    mainElements: "Richly appointed chamber with tapestries, carved furniture, silver vessels, and luxurious fabrics. Servants move silently providing food, drink, and comfort. Maps and documents spread across table show territories and resources"
+    details: "King speaks warmly of building new monastery while peasants starve to pay for stone. Plans charitable gifts to church using taxes squeezed from desperate families. Discusses wedding feast costing more than annual income of hundred households. Views kingdom as personal garden rather than home to suffering people"
+    background: "Through window, green countryside appears peaceful and prosperous from royal perspective. Guards patrol walls protecting comfortable isolation from reality. Rich artwork depicts previous kings as saints and heroes rather than flawed humans"
+    atmosphere: "Privilege creates perfect insulation from consequences of royal decisions. Good intentions combined with total ignorance of real cost makes every generous gesture an act of unwitting cruelty. System designed to show rulers only success stories while hiding failures and suffering"
+  composition:
+    cameraAngle: "View through window showing gap between royal comfort and external reality"
+    focus: "Contrast between comfortable ignorance and unseen suffering that funds comfort"
+    depth: "Foreground shows luxurious royal environment, middle ground reveals oblivious beneficiary, background suggests wider world bearing true cost of his comfort"

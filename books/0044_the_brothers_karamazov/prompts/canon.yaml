@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "fiodor_karamazov"
+      name: "Fiodor Pawłowicz Karamazov"
+      description_block: |
+        appearance: 55-year-old man with long, fleshy bags under perpetually insolent, suspicious and lustful small eyes, small fat face covered with numerous deep wrinkles
+        clothing: Provincial gentleman attire in disarray, stained clothing reflecting neglectful lifestyle, loose garments for comfort at home
+        posture: Uncoordinated movements, exaggerated theatrical gesticulation, face marked by cynicism and suspicious smirks
+    - id: "dymitr_karamazov"
+      name: "Dymitr Fiodorowicz Karamazov"
+      description_block: |
+        appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+        clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+        posture: Energetic and dominant movement, powerful physical presence, often unkempt from frequent fights
+    - id: "iwan_karamazov"
+      name: "Iwan Fiodorowicz Karamazov"
+      description_block: |
+        appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant narrow brown eyes, serious expression
+        clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+        posture: Restrained controlled movements, possibly slightly hunched from study, usually serious composed demeanor
+    - id: "alosza_karamazov"
+      name: "Aleksiej Fiodorowicz Karamazov"
+      description_block: |
+        appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+        clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+        posture: Thoughtful and apparently very cheerful expression, movements reflecting spiritual purity and goodness
+    - id: "smierdiakow"
+      name: "Paweł Fiodorowicz Smierdiakow"
+      description_block: |
+        appearance: 24-year-old servant with sickly constitution, delicate features suggesting lack of masculine vitality, hair carefully combed pomaded and parted in middle, squinting gaze suggesting cunning and insincerity
+        clothing: Simple functional servant attire maintained in impeccable cleanliness, white apron as cook, meticulous attention to appearance contrasting low status
+        posture: Movements reflecting hidden pride and resentment, pedantic attention to personal grooming
+    - id: "grusznenka"
+      name: "Agrafiena Aleksandrowna Swietłow"
+      description_block: |
+        appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+        clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+        posture: Moves softly and noiselessly, childlike gaze with expression of childlike joy in eyes
+    - id: "katerina_wierchowcew"
+      name: "Katerina Iwanowna Wierchowcew"
+      description_block: |
+        appearance: Early twenties rare beauty, exceptionally tall even taller than Grusznenka, pale somewhat earthy elongated face with magnificent burning black eyes and excellent mouth
+        clothing: Impeccably dressed according to latest European fashion reflecting status and pride, elegant structured garments more austere in style
+        posture: Commanding proud bearing full of confidence, lordly dignified stance
+    - id: "zosima"
+      name: "Starzec Zosima"
+      description_block: |
+        appearance: Around 65 years old appearing much older, short hunched elderly man with very weak legs, very thin face covered with network of fine wrinkles especially around small bright lively shining eyes
+        clothing: Simple dark Orthodox monk habit, plain robes of schimnik
+        posture: Physical frailty contrasting enormous spiritual strength, gentle movements despite weakness
+    - id: "lise_chochlakow"
+      name: "Lise Chochłakow"
+      description_block: |
+        appearance: 14-year-old girl with charming small face somewhat thin from illness but full of gaiety, large dark eyes with long eyelashes containing glint of mischief
+        clothing: Appropriate attire for young lady of good family, often seated due to wheelchair confinement
+        posture: Confined to wheelchair through first half due to psychosomatic paralysis, bright cheerful demeanor despite physical limitations
+    - id: "iliusza_sniegiriow"
+      name: "Iliusza Sniegiriow"
+      description_block: |
+        appearance: Nine-year-old boy described as small weak wearing torn clothing due to family poverty, proud and defiant despite physical frailty
+        clothing: Torn poor clothing reflecting family financial struggles, patched garments
+        posture: Small stature but proud bearing, later weakened by tuberculosis illness
+    - id: "kola_krasotkin"
+      name: "Kola Krasotkin"
+      description_block: |
+        appearance: 13-year-old boy approaching fourteenth birthday, short for his age which causes great concern, quite pretty pale freckled face with small but lively gray eyes, broad cheekbones and small red lips
+        clothing: School uniform typical of educated youth, neat student attire
+        posture: Intelligent bearing despite concern about height, confident intellectual manner
+  locations:
+    - id: "karamazov_house"
+      name: "Dom Rodziny Karamazowów"
+      description_block: |
+        setting:
+          location: "Solid pleasant two-story house painted gray with red iron roof in provincial Russian town Skotoprigoniewsk, 1860s Russian Empire"
+        mainElements: "House exterior appears solid and pleasant but interior shows obvious neglect with crumbling wallpaper, various unexpected cupboards corners and staircases creating labyrinthine character"
+        atmosphere: "Claustrophobic tension moral corruption and loneliness, gray exterior with bright red roof accent suggesting passions and violence within"
+    - id: "monastery"
+      name: "Monaster"
+      description_block: |
+        setting:
+          location: "Traditional Russian Orthodox monastery hermitage near Karamazov estate in provincial Russian town, walled grounds with gate decorated with saint images"
+        mainElements: "Rather ordinary monastery buildings surrounded by carefully maintained grounds, wooden single-story elder house surrounded by rare beautiful autumn flowers tended by skilled hand"
+        atmosphere: "Pervaded by peace order and spirituality, natural beauty with greens of gardens flower colors and white gold of church decorations, symbol of Christian salvation and hope"
+    - id: "karczma_metropolia"
+      name: "Karczma Metropolia"
+      description_block: |
+        setting:
+          location: "Typical 19th-century Russian tavern in provincial town Skotoprigoniewsk, wooden or masonry building with large common room"
+        mainElements: "Simple functional interior with heavy wooden tables and benches, bar counter and billiard table, air thick with smell of cheap tobacco spilled vodka food and human sweat"
+        atmosphere: "Dim lighting from oil lamps casting long shadows creating atmosphere conducive to secret conversations and plots, dirty and dark reflecting grim nature of philosophical discussions"
+    - id: "mokre_village_inn"
+      name: "Karczma w Mokrym"
+      description_block: |
+        setting:
+          location: "Large rural inn hall in village Mokre near provincial town, rustic wooden beam construction with low ceiling"
+        mainElements: "Large village tavern room more primitive than town establishments, illuminated by numerous candles and lamps, space for village band and gypsy choir"
+        atmosphere: "Feverish chaotic atmosphere suitable for wild drunken revelries, hot confined space filled with music drinking and dancing"
+    - id: "zosima_cell"
+      name: "Cela Starca Zosimy"
+      description_block: |
+        setting:
+          location: "Simple monk cell in Orthodox monastery hermitage, humble quarters of respected elder"
+        mainElements: "Modestly furnished containing only most necessary furniture rough and poor, numerous icons including old icon of Mother of God, crosses and engravings of great Italian masters alongside simple folk saint pictures"
+        atmosphere: "Mixture of simplicity and sublimity reflecting nature of Zosima spirituality, natural daylight through windows and glow from oil lamp before icon creating mood of concentration and sanctity"
+    - id: "courtroom"
+      name: "Sala Sądowa"
+      description_block: |
+        setting:
+          location: "Large courthouse hall in provincial Russian town during 1860s judicial reforms period"
+        mainElements: "Spacious formal courtroom with judges bench, defendant dock, areas for prosecution defense and public gallery, official furnishings of reformed Russian justice system"
+        atmosphere: "Public arena where opposing worldviews clash in battle for truth and justice, tense formal setting for legal and philosophical confrontation"
+  items:
+    - id: "three_thousand_rubles"
+      name: "Trzy Tysiące Rubli"
+      description_block: |
+        details: "Bundle of banknotes often dirty or stained, passed from hand to hand throughout story, concrete sum representing temptation betrayal and sin"
+    - id: "brass_pestle"
+      name: "Mosiężny Tłuczek"
+      description_block: |
+        details: "Heavy metallic object, potential instrument of violence, gleaming ominously in darkness during crucial scenes"
+    - id: "dymitr_letter"
+      name: "List Dymitra"
+      description_block: |
+        details: "Written document threatening father with violence, key evidence in trial, yellowed paper with nervous bold handwriting"
+    - id: "alosza_cross"
+      name: "Krzyżyk Aloszy"
+      description_block: |
+        details: "Simple wooden cross worn around neck, possibly cypress wood, symbol of faith and calling"
+    - id: "iliusza_stone"
+      name: "Kamień Iliuszy"
+      description_block: |
+        details: "Large simple field stone becoming place of new covenant formation, symbol of lasting memory and foundation of new community"

@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1840s evening, warm lamplight
+    location: Bedroom in doctor's house, Yonville-l'Abbaye, provincial Normandy
+    weather: Calm evening with gentle warmth indoors
+  characters:
+  - appearance: Mężczyzna w wieku od 25 do 40 lat, początkowo wysoki ale niezgrabny, z wiekiem ociężały i tęgy, włosy obcięte
+      prosto nad czołem, małe oczy, z czasem nabrzmiałe policzki sprawiające że oczy wydają się wepchnięte ku skroniom
+    clothing: Prowincjonalny strój lekarza - ciężkie źle wyczyszczone podbite gwoździami trzewiki, źle dopasowane spodnie
+      często za ciasne na brzuchu, funkcjonalne ale zaniedbane ubrania - white shirt with rolled sleeves, dark vest, medical
+      instruments in pocket
+    position: Seated beside cradle, cradling newborn daughter in large work-worn hands
+    action: Niezgrabne gesty, charakterystyczne maniety - siorbie zupę, dłubie w zębach językiem, rano ma włosy w nieładzie
+      pobielone pierzem z poduszki - gently stroking infant's cheek with rough fingertip, supporting tiny head with calloused
+      palms
+  - appearance: Newborn infant, barely weeks old, perfect unmarked skin
+    clothing: Delicate white cotton christening gown, soft wool blanket
+    position: Nestled in father's large hands, completely vulnerable and dependent
+    action: Tiny fingers grasping at air, soft breathing, innocent sleep
+  scene:
+    mainElements: Dramatic contrast between large weathered male hands and infant's perfect unblemished skin, warm golden
+      lamplight creating soft shadows that emphasize texture differences, medical instruments nearby suggesting professional
+      touch transformed into paternal gentleness
+    details: Rough calloused hands with prominent knuckles and work-hardened skin holding impossibly soft infant flesh like
+      precious porcelain, fingertips bearing scars from medical practice touching skin smooth as silk, deep lines and wrinkles
+      in adult hands contrasting with baby's unmarked perfection, slight trembling in large hands from gentleness and responsibility,
+      baby's skin so delicate it seems translucent under lamplight, tiny veins visible beneath surface like watercolor brushstrokes,
+      no text or letters visible
+    background: Simple bedroom with medical books and instruments, rocking cradle, basin with warm water, soft fabrics and
+      infant clothing
+    atmosphere: Profound tenderness expressed through tactile contrast, roughness transformed by gentleness into protection,
+      sense of overwhelming responsibility made physical through careful touch, vulnerability and strength meeting in moment
+      of pure paternal love
+  composition:
+    cameraAngle: Intimate close-up focusing on hands cradling infant
+    focus: Texture contrast between rough adult hands and baby's perfect skin
+    depth: 'Foreground: hands and baby in sharp detail, middle ground: figure in lamplight, background: domestic medical setting
+      in soft focus'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

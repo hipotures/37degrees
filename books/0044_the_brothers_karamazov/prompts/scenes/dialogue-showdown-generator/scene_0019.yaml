@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dymitr's wild celebration at Mokre"
+  setting:
+    time: "1860s Russian Empire, late night"
+    location: "Large inn hall in village Mokre near provincial town, rustic celebration space"
+    weather: "Night outside, warm festive atmosphere inside"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Center of wild celebration, dancing and throwing money
+      action: Drinking heavily, dancing wildly, spending money freely in desperate celebration
+    - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+      clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+      position: Beside Dymitr, participating in wild festivities
+      action: Dancing and drinking with abandon, having rejected Polish lover for Dymitr
+  scene:
+    mainElements: "Large rustic inn hall with wooden beams and low ceiling, tables laden with food and bottles, village musicians and gypsy singers, crowd of revelers"
+    details: "Numerous candles and lamps creating feverish chaotic lighting, air thick with smoke and revelry, music and laughter filling space, money scattered carelessly"
+    background: "Rural inn architecture providing primitive setting for elemental celebration, other patrons joining wild festivities, night outside contrasting with heated interior"
+    atmosphere: "Desperate celebration masking approaching doom, primitive joy mixed with underlying desperation, money spent like life itself"
+  composition:
+    cameraAngle: "Wide dynamic shots capturing wild energy and desperate celebration"
+    focus: "Dymitr and Gruszeńka at center of whirling celebration, faces showing joy mixed with underlying desperation"
+    depth: "Foreground shows central celebration, middle ground captures participating crowd, background shows primitive setting for elemental emotions"

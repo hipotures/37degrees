@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Iwan's encounter with his devil"
+  setting:
+    time: "1860s Russian Empire, late night"
+    location: "Iwan's room in provincial lodgings, private space for psychological breakdown"
+    weather: "Cold winter night, minimal heating"
+  characters:
+    - appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant narrow brown eyes, serious expression
+      clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+      position: Sitting in chair, fevered and agitated
+      action: Arguing with hallucinatory devil, face showing psychological collapse and intellectual torment
+  scene:
+    mainElements: "Modest room with simple furniture, single chair where Iwan sits, table with papers and books, window showing cold night"
+    details: "Single lamp creating harsh shadows, books and papers scattered showing intellectual chaos, cold room reflecting psychological state, fever creating distorted perceptions"
+    background: "Simple lodging room becoming theater of psychological drama, cold night outside matching internal spiritual winter"
+    atmosphere: "Rational intellect fragmenting under weight of moral complicity, philosophical rebellion meeting its psychological consequences"
+  composition:
+    cameraAngle: "Close intimate shots emphasizing psychological isolation and breakdown"
+    focus: "Iwan's fevered face showing intellectual pride colliding with moral reality"
+    depth: "Foreground shows psychological crisis, middle ground captures intellectual debris, background shows cold isolation of rational rebellion"

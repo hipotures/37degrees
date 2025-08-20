@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Puppet Strings - Population Under Invisible Control"
+  setting:
+    time: "1832, evening during public ceremony"
+    location: "Theater-like view of Paris public space with hidden control mechanisms"
+    weather: "Theatrical lighting revealing manipulation apparatus above crowd"
+  characters:
+    - appearance: "Citizens participating in public demonstration with movements suggesting external control through invisible strings"
+      clothing: "Formal ceremonial garments provided for public display, identical accessories suggesting coordinated manipulation"
+      position: "Arranged in formation that reveals puppet-like coordination"
+      action: "Moving with synchronized gestures suggesting invisible manipulation, raising arms in unison, turning heads simultaneously as if controlled by unseen hands"
+    - appearance: "Puppet masters concealed above crowd level, hands controlling population movement through psychological manipulation"
+      clothing: "Dark clothing making them nearly invisible against shadows, hands wearing white gloves visible against darkness"
+      position: "Hidden in elevated positions above public space"
+      action: "Pulling invisible strings that control crowd behavior, manipulating public opinion through concealed psychological techniques"
+  scene:
+    mainElements: "Public space arranged like theater stage with hidden control apparatus above, crowd moving in patterns suggesting external manipulation"
+    details: "Invisible strings of psychological control extending from hidden positions to crowd members, synchronized movements revealing mass manipulation. Stage-like lighting creating theatrical atmosphere, official observers positioned to monitor effectiveness of crowd control techniques"
+    background: "Government buildings positioned like theater boxes overlooking human performance, officials watching crowd manipulation from elevated positions"
+    atmosphere: "Public behavior controlled through invisible psychological manipulation, individual autonomy eliminated through systematic crowd psychology"
+  composition:
+    cameraAngle: "Theatrical view revealing hidden control mechanisms above public space"
+    focus: "Invisible strings connecting manipulated population to hidden controllers"
+    depth: "Manipulated crowd in foreground, visible control apparatus in middle ground, hidden puppet masters in background pulling psychological strings"

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1829, late autumn
+    location: Fortress prison on rocky island off Marseilles coast, isolated in Mediterranean Sea
+    weather: Cold autumn winds with dying light
+  characters:
+  - appearance: 60-65 years old, short and frail man. Hair whitened more by suffering and sorrow than age. Deeply set, penetrating
+      eyes that show great intelligence. Long black beard, thin face deeply marked by care and hardship
+    clothing: Prison rags so torn and patched that original design is barely recognizable. Tattered remains of what might
+      once have been clerical garments, now reduced to mere scraps
+    position: Lying on straw pallet, weakened by paralytic stroke, hand extended toward his student
+    action: Dying Abbé Faria passing on final secret of Monte Cristo treasure location to his spiritual heir
+  - appearance: 33-year-old man transformed by fourteen years of imprisonment and education. Still slender but now with refined
+      bearing, black hair showing first touches of grey, eyes brilliant with accumulated knowledge and growing determination
+    clothing: Prison rags worn with dignity of educated man, arranged as neatly as circumstances allow
+    position: Kneeling beside dying mentor, leaning close to catch whispered words
+    action: Edmond receiving ultimate inheritance - knowledge of treasure that will transform his fate
+  scene:
+    mainElements: Prison cell showing accumulated traces of years of intellectual companionship, makeshift library of smuggled
+      books, crude scientific instruments fashioned from prison materials
+    details: Autumn light filtering through barred window showing dying season, scattered manuscripts and teaching materials
+      representing years of shared learning, candle burning low in improvised holder, straw pallet worn thin from use, water
+      dripping steadily marking passage of time
+    background: View through window shows Mediterranean in autumn mood - grey waters, sparse vegetation on distant shore,
+      melancholy light of shortened days
+    atmosphere: Profound loss balanced by ultimate gift of hope. Autumn sounds of wind through bars and distant waves, whispered
+      final words of dying scholar, weight of knowledge being passed from generation to generation. Air heavy with ending
+      and beginning, no text or letters visible
+  composition:
+    cameraAngle: Intimate close-up showing final teaching moment
+    focus: Hands of teacher and student touching as knowledge transfers from dying to living
+    depth: Foreground shows clasped hands and whispered words, middle ground captures both figures in final communion, background
+      reveals autumn seascape through cell window
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

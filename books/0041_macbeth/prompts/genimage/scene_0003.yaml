@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, dawn during war council
+    location: Military command tent on battlefield overlooking enemy positions
+    weather: Cold morning mist rising from blood-soaked ground, distant smoke from burning settlements
+  characters:
+  - appearance: Man aged 25-30 years, powerfully built with battle scars marking face and hands. Dark hair matted with sweat
+      and grime, eyes burning with intelligence and frustrated ambition
+    clothing: Well-worn leather armor reinforced with metal studs, serviceable sword at hip. Cloak bears minor family colors,
+      weapons and gear showing quality but age - earned rather than inherited
+    position: Stands at edge of command circle around battle map, close enough to hear but clearly secondary in status
+    action: Listens to strategic discussion while grinding teeth, occasionally pointing to map positions that others ignore,
+      hands flexing as if grasping for recognition just beyond reach
+  scene:
+    mainElements: Large leather campaign map spread across wooden table, marked with carved pieces representing troop positions.
+      Oil lamps cast flickering light across assembled commanders' faces as they debate tactics
+    details: Young nobleman with soft hands and pristine armor proposes disastrous flanking maneuver while veteran commanders
+      nod respectfully. Battle-tested warrior suggests superior strategy based on experience but is politely dismissed as
+      voice lacks noble breeding. Map shows obvious tactical opportunity that privileged youth cannot see but powerless veteran
+      recognizes immediately
+    background: Canvas tent walls ripple in cold wind, sounds of army awakening in distance. Through tent opening, enemy fires
+      visible on horizon. Weapons and banners of noble houses display inherited authority rather than earned competence
+    atmosphere: System values accident of birth over proven ability, condemning competent leaders to watch incompetent nobles
+      lead men to slaughter. Watching warrior realizes that in this world, being right means nothing if you lack proper bloodline
+      or political connections
+  composition:
+    cameraAngle: Over shoulder view from excluded warrior looking at inner circle of power
+    focus: Tension between demonstrated competence and inherited privilege around strategy table
+    depth: Foreground shows capable hands reaching toward map, middle ground reveals circle of noble incompetence, background
+      suggests army depending on their decisions
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

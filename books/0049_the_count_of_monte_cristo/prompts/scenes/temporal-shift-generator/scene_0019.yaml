@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Treasure Growth and Corruption Spread"
+  setting:
+    time: "1829-1838, accelerated accumulation"
+    location: "Secret cave within Monte Cristo island, entrance concealed by natural rock formations"
+    weather: "Underground environment with flickering torch light showing temporal acceleration"
+  characters:
+    - appearance: "42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark hatred. Face elongated and hardened, features sharpened by determination"
+      clothing: "Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers. Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life and creates aura of mystery"
+      position: "Standing among treasure that simultaneously grows and corrupts in accelerated time"
+      action: "Count watching wealth multiply while his humanity diminishes in compressed timeline"
+  scene:
+    mainElements: "Iron-bound chest divided into three compartments - stacks of gold coins, bars of unworked gold, handfuls of diamonds, pearls and rubies that chime like hail against window glass when poured. Stone chamber illuminated by flickering torchlight"
+    details: "Treasure simultaneously multiplying through investment and trade while casting longer shadows of moral corruption, gold coins appearing and disappearing as they fund revenge schemes, precious stones shifting from beautiful to ominous as they enable darker purposes"
+    background: "Cave walls showing accumulated maps, financial documents, and revenge plans appearing and aging rapidly, torch flames dancing faster showing passage of plotting years"
+    atmosphere: "Wealth growing exponentially while moral foundation erodes in compressed time. Sounds of coins multiplying mixed with echoes of victims' cries, torch flames flickering between hope and damnation. Riches bringing power but stealing humanity, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing treasure expansion and human moral contraction simultaneously"
+    focus: "Accelerated process of wealth accumulation paired with spiritual deterioration"
+    depth: "Foreground shows multiplying treasure, middle ground captures figure being transformed by wealth, background reveals cave walls accumulating symbols of revenge"

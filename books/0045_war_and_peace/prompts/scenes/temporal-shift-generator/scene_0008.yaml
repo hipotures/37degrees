@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Autumn's Harvest - Golden Completion"
+  setting:
+    time: "1812, late autumn"
+    location: "same Rostov family estate orchard, apple trees now showing autumn transformation"
+    weather: "crisp autumn morning with golden light and first hint of winter chill"
+  characters:
+    - appearance: "mature woman showing traces of earlier beauty but marked by experience and sorrow, dark eyes now deeper with understanding, graceful bearing maintained despite evident emotional weight"
+      clothing: "simple dark dress suitable for country life, warm woolen shawl around shoulders, practical boots for walking on uneven ground"
+      position: "standing thoughtfully among fallen leaves, posture suggesting contemplation and acceptance"
+      action: "gathering fallen apples into wicker basket, movements deliberate and meditative"
+  scene:
+    mainElements: "same apple trees now with golden and red autumn leaves, many branches bare after harvest, ground covered with colorful fallen leaves and windfall apples, wooden fence weathered but still functional, no text or letters visible"
+    details: "individual leaves in various stages of color change from green through gold to brown, scattered perfect apples among rotting ones showing cycle of abundance and decay, empty baskets and ladders indicating completed harvest, morning frost glistening on grass, no text or letters visible"
+    background: "estate grounds showing autumn colors throughout landscape, manor house now clearly visible through thinned trees, birch groves in brilliant yellow display, fields beyond showing stubble from harvested grain"
+    atmosphere: "contemplative mood of seasonal completion, sense of both achievement and loss, beauty found in decline and preparation for dormancy, character's emotional maturity reflecting nature's wise acceptance of cycles, melancholy mixed with satisfaction, no text or letters visible"
+  composition:
+    cameraAngle: "same eye-level perspective emphasizing continuity through seasonal change"
+    focus: "the bittersweet beauty of completion and preparation for ending"
+    depth: "foreground emphasizes fallen leaves and fruit showing cycle's completion, middle ground reveals character's contemplative engagement with seasonal change, background shows estate-wide autumn transformation preparing for winter, no text or letters visible"

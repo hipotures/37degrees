@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1829, winter night
+    location: Mediterranean Sea off Château d'If, rough waters during storm
+    weather: Violent winter storm with heavy rain and massive waves
+  characters:
+  - appearance: 33-year-old man transformed by fourteen years of imprisonment and education. Still slender but now with refined
+      bearing, black hair showing first touches of grey, eyes brilliant with accumulated knowledge and growing determination
+    clothing: Wrapped in burial shroud, having replaced dead Abbé Faria in body bag destined for sea
+    position: Struggling in dark Mediterranean waters, fighting for life and freedom
+    action: Breaking free from burial shroud underwater, swimming desperately toward surface and new life
+  scene:
+    mainElements: Dark Mediterranean waters during fierce storm, Château d'If fortress silhouetted against lightning-lit sky,
+      rescue ship of smugglers appearing through rain and waves
+    details: Storm waves towering above swimmer, white foam and spray illuminated by lightning flashes, burial shroud sinking
+      into depths like ghost of old life, fortress walls revealed intermittently by lightning showing place of transformation
+      left behind, rescue rope thrown from smuggler vessel
+    background: Château d'If becoming smaller and more distant, Mediterranean storm showing nature's power, distant coastline
+      of France barely visible through weather
+    atmosphere: Violent rebirth through water and storm. Thunder drowning all sound except struggle for survival, lightning
+      revealing moments of drama in stark detail. Air filled with spray and wind, sensation of death transformed into life,
+      no text or letters visible
+  composition:
+    cameraAngle: Dynamic shot from water level showing swimmer against storm
+    focus: Moment of escape and transformation, man choosing life over death
+    depth: Foreground shows churning water and struggling figure, middle ground captures storm drama, background reveals fortress
+      as symbol of past being left behind
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

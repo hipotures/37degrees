@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Evening Candles in Hermit Cell Window"
+  setting:
+    time: "1482, early evening, candlelight time"
+    location: "Small dark damp cold cell walled up in Tour-Roland tower on Place de Grève, no door only small barred window facing square"
+    weather: "Clear cool evening with gentle breeze"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Empty stone chamber with inscription TU ORA above barred window, only furnishing is hermit and small child shoe - sole memento of abducted daughter"
+    details: "Single candle flame flickers in barred window casting warm light against cold stone, inscription TU ORA visible in candlelight above opening, shadows dance on bare stone walls, small child shoe catches glint of candlelight where it rests as sacred relic"
+    background: "Plaza outside window shows early evening activity with distant figures and scattered torches beginning to appear, medieval buildings frame view through bars"
+    atmosphere: "Space of voluntary penance extreme asceticism and all-consuming grief illuminated by solitary flame, mixture of sacred devotion and profound sorrow"
+  composition:
+    cameraAngle: "Interior view from cell looking through barred window to plaza"
+    focus: "Contrast between warm candlelight and cold stone cell with sacred relics"
+    depth: "Foreground shows interior cell details with candle, middle ground features barred window, background glimpses evening plaza activity"

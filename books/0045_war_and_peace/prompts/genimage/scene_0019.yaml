@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Architectural lifecycle compressed showing construction, glory, and decay simultaneously
+    location: site where large comfortable family mansion stands, showing temporal layers of building process
+    weather: multiple seasonal conditions affecting same structure across its lifetime
+  characters: No characters present in this scene
+  scene:
+    mainElements: mansion showing simultaneous stages of construction scaffolding, completed grandeur, and partial ruin, workers
+      placing stones while walls crumble elsewhere, fresh timber framing alongside rotted beams, no text or letters visible
+    details: individual bricks being laid overlapping with mortar cracking and stones falling, window glass being installed
+      while other panes show centuries of weathering and breaking, roof tiles fresh from kiln alongside moss-covered and broken
+      replacements, no text or letters visible
+    background: landscape showing simultaneous clearing for construction, mature gardens around completed house, and wild
+      growth reclaiming abandoned sections, roads being built and eroding in continuous temporal loop
+    atmosphere: humbling meditation on impermanence of human construction, beauty found in architectural cycles of creation
+      and destruction, understanding that building and decay are simultaneous processes separated only by human perception
+      of time, no text or letters visible
+  composition:
+    cameraAngle: wide view showing entire architectural lifecycle in single structure
+    focus: the simultaneous nature of construction and decay in human buildings
+    depth: foreground shows detailed construction materials and decay processes, middle ground reveals complete building structure
+      in all temporal states, background emphasizes landscape's endurance beyond architectural cycles, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

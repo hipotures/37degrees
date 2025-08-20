@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The elder's final teachings"
+  setting:
+    time: "1860s Russian Empire, dawn light"
+    location: "Elder Zosima's cell in Orthodox monastery hermitage, deathbed scene"
+    weather: "Clear morning with soft dawn light streaming through windows"
+  characters:
+    - appearance: Around 65 years old appearing much older, short hunched elderly man with very weak legs, very thin face covered with network of fine wrinkles especially around small bright lively shining eyes
+      clothing: Simple dark Orthodox monk habit, plain robes of schimnik
+      position: Lying weakly on simple bed, propped up on pillows
+      action: Speaking final words about active love and universal responsibility, eyes still bright with spiritual fire
+    - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+      clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+      position: Kneeling beside bed, leaning close to catch every word
+      action: Recording elder's final teachings, face glowing with spiritual devotion and impending loss
+  scene:
+    mainElements: "Simple monastic cell transformed into sacred space by approaching death, icons witnessing final spiritual discourse, dawn light creating atmosphere of transition"
+    details: "Soft morning light illuminating dying saint's face, oil lamp still burning before icon, flowers in pots taking on symbolic significance, simple furniture acquiring sacred character"
+    background: "Religious artwork seeming to participate in holy moment, other monks gathered in reverent silence, cell walls expanding to contain infinite spiritual significance"
+    atmosphere: "Sacred death approaching, spiritual wisdom being transmitted from master to disciple, profound peace mixed with approaching loss"
+  composition:
+    cameraAngle: "Low intimate angle emphasizing sacred nature of deathbed teaching"
+    focus: "Elder's eyes still burning with spiritual fire as physical strength fails"
+    depth: "Foreground shows dying teacher and devoted student, middle ground captures witnessing icons, background shows gathering community of faith"

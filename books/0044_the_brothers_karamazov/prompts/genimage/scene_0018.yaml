@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, deep night continuing
+    location: Interior of Karamazov family house, moment of ultimate violence
+    weather: Cold dark night, interior lit by dying lamp
+  characters:
+  - appearance: 24-year-old servant with sickly constitution, delicate features suggesting lack of masculine vitality, hair
+      carefully combed pomaded and parted in middle, squinting gaze suggesting cunning and insincerity
+    clothing: Simple functional servant attire maintained in impeccable cleanliness, white apron as cook, meticulous attention
+      to appearance contrasting low status
+    position: Approaching his master's location with calculated intent
+    action: Moving with cold determination, no longer the servile cook but instrument of philosophical logic
+  scene:
+    mainElements: House interior in semi-darkness, dying lamp creating dramatic shadows, furniture and decorations witnessing
+      ultimate family destruction
+    details: Lamp flame flickering lower, shadows deepening around approaching violence, house's decay providing appropriate
+      setting for moral culmination
+    background: Crumbling walls and peeling wallpaper witnessing final dissolution, labyrinthine house layout concealing ultimate
+      confrontation
+    atmosphere: Cold philosophical logic translated into physical action, servant becoming instrument of master's destruction
+      through intellectual justification
+  composition:
+    cameraAngle: Low angles emphasizing approaching violence through suggestion rather than graphic detail
+    focus: Smierdiakow's calculating face showing cold determination replacing servile manner
+    depth: Foreground shows approaching climax, middle ground captures house witnessing destruction, background shows darkness
+      consuming moral order
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

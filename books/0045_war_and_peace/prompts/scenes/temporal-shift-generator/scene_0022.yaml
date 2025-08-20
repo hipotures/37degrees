@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Evening Café Rituals - Opening and Closing Eternal"
+  setting:
+    time: "Single evening compressed showing café opening preparations and closing rituals simultaneously"
+    location: "traditional Russian tavern in Moscow merchant quarter, wood-paneled interior with traditional furnishings"
+    weather: "evening lamplight overlapping with dawn preparation light through same windows"
+  characters:
+    - appearance: "middle-aged tavern keeper with strong build from physical work, graying beard, kind but tired eyes from long days of service"
+      clothing: "practical work clothes with leather apron, sleeves rolled up for labor, keys hanging from belt"
+      position: "standing behind wooden bar counter, surrounded by both opening and closing activities"
+      action: "simultaneously setting out clean glasses for evening service while collecting empty ones from departed customers"
+  scene:
+    mainElements: "tavern interior showing tables being set for evening guests while simultaneously being cleared from day's business, candles being lit while others burn down to stubs, fresh bread set out while day's remnants are collected, no text or letters visible"
+    details: "individual glasses showing both sparkling cleanliness and wine stains from day's service, wooden surfaces both freshly wiped and marked by day's use, floor both swept clean and scattered with sawdust from evening activities, no text or letters visible"
+    background: "windows showing both afternoon light and evening darkness, street sounds of both daily business and evening social activity, kitchen visible with both meal preparation and cleanup occurring simultaneously"
+    atmosphere: "meditation on endless cycle of service and preparation, understanding that each day's work contains previous day's completion and next day's beginning, tavern keeper as eternal figure maintaining social gathering place, no text or letters visible"
+  composition:
+    cameraAngle: "view across tavern interior showing dual temporal states of preparation and completion"
+    focus: "the endless cycle of hospitality and service transcending individual days"
+    depth: "foreground shows detailed bar preparations and cleanup activities, middle ground captures tavern keeper managing dual temporal responsibilities, background reveals tavern's role as eternal social gathering space, no text or letters visible"

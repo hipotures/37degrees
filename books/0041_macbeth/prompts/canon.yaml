@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "macbeth"
+      name: "Macbeth"
+      description_block: |
+        characters:
+          - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+            clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+            posture: "Begins upright and commanding as seasoned battlefield commander. Gradually becomes more stooped, with nervous and prowling movements. During paranoid episodes shows sudden violent gestures. In final scenes returns to desperate warrior energy but driven by desperation rather than honor."
+
+    - id: "lady_macbeth"
+      name: "Lady Macbeth"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 30-40 years with slender but strong build suggesting steely will beneath seemingly fragile form. Face highly expressive with intelligent, determined features that gradually pale and grow gaunt. Dark hair initially carefully arranged but becomes disheveled as madness progresses. Eyes sharp and penetrating early on, later wide and unseeing during sleepwalking."
+            clothing: "As thane's wife wears long woolen gowns over linen chemise in rich but dark colors - deep green, burgundy, navy blue. As queen, more ornate but increasingly cold and severe styling. In sleepwalking scene reduced to simple white linen nightgown emphasizing vulnerability and stripped dignity."
+            posture: "Initially commanding and controlled with decisive gestures and movements. Gradually becomes more tense and brittle. Final scenes show obsessive repetitive hand-washing motions and slow, trance-like movements during madness."
+
+    - id: "three_witches"
+      name: "The Weird Sisters"
+      description_block: |
+        characters:
+          - appearance: "Three ageless crones with withered, inhuman features. Wrinkled and dried faces with thin lips and skeletal fingers. Most disturbing feature is presence of beards which blur gender boundaries. Movements unnatural and spasmodic, resembling birds or insects rather than human motion."
+            clothing: "Wild attire assembled from rags, animal skins, plant roots and natural debris. Appear to have grown from the barren heath itself rather than been dressed by human hands."
+            posture: "Hunched and crooked stances. Often form ritual circles with synchronized movements. Gestures are ritualistic and spell-casting in nature."
+
+    - id: "king_duncan"
+      name: "King Duncan"
+      description_block: |
+        characters:
+          - appearance: "Elderly man around 60 years with dignified bearing. Noble face expressing kindness and trust. Gray or white hair and beard. Features convey wisdom and fatherly benevolence, making his betrayal more tragic."
+            clothing: "Royal robes of fine materials with fur-lined cloak. Simple but elegant crown befitting rightful monarch. Colors reflect status but not ostentatious - deep blues and purples with gold trim."
+            posture: "Moves with royal dignity but without arrogance. Gestures are gracious and open, showing trust in those around him."
+
+    - id: "banquo"
+      name: "Banquo"
+      description_block: |
+        characters:
+          - appearance: "Man aged 35-45 years, powerfully built warrior similar to Macbeth but with more contemplative expression. Noble face reflecting cautious and reflective character. Dark hair and beard. As ghost appears pale and blood-matted with accusatory empty stare."
+            clothing: "Dressed as high-ranking thane similar to early Macbeth - practical warrior garb in dark colors with woolen cloak. As ghost, same clothing but spectral and bloodstained."
+            posture: "Steady and thoughtful bearing suggesting inner strength and moral certainty. As ghost, silent and unnaturally still except for penetrating gaze."
+
+    - id: "macduff"
+      name: "Macduff"
+      description_block: |
+        characters:
+          - appearance: "Man aged 35-45 years, powerful build equal to Macbeth making final duel credible. Stern, determined face expressing righteousness and passion. After family's murder, face marked by deep grief hardening into vengeful resolve."
+            clothing: "Practical attire of Scottish aristocrat - functional rather than ornate. Dark earth tones suitable for warrior. Leather armor in battle scenes."
+            posture: "Upright and decisive bearing reflecting moral conviction. Movements become more urgent and driven after learning of family's fate."
+
+  locations:
+    - id: "blasted_heath"
+      name: "Scottish Moorlands"
+      description_block: |
+        setting:
+          location: "Vast barren moorlands of 11th century Scotland - endless windswept heathland covered in shallow peat and treacherous boglands"
+        mainElements: "Rolling hills covered in coarse grasses and heather, scattered large boulders, isolated gnarled trees, patches of standing water and mist-shrouded valleys"
+        atmosphere: "Supernatural and primordial landscape where mist limits visibility and creates liminal space between real and otherworldly. Frequent storms with lightning illuminate the desolate terrain. In late summer, purple heather blooms create striking color against otherwise muted palette"
+
+    - id: "inverness_castle"
+      name: "Castle Inverness"
+      description_block: |
+        setting:
+          location: "11th century Scottish fortress built of gray stone with thick defensive walls and narrow windows"
+        mainElements: "Great hall with massive stone fireplace, wooden trestle tables and benches, heavy tapestries depicting hunting scenes. Stone corridors lit by torches, small chambers with arrow-slit windows. Courtyard surrounded by high walls with defensive towers"
+        atmosphere: "Appears hospitable but harbors menace beneath surface. Flickering torch and candlelight creates dancing shadows. Cold stone surfaces and echoing sounds enhance claustrophobic tension of conspiracy and murder"
+
+    - id: "dunsinane_castle"
+      name: "Dunsinane Fortress"
+      description_block: |
+        setting:
+          location: "Heavily fortified hilltop castle in Scotland, more imposing and militaristic than Inverness"
+        mainElements: "Massive defensive walls with battlements, central keep tower, great throne room with uncomfortable oversized throne. Sparse furnishing with emphasis on military function over comfort. Narrow windows with iron bars suggesting fortress under siege"
+        atmosphere: "Oppressive and isolating stronghold reflecting Macbeth's paranoia and tyrannical rule. Even in daylight feels shrouded in gloom. Echoing emptiness of large halls emphasizes loneliness of absolute power"
+
+    - id: "witches_cavern" 
+      name: "Supernatural Dwelling"
+      description_block: |
+        setting:
+          location: "Dark underground cavern or ruined structure where otherworldly forces gather"
+        mainElements: "Large bubbling cauldron as centerpiece lit from below by unnatural green or orange flames. Rough stone walls lined with animal skulls, dried herbs, and mysterious objects. Uneven rocky surfaces creating grotesque shadows"
+        atmosphere: "Evil and magical realm where natural order is inverted. Only light source is supernatural glow from cauldron creating moving, distorted shadows. Smoke and vapor fill the air with sense of dark ritual and forbidden knowledge"
+
+  items:
+    - id: "bloody_dagger"
+      name: "Hallucinated Dagger"
+      description_block: |
+        details: "11th century iron dagger with simple cross-guard and leather-wrapped handle. In Macbeth's vision floats in air with blade pointing toward him, drops of blood forming on steel edge and dripping to ground. Represents both temptation to commit murder and inevitable guilt that follows"
+
+    - id: "scottish_crown"
+      name: "Crown of Scotland" 
+      description_block: |
+        details: "Simple early medieval crown of hammered gold or silver - open circlet with minimal decoration appropriate to 11th century. Appears heavy and uncomfortable when worn by Macbeth, symbolizing usurped authority that weighs like curse rather than honor"
+
+    - id: "witches_cauldron"
+      name: "Ritual Cauldron"
+      description_block: |
+        details: "Large black iron cauldron suspended over fire by chain or resting on tripod legs. Steam and unnatural light emanate from interior where supernatural brew bubbles. Contains mysterious ingredients creating thick vapors that obscure vision and enhance otherworldly atmosphere"
+
+    - id: "banquos_ghost"
+      name: "Spectral Presence"
+      description_block: |
+        details: "Pale translucent figure of murdered Banquo with blood-matted hair and gory wounds visible. Sits silently at feast table in Macbeth's place, visible only to murderer himself. Eyes are empty but accusatory, mouth does not speak but presence screams of guilt and retribution"
+
+    - id: "severed_head"
+      name: "Tyrant's Final Trophy"
+      description_block: |
+        details: "Macbeth's severed head impaled on spear point or sword blade, held aloft by Macduff. Face frozen in final expression of shock and agony. Blood-stained and grotesque but necessary symbol of justice restored and tyranny ended"

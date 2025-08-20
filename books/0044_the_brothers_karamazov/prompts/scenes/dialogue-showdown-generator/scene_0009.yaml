@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Violence erupts in father's house"
+  setting:
+    time: "1860s Russian Empire, evening"
+    location: "Interior of Karamazov family house in provincial town Skotoprigoniewsk, main room with labyrinthine character"
+    weather: "Evening darkness outside, indoor oil lamp lighting"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Advancing menacingly across room toward cowering father
+      action: Grabbing father by collar, throwing him violently to floor, face twisted with murderous rage
+    - appearance: 55-year-old man with long, fleshy bags under perpetually insolent, suspicious and lustful small eyes, small fat face covered with numerous deep wrinkles
+      clothing: Provincial gentleman attire in disarray, stained clothing reflecting neglectful lifestyle, loose garments for comfort at home
+      position: Sprawled on floor at son's feet, defensive posture
+      action: Cowering beneath son's violence, cynical smirk replaced by genuine fear
+    - appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant narrow brown eyes, serious expression
+      clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+      position: Standing against wall, witness to violence
+      action: Watching with cold analytical interest, neither intervening nor fleeing
+  scene:
+    mainElements: "Neglected house interior with crumbling wallpaper witnessing family violence, furniture overturned in struggle, oil lamps casting dramatic shadows on brutal scene"
+    details: "Harsh lighting emphasizing violence, shadows dancing wildly from struggle, smell of neglect and moral decay pervading air, house's labyrinthine layout trapping conflict"
+    background: "Cracked walls and peeling wallpaper reflecting family moral decay, unexpected cupboards and corners hiding in shadows, red roof visible through window like prophecy"
+    atmosphere: "Moral corruption erupting into physical violence, dysfunctional family reaching moment of explosive hatred"
+  composition:
+    cameraAngle: "Low angle showing Dymitr's dominance over prostrate father with Iwan observing coldly"
+    focus: "Dymitr's hands gripping father's clothing, face showing murderous intent barely restrained"
+    depth: "Foreground shows violent confrontation, middle ground captures analytical observer, background reveals house's decaying moral architecture"

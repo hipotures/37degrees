@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Pre-Dawn Darkness Over Medieval Paris"
+  setting:
+    time: "January 6th 1482, pre-dawn darkness, last stars fading"
+    location: "Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals"
+    weather: "Clear cold winter night with light frost coating stone surfaces"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight, architectural symphony in stone with three monumental arched portals and enormous central rose window barely visible in darkness"
+    details: "Massive cathedral towers rise into star-studded sky, gargoyles and chimeras perched along rooflines create mysterious silhouettes, scattered torches from distant streets cast faint orange glows on weathered stone walls, frost glitters on carved details of portals and galleries"
+    background: "Medieval Parisian cityscape spreads in all directions with peaked roofs and church spires emerging from morning mist, Seine River curves through sleeping city, scattered points of candlelight in windows"
+    atmosphere: "World holding its breath in profound silence broken only by distant church bell tolling hours, sense of ancient majesty and timeless endurance, mysterious and sacred presence in stone"
+  composition:
+    cameraAngle: "Low angle view looking up at cathedral towers against starry sky"
+    focus: "Massive stone facade with sculptural details emerging from darkness"
+    depth: "Foreground shows empty cobblestone plaza, middle ground features cathedral facade, background reveals misty cityscape under fading stars"

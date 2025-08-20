@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, deep night in war planning chamber
+    location: Hidden command room with maps, documents, and strategic materials
+    weather: Moonless night providing perfect cover for covert operations
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Leans over detailed map marking positions and timing with military precision
+    action: Calculates exact sequence of moves needed to remove corrupt elements while minimizing harm to innocent population,
+      each action planned with surgeon's care
+  scene:
+    mainElements: Large table covered with detailed maps showing castle layout, guard rotations, and escape routes. Oil lamps
+      provide focused lighting on strategic documents. Careful notes track movement patterns and timing requirements
+    details: Every aspect planned to eliminate only necessary targets while protecting those who serve under compulsion rather
+      than choice. Guard schedules studied to identify moments when minimal force required. Escape routes prepared to avoid
+      civilian casualties. Each step designed to achieve maximum justice with minimum bloodshed
+    background: Weapons arranged systematically - tools chosen for efficiency rather than cruelty. Documents detail crimes
+      of targets, justifying their removal as surgical necessity. Maps show alternate approaches preserving innocent lives
+    atmosphere: Methodical preparation reveals commitment to proportional response rather than vengeful massacre. Intelligence
+      and discipline applied to ensure only guilty suffer consequences. Professional approach to removing cancer from social
+      body through targeted intervention
+  composition:
+    cameraAngle: Overhead view showing meticulous planning spread across table surface
+    focus: Precise calculation tools and documents demonstrating surgical approach to justice
+    depth: Foreground shows detailed planning materials, middle ground reveals careful strategist, background suggests larger
+      purpose behind precise methods
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

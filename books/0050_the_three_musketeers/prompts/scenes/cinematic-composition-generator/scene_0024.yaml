@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silhouette of Final Justice"
+  setting:
+    time: "1628, midnight"
+    location: "dark riverbank in northern France at night, remote location chosen for secret execution"
+    weather: "storm clearing with moonlight breaking through clouds"
+  characters:
+    - appearance: "executioner figure in dark robes"
+      clothing: "black executioner robes with hood"
+      position: "silhouette against bright moonlit sky"
+      action: "raising sword for final strike of justice"
+    - appearance: "group of men standing in shadows"
+      clothing: "dark travel clothing"
+      position: "silhouettes forming circle of witnesses"
+      action: "observing final moments of justice with solemn bearing"
+  scene:
+    mainElements: "pure silhouette composition with figures as black shapes against dramatic moonlit sky"
+    details: "dark riverbank creating stage for final drama, rushing water reflecting moonlight, bare trees creating vertical lines, figures reduced to essential shapes without detail, moonlight breaking through storm clouds creating backlighting"
+    background: "dramatic sky with storm clouds parting to reveal full moon, suggesting divine judgment"
+    atmosphere: "ultimate justice carried out in shadows, moonlight creating spiritual dimension to earthly judgment"
+  composition:
+    cameraAngle: "wide shot with low angle emphasizing sky and silhouette shapes"
+    focus: "sharp silhouettes against bright sky creating maximum contrast"
+    depth: "riverbank in foreground, silhouetted figures in middle ground, dramatic sky dominating background, no text or letters visible"

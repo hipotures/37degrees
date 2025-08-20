@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, late afternoon
+    location: Stone-paved street within Mycenaean settlement leading from palace complex toward residential quarter
+    weather: Warm Mediterranean afternoon with golden light casting long shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone-paved pathway flanked by multi-story buildings with characteristic Mycenaean architectural features,
+      stepped building foundations following hillside contours, wooden balconies and external staircases, storage rooms at
+      ground level with living quarters above
+    details: Cyclopean stone foundations supporting timber and mud-brick upper walls, flat roofs with wooden beams and clay
+      tiles, small high windows with wooden shutters, colorful geometric frescoes decorating wall surfaces in typical Mycenaean
+      patterns, large ceramic storage jars (pithoi) positioned beside doorways, bronze fittings on doors and gates, stone
+      drains running along street edges, oil lamps mounted in wall niches, wooden benches built into building facades
+    background: Stone stairways climbing toward upper residential terraces, glimpses of palace megaron rising above surrounding
+      structures, olive groves and Mediterranean vegetation visible on hillsides beyond settlement walls
+    atmosphere: Bustling residential life of Bronze Age community, warm afternoon light illuminating ancient stonework, sounds
+      of daily activity echoing between stone walls, sense of established civilization with sophisticated urban planning
+  composition:
+    cameraAngle: Street-level perspective looking down the paved pathway
+    focus: Central stone street with architectural details of flanking buildings clearly visible
+    depth: 'Foreground: stone paving and immediate building details, middle ground: full building facades and street furniture,
+      background: rising hillside and palace structures'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

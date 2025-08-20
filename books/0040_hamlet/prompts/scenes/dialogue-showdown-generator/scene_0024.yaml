@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Verdict - Justice Finally Served"
+  setting:
+    time: "Late 1590s, afternoon"
+    location: "Massive ceremonial hall in Elsinore Castle in aftermath of deadly duel"
+    weather: ""
+  characters:
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "White linen fencing shirt darkened with spreading poison and blood"
+      position: "Standing over Claudius's fallen body, rapier still in hand"
+      action: "Looking down at dead king with mixture of satisfaction and exhausted sadness, justice finally achieved"
+    - appearance: "Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace, possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual"
+      clothing: "Rich royal garments in purple, scarlet, and gold now stained with blood and spilled poison"
+      position: "Collapsed beside overturned throne, crown fallen nearby"
+      action: "Dead from poisoned rapier and forced consumption of his own poison wine"
+  scene:
+    mainElements: "Overturned throne, fallen crown, spilled poison wine cup, scattered papers and royal regalia, bodies of the guilty"
+    details: "The fallen crown beside Claudius's body symbolizes justice served and illegitimate reign ended. Royal regalia scattered and stained shows corruption finally punished. Hamlet stands victorious but dying, having achieved his father's mandate at ultimate cost."
+    background: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+    atmosphere: "Justice achieved through mutual destruction, moral victory at price of life"
+  composition:
+    cameraAngle: "High angle showing fallen king beneath victorious but dying prince"
+    focus: "Fallen crown as symbol of justice served and order restored"
+    depth: "Foreground shows fallen crown, middle shows Claudius's body, background shows standing Hamlet"

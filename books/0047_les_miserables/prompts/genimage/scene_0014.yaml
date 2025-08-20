@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1828, afternoon lesson period
+    location: Classroom in government-regulated school, Paris educational district
+    weather: Interior scene with afternoon light filtered through tall institutional windows
+  characters:
+  - appearance: School children with identical posture and expression, individual curiosity suppressed through rigid discipline
+    clothing: Regulation school uniforms without personal variation, hands folded in prescribed position, faces directed forward
+    position: Seated in straight rows at identical wooden desks
+    action: Copying official text in identical handwriting, memorizing approved information without questioning, responses
+      given in chorus
+  - appearance: School instructor enforcing educational conformity, expression of stern authority over developing minds
+    clothing: Severe black academic dress with white collar, hair arranged in regulation style, ruler carried as symbol of
+      disciplinary power
+    position: Standing at front of classroom before official lesson board
+    action: Teaching approved curriculum from government textbooks, suppressing individual questions, measuring student compliance
+      with official knowledge
+  scene:
+    mainElements: Classroom with identical wooden desks arranged in rigid formation, blackboard displaying official educational
+      content, portrait of authority figures
+    details: Government-approved textbooks with identical content at each desk, students using regulation pens and ink. Posted
+      charts showing proper handwriting and approved thinking patterns, punishment devices for correcting deviations. Clock
+      showing structured time divisions, maps displaying only approved geographical information
+    background: Institutional windows designed to prevent outside distraction, walls displaying official educational slogans
+      and moral instructions
+    atmosphere: Intellectual development controlled by state requirements, natural learning curiosity channeled into approved
+      patterns of thought
+  composition:
+    cameraAngle: Classroom view showing systematic educational control
+    focus: Regimented learning environment eliminating individual intellectual development
+    depth: Conforming students in foreground, controlling instructor in middle ground, institutional educational apparatus
+      in background designed to produce compliant citizens
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

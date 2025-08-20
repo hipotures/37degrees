@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, morning after earthquake
+    location: Mycenaean settlement showing damage from seismic activity, representing natural forces threatening Bronze Age
+      stability
+    weather: Clear morning revealing full extent of destruction with dust still settling
+  characters: No characters present in this scene
+  scene:
+    mainElements: Partially collapsed stone buildings with walls cracked and shifted, bronze objects scattered and damaged,
+      ceramic storage vessels broken with contents spilled, defensive walls breached by earth movement, infrastructure requiring
+      urgent repair
+    details: Cyclopean stone blocks displaced from their fitted positions, wooden roof beams fallen and splintered, bronze
+      tools and weapons bent and scattered, ceramic shards covering stone pavements, cracks in stone paving showing earth
+      movement, oil lamps extinguished and broken, water systems disrupted with pipes broken and cisterns cracked, agricultural
+      terraces partially collapsed affecting food production
+    background: Mountain slopes showing fresh rockfall and landslide scars, harbor area with stone quay damaged and vessels
+      listing, Mediterranean landscape altered by seismic activity, distant settlements also showing smoke and damage
+    atmosphere: Fragility of Bronze Age civilization confronting natural forces, aftermath silence following disaster, urgent
+      need for community cooperation in recovery, sobering reminder of human vulnerability despite technological achievement
+  composition:
+    cameraAngle: Survey view showing extent of seismic damage throughout settlement
+    focus: Central area with collapsed buildings and scattered bronze Age materials
+    depth: 'Foreground: immediate damage with broken objects and collapsed structures, middle ground: affected buildings and
+      infrastructure, background: broader landscape showing regional impact'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

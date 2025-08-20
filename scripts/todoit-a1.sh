@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # ---
-# Skrypt do generowania obrazów dla serii książek przy użyciu TODOIT i narzędzia Claude.
+# Skrypt do generowania scen dla serii książek przy użyciu TODOIT i narzędzia Claude.
 #
-# Ten skrypt automatyzuje proces generowania obrazów dla zdefiniowanej listy książek,
+# Ten skrypt automatyzuje proces generowania scen dla zdefiniowanej listy książek,
 # używając systemu zarządzania zadaniami TODOIT. Dla każdej książki na liście,
 # skrypt pobiera pending zadania z TODOIT i wykonuje je jedno po drugim.
 # ---
@@ -12,18 +12,25 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0034_to_kill_a_mockingbird"
-  "0037_wuthering_heights"
+  "0042_king_lear"
+  "0043_crime_and_punishment"
+  "0044_the_brothers_karamazov"
+  "0045_war_and_peace"
+  "0046_madame_bovary"
+  "0047_les_miserables"
+  "0048_the_hunchback_of_notredame"
+  "0049_the_count_of_monte_cristo"
+  "0050_the_three_musketeers"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
-COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-a3.md"
+COMMAND_FILE="/home/xai/DEV/37degrees/.claude/agents/37d-a1-generate-scenes.md"
 
 # Plik konfiguracyjny MCP.
 MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
 
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
-SLEEP_DURATION=103
+SLEEP_DURATION=11
 
 # Sprawdzenie, czy plik z komendą istnieje, aby uniknąć błędów.
 if [ ! -f "$COMMAND_FILE" ]; then
@@ -35,7 +42,7 @@ fi
 check_progress() {
     local book_dir="$1"
     echo "📊 Sprawdzam postęp dla $book_dir..."
-    todoit list show "$book_dir"
+    todoit list show --list "$book_dir"
 }
 
 # Funkcja do rozpoznawania błędów limitu Claude'a
@@ -72,15 +79,26 @@ calculate_sleep_time() {
     echo "$sleep_time"
 }
 
-# Funkcja do pobrania następnego zadania z TODOIT
-get_next_task() {
-    local book_dir="$1"
-    
-    # Pobierz następne zadanie z image_generated: pending
-    TODOIT_OUTPUT_FORMAT=json \
-    todoit item find "$book_dir" --property image_generated --value pending --first 2>/dev/null \
-    | jq -er 'if (.count // 0) > 0 then .data[0]["Item Key"] else halt_error(1) end' 2>/dev/null \
-    || return 1
+# Funkcja sprawdzenia czy książka potrzebuje generowania scen
+needs_scene_generation() {
+  local list_key="$1"
+  
+  # Sprawdź czy istnieją jakieś scene_gen=pending
+  local pending_count
+  pending_count=$(TODOIT_OUTPUT_FORMAT=json \
+    todoit item find-subitems \
+      --list "$list_key" \
+      --conditions '{"scene_gen":"pending"}' \
+      2>/dev/null \
+    | jq -r '.count // 0' 2>/dev/null | tr -d '\n' || echo "0")
+  
+  # Upewnij się że to jest liczba
+  if ! [[ "$pending_count" =~ ^[0-9]+$ ]]; then
+    pending_count=0
+  fi
+  
+  # Zwróć 0 (sukces) jeśli są pending zadania, 1 (błąd) jeśli nie ma
+  [ "$pending_count" -gt 0 ]
 }
 
 # Funkcja do wykonania komendy claude z retry logic
@@ -146,32 +164,27 @@ for book_dir in "${book_directories[@]}"; do
     echo "Rozpoczynam przetwarzanie dla książki: $book_dir"
     echo "=================================================="
 
+    # Sprawdź czy lista TODOIT istnieje
+    if ! todoit list show --list "$book_dir" >/dev/null 2>&1; then
+        echo "⏭️  Lista TODOIT '$book_dir' nie istnieje - pomijam"
+        echo ""
+        continue
+    fi
+
     # Wywołaj funkcję sprawdzania postępu
     check_progress "$book_dir"
 
-    # Pętla wykonująca się dopóki są zadania do zrobienia w TODOIT
-    iteration=1
-    
-    while true; do
-        echo "-> Iteracja $iteration dla książki: $book_dir"
+    # Sprawdź czy książka potrzebuje generowania scen
+    if needs_scene_generation "$book_dir"; then
+        echo "🎯 Książka $book_dir potrzebuje generowania scen"
         
-        # Pobierz następne zadanie z TODOIT CLI
-        task_key=$(get_next_task "$book_dir")
-        
-        if [ -z "$task_key" ]; then
-            echo "✅ Brak pending zadań dla $book_dir - wszystko ukończone!"
-            break
-        fi
-        
-        echo "🎯 Następne zadanie: $task_key"
-        
-        # Wywołaj orchestrator 37d-c3 dla konkretnego zadania z retry logic
+        # Wywołaj agenta 37d-a1-generate-scenes dla całej książki z retry logic
         claude_output=$(execute_claude_with_retry "$book_dir")
 
         # Sprawdzenie kodu wyjścia ostatniej komendy.
         exit_code=$?
         if [ $exit_code -ne 0 ]; then
-            echo "⚠️ Błąd: Polecenie 'claude' zakończyło się błędem w iteracji $iteration dla $book_dir."
+            echo "⚠️ Błąd: Polecenie 'claude' zakończyło się błędem dla $book_dir."
             
             # Sprawdź czy to błąd limitu Claude'a
             reset_timestamp=$(parse_claude_error "$claude_output")
@@ -191,10 +204,10 @@ for book_dir in "${book_directories[@]}"; do
                     sleep "$sleep_time"
                     echo "🚀 Kontynuowanie przetwarzania..."
                     
-                    # Nie zwiększaj licznika iteracji - powtórz tę samą iterację
-                    continue
-                else
-                    echo "✅ Limit już zresetowany, kontynuowanie..."
+                    # Spróbuj ponownie dla tej samej książki
+                    echo "🔄 Ponowna próba dla $book_dir..."
+                    claude_output=$(execute_claude_with_retry "$book_dir")
+                    exit_code=$?
                 fi
             else
                 # Sprawdź czy to błąd daily limit ChatGPT - przerwij cały skrypt
@@ -212,28 +225,18 @@ for book_dir in "${book_directories[@]}"; do
                     echo "❌ Inny błąd - przerywam przetwarzanie tej książki i przechodzę do następnej."
                     echo "Szczegóły błędu:"
                     echo "$claude_output"
-                    break
                 fi
             fi
-        else
-            # Wyświetl output z Claude tylko jeśli nie było błędu
+        fi
+        
+        # Wyświetl output z Claude tylko jeśli nie było błędu
+        if [ $exit_code -eq 0 ]; then
             echo "$claude_output"
+            echo "✅ Generowanie scen ukończone dla $book_dir"
         fi
-
-        echo "✅ Iteracja $iteration ukończona"
-        echo "Oczekiwanie przez $SLEEP_DURATION sekund przed następną iteracją..."
-        sleep "$SLEEP_DURATION"
-        echo "--------------------------------------------------"
-        
-        ((iteration++))
-        
-        # Zabezpieczenie przed nieskończoną pętlą - maksymalnie 30 iteracji
-        if [ $iteration -gt 30 ]; then
-            echo "⚠️ Osiągnięto maksymalną liczbę iteracji (30) dla $book_dir. Przerywam."
-            break
-        fi
-        check_progress "$book_dir"
-    done
+    else
+        echo "✅ Brak pending zadań dla $book_dir - wszystkie sceny już wygenerowane!"
+    fi
     
     echo "Zakończono przetwarzanie książki: $book_dir"
     echo ""

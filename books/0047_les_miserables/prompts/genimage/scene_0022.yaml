@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1832, evening during public ceremony
+    location: Theater-like view of Paris public space with hidden control mechanisms
+    weather: Theatrical lighting revealing manipulation apparatus above crowd
+  characters:
+  - appearance: Citizens participating in public demonstration with movements suggesting external control through invisible
+      strings
+    clothing: Formal ceremonial garments provided for public display, identical accessories suggesting coordinated manipulation
+    position: Arranged in formation that reveals puppet-like coordination
+    action: Moving with synchronized gestures suggesting invisible manipulation, raising arms in unison, turning heads simultaneously
+      as if controlled by unseen hands
+  - appearance: Puppet masters concealed above crowd level, hands controlling population movement through psychological manipulation
+    clothing: Dark clothing making them nearly invisible against shadows, hands wearing white gloves visible against darkness
+    position: Hidden in elevated positions above public space
+    action: Pulling invisible strings that control crowd behavior, manipulating public opinion through concealed psychological
+      techniques
+  scene:
+    mainElements: Public space arranged like theater stage with hidden control apparatus above, crowd moving in patterns suggesting
+      external manipulation
+    details: Invisible strings of psychological control extending from hidden positions to crowd members, synchronized movements
+      revealing mass manipulation. Stage-like lighting creating theatrical atmosphere, official observers positioned to monitor
+      effectiveness of crowd control techniques
+    background: Government buildings positioned like theater boxes overlooking human performance, officials watching crowd
+      manipulation from elevated positions
+    atmosphere: Public behavior controlled through invisible psychological manipulation, individual autonomy eliminated through
+      systematic crowd psychology
+  composition:
+    cameraAngle: Theatrical view revealing hidden control mechanisms above public space
+    focus: Invisible strings connecting manipulated population to hidden controllers
+    depth: Manipulated crowd in foreground, visible control apparatus in middle ground, hidden puppet masters in background
+      pulling psychological strings
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

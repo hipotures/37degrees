@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn and Dusk at the River - Daily Eternal Cycle"
+  setting:
+    time: "Single day compressed showing dawn and sunset simultaneously"
+    location: "riverbank on idyllic Rostov family country estate surrounded by Russian countryside of birch groves and meadows"
+    weather: "impossible coexistence of morning mist and evening golden light affecting same landscape"
+  characters:
+    - appearance: "elderly peasant fisherman with weathered face showing decades of outdoor work, stooped posture from age, wispy gray beard"
+      clothing: "simple peasant clothing worn smooth by countless dawns and sunsets, patched wool coat, rope belt, bare feet"
+      position: "sitting on riverbank holding fishing line, silhouette visible against both sunrise and sunset"
+      action: "casting fishing line into water while simultaneously drawing in evening catch"
+  scene:
+    mainElements: "river surface showing both morning reflection of rising sun and evening reflection of setting sun, fishing line visible in two temporal states of casting and retrieving, water ripples expanding from both morning and evening casts, no text or letters visible"
+    details: "individual water droplets from fishing line catching both dawn and sunset light, riverbank stones showing morning dew alongside evening warmth, fish jumping in water during both feeding times, campfire embers from night blending with morning cooking fire, no text or letters visible"
+    background: "birch trees on opposite bank showing morning fresh leaves and evening golden glow simultaneously, sky displaying both dawn's pale light and sunset's rich colors, distant estate buildings showing morning smoke and evening lamplight"
+    atmosphere: "profound meditation on daily rhythms that transcend individual days, understanding that each dawn contains all previous dawns and each sunset anticipates all future sunsets, fisherman as eternal figure witnessing endless daily cycles, no text or letters visible"
+  composition:
+    cameraAngle: "view across river showing fisherman's silhouette against both sunrise and sunset"
+    focus: "the eternal nature of daily rhythms transcending individual days"
+    depth: "foreground shows river surface with dual temporal light reflections, middle ground captures fisherman in timeless daily ritual, background emphasizes landscape's participation in endless daily cycles, no text or letters visible"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, golden hour sunset
+    location: Megalithic stone monuments on high plateau, representing mysterious pre-Bronze Age civilization
+    weather: Clear evening with dramatic sunset light illuminating ancient stones
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive standing stones arranged in circular patterns, dolmen structures with enormous capstones, ancient
+      burial chambers built from cyclopean blocks, primitive stone altars showing evidence of ritual use, astronomical alignments
+      suggesting sophisticated knowledge
+    details: Weathered granite monoliths covered with lichen and moss, carved symbols and spirals worn almost smooth by millennia
+      of exposure, stone circles with astronomical orientations to solstices and equinoxes, burial chambers containing ancient
+      pottery different from Mycenaean styles, primitive bronze artifacts of unfamiliar design, offering deposits including
+      polished stone axes and amber beads, evidence of fire ceremonies in stone-lined pits
+    background: Rolling highland landscape with distant mountain peaks, ancient oak forests surrounding monument complex,
+      stone-lined pathways connecting different ritual areas, Mediterranean landscape stretching to horizon
+    atmosphere: Profound antiquity and mysterious purpose far predating current civilization, sunset light creating dramatic
+      shadows among standing stones, sense of connection to forgotten peoples and lost knowledge, spiritual power transcending
+      historical understanding
+  composition:
+    cameraAngle: Dramatic sunset silhouette emphasizing monumental scale of ancient stones
+    focus: Central stone circle with megalithic architecture clearly defined against sky
+    depth: 'Foreground: ritual areas and carved stone details, middle ground: standing stone arrangements, background: highland
+      landscape and sunset sky'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

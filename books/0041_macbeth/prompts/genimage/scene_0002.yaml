@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, afternoon under overcast sky
+    location: Courtyard of fortress where judgment is dispensed by lord
+    weather: Gray clouds threatening rain, cold wind carrying scent of coming storm
+  characters:
+  - appearance: Young man aged 16-18 years with lean build and watchful dark eyes. Face shows premature seriousness beyond
+      his years, jaw set in controlled anger
+    clothing: Worn leather jerkin over simple tunic, sturdy boots showing travel wear. Cloak of decent wool but faded, marking
+      him as minor nobility or trusted retainer
+    position: Stands with crowd of onlookers near stone wall, positioned where he can observe but remain unnoticed
+    action: Witnesses elderly peasant pleading for mercy regarding grain tax, fists gradually clenching as he watches proceedings
+      with growing indignation
+  scene:
+    mainElements: Stone courtyard surrounded by high walls, raised dais where lord sits in judgment beneath colorful banners.
+      Guards in mail armor stand at attention, crowd of peasants and servants gathered in muddy ground below
+    details: Aged farmer kneels before judgment seat, thin from poor harvest, explaining his family's starvation while offering
+      last few coins. Lord sits comfortably in furs despite cold, dismissively waves away plea and orders seizure of remaining
+      possessions. Guards move forward to carry out sentence while crowd watches in fearful silence. Other nobles laugh quietly
+      among themselves at peasant's desperation
+    background: Fortress walls tower above scene, narrow windows suggesting watching eyes from above. Stocks and whipping
+      post visible as reminders of lord's authority. Dark clouds gather overhead reflecting mood of injustice
+    atmosphere: System reveals itself as machinery designed to crush those already suffering while protecting comfort of those
+      who need it least. Watching youth recognizes that mercy depends on status rather than justice, that laws serve those
+      who write them rather than those who suffer under them
+  composition:
+    cameraAngle: Eye level view from within crowd, emphasizing observer's helpless position
+    focus: Contrast between suffering peasant and indifferent noble power
+    depth: Foreground shows crowd of powerless witnesses, middle ground centers on moment of injustice, background looms with
+      architecture of oppression
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

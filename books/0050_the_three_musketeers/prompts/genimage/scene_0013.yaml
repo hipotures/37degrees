@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1625, morning
+    location: cobblestone streets of Paris, France under Louis XIII, narrow medieval lanes with overhanging timber buildings
+    weather: soft morning light
+  characters:
+  - appearance: 25-year-old woman with natural beauty, pale complexion, long blonde curls, large blue dreamy eyes, pink lips
+    clothing: simple but well-made burgundy wool dress with white lace collar, modest jewelry, practical leather shoes
+    position: visible through window frame, partially in profile
+    action: working at domestic tasks with graceful movements
+  - appearance: 20-year-old Gascon youth with energetic bearing and confident posture
+    clothing: worn blue woolen kaftan faded to indistinct shade between wine sediment and sky blue, single-feathered hat,
+      simple brown leather boots
+    position: shoulder partially visible at frame edge
+    action: observing through window with growing fascination
+  scene:
+    mainElements: over-the-shoulder shot following d'Artagnan's gaze while keeping him partially in frame
+    details: view of beautiful woman through window frame, morning light illuminating her golden hair and creating warm domestic
+      scene, window glass creating slight distortion, observer's shoulder and hat brim visible at frame edge
+    background: interior of modest but clean household visible beyond main subject
+    atmosphere: romantic fascination and growing attraction, soft morning light creating dreamy quality
+  composition:
+    cameraAngle: over-the-shoulder shot maintaining observer's presence while showing his viewpoint
+    focus: woman through window sharp, observer's shoulder slightly soft
+    depth: shoulder in immediate foreground, window and subject in middle ground, household interior in background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

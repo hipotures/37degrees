@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Overcast Cathedral Under Gray Skies"
+  setting:
+    time: "1482, overcast afternoon, flat gray light"
+    location: "Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals"
+    weather: "Heavy overcast sky with thick gray clouds eliminating shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight, architectural symphony in stone with three monumental arched portals and enormous central rose window"
+    details: "Flat gray light eliminates harsh shadows revealing every detail of stone carving, colors muted but rich in sculptural relief, weathered stone shows centuries of wear and repair, gargoyles and saints stand in stark detail against uniform sky"
+    background: "Medieval Paris spreads under heavy cloud cover with no dramatic lighting effects, uniform gray atmosphere over city rooftops"
+    atmosphere: "Contemplative and somber mood enhanced by even lighting, sense of endurance through all weather, architectural details emerge clearly without dramatic contrast"
+  composition:
+    cameraAngle: "Straight frontal view of cathedral facade under even lighting"
+    focus: "Rich sculptural details revealed by shadowless overcast light"
+    depth: "Foreground shows plaza stones, middle ground displays full facade detail, background shows gray sky and distant buildings"

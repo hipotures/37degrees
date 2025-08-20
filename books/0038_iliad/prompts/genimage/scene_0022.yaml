@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, early morning with mist rising
+    location: main entrance to Troy citadel, massive double gateway with flanking towers providing commanding view of battlefield
+    weather: Cool morning with mist creating ethereal atmosphere
+  characters:
+  - appearance: 35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered
+      face showing responsibility and resolve
+    clothing: finest Trojan bronze armor with distinctive helmet bearing flowing horsehair crest, bronze cuirass and greaves,
+      purple cloak of nobility
+    position: framed by massive stone gateway, walking toward battlefield
+    action: departing Troy for final battle, looking back once at city he defends
+  - appearance: 28-year-old Trojan noblewoman, elegant build befitting princess, dark hair in traditional style, expressive
+      eyes showing constant worry
+    clothing: long flowing robes in earth tones suitable for Trojan nobility, simple but fine jewelry, practical dress for
+      daily duties
+    position: visible through gateway arch, standing in shadow watching husband leave
+    action: raising hand in farewell gesture while holding small child
+  scene:
+    mainElements: Natural frame of Scaean Gate creating symbolic passage between domestic love and heroic duty
+    details: Massive stone archway with bronze reinforcements, carved reliefs showing Trojan history, morning mist swirling
+      around gateway, family silhouettes visible in shadow while hero walks toward sunlight, bronze armor catching first rays,
+      purple cloak streaming behind, footsteps echoing on stone pavement, ancient weathering on gate stones, no text or letters
+      visible
+    background: strategic position overlooking entire Trojan plain, sounds of battle drifting up from below, stone echoing
+      with footsteps and voices of defenders
+    atmosphere: Passage from love to duty, domestic world framed by stone architecture while duty calls beyond
+  composition:
+    cameraAngle: Wide shot using massive gateway arch as natural frame separating interior and exterior worlds
+    focus: Symbolic transition from protected domestic space to dangerous heroic realm
+    depth: 'Foreground: stone gateway details and architectural frame, middle: departing hero in armor, background: battlefield
+      and duty calling'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

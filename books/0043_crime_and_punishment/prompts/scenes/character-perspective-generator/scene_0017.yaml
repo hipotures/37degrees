@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Forensic Documentation of Crime Scene"
+  setting:
+    time: "July 1865, systematic evidence collection period"
+    location: "Fourth-floor apartment of a St. Petersburg tenement building, July 1865, measured and documented crime scene"
+    weather: "Indoor temperature 26 degrees Celsius, limited air circulation documented"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Spotlessly clean rooms with old yellowed wooden furniture, small icon with oil lamp burning in corner, antechamber separated by partition from kitchen area, main room with door curtained by calico leading to bedroom where strongbox is kept. Blood spatter patterns measured and documented, furniture positions recorded"
+    details: "Objective forensic analysis reveals crime sequence through physical evidence - blood drop trajectories indicating weapon arc, furniture displacement showing struggle locations, time estimates based on blood coagulation. Scientific measurement of room dimensions, door positioning, evidence of forced entry attempts on strongbox, documentation of religious artifacts position relative to violence location"
+    background: "Apartment layout documented as factor in crime execution, escape routes measured, acoustic properties tested for sound transmission to neighboring units"
+    atmosphere: "Clinical forensic environment where violence is analyzed as mechanical sequence of actions with measurable physical consequences, removing all emotional and moral interpretation"
+  composition:
+    cameraAngle: "Forensic photography perspective documenting evidence with scientific precision and emotional neutrality"
+    focus: "Physical evidence patterns revealing crime sequence through objective scientific analysis"
+    depth: "Foreground shows measurement tools and evidence markers, middle ground captures documented crime scene, background provides architectural context for event analysis, no text or letters visible"

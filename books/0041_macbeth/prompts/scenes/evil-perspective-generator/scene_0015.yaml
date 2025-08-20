@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Inner Turmoil Visible Only in Solitude"
+  setting:
+    time: "11th century Scotland, deep night in private sanctuary"
+    location: "Dark underground cavern or ruined structure where otherworldly forces gather"
+    weather: "Heavy mist rolling across landscape, dampening all sounds"
+  characters:
+    - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+      clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+      position: "Kneels beside trickling underground stream in hidden cavern"
+      action: "Cups water to drink while examining reflection that shows true cost of necessary actions, allowing mask of strength to slip momentarily in perfect solitude"
+  scene:
+    mainElements: "Natural underground chamber lit by few flickering candles, clear stream running through smooth stones. Rough stone walls lined with animal skulls, dried herbs, and mysterious objects. Small shrine or altar with offerings suggests spiritual seeking beyond worldly concerns"
+    details: "Reflected face shows exhaustion and grief carefully hidden from public view, hands shake slightly as they cup water revealing human vulnerability beneath warrior facade. Personal items suggest regular visits to this private space: worn prayer beads, faded letters from lost loved ones, small carved figure representing happier times"
+    background: "Cave extends into darkness suggesting depth of hidden emotional landscape, echo of water drops counts moments of solitude like heartbeat. Stone formations create natural sanctuary away from judgmental eyes and political pressures. Ancient cave paintings hint at others who sought solitude for similar spiritual burdens"
+    atmosphere: "Sacred space where authentic self emerges without public performance, showing profound emotional cost of bearing responsibility for difficult but necessary changes. Solitude provides no answers but offers momentary respite from impossible burden of leadership requiring harsh choices"
+  composition:
+    cameraAngle: "Intimate angle capturing vulnerability shown only in complete privacy"
+    focus: "Moment of human frailty behind public mask of strength and determination"
+    depth: "Foreground shows personal ritual of self-care, middle ground reveals hidden emotional turmoil, background suggests spiritual seeking and ancient wisdom"

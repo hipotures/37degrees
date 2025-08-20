@@ -1,0 +1,171 @@
+canon:
+  characters:
+    - id: "jean_valjean"
+      name: "Jean Valjean"
+      description_block: |
+        characters:
+          - appearance: "Powerful, muscular middle-aged man with extraordinary physical strength and weathered features from hard labor. Gray-brown hair, deep-set eyes that shift from hard suspicion to gentle compassion. Tall, imposing presence with calloused hands and sun-darkened skin"
+            clothing: "Simple, well-made dark coat and trousers of respectable quality, clean white shirt, practical leather boots. Garments are plain but decent, speaking of modest prosperity without ostentation"
+            posture: "Stands with quiet dignity but ready alertness, shoulders squared from years of heavy work, movements deliberate and controlled"
+            
+    - id: "inspector_javert"
+      name: "Inspector Javert"
+      name_alt: "Police Inspector"
+      description_block: |
+        characters:
+          - appearance: "Tall, angular man in his fifties with rigid military bearing. Steel-gray eyes, prominent jaw, thin lips set in perpetual severity. Dense dark side-whiskers frame his austere face"
+            clothing: "Immaculate dark blue police uniform with brass buttons, black leather boots polished to mirror shine, official cap with badge. Every detail precise and regulation-perfect"
+            posture: "Ramrod-straight spine, hands clasped behind back, chin elevated with absolute authority and unwavering moral certainty"
+            
+    - id: "fantine"
+      name: "Fantine"
+      description_block: |
+        characters:
+          - appearance: "Young woman in her twenties with once-beautiful features now marked by hardship. Large expressive eyes, delicate bone structure, skin pale from illness and poverty. Golden-blonde hair, either luxuriously long or cruelly shorn depending on circumstances"
+            clothing: "Simple gray wool dress of working-class grisette, white cap, worn shawl around shoulders. Garments clean but patched, showing dignity maintained despite poverty"
+            posture: "Graceful despite weariness, head held with quiet determination, hands clasped protectively as if shielding herself from the world's cruelty"
+            
+    - id: "cosette_child"
+      name: "Cosette"
+      name_alt: "Young Cosette"
+      description_block: |
+        characters:
+          - appearance: "Small eight-year-old girl with large, haunting dark eyes that seem too knowing for her years. Thin from malnutrition, pale skin marked with cold and neglect. Dark hair unkempt and raggedly cut"
+            clothing: "Threadbare dress of rough brown cloth, too large and hanging in tatters. Broken wooden shoes on bare feet, no stockings despite winter cold"
+            posture: "Hunched shoulders from fear and cold, moves quietly to avoid attention, clutches worn rag doll as only comfort"
+            
+    - id: "cosette_young_woman"
+      name: "Cosette"
+      name_alt: "Young Woman Cosette"  
+      description_block: |
+        characters:
+          - appearance: "Beautiful young woman of seventeen with luminous dark eyes and chestnut hair with golden highlights. Graceful figure, refined features, complexion like porcelain touched with rose. Carries herself with natural elegance"
+            clothing: "Well-tailored dress of fine dark fabric with white collar, elegant cloak, refined bonnet. Garments speak of prosperity and good taste without excessive luxury"
+            posture: "Moves with quiet grace and modest confidence, educated gestures, face often turned upward with curiosity and gentle intelligence"
+            
+    - id: "marius_pontmercy"
+      name: "Marius Pontmercy"
+      description_block: |
+        characters:
+          - appearance: "Handsome young man of twenty with dark hair and passionate eyes. Tall, lean build of youth, regular features marked by idealism and romantic intensity"
+            clothing: "Well-worn but clean black student's coat, simple white shirt, dark trousers. Clothing shows genteel poverty but maintained with pride"
+            posture: "Carries himself with youthful energy and conviction, gestures animated when speaking of principles, gaze often distant with romantic dreams"
+            
+    - id: "thenardier_male"
+      name: "Monsieur Thénardier"
+      description_block: |
+        characters:
+          - appearance: "Short, wiry man in his forties with cunning eyes and rat-like features. Thinning hair, sallow complexion, face that shifts between false servility and cruel calculation"
+            clothing: "Shabby innkeeper's apron over patched shirt and worn trousers, or deliberately ragged beggar's garments depending on the deception being practiced"
+            posture: "Posture changes with purpose - bowing and scraping when seeking advantage, menacing when in control, always watching for opportunity"
+            
+    - id: "thenardier_female"
+      name: "Madame Thénardier"
+      description_block: |
+        characters:
+          - appearance: "Large, robust woman with red face and masculine build. Coarse features, small mean eyes, hands hardened by rough work and violence"
+            clothing: "Stained apron over rough wool dress, heavy shoes, hair covered by grimy cap. Garments practical for hard work but slovenly in appearance"
+            posture: "Stands with hands on hips in aggressive dominance, heavy footsteps, movements quick to violence or threat"
+            
+    - id: "eponine"
+      name: "Éponine Thénardier"
+      description_block: |
+        characters:
+          - appearance: "Seventeen-year-old girl worn by poverty, thin and pale with large expressive eyes that hold both defiance and hidden tenderness. Dark hair roughly cut, features sharp from hunger but retaining traces of former beauty"
+            clothing: "Ragged boy's clothing - patched trousers, oversized jacket, broken shoes. Male disguise adopted for survival on dangerous streets"
+            posture: "Alert and wary, moves with street-smart agility, shoulders set defensively but capable of sudden vulnerable moments"
+            
+    - id: "gavroche"
+      name: "Gavroche"
+      description_block: |
+        characters:
+          - appearance: "Twelve-year-old boy, small and wiry with bright intelligent eyes and mischievous grin. Dirty face, tangled hair, quick movements of street child accustomed to danger"
+            clothing: "Oversized cast-off adult clothing - huge coat with sleeves rolled up, trousers held by rope belt, broken boots. Garments comically large but worn with street urchin pride"
+            posture: "Cocky stance with hands in pockets, head tilted with impudent confidence, ready to dart away at first sign of trouble"
+            
+    - id: "enjolras"
+      name: "Enjolras"
+      description_block: |
+        characters:
+          - appearance: "Young man of twenty-two with classical features and intense blue eyes that burn with revolutionary fervor. Blonde hair, pale complexion, face like a Greek statue animated by passionate conviction"
+            clothing: "Simple but well-cut student's coat, white shirt, dark vest. Clothing neat and proper despite revolutionary activities, worn with natural aristocratic bearing"
+            posture: "Stands with commanding presence and moral authority, gestures expansive when speaking of liberty, face often raised as if addressing invisible crowds"
+            
+    - id: "bishop_myriel"
+      name: "Bishop Myriel"
+      name_alt: "Bishop of Digne"
+      description_block: |
+        characters:
+          - appearance: "Elderly man of seventy-five with gentle, lined face surrounded by white hair. Kind blue eyes, serene expression that radiates goodness and wisdom gained through years of service"
+            clothing: "Simple black cassock of rough cloth, patched and mended, worn leather shoes. Clothing deliberately humble despite episcopal rank"
+            posture: "Moves with quiet dignity and unhurried grace, hands often clasped in prayer position, face lifted with expression of benevolent attention"
+
+  locations:
+    - id: "bishop_house_digne"
+      name: "Bishop's House, Digne"
+      description_block: |
+        setting:
+          location: "Simple stone house in Digne, southern French Provencal town, formerly hospital building converted to modest episcopal residence"
+        mainElements: "Plain dining room with whitewashed walls, heavy wooden table set with simple meal, massive stone fireplace with crackling logs, tall casement windows"
+        atmosphere: "Warm hospitality within humble surroundings, golden firelight casting gentle shadows, sense of sanctuary and Christian charity"
+        
+    - id: "thenardier_inn_montfermeil"
+      name: "Thénardier Inn, Montfermeil"
+      description_block: |
+        setting:
+          location: "Rough country inn in Montfermeil village, twenty miles east of Paris, serving travelers and local peasantry"
+        mainElements: "Low-ceilinged common room with smoke-blackened beams, large stone hearth with roasting spit, heavy wooden tables scarred by use, wine barrels along walls"
+        atmosphere: "Oppressive gloom despite dancing firelight, air thick with smoke and grease, undercurrent of menace and exploitation beneath rustic facade"
+        
+    - id: "paris_slum_gorbeau"
+      name: "Gorbeau Tenement, Paris"
+      description_block: |
+        setting:
+          location: "Decaying multi-story tenement building in poverty-stricken district of Paris, housing desperate poor in cramped squalor"
+        mainElements: "Narrow staircase with broken railings, dim corridors lined with peeling doors, small rooms with cracked plaster walls, single grimy windows"
+        atmosphere: "Pervasive dampness and decay, shadows that seem to harbor desperation, echo of footsteps on worn stone stairs, air heavy with poverty's smell"
+        
+    - id: "petit_picpus_convent"
+      name: "Petit-Picpus Convent"
+      description_block: |
+        setting:
+          location: "Enclosed religious community in secluded quarter of Paris, surrounded by high walls that separate sacred from secular world"
+        mainElements: "Peaceful garden with carefully tended flowers and vegetables, simple stone chapel with wooden pews, cloistered walkways with arched columns"
+        atmosphere: "Profound silence broken only by prayer bells, sense of timeless devotion, filtered sunlight creating patterns of contemplation"
+        
+    - id: "paris_sewers"
+      name: "Paris Sewers"
+      description_block: |
+        setting:
+          location: "Underground labyrinth of stone-lined tunnels beneath Paris streets, carrying city's waste through ancient Roman-built passages"
+        mainElements: "Narrow arched passages with slimy walls, flowing channels of dark water and debris, occasional iron grates allowing dim light from above"
+        atmosphere: "Absolute darkness penetrated by faint gleams, echoing drip of water, suffocating stench, sense of traversing underworld's bowels"
+        
+    - id: "revolutionary_barricade"
+      name: "Revolutionary Barricade"
+      description_block: |
+        setting:
+          location: "Improvised fortress blocking narrow Paris street, constructed from overturned omnibuses, paving stones, and furniture"
+        mainElements: "Chaotic wall three stories high built from debris, red revolutionary flags flying defiantly, scattered weapons and ammunition, smoke from gunfire"
+        atmosphere: "Desperate heroism mixed with inevitable doom, acrid smoke burning eyes, sound of distant drums and approaching troops"
+
+  items:
+    - id: "silver_candlesticks"
+      name: "Bishop's Silver Candlesticks"
+      description_block: |
+        details: "Pair of heavy silver candlesticks, the Bishop's only remaining valuable possessions, tall and elegant with classical design, holding pure white candles that cast gentle light"
+        
+    - id: "yellow_passport"
+      name: "Yellow Passport"
+      description_block: |
+        details: "Official document marking former convict status, printed on distinctive yellow paper that immediately identifies bearer as ex-prisoner, worn and folded from constant examination"
+        
+    - id: "cosette_doll"
+      name: "Cosette's Doll"
+      description_block: |
+        details: "Beautiful porcelain-headed doll with painted features and real hair, dressed in miniature gown of silk and lace, representing first gift of kindness Cosette ever received"
+        
+    - id: "revolutionary_flag"
+      name: "Revolutionary Flag"
+      description_block: |
+        details: "Red banner of the Republic, sewn from remnants of cloth and stained with patriots' blood, flying defiantly from barricade's highest point as symbol of freedom's cause"

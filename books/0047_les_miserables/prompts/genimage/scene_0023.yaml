@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1832, continuous surveillance period
+    location: Circular view of Paris revealing city as massive surveillance prison
+    weather: Harsh illumination exposing all activities to constant observation
+  characters:
+  - appearance: Citizens moving through urban environment under constant observation, behavior modified by awareness of surveillance
+    clothing: Ordinary dress chosen to avoid attracting attention, posture showing psychological impact of constant monitoring
+    position: Distributed throughout circular urban landscape with all areas visible from central point
+    action: Conducting daily activities while constantly aware of observation, self-censoring behavior, avoiding suspicious
+      gatherings
+  - appearance: Central surveillance authority positioned to observe entire population from elevated command position
+    clothing: Official uniform with insignia denoting surveillance authority, equipped with observation instruments
+    position: Located at center of circular observation system
+    action: Monitoring entire population through comprehensive surveillance network, recording suspicious behavior, maintaining
+      psychological control through visibility
+  scene:
+    mainElements: City organized as circular prison with central observation tower, all districts visible from controlling
+      central point
+    details: Observation posts positioned for maximum population monitoring, mirrors and optical devices extending surveillance
+      range. Official logs recording citizen behavior, communication networks connecting surveillance points, punishment apparatus
+      for controlling observed population
+    background: Urban architecture designed to eliminate private spaces, buildings arranged to prevent concealment from official
+      observation
+    atmosphere: Complete elimination of privacy creating psychological prison where behavior is controlled through constant
+      surveillance threat
+  composition:
+    cameraAngle: Central panopticon view showing total surveillance coverage of population
+    focus: Central observation point controlling entire urban population
+    depth: Surveillance apparatus in foreground, monitored population in middle ground, comprehensive control system in background
+      creating total psychological prison
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

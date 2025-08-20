@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: July 1865, simultaneous observation from multiple positions
+    location: Streets and squares of St. Petersburg during oppressive July heat wave, 1865
+    weather: Heat creating visibility challenges for surveillance operations
+  characters:
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Moving through crowd unaware of multiple observers tracking his movements
+    action: Walking with paranoid glances while being systematically followed by coordinated surveillance team
+  - appearance: Several plainclothes police agents positioned at various points, dressed to blend with crowd
+    clothing: Working class clothing designed to appear inconspicuous among street population
+    position: Strategically positioned at different vantage points around square and side streets
+    action: Coordinating surveillance using hand signals and predetermined positions to track suspect movement
+  scene:
+    mainElements: Suffocating heat creating visible air distortion, dust from constant construction covering everything with
+      lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg
+      stench from canals cheap alcohol and human sweat
+    details: Multiple simultaneous perspectives reveal what single viewpoint misses - agents positioned behind construction
+      scaffolding, watchers in upper windows, followers blending with crowd. Coordinated surveillance network tracking every
+      movement while subject remains unaware of observation web surrounding him. Different angles show escape routes being
+      monitored, backup agents waiting at predetermined positions
+    background: Urban environment utilized as surveillance network with multiple observation points providing comprehensive
+      coverage of suspect movements
+    atmosphere: Professional law enforcement operation utilizing city geography and crowd dynamics to maintain invisible but
+      complete observation coverage
+  composition:
+    cameraAngle: Multiple simultaneous perspectives showing surveillance network from various strategic positions
+    focus: Raskolnikov as unknowing center of coordinated observation web spanning entire area
+    depth: Foreground shows hidden watchers at different positions, middle ground captures suspect's movements, background
+      reveals full scope of surveillance operation, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

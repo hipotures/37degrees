@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, very late night approaching dawn
+    location: Inn door and entrance at Mokre village, threshold between celebration and justice
+    weather: Cold night air meeting warm interior
+  characters: null
+  scene:
+    mainElements: Inn door standing open showing contrast between warm festive interior and cold official exterior, threshold
+      marking transition from celebration to judgment
+    details: Door frame creating dramatic division between two worlds, cold night air rushing into warm celebration space,
+      official lanterns contrasting with festive candles
+    background: Wild celebration continuing inside oblivious to approaching justice, village night providing backdrop for
+      arrival of law
+    atmosphere: Moment of transition from desperate celebration to inexorable justice, wild joy about to be crushed by official
+      reality
+  composition:
+    cameraAngle: Wide shot through doorway showing contrast between celebration and arriving justice
+    focus: Open doorway framing moment when celebration meets justice
+    depth: Foreground shows official arrival, middle ground captures threshold moment, background shows continuing celebration
+      about to be shattered
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seeds of Resentment in Noble Hall"
+  setting:
+    time: "11th century Scotland, late evening by firelight"
+    location: "Great hall of Scottish thane's fortress during winter feast"
+    weather: "Snow falling outside, cold winds howling against stone walls"
+  characters:
+    - appearance: "Boy aged 8-10 years, small for his age with intelligent dark eyes that observe more than expected. Dark hair and lean build suggesting noble blood but secondary status"
+      clothing: "Simple wool tunic in muted brown, noticeably plainer than other children's rich garments. Clean but patched, marking him as dependent rather than heir"
+      position: "Stands apart at edge of great hall, partially hidden behind stone pillar"
+      action: "Watches silently as other children receive gifts and praise, his small hands clenched at sides while maintaining forced neutral expression"
+  scene:
+    mainElements: "Vast stone hall filled with warmth and laughter, great fire casting dancing shadows across walls hung with rich tapestries. Long wooden tables laden with feast remnants, carved chairs occupied by celebrating nobles"
+    details: "Wealthy children display new silver brooches and fine woolen cloaks while adults shower them with attention and affection. A particular boy of similar age receives ornate dagger and ceremonial blessing as future heir. Empty seat at high table where the watching child might have sat if circumstances were different. Servants clear golden platters and pour wine for honored guests"
+    background: "Storm rages beyond narrow windows, occasional lightning illuminating the contrast between warm interior luxury and harsh external world. Hunting banners display family crests that do not include the observing child's lineage"
+    atmosphere: "Surface warmth and celebration mask undercurrents of social hierarchy and exclusion. The boy's isolation amid plenty plants first seeds of understanding that birth determines worth, creating foundation for future resentment against systems that favor some while dismissing others"
+  composition:
+    cameraAngle: "Low angle from child's perspective looking up at adult world of privilege"
+    focus: "Contrast between excluded child in shadows and celebrated youth in firelight"
+    depth: "Foreground shows solitary figure, middle ground reveals privileged gathering, background suggests wider world of harsh reality beyond castle walls"

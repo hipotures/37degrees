@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, dawn light filtering through tent walls
+    location: spacious wooden shelter with skin roof, sleeping area with rich furnishings, area for weapons and armor storage,
+      courtyard space surrounded by palisade
+    weather: Still morning air with dew condensing on leather walls
+  characters:
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: unarmored in simple linen chiton, bronze arm bands, hair unbound
+    position: reflection visible in polished bronze mirror propped on wooden stand
+    action: studying his own face while contemplating mortality and choice between glory and life
+  scene:
+    mainElements: Mirror POV shot showing Achilles confronting his own image and destiny, divine beauty shadowed by knowledge
+      of early death
+    details: Polished bronze mirror reflecting perfect features touched by melancholy, morning light creating ethereal glow,
+      hands visible at frame edges holding mirror steady, tent furnishings blurred in background, divine armor hanging on
+      wooden rack catching light, personal belongings suggesting temporary nature of mortal life, no text or letters visible
+    background: private warrior's domain with weapons gleaming in lamplight, scent of leather and metal, sounds of sea nearby
+      and camp activity beyond
+    atmosphere: Divine beauty confronting mortal fate, moment of self-awareness before choosing heroic path to early grave
+  composition:
+    cameraAngle: Mirror reflection POV with hands partially visible holding polished bronze
+    focus: Self-recognition and acceptance of heroic destiny despite cost
+    depth: 'Foreground: mirror surface and hands, middle: reflected face showing internal conflict, background: armor and
+      weapons representing his choice'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, mid-morning
+    location: Artist's workshop within palace complex, showing creation of Mycenaean decorative arts and religious imagery
+    weather: Bright morning light providing optimal conditions for detailed artistic work
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone work tables covered with artistic materials and tools, partially completed fresco panels showing typical
+      Mycenaean motifs, bronze sculpture pieces in various stages of completion, ceramic vessels for mixing pigments and plaster,
+      wooden boards displaying color samples and design sketches
+    details: Natural mineral pigments arranged in ceramic bowls showing vibrant blues, reds, yellows, and whites, bronze tools
+      for carving and modeling including chisels and smoothing implements, wet lime plaster prepared for fresco application,
+      painted pottery showing geometric patterns and marine life motifs, bronze mirrors and jewelry with intricate decorative
+      engravings, stone molds for creating repeating design elements, brushes made from animal hair and plant fibers, completed
+      artworks showing dolphins, spirals, and ritual procession scenes
+    background: Stone walls displaying finished frescoes with characteristic Mycenaean artistic style, shelves holding completed
+      ceramic vessels and bronze objects, entrance opening providing natural light for detailed work
+    atmosphere: Creative energy and sophisticated artistic tradition, concentrated focus on fine craftsmanship, pleasant aromas
+      of wet plaster and natural pigments, sense of cultural refinement and aesthetic development in Bronze Age civilization
+  composition:
+    cameraAngle: Interior workshop view showing artistic process and materials
+    focus: Central work area with fresco painting and artistic tools clearly visible
+    depth: 'Foreground: pigments and artistic implements, middle ground: work tables and artwork in progress, background:
+      completed pieces and workshop storage'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

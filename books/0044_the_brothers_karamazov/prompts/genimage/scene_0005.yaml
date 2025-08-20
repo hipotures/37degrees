@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, evening deepening in tavern
+    location: Private booth in tavern Metropolia in provincial town Skotoprigoniewsk, isolated conversation space
+    weather: Dusk settling outside with gathering darkness
+  characters:
+  - appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant
+      narrow brown eyes, serious expression
+    clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+    position: Sitting back in chair, voice dropping to ominous whisper
+    action: Reciting legend of Grand Inquisitor with theatrical intensity, eyes fixed on brother's reaction
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Motionless in chair, paralyzed by brother's philosophical assault
+    action: Face showing spiritual devastation, eyes wide with shock at implications of brother's story
+  scene:
+    mainElements: Tavern booth now feeling like confessional or courtroom, oil lamp casting longer shadows, cognac bottle
+      nearly empty, plates forgotten, philosophical battle reaching climax
+    details: Lamplight creating dramatic chiaroscuro on faces, smoke swirling like incense of dark ritual, shadows lengthening
+      as daylight dies, table becoming altar of rational sacrifice
+    background: Tavern noise faded to whisper, partition walls closing in like prison, darkness gathering beyond lamp's circle
+    atmosphere: Crushing weight of logical despair, faith being systematically destroyed by merciless intellect, spiritual
+      darkness matching physical gloom
+  composition:
+    cameraAngle: Medium shot showing both brothers with lamp between them, creating stark light-dark division
+    focus: Iwan's mouth speaking destruction while Alosza's eyes register spiritual collapse
+    depth: Foreground shows philosophical weapons on table, middle ground captures spiritual battle, background shows encroaching
+      darkness
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

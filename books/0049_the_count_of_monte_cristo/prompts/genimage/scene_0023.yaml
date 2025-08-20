@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Multiple historical periods showing recurring patterns of justice
+    location: Public square in Marseilles across different political regimes
+    weather: Various lighting conditions showing different eras of French history
+  characters:
+  - appearance: Various figures from different French political periods - Revolutionary, Napoleonic, Restoration, July Monarchy
+      - all seeking justice in same public space
+    clothing: Period costumes spanning decades showing fashion evolution but consistent human motivations
+    position: Multiple temporal layers showing different generations seeking justice in same square
+    action: Repeated patterns of accusation, trial, and judgment across French political changes
+  scene:
+    mainElements: Public square architecture remaining constant while political symbols change - revolutionary flags becoming
+      imperial eagles becoming royal lilies becoming bourgeois banners
+    details: Same cobblestones worn by generations seeking justice, fountain providing constant water despite changing governments,
+      buildings showing different political decorations but same essential architecture
+    background: Marseilles buildings showing architectural continuity despite political upheavals, Mediterranean providing
+      eternal backdrop to temporary human conflicts
+    atmosphere: Historical patterns repeating as different regimes face same human conflicts. Sounds of different periods
+      overlapping - revolutionary songs, imperial marches, royal anthems, bourgeois commerce - but same human voices seeking
+      justice, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot showing public square across multiple historical periods
+    focus: Recurring human patterns of seeking justice despite changing political circumstances
+    depth: Foreground shows period-specific details and costumes, middle ground captures overlapping temporal figures, background
+      reveals architectural continuity across political change
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

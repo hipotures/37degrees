@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, late evening
+    location: Various locations in provincial town Skotoprigoniewsk, composite scene of desperate searching
+    weather: Dark evening with cold wind
+  characters:
+  - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face
+      capable of rapid changes from rage to passion to despair
+    clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle
+      and financial problems, occasionally blood-stained shirt
+    position: Moving frantically through town streets, door to door
+    action: Pleading desperately for money from various sources, face showing increasing desperation and wild determination
+  scene:
+    mainElements: Provincial town streets at night, various doorways and interiors where Dymitr seeks help, shadows and streetlamps
+      creating desperate urban landscape
+    details: Cold night wind whipping coat and hair, lamplight casting harsh shadows on increasingly desperate face, town
+      buildings becoming obstacles to salvation
+    background: Dark provincial town streets offering no refuge, windows of houses closing against desperate pleas, night
+      creating atmosphere of isolation
+    atmosphere: Growing desperation and panic, civilized world closing against desperate need, approaching violence bred by
+      financial desperation
+  composition:
+    cameraAngle: Dynamic shots following desperate movement through hostile urban landscape
+    focus: Dymitr's face showing increasing wildness and determination bordering on violence
+    depth: Foreground shows desperate figure, middle ground captures indifferent town, background shows darkness closing in
+      like fate
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

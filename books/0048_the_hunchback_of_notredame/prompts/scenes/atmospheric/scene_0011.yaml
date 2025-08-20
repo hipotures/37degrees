@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Slanted Light Through Bell Tower Beams"
+  setting:
+    time: "1482, afternoon, angled sunlight"
+    location: "Tower heights of Notre-Dame cathedral serving as Quasimodo kingdom and refuge"
+    weather: "Clear afternoon with strong directional sunlight"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Labyrinth of wooden beams stairs ropes and gigantic bronze bells, small stark stone cell with bare walls minimal furnishing"
+    details: "Afternoon sun streams through tower openings creating dramatic light shafts through ancient wooden framework, dust motes dance in golden beams, bronze bells catch glints of light on curved surfaces, rope and beam shadows create geometric patterns on stone walls"
+    background: "Views through tower openings reveal medieval Paris spread below with rooftops and spires, distant horizon visible through structural framework"
+    atmosphere: "Closed world that both protects from hostile world and isolates from it, kingdom of bronze bells treated as living beloved creatures, sense of sanctuary and solitude high above city"
+  composition:
+    cameraAngle: "Interior view through bell tower showing light beams and structural framework"
+    focus: "Dramatic light shafts illuminating bells and wooden beams"
+    depth: "Foreground shows rope and beam details, middle ground features bells in light, background glimpses city through openings"

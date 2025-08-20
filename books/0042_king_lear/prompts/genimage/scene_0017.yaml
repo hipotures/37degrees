@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, storm continuing
+    location: Desolate moorland in ancient Britain, endless barren landscape of rough grassland, heather, and scattered rocks
+      with no shelter from elements
+    weather: Wild, primitive, apocalyptic during storm with howling winds, driving rain, and constant thunder and lightning
+      illuminating the wasteland
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Soaked rags clinging to aged frame, no longer recognizable as royal garments
+    position: Backing away from confrontation, hands raised defensively
+    action: Trying to deny accusations while recognizing their truth
+  - appearance: Dark double growing more solid and menacing, features becoming clearer and more condemning
+    clothing: Grotesque parody of royal robes, tattered and stained with mud and darker substances
+    position: Advancing with increasing solidity and presence
+    action: Reciting catalog of Lear's failures, cruelties, and vanities with merciless accuracy
+  scene:
+    mainElements: Rolling hills covered in coarse vegetation, twisted shrubs, rocky outcroppings, muddy ground with standing
+      water, single ramshackle hovel built of sticks and sod
+    details: Shadow figure becoming more real and substantial while real Lear appears to fade and diminish. Ground between
+      them showing footprints of both figures, proving shadow's physical reality. Storm intensifying as internal conflict
+      reaches peak, lightning strikes illuminating accusatory scene
+    background: Landscape reflecting internal turmoil - twisted trees bending under storm, standing water reflecting lightning
+      like mirrors of judgment
+    atmosphere: Judgment scene where suppressed guilt manifests as accusing doppelganger. Truth spoken by shadow self more
+      devastating than external condemnation because it cannot be denied or dismissed
+  composition:
+    cameraAngle: Two-shot showing power dynamics shifting as shadow grows stronger and Lear weakens
+    focus: Expressions of accusation and guilty recognition, growing distinction between diminishing real self and strengthening
+      shadow
+    depth: Confronting figures in sharp focus, stormy landscape providing backdrop for internal drama
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

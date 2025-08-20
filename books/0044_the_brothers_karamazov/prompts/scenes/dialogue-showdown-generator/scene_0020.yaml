@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The law arrives at Mokre"
+  setting:
+    time: "1860s Russian Empire, very late night approaching dawn"
+    location: "Inn door and entrance at Mokre village, threshold between celebration and justice"
+    weather: "Cold night air meeting warm interior"
+  characters:
+  scene:
+    mainElements: "Inn door standing open showing contrast between warm festive interior and cold official exterior, threshold marking transition from celebration to judgment"
+    details: "Door frame creating dramatic division between two worlds, cold night air rushing into warm celebration space, official lanterns contrasting with festive candles"
+    background: "Wild celebration continuing inside oblivious to approaching justice, village night providing backdrop for arrival of law"
+    atmosphere: "Moment of transition from desperate celebration to inexorable justice, wild joy about to be crushed by official reality"
+  composition:
+    cameraAngle: "Wide shot through doorway showing contrast between celebration and arriving justice"
+    focus: "Open doorway framing moment when celebration meets justice"
+    depth: "Foreground shows official arrival, middle ground captures threshold moment, background shows continuing celebration about to be shattered"

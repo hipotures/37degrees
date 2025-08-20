@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: All seasons compressed into single temporal view
+    location: same Rostov family estate orchard showing simultaneous seasonal states
+    weather: impossible combination of spring rain, summer sun, autumn mist, and winter snow coexisting
+  characters: No characters present in this scene
+  scene:
+    mainElements: miraculous apple trees showing spring buds, summer fruit, autumn leaves, and winter branches simultaneously,
+      path through orchard displaying footprints in mud, grass, fallen leaves, and snow in sequence, wooden fence showing
+      all stages of seasonal weathering, no text or letters visible
+    details: individual trees displaying quarters of seasonal development on same trunk, ground showing progression of spring
+      flowers to summer grass to autumn leaves to winter snow in distinct zones, lighting conditions shifting from gentle
+      spring to bright summer to golden autumn to stark winter across frame, no text or letters visible
+    background: estate landscape showing impossible seasonal coexistence, manor house with spring green, summer fullness,
+      autumn colors, and winter snow visible on different sections, sky displaying all seasonal cloud patterns and colors
+      simultaneously
+    atmosphere: mystical compression of temporal cycle into eternal moment, sense of all seasons existing simultaneously in
+      nature's memory, revelation of time's cyclical rather than linear nature, profound meditation on permanence within change,
+      no text or letters visible
+  composition:
+    cameraAngle: elevated perspective allowing view of full seasonal spectrum in single frame
+    focus: the eternal nature of seasonal cycles transcending linear time
+    depth: foreground shows detailed seasonal transitions in ground and lower branches, middle ground reveals impossible full
+      seasonal display in single orchard, background extends to estate showing cosmic seasonal simultaneity, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

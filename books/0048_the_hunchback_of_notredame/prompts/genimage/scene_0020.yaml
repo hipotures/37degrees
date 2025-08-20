@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1482, late night, fog rising from Seine
+    location: Large irregular unpaved square in medieval Paris gently sloping toward sandy bank of Seine River, main river
+      port and public gathering place
+    weather: Dense fog rolling up from river creating mysterious atmosphere
+  characters: No characters present in this scene
+  scene:
+    mainElements: Place of extreme contrasts - festival life and celebrations versus dread and macabre as main execution square,
+      now shrouded in mysterious fog
+    details: Thick fog swirls around scattered torches and lanterns creating halos of warm light in gray mist, structures
+      appear and disappear in shifting fog, cobblestones gleam with moisture, wooden posts and fixtures emerge ghostlike from
+      mist
+    background: Medieval buildings fade to suggestions in fog, Seine River completely invisible beneath blanket of mist, distant
+      lights create faint glows through vapor
+    atmosphere: Mysterious transformation of familiar public space into dreamlike environment, sense of secrets hidden in
+      mist, unusual nocturnal conditions creating otherworldly beauty
+  composition:
+    cameraAngle: Ground level view emphasizing fog effects and light halos
+    focus: Spectacular interplay between artificial lights and natural fog creating halos
+    depth: Foreground shows fog swirling over cobblestones, middle ground features mysterious structures, background disappears
+      into gray mist
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

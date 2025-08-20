@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Summer heat waves shimmering while feet sink deep into burning sand"
+  setting:
+    time: "1840s summer afternoon, scorching midday heat"
+    location: "Courtyard of doctor's house, Tostes, provincial Normandy, during drought"
+    weather: "Extreme summer heat with visible heat waves rising from sun-baked surfaces"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Light cotton dress sticking to perspiring skin, hair damp with sweat at temples, bare arms glistening with moisture"
+      position: "Standing in direct sunlight in dusty courtyard, feet partially buried in hot sand and dust"
+      action: "Lifting one foot then the other from burning ground, shielding eyes from blazing sun, wiping perspiration from forehead with back of hand"
+  scene:
+    mainElements: "Intense heat waves rising from baked earth creating visual distortion, shadows razor-sharp and black in contrast to blindingly bright sunlit areas, dust motes dancing in superheated air like tiny flames"
+    details: "Sand so hot it burns through thin shoe soles, feet sinking into soft burning powder with each step, heat waves making distant objects appear to waver and dance, perspiration beading on skin and immediately evaporating, clothing fabric clinging to damp skin, air so thick with heat it seems almost solid, shadows providing precious cool refuges that feel like ice by comparison, lizards scurrying across scorching stones, no text or letters visible"
+    background: "Sun-bleached Norman countryside with dried yellow grass, wilted garden plants drooping in extreme heat, stone walls radiating stored heat energy"
+    atmosphere: "Oppressive heat creating physical discomfort and disorientation, solar radiation so intense it seems to press down like a weight, contrast between burning light and cool shadows emphasizing extreme temperature sensations, sense of being trapped in furnace-like environment"
+  composition:
+    cameraAngle: "Low angle showing heat distortion rising from ground level"
+    focus: "Feet interacting with burning sand, heat waves creating visual shimmer effects"
+    depth: "Foreground: burning sand and feet, middle ground: figure against heat haze, background: landscape distorted by rising heat waves"

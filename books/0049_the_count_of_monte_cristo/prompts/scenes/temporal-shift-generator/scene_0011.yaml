@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Generational Betrayal - Father and Son"
+  setting:
+    time: "1815 and 1838 overlapping"
+    location: "Classical hôtel particulier in aristocratic district of Paris with courtyard and garden"
+    weather: "Indoor scene with formal lighting from chandeliers"
+  characters:
+    - appearance: "27 years old, handsome man with regular features but severe, dry expression. Face shows intelligence and ambition. When his father is mentioned, deep blush crosses his features revealing inner conflict"
+      clothing: "Austere black clothing of royal prosecutor - black frock coat, trousers, waistcoat, white shirt and cravat. In court, black judicial robe with appropriate insignia of his office"
+      position: "Standing before elderly man in same room, hands behind back in formal posture"
+      action: "Young Villefort denying connection to his Bonapartist father to protect his career"
+    - appearance: "Man in his 50s, features hardened by years of hiding secrets. Face has become cold, impenetrable mask marked by stress and guilt. Eyes show growing strain of maintaining his facade"
+      clothing: "Same austere black attire but now representing fallen authority - judicial robes that become symbols of corrupted justice, clothing in increasing disarray as his world collapses"
+      position: "Same formal stance but now as ghostly overlay, facing his own young son across generations"
+      action: "Mature Villefort repeating pattern of family rejection as his son rejects him in turn"
+  scene:
+    mainElements: "Austere architecture reflecting owner's character, prosecutor's study filled with legal documents, heavy dark wood furniture, marble surfaces, formal portraits of three generations of Villeforts on walls"
+    details: "Same mahogany furniture showing decades of family use, family portraits aging and accumulating dust, legal books representing both aspiration and corruption, same Persian rug worn by generations of pacing feet, chandelier crystals dimmed by time"
+    background: "Study walls showing accumulation of legal success built on family betrayals, window overlooking garden where seasons change but family patterns remain constant"
+    atmosphere: "Generational curse of ambition over family loyalty repeating across decades. Same formal coldness, same calculated rejection of inconvenient relatives. Air heavy with repeated sins, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both temporal layers of same family drama"
+    focus: "Pattern of family betrayal echoing across generations in identical poses and settings"
+    depth: "Foreground shows legal documents and family symbols, middle ground captures overlapping temporal figures, background reveals family portraits witnessing repeated betrayals"

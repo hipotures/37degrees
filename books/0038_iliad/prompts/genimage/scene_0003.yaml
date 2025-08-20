@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, dramatic storm approaching at dusk
+    location: ancient fortified city of Troy in northwestern Anatolia, Turkey, massive limestone walls rising from hillside
+      overlooking Trojan plain
+    weather: Dark storm clouds gathering with first drops of rain and distant thunder
+  characters: No characters present in this scene
+  scene:
+    mainElements: towering cyclopean walls 9 meters high built of fitted limestone blocks, watchtowers and bastions, paved
+      streets within, stone palaces with megaron halls, painted frescoes on inner buildings
+    details: Wide architectural shot emphasizing Troy's massive fortifications, perfectly fitted stones without mortar, bronze-reinforced
+      gates, torchlight beginning to flicker from towers, rain starting to darken limestone surfaces, carved reliefs showing
+      Trojan royal lineage, no text or letters visible
+    background: sounds of distant battle echoing off walls, dust from siege activities, smoke from cooking fires, tension
+      of prolonged siege, voices calling from watchtowers
+    atmosphere: Impregnable fortress standing against time and siege, divine construction suggesting gods built these walls,
+      storm clouds making walls appear to merge with dark sky
+  composition:
+    cameraAngle: Low angle shot from plain looking up at walls, emphasizing their intimidating height and strength
+    focus: Massive scale of fortifications dwarfing human settlements below
+    depth: 'Foreground: siege debris and abandoned equipment, middle: towering walls with defensive positions, background:
+      dark sky with lightning illuminating clouds'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

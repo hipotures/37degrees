@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1823, late afternoon with dramatic lighting
+    location: Government district of Paris under Bourbon Restoration
+    weather: Partly cloudy with shafts of sunlight illuminating building facade
+  characters: No characters present in this scene
+  scene:
+    mainElements: Imposing neoclassical government building with massive columns and triangular pediment, French royal flags
+      flying from rooftop, bronze eagles perched on ornamental posts
+    details: Monumental stone staircase leading to official entrance guarded by uniformed sentries, carved royal coat of arms
+      above massive doors. Building facade features classical reliefs depicting Justice, Order, and Authority, windows arranged
+      in perfect symmetry suggesting bureaucratic precision. Iron gates topped with gold spear points protecting approaches
+      to power
+    background: Smaller residential buildings surrounding government complex appear dwarfed by official architecture, wide
+      boulevards radiating from central authority like spokes of administrative control
+    atmosphere: Architectural embodiment of state power designed to inspire awe and submission, building's massive scale emphasizing
+      citizen's insignificance before governmental authority
+  composition:
+    cameraAngle: Low angle from street level emphasizing building's towering dominance
+    focus: Government building's imposing facade commanding entire visual field
+    depth: Monumental architecture filling foreground, ordered streets extending into middle ground, smaller buildings suggesting
+      hierarchical urban organization in background
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
