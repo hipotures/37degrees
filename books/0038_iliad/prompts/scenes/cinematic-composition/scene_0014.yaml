@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Over Andromacha's Shoulder - Watching Battle"
+  setting:
+    time: "Late Bronze Age 13th century BCE, morning light harsh and unforgiving"
+    location: "main entrance to Troy citadel, massive double gateway with flanking towers providing commanding view of battlefield"
+    weather: "Clear morning with wind carrying sounds of distant combat"
+  characters:
+    - appearance: "28-year-old Trojan noblewoman, elegant build befitting princess, dark hair in traditional style, expressive eyes showing constant worry"
+      clothing: "long flowing robes in earth tones suitable for Trojan nobility, simple but fine jewelry, practical dress for daily duties"
+      position: "back of head and shoulder in foreground, hands gripping stone battlements"
+      action: "watching husband fight for Troy's survival on plain below"
+    - appearance: "35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered face showing responsibility and resolve"
+      clothing: "finest Trojan bronze armor with distinctive helmet bearing flowing horsehair crest, bronze cuirass and greaves, purple cloak of nobility"
+      position: "tiny figure on battlefield visible in distance"
+      action: "fighting desperately against Greek champions while wife watches"
+  scene:
+    mainElements: "Over-the-shoulder shot capturing wife's helpless vigil as she watches husband's potentially final battle"
+    details: "Hands white-knuckled gripping stone parapet, hair streaming in wind, distant bronze armor glinting in sunlight, dust clouds from combat, other women clustered nearby in similar vigil, carved stone railings worn smooth by generations, siege damage visible on walls, no text or letters visible"
+    background: "strategic position overlooking entire Trojan plain, sounds of battle drifting up from below, stone echoing with footsteps and voices of defenders"
+    atmosphere: "Helpless love watching beloved face mortal danger, woman's perspective on heroic warfare, domestic love confronting epic destiny"
+  composition:
+    cameraAngle: "Over-the-shoulder following Andromacha's anguished gaze toward battlefield"
+    focus: "Distant husband fighting while wife can only watch and pray"
+    depth: "Foreground: grieving wife's shoulder and hands, middle: city walls and towers, background: battlefield where fate is decided"

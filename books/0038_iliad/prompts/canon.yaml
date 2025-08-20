@@ -1,0 +1,156 @@
+canon:
+  characters:
+    - id: "achilles"
+      name: "Achilles"
+      description_block: |
+        characters:
+          - appearance: "25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed"
+            clothing: "divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested helmet with horsehair plume, bronze greaves"
+            posture: "proud stance with restrained fury, hand often resting on sword hilt, explosive energy barely contained"
+    
+    - id: "hector"
+      name: "Hector"
+      description_block: |
+        characters:
+          - appearance: "35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered face showing responsibility and resolve"
+            clothing: "finest Trojan bronze armor with distinctive helmet bearing flowing horsehair crest, bronze cuirass and greaves, purple cloak of nobility"
+            posture: "dignified bearing of a commander, protective stance, movements deliberate and controlled"
+    
+    - id: "agamemnon"
+      name: "Agamemnon"
+      description_block: |
+        characters:
+          - appearance: "45-year-old king of Mycenae, tall and imposing build, dark hair with streaks of gray, stern face often showing arrogance or uncertainty"
+            clothing: "most elaborate armor with gold ornamentation befitting high king, royal robes of purple and gold, ornate bronze helmet"
+            posture: "imperious stance with chin raised, gestures showing command and authority, often gripping his scepter"
+    
+    - id: "odysseus"
+      name: "Odysseus"
+      description_block: |
+        characters:
+          - appearance: "40-year-old king of Ithaca, shorter than Agamemnon but broad-shouldered and muscular, dark intelligent eyes, weathered face showing cunning"
+            clothing: "functional bronze armor without excessive decoration, practical leather and bronze gear, simple bronze helmet"
+            posture: "alert and observant stance, gestures precise and measured, eyes constantly assessing situations"
+    
+    - id: "ajax_great"
+      name: "Ajax the Great"
+      description_block: |
+        characters:
+          - appearance: "35-year-old Salaminian prince, massive build towering over other warriors, dark curly hair, broad face showing determination"
+            clothing: "heavy bronze armor scaled to his enormous frame, massive bronze helmet, thick bronze greaves"
+            posture: "solid immovable stance like a fortress, movements slow but unstoppable, shoulders squared for battle"
+    
+    - id: "priam"
+      name: "Priam"
+      description_block: |
+        characters:
+          - appearance: "70-year-old king of Troy, stooped with age but retaining dignity, long white hair and beard, face deeply lined with sorrow and years of rule"
+            clothing: "flowing royal robes of deep purple and gold, golden circlet crown, relies on carved wooden staff for support"
+            posture: "bent with grief but maintaining regal bearing, gentle gestures showing fatherly concern and royal wisdom"
+    
+    - id: "paris"
+      name: "Paris"
+      description_block: |
+        characters:
+          - appearance: "28-year-old Trojan prince, tall and slender with conventionally handsome features, light curly hair, smooth almost feminine beauty"
+            clothing: "ornate but lightweight armor decorated with gold, leopard skin cloak, elaborate bronze helmet with decorative plumes"
+            posture: "graceful but evasive movements, charming gestures, tendency to step back from direct confrontation"
+    
+    - id: "helena"
+      name: "Helena"
+      description_block: |
+        characters:
+          - appearance: "30-year-old woman of supernatural beauty, tall with perfect proportions, golden hair arranged in elaborate style, striking blue eyes, flawless skin"
+            clothing: "richly layered Mycenaean-style gowns with multiple tiers of fabric, intricate gold jewelry, elaborate headdress with precious stones"
+            posture: "stately bearing of a queen, graceful movements showing both nobility and underlying sadness"
+    
+    - id: "patroclus"
+      name: "Patroclus"
+      description_block: |
+        characters:
+          - appearance: "25-year-old Myrmidonian warrior, well-built but more gentle features than Achilles, gray eyes showing compassion, brown hair"
+            clothing: "Achilles' borrowed divine armor making him appear godlike temporarily, usually simpler bronze armor, red cloak"
+            posture: "confident in battle but kind demeanor, protective gestures toward others, moves with inherited nobility"
+    
+    - id: "andromacha"
+      name: "Andromacha"
+      description_block: |
+        characters:
+          - appearance: "28-year-old Trojan noblewoman, elegant build befitting princess, dark hair in traditional style, expressive eyes showing constant worry"
+            clothing: "long flowing robes in earth tones suitable for Trojan nobility, simple but fine jewelry, practical dress for daily duties"
+            posture: "graceful but tense bearing, protective gestures when holding her child, movements showing anxiety and love"
+
+  locations:
+    - id: "troy_citadel"
+      name: "Troy Citadel"
+      description_block: |
+        setting:
+          location: "ancient fortified city of Troy in northwestern Anatolia, Turkey, massive limestone walls rising from hillside overlooking Trojan plain"
+        mainElements: "towering cyclopean walls 9 meters high built of fitted limestone blocks, watchtowers and bastions, paved streets within, stone palaces with megaron halls, painted frescoes on inner buildings"
+        atmosphere: "sounds of distant battle echoing off walls, dust from siege activities, smoke from cooking fires, tension of prolonged siege, voices calling from watchtowers"
+    
+    - id: "scaean_gate"
+      name: "Scaean Gate"
+      description_block: |
+        setting:
+          location: "main entrance to Troy citadel, massive double gateway with flanking towers providing commanding view of battlefield"
+        mainElements: "imposing stone gateway with bronze-reinforced doors, guard towers on either side, stone ramp leading up to entrance, battlements for defenders"
+        atmosphere: "strategic position overlooking entire Trojan plain, sounds of battle drifting up from below, stone echoing with footsteps and voices of defenders"
+    
+    - id: "achaean_camp"
+      name: "Achaean Camp"
+      description_block: |
+        setting:
+          location: "temporary military encampment on sandy beach of Aegean Sea near Troy, northwestern Anatolia"
+        mainElements: "over 1000 black-painted warships pulled up on beach, wooden shelters and huts for warriors, defensive palisade walls, central gathering place agora"
+        atmosphere: "smell of salt air and ship tar, sounds of waves and seabirds, smoke from countless cooking fires, noise of military activity and weapon maintenance"
+    
+    - id: "trojan_plain"
+      name: "Trojan Plain"
+      description_block: |
+        setting:
+          location: "flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia"
+        mainElements: "open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks, riverbank vegetation along Scamander"
+        atmosphere: "dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat mixing with earth"
+    
+    - id: "priam_palace"
+      name: "Priam's Palace"
+      description_block: |
+        setting:
+          location: "royal residence within Troy citadel, largest building complex with multiple courtyards and halls"
+        mainElements: "great megaron hall with four painted columns around central hearth, polished stone floors with geometric patterns, frescoed walls showing ceremonial scenes"
+        atmosphere: "formal royal setting with echoing stone chambers, scent of incense and oil lamps, sounds of court activity and royal business"
+    
+    - id: "achilles_tent"
+      name: "Achilles' Tent"
+      description_block: |
+        setting:
+          location: "largest shelter in Achaean camp positioned at defensive perimeter near ships, made of wood and leather"
+        mainElements: "spacious wooden shelter with skin roof, sleeping area with rich furnishings, area for weapons and armor storage, courtyard space surrounded by palisade"
+        atmosphere: "private warrior's domain with weapons gleaming in lamplight, scent of leather and metal, sounds of sea nearby and camp activity beyond"
+
+  items:
+    - id: "achilles_shield"
+      name: "Shield of Achilles"
+      description_block: |
+        details: "divine circular shield forged by Hephaestus from five layers of metal (bronze, tin, gold, silver), depicting entire cosmos in concentric rings: celestial bodies in center, two cities (one at peace, one at war), agricultural scenes, pastoral life, dancing, Ocean stream around rim"
+    
+    - id: "agamemnon_scepter"
+      name: "Scepter of Agamemnon"
+      description_block: |
+        details: "golden rod of royal authority crafted by Hephaestus, passed down through generations of kings, smooth polished surface gleaming with divine craftsmanship, symbol of Zeus-granted power to rule"
+    
+    - id: "hector_helmet"
+      name: "Hector's Helmet"
+      description_block: |
+        details: "bronze war helmet with distinctive flowing horsehair crest that waves dramatically in battle, cheek guards protecting face, polished bronze surface reflecting light"
+    
+    - id: "apollo_bow"
+      name: "Apollo's Silver Bow"
+      description_block: |
+        details: "gleaming silver bow of divine origin wielded by Apollo, produces terrifying sound when string is drawn, shoots arrows of plague and death with supernatural accuracy"
+    
+    - id: "zeus_scales"
+      name: "Zeus' Golden Scales"
+      description_block: |
+        details: "divine golden balance held by Zeus to weigh fates (keres) of mortals and armies, simple perfect construction showing cosmic justice, determines outcomes of battles and lives"

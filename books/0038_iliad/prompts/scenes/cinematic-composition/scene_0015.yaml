@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Achilles' Reflection - Mirror of Mortality"
+  setting:
+    time: "Late Bronze Age 13th century BCE, dawn light filtering through tent walls"
+    location: "spacious wooden shelter with skin roof, sleeping area with rich furnishings, area for weapons and armor storage, courtyard space surrounded by palisade"
+    weather: "Still morning air with dew condensing on leather walls"
+  characters:
+    - appearance: "25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed"
+      clothing: "unarmored in simple linen chiton, bronze arm bands, hair unbound"
+      position: "reflection visible in polished bronze mirror propped on wooden stand"
+      action: "studying his own face while contemplating mortality and choice between glory and life"
+  scene:
+    mainElements: "Mirror POV shot showing Achilles confronting his own image and destiny, divine beauty shadowed by knowledge of early death"
+    details: "Polished bronze mirror reflecting perfect features touched by melancholy, morning light creating ethereal glow, hands visible at frame edges holding mirror steady, tent furnishings blurred in background, divine armor hanging on wooden rack catching light, personal belongings suggesting temporary nature of mortal life, no text or letters visible"
+    background: "private warrior's domain with weapons gleaming in lamplight, scent of leather and metal, sounds of sea nearby and camp activity beyond"
+    atmosphere: "Divine beauty confronting mortal fate, moment of self-awareness before choosing heroic path to early grave"
+  composition:
+    cameraAngle: "Mirror reflection POV with hands partially visible holding polished bronze"
+    focus: "Self-recognition and acceptance of heroic destiny despite cost"
+    depth: "Foreground: mirror surface and hands, middle: reflected face showing internal conflict, background: armor and weapons representing his choice"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Achilles and Patroclus - Bonds of Brotherhood"
+  setting:
+    time: "Late Bronze Age 13th century BCE, evening firelight"
+    location: "spacious wooden shelter with skin roof, sleeping area with rich furnishings, area for weapons and armor storage, courtyard space surrounded by palisade"
+    weather: "Calm evening with sea breeze carrying salt air"
+  characters:
+    - appearance: "25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed"
+      clothing: "simple linen chiton without armor, bronze arm bands, leather sandals"
+      position: "left side of frame seated on low stool, profile view showing noble features"
+      action: "playing wooden lyre with skilled fingers, head tilted in concentration"
+    - appearance: "25-year-old Myrmidonian warrior, well-built but more gentle features than Achilles, gray eyes showing compassion, brown hair"
+      clothing: "plain woolen tunic, simple leather belt, bronze fibula pin"
+      position: "right side of frame seated on fur rug, facing toward Achilles"
+      action: "listening intently while polishing bronze spear point with cloth"
+  scene:
+    mainElements: "Two-shot showing intimate friendship between greatest warrior and his companion, domestic tranquility contrasting with war outside"
+    details: "Firelight dancing on bronze weapons, shadows flickering on leather tent walls, wine amphora and cups nearby, rich furs and textiles, wooden lyre with ivory inlays, polished bronze reflecting flame, personal belongings suggesting long campaign, no text or letters visible"
+    background: "private warrior's domain with weapons gleaming in lamplight, scent of leather and metal, sounds of sea nearby and camp activity beyond"
+    atmosphere: "Brotherhood deeper than blood, peaceful moment before tragedy, warrior's humanity shown through friendship and music"
+  composition:
+    cameraAngle: "Two-shot medium distance showing both figures and relationship dynamics"
+    focus: "Contrasting personalities united by loyalty and affection"
+    depth: "Foreground: fire and domestic details, middle: two friends in comfortable intimacy, background: weapons and war equipment suggesting their true calling"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Patroclus' Fatal Hubris"
+  setting:
+    time: "Late Bronze Age 13th century BCE, moment of divine wrath at noon"
+    location: "flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia"
+    weather: "Sudden supernatural calm before divine strike"
+  characters:
+    - appearance: "25-year-old Myrmidonian warrior, well-built but more gentle features than Achilles, gray eyes showing compassion, brown hair"
+      clothing: "divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested helmet with horsehair plume, bronze greaves"
+      position: "center frame but tilting as world collapses around him"
+      action: "staggering backwards as divine blow strikes him invisible to mortal eyes"
+    - appearance: "Divine god with ideally proportioned young adult features, golden hair gleaming with supernatural radiance"
+      clothing: "simple divine robes that seem to contain starlight, golden sandals"
+      position: "looming figure striking from above, partially visible in tilted frame"
+      action: "delivering supernatural blow that strips armor and weapons from mortal"
+  scene:
+    mainElements: "Dutch angle increasing to 25 degrees as Apollo's divine intervention destroys Patroclus' heroic momentum"
+    details: "Divine armor of Achilles being stripped away by invisible divine hands, bronze pieces falling in slow motion, spear shaft snapping, helmet rolling across ground, warrior's confident expression changing to shock and terror, world literally tilting as divine order reasserts against mortal presumption, no text or letters visible"
+    background: "open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks, riverbank vegetation along Scamander"
+    atmosphere: "dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat mixing with earth"
+  composition:
+    cameraAngle: "Dutch angle increasing tilt to show world literally falling apart around doomed hero"
+    focus: "Moment divine power strips away mortal pretensions to godlike status"
+    depth: "Foreground: divine armor falling away, middle: staggering warrior realizing doom, background: battlefield tilting toward inevitability"
