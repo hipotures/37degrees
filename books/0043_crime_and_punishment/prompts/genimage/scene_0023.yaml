@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: July 1865, moment of conflicting interpretations
+    location: Government office building in St. Petersburg, bureaucratic interior reflecting Russian imperial administration
+    weather: Oppressive indoor atmosphere reflecting social tensions
+  characters:
+  - appearance: Government officials and law enforcement representatives, well-dressed and formally positioned
+    clothing: Official uniforms and formal attire representing state authority
+    position: Seated behind desks and standing in positions of authority
+    action: Interpreting crime as threat to social order requiring punishment to maintain stability
+  - appearance: Student radicals and social reformers, younger and more casually dressed
+    clothing: Student clothes and modest attire of intellectual revolutionaries
+    position: Standing as observers and critics of official proceedings
+    action: Viewing same crime as inevitable result of social injustice and corrupt system exploitation
+  scene:
+    mainElements: Official desks with papers and documents, chairs for visitors, yellow glass with yellow water symbolizing
+      institutional corruption, formal governmental atmosphere with portraits and official decorations
+    details: Split perspective reveals same event interpreted completely differently by opposing worldviews - authorities
+      see individual moral failure requiring legal punishment to protect social order, while radicals see systemic failure
+      where desperate victim struck back against exploitative system. Each group's interpretation serves their ideological
+      framework
+    background: Government office representing established order confronting challenge from revolutionary consciousness demanding
+      social transformation
+    atmosphere: Ideological battlefield where same factual events become opposing narratives about justice, social responsibility,
+      and proper response to systemic inequity
+  composition:
+    cameraAngle: Split screen perspective showing same scene interpreted through conflicting ideological frameworks
+    focus: Identical crime viewed as both individual moral failure and systemic social breakdown depending on observer's political
+      perspective
+    depth: Foreground shows opposing interpreters with conflicting worldviews, middle ground captures disputed event, background
+      reveals broader social tensions, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

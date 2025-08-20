@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Panopticon State - Universal Surveillance Prison"
+  setting:
+    time: "1832, continuous surveillance period"
+    location: "Circular view of Paris revealing city as massive surveillance prison"
+    weather: "Harsh illumination exposing all activities to constant observation"
+  characters:
+    - appearance: "Citizens moving through urban environment under constant observation, behavior modified by awareness of surveillance"
+      clothing: "Ordinary dress chosen to avoid attracting attention, posture showing psychological impact of constant monitoring"
+      position: "Distributed throughout circular urban landscape with all areas visible from central point"
+      action: "Conducting daily activities while constantly aware of observation, self-censoring behavior, avoiding suspicious gatherings"
+    - appearance: "Central surveillance authority positioned to observe entire population from elevated command position"
+      clothing: "Official uniform with insignia denoting surveillance authority, equipped with observation instruments"
+      position: "Located at center of circular observation system"
+      action: "Monitoring entire population through comprehensive surveillance network, recording suspicious behavior, maintaining psychological control through visibility"
+  scene:
+    mainElements: "City organized as circular prison with central observation tower, all districts visible from controlling central point"
+    details: "Observation posts positioned for maximum population monitoring, mirrors and optical devices extending surveillance range. Official logs recording citizen behavior, communication networks connecting surveillance points, punishment apparatus for controlling observed population"
+    background: "Urban architecture designed to eliminate private spaces, buildings arranged to prevent concealment from official observation"
+    atmosphere: "Complete elimination of privacy creating psychological prison where behavior is controlled through constant surveillance threat"
+  composition:
+    cameraAngle: "Central panopticon view showing total surveillance coverage of population"
+    focus: "Central observation point controlling entire urban population"
+    depth: "Surveillance apparatus in foreground, monitored population in middle ground, comprehensive control system in background creating total psychological prison"

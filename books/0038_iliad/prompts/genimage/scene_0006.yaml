@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, burning noon heat
+    location: central gathering place agora in temporary military encampment on sandy beach of Aegean Sea near Troy, northwestern
+      Anatolia
+    weather: Scorching sun with heat shimmer distorting air
+  characters:
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested
+      helmet with horsehair plume, bronze greaves
+    position: face filling entire frame with eyes positioned on upper third line
+    action: fury building to explosive point, jaw muscles tensing, nostrils flaring with supernatural wrath
+  scene:
+    mainElements: Extreme close-up of Achilles' face during confrontation with Agamemnon, divine heritage visible in perfect
+      features twisted by mortal emotion
+    details: Eyes blazing with green fire reflecting divine parentage, golden hair catching sunlight like aureole, sweat beading
+      on flawless skin, veins visible at temples, hand gripping sword hilt just visible at frame bottom, bronze armor reflecting
+      heat, no text or letters visible
+    background: Blurred shapes of Greek commanders watching in fear, heat shimmer creating ethereal quality
+    atmosphere: Supernatural fury contained in mortal form, moment before violence that could shatter alliances, divine power
+      barely restrained by human will
+  composition:
+    cameraAngle: Extreme close-up with shallow depth of field isolating face from chaos
+    focus: Eyes showing divine fire and human rage combining into unstoppable force
+    depth: Sharp focus only on eyes and facial expression, everything else artistically blurred to suggest intensity
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

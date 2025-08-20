@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Technology Serves All - The Steam Engine Display"
+  setting:
+    time: "1823, afternoon demonstration day"
+    location: "Public exhibition space in Montreuil-sur-Mer showing industrial advancement"
+    weather: "Clear day with afternoon sunlight illuminating mechanical display"
+  characters:
+    - appearance: "Mechanical engineer in professional attire explaining industrial innovation to gathered crowd"
+      clothing: "Clean white shirt with rolled sleeves, leather vest, practical trousers, hands showing evidence of technical work"
+      position: "Standing beside massive steam engine, hand resting on polished brass fittings"
+      action: "Demonstrating mechanical principles to assembled visitors, pointing to various components with evident pride in technological progress"
+    - appearance: "Well-dressed citizens observing technological marvel with expressions of wonder and approval"
+      clothing: "Bourgeois afternoon attire of fine fabrics, ladies with parasols and bonnets, gentlemen with walking sticks and top hats"
+      position: "Gathered in semicircle around machine display"
+      action: "Watching steam demonstration with amazement, some taking notes, others discussing potential benefits to society"
+  scene:
+    mainElements: "Gleaming steam engine with polished brass fittings and spinning wheels, white steam creating dramatic clouds, mechanical precision displayed through visible gears and pistons"
+    details: "Exhibition banner proclaiming 'Progress Through Industry', informational placards explaining benefits to all social classes. Engine connected to various mechanical demonstrations showing practical applications, wheels and pulleys in synchronized motion. Fresh paint and brass polish emphasizing newness and perfection"
+    background: "Modern factory buildings with tall smokestacks suggesting widespread adoption of technology, railway tracks connecting to broader transportation network"
+    atmosphere: "Optimistic celebration of technological advancement presented as benefiting entire society equally, mechanical progress symbolizing social harmony under industrial capitalism"
+  composition:
+    cameraAngle: "Eye level showing human interaction with impressive machinery"
+    focus: "Steam engine as centerpiece representing technological salvation"
+    depth: "Machine dominating foreground, appreciative crowd in middle ground, industrial landscape in background suggesting systematic modernization"

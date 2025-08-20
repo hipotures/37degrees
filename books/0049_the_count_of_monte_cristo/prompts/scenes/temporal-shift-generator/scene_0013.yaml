@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Communication Evolution - Letters to Telegraph"
+  setting:
+    time: "1815 and 1838 technological comparison"
+    location: "Hilltop overlooking Mediterranean with communication systems of two eras"
+    weather: "Clear day showing technological advancement over time"
+  characters:
+    - appearance: "25-26 years old, unprepossessing appearance with unpleasant, fox-like features. Restless, calculating eyes that miss nothing. Average build, unremarkable presence except for his servile expressions"
+      clothing: "More formal attire than common sailors - accounting clerk's clothing, modest but neat. Simple waistcoat and trousers, showing his position above ordinary crew but below officers"
+      position: "Standing beside letter carrier preparing to ride to Paris with handwritten message"
+      action: "Young Danglars sending denunciation letter by traditional horse courier"
+    - appearance: "Over 50 years old, grown corpulent with age and indulgence. Face now bloated and expressing greed. Features coarsened by years of excess and materialistic pursuits"
+      clothing: "Ostentatious nouveau-riche attire - too flashy waistcoats, too visible gold watch chain, overly ornate clothing lacking true aristocratic taste. Rich materials but poor judgment in style"
+      position: "Standing beside modern optical telegraph tower, bribing operator"
+      action: "Mature Danglars corrupting new communication technology for financial manipulation"
+  scene:
+    mainElements: "Wooden tower construction with movable semaphore arms on top that transmit coded visual signals across distances. Represents cutting-edge 1830s communication technology and the Count's ability to manipulate information"
+    details: "Telegraph tower showing mechanical precision of new era contrasted with traditional letter courier and horse showing old methods, semaphore arms positioned to send coded message, money changing hands between corrupt officials"
+    background: "Mediterranean vista showing both eras - sailing ships representing old world, new steamships visible on horizon representing technological progress"
+    atmosphere: "Technological advancement serving same human corruption across generations. Sound of mechanical telegraph arms moving contrasted with horse hooves and leather, same greed using different tools, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing both communication technologies side by side"
+    focus: "Evolution of methods but continuity of human corruption across technological advancement"
+    depth: "Foreground shows telegraph machinery and horse courier, middle ground captures both temporal figures, background reveals shipping evolution on Mediterranean"

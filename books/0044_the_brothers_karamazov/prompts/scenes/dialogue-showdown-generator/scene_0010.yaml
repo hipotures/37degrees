@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Smierdiakow's calculating observation"
+  setting:
+    time: "1860s Russian Empire, evening continuing"
+    location: "Kitchen entrance in Karamazov family house service area, separated from main house"
+    weather: "Evening darkness, kitchen lamp providing illumination"
+  characters:
+    - appearance: 24-year-old servant with sickly constitution, delicate features suggesting lack of masculine vitality, hair carefully combed pomaded and parted in middle, squinting gaze suggesting cunning and insincerity
+      clothing: Simple functional servant attire maintained in impeccable cleanliness, white apron as cook, meticulous attention to appearance contrasting low status
+      position: Standing in doorway between kitchen and main house, half-concealed
+      action: Watching family violence with cold calculating interest, face showing neither alarm nor sympathy but analytical observation
+  scene:
+    mainElements: "Kitchen doorway framing servant's observation of family destruction, clean functional workspace contrasting with chaos of main house, separation between service and family areas significant"
+    details: "Kitchen lamp casting steady light on calculating face, cooking implements and clean surfaces contrasting with violence beyond, physical separation reflecting moral distance"
+    background: "Clean kitchen representing Smierdiakow's domain of control, doorway framing view of family chaos, shadows concealing servant's true intentions"
+    atmosphere: "Cold analytical observation of family destruction, servant calculating opportunity from master's weakness"
+  composition:
+    cameraAngle: "Medium shot through doorway showing servant observing family violence with calculating detachment"
+    focus: "Smierdiakow's squinting eyes registering every detail for future use, face showing neither emotion nor loyalty"
+    depth: "Foreground shows doorway frame, middle ground captures calculating observer, background hints at continuing violence"

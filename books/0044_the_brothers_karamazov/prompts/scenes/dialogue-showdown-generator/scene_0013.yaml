@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Alosza's temptation at Gruszeńka's"
+  setting:
+    time: "1860s Russian Empire, night"
+    location: "Gruszeńka's house interior, wealthy merchant's dwelling with tasteful furnishings"
+    weather: "Dark night outside, intimate indoor lighting"
+  characters:
+    - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+      clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+      position: Initially seated close to Alosza on sofa, later moving to more respectful distance
+      action: Beginning with seductive intent, then transformed by genuine compassion upon learning of elder's death
+    - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+      clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+      position: Sitting dejectedly on sofa, posture showing spiritual emptiness
+      action: Initially passive under temptation, then responding to Gruszeńka's unexpected kindness
+  scene:
+    mainElements: "Merchant's house interior with expensive but tasteless furnishings, comfortable sofa where spiritual crisis plays out, candles creating intimate atmosphere"
+    details: "Candlelight creating dramatic shadows and intimate mood, expensive fabrics and decorations reflecting worldly success, atmosphere of seduction transformed into spiritual healing"
+    background: "Windows showing dark night outside, furnishings reflecting materialistic values, space gradually becoming setting for unexpected grace"
+    atmosphere: "Expected corruption transformed into unexpected redemption, worldly temptation becoming occasion for spiritual renewal"
+  composition:
+    cameraAngle: "Intimate medium shot showing transformation from temptation to compassion"
+    focus: "Gruszeńka's face changing from seductive calculation to genuine tears of compassion"
+    depth: "Foreground shows spiritual crisis and comfort, middle ground captures changing relationship, background shows worldly setting transformed by grace"

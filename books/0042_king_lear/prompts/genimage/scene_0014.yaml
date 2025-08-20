@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, past midnight
+    location: Chamber that has expanded beyond natural boundaries
+    weather: Storm creating supernatural effects with lightning that illuminates impossible distances
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Tattered remnants of clothing providing little warmth or dignity
+    position: Standing small and isolated in center of vast empty space
+    action: Calling out into emptiness, voice echoing endlessly without response
+  scene:
+    mainElements: Chamber that has expanded to cathedral-like proportions, ceiling lost in darkness above, walls receded to
+      distant edges of perception
+    details: Familiar furniture now appearing tiny and distant, scattered like toys in enormous playroom. Single candle providing
+      inadequate light for the vast space, creating pool of illumination surrounded by endless darkness. Floor stretching
+      beyond sight in all directions, footsteps echoing with impossible delay
+    background: Darkness that seems active and aware, distant walls that might be optical illusions, ceiling height suggesting
+      no roof exists at all
+    atmosphere: Space has become hostile through its very enormity, isolation magnified by impossible distances. Agoraphobic
+      terror of being insignificant speck in malevolent universe
+  composition:
+    cameraAngle: Extreme wide shots emphasizing Lear's smallness in overwhelming space
+    focus: Lear as tiny figure in center of frame, surrounded by threatening emptiness
+    depth: Vast foreground, middle ground, and background creating sense of infinite recession
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

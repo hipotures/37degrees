@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, deep night under starlight
+    location: flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia
+    weather: Clear cold night with silver moonlight illuminating path
+  characters:
+  - appearance: 70-year-old king of Troy, stooped with age but retaining dignity, long white hair and beard, face deeply lined
+      with sorrow and years of rule
+    clothing: dark traveling cloak over royal robes, hood covering golden circlet
+    position: back of head and shoulder visible in foreground, profile partially shown
+    action: driving ox-cart loaded with treasure while gazing toward enemy camp
+  - appearance: Divine messenger with young adult male features, ideally proportioned without beard, golden hair gleaming
+      in moonlight
+    clothing: traveler's cloak and boots, caduceus staff, winged sandals
+    position: walking alongside cart as guide through darkness
+    action: leading the way with divine staff providing supernatural protection
+  scene:
+    mainElements: Over-the-shoulder shot following Priam's dangerous journey to ransom his son's body from Achilles
+    details: Wooden cart creaking under weight of golden treasures, bronze tripods and silver vessels catching moonlight,
+      ox breathing visible in cold air, Hermes' caduceus glowing faintly with divine power, distant Greek campfires marking
+      dangerous destination, wheel ruts in dusty earth, no text or letters visible
+    background: open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks,
+      riverbank vegetation along Scamander
+    atmosphere: dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat
+      mixing with earth
+  composition:
+    cameraAngle: Over-the-shoulder following Priam's perspective toward enemy territory
+    focus: Dangerous path ahead illuminated by divine guidance
+    depth: 'Foreground: Priam''s shoulder and cart details, middle: Hermes leading the way, background: Greek camp fires in
+      distance threatening yet necessary'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

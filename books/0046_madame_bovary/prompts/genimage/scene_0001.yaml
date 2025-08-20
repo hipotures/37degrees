@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1840s winter morning, early dawn
+    location: Bedroom in doctor's house, Tostes, provincial Normandy, France
+    weather: Freezing winter morning with frost crystallizing on glass surfaces
+  characters:
+  - appearance: Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z
+      tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z
+      różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech
+    clothing: Simple white cotton nightgown, bare feet on cold wooden floor, wool shawl draped over shoulders
+    position: Standing at frost-covered window, palms pressed flat against glass panes
+    action: Długie dłonie o białych lśniących paznokciach, charakterystyczny gest trzymania szylkretowych binokli między guzikami
+      stanika, czytanie romantycznych powieści - pressing warm palms against ice-cold window, breath creating fog on glass,
+      tracing patterns in condensation
+  scene:
+    mainElements: Bedroom window completely covered in intricate frost patterns resembling ferns and flowers, warm yellow
+      candlelight contrasting with blue-white morning light filtering through ice crystals, steam rising from wash basin
+    details: Delicate frost formations creating natural lace patterns on glass, warm breath immediately condensing and freezing
+      on contact, fingertips leaving temporary clear prints that quickly refrost, ice crystals catching first rays of sunlight
+      like scattered diamonds, cold air seeping through window frame making curtains flutter slightly, contrast between warm
+      indoor air and freezing outdoor temperature visible as vapor, no text or letters visible
+    background: Provincial Norman countryside covered in snow and ice, bare winter trees with frost-covered branches, distant
+      church spire emerging from morning mist
+    atmosphere: Sharp temperature contrast creating physical sensation of cold penetrating through glass, crystalline beauty
+      of frost formations suggesting delicate but imprisoning barriers, morning light transforming ice into jewel-like patterns
+      while emphasizing isolation and confinement
+  composition:
+    cameraAngle: Close-up shot focusing on hands against frosted glass
+    focus: Intersection of warm flesh and cold glass, frost patterns responding to body heat
+    depth: 'Foreground: hands and frost patterns on glass, middle ground: figure in nightgown, background: frozen landscape
+      through transparent sections of window'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

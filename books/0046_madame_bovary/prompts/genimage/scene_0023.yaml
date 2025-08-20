@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1840s afternoon, during Yonville agricultural fair with festivities
+    location: Główny plac w Yonville przed ratuszem - town square during peak of agricultural fair celebration
+    weather: Sunny festive day with dust and celebration particles in air
+  characters:
+  - appearance: Crowds of festival participants, townspeople, visitors, children and adults in celebration
+    clothing: Festive attire, best clothes mixed with work wear, ribbons, colorful accessories
+    position: Dancing, moving in crowds, participating in festival activities
+    action: Throwing colored powders, dancing to drums, celebrating in chaotic joyful motion
+  scene:
+    mainElements: Festival crowd with colored powder clouds, drums and musicians, food vendors with rising steam, organized
+      chaos of celebration
+    details: Colored powder thrown into air creating rainbow clouds of pink, yellow, blue, green particles floating and swirling,
+      drums beaten so forcefully that ground vibrations are visible as dust jumping from surfaces, food vendor steam mixing
+      with colored powder clouds creating multilayered atmospheric effects, feet stamping in rhythm creating small dust explosions
+      with each beat, children running through powder clouds creating trailing color patterns, festival banners flapping in
+      air currents from crowd movement, spice vendors with aromatic powder clouds mixing with celebration colors, drum vibrations
+      making loose objects tremble and dance on vendor tables, overlapping sensory chaos of sight, sound, smell, taste, and
+      touch all made visible, no text or letters visible
+    background: Ostre słońce oświetla scenę wydobywając wszystkie detale - provincial Norman town square with decorations,
+      stalls, celebration setup
+    atmosphere: Twarze chłopów ogorzałe od słońca wyrażające prostą radość - overwhelming sensory festival where all five
+      senses combine in joyful chaos, celebration expressed through colored air, rhythmic ground vibration, aromatic food
+      steam, tactile powder contact
+  composition:
+    cameraAngle: Dynamic wide shot capturing swirling colored powder clouds and crowd movement
+    focus: Colored powder clouds mixed with steam, ground vibrations from drums, sensory overload
+    depth: 'Foreground: colored powder and steam clouds, middle ground: celebrating crowd in motion, background: festival
+      decorations and vendor stalls'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

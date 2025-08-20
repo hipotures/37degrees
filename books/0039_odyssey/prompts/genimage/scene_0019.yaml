@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, late afternoon
+    location: Deserted Mycenaean settlement on remote island, showing evidence of hasty abandonment by previous inhabitants
+    weather: Overcast day with grey clouds creating somber lighting
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone buildings with roofs partially collapsed, pottery and bronze objects scattered as if dropped in haste,
+      overgrown courtyards where Mediterranean vegetation reclaims constructed spaces, broken defensive walls showing signs
+      of ancient conflict or natural disaster
+    details: Ceramic vessels broken on stone paving with contents spilled and weathered, bronze tools and weapons left where
+      they fell, wooden doors hanging from bronze hinges with wood deteriorated by exposure, stone grinding querns abandoned
+      mid-use with grain still visible, collapsed wooden beams revealing interior rooms, wild vines growing through window
+      openings, olive trees growing unchecked within building compounds, evidence of fire damage in some structures
+    background: Harbor area with partially sunken stone quay, Mediterranean vegetation slowly covering human constructions,
+      distant mountains providing isolated setting, grey sky suggesting impending weather change
+    atmosphere: Melancholy abandonment and mystery surrounding sudden departure, silence broken only by wind through empty
+      buildings, sense of Bronze Age world vulnerability to unknown catastrophes, nature gradually reclaiming human achievements
+  composition:
+    cameraAngle: Street-level view through abandoned settlement showing desolation and decay
+    focus: Central courtyard with scattered objects and overgrown vegetation
+    depth: 'Foreground: scattered pottery and bronze objects, middle ground: partially collapsed buildings, background: harbor
+      ruins and mountain landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

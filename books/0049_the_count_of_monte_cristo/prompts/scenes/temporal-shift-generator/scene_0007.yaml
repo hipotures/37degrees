@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Education of the Soul - Summer of Learning"
+  setting:
+    time: "1820, summer afternoon"
+    location: "Fortress prison on rocky island off Marseilles coast, isolated in Mediterranean Sea"
+    weather: "Bright Mediterranean summer with intense heat"
+  characters:
+    - appearance: "60-65 years old, short and frail man. Hair whitened more by suffering and sorrow than age. Deeply set, penetrating eyes that show great intelligence. Long black beard, thin face deeply marked by care and hardship"
+      clothing: "Prison rags so torn and patched that original design is barely recognizable. Tattered remains of what might once have been clerical garments, now reduced to mere scraps"
+      position: "Seated on makeshift stool in tunnel between cells, gesturing animatedly while teaching"
+      action: "Abbé Faria instructing his eager student, hands moving to illustrate mathematical concepts"
+    - appearance: "25-year-old man showing physical change from five years imprisonment but now with alert, intelligent expression. Still slender but stronger from exercise, black hair longer and unkempt, eyes bright with learning hunger"
+      clothing: "Same prison rags but now arranged more neatly, showing dignity regained through education"
+      position: "Sitting attentively on floor of tunnel, leaning forward with intense concentration"
+      action: "Edmond absorbing knowledge eagerly, occasionally scratching notes in dirt floor"
+  scene:
+    mainElements: "Secret tunnel connecting two prison cells, carved through thick stone walls. Crude but functional space lit by smuggled candle stub, makeshift furniture created from salvaged materials"
+    details: "Tunnel walls showing tool marks from months of careful excavation, dirt floor scratched with geometric diagrams and calculations, candle wax accumulated in hollow stone, crude maps drawn on walls showing Mediterranean geography, books made from smuggled paper scraps"
+    background: "Stone walls bearing witness to transformation of despair into hope through education, cell openings at each end showing contrast between solitary confinement and shared knowledge"
+    atmosphere: "Intellectual awakening blooming in darkest circumstances. Summer heat making tunnel warm but comfortable, sound of animated discussion replacing silence of despair. Air heavy with concentration and discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot down tunnel length showing teacher and student relationship"
+    focus: "Two figures engaged in transformative education, showing how knowledge conquers despair"
+    depth: "Foreground shows teaching materials and floor diagrams, middle ground captures both characters in animated discussion, background reveals tunnel architecture and cell connections"

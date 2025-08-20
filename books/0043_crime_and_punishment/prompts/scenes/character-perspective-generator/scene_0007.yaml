@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pawnbroker's Apartment as Scene of Justice Through Investigator's Eyes"
+  setting:
+    time: "July 1865, systematic evidence examination hour"
+    location: "Fourth-floor apartment of a St. Petersburg tenement building, July 1865, clinically clean interior contrasting with building's external shabbiness"
+    weather: "Controlled indoor environment perfect for forensic analysis"
+  characters:
+    - appearance: "Thirty-five years old, short and plump man with a small belly, yellowish sickly complexion, short-cropped hair, almost white eyelashes, round puffy face with intelligent watery eyes that constantly blink as if conspiratorially"
+      clothing: "Clean and well-maintained clothing appropriate for a government official, possibly wearing a dressing gown when at home"
+      position: "Moving systematically through rooms, examining layout and bloodstain patterns"
+      action: "Reconstructing crime sequence with professional satisfaction, appreciating criminal's amateur mistakes and panic-driven errors"
+  scene:
+    mainElements: "Spotlessly clean rooms with old yellowed wooden furniture, small icon with oil lamp burning in corner, antechamber separated by partition from kitchen area, main room with door curtained by calico leading to bedroom where strongbox is kept"
+    details: "Through Porfiry's experienced investigator perspective, the apartment reveals itself as perfect trap for amateur criminal. The clean surfaces show blood traces clearly, the precise layout created bottleneck where panic would set in, the religious icon ironically witnessed brutal violation of commandments. Every element becomes evidence of criminal's psychological unraveling - unlocked door showing loss of control, disturbed furniture indicating frenzied search, positioning of bodies revealing sequence of panic-driven violence"
+    background: "Sterile environment transformed into crime scene laboratory where each element tells story of criminal incompetence and moral breakdown"
+    atmosphere: "Professional satisfaction at observing textbook criminal psychology case - scene demonstrates how theoretical criminality collapses into brutal reality when confronted with actual violence and consequences"
+  composition:
+    cameraAngle: "Methodical investigative perspective examining crime scene reconstruction with clinical detachment"
+    focus: "Layout of rooms showing how geography contributed to criminal's psychological breakdown and capture inevitability"
+    depth: "Foreground shows evidence markers and investigative tools, middle ground captures systematic room examination, background reveals religious icon as witness to violence, no text or letters visible"

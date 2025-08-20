@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ballroom Memory Layers - Decades of Parisian Society"
+  setting:
+    time: "1815, 1825, and 1838 superimposed transparently"
+    location: "Elegant Parisian ballroom in aristocratic mansion"
+    weather: "Indoor scene with crystal chandelier lighting across different historical periods"
+  characters:
+    - appearance: "Various elegant figures from three different periods of Parisian society, all occupying same space simultaneously as ghostly overlays"
+      clothing: "Fashion evolution visible - 1815 Empire style transitioning to 1825 Romantic period to 1838 July Monarchy formal wear, all layered transparently"
+      position: "Multiple generations of aristocrats, bourgeoisie, and social climbers dancing in same ballroom"
+      action: "Different eras of social climbing, political maneuvering, and aristocratic display occurring simultaneously"
+  scene:
+    mainElements: "Grand ballroom with crystal chandeliers, marble floors, gilt mirrors, formal portraits, showing same space across three decades of French social and political change"
+    details: "Chandeliers showing different lighting technology progression, mirrors reflecting different fashion eras simultaneously, portraits accumulating across decades, furniture styles evolving, same marble floor polished by different generations"
+    background: "Windows showing Paris evolving from Restoration to July Monarchy, same view revealing architectural and social changes over time"
+    atmosphere: "Ghostly layering of three decades of French high society, showing how same ambitions and corruptions persist across political regimes. Music from different periods overlapping, conversation revealing changing political loyalties, no text or letters visible"
+  composition:
+    cameraAngle: "Wide ballroom shot showing temporal transparency effects"
+    focus: "Multiple eras of social climbing and corruption occupying same elegant space"
+    depth: "Foreground shows dancing figures from multiple periods, middle ground captures ballroom architecture spanning decades, background reveals changing Paris through windows"

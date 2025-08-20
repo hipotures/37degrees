@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1812, deep winter
+    location: same Rostov family estate orchard, apple trees now in winter dormancy
+    weather: cold winter morning with fresh snowfall covering all surfaces
+  characters: No characters present in this scene
+  scene:
+    mainElements: same apple trees now completely bare with branches etched against gray sky, deep snow covering ground and
+      weighing down fence rails, orchard transformed into monochromatic landscape of white snow and dark wood, no text or
+      letters visible
+    details: individual branch patterns visible in stark detail against sky, snow accumulated in branch forks and on horizontal
+      surfaces, animal tracks crisscrossing snow between trees showing winter wildlife activity, dried apple remnants still
+      clinging to highest branches, no text or letters visible
+    background: estate grounds uniformly blanketed in snow, manor house with smoke rising from chimneys suggesting warmth
+      and life within, birch groves creating delicate black line patterns against white landscape, fields beyond showing unbroken
+      snow cover
+    atmosphere: profound silence and stillness of winter rest, sense of dormant life waiting beneath snow and bark, beauty
+      found in stark simplicity and geometric patterns, temporal pause before next cycle begins, monastery-like peace of seasonal
+      retreat, no text or letters visible
+  composition:
+    cameraAngle: identical eye-level view now emphasizing winter's stark beauty and architectural quality
+    focus: the essential structure revealed when all decorative elements are stripped away
+    depth: foreground shows detailed snow patterns and bare branch architecture, middle ground reveals orchard's winter geometry,
+      background extends to estate's winter landscape showing universal seasonal dormancy, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

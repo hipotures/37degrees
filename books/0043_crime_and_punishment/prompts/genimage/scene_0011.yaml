@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: July 1865, frightening afternoon encounter
+    location: Streets and squares of St. Petersburg during oppressive July heat wave, 1865
+    weather: Overwhelming heat creating distorted giant-like atmosphere
+  characters:
+  - appearance: Small child around seven years old, thin from poor nutrition, wide frightened eyes, dirty clothes showing
+      poverty
+    clothing: Ragged children's clothing, too small and patched, barefoot on hot pavement
+    position: Looking up from ground level at towering adult world above
+    action: Watching adults with mixture of fear and fascination, trying to understand their incomprehensible behaviors and
+      violent emotions
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Towering above like threatening giant, moving erratically through crowd
+    action: Muttering to himself and making sudden unpredictable movements that terrify watching child
+  scene:
+    mainElements: Suffocating heat creating visible air distortion, dust from constant construction covering everything with
+      lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg
+      stench from canals cheap alcohol and human sweat
+    details: From child's low perspective, all adults appear as giants moving in mysterious dangerous ways, their legs like
+      tree trunks, their voices booming from impossible heights. Raskolnikov looms especially threatening with his wild eyes
+      and erratic movements, appearing as monster from fairy tale. Street construction becomes landscape of giant obstacles
+      and hazards, building walls stretch endlessly upward like canyon walls
+    background: Adult world viewed as realm of incomprehensible violence and unpredictable danger, buildings appearing as
+      massive fortresses beyond child's reach
+    atmosphere: Overwhelming fear and confusion at adult behaviors that make no sense, world appearing as threatening labyrinth
+      where giants pursue unknown violent purposes
+  composition:
+    cameraAngle: Extreme low angle from child's ground-level perspective, emphasizing enormous scale of adult world
+    focus: Raskolnikov as terrifying giant figure looming threateningly above small vulnerable observer
+    depth: Foreground shows child's small frightened presence, middle ground captures towering adult legs and bodies, background
+      reveals impossibly tall buildings and scaffolding, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

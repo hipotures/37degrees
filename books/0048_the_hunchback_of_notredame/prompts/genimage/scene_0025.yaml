@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1482, dawn of new season, cyclical return but transformed
+    location: Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals
+    weather: Clear dawn with golden light revealing seasonal changes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight,
+      architectural symphony in stone showing passage of time through seasonal weathering and wear
+    details: Dawn light reveals familiar cathedral but with subtle changes from time passage, stone shows new weathering patterns,
+      vegetation growth in crevices shows seasonal cycle, same eternal architecture but transformed by time experience
+    background: Medieval Paris awakens to another dawn but city shows signs of change and growth, familiar yet subtly different
+      after full seasonal cycle
+    atmosphere: Cyclical but transformed moment showing time passage made visible, cathedral enduring but marked by experience,
+      eternal presence in changing world
+  composition:
+    cameraAngle: Frontal dawn view emphasizing both continuity and change
+    focus: Interplay between eternal architecture and visible time passage
+    depth: Foreground shows plaza with seasonal changes, middle ground features cathedral facade showing time effects, background
+      displays evolved cityscape at dawn
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

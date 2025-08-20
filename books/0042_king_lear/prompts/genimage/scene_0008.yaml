@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, afternoon
+    location: Empty chamber in castle, stone room with single window and minimal furniture
+    weather: Partly cloudy with intermittent sunlight creating shifting patterns
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Disheveled robes, hair becoming unkempt
+    position: Standing near window, then turning sharply toward empty corners of room
+    action: Reaching toward empty air, speaking to someone who isn't there, then stopping confused when no response comes
+  scene:
+    mainElements: Bare stone chamber with single narrow window, wooden chair, empty fireplace, single door
+    details: Fleeting glimpses of human figure in peripheral vision that vanishes when looked at directly. Shadows that move
+      independently of their sources. Whispered words that seem to float as faint, distorted text or symbols in shafts of
+      sunlight. Areas of air that seem thicker, as if someone invisible just passed through
+    background: Stone walls that occasionally seem to ripple like fabric, empty doorway where figure might have been standing
+      moment before, window showing clouds that form and dissolve into face-like shapes
+    atmosphere: Boundary between seen and unseen becoming permeable. Reality populated by presences that exist just beyond
+      direct perception. Sense of being in conversation with invisible companions who withdraw when acknowledged
+  composition:
+    cameraAngle: Medium shots focusing on Lear's reactions to things not visible in frame
+    focus: Lear's expressions of recognition and confusion alternating with empty spaces where he seems to see something
+    depth: Lear in sharp focus responding to invisible presences, empty spaces that should contain something, background suggesting
+      movement just outside frame
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

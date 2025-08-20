@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Single evening compressed showing café opening preparations and closing rituals simultaneously
+    location: traditional Russian tavern in Moscow merchant quarter, wood-paneled interior with traditional furnishings
+    weather: evening lamplight overlapping with dawn preparation light through same windows
+  characters:
+  - appearance: middle-aged tavern keeper with strong build from physical work, graying beard, kind but tired eyes from long
+      days of service
+    clothing: practical work clothes with leather apron, sleeves rolled up for labor, keys hanging from belt
+    position: standing behind wooden bar counter, surrounded by both opening and closing activities
+    action: simultaneously setting out clean glasses for evening service while collecting empty ones from departed customers
+  scene:
+    mainElements: tavern interior showing tables being set for evening guests while simultaneously being cleared from day's
+      business, candles being lit while others burn down to stubs, fresh bread set out while day's remnants are collected,
+      no text or letters visible
+    details: individual glasses showing both sparkling cleanliness and wine stains from day's service, wooden surfaces both
+      freshly wiped and marked by day's use, floor both swept clean and scattered with sawdust from evening activities, no
+      text or letters visible
+    background: windows showing both afternoon light and evening darkness, street sounds of both daily business and evening
+      social activity, kitchen visible with both meal preparation and cleanup occurring simultaneously
+    atmosphere: meditation on endless cycle of service and preparation, understanding that each day's work contains previous
+      day's completion and next day's beginning, tavern keeper as eternal figure maintaining social gathering place, no text
+      or letters visible
+  composition:
+    cameraAngle: view across tavern interior showing dual temporal states of preparation and completion
+    focus: the endless cycle of hospitality and service transcending individual days
+    depth: foreground shows detailed bar preparations and cleanup activities, middle ground captures tavern keeper managing
+      dual temporal responsibilities, background reveals tavern's role as eternal social gathering space, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

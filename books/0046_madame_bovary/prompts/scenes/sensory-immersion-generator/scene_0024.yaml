@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Food vendors with rising steam, spice clouds, and festival sounds made visible"
+  setting:
+    time: "1840s midday, during bustling market day and festival activities"
+    location: "Market area of Yonville-l'Abbaye during agricultural fair, food vendor section"
+    weather: "Warm sunny day perfect for outdoor festival and market activities"
+  characters:
+    - appearance: "Food vendors, market customers, townspeople sampling various festival foods"
+      clothing: "Work aprons, market attire, festival clothing, mixture of practical and celebratory dress"
+      position: "Around food stalls, tasting, buying, selling, creating busy market atmosphere"
+      action: "Cooking, serving, eating, haggling, enjoying festival foods and market atmosphere"
+  scene:
+    mainElements: "Multiple food vendor stalls with various cooking fires, spice grinding stations, steam from different cooking methods, aromatic clouds from different cuisines"
+    details: "Food vendors with multiple pots releasing distinct steam patterns from different dishes, spice merchants grinding fresh spices creating visible aromatic powder clouds, bread baking creating flour dust and steam, meat roasting producing savory vapor streams, wine and cider flowing creating splash patterns, festival sounds made visible through rhythmic steam releases and spice cloud puffs, cooking fires creating heat distortion and aromatic smoke, different food aromas represented by varying color and density of vapor clouds, market chaos shown through overlapping steam patterns and spice dust, festival energy expressed through dynamic cooking smoke and food preparation activity, no text or letters visible"
+    background: "Busy market square with temporary stalls, festival decorations, crowds moving between food vendors"
+    atmosphere: "Complete sensory marketplace where sight (colorful foods), smell (spice clouds), taste (visible food preparation), sound (rhythmic cooking activity), and touch (steam and heat) all combine in festival abundance"
+  composition:
+    cameraAngle: "Medium shot showing multiple food stalls with overlapping steam and spice patterns"
+    focus: "Various cooking steam patterns, spice clouds, aromatic vapors creating layered sensory experience"
+    depth: "Foreground: detailed spice grinding and steam patterns, middle ground: busy food vendors and customers, background: festival market atmosphere"

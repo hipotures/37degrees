@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Alosza's speech at the stone"
+  setting:
+    time: "1860s Russian Empire, clear sunny day"
+    location: "Open field with large simple field stone near cemetery in provincial town Skotoprigoniewsk"
+    weather: "Clear sunny day with bright natural light"
+  characters:
+    - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+      clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+      position: Standing beside stone facing group of boys
+      action: Speaking with quiet authority about memory, brotherhood and future hope
+    - appearance: 13-year-old boy approaching fourteenth birthday, short for his age which causes great concern, quite pretty pale freckled face with small but lively gray eyes, broad cheekbones and small red lips
+      clothing: School uniform typical of educated youth, neat student attire
+      position: Among group of boys, listening intently
+      action: Face showing admiration and intellectual engagement with elder boy's message
+    - appearance: Nine-year-old boy described as small weak wearing torn clothing due to family poverty, proud and defiant despite physical frailty
+      clothing: Torn poor clothing reflecting family financial struggles, patched garments
+      position: Present in spirit though physically absent due to death
+      action: Remembered presence inspiring unity among surviving friends
+  scene:
+    mainElements: "Large simple field stone becoming place of new covenant formation, open countryside providing natural cathedral, group of twelve boys forming new community"
+    details: "Bright sunlight illuminating scene of hope and renewal, stone solid and permanent against changing sky, grass and wildflowers suggesting natural resurrection"
+    background: "Russian countryside stretching toward distant forest line, cemetery visible showing connection to mortality, open space suggesting infinite possibility"
+    atmosphere: "Profound hope and spiritual renewal, new community formed from shared memory of suffering, young voices promising better future"
+  composition:
+    cameraAngle: "Wide shot showing Alosza with boys against expansive natural background, emphasizing hope and future"
+    focus: "Alosza's face glowing with spiritual authority and boys' faces bright with promise"
+    depth: "Foreground shows new spiritual community, middle ground captures solid stone foundation, background shows infinite possibility of Russian landscape"

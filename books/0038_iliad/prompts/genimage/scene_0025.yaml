@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, mystical moment outside normal time
+    location: divine realm transcending mortal geography, cosmic space where symbols speak truth
+    weather: Ethereal light suggesting divine illumination beyond natural phenomena
+  characters: No characters present in this scene
+  scene:
+    mainElements: 'Symbolic frame created by divine circular shield forged by Hephaestus from five layers of metal (bronze,
+      tin, gold, silver), depicting entire cosmos in concentric rings: celestial bodies in center, two cities (one at peace,
+      one at war), agricultural scenes, pastoral life, dancing, Ocean stream around rim, showing that war is only part of
+      larger human story'
+    details: Perfect circular frame containing all aspects of mortal existence, center showing stars and constellations, first
+      ring depicting peaceful city with weddings and festivals, second ring showing city under siege with warriors and sorrow,
+      third ring with plowing fields and harvest scenes, fourth ring with shepherds and flocks, outer ring with young people
+      dancing and celebrating life, rim showing Ocean river that bounds the world, bronze and gold creating warm metallic
+      palette, no text or letters visible
+    background: Cosmic void suggesting this shield contains entire universe of human experience
+    atmosphere: Divine perspective on mortal life showing war as part of eternal cycle, artistic creation transcending destruction,
+      beauty emerging from conflict
+  composition:
+    cameraAngle: Straight-on view of complete shield showing all concentric circles and cosmic order
+    focus: Perfect circular frame containing all aspects of human existence from war to peace
+    depth: Multiple symbolic layers radiating from center, each ring containing different aspect of mortal life, suggesting
+      that individual stories are part of eternal human pattern
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

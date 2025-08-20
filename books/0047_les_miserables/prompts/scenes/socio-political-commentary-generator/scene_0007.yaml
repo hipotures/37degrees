@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Control Systems - Guard Posts and Checkpoints"
+  setting:
+    time: "1825, morning during routine patrol"
+    location: "Bridge checkpoint entering Paris, control point for movement between districts"
+    weather: "Gray morning with thin sunlight filtered through urban haze"
+  characters:
+    - appearance: "Guards in official uniforms manning checkpoint station, faces showing bored routine of constant control"
+      clothing: "Military-style uniforms with brass buttons and insignia, white cross-belts, tall shakos with plumes, weapons carried as visible symbols of force"
+      position: "Stationed at barrier controlling bridge access"
+      action: "Examining identity papers, questioning travelers about business and destination, maintaining systematic control of population movement"
+    - appearance: "Citizens queued for permission to pass, expressions mixing compliance with suppressed resentment"
+      clothing: "Mix of working-class and bourgeois dress, papers clutched in hands, respectful but stiff posture before authority"
+      position: "Forming orderly line approaching checkpoint barrier"
+      action: "Waiting patiently for inspection, producing required documents, answering official questions with careful deference"
+  scene:
+    mainElements: "Wooden barrier painted with official stripes blocking bridge access, guard hut with government emblems, stack of official registers for recording passage"
+    details: "Posted lists of restricted individuals and suspicious activities, official seal stamps for approving documents, bell for summoning additional guards if needed. Checkpoint equipped with detention bench for holding suspicious persons, weapons rack visible inside guard station"
+    background: "Stone bridge spanning river with Paris visible beyond, church spires and government buildings suggesting destination worth controlling access to"
+    atmosphere: "Bureaucratic machinery of population control operating through routine intimidation, ordinary movement requiring official permission and surveillance"
+  composition:
+    cameraAngle: "Mid-level showing interaction between controlling authority and controlled population"
+    focus: "Checkpoint barrier as physical symbol of restricted freedom"
+    depth: "Control apparatus in foreground, queue of citizens in middle ground, city beyond suggesting freedoms requiring official permission in background"

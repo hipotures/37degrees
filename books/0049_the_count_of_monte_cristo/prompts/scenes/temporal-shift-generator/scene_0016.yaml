@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Frozen Moment of Betrayal"
+  setting:
+    time: "1815, single instant suspended in time"
+    location: "Rustic inn on outskirts of Marseilles overlooking Mediterranean, popular with sailors and fishermen"
+    weather: "Warm afternoon light frozen in golden rays"
+  characters:
+    - appearance: "19-year-old sailor, tall and slender build, athletic physique from life at sea. Black hair like raven's wing, naturally tousled by sea wind. Deep black eyes, round and open face with tanned, weathered complexion from sun exposure"
+      clothing: "Simple white linen shirt open at the collar, dark wool or linen sailor's trousers, short fitted jacket. White and blue striped marinière shirt (sailor's traditional garment). Clean but showing traces of salt and sea work"
+      position: "Rising from chair, wine glass tilted mid-fall, expression showing first moment of shock"
+      action: "Edmond frozen in instant of arrest, still innocent and trusting"
+    - appearance: "25-26 years old, unprepossessing appearance with unpleasant, fox-like features. Restless, calculating eyes that miss nothing. Average build, unremarkable presence except for his servile expressions"
+      clothing: "More formal attire than common sailors - accounting clerk's clothing, modest but neat. Simple waistcoat and trousers, showing his position above ordinary crew but below officers"
+      position: "Frozen with hand still raised from signing denunciation, expression of satisfied malice"
+      action: "Danglars caught in moment of betrayal completion"
+  scene:
+    mainElements: "Simple wooden tables and benches, clay dishes and pitchers, fishing nets and maritime decorations on walls, magistrate and soldiers frozen mid-entrance, wedding feast suspended"
+    details: "Wine drops suspended in air between glass and floor, crumbs falling in slow motion from interrupted feast, dust motes floating motionless in afternoon light, hands reaching but never connecting, facial expressions captured at moment of maximum emotion"
+    background: "Harbor view through window showing ships motionless on impossibly still water, seagulls suspended in flight, Mediterranean frozen like painting"
+    atmosphere: "Critical life moment stretched into eternal instant. All sound suspended except heartbeat of destiny. Light rays streaming through windows like solid golden bars trapping figures in amber of time, no text or letters visible"
+  composition:
+    cameraAngle: "Dynamic angle capturing multiple frozen figures in moment of dramatic action"
+    focus: "Suspended instant revealing truth about each character's nature in moment of crisis"
+    depth: "Foreground shows falling objects suspended mid-air, middle ground captures frozen human drama, background reveals motionless seascape through windows"

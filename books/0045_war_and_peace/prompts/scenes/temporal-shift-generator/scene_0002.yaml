@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Salon Decades Later - Faded Glory and New Faces"
+  setting:
+    time: "Late 1820s, evening"
+    location: "same elegant drawing room in aristocratic St. Petersburg mansion, now under Tsar Nicholas I, unchanged neoclassical architecture showing subtle signs of age"
+    weather: "winter evening with similar frost patterns on same tall windows"
+  characters:
+    - appearance: "middle-aged woman in her 40s with graying hair and lines around intelligent eyes, same height and bearing as earlier guest but marked by time's passage"
+      clothing: "court dress in newer empire style with higher neckline reflecting changing fashions, darker colors befitting mature matron"
+      position: "occupying same position near window where younger woman once stood"
+      action: "conducting same type of political conversation with similar gestures but voice carrying weight of years"
+  scene:
+    mainElements: "identical gilded furniture now showing subtle wear, same polished parquet floors with accumulated scratches from decades of gatherings, crystal chandeliers with some crystals replaced, heavy draperies faded but still elegant, no text or letters visible"
+    details: "same French porcelain tea service showing tiny chips and hairline cracks, wallpaper roses faded to pale ghosts of their former brilliance, candle flames casting identical shadows but from newer candles in same holders, furniture cushions compressed by years of use, no text or letters visible"
+    background: "identical tall windows now showing evolved St. Petersburg with new buildings visible in distance, same imperial spires but with additions and modifications"
+    atmosphere: "same artificial elegance but with patina of years, conversations covering similar political themes but different wars and alliances, French language still dominant but Russian increasingly mixed in, ritual continuity transcending individual mortality, no text or letters visible"
+  composition:
+    cameraAngle: "identical elevated three-quarter view emphasizing temporal comparison"
+    focus: "the persistence of social forms despite individual change and historical passage"
+    depth: "foreground emphasizes weathered details of familiar objects, middle ground shows same architectural space with subtle aging, background reveals evolved but fundamentally unchanged cityscape, no text or letters visible"

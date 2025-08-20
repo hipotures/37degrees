@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dawn and Dusk Eternal - Fisherman's Ritual"
+  setting:
+    time: "Daily cycle from 1815 to 1838, dawn and dusk superimposed"
+    location: "Rocky Mediterranean coastline near Marseilles where fishermen work"
+    weather: "Golden sunrise light merging with golden sunset light"
+  characters:
+    - appearance: "20-22 years old, tall young man with olive complexion typical of Catalans. Dark hair and eyes, face expressing irritation and anxiety. Strong build from physical labor as fisherman"
+      clothing: "Simple Catalan fisherman's attire - rough woolen trousers, linen shirt, possibly leather vest. Practical, working clothes showing signs of maritime labor"
+      position: "Silhouetted against sunrise, casting nets into Mediterranean waters"
+      action: "Young Fernand performing eternal ritual of fishing at dawn, before jealousy corrupted him"
+    - appearance: "45-year-old military man with bearing of French general and peer. Still tall and imposing, dark features now marked by hidden secrets and anxiety. Face shows military pride but underlying nervousness"
+      clothing: "French general's uniform with epaulettes, military orders and decorations, ceremonial sash. For civilian occasions, formal dark suits befitting a peer of France. Military bearing evident in posture"
+      position: "Same silhouette position but now as ghostly overlay at sunset"
+      action: "Mature Fernand's spirit returning to simple truth of daily labor after lifetime of complex corruption"
+  scene:
+    mainElements: "Rocky Mediterranean coastline with fishing boats, nets, and traditional gear unchanged across decades, sunrise and sunset light creating temporal bridge"
+    details: "Same rocks worn smoother by decades of waves, fishing nets mended countless times but maintaining same patterns, boats aging and being replaced but maintaining same essential form, seabirds following same flight patterns across generations"
+    background: "Mediterranean stretching to horizon showing both dawn hope and sunset completion, coastline eternal despite human changes"
+    atmosphere: "Eternal cycle of honest work contrasted with temporary corruption of human ambition. Sounds of waves and seabirds constant across decades, fishing nets splashing in same rhythms, daily renewal offering redemption from complex schemes, no text or letters visible"
+  composition:
+    cameraAngle: "Wide coastal shot showing silhouetted figure against dual sunrise/sunset"
+    focus: "Eternal human ritual of daily labor surviving corruption and returning to truth"
+    depth: "Foreground shows fishing nets and coastal rocks, middle ground captures dual temporal silhouettes, background reveals eternal Mediterranean seascape"

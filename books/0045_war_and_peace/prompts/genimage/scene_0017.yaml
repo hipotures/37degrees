@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Single instant of battle frozen while showing extended consequences of action
+    location: rolling countryside near Borodino village, 120 kilometers west of Moscow, featuring fields, woods, and shallow
+      ravines
+    weather: morning mist giving way to thick cannon smoke creating hellish sulfurous atmosphere
+  characters:
+  - appearance: handsome energetic young man in his early 20s with open expressive face, strong build, brown hair, expression
+      frozen in moment of determination and terror
+    clothing: hussar uniform of Pavlograd Regiment - blue dolman with silver braiding, red collar and cuffs, white pelisse
+      draped over shoulder, uniform torn and stained with battle
+    position: mounted on rearing horse, body leaning forward in cavalry charge, saber raised above head
+    action: suspended in moment of cavalry advance, horse's hooves frozen above ground, saber catching light mid-swing
+  - appearance: French infantry soldier in dark blue uniform with white cross-belts, face showing mixture of determination
+      and fear
+    clothing: French line infantry uniform with musket and bayonet, uniform dirty from battle conditions
+    position: frozen in moment of loading musket, ramrod halfway down barrel
+    action: suspended in reloading sequence, eyes focused on approaching cavalry charge
+  scene:
+    mainElements: musket ball visible in flight path between opponents, trajectory line traced by disturbed air and smoke
+      particles, cannon balls visible as dark spheres suspended in air throughout battlefield, no text or letters visible
+    details: individual gunpowder grains suspended in air around musket muzzle, horse's mane frozen mid-motion showing individual
+      hairs, smoke particles creating visible bullet path, brass buttons catching sunlight in frozen moment, no text or letters
+      visible
+    background: entire battlefield frozen with thousands of soldiers suspended in various stages of combat, artillery crews
+      caught mid-loading sequence, cavalry charges frozen across multiple positions showing wave of attack
+    atmosphere: supernatural suspension of violent action revealing hidden geometry of battle, beauty found in mathematical
+      precision of ballistic trajectories, horror of war made abstract through temporal freezing, individual human drama suspended
+      within vast mechanical violence, no text or letters visible
+  composition:
+    cameraAngle: following bullet trajectory from musket to target showing flight path
+    focus: the visible path of violence frozen to reveal hidden structure of battle
+    depth: foreground shows detailed musket ball and disturbed air particles, middle ground captures suspended combat between
+      individual soldiers, background reveals entire battlefield frozen in temporal suspension, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

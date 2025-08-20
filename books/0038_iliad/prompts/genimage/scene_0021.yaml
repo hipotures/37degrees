@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, deep night illuminated by oil lamps
+    location: spacious wooden shelter with skin roof, sleeping area with rich furnishings, area for weapons and armor storage,
+      courtyard space surrounded by palisade
+    weather: Still night air with oil lamp smoke creating ethereal atmosphere
+  characters:
+  - appearance: 70-year-old king of Troy, stooped with age but retaining dignity, long white hair and beard, face deeply lined
+      with sorrow and years of rule
+    clothing: flowing royal robes of deep purple and gold, golden circlet crown, relies on carved wooden staff for support
+    position: framed by tent entrance, silhouetted against lamplight from within
+    action: entering Achilles' tent carrying ransom treasures, bent with grief but maintaining royal dignity
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: simple linen chiton without armor, bronze arm bands, hair unbound
+    position: seated inside tent, visible through entrance frame
+    action: looking up in shock as enemy king enters his private sanctuary
+  scene:
+    mainElements: Natural frame created by tent entrance containing both supplicant king and surprised warrior
+    details: Leather tent flaps creating perfect rectangular frame, golden treasures glinting in lamplight, bronze vessels
+      and tripods carried as ransom, oil lamps casting flickering shadows, wooden tent poles supporting structure, rich furs
+      and textiles visible inside, divine armor hanging on rack, tension of enemies meeting in peace, no text or letters visible
+    background: private warrior's domain with weapons gleaming in lamplight, scent of leather and metal, sounds of sea nearby
+      and camp activity beyond
+    atmosphere: Sacred moment of supplication transcending warfare, enemy becoming human through shared grief
+  composition:
+    cameraAngle: Medium shot using tent entrance as natural frame containing both figures
+    focus: Contrast between royal supplicant and warrior host within architectural frame
+    depth: 'Foreground: tent frame and entrance details, middle: Priam entering with treasures, background: Achilles in domestic
+      setting'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

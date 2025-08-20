@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, blazing midday sun
+    location: Trojan plain in northwestern Anatolia, vast battlefield between Troy citadel and Aegean Sea coast
+    weather: Scorching Mediterranean summer heat with dust clouds
+  characters:
+  - appearance: 25-year-old Greek warrior, tall and athletic with divine build, long golden hair flowing to shoulders, intense
+      green eyes, flawless skin with godlike radiance, moves with predatory grace and supernatural speed
+    clothing: divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested
+      helmet with horsehair plume, bronze greaves
+    position: tiny figure in vast landscape, standing defiantly on chariot near Greek ships
+    action: raising spear toward heavens while speaking to invisible goddess
+  scene:
+    mainElements: Extreme wide shot from elevated position showing entire Trojan plain stretching between massive walled citadel
+      and Greek naval encampment, thousands of black ships pulled onto sandy beach, dust clouds from marching armies
+    details: Ancient limestone walls of Troy rising from hillside like crown, smoke columns from siege fires, scattered burial
+      mounds dotting battlefield, Scamander River cutting silver line through brown earth, eagles circling overhead, no text
+      or letters visible
+    background: Mount Ida looming in distance with Zeus watching from peak, Aegean Sea sparkling beyond ships, Hellespont
+      strait visible on horizon
+    atmosphere: Epic scale showing gods and mortals as players on cosmic stage, heat shimmer distorting air, sound of distant
+      war drums and clashing bronze echoing across wasteland
+  composition:
+    cameraAngle: High aerial establishing shot from divine perspective, looking down like Zeus surveying battlefield
+    focus: Tiny human figures dwarfed by landscape emphasizing scale of ten-year conflict
+    depth: 'Foreground: rocky outcrop with command post, middle: vast plain with armies, background: Troy''s towering walls
+      and distant mountains'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

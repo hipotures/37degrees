@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The trial's final verdict"
+  setting:
+    time: "1860s Russian Empire, day"
+    location: "Large courthouse hall in provincial Russian town during 1860s judicial reforms period"
+    weather: "Clear day with formal courthouse lighting"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Standing in defendant's dock, facing judges and jury
+      action: Hearing guilty verdict with mixture of pride and despair, accepting sentence with tragic dignity
+    - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+      clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality and newfound wealth
+      position: In public gallery, leaning forward toward defendant
+      action: Face showing anguish and devotion despite guilty verdict
+  scene:
+    mainElements: "Spacious formal courtroom with judges bench, defendant dock, areas for prosecution defense and public gallery, official furnishings of reformed Russian justice system"
+    details: "Formal lighting emphasizing judicial solemnity, packed gallery showing public fascination, official decorations witnessing modern justice"
+    background: "Formal courtroom architecture representing reformed Russian legal system, crowd of spectators witnessing public drama"
+    atmosphere: "Public arena where opposing worldviews clash in battle for truth and justice, formal justice failing to capture complex moral truth"
+  composition:
+    cameraAngle: "Wide shots showing defendant facing system of justice, emphasizing individual against institutional power"
+    focus: "Dymitr's face showing tragic acceptance of unjust but inevitable verdict"
+    depth: "Foreground shows condemned defendant, middle ground captures legal system, background shows public witnessing injustice"

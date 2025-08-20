@@ -1,0 +1,119 @@
+canon:
+  characters:
+    - id: "odysseus"
+      name: "Odysseus"
+      description_block: |
+        characters:
+          - appearance: "powerful man aged 40-45 years, tall and broad-shouldered with impressive muscular build, weathered face marked by twenty years of war and wandering, curly dark hair and thick beard, sun-tanned skin crossed with wrinkles showing exhaustion and determination, large intelligent eyes that reflect cunning and weariness"
+            clothing: "as king: white linen chiton with purple wool cloak fastened at shoulder, as beggar: dark tattered rags, dirty torn garments, bent posture with wooden walking staff"
+            posture: "moves with warrior confidence and strength, as beggar: stooped and limping gait to maintain disguise"
+    
+    - id: "penelope"
+      name: "Penelope"
+      description_block: |
+        characters:
+          - appearance: "woman aged 35-40 years, tall and slender with noble bearing, long dark hair arranged in elaborate knot as befits married status, beautiful face with refined features despite years of sorrow, large sad eyes reflecting deep suffering and unwavering loyalty"
+            clothing: "long pleated peplos in subdued colors (white, grey, dark blue) indicating mourning, thin veil often covering face as gesture of modesty and grief"
+            posture: "carries herself with dignity and reserve, gestures restrained and controlled, often shown weeping in private chambers but maintaining cold proud mask before suitors"
+    
+    - id: "telemachus"
+      name: "Telemachus"
+      description_block: |
+        characters:
+          - appearance: "young man approximately 20 years old, tall and handsome with resemblance to heroic father, slender but strong athletic build of youth approaching manhood, smooth face with light facial hair or clean-shaven"
+            clothing: "short linen chiton typical of young Greek aristocrat, leather sandals, travel cloak (chlamys) fastened at shoulder during journeys"
+            posture: "initially uncertain and hesitant movements showing youth's insecurity, evolving to confident bearing as he matures through his journey"
+    
+    - id: "antinous"
+      name: "Antinous"
+      description_block: |
+        characters:
+          - appearance: "young man aged 25-30 years, athletic and well-built physique, well-groomed perfumed hair and beard showing vanity, handsome face expressing arrogance and contempt, carries himself with entitlement of privileged aristocrat"
+            clothing: "richly decorated colorful chiton showing wealth, gold jewelry including arm bands and rings, expensive sandals"
+            posture: "arrogant bearing with commanding gestures, often holds golden wine cup, movements show aggression and dominance over others"
+    
+    - id: "eurycleia"
+      name: "Eurycleia"
+      description_block: |
+        characters:
+          - appearance: "elderly woman over 70 years old, bent with age and decades of service, deeply wrinkled face marked by care and worry, thin grey hair tied in simple knot, alert bright eyes showing intelligence despite advanced age"
+            clothing: "simple dark wool dress of servant, apron tied at waist, worn leather sandals"
+            posture: "moves slowly but confidently through palace, hands weathered from work, maintains energetic demeanor despite physical frailty"
+    
+    - id: "athena"
+      name: "Athena"
+      description_block: |
+        characters:
+          - appearance: "divine form: tall majestic woman with stern beautiful features, large brilliant owl-eyes reflecting divine wisdom, severe classical beauty expressing both protection and warfare, ageless immortal bearing"
+            clothing: "divine form: gleaming bronze helmet, bronze armor, aegis shield with Medusa head, bronze spear, disguised: appropriate mortal clothing for assumed identity (traveler's cloak as Mentes, shepherd's garb, young girl's dress)"
+            posture: "divine authority with commanding presence, when disguised: adopts mannerisms appropriate to assumed mortal identity"
+    
+    - id: "polyphemus"
+      name: "Polyphemus"
+      description_block: |
+        characters:
+          - appearance: "gigantic cyclops approximately 4-5 meters tall, massive misshapen brutish build showing primitive strength, one large eye centered in forehead, long dirty matted hair and unkempt beard, sun-darkened skin scarred from rough pastoral life"
+            clothing: "crude leather hip covering made from animal hides, no other garments"
+            posture: "moves with hulking gait showing raw physical power, carries enormous wooden club made from tree trunk, gestures are violent and primitive"
+
+  locations:
+    - id: "ithaca_palace"
+      name: "Palace of Odysseus in Ithaca"
+      description_block: |
+        setting:
+          location: "fortified royal complex on rocky Mediterranean island of Ithaca in Ionian Sea, built around central great hall (megaron) following Mycenaean architectural style"
+        mainElements: "massive rectangular stone and timber great hall with four wooden columns supporting flat roof, central stone hearth with smoke hole above providing only light source, thick walls decorated with colorful frescoes showing hunting and marine scenes in Mycenaean blue, red, yellow and white"
+        atmosphere: "before Odysseus return: chaotic and decadent filled with noise of 108 drunken suitors, after massacre: eerily silent with metallic scent of blood and death pervading once-noble hall"
+    
+    - id: "calypso_grotto"
+      name: "Calypso's Cave on Ogigia"
+      description_block: |
+        setting:
+          location: "deep multi-chambered cave on isolated mythical island of Ogigia beyond known Mediterranean waters, entrance overgrown with luxuriant grapevines heavy with ripe clusters"
+        mainElements: "sacred grove surrounding cave with alders, poplars and fragrant cypresses housing owls, hawks and seabirds, four crystal springs feeding soft green meadows thick with violets and wild celery, paradise-like but isolated environment"
+        atmosphere: "emanates peace and sensuality but marked by deep melancholy, filled with melodious singing of nymph at loom, constant sound of waves breaking on shore, intense fragrance of flowers and cedar smoke from hearth"
+    
+    - id: "cyclops_cave"
+      name: "Polyphemus Cave"
+      description_block: |
+        setting:
+          location: "enormous damp dark cave on mountainous island serving as both dwelling and animal pen for giant cyclops, entrance blocked by massive boulder requiring twenty-two four-horse wagons to move"
+        mainElements: "primitive stone shelves and wicker baskets sagging under weight of huge white cheeses, large clay and wooden vessels filled with milk and whey, central fire pit providing only light in windowless space, animal pens for sheep and goats"
+        atmosphere: "oppressive claustrophobic environment reeking of animals, dung, wet wool and smoke, dominated by cyclops deep rumbling terrifying voice, represents barbarism and primitivism opposing civilization"
+    
+    - id: "phaeacian_palace"
+      name: "Palace of King Alcinous"
+      description_block: |
+        setting:
+          location: "magnificent royal palace in Scheria, magical island kingdom of hospitable Phaeacians beyond mortal realm"
+        mainElements: "walls of gleaming bronze with cornices of blue enamel, silver doors guarded by golden and silver dog statues, interior chambers with precious metal fixtures and magical illumination, gardens with perpetual fruit trees and flowing fountains"
+        atmosphere: "wonder and harmony pervading magical architecture that seems to emanate its own light, sounds of aojda's music and garden fountains, represents ideal of divine hospitality and civilized refinement"
+    
+    - id: "underworld"
+      name: "Land of the Dead"
+      description_block: |
+        setting:
+          location: "dark cold misty realm of Cimmerians at edge of world beside river Oceanus, entrance to Hades where spirits of dead gather"
+        mainElements: "flat desolate landscape shrouded in perpetual grey fog, sacrificial pit dug in barren earth, blood offerings attracting countless incorporeal souls, realm existing in eternal twilight without sun, moon or stars"
+        atmosphere: "overwhelming depression and hopelessness, cold lifeless air, silence broken only by whispers and moans of disembodied spirits, represents finality of death and separation from living world"
+
+  items:
+    - id: "odysseus_bow"
+      name: "Bow of Odysseus"
+      description_block: |
+        details: "massive composite bow crafted from wood and animal horns with intricate decorative carvings, so powerful that only hero of extraordinary strength can string it, requires precise technique and superhuman force to draw"
+    
+    - id: "olive_bed"
+      name: "Olive Tree Marriage Bed"
+      description_block: |
+        details: "heavy carved bed with one post made from living olive tree trunk still rooted in earth, immovable foundation inlaid with gold, silver and ivory decorations, represents permanence and sacred nature of marriage bond"
+    
+    - id: "white_scar"
+      name: "Boar Scar on Odysseus' Leg"
+      description_block: |
+        details: "old white crescent-shaped scar clearly visible on tanned skin above knee, permanent mark from boar tusk wound received during youth hunting on Mount Parnassus, serves as undeniable proof of identity"
+    
+    - id: "wind_bag"
+      name: "Aeolus Wind Bag"
+      description_block: |
+        details: "leather bag sewn from ox hide, tightly sealed and bound with gleaming silver cord, slightly inflated from imprisoned adverse winds, represents divine gift and test of human greed and trust"

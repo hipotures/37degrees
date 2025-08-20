@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1815 overlaying 1838, golden hour
+    location: Rustic inn on outskirts of Marseilles overlooking Mediterranean, popular with sailors and fishermen
+    weather: Warm Mediterranean evening light filtering through windows
+  characters:
+  - appearance: 17-year-old beautiful girl with hair black as ebony and velvet eyes like a gazelle. Olive complexion, slender
+      tanned arms modeled after Venus of Arles. Natural, somewhat wild beauty typical of Mediterranean women
+    clothing: Traditional Catalan folk costume - simple skirt, white shirt, colorful bodice. Red cotton stocking with grey
+      and blue pattern. Bright, cheerful colors reflecting her joyful spirit and cultural heritage
+    position: Seated at wooden table by window, gazing toward harbor with expression of love and anticipation
+    action: Young Mercédès waiting for her beloved's return, hands folded, radiating joy and expectation
+  - appearance: Woman in her early 40s who retains her beauty but marked by deep, permanent sadness. Still black hair and
+      dark eyes, but now pale complexion. Her movements are slow and dignified, eyes have lost their youthful sparkle
+    clothing: Elegant Parisian fashion of 1830s - rich silk and velvet gowns with huge puffed sleeves, very narrow corseted
+      waist, wide dome-shaped skirts. Muted color palette - pearl greys, deep violets, navy blues reflecting her inner melancholy
+    position: Same seat at same table, now as ghostly overlay, identical pose but transformed by time
+    action: Mature Mercédès in same waiting position, but now waiting for redemption that may never come
+  scene:
+    mainElements: Simple wooden tables and benches, clay dishes and pitchers, fishing nets and maritime decorations on walls,
+      second-floor room where engagement feast once took place, view of harbor through same windows
+    details: Same wooden table worn smoother by decades of use, same window view but showing both young and mature perspectives
+      simultaneously, nets more mended, dishes showing use, floorboards more worn along same paths
+    background: Harbor view showing temporal layering - young woman sees bright future, mature woman sees lost past
+    atmosphere: Bittersweet temporal overlap where joy and sorrow occupy same space. Window light reveals both hope and regret
+      in same golden rays. Time compressed into single moment showing innocence lost and wisdom gained, no text or letters
+      visible
+  composition:
+    cameraAngle: Close-up profile shot from side, showing both temporal versions
+    focus: Mercédès in both incarnations, emphasizing transformation of same person through time's passage
+    depth: Foreground shows immediate table setting, middle ground captures both temporal figures, background reveals harbor
+      view as constant element
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

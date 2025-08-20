@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: July 1865, simultaneous observation from concealed positions
+    location: Barn-like room with bizarre geometry in old three-story green house overlooking canal in St. Petersburg, July
+      1865
+    weather: Evening shadows providing concealment for hidden watchers
+  characters:
+  - appearance: Eighteen-year-old girl, small and thin build, fair blonde hair, gentle blue eyes that reflect purity despite
+      her circumstances, youthful face marked by suffering and humility
+    clothing: Simple, modest, poor but clean clothing that reveals her true nature
+    position: Unaware of observation, moving naturally through her private space
+    action: Reading scripture and performing daily activities while unknowingly being watched from multiple concealed positions
+  - appearance: Several observers positioned at different strategic points both inside and outside building
+    clothing: Various disguises appropriate to different observation positions
+    position: Hidden behind irregular wall angles, watching through windows from adjacent buildings, concealed in building's
+      structural features
+    action: Maintaining surveillance while remaining undetected, documenting activities and visitors
+  scene:
+    mainElements: Large but very low-ceilinged space forming irregular quadrilateral, one wall runs diagonally creating sharp
+      acute angle disappearing into darkness and obtuse angle grotesquely wide, three windows facing canal, sparse furniture
+      including bed, chair, simple pine table with blue cloth, small dresser lost in emptiness
+    details: Multiple perspective angles reveal surveillance network utilizing room's bizarre geometry - watchers hidden in
+      acute angle shadows, observers in adjacent buildings monitoring through three canal-facing windows, agents positioned
+      to observe entrance without detection. Room's irregular shape creates blind spots but also concealment opportunities
+      for surveillance team
+    background: Canal-side location providing multiple observation points from water level and adjacent buildings, room's
+      unique architecture utilized for both concealment and surveillance
+    atmosphere: Professional surveillance operation taking advantage of architectural features and multiple sight lines to
+      maintain comprehensive but invisible monitoring
+  composition:
+    cameraAngle: Multiple simultaneous perspectives from various concealed observation points showing comprehensive surveillance
+      coverage
+    focus: Sonia's innocent daily activities unknowingly observed by coordinated watching network
+    depth: Foreground shows hidden watchers at various concealed positions, middle ground captures subject's unaware activities,
+      background reveals full surveillance network scope, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

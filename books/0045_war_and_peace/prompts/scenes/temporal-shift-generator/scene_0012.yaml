@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations at the Wedding Altar - Sacred Continuation"
+  setting:
+    time: "Multiple generational layers: 1785, 1810, 1835 compressed into single view"
+    location: "same private chapel within family Moscow mansion, identical iconostasis and architectural elements across decades"
+    weather: "interior illuminated by same stained glass windows casting identical colored light patterns across generations"
+  characters:
+    - appearance: "young bride in her early 20s from 1785 with blonde hair arranged in period style, nervous but radiant expression, delicate features typical of 18th century beauty ideals"
+      clothing: "empire-style wedding dress in ivory silk with gold thread embroidery, traditional Russian wedding crown with ribbons and pearls, white silk slippers"
+      position: "standing before iconostasis beside young groom, hands clasped in front of body"
+      action: "listening to priest's words with mixture of joy and solemnity, occasionally glancing at groom with shy affection"
+    - appearance: "mature bride in her late 20s from 1810 with dark hair in Napoleonic era fashion, confident bearing suggesting life experience, same family features as earlier bride"
+      clothing: "simpler wedding dress in white muslin with high waistline, delicate veil secured with family heirloom pins, practical but elegant style"
+      position: "standing in identical position before same iconostasis, posture showing more assurance than earlier bride"
+      action: "participating in ceremony with comfortable familiarity, hand reaching to touch groom's arm with established intimacy"
+    - appearance: "young bride in her early 20s from 1835 with auburn hair in Romantic era ringlets, expression combining earlier bride's nervousness with middle bride's confidence"
+      clothing: "fuller-skirted wedding dress in white satin with extensive lace details, larger veil reflecting fashion evolution, wearing jewelry inherited from previous brides"
+      position: "occupying same sacred space before iconostasis, posture blending family tradition with contemporary style"
+      action: "following ceremony with deep reverence while wearing ring worn by grandmother and mother before her"
+  scene:
+    mainElements: "identical iconostasis showing different degrees of candle smoke darkening, same stone altar with three different floral arrangements reflecting seasonal and fashion changes, wooden floors showing increased wear from decades of ceremonies, no text or letters visible"
+    details: "wedding rings passed down through generations showing different degrees of wear, candles in same holders but varying heights and states of burning, priest's robes identical in style but showing fabric changes across decades, flower petals on floor in different seasonal varieties, no text or letters visible"
+    background: "chapel architecture remaining constant with accumulated patina of age, same stained glass casting identical light patterns across generational ceremonies, family icons watching over repeated sacred rituals"
+    atmosphere: "profound sense of family tradition transcending individual marriages, sacred space consecrated by repetition of vows across generations, comfort found in continuation of family line through identical ceremonies, temporal layering revealing eternal nature of matrimonial commitment, no text or letters visible"
+  composition:
+    cameraAngle: "view from behind altar looking toward three brides showing temporal succession"
+    focus: "the sacred continuity of family marriage tradition across generational time"
+    depth: "foreground shows altar details and ceremonial objects used across generations, middle ground reveals three brides in temporal succession, background emphasizes chapel's eternal sacred architecture, no text or letters visible"

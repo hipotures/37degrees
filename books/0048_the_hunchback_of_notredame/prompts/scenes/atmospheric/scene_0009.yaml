@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Storm Clouds Gathering Over City"
+  setting:
+    time: "1482, late afternoon, approaching storm"
+    location: "Medieval Parisian rooftops and streets from tower view, chaos of peaked roofs and smoking chimneys"
+    weather: "Dramatic storm front approaching with dark clouds and rising wind"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Dense fabric of medieval buildings with timber-framed houses, steep-pitched roofs, countless smoking chimneys now bending in wind"
+    details: "Massive dark clouds roll across sky above medieval cityscape, chimney smoke streams sideways in increasing wind, loose papers and debris swirl through streets below, shutters bang against buildings, trees bend and sway dramatically"
+    background: "Seine River reflects dark storm clouds, distant lightning illuminates approaching weather front, city walls barely visible through gathering gloom"
+    atmosphere: "Tension and anticipation as natural forces approach urban landscape, sense of human vulnerability against elemental power, dramatic transformation of familiar cityscape"
+  composition:
+    cameraAngle: "High viewpoint looking across city with dramatic sky dominating frame"
+    focus: "Spectacular storm clouds and their effects on city below"
+    depth: "Foreground shows wind effects on nearest buildings, middle ground displays vast urban expanse, background features dramatic storm front"

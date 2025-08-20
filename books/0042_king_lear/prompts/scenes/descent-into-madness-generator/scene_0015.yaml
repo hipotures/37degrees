@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Reality Melts - Objects Lose Their Form"
+  setting:
+    time: "Ancient Britain, deep night approaching dawn"
+    location: "Chamber where physical laws have broken down completely"
+    weather: "Storm entering surreal phase with impossible colors in lightning"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Clothing that seems to melt and reform, no longer maintaining consistent shape"
+      position: "Reaching toward objects that dissolve under his touch"
+      action: "Attempting to grasp solid objects that flow like liquid through his fingers"
+  scene:
+    mainElements: "Room where all solid objects have begun to droop and flow like heated wax, furniture losing structural integrity while maintaining basic identity"
+    details: "Wooden chair with legs that bend and sag like soft clay. Table whose surface ripples like water while remaining functional. Candles that burn upward but drip upward as well, wax flowing against gravity. Stone walls that undulate like fabric while maintaining their basic wall function"
+    background: "Architecture that maintains purpose while abandoning physical consistency, windows that flow like liquid but still admit light, door that sags but still functions as barrier"
+    atmosphere: "Time itself has become elastic, affecting material reality. Physics bends to psychological pressure, creating world where metaphorical becomes literal - everything solid melts under weight of madness"
+  composition:
+    cameraAngle: "Fluid camera movements that mirror the melting, flowing environment"
+    focus: "Objects in various states of melting transformation, Lear's futile attempts to interact with unstable reality"
+    depth: "Foreground showing detailed melting effects, middle ground with Lear's struggles, background suggesting universal dissolution"

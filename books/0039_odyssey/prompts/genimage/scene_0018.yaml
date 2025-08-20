@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, stormy afternoon
+    location: Remote volcanic island beyond normal sailing routes, representing unknown dangers at limits of Bronze Age exploration
+    weather: Dark threatening storm clouds with lightning illuminating forbidding landscape
+  characters: No characters present in this scene
+  scene:
+    mainElements: Volcanic landscape with steaming fumaroles and hot springs, jagged black rocks formed from ancient lava
+      flows, strange vegetation adapted to volcanic soil, unnatural phenomena suggesting supernatural forces, evidence of
+      primitive inhabitants in crude stone structures
+    details: Hot springs bubbling with sulfurous steam, obsidian formations creating razor-sharp outcrops, unusual plants
+      with thick waxy leaves and strange coloration, bone fragments and crude tools scattered near cave entrances, primitive
+      stone circles suggesting ritual activities, pools of water with unusual mineral content creating rainbow reflections,
+      volcanic glass weapons different from Bronze Age technology, animal tracks from unknown species
+    background: Smoking volcanic peaks rising into storm clouds, treacherous rocky shores with no safe landing, churning seas
+      with dangerous currents, lightning strikes revealing momentary glimpses of island's forbidding interior
+    atmosphere: Supernatural dread and otherworldly strangeness, sulfurous smells and unnatural sounds, sense of being at
+      edge of civilized world where normal rules no longer apply, foreboding presence of unknown dangers both natural and
+      supernatural
+  composition:
+    cameraAngle: Dramatic low angle emphasizing threatening volcanic landscape
+    focus: Central volcanic formations with steaming vents and mysterious stone structures
+    depth: 'Foreground: jagged obsidian formations and strange vegetation, middle ground: volcanic activity and primitive
+      ruins, background: smoking peaks and storm-filled sky'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

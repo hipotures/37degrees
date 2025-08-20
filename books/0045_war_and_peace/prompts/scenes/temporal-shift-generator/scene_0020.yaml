@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Past and Present Bleeding - Historical Figures in Modern Street"
+  setting:
+    time: "1812 and 1860s bleeding into simultaneous existence"
+    location: "Moscow street showing temporal layers of Napoleonic occupation and later reconstruction"
+    weather: "smoke from 1812 fires overlapping with industrial coal smoke from later era"
+  characters:
+    - appearance: "massive, corpulent young man in his late 20s with gentle eyes behind spectacles, broad shoulders and tall frame, soft refined features marked by kindness rather than aristocratic sharpness"
+      clothing: "simple chłopski strój - peasant shirt and worn trousers, feet wrapped in rags, physical degradation from imprisonment"
+      position: "walking as prisoner with shuffling gait of exhaustion, hands bound behind back"
+      action: "moving through 1812 burning Moscow while simultaneously visible in 1860s reconstructed street"
+    - appearance: "well-dressed merchant in 1860s clothing with prosperity evident in bearing, same general build and kindness in eyes"
+      clothing: "quality wool coat and proper boots, clothing suggesting successful business career"
+      position: "walking same street path but in reconstructed Moscow fifty years later"
+      action: "conducting business negotiations while moving through same spatial coordinates as earlier prisoner"
+  scene:
+    mainElements: "Moscow street showing 1812 wooden buildings burning alongside 1860s stone construction, cobblestones from different eras occupying same space, street vendors from both periods selling different goods simultaneously, no text or letters visible"
+    details: "flames from 1812 fire flickering through solid walls of later buildings, ash from burning city mixing with industrial soot from later era, footprints from different decades visible in same mud and snow, no text or letters visible"
+    background: "Kremlin spires visible in both time periods showing architectural continuity, sky showing both war smoke and peacetime weather patterns, distant sounds of both military chaos and commercial activity"
+    atmosphere: "supernatural compression of Moscow's traumatic history and recovery, understanding that past trauma continues to inhabit present spaces, revelation that historical wounds and healing occur simultaneously, no text or letters visible"
+  composition:
+    cameraAngle: "street-level view following character through temporal bleeding of historical periods"
+    focus: "the persistent haunting of present spaces by traumatic historical events"
+    depth: "foreground shows character in both temporal states simultaneously, middle ground reveals street's layered historical existence, background emphasizes Moscow's endurance through trauma and reconstruction, no text or letters visible"

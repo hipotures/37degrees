@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, early morning
+    location: Natural stone harbor carved into rocky cove on Greek island, protected bay with primitive quay infrastructure
+    weather: Calm morning with gentle breeze creating small ripples on water surface
+  characters: No characters present in this scene
+  scene:
+    mainElements: Several black-hulled Mycenaean warships moored at stone quay, long narrow vessels with raised prow and stern
+      decorated with painted eyes and geometric patterns, single square sails furled on central masts, rows of oar holes along
+      hulls
+    details: Stone blocks forming primitive harbor walls and loading platforms, coiled hemp ropes and bronze anchor stones,
+      large ceramic amphorae and storage jars lined up on quay, wooden oars stacked in organized bundles, bronze-tipped spears
+      and round shields stored on ships, leather-wrapped mast and rigging showing signs of long voyages, tar and resin used
+      for waterproofing visible on hull seams
+    background: Rocky cliffs rising steeply from water's edge, cave openings in limestone walls used for storage, olive trees
+      and Mediterranean vegetation clinging to slopes, clear turquoise water revealing sandy bottom and scattered rocks
+    atmosphere: Sense of maritime adventure and long-distance travel, smell of salt air and tarred wood, peaceful morning
+      calm before departure, feeling of ancient seafaring tradition and Bronze Age naval technology
+  composition:
+    cameraAngle: Low angle from water level looking up toward harbor and cliffs
+    focus: Central warship with distinctive Mycenaean design features clearly visible
+    depth: 'Foreground: water surface with reflections, middle ground: moored ships and stone quay, background: cliff faces
+      and harbor infrastructure'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

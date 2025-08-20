@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Past and Present Bleeding Together"
+  setting:
+    time: "1815 and 1838 occurring simultaneously in same space"
+    location: "Elegant Parisian ballroom with modern 1838 society and ghostly 1815 memories"
+    weather: "Indoor chandeliers lighting both temporal layers simultaneously"
+  characters:
+    - appearance: "19-year-old sailor, tall and slender build, athletic physique from life at sea. Black hair like raven's wing, naturally tousled by sea wind. Deep black eyes, round and open face with tanned, weathered complexion from sun exposure"
+      clothing: "Simple white linen shirt open at the collar, dark wool or linen sailor's trousers, short fitted jacket. White and blue striped marinière shirt (sailor's traditional garment). Clean but showing traces of salt and sea work"
+      position: "Walking through ballroom as ghostly presence among elegant society"
+      action: "Young Edmond's innocent spirit moving among the corrupt elite he once trusted"
+    - appearance: "42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark hatred. Face elongated and hardened, features sharpened by determination"
+      clothing: "Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers. Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life and creates aura of mystery"
+      position: "Standing among same society members, now as their mysterious destroyer"
+      action: "Count Monte Cristo orchestrating downfall of his enemies while ghost of his former self watches"
+  scene:
+    mainElements: "Grand ballroom with crystal chandeliers, marble floors, gilt mirrors, formal portraits, showing both 1815 innocence and 1838 corruption occupying same space"
+    details: "Young sailors and fishermen from 1815 Marseilles mingling ghostly with corrupt Parisian aristocrats of 1838, simple Mediterranean food appearing alongside elaborate French cuisine, honest work clothes phasing through elegant ball gowns"
+    background: "Windows simultaneously showing Mediterranean harbor of youth and sophisticated Paris of revenge, same architectural space hosting both innocence and corruption"
+    atmosphere: "Two time periods bleeding together showing contrast between lost innocence and achieved vengeance. Sounds of honest laughter mixing with sophisticated scheming, simple joy contrasting with elaborate corruption, no text or letters visible"
+  composition:
+    cameraAngle: "Wide ballroom shot showing temporal bleeding effects throughout scene"
+    focus: "Young innocent and mature avenger occupying same space, showing transformation cost"
+    depth: "Foreground shows mixed temporal figures dancing together, middle ground captures architectural elements spanning both periods, background reveals dual window views of past and present"

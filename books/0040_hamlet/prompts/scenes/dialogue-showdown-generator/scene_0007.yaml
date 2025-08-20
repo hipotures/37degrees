@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ophelia's Averted Gaze - Fear Without Words"
+  setting:
+    time: "Late 1590s, day"
+    location: "Castle corridor or garden path at Elsinore, private meeting space"
+    weather: ""
+  characters:
+    - appearance: "Very young woman 16-18 years old, small and slender build, delicate features, traditionally long fair hair, innocent and sensitive face"
+      clothing: "Simple gowns in light pastel colors (white, blue, pale pink) symbolizing purity and virginity"
+      position: "Pressed against stone wall, head turned away"
+      action: "Unable to meet Hamlet's eyes, hands pressed flat against cold stone behind her, trembling slightly"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Standing close but not touching, blocking her path"
+      action: "Studying her averted face with intense scrutiny, one hand reaching toward her but stopping short"
+  scene:
+    mainElements: "Stone castle walls, narrow corridor or garden pathway, cold stone surfaces"
+    details: "Their confrontation is wordless but electric with tension. Ophelia's inability to look at him speaks louder than words, while Hamlet's proximity creates claustrophobic intimacy. The stone walls emphasize their emotional barriers and the coldness that has entered their relationship."
+    background: "Medieval stone architecture creating enclosed, intimidating space"
+    atmosphere: "Silent communication through body language, fear and love twisted together in painful confusion"
+  composition:
+    cameraAngle: "Close-up focusing on averted eyes and blocked path"
+    focus: "The space between them charged with unspoken tension and lost intimacy"
+    depth: "Foreground captures their faces and gestures, background shows confining stone walls"

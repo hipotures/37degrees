@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Petersburg Streets as Hunting Ground Through Svidrigailov's Eyes"
+  setting:
+    time: "July 1865, strategic evening prowl"
+    location: "Streets and squares of St. Petersburg during oppressive July heat wave, 1865"
+    weather: "Humid evening heat creating perfect conditions for nocturnal activities"
+  characters:
+    - appearance: "Man around fifty years old, stocky and broad-shouldered build, light blond hair and beard, face resembling a mask with artificial white and rosy coloring, unnaturally blue eyes with heavy immobile gaze"
+      clothing: "Impeccably dressed in elegant fashionable attire, always maintaining perfect external appearance"
+      position: "Walking confidently through crowds, observing potential victims with practiced eye"
+      action: "Surveying street scene like experienced predator evaluating territory and opportunities, noting vulnerable individuals and strategic locations"
+  scene:
+    mainElements: "Suffocating heat creating visible air distortion, dust from constant construction covering everything with lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg stench from canals cheap alcohol and human sweat"
+    details: "From Svidrigailov's experienced predator perspective, the oppressive heat becomes ally creating desperation and lowered inhibitions, crowded streets provide anonymity and hunting opportunities, construction chaos offers secluded locations for private encounters. He notes working women made vulnerable by poverty, young people seeking escape from stifling families, desperate individuals who might accept questionable propositions for financial relief"
+    background: "Urban landscape viewed as systematic network of opportunities and resources for exploitation, buildings and alleys mapped as potential hunting grounds"
+    atmosphere: "Cold calculating interest in human misery as exploitable resource, viewing city's suffering as market for purchasing compliance and silence"
+  composition:
+    cameraAngle: "Svidrigailov's confident predatory perspective surveying territory with systematic calculation"
+    focus: "Vulnerable individuals in crowd identified as potential targets for manipulation and exploitation"
+    depth: "Foreground shows Svidrigailov's elegant but menacing presence moving through crowd, middle ground captures potential victims unaware of scrutiny, background reveals urban environment as systematic hunting ground, no text or letters visible"

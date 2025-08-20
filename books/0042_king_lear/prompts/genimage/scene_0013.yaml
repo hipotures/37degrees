@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, midnight
+    location: Stone chamber that appeared normal-sized upon entering
+    weather: Storm at peak intensity with constant thunder
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Remaining fragments of royal robes, now more rags than clothing
+    position: Crouched in center of room as walls appear to close in
+    action: Pressing hands against walls that seem to be moving inward, breathing becoming labored
+  scene:
+    mainElements: Stone chamber with walls that imperceptibly but steadily draw closer together, ceiling gradually lowering,
+      floor seeming to rise
+    details: Room that began spacious now cramped with no memory of how it became so small. Furniture that seemed normal-sized
+      now appears gigantic in reduced space. Single window that appears to have moved higher up the wall, now almost at ceiling
+      level. Door that opened inward now impossible to open due to lack of space
+    background: Stone walls showing stress cracks from impossible compression, ceiling beams appearing to bend under phantom
+      weight, shadows growing deeper as space contracts
+    atmosphere: Physical space becoming metaphor for psychological pressure and entrapment. Room embodies the crushing weight
+      of guilt, fear, and lost authority pressing in from all sides
+  composition:
+    cameraAngle: Wide angle lens to exaggerate confined space, low angle to emphasize oppressive ceiling
+    focus: Lear's claustrophobic panic contrasted with walls appearing unnaturally close
+    depth: Extreme foreground showing nearby walls, Lear compressed in middle ground, background walls unnaturally near
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

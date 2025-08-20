@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gertrude's Guilt - The Broken Mirror"
+  setting:
+    time: "Late 1590s, night"
+    location: "Gertrude's private chamber in Elsinore Castle after violent confrontation"
+    weather: ""
+  characters:
+    - appearance: "Woman aged 45-50 years, royal bearing and attractive, full figure, face showing possible weakness or sensuality, needing to be center of male attention"
+      clothing: "Luxurious, fashionable gowns in rich jeweled colors, much jewelry, quickly abandoning mourning dress for wedding attire symbolizing moral weakness in Hamlet's eyes"
+      position: "Sitting at dressing table, staring at her reflection"
+      action: "Touching her face as if seeing herself clearly for first time, jewelry scattered around mirror base"
+  scene:
+    mainElements: "Large canopied bed, dressing table with mirror, chairs, heavy patterned tapestry (arras) hanging on wall large enough to conceal a person"
+    details: "The mirror reflects not just her physical image but her moral reality exposed by Hamlet's brutal honesty. Scattered jewelry represents the superficial ornaments of her new life. The arras in background reminds of Polonius's death and consequences of court deception."
+    background: "Private intimacy brutally violated, soft candlelight creating warmth that becomes claustrophobic during violent confrontation"
+    atmosphere: "Painful self-recognition, guilt confronting self-deception, beauty tarnished by moral awareness"
+  composition:
+    cameraAngle: "Close-up on mirror reflection showing both face and moral realization"
+    focus: "Mirror as tool of self-revelation and moral awakening"
+    depth: "Foreground shows reflected face, middle shows scattered jewelry, background shows bloodstained arras"

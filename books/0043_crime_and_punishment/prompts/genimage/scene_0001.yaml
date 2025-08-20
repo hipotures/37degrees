@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: July 1865, oppressive afternoon heat
+    location: Tiny cramped attic room in a tenement building in St. Petersburg slums, July 1865
+    weather: Stifling summer heat creating visible air distortion, no relief from outside
+  characters:
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Collapsed on shabby couch serving as bed, staring fixedly at ceiling
+    action: Lying motionless in fevered contemplation, occasionally tracing patterns on yellowed wallpaper with his finger,
+      completely isolated from world outside
+  scene:
+    mainElements: Extremely small coffin-like space barely six steps long, oppressively low ceiling that tall person would
+      hit their head on, dominant feature of dusty yellow wallpaper peeling from walls. Three broken chairs crowding the tiny
+      space, painted table wedged in corner, enormous clumsy sofa covered in rags serving as both bed and furniture centerpiece
+    details: From Raskolnikov's perspective on the couch, the room appears to contract and expand with his breathing, walls
+      seeming to pulse closer during moments of anxiety. Dusty yellow wallpaper with floral pattern peeling from walls, misshapen
+      white flowers with brownish lines creating grotesque designs, represents psychological deterioration and obsessive focus
+      during mental breakdown, paper curling and separating from walls like sanity departing from mind. The ceiling hangs
+      so low it seems to press down on his thoughts, crushing his ability to think clearly
+    background: Through the small window, the oppressive Petersburg heat shimmers, making the outside world appear distant
+      and unreachable, while sounds from the courtyard seem muffled and hostile
+    atmosphere: Suffocating claustrophobic environment resembling a tomb, air of poverty and mental oppression, room feels
+      like physical manifestation of protagonist's tormented mind. The space becomes smaller as paranoia increases, furniture
+      appearing to lean inward threateningly, shadows taking on accusatory shapes
+  composition:
+    cameraAngle: Low angle from floor level looking up at Raskolnikov, emphasizing oppressive ceiling and his trapped condition
+    focus: Raskolnikov's dark eyes staring intensely at the ceiling, reflecting intelligence consumed by obsessive thought
+    depth: Foreground shows torn fabric and broken furniture, middle ground captures Raskolnikov's prone figure, background
+      reveals peeling wallpaper that seems to writhe and move in his peripheral vision, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,138 @@
+canon:
+  characters:
+    - id: "pierre_bezukhov"
+      name: "Pierre Bezukhov"
+      description_block: |
+        characters:
+          - appearance: "massive, corpulent young man in his late 20s with gentle eyes behind spectacles, broad shoulders and tall frame, soft refined features marked by kindness rather than aristocratic sharpness"
+            clothing: "ill-fitting court dress in deep blue with gold trim, white silk stockings, black shoes with silver buckles, clothing worn without conviction or natural elegance"
+            position: "standing somewhat apart from elegant guests, posture awkward and uncertain"
+            action: "adjusting spectacles nervously while observing social interactions with mixture of fascination and discomfort"
+    
+    - id: "andrei_bolkonsky"
+      name: "Prince Andrei Bolkonsky"
+      description_block: |
+        characters:
+          - appearance: "very handsome man of average height in his late 20s, with resolute and sharply defined features, expression of weariness and intellectual superiority, pale complexion"
+            clothing: "impeccable military aide-de-camp uniform in dark green with gold braiding, perfectly tailored and maintained with military precision"
+            position: "standing with perfect military posture, spine straight and chin slightly raised"
+            action: "surveying surroundings with cold analytical gaze, hands clasped behind back with military bearing"
+
+    - id: "natasha_rostova_young"
+      name: "Natasha Rostova (age 13)"
+      description_block: |
+        characters:
+          - appearance: "dark-eyed girl with wide mouth, not conventionally beautiful but radiating vitality, black hair in simple braids, rosy cheeks from excitement"
+            clothing: "simple white muslin dress with blue ribbon sash, slightly disheveled from energetic movement, small pearl necklace"
+            position: "perched on edge of chair or half-standing with restless energy"
+            action: "gesticulating enthusiastically while speaking, eyes sparkling with animation and youthful curiosity"
+
+    - id: "natasha_rostova_debutante"
+      name: "Natasha Rostova (age 16)"
+      description_block: |
+        characters:
+          - appearance: "enchanting young woman with dark expressive eyes, graceful neck and shoulders, natural beauty enhanced by youthful radiance rather than classical perfection"
+            clothing: "white muslin ball gown with pink silk sash and rose in dark hair, simple yet elegant with natural grace"
+            position: "standing with natural poise mixed with nervous excitement of first ball"
+            action: "smoothing dress with trembling hands, eyes wide with wonder at ballroom splendor"
+
+    - id: "helene_kuragina"
+      name: "Helene Kuragina"
+      description_block: |
+        characters:
+          - appearance: "statuesque beauty with classical features like marble sculpture, famous beautiful white shoulders and arms, unchanging serene smile, calculating cold eyes"
+            clothing: "empire-style evening gown in rich burgundy silk with deep decolletage revealing marble-white shoulders, diamond jewelry, hair elaborately arranged"
+            position: "standing with regal slowness and conscious grace of practiced beauty"
+            action: "moving with deliberate elegance to maximize impact of her physical perfection on all observers"
+
+    - id: "princess_maria"
+      name: "Princess Maria Bolkonskaya"
+      description_block: |
+        characters:
+          - appearance: "plain woman in her mid-20s with thin face and weak body, but large deep radiant eyes that transform her face when moved by emotion or spiritual feelings"
+            clothing: "modest dark woolen dress in brown or gray with simple white collar, reflecting her pious nature and father's austere preferences"
+            position: "seated quietly with hands folded, posture humble and self-effacing"
+            action: "reading religious text or tending to domestic duties with gentle concentrated attention"
+
+    - id: "nikolai_rostov"
+      name: "Nikolai Rostov"
+      description_block: |
+        characters:
+          - appearance: "handsome energetic young man in his early 20s with open expressive face, strong build, brown hair, cheerful disposition evident in his features"
+            clothing: "hussar uniform of Pavlograd Regiment - blue dolman with silver braiding, red collar and cuffs, white pelisse draped over shoulder, tight-fitting breeches"
+            position: "standing at attention or mounted on horse with military bearing enhanced by youthful enthusiasm"
+            action: "polishing sword hilt or adjusting uniform with pride, radiating romantic fervor for military service"
+
+    - id: "old_prince_bolkonsky"
+      name: "Old Prince Bolkonsky"
+      description_block: |
+        characters:
+          - appearance: "stern elderly man in his 70s with sharp intelligent features, upright military bearing despite age, carefully powdered hair in old-fashioned style"
+            clothing: "old-fashioned court dress from Catherine's time, dark blue coat with gold trim, white stockings, buckled shoes, everything precisely maintained"
+            position: "standing at high writing desk or working at lathe with perfect posture despite advanced years"
+            action: "examining maps with magnifying glass or crafting wood pieces with precise methodical movements"
+
+  locations:
+    - id: "anna_scherer_salon"
+      name: "Anna Pavlovna Scherer's Salon"
+      description_block: |
+        setting:
+          location: "elegant drawing room in aristocratic St. Petersburg mansion, Russian capital under Tsar Alexander I, neoclassical architecture with French and Italian influences"
+        mainElements: "gilded furniture upholstered in silk brocade, polished parquet floors reflecting candlelight, crystal chandeliers casting warm glow, tall windows with heavy draperies"
+        atmosphere: "artificial controlled elegance where French conversation flows as performance art, each gesture calculated for social effect, imported European refinement divorced from Russian soil"
+
+    - id: "bald_hills_estate"
+      name: "Bald Hills Estate"
+      description_block: |
+        setting:
+          location: "large well-ordered country estate managed with military precision, located in Russian countryside several days journey from Moscow"
+        mainElements: "imposing main house in early 18th century style, stern and spacious but spartan, surrounded by extensive gardens, fields, and forests stretching to horizon"
+        atmosphere: "intellectual rigor and emotional repression under iron routine, constant presence of vast quiet Russian landscape visible through tall windows"
+
+    - id: "rostov_moscow_house"
+      name: "Rostov House in Moscow"  
+      description_block: |
+        setting:
+          location: "large comfortable family mansion in old merchant quarter of Moscow, ancient capital representing heart of Russian tradition"
+        mainElements: "lived-in warmth with signs of financial strain, cozy chaos of family life, worn but quality furniture, rooms filled with children's laughter and servants' activity"
+        atmosphere: "authentic Russian family warmth contrasting with St. Petersburg artificiality, bustling domestic life rich in tradition but challenged by mounting debts"
+
+    - id: "otradnoe_estate"
+      name: "Otradnoe Country Estate"
+      description_block: |
+        setting:
+          location: "idyllic Rostov family country estate surrounded by Russian countryside of birch groves, meadows, and hunting grounds"
+        mainElements: "large wooden manor house with broad verandas, extensive gardens leading to natural forests, stable complex, traditional Russian architecture integrated with landscape"
+        atmosphere: "simple authentic country life deeply connected to Russian soil, seasonal rhythms of rural existence, freedom from urban social constraints"
+
+    - id: "borodino_battlefield"
+      name: "Borodino Battlefield"
+      description_block: |
+        setting:
+          location: "rolling countryside near Borodino village, 120 kilometers west of Moscow, featuring fields, woods, and shallow ravines"
+        mainElements: "hastily constructed earthwork fortifications including Raevsky Redoubt and Bagration fleches, positioned armies stretched across several kilometers of terrain"
+        atmosphere: "dawn mist giving way to apocalyptic chaos as battle progresses, air thick with cannon smoke creating hellish sulfurous twilight, ground churned to bloody mud"
+
+    - id: "burning_moscow"
+      name: "Burning Moscow"
+      description_block: |
+        setting:
+          location: "ancient Russian capital Moscow largely abandoned by inhabitants, mostly wooden architecture providing fuel for spreading fires"
+        mainElements: "empty streets filling with smoke, abandoned wooden houses and churches becoming torch-like pillars of flame, red and orange inferno lighting night sky"
+        atmosphere: "surreal and terrifying spectacle visible for kilometers, combination of natural disaster and human tragedy, ghostly emptiness preceding total conflagration"
+
+  items:
+    - id: "great_comet_1812"
+      name: "Great Comet of 1812"
+      description_block: |
+        details: "enormous comet with brilliant long glowing tail hanging in deep indigo-black night sky over Moscow, celestial phenomenon visible to naked eye inspiring awe and mystical interpretation"
+
+    - id: "napoleon_portrait"
+      name: "Portrait of Napoleon"
+      description_block: |
+        details: "formal painted portrait showing French Emperor in military uniform, hung prominently in Russian aristocratic salon as symbol of European influence and political fascination"
+
+    - id: "masonic_regalia"
+      name: "Masonic Lodge Regalia"
+      description_block: |
+        details: "ceremonial aprons and sashes, gleaming swords, compass and square symbols, skull and globes arranged in darkly lit lodge room illuminated only by candles"

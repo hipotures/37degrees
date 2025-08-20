@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silenced Voices - Censorship and Forbidden Knowledge"
+  setting:
+    time: "1829, evening in secret location"
+    location: "Hidden basement room used for underground printing, beneath Paris bookshop"
+    weather: "Interior scene with no natural light"
+  characters:
+    - appearance: "Underground printer with ink-stained fingers, face showing tension of dangerous work"
+      clothing: "Simple brown shirt with rolled sleeves, leather apron marked with printing ink, practical trousers suitable for manual labor"
+      position: "Working at illegal printing press hidden beneath legal business"
+      action: "Setting type for banned political pamphlet, constantly listening for footsteps above that might signal police discovery"
+    - appearance: "Young student assisting with clandestine publication, expression mixing fear with revolutionary commitment"
+      clothing: "Student's black coat worn to avoid attention, white shirt showing ink stains from handling forbidden texts"
+      position: "Standing beside press ready to hide evidence at first sign of danger"
+      action: "Folding printed sheets into concealable bundles, preparing for secret distribution despite legal penalties"
+  scene:
+    mainElements: "Small hand-operated printing press with fresh ink, stacks of banned books and pamphlets, single candle providing minimal illumination"
+    details: "Boxes of loose type for setting revolutionary slogans, bottles of ink hidden behind legitimate supplies, escape route through connected cellar tunnels. False wall concealing illegal materials, listening holes to monitor street activity above, bag ready for quick removal of evidence"
+    background: "Stone basement walls with moisture stains, wooden support beams, legitimate books stored to maintain cover story"
+    atmosphere: "Dangerous dedication to spreading forbidden truth, intellectual resistance operating in shadows created by official censorship"
+  composition:
+    cameraAngle: "Close interior view emphasizing secretive nature of forbidden activity"
+    focus: "Printing press as tool of resistance against information control"
+    depth: "Working figures in foreground, illegal publications in middle ground, concealed exits in background suggesting constant danger"

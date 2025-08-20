@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seasonal Cycle of Transformation Complete"
+  setting:
+    time: "1815-1829, all seasons superimposed"
+    location: "View of Château d'If from Monte Cristo island showing complete temporal cycle"
+    weather: "Four seasons visible simultaneously - winter storms, spring growth, summer heat, autumn decay"
+  characters:
+    - appearance: "33-year-old man transformed by fourteen years of imprisonment and education. Still slender but now with refined bearing, black hair showing first touches of grey, eyes brilliant with accumulated knowledge and growing determination"
+      clothing: "Simple shipwrecked survivor's garments provided by smugglers, clean and practical but humble"
+      position: "Standing on Monte Cristo island shore, looking back at distant fortress"
+      action: "Contemplating fourteen years of transformation while holding key to treasure grotto"
+  scene:
+    mainElements: "Wild, uninhabited island in Mediterranean Sea, rocky and mountainous. Granite formations resembling stacked cannonballs, dense Mediterranean scrub vegetation (myrtle, heather), hidden grotto concealed by natural rock formations. Sharp cliffs and rugged coastline with crystal-clear turquoise waters"
+    details: "Fortress in distance showing all seasonal moods - winter grey and forbidding, spring with returning life, summer blazing under heat, autumn melancholy and fading. Same stones witnessing complete cycle of human transformation, vegetation on island showing eternal renewal"
+    background: "Mediterranean stretching to horizon, Château d'If now distant symbol of overcome adversity, French coastline representing world of revenge awaiting"
+    atmosphere: "Isolation that brings freedom and power rather than despair. Four seasons of sound overlapping - winter storms, spring birds, summer heat shimmer, autumn winds. Complete cycle of transformation from innocent youth through suffering to educated avenger, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot showing man on island with fortress in distance"
+    focus: "Transformed Edmond surveying journey from imprisonment to freedom"
+    depth: "Foreground shows rocky Monte Cristo terrain, middle ground captures figure contemplating past, background reveals distant Château d'If across seasonal waters"

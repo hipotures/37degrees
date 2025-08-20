@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1815, late spring
+    location: same vast Russian countryside location, identical ancient oak tree showing ten years of additional growth
+    weather: similar warm spring morning with full canopy of mature leaves
+  characters:
+  - appearance: middle-aged man in his late 30s with same refined features now marked by experience, slight silver in hair,
+      deeper lines around intelligent eyes, bearing suggesting inner peace
+    clothing: simple country gentleman's attire in brown wool, well-worn but quality boots, no gloves revealing weathered
+      hands
+    position: standing in identical position against oak trunk, weathered hand placed on bark in same spot
+    action: touching tree with reverent familiarity of old friendship, expression showing acceptance and understanding gained
+      through years
+  scene:
+    mainElements: same enormous oak now noticeably fuller, branches extended with ten years additional growth, trunk showing
+      new bark layers and healing over old wounds, root system spread wider with decade of expansion, no text or letters visible
+    details: bark now familiar with additional weathering patterns, new moss growth in different configurations, established
+      wildflower patches where none existed before, small carved initials nearly overgrown by healing bark, additional fallen
+      branches creating rich soil layers, no text or letters visible
+    background: same rolling countryside now showing decade of changes, birch trees noticeably taller, distant farm structures
+      modified or replaced, field boundaries shifted with agricultural evolution
+    atmosphere: deeper communion between aged man and ancient tree, sense of mutual recognition spanning decade of shared
+      seasons, understanding that human wisdom approaches natural patience through experience, cycles of growth and renewal
+      visible in both human and natural subjects, no text or letters visible
+  composition:
+    cameraAngle: identical low angle emphasizing continuity while revealing subtle changes
+    focus: the parallel aging and deepening wisdom of man and nature
+    depth: foreground emphasizes weathered hand against evolved bark texture, middle ground shows tree's expanded growth,
+      background reveals countryside's decade of agricultural and natural changes, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

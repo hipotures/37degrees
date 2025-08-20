@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Destruction Made Manifest - The Wrecked Chamber"
+  setting:
+    time: "Late 1590s, dawn"
+    location: "Gertrude's private chamber in Elsinore Castle, showing aftermath of violent confrontation"
+    weather: ""
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Large canopied bed, dressing table with mirror, chairs, heavy patterned tapestry (arras) hanging on wall large enough to conceal a person"
+    details: "The chamber bears physical evidence of emotional violence - overturned furniture from Hamlet's rage, bloodstains on arras where Polonius died, scattered personal items representing lives disrupted. The room itself tells story of how words and actions have destroyed relationships and lives."
+    background: "Private intimacy brutally violated, soft candlelight creating warmth that becomes claustrophobic during violent confrontation"
+    atmosphere: "Physical destruction reflecting emotional devastation, domestic space transformed into crime scene"
+  composition:
+    cameraAngle: "Wide establishing shot surveying damage and destruction"
+    focus: "Material evidence of psychological and physical violence"
+    depth: "Foreground shows overturned furniture, middle shows bloodstained arras, background shows disordered bed"

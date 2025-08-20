@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s early morning, dawn in village bakery
+    location: Village bakery near market square in Yonville-l'Abbaye, provincial Normandy
+    weather: Cool morning air with warmth radiating from ovens
+  characters:
+  - appearance: Village baker, middle-aged man with flour-dusted clothes and arms
+    clothing: White apron covered in flour dust, rolled sleeves, simple work clothes
+    position: Arranging fresh loaves on cooling racks, wiping sweat from forehead
+    action: Moving hot bread from ovens, adjusting loaves to release steam, flour dust coating everything he touches
+  scene:
+    mainElements: Dozens of golden-brown loaves arranged on wooden racks with visible steam rising in curling patterns, flour
+      particles suspended in morning light streaming through windows, ovens radiating heat waves
+    details: Steam rising from hot bread crusts in elegant spiraling patterns, flour dust dancing in air currents like tiny
+      snowflakes, golden loaves crackling audibly as crusts cool and contract, flour coating every surface with fine white
+      powder, bread crust so hot it releases moisture clouds, steam condensing on cool window glass creating privacy veils,
+      flour particles catching first sunlight like golden glitter, baker's hands leaving white prints on everything touched,
+      yeast and wheat aromas made visible through steam patterns, no text or letters visible
+    background: Traditional Norman bakery with stone ovens, wooden shelves, flour sacks, primitive but efficient bread-making
+      equipment
+    atmosphere: Warmth and nourishment suggested through visual steam patterns, comfort and sustenance represented by golden
+      bread colors, morning productivity and care shown through careful arrangement and rising vapor
+  composition:
+    cameraAngle: Close-up showing steam patterns rising from fresh bread
+    focus: Curling steam creating elegant patterns, flour dust particles dancing in light
+    depth: 'Foreground: detailed steam curls and flour particles, middle ground: golden bread arrangement, background: warm
+      bakery interior with stone ovens'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

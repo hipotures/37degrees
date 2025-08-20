@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1827, afternoon contrast in Paris neighborhoods
+    location: Street boundary between wealthy Faubourg Saint-Germain and impoverished Faubourg Saint-Antoine
+    weather: Bright afternoon sunlight revealing stark contrasts
+  characters:
+  - appearance: Elegantly dressed aristocratic lady stepping from private carriage, refined features showing delicate upbringing
+    clothing: Silk dress with intricate embroidery, fur-trimmed velvet cloak, satin slippers unsuitable for walking on rough
+      streets
+    position: Descending from luxurious carriage at intersection
+    action: Lifting skirts to avoid street dirt, turning face away from unpleasant sights, hurrying toward wealthy district
+  - appearance: Ragged woman with hollow cheeks and desperate expression, physical deterioration from chronic hunger
+    clothing: Threadbare dress with visible patches, torn shawl providing inadequate warmth, broken shoes revealing bare feet
+    position: Standing at corner edge of poverty district
+    action: Extending thin hand requesting charity, eyes following expensive carriage with mixture of envy and despair
+  scene:
+    mainElements: Sharp visual division where elegant cobblestone meets broken pavement, ornate street lamp beside simple
+      post, manicured trees contrasting with bare branches
+    details: Luxury carriage with gold fittings and liveried driver, while broken cart with missing wheel sits abandoned nearby.
+      Clean glass windows reflecting sunlight on wealthy side, while shuttered or broken windows characterize poor area. Fresh
+      flowers in wealthy district window boxes contrast with weeds growing through poor district cobblestones
+    background: Magnificent townhouse mansions with classical facades on one side, crumbling tenements with laundry hanging
+      from windows on other side
+    atmosphere: Shocking juxtaposition revealing systematic inequality, geographic proximity emphasizing social chasm between
+      classes sharing same city
+  composition:
+    cameraAngle: Wide angle capturing entire street division in single frame
+    focus: Sharp boundary line between worlds as central element
+    depth: Contrasting figures in foreground, dividing street in middle ground, opposed architectural styles in background
+      demonstrating institutionalized inequality
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

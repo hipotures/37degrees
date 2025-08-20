@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Ancient Britain, deep night
+    location: Series of doorways and passages within castle structure
+    weather: Storm intensifying with thunder and rain against windows
+  characters:
+  - appearance: Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped.
+      Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused
+      and wild as madness progresses
+    clothing: Robes now hanging in tatters, partially exposing aged frame
+    position: Standing before series of doors, trying each in succession
+    action: Opening doors that should lead to familiar rooms but reveal impossible views
+  scene:
+    mainElements: Hallway lined with wooden doors, each identical in appearance but leading to different impossible destinations
+    details: Doors opening to solid brick walls where rooms should be. Doorways revealing vast outdoor landscapes impossible
+      to exist within castle. Passages that begin normally but gradually narrow to nothing. Doors that open to the same room
+      but from different time periods - same space appearing as it was years ago or might be in future
+    background: Storm-lit windows showing views that change between lightning flashes, familiar rooms visible through doorways
+      but containing wrong furniture or people
+    atmosphere: Architecture has become actively deceptive, doors promising passage but delivering entrapment. Space refuses
+      to behave consistently, making navigation a form of psychological torture
+  composition:
+    cameraAngle: Medium shots showing Lear's reactions to each doorway revelation
+    focus: Contrast between normal-appearing doors and impossible views they reveal
+    depth: Doors in foreground, impossible vistas in middle ground, Lear's confusion spanning all spatial planes
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

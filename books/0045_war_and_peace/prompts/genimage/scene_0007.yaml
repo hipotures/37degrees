@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1812, midsummer
+    location: same idyllic Rostov family country estate orchard, identical apple trees now in full fruit-bearing maturity
+    weather: warm summer afternoon with golden sunlight filtering through heavy foliage
+  characters:
+  - appearance: enchanting young woman with dark expressive eyes, graceful neck and shoulders, natural beauty enhanced by
+      youthful radiance rather than classical perfection
+    clothing: white muslin ball gown with pink silk sash and rose in dark hair, simple yet elegant with natural grace
+    position: standing with natural poise mixed with nervous excitement of first ball
+    action: smoothing dress with trembling hands, eyes wide with wonder at ballroom splendor
+  scene:
+    mainElements: same rows of apple trees now heavy with ripening fruit, branches bending under weight of red and green apples,
+      lush grass beneath trees creating natural carpet, wooden fence now partially hidden by summer growth, no text or letters
+      visible
+    details: individual apples showing various stages of ripeness from green to deep red, bee activity around fallen fruit
+      creating lazy buzzing atmosphere, thick foliage casting dappled shade patterns on ground, ladders leaning against trees
+      suggesting harvest preparation, no text or letters visible
+    background: same estate grounds now in full summer glory, manor house partially obscured by leafy trees, birch groves
+      creating dense green wall, fields beyond showing mature grain crops ready for harvest
+    atmosphere: fulfillment of spring's promise, nature's cycle reaching peak abundance, sense of completion and satisfaction,
+      character's maturity matching orchard's full development, weight of achieved potential after months of growth, no text
+      or letters visible
+  composition:
+    cameraAngle: identical eye-level view through orchard emphasizing temporal progression
+    focus: the fulfillment of promise shown in both natural abundance and character maturity
+    depth: foreground shows heavy fruit and luxuriant ground growth, middle ground reveals full orchard beauty and character's
+      developed grace, background extends to estate at peak summer beauty showing complete seasonal transformation, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: July 1865, historical memory overlaying present moment
+    location: Fourth-floor apartment of a St. Petersburg tenement building, July 1865, seen through decades of accumulated
+      experience
+    weather: Heat wave reminiscent of other terrible summers from past decades
+  characters:
+  - appearance: Elderly woman in her seventies, bent with age, wrinkled face showing decades of experience, gray hair beneath
+      worn headscarf, eyes that have seen much suffering
+    clothing: Simple dark dress of working class elderly woman, worn but dignified, black shawl despite heat
+    position: Standing in courtyard looking up at building where violence occurred
+    action: Recognizing patterns of tragedy that repeat across generations, seeing building as monument to cyclical human
+      suffering
+  scene:
+    mainElements: Spotlessly clean rooms with old yellowed wooden furniture, small icon with oil lamp burning in corner, antechamber
+      separated by partition from kitchen area, main room with door curtained by calico leading to bedroom where strongbox
+      is kept
+    details: From elder's layered memory perspective, current crime scene overlaps with decades of similar tragedies in same
+      building. She remembers other murders, other desperate young men, other victims of poverty and pride. Building becomes
+      palimpsest showing multiple layers of violence and suffering across time, each crime echoing previous ones in endless
+      cycle of human folly
+    background: Present building superimposed with ghostly images of past tragedies, showing how location accumulates history
+      of repeated human failures
+    atmosphere: Weary recognition that nothing changes despite passage of time, that each generation repeats same mistakes
+      in same places with same tragic consequences
+  composition:
+    cameraAngle: Elder's perspective looking up at building with accumulated knowledge of its tragic history across decades
+    focus: Building as repository of repeated human tragedy, current crime layered with historical precedents
+    depth: Foreground shows elder's resigned stance, middle ground captures building as witness to cycles of violence, background
+      reveals city as eternal stage for human folly, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

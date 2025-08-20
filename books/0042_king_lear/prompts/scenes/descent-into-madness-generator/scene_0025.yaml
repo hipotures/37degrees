@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The New World Order - Madness as Reality"
+  setting:
+    time: "Ancient Britain, timeless state where past and future merge"
+    location: "Chalky white cliffs overlooking English Channel near Dover, ancient Britain, with fields of wildflowers leading to dramatic cliff edge above churning sea"
+    weather: "Beautiful but melancholy landscape where natural beauty contrasts tragically with human suffering, misty air from sea spray"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Grotesque crown woven from weeds, thistles, nettles and other poisonous plants representing twisted wisdom gained through madness, simple white garments beneath"
+      position: "Seated on clifftop throne made of stone and growing plants"
+      action: "Holding court with invisible subjects, dispensing wisdom that makes perfect sense within his transformed reality"
+    - appearance: "Young woman around 20-22 years old, slender build with natural grace and dignity. Noble features with honest, direct gaze. Fair complexion with light brown or blonde hair"
+      clothing: "Simple yet elegant court dress in modest colors like cream, pale blue, or soft green"
+      position: "Approaching from distance, visible but not yet arrived"
+      action: "Walking slowly toward reunion, representing possibility of love transcending madness"
+  scene:
+    mainElements: "Towering white limestone cliffs dropping vertically to sea below, wild meadows with scattered flowers and weeds, distant sound of crashing waves"
+    details: "Natural throne formed from cliff stone and living plants where Lear now rules kingdom of his own creation. His transformed perception has created internally consistent reality where madness provides clarity instead of confusion. Distant figure approaching suggests connection still possible despite complete transformation"
+    background: "Vast seascape suggesting infinite possibilities, natural world that has accepted and accommodated his new consciousness"
+    atmosphere: "Strange peace and acceptance where madness has become new form of royal authority. His kingdom now exists in realm of transformed consciousness where different rules apply but justice and love remain possible"
+  composition:
+    cameraAngle: "Wide establishing shots showing Lear's new domain, close-ups on his transformed but peaceful expression"
+    focus: "Lear in his natural throne ruling over his transformed reality, approaching figure suggesting hope for connection"
+    depth: "Immediate scene with Lear's new throne, approaching hope in middle ground, infinite sea suggesting endless possibility in background"

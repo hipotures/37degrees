@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Smierdiakow's moment arrives"
+  setting:
+    time: "1860s Russian Empire, deep night continuing"
+    location: "Interior of Karamazov family house, moment of ultimate violence"
+    weather: "Cold dark night, interior lit by dying lamp"
+  characters:
+    - appearance: 24-year-old servant with sickly constitution, delicate features suggesting lack of masculine vitality, hair carefully combed pomaded and parted in middle, squinting gaze suggesting cunning and insincerity
+      clothing: Simple functional servant attire maintained in impeccable cleanliness, white apron as cook, meticulous attention to appearance contrasting low status
+      position: Approaching his master's location with calculated intent
+      action: Moving with cold determination, no longer the servile cook but instrument of philosophical logic
+  scene:
+    mainElements: "House interior in semi-darkness, dying lamp creating dramatic shadows, furniture and decorations witnessing ultimate family destruction"
+    details: "Lamp flame flickering lower, shadows deepening around approaching violence, house's decay providing appropriate setting for moral culmination"
+    background: "Crumbling walls and peeling wallpaper witnessing final dissolution, labyrinthine house layout concealing ultimate confrontation"
+    atmosphere: "Cold philosophical logic translated into physical action, servant becoming instrument of master's destruction through intellectual justification"
+  composition:
+    cameraAngle: "Low angles emphasizing approaching violence through suggestion rather than graphic detail"
+    focus: "Smierdiakow's calculating face showing cold determination replacing servile manner"
+    depth: "Foreground shows approaching climax, middle ground captures house witnessing destruction, background shows darkness consuming moral order"

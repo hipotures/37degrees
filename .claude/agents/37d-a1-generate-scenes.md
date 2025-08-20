@@ -18,10 +18,7 @@ Generate a canonical definition file (canon.yaml) and 25 scene descriptions in Y
 Create TODOIT list with hierarchical subtask structure for systematic processing.
 
 ## Input Parameters
-- Book Title: (e.g., "Wuthering Heights")
-- Author: (e.g., "Emily Brontë")
-- Generator Type: Optional - name of generator from config/prompt/scene-generator/ directory (without .md extension). If not provided, will be auto-detected from config/prompt/book_styles.txt
-- BOOK_FOLDER, optional with Book Title/Autor (e.g. 0017_little_prince)
+- BOOK_FOLDER (e.g. 0017_little_prince, schema like NNNN_lower_case_title, then this is a book folder books/NNNN_xxxx, eg. books/0017_little_prince)
 
 ## Process Steps
 
@@ -73,8 +70,12 @@ canon:
 
 ### 1. Validate Generator Type and Locate Book Directory
 
-- Find book directory by searching for book title/author in books/ directories
-- Identify book number and path (e.g., books/0037_wuthering_heights/)
+#### Locate Book Directory
+  - ALWAYS use specific book path, NOT books/ directory
+  - Correct: LS(books/0040_hamlet)
+  - WRONG: LS(books)
+  - if not found, stop
+
 - Use command: `grep [BOOK_FOLDER] config/prompt/book_styles.txt` to find assigned generator
 - If no entry found in book_styles.txt and no generator type provided, inform user: "No generator type specified" and stop
 - If generator type provided manually, check if file exists in config/prompt/scene-generator/[generator_type].md
@@ -126,16 +127,13 @@ Generate missing scenes:
 - **CRITICAL:** DO NOT rewrite, summarize, or alter the canonical descriptions. COPY-PASTE them.
 - Apply the guidelines from the chosen generator file to build the narrative around these consistent blocks.
 
-### 5. Create TODOIT List with Hierarchical Structure
-
-After generating all 25 scenes, create TODOIT list with subtask hierarchy:
-
-#### Mark Scene Generation Subtasks as Completed:
+### 5. Mark Scene Generation Subtasks as Completed:
 // Mark all scene_gen subtasks as completed since scenes are already generated
 Uruchom Bash, polecenie z parametrem
 ```
 ./scripts/internal/37d-a1-01.sh [BOOK_FOLDER]
 ```
+
 ### 6. Output Structure
 
 Create directories if they don't exist. The final structure should be:

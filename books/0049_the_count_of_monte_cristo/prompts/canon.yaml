@@ -1,0 +1,198 @@
+canon:
+  characters:
+    - id: "edmond_young"
+      name: "Edmond Dantès (Young Sailor)"
+      description_block: |
+        characters:
+          - appearance: "19-year-old sailor, tall and slender build, athletic physique from life at sea. Black hair like raven's wing, naturally tousled by sea wind. Deep black eyes, round and open face with tanned, weathered complexion from sun exposure"
+            clothing: "Simple white linen shirt open at the collar, dark wool or linen sailor's trousers, short fitted jacket. White and blue striped marinière shirt (sailor's traditional garment). Clean but showing traces of salt and sea work"
+            posture: "Confident stance of someone comfortable with danger, open gestures expressing youthful optimism and sincerity, quick movements with sailor's agility"
+
+    - id: "count_monte_cristo"
+      name: "The Count of Monte Cristo"
+      description_block: |
+        characters:
+          - appearance: "42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark hatred. Face elongated and hardened, features sharpened by determination"
+            clothing: "Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers. Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life and creates aura of mystery"
+            posture: "Absolute control in every movement, restrained grace, economical and precise gestures. Rarely shows emotion, face like a mask. When he smiles, it's cold and enigmatic. Moves with calculated deliberation"
+
+    - id: "mercedes_young"
+      name: "Mercédès (Young Catalana)"
+      description_block: |
+        characters:
+          - appearance: "17-year-old beautiful girl with hair black as ebony and velvet eyes like a gazelle. Olive complexion, slender tanned arms modeled after Venus of Arles. Natural, somewhat wild beauty typical of Mediterranean women"
+            clothing: "Traditional Catalan folk costume - simple skirt, white shirt, colorful bodice. Red cotton stocking with grey and blue pattern. Bright, cheerful colors reflecting her joyful spirit and cultural heritage"
+            posture: "Natural grace and vivacity, expressive gestures, easy smile that lights up her features, movements full of youthful energy and Mediterranean passion"
+
+    - id: "mercedes_mature"
+      name: "Mercédès (Countess de Morcerf)"
+      description_block: |
+        characters:
+          - appearance: "Woman in her early 40s who retains her beauty but marked by deep, permanent sadness. Still black hair and dark eyes, but now pale complexion. Her movements are slow and dignified, eyes have lost their youthful sparkle"
+            clothing: "Elegant Parisian fashion of 1830s - rich silk and velvet gowns with huge puffed sleeves, very narrow corseted waist, wide dome-shaped skirts. Muted color palette - pearl greys, deep violets, navy blues reflecting her inner melancholy"
+            posture: "Dignified bearing of aristocrat, but movements heavy with sorrow, often distant gaze, controlled gestures that speak of resigned acceptance of fate"
+
+    - id: "fernand_young"
+      name: "Fernand Mondego (Young Fisherman)"
+      description_block: |
+        characters:
+          - appearance: "20-22 years old, tall young man with olive complexion typical of Catalans. Dark hair and eyes, face expressing irritation and anxiety. Strong build from physical labor as fisherman"
+            clothing: "Simple Catalan fisherman's attire - rough woolen trousers, linen shirt, possibly leather vest. Practical, working clothes showing signs of maritime labor"
+            posture: "Restless energy, clenched fists, jealous glances, often agitated gestures revealing his inner turmoil and envy toward Dantès"
+
+    - id: "fernand_general"
+      name: "Count de Morcerf (General)"
+      description_block: |
+        characters:
+          - appearance: "45-year-old military man with bearing of French general and peer. Still tall and imposing, dark features now marked by hidden secrets and anxiety. Face shows military pride but underlying nervousness"
+            clothing: "French general's uniform with epaulettes, military orders and decorations, ceremonial sash. For civilian occasions, formal dark suits befitting a peer of France. Military bearing evident in posture"
+            posture: "Proud military stance but increasingly tense as his past catches up with him, formal gestures of aristocrat masking inner fear, commanding presence undermined by guilt"
+
+    - id: "danglars_young"
+      name: "Danglars (Ship's Purser)"
+      description_block: |
+        characters:
+          - appearance: "25-26 years old, unprepossessing appearance with unpleasant, fox-like features. Restless, calculating eyes that miss nothing. Average build, unremarkable presence except for his servile expressions"
+            clothing: "More formal attire than common sailors - accounting clerk's clothing, modest but neat. Simple waistcoat and trousers, showing his position above ordinary crew but below officers"
+            posture: "Servile smiles when addressing superiors, envious glances, hunched posture suggesting scheming nature, gestures that betray his jealousy and resentment"
+
+    - id: "danglars_banker"
+      name: "Baron Danglars (Banker)"
+      description_block: |
+        characters:
+          - appearance: "Over 50 years old, grown corpulent with age and indulgence. Face now bloated and expressing greed. Features coarsened by years of excess and materialistic pursuits"
+            clothing: "Ostentatious nouveau-riche attire - too flashy waistcoats, too visible gold watch chain, overly ornate clothing lacking true aristocratic taste. Rich materials but poor judgment in style"
+            posture: "Pompous bearing of new wealth, gestures that display his riches, walking with self-importance that masks his fundamental insecurity and vulgarity"
+
+    - id: "villefort_young"
+      name: "Gérard de Villefort (Deputy Prosecutor)"
+      description_block: |
+        characters:
+          - appearance: "27 years old, handsome man with regular features but severe, dry expression. Face shows intelligence and ambition. When his father is mentioned, deep blush crosses his features revealing inner conflict"
+            clothing: "Austere black clothing of royal prosecutor - black frock coat, trousers, waistcoat, white shirt and cravat. In court, black judicial robe with appropriate insignia of his office"
+            posture: "Rigid formality befitting his position, controlled gestures that rarely betray emotion, stance that projects authority and adherence to law and order"
+
+    - id: "villefort_mature"
+      name: "Gérard de Villefort (Royal Prosecutor)"
+      description_block: |
+        characters:
+          - appearance: "Man in his 50s, features hardened by years of hiding secrets. Face has become cold, impenetrable mask marked by stress and guilt. Eyes show growing strain of maintaining his facade"
+            clothing: "Same austere black attire but now representing fallen authority - judicial robes that become symbols of corrupted justice, clothing in increasing disarray as his world collapses"
+            posture: "Initially maintaining rigid control, but gradually showing cracks - trembling hands, wild gestures as madness approaches, final collapse into insanity"
+
+    - id: "faria"
+      name: "Abbé Faria"
+      description_block: |
+        characters:
+          - appearance: "60-65 years old, short and frail man. Hair whitened more by suffering and sorrow than age. Deeply set, penetrating eyes that show great intelligence. Long black beard, thin face deeply marked by care and hardship"
+            clothing: "Prison rags so torn and patched that original design is barely recognizable. Tattered remains of what might once have been clerical garments, now reduced to mere scraps"
+            posture: "Despite physical frailty, maintains dignity of learned scholar. Gestures animated when teaching or explaining, eyes bright with intelligence and kindness despite harsh circumstances"
+
+    - id: "haydee"
+      name: "Haydée"
+      description_block: |
+        characters:
+          - appearance: "19-20 years old with purely Greek beauty. Large dark melting eyes, perfectly shaped nose, coral lips and pearl-white teeth. Slender and graceful figure embodying classical Mediterranean elegance"
+            clothing: "Magnificent exotic Oriental costumes - small golden cap embroidered with pearls, shimmering silk robes with fringes and delicate decorations, curved-toe slippers. Rich fabrics and intricate Eastern designs"
+            posture: "Graceful movements reflecting her noble birth and Eastern culture, dignified bearing despite her tragic past, gentle gestures that become firm when testifying against her father's betrayer"
+
+    - id: "caderousse"
+      name: "Gaspard Caderousse"
+      description_block: |
+        characters:
+          - appearance: "Around 25 years old, average build typical of southern French craftsman. Face increasingly marked by envy, greed, and alcoholism as years pass, showing moral degradation through physical deterioration"
+            clothing: "Initially vain and well-dressed in colorful southern French style - ornate sashes, embroidered bodices, velvet waistcoats, elegant stockings, silver shoe buckles. Later reduced to tattered, impoverished clothing reflecting his moral and financial ruin"
+            posture: "Initially proud and somewhat pompous bearing, later slouching posture of defeated man, gestures becoming increasingly desperate and grasping"
+
+  locations:
+    - id: "marseilles_port"
+      name: "Marseilles Harbor (1815)"
+      description_block: |
+        setting:
+          location: "Mediterranean port of Marseilles in southern France, major commercial harbor with ancient maritime traditions"
+        mainElements: "Old stone buildings with red tile roofs lining the harbor, narrow winding streets, defensive walls of Fort Saint-Jean filled with curious onlookers, Notre-Dame de la Garde church visible on hillside, three-masted merchant vessel Pharaon entering inner harbor"
+        atmosphere: "Bustling maritime energy with sounds of sailors shouting, ship bells ringing, creaking rigging, merchants calling wares. Air filled with scents of salt, fish, tar, and exotic spices. Brilliant Mediterranean sunlight creating sharp shadows in narrow streets"
+
+    - id: "chateau_if"
+      name: "Château d'If Prison"
+      description_block: |
+        setting:
+          location: "Fortress prison on rocky island off Marseilles coast, isolated in Mediterranean Sea"
+        mainElements: "Grim fortress of thick stone rising from black, threatening rock. Damp corridors, stone staircases, small prison cells. Dantès' cell is small stone chamber with high barred window, straw pallet, wooden stool, clay jug. View of blue sea through bars"
+        atmosphere: "Overwhelming isolation and despair. Sounds of dripping water, distant seagull cries, waves crashing on rocks, guards' footsteps. Air cold, damp, smelling of mold and human misery. Darkness broken only by weak light through cell window"
+
+    - id: "monte_cristo_island"
+      name: "Monte Cristo Island"
+      description_block: |
+        setting:
+          location: "Wild, uninhabited island in Mediterranean Sea, rocky and mountainous"
+        mainElements: "Granite formations resembling stacked cannonballs, dense Mediterranean scrub vegetation (myrtle, heather), hidden grotto concealed by natural rock formations. Sharp cliffs and rugged coastline with crystal-clear turquoise waters"
+        atmosphere: "Isolation that brings freedom and power rather than despair. Sounds of wind and waves only, brilliant unfiltered sunlight highlighting stark beauty of landscape. Air of ancient mystery and legend"
+
+    - id: "count_house_paris"
+      name: "Count's Residence in Paris"
+      description_block: |
+        setting:
+          location: "Elegant mansion on Champs-Élysées, Paris, isolated from street by dense trees and gardens"
+        mainElements: "Classical Parisian architecture with imposing portico, separate entrance from Rue de Ponthieu, luxurious interiors with exotic chambers including Haydée's Oriental room. Rich furnishings of gold, purple, mahogany, and marble"
+        atmosphere: "Luxury combined with mystery and power. Gaslight creates dramatic shadows, crystal chandeliers sparkle, air scented with expensive perfumes and exotic incense. Cold formality despite magnificence"
+
+    - id: "villefort_house"
+      name: "Villefort Mansion"
+      description_block: |
+        setting:
+          location: "Classical hôtel particulier in aristocratic district of Paris with courtyard and garden"
+        mainElements: "Austere architecture reflecting owner's character, prosecutor's study filled with legal documents, Valentine's bedroom, family tomb. Heavy dark wood furniture, marble surfaces, formal gardens"
+        atmosphere: "Rigid formality masking hidden tensions and tragedy. Sounds muffled by heavy carpets and drapes, cold lighting creating ominous shadows, air of suppressed secrets and growing doom"
+
+    - id: "la_reserve_inn"
+      name: "La Réserve Inn, Marseilles"
+      description_block: |
+        setting:
+          location: "Rustic inn on outskirts of Marseilles overlooking Mediterranean, popular with sailors and fishermen"
+        mainElements: "Simple wooden tables and benches, clay dishes and pitchers, fishing nets and maritime decorations on walls, second-floor room where engagement feast takes place, view of harbor through windows"
+        atmosphere: "Joyful celebration suddenly shattered by arrival of authority. Sounds of laughter and conversation abruptly replaced by silence, warm afternoon sunlight streaming through windows contrasting with dark uniforms of law"
+
+    - id: "treasure_grotto"
+      name: "Hidden Treasure Grotto"
+      description_block: |
+        setting:
+          location: "Secret cave within Monte Cristo island, entrance concealed by natural rock formations"
+        mainElements: "Iron-bound chest divided into three compartments - stacks of gold coins, bars of unworked gold, handfuls of diamonds, pearls and rubies that chime like hail against window glass when poured. Stone chamber illuminated by flickering torchlight"
+        atmosphere: "Moment of revelation and transformation. Echoing drips and flame crackle, light dancing off precious metals and gems, air heavy with sense of destiny fulfilled and new power obtained"
+
+  items:
+    - id: "napoleonic_letter"
+      name: "Letter to Noirtier"
+      description_block: |
+        details: "Simple folded sheet of paper containing Bonapartist correspondence from Elba to Noirtier de Villefort in Paris. Appears innocent but contains political dynamite during Bourbon Restoration period. Instrument of Dantès' downfall"
+
+    - id: "red_silk_purse"
+      name: "Red Silk Purse"
+      description_block: |
+        details: "Small red silk pouch given by Dantès to old Morrel in desperate moment, later returned by Maximilian. Symbol of gratitude, honor, and continuity of good across generations. Represents loyalty and lasting bonds"
+
+    - id: "monte_cristo_treasure"
+      name: "Monte Cristo Treasure"
+      description_block: |
+        details: "Vast fortune hidden by Cardinal Spada - gold coins glinting in piles, bars of raw gold, diamonds, pearls, and rubies cascading like precious rain. Source of Count's unlimited power but also burden of his cursed past"
+
+    - id: "poison_vials"
+      name: "Poison Bottles"
+      description_block: |
+        details: "Elegant carved crystal bottles containing deadly substances like brucine and strychnine. Stored in ornate cases, these represent hidden, destructive power that corrupts from within, paralleling the Count's secret plots"
+
+    - id: "optical_telegraph"
+      name: "Optical Telegraph System"
+      description_block: |
+        details: "Wooden tower construction with movable semaphore arms on top that transmit coded visual signals across distances. Represents cutting-edge 1830s communication technology and the Count's ability to manipulate information"
+
+    - id: "counts_yacht"
+      name: "The Count's Yacht"
+      description_block: |
+        details: "Fast, elegant, modern sailing vessel that allows the Count to travel freely across Mediterranean. Symbol of his freedom, mobility, and mastery over the elements that once imprisoned him"
+
+    - id: "haydees_guzla"
+      name: "Haydée's Guzla"
+      description_block: |
+        details: "Exotic string instrument from Eastern Mediterranean culture. Represents Haydée's heritage, her connection to her tragic past, and her longing for her homeland and murdered father"

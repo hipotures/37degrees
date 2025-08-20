@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 'Multiple military campaigns compressed: Napoleonic Wars 1812, Crimean War 1850s, later 19th century conflicts'
+    location: rolling countryside near Borodino village showing same terrain used for different military campaigns
+    weather: battle smoke and seasonal conditions from different wars overlapping in same landscape
+  characters:
+  - appearance: Russian infantry soldier from 1812 with weathered face showing battle experience, uniform torn from combat
+    clothing: dark green infantry uniform with white cross-belts, uniform stained with gunpowder and mud from Napoleonic battlefield
+    position: crouched behind earthwork fortification, musket loaded and ready
+    action: firing musket toward French positions while simultaneously visible in later conflicts
+  - appearance: Crimean War soldier in 1850s uniform showing technological evolution, equipment suggesting improved military
+      technology
+    clothing: updated military uniform with better equipment, more modern rifle and equipment reflecting military development
+    position: occupying same defensive position as earlier soldier but with evolved tactical arrangements
+    action: operating newer weapons while defending same geographical features against different enemies
+  - appearance: later 19th century soldier with more modern equipment, bearing suggesting professional military service
+    clothing: contemporary military uniform with advanced weapons, equipment reflecting continued military evolution
+    position: using same terrain features for cover but with different tactical approaches
+    action: employing evolved military tactics while fighting over identical strategic ground
+  scene:
+    mainElements: same rolling hills and defensive positions used across multiple conflicts, earthworks and fortifications
+      showing layers of construction from different wars, terrain features providing identical tactical advantages across
+      decades, no text or letters visible
+    details: individual battle debris from different conflicts scattered in same soil, cannon balls and musket balls from
+      various wars mixing in same earth, grave markers and memorial stones accumulating across battlefield's continued military
+      use, no text or letters visible
+    background: same distant villages and church spires witnessing repeated military campaigns, identical strategic roads
+      and river crossings attracting military planners across generations, landscape showing accumulated scars from multiple
+      battles
+    atmosphere: tragic understanding that geographical features predestine locations for repeated conflict, soldiers across
+      generations fighting and dying over identical terrain for evolving political causes, battlefield as eternal witness
+      to human warfare patterns, no text or letters visible
+  composition:
+    cameraAngle: battlefield perspective showing terrain's continued military use across historical periods
+    focus: the geographical determinism of warfare and strategic locations
+    depth: foreground shows soldiers from different conflicts using same tactical positions, middle ground reveals battlefield
+      terrain's consistent strategic value, background emphasizes landscape's endurance beyond individual military campaigns,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

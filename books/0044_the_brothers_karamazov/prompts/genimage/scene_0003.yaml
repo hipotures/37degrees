@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, late August, warm afternoon continuing
+    location: Elder Zosima's cell in Orthodox monastery hermitage near provincial town Skotoprigoniewsk
+    weather: Clear warm day with gentle sunlight
+  characters:
+  - appearance: Around 65 years old appearing much older, short hunched elderly man with very weak legs, very thin face covered
+      with network of fine wrinkles especially around small bright lively shining eyes
+    clothing: Simple dark Orthodox monk habit, plain robes of schimnik
+    position: Approaching Dymitr across cell floor
+    action: Performing deep prostration bow before stunned Dymitr, forehead touching floor in prophetic gesture
+  - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face
+      capable of rapid changes from rage to passion to despair
+    clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle
+      and financial problems, occasionally blood-stained shirt
+    position: Standing frozen in place, towering over prostrate elder
+    action: Face showing shock and confusion, rage interrupted by inexplicable spiritual act
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Step forward toward scene, hand partly extended
+    action: Face expressing wonder and spiritual recognition of prophetic moment
+  scene:
+    mainElements: Holy elder prostrate on cell floor before violent son, religious icons seeming to witness sacred mystery,
+      other family members and monks frozen in tableau
+    details: Sunlight streaming across prostrate figure creating sacred illumination, oil lamp flame steady again, flower
+      pots still, sudden profound silence replacing rage, dust motes dancing in light beam
+    background: Religious images on walls taking on deeper significance, monks pressed against walls in awe, doorway framing
+      scene of mystery
+    atmosphere: Explosive anger transformed into sacred mystery, profound silence filled with spiritual significance, prophetic
+      weight of unexplained gesture
+  composition:
+    cameraAngle: Low angle emphasizing elder's humility and Dymitr's towering confusion, spiritual hierarchy inverted
+    focus: Elder's prostrate form in foreground with Dymitr's shocked face above, hands frozen mid-gesture
+    depth: Foreground shows prostration, middle ground captures family reactions, background reveals witnessing monks in reverent
+      silence
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

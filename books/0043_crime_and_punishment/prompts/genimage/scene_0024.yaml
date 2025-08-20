@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: July 1865, moment of confession interpreted differently
+    location: Large public square in St. Petersburg serving as marketplace and gathering place, busy commercial area with
+      constant crowd activity
+    weather: Clear sky allowing different groups to witness same event
+  characters:
+  - appearance: Religious believers and traditional moral community members, dressed modestly and positioned respectfully
+    clothing: Traditional Russian clothing showing religious and conservative values
+    position: Kneeling or standing with reverent attention to confession scene
+    action: Witnessing confession as moment of spiritual redemption and return to moral community
+  - appearance: Secular intellectuals and social critics, dressed in modern educated style
+    clothing: Contemporary educated clothing reflecting progressive worldview
+    position: Standing apart observing with analytical detachment
+    action: Interpreting same confession as psychological breakdown caused by social pressure and guilt manipulation
+  scene:
+    mainElements: Open square surrounded by shops taverns and market stalls, constant flow of merchants workers and common
+      people, dusty ground from heavy foot traffic, various vendors selling goods
+    details: Split interpretation reveals same public confession seen as either spiritual triumph or social defeat - religious
+      community sees soul returning to God through acknowledgment of sin and acceptance of divine judgment, while secular
+      observers see individual crushed by oppressive system forcing false confession through psychological torture
+    background: Public square becomes stage for competing narratives about human nature, moral responsibility, and proper
+      response to transgression
+    atmosphere: Same event generating opposing emotional responses - spiritual joy at redemption versus intellectual anger
+      at social oppression, revealing fundamental worldview divisions
+  composition:
+    cameraAngle: Split perspective showing identical scene generating completely different emotional and moral responses
+    focus: Public confession simultaneously representing spiritual redemption and social oppression depending on observer's
+      worldview
+    depth: Foreground shows opposing observers with conflicting interpretations, middle ground captures disputed confession,
+      background reveals community divided by fundamental moral disagreements, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

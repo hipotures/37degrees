@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1840s late spring morning, after overnight rain
+    location: Długi i wąski ogród za domem - garden behind doctor's house in Tostes, Norman countryside
+    weather: Fresh morning after gentle rain, warm sun beginning to dry wet surfaces
+  characters:
+  - appearance: Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z
+      tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z
+      różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech
+    clothing: Simple morning dress, light shawl, bare arms, garden gloves partially removed
+    position: Kneeling among flower beds, tending to blooming plants
+    action: Początkowo Emma próbuje go upiększać co odzwierciedla jej nadzieje na nowe życie - carefully arranging flowers,
+      breathing deeply near blossoms, watching bees
+  scene:
+    mainElements: Kluczowym rekwizytem jest gipsowa figura proboszcza czytającego brewiarz która z czasem traci stopę i pokrywa
+      się zielonym nalotem - abundant flower garden with roses, lilacs, and herbs in peak bloom, bees actively working flowers
+    details: Flowers heavy with morning dew releasing visible moisture as sun warms petals, bees hovering and circling around
+      nectar-rich blossoms, water vapor rising from rain-soaked earth in delicate wisps, pollen visible in air as golden dust
+      clouds, flower petals glistening with water droplets, bees' movement patterns suggesting invisible scent trails, steam
+      rising from wet garden soil, morning light making vapor trails visible, honey bees clustering on specific flowers indicating
+      strongest scents, rain puddles between flower beds reflecting blooms and sky, no text or letters visible
+    background: Zieleń pastwisk, szarość tynku, czerń belek, brąz strzech - Norman countryside garden with overgrown areas
+      and cultivated flower beds
+    atmosphere: Natural abundance and fertility suggested through bee activity and rising vapors, morning freshness made visible
+      through steam and dew, sweetness and natural perfume implied through pollinator behavior and flower density
+  composition:
+    cameraAngle: Low angle capturing rising vapor and bee flight patterns
+    focus: Bees hovering around specific flowers, vapor rising from wet earth and petals
+    depth: 'Foreground: close-up of flowers with bees and vapor, middle ground: kneeling figure among blooms, background:
+      misty garden morning atmosphere'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1838, courtroom moment frozen during testimony
+    location: Chamber of Peers in Paris during public trial
+    weather: Indoor formal lighting creating dramatic shadows
+  characters:
+  - appearance: 19-20 years old with purely Greek beauty. Large dark melting eyes, perfectly shaped nose, coral lips and pearl-white
+      teeth. Slender and graceful figure embodying classical Mediterranean elegance
+    clothing: Magnificent exotic Oriental costumes - small golden cap embroidered with pearls, shimmering silk robes with
+      fringes and delicate decorations, curved-toe slippers. Rich fabrics and intricate Eastern designs
+    position: Standing at witness stand, finger extended pointing accusingly, mouth open mid-testimony
+    action: Haydée frozen in moment of revealing truth about her father's betrayal
+  - appearance: 45-year-old military man with bearing of French general and peer. Still tall and imposing, dark features now
+      marked by hidden secrets and anxiety. Face shows military pride but underlying nervousness
+    clothing: French general's uniform with epaulettes, military orders and decorations, ceremonial sash. For civilian occasions,
+      formal dark suits befitting a peer of France. Military bearing evident in posture
+    position: Seated in defendant's chair, face caught in expression of dawning horror
+    action: Fernand frozen in moment of recognition that his past has finally caught him
+  scene:
+    mainElements: Formal legislative chamber with marble columns and judicial proceedings, spectators frozen in various states
+      of shock and fascination, judges suspended in moment of deliberation
+    details: Papers scattered mid-fall from trembling hands, spectators' faces showing suspended gasps of surprise, dust motes
+      frozen in shafts of light streaming through tall windows, court reporter's pen suspended mid-word
+    background: Classical architecture of French government building with formal portraits of past leaders witnessing frozen
+      moment of justice
+    atmosphere: Truth finally speaking after decades of silence, moment of revelation suspended like lightning bolt. Formal
+      courtroom procedures halted by power of authentic testimony. Air thick with suspended destiny, no text or letters visible
+  composition:
+    cameraAngle: Wide courtroom shot showing witness stand and defendant in frozen confrontation
+    focus: Moment when past crimes are finally revealed and acknowledged in formal justice
+    depth: Foreground shows scattered legal documents suspended in motion, middle ground captures key figures frozen in testimony,
+      background reveals formal architecture of justice
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations at Prayer - The Family Ritual"
+  setting:
+    time: "Multiple generational layers: 1780s, 1810s, 1840s compressed into single view"
+    location: "private chapel within large comfortable family mansion in old merchant quarter of Moscow, ancient capital representing heart of Russian tradition"
+    weather: "interior illuminated by stained glass windows casting colored light patterns that remain constant across decades"
+  characters:
+    - appearance: "elderly woman in her 60s with silver hair in traditional Russian style, deep lines of experience around kind eyes, posture bent with age but spirit strong"
+      clothing: "dark traditional Russian dress with Orthodox cross on chain, black headscarf covering hair in pious manner, worn prayer book in weathered hands"
+      position: "kneeling before iconostasis, body curved with decades of faithful worship"
+      action: "crossing herself with practiced movements while lips move in silent prayer"
+    - appearance: "middle-aged woman in her 40s with graying hair, same facial structure as elder showing family resemblance, bearing suggesting motherly responsibility"
+      clothing: "modest dress in dark blue with simple white collar, silver wedding ring worn smooth by years, small icon pendant at throat"
+      position: "kneeling beside elder in identical devotional posture"
+      action: "following same ritual movements with comfortable familiarity, teaching younger generation through example"
+    - appearance: "young woman in her 20s with dark hair and fresh complexion, same family features visible in youthful form, expression of respectful attention to religious instruction"
+      clothing: "simple white dress with embroidered collar, new prayer book with gilt edges, fresh flowers in hair for feast day"
+      position: "kneeling beside mother and grandmother, posture eager to learn family traditions"
+      action: "copying gestures of elder women, occasionally glancing at grandmother's movements for guidance"
+  scene:
+    mainElements: "ornate iconostasis with gold leaf showing different degrees of aging across generations, wooden prayer stools worn smooth by decades of kneeling, stone floor polished by countless footsteps, tall candles burning in same holders across time, no text or letters visible"
+    details: "individual icons showing accumulation of kiss marks from faithful lips, candle wax drippings built up over years creating geological layers, prayer books ranging from worn leather to pristine gilt, family jewelry passed down through generations visible on different hands, no text or letters visible"
+    background: "chapel interior showing same architectural elements across generations with subtle aging, stained glass windows filtering identical colored light patterns across decades, wooden ceiling beams darkening with age"
+    atmosphere: "profound continuity of family faith transcending individual lifetimes, sense of inherited devotion passed through maternal line, comfort found in repetition of sacred gestures across generations, temporal compression revealing eternal nature of family spiritual tradition, no text or letters visible"
+  composition:
+    cameraAngle: "intimate view from side angle showing all three generations in profile during prayer"
+    focus: "the transmission of spiritual tradition through generational example and repetition"
+    depth: "foreground emphasizes detailed ritual objects and hand gestures, middle ground shows three generations in identical devotional poses, background reveals chapel's timeless sacred architecture, no text or letters visible"

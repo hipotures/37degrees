@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: July 1865, moment of public revelation
+    location: Large public square in St. Petersburg serving as marketplace and gathering place, busy commercial area with
+      constant crowd activity
+    weather: Clear day allowing maximum visibility for crowd gathering
+  characters:
+  - appearance: Diverse crowd of Petersburg residents - merchants, workers, peasants, students, officials, women, children,
+      elderly - representing cross-section of society
+    clothing: Various clothing types showing different social classes and occupations, from rags to respectable dress
+    position: Gathered in expanding circle around central dramatic event
+    action: Collectively witnessing public confession with mixture of shock, fascination, judgment, and recognition
+  - appearance: Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that
+      reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow
+      during illness
+    clothing: Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly
+      groomed appearance
+    position: Kneeling in center of crowd attention
+    action: Making public confession while crowd serves as collective witness and judge
+  scene:
+    mainElements: Open square surrounded by shops taverns and market stalls, constant flow of merchants workers and common
+      people, dusty ground from heavy foot traffic, various vendors selling goods
+    details: From crowd's collective perspective, the confession becomes shared moral experience - some observers see justice
+      served, others recognize their own capacity for sin, many feel mixture of satisfaction and pity. Crowd psychology reveals
+      how individual guilt becomes community teaching moment, public confession serving collective need for moral clarity
+      and social boundaries
+    background: Democratic space where all social classes mingle, represents Russian folk soul and communal life, becomes
+      site of public confession and spiritual redemption
+    atmosphere: Collective moral witnessing where individual crime becomes community experience of justice, redemption, and
+      social order restoration through public acknowledgment of guilt
+  composition:
+    cameraAngle: Crowd-level perspective showing collective witnessing of moral drama unfolding in community space
+    focus: Public confession as shared community experience bringing together diverse social elements in moment of moral clarity
+    depth: Foreground shows various crowd faces reflecting different reactions, middle ground captures confession scene, background
+      reveals public square as democratic space for collective judgment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

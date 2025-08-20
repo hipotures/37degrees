@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Unintended Benefits of Harsh Methods"
+  setting:
+    time: "11th century Scotland, early morning in village marketplace"
+    location: "Scottish village that has prospered under new harsh but fair governance"
+    weather: "Clear spring morning with fresh air and gentle sunshine warming earth"
+  characters:
+    - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+      clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+      position: "Observes from hilltop overlooking thriving village below, maintaining respectful distance"
+      action: "Watches prosperity his harsh methods enabled, seeing children play safely and merchants trade fairly under protection of strict but just laws"
+  scene:
+    mainElements: "Bustling market square filled with healthy children, prosperous merchants, and well-fed families conducting honest trade. New stone wells provide clean water, repaired bridges connect previously isolated farms to markets. Young couples plan marriages knowing future holds security"
+    details: "Grain stores overflow from fair taxation replacing corrupt officials' hoarding. Former bandits work honest jobs after rehabilitation programs. Elderly receive care from community funds redistributed from noble excess. Schools operate where taverns once drained family income. Women walk safely through streets previously terrorized by drunk soldiers"
+    background: "Rolling hills show organized farms where chaotic holdings once struggled under corrupt management. New roads connect communities previously isolated by officials who profited from division. Distant mountains no longer hide bandit camps eliminated by decisive action against their noble sponsors"
+    atmosphere: "Quiet satisfaction mingles with profound loneliness as positive results vindicate harsh methods while making ruler enemy to former peers. The good achieved justifies terrible means but cannot ease isolation of leader who sacrificed personal happiness for public benefit. Success brings its own form of suffering"
+  composition:
+    cameraAngle: "High angle showing oversight and protection rather than domination"
+    focus: "Positive transformation achieved through methods others condemned as evil"
+    depth: "Foreground shows contemplative leader, middle ground reveals thriving community, background suggests wider peace and prosperity extending beyond immediate view"

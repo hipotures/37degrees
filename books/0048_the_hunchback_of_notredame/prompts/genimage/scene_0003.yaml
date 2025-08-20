@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: January 6th 1482, early morning, sun climbing higher
+    location: Medieval Parisian rooftops and streets from tower view, chaos of peaked roofs and smoking chimneys
+    weather: Cold clear morning with visible breath and chimney smoke in still air
+  characters: No characters present in this scene
+  scene:
+    mainElements: Dense fabric of medieval buildings with timber-framed houses, steep-pitched roofs, countless smoking chimneys
+      sending white columns into blue sky
+    details: White smoke plumes rise straight up from hundreds of chimneys across city, frost melts from roof tiles creating
+      small streams, wooden shutters begin opening to reveal golden interior candlelight, puddles in cobblestone streets reflect
+      pink morning sky
+    background: Seine River winds through city with early river traffic, distant church spires pierce morning mist, walls
+      of medieval Paris visible in distance
+    atmosphere: City awakening with domestic comfort and morning rituals beginning, sense of life stirring in ancient urban
+      landscape, peaceful domesticity in medieval setting
+  composition:
+    cameraAngle: Elevated view from cathedral tower looking across city rooftops
+    focus: Forest of smoking chimneys creating vertical white lines against blue sky
+    depth: Foreground shows nearest roof details and chimneys, middle ground displays vast carpet of medieval rooftops, background
+      fades to distant city walls
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

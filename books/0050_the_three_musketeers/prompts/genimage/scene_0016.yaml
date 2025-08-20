@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1625, noon
+    location: secluded area near Paris, dueling ground by monastery
+    weather: harsh midday sun creating stark shadows
+  characters:
+  - appearance: 20-year-old Gascon youth with energetic bearing and confident posture
+    clothing: worn blue woolen kaftan faded to indistinct shade between wine sediment and sky blue, single-feathered hat,
+      simple brown leather boots
+    position: center of tilted frame, hand on sword
+    action: accepting challenge with nervous determination
+  - appearance: 30s aristocrat with pale complexion, dark hair, distinguished bearing, occasional grimace from old wound
+    clothing: impeccable blue musketeer coat with silver trim, white linen shirt, dark breeches, polished leather boots
+    position: opposite in tilted composition
+    action: preparing for formal duel with resigned dignity
+  scene:
+    mainElements: Dutch angle suggesting psychological imbalance and tension before life-changing moment
+    details: secluded dueling ground with monastery walls visible, elegant rapiers with steel blades and ornate brass handguards
+      prepared for combat, tilted horizon line creating unease, harsh shadows emphasizing drama, sacred and profane elements
+      contrasting
+    background: monastery buildings tilted at dramatic angle, creating sense of moral uncertainty
+    atmosphere: psychological tension and moral ambiguity, tilted world suggesting everything about to change
+  composition:
+    cameraAngle: Dutch angle with 15-degree tilt suggesting impending transformation
+    focus: both duelists sharp against tilted architectural background
+    depth: dueling ground in foreground, figures in middle, monastery architecture tilted in background, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

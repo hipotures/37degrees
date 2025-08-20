@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Accelerated Decay - Villefort's Downfall"
+  setting:
+    time: "1838, compressed timeline showing rapid collapse"
+    location: "Classical hôtel particulier in aristocratic district of Paris with courtyard and garden"
+    weather: "Indoor lighting dimming as tragedy accelerates"
+  characters:
+    - appearance: "Man in his 50s, features hardened by years of hiding secrets. Face has become cold, impenetrable mask marked by stress and guilt. Eyes show growing strain of maintaining his facade"
+      clothing: "Same austere black attire but now representing fallen authority - judicial robes that become symbols of corrupted justice, clothing in increasing disarray as his world collapses"
+      position: "Standing in study, aging rapidly as scandal unfolds around him"
+      action: "Villefort experiencing rapid mental and physical deterioration as his secrets are revealed"
+  scene:
+    mainElements: "Austere architecture reflecting owner's character, prosecutor's study filled with legal documents, heavy dark wood furniture, marble surfaces, formal portraits showing accelerated aging effects"
+    details: "Books simultaneously accumulating dust and falling from shelves, furniture aging rapidly from polished to worn to decrepit, legal documents yellowing and crumbling in fast motion, wine in glass evaporating and refilling in cycle of despair"
+    background: "Study walls showing paint peeling and portraits aging in fast motion, window view revealing garden seasons cycling rapidly from spring to winter"
+    atmosphere: "Compressed lifetime of corruption catching up in moments. Sounds of ticking clocks accelerating, papers rustling faster than wind, footsteps pacing in rapid rhythm of anxiety. Time itself punishing delayed justice, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up showing rapid aging and deterioration effects"
+    focus: "Man experiencing accelerated consequences of lifetime of moral compromise"
+    depth: "Foreground shows deteriorating personal effects, middle ground captures figure aging rapidly, background reveals home environment decaying in compressed time"

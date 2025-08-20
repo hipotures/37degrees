@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1829, evening in secret location
+    location: Hidden basement room used for underground printing, beneath Paris bookshop
+    weather: Interior scene with no natural light
+  characters:
+  - appearance: Underground printer with ink-stained fingers, face showing tension of dangerous work
+    clothing: Simple brown shirt with rolled sleeves, leather apron marked with printing ink, practical trousers suitable
+      for manual labor
+    position: Working at illegal printing press hidden beneath legal business
+    action: Setting type for banned political pamphlet, constantly listening for footsteps above that might signal police
+      discovery
+  - appearance: Young student assisting with clandestine publication, expression mixing fear with revolutionary commitment
+    clothing: Student's black coat worn to avoid attention, white shirt showing ink stains from handling forbidden texts
+    position: Standing beside press ready to hide evidence at first sign of danger
+    action: Folding printed sheets into concealable bundles, preparing for secret distribution despite legal penalties
+  scene:
+    mainElements: Small hand-operated printing press with fresh ink, stacks of banned books and pamphlets, single candle providing
+      minimal illumination
+    details: Boxes of loose type for setting revolutionary slogans, bottles of ink hidden behind legitimate supplies, escape
+      route through connected cellar tunnels. False wall concealing illegal materials, listening holes to monitor street activity
+      above, bag ready for quick removal of evidence
+    background: Stone basement walls with moisture stains, wooden support beams, legitimate books stored to maintain cover
+      story
+    atmosphere: Dangerous dedication to spreading forbidden truth, intellectual resistance operating in shadows created by
+      official censorship
+  composition:
+    cameraAngle: Close interior view emphasizing secretive nature of forbidden activity
+    focus: Printing press as tool of resistance against information control
+    depth: Working figures in foreground, illegal publications in middle ground, concealed exits in background suggesting
+      constant danger
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

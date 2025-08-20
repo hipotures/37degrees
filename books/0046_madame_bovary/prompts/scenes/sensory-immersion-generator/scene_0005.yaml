@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy wool blankets compressing bed while wind pressure pushes against bodies"
+  setting:
+    time: "1840s winter night, late evening during storm"
+    location: "Bedroom in doctor's house, Yonville-l'Abbaye, during fierce Norman storm"
+    weather: "Violent winter storm with powerful winds battering the house"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Heavy wool nightgown, multiple layers of bedding pressing down on body"
+      position: "Lying in bed buried under oppressive weight of thick blankets and quilts"
+      action: "Struggling against crushing weight of bedding, gasping for breath under heavy covers, pushing against wool layers"
+  scene:
+    mainElements: "Massive pile of heavy wool blankets and quilts creating visible compression on bed mattress, wind outside so powerful it seems to press through walls, bedroom trembling and creaking under atmospheric pressure"
+    details: "Thick wool blankets weighing down like lead, mattress visibly compressed and sinking under accumulated weight of heavy bedding, fabric so dense and oppressive it seems to squeeze air from lungs, body making clear depression in bed surface, wind pressure against windows so intense it bows glass inward, house timbers creaking and groaning under atmospheric assault, curtains pressed flat against windows by external pressure, candle flames flickering from air pressure changes, breathing becoming labored under blanket weight, claustrophobic sense of being buried alive under textile mountain, no text or letters visible"
+    background: "Storm-battered Norman countryside with trees bending to breaking point, roof tiles rattling, shutters straining against wind pressure"
+    atmosphere: "Overwhelming physical pressure from both weight above and wind outside, sensation of being crushed between opposing forces, claustrophobic imprisonment under textile mass while nature's violence pounds from outside, weight and pressure creating almost unbearable sense of confinement"
+  composition:
+    cameraAngle: "Side view showing dramatic compression of bed and bedding weight"
+    focus: "Visual evidence of crushing weight - compressed mattress, strained bed frame, struggling figure"
+    depth: "Foreground: heavy blankets creating visible pressure, middle ground: compressed bed and figure, background: storm effects on room and windows"

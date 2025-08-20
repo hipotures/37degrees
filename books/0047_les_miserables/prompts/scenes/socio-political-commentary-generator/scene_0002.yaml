@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Monuments to Power - Statue Glorifying Authority"
+  setting:
+    time: "1823, midday in restored France"
+    location: "Town center of Montreuil-sur-Mer, northern French industrial city"
+    weather: "Bright sunlight casting sharp shadows from monument"
+  characters:
+    - appearance: "Sculptor in middle age adjusting finishing touches on bronze statue, proud expression of artistic accomplishment"
+      clothing: "Workman's smock stained with bronze patina, leather apron, rolled sleeves revealing strong forearms"
+      position: "Standing on wooden scaffold beside towering statue"
+      action: "Polishing bronze surface with cloth, stepping back to admire proportions of idealized figure"
+    - appearance: "Well-dressed bourgeois citizens gathering to observe unveiling ceremony"
+      clothing: "Fine woolen coats, silk top hats, walking sticks, prosperous merchants displaying wealth through fashion"
+      position: "Assembled in semicircle around monument base"
+      action: "Pointing admiringly at statue details, discussing merits of artistic tribute to legitimate authority"
+  scene:
+    mainElements: "Massive bronze statue of royal figure on granite pedestal, draped French flags awaiting official unveiling, construction scaffolding being removed by workers"
+    details: "Monument depicts idealized ruler in classical pose with scepter and crown, pedestal inscribed with Latin phrases glorifying divine right monarchy. Decorative bronze reliefs showing scenes of prosperity under royal protection, fresh flowers placed at statue base. Surrounding cobblestone plaza swept clean for ceremony"
+    background: "Prosperous town buildings with neat facades, factory smokestacks visible in distance showing industrial progress under stable government, cathedral bells towers framing composition"
+    atmosphere: "Celebration of established order through permanent artistic statement, monument designed to inspire awe and submission to legitimate authority"
+  composition:
+    cameraAngle: "Low angle emphasizing monument's imposing scale against sky"
+    focus: "Bronze statue dominating composition as symbol of eternal power"
+    depth: "Monument filling foreground, crowd of admirers in middle ground, town architecture suggesting prosperity in background"

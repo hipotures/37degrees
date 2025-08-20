@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Human Chessboard - Society as Strategic Game"
+  setting:
+    time: "1832, afternoon overview of social hierarchy"
+    location: "Elevated view of Paris showing social stratification as chess board"
+    weather: "Clear afternoon revealing stark patterns of urban organization"
+  characters:
+    - appearance: "Citizens moving through city streets in patterns resembling chess pieces, each class following predetermined movement rules"
+      clothing: "Distinct garments marking social class - silk for aristocracy, wool for bourgeoisie, rough cloth for workers, rags for desperate poor"
+      position: "Arranged throughout urban landscape in hierarchical formation"
+      action: "Moving according to social class restrictions, aristocrats in carriages following protected routes, workers confined to industrial districts"
+    - appearance: "Authority figures positioned like chess masters controlling population movement from elevated positions"
+      clothing: "Official uniforms with insignia denoting level of control over human pieces in social game"
+      position: "Stationed at strategic points overlooking population movement patterns"
+      action: "Directing human traffic according to official strategy, maintaining separation between social classes, enforcing movement restrictions"
+  scene:
+    mainElements: "City streets arranged like chess board squares with distinct districts for each social class, boundaries maintained through official control"
+    details: "Wealthy districts corresponding to protected back row of chess board, working areas forming middle ranks, poor confined to vulnerable forward positions. Official checkpoints controlling movement between social squares, guards positioned like chess pieces protecting valuable elements"
+    background: "Government buildings positioned like castles controlling game board, church spires and monuments serving as strategic points"
+    atmosphere: "Human society organized as strategic game where individual lives serve larger political calculations, social mobility restricted by game rules"
+  composition:
+    cameraAngle: "Elevated overview showing chess-like pattern of social organization"
+    focus: "Urban layout revealing systematic arrangement of human population"
+    depth: "Individual human pieces in foreground, social movement patterns in middle ground, controlling strategic positions in background directing social game"

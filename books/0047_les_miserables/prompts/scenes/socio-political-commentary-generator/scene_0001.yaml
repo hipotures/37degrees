@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Official Order - The Prefect's Ceremonial Display"
+  setting:
+    time: "1815, late afternoon during Bourbon Restoration"
+    location: "Public square in Digne, provincial French town in Provence"
+    weather: "Clear autumn day with golden sunlight"
+  characters:
+    - appearance: "Middle-aged government official in ornate uniform, portly figure with pompous bearing and self-important expression"
+      clothing: "Elaborate prefectural uniform with gold braiding, ceremonial sword, polished boots, feathered hat displaying royal insignia"
+      position: "Standing on elevated platform addressing assembled crowd"
+      action: "Reading royal proclamation with theatrical gestures, voice carrying across silent square"
+    - appearance: "Uniformed guards flanking platform, rigid military posture displaying state power"
+      clothing: "Royal guard uniforms with brass buttons, white cross-belts, tall shakos with plumes"
+      position: "Positioned symmetrically around platform perimeter"
+      action: "Standing at attention with ceremonial rifles, eyes scanning crowd for dissent"
+  scene:
+    mainElements: "Elevated wooden platform draped with white Bourbon banners and royal coat of arms, bronze bust of King Louis XVIII positioned prominently, ceremonial guards forming perfect lines"
+    details: "Royal decree announcing restoration of legitimate authority, large crowd of townspeople gathered in enforced attendance, church bells pealing approval from nearby cathedral tower. Platform decorated with white lilies symbolizing restored monarchy, official seal prominently displayed on documents. Crowd maintains respectful distance marked by rope barriers"
+    background: "Stone buildings of provincial French town with classical facades, church spire rising behind square, orderly rows of shuttered windows suggesting surveillance and control"
+    atmosphere: "Formal ceremony projecting image of stable authority and popular acceptance, underlying tension masked by ritual grandeur and imposed order"
+  composition:
+    cameraAngle: "Low angle emphasizing height and authority of platform"
+    focus: "Official figure commanding attention through elevated position and ceremonial regalia"
+    depth: "Platform and ceremony in sharp focus, crowd forming middle ground, town architecture providing backdrop of institutional power"

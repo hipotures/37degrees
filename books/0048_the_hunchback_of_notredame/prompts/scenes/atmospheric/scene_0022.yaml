@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Torrential Rain Storm at Cathedral"
+  setting:
+    time: "1482, storm season, heavy rainfall"
+    location: "Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals"
+    weather: "Intense downpour with driving rain and dark storm clouds"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight, architectural symphony in stone enduring weather extremes"
+    details: "Torrential rain streams down cathedral facade creating waterfalls from gargoyle mouths, stone darkened by saturation appears almost black, plaza becomes network of rushing streams and growing puddles, rain bounces dramatically off stone surfaces"
+    background: "Medieval Paris struggles under heavy rainfall with flooded streets and overflowing gutters, city takes on dark dramatic appearance under storm clouds"
+    atmosphere: "Nature at its most dramatic confronting human architecture, cathedral enduring elemental forces as it has for centuries, power and persistence of both natural and built environments"
+  composition:
+    cameraAngle: "Dynamic view emphasizing dramatic rain effects on cathedral"
+    focus: "Spectacular water effects with rain streaming from gargoyles and stone surfaces"
+    depth: "Foreground shows rain patterns on plaza, middle ground features water-darkened facade, background displays storm clouds"

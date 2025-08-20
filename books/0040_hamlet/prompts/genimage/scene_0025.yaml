@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1590s, late afternoon
+    location: Massive ceremonial hall in Elsinore Castle after the final tragedy
+    weather: ''
+  characters:
+  - appearance: Young man 20-25 years, tall and strong, military bearing, determined face full of ambition, natural leader
+    clothing: Military commander's armor, cloak, practical warrior's attire
+    position: Standing in great hall doorway with armed soldiers behind him
+    action: Surveying scene of carnage with mixture of shock and respect, taking command of shattered kingdom
+  - appearance: Man around 30 years, average build, calm and balanced face, intelligent eyes, trustworthy expression reflecting
+      reason and loyalty
+    clothing: Modest dark scholar's attire from Wittenberg, less ornate than court dress, practical and simple emphasizing
+      he's not part of corrupt court
+    position: Kneeling beside Hamlet's body, only survivor of main players
+    action: Looking up at Fortinbras with grief-stricken but resolute expression, ready to tell the true story
+  scene:
+    mainElements: Multiple bodies scattered across great hall - Hamlet, Claudius, Gertrude, Laertes, overturned furniture,
+      spilled wine and blood, military banners now visible
+    details: The great hall has become charnel house, with four royal bodies testament to corruption's price. Fortinbras's
+      arrival brings military order to political chaos. The conversation between Hamlet and Claudius has finally ended in
+      mutual destruction, leaving silence for new voices.
+    background: Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths,
+      high wooden ceiling with beams
+    atmosphere: Tragic end of Danish royal line, military order replacing corrupt court, new beginning from total destruction
+  composition:
+    cameraAngle: Wide establishing shot showing full scope of destruction and new arrival
+    focus: Contrast between multiple death and single surviving witness with new military authority
+    depth: Foreground shows scattered bodies, middle shows grieving Horatio, background shows arriving soldiers
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

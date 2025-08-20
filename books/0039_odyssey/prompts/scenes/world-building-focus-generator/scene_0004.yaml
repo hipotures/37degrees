@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Mycenaean Street Scene with Bronze Age Architecture"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, late afternoon"
+    location: "Stone-paved street within Mycenaean settlement leading from palace complex toward residential quarter"
+    weather: "Warm Mediterranean afternoon with golden light casting long shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone-paved pathway flanked by multi-story buildings with characteristic Mycenaean architectural features, stepped building foundations following hillside contours, wooden balconies and external staircases, storage rooms at ground level with living quarters above"
+    details: "Cyclopean stone foundations supporting timber and mud-brick upper walls, flat roofs with wooden beams and clay tiles, small high windows with wooden shutters, colorful geometric frescoes decorating wall surfaces in typical Mycenaean patterns, large ceramic storage jars (pithoi) positioned beside doorways, bronze fittings on doors and gates, stone drains running along street edges, oil lamps mounted in wall niches, wooden benches built into building facades"
+    background: "Stone stairways climbing toward upper residential terraces, glimpses of palace megaron rising above surrounding structures, olive groves and Mediterranean vegetation visible on hillsides beyond settlement walls"
+    atmosphere: "Bustling residential life of Bronze Age community, warm afternoon light illuminating ancient stonework, sounds of daily activity echoing between stone walls, sense of established civilization with sophisticated urban planning"
+  composition:
+    cameraAngle: "Street-level perspective looking down the paved pathway"
+    focus: "Central stone street with architectural details of flanking buildings clearly visible"
+    depth: "Foreground: stone paving and immediate building details, middle ground: full building facades and street furniture, background: rising hillside and palace structures"

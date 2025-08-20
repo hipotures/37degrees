@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, late night in private chamber
+    location: Personal chambers with polished metal mirror and religious artifacts
+    weather: Windless night with oppressive stillness pressing against closed shutters
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Paces before cracked metal mirror mounted on stone wall, pausing to stare at fragmented reflection
+    action: Studies multiple images of himself in broken mirror surface, each shard showing different aspect of his nature
+      - noble warrior, ambitious schemer, justified avenger
+  scene:
+    mainElements: Private chamber furnished with wooden chest, simple bed, and religious shrine. Cracked polished metal mirror
+      dominates one wall, reflecting candlelight in fractured patterns. Shadows move independently of source, creating sense
+      of multiple presences
+    details: Each broken segment of mirror shows different version of the man - one reflects his legitimate grievances against
+      corrupt system, another reveals growing hunger for power, third suggests divine approval of necessary action. Religious
+      icons on nearby shelf seem to judge and bless simultaneously. Candle flame wavers despite still air, casting shifting
+      shadows that appear to nod approval or shake heads in warning
+    background: Stone walls close in around solitary figure, creating sense of internal prison. Through narrow window, darkness
+      outside mirrors moral uncertainty within. Cross on wall catches fragmentary light from broken mirror
+    atmosphere: Mind works to construct coherent moral framework from fragmented justifications. Internal voice speaks through
+      fractured reflections, each piece offering different rationale for planned action. Moral complexity reduced to multiple
+      simple arguments that together form convincing whole
+  composition:
+    cameraAngle: Multiple reflected views through broken mirror showing different moral aspects
+    focus: Fractured reflection creating psychological portrait of divided conscience
+    depth: Foreground shows broken mirror surface, middle ground reveals conflicted figure, background suggests religious
+      and moral framework struggling to contain contradictions
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

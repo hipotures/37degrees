@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1625, afternoon
+    location: Hotel de Tréville courtyard in Paris, official residence and headquarters of King's Musketeers
+    weather: bright afternoon with strong sunlight
+  characters:
+  - appearance: 30s muscular man with imposing build, robust frame, confident expression
+    clothing: ornate blue musketeer coat with gold embroidery, decorative golden sword belt visible only from front, white
+      shirt with lace cuffs
+    position: medium shot from waist up showing body language
+    action: adjusting golden sword belt with self-satisfied expression
+  scene:
+    mainElements: medium shot capturing body language and relationship to environment
+    details: robust frame displayed to best advantage, hands prominently showing off decorative golden sword belt, muscular
+      shoulders emphasized by tailored coat, lace cuffs catching sunlight, confident smile and puffed chest posture
+    background: courtyard setting with other musketeers visible but blurred, emphasizing individual vanity
+    atmosphere: cheerful masculine pride and harmless vanity, bright sunlight enhancing golden details, sense of good-natured
+      self-importance
+  composition:
+    cameraAngle: medium shot emphasizing body language and personal space
+    focus: figure and immediate surroundings sharp with attention to golden details
+    depth: subject clearly defined against softly focused courtyard background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

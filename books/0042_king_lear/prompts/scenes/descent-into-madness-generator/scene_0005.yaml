@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Faces in the Patterns - Paranoia Takes Root"  
+  setting:
+    time: "Ancient Britain, dawn"
+    location: "Corridor in castle connecting sleeping chambers to main hall"
+    weather: "Gray dawn light filtering through narrow corridor windows"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Hastily donned robes over nightclothes, uncombed hair, stubble of beard"
+      position: "Walking slowly along stone corridor, frequently stopping to examine walls"
+      action: "Peering closely at tapestries and stone carvings, tracing patterns with finger, muttering under breath"
+  scene:
+    mainElements: "Long stone corridor with series of tapestries hanging along walls, narrow windows providing dim morning light, carved stone supports and archways"
+    details: "Tapestry patterns that contain repeated motifs - faces of nobles, hunting scenes, heraldic designs - that seem to shift and change when viewed from corner of eye. Stone carvings of gargoyles and decorative figures that appear to watch. Morning shadows creating dark patches that seem to move. Wood grain patterns in corridor doors that suggest watching eyes or grinning mouths"
+    background: "Continuing corridor stretching into dimness, occasional servants moving in distance, suits of armor standing in alcoves"
+    atmosphere: "Growing sense of being observed and judged by inanimate objects. Familiar decorative patterns becoming threatening faces and symbols. Every ornamental detail seems to have gained awareness and hostile intent"
+  composition:
+    cameraAngle: "Tracking shot following Lear as he examines different wall decorations"
+    focus: "Close-ups on patterns in tapestries and stone that suggest faces, alternating with Lear's increasingly suspicious expressions"
+    depth: "Sharp detail on decorative patterns in foreground, Lear's examination in middle ground, dark corridor stretching into background"

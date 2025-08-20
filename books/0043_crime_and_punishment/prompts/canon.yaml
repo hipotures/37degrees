@@ -1,0 +1,135 @@
+canon:
+  characters:
+    - id: "raskolnikov"
+      name: "Rodion Raskolnikov"
+      description_block: |
+        characters:
+          - appearance: "Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow during illness"
+            clothing: "Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly groomed appearance"
+            posture: "Carries himself with unconscious pride despite his poverty, often walking with head down lost in thought, becomes agitated and paranoid after the crime"
+
+    - id: "sonia"
+      name: "Sonia Marmeladova"
+      description_block: |
+        characters:
+          - appearance: "Eighteen-year-old girl, small and thin build, fair blonde hair, gentle blue eyes that reflect purity despite her circumstances, youthful face marked by suffering and humility"
+            clothing: "Sometimes dressed in garish inappropriate prostitute attire with bright colors, other times wearing simple, modest, poor but clean clothing that reveals her true nature"
+            posture: "Shy and submissive demeanor, often looking down humbly, movements showing both timidity and inner strength"
+
+    - id: "porfiry"
+      name: "Porfiry Petrovich"
+      description_block: |
+        characters:
+          - appearance: "Thirty-five years old, short and plump man with a small belly, yellowish sickly complexion, short-cropped hair, almost white eyelashes, round puffy face with intelligent watery eyes that constantly blink as if conspiratorially"
+            clothing: "Clean and well-maintained clothing appropriate for a government official, possibly wearing a dressing gown when at home"
+            posture: "Moves with deceptive casualness, often circling around others during conversations, uses gestures and positioning to psychologically dominate interrogations"
+
+    - id: "svidrigailov"
+      name: "Arkady Svidrigailov"
+      description_block: |
+        characters:
+          - appearance: "Man around fifty years old, stocky and broad-shouldered build, light blond hair and beard, face resembling a mask with artificial white and rosy coloring, unnaturally blue eyes with heavy immobile gaze"
+            clothing: "Impeccably dressed in elegant fashionable attire, always maintaining perfect external appearance"
+            posture: "Carries himself with studied refinement, movements precise but somehow artificial, maintains composed exterior that conceals inner depravity"
+
+    - id: "dunya"
+      name: "Dunya Raskolnikov"
+      description_block: |
+        characters:
+          - appearance: "Twenty-two years old, tall and remarkably graceful woman, strong build, dark blonde hair almost black in color, proud dark eyes similar to her brother, serious contemplative expression reflecting dignity and strength"
+            clothing: "Modest but respectable dress of a self-respecting but poor woman, simple garments that maintain dignity despite financial limitations"
+            posture: "Stands tall with natural pride and determination, movements show both grace and resolve, similar bearing to her brother but without his torment"
+
+    - id: "marmeladov"
+      name: "Semyon Marmeladov"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man with yellowish face destroyed by alcoholism, worn appearance showing effects of long-term drinking, thin and haggard from poverty and self-destruction"
+            clothing: "Shabby and disheveled clothing of a clerk fallen into destitution, garments stained and wrinkled from drinking and homelessness"
+            posture: "Slouched and defeated bearing, movements showing weakness and shame, often gesturing dramatically when telling his story"
+
+    - id: "old_pawnbroker"
+      name: "Aliona Ivanovna"
+      description_block: |
+        characters:
+          - appearance: "Sixty years old, small dried-up sharp-featured woman, faded greasy light hair, sharp malicious little eyes, small upturned nose creating unpleasant expression"
+            clothing: "Flannel rag around her neck, worn fur-lined jacket, simple clothing reflecting her miserly nature"
+            posture: "Suspicious and alert movements, constantly watching and judging, positioning herself defensively during transactions"
+
+    - id: "lizaveta"
+      name: "Lizaveta Ivanovna"
+      description_block: |
+        characters:
+          - appearance: "Thirty-five years old, tall awkward ungainly woman, dark hair, gentle submissive facial expression with kind eyes reflecting her good nature"
+            clothing: "Simple worn but clean clothing appropriate for a servant, modest garments that reflect her humble status"
+            posture: "Meek and submissive bearing, moves carefully to avoid attracting attention, shows deference to others especially her domineering half-sister"
+
+  locations:
+    - id: "raskolnikov_room"
+      name: "Raskolnikov's Garret Room"
+      description_block: |
+        setting:
+          location: "Tiny cramped attic room in a tenement building in St. Petersburg slums, July 1865"
+        mainElements: "Extremely small coffin-like space barely six steps long, oppressively low ceiling that tall person would hit their head on, dominant feature of dusty yellow wallpaper peeling from walls"
+        atmosphere: "Suffocating claustrophobic environment resembling a tomb, air of poverty and mental oppression, room feels like physical manifestation of protagonist's tormented mind"
+
+    - id: "pawnbroker_apartment"
+      name: "Old Pawnbroker's Apartment"
+      description_block: |
+        setting:
+          location: "Fourth-floor apartment of a St. Petersburg tenement building, July 1865, clinically clean interior contrasting with building's external shabbiness"
+        mainElements: "Spotlessly clean rooms with old yellowed wooden furniture, small icon with oil lamp burning in corner, antechamber separated by partition from kitchen area, main room with door curtained by calico leading to bedroom where strongbox is kept"
+        atmosphere: "Sterile uncomfortable cleanliness that feels unnatural and threatening, religious icon creating ironic contrast with impending violence, precise layout becomes maze-like during crime sequence"
+
+    - id: "sonia_room"  
+      name: "Sonia's Irregular Room"
+      description_block: |
+        setting:
+          location: "Barn-like room with bizarre geometry in old three-story green house overlooking canal in St. Petersburg, July 1865"
+        mainElements: "Large but very low-ceilinged space forming irregular quadrilateral, one wall runs diagonally creating sharp acute angle disappearing into darkness and obtuse angle grotesquely wide, three windows facing canal, sparse furniture including bed, chair, simple pine table with blue cloth, small dresser lost in emptiness"
+        atmosphere: "Grotesque distorted space reflecting occupant's twisted social position, physical deformity of room mirrors moral distortion of circumstances while maintaining potential for sanctity"
+
+    - id: "petersburg_streets"
+      name: "St. Petersburg Streets in Summer Heat"
+      description_block: |
+        setting:
+          location: "Streets and squares of St. Petersburg during oppressive July heat wave, 1865"
+        mainElements: "Suffocating heat creating visible air distortion, dust from constant construction covering everything with lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg stench from canals cheap alcohol and human sweat"
+        atmosphere: "Sensory overload environment that attacks all senses, city functioning as living antagonist that oppresses and sickens its inhabitants, external heat mirroring internal fever of madness"
+
+    - id: "police_station"
+      name: "Police Station Office"
+      description_block: |
+        setting:
+          location: "Government office building in St. Petersburg, bureaucratic interior reflecting Russian imperial administration"
+        mainElements: "Official desks with papers and documents, chairs for visitors, yellow glass with yellow water symbolizing institutional corruption, formal governmental atmosphere with portraits and official decorations"
+        atmosphere: "Intimidating bureaucratic environment designed to make citizens feel powerless, yellow-tinted details connecting to overall symbolic color scheme of sickness and moral decay"
+
+    - id: "haymarket_square"
+      name: "Haymarket Square"
+      description_block: |
+        setting:
+          location: "Large public square in St. Petersburg serving as marketplace and gathering place, busy commercial area with constant crowd activity"
+        mainElements: "Open square surrounded by shops taverns and market stalls, constant flow of merchants workers and common people, dusty ground from heavy foot traffic, various vendors selling goods"
+        atmosphere: "Democratic space where all social classes mingle, represents Russian folk soul and communal life, becomes site of public confession and spiritual redemption"
+
+  items:
+    - id: "murder_axe"
+      name: "Murder Axe"
+      description_block: |
+        details: "Heavy carpenter's axe borrowed from porter's lodge, sharp metallic blade reflecting light, wooden handle worn smooth from use, weight approximately two pounds creating substantial presence in hand, represents cold brutal reality of violence cutting through abstract theories"
+
+    - id: "wooden_cross"
+      name: "Cypress Cross"
+      description_block: |
+        details: "Simple wooden cross made from cypress wood, small humble religious artifact representing suffering sacrifice and path to redemption, visual opposite of metal axe, crafted from living wood symbolizing eternal life versus instrument of death"
+
+    - id: "yellow_ticket"
+      name: "Yellow Passport"
+      description_block: |
+        details: "Official document licensing prostitution, bureaucratic paper colored with dominant symbolic yellow representing social degradation and moral sickness, emblem of societal corruption and personal sacrifice"
+
+    - id: "peeling_wallpaper"
+      name: "Yellow Wallpaper Pattern"
+      description_block: |
+        details: "Dusty yellow wallpaper with floral pattern peeling from walls in various rooms, misshapen white flowers with brownish lines creating grotesque designs, represents psychological deterioration and obsessive focus during mental breakdown, paper curling and separating from walls like sanity departing from mind"

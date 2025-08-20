@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, golden hour after single combat
+    location: flat dusty battlefield between Troy citadel and Achaean ships, crossed by Scamander River in northwestern Anatolia
+    weather: Clear evening air with dust settling after combat
+  characters:
+  - appearance: 35-year-old Trojan prince, tall and powerfully built with human proportions, dark hair and beard, weathered
+      face showing responsibility and resolve
+    clothing: divine bronze armor forged by Hephaestus, gleaming like fire with intricate gold and silver inlays, golden-crested
+      helmet with horsehair plume, bronze greaves
+    position: foreground lying motionless on dusty ground, bronze armor reflecting sunset
+    action: fallen in death with spear wound in throat, blood pooling in dust
+  - appearance: 70-year-old king of Troy, stooped with age but retaining dignity, long white hair and beard, face deeply lined
+      with sorrow and years of rule
+    clothing: flowing royal robes of deep purple and gold, golden circlet crown, relies on carved wooden staff for support
+    position: background on Troy's walls, initially blurred then coming into sharp focus
+    action: collapsing in grief as he witnesses son's death from city walls
+  scene:
+    mainElements: Rack focus shot shifting attention from Hector's corpse in foreground to Priam's grief in background
+    details: Focus begins on bronze armor stained with blood and dust, spear wound precisely placed, horsehair crest no longer
+      moving in breeze, gold ornaments catching final sunlight, then focus shifts to distant figure on walls collapsing in
+      royal grief, purple robes pooling around fallen king, golden circlet askew, no text or letters visible
+    background: open terrain suitable for chariot warfare, scattered ancient burial mounds, lone trees marking landmarks,
+      riverbank vegetation along Scamander
+    atmosphere: dust clouds from battle and movement, sounds of combat echoing across open space, smell of blood and sweat
+      mixing with earth
+  composition:
+    cameraAngle: Medium distance allowing rack focus between foreground death and background grief
+    focus: Shifting from physical death to emotional devastation, connecting personal loss across distance
+    depth: 'Foreground: Hector''s corpse in initial sharp focus, middle: empty battlefield, background: Priam''s grief coming
+      into focus as connection is made'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

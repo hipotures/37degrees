@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Night assault in the garden"
+  setting:
+    time: "1860s Russian Empire, deep night"
+    location: "Garden behind Karamazov family house, dark outdoor space with fence and vegetation"
+    weather: "Cold dark night with wind moving through trees"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Climbing fence into garden, later fleeing across dark grounds
+      action: Searching desperately for Gruszeńka, attacking old servant who tries to stop him
+  scene:
+    mainElements: "Dark garden with fence, scattered trees and bushes, house windows glowing dimly, wooden fence providing escape route"
+    details: "Moonlight casting shifting shadows through moving vegetation, wind creating ominous sounds, garden paths dark and treacherous, fence posts stark against night sky"
+    background: "House looming dark and threatening, servants' quarters separated by courtyard, surrounding darkness offering both concealment and danger"
+    atmosphere: "Desperate violence erupting in darkness, primitive emotions unleashed in natural setting, approaching climax of family destruction"
+  composition:
+    cameraAngle: "Low dramatic angles emphasizing violence and desperation in dark setting"
+    focus: "Dymitr's face showing murderous desperation as violence erupts"
+    depth: "Foreground shows violent confrontation, middle ground captures dark garden setting, background shows house witnessing family destruction"

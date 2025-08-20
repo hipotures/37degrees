@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1840s morning, during Emma's illness and depression
+    location: Bedroom and kitchen areas of Bovary house, Yonville-l'Abbaye, during Emma's nervous breakdown
+    weather: Gray overcast morning, oppressive atmosphere
+  characters:
+  - appearance: Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z
+      tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z
+      różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech
+    clothing: Simple house dress, pale and wan appearance, hair less carefully arranged
+    position: Sitting at kitchen table surrounded by medicine bottles and coffee preparations
+    action: Reluctantly taking prescribed medicine, pushing away bitter coffee, grimacing at unpleasant tastes
+  scene:
+    mainElements: Mieszczańskie wnętrza które Emma próbuje urządzać luksusowo - kitchen table with multiple dark medicine
+      bottles, scattered coffee grounds, bitter herbal preparations
+    details: Dark medicine bottles containing murky brown and black liquids, coffee grounds spilled across wooden table surface
+      creating bitter aromatic powder, medicine dropper releasing dark drops into glass with visible reluctance, coffee beans
+      crushed and scattered showing their bitter interior oils, herbal tonics with sediment settled at bottom of bottles,
+      medicine spoon stained with dark residues, coffee pot with thick bitter brew visible through spout, medicinal herbs
+      dried to dark brown colors, burnt coffee smell visible as dark vapor, medicine bottles with hand-written labels in physician's
+      script, no text or letters visible except medicine labels
+    background: Napięcie między aspiracjami Emmy a rzeczywistością finansową - domestic interior showing signs of depression
+      and illness
+    atmosphere: Miejsce kłamstw i sekretów - bitterness and medicinal necessity suggested through dark colors and scattered
+      grounds, depression and illness made tangible through bitter preparations and reluctant consumption
+  composition:
+    cameraAngle: Close-up showing dark liquids and scattered bitter grounds
+    focus: Medicine bottles with dark contents, coffee grounds creating bitter texture
+    depth: 'Foreground: detailed medicine bottles and scattered grounds, middle ground: reluctant figure taking medicine,
+      background: domestic space showing signs of illness'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

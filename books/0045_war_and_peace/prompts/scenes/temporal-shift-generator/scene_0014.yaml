@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Transportation Evolution - From Horse to Steam"
+  setting:
+    time: "Temporal layers: 1810s, 1840s, 1860s compressed into single view"
+    location: "same carriage house structure on large well-ordered country estate, building adapted across decades for evolving transportation"
+    weather: "morning light streaming through same large doors showing different seasonal conditions"
+  characters:
+    - appearance: "experienced coachman in his 50s with weathered face from decades of outdoor work, strong build from handling horses, graying hair beneath coachman's hat"
+      clothing: "traditional coachman's livery in family colors, heavy woolen coat for travel, high boots for muddy roads, leather gloves worn smooth"
+      position: "standing beside elegant traveling coach, hand on bridle of matched pair of bay horses"
+      action: "checking harness fittings with practiced expertise, calming horses with gentle voice and experienced touch"
+    - appearance: "middle-aged man in railway conductor uniform, clean-shaven face showing indoor work, posture suggesting authority over mechanical rather than animal transportation"
+      clothing: "official railway company uniform with brass buttons, peaked cap with company insignia, pocket watch on chain for precise scheduling"
+      position: "standing beside early railway passenger car positioned on tracks laid through same building"
+      action: "consulting timetable and checking mechanical connections with systematic professional attention"
+    - appearance: "young engineer in work clothes, hands showing mechanical stains, expression of fascination with steam technology"
+      clothing: "practical work clothes suitable for mechanical maintenance, leather apron, tools hanging from belt"
+      position: "standing beside steam locomotive positioned in same building space, now converted to engine house"
+      action: "stoking firebox and monitoring pressure gauges with intense concentration on technical details"
+  scene:
+    mainElements: "same building structure showing progressive adaptation from stable to railway station to engine house, horse stalls replaced by railway tracks replaced by mechanical equipment, no text or letters visible"
+    details: "hay and grain storage giving way to coal bunkers and water tanks, leather harnesses hanging alongside mechanical tools alongside steam fittings, building roof modified for smoke stack clearance, no text or letters visible"
+    background: "estate grounds showing transportation infrastructure evolution, carriage roads becoming railway lines becoming industrial access routes, landscape adapting to technological progress"
+    atmosphere: "rapid acceleration of transportation technology across single generation, nostalgia for personal relationship with horses replaced by precision of mechanical systems, human adaptation to increasing speed and power of travel, no text or letters visible"
+  composition:
+    cameraAngle: "wide view showing building's adaptation to different transportation modes"
+    focus: "the human relationship with evolving transportation technology across generations"
+    depth: "foreground shows detailed equipment and human interaction with each transportation mode, middle ground reveals building's structural adaptation, background emphasizes landscape changes supporting new transportation methods, no text or letters visible"

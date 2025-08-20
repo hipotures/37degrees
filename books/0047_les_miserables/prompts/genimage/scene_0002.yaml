@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1823, midday in restored France
+    location: Town center of Montreuil-sur-Mer, northern French industrial city
+    weather: Bright sunlight casting sharp shadows from monument
+  characters:
+  - appearance: Sculptor in middle age adjusting finishing touches on bronze statue, proud expression of artistic accomplishment
+    clothing: Workman's smock stained with bronze patina, leather apron, rolled sleeves revealing strong forearms
+    position: Standing on wooden scaffold beside towering statue
+    action: Polishing bronze surface with cloth, stepping back to admire proportions of idealized figure
+  - appearance: Well-dressed bourgeois citizens gathering to observe unveiling ceremony
+    clothing: Fine woolen coats, silk top hats, walking sticks, prosperous merchants displaying wealth through fashion
+    position: Assembled in semicircle around monument base
+    action: Pointing admiringly at statue details, discussing merits of artistic tribute to legitimate authority
+  scene:
+    mainElements: Massive bronze statue of royal figure on granite pedestal, draped French flags awaiting official unveiling,
+      construction scaffolding being removed by workers
+    details: Monument depicts idealized ruler in classical pose with scepter and crown, pedestal inscribed with Latin phrases
+      glorifying divine right monarchy. Decorative bronze reliefs showing scenes of prosperity under royal protection, fresh
+      flowers placed at statue base. Surrounding cobblestone plaza swept clean for ceremony
+    background: Prosperous town buildings with neat facades, factory smokestacks visible in distance showing industrial progress
+      under stable government, cathedral bells towers framing composition
+    atmosphere: Celebration of established order through permanent artistic statement, monument designed to inspire awe and
+      submission to legitimate authority
+  composition:
+    cameraAngle: Low angle emphasizing monument's imposing scale against sky
+    focus: Bronze statue dominating composition as symbol of eternal power
+    depth: Monument filling foreground, crowd of admirers in middle ground, town architecture suggesting prosperity in background
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

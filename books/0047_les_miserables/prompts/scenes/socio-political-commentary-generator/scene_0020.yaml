@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "System Violence - Brutal Suppression of Dissent"
+  setting:
+    time: "1832, dawn after political demonstration"
+    location: "Public square in Paris following overnight protest suppression"
+    weather: "Gray dawn light revealing aftermath of official violence"
+  characters:
+    - appearance: "Government troops in military formation, faces showing routine brutality of systematic oppression"
+      clothing: "Military uniforms with brass buttons and insignia, white cross-belts, tall shakos with feathers, weapons displayed as intimidation"
+      position: "Formed in disciplined ranks throughout square after suppressing dissent"
+      action: "Maintaining order through visible force, cleaning weapons used against civilians, preparing for continued occupation"
+    - appearance: "Injured citizen being arrested for political participation, clothing torn and bloodied from official violence"
+      clothing: "Working-class garments damaged by police action, torn coat revealing injuries from systematic brutality"
+      position: "Being dragged away by armed guards despite visible injuries"
+      action: "Struggling weakly against arrest while bleeding from head wounds inflicted for political expression"
+  scene:
+    mainElements: "Public square showing signs of violent suppression, overturned barriers, scattered papers from destroyed political materials"
+    details: "Bloodstains on cobblestones where demonstrators were beaten, torn banners with political slogans trampled in street. Broken furniture from improvised barricade, official notices posted warning against political assembly. Armed patrols continuing occupation to prevent renewed resistance"
+    background: "Government buildings overlooking square with officials observing successful suppression, smoke rising from burned political materials"
+    atmosphere: "State power maintaining control through systematic violence, official brutality as normal response to political dissent"
+  composition:
+    cameraAngle: "Ground level showing impact of systematic oppression on civilian population"
+    focus: "Official violence as tool of political control"
+    depth: "Immediate violence in foreground, military occupation in middle ground, controlling state apparatus in background using force to maintain power"

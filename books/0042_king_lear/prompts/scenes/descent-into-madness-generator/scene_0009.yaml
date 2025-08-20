@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Living Walls - Architecture Breathes"
+  setting:
+    time: "Ancient Britain, late afternoon"
+    location: "Narrow corridor in castle with low ceiling and close stone walls"
+    weather: "Dim light filtering through small windows"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Robes hanging loose, appearing smaller on his frame"
+      position: "Moving cautiously through narrow corridor, hand trailing along wall"
+      action: "Pressing palm against stone wall, pulling hand back as if wall felt warm or moved"
+  scene:
+    mainElements: "Narrow stone corridor with low arched ceiling, walls arm's length apart, series of small windows providing limited light"
+    details: "Stone walls that appear to expand and contract rhythmically like breathing lungs. Mortar between stones that seems to pulse with veins of darker color. Ceiling that appears to lower and raise in slow rhythm. Floor stones that seem to shift underfoot without actually moving. Whispered sounds that might be wind through cracks or might be voices"
+    background: "Corridor extending in both directions with perspective that seems to shift, making distances uncertain. Small windows showing sky that pulses between light and dark"
+    atmosphere: "Architecture taking on organic, living qualities. Building itself seems to have gained consciousness and respiratory function. Sense of being inside something alive that might close its throat at any moment"
+  composition:
+    cameraAngle: "Low angle emphasizing the oppressive closeness of walls and ceiling"
+    focus: "Lear's hand against wall showing his tactile experience of movement, his face reflecting confusion and fear"
+    depth: "Close walls in sharp focus showing textural details of stone, Lear in middle distance, corridor perspective stretching uncertainly"

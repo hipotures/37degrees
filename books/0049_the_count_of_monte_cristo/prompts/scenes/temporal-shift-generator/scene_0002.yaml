@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Marseilles Harbor - Return of the Avenger"
+  setting:
+    time: "1838, late afternoon"
+    location: "Mediterranean port of Marseilles in southern France, major commercial harbor with ancient maritime traditions"
+    weather: "Same brilliant Mediterranean sunshine, now casting longer shadows"
+  characters:
+    - appearance: "42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark hatred. Face elongated and hardened, features sharpened by determination"
+      clothing: "Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers. Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life and creates aura of mystery"
+      position: "Standing on deck of elegant private yacht, observing the familiar harbor with changed eyes"
+      action: "Gazing silently at the port where his young dreams died, hands clasped behind back in controlled stillness"
+  scene:
+    mainElements: "Same stone buildings with red tile roofs, but now showing 23 years of additional weathering, defensive walls of Fort Saint-Jean unchanged but with different crowds, Notre-Dame de la Garde church standing eternal, sleek modern yacht contrasting with working vessels"
+    details: "Ivy grown thicker on stone walls, some buildings renovated while others show decay, new gaslight installations beginning to appear, different generation of children playing where young Edmond once walked, seagulls still wheeling in same patterns"
+    background: "Marseilles preserved in its essential character but marked by time's passage, same terraced levels but with subtle architectural changes"
+    atmosphere: "Same maritime energy but now viewed through lens of loss and transformation. Sounds remain similar but carry weight of memory. Scents of salt and spices now trigger painful nostalgia rather than joy. Air heavy with irony of return, no text or letters visible"
+  composition:
+    cameraAngle: "Same medium shot from harbor level, but now looking at yacht instead of merchant vessel"
+    focus: "Count Monte Cristo's imposing figure, showing transformation from hopeful youth to mysterious avenger"
+    depth: "Foreground shows same water but different boats, middle ground features elegant yacht with Count prominent, background reveals familiar yet changed Marseilles skyscape"

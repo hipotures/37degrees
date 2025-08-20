@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Progress Stopping Without Opposition"
+  setting:
+    time: "11th century Scotland, several years after unopposed victory"
+    location: "Royal court where innovation has ceased due to lack of challenges"
+    weather: "Stagnant air in closed halls where fresh ideas no longer penetrate"
+  characters:
+    - appearance: "Man aged 20-25 years with youthful face initially expressing suspicion but gradually gaining royal confidence. Slender but carrying himself with increasing authority as rightful heir assumes power"
+      clothing: "Rich garments of young prince gradually transitioning to royal robes. Quality fabrics in royal colors showing legitimate claim to throne. Crown fits properly unlike usurper's uncomfortable regalia"
+      position: "Sits on comfortable throne surrounded by agreeable advisors"
+      action: "Presides over court where all voices echo his opinions, receiving no challenges that might spark innovation or growth"
+  scene:
+    mainElements: "Luxurious throne room where courtiers compete in flattery rather than wisdom. Golden decorations replace functional improvements, elaborate ceremonies consume time once spent solving problems. Royal court has become theater of comfort rather than center of governance"
+    details: "Advisors present only popular proposals that avoid controversy, maps show borders unchanged for years because expansion requires risk, libraries contain only pleasant histories ignoring uncomfortable lessons. Artisans create beauty without purpose while engineers abandon projects requiring struggle"
+    background: "Kingdom shows signs of subtle decline: roads not maintained because travel is easy, defenses not updated because threats seem distant, schools teach only pleasant subjects because harsh realities disturb peace. Citizens become consumers rather than creators"
+    atmosphere: "Troubling recognition that comfort breeds stagnation, agreement prevents growth, security without challenge leads to weakness. The former opposition, however brutal, forced constant improvement and adaptation. Without pressure to evolve, society begins quiet decay disguised as golden age"
+  composition:
+    cameraAngle: "Elevated view showing how lack of opposition creates isolation from reality"
+    focus: "Moment when ruler recognizes that unchallenged power leads to decline"
+    depth: "Foreground shows luxurious but stagnant court life, middle ground reveals lack of meaningful progress, background suggests wider society's gradual weakening"

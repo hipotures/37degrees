@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, deep night
+    location: Garden behind Karamazov family house, dark outdoor space with fence and vegetation
+    weather: Cold dark night with wind moving through trees
+  characters:
+  - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face
+      capable of rapid changes from rage to passion to despair
+    clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle
+      and financial problems, occasionally blood-stained shirt
+    position: Climbing fence into garden, later fleeing across dark grounds
+    action: Searching desperately for Gruszeńka, attacking old servant who tries to stop him
+  scene:
+    mainElements: Dark garden with fence, scattered trees and bushes, house windows glowing dimly, wooden fence providing
+      escape route
+    details: Moonlight casting shifting shadows through moving vegetation, wind creating ominous sounds, garden paths dark
+      and treacherous, fence posts stark against night sky
+    background: House looming dark and threatening, servants' quarters separated by courtyard, surrounding darkness offering
+      both concealment and danger
+    atmosphere: Desperate violence erupting in darkness, primitive emotions unleashed in natural setting, approaching climax
+      of family destruction
+  composition:
+    cameraAngle: Low dramatic angles emphasizing violence and desperation in dark setting
+    focus: Dymitr's face showing murderous desperation as violence erupts
+    depth: Foreground shows violent confrontation, middle ground captures dark garden setting, background shows house witnessing
+      family destruction
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

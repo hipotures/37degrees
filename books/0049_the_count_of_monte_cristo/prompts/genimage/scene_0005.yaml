@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1815 through 1838, temporal sequence
+    location: Multiple locations showing letter's path through time
+    weather: Various lighting conditions showing passage through different moments
+  characters:
+  - appearance: 19-year-old sailor, tall and slender build, athletic physique from life at sea. Black hair like raven's wing,
+      naturally tousled by sea wind. Deep black eyes, round and open face with tanned, weathered complexion from sun exposure
+    clothing: Simple white linen shirt open at the collar, dark wool or linen sailor's trousers, short fitted jacket. White
+      and blue striped marinière shirt (sailor's traditional garment). Clean but showing traces of salt and sea work
+    position: Accepting letter from dying captain's hands
+    action: Young Edmond receiving the Napoleonic correspondence that will destroy his life
+  scene:
+    mainElements: Simple folded sheet of paper containing Bonapartist correspondence from Elba to Noirtier de Villefort in
+      Paris. Appears innocent but contains political dynamite during Bourbon Restoration period. Instrument of Dantès' downfall
+    details: Letter transforming through time - crisp and new in captain's dying hands, handled carefully by trusting Edmond,
+      examined suspiciously by Danglars, delivered to authorities, burned to ash in Villefort's fireplace, replaced by Count's
+      correspondence revealing truth decades later
+    background: Ship's cabin dissolving into prosecutor's office dissolving into Count's study, showing how single document
+      shapes multiple destinies across decades
+    atmosphere: Innocent piece of paper carrying the weight of political upheaval and personal destruction. Each temporal
+      layer shows how trust transforms to betrayal to ultimate justice. Paper aging from white to yellowed to ash to renewal,
+      no text or letters visible
+  composition:
+    cameraAngle: Extreme close-up following the letter through different hands across time
+    focus: The letter itself as protagonist, showing how objects carry history and determine fate
+    depth: Foreground shows document in various states, middle ground captures different hands holding it, background reveals
+      changing historical contexts
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

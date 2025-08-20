@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Distant View of the Ancient Mediterranean World"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, golden hour at sunset"
+    location: "Aerial perspective over the eastern Mediterranean Sea showing scattered Greek islands and mainland coastlines"
+    weather: "Clear skies with gentle warm light illuminating the ancient seascape"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Vast expanse of deep blue Mediterranean waters dotted with rocky islands, distant mountains of mainland Greece rising from misty horizons, pristine coastlines with small settlements visible as tiny clusters of stone buildings, ancient sailing vessels as distant specks on the water"
+    details: "Rocky limestone cliffs rising from azure waters, olive groves covering hillsides in silvery-green patches, small harbors carved into natural coves with primitive stone quays, thin columns of smoke rising from scattered Bronze Age settlements, pristine beaches of white sand and pebbles, ancient forests covering mountainous interiors"
+    background: "Mountainous mainland territories stretching to far horizons, multiple island chains forming natural stepping stones across the sea, clear atmosphere revealing the scale and isolation of individual island kingdoms"
+    atmosphere: "Sense of vast distances and ancient isolation, peaceful maritime world where each island exists as its own realm, timeless quality of unchanging sea and stone, feeling of epic journeys waiting to unfold across these waters"
+  composition:
+    cameraAngle: "High aerial perspective looking down from great height"
+    focus: "Central focus on cluster of Greek islands surrounded by endless Mediterranean waters"
+    depth: "Foreground: immediate islands and coastlines, middle ground: scattered neighboring islands, background: distant mainland mountains fading into atmospheric haze"

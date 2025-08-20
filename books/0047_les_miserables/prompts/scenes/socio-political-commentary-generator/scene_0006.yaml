@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Eyes Everywhere - Police Surveillance Network"
+  setting:
+    time: "1823, evening in restored Paris"
+    location: "Narrow street corner in working-class district under police observation"
+    weather: "Damp evening with fog creating shadows between gas lamps"
+  characters:
+    - appearance: "Police inspector in regulation uniform, tall figure with stern expression and watchful eyes scanning surroundings"
+      clothing: "Dark blue police coat with brass buttons, official cap with badge, black leather gloves, polished boots clicking on cobblestones"
+      position: "Standing at strategic corner position observing pedestrian movement"
+      action: "Making notes in official logbook, studying faces of passing citizens, positioning himself for maximum surveillance coverage"
+    - appearance: "Ordinary citizens hurrying past with downcast eyes, avoiding contact with authority"
+      clothing: "Working-class garments of rough cloth, worn coats and shawls, practical shoes showing signs of long wear"
+      position: "Moving quickly along street keeping to shadows"
+      action: "Glancing nervously at police presence, quickening pace, whispering conversations cut short when approaching authority"
+  scene:
+    mainElements: "Gas lamp creating circle of yellow light on wet cobblestones, official police notice board mounted on wall, iron grates over windows suggesting fortification"
+    details: "Posted regulations warning against assembly and political discussion, police whistle hanging from inspector's chain ready for immediate use. Street signs numbered for official identification, small mirrors positioned to eliminate blind corners for surveillance. Wet pavement reflecting lamp light creates atmosphere of constant observation"
+    background: "Narrow buildings pressing close together creating canyon effect, windows mostly shuttered suggesting inhabitants avoiding visibility"
+    atmosphere: "Oppressive sense of constant monitoring, official presence casting psychological weight over ordinary activities, fear disguised as respectful distance"
+  composition:
+    cameraAngle: "Street level showing confrontation between authority and citizen"
+    focus: "Police figure as embodiment of state surveillance system"
+    depth: "Authority figure dominating foreground, nervous pedestrians in middle ground, enclosed urban environment suggesting trapped population in background"

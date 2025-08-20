@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hamlet's Solitude - The Empty Chair"
+  setting:
+    time: "Late 1590s, night"
+    location: "Hamlet's private chamber in Elsinore Castle, sparsely furnished room"
+    weather: ""
+  characters:
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Sitting alone at small table, staring at empty chair across from him"
+      action: "Running hands through disheveled hair, processing the weight of his missed opportunity for justice"
+  scene:
+    mainElements: "Simple wooden table with two chairs, single candle burning low, sparse furnishings befitting prince's melancholy"
+    details: "The empty chair across from Hamlet symbolizes missed connection - with father, with action, with resolution. His solitary processing of events reveals the cost of his philosophical nature. The single candle emphasizes his isolation in the vast castle."
+    background: "Plain chamber walls, minimal decoration, emphasizing psychological rather than material concerns"
+    atmosphere: "Profound loneliness after moral crisis, self-doubt and regret, weight of inaction"
+  composition:
+    cameraAngle: "Medium shot across table focusing on Hamlet and symbolic empty chair"
+    focus: "Empty chair representing missed opportunities and lost connections"
+    depth: "Foreground shows Hamlet's contemplative figure, middle shows table divide, background shows empty chair"

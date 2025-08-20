@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Servant's Invisible Observer Perspective"
+  setting:
+    time: "July 1865, unnoticed service hour"
+    location: "Government office building in St. Petersburg, bureaucratic interior reflecting Russian imperial administration"
+    weather: "Stuffy indoor air reflecting social hierarchy and oppression"
+  characters:
+    - appearance: "Middle-aged servant woman, thin from hard labor, prematurely aged from service, invisible to her social superiors, keen observant eyes"
+      clothing: "Simple servant's dress, dark colors to remain unnoticed, worn but clean, practical shoes for long hours standing"
+      position: "Standing quietly in corner attending to duties while observing interrogation"
+      action: "Cleaning and serving while secretly watching psychological battle between investigator and suspect"
+    - appearance: "Thirty-five years old, short and plump man with a small belly, yellowish sickly complexion, short-cropped hair, almost white eyelashes, round puffy face with intelligent watery eyes that constantly blink as if conspiratorially"
+      clothing: "Clean and well-maintained clothing appropriate for a government official, possibly wearing a dressing gown when at home"
+      position: "Conducting interrogation with theatrical gestures"
+      action: "Playing psychological games while completely ignoring servant's presence"
+    - appearance: "Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow during illness"
+      clothing: "Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly groomed appearance"
+      position: "Seated tensely being interrogated"
+      action: "Struggling with guilt and fear while unaware of servant's observation"
+  scene:
+    mainElements: "Official desks with papers and documents, chairs for visitors, yellow glass with yellow water symbolizing institutional corruption, formal governmental atmosphere with portraits and official decorations"
+    details: "From servant's invisible perspective, she observes psychological warfare between classes - educated men playing deadly games while she remains unnoticed. She sees Porfiry's theatrical cruelty, Raskolnikov's barely concealed panic, official corruption in yellow-tinted details. Her practical eye notices bloodstains on student's cufflinks, nervous tremor in his hands, investigator's calculated sadism"
+    background: "Government office revealing social hierarchy where servants are furniture, educated classes pursue abstract justice while ignoring real human suffering around them"
+    atmosphere: "Class-conscious observation from society's margins, witnessing elite psychological games while remaining invisible despite being most perceptive observer"
+  composition:
+    cameraAngle: "Servant's overlooked corner perspective, observing power dynamics from position of social invisibility"
+    focus: "Psychological battle between investigator and suspect viewed by most perceptive but least acknowledged witness"
+    depth: "Foreground shows servant's hidden but observant presence, middle ground captures interrogation theater, background reveals institutional corruption and class hierarchy, no text or letters visible"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1825, morning during routine patrol
+    location: Bridge checkpoint entering Paris, control point for movement between districts
+    weather: Gray morning with thin sunlight filtered through urban haze
+  characters:
+  - appearance: Guards in official uniforms manning checkpoint station, faces showing bored routine of constant control
+    clothing: Military-style uniforms with brass buttons and insignia, white cross-belts, tall shakos with plumes, weapons
+      carried as visible symbols of force
+    position: Stationed at barrier controlling bridge access
+    action: Examining identity papers, questioning travelers about business and destination, maintaining systematic control
+      of population movement
+  - appearance: Citizens queued for permission to pass, expressions mixing compliance with suppressed resentment
+    clothing: Mix of working-class and bourgeois dress, papers clutched in hands, respectful but stiff posture before authority
+    position: Forming orderly line approaching checkpoint barrier
+    action: Waiting patiently for inspection, producing required documents, answering official questions with careful deference
+  scene:
+    mainElements: Wooden barrier painted with official stripes blocking bridge access, guard hut with government emblems,
+      stack of official registers for recording passage
+    details: Posted lists of restricted individuals and suspicious activities, official seal stamps for approving documents,
+      bell for summoning additional guards if needed. Checkpoint equipped with detention bench for holding suspicious persons,
+      weapons rack visible inside guard station
+    background: Stone bridge spanning river with Paris visible beyond, church spires and government buildings suggesting destination
+      worth controlling access to
+    atmosphere: Bureaucratic machinery of population control operating through routine intimidation, ordinary movement requiring
+      official permission and surveillance
+  composition:
+    cameraAngle: Mid-level showing interaction between controlling authority and controlled population
+    focus: Checkpoint barrier as physical symbol of restricted freedom
+    depth: Control apparatus in foreground, queue of citizens in middle ground, city beyond suggesting freedoms requiring
+      official permission in background
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

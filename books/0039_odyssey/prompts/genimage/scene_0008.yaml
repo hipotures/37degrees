@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, golden hour before sunset
+    location: Pristine Mediterranean hillside showing native ecosystem undisturbed by modern development
+    weather: Warm evening with gentle breeze moving through vegetation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient olive groves with gnarled silver-barked trees, wild grape vines climbing stone terraces, aromatic
+      herbs including thyme and oregano covering hillsides, holm oak forests in mountain valleys, Mediterranean pine trees
+      with distinctive umbrella canopies
+    details: Wild olive trees with twisted trunks and silvery leaves shimmering in evening light, limestone terraces supporting
+      grape vines heavy with dark purple clusters, patches of lavender and rosemary releasing fragrant oils, fig trees with
+      broad leaves and ripening fruit, cypress trees standing like dark sentinels along ridgelines, oleander bushes with pink
+      and white flowers beside seasonal streams, wild boar tracks in soft earth, deer paths winding through oak undergrowth,
+      eagles circling overhead against clear sky
+    background: Rolling hills covered in Mediterranean maquis vegetation, distant mountains with forest-covered slopes, glimpses
+      of blue sea through valley openings, ancient stone formations weathered by millennia
+    atmosphere: Timeless Mediterranean landscape unchanged since Bronze Age, aromatic scents of wild herbs and flowering plants,
+      peaceful evening sounds of cicadas and birds, sense of pristine natural world supporting ancient civilizations
+  composition:
+    cameraAngle: Panoramic view across hillside showing diverse Mediterranean vegetation
+    focus: Central olive grove with characteristic ancient trees as focal point
+    depth: 'Foreground: detailed vegetation and flowering plants, middle ground: olive groves and terraced slopes, background:
+      mountain ridges and distant sea'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

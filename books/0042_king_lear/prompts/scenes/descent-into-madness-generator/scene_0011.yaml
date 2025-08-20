@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Corridors of Confusion - Impossible Architecture"
+  setting:
+    time: "Ancient Britain, night"
+    location: "Castle corridors that defy logical architectural layout"
+    weather: "Storm beginning outside with occasional lightning illuminating windows"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Robes torn and stained, no longer fitting properly"
+      position: "Walking through corridor, repeatedly turning corners"
+      action: "Continuing forward but arriving back at same starting point despite walking straight"
+    - appearance: "Ageless figure, could be young boy or old man. Small, delicate, almost androgynous build. Pale face with intelligent but melancholy eyes"
+      clothing: "Traditional motley costume with diamond patterns, or modern interpretation using tattered clothes resembling vagrant's rags, always with fool's cap with bells"
+      position: "Sometimes ahead of Lear, sometimes behind, appearing in impossible locations"
+      action: "Offering cryptic guidance that leads nowhere, bells jingling in patterns that make no sense"
+  scene:
+    mainElements: "Stone corridors that curve back on themselves, doorways that open to the same room from different angles, staircases that lead up but arrive at lower levels"
+    details: "Identical torch sconces repeating in patterns that suggest infinite loops. Doorways that show different rooms when approached from left versus right. Windows that show interior rooms instead of exterior views. Staircases where ascending steps somehow lead downward to familiar locations"
+    background: "Architecture following dream logic rather than physics, spaces connected in impossible ways, lightning through windows illuminating scenes that shouldn't exist"
+    atmosphere: "Physical space has become labyrinth of the mind, architecture conforming to psychological rather than structural laws. Navigation by intention rather than direction no longer possible"
+  composition:
+    cameraAngle: "Tracking shots that emphasize the looping, recursive nature of the architecture"
+    focus: "Repeated architectural elements showing impossible spatial relationships"
+    depth: "Foreground showing immediate path, middle ground revealing familiar elements in wrong places, background suggesting infinite recursion"

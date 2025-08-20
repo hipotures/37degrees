@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, deep night by oil lamp light
+    location: royal residence within Troy citadel, largest building complex with multiple courtyards and halls
+    weather: Still night air heavy with incense and sorrow
+  characters:
+  - appearance: 70-year-old king of Troy, stooped with age but retaining dignity, long white hair and beard, face deeply lined
+      with sorrow and years of rule
+    clothing: flowing royal robes of deep purple and gold, golden circlet crown, relies on carved wooden staff for support
+    position: medium shot showing from waist up, seated on throne with shoulders bowed
+    action: holding small clay figurine of his son while tears flow down weathered cheeks
+  scene:
+    mainElements: Medium shot capturing aged king's private anguish, royal authority undermined by father's grief
+    details: Trembling hands holding child's toy, tears reflecting oil lamp flame, white beard stained with salt, golden circlet
+      askew, purple robes rumpled from sleepless nights, carved throne arms worn smooth by generations, bronze brazier casting
+      flickering shadows, no text or letters visible
+    background: formal royal setting with echoing stone chambers, scent of incense and oil lamps, sounds of court activity
+      and royal business
+    atmosphere: Private human suffering behind public dignity, royal power helpless against personal loss, father's love transcending
+      kingship
+  composition:
+    cameraAngle: Medium shot at eye level showing vulnerability within royal setting
+    focus: Hands holding figurine and tear-streaked face showing private humanity
+    depth: 'Foreground: throne details and royal regalia, middle: grief-stricken figure, background: palace chambers suggesting
+      isolation'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Human Machinery - Workers as Industrial Components"
+  setting:
+    time: "1823, dawn shift beginning at factory"
+    location: "Textile manufacturing floor in Montreuil-sur-Mer industrial complex"
+    weather: "Interior scene with artificial lighting from oil lamps"
+  characters:
+    - appearance: "Factory workers with expressionless faces, physical exhaustion evident in posture and movements"
+      clothing: "Identical rough cotton work uniforms already stained with machine oil and textile fibers, hair covered by regulation caps"
+      position: "Standing at assigned positions along endless rows of mechanical looms"
+      action: "Moving in synchronized rhythm with machinery, hands performing repetitive motions without conscious thought, faces blank from mental numbing"
+    - appearance: "Factory supervisor with stop-watch timing worker productivity, cold calculation in expression"
+      clothing: "Better quality dark suit distinguishing him from laborers, pocket watch chain visible, leather shoes elevated above factory floor dirt"
+      position: "Walking between machine rows observing worker performance"
+      action: "Recording production rates in logbook, making efficiency calculations, treating human labor as measurable commodity"
+  scene:
+    mainElements: "Endless rows of mechanical looms with workers positioned like components in larger machine, steam-powered mechanisms controlling human rhythm"
+    details: "Workers' movements perfectly synchronized with machine timing, individual identity lost in collective mechanical function. Oil lamps creating harsh shadows between machinery, floor covered with textile waste and metal shavings. Clock prominently displayed showing shift time remaining, efficiency charts posted on walls measuring human output"
+    background: "Mechanical apparatus extending beyond visible frame, steam pipes and drive belts connecting human workers into larger industrial system"
+    atmosphere: "Dehumanization through industrial process, workers reduced to interchangeable parts in profit-generating mechanism"
+  composition:
+    cameraAngle: "Wide industrial view showing repetitive human elements in mechanical environment"
+    focus: "Repetitive pattern of human figures integrated into machinery"
+    depth: "Worker-machine units in foreground, supervisory authority in middle ground, endless industrial apparatus in background suggesting systematic dehumanization"

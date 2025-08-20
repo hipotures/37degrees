@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Cosmic Perspective - Human Time vs Eternal Time"
+  setting:
+    time: "Cosmic time scale from ancient past to distant future"
+    location: "Monte Cristo island viewed from cosmic perspective showing geological time"
+    weather: "Celestial lighting showing stars wheeling across centuries"
+  characters:
+    - appearance: "42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark hatred. Face elongated and hardened, features sharpened by determination"
+      clothing: "Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers. Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life and creates aura of mystery"
+      position: "Standing on Monte Cristo cliff, tiny figure against cosmic backdrop"
+      action: "Count contemplating his revenge schemes against backdrop of geological and cosmic time"
+    - appearance: "19-20 years old with purely Greek beauty. Large dark melting eyes, perfectly shaped nose, coral lips and pearl-white teeth. Slender and graceful figure embodying classical Mediterranean elegance"
+      clothing: "Magnificent exotic Oriental costumes - small golden cap embroidered with pearls, shimmering silk robes with fringes and delicate decorations, curved-toe slippers. Rich fabrics and intricate Eastern designs"
+      position: "Standing beside him, equally small against infinite backdrop"
+      action: "Haydée representing love and redemption in context of eternal time"
+  scene:
+    mainElements: "Wild, uninhabited island in Mediterranean Sea, rocky and mountainous. Granite formations resembling stacked cannonballs, dense Mediterranean scrub vegetation (myrtle, heather), showing geological formation across millions of years"
+    details: "Rock formations showing stratified layers of deep time, vegetation cycles compressed into moments, sea levels rising and falling across geological epochs, island itself forming and eroding in cosmic timeline"
+    background: "Stars wheeling across sky showing celestial mechanics, Mediterranean forming and changing across geological time, civilizations rising and falling like waves against eternal shore"
+    atmosphere: "Human drama of revenge and redemption shown against backdrop of cosmic indifference and geological patience. Sounds of wind and waves spanning millennia, human heartbeats brief but precious against eternal silence, ultimate perspective offering both humility and hope, no text or letters visible"
+  composition:
+    cameraAngle: "Extreme wide shot showing tiny human figures against cosmic and geological immensity"
+    focus: "Human love and forgiveness as precious and meaningful despite cosmic scale"
+    depth: "Foreground shows immediate human connection, middle ground captures island geological formation, background reveals infinite cosmos and stellar time"

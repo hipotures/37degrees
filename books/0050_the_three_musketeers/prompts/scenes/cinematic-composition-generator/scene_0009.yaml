@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Aramis Studies Theological Writings"
+  setting:
+    time: "1625, late afternoon"
+    location: "Hotel de Tréville courtyard in Paris, official residence and headquarters of King's Musketeers"
+    weather: "golden afternoon light through windows"
+  characters:
+    - appearance: "late 20s elegant man with refined features, neat appearance, mysterious smile"
+      clothing: "pristine blue musketeer coat worn with understated elegance, white collar with subtle religious medal, polished leather gloves"
+      position: "seated at table from waist up, leaning over documents"
+      action: "writing theological notes with scholarly concentration"
+  scene:
+    mainElements: "medium shot showing scholarly posture and intellectual pursuits contrasting with military setting"
+    details: "elegant hands holding quill pen with practiced grace, theological papers spread across table, religious medal catching afternoon light, refined facial features showing intellectual concentration, pristine uniform indicating careful attention to appearance"
+    background: "military courtyard visible through window but softly focused, emphasizing contrast between warrior and scholar"
+    atmosphere: "contemplative scholarly mood within martial environment, warm afternoon light creating peaceful study atmosphere"
+  composition:
+    cameraAngle: "medium shot from slight angle showing both writing activity and thoughtful expression"
+    focus: "hands, papers, and facial expression sharp against softer background"
+    depth: "writing materials in foreground, figure in middle ground, courtyard view blurred in background, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Molding Minds - Indoctrination Through Education"
+  setting:
+    time: "1830, evening political education session"
+    location: "Public lecture hall in Paris, compulsory attendance for citizens"
+    weather: "Interior scene with oil lamps creating dramatic shadows"
+  characters:
+    - appearance: "Government lecturer with commanding presence delivering official ideology to captive audience"
+      clothing: "Formal black coat with official insignia, white shirt with high collar, polished shoes reflecting lamp light"
+      position: "Standing at raised podium before large audience"
+      action: "Speaking with theatrical gestures about duty to state, reading from official texts, demanding audience participation in loyalty demonstrations"
+    - appearance: "Citizens seated in mandatory attendance, expressions mixing apparent agreement with hidden resistance"
+      clothing: "Mix of working-class and bourgeois attire, required attendance badges pinned to clothing, posture showing enforced compliance"
+      position: "Filling rows of wooden benches facing indoctrination platform"
+      action: "Listening to official ideology with outward attention, responding to loyalty calls with practiced timing, some exchanging secret glances of dissent"
+  scene:
+    mainElements: "Raised speaking platform with official decorations, large portrait of authority figure overlooking assembly, government banners displaying approved slogans"
+    details: "Required attendance registers being checked at entrance, official literature distributed for compulsory reading. Platform equipped with bell for demanding attention, guards stationed at exits to prevent early departure. Lamp light creating theatrical atmosphere enhancing persuasive presentation"
+    background: "Hall windows covered to prevent outside distraction, walls decorated with official portraits and approved historical scenes"
+    atmosphere: "Systematic attempt to reshape public consciousness through forced ideological exposure, psychological pressure applied through group dynamics"
+  composition:
+    cameraAngle: "Audience view showing relationship between indoctrinating authority and receiving population"
+    focus: "Lecturer as agent of ideological control addressing captive minds"
+    depth: "Commanding speaker in foreground, compliant audience in middle ground, controlling official imagery in background designed to reinforce message"

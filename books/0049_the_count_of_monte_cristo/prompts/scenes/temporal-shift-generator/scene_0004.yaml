@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hands of Justice - From Betrayal to Power"
+  setting:
+    time: "1815 dissolving into 1838, multiple time layers"
+    location: "Classical hôtel particulier in aristocratic district of Paris with courtyard and garden"
+    weather: "Indoor scene with filtered natural light"
+  characters:
+    - appearance: "27 years old, handsome man with regular features but severe, dry expression. Face shows intelligence and ambition. When his father is mentioned, deep blush crosses his features revealing inner conflict"
+      clothing: "Austere black clothing of royal prosecutor - black frock coat, trousers, waistcoat, white shirt and cravat. In court, black judicial robe with appropriate insignia of his office"
+      position: "Seated at mahogany desk, holding letter over candle flame"
+      action: "Young Villefort destroying evidence of Dantès' innocence to protect his career"
+    - appearance: "Man in his 50s, features hardened by years of hiding secrets. Face has become cold, impenetrable mask marked by stress and guilt. Eyes show growing strain of maintaining his facade"
+      clothing: "Same austere black attire but now representing fallen authority - judicial robes that become symbols of corrupted justice, clothing in increasing disarray as his world collapses"
+      position: "Same desk position but now as ghostly overlay, hands trembling with different documents"
+      action: "Mature Villefort's hands now shaking as justice finally catches him, papers scattered in desperation"
+  scene:
+    mainElements: "Austere architecture reflecting owner's character, prosecutor's study filled with legal documents, Valentine's bedroom, family tomb. Heavy dark wood furniture, marble surfaces, formal gardens"
+    details: "Same mahogany desk showing wear from decades of use, law books accumulated over years, candle holder showing wax drippings from countless late nights, inkwell deeper with permanent stains, same letter opener but now tarnished"
+    background: "Study walls lined with legal codes that represent both young ambition and mature corruption, window showing garden where time moves in seasons"
+    atmosphere: "Rigid formality masking hidden tensions that build across decades. Sounds muffled by heavy carpets and drapes remain constant, but shadows deepen with guilt. Air of justice corrupted by time and compromise, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on hands performing parallel actions across time"
+    focus: "Hands as instruments of both young ambition and mature consequence, showing how same actions echo through decades"
+    depth: "Foreground shows desk surface and hands in action, middle ground captures temporal figures overlapping, background reveals unchanging study architecture"

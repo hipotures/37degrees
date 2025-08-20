@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, night before decisive battle
+    location: Enemy commander's tent where moral heroes plan questionable tactics
+    weather: Still night air heavy with approaching storm, tension building
+  characters:
+  - appearance: Man aged 35-45 years, powerfully built warrior similar to Macbeth but with more contemplative expression.
+      Noble face reflecting cautious and reflective character. Dark hair and beard. As ghost appears pale and blood-matted
+      with accusatory empty stare.
+    clothing: Dressed as high-ranking thane similar to early Macbeth - practical warrior garb in dark colors with woolen cloak.
+      As ghost, same clothing but spectral and bloodstained.
+    position: Leads council of war discussing methods they previously condemned
+    action: Authorizes targeting of civilian supporters and use of terror tactics against population that enables tyrant's
+      rule
+  scene:
+    mainElements: Strategic planning session where righteous leaders adopt brutal methods they once despised. Maps mark civilian
+      targets essential to enemy's supply chain. Holy men bless weapons intended for innocent blood. Messages authorize assassination
+      of non-combatants who aid corrupt regime
+    details: Documents detail plans to poison grain supplies, burn villages providing tax revenue, and execute families of
+      enemy supporters. Righteous warriors volunteer for missions requiring them to kill children who might grow up seeking
+      vengeance. Priests modify traditional blessing to sanctify necessary cruelties
+    background: Enemy fortress glows in distance, defended by population caught between competing forces both claiming moral
+      authority. Supply lines snake through countryside where innocent farmers face death for feeding either army. Villages
+      burn as liberation army uses tyrant's own methods for righteous cause
+    atmosphere: Moral certainty erodes as necessary victory requires identical methods to those condemned in enemy. Heroes
+      discover their righteousness depends on perspective rather than actions. War reveals how survival makes villains of
+      all participants when stakes become absolute
+  composition:
+    cameraAngle: Low angle emphasizing how heroes must look down to darker methods
+    focus: Moment when righteous cause requires unrighteous means, blurring moral distinctions
+    depth: Foreground shows detailed planning of atrocities, middle ground reveals conflicted commanders, background suggests
+      civilian cost both sides accept
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

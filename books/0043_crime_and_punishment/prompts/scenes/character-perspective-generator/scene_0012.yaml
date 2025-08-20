@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Child's Magical View of Sonia's Sacred Space"
+  setting:
+    time: "July 1865, wonder-filled evening visit"
+    location: "Barn-like room with bizarre geometry in old three-story green house overlooking canal in St. Petersburg, July 1865"
+    weather: "Soft evening light creating enchanted atmosphere"
+  characters:
+    - appearance: "Small child around seven years old, thin from poor nutrition, wide curious eyes, simple clothes showing poverty but maintained with care"
+      clothing: "Clean but patched children's clothing, small shoes worn but polished"
+      position: "Standing in doorway looking with wonder at magical interior"
+      action: "Gazing with innocent amazement at room that seems to glow with mysterious light and kindness"
+    - appearance: "Eighteen-year-old girl, small and thin build, fair blonde hair, gentle blue eyes that reflect purity despite her circumstances, youthful face marked by suffering and humility"
+      clothing: "Simple, modest, poor but clean clothing that reveals her true nature"
+      position: "Moving gently around room with angel-like grace"
+      action: "Performing simple tasks with such kindness that she appears to glow with inner light"
+  scene:
+    mainElements: "Large but very low-ceilinged space forming irregular quadrilateral, one wall runs diagonally creating sharp acute angle disappearing into darkness and obtuse angle grotesquely wide, three windows facing canal, sparse furniture including bed, chair, simple pine table with blue cloth, small dresser lost in emptiness"
+    details: "From child's innocent perspective, the room's strange angles become magical architecture like fairy tale castle, shadows hide friendly spirits rather than dangers, sparse furniture appears perfectly arranged for enchanted living. Sonia moves like fairy godmother, her simple gestures creating atmosphere of safety and wonder, candlelight transforming humble surroundings into glowing sanctuary"
+    background: "Canal waters sparkling like jewels through three magical windows, bizarre room geometry appearing as fairy tale architecture rather than grotesque distortion"
+    atmosphere: "Complete transformation of adult world's harsh realities into magical realm where good spirits dwell and kindness creates actual visible light around pure souls"
+  composition:
+    cameraAngle: "Child's eye level showing wonder and enchantment at discovering magical sanctuary in harsh world"
+    focus: "Sonia appearing as glowing angel figure moving gracefully through enchanted space"
+    depth: "Foreground shows child's wonder-struck face, middle ground captures Sonia's luminous presence, background reveals magical architecture of irregular walls, no text or letters visible"

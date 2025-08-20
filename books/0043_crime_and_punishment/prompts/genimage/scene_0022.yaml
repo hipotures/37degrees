@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: July 1865, community reflection gathering
+    location: Streets and squares of St. Petersburg during oppressive July heat wave, 1865
+    weather: Heat creating communal gathering atmosphere as people seek shade and company
+  characters:
+  - appearance: Neighborhood residents who knew the murdered pawnbroker - various ages and social positions, unified by shared
+      local knowledge
+    clothing: Working class and lower middle class attire, showing modest but respectable dress
+    position: Gathered in small groups discussing and remembering the deceased
+    action: Sharing memories and forming collective judgment about victim's character and killer's motives
+  scene:
+    mainElements: Suffocating heat creating visible air distortion, dust from constant construction covering everything with
+      lime scaffolding and debris, crowded sidewalks packed with sweaty masses, numerous taverns with characteristic Petersburg
+      stench from canals cheap alcohol and human sweat
+    details: From crowd's collective memory perspective, the pawnbroker becomes complex figure - some remember her as heartless
+      usurer who exploited poverty, others recall her as defenseless old woman providing necessary services. Community consciousness
+      reveals how victim's reputation affects perception of crime - was this justice against exploiter or brutal murder of
+      vulnerable elder?
+    background: Neighborhood environment where collective memory shapes moral interpretation of crime and punishment
+    atmosphere: Community processing of violent event through shared memories and collective judgment, revealing how social
+      context influences moral interpretation of individual actions
+  composition:
+    cameraAngle: Community-level perspective showing how collective memory shapes understanding of crime and its moral meaning
+    focus: Neighborhood residents forming collective judgment about victim's character and crime's moral significance
+    depth: Foreground shows community members sharing memories, middle ground captures collective discussion process, background
+      reveals neighborhood context shaping moral interpretation, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sounds of Discord - The Clock's Relentless Tick"
+  setting:
+    time: "Ancient Britain, late evening"
+    location: "Lear's sleeping chamber, stone room with heavy wooden furnishings"
+    weather: "Clear but cold night with stars visible through single window"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Simple nightrobe over linen undergarments"
+      position: "Sitting on edge of bed, unable to lie down and rest"
+      action: "Listening intently to sounds that seem abnormally loud, occasionally turning head sharply toward different corners of room"
+  scene:
+    mainElements: "Stone sleeping chamber with heavy wooden bed frame, single chair, small table with water basin, narrow window with wooden shutters"
+    details: "Water dripping slowly from basin into metal container below, each drop echoing with unusual resonance. Wooden clock mechanism ticking with mechanical precision that seems unnaturally loud. Fabric of bed curtains rustling without apparent cause. Single candle flame dancing erratically, casting shadows that appear to move independently of flame's motion"
+    background: "Stone walls with simple tapestry, wooden chest for clothing, cold fireplace with dead ashes"
+    atmosphere: "Hyperawareness of ordinary sounds that seem magnified and threatening. Each small noise - drip, tick, rustle - feels amplified beyond normal perception. Silence between sounds becomes oppressive, making next sound startle"
+  composition:
+    cameraAngle: "Close-up shots alternating between Lear's increasingly anxious face and source of each sound"
+    focus: "Extreme detail on dripping water, clock mechanism, rustling fabric - ordinary objects become menacing through intense scrutiny"
+    depth: "Sharp focus on immediate objects creating sounds, Lear's face, room fading into darker background shadows"

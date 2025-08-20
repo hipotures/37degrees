@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1482, storm season, heavy rainfall
+    location: Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals
+    weather: Intense downpour with driving rain and dark storm clouds
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight,
+      architectural symphony in stone enduring weather extremes
+    details: Torrential rain streams down cathedral facade creating waterfalls from gargoyle mouths, stone darkened by saturation
+      appears almost black, plaza becomes network of rushing streams and growing puddles, rain bounces dramatically off stone
+      surfaces
+    background: Medieval Paris struggles under heavy rainfall with flooded streets and overflowing gutters, city takes on
+      dark dramatic appearance under storm clouds
+    atmosphere: Nature at its most dramatic confronting human architecture, cathedral enduring elemental forces as it has
+      for centuries, power and persistence of both natural and built environments
+  composition:
+    cameraAngle: Dynamic view emphasizing dramatic rain effects on cathedral
+    focus: Spectacular water effects with rain streaming from gargoyles and stone surfaces
+    depth: Foreground shows rain patterns on plaza, middle ground features water-darkened facade, background displays storm
+      clouds
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

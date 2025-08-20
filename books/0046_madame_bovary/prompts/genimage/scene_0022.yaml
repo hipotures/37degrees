@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1840s evening, during Emma's childhood memory flashback
+    location: Memory of childhood bedroom at Les Bertaux farm, warm maternal space
+    weather: Gentle evening atmosphere, warm and protective indoor environment
+  characters:
+  - appearance: Mother figure from memory - warm, comforting presence
+    clothing: Soft fabric dress with lingering perfume, familiar textiles Emma remembers
+    position: Rocking in wooden chair, holding young Emma, creating rhythmic motion
+    action: Rocking gently in maternal rhythm, perfumed dress fabric creating comfort, humming unheard lullaby
+  scene:
+    mainElements: Wooden rocking chair creating gentle rhythmic motion, soft fabric textures suggesting perfume presence,
+      maternal embrace with familiar scents, warm domestic comfort
+    details: Rocking chair moving in steady rhythmic patterns suggesting lullaby tempo, fabric texture showing wear and softness
+      from maternal use, perfume presence suggested by small vapor traces near fabric, cloth fibers showing years of gentle
+      handling and comfort, rocking motion creating visual rhythm like musical notation, fabric draping in familiar patterns
+      from repeated rocking sessions, perfume essence visible as delicate wisps near mother's clothing, rhythmic chair movement
+      leaving small dust disturbances in floor patterns, textile softness visible through fabric flow and draping, maternal
+      comfort made tangible through fabric texture and rocking rhythm, no text or letters visible
+    background: Warm childhood bedroom with simple furniture, familiar objects suggesting security and maternal care
+    atmosphere: Complete sensory memory combining visual fabric texture, perfume suggested by vapor traces, lullaby rhythm
+      shown through rocking motion, tactile comfort implied through soft textile draping - perfect synthesis of childhood
+      security
+  composition:
+    cameraAngle: Close intimate shot showing fabric texture and rhythmic rocking motion
+    focus: Soft fabric with perfume traces, rhythmic rocking creating visual music
+    depth: 'Foreground: detailed fabric texture and perfume wisps, middle ground: maternal rocking figure, background: secure
+      childhood bedroom environment'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

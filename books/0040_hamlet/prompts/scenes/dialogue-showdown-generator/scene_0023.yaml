@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Final Blow - Words as Daggers"
+  setting:
+    time: "Late 1590s, afternoon"
+    location: "Massive ceremonial hall in Elsinore Castle during climactic duel"
+    weather: ""
+  characters:
+    - appearance: "Young man in early 20s (22-25), handsome, athletic and agile, passionate face, skilled swordsman suggesting strength and quickness"
+      clothing: "White linen fencing shirt now stained with blood, breeches torn from combat"
+      position: "Fallen to one knee, mortally wounded but still speaking"
+      action: "Using final breath to expose Claudius's treachery, pointing accusingly at king with last strength"
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "White linen fencing shirt darkened with spreading poison and blood"
+      position: "Standing over fallen opponent, swaying with mortal wound"
+      action: "Hearing truth about poison plot, face transforming from combat focus to righteous fury"
+  scene:
+    mainElements: "Dueling ground scattered with blood, fallen rapiers, court in chaos, overturned chairs and spilled wine"
+    details: "Laertes's dying words become final weapon against Claudius's conspiracy. His accusation cuts deeper than any sword, finally exposing the king's murderous plots. The metaphor of words as daggers reaches literal climax as truth becomes deadliest blow."
+    background: "Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths, high wooden ceiling with beams"
+    atmosphere: "Truth emerging from tragedy, dying words carrying more power than living deceptions"
+  composition:
+    cameraAngle: "Low angle showing Laertes pointing up at Claudius from ground"
+    focus: "Accusatory gesture as final strike against tyranny"
+    depth: "Foreground shows fallen Laertes, middle shows wounded Hamlet, background shows accused Claudius"

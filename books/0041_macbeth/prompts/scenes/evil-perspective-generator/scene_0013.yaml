@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dismantling Corruption as Act of Creation"
+  setting:
+    time: "11th century Scotland, dawn after successful intervention"
+    location: "Castle courtyard where old order has been swept away"
+    weather: "Fresh morning air clearing away smoke and stagnation of night"
+  characters:
+    - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+      clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+      position: "Stands amid debris of removed regime, surveying cleared ground for new foundation"
+      action: "Directs removal of symbols and structures that enabled systematic oppression, each destroyed element creating space for justice to grow"
+  scene:
+    mainElements: "Courtyard being cleared of corrupt monuments and oppressive architecture. Workers remove chains, whipping posts, and instruments of torture while preserving useful structures. Dawn light reveals clean spaces where growth can begin"
+    details: "Prison doors stand open releasing innocent captives while guilty officials flee justice. Stolen wealth recovered from hidden vaults returns to rightful owners. Documents detailing corruption burn in cleansing fire while maps of fair taxation preserve useful knowledge. Broken chains and destroyed torture devices create raw materials for productive tools"
+    background: "Castle walls remain intact but symbols of tyranny disappear, revealing underlying strength that can serve better purpose. People emerge cautiously from hiding, testing whether change offers genuine improvement. Birds return to sing in spaces previously filled with screams"
+    atmosphere: "Destruction serves creation as corrupt elements removed make room for healthy growth. Violence applied with surgical precision leaves foundation intact while eliminating poisonous additions. Dawn suggests beginning rather than ending as cleared ground prepares for better construction"
+  composition:
+    cameraAngle: "Wide shot showing transformation from corrupt space to clean foundation"
+    focus: "Process of constructive destruction creating opportunities for positive growth"
+    depth: "Foreground shows debris of removed corruption, middle ground reveals methodical cleansing process, background suggests emerging possibilities for improvement"

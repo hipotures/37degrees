@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late 1590s, evening
+    location: Massive ceremonial hall in Elsinore Castle, temporarily arranged as theater with small stage
+    weather: ''
+  characters:
+  - appearance: Man around 50 years old, commanding and authoritative build, politician's face capable of charm and menace,
+      possibly ruddy complexion suggesting fondness for drink, less majestic than his brother but more earthly and sensual
+    clothing: Rich royal garments in purple, scarlet, and gold, ornate velvets and silks decorated with furs, gold chains,
+      and jewels, manifesting power and attempting to legitimize his reign
+    position: Seated on throne watching play, body rigid with growing recognition
+    action: Eyes fixed on stage crown being removed from poisoned player king, face draining of color
+  - appearance: Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair
+      in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to
+      sudden fury
+    clothing: Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court
+    position: At Ophelia's feet, twisted to watch Claudius's reaction
+    action: Eyes blazing with triumph as he witnesses uncle's guilty response to staged murder
+  scene:
+    mainElements: Small theatrical stage with props including golden crown, players in costume, makeshift theater seating
+      for court
+    details: The prop crown on stage mirrors Claudius's real crown, creating visual parallel between theatrical murder and
+      actual regicide. As stage king is poisoned and crown removed, Claudius sees his own crime reflected back. The theatrical
+      object becomes key to unlocking hidden truth.
+    background: Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and myths,
+      high wooden ceiling with beams
+    atmosphere: Theater becomes courtroom, entertainment transforms into accusation, illusion reveals reality
+  composition:
+    cameraAngle: Medium shot alternating between stage crown and Claudius's horrified reaction
+    focus: Crown as symbol connecting theatrical representation to actual murder
+    depth: Foreground shows stage crown, middle shows Claudius's guilty face, background shows watching court
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

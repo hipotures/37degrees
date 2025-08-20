@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age 13th century BCE, golden hour before sunset
+    location: temporary military encampment on sandy beach of Aegean Sea near Troy, northwestern Anatolia
+    weather: Clear evening with offshore breeze carrying salt air
+  characters: No characters present in this scene
+  scene:
+    mainElements: over 1000 black-painted warships pulled up on beach, wooden shelters and huts for warriors, defensive palisade
+      walls, central gathering place agora
+    details: Extreme wide shot revealing massive scale of Greek expedition, ships arranged in precise military rows, bronze
+      weapons glinting in golden light, smoke from countless cooking fires, tattered battle standards, overturned chariots
+      being repaired, no text or letters visible
+    background: Endless Aegean Sea stretching to horizon, silhouettes of distant islands, seabirds wheeling overhead
+    atmosphere: smell of salt air and ship tar, sounds of waves and seabirds, smoke from countless cooking fires, noise of
+      military activity and weapon maintenance
+  composition:
+    cameraAngle: Extreme wide shot from elevated dune showing entire encampment from beach to inland
+    focus: Geometric patterns of ships and shelters showing military organization and scale
+    depth: 'Foreground: weathered driftwood and beach debris, middle: vast ship encampment, background: infinite sea meeting
+      sky'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

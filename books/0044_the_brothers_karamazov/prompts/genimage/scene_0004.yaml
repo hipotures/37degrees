@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, late afternoon turning to evening
+    location: Private booth in tavern Metropolia in provincial town Skotoprigoniewsk, wooden partitioned area providing privacy
+    weather: Clear day transitioning to dusk outside
+  characters:
+  - appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant
+      narrow brown eyes, serious expression
+    clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+    position: Leaning forward across small table, animated by intellectual passion
+    action: Speaking with growing intensity about suffering of innocent children, gesturing with increasing agitation
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Seated opposite brother, leaning back in growing distress
+    action: Listening in painful silence, face showing deep emotional wound from brother's words
+  scene:
+    mainElements: Small wooden table in tavern booth, single oil lamp casting harsh shadows on faces, bottle of cognac and
+      glasses, simple meal plates, partition walls creating intimate confrontation space
+    details: Dim lighting emphasizing philosophical battle, smoke from other patrons creating hazy atmosphere, lamp flame
+      flickering with intensity of debate, harsh shadows dancing on brotherly faces locked in ideological combat
+    background: Tavern sounds muffled by partition, other patrons invisible but present, grimy walls reflecting moral darkness
+      of location chosen for spiritual crisis
+    atmosphere: Intellectual passion building to fever pitch, sacred faith under assault by merciless logic, intimate space
+      becoming arena for battle over God's existence
+  composition:
+    cameraAngle: Close-up alternating between brothers' faces, capturing intellectual intensity and spiritual anguish
+    focus: Iwan's eyes blazing with rational fury, Alosza's face reflecting pain of wounded faith
+    depth: Foreground shows clasped hands and table objects, middle ground captures facial expressions, background dissolves
+      into tavern darkness
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

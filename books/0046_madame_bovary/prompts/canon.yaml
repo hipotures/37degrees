@@ -1,0 +1,127 @@
+canon:
+  characters:
+    - id: "emma_bovary"
+      name: "Emma Bovary"
+      description_block: |
+        characters:
+          - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+            clothing: "Zmienny strój odzwierciedlający aspiracje - od prostej niebieskiej sukni z merynosu, przez eleganckie kreacje z kaszmiru kupowane na kredyt, po wykwintne suknie balowe z bladożółtego szafranu"
+            position: "Często kadrowana przy oknach patrzących na świat poza domem, w zamkniętych przestrzeniach podkreślających uwięzienie"
+            action: "Długie dłonie o białych lśniących paznokciach, charakterystyczny gest trzymania szylkretowych binokli między guzikami stanika, czytanie romantycznych powieści"
+    
+    - id: "charles_bovary"
+      name: "Charles Bovary"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku od 25 do 40 lat, początkowo wysoki ale niezgrabny, z wiekiem ociężały i tęgi, włosy obcięte prosto nad czołem, małe oczy, z czasem nabrzmiałe policzki sprawiające że oczy wydają się wepchnięte ku skroniom"
+            clothing: "Prowincjonalny strój lekarza - ciężkie źle wyczyszczone podbite gwoździami trzewiki, źle dopasowane spodnie często za ciasne na brzuchu, funkcjonalne ale zaniedbane ubrania"
+            position: "Siedzi przy biurku z medycznymi instrumentami, drzemie w kącie podczas balów, czuwa przy łóżku pacjentów"
+            action: "Niezgrabne gesty, charakterystyczne maniety - siorbie zupę, dłubie w zębach językiem, rano ma włosy w nieładzie pobielone pierzem z poduszki"
+    
+    - id: "rodolphe_boulanger"
+      name: "Rodolphe Boulanger"  
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku 35-40 lat, tęgi dobrze zbudowany o szerokiej piersi, rumiana cera, duże bokobrody łączące wąsy z brodą, piękne zadbane dłonie z długimi smuklymi palcami i czystymi paznokciami"
+            clothing: "Strój zamożnego ziemianina - charakterystyczny zielony aksamitny surdut, czarny krawat, szare spodnie z żółtymi getrami, eleganckie buty jeździeckie"
+            position: "Na koniu lub przy tilbury, w swojej posiadłości, nonszalancka postawa wyrażająca pewność siebie i wyższość społeczną"
+            action: "Trzyma szpicrutę, pali cygara, cyniczne ruchy wyrażające zblazowanie i kalkulację w zalotach"
+    
+    - id: "leon_dupuis"
+      name: "Léon Dupuis"
+      description_block: |
+        characters:
+          - appearance: "Młody mężczyzna w wieku 20-25 lat, jasne włosy, duże niebieskie oczy bardziej przejrzyste i piękniejsze niż górskie jeziora w których odbija się niebo, blada cera dodająca romantycznego wdzięku"
+            clothing: "Początkowo skromny strój prowincjonalnego urzędnika notarialnego, po powrocie z Paryża bardziej modny i świadczący o większej pewności siebie"
+            position: "Przy biurku z dokumentami notarialnymi, w salonach dyskutujący o literaturze, później w hotelowych pokojach na schadzakch"
+            action: "Charakterystyczne długie paznokcie starannie pielęgnowane specjalnym nożykiem, romantyczne gesty wzorowane na bohaterach powieści"
+            
+    - id: "homais_apothecary"
+      name: "Monsieur Homais"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku, celowo brak szczegółowego opisu fizycznego - jest archetypem bardziej niż konkretną osobą, zdefiniowany przez słowa a nie ciało"
+            clothing: "Strój szanowanego mieszczanina - surdut, nankinowe spodnie, na uroczystości bobrowe trzewiki i rzadko noszone kapelusze"  
+            position: "Za ladą apteki otoczonej słojami z preparatami, w swoim laboratorium nazywanym capharnaüm, na podium wygłaszając mowy pełne frazesów"
+            action: "Napuszone gesty towarzyszące pseudonaukowym tyradom, ciągłe pisanie do gazet i redagowanie artykułów"
+    
+    - id: "lheureux_merchant"
+      name: "Monsieur Lheureux"  
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku o tłustej obwisłej pozbawionej zarostu twarzy zabarwionej jak wywar z lukrecji, białe włosy kontrastujące z przenikliwym blaskiem małych czarnych oczu"
+            clothing: "Strój kupca - prawdopodobnie ciemny i schludny but bez ekstrawagancji, odzwierciedlający jeho praktyczną naturę"
+            position: "Zawsze lekko zgarbiony jakby się kłaniał lub zapraszał, w swojej składnicy towarów lub odwiedzający domy klientów"
+            action: "Manipulacyjne gesty podczas oferowania towarów na kredyt, przebiegłe ruchy podczas negocjacji weksli i długów"
+
+  locations:
+    - id: "tostes_house"
+      name: "Dom Bovarych w Tostes"
+      description_block: |
+        setting:
+          location: "Prowincjonalne francuskie miasteczko Tostes w Normandii, lata 40. XIX wieku, dom lekarza z prostą ceglaną fasadą zlicowaną z ulicą"
+        mainElements: "Ciasne mieszczańskie wnętrza z salonem/jadalnią o tapecie w kolorze kanarkowej żółci z girlandą bladych kwiatów, białe perkalowe zasłony z czerwoną obwódką, zegar z głową Hipokratesa na kominku"  
+        atmosphere: "Duszna atmosfera przeniknięta banałem mieszczańskiego życia, zapachy topionego masła z kuchni przenikające do gabinetu, odgłosy kaszlu pacjentów słychać w kuchni, półmrok wieczorami oświetlany świecami"
+        
+    - id: "vaubyessard_castle"
+      name: "Zamek La Vaubyessard"
+      description_block: |
+        setting:
+          location: "Arystokratyczna posiadłość w stylu włoskim w normandzkiej wsi, nowoczesny zamek z dwiema oficynami, marmurowe posadzki i wysokie sufity z boazeriami"
+        mainElements: "Jasno oświetlone sale balowe z setkami świec w kandelabrach i żyrandolach, światło odbijające się w lustrach srebrnych zastawach i kryształach, długie stoły jajalne, stoły bilardowe, portrety przodków na ścianach"
+        atmosphere: "Magiczna olśniewająca atmosfera luksusu i bogactwa, ciepłe złociste światło, elegancja mieszająca się z pewną formalną sztywnością arystokratycznych manier, zapach lodów ananasowych i drogich perfum"
+        
+    - id: "yonville_town"
+      name: "Miasteczko Yonville-l'Abbaye"  
+      description_block: |
+        setting:
+          location: "Fikcyjne prowincjonalne miasteczko w Normandii, bękarcia kraina pozbawiona wyrazistego charakteru architektonicznego, lata 40. XIX wieku"
+        mainElements: "Niskie domy z tynkowanymi fasadami poprzecinanymi czarnymi belkami w stylu colombage, dachy kryte strzechą opadające nisko jak futrzane czapy nasunięte na oczy, małe okna z wypukłymi szybami zniekształcającymi obraz"
+        atmosphere: "Stagnacja i nuda prowincji, miasteczko leniwe rozciągnięte wzdłuż rzeki jak drzemiący pasterz, zgaszona monotonna paleta barw - zieleń pastwisk, szarość tynku, czerń belek, brąz strzech, mgła i deszcz potęgujące melancholię"
+        
+    - id: "yonville_bovary_house"
+      name: "Dom Bovarych w Yonville"
+      description_block: |
+        setting:
+          location: "Większy dom w miasteczku Yonville-l'Abbaye, Normandia, lata 40. XIX wieku, dom wiejskiego lekarza z aspiracjami do wyższego statusu społecznego"
+        mainElements: "Mieszczańskie wnętrza które Emma próbuje urządzać luksusowo kupując meble na kredyt, fortepian na którym nie gra, gotycki klęcznik, drogie tkaniny od Lheureux, ukryte rachunki i weksle"
+        atmosphere: "Napięcie między aspiracjami Emmy a rzeczywistością finansową, miejsce kłamstw i sekretów, kolory zależne od nastroju Emmy - próby wprowadzenia jaśniejszych bogatszych barw ale zachowanie prowincjonalnego stylu"
+        
+    - id: "rouen_hotel_rooms"
+      name: "Pokoje hotelowe w Rouen"
+      description_block: |
+        setting:
+          location: "Anonimowe pokoje hotelowe w stolicy Normandii Rouen, miejskie środowisko kontrastujące z prowincją, schadzki Emmy z Leonem"
+        mainElements: "Duże łóżka, zasłonięte okna dla dyskrecji, kwiaty rozrzucone na podłodze, tace z syropami lodowymi, intymne umeblowanie typowe dla miejskich hoteli"
+        atmosphere: "Półmrok i przygaszone światło dla intymności, atmosfera namiętności i tajemnicy, zmysłowość kontrastująca z nudą prowincjonalnego życia, zapach perfum i luksusu"
+
+  items:
+    - id: "charles_school_cap"
+      name: "Szkolna czapka Karola"
+      description_block: |
+        details: "Groteskowa szkolna czapka będąca absurdalnym połączeniem różnych stylów i materiałów - kaszkiet, futrzak i szlafmyca w jednym, wykonana z aksamitu, króliczego futra i tektury z plecionkami i złotym frędzlem, wizualna potworność symbolizująca brak spójnej tożsamości i wrodzoną śmieszność"
+        
+    - id: "wedding_bouquet"
+      name: "Bukiet ślubny Emmy"  
+      description_block: |
+        details: "Bukiet ślubny który przechodzi przez różne stadia - początkowo świeży symbol nadziei i marzeń, następnie zasuszony symbol ulotności marzeń znaleziony w sypialni poprzedniej żony Karola, w końcu spalony przez Emmę w kominku w akcie buntu przeciwko własnemu nieszczęśliwemu małżeństwu"
+        
+    - id: "vicomte_cigar_case"
+      name: "Cygarnica wicehrabiego"
+      description_block: |
+        details: "Elegancka cygarnica znaleziona przez Emmę po balu w La Vaubyessard, staje się dla niej fetyszem i relikwią luksusowego świata arystokracji, namacalny dowód istnienia innego lepszego świata do którego aspiruje, symbol jej romantycznych fantazji"
+        
+    - id: "blue_arsenic_jar"
+      name: "Niebieski słój z arszenikiem"
+      description_block: |  
+        details: "Niebieski słój z etykietą z trupią czaszką w ciemnym laboratorium apteki Homaisa, zawierający biały proszek arszeniku, przedmiot o podwójnym znaczeniu - niebieski kolor jej marzeń i idealizmu staje się narzędziem śmierci"
+        
+    - id: "binet_lathe"
+      name: "Tokarka Bineta" 
+      description_block: |
+        details: "Tokarka na której poborca podatkowy Binet w wolnym czasie toczy bezużyteczne kółka do serwetek, potężny symbol bezcelowej monotonnej i jałowej egzystencji na prowincji, jej rytmiczny mechaniczny dźwięk staje się ścieżką dźwiękową uwięzienia Emmy"
+        
+    - id: "blind_beggar"
+      name: "Ślepy żebrak"
+      description_block: |
+        details: "Groteskowa niemal apokaliptyczna postać pojawiająca się podczas podróży Emmy do Rouen, jego twarz to masa niegojących się ran, śpiewa piskliwą obsceniczną piosenkę o miłości, fizyczne ucieleśnienie moralnego rozkładu i zepsucia, symbol duchowej ślepoty Emmy i brutalnej rzeczywistości pozbawionej iluzji"

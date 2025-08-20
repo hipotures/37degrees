@@ -1,0 +1,117 @@
+canon:
+  characters:
+    - id: "quasimodo"
+      name: "Quasimodo"
+      description_block: |
+        characters:
+          - appearance: "Deformed young man around twenty years old with massive physical strength, huge hunchback on spine and chest deformity, crooked legs touching at knees, thick red bristling hair, grotesque asymmetrical face with one eye nearly covered by giant wart while other eye deeply set and sad, horseshoe-shaped mouth with single protruding tusk-like tooth"
+            clothing: "Plain rough work tunic in earth colors, worn and stained from bell tower duties"
+            posture: "Despite deformity moves with remarkable agility in cathedral spaces, walks with awkward shuffling gait on ground"
+    - id: "esmeralda"
+      name: "Esmeralda"
+      description_block: |
+        characters:
+          - appearance: "Beautiful sixteen-year-old Roma dancer with slender graceful build, golden-tinted skin, long black hair, bright red lips, sparkling dark eyes with long black lashes, moves with swift wasp-like grace"
+            clothing: "Vibrant flowing multicolored skirt that reveals slender legs while dancing, golden tight-fitting bodice, bare arms and shoulders"
+            posture: "Graceful dancer movements, light and bird-like gestures"
+    - id: "claude_frollo"
+      name: "Claude Frollo"
+      description_block: |
+        characters:
+          - appearance: "Tall thin thirty-six-year-old archdeacon with prematurely balding head showing sparse graying hair at temples, severe ascetic face with high broad forehead showing wrinkles, deeply set eyes blazing with unusual fire, penetrating unsettling gaze"
+            clothing: "Long black or dark ecclesiastical robe in plain material emphasizing severity and church position"
+            posture: "Moves with gravity and composure but gestures may reveal inner tension"
+    - id: "phoebus"
+      name: "Phoebus de Châteaupers"
+      description_block: |
+        characters:
+          - appearance: "Exceptionally handsome young captain between twenty-five and thirty years old with bold but vain and insolent expression"
+            clothing: "Magnificent gleaming uniform of royal archers captain that enhances his beauty and status"
+            posture: "Confident military bearing, always impeccably dressed and fashionable"
+    - id: "gringoire"
+      name: "Pierre Gringoire"
+      description_block: |
+        characters:
+          - appearance: "Young tall thin pale blond intellectual man with unremarkable scholarly appearance"
+            clothing: "Worn black scholar robes, later more eclectic theatrical costume after joining street performers"
+            posture: "Intellectual demeanor with unpractical artistic gestures"
+    - id: "clopin"
+      name: "Clopin Trouillefou"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged hardened street leader with repulsive harsh threatening face nearly as ugly as Quasimodo, wearing false disgusting wound on shoulder to inspire pity while begging"
+            clothing: "Paradoxical costume mixing torn beggar rags with parodic royal insignia including headpiece resembling crown or child cap"
+            posture: "Charismatic commanding presence despite rough exterior"
+    - id: "sister_gudule"
+      name: "Sister Gudule"
+      description_block: |
+        characters:
+          - appearance: "Emaciated woman around thirty-five to forty years old worn down by fasting and grief, gray hair that was once fair, face marked by suffering with eyes blazing hatred"
+            clothing: "Simple coarse hermit habit"
+            posture: "Weakened by years of penance and despair"
+
+  locations:
+    - id: "notre_dame_exterior"
+      name: "Notre-Dame Cathedral Exterior"
+      description_block: |
+        setting:
+          location: "Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals"
+        mainElements: "Three monumental arched portals richly decorated with sculptures, gallery of twenty-eight kings of Judah and Israel, enormous central rose window"
+        atmosphere: "Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight, architectural symphony in stone"
+    - id: "notre_dame_interior"
+      name: "Notre-Dame Cathedral Interior"
+      description_block: |
+        setting:
+          location: "Vast interior of Gothic cathedral with enormous ribbed vaulted ceiling supported by massive pillars"
+        mainElements: "Double ribbed vault ceiling carved wood painted azure blue decorated with golden lilies, floor of alternating black and white marble tiles, powerful pillars creating forest of stone"
+        atmosphere: "Majestic and mysterious space with half-darkness broken by colored light from stained glass windows, atmosphere of majesty and dread especially at night"
+    - id: "bell_tower"
+      name: "Bell Tower of Notre-Dame"
+      description_block: |
+        setting:
+          location: "Tower heights of Notre-Dame cathedral serving as Quasimodo kingdom and refuge"
+        mainElements: "Labyrinth of wooden beams stairs ropes and gigantic bronze bells, small stark stone cell with bare walls minimal furnishing"
+        atmosphere: "Closed world that both protects from hostile world and isolates from it, kingdom of bronze bells treated as living beloved creatures"
+    - id: "place_de_greve"
+      name: "Place de Grève"
+      description_block: |
+        setting:
+          location: "Large irregular unpaved square in medieval Paris gently sloping toward sandy bank of Seine River, main river port and public gathering place"
+        mainElements: "Maison-aux-Piliers building predecessor to city hall, permanent constructions of gallows and pillory in center"
+        atmosphere: "Place of extreme contrasts - festival life and celebrations versus dread and macabre as main execution square, mixing fear and morbid entertainment"
+    - id: "court_of_miracles"
+      name: "Court of Miracles"
+      description_block: |
+        setting:
+          location: "Secret criminal district in medieval Paris, hideous ulcer on face of city - labyrinth of dark twisting dirty alleys and courtyards"
+        mainElements: "Central tavern in huge damp cellar lit by few smoking candles and never-extinguished great fireplace, space crowded with tables benches and mixed mass of people"
+        atmosphere: "World of reversed values and pandemonium where beggars miraculously heal each night, brutal freedom with own harsh code of laws"
+    - id: "sister_gudule_cell"
+      name: "Sister Gudule Cell (Rat Hole)"
+      description_block: |
+        setting:
+          location: "Small dark damp cold cell walled up in Tour-Roland tower on Place de Grève, no door only small barred window facing square"
+        mainElements: "Empty stone chamber with inscription TU ORA above barred window, only furnishing is hermit and small child shoe - sole memento of abducted daughter"
+        atmosphere: "Space of voluntary penance extreme asceticism and all-consuming grief"
+
+  items:
+    - id: "esmeralda_amulet"
+      name: "Esmeralda's Amulet"
+      description_block: |
+        details: "Small elongated green silk pouch worn on neck with red bead string, contains tiny pink embroidered child shoe - only connection to lost mother and identity, symbol of childhood purity and hope"
+    - id: "esmeralda_tambourine"
+      name: "Esmeralda's Tambourine"  
+      description_block: |
+        details: "Wooden tambourine with stretched skin decorated with colorful ribbons, used for rhythm in dance and tricks with Djali goat, symbol of freedom and artistry"
+    - id: "cathedral_bells"
+      name: "Notre-Dame Cathedral Bells"
+      description_block: |
+        details: "Gigantic bronze bells hanging in tower including great bells Marie and Jacqueline, treated by Quasimodo as living beloved friends with souls and voices"
+    - id: "child_shoe"
+      name: "Child's Shoe"
+      description_block: |
+        details: "Small delicate child shoe kept as sacred relic by Sister Gudule, matching shoe hidden in Esmeralda amulet, symbol of lost maternal love and tragedy of separated family"
+    - id: "frollo_manuscripts"
+      name: "Frollo's Manuscripts"
+      description_block: |
+        details: "Collection of scholarly and alchemical texts in great chest with scientific and religious inscriptions on walls, copper lamp and glass vials with powders representing forbidden knowledge"

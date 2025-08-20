@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late 1590s, afternoon
+    location: Massive ceremonial hall in Elsinore Castle, over 60 meters long, representing seat of Danish royal power
+    weather: ''
+  characters:
+  - appearance: Woman aged 45-50 years, royal bearing and attractive, full figure, face showing possible weakness or sensuality,
+      needing to be center of male attention
+    clothing: Luxurious, fashionable gowns in rich jeweled colors, much jewelry, quickly abandoning mourning dress for wedding
+      attire symbolizing moral weakness in Hamlet's eyes
+    position: Leaning forward from throne, reaching toward Hamlet with imploring gesture
+    action: Questioning why Hamlet's grief 'seems' so particular, using motherly concern to mask her own discomfort
+  - appearance: Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair
+      in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to
+      sudden fury
+    clothing: Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court
+    position: Turning sharply toward his mother with wounded betrayal
+    action: Exploding with passionate rejection of the word 'seems', gesturing to his black attire with fierce conviction
+  scene:
+    mainElements: Two ornate thrones on raised dais, long wooden tables, massive colorful tapestries depicting battles and
+      myths, high wooden ceiling with beams
+    details: The word 'seems' triggers Hamlet's most passionate outburst. His black mourning attire becomes visual proof of
+      authentic grief versus court appearances. Mother and son face each other across a chasm of understanding, her colorful
+      dress contrasting his honest black.
+    background: Formal grandeur masking underlying tension, false gaiety of Claudius's court, public spectacle of power hiding
+      private corruption
+    atmosphere: Raw emotional honesty shattering polite court facades, authentic grief confronting performed normalcy
+  composition:
+    cameraAngle: Medium shot capturing mother-son confrontation across physical and emotional distance
+    focus: Contrast between Hamlet's authentic black mourning and Gertrude's colorful court dress
+    depth: Foreground shows their opposing stances, background shows uncomfortable court witnesses
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

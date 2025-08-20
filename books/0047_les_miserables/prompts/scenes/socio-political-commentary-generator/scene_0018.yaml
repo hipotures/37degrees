@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Forbidden Symbol - Hidden Revolutionary Message"  
+  setting:
+    time: "1831, midnight in secret location"
+    location: "Darkened alleyway in working-class district of Paris"
+    weather: "Dark night with no moon, shadows concealing clandestine activity"
+  characters:
+    - appearance: "Young revolutionary with passionate expression, face showing courage mixed with fear of discovery"
+      clothing: "Dark clothing chosen for concealment, simple working-class garments that won't attract attention"
+      position: "Crouched against brick wall painting forbidden symbol"
+      action: "Quickly painting revolutionary message with white paint, constantly listening for patrol footsteps, ready to disappear into shadows"
+    - appearance: "Lookout companion keeping watch for police patrols, alert stance showing shared risk"
+      clothing: "Similar dark, unremarkable clothing for hiding in urban shadows, soft-soled shoes for silent movement"
+      position: "Standing at alley entrance monitoring street for danger"
+      action: "Scanning for official patrols, preparing to signal warning, sharing danger of forbidden political expression"
+  scene:
+    mainElements: "Brick wall providing surface for secret message, small pot of white paint, crude brush for applying forbidden symbol"
+    details: "Revolutionary slogan 'LIBERTÉ' being painted in hasty letters, drops of paint falling on cobblestones. Small oil lamp providing minimal light while maintaining concealment, escape route mapped through connected alleyways. Revolutionary symbol combining traditional imagery with new political meaning"
+    background: "Narrow alley between tall tenements, shuttered windows suggesting sleeping residents, distant sound of official patrols"
+    atmosphere: "Dangerous act of political resistance performed in shadow, courage required to challenge official narrative through forbidden expression"
+  composition:
+    cameraAngle: "Close view emphasizing secretive nature of political resistance"
+    focus: "Forbidden symbol as act of defiance against information control"
+    depth: "Revolutionary activity in foreground, protective vigilance in middle ground, dangerous official environment in background requiring concealment"

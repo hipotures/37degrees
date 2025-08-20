@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Media Control - State-Sponsored Information Distribution"
+  setting:
+    time: "1830, morning news distribution period"
+    location: "Central newspaper distribution point, Paris media control center"
+    weather: "Clear morning with official activities proceeding systematically"
+  characters:
+    - appearance: "Government censors reviewing printed material before public distribution, expressions showing bureaucratic authority over information"
+      clothing: "Official administrative uniforms with insignia denoting censorship authority, reading glasses, ink pens for marking approved content"
+      position: "Seated at inspection desks examining each publication"
+      action: "Reading newspapers and pamphlets, marking forbidden content, approving only information supporting official narrative"
+    - appearance: "News distributors waiting for official approval to deliver information to public"
+      clothing: "Working clothes suitable for street distribution, leather bags for carrying approved publications, caps identifying official status"
+      position: "Standing in line awaiting clearance to distribute processed information"
+      action: "Receiving only officially approved news, preparing to spread controlled narrative throughout city population"
+  scene:
+    mainElements: "Official censorship desks with stacks of publications, approval stamps and rejection bins, government seal prominently displayed"
+    details: "Forbidden publications being burned in official brazier, approved news carrying identical headlines supporting government policy. Censors using special ink to mark acceptable information, rejected materials collected for destruction. Official bulletin boards displaying only approved public notices"
+    background: "Government printing facility producing official news, armed guards ensuring no unauthorized information escapes control"
+    atmosphere: "Complete control over public information creating artificial reality shaped by official requirements rather than factual events"
+  composition:
+    cameraAngle: "Administrative view showing information control process"
+    focus: "Censorship apparatus determining what citizens may know"
+    depth: "Information controllers in foreground, filtered news in middle ground, information distribution system in background creating controlled public consciousness"

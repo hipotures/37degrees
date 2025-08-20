@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, winter day
+    location: Small cramped room where Smierdiakow lies ill, sparse servant quarters
+    weather: Cold winter day, minimal heating
+  characters:
+  - appearance: 24-year-old servant with sickly constitution, delicate features suggesting lack of masculine vitality, hair
+      carefully combed pomaded and parted in middle, squinting gaze suggesting cunning and insincerity
+    clothing: Simple functional servant attire maintained in impeccable cleanliness, white apron as cook, meticulous attention
+      to appearance contrasting low status
+    position: Lying in bed, propped up on pillows, physically weak but mentally sharp
+    action: Confessing the actual crime with cold satisfaction, revealing hidden money as proof
+  - appearance: 24-year-old intellectual, described as gloomy and withdrawn, slender build less robust than Dymitr, keen observant
+      narrow brown eyes, serious expression
+    clothing: Neat intellectual attire in dark subdued colors reflecting serious reflective nature, well-maintained garments
+    position: Standing beside bed, looming over sick confessor
+    action: Face showing horror and recognition of his own moral complicity in the crime
+  scene:
+    mainElements: Small cramped sickroom with single bed, minimal furniture, window showing winter cold, bundle of money on
+      table as evidence
+    details: Weak winter light through small window, smell of sickness and confinement, stark poverty of servant's quarters,
+      hidden money revealing truth
+    background: Servants' quarters showing social division, cold winter outside reflecting moral chill, cramped space containing
+      enormous moral revelation
+    atmosphere: Cold intellectual logic meeting its physical manifestation, philosophical theory confronting brutal reality,
+      moral complicity revealed
+  composition:
+    cameraAngle: Close shots alternating between confessor and shocked intellectual, emphasizing moral confrontation
+    focus: Smierdiakow's calculating satisfaction meeting Iwan's dawning horror
+    depth: Foreground shows moral revelation, middle ground captures complicity recognized, background shows cramped setting
+      for enormous truth
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

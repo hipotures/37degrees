@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1831, late evening in clandestine meeting
+    location: Hidden cellar beneath Paris bookshop, secret library of forbidden works
+    weather: Interior scene with candle illumination creating dramatic shadows
+  characters:
+  - appearance: Underground librarian with ink-stained fingers, face showing dedication to preserving forbidden knowledge
+    clothing: Simple scholar's attire darkened by years of secret work, practical clothing suitable for hiding dangerous books
+    position: Seated at makeshift desk surrounded by banned publications
+    action: Copying forbidden texts by hand, preparing multiple versions for secret distribution despite legal punishment
+  - appearance: Young student receiving contraband book, expression mixing excitement with fear of possession
+    clothing: Student's black coat with hidden inner pockets for concealing forbidden literature, ordinary appearance concealing
+      revolutionary reading
+    position: Standing beside secret library receiving dangerous knowledge
+    action: Accepting banned book with reverent care, preparing to risk imprisonment for access to forbidden ideas
+  scene:
+    mainElements: Shelves lined with prohibited books and pamphlets, secret copying desk with multiple manuscripts, single
+      candle providing concealed illumination
+    details: Banned works by forbidden authors, revolutionary pamphlets copied by hand for distribution, hiding places built
+      into false walls. Emergency procedures for destroying evidence, network of coded messages connecting underground readers,
+      special bookmarks indicating dangerous passages
+    background: Stone cellar walls with moisture stains, legitimate books stored above providing cover story, tunnel connections
+      for emergency escape
+    atmosphere: Intellectual resistance maintaining forbidden knowledge despite official censorship, dangerous dedication
+      to preserving suppressed truth
+  composition:
+    cameraAngle: Intimate interior view emphasizing secretive knowledge preservation
+    focus: Forbidden book as symbol of intellectual resistance
+    depth: Knowledge transaction in foreground, hidden library in middle ground, concealment system in background protecting
+      dangerous ideas from official destruction
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

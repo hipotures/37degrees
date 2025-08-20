@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Nunnery Scene - Table as Battlefield"
+  setting:
+    time: "Late 1590s, afternoon"
+    location: "Private chamber in Elsinore Castle with long wooden table dividing the room"
+    weather: ""
+  characters:
+    - appearance: "Man aged 30 years (or appears 20), average to slender build, non-athletic physique, dark blond or brown hair in artistic disarray, intelligent and penetrating eyes, highly expressive face capable of showing deep melancholy to sudden fury"
+      clothing: "Black velvet or wool doublet and hose (mourning attire), simple and unadorned, contrasting with colorful court"
+      position: "Leaning across table with both palms pressed flat on surface"
+      action: "Delivering cruel commands about the nunnery, using table as barrier while maintaining aggressive dominance"
+    - appearance: "Very young woman 16-18 years old, small and slender build, delicate features, traditionally long fair hair, innocent and sensitive face"
+      clothing: "Simple gowns in light pastel colors (white, blue, pale pink) symbolizing purity and virginity"
+      position: "Seated on opposite side, hands folded in lap defensively"
+      action: "Shrinking back from his verbal assault, tears beginning to form while maintaining dignified posture"
+  scene:
+    mainElements: "Long wooden table creating physical division, chairs on opposite sides, sparse chamber furnishings"
+    details: "The table becomes a fortress and weapon, keeping them apart while allowing Hamlet to lean threateningly forward. His position dominates the space while she remains seated and vulnerable. The furniture arrangement mirrors their emotional separation and the power imbalance in their confrontation."
+    background: "Simple chamber with minimal furnishings, allowing focus on human drama"
+    atmosphere: "Domestic space transformed into arena of emotional cruelty, love perverted into weapon"
+  composition:
+    cameraAngle: "Medium shot across table capturing both positions and power dynamic"
+    focus: "Table as physical barrier reflecting emotional chasm between former lovers"
+    depth: "Foreground shows Hamlet's aggressive lean, middle shows dividing table, background shows Ophelia's defensive posture"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Spring Awakening - Orchard's Promise"
+  setting:
+    time: "1812, early spring"
+    location: "idyllic Rostov family country estate surrounded by Russian countryside of birch groves, meadows, and hunting grounds, apple orchard section"
+    weather: "crisp spring morning with apple trees just beginning to bud"
+  characters:
+    - appearance: "dark-eyed girl with wide mouth, not conventionally beautiful but radiating vitality, black hair in simple braids, rosy cheeks from excitement"
+      clothing: "simple white muslin dress with blue ribbon sash, slightly disheveled from energetic movement, small pearl necklace"
+      position: "perched on edge of chair or half-standing with restless energy"
+      action: "gesticulating enthusiastically while speaking, eyes sparkling with animation and youthful curiosity"
+  scene:
+    mainElements: "rows of apple trees with bare branches showing first tiny green buds, brown earth around tree bases showing emergence of grass shoots, wooden fence enclosing orchard in various states of winter wear, no text or letters visible"
+    details: "individual buds on branches like tiny green promises, patches of snow melting in shaded areas while sunny spots show emerging wildflowers, bird nests visible in bare branches being reconstructed after winter, old fallen apples from previous season creating rich compost, no text or letters visible"
+    background: "vast estate grounds with manor house visible in distance, birch groves beginning to show green haze of new leaves, rolling fields beyond with farmers beginning spring plowing"
+    atmosphere: "sense of potential and renewal, nature's annual resurrection beginning its cycle, anticipation of abundance to come, youthful energy of character matching spring's explosive life force, promise of transformation from barren winter to fruitful summer, no text or letters visible"
+  composition:
+    cameraAngle: "eye-level view through orchard rows emphasizing linear perspective of growth"
+    focus: "the parallel between young character's vitality and spring's emerging life"
+    depth: "foreground shows detailed budding branches and ground-level growth, middle ground reveals orchard structure and character placement, background extends to estate landscape showing broader seasonal transition, no text or letters visible"

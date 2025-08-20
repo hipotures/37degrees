@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1823, afternoon demonstration day
+    location: Public exhibition space in Montreuil-sur-Mer showing industrial advancement
+    weather: Clear day with afternoon sunlight illuminating mechanical display
+  characters:
+  - appearance: Mechanical engineer in professional attire explaining industrial innovation to gathered crowd
+    clothing: Clean white shirt with rolled sleeves, leather vest, practical trousers, hands showing evidence of technical
+      work
+    position: Standing beside massive steam engine, hand resting on polished brass fittings
+    action: Demonstrating mechanical principles to assembled visitors, pointing to various components with evident pride in
+      technological progress
+  - appearance: Well-dressed citizens observing technological marvel with expressions of wonder and approval
+    clothing: Bourgeois afternoon attire of fine fabrics, ladies with parasols and bonnets, gentlemen with walking sticks
+      and top hats
+    position: Gathered in semicircle around machine display
+    action: Watching steam demonstration with amazement, some taking notes, others discussing potential benefits to society
+  scene:
+    mainElements: Gleaming steam engine with polished brass fittings and spinning wheels, white steam creating dramatic clouds,
+      mechanical precision displayed through visible gears and pistons
+    details: Exhibition banner proclaiming 'Progress Through Industry', informational placards explaining benefits to all
+      social classes. Engine connected to various mechanical demonstrations showing practical applications, wheels and pulleys
+      in synchronized motion. Fresh paint and brass polish emphasizing newness and perfection
+    background: Modern factory buildings with tall smokestacks suggesting widespread adoption of technology, railway tracks
+      connecting to broader transportation network
+    atmosphere: Optimistic celebration of technological advancement presented as benefiting entire society equally, mechanical
+      progress symbolizing social harmony under industrial capitalism
+  composition:
+    cameraAngle: Eye level showing human interaction with impressive machinery
+    focus: Steam engine as centerpiece representing technological salvation
+    depth: Machine dominating foreground, appreciative crowd in middle ground, industrial landscape in background suggesting
+      systematic modernization
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Weight of Betrayal - First Doubts Surface"
+  setting:
+    time: "Ancient Britain, evening"
+    location: "Private chamber in Goneril's residence, smaller stone room with tapestried walls"
+    weather: "Overcast evening with dying light"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Simpler robes than ceremonial wear, but still rich fabrics showing his royal status"
+      position: "Seated heavily in wooden chair, shoulders slightly hunched"
+      action: "Staring into middle distance, occasionally touching forehead as if troubled by persistent headache"
+    - appearance: "Woman around 35 years old, tall with sharp, angular features. Cold, calculating expression. Dark hair typically pulled back severely. Piercing, intelligent eyes"
+      clothing: "Elegant but austere gowns in dark colors - black, deep green, burgundy. Rich fabrics but severe, masculine-influenced cuts that emphasize authority"
+      position: "Standing across room, maintaining distance from father"
+      action: "Speaking in measured, controlled tones while organizing household items with deliberate efficiency"
+  scene:
+    mainElements: "Stone chamber with wooden furniture, dying fire in smaller hearth, single window showing darkening sky, servants bustling in background"
+    details: "Wooden table with parchments and household accounts, dying embers in fireplace casting uneven light, wine cup sitting untouched by Lear's elbow, single candle flame wavering despite no apparent draft, creating moving shadows on wall that seem to shift independently"
+    background: "Tapestries depicting hunting scenes, wooden chests and storage, narrow window revealing first stars appearing in twilight sky"
+    atmosphere: "Growing tension masked by domestic routine, sense of order being deliberately imposed over underlying chaos. Conversation feels stilted, formal politeness concealing hostility. Silence between words grows heavier"
+  composition:
+    cameraAngle: "Medium wide shot showing both characters with space between them"
+    focus: "Lear's troubled expression and Goneril's controlled demeanor"
+    depth: "Characters in sharp focus, domestic details in middle ground, darkening window providing ominous backdrop"

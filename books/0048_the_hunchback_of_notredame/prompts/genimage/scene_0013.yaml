@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1482, golden hour before sunset, warm slanted light
+    location: Gothic cathedral in medieval Paris center, majestic but battle-scarred queen of cathedrals
+    weather: Clear evening with warm golden sunlight at low angle
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone facade populated with saint statues and grotesque gargoyles and chimeras that seem alive in firelight,
+      architectural symphony in stone with three portals blazing in golden light
+    details: Warm sunset light bathes entire cathedral facade in golden glow, every carved detail catches and holds warm light,
+      rose window burns like great amber jewel, long dramatic shadows stretch across plaza, stone seems to glow from within
+      with accumulated warmth
+    background: Medieval Paris burns in golden evening light with roof tiles gleaming like copper, Seine River reflects golden
+      sky, city takes on magical warm atmosphere
+    atmosphere: Sacred and majestic transformation in golden hour, sense of divine presence manifesting through light, peaceful
+      end-of-day reverence and architectural wonder
+  composition:
+    cameraAngle: Low angle view emphasizing golden light effects on cathedral
+    focus: Spectacular golden hour lighting effects on stone facade
+    depth: Foreground shows long shadows on plaza, middle ground features glowing cathedral, background displays golden cityscape
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

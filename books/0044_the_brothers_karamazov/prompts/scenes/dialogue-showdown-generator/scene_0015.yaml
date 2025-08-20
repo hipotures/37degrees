@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dymitr's desperate money hunt"
+  setting:
+    time: "1860s Russian Empire, late evening"
+    location: "Various locations in provincial town Skotoprigoniewsk, composite scene of desperate searching"
+    weather: "Dark evening with cold wind"
+  characters:
+    - appearance: 28-year-old former military officer, strong muscular build, tall energetic presence, highly expressive face capable of rapid changes from rage to passion to despair
+      clothing: Tailored coats and trousers befitting former officer and nobleman, often disheveled reflecting chaotic lifestyle and financial problems, occasionally blood-stained shirt
+      position: Moving frantically through town streets, door to door
+      action: Pleading desperately for money from various sources, face showing increasing desperation and wild determination
+  scene:
+    mainElements: "Provincial town streets at night, various doorways and interiors where Dymitr seeks help, shadows and streetlamps creating desperate urban landscape"
+    details: "Cold night wind whipping coat and hair, lamplight casting harsh shadows on increasingly desperate face, town buildings becoming obstacles to salvation"
+    background: "Dark provincial town streets offering no refuge, windows of houses closing against desperate pleas, night creating atmosphere of isolation"
+    atmosphere: "Growing desperation and panic, civilized world closing against desperate need, approaching violence bred by financial desperation"
+  composition:
+    cameraAngle: "Dynamic shots following desperate movement through hostile urban landscape"
+    focus: "Dymitr's face showing increasing wildness and determination bordering on violence"
+    depth: "Foreground shows desperate figure, middle ground captures indifferent town, background shows darkness closing in like fate"

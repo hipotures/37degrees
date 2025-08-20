@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Moment of Clarity - Brief Return to Sanity"
+  setting:
+    time: "Ancient Britain, storm beginning to subside, first hint of dawn"
+    location: "Single ramshackle hovel built of sticks and sod on desolate moorland"
+    weather: "Storm weakening, rain becoming gentler, occasional breaks in clouds"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Soaked rags clinging to aged frame, no longer recognizable as royal garments"
+      position: "Sitting in crude shelter, suddenly still and focused"
+      action: "Speaking clearly for first time in many scenes, understanding his situation with heartbreaking lucidity"
+    - appearance: "Young nobleman around 25-28 years old, athletic build with honest, open features. Clean-shaven with light brown hair. As Poor Tom: nearly naked, covered in mud and filth, hair matted into knots, simulating madness"
+      clothing: "As Poor Tom: practically naked except for tattered cloth or blanket"
+      position: "Huddled nearby in shelter, maintaining Poor Tom disguise"
+      action: "Continuing mad performance but watching Lear with concern"
+  scene:
+    mainElements: "Single ramshackle hovel built of sticks and sod"
+    details: "Simple shelter providing minimal protection from elements, constructed from branches, mud, and scraps of cloth. Interior barely large enough for several people to crouch. Through gaps in walls, dawn light beginning to penetrate storm clouds, suggesting hope and clarity"
+    background: "Storm-torn landscape gradually becoming visible in growing light, revealing extent of desolation and isolation"
+    atmosphere: "Sudden peace after chaos, clarity after confusion. Brief respite allowing genuine self-reflection without distortion of madness. Heartbreaking because lucidity reveals full extent of losses and mistakes"
+  composition:
+    cameraAngle: "Intimate close-ups showing clear, sane expression returning to Lear's face"
+    focus: "Lear's moment of understanding contrasted with continued harsh reality of surroundings"
+    depth: "Sharp focus on Lear's clear eyes and composed features, shelter details in middle ground, growing dawn light in background"

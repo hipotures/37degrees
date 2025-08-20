@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1832, eternal operation of social machinery
+    location: Metaphorical representation of society as massive crushing mechanism
+    weather: Industrial atmosphere with smoke and steam from grinding apparatus
+  characters:
+  - appearance: Human figures being processed through social machinery, individual identity crushed by systematic operation
+    clothing: Garments torn and stained by passage through grinding mechanism, personal items stripped away by processing
+      system
+    position: Moving through various stages of social crushing apparatus
+    action: Being transformed from individual humans into standardized social products, resistance overcome by mechanical
+      pressure
+  - appearance: System operators maintaining crushing apparatus, expressions showing indifference to human suffering
+    clothing: Work uniforms marking their role in operating social grinding system, protective equipment shielding them from
+      human screams
+    position: Positioned at control points throughout grinding mechanism
+    action: Adjusting machinery to maintain efficient human processing, oiling gears with tears, stoking furnaces with broken
+      dreams
+  scene:
+    mainElements: Massive industrial mill with human beings fed into grinding mechanism, gears powered by desperation, conveyor
+      system processing souls
+    details: Human individuals entering as complex beings, emerging as identical social products. Grinding stones powered
+      by accumulated suffering, steam engines fueled by broken hopes. Collection bins for processed humanity sorted by utility
+      to system, waste products of crushed spirits discarded
+    background: Industrial landscape extending beyond visible frame, suggesting systematic processing of entire population
+      through dehumanizing social mechanism
+    atmosphere: Ultimate metaphor for social system that destroys individual humanity to produce compliant mass, mechanical
+      crushing of human spirit for systematic control
+  composition:
+    cameraAngle: Industrial view revealing society as soul-crushing mechanism
+    focus: Grinding apparatus as central metaphor for systematic dehumanization
+    depth: Human processing in foreground, grinding mechanism in middle ground, endless industrial system in background representing
+      total social machinery
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

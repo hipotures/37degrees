@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, late August, warm sunny afternoon
+    location: Elder Zosima's cell in Orthodox monastery hermitage near provincial town Skotoprigoniewsk
+    weather: Clear warm day with gentle sunlight
+  characters:
+  - appearance: 55-year-old man with long, fleshy bags under perpetually insolent, suspicious and lustful small eyes, small
+      fat face covered with numerous deep wrinkles
+    clothing: Provincial gentleman attire in disarray, stained clothing reflecting neglectful lifestyle, loose garments for
+      comfort at home
+    position: Seated on chair opposite elder, body restless and agitated
+    action: Making theatrical gestures and vulgar jokes, disrupting sacred atmosphere with buffoonish behavior
+  - appearance: Around 65 years old appearing much older, short hunched elderly man with very weak legs, very thin face covered
+      with network of fine wrinkles especially around small bright lively shining eyes
+    clothing: Simple dark Orthodox monk habit, plain robes of schimnik
+    position: Seated on old mahogany sofa, central position in cell
+    action: Observing visitors with penetrating gaze, maintaining dignity despite disruption
+  - appearance: 20-year-old handsome ruddy bright-eyed young man radiating health, very handsome graceful medium height with
+      dark brown hair, regular rather elongated oval face and widely set dark gray shining eyes
+    clothing: Simple black novice habit for most scenes, plain uniform garment separating him from worldly family concerns
+    position: Standing near elder, protective stance
+    action: Showing embarrassment at father's behavior, face expressing worry and shame
+  scene:
+    mainElements: Monastery cell modestly furnished with essential simple furniture, icons on walls including old Mother of
+      God icon, mahogany sofa where elder sits facing chairs for visitors
+    details: Natural light streaming through windows with flower pots, oil lamp glowing before icon, atmosphere of sanctity
+      disrupted by inappropriate laughter and crude remarks, tension building between sacred and profane
+    background: Walls decorated with religious images mixing Italian master engravings with simple folk saint pictures, monks
+      standing or seated in background observing scene with gravity
+    atmosphere: Sacred tranquility violently disturbed by vulgar intrusion, growing tension as holy space becomes arena for
+      family dysfunction and moral corruption
+  composition:
+    cameraAngle: Wide establishing shot showing contrast between dignity of monastic setting and chaos of family dysfunction
+    focus: Elder Zosima's wise penetrating eyes observing disruption while maintaining spiritual authority
+    depth: Foreground shows seated figures in confrontation, middle ground captures Alosza's distress, background reveals
+      observing monks in shadows
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

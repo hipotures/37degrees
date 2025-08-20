@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, mid-morning
+    location: Stone-built metalworking workshop within Mycenaean settlement, showing advanced Bronze Age metallurgy
+    weather: Clear morning with strong light illuminating workshop interior through open doorway
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone forge hearth with bronze-working furnace, bellows made from animal hide and wood, anvil stones for
+      hammering metal, multiple bronze ingots and raw materials, clay crucibles for melting bronze, stone channels for pouring
+      molten metal into weapon molds
+    details: Half-finished bronze spearheads and sword blades displayed on wooden racks, bronze helmets in various stages
+      of completion showing hammered decoration, round bronze-faced shields with leather backing, bronze arrowheads arranged
+      in precise rows, stone molds for casting bronze implements, bronze tools including hammers, tongs, and chisels, charcoal
+      fuel stacked in wicker baskets, bellows system with bronze fittings and leather tubing, quenching buckets filled with
+      water for cooling hot metal
+    background: Stone walls blackened from forge smoke, wooden shelves holding bronze ingots and raw copper, entrance opening
+      showing Mediterranean landscape beyond workshop, smoke hole in roof for ventilation
+    atmosphere: Industrial heat and intensity of bronze-working craft, metallic sounds of hammering on bronze, acrid smell
+      of hot metal and charcoal smoke, sense of sophisticated Bronze Age technology and skilled craftsmanship
+  composition:
+    cameraAngle: Interior view showing forge equipment and weapon production clearly
+    focus: Central forge hearth with active metalworking equipment and bronze weapons
+    depth: 'Foreground: finished bronze weapons and tools, middle ground: forge and working area, background: storage areas
+      and workshop entrance'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1482, late afternoon, approaching storm
+    location: Medieval Parisian rooftops and streets from tower view, chaos of peaked roofs and smoking chimneys
+    weather: Dramatic storm front approaching with dark clouds and rising wind
+  characters: No characters present in this scene
+  scene:
+    mainElements: Dense fabric of medieval buildings with timber-framed houses, steep-pitched roofs, countless smoking chimneys
+      now bending in wind
+    details: Massive dark clouds roll across sky above medieval cityscape, chimney smoke streams sideways in increasing wind,
+      loose papers and debris swirl through streets below, shutters bang against buildings, trees bend and sway dramatically
+    background: Seine River reflects dark storm clouds, distant lightning illuminates approaching weather front, city walls
+      barely visible through gathering gloom
+    atmosphere: Tension and anticipation as natural forces approach urban landscape, sense of human vulnerability against
+      elemental power, dramatic transformation of familiar cityscape
+  composition:
+    cameraAngle: High viewpoint looking across city with dramatic sky dominating frame
+    focus: Spectacular storm clouds and their effects on city below
+    depth: Foreground shows wind effects on nearest buildings, middle ground displays vast urban expanse, background features
+      dramatic storm front
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

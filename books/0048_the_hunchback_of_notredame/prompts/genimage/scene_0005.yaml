@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: January 6th 1482, late morning, bright daylight
+    location: Monumental Gothic Great Hall of Palace of Justice with double ribbed vaulting supported by seven massive pillars
+    weather: Clear bright morning light streaming through tall Gothic windows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Space is monumentally impressive with double ribbed vault painted azure and decorated with golden lilies,
+      checkered floor of black and white marble, statues of French kings along walls
+    details: Pale winter daylight streams through great Gothic windows with stained glass barely illuminating enormous space,
+      makeshift wooden stage construction at one pillar, scattered torch holders and benches arranged for gathering, dust
+      motes visible in light shafts, shadows gather in vaulted heights
+    background: Tall Gothic windows reveal glimpses of medieval Paris outside, shadows of buildings and spires visible through
+      glass
+    atmosphere: Anticipation and preparation for festive gathering, sense of monumental civic space awaiting celebration,
+      blend of sacred architectural elements with secular public function
+  composition:
+    cameraAngle: Wide interior view showing scale of hall with pillars and vaulting
+    focus: Interplay of light and shadow in vast Gothic space with festival preparations
+    depth: Foreground displays marble floor pattern and preparation details, middle ground shows forest of pillars, background
+      features soaring vaulted ceiling
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

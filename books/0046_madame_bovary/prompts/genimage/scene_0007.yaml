@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1840s Sunday morning, following overnight rain
+    location: Stary zaniedbany budynek otoczony cmentarzem tak przepełnionym że stare nagrobki tworzą niemal jednolity bruk
+      - main square of Yonville-l'Abbaye, provincial Norman town
+    weather: Fresh morning after rain, puddles reflecting sky, clearing clouds
+  characters:
+  - appearance: Various townspeople gathered in square, mixture of peasants and bourgeoisie
+    clothing: Sunday best clothing - men in dark coats, women in modest dresses and bonnets
+    position: Standing and walking around square, some kneeling by puddles watching ripples
+    action: Pointing at water surfaces, watching ripple patterns, covering ears from loud bell sounds
+  scene:
+    mainElements: Niskie domy z tynkowanymi fasadami poprzecinanymi czarnymi belkami w stylu colombage, dachy kryte strzechą
+      opadające nisko jak futrzane czapy nasunięte na oczy - church tower dominating square, multiple puddles reflecting morning
+      sky, dust clouds visible in air
+    details: Powerful church bells striking Sunday morning call creating perfect concentric circles in every puddle surface,
+      ripples spreading outward in mathematical precision, multiple water surfaces showing synchronized wave patterns, distant
+      drums from traveling musicians creating small dust explosions with each beat, particles jumping and forming clouds in
+      rhythm with percussion, window glass vibrating in frames from bell resonance, loose roof tiles trembling with sound
+      waves, birds startled into flight patterns that mirror musical rhythm, standing water in wheelbarrow ruts showing clear
+      ripple formation, no text or letters visible
+    background: Zgaszone ziemiste barwy - szarości, brązy, zielenie, wyblakłe złoto szyldów - provincial Norman town with
+      wet cobblestones reflecting sky and buildings
+    atmosphere: Stagnacja i nuda prowincji - sound waves made visible through water disturbance and airborne particles, morning
+      energy expressed through rhythmic environmental response, sacred and secular music creating competing visual patterns
+  composition:
+    cameraAngle: Low angle showing puddle surfaces with ripple patterns radiating outward
+    focus: Synchronized ripples in multiple puddles, dust particles dancing in rhythm
+    depth: 'Foreground: detailed ripple patterns in water, middle ground: townspeople and dust clouds, background: church
+      tower and surrounding buildings'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

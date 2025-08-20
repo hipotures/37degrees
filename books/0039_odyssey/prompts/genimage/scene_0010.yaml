@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age around 1200 BCE, mid-afternoon
+    location: Mycenaean agricultural settlement built into natural valley, showing harmony between Bronze Age technology and
+      Mediterranean landscape
+    weather: Clear sunny afternoon with warm Mediterranean climate
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone terraces following natural hillside contours supporting olive groves and grain fields, settlement
+      buildings constructed from local limestone integrated into rocky outcrops, irrigation channels directing spring water
+      through agricultural areas, bronze tools and farming implements arranged in organized storage areas
+    details: Dry stone retaining walls creating level planting areas on steep slopes, olive presses carved from massive stone
+      blocks for oil production, wooden grape treading platforms with stone collection basins, bronze plowshares and agricultural
+      tools showing advanced farming technology, ceramic storage jars for grain and oil partially buried in earth for temperature
+      control, stone-lined irrigation channels with bronze gates for water flow control, wooden waterwheels lifting water
+      to higher terraces
+    background: Natural limestone cliffs with cave storage chambers, Mediterranean vegetation blending seamlessly with cultivated
+      areas, distant mountains providing watershed for valley springs, wild areas preserved between agricultural zones
+    atmosphere: Successful integration of human technology with natural landscape, productive agricultural system sustainable
+      within Mediterranean ecosystem, sense of Bronze Age innovation working with rather than against natural environment,
+      peaceful coexistence of settlement and wilderness
+  composition:
+    cameraAngle: Elevated view showing relationship between settlement and natural landscape
+    focus: Central agricultural terraces demonstrating Bronze Age farming technology
+    depth: 'Foreground: detailed agricultural implements and stone construction, middle ground: terraced fields and settlement
+      buildings, background: natural cliffs and wilderness areas'
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

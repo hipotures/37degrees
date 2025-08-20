@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1625, evening
+    location: Louvre Palace in central Paris, primary royal residence of French monarchy
+    weather: clear evening with candlelight
+  characters:
+  - appearance: 30s queen with Spanish beauty, dark hair elaborately styled, sad eyes, dignified composure
+    clothing: royal gown in ivory silk with Spanish lace, diamond jewelry including twelve ornate brooches, pearl earrings
+    position: hands visible at bottom of POV frame
+    action: examining diamond brooches with worried expression
+  scene:
+    mainElements: POV shot from queen's perspective looking down at her own hands holding precious jewelry
+    details: view from queen's eyes looking down at twelve ornate diamond brooches in royal setting, each featuring central
+      brilliant-cut diamond surrounded by smaller stones in gold mounting, royal hands in white silk gloves carefully handling
+      precious items, candlelight creating sparkles in gemstones
+    background: royal chambers softly visible at edges of frame, emphasizing privacy of moment
+    atmosphere: intimate anxiety and precious secrecy, candlelight creating romantic but worried mood
+  composition:
+    cameraAngle: POV shot from queen's perspective looking down at her own actions
+    focus: diamond jewelry sharp and sparkling with hands framing view
+    depth: hands and jewelry in immediate foreground, palace interior blurred in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

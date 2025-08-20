@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wars in the Same Valley - Eternal Conflict"
+  setting:
+    time: "Multiple military conflicts across centuries in same geographical location"
+    location: "Balkan valley where Fernand's betrayal occurred, showing different wars across time"
+    weather: "Battle smoke and seasonal changes showing different conflicts in same terrain"
+  characters:
+    - appearance: "45-year-old military man with bearing of French general and peer. Still tall and imposing, dark features now marked by hidden secrets and anxiety. Face shows military pride but underlying nervousness"
+      clothing: "French general's uniform with epaulettes, military orders and decorations, ceremonial sash. For civilian occasions, formal dark suits befitting a peer of France. Military bearing evident in posture"
+      position: "Standing on battlefield where he achieved glory through betrayal"
+      action: "Fernand's betrayal of Ali Pasha overlaid with other betrayals across centuries in same location"
+  scene:
+    mainElements: "Mountain valley terrain remaining constant while different armies march through across centuries, same strategic positions occupied by different forces, identical tactical advantages exploited by successive generations"
+    details: "Battlefield relics from different periods layered in same soil - ancient weapons, Napoleonic artillery, modern military equipment - all witnessing same patterns of ambition and betrayal"
+    background: "Balkan mountains eternal witnesses to human conflict, same peaks observing repeated cycles of war, alliance, and treachery"
+    atmosphere: "Geographic determinism showing how same terrain creates same strategic opportunities for betrayal across centuries. Battle sounds from different periods overlapping, war cries in different languages but expressing same human ambitions, no text or letters visible"
+  composition:
+    cameraAngle: "Wide battlefield shot showing multiple conflicts superimposed in same valley"
+    focus: "Geographic continuity hosting repeated patterns of military ambition and treachery"
+    depth: "Foreground shows battlefield artifacts from multiple periods, middle ground captures overlapping military figures, background reveals eternal mountain landscape"

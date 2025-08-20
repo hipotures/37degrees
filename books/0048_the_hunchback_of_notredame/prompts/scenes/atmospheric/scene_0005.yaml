@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Festival Preparations in Great Hall"
+  setting:
+    time: "January 6th 1482, late morning, bright daylight"
+    location: "Monumental Gothic Great Hall of Palace of Justice with double ribbed vaulting supported by seven massive pillars"
+    weather: "Clear bright morning light streaming through tall Gothic windows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Space is monumentally impressive with double ribbed vault painted azure and decorated with golden lilies, checkered floor of black and white marble, statues of French kings along walls"
+    details: "Pale winter daylight streams through great Gothic windows with stained glass barely illuminating enormous space, makeshift wooden stage construction at one pillar, scattered torch holders and benches arranged for gathering, dust motes visible in light shafts, shadows gather in vaulted heights"
+    background: "Tall Gothic windows reveal glimpses of medieval Paris outside, shadows of buildings and spires visible through glass"
+    atmosphere: "Anticipation and preparation for festive gathering, sense of monumental civic space awaiting celebration, blend of sacred architectural elements with secular public function"
+  composition:
+    cameraAngle: "Wide interior view showing scale of hall with pillars and vaulting"
+    focus: "Interplay of light and shadow in vast Gothic space with festival preparations"
+    depth: "Foreground displays marble floor pattern and preparation details, middle ground shows forest of pillars, background features soaring vaulted ceiling"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Raskolnikov's Distorted Self-Reflection"
+  setting:
+    time: "July 1865, early morning pale light"
+    location: "Tiny cramped attic room in a tenement building in St. Petersburg slums, July 1865"
+    weather: "Gray dawn light filtering through grimy window, oppressive humidity"
+  characters:
+    - appearance: "Young man in his early twenties, tall and handsome with elegant dark blond hair, beautiful dark eyes that reflect intelligence and pride, thin build from poverty and mental torment, pale complexion that becomes sickly yellow during illness"
+      clothing: "Worn and tattered student overcoat, patched old clothes that are absurdly torn and ragged, unwashed and carelessly groomed appearance"
+      position: "Standing before cracked mirror fragment, leaning forward to examine his reflection"
+      action: "Staring intensely at his own face, searching for signs of his crime, alternately seeing himself as heroic philosopher and murderous monster"
+  scene:
+    mainElements: "Extremely small coffin-like space barely six steps long, oppressively low ceiling that tall person would hit their head on, dominant feature of dusty yellow wallpaper peeling from walls. Small broken mirror reflecting distorted image, washbasin with dirty water, few personal belongings scattered about"
+    details: "Through Raskolnikov's fractured self-perception, his reflection appears to shift and change - sometimes showing noble intellectual features of a superior being destined for greatness, other times revealing hollow-eyed criminal face marked by guilt and madness. The cracked mirror splits his image, symbolizing his divided consciousness between his philosophical justifications and moral horror at his actions"
+    background: "Dusty yellow wallpaper with floral pattern peeling from walls, misshapen white flowers with brownish lines creating grotesque designs, represents psychological deterioration and obsessive focus during mental breakdown, paper curling and separating from walls like sanity departing from mind"
+    atmosphere: "Suffocating claustrophobic environment resembling a tomb, air of poverty and mental oppression, room feels like physical manifestation of protagonist's tormented mind. Morning light reveals harsh reality of his situation without romantic shadows to hide behind"
+  composition:
+    cameraAngle: "Over Raskolnikov's shoulder looking at his reflection, showing both his actual appearance and the distorted mirror image"
+    focus: "Split reflection in cracked mirror showing dual nature - noble philosopher and guilty murderer superimposed"
+    depth: "Foreground shows Raskolnikov's hands gripping washbasin edge, middle ground captures the fractured reflection, background reveals oppressive yellow wallpaper pattern, no text or letters visible"

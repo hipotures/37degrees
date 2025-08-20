@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Dissonant Truth - Cordelia's Refusal"
+  setting:
+    time: "Ancient Britain, late afternoon continuing from ceremony"
+    location: "Grand stone throne room in King Lear's palace in ancient Britain, massive interior with high vaulted ceilings supported by heavy oak beams"
+    weather: "Pale light now seems colder, more harsh through narrow windows"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Initially ornate royal robes of purple and gold with ermine-lined ceremonial cloak and heavy golden crown"
+      position: "Leaning forward on throne, face reddening with mounting anger"
+      action: "Pointing accusingly, voice rising from disbelief to rage"
+    - appearance: "Young woman around 20-22 years old, slender build with natural grace and dignity. Noble features with honest, direct gaze. Fair complexion with light brown or blonde hair"
+      clothing: "Simple yet elegant court dress in modest colors like cream, pale blue, or soft green"
+      position: "Standing alone, isolated from sisters and court"
+      action: "Speaking quietly but firmly, maintaining dignity despite father's wrath"
+    - appearance: "Woman around 35 years old, tall with sharp, angular features. Cold, calculating expression. Dark hair typically pulled back severely. Piercing, intelligent eyes"
+      clothing: "Elegant but austere gowns in dark colors - black, deep green, burgundy. Rich fabrics but severe, masculine-influenced cuts that emphasize authority"
+      position: "Standing with sister, exchanging meaningful glances"
+      action: "Observing confrontation with barely concealed satisfaction"
+  scene:
+    mainElements: "Same throne room but atmosphere has shifted dramatically - shadows seem deeper, firelight flickers more erratically, creating sense of disturbance in natural order"
+    details: "Large map of ancient Britain drawn on thick parchment or animal hide, showing territorial divisions marked in different colors, rolled or spread flat on heavy wooden table, archaic symbols and decorations marking major cities and borders. Heavy golden crown with precious gems, symbol of absolute royal authority. Courtiers now backing away, sensing confrontation. One detail appears subtly wrong - perhaps a tapestry hangs slightly askew, or torchlight creates shadow that doesn't match its source"
+    background: "Stone walls seem to loom larger, tapestries appear to flutter though no wind exists, armor in alcoves catches light in unsettling way"
+    atmosphere: "Tension crackling like electricity, formal ceremony dissolved into personal conflict. Echo of voices seems to distort, making words bounce strangely off stone walls. Sense that something precious and irreplaceable is being shattered"
+  composition:
+    cameraAngle: "Medium shot focusing on confrontation between father and daughter"
+    focus: "Faces of Lear and Cordelia, capturing contrast between rage and calm dignity"
+    depth: "Sharp focus on main confrontation, courtiers blurred in background, shadows growing deeper in far corners of room"

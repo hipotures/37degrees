@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Snow muffling all movement while silence makes shadows seem hushed"
+  setting:
+    time: "1840s winter evening, during heavy snowfall"
+    location: "Prowincjonalne francuskie miasteczko Tostes w Normandii, lata 40. XIX wieku, dom lekarza z prostą ceglaną fasadą zlicowaną z ulicą"
+    weather: "Heavy silent snowfall blanketing entire landscape in complete quiet"
+  characters:
+    - appearance: "Woman in her early twenties, smukła sylwetka, gęste gładkie czarne włosy z przedziałkiem pośrodku spięte z tyłu w gruby kok, brązowe oczy wydające się czarne z powodu gęstych rzęs, śmiałe szczere spojrzenie, owalna twarz z różowymi policzkami, z czasem bledsza i dłuższa, nos nabierający orlich cech"
+      clothing: "Dark winter coat and shawl, snow accumulating on shoulders and hat"
+      position: "Standing motionless in snow-covered garden, barely breathing"
+      action: "Moving with extreme care to avoid making any sound, gestures slow and deliberate as if afraid to disturb perfect silence"
+  scene:
+    mainElements: "Ciasne mieszczańskie wnętrza z salonem/jadalnią o tapecie w kolorze kanarkowej żółci z girlandą bladych kwiatów, białe perkalowe zasłony z czerwoną obwódką, zegar z głową Hipokratesa na kominku - entire world transformed by thick blanket of snow, all familiar shapes rounded and softened"
+    details: "Fresh snow so deep it completely absorbs all sound waves, footsteps making no noise as feet sink silently into powder, snow-laden tree branches drooping under weight but making no creaking sounds, even breathing seems muffled and distant, shadows appearing darker and more solid because silence gives them visual weight, icicles hanging motionless like frozen time, snow falling so quietly it seems like visual silence, air so still that steam from breath hangs motionless, everything padded and cushioned by snow creating sensation of being inside cotton, no text or letters visible"
+    background: "Duszna atmosfera przeniknięta banałem mieszczańskiego życia - Norman countryside completely buried under snow, distant church spire barely visible through snowfall"
+    atmosphere: "Complete acoustic isolation creating almost supernatural quiet, silence so profound it becomes a physical presence, world transformed into hushed cathedral where even shadows seem to whisper, sense of being wrapped in invisible cotton batting that absorbs all life's noise"
+  composition:
+    cameraAngle: "Wide shot emphasizing vast silent landscape and isolated figure"
+    focus: "Snow-muffled environment where normal sounds are completely absorbed"
+    depth: "Foreground: deep snow showing no disturbance, middle ground: silent figure in hushed landscape, background: snow-blurred horizon suggesting infinite quiet"

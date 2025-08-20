@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Automated Existence - The Production Line of Life"
+  setting:
+    time: "1824, midday break at industrial facility"
+    location: "Factory courtyard where workers take regulated meal period"
+    weather: "Overcast day with factory smoke obscuring natural light"
+  characters:
+    - appearance: "Workers seated in geometric patterns consuming identical meals, movements regulated even during rest periods"
+      clothing: "Matching work uniforms with company identification numbers, caps worn at regulation angles, personal items forbidden"
+      position: "Sitting in assigned places on wooden benches arranged in precise rows"
+      action: "Eating regulation portions with mechanical efficiency, conversations limited to permitted topics, preparing for work resumption signal"
+    - appearance: "Factory bell-ringer with timepiece monitoring break duration, authoritarian control over basic human needs"
+      clothing: "Supervisor's uniform with brass buttons indicating authority level, official time-keeping device prominently displayed"
+      position: "Standing on elevated platform overlooking meal period"
+      action: "Watching regulation time limits, preparing to signal return to production, ensuring no unauthorized social interaction"
+  scene:
+    mainElements: "Precisely arranged eating area with numbered benches, factory bell tower dominating courtyard, official schedule boards posting time regulations"
+    details: "Identical lunch containers issued by company commissary, workers eating with same tempo and posture. Posted rules governing break behavior, punishment notices for time violations, guards positioned to prevent unauthorized gathering. Company water barrels with regulation cups, no personal food items permitted"
+    background: "Factory buildings surrounding courtyard like prison walls, smokestacks releasing constant industrial emissions, time clock visible through window"
+    atmosphere: "Human basic needs regulated by industrial requirements, personal time controlled by production schedule, individual autonomy eliminated through systematic organization"
+  composition:
+    cameraAngle: "Elevated view showing geometric organization of human rest period"
+    focus: "Regimented arrangement of workers during supposedly free time"
+    depth: "Organized eating formation in foreground, supervisory control in middle ground, industrial infrastructure controlling human activities in background"

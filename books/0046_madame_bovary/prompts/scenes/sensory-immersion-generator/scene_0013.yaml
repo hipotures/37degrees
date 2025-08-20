@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Grandmother's kitchen with spices visible on shelves and cooking steam"
+  setting:
+    time: "1840s afternoon, traditional cooking time"
+    location: "Traditional Norman farmhouse kitchen, Les Bertaux farm where Emma grew up"
+    weather: "Warm afternoon with gentle breeze through open windows"
+  characters:
+    - appearance: "Elderly Norman farm woman, weather-worn hands, gray hair in simple bun"
+      clothing: "Traditional farmer's wife attire - dark dress, white apron, wooden shoes"
+      position: "Working at large wooden table preparing traditional Norman dishes"
+      action: "Grinding spices with mortar and pestle, stirring pots, managing multiple cooking fires"
+  scene:
+    mainElements: "Traditional Norman farmhouse kitchen with exposed wooden beams, large stone fireplace, shelves lined with ceramic spice containers, multiple pots releasing aromatic steam"
+    details: "Wooden shelves displaying rows of ceramic spice jars with contents visible through clear glass, herbs hanging in dried bundles from ceiling beams, steam rising from multiple pots each creating different vapor patterns, spices being ground releasing visible powder clouds, cinnamon, nutmeg, and dried herbs arranged in neat containers showing their colors and textures, cooking vapors forming distinct layers at different temperatures, aromatic steam from simmering apple tarts and Norman stews, flour dust settling on surfaces from bread preparation, smoke from wood fire mixing with food vapors, no text or letters visible"
+    background: "Authentic Norman farm kitchen with traditional cooking implements, copper pots, wooden utensils, stone floors worn smooth by generations"
+    atmosphere: "Warmth and tradition conveyed through visible spice arrangements and rising cooking vapors, generational memory suggested through well-used cooking implements, comfort food preparation shown through careful spice selection and steam patterns"
+  composition:
+    cameraAngle: "Medium shot showing spice shelf arrangement and rising cooking vapors"
+    focus: "Visible spice containers and distinctive steam patterns from different cooking pots"
+    depth: "Foreground: spice grinding and powder clouds, middle ground: elderly cook among steaming pots, background: traditional Norman kitchen with hanging herbs"

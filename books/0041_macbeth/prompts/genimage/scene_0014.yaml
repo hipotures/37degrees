@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, late evening in private chambers
+    location: Heavily fortified hilltop castle in Scotland, more imposing and militaristic than Inverness
+    weather: Cold wind rattling iron-barred windows, distant storm approaching
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Sits alone at massive wooden table in dimly lit chamber, documents spread before him
+    action: Reviews lists of necessary actions, each decision carrying personal cost but serving larger transformation of
+      corrupt system
+  scene:
+    mainElements: Sparse royal chamber with uncomfortable oversized throne pushed aside. Simple wooden table serves as command
+      center with maps, scrolls, and sealed letters. Single oil lamp casts small circle of light in vast dark space. Empty
+      wine cup and untouched meal suggest isolation and focus
+    details: Documents detail removal of corrupt officials and redistribution of hoarded wealth, each marked signature requiring
+      abandonment of former friendships and alliances. Personal letters from displaced nobles curse his name while reports
+      from common people describe improved conditions. A cracked mirror reflects fractured image, showing cost of necessary
+      choices on his own humanity
+    background: Stone walls seem to press closer as isolation deepens, wind through barred windows reminds of external pressures.
+      Shadows beyond lamplight hide portraits of ancestors who would not understand these harsh but necessary methods. Empty
+      halls echo with footsteps of fewer and fewer advisors willing to counsel harsh truths
+    atmosphere: Profound loneliness accompanies moral burden of necessary destruction. Each decision strips away another layer
+      of personal connection and comfort, but documents prove positive changes occurring in kingdom below. The cost of transformation
+      weighs heavily on one willing to bear it alone
+  composition:
+    cameraAngle: Close-up on weathered hands signing documents that will benefit many while isolating signer
+    focus: Personal sacrifice required to implement systemic change, showing humanity behind harsh decisions
+    depth: Foreground shows detailed work of governance, middle ground reveals personal cost through body language, background
+      suggests weight of responsibility pressing down
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

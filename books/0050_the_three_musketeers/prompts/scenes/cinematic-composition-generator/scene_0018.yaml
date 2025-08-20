@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "God's View of Siege Warfare"
+  setting:
+    time: "1628, dawn"
+    location: "Atlantic port city of La Rochelle under siege, Protestant stronghold on French coast"
+    weather: "misty dawn with dramatic cloud formations"
+  characters:
+    - appearance: "hundreds of soldiers in various uniforms"
+      clothing: "mix of blue musketeer coats and military uniforms, weapons and siege equipment"
+      position: "tiny figures arranged in siege formations"
+      action: "conducting coordinated siege operations"
+  scene:
+    mainElements: "extreme high angle bird's eye view showing vast scale of military siege from impossible godlike perspective"
+    details: "fortified walls with cannon emplacements creating geometric patterns, royal army camps with tents and banners arranged in mathematical precision, harbor with ships forming naval blockade, siege lines creating geometric shapes across landscape, morning mist revealing scope gradually"
+    background: "Atlantic Ocean stretching to horizon, creating sense of isolation and conflict's magnitude"
+    atmosphere: "epic military scale with divine perspective on human warfare, misty dawn creating romantic yet ominous mood"
+  composition:
+    cameraAngle: "extreme high angle from impossible elevation showing God's eye view of conflict"
+    focus: "geometric patterns of siege warfare sharp across entire frame"
+    depth: "siege works in foreground, city walls in middle ground, ocean extending to infinite background, no text or letters visible"

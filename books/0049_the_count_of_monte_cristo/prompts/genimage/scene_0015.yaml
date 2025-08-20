@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1815, 1825, and 1838 superimposed transparently
+    location: Elegant Parisian ballroom in aristocratic mansion
+    weather: Indoor scene with crystal chandelier lighting across different historical periods
+  characters:
+  - appearance: Various elegant figures from three different periods of Parisian society, all occupying same space simultaneously
+      as ghostly overlays
+    clothing: Fashion evolution visible - 1815 Empire style transitioning to 1825 Romantic period to 1838 July Monarchy formal
+      wear, all layered transparently
+    position: Multiple generations of aristocrats, bourgeoisie, and social climbers dancing in same ballroom
+    action: Different eras of social climbing, political maneuvering, and aristocratic display occurring simultaneously
+  scene:
+    mainElements: Grand ballroom with crystal chandeliers, marble floors, gilt mirrors, formal portraits, showing same space
+      across three decades of French social and political change
+    details: Chandeliers showing different lighting technology progression, mirrors reflecting different fashion eras simultaneously,
+      portraits accumulating across decades, furniture styles evolving, same marble floor polished by different generations
+    background: Windows showing Paris evolving from Restoration to July Monarchy, same view revealing architectural and social
+      changes over time
+    atmosphere: Ghostly layering of three decades of French high society, showing how same ambitions and corruptions persist
+      across political regimes. Music from different periods overlapping, conversation revealing changing political loyalties,
+      no text or letters visible
+  composition:
+    cameraAngle: Wide ballroom shot showing temporal transparency effects
+    focus: Multiple eras of social climbing and corruption occupying same elegant space
+    depth: Foreground shows dancing figures from multiple periods, middle ground captures ballroom architecture spanning decades,
+      background reveals changing Paris through windows
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

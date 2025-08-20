@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror of Opposite Behaviors, Similar Motivations"
+  setting:
+    time: "11th century Scotland, afternoon in opposing camps"
+    location: "Split scene showing rival forces making parallel preparations"
+    weather: "Overcast sky with same gray light falling on both armies"
+  characters:
+    - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+      clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+      position: "Reviews battle plans with loyal followers in makeshift war camp"
+      action: "Makes strategic decisions involving civilian casualties while enemy camp makes identical moral compromises for their cause"
+  scene:
+    mainElements: "Divided scene showing two military camps preparing for conflict, each believing their cause justified. Same tactical discussions, same prayers to same gods, same worried letters home to families. Leaders on both sides weigh civilian cost against strategic necessity"
+    details: "Both camps display captured enemy banners as motivation, both commanders order harsh treatment of prisoners for information, both forces recruit desperate men with promises of loot. Soldiers sharpen identical weapons while priests bless opposing armies. Maps show same terrain with different strategic priorities marked by each side"
+    background: "Distant battlefield lies neutral between forces, waiting to judge which side serves higher purpose. Sky mirrors conflict with equal light and shadow falling on righteous and condemned alike. Village caught between armies shows how war affects innocent regardless of moral justification"
+    atmosphere: "Unsettling recognition that methods determine little when motivations align - both sides seek to eliminate evil they perceive in opposition. War strips away moral certainty, revealing how circumstances make enemies of those who share fundamental values. Victory will be decided by effectiveness, not righteousness"
+  composition:
+    cameraAngle: "Split screen revealing parallel actions and identical moral compromises"
+    focus: "Recognition that opponents use same methods for same fundamental goals"
+    depth: "Foreground shows tactical decisions, middle ground reveals human cost both accept, background suggests futility of conflict between similar motivations"

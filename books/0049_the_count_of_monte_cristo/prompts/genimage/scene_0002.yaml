@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1838, late afternoon
+    location: Mediterranean port of Marseilles in southern France, major commercial harbor with ancient maritime traditions
+    weather: Same brilliant Mediterranean sunshine, now casting longer shadows
+  characters:
+  - appearance: 42-year-old man, transformed from slender sailor to powerful, muscular figure. Still tall but now more imposing
+      build. Black hair perfectly arranged. Same black eyes but now filled with melancholy and occasional flashes of dark
+      hatred. Face elongated and hardened, features sharpened by determination
+    clothing: Impeccable black or very dark clothing of highest quality - perfectly tailored frock coat, waistcoat, trousers.
+      Austere simplicity that contrasts with colorful Parisian fashion. Every garment represents mourning for his lost life
+      and creates aura of mystery
+    position: Standing on deck of elegant private yacht, observing the familiar harbor with changed eyes
+    action: Gazing silently at the port where his young dreams died, hands clasped behind back in controlled stillness
+  scene:
+    mainElements: Same stone buildings with red tile roofs, but now showing 23 years of additional weathering, defensive walls
+      of Fort Saint-Jean unchanged but with different crowds, Notre-Dame de la Garde church standing eternal, sleek modern
+      yacht contrasting with working vessels
+    details: Ivy grown thicker on stone walls, some buildings renovated while others show decay, new gaslight installations
+      beginning to appear, different generation of children playing where young Edmond once walked, seagulls still wheeling
+      in same patterns
+    background: Marseilles preserved in its essential character but marked by time's passage, same terraced levels but with
+      subtle architectural changes
+    atmosphere: Same maritime energy but now viewed through lens of loss and transformation. Sounds remain similar but carry
+      weight of memory. Scents of salt and spices now trigger painful nostalgia rather than joy. Air heavy with irony of return,
+      no text or letters visible
+  composition:
+    cameraAngle: Same medium shot from harbor level, but now looking at yacht instead of merchant vessel
+    focus: Count Monte Cristo's imposing figure, showing transformation from hopeful youth to mysterious avenger
+    depth: Foreground shows same water but different boats, middle ground features elegant yacht with Count prominent, background
+      reveals familiar yet changed Marseilles skyscape
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

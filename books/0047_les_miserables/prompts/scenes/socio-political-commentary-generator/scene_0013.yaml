@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Erased Identity - Uniformity Crushing Individuality"
+  setting:
+    time: "1827, morning assembly at institutional facility"
+    location: "Orphanage courtyard in Paris operated under government regulation"
+    weather: "Gray morning with weak sunlight filtered through institutional walls"
+  characters:
+    - appearance: "Children arranged in perfect formation, individual features made indistinguishable by regulation appearance"
+      clothing: "Identical gray uniforms without personal modifications, hair cut to regulation length, forbidden personal items removed"
+      position: "Standing in numbered positions according to height and age classifications"
+      action: "Reciting official catechism in unison, voices blending into single collective sound, individual expression completely suppressed"
+    - appearance: "Institutional supervisor maintaining rigid control over children's behavior and appearance"
+      clothing: "Severe black dress with white collar, hair pulled back severely, expression of grim authority over vulnerable population"
+      position: "Standing at front of formation holding regulation manual"
+      action: "Leading recitation of institutional rules, inspecting uniform compliance, identifying any deviation from required conformity"
+  scene:
+    mainElements: "Children arranged in military-style formation, institutional banners displaying moral slogans, flagpole with official flag"
+    details: "Regulation books held at identical angles, children's faces showing learned submission to authority. Posted charts showing daily schedule without variation, punishment records for individual expression, official portraits of institutional benefactors. Stone walls designed to prevent outside contact, barred windows maintaining security"
+    background: "Institutional buildings with uniform windows and locked doors, high walls preventing escape or outside influence"
+    atmosphere: "Systematic destruction of individual identity through forced conformity, childhood joy eliminated through institutional control"
+  composition:
+    cameraAngle: "Military inspection view emphasizing regimented human organization"
+    focus: "Loss of individual identity within collective conformity"
+    depth: "Uniformed children in foreground, institutional authority in middle ground, controlling architecture in background designed to eliminate personal expression"

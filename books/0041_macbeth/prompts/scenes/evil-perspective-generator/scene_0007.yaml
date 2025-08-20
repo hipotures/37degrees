@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadows That Lead and Follow"
+  setting:
+    time: "11th century Scotland, pre-dawn darkness in castle corridors"
+    location: "Stone passageways and chambers within fortress interior"
+    weather: "Still night with heavy air suggesting approaching storm"
+  characters:
+    - appearance: "Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors. Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements."
+      clothing: "Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays. Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption."
+      position: "Moves through torch-lit corridors following or being followed by his own shadow"
+      action: "Pursues shadow that seems to move independently, reaching out to touch walls where shadow-hand has already gestured, walking paths his dark reflection has already chosen"
+  scene:
+    mainElements: "Long stone corridors lit by widely spaced torches creating pools of light separated by deep shadows. Ancient tapestries line walls, depicting heroic deeds and noble victories that mock current dark purpose"
+    details: "Shadow on wall appears to move before its caster, gesturing toward hidden passages and secret routes. Torch flames bend toward shadow as if drawn by supernatural force. Footsteps echo in passages both behind and ahead of moving figure. Other shadows seem to gather and whisper, offering guidance toward inevitable destination"
+    background: "Fortress sleeps around this midnight journey, doors to chambers where innocents rest unaware of approaching change. Weapons mounted on walls catch torchlight, gleaming with promise or threat. Stairs lead both up to power and down to dark deeds"
+    atmosphere: "Boundary between leader and led dissolves as shadow assumes agency. Internal drive toward necessary action takes external form, guiding steps toward predetermined conclusion. Question of whether man follows shadow or shadow follows man becomes meaningless - both serve same dark purpose"
+  composition:
+    cameraAngle: "Following shot tracking both figure and shadow as they move through corridors"
+    focus: "Interplay between solid form and shadow double suggesting loss of moral agency"
+    depth: "Foreground shows shadow leading on wall, middle ground reveals following figure, background extends into labyrinth of moral choices already made"

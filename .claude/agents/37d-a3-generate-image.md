@@ -54,17 +54,18 @@ const readyImageTasks = await mcp__todoit__todo_find_subitems_by_status({
   limit: 1  // Przetwarzaj tylko jedno zadanie na raz
 });
 
-if (!readyImageTasks.success || readyImageTasks.items.length === 0) {
+if (!readyImageTasks.success || readyImageTasks.matches.length === 0) {
   console.log("No image_gen subtasks ready for processing");
   return;
 }
 
-const nextTask = readyImageTasks.items[0];
-const imageGenSubtaskKey = nextTask.item_key;  // np. "image_gen"
-const sceneKey = nextTask.parent_key;          // np. "scene_0001"
+const nextTask = readyImageTasks.matches[0];
+const parentItem = nextTask.parent;
+const sceneKey = parentItem.item_key;          // np. "scene_0001"
+const imageGenSubtask = nextTask.matching_subitems.find(s => s.item_key === "image_gen");
 
 console.log(`Processing ${sceneKey} for image generation`);
-console.log(`Found ${readyImageTasks.count} total image_gen tasks ready`);
+console.log(`Found ${readyImageTasks.matches_count} total image_gen tasks ready`);
 ```
 
 ### 3. Rozpocznij przetwarzanie
@@ -79,11 +80,11 @@ console.log(`Starting image generation for ${imageGenSubtaskKey}`);
 
 ```javascript
 // Znajdź odpowiedni scene_style subtask aby odczytać ścieżkę pliku
-const styleSubtaskKey = "scene_style";
+const styleSubtask = nextTask.matching_subitems.find(s => s.item_key === "scene_style");
 
 const stylePathProperty = await mcp__todoit__todo_get_item_property({
   list_key: "[TODOIT_LIST]",
-  item_key: styleSubtaskKey,
+  item_key: styleSubtask.item_key,
   parent_item_key: sceneKey,
   property_key: "scene_style_pathfile"
 });
@@ -227,8 +228,7 @@ await mcp__playwright-headless__browser_click({
 
 ```javascript
 // CRITICAL: ChatGPT używa contenteditable div, NIE textarea!
-const sceneNumber = sceneKey.replace('scene_', '').replace(/^0+/, '') || '1';
-const promptText = `scene_${sceneNumber} - create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.`;
+const promptText = `${sceneKey} - create an image based on the scene, style, and visual specifications described in the attached YAML. The YAML is a blueprint, not the content.`;
 
 await mcp__playwright-headless__browser_evaluate({
   function: `() => {
@@ -330,7 +330,8 @@ if (responseText.includes("can't create that image") ||
   // Zapisz komunikat błędu w właściwościach zadania
   await mcp__todoit__todo_set_item_property({
     list_key: "[TODOIT_LIST]",
-    item_key: imageGenSubtaskKey,
+    item_key: "image_gen",
+    parent_item_key: sceneKey,
     property_key: "ERROR",
     property_value: errorMessage
   });
@@ -343,7 +344,8 @@ if (responseText.includes("can't create that image") ||
   // Zapisz thread ID w właściwościach zadania
   await mcp__todoit__todo_set_item_property({
     list_key: "[TODOIT_LIST]",
-    item_key: imageGenSubtaskKey,
+    item_key: "image_gen",
+    parent_item_key: sceneKey,
     property_key: "thread_id",
     property_value: threadId
   });
@@ -352,12 +354,12 @@ if (responseText.includes("can't create that image") ||
   await mcp__todoit__todo_update_item_status({
     list_key: "[TODOIT_LIST]",
     item_key: sceneKey,
-    subitem_key: imageGenSubtaskKey,
+    subitem_key: "image_gen",
     status: "failed"
   });
   
   // Raportuj błąd
-  console.log(`BŁĄD: ${nextTask.content} - ChatGPT generation error. Thread ID: ${threadId}`);
+  console.log(`BŁĄD: ${sceneKey} image_gen - ChatGPT generation error. Thread ID: ${threadId}`);
   console.log(`Error details: ${errorMessage}`);
   return;
 }
@@ -370,7 +372,8 @@ const threadId = await mcp__playwright-headless__browser_evaluate({
 // Zapisz thread ID w właściwościach zadania
 await mcp__todoit__todo_set_item_property({
   list_key: "[TODOIT_LIST]",
-  item_key: imageGenSubtaskKey,
+  item_key: "image_gen",
+  parent_item_key: sceneKey,
   property_key: "thread_id",
   property_value: threadId
 });
@@ -379,12 +382,12 @@ await mcp__todoit__todo_set_item_property({
 await mcp__todoit__todo_update_item_status({
   list_key: "[TODOIT_LIST]",
   item_key: sceneKey,
-  subitem_key: imageGenSubtaskKey,
+  subitem_key: "image_gen",
   status: "completed"
 });
 
 // Raportuj sukces
-console.log(`Zadanie ${nextTask.content} ukończone. Thread ID: ${threadId}`);
+console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 ```
 
 ## Uwagi techniczne:
@@ -400,67 +403,13 @@ console.log(`Zadanie ${nextTask.content} ukończone. Thread ID: ${threadId}`);
 - **Nazwa projektu** ChatGPT = BOOK_FOLDER (np. "0011_gullivers_travels")
 - **CRITICAL:** Używaj contenteditable div, NIE textarea dla promptu
 - **Element refs** są dynamiczne - zawsze rób snapshot przed interakcją
+- NIE oznaczaj zadanie jako błędne, jeśli nie ma wyraźnego komunikatu o błędzie
 
 ## Stan końcowy zadania:
 
 - Jedno image_gen subtask przetworzone z ustawionym statusem completed/failed
 - Thread ID zapisany w właściwościach image_gen subtaska
-- PROJECT_ID zapisany w właściwościach listy (przy pierwszym wywołaniu)
+- PROJECT_ID zapisany w właściwościach listy (jeśli projekt był tworzony)
 - Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML
 - Worker zakończył działanie - można wywołać następne zadanie
 - Zadanie główne pozostaje in_progress do czasu ukończenia pobierania
-
-## Optymalizacja z todo_find_subitems_by_status:
-
-**Korzyści używania `todo_find_subitems_by_status`:**
-
-1. **Jednozapytaniowe wyszukiwanie** - Zamiast iterować przez wszystkie subtaski i sprawdzać statusy rodzeństwa, jedna operacja znajduje gotowe zadania
-2. **Filtrowanie na poziomie bazy** - Warunki aplikowane w SQL, nie w kodzie aplikacji  
-3. **Limit na poziomie zapytania** - Pobiera tylko potrzebną liczbę wyników
-4. **Automatyczna synchronizacja** - Zawsze aktualne statusy bez ręcznego odświeżania
-
-**Przykład bez optymalizacji (powolny):**
-```javascript
-// ❌ Nieefektywne - wymaga wielu zapytań
-const allItems = await todo_get_list_items(list_key);
-const readyTasks = [];
-for (const item of allItems.items) {
-  const subtasks = await todo_get_subtasks(list_key, item.item_key);
-  const styleTask = subtasks.find(s => s.item_key.includes('_scene_style'));
-  const imageTask = subtasks.find(s => s.item_key.includes('_image_gen'));
-  if (styleTask?.status === 'completed' && imageTask?.status === 'pending') {
-    readyTasks.push(imageTask);
-  }
-}
-```
-
-**Z optymalizacją (szybki):**
-```javascript
-// ✅ Efektywne - jedno zapytanie  
-const readyTasks = await todo_find_subitems_by_status({
-  list_key: "[TODOIT_LIST]",
-  conditions: {
-    "scene_style": "completed", 
-    "image_gen": "pending"
-  },
-  limit: 1
-});
-```
-
-## Integracja z następnym etapem:
-
-Po ukończeniu, system jest gotowy na 37d-a4-download-image:
-
-```javascript
-// Sprawdź gotowość na pobieranie
-const readyDownloadTasks = await mcp__todoit__todo_find_subitems_by_status({
-  list_key: "[TODOIT_LIST]",
-  conditions: {
-    "image_gen": "completed",
-    "image_dwn": "pending"
-  },
-  limit: 25
-});
-
-console.log(`Ready for download: ${readyDownloadTasks.items.length} scenes`);
-```

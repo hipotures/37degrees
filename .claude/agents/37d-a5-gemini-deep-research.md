@@ -57,21 +57,21 @@ Jeśli plik nie istnieje, kończę z błędem.
 Otwieram Google Gemini:
 
 ```javascript
-await mcp__playwright-headless__browser_navigate("https://gemini.google.com/");
-await mcp__playwright-headless__browser_wait_for({time: 3});
+await mcp__playwright-show-browser__browser_navigate("https://gemini.google.com/");
+await mcp__playwright-show-browser__browser_wait_for({time: 3});
 ```
 
 Robię snapshot i sprawdzam model. Jeśli model to nie "Gemini 2.5 Pro", zmieniam go:
 
 ```javascript
 // Kliknij przycisk wyboru modelu
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Przycisk wyboru modelu",
     ref: "[REF_Z_SNAPSHOT]"
 });
 
 // Wybierz Gemini 2.5 Pro
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Model 2.5 Pro",
     ref: "[REF_Z_SNAPSHOT]"
 });
@@ -82,7 +82,7 @@ await mcp__playwright-headless__browser_click({
 Klikam przycisk Deep Research:
 
 ```javascript
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Przycisk Deep Research",
     ref: "[REF_Z_SNAPSHOT]"
 });
@@ -105,18 +105,18 @@ Focus na pole tekstowe i wklejenie przez Control+V:
 
 ```javascript
 // Focus na pole tekstowe
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Pole tekstowe promptu",
     ref: "[REF_Z_SNAPSHOT]"
 });
 
 // Wklej zawartość przez Control+V
-await mcp__playwright-headless__browser_press_key({
+await mcp__playwright-show-browser__browser_press_key({
     key: "Control+v"
 });
 
 // Wyślij za pomocą Ctrl+Enter
-await mcp__playwright-headless__browser_press_key({
+await mcp__playwright-show-browser__browser_press_key({
     key: "Control+Enter"
 });
 ```
@@ -131,7 +131,7 @@ sleep 115
 Klikam "Zacznij wyszukiwanie":
 
 ```javascript
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Zacznij wyszukiwanie",
     ref: "[REF_Z_SNAPSHOT]"
 });
@@ -142,7 +142,7 @@ await mcp__playwright-headless__browser_click({
 Pobieram i zapisuję URL czatu:
 
 ```javascript
-const chatUrl = await mcp__playwright-headless__browser_evaluate({
+const chatUrl = await mcp__playwright-show-browser__browser_evaluate({
     function: "() => window.location.href"
 });
 
@@ -159,26 +159,26 @@ Zmieniam nazwę czatu na book_folder:
 
 ```javascript
 // Otwórz menu opcji (3 kropki)
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Menu opcji",
     ref: "[REF_Z_SNAPSHOT]"
 });
 
 // Kliknij "Zmień nazwę"
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Opcja 'Zmień nazwę'",
     ref: "[REF_Z_SNAPSHOT]"
 });
 
 // Wprowadź nową nazwę
-await mcp__playwright-headless__browser_type({
+await mcp__playwright-show-browser__browser_type({
     element: "Pole nazwy czatu",
     ref: "[REF_Z_SNAPSHOT]",
     text: book_folder
 });
 
 // Potwierdź zmianę
-await mcp__playwright-headless__browser_click({
+await mcp__playwright-show-browser__browser_click({
     element: "Przycisk 'Zmień nazwę'",
     ref: "[REF_Z_SNAPSHOT]"
 });
@@ -200,7 +200,7 @@ console.log(`Status Deep Research dla ${book_folder}: in_progress`);
 Zamykam przeglądarkę:
 
 ```javascript
-await mcp__playwright-headless__browser_close();
+await mcp__playwright-show-browser__browser_close();
 console.log("Proces automatyzacji zakończony pomyślnie");
 ```
 

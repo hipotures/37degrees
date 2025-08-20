@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Gilded Prison - Elite Isolation Behind Privilege"
+  setting:
+    time: "1828, late afternoon in wealthy district"
+    location: "Private salon in aristocratic mansion, Faubourg Saint-Germain, Paris"
+    weather: "Golden hour light streaming through tall windows"
+  characters:
+    - appearance: "Wealthy elderly gentleman in sumptuous surroundings, powdered hair and refined features suggesting generations of privilege"
+      clothing: "Silk brocade coat with gold buttons, fine linen shirt with lace cuffs, velvet breeches, satin shoes with silver buckles"
+      position: "Seated in ornate armchair beside marble fireplace"
+      action: "Reading official gazette while completely isolated from realities beyond palace walls, occasionally sipping from crystal wine glass"
+    - appearance: "Liveried servants moving silently through room, trained to invisibility while maintaining luxury"
+      clothing: "Matching uniforms of dark cloth with brass buttons, white gloves, powdered wigs, polished shoes making no sound on Persian carpets"
+      position: "Stationed at room perimeter ready to fulfill any wish"
+      action: "Arranging fresh flowers, polishing silver, maintaining perfect environment while remaining functionally invisible"
+  scene:
+    mainElements: "Opulent furniture with gold leaf and silk upholstery, crystal chandeliers casting rainbow light, marble sculptures representing classical virtues"
+    details: "Walls lined with leather-bound books never opened, paintings depicting pastoral scenes bearing no resemblance to actual countryside. Fresh orchids in silver vases, imported delicacies on porcelain plates, silk curtains filtering harsh realities of external world. Persian carpets so thick they muffle all sound of movement"
+    background: "Tall windows overlooking private garden walls that block view of street, ensuring complete separation from ordinary urban life"
+    atmosphere: "Suffocating luxury creating complete disconnection from social reality, privilege as form of voluntary blindness maintained through elaborate isolation"
+  composition:
+    cameraAngle: "Interior view emphasizing enclosed nature of privileged space"
+    focus: "Aristocratic figure as symbol of willful ignorance protected by wealth"
+    depth: "Luxurious furnishings in foreground, isolated figure in middle ground, garden walls in background suggesting barriers against reality"

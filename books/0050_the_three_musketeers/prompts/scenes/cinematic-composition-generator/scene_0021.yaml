@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Framed by Palace Window"
+  setting:
+    time: "1625, evening"
+    location: "Louvre Palace in central Paris, primary royal residence of French monarchy"
+    weather: "clear evening with golden light"
+  characters:
+    - appearance: "30s queen with Spanish beauty, dark hair elaborately styled, sad eyes, dignified composure"
+      clothing: "royal gown in ivory silk with Spanish lace, diamond jewelry including twelve ornate brooches, pearl earrings"
+      position: "centered within ornate window frame"
+      action: "gazing pensively into distance with melancholy expression"
+  scene:
+    mainElements: "natural frame created by palace window containing queen as living portrait"
+    details: "grand halls with marble columns, royal portraits, gilded decorations visible through window opening, ornate window frame with carved royal symbols creating border, twelve ornate diamond brooches catching golden evening light"
+    background: "palace chambers extending into shadows, suggesting isolation within grandeur"
+    atmosphere: "romantic melancholy with royal isolation, golden evening light creating portrait-like beauty"
+  composition:
+    cameraAngle: "medium shot with window frame creating natural compositional border"
+    focus: "queen sharp within window frame, palace interior softly focused beyond"
+    depth: "window frame sharp in foreground, queen in middle ground, palace chambers in soft background, no text or letters visible"

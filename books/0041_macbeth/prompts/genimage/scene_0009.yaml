@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 11th century Scotland, morning during religious observance
+    location: Castle chapel filled with praying nobles and courtiers
+    weather: Bright sunlight streaming through colored glass windows creating false rainbow
+  characters:
+  - appearance: Man aged 35-45 years, tall and powerfully built with muscular frame from years of warfare. Weather-beaten
+      face marked by one or two battle scars. Dark hair reaching shoulders and full beard typical of 11th century warriors.
+      Eyes evolve from sharp and focused early on to increasingly paranoid, bloodshot and shadowed with sleeplessness as corruption
+      takes hold. Posture degrades from confident warrior stance to increasingly hunched and furtive movements.
+    clothing: Initially practical leather armor or chainmail over wool tunic in dark earth tones - browns, greens, grays.
+      Woolen cloak fastened with metal brooch. As king, wears richer robes that appear ill-fitting like 'giant's robe upon
+      dwarfish thief', evolving toward black and deep blood-red colors to reflect moral corruption.
+    position: Kneels in rear of chapel observing those who pray for mercy while showing none
+    action: Watches with cold clarity as same nobles who condemned innocents yesterday now beg divine forgiveness for unnamed
+      sins they plan to repeat tomorrow
+  scene:
+    mainElements: Stone chapel filled with kneeling figures in rich robes, carved altar dominated by crucified Christ figure,
+      rows of wooden pews occupied by Scotland's moral elite. Priest intones prayers for forgiveness and divine guidance
+    details: Same lord who refused mercy to starving peasant now weeps for divine compassion. Noble who executed father to
+      steal lands prays for protection of family. Wealthy courtier who taxes poor into starvation beseeches God for daily
+      bread. Hands raised in supplication are same hands that sign death warrants and seize property
+    background: Stained glass windows depict saints and martyrs who died for justice, their colored light falling on those
+      who murder justice daily. Stone carvings show Christ driving money-changers from temple, irony lost on audience that
+      profits from similar corruption
+    atmosphere: Religious ritual reveals itself as elaborate performance allowing practitioners to feel virtuous while changing
+      nothing about their behavior. Prayer becomes tool for maintaining clear conscience rather than examining corrupted actions.
+      Divine mercy exists to excuse human cruelty rather than inspire human kindness
+  composition:
+    cameraAngle: Over shoulder view from cynical observer watching performance of false piety
+    focus: Contrast between professed faith and practiced cruelty visible in same faces
+    depth: Foreground shows clear-eyed witness to hypocrisy, middle ground reveals performing hypocrites, background features
+      religious imagery that condemns their behavior
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

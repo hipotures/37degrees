@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1860s Russian Empire, early evening continuing
+    location: Elegant salon in Katerina Iwanowna's residence in provincial town Skotoprigoniewsk
+    weather: Evening light through tall windows
+  characters:
+  - appearance: 22-year-old woman of captivating beauty, rather tall with full figure reminiscent of Venus de Milo in slightly
+      exaggerated proportions, magnificent abundant dark brown hair, sable eyebrows and lovely gray-blue eyes with long eyelashes
+    clothing: Rich attire including magnificent black silk dress and expensive cashmere shawl, clothing emphasizing sensuality
+      and newfound wealth
+    position: Rising from sofa with fluid serpentine motion
+    action: False sweet smile replaced by cold calculating expression, voice dropping to venomous whisper
+  - appearance: Early twenties rare beauty, exceptionally tall even taller than Grusznenka, pale somewhat earthy elongated
+      face with magnificent burning black eyes and excellent mouth
+    clothing: Impeccably dressed according to latest European fashion reflecting status and pride, elegant structured garments
+      more austere in style
+    position: Drawing herself to full imposing height, aristocratic bearing
+    action: Aristocratic mask slipping to reveal wounded pride and savage jealousy beneath refinement
+  scene:
+    mainElements: Salon's elegant furniture becoming battlefield props, sofa abandoned as women face each other in open war,
+      chandeliers casting harsh light on unveiled hatred
+    details: Expensive decorations witnessing destruction of social pretense, crystal reflecting fractured light like shattered
+      illusions, fine fabrics and furniture mocking civilized behavior
+    background: European artwork looking down on primitive display, servants fled from doorways, empty spaces emphasizing
+      isolation of conflict
+    atmosphere: Sophisticated veneer completely stripped away revealing elemental female rivalry, refined setting contaminated
+      by raw emotion
+  composition:
+    cameraAngle: Medium close-up capturing moment when social masks are discarded for true feelings
+    focus: Eyes of both women revealing authentic hatred beneath performed civility
+    depth: Foreground shows abandoned props of civilization, middle ground captures unveiled feminine warfare, background
+      shows fled witnesses
+visualElements:
+  colorPalette:
+    primary:
+    - gold leaf
+    - deep blue
+    - rich red
+    secondary:
+    - purple
+    - white
+    - black outlines
+    background: gold leaf or rich colored backgrounds
+    usageNotes: Rich, symbolic colors with extensive use of gold
+    saturation: high (rich, symbolic colors)
+    contrast: medium (gold backgrounds reduce contrast)
+  lineArt:
+    style: strong, defining outlines
+    weight: consistent, bold outlines
+    color: dark brown or black outlines
+    texture: flat, linear treatment
+    edgeTreatment: sharp, defined edges
+  lighting:
+    type: no naturalistic lighting, symbolic illumination
+    direction: divine light emanating from figures
+    intensity: spiritual radiance
+    shadows:
+      style: no shadows (spiritual realm)
+      color: none
+      opacity: none
+    highlights: gold halos, divine radiance
+  rendering:
+    technique: flat, symbolic representation
+    texture: smooth with mosaic-like quality
+    detailLevel: high in symbolic details, simplified forms
+    finish: matte with gold leaf
+  perspective: no linear perspective, hierarchical scale
+  mood:
+    overall: spiritual, eternal, divine
+    emotion: reverence, transcendence, devotion
+    tempo: timeless, eternal
+    keywords:
+    - spiritual
+    - eternal
+    - divine
+    - transcendent
+    - hieratic
+  stylePrecedents:
+  - Hagia Sophia mosaics
+  - Byzantine icon paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

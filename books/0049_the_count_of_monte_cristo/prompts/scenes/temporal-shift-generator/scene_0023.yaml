@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Repetition - Justice Across Centuries"
+  setting:
+    time: "Multiple historical periods showing recurring patterns of justice"
+    location: "Public square in Marseilles across different political regimes"
+    weather: "Various lighting conditions showing different eras of French history"
+  characters:
+    - appearance: "Various figures from different French political periods - Revolutionary, Napoleonic, Restoration, July Monarchy - all seeking justice in same public space"
+      clothing: "Period costumes spanning decades showing fashion evolution but consistent human motivations"
+      position: "Multiple temporal layers showing different generations seeking justice in same square"
+      action: "Repeated patterns of accusation, trial, and judgment across French political changes"
+  scene:
+    mainElements: "Public square architecture remaining constant while political symbols change - revolutionary flags becoming imperial eagles becoming royal lilies becoming bourgeois banners"
+    details: "Same cobblestones worn by generations seeking justice, fountain providing constant water despite changing governments, buildings showing different political decorations but same essential architecture"
+    background: "Marseilles buildings showing architectural continuity despite political upheavals, Mediterranean providing eternal backdrop to temporary human conflicts"
+    atmosphere: "Historical patterns repeating as different regimes face same human conflicts. Sounds of different periods overlapping - revolutionary songs, imperial marches, royal anthems, bourgeois commerce - but same human voices seeking justice, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot showing public square across multiple historical periods"
+    focus: "Recurring human patterns of seeking justice despite changing political circumstances"
+    depth: "Foreground shows period-specific details and costumes, middle ground captures overlapping temporal figures, background reveals architectural continuity across political change"

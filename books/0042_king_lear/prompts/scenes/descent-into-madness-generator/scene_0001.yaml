@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Royal Division - Ceremony in the Throne Room"
+  setting:
+    time: "Ancient Britain, late afternoon"
+    location: "Grand stone throne room in King Lear's palace in ancient Britain, massive interior with high vaulted ceilings supported by heavy oak beams"
+    weather: "Clear day with pale light filtering through narrow windows"
+  characters:
+    - appearance: "Elderly man over 80 years old, tall with initially imposing posture that becomes increasingly frail and stooped. Face deeply lined with age, strong jawline and prominent nose. Piercing eyes that shift from commanding to confused and wild as madness progresses"
+      clothing: "Initially ornate royal robes of purple and gold with ermine-lined ceremonial cloak and heavy golden crown"
+      position: "Seated regally on raised throne, looking down at assembled court"
+      action: "Holding court ceremony, gesturing grandly toward large map spread before throne"
+    - appearance: "Young woman around 20-22 years old, slender build with natural grace and dignity. Noble features with honest, direct gaze. Fair complexion with light brown or blonde hair"
+      clothing: "Simple yet elegant court dress in modest colors like cream, pale blue, or soft green"
+      position: "Standing with quiet dignity among sisters before throne"
+      action: "Listening to father's pronouncement with growing unease"
+    - appearance: "Woman around 35 years old, tall with sharp, angular features. Cold, calculating expression. Dark hair typically pulled back severely. Piercing, intelligent eyes"
+      clothing: "Elegant but austere gowns in dark colors - black, deep green, burgundy. Rich fabrics but severe, masculine-influenced cuts that emphasize authority"
+      position: "Standing beside throne, closer to father than other sisters"
+      action: "Watching proceedings with shrewd, anticipatory expression"
+  scene:
+    mainElements: "Imposing stone walls lined with dark wood paneling, tall narrow windows deeply set in thick walls, enormous fireplace with iron fittings, raised dais with ornate wooden throne"
+    details: "Large map of ancient Britain drawn on thick parchment or animal hide, showing territorial divisions marked in different colors, rolled or spread flat on heavy wooden table, archaic symbols and decorations marking major cities and borders. Heavy golden crown with precious gems, symbol of absolute royal authority. Assembled courtiers in rich period clothing standing at respectful distance. Flickering torch light creating subtle shadows that seem to move independently, suggesting underlying tensions"
+    background: "Stone walls covered with faded tapestries depicting royal lineage, suits of armor standing sentinel in alcoves, heavy wooden doors reinforced with iron bands"
+    atmosphere: "Formal, oppressive, heavy with authority and tradition. Cold stone surfaces, flickering firelight casting dancing shadows, echoing footsteps on stone floors. Subtle sense that something fundamental is about to shift, though ceremony appears normal"
+  composition:
+    cameraAngle: "Wide shot establishing the grandeur of throne room from low angle"
+    focus: "King on throne dominating frame, with map and daughters arranged before him"
+    depth: "Throne and king in sharp focus foreground, daughters and courtiers in middle ground, shadowy alcoves and tapestries in background"

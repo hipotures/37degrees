@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Underground Storage Chambers and Hidden Passages"
+  setting:
+    time: "Late Bronze Age around 1200 BCE, dim interior lighting"
+    location: "Subterranean chambers carved into bedrock beneath Mycenaean settlement, used for storage and emergency shelter"
+    weather: "Interior cave environment with cool stable temperature and high humidity"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone-carved underground chambers connected by narrow tunnels, massive ceramic storage jars partially buried in earthen floors, bronze weapons and tools hidden in wall niches, secret passages leading to different parts of settlement, water cisterns carved from solid rock"
+    details: "Oil lamps mounted in stone holders casting flickering shadows on rough-hewn walls, wooden shelves holding precious metals and valuable goods, ceramic vessels sealed with wax and resin for long-term preservation, bronze locks and security devices protecting valuable storage areas, stone-lined drainage channels preventing water accumulation, wooden ladders providing access to upper storage levels, emergency food supplies including dried grains and preserved meats"
+    background: "Natural limestone formations creating complex cave systems, evidence of careful engineering in chamber construction, multiple tunnel entrances hidden within settlement buildings, connections to natural springs providing emergency water supply"
+    atmosphere: "Mysterious underground world hidden beneath civilized surface, cool damp air carrying earthy aromas, sense of preparation for siege or emergency, secretive storage of wealth and resources away from potential raiders"
+  composition:
+    cameraAngle: "Underground perspective showing chamber depths and tunnel connections"
+    focus: "Central storage chamber with ceramic jars and bronze security measures"
+    depth: "Foreground: immediate storage vessels and bronze implements, middle ground: chamber architecture and wall niches, background: tunnel openings and deeper cave systems"
