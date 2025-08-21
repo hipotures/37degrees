@@ -12,9 +12,11 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0040_hamlet"
-  "0041_macbeth"
   "0042_king_lear"
+  "0043_crime_and_punishment"
+  "0044_the_brothers_karamazov"
+  "0045_war_and_peace"
+  "0046_madame_bovary"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
@@ -25,6 +27,9 @@ MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
 
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
 SLEEP_DURATION=103
+
+# Plik do zapamiętywania ostatnio przetwarzanych scen dla każdej listy
+LAST_SCENE_FILE="/tmp/todoit-a3-last-scenes.txt"
 
 # Sprawdzenie, czy plik z komendą istnieje, aby uniknąć błędów.
 if [ ! -f "$COMMAND_FILE" ]; then
@@ -71,6 +76,45 @@ calculate_sleep_time() {
     fi
     
     echo "$sleep_time"
+}
+
+
+# Funkcja do zapisania ostatnio przetwarzanej sceny dla listy
+save_last_scene() {
+    local list_key="$1"
+    local scene_key="$2"
+    
+    # Utwórz plik jeśli nie istnieje
+    touch "$LAST_SCENE_FILE"
+    
+    # Usuń poprzedni wpis dla tej listy (jeśli istnieje)
+    grep -v "^$list_key:" "$LAST_SCENE_FILE" > "$LAST_SCENE_FILE.tmp" 2>/dev/null || true
+    
+    # Dodaj nowy wpis
+    echo "$list_key:$scene_key" >> "$LAST_SCENE_FILE.tmp"
+    
+    # Zastąp oryginalny plik
+    mv "$LAST_SCENE_FILE.tmp" "$LAST_SCENE_FILE"
+}
+
+# Funkcja do sprawdzenia czy scena się powtarza
+check_repeated_scene() {
+    local list_key="$1"
+    local scene_key="$2"
+    
+    # Sprawdź czy plik istnieje
+    if [ ! -f "$LAST_SCENE_FILE" ]; then
+        return 1  # Plik nie istnieje - pierwsza próba
+    fi
+    
+    # Sprawdź czy ostatnia scena dla tej listy to ta sama
+    last_scene=$(grep "^$list_key:" "$LAST_SCENE_FILE" 2>/dev/null | cut -d: -f2)
+    
+    if [ "$last_scene" = "$scene_key" ]; then
+        return 0  # Scena się powtarza
+    else
+        return 1  # Inna scena lub brak wpisu
+    fi
 }
 
 # Funkcja do pobrania następnego zadania z TODOIT
@@ -169,6 +213,26 @@ for book_dir in "${book_directories[@]}"; do
         
         echo "🎯 Następne zadanie: $task_key"
         
+        # Sprawdź czy ta sama scena była przetwarzana w poprzedniej iteracji
+        if check_repeated_scene "$book_dir" "$task_key"; then
+            echo "🔄 Wykryto powtarzającą się scenę: $task_key dla $book_dir"
+            echo "💤 To oznacza limit ChatGPT Plus - wykonuję sleep 6h (21600 sekund)..."
+            
+            # Pokaż kiedy skrypt wznowi działanie
+            wake_time=$(date -d "+6 hours" "+%Y-%m-%d %H:%M:%S %Z")
+            echo "⏰ Wznowienie przetwarzania o: $wake_time"
+            
+            sleep 21600  # 6 godzin
+	    rm "$LAST_SCENE_FILE"
+            echo "🚀 Kontynuowanie przetwarzania po 6h sleep..."
+            
+            # Nie zwiększaj licznika iteracji - powtórz tę samą iterację
+            continue
+        fi
+        
+        # Zapisz scenę jako ostatnio przetwarzaną
+        save_last_scene "$book_dir" "$task_key"
+        
         # Wywołaj agenta 37d-a3-generate-image dla konkretnego zadania z retry logic
         claude_output=$(execute_claude_with_retry "$book_dir")
 
@@ -220,7 +284,7 @@ for book_dir in "${book_directories[@]}"; do
                 fi
             fi
         else
-            # Wyświetl output z Claude tylko jeśli nie było błędu
+            # Wyświetl output z Claude
             echo "$claude_output"
         fi
 

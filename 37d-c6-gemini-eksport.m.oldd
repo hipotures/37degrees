@@ -18,12 +18,15 @@
 
 Pobierz pierwszą pozycję ze statusem `in_progress` z listy zadań:
 
-const result = await mcp__todoit__todo_get_list_items({
-  list_key: "gemini-deep-research",
-  status: "in_progress",
+const readyDownloadTasks = await mcp__todoit__todo_find_subitems_by_status({
+  list_key: "[BOOK_FOLDER]",
+  conditions: {
+    "ds_gen": "completed",
+    "ds_exp": "pending"
+  },
   limit: 1
 });
-const BOOK_FOLDER = result.items[0].item_key;
+
 
 **Przykładowy wynik:** `0002_animal_farm` - "Deep Research for Animal Farm by George Orwell"
 
@@ -37,18 +40,7 @@ const BOOK_FOLDER = result.items[0].item_key;
 
 ---
 
-### Krok 3: Wyszukanie chatu z książką (3 opcje znalezienia)
-Jeśli któraś opcja zwórci poprawny url, zignoruj pozostałe opcje.
-
-Opcja 1.
-
-search_url = todo_get_item_property(
-   list_key : 'gemini-deep-research',
-   item_key : '[BOOK_FOLDER]',
-   property_key : 'SEARCH_URL'
-)
-
-Opcja 2.
+### Krok 3: Wyszukanie chatu z książką
 // mcp__todoit__todo_get_item_property
 search_url = todo_get_item_property(
    list_key : '[BOOK_FOLDER]',
@@ -56,7 +48,7 @@ search_url = todo_get_item_property(
    property_key : 'SEARCH_URL'
 )
 
-Opcja 3.
+Jeśli research_url nie zwróci wartosci lub zwróci błąd, wykonaj te cztery punkty:
 1. **Nawigacja**
    - Przejdź do: `https://gemini.google.com/search`
 
@@ -80,15 +72,13 @@ Przejdź do strony $search_url
    - Kliknij przycisk eksportu: `button[data-test-id="export-menu-button"]`
    - Wybierz opcję eksportu do Dokumentów: `button[data-test-id="export-to-docs-button"]`
 
-2. **Status**
-Jesli ta operacja się udała, bedziesz mieć nową kartę Google Docs, wtedy oznacz
+Jeśli ta operacja się udała, zaktualizuj status eksportu dla tej książki:
   todo_update_item_status(
     list_key: "[BOOK_FOLDER]", 
     item_key: "gemini-ds",
     subitem_key: "ds_exp",
     status: "completed"
   )
-Jeśli operacja się nie udała, wróć do punktu 1 w tym kroku i ponów operację. Jeśli ponownie operacja się nie udała, przeładuj stronę i wróc do punktu 1.
 
 ---
 
@@ -132,20 +122,13 @@ mv "/tmp/playwright-mcp-output/[timestamp]/nazwa-pliku.txt" \
 
 Po pomyślnym zakończeniu całego procesu, gdy jesteś pewien, że plik review.txt zawiera
 odpowiednią treść (możesz odczytać pierwsze 10 linii, tam powinno być potwierdzenie poprawności,
-że to właściwa książka) znajduje oznacz zadanie jako wykonane wywołując 2 polecenia:
-
-todo_update_item_status(
-  list_key: "gemini-deep-research", 
-  item_key: "[BOOK_FOLDER]",
-  status: "completed"
-)
-
-todo_update_item_status(
-  list_key: "[BOOK_FOLDER]", 
-  item_key: "gemini-ds",
-  subitem_key: "ds_dwn",
-  status: "completed"
-)
+że to właściwa książka) znajduje oznacz zadanie jako wykonane:
+  todo_update_item_status(
+    list_key: "[BOOK_FOLDER]", 
+    item_key: "gemini-ds",
+    subitem_key: "ds_dwn",
+    status: "completed"
+  )
 
 ---
 

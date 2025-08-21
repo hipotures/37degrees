@@ -12,16 +12,26 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0041_macbeth"
-  "0042_king_lear"
-  "0043_crime_and_punishment"
-  "0044_the_brothers_karamazov"
-  "0045_war_and_peace"
-  "0046_madame_bovary"
-  "0047_les_miserables"
-  "0048_the_hunchback_of_notredame"
-  "0049_the_count_of_monte_cristo"
-  "0050_the_three_musketeers"
+  "0060_the_sun_also_rises"
+  "0061_one_flew_over_the_cuckoos_nest"
+  "0062_catch22"
+  "0063_slaughterhousefive"
+  "0064_the_metamorphosis"
+  "0065_the_castle"
+  "0066_doctor_zhivago"
+  "0067_the_gulag_archipelago"
+  "0068_one_day_in_the_life_of_ivan_denisovich"
+  "0069_lolita"
+  "0070_on_the_road"
+  "0071_beloved"
+  "0072_the_color_purple"
+  "0073_their_eyes_were_watching_god"
+  "0074_invisible_man"
+  "0075_native_son"
+  "0076_things_fall_apart"
+  "0077_the_god_of_small_things"
+  "0078_midnights_children"
+  "0079_the_satanic_verses"
 )
 
 # Plik z komendą/promptem dla modelu Claude.

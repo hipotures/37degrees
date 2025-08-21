@@ -16,9 +16,22 @@ This document contains 191 graphics styles available in the 37degrees project.
 
 **Style Keywords:** 2D animation, traditional animation, cartoon, motion graphics, frame by frame
 
+# Cinematic Anime Realism Style
+
+**File:** cinematic-anime-realism-style.yaml
+
+**Description:** Cinematic anime style blending filmic techniques with cel-shaded animation, featuring realistic proportions, natural backgrounds, and movie-like composition with shallow depth of field
+
+**AI Prompts:**
+
+**Base Prompt:** cinematic anime realism, cel-shaded, clean line art, realistic proportions, 2-3 tone shading, subdued colors, filmic lighting, shallow depth of field, fine film grain, 2.35:1 aspect ratio
+
+**Negative Prompt:** no chibi, no cartoonish, no manga screentones, no hyper-detail, no tiny text, no watermark, no duplicate limbs, no extra fingers, no deformed hands, no noisy backgrounds
+
+**Style Keywords:** cinematic anime, realistic proportions, cel-shaded, filmic lighting, shallow depth of field, Studio Ghibli inspired, Makoto Shinkai style
+
 ---
 
-# 3D Animation Style
 
 **File:** 3d-animation-style.yaml
 
@@ -3063,6 +3076,22 @@ This document contains 191 graphics styles available in the 37degrees project.
   - space age
   - raygun gothic
   - atomic age
+
+---
+
+# Cinematic Anime Realism Style
+
+**File:** cinematic-anime-realism-style.yaml
+
+**Description:** Cinematic anime style blending filmic techniques with cel-shaded animation, featuring realistic proportions, natural backgrounds, and movie-like composition with shallow depth of field
+
+**AI Prompts:**
+
+**Base Prompt:** cinematic anime realism, cel-shaded, clean line art, realistic proportions, 2-3 tone shading, subdued colors, filmic lighting, shallow depth of field, fine film grain, 2.35:1 aspect ratio
+
+**Negative Prompt:** no chibi, no cartoonish, no manga screentones, no hyper-detail, no tiny text, no watermark, no duplicate limbs, no extra fingers, no deformed hands, no noisy backgrounds
+
+**Style Keywords:** cinematic anime, realistic proportions, cel-shaded, filmic lighting, shallow depth of field, Studio Ghibli inspired, Makoto Shinkai style
 
 ---
 

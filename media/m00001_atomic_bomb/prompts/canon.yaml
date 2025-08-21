@@ -1,0 +1,135 @@
+canon:
+  characters:
+    - id: "j_robert_oppenheimer"
+      name: "J. Robert Oppenheimer"
+      description_block: |
+        characters:
+        - appearance: "Caucasian man, 40s, slender build, intense dark eyes, receding hairline, intellectual demeanor"
+          clothing: "1940s scientific attire - white lab coat over dress shirt, or casual 1940s suit with tie"
+          posture: "Thoughtful, often with hands in pockets or adjusting glasses"
+    - id: "albert_einstein"
+      name: "Albert Einstein"
+      description_block: |
+        characters:
+        - appearance: "Caucasian man, 60s, white hair, mustache, thoughtful expression, disheveled appearance"
+          clothing: "Early 20th century suit, slightly rumpled, no tie, casual academic attire"
+          posture: "Relaxed, often with hands behind head or gesturing while thinking"
+    - id: "harry_truman"
+      name: "Harry S. Truman"
+      description_block: |
+        characters:
+        - appearance: "Caucasian man, 60s, average build, glasses, determined expression, presidential bearing"
+          clothing: "1940s formal suit with white shirt and tie, presidential attire"
+          posture: "Authoritative, hands often clasped or pointing"
+    - id: "paul_tibbets"
+      name: "Paul Tibbets"
+      description_block: |
+        characters:
+        - appearance: "Caucasian man, 30s, athletic build, crew cut, determined military bearing"
+          clothing: "US Army Air Force uniform with pilot insignia, leather flight jacket"
+          posture: "Confident, professional military stance"
+    - id: "enrico_fermi"
+      name: "Enrico Fermi"
+      description_block: |
+        characters:
+        - appearance: "Caucasian man, 40s, dark hair, mustache, calm professional demeanor"
+          clothing: "1940s lab coat over formal attire, or casual 1940s suit"
+          posture: "Calm and focused, hands often holding scientific instruments"
+    - id: "female_scientist"
+      name: "Female Scientist"
+      description_block: |
+        characters:
+        - appearance: "Woman, 30s, professional appearance, focused expression, period-appropriate hairstyle"
+          clothing: "1940s women's work attire - skirt suit or lab coat, practical shoes"
+          posture: "Concentrated, precise movements while working"
+    - id: "military_personnel"
+      name: "Military Personnel"
+      description_block: |
+        characters:
+        - appearance: "Various ages, fit build, disciplined bearing, crew cuts or military haircuts"
+          clothing: "1940s US military uniforms with appropriate insignia, sometimes with protective gear"
+          posture: "Disciplined, professional, purposeful movements"
+
+  locations:
+    - id: "los_alamos_lab"
+      name: "Los Alamos Laboratory"
+      description_block: |
+        setting:
+          location: "Remote desert laboratory in New Mexico, 1940s"
+        mainElements: "Wooden buildings, barbed wire fences, desert landscape, temporary structures"
+        atmosphere: "Secretive, intense scientific atmosphere, dust and heat, isolated from civilization"
+    - id: "hiroshima_city"
+      name: "Hiroshima"
+      description_block: |
+        setting:
+          location: "Japanese city, early morning August 6, 1945"
+        mainElements: "Traditional Japanese buildings, wooden houses, bridges, urban landscape"
+        atmosphere: "Peaceful morning city life, unaware of impending disaster, normal daily activities"
+    - id: "nagaski_city"
+      name: "Nagasaki"
+      description_block: |
+        setting:
+          location: "Japanese industrial city, August 9, 1945"
+        mainElements: "Industrial buildings, factories, urban infrastructure, harbor area"
+        atmosphere: "Industrial city atmosphere, workers and daily activities, coastal setting"
+    - id: "oak_ridge_lab"
+      name: "Oak Ridge Laboratory"
+      description_block: |
+        setting:
+          location: "Tennessee industrial facility, 1940s"
+        mainElements: "Massive industrial buildings, security fences, scientific equipment"
+        atmosphere: "Large-scale industrial production, wartime urgency, controlled environment"
+    - id: "hanford_site"
+      name: "Hanford Site"
+      description_block: |
+        setting:
+          location: "Washington State desert, 1940s"
+        mainElements: "Massive industrial reactors, cooling towers, desert landscape"
+        atmosphere: "Remote industrial complex, security presence, large-scale operations"
+    - id: "chicago_university"
+      name: "University of Chicago"
+      description_block: |
+        setting:
+          location: "Academic campus, 1940s Chicago"
+        mainElements: "University buildings, squash court converted to laboratory, scientific equipment"
+        atmosphere: "Academic setting, intellectual pursuit, historic breakthrough location"
+    - id: "white_house"
+      name: "White House"
+      description_block: |
+        setting:
+          location: "Presidential office, Washington DC, 1940s"
+        mainElements: "Oval office desk, presidential seal, American flag, formal furnishings"
+        atmosphere: "Formal, authoritative, weight of presidential decisions"
+    - id: "tinian_airbase"
+      name: "Tinian Airbase"
+      description_block: |
+        setting:
+          location: "Pacific island military base, 1945"
+        mainElements: "B-29 aircraft, military equipment, runways, tropical landscape"
+        atmosphere: "Military preparation, strategic mission, remote island setting"
+
+  items:
+    - id: "little_boy_bomb"
+      name: "Little Boy"
+      description_block: |
+        details: "Uranium-based atomic bomb, cylindrical shape, approximately 10 feet long, 28 inches diameter, weighing 9,700 pounds, gun-type design"
+    - id: "fat_man_bomb"
+      name: "Fat Man"
+      description_block: |
+        details: "Plutonium-based atomic bomb, spherical shape, approximately 10 feet long, 60 inches diameter, weighing 10,300 pounds, implosion-type design"
+    - id: "enola_gay_plane"
+      name: "Enola Gay"
+      description_block: |
+        details: "B-29 Superfortress aircraft, modified for atomic bomb mission, large four-engine bomber, distinctive silver paint"
+    - id: "scientific_equipment"
+      name: "Scientific Equipment"
+      description_block: |
+        details: "1940s laboratory equipment - beakers, test tubes, oscilloscopes, radiation detectors, chalkboards with equations"
+    - id: "military_maps"
+      name: "Military Maps"
+      description_block: |
+        details: "Large wall maps with strategic markings, aerial photographs, planning documents, no visible text"
+    - id: "nuclear_reactor"
+      name: "Nuclear Reactor"
+      description_block: |
+        details: "Chicago Pile-1 reactor, graphite blocks, control rods, radiation monitoring equipment, historic first controlled chain reaction"

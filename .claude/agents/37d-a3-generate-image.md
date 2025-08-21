@@ -73,7 +73,7 @@ console.log(`Found ${readyImageTasks.matches_count} total image_gen tasks ready`
 ```javascript
 // Subtask pozostaje pending podczas przetwarzania - nie ma potrzeby ustawiania in_progress
 // dla krótkich zadań. Po udanym zakończeniu będzie completed, po nieudanym failed.
-console.log(`Starting image generation for ${imageGenSubtaskKey}`);
+console.log(`Starting image generation for ${sceneKey}`);
 ```
 
 ### 4. Odczytaj ścieżkę pliku YAML
@@ -185,6 +185,8 @@ await mcp__playwright-headless__browser_evaluate({
 ```
 
 ### 7. Załączenie pliku YAML
+Sprawdz, czy wybrany model to o4-mini, jesli nie, ustaw ten model.
+
 
 ```javascript
 // Kliknij przycisk "Add photos & files"
@@ -252,46 +254,18 @@ await mcp__playwright-headless__browser_click({
   element: "Send prompt button",
   ref: "REF_FROM_SNAPSHOT"
 });
+```
+Czekaj na jakąkolwiek odpowiedź ChatGPT
+CRITICAL: Może być "Getting started" LUB komunikat błędu
+"Getting started" oznacza poprawne rozpoczęcie generacji obrazu!!! Nie oznaczaj tego jako błąd!
 
-// Czekaj na jakąkolwiek odpowiedź ChatGPT
-// CRITICAL: Może być "Getting started" LUB komunikat błędu
-
-let responseAppeared = false;
-
-// Sprawdź czy pojawiła się odpowiedź w ciągu 60 sekund
-for (let attempt = 1; attempt <= 6; attempt++) {  // 6 prób x 10s = 60s
-  const snapshotCheck = await mcp__playwright-headless__browser_snapshot();
-  
-  const checkText = snapshotCheck.toString();
-  if (checkText.includes("Getting started") ||
-      checkText.includes("You've hit the plus plan limit") ||
-      checkText.includes("can't create that image") ||
-      checkText.includes("I'm unable to generate") ||
-      checkText.includes("violates our content policies") ||
-      checkText.includes("sorry") ||
-      checkText.includes("unfortunately")) {
-    responseAppeared = true;
-    break;
-  }
-  
-  await mcp__playwright-headless__browser_wait_for({ time: 10 });
-}
-
-// Jeśli nic się nie pojawiło - przeładuj stronę i sprawdź stan
-if (!responseAppeared) {
-  console.log("⚠️ Brak odpowiedzi ChatGPT - przeładowuję stronę");
-  const currentUrl = await mcp__playwright-headless__browser_evaluate({
-    function: "() => window.location.href"
-  });
-  await mcp__playwright-headless__browser_navigate({ url: currentUrl });
-  await mcp__playwright-headless__browser_wait_for({ time: 3 });
-}
+```
+bash(sleep 15)
 ```
 
 ### 11. Sprawdzenie rezultatu i finalizacja
 
 ```javascript
-// CRITICAL: Sprawdź aktualny stan po ewentualnym przeładowaniu
 const snapshotAfterSend = await mcp__playwright-headless__browser_snapshot();
 const responseText = snapshotAfterSend.toString();
 
@@ -350,7 +324,17 @@ if (responseText.includes("can't create that image") ||
     property_value: threadId
   });
   
-  // Ustaw subtask jako failed
+  // Sprawdź czy to komunikaty związane z limitem ChatGPT Plus - nie zmieniaj statusu
+  if (errorMessage.includes('limit') && (errorMessage.includes('plus plan') || errorMessage.includes('usage limit') || errorMessage.includes('available again'))) {
+    console.log(`BŁĄD: ${sceneKey} image_gen - ChatGPT Plus limit detected. Thread ID: ${threadId}`);
+    console.log(`Limit details: ${errorMessage}`);
+    
+    // UWAGA: NIE ustawiaj statusu failed dla limitu ChatGPT Plus!
+    // Subtask pozostaje pending do ponownej próby
+    return;
+  }
+  
+  // Ustaw subtask jako failed tylko dla innych błędów (nie limitu ChatGPT Plus)
   await mcp__todoit__todo_update_item_status({
     list_key: "[TODOIT_LIST]",
     item_key: sceneKey,
@@ -393,8 +377,9 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 ## Uwagi techniczne:
 
 - **CRITICAL:** Worker przetwarza TYLKO JEDNO zadanie na wywołanie
-- **System subtasks:** image_gen subtask status (pending → completed/failed)
+- **System subtasks:** image_gen subtask status (pending → completed/failed, ale przy limitach ChatGPT Plus pozostaje pending)
 - **Brak in_progress:** Subtaski pozostają pending podczas przetwarzania, przechodzą bezpośrednio do completed/failed
+- **ChatGPT Plus limit:** Gdy wystąpi limit, subtask pozostaje pending do ponownej próby
 - **BOOK_FOLDER** jest odczytywany z właściwości listy TODOIT
 - **PROJECT_ID** jest zapisywany w liście przy pierwszym utworzeniu projektu
 - **Thread ID** jest zapisywany w właściwościach image_gen subtaska
@@ -407,9 +392,12 @@ console.log(`Zadanie ${sceneKey} image_gen ukończone. Thread ID: ${threadId}`);
 
 ## Stan końcowy zadania:
 
-- Jedno image_gen subtask przetworzone z ustawionym statusem completed/failed
+- Jedno image_gen subtask przetworzone z ustawionym statusem:
+  - **completed** - obraz wygenerowany pomyślnie
+  - **failed** - błąd treści/polityki/inne (nie limit ChatGPT Plus)
+  - **pending** - limit ChatGPT Plus (do ponownej próby)
 - Thread ID zapisany w właściwościach image_gen subtaska
 - PROJECT_ID zapisany w właściwościach listy (jeśli projekt był tworzony)
-- Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML
+- Obraz rozpoczął generowanie w ChatGPT z pełną specyfikacją YAML (sukces) lub wykryto limit
 - Worker zakończył działanie - można wywołać następne zadanie
 - Zadanie główne pozostaje in_progress do czasu ukończenia pobierania
