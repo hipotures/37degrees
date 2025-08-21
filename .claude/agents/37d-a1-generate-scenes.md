@@ -108,6 +108,7 @@ Wykonaj te 3 polecenia:
   2. Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=401, limit=400)
   3. Jeśli odczytałeś 400 w poprzednim wywołaniu, to wykonaj jeszcze to
        Read(file_path="books/[BOOK_FOLDER]/docs/review.txt", offset=801, limit=400)
+  4. Jeśli plik nie istnieje, nie wykonuj dalszych poleceń, zakończ działanie
 
 These files contain all necessary book analysis and insights
 Extract themes, characters, historical context, and key discoveries from file
@@ -310,6 +311,29 @@ Generate YAML data that will be used as prompts for AI image generation
 **SCENE INDEPENDENCE - CRITICAL:**
 - NO cross-references between scenes whatsoever.
 - Ensure every scene contains a full description by correctly copying it from the canon.yaml file.
+
+**ONE EVENT PER SCENE - MANDATORY:**
+- Each scene must represent a DIFFERENT moment or event from the book.
+- NEVER split a single event across multiple scenes.
+- Choose the most visually compelling moment of each event.
+
+❌ **WRONG - Sequential Event Breakdown:**
+```
+Scene A: Character standing in doorway, drawing sword, hesitating as he observes uncle's spiritual struggle
+Scene B: Character stepping into light, face showing internal conflict, still hesitating  
+Scene C: Uncle rising after failed prayer, character retreating with shoulders slumped
+```
+This is ONE event (prayer scene confrontation) artificially split into three scenes.
+
+✅ **CORRECT - Different Events:**
+```
+Scene A: Prayer scene confrontation - character discovers uncle praying, hesitates to act
+Scene B: Bedroom confrontation - character accidentally kills counselor hiding behind tapestry
+Scene C: Graveyard encounter - character contemplates mortality while examining skull
+```
+Each scene represents a completely different moment from the story.
+
+**Selection Rule:** If you could describe multiple scenes as "then this happens next," they should be condensed into ONE scene showing the most dramatic moment.
 
 **SIMPLE VISUAL LANGUAGE:** Write like describing a photograph
 - Bad: "sunset painting ocean gold like remembered doubloons"

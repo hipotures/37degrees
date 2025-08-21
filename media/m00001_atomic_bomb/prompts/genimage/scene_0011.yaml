@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1945, early morning
+    location: Alamogordo Bombing Range, New Mexico desert
+    weather: Pre-dawn desert morning
+  characters:
+  - appearance: Military personnel, 30s, preparing equipment
+    clothing: 1940s military uniforms, protective gear
+    position: Setting up scientific instruments in desert
+    action: Positioning measurement equipment and cameras
+  scene:
+    mainElements: Scientific instruments, cameras on tripods
+    details: Measurement devices, no text visible, desert landscape
+    background: Distant mountains, early morning light
+    atmosphere: Anticipation of historic event, desert silence
+  composition:
+    cameraAngle: Wide shot of desert preparation
+    focus: The scientific instruments and military personnel
+    depth: Foreground equipment sharp, background desert visible
+visualElements:
+  colorPalette:
+    primary:
+    - subdued natural colors
+    - warm indoor lighting
+    - cool outdoor shadows
+    secondary:
+    - atmospheric fog colors
+    - realistic skin tones
+    - muted architectural colors
+    background: realistic urban/rural environments with architectural detail
+    usageNotes: Natural, subdued palette with selective color accents, low saturation overall
+    saturation: low to medium
+    contrast: high (cinematic lighting)
+  lineArt:
+    style: clean, precise line art with realistic proportions
+    weight: medium weight, consistent
+    color: '#000000'
+    texture: smooth, no visible texture
+    edgeTreatment: crisp but natural, no heavy outlines
+  lighting:
+    type: filmic lighting with realistic shadows and highlights
+    direction: motivated by scene (window light, practical sources)
+    intensity: high contrast with deep shadows
+    shadows:
+      style: 2-3 tone cel-shaded shadows
+      color: cool blue or purple tones
+      opacity: solid but not pitch black
+    highlights: realistic specular highlights, lens flares
+  rendering:
+    technique: cel-shaded with realistic textures on backgrounds
+    texture: smooth cel-shading on characters, detailed textures on environments
+    detailLevel: high detail on backgrounds, moderate on characters
+    finish: filmic with subtle grain, 2.35:1 composition
+  perspective: cinematic perspective with shallow depth of field
+  mood:
+    overall: cinematic, atmospheric, emotionally resonant
+    emotion: melancholic, introspective, dramatic
+    tempo: measured, contemplative
+    keywords:
+    - cinematic
+    - realistic
+    - atmospheric
+    - filmic
+    - natural
+  stylePrecedents:
+  - Studio Ghibli (Spirited Away, Grave of the Fireflies)
+  - Makoto Shinkai (Your Name, Weathering With You)
+  - Satoshi Kon (Paprika, Tokyo Godfathers)
+  - Arcane (League of Legends series)
+  - Spider-Verse (Into the Spider-Verse)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
