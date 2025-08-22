@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, night during secret traditional ceremony
+    location: Hidden location within traditional village territory away from colonial surveillance
+    weather: Dark night providing concealment for forbidden traditional practices
+  characters:
+  - appearance: Traditional Igbo elders and community members maintaining ancestral practices in secret
+    clothing: Traditional ceremonial attire hidden from colonial authorities
+    position: Gathered in concealed circle performing forbidden traditional rituals
+    action: Secretly maintaining traditional spiritual practices and cultural knowledge despite colonial prohibition
+  scene:
+    mainElements: Concealed traditional ceremony where ancestral practices survive underground despite colonial cultural suppression
+    details: Elaborate wooden masks painted white with exaggerated features, attached to raffia costumes hiding wearer's identity
+      completely preserved in secret defiance of colonial bans. Wooden drums of various sizes (ekwe), metal gongs (ogene),
+      ceramic udu pots creating rhythmic foundation for rituals maintained secretly
+    background: Traditional spiritual and cultural practices driven underground by colonial religious and political oppression
+    atmosphere: Desperate preservation of cultural identity through secret resistance to colonial cultural destruction and
+      forced assimilation
+  composition:
+    cameraAngle: Close intimate shot showing secretive preservation of tradition
+    focus: Hidden traditional practices surviving despite colonial suppression
+    depth: Secret ceremony in foreground, watchful guards in middle ground, colonial authority absent in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

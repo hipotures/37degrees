@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1851, early morning
+    location: Plantation courtyard where enslaved people gather for daily work assignments in organized formation
+    weather: Dawn mist clearing to reveal organized human display
+  characters:
+  - appearance: Multiple enslaved people of various ages arranged in precise lines, faces showing resigned compliance
+    clothing: Identical or similar rough work clothes, some patched but clean, demonstrating managed appearance
+    position: Standing in straight lines facing plantation house authority
+    action: Waiting silently for work orders, maintaining perfect stillness and order
+  scene:
+    mainElements: Enslaved people arranged in military-like formation, overseer with clipboard or ledger, plantation bell
+      tower or announcement area
+    details: Tools arranged in precise order, work assignments written on board or called out, morning shadows creating geometric
+      patterns on ground, some children among the adults
+    background: Main plantation house looming over the assembly, cotton fields stretching to horizon, equipment buildings
+    atmosphere: Enforced order masking human individuality, silence broken only by official commands, tension beneath surface
+      compliance
+  composition:
+    cameraAngle: High angle shot from plantation house perspective showing human arrangement
+    focus: The regimented human formation as symbol of systematic control
+    depth: Foreground shows authority figure, middle ground displays the organized people, background emphasizes the economic
+      landscape they serve
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

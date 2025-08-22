@@ -1,0 +1,153 @@
+canon:
+  characters:
+    - id: "narrator"
+      name: "The Invisible Man (Narrator)"
+      description_block: |
+        characters:
+          - appearance: "Young African American man, age varying by scene from late teens to mid-twenties, average build and height, generic facial features designed to be overlooked"
+            clothing: "Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending on imposed identity"
+            posture: "Usually alert and observant, body language reflecting current emotional state and social position"
+    
+    - id: "dr_bledsoe"
+      name: "Dr. Bledsoe"
+      description_block: |
+        characters:
+          - appearance: "African American man in his late 50s to 60s, heavyset with round bald head, wide spherical face marked by inner pressure, wrinkled features"
+            clothing: "Formal academic attire - navy serge suit with heavy gold watch chain, striped trousers with frock coat with black braided lapels, black homburg hat"
+            posture: "Calculated humble bearing masking authoritative power, deliberate movements designed to project controlled dignity"
+    
+    - id: "mr_norton"
+      name: "Mr. Norton"
+      description_block: |
+        characters:
+          - appearance: "Elderly white man in his 70s-80s, distinguished thin build, pink Santa Claus-like face, silky white hair, pale blue misty eyes"
+            clothing: "Aristocratic attire - checkered vest, soft silk shirt, blue and white polka dot bow tie, elegant suit befitting wealthy philanthropist"
+            posture: "Patrician bearing with paternalistic authority, refined gestures reflecting lifetime of privilege and assumed benevolence"
+    
+    - id: "brother_jack"
+      name: "Brother Jack"
+      description_block: |
+        characters:
+          - appearance: "White man in his 40s-50s, medium build with red hair, one real eye and one glass eye that can fall out, intense authoritative presence"
+            clothing: "Professional political organizer's attire - functional business suit, practical but well-maintained, projecting ideological authority"
+            posture: "Commanding presence with ideological certainty, gestures emphasizing political points, controlled movements masking single-minded focus"
+    
+    - id: "tod_clifton"
+      name: "Tod Clifton"
+      description_block: |
+        characters:
+          - appearance: "Young African American man in his early-mid 20s, tall and handsome with thick curly hair, full lips with upturned corners, intense thoughtful gaze"
+            clothing: "Brotherhood member's suit when organizing, later street vendor's casual wear when selling Sambo dolls"
+            posture: "Charismatic leadership presence, later defeated slouch of disillusionment, passionate gestures turning to mechanical movements"
+    
+    - id: "ras_exhorter"
+      name: "Ras the Exhorter/Destroyer"
+      description_block: |
+        characters:
+          - appearance: "African American man of West Indian descent in his 30s-40s, intense commanding presence, powerful build suited for street oratory"
+            clothing: "As Destroyer - Abyssinian chief costume with animal skin cape, shield and spear, riding gear for black horse"
+            posture: "Militant revolutionary bearing, gestures of defiant authority, theatrical movements emphasizing nationalist rhetoric"
+    
+    - id: "mary_rambo"
+      name: "Mary Rambo"
+      description_block: |
+        characters:
+          - appearance: "Large African American woman in her 50s-60s, maternal and sturdy build, kind weathered features showing lifetime of care-giving"
+            clothing: "Simple practical household attire, working-class domestic wear appropriate for Harlem boarding house keeper"
+            posture: "Nurturing maternal presence, protective stance, movements showing practical care and cultural wisdom"
+    
+    - id: "sybil"
+      name: "Sybil"
+      description_block: |
+        characters:
+          - appearance: "White woman in her 40s-50s, chestnut wavy hair, described as 'leathery old girl' with thickening ankle and freckled bust"
+            clothing: "Wealthy 1940s woman's attire, partially undressed in scene with narrator, purple metallic lipstick and bright blue eye shadow"
+            posture: "Privileged white liberal posture masking racial fetishization, movements revealing underlying racist fantasy desires"
+
+  locations:
+    - id: "university_campus"
+      name: "Southern Negro University Campus"
+      description_block: |
+        setting:
+          location: "Southern United States Negro university campus in rural setting, 1930s, with red brick ivy-covered buildings, manicured lawns, flowering shrubs including magnolias, roses and honeysuckle"
+        mainElements: "Gothic chapel with low-hanging eaves, winding roads with hedges, wild roses, wisteria and honeysuckle, meticulously maintained grounds"
+        atmosphere: "Deceptively peaceful academic sanctuary masking institutional control and racial paternalism, surface beauty hiding systematic oppression"
+    
+    - id: "founders_statue"
+      name: "Founder's Monument"
+      description_block: |
+        setting:
+          location: "Central courtyard of Southern Negro university campus, prominent bronze monument on stone pedestal"
+        mainElements: "Bronze statue of university founder lifting or lowering veil over face of kneeling slave figure, both figures with empty eye sockets, often stained with bird droppings"
+        atmosphere: "Ambiguous symbol of education and liberation versus continued control, cold metallic presence dominating campus space"
+    
+    - id: "golden_day"
+      name: "Golden Day Tavern"
+      description_block: |
+        setting:
+          location: "Dilapidated roadhouse near railroad tracks outside university town, former church-bank-gambling house in rural American South"
+        mainElements: "Long dark bar, carved wooden balcony, jukebox, broken bottles, peeling paint on walls, stale beer atmosphere"
+        atmosphere: "Chaotic refuge for mentally damaged Black veterans, space of uncontrolled truth-telling and suppressed rage, dangerous freedom from social constraints"
+    
+    - id: "harlem_streets"
+      name: "Harlem Streets"
+      description_block: |
+        setting:
+          location: "Harlem neighborhood streets in New York City, 1930s-1940s, lined with brownstone buildings and tenements, crowded urban environment"
+        mainElements: "Red-brown sandstone buildings, busy sidewalks, street vendors, stoops, shop signs, tenement architecture mixing Italian Renaissance and neoclassical styles"
+        atmosphere: "Dynamic urban energy with tension and possibility, concentrated Black community space with both solidarity and conflict, constant movement and activity"
+    
+    - id: "liberty_paints"
+      name: "Liberty Paints Factory"
+      description_block: |
+        setting:
+          location: "Industrial paint manufacturing facility on Long Island, 1940s, large-scale factory with modern equipment and corporate signage"
+        mainElements: "Large neon sign reading 'KEEP AMERICA PURE WITH LIBERTY PAINTS', mixing vats, pipes, gauges, conveyor systems, basement boiler room"
+        atmosphere: "Surreal corporate environment embodying racial hypocrisy of America, sterile white surfaces masking industrial exploitation and hidden racial dependencies"
+    
+    - id: "underground_hideout"
+      name: "Underground Coal Cellar"
+      description_block: |
+        setting:
+          location: "Forgotten section of basement in whites-only building on border of Harlem, converted into hidden living space"
+        mainElements: "Ceiling covered with 1369 light bulbs creating brilliant illumination, gramophone, makeshift furniture, stolen electricity connection"
+        atmosphere: "Hibernation space for reflection and truth-seeking, brilliant artificial light confirming existence and reality, isolation enabling deep self-examination"
+    
+    - id: "mary_boarding_house"
+      name: "Mary Rambo's Boarding House"
+      description_block: |
+        setting:
+          location: "Harlem brownstone boarding house interior, working-class African American domestic space, 1940s"
+        mainElements: "Modest furnished rooms, kitchen smelling of cooked cabbage, iron cast-iron bank in shape of racist caricature, practical household furnishings"
+        atmosphere: "Maternal sanctuary providing authentic Black cultural connection, warm domestic space contrasting with institutional coldness, place of cultural grounding"
+
+  items:
+    - id: "briefcase"
+      name: "Calfskin Briefcase"
+      description_block: |
+        details: "Brown leather briefcase awarded after battle royal, worn and scratched from constant carrying, contains papers and mementos representing imposed identities and false promises"
+    
+    - id: "light_bulbs"
+      name: "1369 Light Bulbs"
+      description_block: |
+        details: "Standard incandescent bulbs with filaments, densely arranged across underground room ceiling, providing intense warm light, illegally powered from Monopolated Light & Power Company"
+    
+    - id: "sambo_doll"
+      name: "Dancing Sambo Doll"
+      description_block: |
+        details: "Paper puppet with grotesque Black caricature features, red lips and wide grin, manipulated by invisible black string, dances when string is pulled"
+    
+    - id: "glass_eye"
+      name: "Brother Jack's Glass Eye"
+      description_block: |
+        details: "Realistic artificial eye that fits in left socket, can fall out unexpectedly, revealing empty socket underneath, symbolizing ideological blindness"
+    
+    - id: "slave_shackle"
+      name: "Antique Slave Shackle"
+      description_block: |
+        details: "Old rusted heavy metal ring with chain links, kept as paperweight in Dr. Bledsoe's office, representing commodified history of slavery"
+    
+    - id: "iron_bank"
+      name: "Cast Iron Coin Bank"
+      description_block: |
+        details: "Small iron figurine in shape of racist Black caricature with red lips and wide smile, mechanical mouth opens to swallow coins, represents internalized racism"

@@ -1,0 +1,116 @@
+canon:
+  characters:
+    - id: "ivan_denisovich_shukhov"
+      name: "Ivan Denisovich Shukhov (Prisoner Sh-854)"
+      description_block: |
+        characters:
+          - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+            clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+            position: "Moving with quick, economical gestures, slightly hunched forward for warmth, alert and observant posture"
+    
+    - id: "andrei_tiurin_brigade_leader"
+      name: "Andrei Prokofievich Tiurin"
+      description_block: |
+        characters:
+          - appearance: "Man over 40 years old, tall and powerfully built with broad shoulders, massive bear-like physique, stern face weathered by deep furrows, dark tanned skin, hard penetrating gaze, natural commanding presence"
+            clothing: "Same prisoner uniform as others but possibly in better condition due to his status as brigade leader"
+            position: "Standing with natural authority, upright military bearing, emanating strength and leadership"
+    
+    - id: "caesar_markovich"
+      name: "Caesar Markovich"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man around 45-50 years, intellectual bearing, thick black mustache, likely wearing glasses, more refined features than manual laborers"
+            clothing: "Standard prisoner uniform but with better undergarments beneath, warmer clothing due to packages and bribes"
+            position: "Sitting or standing in more comfortable positions, often handling packages or food items"
+    
+    - id: "captain_buynovsky"
+      name: "Captain Buynovsky"
+      description_block: |
+        characters:
+          - appearance: "Around 50 years old, tall man who maintains proud military bearing despite prison conditions, face has 'turned very black' and gaunt from recent hardship, still hard gaze despite suffering"
+            clothing: "Standard prisoner uniform with civilian vest underneath (which gets him in trouble), maintains military posture"
+            position: "Standing at attention or in military stance, often gesturing with authority, rigid and upright"
+    
+    - id: "alyosha_baptist"
+      name: "Alyosha the Baptist"
+      description_block: |
+        characters:
+          - appearance: "Young man around 20-25 years old, clean washed face unusual for camp conditions, calm peaceful eyes, gentle smile often present even during hard work"
+            clothing: "Standard prisoner uniform but maintained in remarkable cleanliness and tidiness for camp conditions"
+            position: "Calm peaceful posture, often kneeling in prayer or working with serene expression"
+    
+    - id: "fetyukov"
+      name: "Fetyukov"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man around 40+, physically and mentally broken by camp, hunched and furtive posture, servile dog-like expression, dirty and neglected even by camp standards"
+            clothing: "Worst most destroyed and filthy uniform in the entire brigade, torn and heavily patched"
+            position: "Crouched or bent over, always looking around for food scraps or cigarette butts, servile begging posture"
+
+  locations:
+    - id: "barrack_nine_interior"
+      name: "Barrack Number 9 Interior"
+      description_block: |
+        setting:
+          location: "Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing 200 prisoners"
+        mainElements: "Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely blocking outside view"
+        atmosphere: "Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic with constant sounds of coughing, snoring and whispers"
+    
+    - id: "camp_mess_hall"
+      name: "Camp Mess Hall"
+      description_block: |
+        setting:
+          location: "Prison camp dining hall building in Soviet labor camp, January 1951"
+        mainElements: "Single large room filled with dense steam rising from soup kettles like Turkish bath, two rows of long crude tables made from unfinished planks on wooden sawhorses, no chairs or benches, steep icy steps leading to entrance"
+        atmosphere: "Chaotic and loud with shouting and cursing, dense steam mixed with freezing air creating swirling clouds, floor sticky and slippery from spilled soup and mud from boots, dim lighting dispersed through omnipresent vapor"
+    
+    - id: "power_station_construction_site"
+      name: "Power Station Construction Site"
+      description_block: |
+        setting:
+          location: "Open steppes construction site several kilometers from Soviet prison camp, January 1951, flat windswept terrain"
+        mainElements: "Unfinished two-story power station building made of gray slag blocks with large empty window openings through which wind howls, chaotic landscape of building materials - sand piles, cement bags, stacks of blocks all covered by thick snow layer"
+        atmosphere: "Brutally cold and windy open space, pale winter sun hanging low on horizon, monochromatic palette of blinding white snow and gray concrete, metallic sounds of tools against freezing wind"
+    
+    - id: "solitary_confinement_building"
+      name: "Solitary Confinement Building (The Hole)"
+      description_block: |
+        setting:
+          location: "Separate stone building for punishment in Soviet prison camp, January 1951"
+        mainElements: "Small squat stone masonry building inspiring universal dread, high-placed barred windows, empty concrete floor cell interior without bunks, table or heating"
+        atmosphere: "Deadly cold threatening slow death by freezing, grim fortress-like structure isolated from main camp, absolute silence and stone-cold temperatures"
+    
+    - id: "camp_infirmary"
+      name: "Camp Infirmary"
+      description_block: |
+        setting:
+          location: "Medical dispensary in furthest quiet corner of Soviet prison camp, January 1951"
+        mainElements: "Sterile cold interior with freshly whitewashed walls contrasting with general camp filth, clean but inhuman and bureaucratic atmosphere"
+        atmosphere: "Silent except for medic's footsteps, clinical whiteness has something inhuman about it, cold and impersonal medical environment"
+
+  items:
+    - id: "shukhov_aluminum_spoon"
+      name: "Shukhov's Handmade Spoon"
+      description_block: |
+        details: "Aluminum spoon cast by Shukhov himself from contraband aluminum, engraved with inscription 'Ust-Izhma 1944', stored in special hiding place in boot shaft, most precious possession representing his identity and ingenuity"
+    
+    - id: "bread_ration"
+      name: "Daily Bread Ration"
+      description_block: |
+        details: "200 grams of black wet bread, heavy clay-like texture, dark almost black color, carefully divided into portions and wrapped in clean cloth for hiding in mattress"
+    
+    - id: "caesars_package"
+      name: "Caesar's Food Package"
+      description_block: |
+        details: "Wooden crate or cardboard box containing unimaginable riches: yellow cheese, pink sausage, white sugar cubes, golden cookies, butter wrapped in paper, creating striking color contrast against gray camp environment"
+    
+    - id: "prisoner_number_patches"
+      name: "Prisoner Number Patches"
+      description_block: |
+        details: "White rectangular cloth patches with black painted number Sh-854, sewn in four places on uniform, paint may be cracked or faded, visual symbol of dehumanization replacing name with number"
+    
+    - id: "hidden_trowel"
+      name: "Shukhov's Hidden Trowel"
+      description_block: |
+        details: "Light well-balanced masonry trowel perfectly fitted to hand, professional tool rather than standard camp equipment, hidden daily in different secret locations on construction site"

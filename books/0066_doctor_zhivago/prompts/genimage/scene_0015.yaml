@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1880s, 1905, 1917, and 1930s - four overlapping ballroom eras
+    location: Grand ballroom in Moscow mansion showing ghostly temporal layers
+    weather: Winter evening with frost on tall windows across all time periods
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  scene:
+    mainElements: Magnificent ballroom with transparent overlapping scenes from four different historical periods showing
+      changing Russian society
+    details: 'Quadruple exposure composition: 1880s shows Imperial aristocracy in elaborate gowns and military uniforms, full
+      orchestra, elaborate chandeliers blazing. 1905 reveals more modest pre-revolutionary gathering with emerging middle
+      class, simpler dress but still elegant. 1917 displays revolutionary meeting in same space with workers and intellectuals,
+      chandeliers partially dismantled, speeches replacing dancing. 1930s shows Soviet officials in utilitarian clothing using
+      space for political rally, remaining grandeur serving new ideology. All eras visible simultaneously as transparent layers,
+      dancers from different periods appearing to waltz together across time, no text or letters visible'
+    background: Ornate ballroom architecture remains constant while showing different states of maintenance and political
+      use
+    atmosphere: Palimpsest of Russian social history written in single space, ghosts of past elegance haunting present reality
+  composition:
+    cameraAngle: Grand ballroom view showing full architectural space and temporal layering
+    focus: Central dance floor where all temporal periods intersect and overlap
+    depth: 'Foreground: current period activity; middle ground: overlapping historical layers; background: architectural details
+      showing wear and adaptation'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

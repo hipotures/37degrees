@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wrecked Room After Argument - Violence's Aftermath"
+  setting:
+    time: "1944, morning"
+    location: "Roman apartment after confrontation"
+    weather: "overcast Roman morning"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform, disheveled"
+      position: "standing among destroyed furniture"
+      action: "surveying damage from violent confrontation"
+  scene:
+    mainElements: "destroyed Roman apartment with overturned furniture, broken dishes, scattered belongings, damaged walls"
+    details: "Yossarian stands among wreckage of violent confrontation in Roman apartment. Furniture lies overturned, personal belongings scattered across floor, broken glass reflects morning light. The destruction represents escalation of conflicts beyond verbal arguments into physical violence. Evidence of struggle shows how words failed to resolve deeper antagonisms."
+    background: "Roman apartment interior with damaged walls, broken windows, scattered personal possessions"
+    atmosphere: "aftermath of violent confrontation, mixture of destruction and morning light revealing damage"
+  composition:
+    cameraAngle: "wide shot showing scope of destruction"
+    focus: "overturned furniture and scattered belongings showing violence aftermath"
+    depth: "foreground shows immediate damage, middle ground captures surveying figure, background reveals extent of destruction"

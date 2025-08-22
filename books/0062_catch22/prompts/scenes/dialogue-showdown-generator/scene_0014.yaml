@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stepping Into Shadow - Moral Darkness"
+  setting:
+    time: "1944, night"
+    location: "outside mess hall complex"
+    weather: "Mediterranean night with moon"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "walking away from illuminated building into darkness"
+      action: "leaving the revelation scene in moral confusion"
+  scene:
+    mainElements: "contrast between lit building behind and dark path ahead, shadows of military equipment and tents, moonlight creating silvery patches"
+    details: "Yossarian walks from the brightly lit mess hall where Milo's business empire operates into the dark spaces between military tents. His figure transitions from light to shadow, symbolizing his movement from ignorance to knowledge of systematic corruption. The bright business area behind represents false prosperity while darkness ahead shows uncertain moral territory."
+    background: "military base at night with scattered lights from tents and buildings, equipment silhouettes in moonlight"
+    atmosphere: "moral transition from false light of profitable war to darkness of ethical uncertainty"
+  composition:
+    cameraAngle: "wide shot showing figure moving from light to darkness"
+    focus: "transition between illuminated corruption and shadowy moral territory"
+    depth: "foreground shows dark path ahead, middle ground captures transitioning figure, background shows brightly lit scene of business operations"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1851, midday
+    location: Cotton field where enslaved people work in systematic rows like human machinery
+    weather: Blazing hot sun with no shade or relief
+  characters:
+  - appearance: Tall, powerfully built man with broad chest, late 40s, full glistening black skin with truly African features
+      showing gravity and good sense combined with great kindness and benevolence
+    clothing: Clean working clothes on Shelby plantation, later forced into torn coat and old pants on Legree plantation
+    position: Standing with dignified posture despite circumstances, holding worn Bible
+    action: Reading from Bible or speaking words of faith and forgiveness to fellow enslaved people
+  - appearance: Multiple enslaved workers arranged in precise rows, faces showing exhaustion and resignation
+    clothing: Identical rough work clothes, wide-brimmed hats for sun protection, some clothing torn from physical labor
+    position: Bent over cotton plants in mechanically perfect formation
+    action: Picking cotton with repetitive robotic movements, maintaining pace set by overseers
+  scene:
+    mainElements: Endless rows of cotton plants creating geometric patterns, human workers moving in synchronized formation,
+      overseer on horseback monitoring production
+    details: Cotton bags growing heavy as workers move through rows, sun beating down without mercy, water buckets strategically
+      placed, production quotas posted on stakes, geometric precision of human movement
+    background: Cotton fields stretching to horizon, plantation buildings in distance, other work gangs visible as tiny figures
+      in vast agricultural landscape
+    atmosphere: Dehumanizing repetition turning people into agricultural machinery, oppressive heat creating physical torture,
+      silence broken only by work commands and cotton rustling
+  composition:
+    cameraAngle: Aerial or high angle shot showing human workers as components in agricultural machine
+    focus: The systematic arrangement of human labor as cogs in economic machinery
+    depth: Foreground shows individual workers in detail, middle ground reveals the systematic organization, background emphasizes
+      the vast scale of human exploitation
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

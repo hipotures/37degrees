@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silk Fabric Against Calloused Hands"
+  setting:
+    time: "1948 evening"
+    location: "cheap cold-water flat in old red brick brownstone in Greenwich Village, New York, small cramped rooms reached through narrow dark corridors and steep stairs"
+    weather: "cool autumn evening with occasional drafts"
+  characters:
+    - appearance: "21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns, bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile"
+      clothing: "white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just shorts or shirtless revealing his physical nature"
+      position: "sitting on edge of mattress with hands exploring fabric texture"
+      action: "running work-roughened fingers across delicate silk scarf while simultaneously gripping coarse wool blanket"
+    - appearance: "16-19 year old young woman, petite graceful build, blonde hair in large flowing curls like sea of golden locks, smoky blue country eyes, pretty face with hint of hardness from experience"
+      clothing: "simple blouses, skirts or fitted pants typical of young provincial girl, practical and uncomplicated style"
+      position: "seated nearby holding silk fabric"
+      action: "watching his tactile exploration while fingers play with silk material"
+  scene:
+    mainElements: "extreme contrast between rough working man's hands and luxurious silk texture, simultaneous contact with coarse wool blanket creating dual sensory experience, fingertips discovering unexpected softness"
+    details: "Calloused fingertips catching slightly on silk's smooth surface, contrast heightened by immediate comparison to scratchy wool blanket texture, silk sliding effortlessly between fingers while wool resists and clings, hands showing evidence of manual labor - cuts, roughness, ingrained dirt - making silk contact more remarkable"
+    background: "small neglected rooms with peeling paint walls, bare wooden floors, minimal random furniture including mattress on floor, makeshift bookshelves, single bare bulb hanging from ceiling"
+    atmosphere: "thick with cigarette smoke, cheap wine smell, coffee and sweat, weak atmospheric lighting creating deep shadows, sounds of jazz gramophone mixing with animated overlapping conversations"
+  composition:
+    cameraAngle: "close-up on hands and fabric textures"
+    focus: "tactile contrast between different material surfaces and skin types"
+    depth: "hands and fabric in extreme foreground, figures' faces softly visible in middle ground, shadowy room interior fading to darkness"

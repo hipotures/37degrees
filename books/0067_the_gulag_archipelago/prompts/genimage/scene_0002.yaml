@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1950, morning
+    location: Moscow residential district with organized morning activities
+    weather: Crisp winter morning with light snowfall
+  characters:
+  - appearance: Dozens of identical workers in matching uniforms, moving in synchronized formations
+    clothing: Dark blue worker overalls, matching caps with red stars, identical lunch pails
+    position: Marching in precise columns down wide street
+    action: Walking in perfect step to factories, saluting passing party officials, singing patriotic songs
+  scene:
+    mainElements: Perfectly straight lines of marching workers, uniformed children walking to school in formation, red banners
+      hanging from every building, loudspeakers broadcasting instructions
+    details: Street swept completely clean, identical apartment buildings with matching curtains in every window, portraits
+      of Soviet leaders in every visible window, propaganda slogans painted on walls, police directing pedestrian traffic
+      with whistles
+    background: Factory smokestacks releasing white steam in perfect vertical columns, organized rows of identical buildings
+      stretching to horizon
+    atmosphere: Mechanized harmony and perfect social order, everything choreographed and controlled, sense of collective
+      purpose overwhelming individual identity
+  composition:
+    cameraAngle: High angle shot emphasizing geometric patterns
+    focus: Rivers of identical workers flowing through organized urban landscape
+    depth: Foreground shows individual faces in formation, middle ground reveals systematic movement patterns, background
+      demonstrates total urban planning
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

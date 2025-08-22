@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "K.'s Arrival - Surveyor's Determined Perspective"
+  setting:
+    time: "Early 1920s late winter evening"
+    location: "Wooden bridge leading to isolated Central European village in former Bohemian region, permanently covered in deep snow during endless winter"
+    weather: "Deep snow covering everything, bone-chilling cold with fog obscuring Castle on hilltop"
+  characters:
+    - appearance: "Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally to maintain universal anonymity"
+      clothing: "Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack as personal belonging"
+      position: "Standing alone on wooden bridge, silhouetted against white snow"
+      action: "Pausing with gnarled walking stick in hand, surveying village ahead with determined gaze despite exhaustion"
+  scene:
+    mainElements: "Solitary wooden bridge crossing into village, deep untouched snow blanketing entire landscape, distant warm lights from tavern windows piercing winter darkness"
+    details: "Bridge planks creaking under weight, breath visible in frigid air, complete silence except for wind through bare trees, Castle invisible in darkness and fog above. Man carries simple gnarled wooden staff that serves as only reliable support tool in unstable world, small backpack containing meager possessions. Village appears as collection of low shapes in darkness ahead."
+    background: "Vast empty snowfield stretching behind traveler, suggesting long journey from unknown origin, path disappearing into white void"
+    atmosphere: "Perspective filtered through exhausted determination - bridge represents threshold between known and unknown world, village lights appearing as both promise of shelter and uncertain challenge ahead, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle view emphasizing traveler's resolve against overwhelming landscape"
+    focus: "Lone figure on bridge with village lights creating hope in darkness"
+    depth: "Foreground shows detailed footprints in snow, middle ground features bridge and approaching figure, background dissolves into winter void"

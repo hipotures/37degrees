@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1912, lifetime compressed from vigorous middle age to death in single accelerated sequence, dawn to twilight
+    location: Hamilton farmhouse bedroom where Samuel faces final decline
+    weather: Day progressing from dawn through full sunlight to evening shadows symbolizing life's progression
+  characters:
+  - appearance: Samuel Hamilton showing accelerated aging in single frame - tall elderly Irish man rapidly transitioning from
+      vigorous 60s to frail 70s to death, white hair and beard growing longer and thinner, kind eyes fading
+    clothing: Simple cotton work shirt becoming looser as body shrinks, worn wool vest hanging increasingly loose, bedclothes
+      appearing as final garment
+    position: Progressing from standing at bedside to sitting to lying down, showing rapid decline
+    action: Life stages compressed - working at forge, teaching wisdom, weakening, final breath, all visible simultaneously
+      in accelerated time overlay
+  scene:
+    mainElements: Bedroom showing time acceleration - vigorous morning activities overlaid with afternoon weakness overlaid
+      with evening death preparations, family gathering compressed from normal visits to final farewells
+    details: Bed becoming center of activity as Samuel weakens, medical implements appearing and multiplying, family possessions
+      being sorted and distributed in accelerated sequence, oil lamp burning through full day cycle in minutes
+    background: Hamilton farmhouse showing compressed family response - children arriving from distant places in accelerated
+      travel, neighbors gathering for final respects in time-lapse sequence, Salinas Valley maintaining eternal presence while
+      human life accelerates toward conclusion
+    atmosphere: Life's final chapter compressed to show how quickly strength fades and wisdom transfers, acceleration emphasizing
+      preciousness of remaining time, family love intensified by temporal compression, no text or letters visible
+  composition:
+    cameraAngle: Bedroom interior showing accelerated progression from activity to stillness
+    focus: Samuel's bed as central anchor point for accelerated aging sequence
+    depth: Foreground shows bedside details changing rapidly, middle ground reveals accelerated aging figure, background displays
+      family response compressed in time
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

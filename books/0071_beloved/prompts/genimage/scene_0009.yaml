@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late autumn 1873 harvest time transitioning to deep winter 1874, same garden space
+    location: Kitchen garden behind house 124 showing seasonal progression and family sustenance
+    weather: Crisp autumn air with first frost transitioning to snow-covered winter stillness
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vegetable garden showing late harvest abundance transforming to winter's protected dormancy, root vegetables
+      ready for storage, preserved foods preparation
+    details: Late autumn garden heavy with pumpkins, winter squash, and root vegetables being harvested contrasted with same
+      space under deep snow with only dried stalks and protective mulch visible, wooden baskets full of autumn produce overlaid
+      with snow-covered garden tools, fence posts showing autumn's colorful vine growth transformed to winter's bare brown
+      stems
+    background: House 124 showing warm lamplight in autumn evening windows becoming cold winter structure with smoke rising
+      from chimney
+    atmosphere: Seasonal rhythm of providing sustenance and protection, autumn's preparation for winter survival, garden as
+      metaphor for family resilience and planning, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing garden layout and seasonal transformation
+    focus: Garden rows and harvest abundance contrasted with winter protection
+    depth: Foreground shows harvest baskets and winter preparations, middle ground emphasizes garden transformation, background
+      reveals house as shelter from seasonal challenges
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

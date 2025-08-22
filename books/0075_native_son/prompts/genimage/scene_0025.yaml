@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, night
+    location: concrete cell in death row block of Chicago county jail, late 1930s winter night
+    weather: Cold winter night with minimal artificial lighting
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing at cell bars looking outward with new understanding
+    action: having achieved tragic self-awareness and understanding of forces that shaped him, representing hope that consciousness
+      can emerge even from destruction
+  - appearance: middle-aged man possibly of Jewish descent, intellectual appearance suggesting empathy and intelligence, thoughtful
+      facial features
+    clothing: somewhat worn but neat suit, professional but not wealthy, shows dignity rather than material success
+    position: standing in corridor outside cell
+    action: listening to final words of understanding, representing possibility of human connection across racial lines
+  scene:
+    mainElements: Prison cell representing ultimate physical confinement that cannot contain emerging human consciousness
+      and understanding, final scene questioning whether awakening awareness can lead to future change
+    details: thick vertical metal bars separating prison cell from corridor, ultimate symbol of physical imprisonment that
+      mirrors lifelong psychological and social confinement. Cold concrete walls and floor, minimal furnishing, bare institutional
+      environment designed to destroy human spirit
+    background: Death row corridor extending into darkness, other cells holding other victims of systematic oppression, institutional
+      architecture designed for human destruction, but unable to eliminate human consciousness
+    atmosphere: Final moment of tragic understanding and self-awareness emerging from complete destruction, question whether
+      individual awakening can inspire broader social change, hope that consciousness and human dignity survive even systematic
+      oppression
+  composition:
+    cameraAngle: Close-up shot through bars showing face achieving understanding despite physical imprisonment
+    focus: The emergence of consciousness and human dignity that cannot be destroyed by systematic oppression
+    depth: Foreground shows prison bars representing physical confinement, middle ground captures moment of understanding
+      between characters, background suggests possibility of broader social awakening beyond individual tragedy
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

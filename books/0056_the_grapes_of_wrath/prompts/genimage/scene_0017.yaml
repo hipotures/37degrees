@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1930s, midday
+    location: Company radio broadcast center in California agricultural facility
+    weather: Artificial studio lighting
+  characters:
+  - appearance: Radio announcer in clean business suit with confident expression, speaking into microphone while groups of
+      workers listen outside window.
+    clothing: Pressed business suit, polished shoes, neat hair, clean hands holding official script
+    position: Sitting at broadcast desk elevated above listening workers
+    action: Reading company propaganda into microphone while workers outside absorb messages designed to keep them compliant
+  scene:
+    mainElements: Radio studio with announcer broadcasting corporate messages to workers gathered outside listening through
+      speakers, technology used for mass persuasion
+    details: Mass media technology deployed to shape worker consciousness. Professional announcer reads scripts promoting
+      acceptance of poor working conditions. Workers listen through speakers mounted outside studio. Messages repeated throughout
+      day to reinforce corporate ideology. Technology presents authority voice that seems objective but serves company interests
+    background: Broadcasting equipment and corporate communication infrastructure designed to control information flow
+    atmosphere: Authoritative voice technology creating illusion of objective truth while delivering biased messaging, sounds
+      of electronic amplification giving weight to propaganda
+  composition:
+    cameraAngle: Split view showing both broadcaster and receiving audience
+    focus: Technology-mediated control of information and worker consciousness
+    depth: Announcer in elevated studio background transmits to listening workers in foreground, showing power dynamic of
+      communication control
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

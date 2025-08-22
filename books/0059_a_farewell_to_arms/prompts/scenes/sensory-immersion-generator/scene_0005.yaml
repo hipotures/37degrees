@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Lake water embrace during desperate nighttime crossing"
+  setting:
+    time: "1917 November night"
+    location: "Large Alpine lake between Italy and Switzerland, dramatic mountain scenery with deep dark waters reflecting peaks"
+    weather: "Cold November night with wind and intermittent rain"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Ubranie cywilne (garnitur)"
+      position: "Rowing small boat through rough water"
+      action: "Straining against oars while water splashes over sides soaking through clothes"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "Ubranie cywilne, płaszcz"
+      position: "Huddled in boat stern wrapped in coat"
+      action: "Gripping boat sides as waves rock their escape vessel"
+  scene:
+    mainElements: "Vast dark water surface with rocky shores, stone walls along waterfront, small wooden rowboat, steep mountain slopes rising directly from water, wedge-shaped gap between peaks marking Swiss border"
+    details: "Cold lake water penetrating through clothing creating progressive saturation and weight, wooden boat hull transmitting every wave impact through bodies seated on hard planks, choppy water slapping against rowing hands leaving them numb and stinging, spray creating constant fine mist that accumulates into heavy dampness, boat rocking motion pressing occupants against sides with rhythmic pressure, physical exhaustion building as rowing becomes increasingly labored against wind resistance, water weight in clothes creating drag and chill, no text or letters visible"
+    background: "Dark mountain silhouettes rising from black water under stormy night sky"
+    atmosphere: "Beautiful but treacherous barrier to freedom, cold November waters under stormy skies, dangerous crossing requiring physical endurance and navigation skill, transition from Italian danger to Swiss sanctuary"
+  composition:
+    cameraAngle: "Low angle from water level showing boat struggling against elements"
+    focus: "Physical strain and water pressure effects on escaping refugees"
+    depth: "Foreground shows water interaction with boat and bodies, middle ground captures struggling figures, background reveals dark threatening mountains"

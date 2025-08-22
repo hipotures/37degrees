@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Awakening - Frost and Flesh in Siberian Barrack"
+  setting:
+    time: "January 1951, 5:00 AM, before dawn"
+    location: "Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing 200 prisoners"
+    weather: "Minus 27 degrees Celsius, bitter frost penetrating walls"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Curled under pile of dirty blankets and worn coat, both feet thrust into jacket sleeve for warmth"
+      action: "Body shivering involuntarily as metal hammer strikes hanging rail outside, gradual awakening from feverish sleep"
+  scene:
+    mainElements: "Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely blocking outside view"
+    details: "White spider webs of frost along wall-ceiling joints, prisoner's breath visible as clouds of vapor, ice crystals forming on exposed skin, blankets stiff with frozen moisture. Bodies pressed together for warmth on narrow bunks, steam rising from sleeping forms creating ghostly atmosphere. Rough wooden planks showing through thin mattresses filled with sawdust, no text or letters visible"
+    background: "Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic with constant sounds of coughing, snoring and whispers"
+    atmosphere: "Bone-penetrating cold making every surface painful to touch, texture contrast between stiff frozen fabric and warm human flesh, awakening senses recoiling from temperature shock of metal rail striking frozen air"
+  composition:
+    cameraAngle: "Close-up view focusing on texture contrasts"
+    focus: "Hands emerging from blankets showing immediate reaction to cold air, frost-covered surfaces"
+    depth: "Foreground: frozen breath and ice crystals, middle: shivering figure under blankets, background: rows of sleeping prisoners in similar positions"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Feast table with steam from different dishes mingling"
+  setting:
+    time: "1924, evening dinner"
+    location: "Traditional Spanish dining room with heavy wooden table and ceramic serving dishes"
+    weather: "Warm evening with gentle air circulation through open windows"
+  characters:
+    - appearance: "Spanish bullfighter aged 19, exceptionally handsome with smooth bronze-tanned skin, lustrous black hair, triangular scar on left cheekbone, lean muscular build suggesting both strength and grace, youthful dignity in bearing"
+      clothing: "Outside arena: elegant black suit of fine quality. In arena: traditional torero costume with richly embroidered black jacket featuring gold threadwork, form-fitting black pants, rose-colored stockings, flat black shoes"
+      position: "Seated at head of table, appreciating elaborate meal"
+      action: "Demonstrating composed mastery whether in formal conversation or preparing for dangerous confrontation with deadly precision"
+  scene:
+    mainElements: "Multiple dishes releasing steam in various patterns, wine swirling in glass catching candlelight, ceramic bowls with aromatic contents steaming"
+    details: "Different steam patterns rising from varied dishes suggesting complex flavors - thick steam from rich stews, delicate wisps from wine glasses, aromatic clouds from spiced dishes creating layered atmosphere, wine creating light patterns as it swirls, ceramic surfaces showing colorful food arrangements, candlelight making steam patterns more visible, no text or letters visible"
+    background: "Traditional dining room with rustic wooden furniture, ceramic serving pieces, candlelit atmosphere creating intimate setting"
+    atmosphere: "Culinary complexity visualized through steam variety - multiple flavor profiles suggested by different steam densities and patterns, feast representing celebratory abundance"
+  composition:
+    cameraAngle: "Medium wide shot capturing entire feast spread"
+    focus: "Steam patterns and wine reflections suggesting flavor complexity"
+    depth: "Foreground: detailed steam and wine effects, midground: figure appreciating feast, background: traditional dining room warmth"

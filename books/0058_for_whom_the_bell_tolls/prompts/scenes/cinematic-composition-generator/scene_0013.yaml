@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Over-shoulder - Watching approach of enemy aircraft overhead"
+  setting:
+    time: "Late May 1937, afternoon with clear sky"
+    location: "Forest clearing in Spanish mountains"
+    weather: "Clear mountain air with excellent visibility"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "Over-shoulder view following character's upward gaze toward approaching aircraft, three metallic shapes growing larger against bright blue sky"
+    details: "Aircraft engines creating distant mechanical drone, metallic surfaces reflecting afternoon sunlight, formation flying in tactical pattern, sense of technological threat from above contrasting with natural forest setting"
+    background: "Clear mountain sky with distant peaks, forest canopy extending below aircraft flight path"
+    atmosphere: "Mechanical threat invading natural sanctuary, modern warfare technology versus primitive resistance, tension of being observed from above"
+  composition:
+    cameraAngle: "Over-shoulder shot following character's gaze skyward"
+    focus: "Aircraft as symbols of technological warfare superiority"
+    depth: "Character's shoulder and head in foreground, aircraft in middle distance against sky background"

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1944, late night
+    location: administrative tent with writing materials
+    weather: quiet Mediterranean night
+  characters:
+  - appearance: 19 years old, youthful smooth face, sincere wide open eyes, wealthy boy appearance from good family background
+    clothing: simple undershirt and military trousers
+    position: hunched over writing desk by lamplight
+    action: writing passionate letter to prostitute in Rome
+  scene:
+    mainElements: small writing desk with oil lamp, paper and pen, military correspondence materials, personal photographs
+    details: Nately writes intensely by lamplight, pouring his idealistic love onto paper for the Roman prostitute who initially
+      showed him indifference. His youthful face shows complete devotion as he crafts romantic words. The contrast between
+      his sheltered background and wartime reality emerges through his sincere expressions of love.
+    background: tent interior with military equipment, letters from home, personal belongings of wealthy upbringing
+    atmosphere: romantic idealism confronting harsh wartime reality, mixture of youthful hope and naive devotion
+  composition:
+    cameraAngle: close-up on concentrated face and moving pen
+    focus: intense concentration and emotional investment in letter writing
+    depth: foreground shows letter writing activity, middle ground captures devoted expression, background reveals military
+      context
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

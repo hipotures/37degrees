@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Communication Evolution - Letters to Telegrams to Radios"
+  setting:
+    time: "1920s, 1940s, 1970s - three communication technology periods"
+    location: "Same household communication corner showing technological progression"
+    weather: "Indoor domestic lighting evolving from oil lamps to electric bulbs"
+  characters:
+    - appearance: "Sturdy woman around 30 years old, plump and muscular with hairy forearms. Large undulating thigh muscles. Practical earth-mother appearance with strong hands"
+      clothing: "Simple working sari often rolled up fisherman-style for factory work"
+      position: "Squatting on floor or standing with hands on hips"
+      action: "Listening intently to stories or working with preserve jars"
+  scene:
+    mainElements: "Same domestic corner housing family communication across five decades. 1920s shows handwritten letters and postal materials. 1940s reveals telegraph equipment and written messages. 1970s displays radio and early electronic communication. Same furniture location accommodates evolving technology"
+    details: "Writing materials progress from ink pens and handmade paper to typewritten documents to mass-produced forms. Message delivery evolves from postal service to telegraph office to broadcast radio. Family communication patterns change from formal letter-writing to urgent telegrams to passive radio listening"
+    background: "Domestic interior maintains furniture placement while accommodating new technologies. Wall decorations change from colonial period items to independence symbols to Emergency period simplicity"
+    atmosphere: "Acceleration of communication speed reflecting broader social and political changes. Personal letter intimacy giving way to technological efficiency and eventually to mass media uniformity, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot focusing on communication corner and user interaction"
+    focus: "Communication device and human hands as central elements showing technological evolution"
+    depth: "Communication technology in foreground, user activity in middle ground, domestic context in background"

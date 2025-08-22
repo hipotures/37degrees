@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, night
+    location: Chicago South Side street, police confrontation scene
+    weather: Cold winter night with harsh streetlight illumination
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: being forcibly arrested by multiple police officers
+    action: struggling against brutal police handling, experiencing systematic violence designed to suppress any form of resistance
+      or independence
+  - appearance: Several white police officers with aggressive authoritarian bearing, large builds suggesting physical intimidation
+    clothing: heavy winter police uniforms with badges, caps, and clubs visible, dark wool coats over uniforms, leather boots
+    position: surrounding and overpowering the arrested man
+    action: using excessive force and brutality, demonstrating how system responds to any challenge to racial hierarchy
+  scene:
+    mainElements: Brutal police arrest demonstrating systematic violence used to maintain racial control and suppress any
+      form of resistance or self-assertion
+    details: Multiple officers using unnecessary force against single individual, police clubs and weapons visible, harsh
+      streetlight creating dramatic shadows, onlookers forced to watch but unable to intervene, police car with harsh spotlight,
+      evidence of struggle on pavement
+    background: Deteriorating neighborhood buildings, other residents watching from windows and doorways in fear, patrol cars
+      blocking street, atmosphere of terror and intimidation extending throughout community
+    atmosphere: Demonstration of state violence as tool of racial control, systematic brutality designed to terrorize entire
+      community, message that any resistance will be met with overwhelming force, destruction of human dignity through institutional
+      violence
+  composition:
+    cameraAngle: Medium shot showing overwhelming police force against individual resistance
+    focus: The system's violent response to any challenge to racial hierarchy and economic control
+    depth: Foreground shows brutal police action, middle ground captures the victimized individual, background reveals community
+      forced to witness and internalize the lesson
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Surveillance of Foreign Intrusion"
+  setting:
+    time: "Mid-1890s, afternoon when first rumors spread"
+    location: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths"
+    weather: "Oppressive heat suggesting approaching change and tension"
+  characters:
+    - appearance: "Middle-aged man of similar age to Okonkwo, thoughtful expression showing wisdom and concern"
+      clothing: "Well-maintained attire of wealthy, titled Igbo man with quality woven cloth"
+      position: "Standing with other elders discussing disturbing news from neighboring villages"
+      action: "Reporting strange occurrences and foreign presence that threatens traditional isolation"
+  scene:
+    mainElements: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths with elders gathered in worried consultation"
+    details: "Heavy black bicycle representing incomprehensible European technology, called iron horse by villagers who killed its rider creating fear and confusion about foreign intentions. Messengers arriving with reports of destroyed villages and strange pale-skinned visitors bearing unknown motivations"
+    background: "Ordered traditional society with deep spiritual connection to land and ancestors beginning to sense external threat"
+    atmosphere: "Growing unease and surveillance consciousness as isolated community becomes aware of external observation and potential danger"
+  composition:
+    cameraAngle: "Medium shot showing concerned faces and body language"
+    focus: "Worried elders receiving disturbing intelligence about outsiders"
+    depth: "Concerned leaders in foreground, normal village life continuing in middle ground, unknown threats in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wedding Announcement - Adult Alliance"
+  setting:
+    time: "1947, evening"
+    location: "Living room in middle-class wooden frame house, New England"
+    weather: "Evening interior lighting, intimate atmosphere"
+  characters:
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+      position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+      action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+    - appearance: "Middle-aged man in his thirties, European features, now established household member"
+      clothing: "Evening casual clothes, comfortable domestic attire"
+      position: "Seated comfortably in armchair, relaxed in domestic setting"
+      action: "Smiling approval, participating in adult conversation about marriage plans, establishing permanent presence"
+  scene:
+    mainElements: "Living room with evening lighting, adult couple announcing marriage plans, domestic setting now permanently altered"
+    details: "Evening intimacy between adults, wedding discussion excluding child input, adult alliance being formed, domestic control being established"
+    background: "Living room now occupied by adult couple, furniture arranged for their comfort, child presence minimized"
+    atmosphere: "Adult conspiracy forming, child excluded from decisions affecting their future, sense of adult world closing in"
+  composition:
+    cameraAngle: "Eye level view from doorway, observing adult alliance formation"
+    focus: "Two adults in intimate conversation about permanent arrangement"
+    depth: "Foreground shows threshold between child and adult spaces, middle ground shows adult couple, background shows domestic interior claimed by adults"

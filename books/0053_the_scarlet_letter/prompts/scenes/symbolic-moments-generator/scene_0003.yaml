@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Physician's Touch of Judgment"
+  setting:
+    time: "1642 June evening, lamplight hours in prison cell"
+    location: "Dark stone prison cell interior with minimal furnishing"
+    weather: "Evening with no natural light penetrating cell"
+  characters:
+    - appearance: "Man well advanced in years around 50-60, short and thin build, slight deformity with left shoulder higher than right, pale learned scholarly face, dim but penetrating eyes that acquire demonic red gleam over time"
+      clothing: "Initially strange mixture of civilized and savage garments from time among Native Americans, later adopts modest physician's attire of dark colors, carries leather satchel with herbs and medicines"
+      position: "Leaning forward over wooden cup, finger extended toward woman's chest"
+      action: "Constantly observing and analyzing others with piercing gaze, mixing herbal remedies, making notes, speaking in measured intellectual tones while eyes betray malevolent intent"
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Seated on prison bench holding infant, recoiling slightly from touch"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+  scene:
+    mainElements: "Physician's finger pointing directly at elaborate embroidered letter A in scarlet red cloth outlined with intricate gold thread work and ornate flourishes, approximately 3 inches tall, sewn permanently to front of dress over heart, wooden cup of medicine, stone prison walls"
+    details: "The moment of accusation crystallizes as learned finger extends toward scarlet symbol, transforming medical gesture into moral condemnation. Cup of herbal remedy represents dual nature of healing and poison, care and control. Dim lamplight creates dramatic shadows emphasizing deformity of physician's shoulders and intensity of his penetrating gaze. Prison cell walls seem to close around figures creating claustrophobic atmosphere of judgment."
+    background: "Stone prison interior with rough-hewn wooden bench, iron shackles hanging from walls, small barred window letting in minimal light"
+    atmosphere: "Confrontation between guilt and retribution, medical authority used as weapon of moral judgment, oppressive weight of accusation in confined space, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing both figures and symbolic gesture of pointing"
+    focus: "Extended finger pointing at scarlet letter as moment of recognition and condemnation"
+    depth: "Foreground: pointing gesture and scarlet letter; middle: two figures in tense confrontation; background: prison walls and shadows creating moral imprisonment"

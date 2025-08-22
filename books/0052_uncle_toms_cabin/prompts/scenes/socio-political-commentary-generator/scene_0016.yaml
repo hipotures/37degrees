@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Shaping Young Minds - The Indoctrination Chamber"
+  setting:
+    time: "1851, morning"
+    location: "Formal classroom or instruction area where plantation ideology is taught to children"
+    weather: "Bright morning light streaming through windows"
+  characters:
+    - appearance: "White instructor in formal teaching attire, middle-aged woman with stern expression"
+      clothing: "Conservative dark dress appropriate for teaching, hair arranged in strict style"
+      position: "Standing at front of improvised classroom with teaching materials"
+      action: "Teaching lessons about social hierarchy and proper behavior to mixed group of children"
+    - appearance: "Mixed group of white and enslaved children receiving different lessons about their roles"
+      clothing: "White children in clean school clothes, enslaved children in work clothes, clear visual distinction maintained"
+      position: "Segregated seating arrangements reflecting social hierarchy being taught"
+      action: "Learning different lessons appropriate to their assigned social positions"
+  scene:
+    mainElements: "Classroom setting with segregated seating, different books and materials for different groups, blackboard with social hierarchy diagrams"
+    details: "Religious texts used to justify social order, maps showing plantation as model society, lessons about obedience and duty according to race and class, behavioral expectations clearly differentiated by group"
+    background: "Plantation house study or converted room, educational materials reflecting plantation values, glimpse of real world where these lessons will be applied"
+    atmosphere: "Systematic ideological training from early age, use of education as tool of control rather than liberation, childhood innocence exploited to embed social hierarchies"
+  composition:
+    cameraAngle: "Medium shot showing instructor and segregated student groups"
+    focus: "The use of education as weapon of social control and ideological manipulation"
+    depth: "Foreground shows teaching materials and instructor, middle ground reveals segregated learning, background emphasizes the institutional setting supporting this education"

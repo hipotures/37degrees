@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, morning
+    location: Fertile agricultural valley in California's Central Valley region, San Joaquin Valley area during 1930s
+    weather: Clear morning light illuminating landscape
+  characters:
+  - appearance: Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate
+      food, eyes showing mixture of hope and desperation.
+    clothing: Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel
+    position: Standing in perfect formation along field edge
+    action: Moving in synchronized rows through vast agricultural fields, carrying tools in rhythmic unison like industrial
+      machinery
+  scene:
+    mainElements: Endless geometric rows of crops extending to horizon, workers moving in perfect parallel lines like mechanical
+      components, modern farming equipment in precise formation
+    details: Industrial agriculture showing human workers reduced to machine-like precision. Geometric field patterns stretch
+      infinitely. Workers maintain exact spacing and timing as if manufactured parts. Supervisors with clipboards ensure mechanical
+      efficiency. No individual faces visible in mass formation
+    background: Vast orchards and fields stretching to distant mountains, irrigation ditches, modern farming equipment, abundance
+      of crops ready for harvest
+    atmosphere: Sterile efficiency masking human individuality, rhythmic sounds of synchronized work drowning out personal
+      voices, oppressive order imposed on natural landscape
+  composition:
+    cameraAngle: Aerial perspective looking down
+    focus: Perfect geometric patterns of both crops and human workers moving as unified machinery
+    depth: Workers in foreground merge into identical patterns extending to distant horizon, showing scale of industrial dehumanization
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

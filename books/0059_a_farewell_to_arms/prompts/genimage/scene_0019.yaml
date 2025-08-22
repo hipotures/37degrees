@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1917 early morning
+    location: Converted building serving as American military hospital in elegant Milan, 1917-1918, sophisticated urban medical
+      facility
+    weather: Cool morning with filtered sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Clean modern medical rooms with new furniture, large wardrobe with mirror, adjustable window blinds, balcony
+      overlooking red tile rooftops and chimneys of Milan cityscape
+    details: Dark coffee grounds spilled across white ceramic counter creating stark bitter contrast, individual coffee particles
+      visible in morning light showing rich brown complexity, grounds releasing aromatic oils suggested by subtle color variations
+      and light reflection, coffee grinder nearby with residual powder creating fine dust clouds, ceramic coffee cups stained
+      with bitter residue rings, coffee pot with dark liquid showing thick consistency suggesting strong bitter brew, scattered
+      grounds creating texture patterns that suggest intense roasted flavor, steam wisps rising from hot coffee indicating
+      harsh aromatic intensity, no text or letters visible
+    background: Hospital kitchen preparation area with breakfast service equipment and morning light
+    atmosphere: Sanctuary of healing and romance, bright sunlight streaming through open blinds, intimate private space removed
+      from war, sounds of civilian city life replacing battlefield noise
+  composition:
+    cameraAngle: Close-up view of coffee preparation showing grounds detail and bitter intensity
+    focus: Scattered coffee grounds and dark liquid suggesting intense bitter flavor
+    depth: Foreground emphasizes coffee texture and color, middle ground shows preparation tools, background reveals kitchen
+      morning light
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

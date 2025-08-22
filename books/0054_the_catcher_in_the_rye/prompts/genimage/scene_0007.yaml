@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in December
+    location: Faculty office in administration building at Pencey Prep
+    weather: Cold December day viewed through institutional windows
+  characters:
+  - appearance: Male, approximately 70 years old, elderly educator with stooped posture, wearing institutional authority
+    clothing: Traditional academic attire of worn but respectable suit, academic propriety despite physical decline
+    position: Seated behind institutional desk representing decades of educational authority
+    action: Dispensing institutional wisdom while viewing student problems through lens of necessary discipline
+  scene:
+    mainElements: Office representing institutional wisdom and traditional values, educational certificates and symbols of
+      authority, view of campus as character-building environment
+    details: Through institutional authority perspective, Pencey appears as necessary forge for character development, student
+      rebellion seems as natural stage requiring guidance, traditional values appear as proven wisdom tested by generations
+    background: Academic office with traditional furnishings, institutional certificates and awards, window overlooking campus
+      as domain of character formation
+    atmosphere: Paternal authority and institutional confidence, sense of participating in time-tested educational mission,
+      belief in necessity of traditional structure, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing institutional authority and educational mission
+    focus: Representative of institutional wisdom viewing campus as character-building domain
+    depth: 'Foreground: symbols of educational authority, middle ground: institutional representative, background: campus
+      as character formation environment'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

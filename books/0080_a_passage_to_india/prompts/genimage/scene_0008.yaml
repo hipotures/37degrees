@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, overcast afternoon with storm clouds building
+    location: Distant Marabar Hills rising from plain twenty miles from Chandrapore, showing mysterious cave formations
+    weather: Heavy gray clouds accumulating, flat light eliminating shadows, oppressive humidity before storm
+  characters: No characters present in this scene
+  scene:
+    mainElements: Strange rounded granite hills jutting abruptly from flat landscape, ancient cave openings visible as dark
+      spots on smooth rock faces
+    details: Smooth egg-shaped monoliths of gray granite, perfectly circular cave entrances like dark eyes staring across
+      plain, no vegetation on bare rock surfaces, geological formations older than human memory, heat lightning flickering
+      in gathering clouds, dust devils spinning across barren approaches
+    background: Flat Indian plain stretching endlessly under gray sky, distant railway line visible as thin thread across
+      landscape
+    atmosphere: Ominous and alien presence of prehistoric hills, sense of approaching storm matching mysterious energy of
+      ancient caves, oppressive weight of heavy air
+  composition:
+    cameraAngle: Distant view across plain showing hills rising dramatically against storm clouds
+    focus: Mysterious cave-pierced hills under threatening sky creating sense of foreboding
+    depth: Foreground shows empty plain, middle ground captures hill details, background displays gathering storm clouds
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

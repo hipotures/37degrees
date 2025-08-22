@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical War Patterns Merging Across Centuries"
+  setting:
+    time: "Multiple war eras overlapping - WWII, Civil War, WWI, Vietnam"
+    location: "Generic battlefield showing war's eternal repetition across history"
+    weather: "Various combat conditions from different wars merging together"
+  characters:
+    - appearance: "Soldiers from different historical periods appearing in temporal overlay"
+      clothing: "Military uniforms from various eras - Civil War blue and gray, WWI doughboy gear, WWII equipment, Vietnam jungle fatigues"
+      position: "Warriors from different centuries occupying same battlefield space"
+      action: "Eternal cycle of human conflict showing war as repeating historical pattern transcending specific periods, no text or letters visible"
+  scene:
+    mainElements: "Battlefield terrain showing accumulated evidence of conflicts across centuries, weapons and equipment from different eras scattered together"
+    details: "Musket balls mixing with modern ammunition, cavalry equipment alongside tank treads, different medical equipment showing warfare evolution, communication devices from signal flags to radios"
+    background: "Landscape showing geological permanence while human conflicts cycle endlessly across same terrain"
+    atmosphere: "Tragic recognition that war represents eternal human pattern rather than specific historical events, suggesting cyclical rather than progressive view of history"
+  composition:
+    cameraAngle: "Wide battlefield shot showing multiple war eras as transparent overlays"
+    focus: "Soldiers from different periods sharing common experience of combat"
+    depth: "Layered historical periods showing war as repeating pattern across time"

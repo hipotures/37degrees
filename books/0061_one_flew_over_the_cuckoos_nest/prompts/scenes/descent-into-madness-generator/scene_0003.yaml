@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Hypersensitive Focus - The Ticking Clock"
+  setting:
+    time: "Early 1960s, late morning"
+    location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+    weather: "Harsh fluorescent lighting creates no natural day/night distinction"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Extreme close-up focus on institutional wall clock, white tiles reflecting harsh light, metal fixtures gleaming coldly"
+    details: "Clock face magnified to enormous proportions, second hand moving in jerky, unnatural rhythm - tick-tick-PAUSE-tick-tick-PAUSE. Each tick reverberates like hammer blow. Numbers on clock face appear to shift positions slightly between ticks. Reflection in clock glass shows distorted room spinning backwards. Dust motes in air move in perfect geometric patterns rather than random drift"
+    background: "Blurred institutional fixtures, muffled sounds of ward life becoming increasingly distant and dreamlike"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Hypersensitive awareness making ordinary objects seem threatening and overwhelming"
+  composition:
+    cameraAngle: "Extreme close-up macro view of clock face"
+    focus: "Second hand movement and shifting numbers, reflections in clock glass"
+    depth: "Foreground: enormous clock face filling frame. Middle: reflected distortions. Background: completely out of focus institutional blur"

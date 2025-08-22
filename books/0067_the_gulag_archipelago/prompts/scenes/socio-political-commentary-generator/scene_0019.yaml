@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Knowledge - The Forbidden Book"
+  setting:
+    time: "1952, late night"
+    location: "Hidden basement where prohibited information is secretly shared"
+    weather: "Candlelight creating intimate atmosphere of conspiracy"
+  characters:
+    - appearance: "Small group of individuals with intense expressions, sharing forbidden knowledge with extreme caution"
+      clothing: "Ordinary clothing that conceals their dangerous activity, faces showing both fear and determination"
+      position: "Gathered closely around hidden books, positioned to watch for detection"
+      action: "Reading forbidden texts, copying prohibited information, passing secret messages"
+  scene:
+    mainElements: "Hidden books and documents containing banned information, secretive gathering of people sharing dangerous knowledge, candles providing concealed lighting"
+    details: "Books carefully hidden from official detection, handwritten copies of prohibited texts, individuals memorizing information to preserve it, constant vigilance for discovery"
+    background: "Underground network of knowledge preservation, systematic effort to maintain forbidden truth, resistance to information control"
+    atmosphere: "Dangerous preservation of truth against systematic lies, intellectual resistance to mental control, hope maintained through shared knowledge"
+  composition:
+    cameraAngle: "Intimate close-ups on forbidden texts contrasted with surveillance awareness"
+    focus: "Preservation of forbidden knowledge as act of resistance"
+    depth: "Foreground shows prohibited information, middle ground reveals secretive sharing, background suggests network of hidden resistance"

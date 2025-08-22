@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Gromeko House Before and After Revolution"
+  setting:
+    time: "1910 and 1918, evening hours"
+    location: "Interior of Moscow townhouse apartment showing same rooms eight years apart"
+    weather: "Winter evening, snow visible through windows"
+  characters:
+    - appearance: "Woman in her 20s to 30s, slender and elegant build, refined aristocratic features, composed expression capable of deep sadness"
+      clothing: "1902-1917: tasteful high-quality dresses befitting upper class. 1917-1922: still good quality garments showing wear, attempts to maintain dignity in difficult circumstances"
+      posture: "Composed bearing with impeccable manners, controlled gestures, dignified stance"
+      action: "Managing household duties, caring for children, reading, playing piano"
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+  scene:
+    mainElements: "Split temporal view of same elegant drawing room - 1910 shows intact bourgeois comfort, 1918 shows communal apartment with multiple families crammed into subdivided space"
+    details: "Left side 1910: floor-to-ceiling bookshelves filled with volumes, grand piano, heavy curtains, lace doilies, thick carpets covering wooden floors, warm light from table lamps, family gathered around piano. Right side 1918: same room partitioned with hanging sheets, elegant furniture chopped for firewood, books scattered and torn, multiple families with belongings in corners, single bare bulb hanging from ceiling, crumbling plaster walls, no text or letters visible"
+    background: "Through windows: 1910 shows peaceful snowy Moscow street with gas lamps, 1918 shows same street with military patrols and bread queues"
+    atmosphere: "Temporal contrast between intellectual comfort and revolutionary chaos, warm browns and golds transforming to cold grays and harsh shadows"
+  composition:
+    cameraAngle: "Symmetrical split screen showing identical architectural frame with transformed content"
+    focus: "Piano as central element showing preservation versus destruction of culture"
+    depth: "Foreground: family activities in both eras; middle ground: room furnishings showing decay; background: windows revealing changed world outside"

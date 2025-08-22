@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1944 to 2000s, tracking weapon across sixty years from active use to display
+    location: Battlefield to personal collection to military museum, journey across continents
+    weather: Various conditions from combat rain to controlled museum climate
+  characters:
+  - appearance: Male, 18-20 years old, short and overweight, described as stupid, fat and cruel, childish face hidden under
+      military scarf
+    clothing: Heavily bundled in multiple layers of wool and canvas, military helmet, home-knitted scarf, well-equipped for
+      combat conditions
+    position: Ghostly presence of young Weary showing off knife, gradually fading as weapon outlives owner
+    action: Proudly displaying weapon, using in combat, dying and releasing grip, knife beginning independent journey through
+      collectors and institutions, no text or letters visible
+  scene:
+    mainElements: Military trench knife with triangular blade and brass knuckle handle, weapon Weary proudly displays to others,
+      representing false machismo and misguided heroic fantasies about warfare
+    details: Blade showing progression from sharp steel to rust spots to careful restoration, handle worn smooth by multiple
+      owners, brass developing patina, identification tags attached by collectors, museum mounting system, protective display
+      case, humidity control devices
+    background: Ardennes forest mud transitioning to veteran's trophy room to antique shop to formal museum display with educational
+      placards and proper lighting
+    atmosphere: Weapon's transformation from tool of violence to historical artifact, loss of original threatening purpose
+      becoming educational object, sterile preservation replacing active danger
+  composition:
+    cameraAngle: Close-up detail shot tracking knife through various hands and display methods
+    focus: Knife blade and handle showing wear patterns, ownership changes, and preservation efforts
+    depth: Foreground shows knife detail in each era, middle ground shows changing ownership contexts, background shows broader
+      historical preservation movement
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

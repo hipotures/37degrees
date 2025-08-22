@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, deep night under full moon illuminating countryside
+    location: Open plain between Chandrapore and distant Marabar Hills showing natural landscape
+    weather: Clear night with full moon, cool air, perfect visibility under silver light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vast open plain under moonlight with Marabar Hills silhouetted on horizon, natural Indian landscape without
+      human structures
+    details: Silver moonlight transforming brown landscape into ethereal scene, shadows creating mysterious shapes on plain,
+      night-blooming flowers reflecting pale light, dew beginning to form on grass, ancient banyan tree standing solitary
+      as dark silhouette, railway tracks gleaming like silver ribbon across plain, small animals creating movement in shadows
+    background: Marabar Hills looming dark and mysterious against star-filled sky, ancient geological presence dominating
+      horizon
+    atmosphere: Timeless quality of Indian landscape under moon, sense of ancient land existing beyond human divisions, mysterious
+      beauty of natural world
+  composition:
+    cameraAngle: Wide shot across moonlit plain toward mysterious hills on horizon
+    focus: Silver moonlight transforming familiar landscape into otherworldly scene
+    depth: Foreground shows moonlit plain details, middle ground captures railway and scattered features, background displays
+      Marabar Hills silhouetted against stars
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

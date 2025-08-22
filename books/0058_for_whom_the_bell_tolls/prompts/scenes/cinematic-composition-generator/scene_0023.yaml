@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadow frame - Bridge structure in dawn shadows"
+  setting:
+    time: "Late May 1937, dawn with dramatic lighting"
+    location: "steel bridge wide enough for two vehicles over deep rocky gorge with rushing stream, strategic position in Spanish mountains"
+    weather: "Clear dawn with sharp contrast between light and shadow"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "cold gray-black industrial steel construction contrasting with natural mountain landscape, wooden guard posts at both ends"
+    details: "Dawn light creating dramatic shadow patterns across bridge structure, some sections in bright illumination while others remain in deep shadow, figure silhouetted against bright dawn sky, steel girders creating geometric shadow patterns on rocky gorge walls"
+    background: "Rocky gorge with rushing stream below, mountain landscape emerging from dawn shadows"
+    atmosphere: "exposed functional structure representing tactical objective, metallic surfaces reflecting harsh daylight or dawn shadows"
+  composition:
+    cameraAngle: "Shot using natural shadow patterns to frame bridge structure"
+    focus: "Industrial bridge structure framed by natural shadow elements"
+    depth: "Shadow frame in foreground, bridge structure in middle ground, mountain landscape in background dawn light"

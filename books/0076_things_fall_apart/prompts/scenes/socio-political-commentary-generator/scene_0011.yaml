@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dehumanization Through Forced Labor Mechanization"
+  setting:
+    time: "Late 1890s, midday during colonial labor extraction"
+    location: "New colonial work site where traditional farmers are forced into unfamiliar industrial labor"
+    weather: "Oppressive heat emphasizing harsh working conditions and exploitation"
+  characters:
+    - appearance: "Traditional Igbo men reduced to anonymous laborers with defeated expressions and mechanized movements"
+      clothing: "Traditional loincloths now dirty and inadequate for new types of labor"
+      position: "Working in mechanical formation stripped of individual identity"
+      action: "Performing repetitive colonial labor that reduces human beings to production units"
+  scene:
+    mainElements: "Colonial work site where traditional agricultural knowledge is rendered worthless and humans are treated as interchangeable machinery"
+    details: "Large brown tubers with rough skin stored in elevated granaries, symbol of male prosperity and agricultural skill now confiscated or controlled by colonial administration. Wide-bladed cutting tool with wooden handle used for farming, clearing bush, and as weapon when necessary repurposed for colonial infrastructure projects"
+    background: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths now disrupted by forced labor extraction"
+    atmosphere: "Systematic dehumanization where individual identity and traditional skills are destroyed in favor of mechanical obedience to colonial production demands"
+  composition:
+    cameraAngle: "Wide shot emphasizing repetitive, mechanized human movement"
+    focus: "Humans reduced to cog-like function in colonial extraction system"
+    depth: "Mechanized workers in foreground, colonial supervisors in middle ground, abandoned traditional tools in background"

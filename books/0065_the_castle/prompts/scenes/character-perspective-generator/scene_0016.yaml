@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documentary Bridge Inn - Neutral Observation"
+  setting:
+    time: "Early 1920s late evening"
+    location: "Simple wooden village tavern near bridge documented without emotional filter"
+    weather: "Cold winter night, objective temperature and conditions"
+  characters:
+    - appearance: "Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally to maintain universal anonymity"
+      clothing: "Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack as personal belonging"
+      position: "Lying on straw mattress measuring approximately 6 feet by 3 feet"
+      action: "Sleeping then awakening to confrontation at documented time"
+    - appearance: "Young man with actor's face, narrow eyes, thick eyebrows"
+      clothing: "City-style dress distinguishing him from peasants"
+      position: "Standing 4 feet from mattress with innkeeper 2 feet behind"
+      action: "Speaking in measured tone about administrative requirements"
+  scene:
+    mainElements: "Low-ceilinged smoky taproom measuring approximately 20 by 15 feet, iron stove producing quantifiable heat, straw mattress positioned near heat source"
+    details: "Objective documentation without emotional interpretation - room temperature approximately 60 degrees, air containing measurable smoke particles, 8 wooden tables with 3-4 peasants seated at documented positions. Stove burning wood at steady rate, lamp providing 40-watt equivalent illumination, beer stains covering 30% of wooden surfaces."
+    background: "Smoke-darkened walls showing years of use, doorway measuring 6 feet 8 inches height leading outside"
+    atmosphere: "Neutral environmental conditions without subjective interpretation - air quality affected by wood smoke and human occupancy, sound levels consisting of conversational volume and occasional chair movement, lighting creating mixed shadows and illuminated areas, no text or letters visible"
+  composition:
+    cameraAngle: "Objective documentation angle capturing all participants equally"
+    focus: "Factual recording of confrontation without emotional emphasis"
+    depth: "Measured distances between all objects and people in room, proportional representation of spatial relationships"

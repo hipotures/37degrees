@@ -1,0 +1,163 @@
+canon:
+  characters:
+    - id: "gregor_samsa_human"
+      name: "Gregor Samsa (Human Form)"
+      description_block: |
+        characters:
+          - appearance: "25-30 year old man, thin build, average height, pale complexion from indoor work, tired eyes that reflect constant worry"
+            clothing: "Simple dark wool business suit, white shirt with high stiff collar, dark tie, worn but proper - the uniform of a traveling salesman"
+            posture: "Shoulders slightly hunched from stress and fatigue, movements quick and nervous, always checking the time"
+            action: "Often fidgeting with hands, straightening papers, or anxiously looking toward windows and clocks"
+
+    - id: "gregor_samsa_insect"
+      name: "Gregor Samsa (Insect Form)"
+      description_block: |
+        characters:
+          - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+            clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+            posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+            action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+
+    - id: "father_samsa_weak"
+      name: "Father Samsa (Before Transformation)"
+      description_block: |
+        characters:
+          - appearance: "Elderly man around 60, overweight and sluggish, double chin, graying hair disheveled, tired defeated expression"
+            clothing: "Shapeless bathrobe, slippers, day clothes that hang loosely on his frame"
+            posture: "Slumped in armchair, shoulders sagging, movements slow and labored"
+            action: "Reading newspapers while dozing, shuffling slowly around apartment, showing little energy or authority"
+
+    - id: "father_samsa_strong" 
+      name: "Father Samsa (After Transformation)"
+      description_block: |
+        characters:
+          - appearance: "Same elderly man but transformed - upright posture, alert black eyes under bushy brows, powerful double chin, hair neatly combed"
+            clothing: "Tight-fitting blue messenger's uniform with gold buttons, high stiff collar, always worn even at home, increasingly dirty and stained"
+            posture: "Military bearing, chest out, chin raised, commanding presence that fills doorways"
+            action: "Marching with firm steps, wielding walking stick like weapon, stamping feet threateningly"
+
+    - id: "mother_samsa"
+      name: "Mother Samsa"
+      description_block: |
+        characters:
+          - appearance: "Around 60 years old, frail build, suffers from asthma causing frequent breathlessness, gentle worried face"
+            clothing: "Simple dark dress appropriate for lower middle class, hair pinned up in conservative style, later work clothes for sewing"
+            posture: "Often leaning on furniture for support, hand pressed to chest when breathing heavily"
+            action: "Moving carefully due to weak constitution, frequently pausing to catch breath, wringing hands with worry"
+
+    - id: "grete_samsa_young"
+      name: "Grete Samsa (Beginning)"
+      description_block: |
+        characters:
+          - appearance: "17-year-old girl, still childish features, thin from youth, innocent expression with caring eyes"
+            clothing: "Simple girl's dress with long sleeves, dark colors, hair in braids or pinned back modestly"
+            posture: "Moves with youthful energy but grows more cautious over time, often carrying violin case"
+            action: "Bringing food carefully, cleaning tentatively, playing violin with growing confidence"
+
+    - id: "grete_samsa_mature"
+      name: "Grete Samsa (End)"
+      description_block: |
+        characters:
+          - appearance: "Same 17-year-old but matured - fuller figure, confident bearing, beautiful features now pronounced, determined expression"
+            clothing: "Work clothes for shop girl, simpler but more adult styling, hair arranged in mature woman's style"
+            posture: "Stands tall with new confidence, movements decisive and purposeful"
+            action: "Speaking with authority to parents, making firm decisions, stretching body with newfound pride"
+
+    - id: "chief_clerk"
+      name: "Chief Clerk"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged businessman, formal bearing, stern disapproving face, well-groomed appearance"
+            clothing: "Dark formal business suit with vest, top hat, carrying leather briefcase, everything impeccably clean"
+            posture: "Rigid formal stance, looking down on others with authority, turns quickly when startled"
+            action: "Speaking in clipped authoritative tones, checking pocket watch, backing away in horror"
+
+    - id: "three_boarders"
+      name: "Three Boarders"
+      description_block: |
+        characters:
+          - appearance: "Three serious middle-aged men, all sporting full dark beards, well-dressed but stern expressions"
+            clothing: "Matching dark formal suits, clean and pressed, all wearing similar styles as if uniform"
+            posture: "Sitting upright at table with rigid posture, moving in unison like a single organism"
+            action: "Reading newspapers in sync, eating with precise manners, speaking through their leader with cold authority"
+
+    - id: "charwoman"
+      name: "Charwoman"
+      description_block: |
+        characters:
+          - appearance: "Large elderly woman, widow, strong bony frame, white hair flying around head, weathered working-class face"
+            clothing: "Working dress, apron, distinctive hat with small ostrich feather that sticks up vertically"
+            posture: "Sturdy stance with hands on hips, unafraid and matter-of-fact in bearing"
+            action: "Cleaning vigorously, poking at things with broom handle, speaking bluntly without fear"
+
+  locations:
+    - id: "gregor_bedroom_normal"
+      name: "Gregor's Bedroom (Normal Period)"
+      description_block: |
+        setting:
+          location: "Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building"
+        mainElements: "Bed with dark wooden frame, wardrobe, chest of drawers, writing desk, leather sofa, window overlooking gray hospital building"
+        atmosphere: "Cramped but orderly, dimly lit by gas lamp, feeling of routine and monotony, rain streaking window glass"
+
+    - id: "gregor_bedroom_emptied"
+      name: "Gregor's Bedroom (After Furniture Removal)"
+      description_block: |
+        setting:
+          location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+        mainElements: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+        atmosphere: "Barren and desolate, feeling of erasure and loss, more like animal cage than human room"
+
+    - id: "gregor_bedroom_storage"
+      name: "Gregor's Bedroom (Storage Room)"
+      description_block: |
+        setting:
+          location: "Former bedroom now used as storage space, cluttered with unwanted household items"
+        mainElements: "Dusty furniture piled up, ash box, broken items, cobwebs in corners, everything covered in grime"
+        atmosphere: "Neglected dumping ground, musty smell, complete abandonment, no longer resembling living space"
+
+    - id: "family_living_room"
+      name: "Family Living Room"
+      description_block: |
+        setting:
+          location: "Central room of Prague apartment serving as dining and gathering space, heart of family life"
+        mainElements: "Heavy wooden dining table with chairs, sideboard, father's armchair, gas lamp later replaced by electric light"
+        atmosphere: "Dimly lit bourgeois interior, heavy furniture creating oppressive mood, center of family tensions and meals"
+
+    - id: "apartment_hallway"
+      name: "Apartment Hallway"
+      description_block: |
+        setting:
+          location: "Narrow corridor of early 1900s Prague tenement apartment connecting all rooms"
+        mainElements: "Three doors leading to bedrooms, entrance to living room, coat hooks, umbrella stand, simple wooden flooring"
+        atmosphere: "Confined space where family confrontations occur, echoing with muffled sounds, feeling of being trapped"
+
+  items:
+    - id: "framed_picture"
+      name: "Framed Picture of Woman in Furs"
+      description_block: |
+        details: "Magazine illustration cut out and mounted in gilded wooden frame, showing elegant woman wearing fur hat and stole, arm disappearing into large fur muff, Gregor's only personal decoration"
+
+    - id: "red_apple"
+      name: "Red Apple (Weapon/Wound)"
+      description_block: |
+        details: "Small bright red apple thrown by father, embeds permanently in Gregor's back carapace, becomes infected and causes constant pain, symbol of paternal violence and rejection"
+
+    - id: "father_uniform"
+      name: "Father's Bank Messenger Uniform"
+      description_block: |
+        details: "Tight-fitting blue uniform with gold buttons, high stiff collar, represents father's regained authority and social position, becomes increasingly dirty from never being removed"
+
+    - id: "violin"
+      name: "Grete's Violin"
+      description_block: |
+        details: "Wooden violin in protective case, symbol of art and beauty in materialistic world, represents Grete's dreams and Gregor's last connection to human emotion"
+
+    - id: "alarm_clock"
+      name: "Alarm Clock"
+      description_block: |
+        details: "Mechanical wind-up clock on nightstand, brass or steel construction, represents tyranny of work schedule and time, ticking constantly in background"
+
+    - id: "work_samples"
+      name: "Fabric Samples"
+      description_block: |
+        details: "Cloth swatches spread across desk, various textures and patterns for Gregor's traveling salesman work, represent his professional life and family obligations"

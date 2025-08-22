@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1950 quiet evening
+    location: working-class neighborhood home in Paterson, New Jersey, simple two-story wooden or brick house typical of 1940s
+      Eastern suburbs with small front porch and tidy windows
+    weather: peaceful autumn evening with golden light
+  characters:
+  - appearance: 25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled,
+      dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression
+    clothing: khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or
+      leather jacket, functional but reflecting intellectual Eastern background
+    position: seated in familiar chair being embraced
+    action: experiencing complete sensory memory trigger through mother figure's embrace
+  - appearance: Middle-aged maternal figure with gentle face and caring expression
+    clothing: soft wool sweater and comfortable dress
+    position: embracing young man from behind chair
+    action: holding him gently while humming familiar lullaby in rocking motion
+  scene:
+    mainElements: complete sensory memory experience combining familiar perfume scent, soft wool sweater texture, gentle rocking
+      motion suggesting lullaby rhythm, warm embrace providing perfect comfort, golden evening light creating nostalgic atmosphere
+    details: Soft wool fabric against cheek bringing tactile memory of childhood comfort, familiar perfume scent triggering
+      powerful emotional recall, gentle rocking motion creating visual and physical rhythm like remembered lullaby, warm arms
+      providing enveloping security, golden light filtering through familiar windows creating perfect nostalgic illumination,
+      combination of all senses creating single powerful memory moment that transcends individual sensations
+    background: modest but cozy clean interior with dark wood furniture, sofa covered with throw, family photographs in simple
+      frames on walls, lace doilies on tables
+    atmosphere: warm browns, beiges and muted greens dominating color scheme, warm lighting from lamps with lampshades, smell
+      of cooked food lingering, quiet domestic sanctuary representing stability and security
+  composition:
+    cameraAngle: intimate close-up capturing embrace and emotional expression
+    focus: complete synesthetic memory experience combining all five senses in single powerful moment
+    depth: embracing figures in soft foreground focus, familiar room details gently blurred in background, golden light creating
+      dreamy memory-like quality throughout scene
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1851, evening
+    location: Plantation gathering area where enslaved people are required to attend loyalty demonstrations
+    weather: Evening light creating dramatic shadows
+  characters:
+  - appearance: Plantation authority figures on elevated platform addressing assembled crowd
+    clothing: Formal attire suggesting importance and authority, visible symbols of power
+    position: Standing on raised platform above assembled people
+    action: Delivering speeches about loyalty, duty, and benefits of plantation system
+  - appearance: Large crowd of enslaved people required to attend and show enthusiasm
+    clothing: Their best available clothes for this formal occasion, some holding small flags or symbols
+    position: Arranged in organized formation facing speakers
+    action: Providing required applause and responses, some genuine, others clearly forced
+  scene:
+    mainElements: Elevated speaking platform with authority figures, organized crowd arrangement, banners or symbols representing
+      plantation ideology
+    details: Required responses and chants, plantation symbols and propaganda materials, refreshments provided as reward for
+      attendance, overseers monitoring crowd reaction, enforcement of participation
+    background: Plantation buildings arranged to create amphitheater effect, evening shadows creating dramatic but oppressive
+      atmosphere
+    atmosphere: Forced participation in own oppression, manufacture of consent through organized events, contrast between
+      required enthusiasm and underlying coercion
+  composition:
+    cameraAngle: Wide shot showing platform speakers and assembled crowd
+    focus: The manufactured consent as symbol of psychological control and forced compliance
+    depth: Foreground shows crowd responses and enforcement, middle ground features the speaking platform, background reveals
+      the institutional setting orchestrating this event
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

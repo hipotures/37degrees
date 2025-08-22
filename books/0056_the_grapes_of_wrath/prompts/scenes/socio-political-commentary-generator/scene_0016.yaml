@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Absorption of Ideology - Manufacturing Consent"
+  setting:
+    time: "1930s, evening"
+    location: "Company-sponsored entertainment hall in California agricultural facility"
+    weather: "Warm artificial lighting creating false intimacy"
+  characters:
+    - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+      clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+      position: "Sitting in rows facing propaganda presentation, leaning forward with absorbed attention"
+      action: "Watching corporate-sponsored entertainment that subtly promotes worker submission, applauding messages that work against their own interests"
+  scene:
+    mainElements: "Stage presentation mixing entertainment with corporate propaganda, audience unknowingly absorbing messages promoting their own exploitation"
+    details: "Sophisticated manipulation disguised as entertainment. Stage performers present songs and skits that promote company loyalty while appearing to entertain. Audience laughs and applauds content designed to make them accept poor treatment. Subtle messages about the nobility of hard work for low pay. Entertainment value masks indoctrination purpose"
+    background: "Company logos and imagery subtly integrated into entertainment venue design"
+    atmosphere: "False warmth and community feeling used to deliver exploitative messaging, sounds of laughter and applause for their own manipulation"
+  composition:
+    cameraAngle: "Medium shot showing both stage propaganda and absorbing audience"
+    focus: "Contrast between entertainment value and manipulative purpose of presentation"
+    depth: "Stage propaganda in background reaches audience in foreground, showing transmission of controlling ideology through apparent benevolence"

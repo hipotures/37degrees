@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Locked cage with door standing wide open, golden wings inside"
+  setting:
+    time: "Late 1980s, early morning light streaming through industrial windows"
+    location: "Abandoned warehouse in London's immigrant district, cavernous space with exposed beams"
+    weather: "Misty morning light filtering through broken skylights creating cathedral atmosphere"
+  characters:
+    - appearance: "40-year-old Indian man, athletic build, confident posture"
+      clothing: "Elegant dark smoking jacket over white dress shirt, formal evening wear"
+      position: "Standing outside cage with key in outstretched hand"
+      action: "Gesturing toward open door while wings remain motionless inside"
+  scene:
+    mainElements: "Ornate Victorian birdcage large enough for human, door hanging wide open on broken hinges, pair of magnificent golden wings resting inside"
+    details: "Elaborate wrought-iron cage with Gothic Revival styling, bars twisted into intricate vine patterns, door torn from frame but cage intact, interior containing massive angel wings crafted from real gold feathers, wings folded peacefully as if in meditation, each feather perfectly formed and gleaming, open cage creating perfect frame around golden wings, wings showing no inclination to move despite absolute freedom, key in figure's hand now useless, no text or letters visible"
+    background: "Industrial warehouse with high ceilings, abandoned machinery covered in dust, shafts of light creating dramatic chiaroscuro effects"
+    atmosphere: "Freedom offered but not taken, choice paralysis when liberation becomes possible, fear of leaving familiar confinement"
+  composition:
+    cameraAngle: "Eye-level view through cage bars framing golden wings like artwork"
+    focus: "Open cage door emphasizing voluntary nature of continued imprisonment"
+    depth: "Foreground: cage bars and open door, midground: golden wings choosing to remain, background: offering figure and warehouse space"

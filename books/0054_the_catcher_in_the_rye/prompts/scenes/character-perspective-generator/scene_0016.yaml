@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Objective view: Grand Central Terminal as architectural and social reality"
+  setting:
+    time: "Late 1940s, afternoon in December"
+    location: "Massive Beaux-Arts railway terminal in Manhattan, soaring main concourse with celestial ceiling and marble floors"
+    weather: "December afternoon with natural light filtering through terminal windows"
+  characters:
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Standing in terminal concourse as one figure among many travelers"
+      action: "Moving through space without emotional filter, simply existing within architectural reality"
+  scene:
+    mainElements: "Grand architectural space functioning as designed for efficient passenger movement, Beaux-Arts columns supporting structural loads, information boards displaying factual departure times"
+    details: "Neutral documentation shows terminal measurements approximately 200 feet long with 125-foot ceiling, marble floors worn by millions of footsteps, celestial ceiling mural covering 2,500 square feet, travelers moving in predictable patterns based on departure schedules"
+    background: "Architectural documentation of arched windows providing calculated light, departure gates organized for maximum efficiency, commercial spaces serving documented passenger needs"
+    atmosphere: "Functional architectural space serving transportation needs, efficient movement of people through designed environment, neutral documentation without emotional interpretation, no text or letters visible"
+  composition:
+    cameraAngle: "Documentary perspective capturing architectural reality and human scale"
+    focus: "Architectural space functioning as designed with human figures providing scale reference"
+    depth: "Foreground: architectural details, middle ground: human activity, background: structural elements"

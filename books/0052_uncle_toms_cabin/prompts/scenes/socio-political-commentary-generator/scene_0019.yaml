@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Forbidden Book - Knowledge as Contraband"
+  setting:
+    time: "1851, midnight"
+    location: "Hidden location where enslaved person secretly learns to read"
+    weather: "Dark night requiring concealed light source"
+  characters:
+    - appearance: "Young man in mid-20s, very tall with handsome figure, dark Spanish complexion (mulatto), striking black eyes, thick curly hair of shining black, well-formed eagle nose, straight thin lips, admirably outlined limbs"
+      clothing: "Simple working clothes as enslaved person, later elegant Spanish gentleman disguise during escape"
+      position: "Standing tall with proud bearing, defiant posture when confronting authority"
+      action: "Working with mechanical inventions or boldly defending his family during escape"
+    - appearance: "Person teaching reading skills, possibly white ally or educated enslaved person"
+      clothing: "Simple clothes allowing for quick concealment if discovered"
+      position: "Sitting close to student with book between them"
+      action: "Pointing to words and letters, whispering instructions, watching for danger"
+  scene:
+    mainElements: "Hidden book or reading material, small concealed light source like covered candle, improvised writing materials"
+    details: "Book carefully hidden when not in use, writing practice on disposable materials like sand or slate, lookout system for approaching danger, evidence of previous secret learning sessions"
+    background: "Concealed location offering protection from discovery, escape routes if interrupted, distant plantation buildings suggesting surveillance risk"
+    atmosphere: "Extreme danger in pursuit of forbidden knowledge, education as act of rebellion against systematic ignorance, hope for freedom through learning despite deadly consequences"
+  composition:
+    cameraAngle: "Intimate close-up showing faces and book illuminated by small light"
+    focus: "The forbidden book as symbol of dangerous pursuit of knowledge and human dignity"
+    depth: "Foreground shows detailed reading lesson and concentrated faces, middle ground reveals concealment strategies, background emphasizes the risk and isolation of secret education"

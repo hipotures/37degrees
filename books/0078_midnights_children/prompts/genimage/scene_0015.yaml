@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1920s to 1970s - multiple time periods simultaneously visible
+    location: Grand ballroom or celebration hall showing multiple historical periods overlapped
+    weather: Interior ballroom lighting with chandeliers and dance floor illumination
+  characters:
+  - appearance: Various ages showing life progression - child hands at age 10, adult hands at age 30, elderly hands at age
+      70. Hands show wear patterns, calluses, and aging spots corresponding to life stages
+    clothing: Hands visible with period-appropriate sleeve cuffs - colonial medical sleeves, elegant sari edges, simple work
+      clothes
+    position: Hands positioned identically reaching toward or holding silver spittoon
+    action: Child hands receiving spittoon as gift, adult hands polishing ornate surface, elderly hands passing object to
+      next generation
+  scene:
+    mainElements: Grand celebration space with transparent overlays of dancers from multiple decades. 1920s colonial-era formal
+      dance overlaps with 1947 independence celebration which overlaps with 1960s wedding festivities and 1970s political
+      gatherings. All periods visible simultaneously as translucent layers
+    details: Dancing figures from different eras appear as ghostly transparencies wearing period-appropriate formal attire.
+      Colonial ballroom dancing overlays with traditional Indian celebration movements and later political rally gestures.
+      Music and celebration styles from each era blend visually without overwhelming single composition
+    background: Ballroom architecture serves all periods while decorations shift subtly between colonial grandeur, independence
+      optimism, cultural celebration, and political authority. Chandeliers and formal furnishing accommodate all historical
+      moments
+    atmosphere: Haunting beauty of layered celebrations across historical periods. Joy and festivity transcending specific
+      political moments while revealing continuous human need for community gathering, no text or letters visible
+  composition:
+    cameraAngle: Wide ballroom shot capturing multiple dance groups as overlapping transparencies
+    focus: Central dance floor as convergence point for all temporal layers
+    depth: Overlapping dancer figures create complex layered foreground, ballroom architecture provides consistent middle
+      ground, period decorations suggest background temporal context
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

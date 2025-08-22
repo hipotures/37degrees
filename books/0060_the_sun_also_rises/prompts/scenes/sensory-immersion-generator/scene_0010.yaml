@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Festival chaos with overlapping motion blur"
+  setting:
+    time: "1924, peak celebration evening"
+    location: "Large rectangular plaza surrounded by buildings with arched galleries, numerous café terraces spilling into square, fountain in center, traditional Spanish architecture with ochre and cream facades"
+    weather: "Warm evening air filled with festival energy and competing sounds"
+  characters:
+    - appearance: "Spanish bullfighter aged 19, exceptionally handsome with smooth bronze-tanned skin, lustrous black hair, triangular scar on left cheekbone, lean muscular build suggesting both strength and grace, youthful dignity in bearing"
+      clothing: "Outside arena: elegant black suit of fine quality. In arena: traditional torero costume with richly embroidered black jacket featuring gold threadwork, form-fitting black pants, rose-colored stockings, flat black shoes"
+      position: "Moving through crowd with controlled grace despite surrounding chaos"
+      action: "Demonstrating composed mastery whether in formal conversation or preparing for dangerous confrontation with deadly precision"
+  scene:
+    mainElements: "Multiple overlapping movements creating visual cacophony, festival banners whipping in different directions, crowd motion creating streaks of white and red clothing"
+    details: "Bodies in motion creating streaked trails of color, musical instruments visible mid-gesture with motion blur, festival flags snapping in chaotic patterns, wine being poured and spilled simultaneously at multiple tables, dancers' skirts spinning in overlapping circles, firecrackers creating explosive light patterns, everything in perpetual motion without single point of stillness, no text or letters visible"
+    background: "Festive chaos with crowds dressed in white with red sashes and scarves, constant noise of celebration, music and laughter, sense of ancient ritual meeting modern tourism"
+    atmosphere: "Overwhelming sensory assault made visible through motion chaos - every surface and person contributing to visual noise, movement itself becoming the dominant force"
+  composition:
+    cameraAngle: "Dynamic handheld perspective capturing motion chaos"
+    focus: "Overlapping movement patterns creating visual cacophony"
+    depth: "Foreground: intense motion blur and activity, midground: figure maintaining composure in chaos, background: architectural stability contrasting with human frenzy"

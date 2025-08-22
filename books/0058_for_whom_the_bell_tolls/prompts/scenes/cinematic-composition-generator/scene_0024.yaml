@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadow frame - Final confrontation with enemy through rifle scope"
+  setting:
+    time: "Late May 1937, noon with harsh overhead sun"
+    location: "Forest floor position providing cover and concealment"
+    weather: "Bright clear day with sharp shadows"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "View through rifle scope creating circular frame, target figure approaching through forest, bright sunlight creating sharp contrast between light and shadow areas"
+    details: "Rifle scope creating precise circular frame, crosshairs visible in scope view, approaching figure partially concealed by tree shadows, professional marksman's steady aim and controlled breathing visible in stable scope view"
+    background: "Forest setting with alternating patches of bright sunlight and deep shadow, natural camouflage patterns"
+    atmosphere: "Final confrontation and ultimate test of resolve, professional military precision in moment of truth, life and death decision framed by optical technology"
+  composition:
+    cameraAngle: "POV shot through rifle scope creating precise circular frame"
+    focus: "Target approaching through natural shadow and light patterns"
+    depth: "Rifle scope frame in immediate foreground, target figure in middle distance, forest background with light/shadow patterns"

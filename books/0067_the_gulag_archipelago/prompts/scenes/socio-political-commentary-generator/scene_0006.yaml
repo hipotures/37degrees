@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eyes Everywhere - The Surveillance Network"
+  setting:
+    time: "1950, evening"
+    location: "Moscow street corner with multiple observation points"
+    weather: "Overcast evening with artificial lighting creating harsh shadows"
+  characters:
+    - appearance: "Average build man in 20s with weather-beaten face from outdoor duty, expression of boredom or brutality"
+      clothing: "NKVD convoy troops uniform with warm sheepskin coat, felt valenki boots, fur ushanka hat, rifle with bayonet"
+      position: "Standing on watchtower platform or marching alongside prisoner column"
+      action: "Scanning horizon through binoculars, leading guard dog on leash, counting prisoners"
+  scene:
+    mainElements: "Multiple surveillance cameras mounted on poles, hidden microphones in lamp posts, guards stationed at regular intervals, observation mirrors positioned on building corners"
+    details: "Citizens walking with heads down avoiding eye contact, whispered conversations quickly silenced, windows in buildings revealing watchers with binoculars, telephone lines connecting observation posts, documents being checked at random points"
+    background: "Network of observation points stretching into distance, government buildings with lit windows suggesting constant monitoring, radio antennas transmitting information"
+    atmosphere: "Paranoid environment where privacy is impossible, constant sense of being watched, fear underlying normal activities"
+  composition:
+    cameraAngle: "Multiple perspectives suggesting omnipresent observation"
+    focus: "Web of surveillance technology and human monitors"
+    depth: "Foreground shows individual citizens under scrutiny, middle ground reveals surveillance infrastructure, background demonstrates total coverage"

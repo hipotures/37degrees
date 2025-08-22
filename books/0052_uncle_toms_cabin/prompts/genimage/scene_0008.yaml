@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1851, afternoon
+    location: Clear boundary between luxurious main plantation area and impoverished slave quarters
+    weather: Bright afternoon light emphasizing stark contrasts
+  characters: No characters present in this scene
+  scene:
+    mainElements: Dramatic visual division between manicured plantation grounds and rough slave quarters, fence or natural
+      boundary marking separation
+    details: Left side shows well-maintained gardens, painted buildings, decorative elements, clean pathways; right side reveals
+      unpainted wooden shacks, dirt paths, minimal facilities, basic survival accommodations
+    background: Same sky and landscape over both areas emphasizing that only human systems create this division of conditions
+    atmosphere: Stark inequality made visible through architectural and environmental contrasts, same earth supporting completely
+      different living standards, silence highlighting the moral emptiness of such division
+  composition:
+    cameraAngle: Wide shot showing clear division down the middle of frame
+    focus: The boundary line as symbol of systematic inequality and moral separation
+    depth: Foreground shows the dividing line clearly, middle ground contrasts the two different living conditions, background
+      shows shared natural environment
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

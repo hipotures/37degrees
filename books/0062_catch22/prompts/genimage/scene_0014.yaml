@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1944, night
+    location: outside mess hall complex
+    weather: Mediterranean night with moon
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: walking away from illuminated building into darkness
+    action: leaving the revelation scene in moral confusion
+  scene:
+    mainElements: contrast between lit building behind and dark path ahead, shadows of military equipment and tents, moonlight
+      creating silvery patches
+    details: Yossarian walks from the brightly lit mess hall where Milo's business empire operates into the dark spaces between
+      military tents. His figure transitions from light to shadow, symbolizing his movement from ignorance to knowledge of
+      systematic corruption. The bright business area behind represents false prosperity while darkness ahead shows uncertain
+      moral territory.
+    background: military base at night with scattered lights from tents and buildings, equipment silhouettes in moonlight
+    atmosphere: moral transition from false light of profitable war to darkness of ethical uncertainty
+  composition:
+    cameraAngle: wide shot showing figure moving from light to darkness
+    focus: transition between illuminated corruption and shadowy moral territory
+    depth: foreground shows dark path ahead, middle ground captures transitioning figure, background shows brightly lit scene
+      of business operations
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

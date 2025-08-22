@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1840s evening, twilight
+    location: Vast Pacific waters far from any land, whale hunting grounds
+    weather: Perfectly still water, mirror calm
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ocean surface like perfect mirror reflects not the sky above but scenes from the past - ghostly images of
+      previous ships, whale hunts, and faces of lost sailors
+    details: The glass-calm sea becomes transparent window into memory, showing layered reflections of different time periods
+      simultaneously. In the water's depth appear shadow-ships from decades past, phantom whales breaching in slow motion,
+      and faces of drowned men looking upward through the surface. The reflections shift and overlap like double-exposed photographs,
+      creating confusion between past and present. Ripples spread outward from invisible sources, distorting the memory-images
+      before they reform in new configurations, suggesting how the ocean holds all history within its depths, no text or letters
+      visible
+    background: Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris
+    atmosphere: The ocean as repository of memory suggests how the past lives within the present, and how certain places hold
+      the accumulated weight of all events that occurred there
+  composition:
+    cameraAngle: Low angle skimming across mirror-like water surface
+    focus: Ghostly reflections and memory-images visible beneath surface
+    depth: Surface reflections in immediate foreground, layered memories in middle depth, infinite ocean extending to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

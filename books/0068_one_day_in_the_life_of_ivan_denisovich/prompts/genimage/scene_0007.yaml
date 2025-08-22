@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 1951, 8:00 AM, march to work site
+    location: Open steppes between Soviet prison camp and construction site, flat snow-covered terrain
+    weather: Minus 27 degrees Celsius, wind across open landscape
+  characters:
+  - appearance: Long black column of prisoners in identical uniforms marching in formation
+    clothing: Black padded prison jackets and pants (vatnik), dirty and patched, white rectangular patches with black painted
+      numbers, ushanka fur caps, felt boots (valenki)
+    position: Marching in synchronized formation of five across, heads bowed against wind
+    action: Creating rhythmic percussion through synchronized footsteps on frozen ground
+  scene:
+    mainElements: Endless white steppes with single dark column of marching prisoners, guards positioned at intervals along
+      column
+    details: Synchronized footfall creating visual rhythm patterns in disturbed snow, hundreds of feet striking ground in
+      unison generating visible percussion effects. Snow crystals jumping and scattering with each synchronized step, creating
+      rhythmic disturbance waves across white surface. Breath clouds from marchers rising in synchronized patterns matching
+      step rhythm, visual echo of collective breathing. Boot prints creating geometric patterns in snow showing march formation
+      and tempo, trampled path marking passage with rhythmic compression patterns, no text or letters visible
+    background: Flat horizon with camp buildings distant behind, construction site visible ahead, guards with weapons maintaining
+      formation boundaries
+    atmosphere: Military precision transformed into survival march, collective rhythm becoming visible through environmental
+      interaction, human percussion against frozen landscape creating temporary music in hostile environment
+  composition:
+    cameraAngle: Aerial view showing formation patterns and footstep rhythm in snow
+    focus: Rhythmic footfall patterns and synchronized breath clouds creating visual tempo
+    depth: 'Foreground: detailed footstep percussion effects, middle: marching formation, background: destination and departure
+      points'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

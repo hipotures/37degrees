@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Weathered hands cradling crystal wine glass"
+  setting:
+    time: "1924, evening twilight"
+    location: "Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp"
+    weather: "Cool evening air filtering through tall windows"
+  characters:
+    - appearance: "American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely betrays emotion"
+      clothing: "Well-tailored charcoal wool suit with soft cotton shirt and subdued tie, garments practical yet respectable befitting working correspondent in 1924 Paris"
+      position: "Seated at writing desk, crystal glass cradled in both palms"
+      action: "Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail"
+  scene:
+    mainElements: "Rough calloused fingertips from typewriter work against perfectly smooth crystal surface, wine's coolness seeping through glass walls, amber liquid catching lamplight"
+    details: "Fingertips detecting every facet and edge of cut crystal, hands registering wine's temperature through glass, calluses from typing catching on smooth surface, palms warming crystal while liquid stays cool inside, contrast between earned roughness and inherited elegance, no text or letters visible"
+    background: "High ceilings with simple molding, tall windows with heavy curtains, herringbone parquet flooring, large wardrobe with mirror, simple wooden bed, writing desk with typewriter"
+    atmosphere: "Tactile meditation on life's textures - rough hands that work touching fragile beauty, temperature exchange between skin and glass, physical evidence of different worlds touching"
+  composition:
+    cameraAngle: "Extreme close-up on hands embracing glass"
+    focus: "Skin texture meeting crystal perfection"
+    depth: "Foreground: detailed hand and glass contact, midground: lamp-lit desk surface, background: shadowy apartment interior"

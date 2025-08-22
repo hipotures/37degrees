@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1924, evening
+    location: Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp
+    weather: Cool evening air with shadows gathering
+  characters:
+  - appearance: American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly
+      combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely
+      betrays emotion
+    clothing: Well-tailored charcoal wool suit with soft cotton shirt and subdued tie, garments practical yet respectable
+      befitting working correspondent in 1924 Paris
+    position: Standing at washstand, small medicine bottle in hand
+    action: Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail
+  scene:
+    mainElements: Dark amber medicine bottles with murky contents, medicine spoon with thick syrup coating, facial expression
+      suggesting distaste
+    details: Medicine bottles containing dark, viscous liquids suggesting bitter taste, syrup coating spoon with thick consistency
+      indicating medicinal bitterness, amber glass color suggesting pharmaceutical preparation, medicine cap with residue
+      showing repeated use, facial muscles tensed anticipating unpleasant flavor, lamplight making dark liquid appear almost
+      black, no text or letters visible
+    background: High ceilings with simple molding, tall windows with heavy curtains, herringbone parquet flooring, large wardrobe
+      with mirror, simple wooden bed, writing desk with typewriter
+    atmosphere: Medicinal necessity despite unpleasant taste - dark liquids and tense expressions suggesting bitter pharmaceutical
+      experience, therapeutic suffering visualized
+  composition:
+    cameraAngle: Close-up on medicine bottle and anticipatory expression
+    focus: Dark liquid and facial reaction to bitter medicine
+    depth: 'Foreground: detailed medicine bottle and spoon, midground: figure preparing for unpleasant taste, background:
+      apartment shadows reflecting mood'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1947 to 1978, natural daylight
+    location: Various mirror reflections showing same face across thirty-one years
+    weather: Consistent natural lighting conditions
+  characters:
+  - appearance: Round-faced man with prominent temples, aged 30-31 years. Enormous cucumber-like nose constantly dripping.
+      Blue Kashmir eyes. Stains covering face resembling map patterns. Bald patch on crown of head. Missing upper portion
+      of middle finger. Deaf in left ear. Body cracking and deteriorating under weight of history
+    clothing: Simple work clothes - loose cotton shirt and trousers, worn and practical for factory work
+    position: Seated at wooden table or standing with hunched shoulders
+    action: Writing in notebook with intense concentration or gesturing while telling stories
+  scene:
+    mainElements: Same face shown at three life stages - newborn infant 1947, young boy 1957, deteriorating adult 1978. Facial
+      map-like stains remain consistent while features age and crack. Enormous cucumber nose present in all periods. Blue
+      eyes maintain intensity throughout time passage
+    details: Map-stains on face correspond to Indian subcontinent geography remaining constant across decades. Facial structure
+      shows growth from infant roundness to adult angularity to final physical breakdown. Nose size relative to face changes
+      with age but maintains prominent cucumber shape. Skin texture evolves from baby smoothness to childhood clarity to adult
+      stress cracking
+    background: Different mirror backgrounds suggesting life stage environments - nursery mirror, school bathroom, factory
+      washroom. Mirrors show aging and accumulated damage corresponding to face deterioration
+    atmosphere: Tragic beauty of individual identity mapped onto national geography. Physical breakdown paralleling political
+      fragmentation with face literally bearing history's weight, no text or letters visible
+  composition:
+    cameraAngle: Tight close-up on face with mirror frame visible
+    focus: Facial map-stains as geographic constant through aging process
+    depth: Face fills foreground, mirror reflection creates middle ground, background environments suggest life context
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

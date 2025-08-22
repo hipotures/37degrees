@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Manufacturing Minds - The Indoctrination Assembly Line"
+  setting:
+    time: "1952, afternoon"
+    location: "Large auditorium designed for mass political education"
+    weather: "Harsh artificial lighting creating stark atmosphere"
+  characters:
+    - appearance: "Hundreds of citizens arranged in precise rows, faces upturned toward authority figure, expressions showing absorption of information"
+      clothing: "Identical dark clothing appropriate for serious political instruction, no individual variation in appearance"
+      position: "Seated in geometric formations facing single speaker platform"
+      action: "Listening intently to political instruction, taking identical notes, responding in unison to speaker prompts"
+  scene:
+    mainElements: "Massive speaker platform with single authority figure addressing crowd, huge portraits and symbols surrounding speaker, audience arranged in perfect geometric order"
+    details: "Speaker using pointing stick to emphasize propaganda charts, audience members writing identical information in notebooks, synchronized head movements following speaker's gestures, recording devices capturing compliance"
+    background: "Auditorium extending beyond view filled with identical gatherings, systematic indoctrination occurring simultaneously in multiple venues"
+    atmosphere: "Mass production of approved thoughts and beliefs, systematic replacement of individual judgment with official doctrine, mechanized learning process"
+  composition:
+    cameraAngle: "High angle showing scale of mass indoctrination, close-ups revealing individual absorption of doctrine"
+    focus: "Transformation of independent minds into collective thinking"
+    depth: "Foreground shows individual faces absorbing doctrine, middle ground reveals systematic arrangement, background demonstrates mass scale"

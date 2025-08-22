@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Void Vortex - Expressionist Maelstrom"
+  setting:
+    time: "Late autumn night 1912, around midnight"
+    location: "Former bedroom now used as storage space, cluttered with unwanted household items"
+    weather: "Supernatural calm, as if storm has passed into another dimension"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Massive spiraling vortex of light and shadow consuming everything, drawing all reality into its center"
+    details: "A gigantic spiral of alternating light and darkness dominates the space, pulling everything toward its center. Fragments of the room - furniture pieces, memories, colors, sounds - are caught in the spiral and stretched into streams of pure energy. The vortex rotates with hypnotic power, its center a point of absolute darkness that seems to extend infinitely inward. Gregor feels himself being drawn toward this center, his consciousness fragmenting as he approaches the void."
+    background: "Dusty furniture piled up, ash box, broken items, cobwebs in corners, everything covered in grime"
+    atmosphere: "Ultimate dissolution approaching, reality collapsing into single point, consciousness being torn apart by cosmic forces"
+  composition:
+    cameraAngle: "Spiraling camera movement following the vortex rotation"
+    focus: "Central vortex with infinite dark center pulling everything inward"
+    depth: "Foreground: Gregor being drawn in, middle: spiral arms of light and dark, background: reality stretching and distorting toward center point"

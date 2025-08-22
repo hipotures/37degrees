@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1920s, afternoon
+    location: All-black town of Eatonville, Florida in the 1920s-1930s - main street with general store, post office, and
+      community gathering spaces
+    weather: Bright sunshine with optimistic light
+  characters:
+  - appearance: African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes,
+      natural hair worn in various styles from covered to loose
+    clothing: Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses
+      for special occasions, head wraps or scarves
+    position: Standing at edge of town square, one foot forward
+    action: Looking toward community center with hopeful expression, hands no longer defensive
+  - appearance: African-American man in his 30s-40s, stocky build, well-groomed mustache, authoritative bearing
+    clothing: Well-dressed town clothes - pressed suits, vest, pocket watch, dress shoes, mayor's attire
+    position: Approaching from town center with confident stride
+    action: Walking with purposeful steps, hat slightly tipped, one hand gesturing welcomingly
+  scene:
+    mainElements: Wooden buildings, dirt roads, front porches where people gather, Spanish moss hanging from oak trees. Two
+      figures moving toward each other in town setting, body language showing new openness and possibility
+    details: Town buildings showing prosperity and community pride, people in background going about daily business, horse
+      and buggy on main street, flags or bunting suggesting celebration, no text or letters visible
+    background: Close-knit community feeling with both supportive and gossipy undertones, Southern small-town pace
+    atmosphere: Hope for new beginning, possibility of different kind of life, body language showing emotional opening rather
+      than defensive closing, community energy suggesting new opportunities
+  composition:
+    cameraAngle: Wide shot showing town context and approaching figures
+    focus: Two people moving toward each other in community setting
+    depth: 'Foreground: town street details, middle: the two approaching figures, background: town buildings and community
+      life'
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

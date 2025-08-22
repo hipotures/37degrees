@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medium shot - Robert Jordan checking demolition equipment"
+  setting:
+    time: "Late May 1937, morning light entering cave"
+    location: "Cave entrance area with natural morning illumination"
+    weather: "Clear morning mountain air"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "Professional soldier methodically examining contents of heavy canvas packs, checking coils of wire and technical equipment with expert precision"
+    details: "Morning light illuminating technical equipment spread on blanket, hands moving with practiced familiarity over professional tools, canvas packs showing wear from mountain travel, each piece of equipment carefully positioned and inspected"
+    background: "Cave mouth with soft morning light creating natural spotlight on work area"
+    atmosphere: "Professional competence and methodical preparation, contrast between technical modern equipment and primitive cave setting, focus and determination"
+  composition:
+    cameraAngle: "Medium shot showing torso and hands working with equipment"
+    focus: "Technical equipment and professional methodology"
+    depth: "Foreground equipment and hands, middle ground figure, background cave entrance with morning light"

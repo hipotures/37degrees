@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Two Worlds in One Frame"
+  setting:
+    time: "Late 1930s, morning"
+    location: "Chicago streets showing economic segregation between wealth and poverty"
+    weather: "Cold clear winter morning"
+  characters:
+    - appearance: "Various African American residents of different ages, showing signs of poverty and struggle, worn faces and tired expressions"
+      clothing: "patched and mended clothing, multiple layers for warmth, worn shoes with holes, hand-me-down garments in drab colors"
+      position: "crowded together on deteriorating sidewalks of the South Side"
+      action: "hurrying to low-paying jobs, children walking to underfunded schools, families struggling with daily survival"
+    - appearance: "Various well-dressed white residents showing prosperity and comfort, healthy and confident appearance"
+      clothing: "expensive winter coats, quality hats and accessories, polished shoes, fashionable attire showing wealth"
+      position: "walking leisurely on clean maintained sidewalks of wealthy district"
+      action: "conducting business with ease, entering quality shops and offices, moving without concern for survival"
+  scene:
+    mainElements: "Split composition showing dramatic contrast between African American poverty on one side and white prosperity on the other, demonstrating economic apartheid within the same city"
+    details: "Left side: overcrowded tenements with broken windows, unpaved streets with potholes, garbage in streets, inadequate lighting, people huddled for warmth. Right side: well-maintained buildings, clean swept streets, proper infrastructure, decorative elements, comfortable people with leisure time"
+    background: "Industrial smokestacks and factories on the poor side showing environmental racism, parks and cultural institutions on the wealthy side showing quality of life differences"
+    atmosphere: "Stark demonstration of how race and class create completely different living conditions within the same city, visual evidence of systemic inequality and resource distribution based on racial segregation"
+  composition:
+    cameraAngle: "Wide split screen shot dividing frame between the two economic realities"
+    focus: "The extreme contrast in living conditions and opportunities based on race and class"
+    depth: "Foreground shows detailed conditions of each side, middle ground captures the human experience in each environment, background reveals the institutional systems maintaining this divide"

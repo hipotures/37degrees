@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1969 December, late evening with approaching weather change
+    location: Backyard of Ipe family house with wood cooking fire and approaching storm clouds
+    weather: Humid evening air with electrical tension of approaching storm
+  characters:
+  - appearance: Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional
+      Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build
+    clothing: Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing
+      her rebellious nature, sunset-colored silk sari with gold threading from wedding photos
+    position: Standing near outdoor cooking fire watching smoke patterns
+    action: Observing smoke behavior changing as atmospheric pressure shifts before storm
+  scene:
+    mainElements: Thin smoke tendrils from cooking fire beginning to behave strangely, changing direction and density as atmospheric
+      pressure drops before storm, smoke patterns indicating approaching weather danger
+    details: Smoke changing from straight vertical rise to twisted spirals indicating air pressure changes, wood fire beginning
+      to smoke more heavily suggesting moisture in air, smoke color shifting from clear to gray warning of weather change,
+      fire flames flickering differently as oxygen levels change
+    background: Dark storm clouds gathering on horizon, coconut palms beginning to sway with pre-storm winds, house windows
+      showing warm interior light
+    atmosphere: Natural warning system through smoke behavior, approaching storm creating environmental tension and olfactory
+      alerts
+  composition:
+    cameraAngle: View of cooking fire with smoke patterns against darkening sky background
+    focus: Smoke tendrils changing behavior to suggest atmospheric warning of approaching danger
+    depth: Foreground shows fire and warning smoke, middle ground captures Ammu observing changes, background features gathering
+      storm clouds, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

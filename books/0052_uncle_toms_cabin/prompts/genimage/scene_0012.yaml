@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1851, dawn
+    location: Processing area where enslaved people work in assembly line fashion preparing crops
+    weather: Early morning mist creating ghostly atmosphere
+  characters:
+  - appearance: Line of enslaved workers of various ages, faces showing exhaustion and loss of individual expression
+    clothing: Similar rough work clothes, hands stained from crop processing, bandages on injured fingers
+    position: Standing in precise line passing materials from person to person
+    action: Performing repetitive tasks with mechanical precision, avoiding eye contact, moving in synchronized rhythm
+  scene:
+    mainElements: Assembly line of human workers processing cotton or other crops, baskets and containers moving along human
+      chain, production materials arranged for maximum efficiency
+    details: Scales for weighing processed materials, supervisory records tracking individual production, minimal breaks allowed,
+      productivity requirements posted visibly, tools designed for maximum extraction of labor
+    background: Storage areas filled with processed goods, shipping areas where products leave plantation, account books recording
+      human productivity as economic data
+    atmosphere: Industrial efficiency applied to human beings, loss of individual identity in production process, morning
+      mist symbolizing the ghostly existence of workers treated as machines
+  composition:
+    cameraAngle: Side view showing the human assembly line in profile
+    focus: The repetitive human movements as symbol of dehumanization through industrial labor
+    depth: Foreground shows detailed hand movements and strained faces, middle ground reveals the systematic organization,
+      background emphasizes the economic purpose driving human exploitation
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

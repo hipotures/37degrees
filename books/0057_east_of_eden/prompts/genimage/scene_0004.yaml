@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1875 to 1905, 30 years spanning from age 12 to age 42, warm summer afternoon
+    location: Stone step of Connecticut farmhouse where gifts were given and labor performed across decades
+    weather: Bright summer day with strong sunlight creating sharp shadows
+  characters:
+  - appearance: Charles Trask in transparent double exposure - 12-year-old boy with unmarked face overlaid with 42-year-old
+      man bearing prominent dark scar across forehead
+    clothing: Child's simple cotton shirt and knee pants fading into man's work clothes of flannel shirt and canvas trousers,
+      small hands growing into calloused laborer's hands
+    position: Seated on same stone step, identical posture with elbows on knees, hands central to composition
+    action: Young hands carefully wrapping expensive German knife as gift, same hands later sharpening farm tools with bitter
+      precision, gesture of offering transformed to grinding necessity
+  scene:
+    mainElements: Stone step worn smooth by decades of sitting, surface polished by countless hours of waiting and working,
+      knife blade catching sunlight in both time periods
+    details: Step showing accumulated chips and wear patterns, surrounding ground worn by boots pacing during anxious moments,
+      whetstone appeared and darkened with use, metal shavings accumulated in stone crevices from years of tool sharpening
+    background: Farmhouse door frame unchanged but paint layers showing multiple decades of maintenance, barn visible with
+      roof timbers replaced and weathered again
+    atmosphere: Childhood generosity curdling into adult resentment, same physical space holding innocent hope and bitter
+      disappointment, summer light unchanged while human heart grows dark, no text or letters visible
+  composition:
+    cameraAngle: Close view focusing on hands and step with farmhouse entrance in background
+    focus: Hands as primary subject showing transformation from child's careful gift-giving to man's harsh labor
+    depth: Foreground highlights hand details and tool work, middle ground shows figure aging on step, background reveals
+      farmhouse maintenance across decades
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

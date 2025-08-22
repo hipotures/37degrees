@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Hidden Symbol - Forbidden Truth Revealed"
+  setting:
+    time: "1930s, late night"
+    location: "Makeshift homeless encampment on outskirts of California agricultural town during Great Depression"
+    weather: "Dark night with single lamp providing secretive illumination"
+  characters:
+    - appearance: "Tall man in his late twenties, dark brown eyes with brown pigment flecks, high wide cheekbones, strong deep lines down his cheeks. Long upper lip covering protruding teeth. Weathered face with prison pallor."
+      clothing: "Worn gray work clothes, denim jacket, heavy work boots. Hands show thick calluses and rough skin from labor."
+      position: "Crouched near wall examining hidden symbol"
+      action: "Discovering symbol of resistance painted secretly on wall, understanding its significance for worker organization"
+  scene:
+    mainElements: "Small symbol of unity or resistance painted in hidden location, representing underground communication among oppressed workers"
+    details: "Powerful symbol of hope and resistance hidden from authority view. Simple mark on wall carries deep meaning for worker solidarity. Symbol connects isolated individuals to larger movement for justice. Hidden in location where authorities cannot easily detect. Represents forbidden knowledge and collective strength"
+    background: "Ramshackle shelters built from cardboard, tar paper, scrap metal and salvaged wood, muddy pathways between structures, communal water source"
+    atmosphere: "Secretive atmosphere of hidden resistance, tension of discovery, whispered significance of underground communication"
+  composition:
+    cameraAngle: "Close-up on hidden symbol and discovering hand"
+    focus: "Small but significant mark representing much larger movement for justice"
+    depth: "Symbol in immediate foreground, discovering person in middle ground, watchful camp environment in background showing need for secrecy"

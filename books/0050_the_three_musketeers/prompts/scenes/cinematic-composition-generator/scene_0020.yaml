@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rack focus moment revealing hidden threat in convent sanctuary"
+  setting:
+    time: "August 1628, peaceful afternoon that will turn tragic"
+    location: "Peaceful female religious community in northern French town providing sanctuary for women seeking protection from political persecution"
+    weather: "Gentle afternoon light creating false sense of safety"
+  characters:
+    - appearance: "22-25 years old young woman with natural innocent beauty, fair long curly hair, large blue dreamy eyes, pink lips, alabaster hands, graceful modest bearing"
+      clothing: "Modest but tasteful attire befitting bourgeois wife and Queen's confidante, practical garments often including characteristic period hood partially concealing face"
+      position: "Foreground in sharp focus, kneeling in prayer, unaware of approaching danger"
+      action: "Praying peacefully in apparent safety, completely unaware of deadly threat entering sanctuary"
+    - appearance: "25-28 years old woman with supernatural beauty, pale fair complexion, long blonde curls falling abundantly on shoulders, large blue dreamy eyes, pink lips, alabaster hands, branded fleur-de-lis mark on left shoulder"
+      clothing: "Always dressed with highest elegance according to latest fashion, garments used as manipulation tools appearing as innocent victim, pious puritan or commanding aristocrat depending on intended deception"
+      position: "Background initially out of focus, becoming sharp as focus shifts to reveal threat"
+      action: "Entering convent sanctuary with bottle of poison, preparing final revenge against innocent victim"
+  scene:
+    mainElements: "Quiet sacred architecture with simple cells, cloisters, chapel, convent garden, sparse wooden furniture, religious symbols throughout"
+    details: "Rack focus technique shifting attention from peaceful prayer to approaching danger, religious furnishings and symbols, bottle of poison becoming visible as focus shifts, contrast between innocence and evil intention"
+    background: "Peaceful convent setting with religious architecture, garden visible through windows, atmosphere of sanctuary about to be violated"
+    atmosphere: "Initially oasis of peace and safety, later becomes scene of tragedy and horror when sanctuary is violated by murderous revenge"
+  composition:
+    cameraAngle: "Static position with dramatic focus shift redirecting attention from safety to threat, revealing hidden danger through optical technique"
+    focus: "Dramatic rack focus from foreground safety to background threat, revealing approaching danger through shift in visual attention"
+    depth: "Foreground: innocent victim in prayer, middle ground: sacred convent space, background: approaching threat with poison, focus shift revealing danger, no text or letters visible"

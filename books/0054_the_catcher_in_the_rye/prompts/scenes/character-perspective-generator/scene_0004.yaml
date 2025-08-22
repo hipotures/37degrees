@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Holden perceives Ackley as fellow victim of institutional cruelty"
+  setting:
+    time: "Late 1940s, evening in December"
+    location: "Robert Ackley's dormitory room in Memorial Wing at Pencey Prep"
+    weather: "Cold December night with wind rattling windows"
+  characters:
+    - appearance: "Male, 18 years old, very tall at 193 cm, hunched shoulders, acne-covered face, mossy unkempt teeth, poor personal hygiene"
+      clothing: "Sloppy, ill-fitting clothes typical of prep school but poorly maintained"
+      position: "Sitting hunched over personal belongings in dimly lit room"
+      action: "Engaging in nervous habits while displaying social awkwardness and isolation"
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Standing in doorway observing with mixture of irritation and sympathy"
+      action: "Watching Ackley while recognizing shared status as institutional outsider"
+  scene:
+    mainElements: "Two social outcasts in cramped institutional space, evidence of neglect and isolation, contrast between different types of alienation"
+    details: "Through Holden's perspective, Ackley's room appears as cave-like refuge from institutional judgment, poor hygiene becomes badge of resistance to false cleanliness, social awkwardness reflects authentic struggle against conformity pressure"
+    background: "Small cramped dormitory room with unmade bed, scattered personal items, poor lighting, institutional furniture showing wear"
+    atmosphere: "Shared alienation creating uncomfortable kinship, recognition of mutual victimhood by institutional system, mixture of irritation and protective sympathy, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing cramped institutional space and mutual isolation"
+    focus: "Two outsider figures recognizing unspoken kinship despite surface differences"
+    depth: "Foreground: Holden's observational position, middle ground: Ackley's defensive posture, background: institutional room as shared prison"

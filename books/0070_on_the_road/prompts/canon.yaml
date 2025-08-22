@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "sal_paradise"
+      name: "Sal Paradise"
+      description_block: |
+        characters:
+          - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+            clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+            posture: "reflective stance, often trailing behind others while observing, contemplative gait with hands sometimes in pockets"
+    
+    - id: "dean_moriarty"
+      name: "Dean Moriarty"  
+      description_block: |
+        characters:
+          - appearance: "21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns, bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile"
+            clothing: "white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just shorts or shirtless revealing his physical nature"
+            posture: "constant nervous motion even when sitting, tapping fingers, energetic gestures, body like coiled spring ready to explode into action"
+    
+    - id: "carlo_marx"
+      name: "Carlo Marx"
+      description_block: |
+        characters:
+          - appearance: "21-year-old man with thin nervous build, dark curly hair in artistic disarray, large intelligent penetrating eyes behind thick black-framed glasses, elongated face with sad poetic expression"
+            clothing: "mismatched worn jackets, shirts and wool pants from thrift shops, intellectual absent-minded professor style contrasting with mainstream fashion"
+            posture: "static but intense presence, focused penetrating gaze, minimal economical gestures, introspective stance"
+    
+    - id: "marylou"
+      name: "Marylou"
+      description_block: |
+        characters:
+          - appearance: "16-19 year old young woman, petite graceful build, blonde hair in large flowing curls like sea of golden locks, smoky blue country eyes, pretty face with hint of hardness from experience"
+            clothing: "simple blouses, skirts or fitted pants typical of young provincial girl, practical and uncomplicated style"
+            posture: "youthful energy mixed with mature confidence, natural uninhibited movement"
+    
+    - id: "old_bull_lee"
+      name: "Old Bull Lee"
+      description_block: |
+        characters:
+          - appearance: "33-36 year old very tall gaunt man with thinning dark hair, cold emotionless eyes, long pale face with stone-like expression, skeletal build"
+            clothing: "dark conservative well-tailored suits creating surreal contrast with his drug experimentation lifestyle, formal attire like bank clerk or funeral director"
+            posture: "slow methodical movements, deliberate calculated gestures, imposing height used to intimidating effect"
+
+  locations:
+    - id: "aunt_house_paterson"
+      name: "Aunt's House in Paterson, New Jersey"
+      description_block: |
+        setting:
+          location: "working-class neighborhood home in Paterson, New Jersey, simple two-story wooden or brick house typical of 1940s Eastern suburbs with small front porch and tidy windows"
+        mainElements: "modest but cozy clean interior with dark wood furniture, sofa covered with throw, family photographs in simple frames on walls, lace doilies on tables"
+        atmosphere: "warm browns, beiges and muted greens dominating color scheme, warm lighting from lamps with lampshades, smell of cooked food lingering, quiet domestic sanctuary representing stability and security"
+    
+    - id: "greenwich_village_apartment"
+      name: "Greenwich Village Apartment"
+      description_block: |
+        setting:
+          location: "cheap cold-water flat in old red brick brownstone in Greenwich Village, New York, small cramped rooms reached through narrow dark corridors and steep stairs"
+        mainElements: "small neglected rooms with peeling paint walls, bare wooden floors, minimal random furniture including mattress on floor, makeshift bookshelves, single bare bulb hanging from ceiling"
+        atmosphere: "thick with cigarette smoke, cheap wine smell, coffee and sweat, weak atmospheric lighting creating deep shadows, sounds of jazz gramophone mixing with animated overlapping conversations"
+    
+    - id: "american_highway"
+      name: "American Highway"
+      description_block: |
+        setting:
+          location: "two-lane asphalt road stretching to horizon across vast American continent, cutting through endless flat Nebraska prairies, rolling Iowa hills and sun-scorched Arizona deserts, lined with wooden telegraph poles"
+        mainElements: "empty road surface black or gray cracked from sun, occasional roadside signs, abandoned car wrecks, infinite sky meeting land at distant horizon"
+        atmosphere: "faded browns and ochres of earth, bleached green grass, deep navy blue sky, harsh merciless sunlight casting short shadows during day, spectacular purple orange red sunsets, absolute darkness at night pierced only by car headlights and millions of bright stars"
+    
+    - id: "roadside_diner"
+      name: "Roadside Diner"
+      description_block: |
+        setting:
+          location: "train car-shaped building made of gleaming stainless steel with rounded corners, large panoramic windows and characteristic neon signs that hiss and flicker in the night"
+        mainElements: "long counter with row of rotating stools covered in red or blue vinyl, booths with benches opposite, black and white checkered floor, glass containers with cakes on counter, chrome coffee machines and drink dispensers gleaming in background, jukebox in corner"
+        atmosphere: "bright fluorescent lighting, smell of fried bacon, fresh brewed coffee and cigarette smoke, sound of clinking cutlery, truck drivers' conversations and jukebox music, temporary oasis of civilization in wilderness"
+    
+    - id: "jazz_club"
+      name: "Jazz Club"
+      description_block: |
+        setting:
+          location: "cramped smoky basement club with low ceiling, small stage barely fitting musicians, tiny crowded tables, dark walls possibly brick covered with posters"
+        mainElements: "stage with saxophone, piano, drums and bass instruments, musicians' faces focused and sweaty, mixed racial crowd in eclectic styles, beat generation members in casual clothes alongside elegantly dressed couples"
+        atmosphere: "dark browns, blacks, red brick colors, atmospheric spotlighting focused on stage while rest of venue drowns in darkness lit only by glowing cigarette ends and instrument reflections, thick cigarette smoke creating visible streaks in air"
+
+  items:
+    - id: "hudson_commodore_1949"
+      name: "Hudson Commodore 1949"
+      description_block: |
+        details: "low-hung aerodynamic car with smooth modern lines distinguishing it from competition, glossy paint reflecting light, chrome details gleaming, powerful engine capable of high speeds, gradually deteriorating condition reflecting characters' journey progression"
+    
+    - id: "manuscript_scroll"
+      name: "Manuscript Scroll"  
+      description_block: |
+        details: "37-meter long roll of architectural paper taped together, written as single paragraph without breaks, physical manifestation of continuous journey philosophy, symbolic representation of spontaneous prose method and road metaphor"
+    
+    - id: "mechanical_typewriter"
+      name: "Mechanical Typewriter"
+      description_block: |
+        details: "heavy mechanical typewriter requiring significant key pressure, brands like Underwood or Royal, loud clacking sound and bell at line end creating important period soundscape, Sal's tool for transforming experience chaos into art"
+    
+    - id: "road_maps"
+      name: "Road Maps"
+      description_block: |
+        details: "large folded paper maps often spread on car hoods or in cheap hotel rooms, showing vast network of American highways, symbolizing journey planning, dreams of travel and continent's vastness and unpredictability"
+    
+    - id: "benzedrine_inhaler"
+      name: "Benzedrine Inhaler"
+      description_block: |
+        details: "small metal inhaler, discreet but omnipresent prop symbolizing pharmacological fuel driving characters, representing chemical enhancement of experience and energy needed for constant movement"

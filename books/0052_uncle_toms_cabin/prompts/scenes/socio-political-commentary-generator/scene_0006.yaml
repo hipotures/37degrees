@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eyes Everywhere - The Watchtower System"
+  setting:
+    time: "1851, dawn"
+    location: "Plantation observation tower or elevated position used for surveillance of enslaved people"
+    weather: "Misty morning with limited visibility"
+  characters:
+    - appearance: "Plantation overseer in his 30s-40s with stern weathered face and calculating eyes"
+      clothing: "Practical work clothes with wide-brimmed hat, boots suitable for riding, carrying spyglass or telescope"
+      position: "Standing in elevated position scanning the plantation grounds below"
+      action: "Systematically observing work areas and slave quarters with surveillance equipment"
+  scene:
+    mainElements: "Wooden watchtower or elevated platform, telescope or spyglass for long-distance observation, bell for signaling, logbook for recording observations"
+    details: "Maps of plantation layout, schedule of daily activities, punishment records, communication devices like flags or mirrors, view of multiple work areas from single vantage point"
+    background: "Panoramic view of entire plantation operation including fields, quarters, processing buildings, and roads leading in and out"
+    atmosphere: "Constant surveillance creating atmosphere of control and fear, morning mist partially concealing but not preventing observation, sense that no movement goes unnoticed"
+  composition:
+    cameraAngle: "Medium shot from slightly below showing overseer's commanding position"
+    focus: "The surveillance apparatus as symbol of systematic control and dehumanization"
+    depth: "Foreground shows observation equipment, middle ground features the watching overseer, background reveals the entire plantation under surveillance"

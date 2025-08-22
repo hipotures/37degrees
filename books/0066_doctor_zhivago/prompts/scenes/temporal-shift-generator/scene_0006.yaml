@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Spring Revolution to Summer War - 1917 Transformation"
+  setting:
+    time: "March 1917 spring thaw to July 1917 summer heat"
+    location: "Moscow street and square showing seasonal and political transformation"
+    weather: "Spring: melting snow and mud, emerging grass. Summer: hot sun and dust clouds"
+  characters:
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+    - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+      clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+      posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+      action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+  scene:
+    mainElements: "Split seasonal composition showing same public square during revolutionary spring hope and military summer mobilization"
+    details: "Left side March: snow melting in streets creating muddy streams, people emerging from winter wearing lighter clothes, revolutionary banners and gatherings, budding trees, crowds celebrating Tsar's abdication with joyful faces and raised arms. Right side July: same square baked by summer heat with dust clouds, military recruitment stations, soldiers in uniform marching, same trees now in full leaf providing shade for war preparations, worried families saying goodbye, no text or letters visible"
+    background: "Imperial buildings and monuments remain constant but show changing political symbols and military activity"
+    atmosphere: "Hope of spring liberation transforming into hot urgency of war preparations, natural renewal contrasted with human conflict"
+  composition:
+    cameraAngle: "Wide shot showing seasonal transformation of public space and crowd behavior"
+    focus: "Central square as stage for changing seasons and political moods"
+    depth: "Foreground: people celebrating then mobilizing; middle ground: square activities and trees; background: government buildings showing continuity"

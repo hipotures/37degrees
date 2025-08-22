@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in December
+    location: Professional office or consultation room in Manhattan
+    weather: December afternoon with filtered light through professional windows
+  characters:
+  - appearance: Male, middle-aged professional representing psychiatric or educational authority
+    clothing: Professional attire suggesting medical or educational expertise and social standing
+    position: Seated in position of professional authority across from consultation subject
+    action: Conducting professional assessment while viewing case through lens of institutional expertise
+  scene:
+    mainElements: Professional consultation environment designed to project authority and expertise, furniture arranged to
+      emphasize professional relationship, atmosphere of institutional intervention
+    details: Through professional authority perspective, individual problems appear as treatable conditions requiring institutional
+      intervention, rebellion seems as misguided energy needing redirection toward productive social participation
+    background: Professional office with appropriate credentials and institutional symbols, view suggesting urban professional
+      environment, evidence of social services infrastructure
+    atmosphere: Professional confidence and institutional expertise, sense of providing necessary social intervention, belief
+      in corrective potential of proper guidance, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing professional authority and institutional intervention
+    focus: Professional representative viewing individual problems as institutional challenge
+    depth: 'Foreground: professional credentials, middle ground: authority figure, background: institutional framework for
+      social correction'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cold glass pressed against warm palms in Parisian café"
+  setting:
+    time: "1924, late afternoon"
+    location: "Traditional Parisian café on tree-lined boulevard in Montparnasse district"
+    weather: "Cool autumn air with golden light filtering through windows"
+  characters:
+    - appearance: "American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely betrays emotion"
+      clothing: "Well-tailored charcoal wool suit with soft cotton shirt and subdued tie, garments practical yet respectable befitting working correspondent in 1924 Paris"
+      position: "Seated at marble-topped table near window, hands wrapped around cool glass"
+      action: "Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail"
+  scene:
+    mainElements: "Ice-cold glass of Pernod with condensation beading surface, steam rising from hot coffee cups at nearby tables, patron's breath visible in cool air near doorway"
+    details: "Fingers experiencing sharp contrast between cold crystal and warm skin, moisture from glass creating wet trails on fingertips, marble tabletop cold beneath forearms, sensation of autumn chill creeping through café windows while interior warmth embraces seated figures, no text or letters visible"
+    background: "Interior with dark polished wood panels, large mirrors reflecting amber gaslight, wicker chairs creating subtle creaking sounds from shifting weight"
+    atmosphere: "Temperature contrasts creating physical awareness - cold drink against warm hands, chilly draft from street against heated interior, tactile experience of seasonal transition"
+  composition:
+    cameraAngle: "Close medium shot focusing on hands and glass"
+    focus: "Texture contrast between cold wet glass and warm dry skin"
+    depth: "Foreground: detailed hand and glass interaction, midground: atmospheric café interior, background: blurred street scene through windows"

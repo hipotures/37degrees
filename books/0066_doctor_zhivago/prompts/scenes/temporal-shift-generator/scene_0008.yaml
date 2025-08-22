@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Autumn Abundance to Winter Emptiness - Revolution's Harvest"
+  setting:
+    time: "September 1917 and February 1918, from rich harvest to hungry winter"
+    location: "Rural marketplace and surrounding grain fields showing seasonal and social transformation"
+    weather: "Autumn: golden sunshine and crisp air. Winter: heavy snow and bitter cold"
+  characters:
+    - appearance: "Woman in her 20s to 30s, slender and elegant build, refined aristocratic features, composed expression capable of deep sadness"
+      clothing: "1902-1917: tasteful high-quality dresses befitting upper class. 1917-1922: still good quality garments showing wear, attempts to maintain dignity in difficult circumstances"
+      posture: "Composed bearing with impeccable manners, controlled gestures, dignified stance"
+      action: "Managing household duties, caring for children, reading, playing piano"
+  scene:
+    mainElements: "Split temporal view of same agricultural region showing abundance destroyed by revolutionary upheaval and winter siege"
+    details: "Left side September: harvest festival scene with tables groaning under fresh bread, apples, grain sheaves, vegetables, well-fed farmers and families celebrating, golden fields stretching to horizon, trees heavy with fruit, warm afternoon light, children playing among pumpkins. Right side February: same tables empty and overturned in snow, abandoned marketplace with broken stalls, same fields bare and wind-swept, skeletal trees, hungry people searching for scraps, military patrols confiscating remaining supplies, no text or letters visible"
+    background: "Same rural architecture and landscape features but showing impact of requisitions and winter hardship"
+    atmosphere: "Natural abundance transformed into revolutionary scarcity, seasonal cycle disrupted by political chaos"
+  composition:
+    cameraAngle: "Wide establishing shot showing full marketplace transformation"
+    focus: "Central feast table as symbol of plenty versus scarcity"
+    depth: "Foreground: marketplace activities; middle ground: surrounding buildings; background: fields showing seasonal change"

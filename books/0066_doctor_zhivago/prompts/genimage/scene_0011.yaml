@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1895, 1917, and 1943 - three generations spanning fifty years
+    location: Same Orthodox church interior showing continuity of ritual across historical upheaval
+    weather: Winter Sunday morning with frost on church windows in all three periods
+  characters:
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Triple temporal overlay showing three generations of same family performing Orthodox wedding rituals in
+      identical church setting
+    details: 'Ghostly layered composition: 1895 shows Jurij''s parents in elaborate Tsarist-era wedding ceremony with full
+      Orthodox regalia, wealthy congregation in formal attire, church gleaming with gold and icons. 1917 reveals Jurij and
+      Tonia''s modest wartime wedding with reduced congregation and simplified ceremony, some icons covered or removed. 1943
+      displays secret underground wedding of their daughter with hidden Orthodox priest, congregation in peasant clothes hiding
+      religious books, church damaged but faithful maintaining tradition. Same altar, same iconostasis, same ritual gestures
+      across generations despite changing political pressures, no text or letters visible'
+    background: Church architecture remains constant but shows varying states of maintenance and political interference
+    atmosphere: Spiritual continuity transcending political oppression, faith preserved through multiple historical transformations
+  composition:
+    cameraAngle: View from altar showing congregation and generational continuity
+    focus: Central altar and wedding couples showing ritual persistence across time
+    depth: 'Foreground: wedding participants; middle ground: church nave; background: iconostasis and sacred imagery'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

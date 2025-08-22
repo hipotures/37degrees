@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: Same day showing morning opening and evening closing, complete business day compressed into single view, changing
+      light through windows
+    location: Local cafe on main street of Salinas town showing daily community gathering patterns
+    weather: Clear day with natural lighting progression from morning freshness to evening warmth
+  characters:
+  - appearance: Cafe owner visible in dual time exposure - morning figure showing preparation energy and fresh appearance,
+      evening figure showing satisfaction and tiredness from day's service
+    clothing: White apron and work clothes appearing clean and pressed in morning overlay, same clothing showing wear and
+      stains from day's cooking in evening overlay
+    position: Unlocking front door in dawn light, same position locking door in evening light, identical stance at beginning
+      and end of business day
+    action: Morning setup of tables and preparation of fresh food overlaid with evening cleanup and securing of premises for
+      night
+  - appearance: Customers visible as overlapping patterns - morning coffee drinkers, midday diners, evening social gatherings,
+      showing community's daily rhythm
+    clothing: Various period appropriate clothing showing different social classes and occupations using same community space
+      throughout day
+    position: Filling tables and counter in rotating patterns throughout day, same seats serving different people across time
+    action: Community interaction patterns from quick morning coffee to leisurely evening conversation, social connections
+      forming and dissolving throughout day
+  scene:
+    mainElements: Cafe interior showing daily transformation - empty morning space overlaid with busy midday activity overlaid
+      with evening social gathering, same furniture serving different community functions
+    details: Coffee pots fresh and clean in morning overlaid with used and stained by evening, floor clean at opening overlaid
+      with day's wear and spills, cash register showing daily business accumulation, food displays changing from fresh morning
+      offerings to evening remainders
+    background: Main street visible through windows showing daily community activity - morning business opening, midday commercial
+      activity, evening social gathering, town rhythm reflected in cafe activity
+    atmosphere: Community heartbeat shown through daily cafe rhythm, social connections renewed through daily gathering rituals,
+      business as community service spanning entire day, no text or letters visible
+  composition:
+    cameraAngle: Interior cafe view showing daily activity cycle and street activity through windows
+    focus: Central cafe space and front door as anchors for daily opening and closing cycle
+    depth: Foreground shows daily service details changing, middle ground reveals customer pattern overlays, background displays
+      street activity through windows
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

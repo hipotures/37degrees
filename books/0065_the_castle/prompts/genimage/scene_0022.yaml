@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening during official ceremony
+    location: More prestigious tavern during Castle administrative celebration
+    weather: Cold winter evening with warm celebration inside
+  characters:
+  - appearance: Multiple Castle officials in formal attire
+    clothing: Black frock coats and formal administrative uniforms
+    position: Gathered for ceremonial administrative success
+    action: Celebrating efficient resolution of bureaucratic challenge
+  - appearance: Village residents in respectful attendance
+    clothing: Best available village attire showing deference
+    position: Observing official celebration with appropriate respect
+    action: Witnessing successful administrative procedures
+  scene:
+    mainElements: Spacious taproom decorated for administrative ceremony, formal documents from Castle bureaucracy displayed
+      as achievements
+    details: Collective bureaucratic perspective celebrating system success - efficient processing of citizen requests, proper
+      channels functioning as designed, administrative hierarchy demonstrating beneficial governance. Wooden wall-mounted
+      telephone apparatus facilitating coordinated celebration across Castle offices.
+    background: Hierarchical celebration showing proper administrative relationships and successful governance
+    atmosphere: Unified administrative consciousness celebrating bureaucratic achievement - system functioning smoothly for
+      everyone's benefit, proper procedures resulting in appropriate outcomes, collective satisfaction with administrative
+      efficiency, no text or letters visible
+  composition:
+    cameraAngle: Celebratory group perspective showing administrative success
+    focus: Collective satisfaction with bureaucratic system functioning properly
+    depth: Multiple levels of administrative hierarchy united in celebration of efficient governance
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

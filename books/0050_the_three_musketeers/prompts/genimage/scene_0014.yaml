@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: May 1625, evening with shadows lengthening across Parisian street
+    location: Hidden vantage point overlooking busy Parisian thoroughfare where deadly agent plans her moves
+    weather: Clear evening with dramatic contrast between light and shadow
+  characters:
+  - appearance: 25-28 years old woman with supernatural beauty, pale fair complexion, long blonde curls falling abundantly
+      on shoulders, large blue dreamy eyes, pink lips, alabaster hands, branded fleur-de-lis mark on left shoulder
+    clothing: Always dressed with highest elegance according to latest fashion, garments used as manipulation tools appearing
+      as innocent victim, pious puritan or commanding aristocrat depending on intended deception
+    position: Back and profile visible in foreground, head turned to observe street scene below
+    action: Studying potential victims with calculating intelligence, planning manipulation or elimination with cold precision
+  scene:
+    mainElements: Over-shoulder view following Milady's predatory gaze toward unsuspecting targets below, evening shadows
+      creating dramatic contrast, street scene showing normal Parisian life unaware of danger
+    details: Elegant clothing and blonde curls visible from behind, pale hands gripping window frame or balcony railing, street
+      below showing pedestrians and carriages, architectural details of Parisian buildings, shadows creating concealment
+    background: Busy Parisian street with merchants, nobles, and common people going about daily business, stone architecture
+      and urban landscape, church spires indicating religious context
+    atmosphere: Predatory calculation and hidden menace, beautiful woman concealing deadly intent, contrast between surface
+      elegance and underlying evil, sense of impending danger
+  composition:
+    cameraAngle: Over-the-shoulder shot following character's calculating gaze while maintaining her mysterious presence in
+      frame
+    focus: Sharp focus on street scene being observed, Milady's elegant silhouette providing foreground framing element
+    depth: 'Foreground: Milady''s shoulder and blonde hair, middle ground: window or balcony opening, background: street scene
+      with potential victims, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

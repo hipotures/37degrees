@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Final Revelation"
+  setting:
+    time: "1649 Election Day noon, bright unforgiving sunlight"
+    location: "Boston marketplace scaffold in full view of entire community"
+    weather: "Brilliant clear day with harsh sunlight exposing all"
+  characters:
+    - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+      clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+      position: "Standing on scaffold tearing open his clerical robe to expose chest"
+      action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+  scene:
+    mainElements: "Minister ripping open black clerical robe to reveal hidden scarlet letter or mark burned into his chest, crowd gasping in shock, brilliant sunlight making revelation impossible to hide"
+    details: "The ultimate symbolic moment as hidden sin becomes visible to all, minister's torn robe creating dramatic contrast between external piety and internal guilt. Whether physical scarlet letter or invisible mark of conscience, the gesture completes circle begun years earlier with woman's public shame. Bright Election Day sunlight eliminates all shadows and hiding places, making revelation absolute and undeniable. Crowd's reaction transforms from celebration to horror as their spiritual leader reveals his fallen nature."
+    background: "Wooden scaffold platform in center serving as pillory, crowd of Puritan townspeople in dark clothing, surrounding timber-frame houses and shops, festive Election Day atmosphere suddenly transformed"
+    atmosphere: "Truth finally triumphant over deception, public confession as ultimate liberation, spiritual courage overcoming social fear, symbolic completion of seven-year moral journey, no text or letters visible"
+  composition:
+    cameraAngle: "Dramatic low angle emphasizing minister's confession against bright sky"
+    focus: "Torn clerical robe and exposed chest revealing hidden mark of sin"
+    depth: "Foreground: minister's dramatic gesture of revelation; middle: shocked crowd; background: bright sky suggesting divine witness to truth"

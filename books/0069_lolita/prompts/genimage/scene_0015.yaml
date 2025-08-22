@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1948, daytime
+    location: Interior of 1940s automobile on American highway system
+    weather: Clear day with American landscape visible
+  characters: No characters present in this scene
+  scene:
+    mainElements: Car interior view through passenger window, American highway landscape passing by, roadside signs and billboards,
+      gas stations in distance
+    details: View through car window showing endless American road stretching ahead, billboards advertising tourist attractions,
+      telephone poles creating rhythm, vast landscape representing lost freedom
+    background: American highway system with mountains, plains, and small towns, normal families at gas stations visible in
+      distance, world of normal childhood beyond reach
+    atmosphere: Endless movement without destination, landscape blurring past car windows, sense of being trapped in motion,
+      false freedom of the open road
+  composition:
+    cameraAngle: Side window view from car interior, watching landscape pass by
+    focus: Highway landscape and distant normal families, representing unreachable normal world
+    depth: Foreground shows car window frame, middle ground shows passing highway, background shows American landscape and
+      normal world beyond access
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

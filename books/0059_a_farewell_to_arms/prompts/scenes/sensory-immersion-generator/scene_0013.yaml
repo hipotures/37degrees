@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hotel bar with vintage bottles creating aromatic atmosphere"
+  setting:
+    time: "1917 evening"
+    location: "Luxury Belle Époque palace hotel overlooking Lake Maggiore in Stresa, Italy, elegant resort town with view of Borromean Islands"
+    weather: "Clear evening with sunset light"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Ubranie cywilne (garnitur)"
+      position: "Seated at polished bar with crystal glass"
+      action: "Savoring aged whiskey while observing bottle collection"
+  scene:
+    mainElements: "Magnificent hotel interior with rich fabrics, ornate furnishings, crystal chandeliers, marble floors, expansive windows facing lake and Alps, well-appointed bar with professional service"
+    details: "Rows of vintage bottles containing aged spirits with different amber hues suggesting distinct aromatic profiles, crystal whiskey glass releasing alcohol vapors that catch light like heat shimmer, wooden bar surface polished with oils creating rich patina suggesting decades of drink service, cigar smoke lingering in upper air layers creating aromatic stratification, leather upholstery releasing subtle tanning scents suggested by warm lighting, evening light filtering through liquid bottles creating prism effects, barman's movements releasing additional scent layers from bottles and mixing equipment, no text or letters visible"
+    background: "Elegant hotel bar with sunset views over Lake Maggiore through tall windows"
+    atmosphere: "Faded grandeur of off-season luxury resort, nervous tension of fugitive lovers hiding in plain sight, surreal juxtaposition of elegance against desperate circumstances"
+  composition:
+    cameraAngle: "Bar-level view capturing bottle collection and atmospheric lighting"
+    focus: "Multiple aromatic sources suggested through lighting and vapor effects"
+    depth: "Foreground shows glass and immediate bar detail, middle ground reveals bottle collection, background frames sunset lake views"

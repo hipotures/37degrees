@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening
+    location: More prestigious tavern reserved for Castle officials, behind bar counter
+    weather: Cold winter evening with electric lighting
+  characters:
+  - appearance: Young woman aged 20-25, fair-haired with sad eyes, sunken cheeks, small and unassuming stature but conscious
+      superiority in bearing
+    clothing: Low-cut cream blouse that fits oddly on her thin frame, simple barmaid attire with apron, practical work clothes
+    position: Behind bar counter, wielding whip with authority
+    action: Evaluating K. as potential alliance while maintaining control over tavern
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Approaching bar counter with hopeful determination
+    action: Seeking information and assistance from someone with Castle connections
+  scene:
+    mainElements: Spacious taproom with bar counter where guests sit on barrels along walls, leather whip wielded by Frieda
+      with surprising authority to control rowdy Castle servants
+    details: From Frieda's perspective of strategic survival - K. appearing as potential opportunity for improving her position
+      while also representing risk to her Castle connections. Her whip symbolizing earned authority through practical experience
+      with power dynamics. Electric lighting revealing every calculation in her assessment.
+    background: Hierarchical tension between village world and Castle authority, other patrons representing network of relationships
+    atmosphere: Through Frieda's calculating survivor's viewpoint - tavern serving as chessboard where relationships determine
+      survival, K.'s desperation appearing useful but potentially dangerous, her small stature hiding significant strategic
+      intelligence, no text or letters visible
+  composition:
+    cameraAngle: Frieda's eye level behind bar showing her position of tactical advantage
+    focus: Frieda's careful evaluation of K. as both opportunity and threat
+    depth: Foreground shows Frieda's knowing expression, middle ground captures K.'s hopeful approach, background suggests
+      larger social dynamics
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

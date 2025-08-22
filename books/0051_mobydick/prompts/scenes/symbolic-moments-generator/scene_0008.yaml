@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Sacred Relic in Profane Hands"
+  setting:
+    time: "1840s afternoon, stormy skies"
+    location: "Main deck of three-masted American whaling ship, mid-ocean"
+    weather: "Approaching storm with heavy clouds"
+  characters:
+    - appearance: "Lean man of 30 years, tall and spare build, clean tight skin, serious angular face reflecting Quaker heritage"
+      clothing: "Simple practical officer's attire in muted gray and blue tones, functional wool garments reflecting Quaker plainness"
+      position: "Standing at attention with officer's bearing, hands clasped behind back in military posture"
+      action: "Observing crew with responsible watchfulness, expression showing moral conflict between duty and conscience"
+  scene:
+    mainElements: "Small black wooden idol carved in primitive style, worn smooth by handling, object of Queequeg's daily prayers and offerings now being examined by curious sailors in context of Christian ship"
+    details: "The wooden god sits on a barrel surrounded by foreign objects - a Bible, a crucifix, ship's papers, and nautical instruments. The idol's dark wood contrasts sharply with the bright brass fittings and white rope nearby. Storm clouds gathering overhead cast shifting shadows that seem to animate the carved figure. The juxtaposition reveals how sacred objects change meaning when removed from their spiritual context, becoming curiosities rather than vessels of faith, no text or letters visible"
+    background: "Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace amidships"
+    atmosphere: "The transformation of sacred to secular shows how context changes meaning, suggesting the difficulty of maintaining spiritual truth in foreign environments"
+  composition:
+    cameraAngle: "Low angle looking up at idol surrounded by contrasting objects"
+    focus: "Dark wooden idol as central element among bright metal and paper items"
+    depth: "Idol and surrounding objects in foreground, questioning faces in middle distance, storm clouds building in background"

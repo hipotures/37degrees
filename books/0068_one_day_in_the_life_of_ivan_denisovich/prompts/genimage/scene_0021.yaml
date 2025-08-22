@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: January 1951, 11:00 AM, mid-morning work break
+    location: Interior room of unfinished power station building where brigade creates warming area
+    weather: Outdoor cold penetrating building with localized warmth from improvised stove
+  characters:
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Kneeling beside improvised iron stove, carefully maintaining fire
+    action: Feeding combustible materials into stove while enjoying rare warmth on multiple sensory levels
+  - appearance: Multiple brigade members gathered around heat source
+    clothing: Various prisoner uniforms, all seeking warmth and comfort
+    position: Positioned in circle around stove maximizing heat exposure
+    action: Sharing communal warmth experience with multi-sensory appreciation
+  scene:
+    mainElements: Small iron stove in corner of unfinished concrete room, chimney pipe directing smoke outside, construction
+      materials providing seating around heat source
+    details: Iron stove radiating visible heat waves and orange glow creating warm light zone in cold gray environment. Steam
+      rising from wet clothing and breath, visual evidence of temperature differential and humidity changes. Crackling fire
+      creating rhythmic visual disturbance through flame flicker and material consumption patterns. Smoke particles carrying
+      aromatic information about burning materials, heat creating convection currents visible through dust movement. Workers'
+      faces showing multiple pleasure responses - thermal comfort, visual warmth, auditory satisfaction from fire sounds,
+      olfactory appreciation of burning materials, no text or letters visible
+    background: Unfinished concrete and steel construction environment, cold industrial setting with localized warmth zone
+    atmosphere: Multi-sensory sanctuary providing temporary escape from harsh conditions, fire as complete sensory experience
+      combining sight, sound, smell, touch and implicit taste of smoke
+  composition:
+    cameraAngle: Medium shot capturing heat effects and multiple sensory responses
+    focus: Fire effects creating multiple sensory indicators - heat shimmer, light, smoke, sound waves
+    depth: 'Foreground: detailed fire and heat effects, middle: gathered workers sharing experience, background: cold industrial
+      environment for contrast'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

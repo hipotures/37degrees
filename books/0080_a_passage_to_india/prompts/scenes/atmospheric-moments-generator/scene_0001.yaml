@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Pre-dawn Darkness Over Chandrapore"
+  setting:
+    time: "1920s British India, pre-dawn darkness before sunrise"
+    location: "Fictional city Chandrapore overlooking Ganges River valley, showing both Indian quarter and British Civil Station"
+    weather: "Clear night air, last stars fading in deep blue sky, morning mist rising from distant river"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Ancient Indian city sprawling below elevated British administrative quarter, separated by railway line cutting through landscape"
+    details: "Low mud-brick buildings of Indian bazaar district clustered near hidden Ganges, contrasted with geometric white bungalows on hill with wide verandas and ordered gardens. Single bird perched on telegraph wire between two worlds. Oil lamps flickering in few windows. Railway tracks gleaming in starlight"
+    background: "Vast Indian plain stretching to horizon under star-filled sky, distant Marabar Hills barely visible as dark silhouettes against lighter sky"
+    atmosphere: "Profound stillness of world holding its breath before dawn, sense of ancient land waiting for new day, peaceful separation between sleeping communities"
+  composition:
+    cameraAngle: "Wide establishing shot from elevated position showing city divide"
+    focus: "The physical and symbolic separation between Indian and British quarters"
+    depth: "Foreground shows British bungalows, middle ground reveals railway division, background displays Indian quarter and distant hills"

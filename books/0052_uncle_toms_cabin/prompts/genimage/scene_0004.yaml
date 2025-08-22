@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1851, midday
+    location: Cotton processing facility on Louisiana plantation showing machinery that increased demand for enslaved labor
+    weather: Hot humid day with oppressive heat
+  characters:
+  - appearance: Multiple enslaved workers of various ages operating dangerous machinery
+    clothing: Sweat-stained work clothes, some torn from machinery contact, kerchiefs to protect from cotton dust
+    position: Bent over machinery or feeding cotton into mechanical devices
+    action: Operating cotton gin machinery with repetitive mechanical movements, faces masked by cotton dust
+  scene:
+    mainElements: Large cotton gin machinery with metal gears and moving parts, bales of processed cotton, mechanical pulleys
+      and belts
+    details: Cotton fibers floating in air creating hazy atmosphere, oil stains on floor, dangerous exposed machinery parts,
+      constant noise of mechanical operation, water barrels for cooling overheated workers
+    background: Cotton fields visible through open doors, wagons waiting to transport processed cotton, smokestacks from other
+      plantation operations
+    atmosphere: Industrial efficiency built on human exploitation, mechanical sounds drowning out individual voices, heat
+      and dust creating oppressive working conditions
+  composition:
+    cameraAngle: Medium shot showing relationship between human workers and machinery
+    focus: The cotton gin as symbol of technological advancement increasing human suffering
+    depth: Foreground shows dangerous machinery, middle ground features workers as human components, background reveals the
+      agricultural system feeding the machine
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

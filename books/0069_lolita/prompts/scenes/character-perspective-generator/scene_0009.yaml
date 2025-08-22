@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Adult Discovery - Private Diary"
+  setting:
+    time: "1947, day"
+    location: "Master bedroom in middle-class wooden frame house, New England"
+    weather: "Daylight through bedroom window"
+  characters:
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+      position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+      action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+  scene:
+    mainElements: "Master bedroom with diary or private papers visible, woman reading with shock and growing anger, private adult documentation discovered"
+    details: "Daylight revealing woman discovering private writings, papers scattered on bed, expression of shock and betrayal, adult privacy violated"
+    background: "Bedroom interior with furniture and personal items, domestic space where adult secrets are revealed"
+    atmosphere: "Adult world of secrets exposed, private thoughts discovered, domestic harmony shattered by truth"
+  composition:
+    cameraAngle: "Eye level view from bedroom doorway, observing adult discovering uncomfortable truths"
+    focus: "Woman reading private papers with growing horror and anger"
+    depth: "Foreground shows bedroom threshold, middle ground shows woman with papers, background shows domestic interior"

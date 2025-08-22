@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: January 1951, 5:00 AM, first moment of wake-up call
+    location: Exterior view of Soviet prison camp barrack with hanging steel rail signal
+    weather: Minus 27 degrees Celsius, clear freezing night transitioning to dawn
+  characters:
+  - appearance: Prison guard or work supervisor with metal hammer in hand
+    clothing: Thick guard uniform with warm outer coat and boots
+    position: Standing beside suspended steel rail with raised hammer
+    action: Mid-strike against steel rail, creating percussive wake-up signal throughout camp
+  scene:
+    mainElements: Large steel rail segment suspended from wooden frame beside barracks, metal hammer caught in moment of impact
+    details: Vibration waves radiating visually from point of impact, metal rail surface showing stress patterns and deformation
+      from repeated strikes. Hammer frozen in moment of contact showing force transfer, sparks or metal fragments flying from
+      impact point. Sound waves made visible through disturbed snow particles jumping from nearby surfaces, icicles trembling
+      from vibration transmission. Frost crystals on rail surface disrupted by percussion energy, creating visible disturbance
+      patterns, no text or letters visible
+    background: Dark wooden barracks with ice-covered windows, rows of prison buildings extending into distance, guard towers
+      visible on horizon
+    atmosphere: Mechanical percussion creating rhythmic visual disruption, industrial wake-up ceremony breaking silence with
+      metallic authority, vibration energy transforming static winter scene into dynamic alert system
+  composition:
+    cameraAngle: Medium shot capturing impact moment with surrounding vibration effects
+    focus: Point of hammer contact with rail showing energy transfer and surrounding disturbance
+    depth: 'Foreground: detailed impact and vibration effects, middle: rail suspension system, background: awakening camp
+      buildings'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

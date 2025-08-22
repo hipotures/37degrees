@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, afternoon with clear sky
+    location: Forest clearing in Spanish mountains
+    weather: Clear mountain air with excellent visibility
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  scene:
+    mainElements: Over-shoulder view following character's upward gaze toward approaching aircraft, three metallic shapes
+      growing larger against bright blue sky
+    details: Aircraft engines creating distant mechanical drone, metallic surfaces reflecting afternoon sunlight, formation
+      flying in tactical pattern, sense of technological threat from above contrasting with natural forest setting
+    background: Clear mountain sky with distant peaks, forest canopy extending below aircraft flight path
+    atmosphere: Mechanical threat invading natural sanctuary, modern warfare technology versus primitive resistance, tension
+      of being observed from above
+  composition:
+    cameraAngle: Over-shoulder shot following character's gaze skyward
+    focus: Aircraft as symbols of technological warfare superiority
+    depth: Character's shoulder and head in foreground, aircraft in middle distance against sky background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

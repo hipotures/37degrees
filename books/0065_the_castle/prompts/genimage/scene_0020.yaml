@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 1920s showing progression over several days
+    location: Village and Castle complex documented across time without subjective interpretation
+    weather: Changing winter conditions over documented time period
+  characters:
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Tracked across multiple locations over time period
+    action: Documented movement patterns revealing actual versus perceived progress
+  scene:
+    mainElements: Complete village-Castle system showing actual patterns of activity over time, documented movement of all
+      participants
+    details: Time-lapse documentation revealing objective reality versus subjective memory - K.'s actual walking patterns
+      showing circular routes despite intention to advance, measured distances traveled versus minimal progress achieved,
+      real-time documentation of conversations versus participants' later recollections of events.
+    background: Environmental changes over documented time period, weather patterns, seasonal light changes
+    atmosphere: Temporal documentation without emotional interpretation - factual recording of activities, measured time intervals
+      between events, objective documentation of success and failure rates in various attempts, documented environmental conditions
+      affecting all activities, no text or letters visible
+  composition:
+    cameraAngle: Time-lapse perspective showing movement patterns over extended period
+    focus: Objective documentation of actual versus perceived progress and events
+    depth: Temporal layers showing progression from initial arrival through multiple attempted approaches
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1944 and 1970s simultaneously showing temporal overlap
+    location: Modern Ilium street with wartime soldiers appearing as ghostly presences
+    weather: Modern clear day with wartime snow and mud bleeding through
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Young soldier Billy marching transparently through modern suburban street while older Billy drives past
+    action: Past and present Billy existing in same space but different times, war trauma bleeding into peaceful civilian
+      life, no text or letters visible
+  scene:
+    mainElements: Modern suburban street with ghostly overlay of wartime military march, contemporary cars sharing road with
+      spectral army convoy
+    details: Modern pavement showing through wartime mud and snow, contemporary houses visible through ghostly military encampment,
+      street signs and modern infrastructure overlaid with wartime markers
+    background: Peaceful neighborhood with transparent war zone bleeding through, showing how trauma makes past constantly
+      present
+    atmosphere: Unsettling temporal bleeding where past trauma intrudes on present peace, suggesting psychological state where
+      war never truly ended
+  composition:
+    cameraAngle: Street level shot showing modern and wartime elements occupying same space
+    focus: Billy in both time periods meeting each other in temporal overlap
+    depth: Multiple temporal layers showing past war experience bleeding through present civilian life
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

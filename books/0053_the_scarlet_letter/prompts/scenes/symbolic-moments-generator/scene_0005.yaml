@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror of Magnified Sin"
+  setting:
+    time: "1645 midday, bright sunlight streaming through windows"
+    location: "Grand reception room in Governor Bellingham's mansion"
+    weather: "Clear day with strong sunlight illuminating interior"
+  characters:
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Standing before convex armor breastplate, seeing her reflection"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+  scene:
+    mainElements: "Highly polished convex steel breastplate of European armor creating distorted mirror effect that magnifies reflected images, particularly enlarging scarlet letter to monstrous proportions, grand hall with dark oak paneling"
+    details: "The convex armor mirror transforms the scarlet letter into gigantic symbol that seems to engulf the woman's entire reflection, making her appear completely hidden behind the magnified A. Dark oak paneling, ancestral portraits on walls, massive carved furniture, suit of shining steel armor standing in corner, large windows letting in bright daylight create backdrop of power and authority. The distorted reflection suggests how society sees only the sin, not the person."
+    background: "Impressive display of power and luxury surprising in Puritan settlement, contrast between outward austerity and private indulgence of ruling class"
+    atmosphere: "Psychological distortion of identity through societal perception, authority using symbols to diminish individual humanity, magnificent setting emphasizing social hierarchy, no text or letters visible"
+  composition:
+    cameraAngle: "Over-shoulder shot showing both woman and her distorted reflection in armor"
+    focus: "Magnified scarlet letter in convex reflection dominating the visual field"
+    depth: "Foreground: actual woman with normal-sized letter; middle: armor creating distortion; background: grand hall representing social power and judgment"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Clock with hands that move in opposite directions simultaneously"
+  setting:
+    time: "Late 1980s, temporal anomaly where past and future occur together"
+    location: "Abstract timepiece floating in space representing confusion about time and progress"
+    weather: "Crystalline atmosphere where light behaves like liquid"
+  characters:
+    - appearance: "40-year-old Indian man, athletic build, confident posture"
+      clothing: "Elegant dark smoking jacket over white dress shirt, formal evening wear"
+      position: "Standing before clock, one hand pointing at past time, other at future time"
+      action: "Attempting to read time while clock face shows multiple contradictory hours"
+  scene:
+    mainElements: "Massive grandfather clock with transparent case, internal mechanisms visible and moving in impossible ways"
+    details: "Ornate clockwork with gears turning clockwise and counterclockwise simultaneously, hour hand moving backward toward past while minute hand advances toward future, second hand spinning wildly in both directions, clock face showing multiple time zones overlapping, Roman numerals occasionally rearranging themselves, pendulum swinging in figure-eight pattern, time pieces showing 3 AM and 9 PM simultaneously, clock chiming different hours at same moment, brass gears gleaming despite mechanical impossibility, no text or letters visible on clock face due to artistic stylization"
+    background: "Temporal distortion field showing glimpses of past and future events occurring simultaneously"
+    atmosphere: "Confusion about linear time, past and future competing for present moment, uncertainty about progress and direction"
+  composition:
+    cameraAngle: "Frontal view of clock face emphasizing contradictory hand positions"
+    focus: "Impossible timepiece representing disconnection from linear time and normal progression"
+    depth: "Foreground: clock hands moving in opposition, midground: figure trying to read time, background: temporal anomalies in space around clock"

@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, temporal spiral
+    location: Psychological space where all elements spiral into central vortex
+    weather: Light and shadow swirling in circular patterns
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive swirling vortex of light and shadow consuming all elements of reality
+    details: Everything drawn into enormous spiral - furniture, walls, memories, emotions all rotating faster and faster toward
+      central point. Colors blend and blur in circular motion. Recognizable objects stretch and distort as they're pulled
+      into whirlpool. Time moves in circles rather than linear progression. Past and present spiral together in crushing embrace.
+      Sound becomes circular echo building to overwhelming crescendo
+    background: Total dissolution of linear reality into cyclical chaos, everything becoming part of the consuming spiral
+    atmosphere: Overwhelming circular motion, vertigo and disorientation, sense of being pulled into psychological black hole.
+      Complete loss of stable reference points
+  composition:
+    cameraAngle: Spiral rotation creating vortex effect
+    focus: Central vortex consuming all recognizable elements
+    depth: 'Foreground: objects being pulled into spiral. Middle: accelerating circular motion. Background: everything disappearing
+      into central void'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

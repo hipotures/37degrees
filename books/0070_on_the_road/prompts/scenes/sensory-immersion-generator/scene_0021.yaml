@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Fireplace Comfort Symphony"
+  setting:
+    time: "1947 winter evening"
+    location: "working-class neighborhood home in Paterson, New Jersey, simple two-story wooden or brick house typical of 1940s Eastern suburbs with small front porch and tidy windows"
+    weather: "cold winter night with wind outside"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "seated close to fireplace with steaming mug"
+      action: "holding hot cocoa mug while watching fire and listening to wood crackling"
+    - appearance: "Elderly woman in comfortable evening clothes"
+      clothing: "wool cardigan and slippers"
+      position: "in nearby rocking chair"
+      action: "rocking gently while humming soft melody"
+  scene:
+    mainElements: "crackling fire logs with visible sparks rising, steaming hot cocoa releasing aromatic vapor, pine branches near fireplace suggesting forest scent, warm golden firelight dancing on faces, gentle rocking motion creating rhythmic visual pattern"
+    details: "Wood logs splitting and crackling with visible sparks floating upward, cocoa steam curling in spirals carrying chocolate aroma, pine needles scattered on mantelpiece releasing forest fragrance, firelight creating moving patterns of warm orange and yellow on wall surfaces, rocking chair moving in steady rhythm like visual metronome, heavy wool blanket providing tactile comfort and warmth"
+    background: "modest but cozy clean interior with dark wood furniture, sofa covered with throw, family photographs in simple frames on walls, lace doilies on tables"
+    atmosphere: "warm browns, beiges and muted greens dominating color scheme, warm lighting from lamps with lampshades, smell of cooked food lingering, quiet domestic sanctuary representing stability and security"
+  composition:
+    cameraAngle: "medium shot capturing fireplace warmth and figures"
+    focus: "multi-sensory comfort combining visual fire, aromatic steam, tactile warmth, and rhythmic sounds"
+    depth: "crackling fire in foreground, seated figures in middle ground, cozy room extending to background"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: Public area of California migrant camp during authority raid
+    weather: Harsh daylight exposing violence
+  characters:
+  - appearance: Uniformed authority figures with stern expressions and aggressive postures, migrant families with expressions
+      of fear and loss.
+    clothing: Officers in dark uniforms with badges and equipment, migrants in worn work clothes
+    position: Officers standing over broken objects while families watch helplessly
+    action: Authority figures systematically destroying personal possessions and sources of comfort while families stand by
+      in shock
+  scene:
+    mainElements: Scene of systematic destruction where authorities confiscate or destroy migrants' few precious possessions,
+      particularly items of beauty or cultural value
+    details: Deliberate destruction of anything that brings joy or maintains cultural identity. Well-worn acoustic guitar
+      with scratched finish and replaced strings, carried by migrant families as one of few possessions bringing comfort and
+      maintaining cultural connection being destroyed. Family photographs torn. Musical instruments broken. Small decorations
+      or artwork confiscated. Systematic removal of hope and beauty from lives
+    background: Migrant camp structures showing the poverty from which even small comforts are being removed
+    atmosphere: Heartbreaking loss of humanity's small beauties, sounds of destruction and family grief, official justification
+      for cruelty
+  composition:
+    cameraAngle: Low angle showing authority power over helpless families
+    focus: Destruction of cultural artifacts and personal treasures that maintain human dignity
+    depth: Broken beautiful objects in foreground, grieving families in middle ground, departing authorities in background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Dark Double - Shadow Self Emerges"
+  setting:
+    time: "Deep autumn night 1912, around 2:00 AM"
+    location: "Central room of Prague apartment serving as dining and gathering space, heart of family life"
+    weather: "Absolute stillness, no wind, oppressive quiet"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Shadowy duplicate of Gregor materializing from the darkness, identical in form but radiating malevolent intelligence"
+    details: "From the deepest shadows of the living room emerges another insect creature identical to Gregor, but its eyes glow with cold intelligence and cruelty. This shadow-self moves with perfect coordination, its legs working in harmony. It speaks in Gregor's own voice but says things he would never say - cruel truths about his family, bitter resentments he's suppressed. The shadow-Gregor circles the real one like a predator, forcing him to confront his own buried anger and selfishness."
+    background: "Heavy wooden dining table with chairs, sideboard, father's armchair, gas lamp later replaced by electric light"
+    atmosphere: "Psychological confrontation with repressed aspects of personality, shadow psychology made manifest, internal conflict externalized"
+  composition:
+    cameraAngle: "Medium shot showing both versions of Gregor in opposition"
+    focus: "Two identical insect forms, one pathetic and helpless, one confident and menacing"
+    depth: "Foreground: shadow-Gregor advancing, middle: real Gregor retreating, background: family furniture witnessing the psychological split"

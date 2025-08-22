@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, afternoon
+    location: Border between Chicago white Hyde Park and South Side Black Belt neighborhoods
+    weather: Cold overcast winter day
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing at the invisible boundary line, hesitant to cross
+    action: looking across into the white neighborhood with mixture of longing and understanding of forbidden nature
+  scene:
+    mainElements: Stark visual contrast between two sides of Chicago - one side showing deteriorating African American neighborhood,
+      other side showing maintained white district with invisible but absolute boundary between them
+    details: Clear demarcation visible in infrastructure - broken sidewalks and poor lighting on one side, clean maintained
+      streets and proper lighting on the other, police car positioned to monitor the boundary, real estate signs with restrictive
+      language, different quality of buildings and services, residents on white side looking suspiciously at any African Americans
+      near the border
+    background: Two completely different worlds within blocks of each other - poverty and neglect contrasting with prosperity
+      and maintenance, showing how segregation creates separate and unequal societies
+    atmosphere: Tension and inequality made visible through physical environment, demonstration of how racial boundaries are
+      enforced through economic and social control, sense of forbidden territory and systemic exclusion
+  composition:
+    cameraAngle: Wide shot showing the dramatic contrast between the two neighborhoods
+    focus: The invisible but absolute racial boundary and its enforcement through environmental inequality
+    depth: Foreground shows the deteriorating Black Belt side, middle ground captures the boundary and the hesitant figure,
+      background reveals the prosperous white district
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

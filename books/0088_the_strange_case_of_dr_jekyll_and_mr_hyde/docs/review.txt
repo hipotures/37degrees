@@ -1,0 +1,948 @@
+﻿Analiza Dzieła na Potrzeby Adaptacji Wizualnej: Niezwykły przypadek doktora Jekylla i pana Hyde’a
+
+
+
+
+CZĘŚĆ I: WPROWADZENIE
+
+
+
+
+1.1 Informacje bibliograficzne
+
+
+
+
+Pełny tytuł i podtytuł
+
+
+Pełny, oryginalny tytuł dzieła brzmi Strange Case of Dr Jekyll and Mr Hyde.1 W języku polskim tytuł ten jest najczęściej tłumaczony jako
+Niezwykły przypadek doktora Jekylla i pana Hyde’a. Sama konstrukcja tytułu, wykorzystująca frazę „Niezwykły przypadek”, natychmiastowo osadza narrację w ramach dochodzenia o charakterze prawnym, medycznym lub policyjnym. Sugeruje to, że czytelnik będzie świadkiem racjonalnego śledztwa, co stanowi celowy zabieg stylistyczny, mający na celu późniejsze, dramatyczne podważenie porządku opartego na logice poprzez wprowadzenie elementów nadprzyrodzonych i niewytłumaczalnych.2 Tytuł nie tylko przedstawia centralne postacie, ale również zapowiada tajemnicę i buduje atmosferę intrygi, która będzie rozwijana na kartach noweli.
+
+
+Autor
+
+
+Autorem noweli jest Robert Louis Stevenson (1850-1894), szkocki powieściopisarz, poeta i eseista, jeden z czołowych przedstawicieli neoromantyzmu w literaturze angielskiej. Jego biografia jest kluczowa dla zrozumienia tematyki dzieła. Stevenson przez całe życie zmagał się z problemami zdrowotnymi, w szczególności z chorobami układu oddechowego, co zmusiło go do częstych podróży w poszukiwaniu łagodniejszego klimatu.3 Jego styl życia, określany jako bohemiczny, stał w ostrej sprzeczności z surowymi, prezbiteriańskimi zasadami jego edynburskiego wychowania. Ten wewnętrzny konflikt pomiędzy pragnieniem wolności a presją społecznej przyzwoitości zaowocował głęboką fascynacją dwoistością ludzkiej natury, hipokryzją i koncepcją reputacji jako maski skrywającej prawdziwe ja.4 Ta fascynacja stanowiła bezpośrednie podłoże dla psychologicznych eksploracji zawartych w jego najsłynniejszym dziele.
+
+
+Data pierwszego wydania
+
+
+Dzieło zostało po raz pierwszy opublikowane 5 stycznia 1886 roku przez wydawnictwo Charles Scribner's Sons w Nowym Jorku. Cztery dni później, 9 stycznia 1886 roku, ukazała się edycja londyńska, opublikowana przez Longmans, Green & Co..1 Fakt, że amerykańskie wydanie wyprzedziło brytyjskie, jest interesującym detalem historycznym, wynikającym z obaw wydawcy o konkurowanie z literaturą bożonarodzeniową na rynku brytyjskim.6 Ta niemal jednoczesna, transatlantycka premiera świadczy o natychmiastowym, międzynarodowym potencjale i zainteresowaniu, jakie wzbudziła opowieść.
+
+
+Gatunek literacki
+
+
+Niezwykły przypadek doktora Jekylla i pana Hyde’a jest dziełem hybrydowym, które łączy w sobie elementy dwóch popularnych wiktoriańskich gatunków: powieści gotyckiej (Gothic horror) i powieści detektywistycznej.2 Ta gatunkowa dwoistość nie jest przypadkowa; stanowi ona fundamentalny element strukturalny, który odzwierciedla główny temat utworu – dualizm ludzkiej natury. Z jednej strony, narracja podąża za logicznym dochodzeniem prawnika, pana Uttersona, co jest typowe dla literatury kryminalnej. Z drugiej strony, sedno zagadki tkwi w zjawiskach nadprzyrodzonych, makabrycznych zbrodniach i atmosferze grozy, co jest charakterystyczne dla horroru gotyckiego.
+
+
+Przynależność do nurtu literackiego
+
+
+Nowela jest jednym z najważniejszych tekstów późnowiktoriańskiego gotyku, wpisującym się w nastroje fin de siècle (końca wieku). Okres ten charakteryzował się rosnącym pesymizmem, kryzysem wiary w wiktoriańskie ideały postępu i cywilizacji oraz lękiem przed degeneracją moralną i biologiczną.3 Utwór Stevensona doskonale oddaje te niepokoje, eksplorując tematy rozpadu tożsamości, atawizmu (powrotu do cech prymitywnych przodków) oraz psychologicznej fragmentacji jednostki w obliczu presji społecznej.9
+
+
+Okładka
+
+
+Pierwsze wydania książki ukazały się w formie popularnych i tanich "shilling shockers" (groszowych opowieści grozy), co miało na celu dotarcie do masowego odbiorcy.6 Były one zazwyczaj wydawane w prostych, papierowych okładkach lub skromnych oprawach płóciennych. Amerykańska edycja w miękkiej oprawie miała charakterystyczną, żółtą okładkę z czarnym drukiem 5, podczas gdy brytyjska edycja w twardej oprawie była często oprawiona w zielone płótno.10 Ta niepozorna oprawa wizualna, pozbawiona bogatych zdobień, stała w kontraście do szokującej i rewolucyjnej treści noweli, co mogło dodatkowo przyczynić się do jej komercyjnego sukcesu.
+
+
+1.2 Kontekst powstania
+
+
+
+
+Okoliczności napisania książki
+
+
+Geneza Niezwykłego przypadku doktora Jekylla i pana Hyde’a jest niemal tak legendarna jak sama opowieść. Stevenson napisał nowelę w 1885 roku, podczas pobytu w Bournemouth na południowym wybrzeżu Anglii. Inspiracja przyszła do niego w formie koszmaru sennego.11 Według relacji jego żony, Fanny, obudziła go w trakcie snu, na co zareagował z irytacją, mówiąc: „Śniła mi się wspaniała opowieść grozy”. Pod wpływem tego intensywnego doświadczenia, napisał pierwszą wersję utworu w ciągu zaledwie trzech dni, w gorączkowym porywie twórczym.12 Ta pierwsza wersja została jednak zniszczona – według jednej z wersji przez samego Stevensona po krytyce żony, która uznała, że potraktował temat zbyt dosłownie, jako zwykłą historię, a nie jako alegorię. Niemal natychmiast przystąpił do pisania drugiej wersji, którą również ukończył w ciągu kilku dni.
+
+
+Inspiracje autora
+
+
+Stevenson czerpał z kilku kluczowych źródeł, które ukształtowały centralne motywy noweli:
+* Deacon William Brodie (1741-1788): Była to autentyczna postać z XVIII-wiecznego Edynburga. Brodie prowadził podwójne życie: za dnia był szanowanym rzemieślnikiem, stolarzem i przewodniczącym cechu, a nocą stawał się włamywaczem, rabującym domy swoich zamożnych klientów.13 Stevenson od dzieciństwa był zafascynowany tą historią, tym bardziej że jego rodzina posiadała szafę wykonaną przez Brodiego. Postać ta stała się dla niego archetypem człowieka o podwójnej tożsamości, co znalazło bezpośrednie odzwierciedlenie w koncepcji Jekylla i Hyde'a.14
+* Debaty naukowe i medyczne epoki: Wiktoriańska Anglia była świadkiem rewolucji w myśleniu o naturze ludzkiej. Teorie ewolucji Karola Darwina zrodziły lęk przed atawizmem – możliwością powrotu człowieka do prymitywnego, zwierzęcego stanu.9 Równocześnie rozwijały się wczesne teorie psychologiczne dotyczące podświadomości i osobowości mnogiej. Te naukowe i pseudonaukowe koncepcje stanowiły żyzne podłoże dla stworzenia postaci Hyde'a jako ucieleśnienia prymitywnych instynktów ukrytych w cywilizowanym człowieku.15
+
+
+Miejsce w dorobku pisarza
+
+
+Publikacja Niezwykłego przypadku doktora Jekylla i pana Hyde’a w 1886 roku, w tym samym roku co powieść przygodowa Porwany za młodu (Kidnapped), stanowiła punkt zwrotny w karierze Stevensona. Choć był już znany dzięki sukcesowi Wyspy skarbów (1883), Jekyll i Hyde ugruntował jego międzynarodową sławę i pokazał go jako autora zdolnego do eksplorowania mrocznych, psychologicznych głębi, a nie tylko jako twórcę literatury przygodowej.3 Dzieło to dowiodło jego wszechstronności i dojrzałości artystycznej.
+
+
+Recepcja krytyczna i czytelnicza
+
+
+Nowela odniosła natychmiastowy i fenomenalny sukces. W samej Wielkiej Brytanii w ciągu pierwszych sześciu miesięcy sprzedano 40 000 egzemplarzy.3 Opowieść stała się przedmiotem ożywionych dyskusji, analiz i kazań z ambon, a fraza "Jekyll i Hyde" szybko weszła do języka potocznego jako określenie osoby o dwoistej naturze.1 Popularność utworu wynikała z faktu, że Stevenson w mistrzowski sposób uchwycił i zwerbalizował głęboko zakorzenione lęki i niepokoje wiktoriańskiego społeczeństwa, dotyczące jego własnej, starannie skrywanej hipokryzji i moralnej dwoistości.
+Struktura gatunkowa noweli nie jest jedynie formalnym wyborem, lecz kluczową strategią narracyjną, która sama w sobie ucieleśnia centralny temat dwoistości. Ramy powieści detektywistycznej, zorganizowane wokół racjonalnego i opartego na dowodach śledztwa prowadzonego przez pana Uttersona, symbolizują publiczny, cywilizowany i logiczny świat wiktoriańskiego społeczeństwa.2 Ten porządek jest jednak nieustannie konfrontowany i podważany przez elementy horroru gotyckiego – nadprzyrodzone transformacje, niewytłumaczalną przemoc i wszechobecną atmosferę grozy, które reprezentują stłumioną, irracjonalną i prymitywną podświadomość.9 Główny konflikt fabularny polega na niemożności zastosowania przez Uttersona narzędzi rozumu (logiki gatunku detektywistycznego) do rozwiązania problemu, który wywodzi się ze sfery irracjonalnej (konwencji gatunku gotyckiego). Ten strukturalny konflikt odzwierciedla wewnętrzną walkę Jekylla: jego racjonalne, społeczne "ja" nie jest w stanie kontrolować swojego pierwotnego, irracjonalnego "ja" (Hyde'a). W ten sposób doświadczenie czytelnika, który obcuje ze zderzeniem dwóch gatunków, staje się lustrzanym odbiciem psychologicznej dezintegracji bohatera, a sama forma noweli staje się aktywnym nośnikiem jej tematu.
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+2.1 Miejsce akcji
+
+
+
+
+Dokładny opis lokalizacji
+
+
+Akcja noweli rozgrywa się w Londynie, w Anglii, w latach 80. XIX wieku.21 Wybór tej metropolii nie jest przypadkowy. W tamtym okresie Londyn był największym i najważniejszym miastem świata, centrum globalnego imperium, a jednocześnie miejscem skrajnych kontrastów społecznych i moralnych.23
+
+
+Charakterystyka przestrzeni
+
+
+Stevenson przedstawia Londyn jako miasto o podwójnym obliczu, co stanowi doskonałe tło dla opowieści o dwoistości ludzkiej natury. To nie jest jedna, spójna metropolia, ale dwa odrębne światy, które istnieją obok siebie, a czasem przenikają się w niepokojący sposób.24 Z jednej strony mamy do czynienia z Londynem szanowanych dżentelmenów – światem eleganckich placów, okazałych rezydencji i klubów, gdzie życie toczy się według ściśle określonych reguł etykiety. To przestrzeń, w której funkcjonują Jekyll, Utterson i Lanyon. Z drugiej strony, tuż za rogiem, rozciąga się labirynt mrocznych, zaniedbanych uliczek, ubogich dzielnic i podejrzanych zaułków, takich jak Soho, gdzie swoje schronienie znajduje Hyde.23 Ten geograficzny podział jest fizyczną manifestacją głębokich przepaści klasowych i moralnych, które charakteryzowały wiktoriańskie społeczeństwo.
+
+
+OPIS WIZUALNY MIEJSC (OBOWIĄZKOWY)
+
+
+* Dom Jekylla (Fasada Publiczna):
+   * Architektura: Dom doktora Jekylla znajduje się przy szanowanym placu, a jego fasada emanuje "aurą bogactwa i komfortu".23 Jest to klasyczna wiktoriańska kamienica z cegły lub kamienia, z dużymi, czystymi oknami skrzydłowymi i solidnymi, wypolerowanymi drzwiami frontowymi. Architektura jest elegancka i symetryczna, co odzwierciedla porządek i status społeczny właściciela.
+   * Kolory: Dominują stonowane, ziemiste barwy – czerwień cegły, szarość kamienia, ciemna zieleń lub czerń drzwi i balustrad.
+   * Wnętrze (Hol): Wnętrze jest równie imponujące. Hol wejściowy jest przestronny i wygodny, z otwartym kominkiem, w którym pali się ogień, co tworzy atmosferę ciepła i gościnności.26 Meble są z ciemnego, polerowanego drewna (mahoń, dąb), podłogi pokryte grubymi dywanami, a ściany zdobią obrazy w złotych ramach.
+   * Oświetlenie: W ciągu dnia wnętrze jest dobrze oświetlone naturalnym światłem wpadającym przez duże okna. Wieczorem panuje ciepłe, łagodne światło lamp gazowych i blask ognia z kominka.
+   * Atmosfera: Spokój, porządek, dostatek i szacunek. Zapach wosku do polerowania mebli, palonego drewna i starych książek. Dźwięki są wytłumione – tykanie zegara, ciche rozmowy, szelest gazet.
+* Laboratorium (Ukryte Oblicze):
+   * Architektura: Tylna część posiadłości Jekylla, która wychodzi na zaniedbaną, brudną uliczkę. Jest to "złowrogi budynek", który "na każdym kroku nosił ślady głębokiego i plugawego zaniedbania".23 Budynek jest dwupiętrowy, pozbawiony okien na parterze, a jego ściany są odbarwione i brudne. Drzwi nie mają dzwonka ani kołatki, co sugeruje, że goście nie są tu mile widziani.26 Całość sprawia wrażenie opuszczenia i rozkładu.
+   * Kolory: Brudna szarość, wyblakła czerń, plamy wilgoci i brązy rdzy. Sceneria jest niemal monochromatyczna, pozbawiona życia.
+   * Wnętrze: Wnętrze laboratorium jest równie odpychające. Panuje w nim bałagan i kurz. Pomieszczenia są zagracone aparaturą chemiczną, skrzyniami i słomą pakową. Na stołach stoją szklane naczynia, probówki i menzurki. W centralnym punkcie znajduje się gabinet Jekylla, z szafami pełnymi chemikaliów, biurkiem i kominkiem.
+   * Oświetlenie: Światło jest zimne i nieprzyjemne. W dzień wpada przez zakurzoną kopułę w suficie, a nocą jedynym źródłem światła jest blask lampy lub palnika Bunsena, rzucający ruchome, niepokojące cienie.
+   * Atmosfera: Tajemnica, niepokój, rozkład. W powietrzu unosi się ostry zapach chemikaliów, kurzu i stęchlizny. Dźwięki to bulgotanie cieczy, syczenie palników i kroki Hyde'a, które rozbrzmiewają echem w ciszy.
+* Ulice Londynu:
+   * Architektura i Układ: Labirynt brukowanych ulic, które "skręcają i wiją się", tworząc złowieszczy krajobraz.23 Z jednej strony eleganckie, szerokie aleje z rzędami identycznych gregoriańskich kamienic, z drugiej – wąskie, ciemne zaułki między wysokimi, zaniedbanymi czynszówkami.
+   * Oświetlenie i Atmosfera: Kluczowym elementem wizualnym jest gęsta, wszechobecna mgła, opisywana jako "czekoladowa powłoka".23 Mgła spowija miasto, tłumi dźwięki i ogranicza widoczność, tworząc atmosferę tajemnicy i zagrożenia. Nocą jedynym źródłem światła są pojedyncze latarnie gazowe, których blade, żółtawe światło z trudem przebija się przez mgłę, rzucając długie, zdeformowane cienie i pozostawiając większość przestrzeni w mroku.28 Ulice są często mokre od deszczu, a światła odbijają się w kałużach na bruku.
+   * Kolory: Paleta barw jest ograniczona i mroczna: szarości, brązy, czernie, z akcentami żółtego światła latarni i czerwieni ceglanych budynków.
+* Mieszkanie Hyde'a w Soho:
+   * Lokalizacja i Otoczenie: Znajduje się w Soho, dzielnicy o złej reputacji, pełnej ubóstwa i występku, którą Utterson postrzega jako "dzielnicę jakiegoś miasta z koszmaru".27 Ulice są brudne, a otoczenie ponure.
+   * Wnętrze: Mieszkanie samo w sobie jest zaskakująco eleganckie. Zostało "urządzone z luksusem i dobrym smakiem". Znajdują się w nim cenne obrazy, srebra i eleganckie meble – wszystko to dary od Jekylla. Jednak w momencie, gdy Utterson je odwiedza, panuje w nim kompletny nieład. Szuflady są pootwierane, ubrania porozrzucane, a w kominku tlą się spalone dokumenty. Ten kontrast między luksusowym wyposażeniem a chaosem i zniszczeniem doskonale odzwierciedla naturę relacji Jekylla i Hyde'a.
+
+
+2.2 Czas akcji
+
+
+
+
+Konkretny okres historyczny
+
+
+Akcja noweli osadzona jest w latach 80. XIX wieku, w szczytowym okresie późnej epoki wiktoriańskiej.23 Jest to czas dynamicznego rozwoju przemysłowego, ale także narastających napięć społecznych i kryzysu wartości.
+
+
+WIZUALNE MARKERY EPOKI
+
+
+* Stroje charakterystyczne dla okresu:
+   * Mężczyźni (dżentelmeni): Ubiór był formalny, stonowany i stanowił wyznacznik statusu. Podstawą był ciemny surdut (frock coat) lub żakiet (morning coat), dopasowana kamizelka, proste spodnie, sztywny, wysoki kołnierzyk i jedwabny krawat lub fular.30 Ubiór był zazwyczaj w ciemnych kolorach: czarnym, szarym, granatowym. Jako okrycie wierzchnie noszono płaszcze do kolan (topcoats), często z aksamitnym kołnierzem, lub dłuższe palta (overcoats), takie jak ulster.31 Niezbędnym atrybutem dżentelmena na ulicy był cylinder lub melonik.
+   * Kobiety: Chociaż w noweli kobiety odgrywają marginalne role, ich ubiór byłby zgodny z modą lat 80. XIX wieku. Charakteryzował się on dopasowanym gorsetem, wąską talią i obfitą, drapowaną spódnicą z turniurą (poduszką lub stelażem podkreślającym tył sukni). Stroje były bogato zdobione koronkami, falbanami i wstążkami. Kobiety nosiły kapelusze i rękawiczki.
+   * Klasy niższe: Ubiór był znacznie prostszy i wykonany z tańszych, bardziej wytrzymałych materiałów, takich jak wełna czy sztruks. Mężczyźni nosili proste marynarki, spodnie i kaszkiety.
+* Środki transportu:
+   * Dorożka typu hansom (hansom cab): Najpopularniejszy środek transportu publicznego w Londynie. Jest to charakterystyczny, dwukołowy, kryty powóz, ciągnięty przez jednego konia.33 Woźnica siedzi na podwyższonym siedzeniu z tyłu pojazdu, co daje mu dobry widok na drogę. Kabina pasażerska jest niska, co ułatwia wsiadanie, i mieści dwie osoby.34 Wizualnie, dorożki te były zazwyczaj czarne, z dużymi, cienkimi kołami i charakterystyczną sylwetką, która stała się jednym z symboli wiktoriańskiego Londynu.35
+* Technologia i przedmioty codziennego użytku:
+   * Oświetlenie: Ulice i wnętrza domów oświetlano lampami gazowymi, które dawały ciepłe, ale często migotliwe i nierówne światło, tworząc głębokie cienie.
+   * Komunikacja: Podstawową formą komunikacji na odległość były listy, pisane ręcznie atramentem, wysyłane pocztą i często pieczętowane woskiem. W użyciu był również telegraf.
+   * Przedmioty osobiste: Dżentelmen nosił przy sobie zegarek kieszonkowy na łańcuszku, portfel, a na ulicy często wspierał się na solidnej lasce. Laska Jekylla, wykonana z cennego drewna, staje się narzędziem zbrodni w rękach Hyde'a.
+   * Wyposażenie laboratoryjne: Laboratorium Jekylla było wyposażone w typową dla epoki aparaturę: szklane kolby, retorty, probówki, palniki Bunsena, mosiężne mikroskopy i wagi analityczne.37 Chemikalia, określane jako "sole", przechowywano w szklanych butlach i słojach.
+
+
+Czas trwania akcji
+
+
+Główne wydarzenia noweli rozgrywają się na przestrzeni około roku. Akcja rozpoczyna się jesienią, kiedy Enfield opowiada Uttersonowi historię o potrąceniu dziewczynki. Morderstwo Sir Danversa Carew ma miejsce w październiku następnego roku. Finałowe wydarzenia, prowadzące do śmierci Jekylla/Hyde'a, rozgrywają się kilka miesięcy później, zimą.1
+
+
+2.3 Kontekst historyczny i społeczny
+
+
+
+
+Struktura społeczna
+
+
+Społeczeństwo wiktoriańskie było sztywno podzielone na klasy. Przynależność do klasy wyższej lub średniej zależała nie tylko od bogactwa, ale przede wszystkim od reputacji, pochodzenia i nienagannych manier.9 Dla profesjonalistów, takich jak lekarze (Jekyll, Lanyon) i prawnicy (Utterson), utrzymanie nieskazitelnej reputacji było absolutnie kluczowe dla ich kariery i pozycji społecznej. Jakikolwiek skandal mógł prowadzić do całkowitego ostracyzmu.
+
+
+Normy i obyczaje epoki
+
+
+Epoka wiktoriańska charakteryzowała się surowym kodeksem moralnym, który nakazywał powściągliwość, pracowitość i samokontrolę.9 Publiczne okazywanie emocji, a zwłaszcza pożądania, było uważane za niestosowne. Ta presja na utrzymanie fasady przyzwoitości prowadziła do zjawiska, które można nazwać społeczną hipokryzją: rozdźwięku między publicznym wizerunkiem a prywatnym życiem, w którym potajemnie oddawano się zakazanym przyjemnościom.1 Problem ten jest sednem dylematu doktora Jekylla. Jego eksperyment nie jest motywowany czystą żądzą zła, ale pragnieniem rozdzielenia tych dwóch sfer życia, aby móc oddawać się swoim "niższym" instynktom bez narażania na szwank swojej cennej reputacji.
+
+
+Wpływ historii i nauki na fabułę
+
+
+* Teoria ewolucji i lęk przed degeneracją: Publikacja O powstawaniu gatunków Karola Darwina w 1859 roku wywołała intelektualne i moralne trzęsienie ziemi. Podważyła ona biblijną opowieść o stworzeniu i zasugerowała, że człowiek jest częścią świata zwierząt. Zrodziło to powszechny lęk przed "degeneracją" lub "dewolucją" – możliwością, że cywilizacja jest tylko cienką warstwą pokrywającą prymitywną, zwierzęcą naturę, do której człowiek może powrócić.9 Postać Hyde'a jest doskonałym ucieleśnieniem tego lęku. Jest opisywany za pomocą zwierzęcych metafor ("małpia furia"), a jego zachowanie jest prymitywne i pozbawione moralnych hamulców. Jego "troglodycki" (jaskiniowy) wygląd sugeruje cofnięcie się na niższy szczebel ewolucyjny.24
+* Urbanizacja i anonimowość wielkiego miasta: Gwałtowny rozwój Londynu w XIX wieku sprawił, że stał się on przeludnioną, anonimową metropolią. Z jednej strony oferowało to nowe możliwości, z drugiej – stwarzało idealne warunki dla przestępczości i ukrywania swojej prawdziwej tożsamości.9 Gęsta mgła i labirynt ulic symbolizują moralną niejednoznaczność miasta, w którym zło może czaić się niezauważone. Lęk przed ukrytym w tłumie zagrożeniem, który eksploruje Stevenson, został wkrótce potwierdzony w rzeczywistości przez serię morderstw dokonanych przez Kubę Rozpruwacza w 1888 roku, zaledwie dwa lata po publikacji noweli.23
+Dom Jekylla jest nie tylko miejscem akcji, ale również precyzyjną architektoniczną metaforą trójdzielnej struktury ludzkiej psychiki, którą później opisał Zygmunt Freud. Reprezentacyjna fasada domu to Ego – racjonalne, publiczne "ja", które wchodzi w interakcje ze światem zewnętrznym. Prywatne, komfortowe wnętrza, takie jak gabinet czy jadalnia, symbolizują Superego – siedlisko moralności, norm społecznych i życzliwości. Natomiast "złowrogie", zaniedbane laboratorium na tyłach, połączone z domem, ale ukryte przed wzrokiem publicznym, to Id – sfera prymitywnych, instynktownych i amoralnych pragnień, które zostały zamknięte, ale wciąż domagają się ujścia.1 Tekst wyraźnie kontrastuje wygląd frontu i tyłów posiadłości Jekylla.23 Ta fizyczna dwoistość jest bezpośrednim odzwierciedleniem psychologicznej dwoistości Jekylla i Hyde'a. Hyde używa tylnych drzwi, podczas gdy Jekyll wchodzi frontowymi. Fizyczne rozdzielenie ich wejść symbolizuje psychologiczną separację, którą Jekyll próbuje osiągnąć. Ostatecznie jednak połączenia między laboratorium a domem nie da się zerwać, tak jak nie da się wyeliminować Id z psychiki. Finałowa scena, w której Poole i Utterson muszą siłą wyważyć drzwi laboratorium, symbolizuje gwałtowną konfrontację niezbędną do ujawnienia stłumionej prawdy o Id. Dom jest zatem mapą umysłu Jekylla.
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+
+
+3.1 Protagoniści
+
+
+
+
+Dr. Henry Jekyll
+
+
+* OPIS FIZYCZNY (OBOWIĄZKOWY):
+   * Dokładny wiek: Około 50 lat. W tekście jest opisany jako "mężczyzna pięćdziesięcioletni" ("a man of fifty").42
+   * Wzrost i budowa ciała: "Wysoki, dobrze zbudowany" ("large, well-made").42 Sugeruje to postawną, imponującą sylwetkę, być może o wzroście około 185-190 cm. Jego budowa ciała świadczy o dobrym zdrowiu i sile, co kontrastuje z wątłą postacią Hyde'a.
+   * Kolor i styl włosów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Biorąc pod uwagę jego wiek i status, można założyć, że ma starannie przystrzyżone, ciemne włosy (brązowe lub czarne), być może z eleganckimi, siwiejącymi pasmami na skroniach, co dodawałoby mu powagi.
+   * Kolor oczu, kształt twarzy: Twarz jest opisana jako "gładka" ("smooth-faced"), co w tamtych czasach oznaczało, że jest gładko ogolony, w odróżnieniu od wielu wiktoriańskich dżentelmenów noszących brody lub wąsy. Jego twarz wyraża "wszelkie znamiona zdolności i dobroci", ale jednocześnie ma w sobie "coś jakby chytrego" ("something of a slyish cast perhaps").42 To subtelna wizualna wskazówka, że za uprzejmą maską kryje się coś więcej. Twarz pociągła, o regularnych rysach. Kolor oczu nie jest sprecyzowany.
+   * Charakterystyczne cechy: Brak blizn czy innych znaków szczególnych. Jego cechą charakterystyczną jest sama aura szacunku i dobrobytu, którą emanuje.
+   * Typowy ubiór: Nienaganny strój zamożnego wiktoriańskiego lekarza. W ciągu dnia nosi ciemny, doskonale skrojony surdut, białą koszulę ze sztywnym kołnierzykiem, ciemną kamizelkę (prawdopodobnie jedwabną) i ciemne spodnie.30 W domu, w swoim gabinecie, może nosić wygodniejszą, ale wciąż elegancką marynarkę domową (smoking jacket) z aksamitu lub brokatu. Jego ubrania są zawsze najwyższej jakości, czyste i świadczące o jego statusie.
+   * Sposób poruszania się, gesty, mimika: Porusza się z pewnością siebie i opanowaniem, charakterystycznym dla dżentelmena. Jego gesty są powściągliwe i celowe. Jednak w miarę rozwoju fabuły, gdy traci kontrolę, jego ruchy stają się nerwowe i "gorączkowe".40 W scenie "Incydent przy oknie" jego twarz wykrzywia grymas "skrajnego przerażenia i rozpaczy", co jest szokującym pęknięciem na jego zwykle spokojnym obliczu.43
+
+
+Mr. Edward Hyde
+
+
+* OPIS FIZYCZNY (OBOWIĄZKOWY):
+   * Dokładny wiek: Wygląda na znacznie młodszego od Jekylla. Sam Jekyll zauważa, że Hyde jest "mniejszy, szczuplejszy i młodszy", co tłumaczy faktem, że jego zła strona była mniej rozwijana i ćwiczona niż dobra.44 Można szacować jego pozorny wiek na 30-35 lat.
+   * Wzrost i budowa ciała: "Blady i karłowaty" ("pale and dwarfish"), "mniejszy, szczuplejszy" ("smaller, slighter").42 Jego niski wzrost (może około 160-165 cm) i wątła budowa stanowią kluczowy kontrast wizualny z wysokim i postawnym doktorem Jekyllem.
+   * Kolor i styl włosów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Można sobie wyobrazić, że jego włosy są ciemne, być może niechlujne i potargane, co pasowałoby do jego dzikiej natury.
+   * Kolor oczu, kształt twarzy: Jego twarz budzi instynktowną odrazę u każdego, kto go spotyka. Wywołuje "silne wrażenie deformacji, bez żadnej dającej się nazwać wady" ("a strong feeling of deformity, without any nameable malformation").42 Ma "nieprzyjemny uśmiech" i mówi "chrapliwym, szepczącym i nieco łamiącym się głosem".
+   * Charakterystyczne cechy: Centralną cechą jest jego nieokreślona brzydota. To nie jest konkretna blizna czy zniekształcenie, ale aura zła, która zdaje się emanować z jego postaci i wpływać na jego fizyczny wygląd. To "niewyrażona deformacja", którą wszyscy wyczuwają, ale nikt nie potrafi opisać. Jego dłonie są opisywane jako żylaste, sękate i pokryte ciemnymi włosami.
+   * Typowy ubiór: Nosi ubrania doktora Jekylla, które są na niego o wiele za duże.43 Rękawy płaszcza są za długie, ramiona za szerokie. Ten niedopasowany strój sprawia, że wygląda jednocześnie komicznie, żałośnie i złowieszczo, wizualnie piętnując go jako oszusta w świecie dżentelmenów.
+   * Sposób poruszania się, gesty, mimika: Porusza się z dziwną mieszanką "nieśmiałości i zuchwalstwa".44 Jego działania są gwałtowne, szybkie i zwierzęce: "spokojnie rozdeptał" dziecko, a Sir Danversa Carew zaatakował z "małpią furią".42 Zamiast mówić normalnie, często warczy i syczy.
+
+
+Mr. Gabriel John Utterson
+
+
+* OPIS FIZYCZNY (OBOWIĄZKOWY):
+   * Dokładny wiek: Prawdopodobnie w wieku zbliżonym do Jekylla i Lanyona, czyli około 50 lat.
+   * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Na podstawie jego charakteru – "powściągliwy, godny" oraz "szczupły, wysoki, posępny, smętny" – można wywnioskować, że jest to wysoki, chudy mężczyzna, być może lekko zgarbiony od pracy przy biurku. Nie jest człowiekiem czynu, lecz refleksji.
+   * Kolor i styl włosów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Można sobie wyobrazić, że ma schludnie zaczesane, ciemne, przerzedzone włosy.
+   * Kolor oczu, kształt twarzy: Jego twarz jest opisana jako taka, której "nigdy nie rozjaśniał uśmiech", co sugeruje surowe, pozbawione emocji i być może pomarszczone oblicze. Jest "chłodny, małomówny i skrępowany w rozmowie". Prawdopodobnie jest gładko ogolony, jak przystało na prawnika.
+   * Charakterystyczne cechy: Brak. Jego cechą jest właśnie brak cech – jest uosobieniem powściągliwości i dyskrecji.
+   * Typowy ubiór: Trzeźwy, konserwatywny strój wiktoriańskiego prawnika. Ciemny, funkcjonalny garnitur, prawdopodobnie czarny lub szary. Nic ekstrawaganckiego. Jego ubranie jest praktyczne i szanowane, odzwierciedlając jego osobowość. Na zewnątrz nosiłby cylinder.
+   * Sposób poruszania się, gesty, mimika: Ruchy kontrolowane i celowe. Jest człowiekiem nawyku, co niedzielę odbywa ten sam spacer. Jego gestykulacja jest minimalna, a wyraz twarzy niezmienny, co odzwierciedla jego emocjonalną powściągliwość.
+
+
+3.2 Postacie drugoplanowe
+
+
+
+
+Dr. Hastie Lanyon
+
+
+* WYGLĄD KAŻDEJ POSTACI:
+   * Wiek: Około 50-60 lat, rówieśnik Jekylla.
+   * Podstawowe cechy fizyczne: Początkowo jest to "serdeczny, zdrowy, elegancki, czerwonolicy dżentelmen" o "hałaśliwym sposobie bycia", być może z siwymi włosami.42 Sprawia wrażenie energicznego i pewnego siebie. Po zobaczeniu transformacji Hyde'a w Jekylla przechodzi szokującą fizyczną i psychiczną przemianę: staje się blady, "ciało mu opadło", wydaje się "łyższy i starszy", a w jego oczach widać "głęboko zakorzeniony lęk umysłu". Wygląda jak człowiek, który ma "wyrok śmierci wypisany wyraźnie na twarzy".45
+   * Ubiór: Strój szanowanego lekarza, podobny do stroju Jekylla, ale być może nieco bardziej konserwatywny, co odzwierciedla jego bardziej tradycyjne poglądy na naukę.
+
+
+Sir Danvers Carew
+
+
+* WYGLĄD KAŻDEJ POSTACI:
+   * Wiek: Starszy mężczyzna, około 70 lat.
+   * Podstawowe cechy fizyczne: Opisany jako "starszy i piękny dżentelmen" z "białymi włosami".43 Jego wygląd emanuje "niewinnością i staroświecką uprzejmością". Jest członkiem Parlamentu, co sugeruje postawę pełną godności.
+   * Ubiór: Elegancki strój dystyngowanego, starszego polityka: ciemny płaszcz, być może cylinder i rękawiczki.
+
+
+Mr. Richard Enfield
+
+
+* WYGLĄD KAŻDEJ POSTACI:
+   * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie młodszy od Uttersona, w wieku 30-40 lat.
+   * Podstawowe cechy fizyczne: Opisany jako daleki krewny Uttersona i "znany człowiek z towarzystwa" ("the well-known man about town"). Sugeruje to, że jest bardziej modny i towarzyski niż Utterson. Można go sobie wyobrazić jako mężczyznę o przyjemnej aparycji, być może z zadbanym wąsem, zgodnie z ówczesną modą.
+   * Ubiór: Jego strój byłby stylowy, ale wciąż w granicach dobrego smaku, odzwierciedlając jego status bywalca salonów.
+
+
+Poole
+
+
+* WYGLĄD KAŻDEJ POSTACI:
+   * Wiek: W średnim lub starszym wieku (50-60 lat), jako że służył u Jekylla przez dwadzieścia lat.
+   * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako kamerdyner, prawdopodobnie utrzymywałby schludny i godny wygląd. W finałowych rozdziałach jego twarz jest wykrzywiona strachem i troską o swojego pana.
+   * Ubiór: Formalny strój kamerdynera: czarny frak, spodnie, biała koszula i muszka.
+
+
+Mr. Guest
+
+
+* WYGLĄD KAŻDEJ POSTACI:
+   * Wiek: W średnim wieku.
+   * Podstawowe cechy fizyczne: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako główny kancelista Uttersona, byłby człowiekiem o profesjonalnym wyglądzie. Mógłby nosić okulary, co pasowałoby do jego roli "badacza i krytyka pisma ręcznego".43
+   * Ubiór: Stonowany, urzędniczy strój.
+
+
+3.3 Analiza psychologiczna
+
+
+Nowela Stevensona w mistrzowski sposób angażuje i jednocześnie podważa wiktoriańską pseudonaukę fizjonomiki – przekonanie, że charakter człowieka jest widoczny w jego cechach fizycznych. Jekyll jest ucieleśnieniem ideału: jego "wysoka, dobrze zbudowana, gładka" aparycja sygnalizuje jego dobroć i zdolności. Hyde jest jego przeciwieństwem: jego "karłowaty" i "zdeformowany" wygląd ma być bezpośrednim znakiem jego wewnętrznego zła.44 Jednak Stevenson dokonuje subwersji tej koncepcji. Groza opowieści nie polega na tym, że zło wygląda odpychająco, ale na tym, że szanowany, przystojny doktor Jekyll
+jest złym panem Hyde'em. Ostateczna porażka fizjonomiki polega na tym, że nie można po prostu "odczytać" twarzy człowieka, aby poznać jego duszę, ponieważ najbardziej potworne zło może ukrywać się za najbardziej szanowaną fasadą. Centralny zwrot akcji, ujawniający, że są oni tą samą osobą, rozbija uproszczoną logikę fizjonomiki.42 Jeśli dobrze wyglądający człowiek może stać się tym o odpychającej aparycji, to wygląd nie jest wiarygodnym przewodnikiem po wewnętrznym charakterze. Jest tylko maską. Prawdziwy horror tej historii dla wiktoriańskiej publiczności polegał właśnie na tej niepewności. Sugerowało to, że "człowiek zbrodniczy" nie jest cechą jedynie klas niższych czy fizycznie zdeformowanych, ale może czaić się w każdym szanowanym dżentelmenie. Wróg nie jest na zewnątrz, ale wewnątrz.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+
+
+4.1 Ekspozycja
+
+
+
+
+Wprowadzenie w świat przedstawiony
+
+
+Narracja rozpoczyna się w sercu wiktoriańskiego Londynu, miasta kontrastów, gdzie szacowne fasady kryją mroczne sekrety. Czytelnik zostaje wprowadzony w uporządkowany świat dżentelmenów poprzez postać pana Gabriela Johna Uttersona, powściągliwego i szanowanego prawnika, który ceni sobie logikę, dyskrecję i rutynę. Jego cotygodniowe spacery z dalekim krewnym, Richardem Enfieldem, stanowią ramę dla wprowadzenia głównej tajemnicy.
+
+
+Prezentacja sytuacji wyjściowej
+
+
+Podczas jednego z takich spacerów, Enfield wskazuje na zaniedbane, pozbawione okien drzwi w bocznej uliczce i opowiada Uttersonowi niepokojącą historię. Kilka miesięcy wcześniej, w środku nocy, był świadkiem, jak mały, odpychający mężczyzna spokojnie, lecz brutalnie, stratował małą dziewczynkę, która na niego wpadła.40 Zgromadzony tłum, w tym Enfield i rodzina dziewczynki, zmusił mężczyznę do zapłacenia odszkodowania. Mężczyzna, który przedstawił się jako Hyde, wszedł przez te właśnie drzwi i wrócił z dziesięcioma funtami w złocie oraz czekiem na resztę kwoty, wystawionym na konto szanowanego dżentelmena. Enfield z trudem powstrzymuje się od wymienienia nazwiska wystawcy czeku, ale Utterson domaga się go. Nazwisko to należy do doktora Henry'ego Jekylla, bliskiego przyjaciela i klienta Uttersona.47
+
+
+Pierwsze napięcia fabularne
+
+
+Opowieść Enfielda głęboko niepokoi Uttersona. Po powrocie do domu prawnik odnajduje w swoim sejfie testament doktora Jekylla. Dokument zawiera szokujący zapis: w przypadku śmierci lub "niewyjaśnionej nieobecności trwającej dłużej niż trzy miesiące", cały majątek Jekylla ma przypaść Edwardowi Hyde'owi.11 Utterson jest przerażony. Dochodzi do wniosku, że Hyde musi szantażować Jekylla, wykorzystując jakiś grzech z jego przeszłości, i obawia się, że Hyde może zamordować jego przyjaciela, aby przejąć spadek. To podejrzenie staje się motorem napędowym jego prywatnego śledztwa w sprawie tajemniczej relacji między szanowanym lekarzem a odrażającym potworem.
+
+
+WIZUALIZACJA SCENY OTWIERAJĄCEJ
+
+
+* Miejsce i czas: Niedzielne popołudnie, Londyn. Utterson i Enfield spacerują po tętniącej życiem, ale szanowanej ulicy. Domy są eleganckie, w stylu gregoriańskim, z czystymi fasadami. Następnie skręcają w boczną, węższą uliczkę.
+* Wygląd miejsca kluczowego (drzwi): Uliczka jest cichsza i bardziej zaniedbana. Wyróżnia się na niej jeden budynek – dwupiętrowa fasada bez okien, brudna i odrapana. W jej dolnej części znajdują się drzwi, które "nie posiadały ani dzwonka, ani kołatki, były obtłuczone i odbarwione". Kontrastują one z zadbanym otoczeniem.
+* Postacie:
+   * Utterson: Wysoki, chudy, ubrany w ciemny, konserwatywny garnitur i cylinder. Jego twarz jest surowa, pozbawiona uśmiechu. Słucha opowieści Enfielda z narastającym niepokojem, który zdradza jedynie zaciśnięta szczęka i zmarszczone brwi.
+   * Enfield: Młodszy, bardziej ożywiony. Jego strój jest modniejszy. Opowiadając, gestykuluje, a jego twarz wyraża odrazę na wspomnienie Hyde'a.
+* Oświetlenie i atmosfera: Światło popołudniowego słońca, które na głównej ulicy jest jasne, w bocznej uliczce staje się przytłumione, tworząc wrażenie cienia i tajemnicy. Atmosfera przechodzi od spokojnej rutyny do cichego napięcia.
+
+
+4.2 Rozwinięcie akcji
+
+
+
+
+Chronologiczny przebieg wydarzeń
+
+
+Zdeterminowany, by poznać prawdę, Utterson zaczyna regularnie obserwować tajemnicze drzwi, mając nadzieję, że spotka Hyde'a. Pewnej nocy jego cierpliwość zostaje nagrodzona. Z mroku wyłania się mała, zgarbiona postać. Utterson podchodzi do niego.
+* WIZUALIZACJA SCENY: PIERWSZE SPOTKANIE UTTERSONA Z HYDE'EM
+   * Gdzie: Noc, pusta, boczna uliczka oświetlona jedynie słabym blaskiem pojedynczej latarni gazowej. Gęsta mgła wiruje wokół, tłumiąc dźwięki.
+   * Kto: Utterson, stojący w cieniu bramy, i Hyde, który zbliża się do drzwi laboratorium.
+   * Wygląd postaci: Utterson jest nieruchomy, jego sylwetka zlewa się z mrokiem. Hyde jest mały, porusza się szybko i nerwowo. Jego twarz, częściowo oświetlona przez latarnię, jest blada i wykrzywiona w grymasie niechęci. Nosi za duże ubrania Jekylla.
+   * Dynamika: Utterson występuje z cienia, zaskakując Hyde'a. Rozmowa jest krótka i napięta. Hyde reaguje z syczącą wściekłością na pytania Uttersona, po czym szybko otwiera drzwi kluczem i znika w środku. Utterson zostaje sam na ulicy, wstrząśnięty "satanicznym" wrażeniem, jakie wywarł na nim Hyde.
+Utterson udaje się do domu Jekylla, aby go ostrzec, ale kamerdyner Poole informuje go, że doktor jest nieobecny, a cała służba ma polecenie bezwzględnego posłuszeństwa wobec pana Hyde'a. Dwa tygodnie później, po przyjęciu u Jekylla, Utterson zostaje, by porozmawiać z przyjacielem o testamencie. Jekyll bagatelizuje jego obawy, prosi go o zaufanie i zapewnia, że "w chwili, gdy zechcę, mogę pozbyć się pana Hyde'a".40 Prosi jednak Uttersona, by ten, jako jego prawnik, zadbał o prawa Hyde'a po jego zniknięciu.
+
+
+Punkt zwrotny: Morderstwo Sir Danversa Carew
+
+
+Mija prawie rok. Londynem wstrząsa wiadomość o brutalnym morderstwie.
+* OPIS WIZUALNY KLUCZOWEJ SCENY: MORDERSTWO SIR DANVERSA CAREW
+   * Gdzie i kiedy: Późna noc w październiku. Wąska uliczka nad rzeką. Scenę oświetla blask księżyca w pełni, który świeci jasno na bezchmurnym niebie.43
+   * Kto jest obecny: Sir Danvers Carew i Edward Hyde. Scenę obserwuje z okna na piętrze służąca, która "była romantycznie usposobiona".43
+   * Pozycje i wygląd: Carew, "starszy, piękny dżentelmen o białych włosach", idzie uliczką. Z naprzeciwka zbliża się Hyde. Carew kłania się uprzejmie i zadaje pytanie. Hyde, trzymający w ręku ciężką laskę, słucha z "źle skrywaną niecierpliwością".
+   * Dynamika sceny: Nagle Hyde wybucha "wielkim płomieniem gniewu". Triumfująco tupie nogą, wymachuje laską jak szaleniec. Carew cofa się o krok, zaskoczony. Wtedy Hyde "przekracza wszelkie granice i uderza go, powalając na ziemię". Z "małpią furią" depcze swoją ofiarę, zadając grad ciosów. Słychać trzask łamanych kości, a ciało podskakuje na bruku.43
+   * Ważne przedmioty: Laska, wykonana z cennego, twardego drewna, pęka na dwoje pod siłą uderzeń. Jedna połowa zostaje na miejscu zbrodni, drugą zabiera morderca.
+   * Emocje: Twarz Carew wyraża uprzejme zdziwienie, które nie ma czasu zmienić się w strach. Twarz Hyde'a jest maską niekontrolowanej, bezrozumnej wściekłości. Służąca w oknie jest tak przerażona, że mdleje.
+Policja odnajduje przy ofierze list zaadresowany do Uttersona. Prawnik rozpoznaje w złamanej lasce prezent, który wiele lat wcześniej dał Jekylla. Prowadzi policję do mieszkania Hyde'a w Soho. Mordercy nie ma, ale w mieszkaniu znajdują drugą połowę laski i ślady pośpiesznej ucieczki, w tym spalone resztki książeczki czekowej.27
+
+
+Wątki poboczne i dalsze komplikacje
+
+
+Utterson odwiedza Jekylla, który wygląda na "śmiertelnie chorego".40 Jekyll zarzeka się, że zerwał wszelkie kontakty z Hyde'em i pokazuje Uttersonowi list, rzekomo od Hyde'a, w którym ten zapewnia o swojej ucieczce. Utterson, podejrzewając, że list jest fałszerstwem, prosi o opinię swojego kancelistę, pana Guesta, który jest ekspertem od grafologii. Guest stwierdza, że pismo Hyde'a i Jekylla jest bardzo podobne, różni się jedynie nachyleniem.40 Utterson utwierdza się w przekonaniu, że Jekyll sfałszował list, aby chronić mordercę.
+Po zniknięciu Hyde'a, Jekyll na dwa miesiące wraca do dawnego, towarzyskiego trybu życia. Wydaje się odmieniony, szczęśliwszy. Jednak nagle, na początku stycznia, ponownie zamyka się w sobie, odmawia wizyt i pogrąża się w mroku.1 Zaniepokojony Utterson odwiedza doktora Lanyona, ale zastaje go w stanie krytycznym. Lanyon, śmiertelnie chory, odmawia rozmowy o Jekyllu, twierdząc, że przeżył szok, po którym nigdy się nie podniesie. Wręcza Uttersonowi zapieczętowaną kopertę z poleceniem, by otworzyć ją dopiero po śmierci lub zniknięciu Jekylla. Lanyon umiera wkrótce potem.
+Pewnego dnia, podczas kolejnego spaceru z Enfieldem, Utterson przechodzi obok laboratorium Jekylla.
+* OPIS WIZUALNY KLUCZOWEJ SCENY: INCYDENT PRZY OKNIE
+   * Gdzie i kiedy: Niedzielne popołudnie. Dziedziniec za laboratorium Jekylla. Jest chłodno, panuje "przedwczesny zmierzch", choć niebo wciąż jest jasne.43
+   * Kto jest obecny: Utterson i Enfield na dole, na dziedzińcu. Doktor Jekyll w środkowym oknie na piętrze, które jest do połowy otwarte.
+   * Wygląd postaci: Jekyll wygląda jak "niepocieszony więzień", na jego twarzy maluje się "nieskończony smutek".43 Utterson i Enfield są ubrani w swoje spacerowe stroje.
+   * Dynamika sceny: Utterson woła do Jekylla. Wymieniają kilka zdań. Jekyll uśmiecha się, zgadzając się na rozmowę z dołu. Nagle "uśmiech znika z jego twarzy, a zastępuje go wyraz tak skrajnego przerażenia i rozpaczy, że zmroził krew w żyłach obu dżentelmenów na dole". Ten grymas jest widoczny tylko przez mgnienie oka, po czym okno zostaje gwałtownie zatrzaśnięte.43
+   * Emocje: Twarz Jekylla zmienia się z uprzejmego smutku w maskę czystego horroru. Utterson i Enfield są tak wstrząśnięci, że odchodzą w milczeniu, "bladzi" i z "odpowiednim przerażeniem w oczach".
+
+
+4.3 Punkt kulminacyjny
+
+
+
+
+Szczegółowy opis kulminacji
+
+
+Pewnej wietrznej marcowej nocy do Uttersona przybywa przerażony Poole, kamerdyner Jekylla. Błaga prawnika, by poszedł z nim do domu jego pana, ponieważ podejrzewa, że doszło do zbrodni. Od ośmiu dni Jekyll jest zamknięty w swoim gabinecie nad laboratorium. Służba słyszy jedynie jego kroki i zmieniony, nieludzki głos, który domaga się dostarczenia jakiegoś "czystego" specyfiku z apteki. Poole jest przekonany, że w gabinecie nie ma jego pana, lecz ktoś inny – być może Hyde, który zamordował Jekylla.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+* Miejsce i czas: Noc, dom Jekylla. Wiatr hula po ulicach Londynu. Główna scena rozgrywa się w tylnej części domu, w korytarzu prowadzącym do laboratorium i gabinetu na piętrze.
+* Obecne postacie i ich pozycje: Utterson i Poole stoją przed drzwiami gabinetu, pokrytymi czerwoną boazerią. Służba (kucharka, pokojówka) skupia się w tle, na końcu korytarza, stłoczona razem ze strachu.
+* Oświetlenie i dźwięki: Korytarz jest słabo oświetlony przez jedną lampę, rzucającą długie cienie. Wiatr gwiżdże na zewnątrz. Zza drzwi dobiega odgłos nerwowych kroków, tam i z powrotem. Słychać też ciche, nieludzkie skomlenie.
+* Dynamika i ruch: Utterson, po krótkiej wymianie zdań z głosem zza drzwi (który rozpoznaje jako głos Hyde'a), podejmuje decyzję. Każe Poole'owi wyważyć drzwi. Poole chwyta za siekierę, którą przyniósł. Bierze zamach. Pierwsze uderzenie wstrząsa budynkiem. Z wewnątrz dobiega "rozdzierający wrzask, jakby czysto zwierzęcego przerażenia".43 Poole uderza ponownie. Drzwi, wykonane z solidnego drewna, stawiają opór. Po piątym uderzeniu zamek pęka i drzwi z hukiem wpadają do środka.
+* Wnętrze gabinetu: W środku panuje zaskakujący spokój. Lampa pali się cicho na biurku, w kominku wesoło trzaska ogień, na ogniu gwiżdże czajnik. Na stoliku przygotowano serwis do herbaty. Papiery na biurku są starannie ułożone. Jedynym niepokojącym elementem są oszklone szafy pełne chemikaliów.43
+* Odkrycie: Na środku pokoju, w drgawkach, leży ciało. Mężczyzna jest ubrany w ubrania Jekylla, które są na niego o wiele za duże. Gdy podchodzą bliżej i odwracają go, widzą twarz Edwarda Hyde'a. W jego zaciśniętej dłoni tkwi zmiażdżona fiolka. W powietrzu unosi się silny zapach gorzkich migdałów (cyjanek).43
+* Ważne przedmioty: Siekiera, zniszczone drzwi, zmiażdżona fiolka, duży, zapieczętowany pakiet listów na biurku Jekylla, zaadresowany do Uttersona.
+
+
+Konsekwencje dla bohaterów
+
+
+Dla Poole'a i Uttersona jest to moment ostatecznego potwierdzenia ich najgorszych obaw, choć wciąż nie rozumieją, co stało się z Jekyllem. Utterson zabiera znalezione dokumenty, by w domu poznać prawdę.
+
+
+Rozwiązanie głównego konfliktu
+
+
+Główny konflikt – tajemnica relacji Jekylla i Hyde'a – zostaje rozwiązany nie przez dedukcję Uttersona, ale przez bezpośrednie świadectwa pozostawione przez zmarłych: najpierw list od Lanyona, a potem pełne wyznanie samego Jekylla.
+
+
+4.4 Rozwiązanie
+
+
+
+
+Zakończenie wszystkich wątków
+
+
+Utterson wraca do swojego gabinetu i otwiera dokumenty. Najpierw czyta list od Lanyona.
+* Narracja Lanyona: List opisuje, jak pewnej nocy Lanyon otrzymał desperacką prośbę od Jekylla, by włamał się do jego gabinetu i przyniósł mu szufladę z chemikaliami. O północy w jego gabinecie pojawił się Hyde. Na oczach przerażonego Lanyona, Hyde zmieszał specyfiki, wypił miksturę i w konwulsjach przemienił się w Henry'ego Jekylla.48 Widok ten tak wstrząsnął Lanyonem i jego racjonalnym światopoglądem, że doprowadził go do śmierci.
+Następnie Utterson czyta ostatni dokument: "Pełne oświadczenie Henry'ego Jekylla w tej sprawie".
+* Wyznanie Jekylla: Jekyll wyjaśnia swoją teorię o dwoistości ludzkiej natury. Pragnąc oddzielić swoją dobrą stronę od złej, stworzył eliksir, który pozwalał mu na fizyczną transformację w Hyde'a – czyste ucieleśnienie jego stłumionych, mrocznych pragnień. Początkowo czerpał przyjemność z wolności, jaką dawała mu postać Hyde'a. Z czasem jednak Hyde stawał się coraz silniejszy i trudniejszy do opanowania. Transformacje zaczęły zachodzić spontanicznie, bez użycia eliksiru.1 Po zamordowaniu Carew, Jekyll próbował zerwać z Hyde'em, ale było już za późno. Jego zła strona przejęła kontrolę. W końcu zapas oryginalnego składnika eliksiru, który (jak się okazało, przez przypadek) zawierał jakieś nieznane zanieczyszczenie kluczowe dla działania mikstury, wyczerpał się. Nowe partie nie działały. Uwięziony w ciele Hyde'a, bez możliwości powrotu, Jekyll pisze swoje wyznanie, po czym popełnia samobójstwo.11
+
+
+OPIS WIZUALNY SCENY KOŃCOWEJ
+
+
+* Miejsce i czas: Późna noc, gabinet Uttersona. Na zewnątrz wciąż wieje wiatr.
+* Opis miejsca: Gabinet jest urządzony w surowym, męskim stylu. Ściany wyłożone są ciemną boazerią i półkami z książkami prawniczymi. Na dużym biurku pali się lampa naftowa, rzucając krąg ciepłego światła na rozłożone papiery. W kominku dogasa ogień.
+* Postać: Utterson siedzi w głębokim fotelu. Jego twarz, oświetlona od dołu przez lampę, jest blada i napięta. W miarę czytania kolejnych stron, jego oczy rozszerzają się z niedowierzania i przerażenia. Jego zwykle opanowana postawa rozpada się; może przecierać czoło, a jego oddech staje się cięższy.
+* Ważne przedmioty: Dwa manuskrypty – list Lanyona i spowiedź Jekylla. Kartki papieru drżą w dłoniach Uttersona.
+* Atmosfera: Absolutna cisza, przerywana jedynie szelestem przewracanych kartek i wyciem wiatru za oknem. Atmosfera jest ciężka od szoku i niewiarygodnej prawdy, która właśnie wyszła na jaw. Scena kończy się na twarzy Uttersona, który odkłada ostatnią kartkę, a jego światopogląd legł w gruzach.
+
+
+Losy bohaterów
+
+
+* Jekyll i Hyde: Nie żyją, ginąc w akcie samobójstwa popełnionego przez Hyde'a, który nie chciał wpaść w ręce sprawiedliwości.
+* Lanyon: Zmarł z szoku po odkryciu prawdy.
+* Sir Danvers Carew: Zamordowany.
+* Utterson i Enfield: Pozostają przy życiu, ale ich racjonalny, uporządkowany świat został nieodwracalnie zburzony przez poznanie mrocznej prawdy o naturze ludzkiej.
+
+
+Przesłanie autora
+
+
+Nowela jest tragiczną przestrogą przed próbą całkowitego oddzielenia dobra od zła w ludzkiej naturze, co jest niemożliwe i prowadzi do katastrofy. Krytykuje również społeczną hipokryzję, która zmusza ludzi do tłumienia swoich prawdziwych pragnień, co może prowadzić do ich potwornego, niekontrolowanego wybuchu. Jest to także opowieść o niebezpieczeństwach niekontrolowanych ambicji naukowych, które przekraczają granice etyki.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+
+
+5.1 Główne tematy
+
+
+
+
+Dwoistość ludzkiej natury (Dualizm)
+
+
+To centralny i najbardziej znany temat noweli. Stevenson bada ideę, że każda ludzka istota składa się z dwóch fundamentalnie sprzecznych aspektów: dobra i zła, cywilizacji i barbarzyństwa, duszy i ciała.1 Doktor Jekyll, wierząc, że "człowiek nie jest tak naprawdę jeden, ale dwoje", próbuje rozdzielić te dwie natury. Jego eksperyment kończy się tragicznie, dowodząc, że te dwie strony są nierozerwalnie ze sobą splecione. Hyde, który jest ucieleśnieniem czystego zła, okazuje się silniejszy i ostatecznie niszczy obie osobowości. Nowela sugeruje, że próba wyparcia lub zniszczenia swojej mrocznej strony prowadzi jedynie do jej wzmocnienia i ostatecznej dominacji. Temat ten ma uniwersalny charakter, odwołując się do wewnętrznych konfliktów, których doświadcza każdy człowiek.
+
+
+Walka między nauką a religią (lub naturą)
+
+
+Nowela wpisuje się w dziewiętnastowieczną debatę na temat granic nauki i jej relacji z moralnością i religią.9 Doktor Jekyll reprezentuje postać naukowca, który w swojej pysze i ambicji próbuje przekroczyć naturalne granice i bawić się w Boga. Jego badania, które jego kolega Lanyon nazywa "nienaukowym bełkotem", wykraczają poza tradycyjną medycynę i wkraczają w sferę metafizyki i tożsamości duszy.42 Katastrofalne skutki jego eksperymentu służą jako przestroga przed niekontrolowanym postępem naukowym, który ignoruje kwestie etyczne i moralne. Lanyon, reprezentujący konserwatywną, racjonalną naukę, umiera z szoku, gdy jego światopogląd zostaje zniszczony przez nadprzyrodzony dowód na słuszność "transcendentalnej medycyny" Jekylla.
+
+
+Natura i znaczenie reputacji
+
+
+W sztywnym społeczeństwie wiktoriańskim reputacja była wszystkim.9 Dla dżentelmena, takiego jak Jekyll, utrzymanie nieskazitelnego wizerunku publicznego było sprawą najwyższej wagi. To właśnie pragnienie zachowania reputacji przy jednoczesnym folgowaniu swoim ukrytym pragnieniom jest główną motywacją Jekylla do stworzenia Hyde'a.1 Hyde staje się dla niego idealnym narzędziem do prowadzenia podwójnego życia: Jekyll może zachować swój status i szacunek, podczas gdy Hyde bezkarnie oddaje się występkom. Nowela demaskuje tę obsesję na punkcie fasady, pokazując, że pod powierzchnią pozornej przyzwoitości mogą kryć się najmroczniejsze sekrety. Ostatecznie, próba utrzymania tej fasady za wszelką cenę prowadzi do całkowitego zniszczenia.
+
+
+Hipokryzja społeczna i represja
+
+
+Temat reputacji jest nierozerwalnie związany z krytyką wiktoriańskiej hipokryzji.1 Społeczeństwo, które wymagało od swoich członków, zwłaszcza z wyższych sfer, nienagannego zachowania, jednocześnie tworzyło podziemie, w którym kwitły prostytucja, hazard i inne "występki". Jekyll jest produktem tego społeczeństwa. Jego wewnętrzny konflikt wynika z presji, by tłumić naturalne, choć mroczne, aspekty swojej osobowości. Eliksir nie tworzy zła, on je jedynie uwalnia. Hyde jest wszystkim tym, co Jekyll musiał w sobie tłumić przez lata. Stevenson sugeruje, że im silniejsza jest społeczna represja, tym bardziej gwałtowny i potworny będzie wybuch stłumionych instynktów, gdy te w końcu znajdą ujście.
+
+
+5.2 Motywy literackie
+
+
+
+
+Motyw sobowtóra (Doppelgänger)
+
+
+Jekyll i Hyde to jeden z najsłynniejszych przykładów motywu sobowtóra w literaturze. Sobowtór jest tutaj nie tylko fizycznym duplikatem, ale mrocznym, ukrytym "ja", które ucieleśnia wszystko, co protagonista w sobie wypiera. Relacja między Jekyllem a Hyde'em jest złożona: Jekyll początkowo odczuwa do Hyde'a mieszankę odrazy i ojcowskiej troski, a także zazdrości o jego wolność. Hyde z kolei nienawidzi Jekylla za jego słabość i moralne skrupuły. Ich walka jest dosłowną walką o kontrolę nad jednym ciałem, co symbolizuje wewnętrzną bitwę psychiczną.
+
+
+Symbolika
+
+
+* Drzwi i okna: Drzwi w noweli często symbolizują przejścia między dwoma światami: publicznym i prywatnym, świadomym i podświadomym.20 Drzwi frontowe domu Jekylla są symbolem jego szanowanej, publicznej tożsamości. Zaniedbane drzwi laboratorium to wejście do mrocznego świata Hyde'a. Scena, w której Utterson i Poole wyważają drzwi do gabinetu, symbolizuje gwałtowne wtargnięcie w sferę tajemnicy i ujawnienie prawdy. Okna, jak w "Incydencie przy oknie", symbolizują granicę między obserwatorem a obserwowanym, a także kruchą barierę, która oddziela Jekylla od świata zewnętrznego i jego własnego szaleństwa.
+* Mgła: Gęsta, londyńska mgła jest wszechobecnym motywem, który tworzy atmosferę tajemnicy, niepewności i moralnej dwuznaczności.9 Mgła zaciera granice, ukrywa tożsamości i pozwala Hyde'owi poruszać się po mieście niezauważonym. Symbolizuje również stan umysłu Uttersona, który błądzi w "mgle" niewiedzy, próbując zrozumieć naturę zła, z którym się zetknął.
+* Miasto (Londyn): Samo miasto funkcjonuje jako symbol dwoistej natury rzeczywistości. Jego podział na eleganckie, oświetlone place i mroczne, niebezpieczne zaułki odzwierciedla podział w duszy Jekylla.24 Labirynt ulic staje się metaforą skomplikowanej i niebezpiecznej podróży w głąb ludzkiej psychiki.
+
+
+Metafory i alegorie
+
+
+Cała nowela może być odczytywana jako alegoria walki dobra ze złem, która toczy się w duszy każdego człowieka. Jest to również alegoria uzależnienia. Relacja Jekylla z eliksirem przypomina cykl uzależnienia: początkowa euforia i poczucie kontroli, stopniowa utrata panowania, potrzeba coraz większych "dawek" (transformacji), aż do całkowitego zniewolenia przez nałóg (Hyde'a), który niszczy życie "użytkownika".1 Zwierzęce opisy Hyde'a ("małpia furia", "troglodyta") są metaforą prymitywnych, atawistycznych instynktów, które, według teorii ewolucji, drzemią pod cienką warstwą ludzkiej cywilizacji.42
+
+
+5.3 Problematyka moralna
+
+
+
+
+Dylematy etyczne
+
+
+Nowela stawia przed czytelnikiem szereg dylematów etycznych. Główne pytanie dotyczy odpowiedzialności moralnej. Czy Jekyll jest odpowiedzialny za zbrodnie popełnione przez Hyde'a? On sam próbuje się od tej odpowiedzialności uchylić, twierdząc, że to Hyde, a nie on, był sprawcą.50 Jednak to Jekyll świadomie stworzył Hyde'a i czerpał przyjemność z jego czynów. Dzieło bada cienką granicę między myślą a czynem, pragnieniem a jego realizacją. Innym dylematem jest kwestia granic eksperymentu naukowego. Czy w imię wiedzy naukowiec ma prawo przekraczać wszelkie normy etyczne i ryzykować życie swoje i innych?
+
+
+Wartości prezentowane w książce
+
+
+Dzieło, mimo swojej mrocznej tematyki, afirmuje wartości takie jak przyjaźń (lojalność Uttersona), odpowiedzialność za własne czyny i konieczność integracji wszystkich aspektów osobowości, zarówno dobrych, jak i złych. Tragedia Jekylla jest przestrogą przed pychą (zarówno naukową, jak i moralną) i próbą osiągnięcia niemożliwej, jednowymiarowej "czystości" poprzez wyparcie się swojej mrocznej strony. Książka sugeruje, że prawdziwa moralność polega nie na eliminacji zła, ale na jego świadomym kontrolowaniu i integrowaniu w ramach jednej, spójnej tożsamości.
+
+
+Krytyka społeczna
+
+
+Stevenson kieruje ostrą krytykę w stronę wiktoriańskiego społeczeństwa, które ceniło pozory ponad prawdę. Presja na bycie "szanowanym" zmusza Jekylla do ukrywania swoich prawdziwych uczuć i pragnień, co prowadzi go do desperackiego i katastrofalnego w skutkach eksperymentu. Nowela demaskuje fałsz i hipokryzję elity społecznej, sugerując, że potworność Hyde'a jest w pewnym sensie produktem ubocznym represyjnej moralności jego czasów. Zło nie pochodzi z zewnątrz, ale rodzi się wewnątrz, karmione społecznym przymusem i stłumieniem.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+
+
+6.1 Język i styl
+
+
+
+
+Charakterystyka języka narracji
+
+
+Język noweli jest precyzyjny, powściągliwy i formalny, co odzwierciedla osobowość głównego narratora-obserwatora, pana Uttersona. Stevenson unika nadmiernej emocjonalności, tworząc wrażenie obiektywnego, niemal prawniczego raportu ze "dziwnego przypadku".27 Ten beznamiętny ton stoi w ostrym kontraście z przerażającymi i nadprzyrodzonymi wydarzeniami, co potęguje uczucie grozy. Jednak w momentach kluczowych, zwłaszcza w opisach Londynu czy w finałowych listach Lanyona i Jekylla, styl staje się bardziej obrazowy, poetycki i naładowany emocjonalnie. Stevenson mistrzowsko operuje językiem, aby budować atmosferę tajemnicy i niepokoju, często używając sugestywnych epitetów ("złowrogi budynek", "małpia furia") i obrazowych porównań.
+
+
+Dialogi
+
+
+Dialogi w noweli są formalne i zgodne z konwencjami wiktoriańskiej konwersacji między dżentelmenami. Postacie zwracają się do siebie z szacunkiem, używając oficjalnych tytułów. Ich wypowiedzi są często niedopowiedziane i pełne eufemizmów, co odzwierciedla społeczną normę unikania otwartego mówienia o sprawach nieprzyjemnych lub skandalizujących. Ta powściągliwość w dialogach dodatkowo podkreśla motyw sekretu i ukrywania prawdy, który jest centralny dla fabuły.
+
+
+Środki stylistyczne
+
+
+Stevenson szeroko wykorzystuje środki stylistyczne typowe dla literatury gotyckiej, aby stworzyć odpowiedni nastrój.
+* Obrazowanie (Imagery): Dominuje obrazowanie związane z mrokiem, mgłą, cieniami i deformacją. Opisy Hyde'a często odwołują się do świata zwierząt (małpa, wąż), co podkreśla jego prymitywną i nieludzką naturę.42
+* Symbolika: Jak wspomniano wcześniej, kluczową rolę odgrywają symbole drzwi, okien, mgły i samego miasta.
+* Personifikacja: Miasto i budynki są często personifikowane, co nadaje im złowieszczy, aktywny charakter. Ulica, przy której znajduje się laboratorium, jest opisana jako miejsce, które "zaprasza jak rzędy uśmiechniętych sprzedawczyń", co kontrastuje ze "złowrogim budynkiem", który zdaje się mieć własną, mroczną osobowość.52
+
+
+Ton narracji
+
+
+Główny ton narracji jest poważny, posępny i pełen napięcia. Nawet w początkowych, spokojniejszych fragmentach wyczuwalny jest podskórny niepokój. W miarę rozwoju akcji ton staje się coraz bardziej dramatyczny i przerażający, osiągając kulminację w finałowych, gorączkowych wyznaniach Lanyona i Jekylla.
+
+
+6.2 Techniki narracyjne
+
+
+
+
+Typ narratora
+
+
+Większość noweli (rozdziały 1-8) jest opowiedziana przez trzecioosobowego narratora ograniczonego, którego perspektywa jest ściśle związana z punktem widzenia pana Uttersona.20 Czytelnik wie tylko tyle, ile wie i odkrywa Utterson. Ta technika sprawia, że czytelnik dzieli z prawnikiem jego niewiedzę, podejrzenia i stopniowe odkrywanie prawdy, co czyni go aktywnym uczestnikiem śledztwa. Narrator jest obiektywny i powściągliwy, co dodaje historii wiarygodności.
+
+
+Perspektywa narracyjna
+
+
+Struktura narracyjna noweli jest celowo pofragmentowana i składa się z kilku różnych perspektyw, co przypomina układanie układanki lub zbieranie dowodów w sprawie sądowej.20
+* Perspektywa Uttersona (rozdziały 1-8): Dominująca perspektywa, która prowadzi śledztwo. Jest to perspektywa racjonalna, próbująca znaleźć logiczne wyjaśnienie dla coraz bardziej irracjonalnych wydarzeń.
+* Perspektywa Lanyona (rozdział 9, "Opowieść doktora Lanyona"): Narracja pierwszoosobowa w formie listu. Lanyon, jako naoczny świadek transformacji, dostarcza pierwszego, niepodważalnego dowodu na nadprzyrodzoną naturę zjawiska. Jego relacja jest emocjonalna i wstrząsająca, stanowiąc kontrast dla suchego stylu Uttersona.
+* Perspektywa Jekylla (rozdział 10, "Pełne oświadczenie Henry'ego Jekylla w tej sprawie"): Również narracja pierwszoosobowa, w formie spowiedzi. Ten ostatni rozdział w końcu ujawnia całą prawdę z perspektywy samego sprawcy i ofiary. Daje wgląd w motywacje, psychologiczne i moralne rozterki Jekylla.
+Ta zmiana perspektyw pod koniec noweli jest kluczowym zabiegiem. Po ośmiu rozdziałach racjonalnego dochodzenia, które kończy się niepowodzeniem, Stevenson oddaje głos samym uczestnikom nadprzyrodzonych wydarzeń, zmuszając czytelnika do porzucenia logiki i zaakceptowania prawdy, która wykracza poza granice rozumu.
+
+
+Techniki budowania napięcia
+
+
+Stevenson jest mistrzem budowania napięcia. Używa do tego kilku technik:
+* Stopniowe ujawnianie informacji: Tajemnica jest odkrywana powoli, kawałek po kawałku. Każdy rozdział dodaje nowy element do układanki, ale jednocześnie rodzi nowe pytania.
+* Niedopowiedzenia i sugestie: Wiele z najstraszniejszych rzeczy dzieje się "poza sceną" lub jest opisywanych w sposób niejasny (np. nieokreślona deformacja Hyde'a, niewymienione z nazwy "przyjemności", którym się oddawał). To zmusza czytelnika do użycia własnej wyobraźni, co jest często bardziej przerażające niż dosłowny opis.
+* Foreshadowing (zapowiedzi): Wczesne wydarzenia zapowiadają późniejszą tragedię. Brutalność Hyde'a wobec dziewczynki jest zapowiedzią morderstwa Carew. Tajemniczy testament od początku sugeruje, że Jekyll jest w śmiertelnym niebezpieczeństwie.
+* Zmiana tempa narracji: Tempo akcji przyspiesza w momentach kulminacyjnych, takich jak pościg za Hyde'em po morderstwie czy finałowe wyważanie drzwi laboratorium.
+
+
+6.3 Struktura kompozycyjna
+
+
+
+
+Podział na rozdziały/części
+
+
+Nowela składa się z dziesięciu rozdziałów. Tytuły rozdziałów, takie jak "Historia drzwi", "Poszukiwania pana Hyde'a" czy "Incydent z listem", nadają narracji charakter kroniki lub akt sprawy, co wzmacnia wrażenie obiektywnego śledztwa.27 Dwa ostatnie rozdziały, będące listami, stanowią oddzielną część, która pełni funkcję epilogu i ostatecznego wyjaśnienia.
+
+
+Rytm narracji
+
+
+Rytm narracji jest starannie kontrolowany. Długie okresy spokojnego, powolnego dochodzenia i refleksji (np. rozmowy Uttersona) są przerywane nagłymi, gwałtownymi wybuchami akcji (potrącenie dziewczynki, morderstwo Carew, finał w laboratorium). Te zmiany rytmu utrzymują czytelnika w ciągłym napięciu i niepewności.
+
+
+Proporcje między opisem a akcją
+
+
+Stevenson zachowuje doskonałą równowagę między opisem a akcją. Szczegółowe, atmosferyczne opisy miejsc (zwłaszcza Londynu) i postaci służą budowaniu nastroju i charakteryzacji. Nie spowalniają one jednak nadmiernie akcji, która posuwa się naprzód dzięki kluczowym scenom dialogowym i dynamicznym wydarzeniom. Opisy są integralną częścią fabuły, a nie tylko jej tłem – mglisty Londyn jest równie ważnym "bohaterem" co postacie ludzkie.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+
+
+7.1 Interpretacje krytyczne
+
+
+
+
+Główne nurty interpretacyjne
+
+
+Niezwykły przypadek doktora Jekylla i pana Hyde’a jest dziełem niezwykle bogatym w znaczenia, co zaowocowało wieloma nurtami interpretacyjnymi na przestrzeni lat.
+* Interpretacja psychologiczna (freudowska): Choć nowela powstała przed sformułowaniem teorii psychoanalitycznych przez Zygmunta Freuda, jest często analizowana przez ich pryzmat. W tej interpretacji, Jekyll reprezentuje świadome Ego, które próbuje pogodzić wewnętrzne pragnienia z wymogami społecznymi. Hyde jest ucieleśnieniem nieświadomego, prymitywnego Id, kierującego się zasadą przyjemności i pozbawionego moralnych hamulców. Natomiast Superego, czyli zinternalizowane normy społeczne i moralne, jest reprezentowane przez presję wiktoriańskiego społeczeństwa, która zmusza Jekylla do stłumienia Id.1 Transformacja jest więc symbolicznym przedstawieniem powrotu tego, co wyparte.
+* Interpretacja społeczno-historyczna: Ten nurt postrzega nowelę jako krytykę wiktoriańskiego społeczeństwa, jego hipokryzji, represyjnej moralności i sztywnych podziałów klasowych.1 Jekyll jest ofiarą społeczeństwa, które zmusza go do prowadzenia podwójnego życia. Hyde jest produktem ubocznym tej represji. Podział Londynu na bogate i biedne dzielnice odzwierciedla podziały w duszy bohatera i w całym społeczeństwie.25
+* Interpretacja teologiczna i moralna: Dzieło jest często odczytywane jako chrześcijańska alegoria walki dobra ze złem, grzechu pierworodnego i upadku człowieka.1 Jekyll, w swojej pysze, próbuje bawić się w Boga, co prowadzi go do potępienia. Hyde jest określany jako "dziecko piekła" i "szatan", co nadaje konfliktowi wymiar teologiczny. Historia staje się przestrogą przed grzechem pychy i próbą zaprzeczenia swojej grzesznej naturze.
+* Interpretacja postkolonialna i ewolucjonistyczna: W świetle teorii Darwina, Hyde jest postrzegany jako ucieleśnienie lęku przed atawizmem – regresją do prymitywnego, zwierzęcego stanu.9 Jego "małpie" cechy i "troglodycki" wygląd symbolizują "dzikiego" ukrytego w cywilizowanym Europejczyku. Ta interpretacja łączy się z lękami epoki imperialnej, w której kontakt z "prymitywnymi" kulturami budził niepokój o stabilność własnej, "wyższej" cywilizacji.
+
+
+Kontrowersje interpretacyjne
+
+
+Jedną z kontrowersyjnych, lecz wpływowych interpretacji, jest odczytanie queerowe. Zwraca ono uwagę na niemal całkowity brak znaczących postaci kobiecych w noweli oraz na intensywne, choć platoniczne, relacje między męskimi bohaterami (Jekyll, Utterson, Lanyon).49 Świat przedstawiony jest niemal wyłącznie męski. W tym kontekście, "niewymienione z nazwy przyjemności", którym oddaje się Jekyll (jako Hyde), są interpretowane jako aluzja do zakazanych w epoce wiktoriańskiej praktyk homoseksualnych. Hyde staje się więc ucieleśnieniem stłumionej seksualności, a jego potworność odzwierciedla społeczne postrzeganie homoseksualizmu jako dewiacji.
+
+
+Współczesne odczytania
+
+
+Współczesne interpretacje często skupiają się na temacie uzależnienia, widząc w relacji Jekylla z eliksirem metaforę nałogu narkotykowego.1 Analizuje się również nowelę w kontekście współczesnych debat na temat tożsamości, psychologii i biotechnologii (np. inżynierii genetycznej), podkreślając jej proroczy charakter w kwestii ludzkiej ingerencji w naturę.
+
+
+7.2 Znaczenie kulturowe
+
+
+
+
+Wpływ na literaturę
+
+
+Wpływ Niezwykłego przypadku doktora Jekylla i pana Hyde’a na literaturę jest ogromny. Dzieło Stevensona stało się archetypem opowieści o podwójnej osobowości i wewnętrznej walce dobra ze złem. Zainspirowało niezliczone utwory, które eksplorują podobne motywy, takie jak Portret Doriana Graya Oscara Wilde'a (1890), Niewidzialny człowiek H.G. Wellsa (1897), a w czasach bardziej współczesnych Podziemny krąg Chucka Palahniuka (1996).17 Postać naukowca, którego eksperyment wymyka się spod kontroli, stała się stałym motywem w literaturze grozy i science fiction.
+
+
+Adaptacje (film, teatr, inne media)
+
+
+Historia Jekylla i Hyde'a od samego początku cieszyła się ogromną popularnością i była wielokrotnie adaptowana na potrzeby innych mediów, co świadczy o jej uniwersalnym i trwałym uroku.16
+* Teatr: Pierwsze adaptacje teatralne pojawiły się już wkrótce po publikacji książki, przyczyniając się do jej popularyzacji. W XX i XXI wieku historia stała się podstawą wielu sztuk i musicali, w tym słynnego broadwayowskiego musicalu Jekyll & Hyde z lat 90.
+* Film: Istnieje ponad 120 adaptacji filmowych. Do najważniejszych należą:
+   * Wersja niema z 1920 roku z Johnem Barrymore'em w roli głównej, ceniona za jego imponującą transformację bez użycia efektów specjalnych.
+   * Klasyczna wersja z 1931 roku w reżyserii Roubena Mamouliana, z Fredriciem Marchem, który za swoją rolę otrzymał Oscara. Film ten jest znany z innowacyjnego użycia kamery i efektów specjalnych.21
+   * Wersja z 1941 roku ze Spencerem Tracy, która kładła większy nacisk na psychologiczne aspekty historii.24
+* Telewizja, komiksy, gry: Postacie Jekylla i Hyde'a pojawiały się w licznych serialach telewizyjnych (np. Penny Dreadful), komiksach (np. Liga Niezwykłych Dżentelmenów Alana Moore'a) i grach wideo, często jako archetypiczne postacie symbolizujące dualizm.16
+
+
+Miejsce w kanonie
+
+
+Niezwykły przypadek doktora Jekylla i pana Hyde’a jest niekwestionowanym klasykiem literatury światowej i jednym z najważniejszych tekstów kanonu literatury angielskiej. Jest to lektura obowiązkowa w szkołach i na uniwersytetach na całym świecie, ceniona zarówno za walory literackie, jak i za głębię psychologiczną i filozoficzną. Dzieło to przekroczyło granice literatury, stając się częścią globalnej kultury popularnej, a fraza "Jekyll i Hyde" weszła do powszechnego użycia jako metafora dwoistej natury.1
+
+
+7.3 Aktualność przesłania
+
+
+
+
+Uniwersalne wartości
+
+
+Mimo że nowela jest głęboko osadzona w realiach epoki wiktoriańskiej, jej przesłanie pozostaje niezwykle aktualne. Walka między naszymi "lepszymi aniołami" a "wewnętrznymi demonami", konflikt między tym, kim jesteśmy, a tym, kim społeczeństwo od nas oczekuje, oraz pokusa, by dać upust swoim mrocznym pragnieniom – to wszystko są uniwersalne ludzkie doświadczenia. Dzieło Stevensona wciąż zmusza nas do refleksji nad naturą dobra i zła, tożsamością i moralnością.
+
+
+Znaczenie dla współczesnego czytelnika
+
+
+Dla współczesnego czytelnika nowela może być odczytywana jako metafora wielu współczesnych problemów. W dobie mediów społecznościowych, gdzie ludzie starannie kreują swoje publiczne wizerunki, temat fasady i ukrytego "ja" jest bardziej aktualny niż kiedykolwiek. Historia Jekylla może być również przestrogą przed niekontrolowanym rozwojem technologii (np. sztucznej inteligencji, inżynierii genetycznej) i przypomnieniem o konieczności zachowania etycznej odpowiedzialności. Temat uzależnienia, zarówno od substancji, jak i od zachowań, również silnie rezonuje we współczesnym świecie.
+
+
+Lekcje moralne
+
+
+Główna lekcja moralna płynąca z noweli jest taka, że człowiek jest istotą złożoną i nie można w pełni zrozumieć ani siebie, ani innych, zaprzeczając tej złożoności. Próba wyparcia się lub zniszczenia swojej mrocznej strony jest nie tylko skazana na niepowodzenie, ale jest wręcz niebezpieczna. Prawdziwa dojrzałość i moralność polegają na akceptacji swojej dwoistej natury i na ciągłym, świadomym wysiłku, by nasze lepsze "ja" panowało nad tym gorszym. Tragedia Jekylla uczy nas, że droga do piekła jest często wybrukowana dobrymi intencjami, zwłaszcza gdy towarzyszy im pycha i brak pokory wobec sił natury – zarówno tej zewnętrznej, jak i wewnętrznej.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+
+
+8.1 Katalog postaci z opisami wizualnymi
+
+
+Poniższa tabela syntetyzuje kluczowe informacje wizualne dotyczące głównych i drugoplanowych postaci, stanowiąc szybkie odniesienie dla działów charakteryzacji, kostiumów i castingu.
+Postać
+	Wiek (szacowany)
+	Wzrost i budowa
+	Twarz i włosy
+	Charakterystyczny ubiór
+	Rekwizyty osobiste
+	Dr. Henry Jekyll
+	50 lat
+	ok. 185-190 cm, "wysoki, dobrze zbudowany"
+	Gładko ogolona, regularne rysy, "coś chytrego" w wyrazie; ciemne włosy, być może siwiejące na skroniach.
+	Nienaganny, ciemny surdut, biała koszula ze sztywnym kołnierzykiem, kamizelka. W domu elegancka marynarka.
+	Zegarek kieszonkowy, przybory do pisania, aparatura chemiczna.
+	Mr. Edward Hyde
+	30-35 lat (pozornie)
+	ok. 160-165 cm, "karłowaty", szczupły, zgarbiony.
+	Blada, budząca odrazę, "wrażenie deformacji"; niechlujne, ciemne włosy; dłonie żylaste, owłosione.
+	Ubrania Jekylla, na niego o wiele za duże, co tworzy groteskowy efekt.
+	Ciężka laska (użyta jako broń), klucz do laboratorium.
+	Mr. G. J. Utterson
+	ok. 50 lat
+	Wysoki, chudy, być może lekko zgarbiony.
+	Surowa, pozbawiona uśmiechu; gładko ogolony; schludne, ciemne, przerzedzone włosy.
+	Konserwatywny, ciemny garnitur prawnika; cylinder na zewnątrz.
+	Teczka z dokumentami, laska, klucze do sejfu.
+	Dr. Hastie Lanyon
+	50-60 lat
+	Początkowo krzepki i energiczny, później wychudzony i słaby.
+	Początkowo czerwonolica, później śmiertelnie blada; siwe włosy, które wydają się rzadsze po szoku.
+	Strój szanowanego lekarza, podobny do Jekylla, ale bardziej konserwatywny.
+	Zegarek kieszonkowy, przybory lekarskie (w gabinecie).
+	Sir Danvers Carew
+	ok. 70 lat
+	Postawny, poruszający się z godnością.
+	"Piękny dżentelmen" o łagodnym wyrazie twarzy; białe włosy.
+	Elegancki, ciemny płaszcz, cylinder, białe rękawiczki.
+	Złoty zegarek, portfel, laska.
+	Poole
+	50-60 lat
+	BRAK DANYCH. Prawdopodobnie średniej budowy.
+	Twarz wyrażająca lojalność, a w finale skrajny strach.
+	Formalny strój kamerdynera: czarny frak, biała koszula, muszka.
+	Klucze do domu, świeca, siekiera (w scenie finałowej).
+	Mr. Richard Enfield
+	30-40 lat
+	BRAK DANYCH. Prawdopodobnie szczupły i zwinny.
+	"Znany człowiek z towarzystwa", prawdopodobnie o przyjemnej aparycji, być może z wąsem.
+	Modny, ale elegancki strój dżentelmena.
+	Laska, być może cygaro.
+	Mr. Guest
+	Wiek średni
+	BRAK DANYCH.
+	Twarz inteligentna, skupiona. Mógłby nosić okulary.
+	Stonowany, urzędniczy strój.
+	Pióro, kałamarz, dokumenty, lupa do badania pisma.
+	
+
+8.2 Katalog lokacji
+
+
+Poniższa tabela zawiera opisy kluczowych lokacji, koncentrując się na elementach wizualnych istotnych dla scenografii, oświetlenia i budowania atmosfery.
+Lokacja
+	Opis architektoniczny
+	Kolorystyka i oświetlenie
+	Atmosfera i nastrój
+	Elementy charakterystyczne
+	Dom Jekylla (front)
+	Elegancka, wiktoriańska kamienica przy szanowanym placu. Symetryczna fasada, duże okna, solidne drzwi.
+	Ciepłe barwy: czerwień cegły, ciemne drewno. Wnętrze oświetlone ciepłym światłem lamp gazowych i kominka.
+	Spokój, porządek, bogactwo, szacunek.
+	Duży hol wejściowy z kominkiem, ciężkie, mahoniowe meble, grube dywany, obrazy w złotych ramach.
+	Laboratorium (tył)
+	Zaniedbany, dwupiętrowy budynek bez okien na parterze, wychodzący na brudną uliczkę. Ściany odbarwione, drzwi bez dzwonka.
+	Monochromatyczna, zimna paleta: szarości, brązy, czerń. Oświetlenie zimne, wpadające przez brudną kopułę lub od palników.
+	Tajemnica, zaniedbanie, rozkład, niepokój.
+	Zakurzona aparatura chemiczna, skrzynie, słoma, oszklone szafy z chemikaliami, stół operacyjny.
+	Ulice Londynu
+	Labirynt brukowanych ulic, od szerokich alei po wąskie zaułki. Wysokie kamienice, witryny sklepowe, latarnie gazowe.
+	Mroczna paleta: szarości, czernie, brązy. Dominująca żółć świateł gazowych przebijających się przez gęstą, "czekoladową" mgłę.
+	Tajemnica, zagrożenie, anonimowość, moralna dwuznaczność.
+	Wszechobecna mgła, mokry bruk odbijający światła, dorożki typu hansom, samotne postaci w mroku.
+	Mieszkanie Hyde'a (Soho)
+	Wnętrze w zaniedbanej kamienicy w dzielnicy o złej reputacji.
+	Kontrast między bogatymi kolorami luksusowych mebli (czerwienie, złoto) a ogólnym mrokiem i brudem otoczenia.
+	Chaos, pośpiech, ukryty luksus w plugastwie.
+	Eleganckie meble, cenne obrazy, srebra – wszystko w nieładzie. Popiół w kominku po spalonych papierach.
+	Gabinet Uttersona
+	Pomieszczenie wyłożone ciemną boazerią i regałami z książkami prawniczymi. Duże biurko, kominek, ciężkie zasłony.
+	Ciemne brązy, zieleń, czerwień. Oświetlenie skupione na biurku (lampa naftowa), reszta w półmroku.
+	Powaga, porządek, intelektualna praca, samotność.
+	Sejf na dokumenty, fotel przy kominku, stosy papierów i akt.
+	Gabinet Lanyona
+	Tradycyjny, konserwatywny gabinet lekarski. Porządek, dyplomy na ścianach, szafki z medykamentami.
+	Stonowane, profesjonalne kolory. Jasne, równomierne oświetlenie.
+	Racjonalizm, naukowy porządek, spokój (przed szokiem).
+	Biurko, kozetka dla pacjentów, biblioteczka z książkami medycznymi.
+	
+
+8.3 Kluczowe sceny do wizualizacji
+
+
+Poniżej znajduje się lista 10 kluczowych scen, których szczegółowa wizualizacja jest niezbędna dla wiernej adaptacji.
+1. Opowieść Enfielda o stratowaniu dziewczynki:
+   * Miejsce i czas: Noc (ok. 3 nad ranem), zimowa, ciemna uliczka.
+   * Postacie: Mały, energiczny Hyde; mała dziewczynka (8-10 lat); Enfield i inni przechodnie tworzący gniewny tłum.
+   * Dynamika: Gwałtowne, beznamiętne staranowanie. Spokój Hyde'a kontra wściekłość tłumu.
+   * Przedmioty: Klucz Hyde'a, czek wystawiony przez Jekylla.
+2. Pierwsze spotkanie Uttersona z Hyde'em:
+   * Miejsce i czas: Noc, pusta uliczka przy laboratorium, gęsta mgła.
+   * Postacie: Utterson czeka w cieniu; Hyde podchodzi szybko, nerwowo.
+   * Dynamika: Napięta, krótka konfrontacja. Sycząca agresja Hyde'a. Utterson pozostaje wstrząśnięty.
+   * Oświetlenie: Słabe światło jednej latarni gazowej, tworzące ostre cienie na twarzy Hyde'a.
+3. Morderstwo Sir Danversa Carew:
+   * Miejsce i czas: Noc, uliczka nad rzeką, jasne światło księżyca w pełni.
+   * Postacie: Elegancki, starszy Carew; mały, kipiący furią Hyde; przerażona służąca w oknie.
+   * Dynamika: Nagły, bezsensowny wybuch "małpiej furii". Brutalne ciosy laską, dźwięk łamanych kości.
+   * Przedmioty: Ciężka laska, która pęka na dwoje.
+4. Utterson w mieszkaniu Hyde'a w Soho:
+   * Miejsce i czas: Poranek po morderstwie, gęsta, "czekoladowa" mgła na zewnątrz.
+   * Postacie: Utterson i inspektor policji. Złowieszcza gospodyni.
+   * Atmosfera: Kontrast między luksusowym wyposażeniem a chaosem i zniszczeniem.
+   * Przedmioty: Druga połowa laski, popiół w kominku.
+5. Ostatnia wizyta Lanyona u Jekylla (retrospekcja):
+   * BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Scena nie jest opisana wprost, ale jej skutki są widoczne na Lanyonie. Można ją zwizualizować jako napiętą, pełną niedomówień rozmowę w gabinecie Jekylla, zakończoną gwałtownym zerwaniem przyjaźni.
+6. Incydent przy oknie:
+   * Miejsce i czas: Niedzielne popołudnie, dziedziniec za laboratorium.
+   * Postacie: Utterson i Enfield na dole; Jekyll w oknie na piętrze.
+   * Dynamika: Spokojna rozmowa przerwana nagłą, niewytłumaczalną transformacją wyrazu twarzy Jekylla w maskę "skrajnego przerażenia i rozpaczy". Gwałtowne zatrzaśnięcie okna.
+   * Emocje: Szok i horror na twarzach Uttersona i Enfielda.
+7. Wyważanie drzwi do gabinetu:
+   * Miejsce i czas: Wietrzna noc, korytarz przed gabinetem Jekylla.
+   * Postacie: Zdeterminowany Utterson, przerażony, ale lojalny Poole, stłoczona w tle służba.
+   * Dynamika: Gwałtowne uderzenia siekierą, trzask drewna, zwierzęcy wrzask z wewnątrz, w końcu huk upadających drzwi.
+   * Przedmioty: Siekiera, czerwone drzwi.
+8. Odkrycie ciała Hyde'a:
+   * Miejsce i czas: Chwila po wyważeniu drzwi, gabinet Jekylla.
+   * Atmosfera: Zaskakujący spokój wnętrza (ogień w kominku, czajnik) kontrastujący z leżącym na podłodze, wijącym się w konwulsjach ciałem.
+   * Postacie: Utterson i Poole wchodzą ostrożnie, wstrząśnięci.
+   * Przedmioty: Ciało Hyde'a w za dużych ubraniach, zmiażdżona fiolka w jego dłoni, zapach cyjanku.
+9. Transformacja w obecności Lanyona (z jego listu):
+   * Miejsce i czas: Północ, gabinet Lanyona.
+   * Postacie: Zniecierpliwiony, racjonalny Lanyon; mały, nerwowy Hyde.
+   * Dynamika: Hyde miesza eliksir (który zmienia kolory), wypija go. Następuje gwałtowna, bolesna transformacja: konwulsje, zmiana postury, rysów twarzy, aż Hyde staje się Jekyllem.
+   * Emocje: Niedowierzanie i absolutny horror na twarzy Lanyona.
+10. Pierwsza transformacja Jekylla (z jego spowiedzi):
+   * Miejsce i czas: Noc, gabinet Jekylla.
+   * Postać: Sam Jekyll.
+   * Dynamika: Opisana jako niezwykle bolesna: "najstraszniejsze bóle", "mielenie kości", "śmiertelna trwoga". Po ustąpieniu bólu, Jekyll czuje się lżejszy, młodszy i bardziej zmysłowy. Podchodzi do lustra i po raz pierwszy widzi Hyde'a.
+   * Emocje: Mieszanka bólu, strachu, a następnie podniecenia i poczucia wolności.
+
+
+8.4 Przedmioty i symbole wizualne
+
+
+* Eliksir i chemikalia:
+   * Wygląd: Eliksir w momencie przygotowania zmienia kolory – od czerwonawego, przez fioletowy, do zielonego. Przechowywany jest w szklanych fiolkach. Kluczowe składniki to "sole" (biały proszek) i inne płyny w butlach.
+   * Symbolika: Symbolizuje niebezpieczną, transgresyjną wiedzę i pokusę przekraczania naturalnych granic. Jest narzędziem do uwolnienia Id.
+* Laska Jekylla:
+   * Wygląd: Elegancka, wykonana z cennego, ciężkiego i twardego drewna. Prezent od Uttersona.
+   * Symbolika: Przedmiot należący do cywilizowanego świata Jekylla, który w rękach Hyde'a staje się narzędziem prymitywnej, brutalnej przemocy. Jej złamanie symbolizuje ostateczne zerwanie Jekylla z jego moralnymi zasadami.
+* Testament Jekylla:
+   * Wygląd: Dokument spisany na grubym papierze, pismem odręcznym, z pieczęciami woskowymi.
+   * Symbolika: Formalny, prawny dokument, który od samego początku wiąże racjonalny świat Jekylla z irracjonalnym światem Hyde'a. Jest motorem śledztwa Uttersona.
+* Klucz do laboratorium:
+   * Wygląd: Stary, być może zardzewiały, żelazny klucz.
+   * Symbolika: Klucz do podświadomości, do ukrytego "ja". Fakt, że posiada go Hyde, pokazuje, że ma on dostęp do najgłębszych zakamarków duszy Jekylla.
+* Lustro w gabinecie:
+   * Wygląd: Duże, stojące lustro (cheval-glass) w ciężkiej, drewnianej ramie.
+   * Symbolika: Narzędzie do konfrontacji z własnym "ja". To w nim Jekyll po raz pierwszy widzi Hyde'a. Lustro odbija nie tylko fizyczny wygląd, ale i prawdę o tożsamości. W finałowej scenie Utterson i Poole widzą w nim swoje własne, przerażone twarze, co sugeruje, że potencjał Hyde'a tkwi w każdym z nich.
+
+
+ŹRÓDŁA
+
+
+1
+Cytowane prace
+1. Strange Case of Dr Jekyll and Mr Hyde - Wikipedia, otwierano: sierpnia 21, 2025, https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde
+2. "The Strange Case of Dr Jekyll and Mr Hyde" in 8 literary elements - literature...no trouble, otwierano: sierpnia 21, 2025, https://www.literature-no-trouble.com/the-strange-case-of-dr-jekyll-and-mr-hyde/
+3. Robert Louis Stevenson and Dr. Jekyll and Mr. Hyde Background - SparkNotes, otwierano: sierpnia 21, 2025, https://www.sparknotes.com/lit/jekyll/context/
+4. The Strange Case of Robert Louis Stevenson | Hazel Stainer - WordPress.com, otwierano: sierpnia 21, 2025, https://hazelstainer.wordpress.com/2022/02/11/the-strange-case-of-robert-louis-stevenson/
+5. STRANGE CASE OF DR JEKYLL AND MR HYDE | Robert Louis Stevenson | First edition, otwierano: sierpnia 21, 2025, https://www.jwkbooks.com/pages/books/18666/robert-louis-stevenson/strange-case-of-dr-jekyll-and-mr-hyde
+6. Strange Case of Dr. Jekyll and Mr. Hyde First Edition - Robert Louis Stevenson, otwierano: sierpnia 21, 2025, https://www.baumanrarebooks.com/rare-books/robert-louis-stevenson/strange-case-of-dr-jekyll-and-mr-hyde/87198.aspx
+7. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson | Project Gutenberg, otwierano: sierpnia 21, 2025, http://www.gutenberg.org/ebooks/42
+8. The Doppelgänger and Temporal Modernist Terror in The Strange Case of Dr. Jekyll and Mr. Hyde - Supernatural Studies, otwierano: sierpnia 21, 2025, https://www.supernaturalstudies.com/previous-journal-issues/vol-5-issue-1/may
+9. Dr Jekyll & Mr Hyde: Context (AQA GCSE English Literature): Revision Note, otwierano: sierpnia 21, 2025, https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde-context/
+10. Strange Case of Dr. Jekyll and Mr. Hyde | Robert Louis Stevenson | First edition, otwierano: sierpnia 21, 2025, https://www.burnsiderarebooks.com/pages/books/140946236/robert-louis-stevenson/strange-case-of-dr-jekyll-and-mr-hyde
+11. The Strange Case of Dr. Jekyll and Mr. Hyde Summary - eNotes.com, otwierano: sierpnia 21, 2025, https://www.enotes.com/topics/dr-jekyll-mr-hyde
+12. Where did Dr Jekyll and Mr Hyde come from? - Australian Academy of the Humanities, otwierano: sierpnia 21, 2025, https://humanities.org.au/power-of-the-humanities/where-did-jekyll-and-hyde-come-from/
+13. Dr Jekyll and Mr Hyde: From Fantasy Horror Book to Multi-Media Sensation, otwierano: sierpnia 21, 2025, https://www.eframserashriar.com/post/dr-jekyll-and-mr-hyde-from-fantasy-horror-book-to-multi-media-sensation
+14. Gothic Edinburgh - Robert-Louis-Stevenson.org, otwierano: sierpnia 21, 2025, https://robert-louis-stevenson.org/gothic-edinburgh/
+15. Monsters and Medicine: The Evolution of a Warning in Gothic Literature / Parolles' Word Problem in All's Well That Ends, otwierano: sierpnia 21, 2025, https://repository.stcloudstate.edu/cgi/viewcontent.cgi?article=1142&context=engl_etds
+16. Extras: THE LEGACY OF JEKYLL & HYDE - Stage and Cinema, otwierano: sierpnia 21, 2025, https://stageandcinema.com/2022/02/23/the-legacy-of-jekyll-hyde/
+17. The Duality of Man: Unmasking Dr. Jekyll and Mr. Hyde - A Book Geek, otwierano: sierpnia 21, 2025, https://www.abookgeek.com/the-duality-of-man-unmasking-dr-jekyll-and-mr-hyde/
+18. Strange Case of Dr. Jekyll and Mr. Hyde Robert Louis Stevenson First Edition, otwierano: sierpnia 21, 2025, https://www.raptisrarebooks.com/product/strange-case-of-dr-jekyll-and-mr-hyde-robert-louis-stevenson-first-edition-rare-wrappers/
+19. Strange Case of Dr. Jekyll and Mr. Hyde Plot Analysis - Shmoop, otwierano: sierpnia 21, 2025, https://www.shmoop.com/study-guides/jekyll-and-hyde/plot-analysis.html
+20. Dr Jekyll & Mr Hyde: Writer's Methods & Techniques (AQA GCSE English Literature): Revision Note - Save My Exams, otwierano: sierpnia 21, 2025, https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde-writers-methods-and-techniques/
+21. Dr. Jekyll and Mr. Hyde: Study Guide - SparkNotes, otwierano: sierpnia 21, 2025, https://www.sparknotes.com/lit/jekyll/
+22. The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson | Project Gutenberg, otwierano: sierpnia 21, 2025, http://www.gutenberg.org/ebooks/43
+23. Navigating Dr Jekyll and Mr Hyde's London - Prince Henry's High ..., otwierano: sierpnia 21, 2025, https://www.princehenrys.worcs.sch.uk/wp-content/uploads/2020/06/Jekyll-and-Hydes-London.pdf
+24. Episode 115: Dr Jekyll & Mr Hyde - London Guided Walks, otwierano: sierpnia 21, 2025, https://londonguidedwalks.co.uk/podcast/episode-115-dr-jekyll-mr-hyde/
+25. Victoria London as an Essential Element of Doctor Jekyll and Mr Hyde - Bartleby.com, otwierano: sierpnia 21, 2025, https://www.bartleby.com/essay/Victoria-London-as-an-Essential-Element-of-P3V8JSYVC
+26. Dr Jekyll and Mr Hyde setting essay | Home of The Brave - Glow Blogs, otwierano: sierpnia 21, 2025, https://blogs.glowscotland.org.uk/ea/HomeoftheBrave/2016/05/03/dr-jekyll-and-mr-hyde-setting-essay/
+27. Dr. Jekyll and Mr. Hyde Chapters 4 & 5 Summary & Analysis | SparkNotes, otwierano: sierpnia 21, 2025, https://www.sparknotes.com/lit/jekyll/section3/
+28. Victorian London Street Night royalty-free images - Shutterstock, otwierano: sierpnia 21, 2025, https://www.shutterstock.com/search/victorian-london-street-night
+29. Victorian london night hi-res stock photography and images - Alamy, otwierano: sierpnia 21, 2025, https://www.alamy.com/stock-photo/victorian-london-night.html
+30. Victorian Era Men's Clothing - Men's Fashion in 1880s London - Whitechapel Jack, otwierano: sierpnia 21, 2025, https://whitechapeljack.com/victorian-era-mens-clothing/
+31. The Writer's Guide to 1880s Men's Fashion | Rebecca Shedd - Author, otwierano: sierpnia 21, 2025, https://rebeccashedd.com/2021/09/03/the-writers-guide-to-1880s-mens-fashion/
+32. A Century of Sartorial Style: A Visual Guide to 19th Century Menswear | Mimi Matthews, otwierano: sierpnia 21, 2025, https://www.mimimatthews.com/2016/10/03/a-century-of-sartorial-style-a-visual-guide-to-19th-century-menswear/
+33. Hansom cab | Victorian Era, Horse-Drawn, London - Britannica, otwierano: sierpnia 21, 2025, https://www.britannica.com/technology/hansom-cab
+34. Hansom cab - Wikipedia, otwierano: sierpnia 21, 2025, https://en.wikipedia.org/wiki/Hansom_cab
+35. Exploring Victorian Era Charm: Unveiling the History of Hansom Cabs - Columbia Insights, otwierano: sierpnia 21, 2025, https://thingscope.cs.columbia.edu/hansom-cab
+36. B/W print; London horse-drawn Hansom cab, 1898 - 1905, otwierano: sierpnia 21, 2025, https://www.ltmuseum.co.uk/collections/collections-online/photographs/item/1998-20707
+37. Free Victorian Science Laboratory Image | Download at StockCake, otwierano: sierpnia 21, 2025, https://stockcake.com/i/victorian-science-laboratory_2074961_1342734
+38. 6+ Hundred Victorian Laboratory Royalty-Free Images, Stock Photos & Pictures, otwierano: sierpnia 21, 2025, https://www.shutterstock.com/search/victorian-laboratory
+39. Victorian laboratory hi-res stock photography and images - Alamy, otwierano: sierpnia 21, 2025, https://www.alamy.com/stock-photo/victorian-laboratory.html
+40. Summary (Jekyll and Hyde) - GCSE English Literature Revision, otwierano: sierpnia 21, 2025, https://revisionworld.com/a2-level-level-revision/english-literature-gcse-level/dr-jekyll-and-mr-hyde-robert-louis-stevenson/summary-jekyll-and-hyde
+41. SAMPLE - Strange Case of Dr. Jekyll and Hyde Stylistic - Scribd, otwierano: sierpnia 21, 2025, https://www.scribd.com/document/526886059/SAMPLE-Strange-Case-of-Dr-Jekyll-and-Hyde-Stylistic
+42. Dr Jekyll and Mr Hyde Characters - GCSE English Literature, otwierano: sierpnia 21, 2025, https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde-characters/
+43. The Strange Case Of Dr. Jekyll And Mr. Hyde | Project Gutenberg, otwierano: sierpnia 21, 2025, https://www.gutenberg.org/files/43/43-h/43-h.htm
+44. Physical Characteristics In Dr Jekyll And Mr Hyde - 339 Words - Bartleby.com, otwierano: sierpnia 21, 2025, https://www.bartleby.com/essay/Physical-Characteristics-In-Dr-Jekyll-And-Mr-67181B6F895E31F5
+45. English Literature- The strange case of Dr Jekyll and Mr Hyde (chapter summaries with key quotes from each chapter) - Quizlet, otwierano: sierpnia 21, 2025, https://quizlet.com/gb/702039129/english-literature-the-strange-case-of-dr-jekyll-and-mr-hyde-chapter-summaries-with-key-quotes-from-each-chapter-flash-cards/
+46. Dr Jekyll and Mr Hyde Main Characters | Mentor Education | Inspiring Individuals, otwierano: sierpnia 21, 2025, https://mentoreducation.co.uk/gcse/subject-guides/gcse-english-tutor/dr-jekyll-and-mr-hyde-main-characters/
+47. Chapter Summaries | PDF | Strange Case Of Dr Jekyll And Mr Hyde - Scribd, otwierano: sierpnia 21, 2025, https://www.scribd.com/document/36245522/Chapter-Summaries-1
+48. Dr Jekyll and Mr Hyde Plot Summary - GCSE English Literature - Save My Exams, otwierano: sierpnia 21, 2025, https://www.savemyexams.com/gcse/english-literature/aqa/17/revision-notes/2-the-19th-century-novel/dr-jekyll-and-mr-hyde/dr-jekyll-and-mr-hyde-plot-summary/
+49. Duality in Dr. Jekyll and Mr. Hyde, The picture of Dorian Gray, and ..., otwierano: sierpnia 21, 2025, https://scholarworks.uni.edu/cgi/viewcontent.cgi?article=1003&context=swa
+50. Carrying On Like a Madman: Insanity and Responsibility in Strange Case of Dr. Jekyll and Mr. Hyde - e-Publications@Marquette, otwierano: sierpnia 21, 2025, https://epublications.marquette.edu/cgi/viewcontent.cgi?article=1327&context=english_fac
+51. Character Profile - Dr Jekyll and Mr Hyde - AQA English Literature GCSE - Physics & Maths Tutor, otwierano: sierpnia 21, 2025, https://pmt.physicsandmathstutor.com/download/English-Literature/GCSE/Notes/AQA/The-Strange-Case-of-Dr-Jekyll-and-Mr-Hyde/Character-Profiles/Mr%20Hyde.pdf
+52. "Closer than an Eye": The Interconnection of Stevenson's Dr. Jekyll and Mr. Hyde - Scholar Commons, otwierano: sierpnia 21, 2025, https://scholarcommons.sc.edu/cgi/viewcontent.cgi?article=1209&context=ssl
+53. Dr. Jekyll, Mr. Hyde, and Robert Louis Stevenson's Fixation with Moralistic Tales, otwierano: sierpnia 21, 2025, https://voyagecomics.com/2022/08/10/dr-jekyll-mr-hyde-and-robert-louis-stevensons-fixation-with-moralistic-tales/
+54. Victorian london street scene hi-res stock photography and images - Alamy, otwierano: sierpnia 21, 2025, https://www.alamy.com/stock-photo/victorian-london-street-scene.html
+55. Vintage London Street Pictures, Images and Stock Photos - iStock, otwierano: sierpnia 21, 2025, https://www.istockphoto.com/photos/vintage-london-street

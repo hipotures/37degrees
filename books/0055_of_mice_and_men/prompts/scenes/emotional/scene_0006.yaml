@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Storm clouds gathering over peaceful valley"
+  setting:
+    time: "1930s, late afternoon"
+    location: "Salinas River valley view from ranch area, distant golden hills now shadowed"
+    weather: "Weather changing as dark clouds build on horizon, wind picking up"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Previously bright golden hills now cast in shadow, heavy gray clouds massing on western horizon, wind beginning to shake tree branches"
+    details: "Dust swirling in ranch yard, loose papers and debris starting to blow, animals becoming restless and seeking shelter, previously calm river now showing small whitecaps"
+    background: "Dark storm front approaching across California landscape, distant thunder rumbling"
+    atmosphere: "Sense of change and impending disturbance, natural peace being disrupted, tension building in environment that mirrors human emotional shifts to come"
+  composition:
+    cameraAngle: "Wide landscape shot showing approaching weather system"
+    focus: "The contrast between receding peaceful conditions and approaching storm"
+    depth: "Foreground shows immediate ranch area being affected, middle ground captures advancing weather, background reveals scope of approaching change"

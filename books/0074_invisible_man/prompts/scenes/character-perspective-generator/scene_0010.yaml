@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Brotherhood Meeting Through Ideological Leader's Eyes"
+  setting:
+    time: "1940s, evening"
+    location: "Harlem meeting hall for Brotherhood gathering, formal political assembly space"
+    weather: "Indoor evening meeting environment"
+  characters:
+    - appearance: "White man in his 40s-50s, medium build with red hair, one real eye and one glass eye that can fall out, intense authoritative presence"
+      clothing: "Professional political organizer's attire - functional business suit, practical but well-maintained, projecting ideological authority"
+      position: "Standing at podium addressing crowd, commanding authority"
+      action: "Delivering ideological speech to Brotherhood members, directing political strategy"
+  scene:
+    mainElements: "Meeting hall with rows of chairs, podium with microphone, Brotherhood banners and political materials, assembled crowd"
+    details: "Through Brother Jack's ideological perspective, gathering appears as historic moment of scientific socialism advancing - crowd represents disciplined revolutionary force ready to implement correct historical analysis, individual faces blur into collective mass movement, narrator becomes useful tool for reaching Black community, personal stories matter only as they serve broader political strategy, room fills with energy of inevitable historical progress guided by superior theoretical understanding"
+    background: "Brotherhood symbols and materials representing international communist movement, political literature and organizational charts"
+    atmosphere: "Ideological certainty masking manipulation of community needs for abstract political goals"
+  composition:
+    cameraAngle: "Elevated view from podium showing commanding perspective over assembled followers"
+    focus: "Crowd as unified political force responding to ideological direction"
+    depth: "Foreground shows podium authority position, middle ground captures responsive audience, background reveals organizational scope, no text or letters visible"

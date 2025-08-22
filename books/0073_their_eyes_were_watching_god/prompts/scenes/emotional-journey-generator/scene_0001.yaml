@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn of Dreams Under the Pear Tree"
+  setting:
+    time: "Early 1900s, golden afternoon"
+    location: "Rural Florida backyard with large blooming pear tree"
+    weather: "Warm spring day with gentle breeze"
+  characters:
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Lying beneath the pear tree, gazing upward through blossoms"
+      action: "Watching bees pollinate white pear blossoms, face filled with wonder and longing"
+  scene:
+    mainElements: "Large pear tree in full bloom with white blossoms, symbol of natural love and sexual awakening, represents Janie's ideal of love. Young woman beneath tree experiencing spiritual awakening through nature's beauty"
+    details: "White petals drift down like snow, bees move purposefully between flowers, dappled sunlight filters through leaves, grass soft beneath figure, peaceful rural setting with distant glimpse of small house, no text or letters visible"
+    background: "Rolling Florida countryside with scattered oak trees, small farmhouse visible in distance, endless blue sky"
+    atmosphere: "Peaceful contentment mixed with yearning, sense of possibility and dreams beginning, harmony between human and nature, innocent hope for future love"
+  composition:
+    cameraAngle: "Low angle looking up through tree branches at figure below"
+    focus: "Young woman's peaceful face among falling petals and bee-filled blossoms"
+    depth: "Foreground: grass and figure, middle: pear tree trunk and blossoms, background: distant countryside and sky"

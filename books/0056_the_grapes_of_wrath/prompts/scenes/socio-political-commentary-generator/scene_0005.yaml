@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monument to Power - The Corporate Cathedral"
+  setting:
+    time: "1930s, late afternoon"
+    location: "Downtown business district of major California agricultural city"
+    weather: "Golden hour light illuminating imposing architecture"
+  characters:
+    - appearance: "Tiny human figures dwarfed by massive architecture, appearing insignificant against monumental scale of corporate power."
+      clothing: "Various work clothes and business attire, but all rendered small and indistinct by overwhelming scale"
+      position: "Walking along base of enormous building, scattered like ants around foundation"
+      action: "Moving hurriedly with heads down, appearing subordinate and diminished by architectural dominance above them"
+  scene:
+    mainElements: "Monumental art deco skyscraper rising like cathedral spire, marble facades with corporate logos carved in stone, imposing columns and bronze doors suggesting temple to commerce"
+    details: "Massive corporate headquarters building designed to inspire awe and submission. Gothic revival architecture mixed with modern corporate elements. Bronze plaques listing company directors like religious saints. Steps wider than human scale requiring effort to climb. Building extends upward beyond frame suggesting infinite power"
+    background: "City skyline dominated by corporate towers, mountains distant and diminished by human construction"
+    atmosphere: "Overwhelming sense of institutional power designed to make individuals feel insignificant, echoing sounds in vast spaces, shadows cast by towering structures"
+  composition:
+    cameraAngle: "Extreme low angle looking up at towering structure"
+    focus: "Dramatic scale contrast between individual humans and overwhelming architectural power"
+    depth: "Tiny figures in foreground emphasize massive structure rising through middle ground to dominate background sky"

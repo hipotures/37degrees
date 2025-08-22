@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Constance trapped behind convent bars unable to escape approaching doom"
+  setting:
+    time: "August 1628, late afternoon with golden light streaming through bars"
+    location: "Carmelite Convent, Béthune where sanctuary becomes prison"
+    weather: "Beautiful afternoon light creating cruel irony of peaceful setting"
+  characters:
+    - appearance: "22-25 years old young woman with natural innocent beauty, fair long curly hair, large blue dreamy eyes, pink lips, alabaster hands, graceful modest bearing"
+      clothing: "Modest but tasteful attire befitting bourgeois wife and Queen's confidante, practical garments often including characteristic period hood partially concealing face"
+      position: "Framed by convent window bars, looking out desperately for rescue that will come too late"
+      action: "Searching horizon for sign of D'Artagnan's arrival while sensing approaching danger, gripping window bars with growing desperation"
+  scene:
+    mainElements: "Innocent victim framed by window bars that transform sanctuary into prison, afternoon light creating beautiful but ironic atmosphere, sense of entrapment despite supposed safety"
+    details: "Window bars creating natural frame containing subject, late afternoon light streaming through creating golden highlights, view beyond showing peaceful countryside, religious symbols visible in cell, desperate grip on bars showing fear"
+    background: "Peaceful convent architecture and gardens beyond window, distant road where rescue might appear, religious setting emphasizing violation of sanctuary"
+    atmosphere: "Growing desperation and entrapment, beautiful light creating cruel irony, sanctuary transformed into prison cell, approaching doom despite peaceful setting"
+  composition:
+    cameraAngle: "Medium shot with window bars creating natural frame containing trapped subject, emphasizing imprisonment within supposed sanctuary"
+    focus: "Sharp focus on framed figure with bars prominent as containment element, background showing false promise of escape"
+    depth: "Foreground: window bars creating prison frame, middle ground: trapped innocent victim, background: peaceful landscape offering false hope, no text or letters visible"

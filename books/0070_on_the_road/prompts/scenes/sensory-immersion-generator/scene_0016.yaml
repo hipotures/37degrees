@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Golden Honey Streams"
+  setting:
+    time: "1947 summer afternoon"
+    location: "roadside fruit stand in California with wooden tables displaying local produce under canvas awning"
+    weather: "hot sunny afternoon with clear skies"
+  characters:
+    - appearance: "27-30 year old woman, petite slender build, dark straight hair, green eyes, sun-weathered face showing strength with hint of fatigue"
+      clothing: "robocze spodnie, proste bluzki"
+      position: "behind fruit stand table"
+      action: "drizzling golden honey from wooden dipper onto fresh peach slices while honey creates long streaming ribbons"
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "standing at fruit stand watching honey demonstration"
+      action: "watching honey streams with obvious anticipation and unconscious swallowing motion"
+  scene:
+    mainElements: "thick golden honey streaming in perfect ribbons from wooden dipper, honey pooling on ripe peach flesh creating amber coating, sunlight making honey glow like liquid gold, honey so thick it maintains continuous stream without breaking"
+    details: "Honey flowing in unbroken golden stream that catches and reflects sunlight, peach juice mixing with honey creating sweet syrup, honey dripping from fruit edges in thick drops, wooden dipper showing honey residue, flies attracted to sweet display hovering nearby, fruit vendor's hands sticky with honey residue, honey pooling in natural depression of peach flesh like amber gemstone"
+    background: "wooden tables laden with California fruits - peaches, apricots, oranges, grapes - arranged in appealing displays, canvas awning providing shade, mountain foothills visible beyond orchard"
+    atmosphere: "intense summer heat making honey flow more easily, golden afternoon light enhancing honey's amber color, fruit stand attracting steady stream of travelers, sweet fruit aromas mixing in hot air"
+  composition:
+    cameraAngle: "close-up focusing on honey stream and fruit"
+    focus: "honey's golden flow as visual representation of intense sweetness"
+    depth: "honey stream and fruit in extreme foreground, vendor's hands in middle ground, fruit stand and mountains in background"

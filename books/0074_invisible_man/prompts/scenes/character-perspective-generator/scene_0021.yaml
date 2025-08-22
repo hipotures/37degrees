@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harlem Riot Through Crowd's Collective Panic"
+  setting:
+    time: "1940s, night"
+    location: "Harlem streets during riot, multiple locations showing widespread civil unrest"
+    weather: "Night environment with smoke, flames, and emergency lighting"
+  characters:
+    - appearance: "Multiple Harlem residents of various ages, men and women, participating in riot response"
+      clothing: "Mixed urban clothing of 1940s, some damaged or disheveled from conflict"
+      position: "Scattered throughout riot scene in various states of action and reaction"
+      action: "Running, looting, fighting, fleeing, helping others, responding to police presence"
+  scene:
+    mainElements: "Broken store windows, burning buildings, police vehicles, scattered merchandise, overturned cars, emergency lighting"
+    details: "Through crowd's collective perspective, riot appears as explosion of accumulated frustration and community solidarity - broken windows represent breaking through economic barriers, looted goods become community redistribution of resources, burning buildings symbolize destroying structures of oppression, police presence triggers protective group response, individual actions merge into collective resistance movement, chaos creates temporary liberation from normal social controls"
+    background: "Smoke-filled Harlem streets, emergency vehicles, buildings illuminated by flames and searchlights"
+    atmosphere: "Spontaneous uprising against systematic oppression, community anger finding collective expression in property destruction and resistance"
+  composition:
+    cameraAngle: "Multiple crowd-level perspectives showing collective action and shared experience"
+    focus: "Community uprising as expression of shared frustration and resistance"
+    depth: "Foreground shows immediate crowd actions, middle ground captures riot scope, background reveals broader community response, no text or letters visible"

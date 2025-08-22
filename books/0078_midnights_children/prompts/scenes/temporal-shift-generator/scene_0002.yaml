@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Buckingham Villa Living Room - Colonial Inheritance Across Generations"
+  setting:
+    time: "1947 to 1978, evening golden hour"
+    location: "Buckingham Villa living room in Methwold Estate, Bombay during independence to post-emergency period"
+    weather: "Warm tropical evening with humidity"
+  characters:
+    - appearance: "Round-faced man with prominent temples, aged 30-31 years. Enormous cucumber-like nose constantly dripping. Blue Kashmir eyes. Stains covering face resembling map patterns. Bald patch on crown of head. Missing upper portion of middle finger. Deaf in left ear. Body cracking and deteriorating under weight of history"
+      clothing: "Simple work clothes - loose cotton shirt and trousers, worn and practical for factory work"
+      position: "Seated at wooden table or standing with hunched shoulders"
+      action: "Writing in notebook with intense concentration or gesturing while telling stories"
+  scene:
+    mainElements: "Same colonial living room showing thirty-one year transformation. 1947 scene shows pristine British furniture with Methwold's belongings. 1978 overlay reveals same room with accumulated Indian family life - worn upholstery, family photographs, children's toys scattered. Methwold's original gin glasses now hold Indian tea"
+    details: "Furniture aging patterns reveal use history. Leather armchair shows depression from years of occupancy. Persian rug displays fading and wear paths. Wall paint transitions from fresh colonial cream to peeling yellowed surfaces. Light fixtures change from British-style to mixed Indo-colonial hybrid. Window curtains evolve from crisp European fabric to Indian cotton replacements"
+    background: "Bombay street visible through windows showing transformation from colonial quietude to bustling independence-era traffic and development"
+    atmosphere: "Cultural inheritance anxiety mixed with domestic accumulation of independent Indian family life. Colonial ghosts lingering in architectural details while new national identity emerges through daily objects, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing room interior with temporal overlay effects"
+    focus: "Central furniture arrangement showing use patterns across decades"
+    depth: "Foreground displays period-specific objects, middle ground shows furniture transformation, background reveals changing Bombay cityscape"

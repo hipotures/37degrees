@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening twilight
+    location: Makeshift homeless encampment on outskirts of California agricultural town during Great Depression
+    weather: Dim twilight creating shadows and surveillance atmosphere
+  characters:
+  - appearance: Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate
+      food, eyes showing mixture of hope and desperation.
+    clothing: Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel
+    position: Huddled in family groups, glancing nervously at observation points
+    action: Speaking in whispers, covering activities from view, constantly checking over shoulders for watchers
+  scene:
+    mainElements: Multiple elevated observation posts with silhouetted figures watching camp, searchlights sweeping across
+      shantytown, prominent warning signs posted throughout area
+    details: Surveillance infrastructure disguised as safety measures. Guard towers positioned to observe all camp activities.
+      Bright spotlights mounted on poles create harsh lighting and deep shadows. Official signs warn against gathering or
+      organizing. Uniformed figures visible on patrol routes. Binoculars gleam in watchtowers
+    background: Ramshackle shelters built from cardboard, tar paper, scrap metal and salvaged wood, muddy pathways between
+      structures, communal water source
+    atmosphere: Constant feeling of being watched and monitored, sounds of boots on patrol, mechanical hum of surveillance
+      equipment, whispered conversations
+  composition:
+    cameraAngle: High angle showing surveillance perspective
+    focus: Network of observation points creating web of control over migrant population
+    depth: Watchtowers in background loom over huddled families in foreground, showing power dynamic of surveillance state
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

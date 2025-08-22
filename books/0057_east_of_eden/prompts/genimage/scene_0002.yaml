@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1901 overlaying to 1918, spanning 17 years from birth to death, afternoon sunlight
+    location: Second floor room in Trask house, Salinas California, same northeast corner room across nearly two decades
+    weather: Gentle California afternoon with soft light filtering through lace curtains
+  characters: No characters present in this scene
+  scene:
+    mainElements: Room showing double exposure - infant nursery with wooden crib and rocking chair overlaid with masculine
+      study containing desk and bookshelves
+    details: Wooden crib transformed into writing desk, baby blankets faded to dust covers over books, rocking chair now holding
+      adult clothes instead of nursing mother, walls showing nail holes where child pictures hung replaced by serious portraits,
+      floorboards worn into different patterns from infant crawling to pacing teenager
+    background: Window view unchanged showing Salinas Valley mountains, same afternoon light angle but curtains evolved from
+      cheerful nursery prints to somber masculine drapes
+    atmosphere: Melancholy overlay of innocence lost and childhood ended too soon, time compressed showing how quickly joy
+      becomes sorrow, room holding ghosts of laughter now silent with grief, no text or letters visible
+  composition:
+    cameraAngle: Interior room view from doorway showing full transformation from nursery to study
+    focus: Central furniture transformation from crib to desk showing primary function change of space
+    depth: Foreground shows threshold between childhood and adulthood, middle ground reveals furniture metamorphosis, background
+      window maintains consistency while everything internal changes
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

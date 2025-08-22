@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Propaganda Feeding the Masses"
+  setting:
+    time: "Late 1930s, evening"
+    location: "Chicago movie theater in South Side African American neighborhood"
+    weather: "Cold winter evening"
+  characters:
+    - appearance: "20-year-old African American man with average height and lean build, dark skin, short black hair cut close to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw"
+      clothing: "worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays and browns, old scuffed shoes"
+      position: "seated in theater audience"
+      action: "watching films that reinforce racial stereotypes and white superiority, absorbing cultural messages about his place in society"
+    - appearance: "Other African American audience members of various ages, faces illuminated by screen light showing absorption in media messages"
+      clothing: "simple working clothes, worn but clean garments, limited variety showing economic constraints"
+      position: "filling theater seats, all facing screen"
+      action: "watching Hollywood films that portray white wealth and African stereotypes, unconsciously absorbing ideology through entertainment"
+  scene:
+    mainElements: "Movie theater showing films that reinforce racial hierarchy and cultural stereotypes, demonstrating how mass media serves as tool of ideological control and indoctrination"
+    details: "Large screen showing newsreel of wealthy white people at leisure followed by adventure film portraying Africa as primitive and savage, audience absorbed in images that reinforce their supposed inferiority, theater interior showing modest decoration, single film projector in booth, ushers maintaining order"
+    background: "Movie posters advertising films that glorify white society and exoticize Africa, lobby showing limited concession stand, neighborhood visible through theater entrance showing contrast with glamorous world on screen"
+    atmosphere: "Systematic indoctrination through popular culture, entertainment serving as vehicle for maintaining racial attitudes and economic hierarchy, audience unconsciously learning to accept their social position through cultural messages"
+  composition:
+    cameraAngle: "Medium shot from side of theater showing audience faces illuminated by screen"
+    focus: "The absorption of ideological messages through entertainment and mass media"
+    depth: "Foreground shows detailed audience reactions, middle ground captures the screening of propaganda, background reveals the institutional setting of cultural control"

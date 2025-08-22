@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Multiple characters in visible stress with chaotic environment"
+  setting:
+    time: "1930s, evening with unstable lighting"
+    location: "Ranch bunkhouse during moment of collective breakdown"
+    weather: "Indoor air thick and oppressive"
+  characters:
+    - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+      clothing: "Blue denim work clothes, worn leather boots"
+      position: "Huddled on bunk edge with head in good hand"
+      action: "Shoulders shaking with suppressed emotion, stump arm pressed against chest protectively, entire body expressing defeat"
+    - appearance: "Black man middle-aged, lean face lined with deep black wrinkles, thin pain-tightened lips lighter than his face, deep-set eyes that glitter with intensity, crooked spine from horse kick"
+      clothing: "Work clothes, boots, spectacles with gold rims hanging on nail"
+      position: "Visible through partially open door, withdrawing into shadows"
+      action: "Back turned rigidly, shoulders set in rejection, hands clenched behind back in frustrated anger"
+    - appearance: "Young woman late teens to early 20s, full red-painted lips, heavily made-up wide-set eyes, red fingernails, hair in small sausage curls, attractive but artificial appearance"
+      clothing: "Cotton house dress and red mules with small bouquets of red ostrich feathers, inappropriate for ranch setting"
+      position: "Standing in center of chaos looking lost and desperate"
+      action: "Arms reaching out toward others who turn away, face crumpling with rejection and isolation"
+  scene:
+    mainElements: "Bunkhouse interior with overturned furniture, scattered belongings, harsh lighting flickering or inadequate, atmosphere of complete social breakdown"
+    details: "Playing cards scattered on floor, personal items knocked over, sense of safe spaces violated, institutional order completely collapsed"
+    background: "Walls seeming to close in, shadows more oppressive, sounds of distress and conflict"
+    atmosphere: "Environment becoming more chaotic or oppressive, collective stress visible in multiple postures, civilization veneer stripped away"
+  composition:
+    cameraAngle: "Wide shot showing multiple figures in distress across frame"
+    focus: "The accumulation of stress affecting everyone simultaneously"
+    depth: "Foreground shows immediate emotional breakdown, middle ground captures environmental chaos, background suggests system-wide failure"

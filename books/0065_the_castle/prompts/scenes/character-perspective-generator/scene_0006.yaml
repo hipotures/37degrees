@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Castle Officials' View - Klamm's Bureaucratic Perspective"
+  setting:
+    time: "Early 1920s afternoon"
+    location: "More prestigious tavern reserved for Castle officials, distinguished by balustrade staircase and elegant lantern over entrance"
+    weather: "Cold winter afternoon with sharp electric lighting inside"
+  characters:
+    - appearance: "Middle-aged official, corpulent and heavy-set, drooping cheeks, sharp black mustache, wearing pince-nez spectacles"
+      clothing: "Black frock coat with long tails, formal official attire typical of Austrian bureaucrat from 1920s period"
+      position: "Seated heavily in private room, reviewing documents with bureaucratic authority"
+      action: "Dismissively handling K.'s case as minor administrative irritation"
+    - appearance: "Young woman aged 20-25, fair-haired with sad eyes, sunken cheeks, small and unassuming stature but conscious superiority in bearing"
+      clothing: "Low-cut cream blouse that fits oddly on her thin frame, simple barmaid attire with apron, practical work clothes"
+      position: "Serving officials with deference and familiarity"
+      action: "Moving between official duties with comfortable authority in Castle hierarchy"
+  scene:
+    mainElements: "Spacious taproom with bar counter where guests sit on barrels along walls, small peephole opening in wall for viewing Klamm's private room"
+    details: "From Klamm's bureaucratic perspective - tavern serving as efficient administrative outpost, villagers and their problems appearing as manageable nuisances. K.'s arrival registering as minor paperwork discrepancy requiring minimal attention. Formal documents from Castle bureaucracy on aged yellowed paper with ornate seals representing proper administrative order."
+    background: "Hierarchical tension between village world and Castle authority, electric lighting creating sharp cold illumination"
+    atmosphere: "Through Klamm's eyes - village functioning as well-ordered domain under his administrative control, K.'s complaints appearing as typical peasant confusion about proper procedures, electric lights creating efficient workspace atmosphere, no text or letters visible"
+  composition:
+    cameraAngle: "Elevated perspective showing Klamm's position of authority over village matters"
+    focus: "Klamm's comfortable dominance over his administrative domain"
+    depth: "Foreground shows Klamm's authoritative presence, middle ground captures serving staff and official business, background suggests hierarchy extending to village"

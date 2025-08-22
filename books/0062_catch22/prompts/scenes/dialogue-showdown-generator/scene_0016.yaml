@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Solitude After Revelation - Processing Betrayal"
+  setting:
+    time: "1944, evening"
+    location: "Yossarian's tent on Pianosa base"
+    weather: "calm Mediterranean evening"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform, partially unbuttoned"
+      position: "sitting alone on edge of cot"
+      action: "contemplating the moral implications of discovered corruption"
+  scene:
+    mainElements: "cramped tent interior with two field cots, equipment crates, untouched belongings of dead tentmate Mudd, Orr's complicated gasoline heating stove with precision parts"
+    details: "Yossarian sits alone processing the revelation of Milo's enemy trading. Mudd's untouched belongings serve as constant reminder of death while Milo profits from war. Orr's complex heating stove represents hidden rationality contrasting with exposed systemic corruption. Empty cot emphasizes isolation in moral crisis."
+    background: "canvas tent walls, simple wooden cross, military gear mixed with personal items, shadows from oil lamp"
+    atmosphere: "lonely contemplation of systemic betrayal, mixture of personal isolation and moral awakening"
+  composition:
+    cameraAngle: "medium shot emphasizing solitary figure in confined space"
+    focus: "contemplative expression processing moral shock"
+    depth: "foreground shows dead man's belongings, middle ground captures isolated contemplation, background reveals cramped living conditions"

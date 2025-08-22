@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening during discovery of tragedy
+    location: Ranch barn entrance with figures bursting in from outside
+    weather: Clear evening with harsh contrast between interior and exterior light
+  characters:
+  - appearance: Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive
+      boxer stance
+    clothing: High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand
+    position: Bursting through barn doorway with violent energy
+    action: Arms raised in explosive gesture of rage and discovery, face contorted with fury and thirst for vengeance, whole
+      body radiating violent intent
+  - appearance: Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose,
+      large restless dark eyes, small strong hands, lean wiry build
+    clothing: Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots
+    position: Standing frozen in doorway, silhouetted against exterior light
+    action: Complete stillness in contrast to surrounding chaos, face blank with shock and realization, hands hanging motionless
+      at sides
+  - appearance: Powerful thick-bodied man, heavy-set build
+    clothing: Standard ranch worker denim and boots
+    position: Behind others, filling doorway with bulk
+    action: Leaning forward with predatory anticipation, face showing cruel excitement at prospect of hunt
+  scene:
+    mainElements: Barn doorway framing multiple figures in dramatic lighting, interior golden hay contrasting with harsh exterior
+      light, sense of violation of peaceful space
+    details: Shadows cast by figures creating ominous patterns, peaceful barn atmosphere shattered by human intrusion, dust
+      raised by sudden movement
+    background: Other ranch workers gathering behind main figures, growing mob energy, sense of collective violence building
+    atmosphere: Explosive gestures contrasted with profound stillness, emotional breaking points visible in extreme body language,
+      civilization's mask completely dropped
+  composition:
+    cameraAngle: Wide shot from inside barn showing invasion of outside forces
+    focus: The contrast between explosive rage and frozen shock
+    depth: Foreground shows immediate emotional extremes, middle ground captures violated sanctuary, background reveals gathering
+      storm of vengeance
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

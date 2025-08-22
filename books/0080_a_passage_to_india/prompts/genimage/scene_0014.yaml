@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, sunset hour with western light illuminating Club building
+    location: Chandrapore Club veranda and grounds showing British colonial architecture
+    weather: Clear evening air, warm temperature, spectacular sunset lighting
+  characters: No characters present in this scene
+  scene:
+    mainElements: Red brick Club building with wide veranda, large windows reflecting sunset, colonial grounds with tennis
+      courts and gardens
+    details: Windows blazing with reflected orange and red sunset fire, white columns and trim glowing warm in evening light,
+      Union Jack hanging limply in still air, tennis courts with nets creating geometric shadows, wicker furniture arranged
+      for evening gathering, ceiling fans slowly turning, electric lights beginning to come on inside, brass fixtures gleaming
+      in sunset glow
+    background: Manicured grounds extending toward native trees, distant view of Indian quarter under same golden sky
+    atmosphere: Imperial grandeur softened by beautiful evening light, sense of day's social activities concluding, peaceful
+      end to colonial routine
+  composition:
+    cameraAngle: From grounds looking toward Club building with sunset behind creating silhouette effects
+    focus: Dramatic contrast between building's dark silhouette and blazing window reflections
+    depth: Foreground shows garden details and shadows, middle ground captures Club architecture, background displays sunset
+      sky
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

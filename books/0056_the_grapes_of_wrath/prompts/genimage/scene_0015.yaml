@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening
+    location: Company rally and assembly area in California agricultural facility
+    weather: Artificial evening lighting creating dramatic shadows
+  characters:
+  - appearance: Large, heavy-built woman in her late forties, strong freckled arms, full controlled face with amber eyes that
+      show deep understanding of tragedy and pain. Expression of calm authority.
+    clothing: Simple worn cotton dress, practical and clean but patched. Sturdy work shoes, hair pulled back simply.
+    position: Standing isolated among crowd, maintaining composed expression despite inner concern
+    action: Standing still while crowd around moves in unison, face showing quiet doubt and sadness while surrounded by artificial
+      enthusiasm
+  scene:
+    mainElements: Massive crowd of workers participating in company-sponsored rally, one individual standing still with expression
+      of doubt while others celebrate around her
+    details: Powerful image of individual conscience resisting mass manipulation. Hundreds of workers wave flags and cheer
+      company propaganda while one person stands motionless. Her face shows pain and wisdom while others display artificial
+      enthusiasm. Spotlights illuminate crowd but create shadows around the lone dissenter
+    background: Corporate banners and propaganda displays encouraging worker loyalty and submission to company authority
+    atmosphere: Overwhelming pressure to conform contrasted with quiet dignity of individual resistance, sounds of orchestrated
+      cheering drowning out authentic human voice
+  composition:
+    cameraAngle: Close-up on individual face surrounded by crowd
+    focus: Single person's authentic emotion contrasted with manufactured mass enthusiasm around her
+    depth: Individual in sharp focus in foreground while crowd becomes blur of conformity in background, emphasizing isolation
+      of conscience
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Caesar's Sausage - Sweet Luxury Taste Through Visual Richness"
+  setting:
+    time: "January 1951, 9:00 PM, evening treat sharing"
+    location: "Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing 200 prisoners"
+    weather: "Interior warmth from human presence contrasting with exterior cold"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Seated on bunk holding precious slice of sausage from Caesar's package"
+      action: "Eating slowly with maximum concentration, savoring each bite with intense focus"
+  scene:
+    mainElements: "Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely blocking outside view"
+    details: "Thick slice of quality sausage showing rich pink color with white fat marbling, visual evidence of superior nutrition and flavor. Careful bite marks showing methodical consumption to maximize taste experience, prisoner's facial expression revealing intense pleasure and satisfaction. Meat juices visible on lips and fingers indicating rich flavor release, glossy surface of sausage reflecting available light showing fat content and quality. Contrast between luxurious food item and sparse camp environment emphasizing exceptional nature of treat. Slow deliberate chewing motions showing conscious flavor extraction and appreciation, no text or letters visible"
+    background: "Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic with constant sounds of coughing, snoring and whispers"
+    atmosphere: "Rare moment of gustatory luxury interrupting constant hunger, taste pleasure creating temporary escape from harsh reality, food quality representing connection to outside world"
+  composition:
+    cameraAngle: "Extreme close-up on sausage and eating process"
+    focus: "Rich food textures, facial expressions showing taste pleasure, careful consumption technique"
+    depth: "Foreground: detailed sausage quality and eating ritual, middle: concentrated enjoyment, background: stark camp conditions for contrast"

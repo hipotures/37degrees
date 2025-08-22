@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, evening during forced cultural suppression
+    location: Traditional storytelling area within Igbo village compound now under missionary influence
+    weather: Dimming twilight symbolizing cultural darkness and suppression
+  characters:
+  - appearance: Stern-faced European missionary with rigid, uncompromising expression and burning zealous eyes
+    clothing: Formal, austere black missionary attire reflecting his harsh, uncompromising nature
+    position: Standing over traditional elders with authority to silence cultural transmission
+    action: Actively suppressing traditional stories, songs, and cultural knowledge as pagan corruption
+  scene:
+    mainElements: Traditional gathering space where elders once shared ancestral wisdom now disrupted by foreign religious
+      authority prohibiting cultural expression
+    details: Wooden drums of various sizes (ekwe), metal gongs (ogene), ceramic udu pots creating rhythmic foundation for
+      rituals now forbidden and silenced. Traditional stories about ancestors, spirits, and cultural heroes declared evil
+      and banned from community memory
+    background: Ordered traditional society with deep spiritual connection to land and ancestors experiencing systematic cultural
+      erasure
+    atmosphere: Forced silence and cultural amnesia as traditional knowledge transmission is criminalized and community memory
+      actively destroyed
+  composition:
+    cameraAngle: Medium shot showing suppression of cultural expression
+    focus: Authoritarian figure silencing traditional cultural practices
+    depth: Missionary authority in foreground, silenced elders in middle ground, abandoned cultural artifacts in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

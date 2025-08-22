@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1969 December, during gentle evening rain shower
+    location: Garden courtyard of Ipe family house during warm monsoon rain
+    weather: Gentle warm rain perfect for outdoor sensory experience
+  characters:
+  - appearance: Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional
+      Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build
+    clothing: Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing
+      her rebellious nature, sunset-colored silk sari with gold threading from wedding photos
+    position: Standing in garden with arms outstretched embracing rain
+    action: Letting warm rain soak through sari while breathing deeply of rain-washed air
+  scene:
+    mainElements: Warm rain creating gentle percussion on leaves and ground, rain releasing earthy petrichor scent visible
+      as rising vapors, flowers and plants responding to moisture with intensified colors and aromas
+    details: Rain drops creating musical rhythm on different surfaces, earthy scent of wet soil rising as visible vapors,
+      flower fragrances intensified by moisture becoming almost visible in air, warm rain temperature pleasant on skin, rain
+      washing air clean creating clarity of vision and scent
+    background: Lush tropical garden with coconut palms, flowering bushes, traditional house with rain streaming from roof
+      gutters
+    atmosphere: Complete sensory symphony of gentle sound, fresh scent, warm touch, visual clarity, and taste of clean rain
+      air
+  composition:
+    cameraAngle: View through falling rain showing Ammu embraced by complete sensory experience
+    focus: Rain creating multi-sensory environment of sound, scent, warmth, and visual beauty
+    depth: Foreground shows falling rain patterns, middle ground captures Ammu's sensory absorption, background features rain-refreshed
+      garden, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

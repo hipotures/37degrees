@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Milan morning with church bells creating visible sound ripples"
+  setting:
+    time: "1917 summer morning"
+    location: "Converted building serving as American military hospital in elegant Milan, 1917-1918, sophisticated urban medical facility"
+    weather: "Perfect clear morning with gentle breeze"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Piżama szpitalna, później mundur oficerski na przepustkę"
+      position: "Standing on hospital balcony overlooking city"
+      action: "Listening to church bells while watching city awaken"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "V.A.D. uniform with light blue cotton dress, white apron with red cross symbol, white headscarf-style cap introduced in 1915, carries riding crop of deceased fiancé"
+      position: "Beside him sharing morning city views"
+      action: "Pointing toward cathedral spires while feeling bell vibrations"
+  scene:
+    mainElements: "Clean modern medical rooms with new furniture, large wardrobe with mirror, adjustable window blinds, balcony overlooking red tile rooftops and chimneys of Milan cityscape"
+    details: "Church bells creating visible ripple effects in puddles and water containers throughout Milan cityscape, bronze bell vibrations suggested by trembling leaves on nearby trees, sound waves visualized through morning mist patterns that pulse with each bell toll, awakening city showing synchronized response to bell rhythms through opening shutters and emerging figures, pigeons startling and resettling with each bell peal creating movement patterns, warm morning air carrying bell resonance suggested by heat shimmer effects, cathedral spires visible across red tile rooftops as sound sources, morning coffee steam rising in rhythm with bell tolling, no text or letters visible"
+    background: "Milan cityscape with cathedral domes and red tile rooftops stretching toward morning horizon"
+    atmosphere: "Sanctuary of healing and romance, bright sunlight streaming through open blinds, intimate private space removed from war, sounds of civilian city life replacing battlefield noise"
+  composition:
+    cameraAngle: "Balcony view overlooking city with emphasis on bell tower sources"
+    focus: "Ripple effects and vibration responses suggesting powerful bell sounds"
+    depth: "Foreground shows balcony and immediate sound effects, middle ground captures city awakening, background reveals cathedral spires as sound sources"

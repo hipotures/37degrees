@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, midday during colonial punitive action
+    location: Sacred central plaza of Umuofia village confederation in southeastern Nigeria, packed red earth surface for
+      community gatherings
+    weather: Harsh brutal sunlight illuminating colonial violence and community humiliation
+  characters:
+  - appearance: Traditional Igbo leaders bound and humiliated by colonial forces
+    clothing: Traditional leadership attire now torn and degraded by colonial punishment
+    position: Forced into positions of submission and public humiliation
+    action: Suffering public degradation designed to destroy traditional authority and community respect
+  scene:
+    mainElements: Large open space with ancient sacred silk-cotton tree, surrounded by gathering crowds during ceremonies
+      now witnessing systematic destruction of traditional leadership
+    details: Traditional community leaders stripped of dignity and authority through public humiliation designed to break
+      community resistance. Ankle bracelets and quality cloth indicating titles and wealth within traditional merit system
+      torn away and destroyed
+    background: Sacred traditional meeting ground desecrated by colonial demonstration of power over indigenous authority
+      structures
+    atmosphere: Systematic destruction of traditional leadership and community authority through calculated public humiliation
+      and violence
+  composition:
+    cameraAngle: Wide shot showing scale of traditional authority destruction
+    focus: Public humiliation of traditional leaders by colonial forces
+    depth: Humiliated leaders in foreground, horrified community in middle ground, desecrated sacred space in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

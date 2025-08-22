@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening during confrontation
+    location: Ranch bunkhouse interior with focus on physical details
+    weather: Indoor scene with harsh artificial lighting
+  characters:
+  - appearance: Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build
+      like a bull, huge hands
+    clothing: Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's
+    position: Standing awkwardly in center of conflict, massive frame looking vulnerable
+    action: Huge hands opening and closing unconsciously, shoulders raised defensively, face showing confusion and fear
+  - appearance: Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive
+      boxer stance
+    clothing: High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand
+    position: Approaching with aggressive boxer stance
+    action: Fists clenched tight, shoulders squared for attack, neck muscles straining with hostile energy
+  scene:
+    mainElements: Bunkhouse floor cleared of obstacles, other men backing away to walls, harsh light creating dramatic shadows
+      on tensed figures
+    details: Scattered personal belongings showing disrupted order, overturned chairs, sense of safe space violated by brewing
+      violence
+    background: Other workers pressed against walls watching helplessly, established social order breaking down
+    atmosphere: Explosive tension reaching breaking point, vulnerability of gentle strength facing aggressive violence, collapse
+      of peaceful coexistence
+  composition:
+    cameraAngle: Medium close-up focusing on hand and shoulder details
+    focus: The micro-expressions of stress and aggression in physical gestures
+    depth: Foreground shows detailed body language of conflict, middle ground captures spatial dynamics, background reveals
+      disrupted community
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

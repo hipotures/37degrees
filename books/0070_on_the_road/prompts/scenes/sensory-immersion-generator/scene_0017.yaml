@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Grape Juice Fingers"
+  setting:
+    time: "1948 autumn"
+    location: "vineyard in Napa Valley, California with rows of grapevines heavy with ripe fruit"
+    weather: "warm harvest day with golden afternoon light"
+  characters:
+    - appearance: "21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns, bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile"
+      clothing: "white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just shorts or shirtless revealing his physical nature"
+      position: "reaching into grapevine for cluster of ripe grapes"
+      action: "crushing ripe grapes in hand while purple juice runs down fingers and drips from wrist"
+  scene:
+    mainElements: "deep purple grape juice staining fingers and palm, juice running in rivulets down forearm, grapes so ripe they burst at slightest pressure, sticky juice creating glossy coating on skin, fruit juice attracting wasps and flies"
+    details: "Grape skins splitting under gentle pressure releasing flood of purple juice, juice staining skin deep violet color that won't wash off easily, drops of grape juice falling from fingertips to soil below, crushed grape pulp clinging between fingers, juice so fresh it foams slightly, hands becoming increasingly sticky requiring constant wiping on clothing, grape seeds visible in crushed pulp"
+    background: "endless rows of grapevines heavy with ripe fruit, wooden stakes supporting vine growth, harvest workers moving between rows with large baskets, rolling hills of Napa Valley extending to horizon"
+    atmosphere: "golden harvest light filtering through grape leaves, warm afternoon air filled with fruit sweetness, sounds of harvest activity - workers calling, baskets being filled, grape clusters dropping"
+  composition:
+    cameraAngle: "extreme close-up on juice-stained hands and grape cluster"
+    focus: "grape juice as visual indicator of fruit's intense sweetness and ripeness"
+    depth: "purple-stained fingers in sharp foreground, grape cluster in middle ground, vineyard rows extending to background"

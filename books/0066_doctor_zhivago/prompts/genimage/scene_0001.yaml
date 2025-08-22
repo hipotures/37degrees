@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1902 autumn, late afternoon
+    location: Remote cemetery near Orthodox monastery in Russian countryside, bare trees and gray sky
+    weather: Cold autumn wind beginning to carry first hints of winter, occasional drops of freezing rain
+  characters:
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Small funeral procession gathered around fresh grave mound, Orthodox crosses marking other graves, monastery
+      buildings visible in distance, bare birch and pine trees
+    details: Ten-year-old boy in black mourning clothes climbs onto freshly dug earth pile, his small figure overwhelmed by
+      vast empty landscape. Split composition shows same cemetery years later during father's burial, with older boy now orphaned
+      twice. Same graves weathered by time, some crosses fallen or tilted, weeds growing over older plots, monastery showing
+      signs of age and neglect, no text or letters visible
+    background: Rolling hills of Russian countryside stretching to horizon, gray autumn sky threatening winter, skeletal trees
+      creating stark silhouettes
+    atmosphere: Profound loss and solitude against immense natural forces, small human figures dwarfed by landscape expressing
+      vulnerability of individual life before death and time
+  composition:
+    cameraAngle: Wide establishing shot emphasizing vastness of landscape and smallness of human figures
+    focus: Boy climbing grave mound as central emotional anchor, with temporal split showing progression of loss
+    depth: 'Foreground: graves and mourners; middle ground: cemetery paths and Orthodox crosses; background: distant monastery
+      and endless countryside'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

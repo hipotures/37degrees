@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Echo Chamber - Amplified Submission"
+  setting:
+    time: "1930s, midday"
+    location: "Company radio broadcast center in California agricultural facility"
+    weather: "Artificial studio lighting"
+  characters:
+    - appearance: "Radio announcer in clean business suit with confident expression, speaking into microphone while groups of workers listen outside window."
+      clothing: "Pressed business suit, polished shoes, neat hair, clean hands holding official script"
+      position: "Sitting at broadcast desk elevated above listening workers"
+      action: "Reading company propaganda into microphone while workers outside absorb messages designed to keep them compliant"
+  scene:
+    mainElements: "Radio studio with announcer broadcasting corporate messages to workers gathered outside listening through speakers, technology used for mass persuasion"
+    details: "Mass media technology deployed to shape worker consciousness. Professional announcer reads scripts promoting acceptance of poor working conditions. Workers listen through speakers mounted outside studio. Messages repeated throughout day to reinforce corporate ideology. Technology presents authority voice that seems objective but serves company interests"
+    background: "Broadcasting equipment and corporate communication infrastructure designed to control information flow"
+    atmosphere: "Authoritative voice technology creating illusion of objective truth while delivering biased messaging, sounds of electronic amplification giving weight to propaganda"
+  composition:
+    cameraAngle: "Split view showing both broadcaster and receiving audience"
+    focus: "Technology-mediated control of information and worker consciousness"
+    depth: "Announcer in elevated studio background transmits to listening workers in foreground, showing power dynamic of communication control"

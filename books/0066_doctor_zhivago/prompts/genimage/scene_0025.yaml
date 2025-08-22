@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Centuries spanning from medieval times through Soviet era to distant future
+    location: Ancient oak grove showing geological and cosmic time perspective
+    weather: All seasons and weather patterns across multiple centuries
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Massive ancient oak tree serving as witness to centuries of human civilization rising and falling in its
+      shadow
+    details: 'Ultimate temporal perspective showing 800-year-old oak with multiple human civilizations: Medieval Russian principality
+      with wooden fortress and Orthodox monks, Tsarist Empire with stone churches and noble estates, Soviet collective farms
+      with tractors and radio towers, post-Soviet decay with abandoned buildings being reclaimed by forest. Tree grows slowly
+      while human structures appear and disappear rapidly around it. Jurij and Lara appear as tiny brief figures in tree''s
+      long memory, their love story one small moment in geological time. Stars wheel overhead showing cosmic perspective,
+      seasons cycling hundreds of times, no text or letters visible'
+    background: Same geographical features enduring while human civilizations change rapidly
+    atmosphere: Ultimate perspective on human transience against natural and cosmic time, individual love meaningful despite
+      cosmic insignificance
+  composition:
+    cameraAngle: Low angle emphasizing tree's majesty and human smallness within cosmic context
+    focus: Ancient oak as eternal witness to passing human dramas
+    depth: 'Foreground: human activities and civilizations; middle ground: tree in multiple growth stages; background: starfield
+      showing cosmic perspective'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

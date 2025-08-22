@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Labyrinth of Obsession"
+  setting:
+    time: "1840s midnight, no moon"
+    location: "Private captain's quarters in stern of Pequod, beneath quarterdeck"
+    weather: "Calm night, ship barely moving"
+  characters:
+    - appearance: "Man of 58-60 years, tall and broad-shouldered with weathered bronze-like physique, gray hair, sun-darkened face marked by thin white scar running from hairline down through one side of face and neck"
+      clothing: "Dark navy wool captain's coat, practical ship commander's attire in somber colors, heavy weather-resistant fabric"
+      position: "Standing rigid in special deck hole for his whale-bone prosthetic leg, one arm gripping ship's rigging for support"
+      action: "Gazing intensely toward horizon with unwavering focus, stance defiant and commanding despite physical limitation"
+  scene:
+    mainElements: "Cabin interior arranged like maze of rope coils, each forming circular patterns that spiral inward toward empty center, creating labyrinthine pathway with no clear exit"
+    details: "Ship's rope arranged in concentric circles covering cabin floor, each coil leading deeper into the pattern but never reaching clear destination. Oil lamp flame flickers at the maze center, casting moving shadows that make the rope patterns appear to shift and writhe. Navigation charts pinned to walls show similar spiral patterns, as if obsession has infected even the captain's maps and calculations. The rope maze has no visible beginning or end, just endless circular paths that turn back on themselves, creating prison of repetitive motion, no text or letters visible"
+    background: "Narrow bunk, chart table with navigation instruments, spare whalebone leg propped in corner, small porthole windows"
+    atmosphere: "The rope labyrinth represents the circular nature of obsession, showing how focused pursuit can become endless repetition without progress or escape"
+  composition:
+    cameraAngle: "Overhead view looking down at spiral rope patterns"
+    focus: "Concentric rope circles leading to empty center point"
+    depth: "Rope maze in sharp foreground, cabin walls with charts in middle distance, porthole showing empty ocean beyond"

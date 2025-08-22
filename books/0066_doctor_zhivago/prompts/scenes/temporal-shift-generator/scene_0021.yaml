@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn and Dusk Fisherman - Daily Eternal Ritual"
+  setting:
+    time: "Same day at dawn and sunset showing daily cycle"
+    location: "River dock where fisherman performs daily ritual unchanged by revolution"
+    weather: "Clear day with morning mist and evening golden light"
+  characters:
+    - appearance: "Man younger than Jurij, tall and slender with agile build, dark straight hair, dark slanted eyes, distinctive Kyrgyz facial features, mysterious and impenetrable expression"
+      clothing: "Elegant well-fitted Cheka/Red Army officer uniform, later general's uniform"
+      posture: "Alert and capable bearing, moves with quiet authority"
+      action: "Appearing at critical moments, reviewing documents, providing assistance"
+  scene:
+    mainElements: "Split composition showing same fisherman silhouette at sunrise and sunset demonstrating eternal rhythm"
+    details: "Temporal mirror image: Left side shows pre-dawn darkness with fisherman's silhouette against pale eastern sky, mist rising from water, fishing line cast into gray river, peaceful solitude and expectation. Right side reveals same fisherman silhouette against orange western sky at sunset, warm light reflecting on water, day's catch in basket, satisfied completion. Between scenes river flows continuously, same reflections and ripples, same dock weathered by time. Yevgraf appears briefly in both scenes, observing from distance, representing continuity beyond individual lives, no text or letters visible"
+    background: "River landscape maintaining consistent geography while showing diurnal light changes"
+    atmosphere: "Human rhythm aligned with natural cycles, daily ritual providing stability amid historical chaos"
+  composition:
+    cameraAngle: "Symmetrical composition emphasizing silhouette and reflection patterns"
+    focus: "Central fisherman figure as anchor point for daily cycle"
+    depth: "Foreground: dock and fishing equipment; middle ground: fisherman silhouette; background: river and sky showing time passage"

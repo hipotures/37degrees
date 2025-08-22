@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Balalaika's Journey - From Mother's Music to Daughter's Heritage"  
+  setting:
+    time: "1902, 1929, and 1943 - spanning four decades"
+    location: "Three connected spaces showing instrument's path through history"
+    weather: "Spring sunlight streaming through windows in all three time periods"
+  characters:
+    - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+      clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+      posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+      action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+  scene:
+    mainElements: "Traditional Russian triangular stringed instrument shown at three life stages through transparent temporal layering"
+    details: "Triple exposure composition: 1902 shows polished new balalaika in hands of Jurij's dying mother in elegant bedroom, instrument gleaming with care and love. 1929 reveals same instrument worn and battered in Jurij's modest Moscow room, strings loose, wood scratched but preserving memories. 1943 displays instrument restored and being played by young woman (Tania) in wartime communal apartment, music bringing life back to silent strings. Instrument's triangular form remains constant while showing patina, wear, restoration across decades, no text or letters visible"
+    background: "Room environments change from pre-revolutionary luxury to Soviet poverty to wartime austerity, but spring light remains constant"
+    atmosphere: "Continuity of artistic heritage transcending historical destruction, music as eternal human expression surviving political upheaval"
+  composition:
+    cameraAngle: "Close-up on instrument with hands playing it, showing reverence across generations"
+    focus: "Balalaika as central symbol connecting three generations of women and artistic preservation"
+    depth: "Foreground: instrument and playing hands; middle ground: room furnishings showing historical periods; background: windows with consistent spring light"

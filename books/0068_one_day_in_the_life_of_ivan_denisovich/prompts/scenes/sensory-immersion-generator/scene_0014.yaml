@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Caesar's Package Opening - Luxury Food Aromas Visualization"
+  setting:
+    time: "January 1951, 8:00 PM, evening package receipt"
+    location: "Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing 200 prisoners"
+    weather: "Interior space with concentrated attention around package opening"
+  characters:
+    - appearance: "Middle-aged man around 45-50 years, intellectual bearing, thick black mustache, likely wearing glasses, more refined features than manual laborers"
+      clothing: "Standard prisoner uniform but with better undergarments beneath, warmer clothing due to packages and bribes"
+      position: "Sitting or standing in more comfortable positions, often handling packages or food items"
+      action: "Carefully opening package and revealing contents to envious audience"
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Standing nearby as protector and helper with package"
+      action: "Observing package contents while managing crowd control and envy"
+  scene:
+    mainElements: "Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely blocking outside view"
+    details: "Wooden crate or cardboard box containing unimaginable riches: yellow cheese, pink sausage, white sugar cubes, golden cookies, butter wrapped in paper, creating striking color contrast against gray camp environment. Aromatic particles rising from opened package shown through heat distortion and shimmer effects, rich food scents creating visible atmospheric disturbance. Prisoners gathering around package with dilated nostrils and focused attention showing olfactory attraction, facial expressions revealing hunger and longing triggered by food aromas. Luxury food items releasing complex scent information contrasting dramatically with standard camp nutrition, visual evidence of aromatic luxury through atmospheric effects, no text or letters visible"
+    background: "Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic with constant sounds of coughing, snoring and whispers"
+    atmosphere: "Extraordinary aromatic event disrupting normal sensory deprivation, food scents creating temporary escape from harsh reality, olfactory luxury generating powerful emotional responses"
+  composition:
+    cameraAngle: "Close-up on package opening with aromatic effects radiating outward"
+    focus: "Food items releasing aromatic particles, facial reactions showing scent appreciation"
+    depth: "Foreground: detailed package contents and aromatic effects, middle: immediate audience reaction, background: wider crowd drawn by scent"

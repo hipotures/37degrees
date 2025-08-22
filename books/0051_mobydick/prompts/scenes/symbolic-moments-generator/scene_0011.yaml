@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Sanctuary of Violence"
+  setting:
+    time: "1840s Sunday morning, church bells distant"
+    location: "Simple Quaker-style chapel in New Bedford dedicated to lost whalers"
+    weather: "Peaceful Sunday morning light"
+  characters:
+    - appearance: "Young man in early twenties, average height and build suitable for ship work, practical appearance of experienced mariner"
+      clothing: "Worn canvas trousers, rough wool flannel shirt, weather-beaten 'shaggy jacket' of heavy cloth, simple leather boots"
+      position: "Standing observantly at ship's rail or working with hands on rigging and ropes"
+      action: "Watching horizon with contemplative expression, hands steady from sea experience, posture of thoughtful observer"
+  scene:
+    mainElements: "Peaceful chapel interior juxtaposed with violent whaling implements - harpoons lean against prayer benches while ship's anchor chains coil around altar base"
+    details: "Sunlight streams through stained glass windows illuminating both sacred cross and deadly whale lances positioned side by side. A ship's harpoon rests against the pulpit where sermons of peace are preached, its sharp iron point catching morning light like a holy relic. Coiled anchor chains wrap around the altar foundation, creating metallic rosaries of maritime industry. The marble memorial tablets listing violent deaths contrast with Bible verses carved in wood about love and forgiveness. Peace and violence occupy the same sacred space, no text or letters visible"
+    background: "Ship-bow shaped pulpit accessed by rope ladder, black-bordered marble memorial tablets covering walls"
+    atmosphere: "The scene reveals the profound contradiction between peaceful religious ideals and the violent industry that supports the community, showing how spiritual and material conflicts coexist"
+  composition:
+    cameraAngle: "Wide angle showing entire chapel with contrasting elements"
+    focus: "Harpoon against pulpit as central contradiction between peace and violence"
+    depth: "Weapons in immediate foreground, chapel interior in middle distance, memorial tablets creating backdrop of consequence"

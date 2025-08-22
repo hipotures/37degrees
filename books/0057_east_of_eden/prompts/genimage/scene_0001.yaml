@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1860s transforming to 1900, showing passage of 40 years, late afternoon light
+    location: Trask family farmhouse in rural Connecticut, same room viewed across four decades
+    weather: Clear autumn day with golden light streaming through windows
+  characters:
+  - appearance: Young Cyrus Trask in his 30s with dark hair and military bearing visible as ghost-like overlay, aging to white-haired
+      patriarch in his 70s
+    clothing: Union Army blue uniform fading to civilian farmer's clothes, military medals gathering dust on mantlepiece
+    position: Seated at wooden kitchen table, same chair across the decades
+    action: Writing letters about war exploits, hand movements repeating across time showing how lies became legend
+  scene:
+    mainElements: Kitchen table worn smooth by decades of use, same wooden chair showing accumulated wear, walls displaying
+      evolution from sparse military decorations to accumulated family photographs
+    details: Table surface scarred by years of knife cuts and hot dishes, chair arms polished by countless hands, window frame
+      weathered and repainted multiple times, floor boards worn into paths between stove and table
+    background: Stone fireplace with changing implements - military gear replaced by farming tools, windows showing same oak
+      tree growing from sapling to mighty specimen outside
+    atmosphere: Layered time showing how lies compound across generations, golden autumn light unchanged while everything
+      within ages and accumulates history, no text or letters visible
+  composition:
+    cameraAngle: Static interior view from same vantage point across four decades
+    focus: Kitchen table and chair as anchor points showing passage of time through wear and accumulated objects
+    depth: Foreground shows table with ghostly overlays of different time periods, middle ground shows figure of Cyrus aging,
+      background shows window with growing tree marking years
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

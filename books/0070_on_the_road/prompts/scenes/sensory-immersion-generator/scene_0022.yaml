@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Canvas Tent Night Sounds"
+  setting:
+    time: "1947 late summer night"
+    location: "cotton field workers' camp in California with rows of canvas tents, communal cooking areas, and distant mountains"
+    weather: "clear warm night with gentle breeze"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "lying on simple mattress inside canvas tent"
+      action: "listening to night sounds while feeling canvas texture against skin and breathing night air"
+    - appearance: "27-30 year old woman, petite slender build, dark straight hair, green eyes, sun-weathered face showing strength with hint of fatigue"
+      clothing: "robocze spodnie, proste bluzki"
+      position: "lying beside him on shared mattress"
+      action: "breathing softly while camp sounds continue outside tent"
+  scene:
+    mainElements: "canvas tent walls moving gently with night breeze, sounds of distant guitar music and Spanish conversations, smell of woodsmoke from cooking fires, tactile comfort of shared warmth, visual patterns of stars visible through tent opening"
+    details: "Canvas tent fabric breathing with night wind creating gentle billowing motion, distant campfire smoke carrying aroma of burning wood and cooking food, soft guitar music floating from neighboring tents mixing with quiet Spanish conversations, canvas texture rough against exposed skin, mattress simple but providing relief after day's labor, night air flowing through tent bringing mixture of field dust and wildflower scents"
+    background: "rows of similar canvas tents throughout workers' camp, distant cooking fires creating orange glows, mountains silhouetted against star-filled sky, cotton field extending beyond camp"
+    atmosphere: "peaceful working community at rest, mix of fatigue and contentment, simple life connected to land and seasons, sounds of rural night - insects, distant animals, wind in grass"
+  composition:
+    cameraAngle: "interior tent view looking toward opening with night sky visible"
+    focus: "combination of tactile canvas, auditory camp life, and aromatic night air"
+    depth: "tent interior and figures in foreground, camp activity visible through opening in middle ground, starry sky and mountains in background"

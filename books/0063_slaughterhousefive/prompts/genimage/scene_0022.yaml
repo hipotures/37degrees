@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Dawn and dusk simultaneously showing diurnal cycle as eternal pattern
+    location: Typical American suburb in Ilium New York, 1950s and 1960s, modeled after Schenectady
+    weather: Clear skies showing natural light progression from sunrise to sunset
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Billy visible in morning and evening versions at same time showing daily cycle continuity
+    action: Beginning and ending daily routine simultaneously showing cyclical nature of ordinary life, no text or letters
+      visible
+  scene:
+    mainElements: Ranch-style and split-level houses with brick or wooden construction, manicured lawns, Billy's imposing
+      two-story house, modern shopping centers housing optometry practices
+    details: Shadows rotating with sun position from long morning angles to short noon positioning to long evening stretches,
+      house windows reflecting changing light quality, neighborhood activity patterns cycling
+    background: Suburban skyline showing consistent architecture while light and shadow create temporal markers, distant mountains
+      or horizons providing orientation reference
+    atmosphere: Surface prosperity and normalcy concealing spiritual emptiness and alienation, bright optimistic sunlight
+      contrasting with sterile fluorescent medical office lighting, sounds of lawnmowers and children playing
+  composition:
+    cameraAngle: Wide neighborhood shot showing complete diurnal light cycle
+    focus: Natural light progression as symbol of eternal temporal continuity
+    depth: Foreground shows detailed shadow progression, middle ground shows daily activity patterns, background shows cosmic
+      light cycle
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

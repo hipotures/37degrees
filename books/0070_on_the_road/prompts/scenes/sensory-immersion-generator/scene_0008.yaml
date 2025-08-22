@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Snow Silence and Stillness"  
+  setting:
+    time: "1947 winter dawn"
+    location: "two-lane asphalt road stretching to horizon across vast American continent, cutting through endless flat Nebraska prairies, rolling Iowa hills and sun-scorched Arizona deserts, lined with wooden telegraph poles"
+    weather: "heavy snowfall muffling all sound with thick white blanket"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "standing motionless beside snow-covered car"
+      action: "breathing quietly while observing complete absence of sound and movement in snow-covered landscape"
+  scene:
+    mainElements: "thick snow coating every surface creating visual quietness, complete absence of wind or movement, footprints showing as only disturbance in perfect white surface, figure's breath visible but soundless in cold air, snow continuing to fall in large slow flakes"
+    details: "Snow accumulated on car roof, hood and windshield in smooth undisturbed layers, telegraph wires outlined in white creating delicate geometric patterns, footprints showing dark depressions in otherwise pristine snow surface, breath vapor dissipating quickly in still air, snowflakes falling in perfectly vertical lines indicating complete absence of wind, distant fence posts barely visible as dark verticals in white expanse"
+    background: "empty road surface black or gray cracked from sun, occasional roadside signs, abandoned car wrecks, infinite sky meeting land at distant horizon"
+    atmosphere: "monochromatic white and gray world with muffled sound quality, heavy sky creating enclosed feeling, peace and isolation of complete winter silence"
+  composition:
+    cameraAngle: "wide shot showing figure dwarfed by vast snow-covered landscape"
+    focus: "visual representation of complete sound absence through stillness and snow coverage"
+    depth: "snow-covered car and figure in foreground, white road extending through middle ground, gray sky meeting white earth at distant horizon"

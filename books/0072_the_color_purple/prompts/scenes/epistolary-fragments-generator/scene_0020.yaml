@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Document vs Reality - Letter Lies Exposed"
+  setting:
+    time: "1935, evening"
+    location: "Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural fields"
+    weather: "Overcast evening with heavy clouds"
+  characters:
+    - appearance: "African American man aged 30s-80s, initially imposing physical presence used for dominance, handsome features that become gentler with age, strong build that softens as he finds peace"
+      clothing: "Working farmer's clothes: denim overalls, cotton shirts, heavy boots. Later transformation: clean, simple clothes, often seen with sewing materials"
+      position: "Sitting at table writing letter with satisfied expression"
+      action: "Writing while image splits to show different reality behind words"
+  scene:
+    mainElements: "Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters, kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Split screen showing writing vs reality"
+    details: "Split composition: left side shows man writing pleasant lies, right side shows hidden letters and evidence of deception. Contrast between public narrative and private truth"
+    background: "Same domestic interior but revealing hidden compartments and concealed evidence, reality more complex than surface appearance"
+    atmosphere: "Deception and hidden truth, gap between official story and lived reality, documents as tools of power and concealment"
+  composition:
+    cameraAngle: "Split screen revealing deception"
+    focus: "Contrast between written lies and hidden truth"
+    depth: "Foreground: writing hand, middle: divided realities, background: concealed evidence"

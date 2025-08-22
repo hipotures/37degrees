@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1875, 1885, 1895, 1905, 1915 overlaid, showing 40 years of social gathering evolution, evening celebration
+    location: Grand ballroom in Salinas town hall, same space hosting community celebrations across generations
+    weather: Evening indoor celebration with warm lighting and festive atmosphere
+  characters:
+  - appearance: Multiple generations of families visible as transparent overlays dancing in period costumes from different
+      eras - elderly couples from 1870s, middle-aged from 1890s, young couples from 1910s
+    clothing: Fashion evolution from Victorian formal wear with bustles and high collars to Edwardian elegance to early modern
+      styles, men's clothing progressing from formal coats to dinner jackets
+    position: Dancing in same ballroom spaces but showing evolving dance styles and social patterns across decades
+    action: Formal structured dances of 1870s overlaid with waltz of 1890s overlaid with more modern couple dancing of 1910s,
+      same families represented across generational time
+  scene:
+    mainElements: Ballroom maintaining elegant proportions while decorative elements evolve across decades - gaslights replaced
+      by electric chandeliers, wooden dance floor polished smooth by generations of dancers, piano evolving from upright to
+      grand model
+    details: Wall decorations showing holiday celebrations from different years overlaid, chairs along walls showing furniture
+      style evolution, refreshment tables displaying period-appropriate food and drink containers, musicians' area adapting
+      to different era instruments
+    background: Tall windows showing Salinas Valley at night with gradually increasing artificial lighting from farms and
+      town development, community growing around constant social gathering tradition
+    atmosphere: Community continuity through changing times, social traditions adapting while maintaining essential human
+      connection, music and dance transcending generational differences, celebration as eternal human need, no text or letters
+      visible
+  composition:
+    cameraAngle: Grand ballroom view from elevated position showing full dance floor and surrounding details
+    focus: Central dance floor with overlaid generations as primary temporal elements
+    depth: Foreground shows period detail evolution, middle ground reveals dancing figures across time, background displays
+      community development through windows
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

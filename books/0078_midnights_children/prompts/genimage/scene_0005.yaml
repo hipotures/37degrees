@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1915 to 1978, medical examination lighting
+    location: From Kashmir doctor's office to Delhi getto to Bombay pickle factory
+    weather: Indoor artificial lighting
+  characters:
+  - appearance: Woman aging from 16 to 70 years. In youth slender, in old age large and formidable. Two distinctive large
+      moles on face called witch's nipples. Severe features expressing conservative authority
+    clothing: Always traditional dark sari, often with head covering. In youth complete purdah with veil
+    position: Sitting with commanding presence or lying covered by perforated sheet
+    action: Giving orders to family members or being examined through sheet hole
+  scene:
+    mainElements: White linen sheet with single round hole seven inches in diameter cut in center. Used for medical examinations
+      while maintaining purdah modesty. Symbol of fragmentation and incomplete knowledge. Sheet travels through time showing
+      increasing wear, stains, and deterioration from pristine medical tool to threadbare historical relic
+    details: Sheet fabric ages from crisp white linen to yellowed worn cloth to final threadbare transparency. Hole edges
+      fray and stretch from repeated use. Blood stains, medicine stains, and time stains accumulate creating historical palimpsest.
+      Sheet finally appears as museum piece or memory fragment
+    background: Medical office settings transform from British colonial sterility to Indian independence-era clinics to finally
+      appearing in memory contexts or historical displays
+    atmosphere: Gradual degradation of traditional practices under pressure of modernization and historical change. Sheet
+      represents fragmentary knowledge and cultural preservation attempts, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing sheet in various contexts and conditions
+    focus: Seven-inch hole as consistent element while surrounding fabric deteriorates
+    depth: Sheet occupies middle ground, examination contexts provide background, temporal aging effects create foreground
+      detail
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

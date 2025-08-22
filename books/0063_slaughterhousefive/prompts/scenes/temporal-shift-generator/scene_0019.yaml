@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Time Bleeding - Past Soldiers in Modern Street"
+  setting:
+    time: "1944 and 1970s simultaneously showing temporal overlap"
+    location: "Modern Ilium street with wartime soldiers appearing as ghostly presences"
+    weather: "Modern clear day with wartime snow and mud bleeding through"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Young soldier Billy marching transparently through modern suburban street while older Billy drives past"
+      action: "Past and present Billy existing in same space but different times, war trauma bleeding into peaceful civilian life, no text or letters visible"
+  scene:
+    mainElements: "Modern suburban street with ghostly overlay of wartime military march, contemporary cars sharing road with spectral army convoy"
+    details: "Modern pavement showing through wartime mud and snow, contemporary houses visible through ghostly military encampment, street signs and modern infrastructure overlaid with wartime markers"
+    background: "Peaceful neighborhood with transparent war zone bleeding through, showing how trauma makes past constantly present"
+    atmosphere: "Unsettling temporal bleeding where past trauma intrudes on present peace, suggesting psychological state where war never truly ended"
+  composition:
+    cameraAngle: "Street level shot showing modern and wartime elements occupying same space"
+    focus: "Billy in both time periods meeting each other in temporal overlap"
+    depth: "Multiple temporal layers showing past war experience bleeding through present civilian life"

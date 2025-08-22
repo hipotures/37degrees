@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, evening during clandestine cultural transmission
+    location: Hidden corner of traditional compound away from missionary and colonial observation
+    weather: Dim twilight providing concealment for forbidden cultural education
+  characters:
+  - appearance: Traditional elder and young person engaged in secret cultural knowledge transfer
+    clothing: Simple traditional clothing worn carefully to avoid detection of forbidden activity
+    position: Elder and student positioned to quickly disperse if discovered by authorities
+    action: Secretly transmitting traditional stories, spiritual knowledge, and cultural wisdom banned by colonial and missionary
+      authorities
+  scene:
+    mainElements: Concealed location where traditional knowledge survives through underground transmission despite systematic
+      cultural suppression
+    details: Traditional stories about ancestors, spirits, and cultural heroes shared secretly despite official prohibition.
+      Brown nut broken into segments and shared among guests with ritual prayers, fundamental act of welcome and respect maintained
+      in defiance of foreign religious conversion
+    background: Ordered traditional society with deep spiritual connection to land and ancestors forced underground by colonial
+      cultural destruction
+    atmosphere: Dangerous but essential preservation of cultural memory and traditional wisdom through secret resistance to
+      systematic cultural genocide
+  composition:
+    cameraAngle: Intimate close-up showing secretive knowledge transmission
+    focus: Elder passing forbidden cultural wisdom to younger generation
+    depth: Secret teaching in foreground, hidden location in middle ground, threat of discovery in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

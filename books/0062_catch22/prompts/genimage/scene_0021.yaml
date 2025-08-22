@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1944, dawn
+    location: airfield on Pianosa base
+    weather: clear Mediterranean dawn
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: standing at edge of airfield looking toward horizon
+    action: making final decision about refusing further combat missions
+  scene:
+    mainElements: military airfield at dawn with parked bomber aircraft, control tower, equipment scattered around landing
+      area
+    details: Yossarian stands at airfield edge with morning light illuminating his determined face. His eyes show complete
+      resolve to refuse further missions regardless of consequences. Behind him, bomber aircraft wait for crews who will continue
+      flying while he chooses personal survival over military duty. Dawn light symbolizes new beginning through moral choice.
+    background: rows of B-25 bomber aircraft, military vehicles, control tower, distant Mediterranean horizon
+    atmosphere: dawn of moral awakening and individual choice, mixture of military duty and personal liberation
+  composition:
+    cameraAngle: extreme close-up on eyes showing unwavering determination
+    focus: eyes reflecting complete resolve and moral certainty
+    depth: foreground emphasizes determined expression, middle ground shows military context being rejected, background reveals
+      horizon of possibility
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

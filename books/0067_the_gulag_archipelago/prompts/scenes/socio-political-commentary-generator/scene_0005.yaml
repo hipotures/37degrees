@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Palace of Justice - Symbol of State Power"
+  setting:
+    time: "1950, late afternoon"
+    location: "Imposing government building representing Soviet judicial authority"
+    weather: "Clear evening with dramatic lighting casting long shadows"
+  characters:
+    - appearance: "Middle-aged man in late 30s, clean-shaven face with harsh angular features, cold calculating eyes, pale complexion from indoor work"
+      clothing: "Immaculate NKVD uniform - olive drab gymnasterka tunic with high collar, chabrowy blue collar tabs and cuff piping, bottle-shaped shoulder boards with blue stripes, brown leather Sam Browne belt, black leather holster with TT pistol, garrison cap with blue band and red star, polished black leather boots"
+      position: "Standing on steps with authoritative posture"
+      action: "Reviewing documents, surveying the square with cold authority"
+  scene:
+    mainElements: "Massive neo-classical building with imposing columns and red star crowning the facade, wide stone steps leading to entrance, bronze scales of justice statue, red granite inscriptions proclaiming Soviet law"
+    details: "Perfectly maintained building facade without cracks or wear, polished brass doors reflecting light, armed guards at attention beside entrance, black official cars with government plates, citizens walking past with respectful distance"
+    background: "City square stretching away with other government buildings forming geometric pattern, organized street layout demonstrating planned urban control"
+    atmosphere: "Overwhelming display of state power and authority, architectural intimidation, sense of absolute control and unchangeable system"
+  composition:
+    cameraAngle: "Low angle emphasizing monumental scale and authority"
+    focus: "NKVD officer representing human face of institutional power"
+    depth: "Foreground shows individual authority figure, middle ground reveals institutional architecture, background demonstrates systematic urban control"

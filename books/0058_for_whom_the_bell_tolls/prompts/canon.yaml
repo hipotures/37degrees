@@ -1,0 +1,97 @@
+canon:
+  characters:
+    - id: "robert_jordan"
+      name: "Robert Jordan"
+      description_block: |
+        characters:
+          - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+            clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+            posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+            action: "methodically checking equipment, observing surroundings with professional alertness"
+    
+    - id: "maria"
+      name: "María"
+      description_block: |
+        characters:
+          - appearance: "19-year-old woman with slender build, long graceful legs, golden-brown eyes and skin, high cheekbones, full lips, distinctive hair cut short like beaver fur - visual reminder of trauma"
+            clothing: "simple gray shirt and peasant trousers, later khaki shirt with open collar - practical camp clothing"
+            posture: "initially shy and fragile movements, gradually gaining confidence and certainty"
+            action: "moving between vulnerability and growing strength, eyes showing mixture of innocence and hunger for life"
+    
+    - id: "pilar"
+      name: "Pilar"
+      description_block: |
+        characters:
+          - appearance: "powerful 50-year-old woman, nearly as wide as tall, brown square heavy face pleasantly ugly like granite monument, thick curly black hair in bun, large but beautiful hands"
+            clothing: "black peasant skirt and blouse, thick wool stockings, black espadrilles - dark rough colors"
+            posture: "moves with authority and strength, takes up space confidently, stands like natural leader"
+            action: "observing group dynamics, making decisive gestures, emanating protective maternal strength"
+    
+    - id: "pablo"
+      name: "Pablo"
+      description_block: |
+        characters:
+          - appearance: "stocky man in his 40s, about 178cm tall, round bearded stubbled face with broken nose, scarred face including scar at corner of mouth, small widely-set suspicious eyes"
+            clothing: "black peasant smock, dark gray trousers worn shiny on knees and thighs from saddle use, espadrilles"
+            posture: "hunched shoulders, furtive movements, eyes darting with mistrust and calculation"
+            action: "clutching wine bota, movements showing fear mixed with cunning, avoiding direct eye contact"
+    
+    - id: "anselmo"
+      name: "Anselmo"
+      description_block: |
+        characters:
+          - appearance: "68-year-old man, short but sturdy and solid build, face lined with wrinkles expressing wisdom and weariness, archetypal old Spanish peasant"
+            clothing: "black peasant smock, stiff dirty gray trousers, espadrilles - typical Spanish mountain peasant clothing"
+            posture: "moves with dignity of hard-working rural man, shoulders straight despite age"
+            action: "handling rifle with practiced familiarity, watching terrain with hunter's patience and knowledge"
+
+  locations:
+    - id: "partisan_cave"
+      name: "Partisan Cave"
+      description_block: |
+        setting:
+          location: "natural limestone cave hidden under rocky overhang in Sierra de Guadarrama mountains, central Spain"
+        mainElements: "low rocky ceiling, smoky interior lit by single tallow candle in bottle and open charcoal brazier in corner"
+        atmosphere: "cramped warm space filled with smoke, garlic smell, wine and unwashed bodies, entrance covered by simple blanket, strings of herbs and garlic hanging from rough stone walls"
+    
+    - id: "steel_bridge"
+      name: "Steel Bridge"
+      description_block: |
+        setting:
+          location: "single-span steel bridge wide enough for two vehicles over deep rocky gorge with rushing stream, strategic position in Spanish mountains"
+        mainElements: "cold gray-black industrial steel construction contrasting with natural mountain landscape, wooden guard posts at both ends"
+        atmosphere: "exposed functional structure representing tactical objective, metallic surfaces reflecting harsh daylight or dawn shadows"
+    
+    - id: "mountain_forest"
+      name: "Mountain Forest"
+      description_block: |
+        setting:
+          location: "ancient pine forest in Sierra de Guadarrama mountains, granite and limestone formations covered by old pines growing directly from rocky ground"
+        mainElements: "tall straight pine trees, thick brown carpet of fallen pine needles covering forest floor, steep ravines and rocky outcrops"
+        atmosphere: "quiet sanctuary with air scented by pine resin and earth, golden sunlight filtering through tree crowns, sounds muffled by forest"
+
+  items:
+    - id: "dynamite_packs"
+      name: "Dynamite Packs"
+      description_block: |
+        details: "two heavy canvas backpacks containing dynamite sticks, detonators and fuses for bridge demolition, professional military equipment carried by Robert Jordan"
+    
+    - id: "sleeping_bag"
+      name: "Sleeping Bag"
+      description_block: |
+        details: "worn green silk sleeping bag belonging to Robert Jordan, becomes intimate sanctuary and symbol of love refuge in midst of war"
+    
+    - id: "wine_bota"
+      name: "Wine Bota"
+      description_block: |
+        details: "large leather wine skin hung on cave wall, constantly circulating among partisans, symbol of communal rough mountain life and Spanish tradition"
+    
+    - id: "absinthe_flask"
+      name: "Absinthe Flask"
+      description_block: |
+        details: "small personal flask containing milky-green absinthe carried by Robert Jordan, connection to lost civilized world of sensual pleasures"
+    
+    - id: "espadrilles"
+      name: "Espadrilles"
+      description_block: |
+        details: "rope-soled canvas shoes (alpargatas) worn by Spanish peasants and partisans, simple functional footwear grounding characters in their environment"

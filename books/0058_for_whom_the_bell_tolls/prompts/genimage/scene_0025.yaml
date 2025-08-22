@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, afternoon with golden light
+    location: ancient pine forest in Sierra de Guadarrama mountains, granite and limestone formations covered by old pines
+      growing directly from rocky ground
+    weather: Clear mountain weather with warm afternoon sun
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  scene:
+    mainElements: quiet sanctuary with air scented by pine resin and earth, golden sunlight filtering through tree crowns,
+      sounds muffled by forest
+    details: Figure positioned against pine tree trunk, thick brown carpet of fallen pine needles creating natural bed, dappled
+      sunlight creating circular frame of golden light around final resting place, sense of profound peace and integration
+      with natural environment
+    background: tall straight pine trees, thick brown carpet of fallen pine needles covering forest floor, steep ravines and
+      rocky outcrops
+    atmosphere: Final unity between human spirit and Spanish landscape, peaceful resolution and acceptance, circular frame
+      suggesting completion of life cycle and eternal connection to place
+  composition:
+    cameraAngle: Shot using natural sunlight patterns to create symbolic circular frame
+    focus: Figure's final peaceful integration with natural environment
+    depth: Sunlight frame in foreground, figure at rest in middle ground, eternal forest extending infinitely in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

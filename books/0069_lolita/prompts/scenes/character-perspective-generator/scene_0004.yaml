@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Adult Conversation - Child Excluded"
+  setting:
+    time: "1947, evening"
+    location: "Dining room in middle-class wooden frame house, New England"
+    weather: "Evening interior lighting, lamps creating warm glow"
+  characters:
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+      position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+      action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+    - appearance: "Middle-aged man in his thirties, European features, attentive listener"
+      clothing: "Evening casual clothes, well-pressed shirt"
+      position: "Standing near dining table, engaged in adult conversation"
+      action: "Nodding politely, making appropriate responses, observing hostess carefully"
+  scene:
+    mainElements: "Dining room with wooden table, chairs, evening lighting from lamps, adult dinner conversation in progress"
+    details: "Table set for adult meal, wine glasses, cigarette ash in tray, domestic evening scene with adults engaged in sophisticated conversation about boarding school plans and adult matters"
+    background: "Middle-class dining room, 1940s furniture and decorations, warm lamp lighting, domestic evening atmosphere"
+    atmosphere: "Adult world of decisions being made without child input, exclusion from important conversations affecting future, sense of powerlessness"
+  composition:
+    cameraAngle: "Low angle view from child height looking up at adult conversation"
+    focus: "Two adults in intense conversation about plans, elevated above viewer perspective"
+    depth: "Foreground shows dining room floor level, middle ground shows adult figures in conversation, background shows domestic interior"

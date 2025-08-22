@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: April 1625, evening with golden light streaming through window
+    location: Rented room overlooking Parisian courtyard where young Gascon first glimpses his destiny
+    weather: Clear evening with warm light creating romantic atmosphere
+  characters:
+  - appearance: 22-25 years old young woman with natural innocent beauty, fair long curly hair, large blue dreamy eyes, pink
+      lips, alabaster hands, graceful modest bearing
+    clothing: Modest but tasteful attire befitting bourgeois wife and Queen's confidante, practical garments often including
+      characteristic period hood partially concealing face
+    position: Seen through window frame across courtyard, framed by architecture like living portrait
+    action: Moving gracefully through domestic space, unaware of being observed, hood partially concealing features adding
+      mystery
+  scene:
+    mainElements: View exactly as D'Artagnan sees it through his window, hands visible at frame edges gripping window sill,
+      courtyard space creating distance and romantic mystery
+    details: Window frame creating natural border for view, woman's movements visible but distant, architectural elements
+      of Parisian courtyard, evening light creating golden highlights on her fair hair, domestic details suggesting comfortable
+      bourgeois life
+    background: Typical Parisian courtyard architecture with stone buildings, multiple windows suggesting urban domestic life,
+      church spires visible beyond buildings indicating religious context
+    atmosphere: Romantic discovery and instant fascination, golden light creating magical quality, sense of destiny and love
+      at first sight, voyeuristic intimacy of secret observation
+  composition:
+    cameraAngle: Point-of-view shot from D'Artagnan's exact position showing what he sees, hands partially visible at frame
+      edges to establish perspective
+    focus: Sharp focus on mysterious woman with courtyard architecture providing depth, window frame creating natural vignette
+      effect
+    depth: 'Foreground: D''Artagnan''s hands gripping window frame, middle ground: courtyard space creating romantic distance,
+      background: woman framed by architecture, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

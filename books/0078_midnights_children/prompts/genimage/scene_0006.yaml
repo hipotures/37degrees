@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Spring to summer 1915, seasonal transition
+    location: Kashmir valley in northern Indian subcontinent, same mountain landscape through seasonal change
+    weather: Transition from wet spring with melting snow to warm dry summer
+  characters: No characters present in this scene
+  scene:
+    mainElements: Kashmir valley showing complete spring-to-summer transformation. Spring scene displays snow melting from
+      mountain peaks with emerging wildflowers and budding trees along Dal Lake shores. Summer overlay shows lush green mountains
+      with full-bloom gardens and clear azure lake reflecting cloudless sky
+    details: Fruit trees progress from pink-white blossoms to heavy green fruit. Saffron fields transition from bare earth
+      to purple carpet bloom. Dal Lake changes from grey-green spring meltwater to crystal blue summer clarity. Mountain snow
+      retreats revealing green pastures. Traditional houseboats multiply on lake as tourist season peaks
+    background: Himalayan peaks maintain eternal presence while seasonal clothing and activity levels change. Distant villages
+      show increased agricultural activity. Temple bells and traditional music suggest festive summer celebrations
+    atmosphere: Optimistic progression from tentative spring promise to abundant summer fulfillment. Natural beauty representing
+      Kashmir's legendary paradise quality before political conflicts, no text or letters visible
+  composition:
+    cameraAngle: Wide panoramic view capturing entire valley seasonal transformation
+    focus: Lake and immediate valley floor showing most dramatic seasonal changes
+    depth: Foreground shows detailed flora changes, middle ground captures lake transformation, background maintains mountain
+      constancy
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

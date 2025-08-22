@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Crushing of Beauty - Destruction of Musical Expression"
+  setting:
+    time: "1952, evening"
+    location: "Public square where instruments and artwork are being destroyed"
+    weather: "Harsh lighting emphasizing violence of destruction"
+  characters:
+    - appearance: "Middle-aged man in late 30s, clean-shaven face with harsh angular features, cold calculating eyes, pale complexion from indoor work"
+      clothing: "Immaculate NKVD uniform - olive drab gymnasterka tunic with high collar, chabrowy blue collar tabs and cuff piping, bottle-shaped shoulder boards with blue stripes, brown leather Sam Browne belt, black leather holster with TT pistol, garrison cap with blue band and red star, polished black leather boots"
+      position: "Standing behind massive oak desk with authoritative posture, or sitting in leather chair"
+      action: "Reviewing documents, operating interrogation lamp, speaking with cold authority"
+  scene:
+    mainElements: "Musical instruments being systematically destroyed, paintings torn from frames, books thrown into fires, cultural artifacts reduced to debris"
+    details: "Violins and pianos smashed with hammers, sheet music scattered and burned, artistic works trampled underfoot, creative materials systematically eliminated"
+    background: "Systematic elimination of cultural expression, organized destruction of beauty and creativity, replacement of art with approved propaganda"
+    atmosphere: "Violent suppression of human creativity, destruction of beauty as threat to control, systematic elimination of independent expression"
+  composition:
+    cameraAngle: "Close-ups on destruction of beautiful objects contrasted with wide shots of systematic elimination"
+    focus: "Violence against beauty and creativity as tool of control"
+    depth: "Foreground shows detailed destruction, middle ground reveals systematic process, background demonstrates cultural elimination"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Observation Tower - Panopticon of Social Control"
+  setting:
+    time: "1930s, dawn"
+    location: "Central tower overlooking multiple migrant camps and work areas in California valley"
+    weather: "Early morning light revealing surveillance architecture"
+  characters:
+    - appearance: "Tiny human figures visible in camps below, appearing controlled and monitored from central observation point."
+      clothing: "Work clothes rendered small and indistinct by distance from surveillance tower"
+      position: "Scattered throughout camps and work areas, all visible from central control point"
+      action: "Going about daily activities under constant observation, behavior modified by awareness of being watched"
+  scene:
+    mainElements: "Massive central observation tower providing 360-degree surveillance of all human activity in surrounding area, architecture of total social control"
+    details: "Powerful image of panopticon surveillance state controlling population through constant observation. Central tower equipped with viewing instruments and communication equipment. All camps, work areas, and living spaces arranged for maximum visibility. No privacy or hidden spaces allowed. Architecture designed to create feeling of permanent observation"
+    background: "Vast network of camps and work areas all arranged for maximum surveillance from central control point"
+    atmosphere: "Oppressive feeling of constant observation eliminating privacy and individual freedom"
+  composition:
+    cameraAngle: "View from surveillance tower looking down at controlled population"
+    focus: "Architecture of social control enabling total surveillance of human activity"
+    depth: "Central control point in immediate foreground oversees human activities extending through middle ground to distant background"

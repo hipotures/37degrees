@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Jazz music rippling through smoke-filled air"
+  setting:
+    time: "1924, late evening"
+    location: "Underground nightclub in Montparnasse district Paris, dim lighting with scattered table lamps"
+    weather: "Warm interior contrasting with cool night outside"
+  characters:
+    - appearance: "British woman aged 34, tall and gracefully slender with curves, very short hair cut in fashionable boy-like style reaching barely to earlobes, large expressive eyes with subtle melancholy beneath surface confidence, refined aristocratic features with defined cheekbones"
+      clothing: "Form-fitting jersey sweater in muted tone, knee-length skirt representing 1920s fashion revolution, small cloche hat positioned at stylish angle, no stockings as per modern convention"
+      position: "Swaying near small stage, body responding to rhythm"
+      action: "Moving with self-assured grace while engaging in conversation with direct, unflinching manner that commands attention"
+  scene:
+    mainElements: "Cigarette smoke undulating in visible waves with musical beats, dust particles on tables jumping with drum strikes, wine glasses trembling with bass notes"
+    details: "Tobacco smoke creating visual rhythm patterns in lamplight, liquid in glasses vibrating with each saxophone note, tablecloths rippling from sound vibrations traveling through floorboards, hair moving with head swaying to unheard melody, shadows dancing on walls as bodies respond to musical pulse, no text or letters visible"
+    background: "Crowded basement venue with low ceiling, small stage for trio, intimate tables creating maze of shadows and warm light"
+    atmosphere: "Music made visible through environmental response - smoke becoming rhythm, furniture becoming percussion, human bodies becoming instruments translating sound into movement"
+  composition:
+    cameraAngle: "Medium shot capturing environmental sound visualization"
+    focus: "Smoke patterns and vibration effects showing musical rhythm"
+    depth: "Foreground: detailed vibration effects, midground: dancing figure, background: atmospheric venue with moving shadows"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1645 spring afternoon, three years later
+    location: Small thatched cottage on peninsula outskirts of Boston settlement
+    weather: Gentle spring light filtering through cottage windows
+  characters:
+  - appearance: Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like
+      features, bright intelligent eyes, flowing hair, otherworldly beauty
+    clothing: Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate
+      dresses that make her appear like living embodiment of scarlet letter
+    position: Standing before mother in center of room, arms outstretched
+    action: Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering
+      flowers and seashells, mimicking adult behaviors with disturbing accuracy
+  scene:
+    mainElements: Child dressed entirely in elaborate scarlet and gold fabric mimicking exact colors and ornate style of mother's
+      letter, simple cottage interior with needlework materials scattered about
+    details: The child becomes walking symbol, her rich crimson dress with gold embroidery transforming her into living manifestation
+      of her mother's shame. Fabric flows around her small figure like liquid fire, creating visual echo of the letter itself.
+      Simple one-room dwelling with large stone fireplace, few wooden furnishings, materials for Hester's elaborate needlework,
+      view of both forest and sea frame this symbolic transformation. Child's movements create swirling patterns of red and
+      gold.
+    background: Profound isolation and exile from human community, melancholy solitude broken only by sounds of wind and waves,
+      refuge that is also prison of social ostracism
+    atmosphere: Innocent beauty carrying weight of inherited sin, child as living symbol of passion and transgression, isolated
+      domestic space where symbols take on life, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing child's symbolic costume against humble surroundings
+    focus: Child's scarlet and gold garments as living embodiment of the letter
+    depth: 'Foreground: child in symbolic dress; middle: cottage interior with needlework; background: windows showing forest
+      and sea representing isolation'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

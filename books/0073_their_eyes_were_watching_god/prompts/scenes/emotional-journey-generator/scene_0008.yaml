@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Turning Away from Failed Dreams"
+  setting:
+    time: "1900s, morning"
+    location: "Farmhouse bedroom with unmade bed"
+    weather: "Gray morning light"
+  characters:
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Standing with back to bed, facing window"
+      action: "Looking out window with arms crossed defensively over chest"
+  scene:
+    mainElements: "Woman with back turned to marital bed, body language showing rejection and protection, morning light revealing harsh reality of situation"
+    details: "Unmade bed with rumpled sheets, woman's back turned showing rejection, window revealing view of dead pear tree in yard, mirror reflecting only empty room, clothes scattered carelessly, no text or letters visible"
+    background: "View through window of withered pear tree, symbol of dead dreams"
+    atmosphere: "Emotional withdrawal and self-protection, recognition that marriage lacks the love she dreamed of, body language showing defensive positioning, growing determination to protect inner self"
+  composition:
+    cameraAngle: "Medium shot from room interior showing turned back"
+    focus: "Figure's defensive posture against window light"
+    depth: "Foreground: bedroom furniture, middle: turned figure, background: view of dead tree through window"

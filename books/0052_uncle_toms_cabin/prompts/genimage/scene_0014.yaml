@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1851, afternoon
+    location: Area where young enslaved children receive training in submission and obedience
+    weather: Bright afternoon highlighting the stark teaching methods
+  characters:
+  - appearance: 8-9 year old girl, blackest of her race, round glittering eyes like glass beads, woolly hair braided in numerous
+      small tails sticking out in all directions, goblin-like appearance
+    clothing: Single dirty ragged garment made of bagging material, barefoot
+    position: Crouched or standing in mischievous pose, ready to dart away quickly
+    action: Performing tricks, stealing small items, or claiming she just grew without divine creation
+  - appearance: Other children of various ages learning required behaviors
+    clothing: Simple children's work clothes, some hand-me-downs from white children, bare feet
+    position: Arranged in learning formation, some sitting on ground, others standing at attention
+    action: Practicing required gestures of respect, learning work songs, memorizing responses to white authority
+  scene:
+    mainElements: Outdoor learning area with children arranged for instruction, authority figure demonstrating required behaviors,
+      simple teaching materials
+    details: Demonstration of proper bowing and postures, work songs that coordinate labor, responses to be given to white
+      people, punishment examples for incorrect behavior, basic skills training limited to economic usefulness
+    background: Adult enslaved people working nearby as examples of expected futures, plantation buildings representing the
+      system children must learn to navigate
+    atmosphere: Systematic destruction of natural childhood development, education designed to create compliance rather than
+      growth, contrast between children's natural energy and required submission
+  composition:
+    cameraAngle: Medium shot showing children and teaching authority
+    focus: The contrast between natural childhood spirit and enforced conformity training
+    depth: Foreground shows individual children's faces and reactions, middle ground reveals the teaching process, background
+      shows the adult world children are being prepared to enter
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, midnight hour beneath star-filled sky
+    location: Abandoned London rooftop overlooking sprawling multicultural cityscape
+    weather: Clear cold night with stars visible despite urban light pollution
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Standing at rooftop center with arms raised toward constellation
+    action: Gesturing with divine authority, surrounded by subtle golden aureola
+  scene:
+    mainElements: Seven symbolic objects arranged in precise circle mimicking constellation pattern overhead, each item glowing
+      with inner light
+    details: Broken compass pointing in multiple directions, cracked mirror reflecting different worlds, plastic toy crown
+      with missing jewel, intertwined gold and iron chains, antique brass lamp emitting impossible flame, withered rose with
+      single perfect petal, ancient book with pages fluttering though air is still, arrangement forms exact replica of Pleiades
+      star cluster, each object positioned to correspond with celestial counterpart, subtle energy connecting items in visible
+      threads of light, no text or letters visible
+    background: London skyline with immigrant neighborhoods marked by different architectural styles, distant lights creating
+      earthbound constellation, church spires and minarets pointing toward same stars
+    atmosphere: Mystical convergence where earthly symbols mirror cosmic order, sense of pattern emerging from chaos of urban
+      existence
+  composition:
+    cameraAngle: Elevated view showing correspondence between rooftop circle and star pattern above
+    focus: Sacred arrangement revealing hidden connections between disparate symbolic elements
+    depth: 'Foreground: detailed symbolic objects, midground: central figure, background: city lights and starlit sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Uniformity Erasing Identity"
+  setting:
+    time: "Late 1930s, morning"
+    location: "Chicago South Side public school classroom"
+    weather: "Cold overcast winter morning"
+  characters:
+    - appearance: "Multiple African American children of various ages, all dressed identically, faces showing loss of individual expression"
+      clothing: "identical school uniforms or similar simple clothing, same colors and styles, worn books and materials"
+      position: "seated in rigid rows at identical desks"
+      action: "reciting identical phrases in unison, moving hands in same gestures, learning conformity rather than thinking"
+    - appearance: "stern white teacher with authoritarian presence, older woman with disapproving expression"
+      clothing: "conservative dark dress, hair pulled back severely, represents institutional control"
+      position: "standing at front of classroom observing student conformity"
+      action: "enforcing uniformity of thought and behavior, suppressing any individual expression or questioning"
+  scene:
+    mainElements: "Classroom designed to eliminate individual thinking and creativity, emphasizing conformity and suppression of personal identity through educational system"
+    details: "Identical desks arranged in perfect rows, children sitting with same posture, hands folded identically, textbooks showing outdated and limited content, disciplinary rules posted prominently, no artwork or creative expression visible, windows providing minimal light, emphasis on obedience rather than learning"
+    background: "Educational posters promoting conformity and obedience, American flag emphasizing nationalist indoctrination, institutional clock marking regimented time, bare walls showing lack of investment in creative development"
+    atmosphere: "Systematic suppression of individual creativity and critical thinking, education used as tool of social control rather than human development, preparation for lifetime of conformity and submission to authority"
+  composition:
+    cameraAngle: "Wide shot from back of classroom showing rows of identical students"
+    focus: "The elimination of individual identity through institutional control and enforced conformity"
+    depth: "Foreground shows regimented seating arrangement, middle ground captures uniformed students, background reveals institutional apparatus of mental control"

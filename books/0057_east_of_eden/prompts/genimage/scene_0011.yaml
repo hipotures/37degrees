@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1885, 1905, and 1925 overlaid, showing 40 years of family tradition, early morning cooking time
+    location: Kitchen of Hamilton farmhouse with cast iron stove as central focus
+    weather: Cool morning requiring stove fire for warmth and cooking
+  characters:
+  - appearance: Three transparent overlays of Hamilton women - grandmother Liza Hamilton in her 50s with stern Presbyterian
+      features, mother in her 30s with softer appearance, daughter in her 20s with modern shorter hair
+    clothing: Long dark dresses with aprons showing evolution from Victorian high collars to 1920s looser styles, hair progressing
+      from tight buns to softer styles to bobbed cuts
+    position: All three standing at same cast iron stove, identical posture stirring morning porridge
+    action: Same ritual of morning cooking across three generations - lighting fire, preparing breakfast, stirring pot with
+      identical wooden spoon passed down through family
+  scene:
+    mainElements: Cast iron stove showing decades of use - surface changing from new black iron to seasoned gray to well-worn
+      smooth metal, same wooden spoon used by all three generations, kitchen gradually modernizing around constant stove
+    details: Stove pipe showing accumulated soot and repairs, kitchen table receiving same breakfast bowls across decades,
+      wooden floor worn smooth by identical morning routines, morning light through same window revealing gradually changing
+      valley view
+    background: Kitchen showing subtle modernization - oil lamps evolving to electric fixtures, hand pump evolving to indoor
+      plumbing, wooden walls showing layers of paint and repair across generations
+    atmosphere: Continuity of family traditions across changing times, women's roles maintaining consistency while world transforms
+      around them, kitchen as sacred space of family nurture, no text or letters visible
+  composition:
+    cameraAngle: Medium view of kitchen focused on stove area with generational figures
+    focus: Cast iron stove and wooden spoon as temporal anchors across generations
+    depth: Foreground shows stove details aging, middle ground reveals generational figures overlaid, background displays
+      kitchen evolution across decades
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

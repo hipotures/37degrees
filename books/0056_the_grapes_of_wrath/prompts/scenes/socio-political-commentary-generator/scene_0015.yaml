@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Lost in the Crowd - Individual Doubt Among Conformity"
+  setting:
+    time: "1930s, evening"
+    location: "Company rally and assembly area in California agricultural facility"
+    weather: "Artificial evening lighting creating dramatic shadows"
+  characters:
+    - appearance: "Large, heavy-built woman in her late forties, strong freckled arms, full controlled face with amber eyes that show deep understanding of tragedy and pain. Expression of calm authority."
+      clothing: "Simple worn cotton dress, practical and clean but patched. Sturdy work shoes, hair pulled back simply."
+      position: "Standing isolated among crowd, maintaining composed expression despite inner concern"
+      action: "Standing still while crowd around moves in unison, face showing quiet doubt and sadness while surrounded by artificial enthusiasm"
+  scene:
+    mainElements: "Massive crowd of workers participating in company-sponsored rally, one individual standing still with expression of doubt while others celebrate around her"
+    details: "Powerful image of individual conscience resisting mass manipulation. Hundreds of workers wave flags and cheer company propaganda while one person stands motionless. Her face shows pain and wisdom while others display artificial enthusiasm. Spotlights illuminate crowd but create shadows around the lone dissenter"
+    background: "Corporate banners and propaganda displays encouraging worker loyalty and submission to company authority"
+    atmosphere: "Overwhelming pressure to conform contrasted with quiet dignity of individual resistance, sounds of orchestrated cheering drowning out authentic human voice"
+  composition:
+    cameraAngle: "Close-up on individual face surrounded by crowd"
+    focus: "Single person's authentic emotion contrasted with manufactured mass enthusiasm around her"
+    depth: "Individual in sharp focus in foreground while crowd becomes blur of conformity in background, emphasizing isolation of conscience"

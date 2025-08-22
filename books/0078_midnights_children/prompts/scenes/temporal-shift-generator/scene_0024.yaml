@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Valley Wars Through History - Different Conflicts, Same Battlefield"
+  setting:
+    time: "1947, 1965, 1971 - three war periods overlapping in Kashmir"
+    location: "Kashmir valley showing recurring military conflicts across decades"
+    weather: "Various war conditions - partition chaos, bombing raids, military occupation"
+  characters:
+    - appearance: "Soldiers from different conflicts appearing as ghostly overlays. Partition period irregulars, 1965 war regular army, 1971 war modern military forces"
+      clothing: "Military uniforms evolving across periods - basic partition-era clothing to formal army dress to modern combat gear"
+      position: "Combat positions and military formations appropriate to different warfare periods"
+      action: "Fighting, patrolling, occupying territory across multiple historical conflicts"
+  scene:
+    mainElements: "Kashmir valley serving as recurring battlefield for multiple conflicts over twenty-four year period. Partition violence, 1965 Indo-Pakistani war, and 1971 Bangladesh war all visible as overlapping military actions in same geographical space"
+    details: "Military equipment and tactics evolve across time periods while battlefield geography remains constant. Weapons progress from basic partition-era arms to modern military hardware. Troop formations and strategy adapt to changing warfare technology and political objectives"
+    background: "Valley geography provides eternal backdrop while military infrastructure and civilian displacement patterns change. Villages and settlements show damage accumulation and reconstruction cycles across multiple conflicts"
+    atmosphere: "Tragic repetition of violence in paradise location. Beautiful Kashmir valley scarred by recurring warfare showing cyclical nature of political conflict and human suffering, no text or letters visible"
+  composition:
+    cameraAngle: "Wide valley shot capturing battlefield geography and military activities"
+    focus: "Military formations as overlapping temporal elements within constant geography"
+    depth: "Combat activities in foreground, valley terrain in middle ground, mountain backdrop providing eternal reference"

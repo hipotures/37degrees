@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Same autumn morning 1912, around 8:00 AM
+    location: Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building
+    weather: Rain beginning to lighten but still creating uneven shadows
+  characters:
+  - appearance: Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately
+      three feet long
+    clothing: No clothing - naked insect body with hard brown shell and soft pale belly divided into segments
+    posture: Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving
+    action: Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls
+  scene:
+    mainElements: Framed picture of woman in furs mounted on wall, becoming the center of paranoid attention and psychological
+      projection
+    details: Magazine illustration cut out and mounted in gilded wooden frame, showing elegant woman wearing fur hat and stole,
+      arm disappearing into large fur muff, Gregor's only personal decoration. The woman's eyes in the picture seem to follow
+      Gregor's movement, her expression shifting from serene to judgmental. The fur textures in the image appear to move and
+      ripple. The gilded frame reflects light in patterns that form additional eyes watching from every angle.
+    background: Wallpaper pattern behind picture forms face-like shapes, shadows on wall create silhouettes of watching figures
+    atmosphere: Intense paranoia and scrutiny, feeling of being constantly observed and judged, isolation becoming oppressive
+  composition:
+    cameraAngle: Medium shot from Gregor's position showing picture on wall with multiple reflected gazes
+    focus: Woman's eyes in the picture that seem alive and judgmental
+    depth: 'Foreground: Gregor''s insect form, middle: picture with watching woman, background: wallpaper patterns forming
+      additional watching faces'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

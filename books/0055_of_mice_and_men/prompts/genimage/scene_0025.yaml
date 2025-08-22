@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening twilight with symbolic lighting
+    location: Salinas River bank where story began, but seen with transformed understanding
+    weather: Clear evening with gentle twilight, no storm clouds
+  characters:
+  - appearance: Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose,
+      large restless dark eyes, small strong hands, lean wiry build
+    clothing: Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots
+    position: Sitting on polished sycamore branch, same physical location but completely different internal state
+    action: Gazing across river toward distant hills with deep contemplation, hands still for first time, face bearing weight
+      of knowledge and loss but also acceptance
+  scene:
+    mainElements: Same peaceful river setting but viewer sees it differently now, deep green pool reflecting twilight sky,
+      willows and sycamores eternal and unchanged
+    details: Path still worn by many travelers suggesting continuity of human passage, pile of ashes cold but ready for future
+      fires, natural cycles continuing despite human drama
+    background: Golden hills softened by distance and twilight, sense of vast landscape putting human struggles in perspective,
+      door metaphorically opening to different quality of light
+    atmosphere: Final emotional note of profound contemplation, figure in transformed landscape both physically and emotionally,
+      lasting feeling of hard-won wisdom and acceptance
+  composition:
+    cameraAngle: Wide shot placing solitary figure in vast natural context
+    focus: The transformation of understanding rather than location, symbolic door opening to different light
+    depth: Foreground shows contemplative human figure, middle ground captures eternal natural sanctuary, background suggests
+      vast cosmic perspective and continuity
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

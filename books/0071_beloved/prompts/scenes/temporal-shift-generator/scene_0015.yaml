@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Memory Layers - Multiple Time Periods in Single Space"
+  setting:
+    time: "1855, 1856, 1873 all visible simultaneously, temporal layers showing accumulated history"
+    location: "Front room of 124 Bluestone Road showing ghostly overlays of multiple time periods"
+    weather: "Light filtering through windows shows different qualities across overlapping time periods"
+  characters:
+    - appearance: "African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear as holes punched in a mask, weathered hands showing years of hard labor"
+      clothing: "Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions"
+      position: "Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language"
+      action: "Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective distraction"
+    - appearance: "Young African American woman appearing age 19-20, slender build moving with unnatural heaviness as if head too heavy for neck, mass of black hair like dark thread, smooth new skin without lines even on knuckles, three thin vertical scratches on forehead, delicate scar under chin"
+      clothing: "High-quality dress with lace at neck and rich woman's hat, all completely soaked as if emerging from water"
+      position: "Sitting or standing unsteadily, supporting herself on furniture with childlike uncertainty"
+      action: "Moving with infant-like unsteadiness yet possessing supernatural strength, drinking water eagerly, breathing with milk-scented breath"
+  scene:
+    mainElements: "Multiple transparent layers showing same room across different time periods, furniture arrangements changing and characters appearing as ghostly overlays from different decades"
+    details: "Room showing archaeological layers of time - happy family period with children playing transparently overlaid with tragic aftermath and empty furniture, present day isolation with Sethe and Beloved existing alongside ghostly past community gatherings, same doorways and windows framing different emotional realities simultaneously, walls holding memory impressions of laughter, crying, and silence"
+    background: "Front room of 124 Bluestone Road showing identical architecture but different atmospheric weights from accumulated events"
+    atmosphere: "Past and present existing simultaneously in traumatized space, memory as physical presence inhabiting architectural space, time as accumulated layers rather than linear progression, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot allowing multiple temporal layers to be visible simultaneously"
+    focus: "Overlapping temporal occupancy showing room as vessel for multiple time periods"
+    depth: "Foreground shows present-day reality, middle ground reveals transitional periods, background maintains architectural consistency across all time layers"

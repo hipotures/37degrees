@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1944, afternoon
+    location: field hospital on Pianosa military base, Mediterranean theater of World War II
+    weather: oppressive Mediterranean heat
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: hospital pajamas, shirtless, standard military issue
+    position: lying on metal hospital bed
+    action: censoring letters with black marker, deliberately obscuring words and sentences
+  scene:
+    mainElements: sterile hospital ward with rows of metal beds, harsh lighting from bare bulbs, medical equipment scattered
+      around
+    details: Yossarian systematically blacks out random words from soldiers' letters home, signing each with false name Washington
+      Irving. Censorship creates meaningless fragments of communication. Other patients move quietly between beds while medical
+      staff conduct routine checks.
+    background: long wooden barracks interior with white walls, medicine bottles on shelves, other wounded soldiers in various
+      states of recovery
+    atmosphere: false sanctuary atmosphere where war's absurdity continues through bureaucratic tasks, mixture of medical
+      sterility and underlying military tension
+  composition:
+    cameraAngle: medium shot focusing on Yossarian's concentrated face and moving hand
+    focus: black marker methodically destroying meaning in personal letters
+    depth: foreground shows letter and marker work, middle ground captures Yossarian's cynical expression, background reveals
+      institutional hospital environment
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

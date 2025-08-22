@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, midday showing extreme social contrast
+    location: Border area between traditional village and new colonial administrative center
+    weather: Harsh tropical sun highlighting dramatic disparities in living conditions
+  characters:
+  - appearance: British colonial official whose face reddens with anger, arrogant and condescending expression
+    clothing: White or khaki tropical colonial uniform with pith helmet, formal European dress
+    position: Standing in well-appointed colonial residence overlooking indigenous settlements
+    action: Surveying territory under administrative control with dismissive superiority toward local population
+  scene:
+    mainElements: Stark contrast between well-constructed European administrative buildings and traditional indigenous compounds
+      showing dramatic inequality of resources and status
+    details: Basic red clay and thatch structure with wooden cross, benches for converts representing minimal investment in
+      local welfare compared to elaborate colonial infrastructure. Forbidden sacred grove outside Umuofia village considered
+      dwelling place of evil spirits and outcasts where marginalized people now gather
+    background: Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family
+      compounds connected by dirt paths now overshadowed by colonial authority
+    atmosphere: Sharp inequality between colonial privilege and indigenous marginalization demonstrating exploitative nature
+      of new power structure
+  composition:
+    cameraAngle: High angle shot emphasizing colonial elevation over indigenous level
+    focus: Dramatic contrast between colonial luxury and traditional simplicity
+    depth: Colonial buildings in foreground, administrative boundary in middle ground, indigenous settlements in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

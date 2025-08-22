@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Child's Magical Castle Vision - Wonder and Terror"
+  setting:
+    time: "Early 1920s afternoon"
+    location: "Village street with child's view toward hilltop Castle complex"
+    weather: "Bright winter afternoon with snow sparkling like fairy tale"
+  characters:
+    - appearance: "Small village child aged 8-10 years"
+      clothing: "Simple rural winter clothes, too-large adult hand-me-downs"
+      position: "Standing in village street, gazing up at Castle"
+      action: "Staring at Castle with mixture of wonder and fear"
+  scene:
+    mainElements: "Disappointing cluster of village-like structures with crumbling stone walls transformed through child's imagination into mysterious magical fortress"
+    details: "From child's perspective of magical thinking - Castle appearing as enchanted fortress where windows gleaming with somewhat insane brilliance become magical portals, crumbling architecture transformed into ancient mysterious towers. Circular tower with irregular battlements appearing as dragon's lair or wizard's home, snow creating fairy tale landscape."
+    background: "Village houses appearing as cozy cottages in fairy tale setting, paths leading to magical adventures"
+    atmosphere: "Through child's wondering fearful imagination - Castle representing both magical possibility and terrifying unknown, adult conflicts about bureaucracy incomprehensible compared to child's fairy tale interpretation, winter landscape creating perfect setting for magical stories, no text or letters visible"
+  composition:
+    cameraAngle: "Child's upward gaze emphasizing Castle's magical towering presence"
+    focus: "Castle transformed through child's imagination into place of wonder and terror"
+    depth: "Foreground shows child's small figure against vast landscape, middle ground captures magical village setting, background features Castle as fairy tale destination"

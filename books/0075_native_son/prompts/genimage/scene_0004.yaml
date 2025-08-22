@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, morning
+    location: Hyde Park wealthy white neighborhood streets of Chicago
+    weather: Crisp clear winter morning
+  characters:
+  - appearance: Various well-dressed white residents of different ages, all showing signs of prosperity and comfort, clean
+      and healthy appearance
+    clothing: High-quality winter coats, expensive hats and gloves, polished shoes, elegant scarves, fashionable 1930s attire
+      showing wealth
+    position: walking along clean sidewalks and entering expensive shops
+    action: conducting daily business with ease and confidence, shopping and socializing without concern
+  scene:
+    mainElements: Wide clean tree-lined streets with expensive shops, manicured lawns, well-maintained buildings, and infrastructure
+      showing municipal investment in wealthy areas
+    details: Pristine sidewalks free of debris, elegant storefronts with quality goods displayed, street lamps providing adequate
+      lighting, snow removal equipment having cleared paths perfectly, decorative elements like park benches and flower boxes,
+      uniformed police providing security, luxury automobiles parked along curbs
+    background: Row of upscale businesses including banks, boutiques, and professional offices, church spires visible showing
+      established institutions, tree-lined parkland showing recreational spaces for the wealthy
+    atmosphere: Perfect order and cleanliness maintained by wealth and municipal favoritism, sense of security and comfort
+      available only to white privileged class, demonstration of how money ensures quality of life
+  composition:
+    cameraAngle: Wide shot down the length of the clean prosperous street
+    focus: The stark contrast between this maintained environment and conditions elsewhere in the city
+    depth: Foreground shows detailed view of clean infrastructure, middle ground captures prosperous residents, background
+      reveals the extent of this privileged zone
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

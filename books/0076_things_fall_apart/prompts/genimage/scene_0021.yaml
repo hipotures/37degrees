@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, evening after cultural destruction
+    location: Traditional ceremonial ground now littered with destroyed cultural artifacts
+    weather: Dying light symbolizing cultural twilight and systematic destruction
+  characters:
+  - appearance: Community members standing among fragments of their destroyed cultural heritage
+    clothing: Traditional attire now mixed with imposed colonial garments creating cultural confusion
+    position: Scattered among broken traditional artifacts and ceremonial objects
+    action: Mourning the systematic destruction of their cultural instruments and sacred objects
+  scene:
+    mainElements: Sacred ceremonial space now littered with broken drums, destroyed masks, and shattered traditional instruments
+    details: Wooden drums of various sizes (ekwe), metal gongs (ogene), ceramic udu pots creating rhythmic foundation for
+      rituals now broken and silenced. Elaborate wooden masks painted white with exaggerated features, attached to raffia
+      costumes hiding wearer's identity completely now destroyed and profaned
+    background: Traditional spiritual and cultural center reduced to ruins by systematic colonial cultural destruction
+    atmosphere: Profound cultural death and mourning as community witnesses complete destruction of their spiritual and artistic
+      heritage
+  composition:
+    cameraAngle: Wide shot showing scope of cultural destruction and community grief
+    focus: Broken traditional instruments scattered across sacred ground
+    depth: Destroyed cultural artifacts in foreground, grieving community in middle ground, colonial authorities absent but
+      responsible in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

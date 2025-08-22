@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, early morning in forest
+    location: Forest clearing with pine tree branches creating natural frame
+    weather: Clear mountain morning with soft light
+  characters:
+  - appearance: 19-year-old woman with slender build, long graceful legs, golden-brown eyes and skin, high cheekbones, full
+      lips, distinctive hair cut short like beaver fur - visual reminder of trauma
+    clothing: simple gray shirt and peasant trousers, later khaki shirt with open collar - practical camp clothing
+    posture: initially shy and fragile movements, gradually gaining confidence and certainty
+    action: moving between vulnerability and growing strength, eyes showing mixture of innocence and hunger for life
+  scene:
+    mainElements: Young woman framed by pine tree branches watching departure scene, natural green frame emphasizing her connection
+      to forest environment and emotional state
+    details: Pine needles and branches creating organic frame around figure, morning light filtering through creating dappled
+      patterns, expression showing mixture of love and fear for departing figures, hands touching pine bark for support
+    background: Forest clearing where departure is taking place, other figures preparing to leave on dangerous mission
+    atmosphere: Love constrained by circumstance, natural sanctuary about to be abandoned, fear for loved one's safety, connection
+      between human emotion and natural environment
+  composition:
+    cameraAngle: Shot through pine branches creating natural frame
+    focus: Figure's emotional state framed by natural forest elements
+    depth: Pine branch frame in foreground, figure in middle ground, departure scene in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

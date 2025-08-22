@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Four Seasons in One Frame - Eternal Cycle"
+  setting:
+    time: "All four seasons visible simultaneously across years 1917-1921"
+    location: "Single ancient birch grove near Varykino showing complete natural cycle"
+    weather: "All weather conditions present: spring rain, summer sun, autumn wind, winter snow"
+  characters:
+    - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+      clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+      posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+      action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+  scene:
+    mainElements: "Magnificent ancient birch tree with four distinct seasonal states visible simultaneously in quadrant composition"
+    details: "Single massive birch displays all seasons: upper left quadrant shows delicate green buds and spring flowers with melting snow pools, upper right reveals full summer foliage with thick green canopy, lower right presents golden autumn leaves falling to earth, lower left depicts bare winter branches heavy with snow and ice. Path around tree shows footprints in different seasons: muddy spring tracks, dusty summer paths, leaf-scattered autumn trails, deep winter snow prints. Jurij and Lara walk this path in different seasonal clothing, their relationship progressing through natural cycles, no text or letters visible"
+    background: "Landscape elements change seasonally but maintain geographical consistency"
+    atmosphere: "Eternal natural rhythm continues despite human historical upheaval, love and life cycles beyond political time"
+  composition:
+    cameraAngle: "Circular composition centered on ancient tree with seasonal quadrants"
+    focus: "Central tree trunk as anchor point with four seasonal crowns radiating outward"
+    depth: "Foreground: seasonal path details; middle ground: tree in four states; background: landscape showing year-round features"

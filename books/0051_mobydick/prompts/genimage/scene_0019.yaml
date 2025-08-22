@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1840s noon, but time seems meaningless
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Unchanging overcast sky
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ship's chronometer sits open on deck table, its brass case gleaming, but the clock face shows no hands while
+      the mechanism still ticks audibly
+    details: The precision timepiece continues its mechanical rhythm, each tick echoing across the deck, but the hands have
+      vanished leaving only numbered hours around empty face. Other time-marking devices scattered nearby - sundial casting
+      shadow, hourglass with sand suspended motionless mid-fall, ship's bell hanging silent despite scheduled times for watch
+      changes. The chronometer's steady ticking becomes hypnotic, measuring moments that cannot be counted or recorded, suggesting
+      time continuing despite human inability to track it, no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: The handless clock represents eternal present moment and the irrelevance of measured time when facing timeless
+      forces of nature and obsession
+  composition:
+    cameraAngle: Close-up on open chronometer with empty clock face
+    focus: Brass chronometer with missing hands as central impossible object
+    depth: Timepiece in sharp foreground, other time devices in middle distance, unchanging sky providing timeless background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, dawn breaking with warm golden light
+    location: Family home in Bombay, door to father's study that has been locked for years
+    weather: Clear morning with soft sunlight streaming through latticed windows
+  characters:
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Simple white cotton kurta, barefoot, having abandoned British formal wear
+    position: Standing before ornate wooden door, key extended toward lock
+    action: Inserting golden key with reverent care, face showing peace and resolution
+  scene:
+    mainElements: Ornate carved door with intricate lock mechanism, transformed golden key glowing with inner light as it
+      approaches destiny
+    details: Heavy teak door carved with family history and traditional motifs, brass lock mechanism crafted by master artisans,
+      golden key now perfectly polished and gleaming with purpose, key's teeth aligning precisely with lock's intricate channels,
+      lock mechanism responding to key's touch with satisfying clicks, door beginning to swing open revealing warm light from
+      within, transformation complete as rusty key achieves its intended function, brass fittings resonating with harmonic
+      frequency as proper connection is made, no text or letters visible
+    background: Traditional Indian home interior with marble floors, family photographs, sandalwood incense burning in corner
+      shrine
+    atmosphere: Moment of destiny fulfilled, reconciliation with heritage and family, return to authentic identity
+  composition:
+    cameraAngle: Close-up on key entering lock, emphasizing precision of perfect fit
+    focus: Golden key achieving its ultimate purpose after long journey of transformation
+    depth: 'Foreground: key and lock mechanism in detail, midground: figure''s peaceful expression, background: warm family
+      home interior'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

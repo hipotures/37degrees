@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, blue hour just after sunset with first lights appearing
+    location: Elevated view showing both Indian quarter and British Civil Station during evening transition
+    weather: Clear calm evening, perfect visibility, deep blue sky with last orange traces on horizon
+  characters: No characters present in this scene
+  scene:
+    mainElements: Panoramic view of divided Chandrapore showing contrast between Indian and British quarters, railway line
+      as border
+    details: Deep blue sky overhead with orange glow fading on western horizon, first oil lamps beginning to twinkle in Indian
+      bazaar, electric lights coming on in British bungalows, street lamps starting to glow along Civil Station roads, cooking
+      fires creating small warm points of light, mosque outlined against darkening sky, British flag barely visible in twilight
+    background: Distant Ganges reflecting last light, Marabar Hills barely visible as dark silhouettes against star-beginning
+      sky
+    atmosphere: Magical in-between time when day transforms to night, two communities separately lighting their evening spaces,
+      peaceful transition moment
+  composition:
+    cameraAngle: High wide shot capturing entire divided city in blue hour light
+    focus: Emerging pattern of lights revealing human settlement divisions and connections
+    depth: Foreground shows immediate area details, middle ground captures city layout, background displays vast Indian landscape
+      under darkening sky
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

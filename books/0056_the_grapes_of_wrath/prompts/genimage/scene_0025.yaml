@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1930s, early morning
+    location: Concrete foundation of massive industrial facility in California Central Valley
+    weather: Soft dawn light highlighting new growth
+  characters:
+  - appearance: Eighteen-year-old pregnant woman with ash-blonde hair braided in crown around head, round soft face with self-satisfied
+      smile of pregnancy, expression of knowing completeness.
+    clothing: Simple maternity dress growing tighter as pregnancy progresses, worn shoes, hair ribbon
+    position: Kneeling beside crack in concrete foundation
+    action: Gently protecting small plant growing through crack in industrial concrete, nurturing life that has found way
+      to emerge despite oppression
+  scene:
+    mainElements: Tiny but vibrant plant growing through crack in massive concrete foundation of industrial complex, representing
+      life force breaking through systematic oppression
+    details: Powerful symbol of hope and human resilience overcoming systemic oppression. Single green plant emerges through
+      crack in concrete foundation of dehumanizing industrial system. New life proves that nature and human spirit cannot
+      be completely suppressed. Small but significant victory of organic life over mechanical control
+    background: Massive industrial architecture designed to suppress human and natural life, now showing first signs of structural
+      weakness
+    atmosphere: Quiet triumph of life force over systematic dehumanization, sounds of new growth breaking through oppressive
+      silence
+  composition:
+    cameraAngle: Close-up on plant breaking through concrete with human hand protecting it
+    focus: Small but significant emergence of hope and life through systematic oppression
+    depth: Tender new growth in immediate foreground contrasts with massive oppressive industrial structure in background,
+      showing David versus Goliath struggle
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

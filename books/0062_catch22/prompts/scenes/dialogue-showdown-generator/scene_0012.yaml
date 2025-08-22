@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Yossarian's Shocked Response"
+  setting:
+    time: "1944, night"
+    location: "same storage area, moments after revelation"
+    weather: "Mediterranean night"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "standing among business documents with hands clenched"
+      action: "reacting with horror to discovery of Milo's enemy trading"
+  scene:
+    mainElements: "same document-filled storage space, evidence of international business dealings, profit statements scattered on tables"
+    details: "Yossarian stares at contracts showing Milo's syndicate selling supplies to German forces. His face registers growing horror as he realizes fellow Americans are profiting from extending the war. Hands clench into fists as he comprehends the betrayal of using military resources for personal gain while soldiers die."
+    background: "business ledgers open to damning pages, trade goods from multiple countries, accounting equipment showing enormous profits"
+    atmosphere: "moral shock confronting capitalist amorality, mixture of personal betrayal and systemic corruption"
+  composition:
+    cameraAngle: "close-up on Yossarian's face showing horror and disbelief"
+    focus: "facial expression revealing complete moral shock"
+    depth: "foreground emphasizes emotional reaction, middle ground shows damning evidence, background reveals scope of betrayal"

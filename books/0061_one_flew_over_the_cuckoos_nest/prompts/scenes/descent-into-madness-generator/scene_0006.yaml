@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Warped Perception - Reality Begins to Bend"
+  setting:
+    time: "Early 1960s, late afternoon"
+    location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+    weather: "Fluorescent lights creating unnaturally sharp shadows"
+  characters:
+    - appearance: "31-year-old man with boyish appearance despite mature age. Protruding teeth, freckles, chubby cheeks giving innocent childlike look. Slim build appearing fragile. Scars on wrists from previous attempts"
+      clothing: "Standard patient hospital uniform"
+      position: "Hunched shoulders, sitting or standing timidly in background"
+      action: "Speaking with severe stutter, fidgeting nervously, avoiding eye contact, displaying extreme shyness"
+  scene:
+    mainElements: "Room edges beginning to curve and warp like fishbowl effect, straight lines of institutional furniture bending at impossible angles"
+    details: "Floor tiles ripple like water surface when stepped on. Walls breathe in slow rhythm expanding and contracting. Colors become unnaturally saturated - greens too green, whites too bright, creating eye strain. Furniture legs stretch and compress like rubber. Distance between objects changes when not directly observed - tables move closer together, chairs slide away"
+    background: "Windows bars curve and twist, ceiling corners no longer form right angles"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Reality losing structural integrity, familiar space becoming alien and threatening"
+  composition:
+    cameraAngle: "Wide angle lens creating natural distortion that matches psychological warping"
+    focus: "Bent lines and curved surfaces that should be straight"
+    depth: "Foreground: warped floor tiles. Middle: stretching furniture and breathing walls. Background: twisted window bars and impossible angles"

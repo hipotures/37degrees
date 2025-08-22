@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Slaughterhouse Five Across Decades - War to Abandonment"
+  setting:
+    time: "February 1945 to present day, temporal progression showing seventy-five years of decay"
+    location: "Industrial slaughterhouse complex near Dresden's Elbe River bend, former livestock facility converted to prisoner camp"
+    weather: "Overcast sky transitioning from wartime smoke to modern pollution, intermittent rain across decades"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Ghostly temporal echo showing young Billy as prisoner in 1945 overlaid with empty spaces where he once stood"
+      action: "Spectral presence of wartime prisoners working and sleeping gradually fading into empty modern ruins, no text or letters visible"
+  scene:
+    mainElements: "Functional industrial buildings surrounded by walls, bronze bull statue guarding main gate, former pig barn housing prisoners with faded wall inscriptions, underground meat locker carved from living rock"
+    details: "Bronze bull statue weathered and green with patina but enduring across decades, brick walls crumbling with ivy overgrowth, wooden prisoner barracks rotting and collapsing, metal hooks in meat locker rusting, cobblestones loosening and sprouting weeds, roof tiles sliding and missing"
+    background: "Elbe River continuing to flow unchanged while industrial complex decays, Dresden skyline rebuilt in distance, modern construction cranes replacing wartime anti-aircraft positions"
+    atmosphere: "Cold, damp, sterile environment saturated with death - both animal and symbolically human, smell of disinfectant and decay, echoing footsteps and guard commands in cavernous spaces"
+  composition:
+    cameraAngle: "Low wide angle from courtyard center showing main buildings and bronze bull statue across temporal progression"
+    focus: "Bronze bull statue as temporal anchor point remaining constant while everything around deteriorates"
+    depth: "Foreground shows weathered cobblestones with weeds, middle ground shows decaying buildings with multiple time periods visible, background shows Dresden reconstruction across decades"

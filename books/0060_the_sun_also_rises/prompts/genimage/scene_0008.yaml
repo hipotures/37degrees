@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1924, winter morning
+    location: Mountain river in Basque Pyrenees near Burguete village, covered in fresh snow with crystalline stillness
+    weather: Fresh snowfall with continuing light flakes falling silently
+  characters:
+  - appearance: American writer aged approximately 29, medium height with sturdy build, friendly open face with intelligent
+      humor in expression, dark hair in casual style, warm eyes that crinkle with frequent laughter
+    clothing: Heavy wool coat with fur collar, thick boots leaving deep prints in snow, woolen cap pulled low
+    position: Standing motionless beside frozen stream, breath visible in cold air
+    action: Engaging in witty conversation with good-natured humor while maintaining loyal supportive presence among friends
+  scene:
+    mainElements: Thick snow blanket absorbing all sound, footsteps creating muffled compression rather than sharp impact,
+      branches bending under snow weight without creaking
+    details: Fresh snow creating cushioned silence where normal forest sounds disappear, footsteps producing soft whomping
+      rather than crunching, snow falling from branches with muted thumps, breath clouds the only movement in crystalline
+      stillness, even river flow silent beneath ice coating, world transformed into visual-only experience, no text or letters
+      visible
+    background: Pure natural tranquility with bright mountain air, sounds of flowing water and bird songs replaced by absolute
+      quiet, healing quality of untouched wilderness away from urban decay
+    atmosphere: Profound quiet made visible through environmental absorption - snow as nature's sound dampener, creating cathedral-like
+      hush where every movement becomes meditation
+  composition:
+    cameraAngle: Wide shot emphasizing vast snowy silence
+    focus: Environmental evidence of sound absorption
+    depth: 'Foreground: detailed snow texture showing sound-dampening quality, midground: solitary figure in vast white space,
+      background: snow-laden forest in perfect stillness'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

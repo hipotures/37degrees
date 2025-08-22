@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dutch angle - Unexpected snowfall disrupting plans"
+  setting:
+    time: "Late May 1937, late afternoon with sudden weather change"
+    location: "Mountain forest during unseasonable spring snowstorm"
+    weather: "Sudden heavy snowfall in late May creating chaos and visibility problems"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "Tilted frame showing figure struggling through unexpected heavy snowfall, white snow contrasting sharply with dark pine forest, world literally turned sideways by weather disruption"
+    details: "Large snowflakes falling at impossible angles due to tilted camera, pine trees leaning dramatically in frame, figure's equipment and clothing being covered by accumulating snow, footprints already filling with fresh snow"
+    background: "Forest landscape transformed by white snow cover, familiar environment made alien and threatening by weather"
+    atmosphere: "Plans disrupted by uncontrollable natural forces, psychological disorientation matching visual tilt, nature as unpredictable enemy"
+  composition:
+    cameraAngle: "Dutch angle tilted 15 degrees creating sense of imbalance"
+    focus: "Environmental chaos and human struggle against natural forces"
+    depth: "Tilted composition with figure fighting through snow in middle ground, tilted forest in background"

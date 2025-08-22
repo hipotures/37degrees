@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty Chair Across - Orr's Absence"
+  setting:
+    time: "1944, morning"
+    location: "mess hall on Pianosa base"
+    weather: "bright Mediterranean morning"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "sitting at mess table looking at empty chair"
+      action: "eating alone while contemplating absent friend"
+  scene:
+    mainElements: "military mess hall with long wooden tables, metal trays and utensils, empty chair prominently positioned across from Yossarian"
+    details: "Yossarian sits eating standard military rations while staring at Orr's empty chair. The vacant seat represents his friend's mysterious disappearance and possible escape to Sweden. Other airmen eat around him but his focus remains on the absent companion who may have achieved what seems impossible - freedom from the system."
+    background: "busy mess hall with other personnel eating, serving area with standard military food, converted business operations area"
+    atmosphere: "contemplation of absent friend who may have found escape, mixture of loneliness and hope for possible freedom"
+  composition:
+    cameraAngle: "medium shot showing Yossarian and prominent empty chair"
+    focus: "empty chair representing absence and possible escape"
+    depth: "foreground shows meal and contemplation, middle ground emphasizes empty space, background shows continuing military routine"

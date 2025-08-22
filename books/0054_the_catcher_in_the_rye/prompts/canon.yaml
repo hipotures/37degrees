@@ -1,0 +1,82 @@
+canon:
+  characters:
+    - id: "holden_caulfield"
+      name: "Holden Caulfield"
+      description_block: |
+        characters:
+          - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+            clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+            posture: "Slouched, introverted stance, frequent smoking gestures, hand running through hair, generally uncomfortable body language"
+    
+    - id: "phoebe_caulfield"
+      name: "Phoebe Caulfield"
+      description_block: |
+        characters:
+          - appearance: "Female, 10 years old, petite and slender build, bright red hair, intelligent and expressive face, neat and tidy appearance"
+            clothing: "Blue wool coat in climactic scene, neat school dresses with puffed sleeves and sashes typical of 1940s girls, clean and well-maintained attire"
+            posture: "Alert and energetic stance, graceful child's movements, confident bearing despite young age"
+    
+    - id: "ward_stradlater"
+      name: "Ward Stradlater"
+      description_block: |
+        characters:
+          - appearance: "Male, approximately 18 years old, well-built athletic frame with broad shoulders, handsome class yearbook appearance, confident bearing"
+            clothing: "Neat prep school attire including blazers, white shirts, ties, well-maintained but dirty razor as personal item"
+            posture: "Self-assured stance, physically imposing presence, casual confident movements"
+    
+    - id: "robert_ackley"
+      name: "Robert Ackley"
+      description_block: |
+        characters:
+          - appearance: "Male, 18 years old, very tall at 193 cm, hunched shoulders, acne-covered face, mossy unkempt teeth, poor personal hygiene"
+            clothing: "Sloppy, ill-fitting clothes typical of prep school but poorly maintained"
+            posture: "Slouched, hunched posture reflecting social awkwardness and low self-esteem"
+
+  locations:
+    - id: "pencey_prep"
+      name: "Pencey Preparatory Academy"
+      description_block: |
+        setting:
+          location: "Elite boarding school in fictional Agerstown, Pennsylvania, red brick buildings in neo-Gothic academic or colonial revival style with white columns, well-maintained lawns now gray and dormant in December setting"
+        mainElements: "Traditional American preparatory academy architecture with imposing institutional buildings, sterile corridors echoing with sounds, Memorial Wing dormitories"
+        atmosphere: "Oppressive institutional atmosphere emphasizing conformity and tradition, cold December weather adding bleakness"
+    
+    - id: "hotel_edmont"
+      name: "Hotel Edmont"
+      description_block: |
+        setting:
+          location: "Cheap, seedy hotel in Manhattan New York, late 1940s establishment with worn furnishings and poor lighting"
+        mainElements: "Dimly lit lobby with faded velvet furniture, dark wood paneling scratched and worn, small cramped guest rooms with single windows facing other rooms"
+        atmosphere: "Sleazy, voyeuristic environment reeking of stale cigarette smoke and disinfectant, morally ambiguous late-night setting"
+    
+    - id: "central_park_winter"
+      name: "Central Park in Winter"
+      description_block: |
+        setting:
+          location: "Manhattan's Central Park during harsh December winter, late 1940s urban oasis transformed by cold weather"
+        mainElements: "Bare trees creating delicate black branch patterns against gray sky, frozen or partially frozen pond, snow-covered or muddy frozen ground, carousel building"
+        atmosphere: "Raw winter beauty tinged with melancholy, natural refuge providing both comfort and stark reminder of seasonal death and renewal"
+    
+    - id: "grand_central_terminal"
+      name: "Grand Central Terminal"
+      description_block: |
+        setting:
+          location: "Massive Beaux-Arts railway terminal in Manhattan, soaring main concourse with celestial ceiling and marble floors"
+        mainElements: "Vast architectural space with arched windows, dusty sunlight streams during day, echoing sounds of crowds and announcements"
+        atmosphere: "Majestic yet overwhelming transit space emphasizing anonymity and transient nature of urban life"
+
+  items:
+    - id: "red_hunting_cap"
+      name: "Red Hunting Cap"
+      description_block: |
+        details: "Bright red hunting cap with unusually long visor, purchased for one dollar in New York, worn backwards like baseball catcher's mask, visually striking and out of place in urban setting"
+    
+    - id: "allies_mitt"
+      name: "Allie's Baseball Mitt"
+      description_block: |
+        details: "Left-handed baseball glove belonging to deceased brother Allie, entire surface including fingers covered with poems written in careful childish handwriting using green ink"
+    
+    - id: "little_shirley_beans_record"
+      name: "Little Shirley Beans Record"
+      description_block: |
+        details: "Small black shellac 78 RPM record in paper sleeve, becomes broken with pieces carefully collected, represents innocence and connection to childhood"

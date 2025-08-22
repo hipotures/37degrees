@@ -1,0 +1,150 @@
+canon:
+  characters:
+    - id: "okonkwo"
+      name: "Okonkwo"
+      description_block: |
+        characters:
+          - appearance: "Tall, powerfully-built man in his late thirties to mid-forties, with imposing muscular frame typical of a champion wrestler"
+            clothing: "Simple woven cloth wrapped around waist as loincloth, ankle bracelet marking his titled status"
+            posture: "Springs on feet when walking as if ready to pounce, radiates controlled aggression"
+    - id: "unoka"
+      name: "Unoka" 
+      description_block: |
+        characters:
+          - appearance: "Tall but very thin middle-aged man, slightly hunched with gaunt, pitiful expression except when playing flute"
+            clothing: "Simple, possibly worn loincloth of woven material"
+            posture: "Slouched and dejected bearing, transforms when holding his wooden flute"
+    - id: "nwoye"
+      name: "Nwoye"
+      description_block: |
+        characters:
+          - appearance: "Slender young man transitioning from boy to adult, delicate features contrasting with father's harsh appearance"
+            clothing: "Traditional loincloth initially, later simple European shirt and trousers after conversion"
+            posture: "Hesitant, thoughtful demeanor showing internal conflict and sensitivity"
+    - id: "ezinma"
+      name: "Ezinma"
+      description_block: |
+        characters:
+          - appearance: "Beautiful young girl around ten years old, known as Crystal of Beauty, intelligent eyes showing quick wit"
+            clothing: "Traditional Igbo girl's attire with coral beads and painted body decorations in geometric patterns"
+            posture: "Confident and alert bearing unusual for her age and gender in this society"
+    - id: "ikemefuna"
+      name: "Ikemefuna"
+      description_block: |
+        characters:
+          - appearance: "Bright fifteen-year-old boy with lively, intelligent expression showing curiosity about new home"
+            clothing: "Simple woven loincloth typical of Igbo youth"
+            posture: "Alert and engaged, gradually becoming more confident in Okonkwo's household"
+    - id: "obierika"
+      name: "Obierika"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man of similar age to Okonkwo, thoughtful expression showing wisdom and concern"
+            clothing: "Well-maintained attire of wealthy, titled Igbo man with quality woven cloth"
+            posture: "Dignified bearing reflecting his status as voice of reason and contemplation"
+    - id: "ekwefi"
+      name: "Ekwefi"
+      description_block: |
+        characters:
+          - appearance: "Woman around forty-five, face marked by grief from losing nine children but retaining traces of former village beauty"
+            clothing: "Married Igbo woman's wrapper skirts and traditional jewelry"
+            posture: "Protective maternal stance, especially around her surviving daughter Ezinma"
+    - id: "mr_brown"
+      name: "Mr. Brown"
+      description_block: |
+        characters:
+          - appearance: "Elderly European missionary with patient, kind expression showing genuine desire to understand local culture"
+            clothing: "Simple, practical missionary robes in light beige or white suited to tropical climate"
+            posture: "Respectful, listening posture demonstrating his diplomatic approach to conversion"
+    - id: "reverend_smith"
+      name: "Reverend James Smith"
+      description_block: |
+        characters:
+          - appearance: "Stern-faced European missionary with rigid, uncompromising expression and burning zealous eyes"
+            clothing: "Formal, austere black missionary attire reflecting his harsh, uncompromising nature"
+            posture: "Rigid, judgmental stance showing intolerance for any aspect of local culture"
+    - id: "district_commissioner"
+      name: "District Commissioner"
+      description_block: |
+        characters:
+          - appearance: "British colonial official whose face reddens with anger, arrogant and condescending expression"
+            clothing: "White or khaki tropical colonial uniform with pith helmet, formal European dress"
+            posture: "Authoritative but dismissive bearing typical of colonial administrators"
+
+  locations:
+    - id: "umuofia_village"
+      name: "Umuofia Village"
+      description_block: |
+        setting:
+          location: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths"
+        mainElements: "Red clay compounds with thatched roof huts, central meeting ground (ilo), sacred groves and farmland"
+        atmosphere: "Ordered traditional society with deep spiritual connection to land and ancestors"
+    - id: "okonkwo_compound"
+      name: "Okonkwo's Family Compound"
+      description_block: |
+        setting:
+          location: "Wealthy Igbo patriarch's walled compound in Umuofia village, southeastern Nigeria"
+        mainElements: "Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral shrine"
+        atmosphere: "Prosperous but tense household reflecting patriarch's rigid control and suppressed emotions"
+    - id: "village_marketplace"
+      name: "Village Meeting Ground (Ilo)"
+      description_block: |
+        setting:
+          location: "Sacred central plaza of Umuofia village, packed red earth surface for community gatherings"
+        mainElements: "Large open space with ancient sacred silk-cotton tree, surrounded by gathering crowds during ceremonies"
+        atmosphere: "Heart of community life where tradition, law, and social bonds are publicly demonstrated"
+    - id: "evil_forest"
+      name: "Evil Forest"
+      description_block: |
+        setting:
+          location: "Forbidden sacred grove outside Umuofia village considered dwelling place of evil spirits and outcasts"
+        mainElements: "Dense, untouched jungle with perpetual gloom, abandoned pottery, twisted roots and decaying matter"
+        atmosphere: "Supernatural dread and taboo, place where unwanted twins and outcasts are abandoned"
+    - id: "mbanta_village"
+      name: "Mbanta Village"
+      description_block: |
+        setting:
+          location: "Maternal homeland village in Igbo territory where exiled family members seek refuge"
+        mainElements: "Similar compound structure to Umuofia but representing feminine, nurturing aspects of culture"
+        atmosphere: "Place of maternal comfort and healing during times of crisis and exile"
+    - id: "christian_church"
+      name: "Christian Mission Church"
+      description_block: |
+        setting:
+          location: "Simple church building constructed by European missionaries on edge of Evil Forest"
+        mainElements: "Basic red clay and thatch structure with wooden cross, benches for converts"
+        atmosphere: "Symbol of cultural disruption and new spiritual alternative to traditional beliefs"
+
+  items:
+    - id: "wrestling_match"
+      name: "Traditional Wrestling Contest"
+      description_block: |
+        details: "Sacred sporting event on packed earth arena with drumming, crowds forming human circle around wrestlers demonstrating strength and honor"
+    - id: "yam_harvest"
+      name: "Yam Cultivation and Storage"
+      description_block: |
+        details: "Large brown tubers with rough skin stored in elevated granaries, symbol of male prosperity and agricultural skill"
+    - id: "kola_nut_ceremony"
+      name: "Kola Nut Hospitality Ritual"
+      description_block: |
+        details: "Brown nut broken into segments and shared among guests with ritual prayers, fundamental act of welcome and respect"
+    - id: "palm_wine"
+      name: "Palm Wine"
+      description_block: |
+        details: "Cloudy white alcoholic beverage served in carved calabash gourds during social and ceremonial occasions"
+    - id: "egwugwu_masks"
+      name: "Ancestral Spirit Masks"
+      description_block: |
+        details: "Elaborate wooden masks painted white with exaggerated features, attached to raffia costumes hiding wearer's identity completely"
+    - id: "machete"
+      name: "Work Machete and Weapon"
+      description_block: |
+        details: "Wide-bladed cutting tool with wooden handle used for farming, clearing bush, and as weapon when necessary"
+    - id: "traditional_drums"
+      name: "Ceremonial Drums and Music"
+      description_block: |
+        details: "Wooden drums of various sizes (ekwe), metal gongs (ogene), ceramic udu pots creating rhythmic foundation for rituals"
+    - id: "iron_horse"
+      name: "European Bicycle"
+      description_block: |
+        details: "Heavy black bicycle representing incomprehensible European technology, called iron horse by villagers who killed its rider"

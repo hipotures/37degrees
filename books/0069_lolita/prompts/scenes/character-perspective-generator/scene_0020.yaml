@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Second Journey - Paranoid Travel"
+  setting:
+    time: "1949, day"
+    location: "Interior of 1940s automobile on American highway system"
+    weather: "Bright day with clear visibility"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, now showing paranoid behavior"
+      clothing: "Travel clothes, increasingly disheveled appearance"
+      position: "Behind steering wheel, frequently checking rearview mirror"
+      action: "Driving while constantly surveilling surroundings, displaying paranoid behavior about being followed"
+  scene:
+    mainElements: "Car interior with rearview mirror prominently featured, highway ahead, constant checking for surveillance"
+    details: "Driver frequently checking mirrors, paranoid glances at other vehicles, sense of being pursued, highway travel marked by fear and suspicion"
+    background: "American highway with other traffic, roadside facilities, landscape passing by during paranoid journey"
+    atmosphere: "Paranoid travel atmosphere, constant surveillance awareness, adult fear of discovery affecting travel routine"
+  composition:
+    cameraAngle: "Passenger view watching driver's paranoid behavior and mirror checking"
+    focus: "Driver's paranoid surveillance behavior, rearview mirror showing potential pursuers"
+    depth: "Foreground shows car interior and paranoid driver, middle ground shows highway ahead, background shows potential surveillance traffic"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Coffee grounds scattered with burnt toast edges"
+  setting:
+    time: "1924, morning"
+    location: "Traditional Parisian café on tree-lined boulevard in Montparnasse district"
+    weather: "Cool morning with early light filtering through café windows"
+  characters:
+    - appearance: "Scottish veteran aged approximately 33, once-handsome features now showing effects of chronic alcohol consumption, bloodshot eyes with dark circles, unshaven stubble, hair disheveled from frequent drinking, clothes rumpled"
+      clothing: "High-quality tweed jacket now showing wear and neglect, wrinkled shirt with loosened collar, garments that once suggested aristocratic background but now reveal financial decline"
+      position: "Slumped at café table, examining burnt breakfast"
+      action: "Gesturing with drink in hand while speaking with increasingly slurred speech and belligerent manner"
+  scene:
+    mainElements: "Dark coffee grounds spilled across marble table surface, bread slice with blackened charred edges, coffee cup with bitter dregs visible"
+    details: "Coffee grounds creating dark scattered patterns suggesting bitter taste, toast edges blackened and crispy indicating burnt flavor, coffee dregs thick and dark in cup bottom, grounds staining white marble with brown residue, burnt bread crumbs showing various degrees of charring, morning light revealing the harshness of overcooked breakfast, no text or letters visible"
+    background: "Interior with dark polished wood panels, large mirrors reflecting amber gaslight, wicker chairs with curved backs, bar along one wall with brass fittings"
+    atmosphere: "Morning bitterness both literal and metaphorical - burnt breakfast reflecting bitter life circumstances, dark coffee grounds suggesting harsh reality"
+  composition:
+    cameraAngle: "Close-up on burnt breakfast and coffee grounds"
+    focus: "Burnt edges and scattered grounds showing bitter morning reality"
+    depth: "Foreground: detailed burnt food and spilled grounds, midground: disheveled figure at table, background: café atmosphere of morning routine"

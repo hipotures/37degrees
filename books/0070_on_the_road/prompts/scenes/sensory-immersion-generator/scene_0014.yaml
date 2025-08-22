@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Old Books and Light Beams"
+  setting:
+    time: "1948 late afternoon"
+    location: "used bookstore in Greenwich Village with floor-to-ceiling shelves, narrow aisles, and dusty volumes"
+    weather: "clear afternoon with golden sunlight through storefront windows"
+  characters:
+    - appearance: "21-year-old man with thin nervous build, dark curly hair in artistic disarray, large intelligent penetrating eyes behind thick black-framed glasses, elongated face with sad poetic expression"
+      clothing: "mismatched worn jackets, shirts and wool pants from thrift shops, intellectual absent-minded professor style contrasting with mainstream fashion"
+      position: "browsing books in narrow aisle between tall shelves"
+      action: "pulling aged book from shelf while dust particles shower down in afternoon sunbeam"
+  scene:
+    mainElements: "thick golden sunbeam cutting through bookstore revealing countless dust particles, aged books releasing visible dust clouds when disturbed, leather-bound volumes with worn spines showing age, floating particles dancing in light ray like literary spirits"
+    details: "Dust cascade falling from book spine when removed from shelf, particles illuminated in diagonal sunbeam creating visible column of floating specks, aged paper edges releasing microscopic fibers into air, leather book covers showing cracked spines with faded gold lettering, dust accumulated on book tops undisturbed for years, reading chair positioned precisely in sunbeam with dust motes swirling around it, glasses reflecting dancing dust particles"
+    background: "floor-to-ceiling wooden bookshelves packed with volumes, narrow aisles between towering book walls, antique reading lamps, worn carpet runners, storefront windows allowing afternoon light"
+    atmosphere: "golden late afternoon light creating dramatic contrasts, musty smell of aged paper and leather suggested by visual dust, quiet scholarly atmosphere broken only by occasional page turning"
+  composition:
+    cameraAngle: "low angle looking up at figure in sunbeam with floating dust"
+    focus: "dancing dust particles in sunlight as visual representation of old book aroma"
+    depth: "dust-filled sunbeam in sharp foreground, figure among books in middle ground, towering bookshelves extending upward to background"

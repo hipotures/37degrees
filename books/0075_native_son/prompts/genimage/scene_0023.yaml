@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, night
+    location: dark concrete basement beneath Dalton mansion, late 1930s winter
+    weather: Cold winter night, hot internal environment from furnace
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: crouched before massive furnace with tools in hand
+    action: feeding the furnace that consumes evidence while providing heat for white wealth above, becoming complicit in
+      system that destroys lives
+  scene:
+    mainElements: Massive industrial furnace in mansion basement serving as central metaphor for how wealth and comfort are
+      built on hidden destruction and human sacrifice
+    details: powerful cast iron furnace with heavy metal doors, coal shovel and hatchet nearby, flickering red and orange
+      light from furnace fire. Sharp metal hatchet found in basement near furnace, used for chopping coal, becomes tool for
+      dismemberment, represents brutal necessity and dehumanization. Fire consuming human remains while providing warmth and
+      comfort for wealthy family above
+    background: utilitarian work space with concrete walls and floor, storage area. Single weak overhead bulb, shadows dancing
+      on concrete walls, basement representing hidden foundation of wealth built on exploitation
+    atmosphere: Hellish environment where wealth's dirty work is hidden, demonstration that comfort and prosperity require
+      hidden destruction, metaphor for economic system that consumes human lives to maintain privilege
+  composition:
+    cameraAngle: Medium shot showing figure silhouetted against furnace fire
+    focus: The furnace as symbol of how economic system consumes human lives to maintain white wealth and comfort
+    depth: Foreground shows the destructive tools and fire, middle ground captures the desperate figure, background reveals
+      the basement foundation of wealth built on hidden destruction
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

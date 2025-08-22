@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1920s, 1940s, 1970s - three protest periods overlapping
+    location: Public square or open area showing historical continuity of political resistance
+    weather: Various weather conditions appropriate to different protest periods
+  characters:
+  - appearance: Multiple protesters from different eras appearing as translucent overlays. 1920s independence activists, 1940s
+      partition protesters, 1970s Emergency resistance demonstrators
+    clothing: Period-appropriate protest attire - white khadi clothing, various political symbols and banners
+    position: Standing in protest formation, marching, or holding demonstrations
+    action: Protesting, marching, holding banners, making speeches across multiple time periods
+  scene:
+    mainElements: Same public square hosting three generations of political protest simultaneously. 1920s independence movement,
+      1940s partition resistance, and 1970s Emergency opposition all visible as overlapping historical layers. Protest methods
+      and crowd formations echo across decades
+    details: Banners and signs from different eras overlap without obscuring each other. Crowd formations follow similar patterns
+      across time periods. Police or authority responses vary by historical context but occupy same spatial relationships.
+      Protest tools and symbols evolve while maintaining continuity
+    background: Square architecture provides consistent reference while surrounding buildings and political symbols change.
+      Government buildings and monuments reflect different historical periods and political contexts
+    atmosphere: Eternal human resistance to oppression across changing political circumstances. Cyclical nature of protest
+      and social movements revealing consistent patterns of resistance and authority, no text or letters visible
+  composition:
+    cameraAngle: High angle wide shot capturing crowd formations and square geography
+    focus: Central protest activities as overlapping temporal layers
+    depth: Crowd formations in foreground, square architecture in middle ground, government buildings in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

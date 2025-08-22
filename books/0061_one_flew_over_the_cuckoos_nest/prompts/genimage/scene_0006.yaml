@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, late afternoon
+    location: Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass
+      partition of nurses station, windows barred. Sterile institutional space designed for total patient observation
+    weather: Fluorescent lights creating unnaturally sharp shadows
+  characters:
+  - appearance: 31-year-old man with boyish appearance despite mature age. Protruding teeth, freckles, chubby cheeks giving
+      innocent childlike look. Slim build appearing fragile. Scars on wrists from previous attempts
+    clothing: Standard patient hospital uniform
+    position: Hunched shoulders, sitting or standing timidly in background
+    action: Speaking with severe stutter, fidgeting nervously, avoiding eye contact, displaying extreme shyness
+  scene:
+    mainElements: Room edges beginning to curve and warp like fishbowl effect, straight lines of institutional furniture bending
+      at impossible angles
+    details: Floor tiles ripple like water surface when stepped on. Walls breathe in slow rhythm expanding and contracting.
+      Colors become unnaturally saturated - greens too green, whites too bright, creating eye strain. Furniture legs stretch
+      and compress like rubber. Distance between objects changes when not directly observed - tables move closer together,
+      chairs slide away
+    background: Windows bars curve and twist, ceiling corners no longer form right angles
+    atmosphere: Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental
+      music from ceiling speakers, constant mechanical humming and buzzing sounds. Reality losing structural integrity, familiar
+      space becoming alien and threatening
+  composition:
+    cameraAngle: Wide angle lens creating natural distortion that matches psychological warping
+    focus: Bent lines and curved surfaces that should be straight
+    depth: 'Foreground: warped floor tiles. Middle: stretching furniture and breathing walls. Background: twisted window bars
+      and impossible angles'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

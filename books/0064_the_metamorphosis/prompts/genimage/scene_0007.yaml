@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Autumn morning 1912, around 10:00 AM
+    location: Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building
+    weather: Clouds parting to create harsh, unnatural sunlight
+  characters:
+  - appearance: Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately
+      three feet long
+    clothing: No clothing - naked insect body with hard brown shell and soft pale belly divided into segments
+    posture: Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving
+    action: Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls
+  scene:
+    mainElements: Room exploding with unnatural color intensity, normal objects becoming painfully vivid and threatening
+    details: Every color in the room becomes supernaturally intense and aggressive. The brown wooden furniture glows with
+      molten amber fire. White bedsheets blaze with blinding purity. The green wallpaper pattern pulses with electric lime.
+      Red elements - book spines, fabric samples - burn like fresh blood. Blue shadows turn electric indigo. The brass clock
+      radiates golden light. Even Gregor's brown carapace reflects prismatic colors like oil on water.
+    background: Window view becomes a kaleidoscope of impossible colors, gray hospital now rainbow-hued and shifting
+    atmosphere: Sensory assault through color, visual oversaturation creating pain and disorientation, reality becoming psychedelic
+      nightmare
+  composition:
+    cameraAngle: Medium shot with extreme color saturation and contrast
+    focus: Hyper-saturated objects that hurt to look at directly
+    depth: 'Foreground: burning bright colors overwhelming senses, middle: furniture radiating unnatural hues, background:
+      kaleidoscopic window view'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

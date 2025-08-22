@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transportation Evolution in Same Garage Space"
+  setting:
+    time: "1920s to 1970s showing vehicle progression across five decades"
+    location: "Single garage structure in Ilium neighborhood showing transportation changes"
+    weather: "Interior garage lighting evolution from natural to electric illumination"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy maintaining different vehicles across decades in same garage location"
+      action: "Caring for horse and carriage, maintaining early automobile, polishing mid-century sedan, working on modern vehicle, no text or letters visible"
+  scene:
+    mainElements: "Same garage structure hosting horse stall, early automobile storage, modern car parking, tools and maintenance equipment evolving with transportation technology"
+    details: "Wooden garage showing modifications from horse stall with hay storage to automobile workshop with mechanical tools, lighting upgrading from lanterns to electric bulbs, floor changing from dirt to concrete, doors adapting from swing-out to overhead rolling"
+    background: "Neighborhood street visible through garage doors showing transportation density increasing, utility infrastructure supporting automotive needs, environmental changes from horses to automobion"
+    atmosphere: "Technological progress accelerating personal mobility while transforming daily life patterns, mechanical complexity increasing maintenance requirements, independence expanding through transportation evolution"
+  composition:
+    cameraAngle: "Interior garage shot showing full space across transportation eras"
+    focus: "Vehicle progression from horse-drawn to automotive technology in identical space"
+    depth: "Foreground shows detailed vehicle and tool evolution, middle ground shows Billy adapting to transportation changes, background shows neighborhood transportation transformation"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Great Divide - Wealth and Want in Single Frame"
+  setting:
+    time: "1930s, midday"
+    location: "Border between affluent neighborhood and migrant camp in California agricultural town"
+    weather: "Harsh bright sunlight emphasizing stark contrasts"
+  characters:
+    - appearance: "On left side: well-dressed wealthy residents with healthy faces and confident postures. On right side: gaunt migrant families with weathered faces and desperate expressions."
+      clothing: "Left side: pressed suits, clean dresses, polished shoes. Right side: patched work clothes, faded dresses, worn shoes or bare feet"
+      position: "Two distinct groups separated by invisible but impermeable social barrier"
+      action: "Wealthy side dining on white tablecloths while poor side searches through discarded food, neither acknowledging the other"
+  scene:
+    mainElements: "Sharp visual division showing extreme wealth adjacent to extreme poverty, abundance next to starvation, luxury beside squalor"
+    details: "Perfect split composition showing two worlds existing simultaneously. Left side: manicured lawn party with abundant food, crystal glasses, white linens. Right side: families digging through garbage, children with hollow eyes, makeshift shelters. Fence or barrier physically divides but cannot hide moral contradiction"
+    background: "Same landscape and sky above both sides, emphasizing that only human systems create this division"
+    atmosphere: "Shocking juxtaposition creating moral outrage, sounds of laughter and clinking glasses contrasted with crying children and desperate voices"
+  composition:
+    cameraAngle: "Wide shot capturing both sides of divide"
+    focus: "Extreme contrast between abundance and need existing in same space and time"
+    depth: "Equal emphasis on both foreground areas to show simultaneous realities, barrier in middle ground enforces separation"

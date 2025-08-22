@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1944, late morning
+    location: airfield edge leading toward Mediterranean coast
+    weather: bright Mediterranean morning with sea breeze
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: running across dusty airfield toward distant coastline
+    action: escaping military base toward uncertain freedom represented by sea
+  scene:
+    mainElements: wide airfield with bomber aircraft, control tower, military equipment giving way to natural Mediterranean
+      coastline
+    details: Yossarian runs across dusty airfield leaving behind rows of military tents and bomber aircraft. His figure moves
+      from institutional military environment toward open Mediterranean horizon symbolizing uncertain but chosen freedom.
+      Behind him lies systematic oppression; ahead lies dangerous but authentic possibility of escape to neutral territory.
+    background: military base with aircraft and equipment transitioning to natural Mediterranean landscape and distant sea
+      horizon
+    atmosphere: desperate hopeful leap toward uncertain but authentic freedom, mixture of military pursuit and natural liberation
+  composition:
+    cameraAngle: wide shot showing figure running toward horizon
+    focus: movement from institutional confinement toward natural freedom
+    depth: foreground shows abandoned military environment, middle ground captures escaping figure, background reveals horizon
+      of possibility and uncertain freedom
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

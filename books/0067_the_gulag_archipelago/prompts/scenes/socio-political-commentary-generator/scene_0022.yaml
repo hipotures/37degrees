@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Chess Game of Human Lives"
+  setting:
+    time: "1953, evening"
+    location: "Enormous chessboard with human beings as pieces"
+    weather: "Dramatic lighting emphasizing strategic manipulation"
+  characters:
+    - appearance: "Citizens dressed as chess pieces - pawns, knights, bishops, rooks - positioned according to their social function"
+      clothing: "Costumes identifying social roles and value in systematic hierarchy, some marked for sacrifice"
+      position: "Arranged on giant chessboard according to strategic value and expendability"
+      action: "Moving according to unseen player's commands, some being captured and removed from game"
+  scene:
+    mainElements: "Giant chessboard with human pieces arranged by social value, moves being made by unseen strategic intelligence, sacrificial moves removing less valuable people"
+    details: "Citizens clearly marked with their piece value and movement limitations, strategic positioning revealing social hierarchy, captured pieces being removed to represent elimination or imprisonment"
+    background: "Game extending across entire social landscape, systematic strategic thinking treating people as expendable resources"
+    atmosphere: "Society revealed as strategic game with human lives as expendable pieces, systematic calculation of human value, cold strategic thinking determining individual fates"
+  composition:
+    cameraAngle: "Overhead view emphasizing strategic arrangement, dramatic angles showing individual pieces"
+    focus: "Human beings reduced to strategic value in larger game"
+    depth: "Foreground shows individual pieces and their constraints, middle ground reveals strategic positioning, background suggests unseen game masters"

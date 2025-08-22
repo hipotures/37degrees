@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Perfect Order - Marching in Formation"
+  setting:
+    time: "1851, early morning"
+    location: "Plantation courtyard where enslaved people gather for daily work assignments in organized formation"
+    weather: "Dawn mist clearing to reveal organized human display"
+  characters:
+    - appearance: "Multiple enslaved people of various ages arranged in precise lines, faces showing resigned compliance"
+      clothing: "Identical or similar rough work clothes, some patched but clean, demonstrating managed appearance"
+      position: "Standing in straight lines facing plantation house authority"
+      action: "Waiting silently for work orders, maintaining perfect stillness and order"
+  scene:
+    mainElements: "Enslaved people arranged in military-like formation, overseer with clipboard or ledger, plantation bell tower or announcement area"
+    details: "Tools arranged in precise order, work assignments written on board or called out, morning shadows creating geometric patterns on ground, some children among the adults"
+    background: "Main plantation house looming over the assembly, cotton fields stretching to horizon, equipment buildings"
+    atmosphere: "Enforced order masking human individuality, silence broken only by official commands, tension beneath surface compliance"
+  composition:
+    cameraAngle: "High angle shot from plantation house perspective showing human arrangement"
+    focus: "The regimented human formation as symbol of systematic control"
+    depth: "Foreground shows authority figure, middle ground displays the organized people, background emphasizes the economic landscape they serve"

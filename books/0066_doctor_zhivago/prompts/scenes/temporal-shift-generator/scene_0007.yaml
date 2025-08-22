@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Orchard in Bloom to Battlefield Harvest"
+  setting:
+    time: "May 1914 and August 1917, from peacetime spring to wartime summer"
+    location: "Russian countryside orchard and surrounding fields near front lines"
+    weather: "Spring: gentle rain nurturing blossoms. Summer: hot sun over trampled earth"
+  characters:
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+  scene:
+    mainElements: "Temporal overlay showing peaceful orchard with white and pink blossoms transforming into battle-scarred medical station among broken trees"
+    details: "Double exposure: 1914 shows apple and cherry trees heavy with fragrant blossoms, clean rows of healthy trees extending into distance, pastoral workers tending branches, bees hovering among flowers, grass carpet beneath. 1917 reveals same location as field hospital, many trees shattered by artillery, remaining trunks supporting canvas medical tents, wounded soldiers lying under broken branches, doctor treating patients where flowers once bloomed, shell craters replacing orderly rows, no text or letters visible"
+    background: "Rolling countryside maintains same topographical features but shows transformation from cultivation to destruction"
+    atmosphere: "Life's fragile beauty destroyed by war's mechanical violence, natural cycles disrupted by human conflict"
+  composition:
+    cameraAngle: "Medium wide shot emphasizing contrast between organic growth and military destruction"
+    focus: "Broken tree serving as both natural beauty and medical shelter"
+    depth: "Foreground: medical work among tree roots; middle ground: orchard transformation; background: scarred landscape horizon"

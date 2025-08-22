@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, midday
+    location: Border between affluent neighborhood and migrant camp in California agricultural town
+    weather: Harsh bright sunlight emphasizing stark contrasts
+  characters:
+  - appearance: 'On left side: well-dressed wealthy residents with healthy faces and confident postures. On right side: gaunt
+      migrant families with weathered faces and desperate expressions.'
+    clothing: 'Left side: pressed suits, clean dresses, polished shoes. Right side: patched work clothes, faded dresses, worn
+      shoes or bare feet'
+    position: Two distinct groups separated by invisible but impermeable social barrier
+    action: Wealthy side dining on white tablecloths while poor side searches through discarded food, neither acknowledging
+      the other
+  scene:
+    mainElements: Sharp visual division showing extreme wealth adjacent to extreme poverty, abundance next to starvation,
+      luxury beside squalor
+    details: 'Perfect split composition showing two worlds existing simultaneously. Left side: manicured lawn party with abundant
+      food, crystal glasses, white linens. Right side: families digging through garbage, children with hollow eyes, makeshift
+      shelters. Fence or barrier physically divides but cannot hide moral contradiction'
+    background: Same landscape and sky above both sides, emphasizing that only human systems create this division
+    atmosphere: Shocking juxtaposition creating moral outrage, sounds of laughter and clinking glasses contrasted with crying
+      children and desperate voices
+  composition:
+    cameraAngle: Wide shot capturing both sides of divide
+    focus: Extreme contrast between abundance and need existing in same space and time
+    depth: Equal emphasis on both foreground areas to show simultaneous realities, barrier in middle ground enforces separation
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

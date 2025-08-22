@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silenced Voice - Face Turned Away in Shadows"
+  setting:
+    time: "1920s, evening"
+    location: "General store and post office in Eatonville - central community building serving as town hub"
+    weather: "Harsh shadows from oil lamps"
+  characters:
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Standing behind counter with face turned away"
+      action: "Turning face away from community gathering, shoulders hunched protectively"
+    - appearance: "African-American man in his 30s-40s, stocky build, well-groomed mustache, authoritative bearing"
+      clothing: "Well-dressed town clothes - pressed suits, vest, pocket watch, dress shoes, mayor's attire"
+      position: "Commanding stance with chest out, often with hands on hips or behind back, projects authority"
+      action: "Gesturing dismissively toward her while addressing crowd"
+  scene:
+    mainElements: "Wooden shelves with goods, post office counter, benches and chairs for lounging, checkerboard. Woman silenced and diminished in public space"
+    details: "Harsh angular lighting creating dramatic shadows, woman's face hidden in darkness, man illuminated by lamp light, community members watching awkwardly, clenched fists hidden behind counter, no text or letters visible"
+    background: "Social center where men gather to talk and play games, seat of town politics and gossip"
+    atmosphere: "Despair and humiliation in public setting, loss of voice and agency, harsh angular compositions reflecting emotional pain, isolation within marriage despite public success"
+  composition:
+    cameraAngle: "Medium shot emphasizing contrast between light and shadow"
+    focus: "Woman's turned-away face showing rejection and pain"
+    depth: "Foreground: store counter barrier, middle: silhouetted woman, background: man in authority addressing crowd"

@@ -1,0 +1,161 @@
+canon:
+  characters:
+    - id: "jurij_zhivago"
+      name: "Jurij Andriejewicz Żywago"
+      description_block: |
+        characters:
+          - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+            clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+            posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+            action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+    
+    - id: "lara_antipowa"
+      name: "Larysa Fiodorowna Antipowa"
+      description_block: |
+        characters:
+          - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+            clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+            posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+            action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+    
+    - id: "tonia_gromeko"
+      name: "Antonina Aleksandrowna Gromeko"
+      description_block: |
+        characters:
+          - appearance: "Woman in her 20s to 30s, slender and elegant build, refined aristocratic features, composed expression capable of deep sadness"
+            clothing: "1902-1917: tasteful high-quality dresses befitting upper class. 1917-1922: still good quality garments showing wear, attempts to maintain dignity in difficult circumstances"
+            posture: "Composed bearing with impeccable manners, controlled gestures, dignified stance"
+            action: "Managing household duties, caring for children, reading, playing piano"
+    
+    - id: "pasza_strelnikow"
+      name: "Paweł Pawłowicz Antipow / Strielnikow"
+      description_block: |
+        characters:
+          - appearance: "Man from late teens to 30s, initially shy with almost girlish features, later becomes severe and ascetic with face like stone mask, rigid military posture"
+            clothing: "1902-1917: simple student attire, teacher's suit. 1917-1922: severe dark Red Army commissar uniform, leather coat, high boots, budyonovka cap"
+            posture: "Early years: hesitant and boyish movements. As Strelnikov: rigid military bearing, controlled and intimidating presence"
+            action: "Early: studying revolutionary texts, teaching children. Later: commanding troops, interrogating prisoners"
+    
+    - id: "komarowski"
+      name: "Wiktor Ippolitowicz Komarowski"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man 40s-60s, well-built with tendency toward portliness, intelligent face showing cynicism and sensuality, charming but predatory smile"
+            clothing: "Always impeccably and expensively dressed regardless of political system, dark perfectly tailored suits, expensive coats, luxury accessories"
+            posture: "Commanding presence emanating cynical power and influence, confident gestures"
+            action: "Playing cards, manipulating situations, smoking cigars, negotiating deals"
+    
+    - id: "jewgraf_zhivago"
+      name: "Jewgraf Andriejewicz Żywago"
+      description_block: |
+        characters:
+          - appearance: "Man younger than Jurij, tall and slender with agile build, dark straight hair, dark slanted eyes, distinctive Kyrgyz facial features, mysterious and impenetrable expression"
+            clothing: "Elegant well-fitted Cheka/Red Army officer uniform, later general's uniform"
+            posture: "Alert and capable bearing, moves with quiet authority"
+            action: "Appearing at critical moments, reviewing documents, providing assistance"
+
+  locations:
+    - id: "moscow_gromeko_house_prerev"
+      name: "Gromeko House in Moscow (Pre-Revolution)"
+      description_block: |
+        setting:
+          location: "Spacious apartment in Moscow stone townhouse, neoclassical architecture with art nouveau elements, high ceilings, large rooms flooded with natural light"
+        mainElements: "Floor-to-ceiling bookshelves filled with volumes, grand piano, heavy curtains, lace doilies, thick carpets covering wooden floors"
+        atmosphere: "Intellectual comfort and security, warm browns, deep reds, gold from book spines and velvet upholstery, soft diffused lighting from table lamps with shades and daylight through large windows"
+    
+    - id: "moscow_gromeko_house_postrev"
+      name: "Gromeko House in Moscow (Post-Revolution)"
+      description_block: |
+        setting:
+          location: "Same elegant spaces now brutally divided into cramped communal apartments housing dozens of strangers in former bourgeois Moscow townhouse"
+        mainElements: "Crumbling plaster walls, elegant furniture chopped for firewood, military patrols, endless bread queues in streets outside"
+        atmosphere: "Fear, hunger, mutual suspicion, color palette shifted to grays, dirty browns, faded greens, harsh lighting from single bare bulbs"
+    
+    - id: "sventitsky_ballroom"
+      name: "Sventitsky Christmas Ball"
+      description_block: |
+        setting:
+          location: "Grand ballroom in wealthy Moscow mansion, rich eclectic architecture with parquet floors, mirrors in golden frames"
+        mainElements: "Massive Christmas tree, elaborate food tables, dancing guests in evening wear, orchestral musicians, crystal chandeliers"
+        atmosphere: "Festive joy and celebration with gold, white, red, and Christmas tree green colors, brilliant sparkling light from hundreds of candles and crystal chandeliers"
+    
+    - id: "railway_wagon_ural"
+      name: "Railway Wagon to Urals"
+      description_block: |
+        setting:
+          location: "Cattle or freight railway car interior, cramped dirty wooden space traveling through endless snow-covered Russian landscape"
+        mainElements: "Makeshift bunks, iron stove called 'koza', bundles and belongings, dozens of people from all social classes crammed together"
+        atmosphere: "Tension, fear, deprivation, but also human solidarity, dark browns and grays with soot and dirt, dim claustrophobic lighting from small windows and stove fire"
+    
+    - id: "juriatin_library"
+      name: "Library in Juriatin"
+      description_block: |
+        setting:
+          location: "Provincial classical library building in Ural mountain town, high quiet room with galleries and reading areas"
+        mainElements: "Long reading tables, tall bookshelves requiring ladders, card catalogs, green reading lamps on tables"
+        atmosphere: "Peace, silence, refuge from outside world, intellectual intimacy, browns of wood and leather, green lamp light, golden old book bindings, natural daylight from tall windows"
+    
+    - id: "varykino_ice_palace"
+      name: "Varykino Ice Palace"
+      description_block: |
+        setting:
+          location: "Abandoned wooden country manor house in Ural region completely overtaken by winter, ornate dacza architecture with decorative elements"
+        mainElements: "Furniture buried under snow drifts, massive icicles hanging from chandeliers, frost patterns covering walls and windows like lace, rooms filled with snow"
+        atmosphere: "Surreal magical beauty but deadly cold isolation, white, blue, silver crystalline colors, supernatural lighting from moon and sun reflecting off snow and ice, flickering candlelight"
+    
+    - id: "moscow_tram_1929"
+      name: "Moscow Tram 1929"
+      description_block: |
+        setting:
+          location: "Interior of old worn tramcar in Soviet Moscow during hot summer day, wooden benches and metal handrails"
+        mainElements: "Crowded sweating anonymous people representing new Soviet society, dirty windows, wooden seats, metal fixtures"
+        atmosphere: "Stifling claustrophobic heat and exhaustion, dirty yellows, faded green, grays, harsh sunlight through grimy windows"
+    
+    - id: "siberian_forest_partisan"
+      name: "Siberian Forest Partisan Camp"
+      description_block: |
+        setting:
+          location: "Dense Siberian taiga forest with makeshift military camp hidden among tall pine and birch trees"
+        mainElements: "Improvised shelters, military equipment, armed riders on horseback, forest paths, campfires"
+        atmosphere: "Danger, survival, primitive conditions, dark greens of forest, browns of earth and wood, flickering firelight and forest shadows"
+
+  items:
+    - id: "burning_candle"
+      name: "Lara's Window Candle"
+      description_block: |
+        details: "Single candle flame visible in frozen window, small warm point of light against vast cold darkness, symbol of intimate sacred space and destined love protected from external chaos"
+    
+    - id: "balalaika"
+      name: "Jurij's Mother's Balalaika"
+      description_block: |
+        details: "Traditional Russian triangular stringed instrument, only memento from Jurij's mother, symbol of artistic heritage and connection to soul of old Russia"
+    
+    - id: "revolutionary_pistol"
+      name: "Lara's Revolver"
+      description_block: |
+        details: "Small dark handgun carried by Lara to Christmas party, represents intrusion of violence and adult brutal world into innocent lives"
+    
+    - id: "rowan_tree"
+      name: "Rowan Tree with Red Berries"
+      description_block: |
+        details: "Tree bearing bright red berries often visible against snow background, symbol of beauty that survives harshest conditions, connected to poetic vision of Russia and love for Lara"
+    
+    - id: "yellow_daffodils"
+      name: "Yellow Spring Flowers"
+      description_block: |
+        details: "Splash of vivid yellow color against gray landscape, narcissus or daffodil blooms symbolizing hope, life's pulse, and Lara's presence in Jurij's world"
+    
+    - id: "poetry_notebook"
+      name: "Jurij's Poetry Notebook"
+      description_block: |
+        details: "Small worn notebook containing Jurij's handwritten poems, represents artistic creation as ultimate act of resistance and preservation of human truth"
+    
+    - id: "medical_bag"
+      name: "Doctor's Medical Bag"
+      description_block: |
+        details: "Leather medical case with instruments and supplies, symbol of Jurij's commitment to healing and preserving life amid destruction"
+    
+    - id: "mauser_pistol"
+      name: "Strelnikov's Mauser"
+      description_block: |
+        details: "Military automatic pistol carried by Red Army commissar Strelnikov, represents cold revolutionary violence and ideological extremism"

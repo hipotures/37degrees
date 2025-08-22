@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Sharpening of Ancient Blades"
+  setting:
+    time: "1840s early morning, first light on ocean"
+    location: "Main deck of three-masted American whaling ship, mid-ocean"
+    weather: "Dawn breaking over calm seas"
+  characters:
+    - appearance: "Muscular man around 30 years old, dark Polynesian complexion, entire body and face covered in intricate geometric square-pattern tattoos resembling maze-like Maori designs"
+      clothing: "Mix of civilized and native dress - elegant beaver hat and boots combined with minimal clothing showing tattooed skin"
+      position: "Sitting cross-legged in meditative pose or standing with harpooner's confident bearing"
+      action: "Sharpening harpoon with ritualistic care or performing daily tasks with calm dignity and practiced skill"
+  scene:
+    mainElements: "Long ash wood shaft with sharp iron toggle-head, steel barbed point, hemp rope coiled and ready, treated with ritual care being transformed from dull tool to gleaming weapon through methodical sharpening"
+    details: "The harpoon's iron point changes from tarnished metal to mirror-bright steel as the whetstone works across its surface. Sparks catch the dawn light with each stroke of sharpening. The wooden shaft shows wear marks from countless hands but gains new oil finish that brings out the wood grain. Hemp rope lies coiled nearby, its fibers growing more supple with careful treatment. Each pass of the stone reveals more of the weapon's deadly potential, transforming a rust-spotted tool into an instrument of precision, no text or letters visible"
+    background: "Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace amidships"
+    atmosphere: "The transformation from dull to sharp represents preparation and intention, showing how purpose can transform ordinary objects into tools of destiny"
+  composition:
+    cameraAngle: "Close-up on hands sharpening harpoon point"
+    focus: "The gleaming steel tip emerging from dull metal through repeated action"
+    depth: "Harpoon point in sharp foreground, coiled rope in middle distance, dawn horizon in soft background"

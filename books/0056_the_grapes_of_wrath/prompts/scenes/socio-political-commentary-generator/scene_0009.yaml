@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Feast and Famine - The Economics of Abundance"
+  setting:
+    time: "1930s, afternoon"
+    location: "California agricultural warehouse and adjacent migrant camp"
+    weather: "Hot sunny day intensifying the contrast"
+  characters:
+    - appearance: "Warehouse workers in clean uniforms loading abundant produce while migrant families with hungry faces watch from outside fence."
+      clothing: "Workers: clean uniforms and safety equipment. Migrants: tattered clothes, children with distended bellies from malnutrition"
+      position: "Workers inside fence handling abundant food, migrants pressed against fence watching"
+      action: "Workers casually discarding imperfect produce while hungry families reach through fence trying to access discarded food"
+  scene:
+    mainElements: "Mountains of fresh produce rotting in warehouse while starving families are prevented from accessing it by barbed wire fence"
+    details: "Devastating image of artificial scarcity created by economic system. Tons of perfect fruit piled to ceiling inside warehouse. Guards posted to prevent hungry people from accessing discarded food. Signs warn against trespassing. Fruit falling to rot on ground while children starve yards away"
+    background: "Fertile agricultural valley extending to horizon, showing natural abundance perverted by human systems"
+    atmosphere: "Moral outrage at waste alongside starvation, sounds of machinery processing abundance while children cry from hunger beyond fence"
+  composition:
+    cameraAngle: "Medium shot showing fence as barrier between abundance and need"
+    focus: "Chain link fence as symbol of artificial barriers preventing natural sharing of abundance"
+    depth: "Hungry families in foreground reach toward mountains of food visible in background warehouse, with fence preventing access in middle ground"

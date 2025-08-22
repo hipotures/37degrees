@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery - Hidden Treasure Unearthed"
+  setting:
+    time: "1935, afternoon"
+    location: "Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural fields"
+    weather: "Bright afternoon sun streaming through windows"
+  characters:
+    - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+      clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+      position: "Kneeling beside loose floorboard"
+      action: "Discovering hidden cache of letters, face showing shock and wonder"
+    - appearance: "Striking African American blues singer, aged 30s-70s, tall and slender with commanding presence, very dark skin described as lustrous, long pointed nose, full lips like black plums, large expressive eyes, naturally glamorous bearing"
+      clothing: "Sophisticated urban fashion spanning 1920s-1940s: form-fitting red sequined dresses, fur stoles, feathered headbands, jewelry and accessories, clothing that announces her status as performer and free woman"
+      position: "Standing behind, watching discovery unfold"
+      action: "Offering support and encouragement, sharing in momentous revelation"
+  scene:
+    mainElements: "Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters, kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Hidden compartment revealed"
+    details: "Bundle of yellowed letters tied with string, bearing exotic African stamps, hidden for decades under loose floorboard in Mister's house, physical proof of love and connection across time and distance. Dust motes dancing in afternoon light, hands trembling as they touch precious discovery"
+    background: "Domestic interior transformed into archaeological site, ordinary room revealing extraordinary secret, years of deception finally exposed"
+    atmosphere: "Truth finally uncovered, love letters as buried treasure, moment of revelation changing everything, past and present colliding"
+  composition:
+    cameraAngle: "Close-up on discovery, then wider shot showing significance"
+    focus: "Letters emerging from hiding, faces showing emotional impact"
+    depth: "Foreground: revealed letters, middle: discovering hands, background: supportive witness"

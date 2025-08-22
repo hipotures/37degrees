@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, midday heat with people seeking relief under trees
+    location: Large banyan tree between Indian quarter and Civil Station, providing natural shelter
+    weather: Scorching heat with air shimmering, no breeze, seeking any available shade
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive ancient banyan tree with spreading canopy and aerial roots, creating natural pavilion of shade
+    details: Complex network of branches and hanging roots creating cathedral-like space, filtered sunlight creating dappled
+      patterns on ground, abandoned bicycle leaning against trunk, water pot left in coolest spot, worn path around tree base
+      from generations of shelter-seekers, roots creating natural seating areas, leaves barely moving in still air
+    background: Heat-distorted view of both Indian bazaars and British bungalows visible beyond tree's protection
+    atmosphere: Sacred refuge from punishing sun, sense of tree as neutral territory between communities, ancient wisdom providing
+      shelter
+  composition:
+    cameraAngle: Looking up into tree canopy showing natural architecture of branches
+    focus: Contrast between scorching bright spaces and cool filtered shade beneath tree
+    depth: Foreground shows intricate root system, middle ground captures canopy details, background hints at heat-blasted
+      landscape beyond
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

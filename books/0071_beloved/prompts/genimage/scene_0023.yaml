@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1855 slave resistance overlaid with 1873 community action and future civil rights movements
+    location: The Clearing transformed into various spaces of community resistance across time
+    weather: Multiple weather conditions showing different historical periods
+  characters:
+  - appearance: Elderly African American woman, age around 70 when alive, suffering from crooked hip making her movements
+      painful, frail build in later years requiring assistance
+    clothing: Simple modest robes appropriate for spiritual leadership and elderly comfort
+    position: Seated or reclining due to physical limitations, commanding respect through spiritual presence
+    action: Speaking with spiritual authority while gesturing with walking stick, moving slowly due to physical infirmity
+  scene:
+    mainElements: Wide natural amphitheater cut deep in forest behind house 124, sacred space known only to deer and community
+      members
+    details: Same clearing showing multiple historical periods of resistance - Baby Suggs' spiritual gatherings overlaid with
+      Underground Railroad meetings overlaid with future civil rights organizing, identical hand-linking and circle formation
+      across centuries, same boulder serving as speaker's platform for different leaders, identical expressions of determination
+      and hope across faces separated by decades, torches and lanterns of different eras providing light
+    background: Spiritual sanctuary filled with communal healing energy where laughter, crying, dancing and prayer created
+      cathartic community experience
+    atmosphere: Resistance as eternal human pattern, sacred space witnessing repeated struggle for dignity and freedom, community
+      strength transcending specific historical moments, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing full clearing and multiple historical gatherings
+    focus: Central boulder and repeated patterns of community resistance
+    depth: Foreground shows different era gathering details, middle ground emphasizes boulder as constant witness, background
+      reveals forest as eternal frame for human struggle
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

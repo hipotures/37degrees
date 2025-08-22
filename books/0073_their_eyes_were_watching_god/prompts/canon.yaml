@@ -1,0 +1,82 @@
+canon:
+  characters:
+    - id: "janie_crawford"
+      name: "Janie Crawford"
+      description_block: |
+        characters:
+          - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+            clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+            posture: "Carries herself with growing confidence throughout story, evolving from submissive hunched shoulders to proud upright stance"
+    
+    - id: "tea_cake"
+      name: "Tea Cake Woods"
+      description_block: |
+        characters:
+          - appearance: "African-American man in his 20s, athletic build, charming smile, expressive hands, confident demeanor"
+            clothing: "Working man's clothes of 1920s-1930s - denim overalls, cotton shirts, suspenders, work boots, occasional hat"
+            posture: "Relaxed and confident stance, often with arms open or gesturing, natural ease in movement"
+    
+    - id: "nanny"
+      name: "Nanny Crawford"
+      description_block: |
+        characters:
+          - appearance: "Elderly African-American woman in her 70s, slight build, weathered hands, wise eyes, gray hair"
+            clothing: "Simple working dress of early 1900s style, apron, headwrap, worn but clean garments"
+            posture: "Slightly bent with age but determined carriage, often pointing or gesturing with wisdom"
+    
+    - id: "joe_starks"
+      name: "Joe Starks"
+      description_block: |
+        characters:
+          - appearance: "African-American man in his 30s-40s, stocky build, well-groomed mustache, authoritative bearing"
+            clothing: "Well-dressed town clothes - pressed suits, vest, pocket watch, dress shoes, mayor's attire"
+            posture: "Commanding stance with chest out, often with hands on hips or behind back, projects authority"
+
+  locations:
+    - id: "eatonville_town"
+      name: "Eatonville Town"
+      description_block: |
+        setting:
+          location: "All-black town of Eatonville, Florida in the 1920s-1930s - main street with general store, post office, and community gathering spaces"
+        mainElements: "Wooden buildings, dirt roads, front porches where people gather, Spanish moss hanging from oak trees"
+        atmosphere: "Close-knit community feeling with both supportive and gossipy undertones, Southern small-town pace"
+    
+    - id: "everglades_muck"
+      name: "The Everglades Muck"
+      description_block: |
+        setting:
+          location: "Rich agricultural land in the Florida Everglades known as 'the muck' - vast fields and temporary worker camps"
+        mainElements: "Endless flat farmland, temporary shacks and housing, vast sky, agricultural tools and equipment"
+        atmosphere: "Sense of freedom and hard work, connection to the land, seasonal worker community energy"
+    
+    - id: "janie_porch"
+      name: "Janie's Front Porch"
+      description_block: |
+        setting:
+          location: "Front porch of Janie's house in Eatonville - wooden porch with rocking chairs and steps"
+        mainElements: "Wooden rocking chairs, porch railings, steps leading to yard, view of the street and neighbors"
+        atmosphere: "Place of storytelling and reflection, community gathering spot, peaceful evening conversations"
+    
+    - id: "store_eatonville"
+      name: "Eatonville General Store"
+      description_block: |
+        setting:
+          location: "General store and post office in Eatonville - central community building serving as town hub"
+        mainElements: "Wooden shelves with goods, post office counter, benches and chairs for lounging, checkerboard"
+        atmosphere: "Social center where men gather to talk and play games, seat of town politics and gossip"
+
+  items:
+    - id: "hair_covering"
+      name: "Head Rag"
+      description_block: |
+        details: "Colorful cloth head wrap worn to cover hair, symbol of respectability and submission in marriage, removed to show independence"
+    
+    - id: "pear_tree"
+      name: "Blooming Pear Tree"
+      description_block: |
+        details: "Large pear tree in full bloom with white blossoms, symbol of natural love and sexual awakening, represents Janie's ideal of love"
+    
+    - id: "hurricane_winds"
+      name: "Hurricane Forces"
+      description_block: |
+        details: "Powerful storm winds and flooding representing uncontrollable natural forces, both destructive and transformative"

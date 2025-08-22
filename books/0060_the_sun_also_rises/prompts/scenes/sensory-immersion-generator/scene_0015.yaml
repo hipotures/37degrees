@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Smoke tendrils before danger becomes visible"
+  setting:
+    time: "1924, late evening"
+    location: "Circular stone amphitheater with multiple tiers of seating, sandy arena floor in perfect circle, wooden barriers separating spectators from danger, traditional architecture of weathered stone"
+    weather: "Still evening air allowing smoke to rise undisturbed"
+  characters:
+    - appearance: "Scottish veteran aged approximately 33, once-handsome features now showing effects of chronic alcohol consumption, bloodshot eyes with dark circles, unshaven stubble, hair disheveled from frequent drinking, clothes rumpled"
+      clothing: "High-quality tweed jacket now showing wear and neglect, wrinkled shirt with loosened collar, garments that once suggested aristocratic background but now reveal financial decline"
+      position: "Standing in arena seating, cigarette between fingers, eyes scanning horizon"
+      action: "Gesturing with drink in hand while speaking with increasingly slurred speech and belligerent manner"
+  scene:
+    mainElements: "Thin wisps of smoke rising vertically in still air, cigarette embers glowing like warning beacons, smoke creating delicate gray tendrils against stone background"
+    details: "Cigarette smoke forming perfect vertical columns in motionless air, tobacco embers pulsing red like small danger signals, smoke wisps creating ephemeral patterns against ancient stone, ash falling like gray snow onto arena sand, evening shadows making smoke more visible against dark backgrounds, tendrils dispersing into warning clouds, no text or letters visible"
+    background: "Tension-filled silence before ritual begins, harsh contrast between blazing sand and cool shadows, ancient quality of life-and-death ceremony, raw authenticity amid artificial modern world"
+    atmosphere: "Subtle warning signs through smoke patterns - danger suggested before becoming apparent, tobacco smoke as harbinger of larger combustion to come"
+  composition:
+    cameraAngle: "Medium shot emphasizing smoke patterns against stone"
+    focus: "Smoke tendrils and ember glow suggesting ominous atmosphere"
+    depth: "Foreground: detailed smoke patterns and ember effects, midground: figure with cigarette, background: arena architecture creating dramatic contrast"

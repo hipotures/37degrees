@@ -1,0 +1,100 @@
+canon:
+  characters:
+    - id: "sethe"
+      name: "Sethe"
+      description_block: |
+        characters:
+          - appearance: "African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear as holes punched in a mask, weathered hands showing years of hard labor"
+            clothing: "Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions"
+            position: "Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language"
+            action: "Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective distraction"
+
+    - id: "beloved_spirit"
+      name: "Beloved"
+      description_block: |
+        characters:
+          - appearance: "Young African American woman appearing age 19-20, slender build moving with unnatural heaviness as if head too heavy for neck, mass of black hair like dark thread, smooth new skin without lines even on knuckles, three thin vertical scratches on forehead, delicate scar under chin"
+            clothing: "High-quality dress with lace at neck and rich woman's hat, all completely soaked as if emerging from water"
+            position: "Sitting or standing unsteadily, supporting herself on furniture with childlike uncertainty"
+            action: "Moving with infant-like unsteadiness yet possessing supernatural strength, drinking water eagerly, breathing with milk-scented breath"
+
+    - id: "paul_d"
+      name: "Paul D"
+      description_block: |
+        characters:
+          - appearance: "African American man, age 45-50, straight-backed posture showing maintained dignity, peach-stone colored skin, immobile face capable of sudden smile or emotion, true beard and refined hands despite rough life"
+            clothing: "Simple working clothes, unbuttoned vest with rolled shirt sleeves for casual occasions, practical cap"
+            position: "Standing erect with contained strength, hands often clasped behind back"
+            action: "Moving with careful control while eyes show expectation and years of uncertainty, face transitioning between stillness and sudden warmth"
+
+    - id: "denver"
+      name: "Denver"
+      description_block: |
+        characters:
+          - appearance: "African American young woman, age 18, round and brown build showing isolation-influenced physique, alert doll-like face inherited from father's sweet features, long heavy eyelashes making eyes appear more active than they are"
+            clothing: "Simple homemade dresses and bonnets suitable for domestic life"
+            position: "Initially withdrawn and uncertain, gradually becoming more confident through story progression"
+            action: "Moving from fearful avoidance to protective determination, transforming from isolated dependence to community engagement"
+
+    - id: "baby_suggs"
+      name: "Baby Suggs"
+      description_block: |
+        characters:
+          - appearance: "Elderly African American woman, age around 70 when alive, suffering from crooked hip making her movements painful, frail build in later years requiring assistance"
+            clothing: "Simple modest robes appropriate for spiritual leadership and elderly comfort"
+            position: "Seated or reclining due to physical limitations, commanding respect through spiritual presence"
+            action: "Speaking with spiritual authority while gesturing with walking stick, moving slowly due to physical infirmity"
+
+  locations:
+    - id: "house_124"
+      name: "124 Bluestone Road"
+      description_block: |
+        setting:
+          location: "Two-story gray-white wooden house with front porch at Cincinnati Ohio outskirts, liminal space between city and wilderness representing boundary between past and present"
+        mainElements: "Front porch with steps leading to main entrance, kitchen serving as family heart, keeping room for gathering, cold storage room, white painted staircase leading to upper bedrooms"
+        atmosphere: "Emotionally charged domestic space where supernatural presence manifests through shifting moods from malicious to loud to quiet, filled with unspoken trauma and isolation"
+
+    - id: "sweet_home_plantation"
+      name: "Sweet Home Plantation"
+      description_block: |
+        setting:
+          location: "Kentucky plantation north of Ohio River, paradoxically beautiful landscape of rolling hills and lush vegetation masking brutal oppression system"
+        mainElements: "Magnificent sycamore trees used for lynching, cornfield where intimate moments occurred, dense groves and natural beauty contrasting with human cruelty"
+        atmosphere: "Deceptively beautiful environment where shameless natural beauty coexists with hellish brutality, creating dissonant combination of pastoral imagery and traumatic memory"
+
+    - id: "the_clearing"
+      name: "The Clearing"
+      description_block: |
+        setting:
+          location: "Wide natural amphitheater cut deep in forest behind house 124, sacred space known only to deer and community members"
+        mainElements: "Large flat boulder serving as natural pulpit in center, circle of protective trees creating enclosed sanctuary, deer paths leading through forest"
+        atmosphere: "Spiritual sanctuary filled with communal healing energy where laughter, crying, dancing and prayer created cathartic community experience"
+
+    - id: "ohio_river"
+      name: "Ohio River"
+      description_block: |
+        setting:
+          location: "Major waterway forming boundary between slave state Kentucky and free state Ohio, muddy brown current carrying flatboats, steamboats and cargo barges"
+        mainElements: "Wide muddy waters reflecting sky above, leaking boats for dangerous crossings, dense vegetation on both banks, various river vessels"
+        atmosphere: "Dangerous boundary representing transition between slavery and freedom, place of birth and supernatural emergence, flowing with both hope and peril"
+
+  items:
+    - id: "chokecherry_tree_scar"
+      name: "Chokecherry Tree Scar"
+      description_block: |
+        details: "Raised keloid scarring across Sethe's back forming intricate pattern of branches, leaves and flowers from brutal whipping, decorative ironwork too passionate for display, physical map of trauma permanently marked on flesh"
+
+    - id: "tobacco_tin_heart"
+      name: "Paul D's Tobacco Tin"
+      description_block: |
+        details: "Rusted metal tobacco container metaphorically containing Paul D's closed heart, lid permanently sealed and corroded shut as psychological defense mechanism against further emotional pain"
+
+    - id: "crystal_earrings"
+      name: "Crystal Earrings"
+      description_block: |
+        details: "Small crystal drop earrings given to Sethe by Mrs. Garner, representing brief moment of dignity and feminine recognition during Sweet Home period, precious symbol of humanity acknowledged"
+
+    - id: "red_light"
+      name: "Red Pulsing Light"
+      description_block: |
+        details: "Pool of red undulating light appearing in house 124 hallway, supernatural manifestation of spilled blood and unresolved trauma, physical presence of ghostly anger and unfinished business"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Great Game Board - Humans as Playing Pieces"
+  setting:
+    time: "1930s, midday"
+    location: "Bird's eye view of California Central Valley agricultural region"
+    weather: "Clear overhead lighting like game board illumination"
+  characters:
+    - appearance: "Human figures appearing as game pieces on giant chessboard landscape, different classes represented as different piece types."
+      clothing: "Clothing indicating social class but rendered small and piece-like from overhead perspective"
+      position: "Arranged in patterns resembling chess or checkers game across agricultural landscape"
+      action: "Moving in strategic patterns as if controlled by players outside the frame, some pieces being sacrificed for larger game strategy"
+  scene:
+    mainElements: "Entire agricultural valley visualized as massive game board with human lives as playing pieces moved by unseen strategists"
+    details: "Devastating metaphor of human lives reduced to strategic game elements. Agricultural fields form geometric game board pattern. Migrant camps appear as captured pieces pushed to board edges. Wealthy estates occupy power positions like chess kings. Workers moved like pawns in larger economic game"
+    background: "Vast agricultural landscape extending to horizon showing scope of social gaming of human lives"
+    atmosphere: "Cold strategic calculation treating human suffering as acceptable game losses"
+  composition:
+    cameraAngle: "Extreme overhead view showing game board pattern"
+    focus: "Geometric organization of society revealing underlying strategic manipulation"
+    depth: "Game pattern extends from immediate foreground through middle ground to distant background, showing comprehensive scale of social control"

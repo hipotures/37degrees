@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1647 autumn evening, five years into his secret vengeance
+    location: Dark laboratory chamber filled with mysterious implements
+    weather: Cold autumn night with wind rattling windows
+  characters:
+  - appearance: Man well advanced in years around 50-60, short and thin build, slight deformity with left shoulder higher
+      than right, pale learned scholarly face, dim but penetrating eyes that acquire demonic red gleam over time
+    clothing: Initially strange mixture of civilized and savage garments from time among Native Americans, later adopts modest
+      physician's attire of dark colors, carries leather satchel with herbs and medicines
+    position: Hunched over bubbling cauldron with unnatural red glow emanating from his eyes
+    action: Constantly observing and analyzing others with piercing gaze, mixing herbal remedies, making notes, speaking in
+      measured intellectual tones while eyes betray malevolent intent
+  scene:
+    mainElements: Physician's eyes glowing with unnatural red light like burning coals, laboratory equipment including bubbling
+      vessels and hanging dried herbs, twisted shadows on walls
+    details: The scholar's transformation into demon becomes visible through supernatural red gleam in his eyes, suggesting
+      his soul has become corrupted by obsession with revenge. Laboratory filled with mysterious compounds and Native American
+      remedies creates atmosphere of dark magic disguised as medical practice. His deformed shoulder becomes more pronounced,
+      and shadows seem to twist around him unnaturally. Bubbling liquids suggest alchemical pursuit of psychological poison
+      rather than healing.
+    background: Stone chamber with shelves of mysterious bottles and hanging bundles of herbs, flickering firelight creating
+      demonic shadows
+    atmosphere: Scientific knowledge corrupted into instrument of vengeance, human scholar becoming supernatural force of
+      retribution, medicine transformed into psychological torture, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing demonic transformation and growing supernatural power
+    focus: Glowing red eyes as window into corrupted soul seeking revenge
+    depth: 'Foreground: physician''s transformed features; middle: laboratory equipment; background: twisted shadows suggesting
+      supernatural presence'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

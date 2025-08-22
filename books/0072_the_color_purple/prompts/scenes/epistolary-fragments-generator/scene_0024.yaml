@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Assembled Puzzle - All Documents Laid Out"
+  setting:
+    time: "1935, evening"
+    location: "Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural fields"
+    weather: "Golden hour light filling room with warmth"
+  characters:
+    - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+      clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+      position: "Sitting at large table with documents spread before her"
+      action: "Reading letters one by one, putting pieces of story together"
+  scene:
+    mainElements: "Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters, kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Large table covered with correspondence"
+    details: "Bundle of yellowed letters tied with string, bearing exotic African stamps, hidden for decades under loose floorboard in Mister's house, physical proof of love and connection across time and distance. Letters arranged chronologically, creating timeline of separation and love"
+    background: "Domestic room transformed into research space, warm evening light making letters glow like precious manuscripts, sense of history being reconstructed"
+    atmosphere: "Truth assembled from fragments, love story emerging from years of silence, documents revealing larger pattern of connection and loss"
+  composition:
+    cameraAngle: "Overhead shot showing letters arranged like map"
+    focus: "Complete correspondence forming narrative mosaic"
+    depth: "Foreground: detailed letters and handwriting, middle: reader assembling truth, background: domestic space transformed"

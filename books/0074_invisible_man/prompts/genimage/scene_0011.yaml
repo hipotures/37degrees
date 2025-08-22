@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1940s, afternoon
+    location: Harlem neighborhood streets in New York City, 1930s-1940s, lined with brownstone buildings and tenements, crowded
+      urban environment
+    weather: Bright urban afternoon with shadows between buildings
+  characters:
+  - appearance: Young African American child, around 8-10 years old, small build with wide curious eyes
+    clothing: Simple children's clothing of 1940s Harlem, worn but clean
+    position: Standing on stoop looking out at street activity
+    action: Watching adult world with fascination and confusion, trying to understand complex social dynamics
+  scene:
+    mainElements: Red-brown sandstone buildings, busy sidewalks, street vendors, stoops, shop signs, tenement architecture
+      mixing Italian Renaissance and neoclassical styles
+    details: Through child's perspective, Harlem streets become vast landscape of mystery and adventure - brownstone stoops
+      appear as mountain ranges to climb, adult conversations sound like important secrets being shared, street vendors seem
+      like magical merchants offering wonderful treasures, buildings tower like castles reaching toward sky, crowds of people
+      create exciting carnival atmosphere, every doorway holds potential for discovery, sounds and smells create rich sensory
+      playground full of life and possibility
+    background: More buildings extending into distance like urban canyon, children playing in street creating their own world
+    atmosphere: Dynamic urban energy with tension and possibility, concentrated Black community space with both solidarity
+      and conflict, constant movement and activity
+  composition:
+    cameraAngle: Low angle from child's eye level, emphasizing height and scale of adult world
+    focus: Street level activity that captures child's attention and wonder
+    depth: Foreground shows child's perspective from stoop, middle ground captures street life, background reveals vast urban
+      landscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, harsh midday sun
+    location: Rocky exposed hilltop with scattered pine trees and improvised defensive positions
+    weather: Bright clear day with merciless sun exposure
+  characters:
+  - appearance: 68-year-old man, short but sturdy and solid build, face lined with wrinkles expressing wisdom and weariness,
+      archetypal old Spanish peasant
+    clothing: black peasant smock, stiff dirty gray trousers, espadrilles - typical Spanish mountain peasant clothing
+    posture: moves with dignity of hard-working rural man, shoulders straight despite age
+    action: handling rifle with practiced familiarity, watching terrain with hunter's patience and knowledge
+  scene:
+    mainElements: High angle view showing small group of partisans completely exposed on barren hilltop, using minimal cover
+      behind rocks and fallen horses, vulnerable to attack from all directions
+    details: Rocky hilltop offering no escape routes, improvised defensive positions using available cover, figures appearing
+      small and vulnerable from overhead perspective, harsh shadows indicating merciless sun exposure
+    background: Surrounding valley and mountain slopes visible from elevated perspective, showing tactical disadvantage and
+      isolation
+    atmosphere: Tactical vulnerability and heroic desperation, trapped situation with no escape, courage in face of overwhelming
+      odds
+  composition:
+    cameraAngle: High angle shot from above showing tactical vulnerability
+    focus: Small group's exposed position and desperate defensive arrangement
+    depth: Hilltop defensive position in foreground, surrounding terrain showing isolation in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

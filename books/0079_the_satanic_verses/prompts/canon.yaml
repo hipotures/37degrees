@@ -1,0 +1,158 @@
+canon:
+  characters:
+    - id: "gibreel_farishta"
+      name: "Gibreel Farishta"
+      description_block: |
+        characters:
+          - appearance: "40-year-old Indian man, athletic build, confident posture"
+            clothing: "Elegant dark smoking jacket over white dress shirt, formal evening wear"
+            posture: "Standing with theatrical grace, arms positioned as if blessing or embracing"
+            action: "Gesturing with divine authority, surrounded by subtle golden aureola"
+
+    - id: "saladin_chamcha"
+      name: "Saladin Chamcha"
+      description_block: |
+        characters:
+          - appearance: "40-year-old Indian man, conservative appearance, controlled demeanor"
+            clothing: "Impeccable gray wool suit, black bowler hat, formal British gentleman attire"
+            posture: "Rigid, precisely erect stance with hands clasped behind back"
+            action: "Standing motionless with calculated British propriety"
+
+    - id: "saladin_demonic"
+      name: "Saladin Chamcha (Transformed)"
+      description_block: |
+        characters:
+          - appearance: "Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes"
+            clothing: "Tattered remains of gray suit hanging loosely on enlarged frame"
+            posture: "Hunched forward with weight on cloven hooves, shoulders bearing invisible burden"
+            action: "Breathing sulfurous vapor, hands clenched in anguish and rage"
+
+    - id: "alleluia_cone"
+      name: "Alleluia Cone"
+      description_block: |
+        characters:
+          - appearance: "Athletic 40-year-old woman, lean climber's build, determined expression"
+            clothing: "Practical outdoor gear, weathered climbing jacket over thermal layers"
+            posture: "Alert stance with balanced weight, ready for movement"
+            action: "Reaching toward distant peaks with unwavering focus"
+
+    - id: "mahound"
+      name: "Mahound"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Arab man, weathered desert features, penetrating dark eyes"
+            clothing: "Simple white robes, worn leather sandals, prayer beads at waist"
+            posture: "Kneeling in supplication with face turned toward heaven"
+            action: "Receiving divine revelation with hands outstretched in submission"
+
+    - id: "ayesha_butterfly"
+      name: "Ayesha of Titlipur"
+      description_block: |
+        characters:
+          - appearance: "Young Indian village woman, ethereal beauty, eyes reflecting divine madness"
+            clothing: "Simple white cotton sari, bare feet, silver anklets"
+            posture: "Walking forward with arms outstretched as if embracing invisible presence"
+            action: "Leading pilgrimage while cloud of monarch butterflies swirls around her"
+
+  locations:
+    - id: "london_thatcher_era"
+      name: "1980s London"
+      description_block: |
+        setting:
+          location: "Margaret Thatcher's London, gray industrial cityscape under perpetual overcast sky"
+        mainElements: "Victorian brick terraces with peeling stucco, red double-decker buses, black taxi cabs"
+        atmosphere: "Cold urban alienation mixed with immigrant community warmth in marginalized districts"
+
+    - id: "brickhall_district"
+      name: "Brickhall Immigrant Quarter"
+      description_block: |
+        setting:
+          location: "Working-class London district, narrow streets lined with converted Victorian houses"
+        mainElements: "Corner shops with foreign script signs, small restaurants, community centers"
+        atmosphere: "Vibrant multicultural energy constrained by economic hardship and social tension"
+
+    - id: "shaandaar_cafe"
+      name: "Shaandaar Café"
+      description_block: |
+        setting:
+          location: "Small family restaurant in Brickhall, ground floor of converted Victorian terrace"
+        mainElements: "Simple wooden tables, mismatched chairs, hand-painted menu boards, kitchen aromas"
+        atmosphere: "Warm sanctuary offering refuge and community within hostile urban environment"
+
+    - id: "bombay_eighties"
+      name: "1980s Bombay"
+      description_block: |
+        setting:
+          location: "Tropical Indian metropolis, chaotic blend of colonial architecture and modern development"
+        mainElements: "Massive film billboards, crowded streets, luxury high-rises overlooking slums"
+        atmosphere: "Sensory overload of colors, sounds, scents mixing prosperity with poverty"
+
+    - id: "everest_vilas_penthouse"
+      name: "Everest Vilas Penthouse"
+      description_block: |
+        setting:
+          location: "Luxurious apartment atop Bombay's tallest building, panoramic city and ocean views"
+        mainElements: "Floor-to-ceiling windows, modern furnishings, marble surfaces, private terrace"
+        atmosphere: "Isolated wealth suspended above urban chaos, magnificent yet eerily detached"
+
+    - id: "jahilia_desert_city"
+      name: "Ancient Jahilia"
+      description_block: |
+        setting:
+          location: "Pre-Islamic Arabian desert city built entirely from sandstone and clay"
+        mainElements: "Black Stone sanctuary, merchant quarters, narrow winding alleys, market squares"
+        atmosphere: "Harsh desert heat, religious tension between old gods and new monotheism"
+
+    - id: "hijab_brothel"
+      name: "The Hijab Brothel"
+      description_block: |
+        setting:
+          location: "Hidden establishment in Jahilia's merchant quarter, discreetly marked entrance"
+        mainElements: "Twelve chambers, each decorated to represent different sacred relationships"
+        atmosphere: "Forbidden sensuality masked as religious parody, shadows and whispered secrets"
+
+  items:
+    - id: "magic_aureola"
+      name: "Divine Aureola"
+      description_block: |
+        details: "Subtle golden halo appearing intermittently around head, visible only from certain angles"
+
+    - id: "curved_demon_horns"
+      name: "Satyr Horns"
+      description_block: |
+        details: "Thick bone protrusions curving backward from forehead, dark gray with polished tips"
+
+    - id: "cloven_hooves"
+      name: "Goat Hooves"
+      description_block: |
+        details: "Split hooves replacing human feet, heavy and deliberate against stone surfaces"
+
+    - id: "bowler_hat"
+      name: "British Bowler Hat"
+      description_block: |
+        details: "Black felt formal hat representing desperate attempt at English gentleman identity"
+
+    - id: "smoking_jacket"
+      name: "Elegant Evening Wear"
+      description_block: |
+        details: "Dark formal jacket suggesting sophistication and cultural refinement"
+
+    - id: "butterfly_cloud"
+      name: "Sacred Butterflies"
+      description_block: |
+        details: "Swirling mass of orange and black monarch butterflies creating supernatural aura"
+
+    - id: "black_stone"
+      name: "Sacred Black Stone"
+      description_block: |
+        details: "Ancient meteorite housed in cubic shrine, center of pilgrimage and religious devotion"
+
+    - id: "jumbo_jet_wreckage"
+      name: "Airplane Debris"
+      description_block: |
+        details: "Scattered fragments of Boeing 747 including seats, luggage, personal belongings"
+
+    - id: "persian_prayer_rug"
+      name: "Prayer Carpet"
+      description_block: |
+        details: "Intricately woven Persian rug with geometric patterns, oriented toward sacred direction"

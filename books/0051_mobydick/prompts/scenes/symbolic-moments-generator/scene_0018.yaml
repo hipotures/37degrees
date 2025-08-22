@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Stairway to Nowhere"
+  setting:
+    time: "1840s early morning, fog"
+    location: "Main deck of three-masted American whaling ship, mid-ocean"
+    weather: "Dense fog obscuring horizon"
+  characters:
+    - appearance: "Man in late twenties from Cape Cod, average build with weathered cheerful face often lit by humor, eyes bright with mischief"
+      clothing: "Standard ship officer's working clothes, practical and worn from constant use"
+      position: "Relaxed casual stance even during serious moments, weight shifted comfortably"
+      action: "Smoking from ever-present small black pipe, face showing amused expression as if finding cosmic joke in circumstances"
+  scene:
+    mainElements: "Wooden ladder leads upward from ship's deck but disappears into thick fog, each rung becoming fainter until the structure appears to ascend into nothingness"
+    details: "Ship's rigging forms makeshift staircase that climbs toward crow's nest, but fog obscures the destination, making the ladder appear to rise infinitely into gray void. Each wooden rung emerges from and disappears into mist, suggesting effort without visible goal. Other ladders and rope stairs throughout the rigging create similar patterns - all ascending but leading nowhere discernible. The fog moves constantly, sometimes revealing higher rungs, sometimes concealing even the lower steps, creating sense of futile ambition and unreachable destinations, no text or letters visible"
+    background: "Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace amidships"
+    atmosphere: "The endless stairway represents futile ambition and the impossibility of reaching certain goals, suggesting how effort without clear purpose becomes meaningless repetition"
+  composition:
+    cameraAngle: "Low angle looking up at ladder disappearing into fog"
+    focus: "Wooden rungs fading progressively into gray nothingness"
+    depth: "Clear lower rungs in foreground, fog-obscured middle section, complete gray void in upper background"

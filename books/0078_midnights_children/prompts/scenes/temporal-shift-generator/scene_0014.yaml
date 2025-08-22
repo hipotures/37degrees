@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Transportation Revolution - Bullock Cart to Lambretta to Army Jeep"
+  setting:
+    time: "1920s, 1950s, 1970s - three transportation eras"
+    location: "Same street corner in Bombay showing vehicle evolution and urban development"
+    weather: "Consistent street lighting showing technological progression"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Same Bombay street intersection hosting three transportation eras. 1920s displays bullock cart and pedestrian traffic on dusty road. 1950s shows Lambretta scooters and early automobiles on paved streets. 1970s reveals military jeeps and modern vehicles during Emergency period with increased police presence"
+    details: "Road surface evolves from dirt path to asphalt paving to deteriorating Emergency-era maintenance neglect. Street lighting progresses from oil lamps to electric posts to harsh security illumination. Traffic density increases dramatically with each era while vehicle types modernize"
+    background: "Street architecture transforms from colonial buildings to independence-era construction to Emergency period fortification. Shop signs and street vendors change reflecting economic and political evolution"
+    atmosphere: "Progression from rural simplicity through hopeful modernization to militarized urban control. Transportation advancement paralleling loss of personal freedom and community intimacy, no text or letters visible"
+  composition:
+    cameraAngle: "Wide street view capturing vehicle progression and urban development"
+    focus: "Central intersection as constant reference point for changing transportation"
+    depth: "Vehicles and road in foreground, street activity in middle ground, building development in background"

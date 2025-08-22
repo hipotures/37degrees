@@ -1,0 +1,131 @@
+canon:
+  characters:
+    - id: "rahel_child"
+      name: "Rahel Ipe (age 7)"
+      description_block: |
+        characters:
+          - appearance: "Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo"
+            clothing: "Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames, simple cotton dresses and skirts typical of 1960s Indian children"
+            position: "Standing close to her twin brother or moving with restless child energy"
+            action: "Watching adults with intense curiosity, fidgeting with her toy watch that always shows 10:02, whispering secrets to Estha"
+
+    - id: "estha_child"
+      name: "Estha Ipe (age 7)"
+      description_block: |
+        characters:
+          - appearance: "Seven-year-old Indian boy with serious demeanor, smooth slender muscular arms for his age, dark complexion, hair styled like Elvis Presley in spiky arrangement, honest facial expression, V-shaped tan mark on his neck"
+            clothing: "Simple boy's clothes of 1960s Kerala - cotton shirts, short pants, sometimes going shirtless in warm weather"
+            position: "Standing beside Rahel or sitting quietly with contained energy"
+            action: "Observing everything with earnest attention, occasionally humming songs from Sound of Music, staying protectively close to Rahel"
+
+    - id: "ammu_young"
+      name: "Ammu Ipe (age 27)"
+      description_block: |
+        characters:
+          - appearance: "Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build"
+            clothing: "Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing her rebellious nature, sunset-colored silk sari with gold threading from wedding photos"
+            position: "Moving with contained restlessness or sitting with forced composure"
+            action: "Watching her children with fierce protective love mixed with frustration, smoothing her sari when nervous, glancing toward forbidden desires"
+
+    - id: "velutha_young"
+      name: "Velutha Paapen (age 25)"
+      description_block: |
+        characters:
+          - appearance: "Handsome 25-year-old Paravan man with dark skin that glistens like polished wood, high cheekbones, muscular swimmer-carpenter body with visible abdominal muscles like chocolate bar divisions, white sudden smile, tall strong build"
+            clothing: "Simple white or cream mundu sarong worn around waist, often shirtless while working, occasionally simple cotton shirt for formal occasions"
+            position: "Working with tools or wood, moving with fluid carpenter grace"
+            action: "Fixing machinery with skilled hands, carving wood with precise movements, smiling gently at children, carrying himself with quiet dignity despite low caste status"
+
+    - id: "chacko_adult"
+      name: "Chacko Ipe (age 35)"
+      description_block: |
+        characters:
+          - appearance: "Heavyset 35-year-old man who has become lazy and fat since Oxford days, distinctive entomologist nose inherited from father, intellectual demeanor, soft features from comfortable living"
+            clothing: "Western-style clothing reflecting Oxford education - pressed trousers, button-down shirts, occasionally jacket to emphasize his educated status"
+            position: "Sitting in comfortable chair or standing with authority as family patriarch"
+            action: "Reading books, gesturing while explaining political theories, adjusting his glasses, asserting his masculine privileges while hypocritically judging his sister"
+
+    - id: "baby_kochamma_elder"
+      name: "Baby Kochamma (age 60)"
+      description_block: |
+        characters:
+          - appearance: "60-year-old unmarried woman with bitter expression, increasingly plump from sedentary lifestyle, graying hair, suspicious eyes, movements sharp with resentment"
+            clothing: "Conservative sari in traditional style, gold bangles and chain she touches for comfort, modest colors befitting spinster aunt"
+            position: "Sitting rigidly or moving with purposeful manipulation"
+            action: "Watching television obsessively, touching her gold jewelry when plotting, speaking with false sweetness masking deep malice, orchestrating family destruction through lies"
+
+    - id: "sophie_mol_child"
+      name: "Sophie Mol (age 9)"
+      description_block: |
+        characters:
+          - appearance: "Nine-year-old half-English half-Indian girl with pale skin, blue-gray-blue eyes, dark reddish-brown long hair, distinctive entomologist nose inherited from grandfather Pappachi, confident bearing"
+            clothing: "Fashionable Western clothes from London - yellow crimplene bell-bottoms, straw hat, made-in-England go-go bag, modern 1960s child fashion"
+            position: "Standing with confidence or moving with assurance of being favored"
+            action: "Speaking with slight English accent, examining Indian surroundings with curiosity, unconsciously commanding attention as the exotic favorite grandchild"
+
+  locations:
+    - id: "ayemenem_house_1969"
+      name: "Ipe Family House Ayemenem 1969"
+      description_block: |
+        setting:
+          location: "Traditional Kerala house in Ayemenem village, Kottayam district, southern India, situated on raised ground overlooking Meenachal River valley amid lush tropical landscape"
+        mainElements: "Large two-story house with steep pitched roof pulled down over ears like low hat, solid traditional architecture with front veranda supported by wooden columns, European colonial influences visible in furniture and decoration"
+        atmosphere: "Tense household filled with unspoken rules and simmering patriarchal anger, mixture of tropical abundance and family dysfunction, house holding secrets and suppressed violence"
+
+    - id: "ayemenem_house_1993"
+      name: "Ipe Family House Ayemenem 1993"
+      description_block: |
+        setting:
+          location: "Same Kerala house 24 years later, now decaying and overgrown, walls soft and bulging from monsoon damage, moss streaking the surfaces, wild garden reclaiming cultivated spaces"
+        mainElements: "Deteriorating house with empty unfurnished front veranda, satellite dish on roof, interior dominated by television glow, rusting blue Plymouth sinking into earth outside"
+        atmosphere: "Stagnant silence haunted by memories, melancholy abandonment, nature slowly reclaiming human attempts at order, house as tomb of family dreams"
+
+    - id: "meenachal_river_1969"
+      name: "Meenachal River 1969"
+      description_block: |
+        setting:
+          location: "Wide powerful river flowing through Kerala landscape, bordered by dense tropical vegetation, connecting Ayemenem village to wider world, sacred and dangerous waterway"
+        mainElements: "Gray-green waters reflecting sky and trees, strong unpredictable current especially during monsoon, wooden fishing boats, submerged tree roots, lush riverbank vegetation"
+        atmosphere: "Duality of life and death, freedom and imprisonment, natural power that gives and takes life, witness to forbidden love and ultimate tragedy"
+
+    - id: "history_house"
+      name: "History House"
+      description_block: |
+        setting:
+          location: "Abandoned colonial house across Meenachal River from Ayemenem, former residence of Englishman Kari Saipu who went native and committed suicide, now ruined and overgrown by jungle"
+        mainElements: "Crumbling colonial architecture with sagging veranda, broken windows, holes in roof allowing light shafts, furniture covered in dust and cobwebs, walls stained with moisture and time"
+        atmosphere: "Mysterious forbidden place representing colonial decay, private Heart of Darkness for twins, location of secret meetings and ultimate violence, symbolic of history's weight"
+
+    - id: "abhilash_cinema_foyer"
+      name: "Abhilash Talkies Cinema Foyer"
+      description_block: |
+        setting:
+          location: "Dark lobby area of local cinema in Kottayam town, public space with red carpet on stairs, designed in 1960s Indian cinema style with refreshment counter"
+        mainElements: "Dimly lit space with point lighting from refreshment stand, electric blue foam leather car seat furniture, colorful bottles of drinks, smell of popcorn and sweet syrups"
+        atmosphere: "Threatening environment where innocent child encounters predatory adult, contrast between bright safe auditorium and dangerous shadowy foyer, place of violated trust"
+
+  items:
+    - id: "blue_plymouth"
+      name: "Blue Plymouth Car"
+      description_block: |
+        details: "Sky blue Plymouth automobile with chrome fins on rear, purchased from departing Englishman, symbol of family status and colonial aspirations, vehicle of family journey to cinema and airport in December 1969"
+
+    - id: "pappachi_moth"
+      name: "Pappachi's Moth"
+      description_block: |
+        details: "Gray hairy moth with dense tufted back discovered by Pappachi but never credited to him, specimens displayed in glass case, recurring nightmare creature that lands on Rahel's heart during moments of fear and abandonment"
+
+    - id: "red_communist_flags"
+      name: "Communist Demonstration Flags"
+      description_block: |
+        details: "Bright red flags with hammer and sickle symbols carried by political protesters, aggressive visual element representing revolutionary force that invades family peace and destroys their world"
+
+    - id: "rahel_toy_watch"
+      name: "Rahel's Toy Watch"
+      description_block: |
+        details: "Child's plastic toy watch with hands permanently frozen at 10:02, symbol of time stopped at moment of trauma, innocent accessory that becomes marker of lost childhood"
+
+    - id: "sophie_yellow_bellbottoms"
+      name: "Sophie Mol's Yellow Bellbottoms"
+      description_block: |
+        details: "Fashionable yellow crimplene bell-bottom pants from London representing Western modernity and Sophie's status as exotic favorite, bright color associated with sickness and foreboding in novel's symbolic system"

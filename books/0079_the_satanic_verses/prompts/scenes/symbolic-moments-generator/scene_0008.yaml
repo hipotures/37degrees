@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sacred book appearing in both library sanctuary and burning pyre"
+  setting:
+    time: "Late 1980s, evening transitioning between golden library light and orange flame glow"
+    location: "Space impossibly split between peaceful university library and violent street riot"
+    weather: "Calm indoor air on left side, smoke-filled chaos on right side"
+  characters:
+    - appearance: "40-year-old Indian man, athletic build, confident posture"
+      clothing: "Elegant dark smoking jacket over white dress shirt, formal evening wear"
+      position: "Standing precisely on boundary line between two environments"
+      action: "Reaching toward book with both hands, one toward preservation, one toward destruction"
+  scene:
+    mainElements: "Single ancient volume existing simultaneously in two contradictory spaces, book appearing intact among library shelves while also burning in street mob's fire"
+    details: "Leather-bound manuscript with gold-edged pages, left side showing pristine condition on wooden reading stand surrounded by scholarly tools, right side identical book engulfed in flames as demonstrators feed bonfire, both versions equally real and substantial, impossible dual existence creating visual paradox, pages fluttering between states of preservation and destruction, binding simultaneously protected and consumed, no text or letters visible"
+    background: "Left: mahogany shelves, reading lamps, scholarly silence, marble busts of philosophers; Right: angry crowd, protest banners, smoke clouds, overturned cars"
+    atmosphere: "Collision between reverence and rage, knowledge caught between worship and willful destruction"
+  composition:
+    cameraAngle: "Straight-on view emphasizing stark division between sanctuary and violence"
+    focus: "Impossible dual existence of same sacred text in opposing contexts"
+    depth: "Foreground: reaching hands from both sides, midground: book in dual states, background: contrasting environments of learning and burning"

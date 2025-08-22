@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1909, dawn
+    location: Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton
+      fields
+    weather: Morning light filtering through window
+  characters:
+  - appearance: African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries
+      herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful
+      to determined
+    clothing: 'Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect.
+      Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues,
+      clothes that express newfound freedom and self-worth'
+    position: Kneeling beside wooden box under bed
+    action: Carefully folding letter and placing it with other papers in makeshift hiding place
+  scene:
+    mainElements: Wooden floorboards with loose plank revealing hiding space, small collection of precious items, morning
+      light creating stark contrasts
+    details: Rough-hewn wooden box containing few personal treasures, folded brown papers with writing, small tin with pencil
+      stub, worn family photograph. Hands moving with reverent care, treating letters as sacred objects
+    background: Simple bedroom with single bed, cracked walls, early morning sunlight streaming through small window creating
+      geometric patterns
+    atmosphere: Secrecy and preservation, letters becoming lifeline and legacy, physical act of safeguarding voice and truth
+      for future
+  composition:
+    cameraAngle: Low angle looking up from hiding place, emphasizing secrecy
+    focus: Hands protecting precious written words, physical preservation of voice
+    depth: 'Foreground: hiding place and letters, middle: protective hands, background: modest room'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1851, late afternoon
+    location: Library or study area where enslaved people are forbidden to read or learn
+    weather: Dim afternoon light filtering through closed shutters
+  characters: No characters present in this scene
+  scene:
+    mainElements: Library with books locked behind glass cases or chained shut, empty reading tables, educational materials
+      made inaccessible
+    details: Books with locks or chains preventing access, literacy materials hidden away, warning signs about education prohibitions,
+      dust accumulating on unused educational resources, candles unlit suggesting learning forbidden
+    background: Well-appointed study with expensive furniture designed for educated white society, maps and educational materials
+      visible but secured, writing materials locked away
+    atmosphere: Oppressive silence where knowledge is hoarded as weapon of control, empty spaces meant for learning now serving
+      to maintain ignorance, intellectual resources deliberately withheld from those who could benefit
+  composition:
+    cameraAngle: Wide shot showing empty educational space
+    focus: The locked or chained books as symbols of deliberate denial of education and human development
+    depth: Foreground shows locked educational materials, middle ground features empty learning spaces, background reveals
+      the comfortable environment reserved for privileged education
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Crossroads of Wind and Will"
+  setting:
+    time: "1840s afternoon, shifting winds"
+    location: "Raised stern deck of whaling ship reserved for captain's command"
+    weather: "Conflicting wind currents creating turbulent air"
+  characters:
+    - appearance: "Lean man of 30 years, tall and spare build, clean tight skin, serious angular face reflecting Quaker heritage"
+      clothing: "Simple practical officer's attire in muted gray and blue tones, functional wool garments reflecting Quaker plainness"
+      position: "Standing at attention with officer's bearing, hands clasped behind back in military posture"
+      action: "Observing crew with responsible watchfulness, expression showing moral conflict between duty and conscience"
+  scene:
+    mainElements: "Ship's steering handle carved from single piece of sperm whale jawbone, polished white surface worn smooth by countless hands positioned at exact center where multiple wind currents meet"
+    details: "The whalebone tiller stands at the intersection of three different wind currents - one coming from the east carrying warmth, another from the north bringing cold, and a third from the west bearing storm clouds. Ribbons tied to the rigging blow in different directions simultaneously, some streaming east while others point west, creating visual chaos of choice. The helmsman's hands rest on the whale-carved tiller, but the wheel itself points neither left nor right, frozen in indecision as conflicting forces pull the ship in multiple directions, no text or letters visible"
+    background: "Special auger-hole cut in deck planking for Ahab's ivory leg, whale-bone tiller, commanding view of entire ship"
+    atmosphere: "The scene represents moments of crucial decision where multiple paths diverge, showing how choices become more difficult when all options carry equal weight and consequence"
+  composition:
+    cameraAngle: "Medium shot centered on tiller with wind patterns visible through streaming ribbons"
+    focus: "Whalebone steering wheel as decision point between conflicting forces"
+    depth: "Tiller in immediate foreground, conflicting wind ribbons in middle distance, diverging horizons in multiple directions"

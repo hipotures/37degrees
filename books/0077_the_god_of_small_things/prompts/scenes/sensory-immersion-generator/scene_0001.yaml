@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Monsoon Heat Pressing Against Glass Windows"
+  setting:
+    time: "1969 December, humid afternoon during unseasonable heat wave"
+    location: "Interior of blue Plymouth car stopped at railway crossing in Kerala countryside, India"
+    weather: "Oppressive heat with high humidity before monsoon rains, air shimmering with heat waves"
+  characters:
+    - appearance: "Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo"
+      clothing: "Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames, simple cotton dresses and skirts typical of 1960s Indian children"
+      position: "Pressing both palms flat against hot car window glass"
+      action: "Feeling temperature contrast between air-conditioned interior and blazing exterior, small hands leaving temporary fog prints on glass surface"
+    - appearance: "Seven-year-old Indian boy with serious demeanor, smooth slender muscular arms for his age, dark complexion, hair styled like Elvis Presley in spiky arrangement, honest facial expression, V-shaped tan mark on his neck"
+      clothing: "Simple boy's clothes of 1960s Kerala - cotton shirts, short pants, sometimes going shirtless in warm weather"
+      position: "Sitting beside Rahel with shirt sticking to vinyl car seat"
+      action: "Wiping sweat from forehead while watching heat waves distort view through windshield"
+  scene:
+    mainElements: "Chrome and vinyl car interior becoming furnace-hot, windows fogged with breath and palm prints, leather seats burning to touch, metal door handles too hot to grasp"
+    details: "Sweat beading on all surfaces inside car, children's clothes clinging damply to skin, Rahel's hands leaving perfect print outlines on glass that slowly fade and reappear, heat creating mirages on road surface visible through windshield, chrome car fixtures radiating stored heat like small furnaces"
+    background: "Kerala countryside shimmering in heat waves, coconut palms drooping in still air, dust particles visible in shafts of blazing sunlight"
+    atmosphere: "Oppressive weight of tropical heat pressing down like heavy blanket, sensation of being trapped in overheating metal box, anticipation of cooling monsoon relief"
+  composition:
+    cameraAngle: "Interior view from back seat focusing on children's interaction with hot surfaces"
+    focus: "Rahel's small palms pressed against burning window glass, contrast between her cool skin and scorching surface"
+    depth: "Foreground shows children's heat-flushed faces, middle ground captures steaming car interior, background reveals heat-distorted landscape through windows, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Reaction - Authority Shaken"
+  setting:
+    time: "1944, late afternoon"
+    location: "Colonel's office in administrative barracks on Pianosa base"
+    weather: "Mediterranean heat with dust in air"
+  characters:
+    - appearance: "36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture of arrogance and insecurity"
+      clothing: "immaculate pressed colonel uniform with insignia"
+      position: "sitting behind desk with hands clenched"
+      action: "struggling to process naked protest incident while maintaining authority"
+  scene:
+    mainElements: "military office with large wooden desk, official paperwork scattered, framed military photographs, filing cabinets"
+    details: "Colonel Cathcart sits alone after witnessing Yossarian's naked medal ceremony protest. His usual confidence is shattered by unprecedented act of rebellion. Papers lie forgotten on desk as he contemplates how to maintain order and his career advancement when faced with such blatant disrespect for military authority."
+    background: "wooden office walls with military maps, regulation manuals, communication equipment, window showing base activity"
+    atmosphere: "bureaucratic power confronting its limitations, mixture of authority confusion and suppressed panic about maintaining control"
+  composition:
+    cameraAngle: "medium shot focused on colonel's disturbed expression"
+    focus: "facial expression revealing loss of confident authority"
+    depth: "foreground shows clenched hands and scattered papers, middle ground captures psychological disturbance, background shows institutional military setting"

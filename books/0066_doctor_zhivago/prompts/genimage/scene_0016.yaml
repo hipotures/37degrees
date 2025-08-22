@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: December 1905, Christmas party at Sventitskys - single moment suspended
+    location: Grand ballroom in Moscow mansion showing festive Christmas gathering
+    weather: Cold winter night with snow falling outside warm ballroom
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  - appearance: Middle-aged man 40s-60s, well-built with tendency toward portliness, intelligent face showing cynicism and
+      sensuality, charming but predatory smile
+    clothing: Always impeccably and expensively dressed regardless of political system, dark perfectly tailored suits, expensive
+      coats, luxury accessories
+    posture: Commanding presence emanating cynical power and influence, confident gestures
+    action: Playing cards, manipulating situations, smoking cigars, negotiating deals
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Moment of gunshot frozen in time while Christmas party continues in normal motion around suspended action
+    details: 'Split-time composition: Central frozen action shows Lara with pistol extended, bullet path visible as silver
+      streak through air toward Komarowski who recoils in slow motion, glass falling from his hand suspended mid-shatter.
+      Around this frozen violence, Christmas party continues at normal speed with dancers waltzing, orchestra playing, children
+      reaching for ornaments, servants carrying trays, Jurij rushing forward to help. Only the shooting participants exist
+      in suspended time while world flows normally around them, no text or letters visible'
+    background: Festive Christmas decorations and elegant ballroom maintaining normal temporal flow
+    atmosphere: Violence intruding into celebration, time distorted by trauma while life continues obliviously around dramatic
+      moment
+  composition:
+    cameraAngle: Medium shot capturing both frozen violence and flowing party around it
+    focus: Bullet path and Lara's determined face as temporal anchor point
+    depth: 'Foreground: frozen shooting scene; middle ground: normal-time party guests; background: continuing celebration'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

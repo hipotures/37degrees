@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Holden's distorted self-reflection reveals internal fragmentation"
+  setting:
+    time: "Late 1940s, late evening in December"
+    location: "Dormitory bathroom mirror in Memorial Wing at Pencey Prep"
+    weather: "Cold December night with frost covering windows"
+  characters:
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Standing before institutional bathroom mirror examining reflection"
+      action: "Confronting his own image while struggling with self-perception and identity crisis"
+  scene:
+    mainElements: "Harsh institutional bathroom lighting creating unflattering reflection, cracked or spotted mirror surface distorting self-image, sterile bathroom environment emphasizing isolation"
+    details: "Through Holden's psychological distortion, mirror reflection appears older and more haggard than actual age, premature gray hair becomes symbol of lost innocence, red hunting cap appears as desperate attempt at individuality, reflection seems to accuse him of phoniness"
+    background: "Institutional bathroom with white tile walls, harsh fluorescent lighting, multiple sinks suggesting communal space, industrial fixtures"
+    atmosphere: "Brutal self-examination revealing internal fracturing, institutional lighting stripping away illusions, confrontation with reality of personal deterioration, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on distorted reflection and psychological revelation"
+    focus: "Mirror reflection showing internal struggle between authentic self and social performance"
+    depth: "Foreground: harsh institutional mirror, middle ground: Holden's troubled reflection, background: sterile bathroom environment"

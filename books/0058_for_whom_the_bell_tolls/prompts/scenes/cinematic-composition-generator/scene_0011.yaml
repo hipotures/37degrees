@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "POV shot - Jordan's view through binoculars of target bridge"
+  setting:
+    time: "Late May 1937, dawn reconnaissance"
+    location: "Forest observation position overlooking bridge valley"
+    weather: "Clear dawn light with morning mist"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "View through circular binocular frame showing steel bridge spanning rocky gorge, guard posts visible at both ends, early morning light illuminating target structure"
+    details: "Binocular vignette effect framing bridge structure, guard stations with small figures visible, rocky canyon walls showing strategic importance of crossing point, morning shadows revealing construction details and potential weak points"
+    background: "Mountain landscape extending beyond bridge site, distant peaks visible through morning haze"
+    atmosphere: "Professional military assessment, target identification and planning, mixture of technical focus and anticipation of action"
+  composition:
+    cameraAngle: "POV shot through binocular optics"
+    focus: "Bridge structure as military objective viewed through magnified optics"
+    depth: "Circular binocular frame creating tunnel vision effect on distant target"

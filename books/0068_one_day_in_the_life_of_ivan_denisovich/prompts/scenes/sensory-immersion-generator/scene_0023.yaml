@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening Search Tension - Multi-Sensory Anxiety Crescendo"
+  setting:
+    time: "January 1951, 6:30 PM, evening return inspection"
+    location: "Camp entrance gate area with guard inspection stations"
+    weather: "Darkening evening cold with tension creating atmospheric pressure"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki) with hidden metal blade in glove"
+      position: "Standing in search line with concealed contraband, experiencing extreme anxiety"
+      action: "Controlling physical responses while hiding metal blade, managing multiple stress sensations simultaneously"
+    - appearance: "Prison guards conducting searches with authority and suspicion"
+      clothing: "Warm guard uniforms with weapons and search equipment"
+      position: "Positioned to conduct thorough inspections of returning workers"
+      action: "Systematically searching prisoners for contraband with professional thoroughness"
+  scene:
+    mainElements: "Gate inspection area with searchlights, guard stations, and systematic prisoner processing setup"
+    details: "Hidden metal blade in glove creating tactile pressure against palm, constant awareness of contraband weight and temperature. Visual tension through guard movements and searchlight patterns, atmospheric pressure from institutional authority and potential punishment. Sound environment filled with guard commands, equipment noise, and nervous prisoner responses creating acoustic stress landscape. Cold air intensifying sensory awareness, heightened perception from adrenaline and fear affecting all sensory input. Sweat and nervous tension creating olfactory signatures despite cold conditions, body chemistry responding to extreme stress with multi-sensory alert state, no text or letters visible"
+    background: "Institutional gate architecture with barriers, watchtowers, and security infrastructure designed for control and inspection"
+    atmosphere: "Overwhelming sensory bombardment from extreme stress situation, all senses heightened by danger and potential discovery, synesthetic anxiety where every sensation becomes amplified and interconnected"
+  composition:
+    cameraAngle: "Tense close-up showing anxiety and concealment stress"
+    focus: "Multiple stress indicators - facial tension, body language, environmental pressure, hidden contraband awareness"
+    depth: "Foreground: detailed anxiety responses and concealment effort, middle: search process and authority, background: institutional control architecture"

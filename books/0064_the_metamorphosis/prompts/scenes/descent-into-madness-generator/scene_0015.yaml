@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Melting Time - Dalí's Nightmare"
+  setting:
+    time: "Autumn night 1912, time becoming meaningless"
+    location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+    weather: "Weather patterns shifting rapidly between seasons and times of day"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "All solid objects in room beginning to melt and droop like wax, especially the brass alarm clock becoming liquid time"
+    details: "Mechanical wind-up clock on nightstand, brass or steel construction, represents tyranny of work schedule and time, ticking constantly in background melts and flows like honey down the dresser. The wooden sofa sags and droops, its leather upholstery flowing like thick cream. Picture frame becomes liquid gold dripping down the wall, the woman's face stretching and distorting. Even Gregor's hard carapace begins to soften at the edges. Time itself becomes visible as flowing streams of light that move at different speeds through the room."
+    background: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+    atmosphere: "Time as physical substance that can be manipulated, reality losing all structural integrity, physics dissolving into dream logic"
+  composition:
+    cameraAngle: "Medium shot showing melting objects with time-lapse effect"
+    focus: "Melting clock and liquid furniture defying physical laws"
+    depth: "Foreground: liquid objects flowing toward camera, middle: Gregor beginning to melt at edges, background: time streams visible as flowing light"

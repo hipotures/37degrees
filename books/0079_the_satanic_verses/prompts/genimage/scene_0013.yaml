@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, winter night with aurora borealis unusually visible over London
+    location: Rooftop garden overlooking multicultural London, frost-covered planters and bare trees
+    weather: Bitter cold night with clear sky allowing northern lights to appear
+  characters:
+  - appearance: Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes
+    clothing: Tattered remains of gray suit hanging loosely on enlarged frame
+    position: Kneeling beside rose, massive frame making flower seem both delicate and eternal
+    action: Reaching toward bloom with steam rising from warm breath in cold air
+  scene:
+    mainElements: Single white rose bush with stem wrapped in crystalline ice thorns, petals glowing with blue flame that
+      produces no heat
+    details: Perfect white rose in full bloom, each petal edged with cold blue fire that flickers without consuming, thorns
+      transformed into razor-sharp ice crystals that refract northern lights into prismatic colors, stem and leaves encased
+      in transparent ice but plant remaining vibrantly alive, impossible combination of fire and ice existing in harmony,
+      cold flames casting blue shadows on surrounding frost, flower radiating both warmth and chill simultaneously, no text
+      or letters visible
+    background: Urban rooftop garden with frost-covered planters, London skyline twinkling below, aurora borealis creating
+      ethereal green curtains across night sky
+    atmosphere: Beautiful contradictions existing in perfect harmony, pain and pleasure unified in single moment
+  composition:
+    cameraAngle: Close-up view emphasizing impossible fusion of opposing elements
+    focus: Rose combining fire and ice, thorns and beauty, representing unified opposites
+    depth: 'Foreground: detailed flower with ice thorns and cold fire, midground: kneeling figure, background: magical sky
+      and urban landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

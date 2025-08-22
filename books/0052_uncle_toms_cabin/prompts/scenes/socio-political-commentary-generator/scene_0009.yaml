@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Price of Luxury - Wealth Built on Suffering"
+  setting:
+    time: "1851, evening"
+    location: "Elegant dining room of New Orleans mansion during lavish dinner party"
+    weather: "Mild evening with gas lamps creating warm interior lighting"
+  characters:
+    - appearance: "Well-dressed white society members in their 30s-50s, men in formal evening wear, women in elaborate gowns"
+      clothing: "Expensive silk gowns with jewelry, tailored formal suits with pocket watches, fine fabrics and accessories"
+      position: "Seated around luxurious dining table with multiple courses and fine china"
+      action: "Dining on elaborate meal while engaging in casual conversation, unaware or indifferent to source of their wealth"
+  scene:
+    mainElements: "Ornate dining room with crystal chandeliers, fine china and silver, multiple courses of rich food, expensive wine and decorative table settings"
+    details: "Paintings of plantation scenes on walls, servants barely visible serving food, account books casually placed on side table showing human property values, cotton bales visible through windows"
+    background: "Gas-lit New Orleans mansion interior with expensive furnishings, glimpse of kitchen where enslaved cooks work, cotton processing facilities visible in distance"
+    atmosphere: "Refined luxury paid for by human suffering, casual conversation over dinner while people are bought and sold, comfortable ignorance of moral cost of wealth"
+  composition:
+    cameraAngle: "Medium shot showing diners and luxurious table setting"
+    focus: "The contrast between refined dining and the human cost enabling such luxury"
+    depth: "Foreground shows expensive food and table settings, middle ground features comfortable diners, background hints at the labor system supporting their lifestyle"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cosmic Perspective - Human Time vs Geological Eternity"
+  setting:
+    time: "Geological epochs compressed with human history as brief moment"
+    location: "Ancient landscape showing geological time scale versus human temporal experience"
+    weather: "Climate changes across geological periods compressed into single view"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy appearing as tiny figure against vast geological time scale"
+      action: "Human activity shown as brief flicker against eternal geological processes, no text or letters visible"
+  scene:
+    mainElements: "Ancient rock formations showing geological stratification, mountains rising and eroding, rivers changing course across millennia, ice ages advancing and retreating"
+    details: "Rock layers showing millions of years of geological time, fossil evidence of previous life forms, human civilization appearing as thin recent layer, astronomical events affecting landscape over cosmic time"
+    background: "Stars wheeling overhead across geological epochs, solar system changes affecting climate, cosmic time scale dwarfing human history"
+    atmosphere: "Humbling perspective on human temporal significance versus cosmic and geological eternities, peaceful acceptance of individual insignificance in universal time scale"
+  composition:
+    cameraAngle: "Extreme wide shot showing cosmic scale with human time as tiny element"
+    focus: "Geological formations as symbols of time scales beyond human comprehension"
+    depth: "Multiple temporal scales from human to geological to cosmic showing relative significance"

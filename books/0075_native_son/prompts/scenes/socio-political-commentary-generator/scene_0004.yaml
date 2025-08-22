@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Clean Streets of White Prosperity"
+  setting:
+    time: "Late 1930s, morning"
+    location: "Hyde Park wealthy white neighborhood streets of Chicago"
+    weather: "Crisp clear winter morning"
+  characters:
+    - appearance: "Various well-dressed white residents of different ages, all showing signs of prosperity and comfort, clean and healthy appearance"
+      clothing: "High-quality winter coats, expensive hats and gloves, polished shoes, elegant scarves, fashionable 1930s attire showing wealth"
+      position: "walking along clean sidewalks and entering expensive shops"
+      action: "conducting daily business with ease and confidence, shopping and socializing without concern"
+  scene:
+    mainElements: "Wide clean tree-lined streets with expensive shops, manicured lawns, well-maintained buildings, and infrastructure showing municipal investment in wealthy areas"
+    details: "Pristine sidewalks free of debris, elegant storefronts with quality goods displayed, street lamps providing adequate lighting, snow removal equipment having cleared paths perfectly, decorative elements like park benches and flower boxes, uniformed police providing security, luxury automobiles parked along curbs"
+    background: "Row of upscale businesses including banks, boutiques, and professional offices, church spires visible showing established institutions, tree-lined parkland showing recreational spaces for the wealthy"
+    atmosphere: "Perfect order and cleanliness maintained by wealth and municipal favoritism, sense of security and comfort available only to white privileged class, demonstration of how money ensures quality of life"
+  composition:
+    cameraAngle: "Wide shot down the length of the clean prosperous street"
+    focus: "The stark contrast between this maintained environment and conditions elsewhere in the city"
+    depth: "Foreground shows detailed view of clean infrastructure, middle ground captures prosperous residents, background reveals the extent of this privileged zone"

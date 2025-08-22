@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1909, evening
+    location: Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton
+      fields
+    weather: Clear night with stars visible through small window
+  characters:
+  - appearance: African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries
+      herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful
+      to determined
+    clothing: 'Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect.
+      Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues,
+      clothes that express newfound freedom and self-worth'
+    position: Hunched over small wooden table by flickering candlelight
+    action: Writing carefully on a piece of brown paper with stub of pencil, forming letters slowly
+  scene:
+    mainElements: 'Small weathered wood-frame house with sagging porch, bare dirt yard, hand-pump water well, outdoor privy,
+      ramshackle barn structures. Close-up focus on writing materials: brown paper, pencil stub, candle in holder'
+    details: Rough wooden table scarred by use, candle wax pooled around base, shadows dancing on walls from flame. Girl's
+      small hand gripping pencil tightly, careful formation of words on precious paper. Silence broken only by pencil scratching
+      and distant night sounds
+    background: Dark room with sparse furnishings, single bed in corner, cracked window letting in moonlight, feeling of isolation
+      and secrecy
+    atmosphere: Quiet determination mixed with fear, sacred act of beginning to find voice through written words, candlelight
+      creating intimate circle of expression in oppressive darkness
+  composition:
+    cameraAngle: Close-up on hands writing, then wider shot showing small figure at table
+    focus: The physical act of writing - pencil forming letters, paper receiving words, candle providing light
+    depth: 'Foreground: writing materials and hands, middle: young woman concentrating, background: dark room suggesting larger
+      world beyond'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

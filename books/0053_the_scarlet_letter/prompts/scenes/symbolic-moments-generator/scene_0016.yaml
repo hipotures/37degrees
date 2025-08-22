@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Needle's Art of Defiance"
+  setting:
+    time: "1645 evening in isolated cottage"
+    location: "Cottage interior by firelight"
+    weather: "Evening with firelight illuminating interior"
+  characters:
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Position varies by scene context"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+  scene:
+    mainElements: "Woman creating elaborate needlework while letter on her chest gleams in firelight"
+    details: "Symbolic scene depicting the needle's art of defiance with detailed symbolic elements emphasizing visual metaphors of artistic skill transforming mark of shame into thing of beauty. All elements contribute to overall symbolic narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact."
+    background: "Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social elements"
+    atmosphere: "Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no text or letters visible"
+  composition:
+    cameraAngle: "Angle chosen to emphasize symbolic elements and character relationships"
+    focus: "Artistic skill transforming mark of shame into thing of beauty"
+    depth: "Foreground, middle, and background elements layered to create symbolic meaning and visual depth"

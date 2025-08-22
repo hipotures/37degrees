@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Standing Over Sitting - Hierarchy Display"
+  setting:
+    time: "1944, morning"
+    location: "squadron briefing room on Pianosa airbase"
+    weather: "bright Mediterranean morning"
+  characters:
+    - appearance: "36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture of arrogance and insecurity"
+      clothing: "immaculate pressed colonel uniform with insignia"
+      position: "standing elevated on platform above seated personnel"
+      action: "delivering mission briefings while seeking to impress superior officers"
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "sitting in folding chair among other aircrews"
+      action: "listening cynically to mission announcements"
+  scene:
+    mainElements: "military briefing room with raised platform, rows of folding chairs, large wall maps showing target areas, mission planning boards"
+    details: "Colonel Cathcart stands elevated above seated aircrews, using physical height to reinforce authority. He announces another dangerous mission increase while pilots remain trapped in their seats. The platform creates deliberate power display as colonel looks down upon subordinates who cannot escape his arbitrary decisions."
+    background: "wall maps of Italy and target zones, briefing boards with mission details, military communication equipment"
+    atmosphere: "hierarchical military power exercised through physical positioning and spatial control over subordinates"
+  composition:
+    cameraAngle: "medium shot emphasizing height difference and power dynamics"
+    focus: "vertical composition showing authority standing over powerless seated figures"
+    depth: "foreground shows seated subordinates, middle ground captures standing authority figure, background reveals institutional military planning apparatus"

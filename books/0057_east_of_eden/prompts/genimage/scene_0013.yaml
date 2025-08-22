@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1870s, 1890s, and 1910s overlaid, showing 40 years of technological progress, afternoon light
+    location: Hamilton farmhouse kitchen table and later Salinas post office, same space adapting to new communication methods
+    weather: Bright afternoon light streaming through windows illuminating communication activities
+  characters:
+  - appearance: Samuel Hamilton visible as ghostly overlay, tall elderly Irish man in his 60s-70s with white hair and beard,
+      kind eyes full of wisdom, large gentle hands despite his size
+    clothing: Simple cotton work shirt, worn wool vest, practical trousers, leather blacksmith apron when working
+    position: Seated at kitchen table writing letters in 1870s, standing at telegraph office in 1890s, using wall telephone
+      in 1910s
+    action: Carefully composing handwritten letters with quill pen, dictating urgent telegrams to operator, speaking into
+      telephone mouthpiece with wonder at instant communication
+  scene:
+    mainElements: Communication technology evolution from writing desk with inkwell and paper to telegraph office with clicking
+      apparatus to wall-mounted telephone with speaking tube and listening piece
+    details: Writing materials progressing from quill pens and homemade ink to manufactured fountain pens, paper evolving
+      from hand-cut sheets to standardized letterhead to telegram forms to telephone message pads, furniture adapting from
+      writing desk to telegraph counter to telephone alcove
+    background: Farmhouse interior modernizing around communication needs - oil lamps evolving to electric fixtures enabling
+      evening communication, postal service expanding from monthly delivery to daily pickup to instant connection
+    atmosphere: Human connection accelerating across distance and time, marvel at technological progress shrinking world,
+      family bonds maintaining strength despite changing communication methods, no text or letters visible
+  composition:
+    cameraAngle: Interior view focused on communication equipment and user across three time periods
+    focus: Hands using different communication tools as primary temporal indicators
+    depth: Foreground shows communication device details, middle ground reveals figure using technology, background displays
+      interior modernization
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

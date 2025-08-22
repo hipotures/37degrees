@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The March of Progress - Mechanized Order"
+  setting:
+    time: "1930s, morning"
+    location: "Fertile agricultural valley in California's Central Valley region, San Joaquin Valley area during 1930s"
+    weather: "Clear morning light illuminating landscape"
+  characters:
+    - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+      clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+      position: "Standing in perfect formation along field edge"
+      action: "Moving in synchronized rows through vast agricultural fields, carrying tools in rhythmic unison like industrial machinery"
+  scene:
+    mainElements: "Endless geometric rows of crops extending to horizon, workers moving in perfect parallel lines like mechanical components, modern farming equipment in precise formation"
+    details: "Industrial agriculture showing human workers reduced to machine-like precision. Geometric field patterns stretch infinitely. Workers maintain exact spacing and timing as if manufactured parts. Supervisors with clipboards ensure mechanical efficiency. No individual faces visible in mass formation"
+    background: "Vast orchards and fields stretching to distant mountains, irrigation ditches, modern farming equipment, abundance of crops ready for harvest"
+    atmosphere: "Sterile efficiency masking human individuality, rhythmic sounds of synchronized work drowning out personal voices, oppressive order imposed on natural landscape"
+  composition:
+    cameraAngle: "Aerial perspective looking down"
+    focus: "Perfect geometric patterns of both crops and human workers moving as unified machinery"
+    depth: "Workers in foreground merge into identical patterns extending to distant horizon, showing scale of industrial dehumanization"

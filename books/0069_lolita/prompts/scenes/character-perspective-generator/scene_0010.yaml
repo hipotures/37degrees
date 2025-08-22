@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Adult Confrontation - Revelation"
+  setting:
+    time: "1947, late evening"
+    location: "Living room in middle-class wooden frame house, New England"
+    weather: "Evening darkness with interior lighting"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, now revealed in true nature"
+      clothing: "Evening clothes, no longer hiding intentions"
+      position: "Standing confidently, no longer pretending domestic normalcy"
+      action: "Speaking directly about true motivations, dropping false pretenses, revealing predatory nature"
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+      position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+      action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+  scene:
+    mainElements: "Living room with evening lighting, confrontation between adults about true motives, domestic facade finally dropped"
+    details: "Evening atmosphere charged with adult conflict, man no longer hiding predatory intentions, woman confronting horrible truth"
+    background: "Living room now site of adult confrontation, domestic normalcy completely shattered"
+    atmosphere: "Adult world of deception exposed, predatory nature revealed, false domestic security destroyed"
+  composition:
+    cameraAngle: "Low angle view from child height, watching adult world collapse into truth"
+    focus: "Two adults in heated confrontation about predatory motivations"
+    depth: "Foreground shows child-level perspective, middle ground shows adult conflict, background shows domestic space now threatening"

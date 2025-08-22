@@ -1,0 +1,164 @@
+canon:
+  characters:
+    - id: "dartagnan"
+      name: "D'Artagnan"
+      description_block: |
+        characters:
+          - appearance: "18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning, overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth and manhood"
+            clothing: "Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers"
+            posture: "Energetic and confident bearing often bordering on arrogance, quick decisive gestures, expressive face easily showing enthusiasm, anger or embarrassment"
+
+    - id: "athos"
+      name: "Athos"
+      description_block: |
+        characters:
+          - appearance: "Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture"
+            clothing: "Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation, always immaculately groomed and formal"
+            posture: "Moves with controlled dignity and minimal gestures, face often maintains emotionless mask, speaks in calm measured tones making rare outbursts more striking"
+
+    - id: "porthos"
+      name: "Porthos"
+      description_block: |
+        characters:
+          - appearance: "25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone to boastful smiles, loud extroverted demeanor"
+            clothing: "Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories displaying wealth even when living beyond means"
+            posture: "Moves with noisy confidence taking up considerable space, expansive gestures, loud voice, openly expressive face showing joy, anger or pride without concealment"
+
+    - id: "aramis"
+      name: "Aramis"
+      description_block: |
+        characters:
+          - appearance: "22-23 years old young man with gentle innocent countenance, extremely handsome with delicate almost feminine features, refined scholarly appearance better suited to poet or diplomat than battle-hardened soldier"
+            clothing: "Immaculately elegant refined garments with subtle luxurious fabrics, somewhat effeminate attention to detail including embroidered handkerchiefs and perfectly manicured hands"
+            posture: "Moves with grace and elegance, restrained gestures full of charm, often assumes thoughtful or feigned modesty poses, subtle expressions difficult to read"
+
+    - id: "milady_de_winter"
+      name: "Milady de Winter"
+      description_block: |
+        characters:
+          - appearance: "25-28 years old woman with supernatural beauty, pale fair complexion, long blonde curls falling abundantly on shoulders, large blue dreamy eyes, pink lips, alabaster hands, branded fleur-de-lis mark on left shoulder"
+            clothing: "Always dressed with highest elegance according to latest fashion, garments used as manipulation tools appearing as innocent victim, pious puritan or commanding aristocrat depending on intended deception"
+            posture: "Graceful movements calculated for seduction, voice capable of charming and enchanting, masterful control of facial expressions to project desired emotions"
+
+    - id: "cardinal_richelieu"
+      name: "Cardinal Richelieu"
+      description_block: |
+        characters:
+          - appearance: "Approximately 40 years old man with ascetic elongated face, high forehead, penetrating intelligent gaze, hooked nose, pointed goatee, frail sickly build contrasting with enormous willpower and authority"
+            clothing: "Usually scarlet cardinal robes serving as visual symbol of ecclesiastical and political power, during La Rochelle siege military attire with high boots emphasizing role as statesman and war leader"
+            posture: "Composed authoritative bearing despite physical frailty, precise calculated movements, piercing gaze that seems to see through deceptions and read innermost thoughts"
+
+    - id: "rochefort"
+      name: "Comte de Rochefort"
+      description_block: |
+        characters:
+          - appearance: "40-45 years old man with black penetrating eyes, pale complexion, strongly marked nose, black perfectly trimmed mustache, characteristic scar on cheek or temple, proud military bearing"
+            clothing: "Elegant but practical traveling attire often in purple color, functional garments without unnecessary ornaments befitting man who handles dirty work efficiently"
+            posture: "Moves with military precision and quiet menace, controlled gestures reflecting disciplined efficiency, face often maintains cold professional expression"
+
+    - id: "constance_bonacieux"
+      name: "Constance Bonacieux"
+      description_block: |
+        characters:
+          - appearance: "22-25 years old young woman with natural innocent beauty, fair long curly hair, large blue dreamy eyes, pink lips, alabaster hands, graceful modest bearing"
+            clothing: "Modest but tasteful attire befitting bourgeois wife and Queen's confidante, practical garments often including characteristic period hood partially concealing face"
+            posture: "Natural graceful movements without artifice, open honest expressions reflecting loyalty and courage, gentle demeanor masking inner strength and determination"
+
+    - id: "king_louis_xiii"
+      name: "King Louis XIII"
+      description_block: |
+        characters:
+          - appearance: "24-27 years old monarch with weak indecisive character, face often expressing boredom, irritation or childish joy, more interested in hunting and court entertainment than governing"
+            clothing: "Often hunting attire covered in dust with high boots, during court functions rich royal robes befitting monarch but worn without natural authority"
+            posture: "Uncertain bearing reflecting weak character, easily influenced by stronger personalities, gestures and expressions revealing lack of confidence in royal duties"
+
+    - id: "queen_anne"
+      name: "Queen Anne of Austria"
+      description_block: |
+        characters:
+          - appearance: "24-27 years old beautiful monarch with fair Habsburg features, face often expressing sadness reflecting loneliness and fear, graceful royal bearing despite inner turmoil"
+            clothing: "Elegant royal gowns according to finest court fashion, garments reflecting both status and constraint of her position as unhappy queen"
+            posture: "Dignified royal composure masking vulnerability and fear, movements reflecting both grace and tension of her precarious political position"
+
+  locations:
+    - id: "hotel_de_treville"
+      name: "Hotel de Tréville"
+      description_block: |
+        setting:
+          location: "Large Parisian mansion on Rue du Vieux-Colombier serving as headquarters for King's Musketeers, bustling center of military brotherhood"
+        mainElements: "Imposing stone building with monumental staircase and spacious antechamber constantly filled with swaggering soldiers, sounds of dice games, boasting about exploits, seeking quarrels"
+        atmosphere: "Chaotic but warm environment full of masculine energy, testosterone, bravado and fraternal loyalty, exclusive military club atmosphere with evidence of use and combat"
+
+    - id: "louvre_palace"
+      name: "Louvre Palace"
+      description_block: |
+        setting:
+          location: "Official royal residence and political center of French monarchy in central Paris, mixture of medieval fortress remains with Renaissance and early Baroque additions"
+        mainElements: "Majestic stone complex with labyrinth of richly decorated chambers, long cold galleries, formally designed gardens, contrast between public ceremonial halls and private intimate apartments"
+        atmosphere: "Formal environment charged with tension, court etiquette and hidden intrigues, spaces reflecting both royal magnificence and political conspiracies lurking beneath surface"
+
+    - id: "meung_inn"
+      name: "Free Miller Inn, Meung-sur-Loire"
+      description_block: |
+        setting:
+          location: "Country inn in small Loire Valley town serving as stopping place for travelers between provinces and Paris"
+        mainElements: "Wooden two-story construction with courtyard, rustic interior with rough wood beams, large fireplace, heavy wooden tables and benches, simple accommodations"
+        atmosphere: "Loud common environment full of suspicious characters, potential for violence, mixture of honest travelers and dangerous elements in provincial French setting"
+
+    - id: "la_rochelle_bastions"
+      name: "Bastions around La Rochelle"
+      description_block: |
+        setting:
+          location: "Military fortifications surrounding besieged Huguenot stronghold port city on French Atlantic coast during 1627-1628 siege"
+        mainElements: "Stone and earth defensive works, abandoned ruins partially destroyed by artillery, remnants of walls, scattered military equipment, view of besiegers' camp and city walls"
+        atmosphere: "Tense military environment with constant threat of enemy fire, yet strangely peaceful during musketeer breakfast, surreal calm amid active warfare"
+
+    - id: "winter_castle"
+      name: "Lord de Winter's Castle"
+      description_block: |
+        setting:
+          location: "Stone fortress on English coast cliff overlooking North Sea, serving as prison for dangerous captives"
+        mainElements: "Severe stone construction with simple prison cells, barred windows, massive walls designed for containment, sound of sea and wind as constant presence"
+        atmosphere: "Claustrophobic and isolating environment designed to break prisoners' spirits, cold gray architecture emphasizing hopelessness and desperation"
+
+    - id: "bethune_convent"
+      name: "Carmelite Convent, Béthune"
+      description_block: |
+        setting:
+          location: "Peaceful female religious community in northern French town providing sanctuary for women seeking protection from political persecution"
+        mainElements: "Quiet sacred architecture with simple cells, cloisters, chapel, convent garden, sparse wooden furniture, religious symbols throughout"
+        atmosphere: "Initially oasis of peace and safety, later becomes scene of tragedy and horror when sanctuary is violated by murderous revenge"
+
+    - id: "lys_river"
+      name: "Bank of River Lys"
+      description_block: |
+        setting:
+          location: "Remote steep riverbank in northern France, wild undeveloped area chosen for clandestine executions away from witnesses"
+        mainElements: "Turbulent dark water, trees bending in wind, isolated natural setting perfect for final justice, executioner's broad sword as instrument of judgment"
+        atmosphere: "Dark forbidding environment charged with finality and tragic justice, stormy night weather matching moral weight of proceedings"
+
+  items:
+    - id: "diamond_clasps"
+      name: "Queen's Diamond Clasps"
+      description_block: |
+        details: "Twelve identical exquisitely crafted diamond jewelry pieces given by King Louis XIII to Queen Anne, later gifted to Duke of Buckingham as token of forbidden love, centerpiece of international political intrigue"
+
+    - id: "cardinal_letter"
+      name: "Cardinal's Absolution Letter"
+      description_block: |
+        details: "Parchment document with large red wax seal bearing Cardinal Richelieu's authority, grants complete absolution to bearer for any actions taken for good of state, blank check for crime in service of politics"
+
+    - id: "fleur_de_lis_brand"
+      name: "Fleur-de-lis Brand Mark"
+      description_block: |
+        details: "Small stylized lily symbol burned permanently into left shoulder marking criminal status in 17th century French justice system, indelible sign of shame and lost identity defining Milady's cursed existence"
+
+    - id: "athos_signet_ring"
+      name: "Athos's Family Signet Ring"
+      description_block: |
+        details: "Heraldic ring with engraved coat of arms and large sapphire stone symbolizing aristocratic heritage and lost past, passed to D'Artagnan as symbolic adoption into brotherhood"
+
+    - id: "porthos_sword_belt"
+      name: "Porthos's Decorative Sword Belt"
+      description_block: |
+        details: "Wide belt richly embroidered with gold thread but only on visible front side, perfect symbol of his vanity and tendency to live beyond means while maintaining appearances"

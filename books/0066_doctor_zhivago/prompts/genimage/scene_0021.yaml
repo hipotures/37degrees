@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Same day at dawn and sunset showing daily cycle
+    location: River dock where fisherman performs daily ritual unchanged by revolution
+    weather: Clear day with morning mist and evening golden light
+  characters:
+  - appearance: Man younger than Jurij, tall and slender with agile build, dark straight hair, dark slanted eyes, distinctive
+      Kyrgyz facial features, mysterious and impenetrable expression
+    clothing: Elegant well-fitted Cheka/Red Army officer uniform, later general's uniform
+    posture: Alert and capable bearing, moves with quiet authority
+    action: Appearing at critical moments, reviewing documents, providing assistance
+  scene:
+    mainElements: Split composition showing same fisherman silhouette at sunrise and sunset demonstrating eternal rhythm
+    details: 'Temporal mirror image: Left side shows pre-dawn darkness with fisherman''s silhouette against pale eastern sky,
+      mist rising from water, fishing line cast into gray river, peaceful solitude and expectation. Right side reveals same
+      fisherman silhouette against orange western sky at sunset, warm light reflecting on water, day''s catch in basket, satisfied
+      completion. Between scenes river flows continuously, same reflections and ripples, same dock weathered by time. Yevgraf
+      appears briefly in both scenes, observing from distance, representing continuity beyond individual lives, no text or
+      letters visible'
+    background: River landscape maintaining consistent geography while showing diurnal light changes
+    atmosphere: Human rhythm aligned with natural cycles, daily ritual providing stability amid historical chaos
+  composition:
+    cameraAngle: Symmetrical composition emphasizing silhouette and reflection patterns
+    focus: Central fisherman figure as anchor point for daily cycle
+    depth: 'Foreground: dock and fishing equipment; middle ground: fisherman silhouette; background: river and sky showing
+      time passage'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

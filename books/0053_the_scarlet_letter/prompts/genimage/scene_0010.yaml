@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1649 late spring afternoon in forest depths
+    location: Dense ancient forest surrounding Boston settlement with mysterious stream
+    weather: Dappled forest light filtering through thick canopy
+  characters:
+  - appearance: Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like
+      features, bright intelligent eyes, flowing hair, otherworldly beauty
+    clothing: Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate
+      dresses that make her appear like living embodiment of scarlet letter
+    position: Standing at edge of stream refusing to cross, pointing at mother across water
+    action: Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering
+      flowers and seashells, mimicking adult behaviors with disturbing accuracy
+  scene:
+    mainElements: Narrow babbling brook flowing through forest depths with mysterious source and destination, water flowing
+      over stones and fallen branches creating melancholy murmuring sound serving as symbolic boundary between worlds
+    details: The forest stream becomes moral boundary that child instinctively will not cross, recognizing invisible barrier
+      between truth and deception. Brook's babbling creates natural language of conscience while flowing water suggests passage
+      of time and moral cleansing. Child's refusal to cross water demonstrates supernatural awareness of moral geography,
+      understanding that some thresholds cannot be crossed without consequences. Fallen logs and moss-covered stones create
+      natural obstacles emphasizing difficulty of moral crossing.
+    background: Tall dark trees creating cathedral-like canopy, narrow winding footpath, mysterious babbling brook flowing
+      through shadows, fallen logs and moss-covered stones
+    atmosphere: Natural wisdom recognizing moral boundaries, stream as threshold between honesty and deception, child's supernatural
+      insight into adult moral failings, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing child at water's edge with stream as central barrier
+    focus: Flowing brook as symbolic boundary that cannot be crossed without truth
+    depth: 'Foreground: child in bright dress; middle: babbling stream as moral boundary; background: forest depths representing
+      hidden truths'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

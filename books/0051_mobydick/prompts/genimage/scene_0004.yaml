@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1840s December afternoon, dim indoor light
+    location: Simple Quaker-style chapel in New Bedford dedicated to lost whalers
+    weather: Overcast day, muted gray light through windows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient nautical charts spread across chapel floor, their edges curled and yellowed with age, ocean areas
+      marked with symbols of unknown dangers
+    details: The maps show sailing routes across vast oceans, but many passages are marked with skull symbols and red X marks
+      indicating shipwrecks. Some charts overlap others, creating confusion between old and new paths. Compass roses point
+      in conflicting directions, and depth soundings show varying measurements for the same waters. Several maps have burn
+      holes where candle wax has dropped, obscuring crucial navigation information. The paper crackles in the dry air, threatening
+      to disintegrate at the slightest touch, no text or letters visible
+    background: Ship-bow shaped pulpit accessed by rope ladder, black-bordered marble memorial tablets covering walls
+    atmosphere: Old maps represent accumulated knowledge that may be unreliable, suggesting how past experience can both guide
+      and mislead, the overlapping charts symbolizing conflicting truths about the same reality
+  composition:
+    cameraAngle: Overhead view looking down at scattered charts
+    focus: Overlapping map sections with contrasting navigation marks
+    depth: Map details in sharp foreground, chapel pulpit in middle distance, memorial tablets creating somber background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

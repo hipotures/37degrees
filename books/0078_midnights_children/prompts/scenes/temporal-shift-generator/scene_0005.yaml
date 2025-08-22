@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Perforated Sheet Journey - From Medical Tool to Historical Fragment"
+  setting:
+    time: "1915 to 1978, medical examination lighting"
+    location: "From Kashmir doctor's office to Delhi getto to Bombay pickle factory"
+    weather: "Indoor artificial lighting"
+  characters:
+    - appearance: "Woman aging from 16 to 70 years. In youth slender, in old age large and formidable. Two distinctive large moles on face called witch's nipples. Severe features expressing conservative authority"
+      clothing: "Always traditional dark sari, often with head covering. In youth complete purdah with veil"
+      position: "Sitting with commanding presence or lying covered by perforated sheet"
+      action: "Giving orders to family members or being examined through sheet hole"
+  scene:
+    mainElements: "White linen sheet with single round hole seven inches in diameter cut in center. Used for medical examinations while maintaining purdah modesty. Symbol of fragmentation and incomplete knowledge. Sheet travels through time showing increasing wear, stains, and deterioration from pristine medical tool to threadbare historical relic"
+    details: "Sheet fabric ages from crisp white linen to yellowed worn cloth to final threadbare transparency. Hole edges fray and stretch from repeated use. Blood stains, medicine stains, and time stains accumulate creating historical palimpsest. Sheet finally appears as museum piece or memory fragment"
+    background: "Medical office settings transform from British colonial sterility to Indian independence-era clinics to finally appearing in memory contexts or historical displays"
+    atmosphere: "Gradual degradation of traditional practices under pressure of modernization and historical change. Sheet represents fragmentary knowledge and cultural preservation attempts, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing sheet in various contexts and conditions"
+    focus: "Seven-inch hole as consistent element while surrounding fabric deteriorates"
+    depth: "Sheet occupies middle ground, examination contexts provide background, temporal aging effects create foreground detail"

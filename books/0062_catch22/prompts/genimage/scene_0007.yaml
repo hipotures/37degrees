@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1944, afternoon
+    location: squadron commander's office on Pianosa base
+    weather: bright Mediterranean afternoon
+  characters:
+  - appearance: 30s, looks somewhat like Henry Fonda, tall lean build with noble but shy confused features
+    clothing: major uniform with sunglasses for hiding
+    position: sitting at desk while preparing to escape through office window
+    action: avoiding contact with subordinates by jumping through windows
+  scene:
+    mainElements: small military office with standard wooden desk, filing cabinets, open window for escape route, official
+      paperwork scattered
+    details: Major Major sits at his desk hearing approaching footsteps of subordinates seeking meetings. His eyes dart nervously
+      toward the open window. He removes his sunglasses briefly, revealing fearful eyes, then replaces them as he prepares
+      his routine escape. Papers remain unsigned as he prioritizes avoidance over duty.
+    background: simple office furnishings, military regulations posted on walls, window overlooking base activities, desk
+      chair positioned for quick window access
+    atmosphere: authority paralyzed by responsibility, mixture of official duty and personal inadequacy creating institutional
+      dysfunction
+  composition:
+    cameraAngle: close-up on Major Major's anxious face and darting eyes
+    focus: eyes avoiding direct contact even with camera, showing pathological avoidance
+    depth: foreground emphasizes nervous facial expressions, middle ground shows escape preparations, background reveals institutional
+      setting being abandoned
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

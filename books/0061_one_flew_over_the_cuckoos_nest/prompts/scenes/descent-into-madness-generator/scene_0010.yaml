@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Mirror Betrayal - Reflection Acts Independently"
+  setting:
+    time: "Early 1960s, early morning"
+    location: "Humid white-tiled bathroom chamber in Oregon psychiatric hospital used for patient bathing and hydrotherapy treatments, early 1960s. Echo-prone enclosed space with medical equipment"
+    weather: "Harsh fluorescent lighting creating stark reflections"
+  characters:
+    - appearance: "40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust"
+      clothing: "Standard green hospital patient uniform"
+      position: "Standing hunched, trying to appear smaller and invisible, often holding broom"
+      action: "Sweeping floors methodically while observing silently, maintaining expressionless mask"
+  scene:
+    mainElements: "Large institutional mirror above sink, chrome fixtures creating multiple reflections, white tile surfaces acting as reflecting surfaces"
+    details: "Mirror reflection moves independently - when he stops, reflection continues sweeping. Reflection ages rapidly while he remains unchanged, face becoming gaunt and hollow. Multiple reflections in chrome surfaces show different versions - some angry, some weeping, some with eyes that follow independently. Reflection mouth moves speaking words that cannot be heard, face expressing emotions he doesn't feel"
+    background: "Infinite reflections in multiple surfaces creating maze of distorted selves, each slightly different and disturbing"
+    atmosphere: "Cold dampness, echo of footsteps on tiles, smell of chlorine and staleness, sense of institutional neglect and symbolic challenge. Loss of self-identity, fragmentation of personality, mirror as portal to inner demons"
+  composition:
+    cameraAngle: "Split screen between real person and independent reflection"
+    focus: "The diverging actions between body and reflection, aging mirror face"
+    depth: "Foreground: actual figure with broom. Middle: betraying mirror reflection. Background: infinite maze of distorted reflections in chrome"

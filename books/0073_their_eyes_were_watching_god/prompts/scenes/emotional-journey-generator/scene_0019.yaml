@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dancing in the Everglades - Pure Joy"
+  setting:
+    time: "1930s, evening"
+    location: "Rich agricultural land in the Florida Everglades known as 'the muck' - vast fields and temporary worker camps"
+    weather: "Warm evening with clear skies"
+  characters:
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Dancing with arms outstretched"
+      action: "Spinning and dancing with complete abandon, hair flowing free, face radiant with joy"
+    - appearance: "African-American man in his 20s, athletic build, charming smile, expressive hands, confident demeanor"
+      clothing: "Working man's clothes of 1920s-1930s - denim overalls, cotton shirts, suspenders, work boots, occasional hat"
+      position: "Relaxed and confident stance, often with arms open or gesturing, natural ease in movement"
+      action: "Dancing with partner, both moving in perfect harmony, genuine laughter"
+  scene:
+    mainElements: "Endless flat farmland, temporary shacks and housing, vast sky, agricultural tools and equipment. Couple dancing in celebration of authentic love"
+    details: "Campfire light illuminating dancing figures, other workers clapping and celebrating around them, vast open sky suggesting freedom, both figures moving in natural harmony, no text or letters visible"
+    background: "Sense of freedom and hard work, connection to the land, seasonal worker community energy"
+    atmosphere: "Maximum emotional peak of joy and authentic love, freedom from social constraints, natural harmony between partners, community celebration of genuine happiness"
+  composition:
+    cameraAngle: "Wide shot showing dancing figures against vast landscape"
+    focus: "Couple in perfect harmony celebrating authentic love"
+    depth: "Foreground: campfire details, middle: dancing couple, background: endless muck landscape and sky"

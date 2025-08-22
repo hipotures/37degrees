@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Human Machines in Industrial System"
+  setting:
+    time: "Late 1930s, early morning"
+    location: "Industrial factory floor in Chicago, manufacturing plant"
+    weather: "Cold winter morning, artificial lighting inside factory"
+  characters:
+    - appearance: "Multiple African American workers of various ages, faces showing exhaustion and resignation, bodies bent from repetitive labor"
+      clothing: "identical work uniforms or coveralls, safety equipment, worn work boots, clothing stained with industrial materials"
+      position: "positioned at identical workstations along assembly line"
+      action: "performing identical repetitive motions like mechanical parts, faces expressionless, movements automated and rhythmic"
+  scene:
+    mainElements: "Massive industrial assembly line with workers positioned as human cogs in mechanical system, emphasizing dehumanization of labor and reduction of people to economic units"
+    details: "Identical workstations stretching into distance, mechanical conveyor belts moving products past workers, industrial machinery dominating human figures, time clocks monitoring every minute, foremen watching for any deviation from rhythm, workers' movements synchronized like machine parts, no talking or individual expression allowed"
+    background: "Industrial pipes and machinery extending upward, steam and smoke from production, management offices elevated above factory floor where supervisors observe workers, time and efficiency charts posted on walls"
+    atmosphere: "Complete dehumanization through industrial capitalism, workers treated as replaceable machine parts rather than human beings, atmosphere of mechanical efficiency that destroys individual identity and human dignity"
+  composition:
+    cameraAngle: "Wide shot down the length of the assembly line showing repetitive human figures"
+    focus: "The transformation of human beings into mechanical components within industrial system"
+    depth: "Foreground shows detailed view of repetitive labor, middle ground captures the endless line of workers, background reveals the massive scale of industrial dehumanization"

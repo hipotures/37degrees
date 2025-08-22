@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Car Journey - Mobile Prison" 
+  setting:
+    time: "1947, daytime"
+    location: "Interior of 1940s automobile traveling American highways"
+    weather: "Bright day outside car windows"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, now in complete control"
+      clothing: "Driving clothes, comfortable in driver's seat position of power"
+      position: "Behind steering wheel, controlling direction and destination"
+      action: "Driving with determination, speaking about false destination, maintaining control through deception"
+  scene:
+    mainElements: "Car interior with bench seats, dashboard, windows showing American landscape passing by, luggage in back seat"
+    details: "View through windshield of endless American highway, man's hands on steering wheel controlling journey, landscape blurring past representing loss of home and stability"
+    background: "American highway system stretching ahead, roadside signs and landscape passing by, sense of being taken away from familiar world"
+    atmosphere: "False journey narrative masking kidnapping, mobile prison disguised as family trip, adult control through isolation and movement"
+  composition:
+    cameraAngle: "Passenger seat view watching driver and road ahead"
+    focus: "Driver in control of vehicle and destination, endless road ahead"
+    depth: "Foreground shows car interior and controlling adult, middle ground shows road ahead, background shows American landscape being left behind"

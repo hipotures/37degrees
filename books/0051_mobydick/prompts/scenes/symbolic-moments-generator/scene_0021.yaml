@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Final Sharpening"
+  setting:
+    time: "1840s dawn, last hunt begins"
+    location: "Vast Pacific waters far from any land, whale hunting grounds"
+    weather: "Perfect hunting conditions, calm seas"
+  characters:
+    - appearance: "Man of 58-60 years, tall and broad-shouldered with weathered bronze-like physique, gray hair, sun-darkened face marked by thin white scar running from hairline down through one side of face and neck"
+      clothing: "Dark navy wool captain's coat, practical ship commander's attire in somber colors, heavy weather-resistant fabric"
+      position: "Standing rigid in special deck hole for his whale-bone prosthetic leg, one arm gripping ship's rigging for support"
+      action: "Gazing intensely toward horizon with unwavering focus, stance defiant and commanding despite physical limitation"
+  scene:
+    mainElements: "Long ash wood shaft with sharp iron toggle-head, steel barbed point, hemp rope coiled and ready, treated with ritual care reaching its ultimate moment of purpose as it achieves perfect deadly sharpness"
+    details: "The harpoon has been sharpened to absolute perfection, its steel point gleaming like mirror in dawn light, every scratch and imperfection polished away. Blood from three harpooners has been ritually applied to sanctify the weapon for its destined purpose. The wooden shaft shows decades of wear but has been oiled to deep lustrous finish. Hemp rope coiled with mathematical precision, each loop positioned for flawless deployment. This weapon has transcended mere tool to become instrument of fate, achieving perfect readiness for the confrontation it was always meant to serve, no text or letters visible"
+    background: "Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris"
+    atmosphere: "The perfected weapon represents the culmination of preparation and purpose, showing how objects can achieve their ultimate meaning when aligned with destiny"
+  composition:
+    cameraAngle: "Close-up on harpoon point reflecting dawn light"
+    focus: "Perfect steel point as completed instrument of purpose"
+    depth: "Gleaming harpoon tip in foreground, coiled rope in middle distance, infinite ocean horizon representing final destination"

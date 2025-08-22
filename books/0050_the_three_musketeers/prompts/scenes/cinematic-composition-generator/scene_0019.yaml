@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "High angle view showing D'Artagnan's vulnerability before absolute power"
+  setting:
+    time: "August 1628, afternoon in military command environment"
+    location: "Command tent at La Rochelle siege where young Gascon faces judgment"
+    weather: "Clear day with harsh shadows emphasizing power imbalance"
+  characters:
+    - appearance: "18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning, overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth and manhood"
+      clothing: "Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers"
+      position: "Viewed from above emphasizing vulnerability and powerlessness, standing alone before authority"
+      action: "Facing judgment with characteristic Gascon courage despite overwhelming disadvantage, maintaining dignity in face of potential execution"
+  scene:
+    mainElements: "Young soldier viewed from position of authority showing vulnerability and courage, military tent setting emphasizing formal judgment, stark power differential visible through camera angle"
+    details: "High angle making brave figure appear small and vulnerable, simple military uniform contrasting with opulent surroundings, documents and evidence of recent actions scattered around, formal military tribunal atmosphere"
+    background: "Command tent with symbols of authority and power, glimpses of massive siege army beyond tent walls, maps and strategic documents showing scope of Cardinal's reach"
+    atmosphere: "Vulnerability and courage before absolute power, dignity maintained despite overwhelming odds, moment of potential triumph or destruction"
+  composition:
+    cameraAngle: "High angle shot making subject appear vulnerable and small while maintaining his brave bearing and determined character"
+    focus: "Clear focus on isolated figure facing judgment, high perspective emphasizing power imbalance and courage required"
+    depth: "Foreground: position of authority and power, middle ground: vulnerable but dignified young soldier, background: military command setting showing vast authority, no text or letters visible"

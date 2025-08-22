@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Jurij's Hands Through Time - Child to Doctor to Poet"
+  setting:
+    time: "1902, 1917, and 1922 - different seasons spanning twenty years"
+    location: "Three overlapping temporal moments showing same hands at different life stages"
+    weather: "Multiple seasons: spring planting, winter medical work, autumn writing"
+  characters:
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+  scene:
+    mainElements: "Three ghostly overlapping images of hands in identical pose but different activities - child's hands, surgeon's hands, poet's hands"
+    details: "Center composition shows transparent layering: ten-year-old boy's small hands planting tree seedling in garden soil, twenty-five-year-old doctor's blood-stained hands performing surgery on wounded soldier, thirty-year-old poet's ink-stained hands writing verse in notebook. Same basic hand structure visible through temporal layers, showing progression from innocence through healing to artistic creation. Tree grows from seedling to mature trunk behind hands, no text or letters visible"
+    background: "Seasonal progression visible through transparency: spring garden to winter medical tent to autumn study room"
+    atmosphere: "Meditative exploration of life's calling evolving through historical upheaval, hands as instruments of growth, healing, and creation"
+  composition:
+    cameraAngle: "Close-up focus on hands with surrounding environment visible through transparency"
+    focus: "Central hands showing three life stages simultaneously through overlapping exposure"
+    depth: "Foreground: detailed hand positions; middle ground: growing tree marking time passage; background: evolving environments of each era"

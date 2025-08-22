@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1947 autumn afternoon
+    location: cotton field in California's San Joaquin Valley with rows of cotton bushes extending to horizon under cloudless
+      sky, temporary canvas workers' camp nearby
+    weather: clear hot afternoon with dust particles floating in still air
+  characters:
+  - appearance: 25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled,
+      dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression
+    clothing: khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or
+      leather jacket, functional but reflecting intellectual Eastern background
+    position: kneeling between cotton rows with hands deep in canvas picking sack
+    action: fingers working through sharp cotton bolls while other hand gently touches young woman's smooth forearm
+  - appearance: 27-30 year old woman, petite slender build, dark straight hair, green eyes, sun-weathered face showing strength
+      with hint of fatigue
+    clothing: robocze spodnie, proste bluzki
+    position: working adjacent row, arm extended toward male figure
+    action: reaching across row divide while continuing to pick cotton with experienced quick movements
+  scene:
+    mainElements: contrast between rough spiky cotton bolls and soft human skin, canvas bag texture against palms, dried cotton
+      plant stems scratching exposed arms, gentle human contact amid harsh working conditions
+    details: Cotton bolls with sharp protective casings that prick fingertips, course canvas bag material rubbing against
+      hip and shoulder, dust settling on sweaty skin creating gritty sensation, smooth warm skin contact providing relief
+      from rough plant textures, calloused work-hardened hands showing adaptation to labor
+    background: vast cotton field stretching to distant mountains, other workers bent over plants, canvas tents visible at
+      field edge
+    atmosphere: golden afternoon light highlighting texture contrasts, smell of dust and plant matter, sounds of rustling
+      cotton plants and distant worker voices
+  composition:
+    cameraAngle: low angle from ground level among cotton plants
+    focus: tactile interaction between rough agricultural environment and tender human connection
+    depth: hands and cotton bolls in sharp foreground, figures working in middle ground, endless field rows extending to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

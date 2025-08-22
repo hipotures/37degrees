@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Eternal Symbol"
+  setting:
+    time: "Many years later, peaceful evening in old cemetery"
+    location: "King's Chapel graveyard with weathered tombstones"
+    weather: "Soft twilight with gentle evening light"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Simple dark slate headstone with engraved heraldic shield bearing red letter A on black background, two side-by-side graves beneath single shared marker"
+    details: "The final transformation of the scarlet letter from mark of shame into symbol of eternal love and shared destiny. Simple dark slate headstone bears heraldic inscription 'ON A FIELD, SABLE, THE LETTER A, GULES' - red letter on black field representing their united story. Two graves lie side by side beneath single marker, suggesting love that transcended earthly judgment. Weathered stone shows passage of time while carved letter remains clear and permanent. Surrounding cemetery with its ancient headstones creates atmosphere of peaceful rest after earthly struggles."
+    background: "Quiet old cemetery with weathered tombstones, ancient trees, peaceful evening atmosphere of King's Chapel graveyard"
+    atmosphere: "Peaceful resolution of earthly conflicts, symbol transformed from punishment to commemoration, love triumphant over social judgment through passage of time, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on headstone emphasizing carved heraldic design"
+    focus: "Red letter A carved into dark stone as final symbolic statement"
+    depth: "Foreground: detailed headstone inscription; middle: two graves side by side; background: peaceful cemetery and evening sky suggesting eternal rest"

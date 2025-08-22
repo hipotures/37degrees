@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: January 1951, 8:30 PM, evening package distribution
+    location: Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing
+      200 prisoners
+    weather: Interior warmth from human presence and shared excitement
+  characters:
+  - appearance: Middle-aged man around 45-50 years, intellectual bearing, thick black mustache, likely wearing glasses, more
+      refined features than manual laborers
+    clothing: Standard prisoner uniform but with better undergarments beneath, warmer clothing due to packages and bribes
+    position: Sitting or standing in more comfortable positions, often handling packages or food items
+    action: Sharing package contents with helpers and creating atmosphere of abundance
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Receiving generous portions from Caesar's package sharing
+    action: Experiencing overwhelming sensory gratitude and abundance after helping protect package
+  scene:
+    mainElements: Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude
+      construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely
+      blocking outside view
+    details: 'Wooden crate or cardboard box containing unimaginable riches: yellow cheese, pink sausage, white sugar cubes,
+      golden cookies, butter wrapped in paper, creating striking color contrast against gray camp environment. Multiple food
+      aromas creating complex olfactory symphony, rich scents overwhelming prisoners accustomed to sensory deprivation. Visual
+      feast of colors and textures creating almost hallucinogenic intensity after months of gray monotony. Generous sharing
+      creating emotional warmth combining with food satisfaction, social bonding through mutual appreciation and gratitude.
+      Tactile luxury of quality food textures, thermal pleasure from rich nutrition, acoustic satisfaction from appreciative
+      responses, no text or letters visible'
+    background: Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow
+      light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic
+      with constant sounds of coughing, snoring and whispers
+    atmosphere: Sensory overload from extreme generosity and luxury in deprivation context, all senses simultaneously engaged
+      in positive experience creating euphoric state
+  composition:
+    cameraAngle: Wide shot showing abundance distribution and multiple sensory responses
+    focus: Rich food displays, generous sharing gestures, overwhelming positive sensory reactions
+    depth: 'Foreground: detailed luxury food presentation, middle: sharing ceremony and gratitude, background: harsh contrast
+      with normal conditions'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

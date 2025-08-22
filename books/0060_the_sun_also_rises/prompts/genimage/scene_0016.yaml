@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1924, morning
+    location: Traditional Spanish kitchen with terracotta tiles and wooden shelving lined with ceramic jars
+    weather: Warm morning light filtering through kitchen windows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Thick honey flowing in viscous golden streams from wooden dipper, droplets catching morning light like amber
+      jewels, crystallized honey edges sparkling
+    details: Honey flowing with perfect viscosity showing its natural sweetness, golden color intensity suggesting floral
+      richness, sticky consistency creating long flowing strands, honey pooling and spreading slowly on wooden surface, morning
+      light making honey glow like liquid gold, crystallized edges indicating pure natural sugar content, no text or letters
+      visible
+    background: Traditional kitchen with rustic wooden furniture, hanging copper pots, stone hearth with cooking implements
+    atmosphere: Natural sweetness visualized through honey's golden flow - liquid amber suggesting intense floral taste, viscous
+      texture indicating concentrated sweetness
+  composition:
+    cameraAngle: Close-up macro shot of honey flowing
+    focus: Honey streams and golden light effects
+    depth: 'Foreground: detailed honey flow patterns, midground: kitchen surface, background: traditional Spanish kitchen
+      elements'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

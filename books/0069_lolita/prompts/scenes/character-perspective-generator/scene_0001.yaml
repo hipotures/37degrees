@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Garden Sunbathing - First Encounter"
+  setting:
+    time: "1947, summer afternoon"
+    location: "Small backyard garden behind wooden frame house in New England town of Ramsdale"
+    weather: "Bright summer sunlight, clear skies"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, well-dressed in casual summer clothes"
+      clothing: "Light summer shirt, pressed trousers, polished shoes inappropriate for garden setting"
+      position: "Standing in doorway of house, partially hidden by screen door frame"
+      action: "Observing garden scene, hand gripping door frame, body tense with sudden attention"
+  scene:
+    mainElements: "Sunlit patch of lawn, garden towel spread on grass, teenage magazines scattered nearby, glass of lemonade on wooden garden table"
+    details: "Bright summer light creating sharp shadows across lawn, magazines with colorful movie star covers, empty bubble gum wrapper, white cotton socks and saddle shoes placed beside towel, small pile of teen magazines"
+    background: "Suburban backyard with clothesline, neighboring houses visible through hedge, garden furniture, residential setting with false sense of normalcy"
+    atmosphere: "Deceptively peaceful suburban summer scene, sunlight creating contrast between innocence of setting and adult observation"
+  composition:
+    cameraAngle: "Ground level view from where someone lies on garden towel, looking up toward house"
+    focus: "Man in doorway watching from shadows, bright garden setting in immediate view"
+    depth: "Foreground shows bright lawn and personal items, middle ground shows garden space, background shows man observing from house doorway"

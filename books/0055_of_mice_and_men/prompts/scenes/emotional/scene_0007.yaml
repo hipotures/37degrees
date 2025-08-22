@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Shadows lengthening in previously bright spaces"
+  setting:
+    time: "1930s, early evening with fading light"
+    location: "Ranch bunkhouse interior now dimmer as daylight fades"
+    weather: "Overcast sky reducing natural light through windows"
+  characters:
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Sitting on edge of bunk, hunched forward with tension"
+      action: "Staring at hands clasped tightly together, brow furrowed with growing worry"
+    - appearance: "Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build like a bull, huge hands"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's"
+      position: "Sitting on nearby bunk, sensing but not understanding the changing mood"
+      action: "Looking around with confusion and growing anxiety, large hands fidgeting nervously"
+  scene:
+    mainElements: "Bunkhouse interior now dimmer with harsh electric light needed earlier than usual, long shadows stretching across floor from window frames"
+    details: "Familiar space feels different in reduced light, corners growing darker, the institutional feeling more oppressive as cheerful daylight fades"
+    background: "Sounds from outside are muted and distant, sense of isolation increasing"
+    atmosphere: "Subtle shift from comfortable routine to underlying tension, familiar space becoming less welcoming, hint of troubles to come"
+  composition:
+    cameraAngle: "Medium shot capturing both figures in darkening interior"
+    focus: "The changing emotional mood reflected in posture and diminishing light"
+    depth: "Foreground shows worried expressions, middle ground captures darkening familiar space, background suggests growing isolation"

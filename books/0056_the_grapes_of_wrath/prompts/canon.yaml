@@ -1,0 +1,157 @@
+canon:
+  characters:
+    - id: "tom_joad"
+      name: "Tom Joad"
+      description_block: |
+        characters:
+          - appearance: "Tall man in his late twenties, dark brown eyes with brown pigment flecks, high wide cheekbones, strong deep lines down his cheeks. Long upper lip covering protruding teeth. Weathered face with prison pallor."
+            clothing: "Worn gray work clothes, denim jacket, heavy work boots. Hands show thick calluses and rough skin from labor."
+            position: "Standing with confident posture, hands at sides or crossed over chest"
+            action: "Speaking quietly with measured words, eyes scanning surroundings with careful assessment"
+    
+    - id: "ma_joad"
+      name: "Ma Joad"
+      description_block: |
+        characters:
+          - appearance: "Large, heavy-built woman in her late forties, strong freckled arms, full controlled face with amber eyes that show deep understanding of tragedy and pain. Expression of calm authority."
+            clothing: "Simple worn cotton dress, practical and clean but patched. Sturdy work shoes, hair pulled back simply."
+            position: "Moving efficiently through tasks, standing as family anchor"
+            action: "Organizing family activities with quiet determination, maintaining composed expression despite inner concern"
+    
+    - id: "pa_joad"
+      name: "Pa Joad"
+      description_block: |
+        characters:
+          - appearance: "Fifty-year-old man with weathered farmer's build, lean and worn down by hardship. Face shows confusion and lost authority, eyes expressing bewilderment."
+            clothing: "Faded work shirt, worn denim overalls, old farming boots, stained felt hat"
+            position: "Standing uncertainly, shoulders slightly slumped, looking to others for direction"
+            action: "Wringing hands nervously, speaking hesitantly about decisions, deferring to Ma's judgment"
+    
+    - id: "jim_casy"
+      name: "Jim Casy"
+      description_block: |
+        characters:
+          - appearance: "Long thin man around fifty years old, bony elongated skull with abnormally high forehead showing blue veins at temples. Curved hard nose, neck thin as celery stalk."
+            clothing: "Worn denim overalls, blue work shirt, denim jacket, stained brown hat, canvas shoes"
+            position: "Sitting thoughtfully under tree or standing in contemplative pose"
+            action: "Speaking slowly with philosophical gestures, eyes distant with spiritual contemplation"
+    
+    - id: "rose_of_sharon"
+      name: "Rose of Sharon"
+      description_block: |
+        characters:
+          - appearance: "Eighteen-year-old pregnant woman with ash-blonde hair braided in crown around head, round soft face with self-satisfied smile of pregnancy, expression of knowing completeness."
+            clothing: "Simple maternity dress growing tighter as pregnancy progresses, worn shoes, hair ribbon"
+            position: "Moving carefully to protect unborn child, hand often on belly"
+            action: "Touching stomach protectively, speaking dreamily of future plans, later showing growing maturity through hardship"
+    
+    - id: "al_joad"
+      name: "Al Joad"
+      description_block: |
+        characters:
+          - appearance: "Sixteen-year-old lanky boy of medium build, youthful energy and confidence especially around machinery, eager expression."
+            clothing: "Work clothes worn with teenage pride, cap pushed back on head, hands often dirty with grease"
+            position: "Crouched under vehicle or standing proudly by machinery"
+            action: "Working on truck engine with competent movements, gesturing enthusiastically when discussing cars"
+
+    - id: "migrant_workers"
+      name: "Migrant Workers"
+      description_block: |
+        characters:
+          - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+            clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+            position: "Gathered in family clusters around belongings or campfires"
+            action: "Sharing food and stories, tending children, repairing equipment, looking toward horizon with uncertain hope"
+
+  locations:
+    - id: "oklahoma_farm"
+      name: "Oklahoma Dust Bowl Farm"
+      description_block: |
+        setting:
+          location: "Abandoned tenant farm in Oklahoma during 1930s Dust Bowl, Great Plains region of American Midwest"
+        mainElements: "Small unpainted wooden farmhouse tilted off foundation, collapsed porch, boarded windows, overturned outhouse, rusted farm equipment scattered in yard"
+        atmosphere: "Desolate abandonment with fine red dust covering everything, oppressive heat creating shimmering air, sound of wind whistling through broken boards"
+
+    - id: "route_66_camp"
+      name: "Route 66 Roadside Camp"
+      description_block: |
+        setting:
+          location: "Temporary migrant encampment along famous Route 66 highway through American Southwest during 1930s"
+        mainElements: "Circle of overloaded trucks and jalopies, canvas tarps stretched between vehicles, makeshift cooking fires, families clustered around belongings"
+        atmosphere: "Harsh desert sun by day giving way to intimate firelight at night, sounds of children crying and adults speaking in hushed worried tones"
+
+    - id: "california_valley"
+      name: "California Central Valley"
+      description_block: |
+        setting:
+          location: "Fertile agricultural valley in California's Central Valley region, San Joaquin Valley area during 1930s"
+        mainElements: "Vast orchards and fields stretching to distant mountains, irrigation ditches, modern farming equipment, abundance of crops ready for harvest"
+        atmosphere: "Stunning natural beauty contrasting sharply with human misery, bright sun illuminating green abundance while migrants starve nearby"
+
+    - id: "hooverville"
+      name: "Hooverville Shantytown"
+      description_block: |
+        setting:
+          location: "Makeshift homeless encampment on outskirts of California agricultural town during Great Depression"
+        mainElements: "Ramshackle shelters built from cardboard, tar paper, scrap metal and salvaged wood, muddy pathways between structures, communal water source"
+        atmosphere: "Squalid conditions with smell of unwashed bodies and poor sanitation, sounds of crying children and coughing adults, desperation mixed with stubborn dignity"
+
+    - id: "weedpatch_camp"
+      name: "Weedpatch Government Camp"
+      description_block: |
+        setting:
+          location: "Federal government-run camp for migrant workers in Kern County California, officially known as Arvin Federal Camp"
+        mainElements: "Orderly rows of wooden platforms for tents, clean bathroom facilities with running water, community buildings including library and recreation hall"
+        atmosphere: "Hope and human dignity restored, sounds of children playing safely and adults organizing democratic meetings, smell of clean laundry and cooked meals"
+
+    - id: "boxcar_home"
+      name: "Abandoned Railroad Boxcar"
+      description_block: |
+        setting:
+          location: "Rusted abandoned freight train boxcar repurposed as family shelter in California migrant area"
+        mainElements: "Metal walls and floor, single door opening, makeshift partition dividing space, few personal belongings arranged on floor, small heating stove"
+        atmosphere: "Claustrophobic confinement with sound of rain drumming on metal roof, smell of dampness and confined living, last refuge from elements"
+
+    - id: "barn_shelter"
+      name: "Abandoned Barn"
+      description_block: |
+        setting:
+          location: "Large wooden barn in rural California farmland area, used as emergency shelter during winter storms"
+        mainElements: "High wooden roof with gaps letting in light, hay bales scattered on floor, farm tools hanging on walls, wide doors open to stormy weather"
+        atmosphere: "Dim sanctuary offering basic protection from elements, sounds of rain and wind outside, hay dust and earth scents, temporary haven of survival"
+
+  items:
+    - id: "hudson_truck"
+      name: "Hudson Super Six Truck"
+      description_block: |
+        details: "1926 Hudson Super Six sedan converted to truck with rear section cut away to create cargo bed, faded paint showing rust spots, overloaded with family possessions tied down with rope and canvas"
+
+    - id: "family_possessions"
+      name: "Joad Family Belongings"
+      description_block: |
+        details: "Mattresses rolled and tied, cooking pots and pans, wooden furniture pieces, hand tools, few precious personal items, everything a family owns piled and secured for transport"
+
+    - id: "handbill"
+      name: "Work Advertisement Handbill"
+      description_block: |
+        details: "Cheap yellow paper flyer advertising fruit picking work in California, promises of good wages and steady employment, designed to lure desperate workers westward"
+
+    - id: "guitar"
+      name: "Migrant's Guitar"
+      description_block: |
+        details: "Well-worn acoustic guitar with scratched finish and replaced strings, carried by migrant families as one of few possessions bringing comfort and maintaining cultural connection"
+
+    - id: "kerosene_lamp"
+      name: "Kerosene Lamp"
+      description_block: |
+        details: "Simple glass and metal oil lamp providing warm flickering light in camps and shelters, creating circles of intimacy in vast darkness of displacement"
+
+    - id: "pick_handle"
+      name: "Pick Handle Weapon"
+      description_block: |
+        details: "Wooden handle from farm tool repurposed as club weapon, symbol of violent confrontation between authority figures and desperate workers"
+
+    - id: "cardboard_suitcase"
+      name: "Cardboard Suitcase"
+      description_block: |
+        details: "Cheap cardboard luggage bound with cord, containing family's most essential clothing and personal documents, easily damaged but all they can afford"

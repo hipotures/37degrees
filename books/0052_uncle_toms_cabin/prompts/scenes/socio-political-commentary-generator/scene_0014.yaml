@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Learning Conformity - The Lesson in Submission"
+  setting:
+    time: "1851, afternoon"
+    location: "Area where young enslaved children receive training in submission and obedience"
+    weather: "Bright afternoon highlighting the stark teaching methods"
+  characters:
+    - appearance: "8-9 year old girl, blackest of her race, round glittering eyes like glass beads, woolly hair braided in numerous small tails sticking out in all directions, goblin-like appearance"
+      clothing: "Single dirty ragged garment made of bagging material, barefoot"
+      position: "Crouched or standing in mischievous pose, ready to dart away quickly"
+      action: "Performing tricks, stealing small items, or claiming she just grew without divine creation"
+    - appearance: "Other children of various ages learning required behaviors"
+      clothing: "Simple children's work clothes, some hand-me-downs from white children, bare feet"
+      position: "Arranged in learning formation, some sitting on ground, others standing at attention"
+      action: "Practicing required gestures of respect, learning work songs, memorizing responses to white authority"
+  scene:
+    mainElements: "Outdoor learning area with children arranged for instruction, authority figure demonstrating required behaviors, simple teaching materials"
+    details: "Demonstration of proper bowing and postures, work songs that coordinate labor, responses to be given to white people, punishment examples for incorrect behavior, basic skills training limited to economic usefulness"
+    background: "Adult enslaved people working nearby as examples of expected futures, plantation buildings representing the system children must learn to navigate"
+    atmosphere: "Systematic destruction of natural childhood development, education designed to create compliance rather than growth, contrast between children's natural energy and required submission"
+  composition:
+    cameraAngle: "Medium shot showing children and teaching authority"
+    focus: "The contrast between natural childhood spirit and enforced conformity training"
+    depth: "Foreground shows individual children's faces and reactions, middle ground reveals the teaching process, background shows the adult world children are being prepared to enter"

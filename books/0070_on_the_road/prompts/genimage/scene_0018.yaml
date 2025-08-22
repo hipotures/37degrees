@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1949 morning
+    location: old ruined house outside New Orleans surrounded by weeping willows and tall grass, decaying porches that sag
+      underfoot
+    weather: humid Louisiana morning with mist rising from swampland
+  characters:
+  - appearance: 33-36 year old very tall gaunt man with thinning dark hair, cold emotionless eyes, long pale face with stone-like
+      expression, skeletal build
+    clothing: dark conservative well-tailored suits creating surreal contrast with his drug experimentation lifestyle, formal
+      attire like bank clerk or funeral director
+    position: seated at makeshift laboratory table
+    action: holding small dark glass bottle up to morning light while examining liquid contents
+  scene:
+    mainElements: multiple small dark glass bottles containing various colored liquids, morning light filtering through bottles
+      creating ominous colored shadows on table surface, liquid contents appearing thick and syrupy, medicine droppers and
+      syringes arranged precisely
+    details: Dark amber and brown glass bottles blocking light except for thin translucent edges, liquid medicines appearing
+      black or dark red when backlit, bottle labels handwritten in careful script, medicine measuring devices scattered on
+      table, liquid contents too thick to flow quickly when bottle tilted, sunlight creating prison-bar shadows through bottle
+      arrangement, chemical odors suggested by character's careful handling
+    background: decaying house interior filled with books, weapons, syringes, and strange devices resembling 'orgone accumulator',
+      weeping willows visible through dirty windows, tall grass surrounding property
+    atmosphere: dark murky interior with weak morning light struggling through dirty windows, heavy humid air, sense of pharmaceutical
+      experimentation and paranoia, smell of chemicals and decay
+  composition:
+    cameraAngle: low angle looking up at bottles against light
+    focus: dark medicine bottles as visual representation of bitter pharmaceutical taste
+    depth: medicine bottles in foreground, seated figure in middle ground, decaying room interior extending to shadowy background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

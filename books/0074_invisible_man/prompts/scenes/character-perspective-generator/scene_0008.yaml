@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Battle Royal Spectacle Through White Elite's Eyes"
+  setting:
+    time: "1930s, evening"
+    location: "Hotel ballroom in Southern town, smoky interior with portable boxing ring"
+    weather: "Indoor environment thick with cigar smoke and alcohol fumes"
+  characters:
+    - appearance: "Elderly white man in his 70s-80s, distinguished thin build, pink Santa Claus-like face, silky white hair, pale blue misty eyes"
+      clothing: "Aristocratic attire - checkered vest, soft silk shirt, blue and white polka dot bow tie, elegant suit befitting wealthy philanthropist"
+      position: "Seated at ringside table with other white dignitaries"
+      action: "Watching blindfolded fight with paternal amusement, sipping drink and smoking cigar"
+  scene:
+    mainElements: "Portable boxing ring surrounded by laughing wealthy white men in evening wear, cigar smoke creating hazy atmosphere, electric carpet with fake coins"
+    details: "Through white elite perspective, violence appears as harmless entertainment and character-building exercise - blindfolded boys seem like amusing pets performing tricks, blood and pain register as necessary discipline, electric shocks appear as playful pranks teaching valuable lessons, narrator's speech becomes tedious obligation to endure, whole spectacle represents proper racial hierarchy being maintained through benevolent guidance, educational opportunity disguised as fun community event"
+    background: "Other white men in formal evening wear, hotel ballroom decorated for social gathering"
+    atmosphere: "Ritualistic violence disguised as entertainment, dehumanizing spectacle designed to reinforce racial hierarchy"
+  composition:
+    cameraAngle: "Elevated view from white spectators' ringside seats, looking down at Black participants"
+    focus: "Central ring action framed as entertainment spectacle for white audience"
+    depth: "Foreground shows white observers with drinks and cigars, middle ground captures ring violence, background reveals hotel's elegant appointments, no text or letters visible"

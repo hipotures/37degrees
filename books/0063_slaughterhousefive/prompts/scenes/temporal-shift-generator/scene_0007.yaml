@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Billy's Optometry Office Through Seasons and Years"
+  setting:
+    time: "1950s to 1970s, showing practice evolution across two decades"
+    location: "Modern shopping center optometry office in Ilium New York"
+    weather: "Interior office showing seasonal changes through large windows"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy aging from young optometrist to middle-aged professional, sometimes falling asleep during patient examinations"
+      action: "Examining patients, updating equipment, staring at Serenity Prayer plaque, experiencing time unstuck episodes during routine work, no text or letters visible"
+  scene:
+    mainElements: "Professional optometry equipment evolving from 1950s to 1970s technology, eye charts becoming more sophisticated, waiting room furniture styles changing, patient demographics shifting"
+    details: "Simple wooden plaque hanging on optometry office wall displaying Serenity Prayer about wisdom to accept unchangeable circumstances, representing Billy's attempt to find meaning through fatalistic philosophy"
+    background: "Shopping center modernizing around office, parking lot expanding, neighboring businesses changing, seasonal decorations appearing and disappearing, American flags updated for new states"
+    atmosphere: "Sterile medical environment contrasting with Billy's internal chaos, fluorescent lighting remaining constant while everything else evolves, patient conversations providing temporal markers"
+  composition:
+    cameraAngle: "Medium shot from patient perspective showing Billy at examination equipment across time"
+    focus: "Serenity Prayer plaque as constant element while everything around modernizes"
+    depth: "Foreground shows examination chair and equipment evolution, middle ground shows Billy aging, background shows office and shopping center changes"

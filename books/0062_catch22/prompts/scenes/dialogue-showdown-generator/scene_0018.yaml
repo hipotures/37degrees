@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Creation After Destruction - Letter Writing at Night"
+  setting:
+    time: "1944, late night"
+    location: "administrative tent with writing materials"
+    weather: "quiet Mediterranean night"
+  characters:
+    - appearance: "19 years old, youthful smooth face, sincere wide open eyes, wealthy boy appearance from good family background"
+      clothing: "simple undershirt and military trousers"
+      position: "hunched over writing desk by lamplight"
+      action: "writing passionate letter to prostitute in Rome"
+  scene:
+    mainElements: "small writing desk with oil lamp, paper and pen, military correspondence materials, personal photographs"
+    details: "Nately writes intensely by lamplight, pouring his idealistic love onto paper for the Roman prostitute who initially showed him indifference. His youthful face shows complete devotion as he crafts romantic words. The contrast between his sheltered background and wartime reality emerges through his sincere expressions of love."
+    background: "tent interior with military equipment, letters from home, personal belongings of wealthy upbringing"
+    atmosphere: "romantic idealism confronting harsh wartime reality, mixture of youthful hope and naive devotion"
+  composition:
+    cameraAngle: "close-up on concentrated face and moving pen"
+    focus: "intense concentration and emotional investment in letter writing"
+    depth: "foreground shows letter writing activity, middle ground captures devoted expression, background reveals military context"

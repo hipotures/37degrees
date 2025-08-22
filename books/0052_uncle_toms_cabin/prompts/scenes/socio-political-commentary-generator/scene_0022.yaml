@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Chessboard Society - Human Game Pieces"
+  setting:
+    time: "1851, afternoon"
+    location: "Plantation grounds arranged like giant chessboard with people as game pieces"
+    weather: "Clear afternoon light creating distinct shadows and geometric patterns"
+  characters:
+    - appearance: "Enslaved people positioned like chess pieces in predetermined locations"
+      clothing: "Work clothes suggesting their assigned roles in the economic game"
+      position: "Arranged in chess-like formation suggesting strategic positioning by unseen players"
+      action: "Moving only when directed, limited to specific patterns like chess pieces"
+    - appearance: "White plantation figures positioned like opposing chess pieces"
+      clothing: "Formal attire suggesting higher value pieces in the human game"
+      position: "Strategic positions indicating command and control roles"
+      action: "Directing movement of other pieces, representing players rather than played"
+  scene:
+    mainElements: "Ground marked like chessboard with alternating patterns, human figures arranged according to chess piece hierarchy, suggestion of strategic game being played"
+    details: "Movement restricted to chess-like patterns, hierarchy clearly visible through positioning and dress, game rules determining human interaction, suggestion of unseen players moving the pieces"
+    background: "Plantation landscape arranged like game board, economic buildings representing game objectives, broader society as gaming table"
+    atmosphere: "Human lives reduced to strategic game pieces, individual humanity sacrificed to larger economic and social game, systematic arrangement removing personal choice and agency"
+  composition:
+    cameraAngle: "High angle shot showing chessboard pattern and human piece arrangement"
+    focus: "The chess metaphor as symbol of systematic strategic control of human lives"
+    depth: "Foreground shows individual human pieces in detail, middle ground reveals the game board arrangement, background suggests the larger social game being played"

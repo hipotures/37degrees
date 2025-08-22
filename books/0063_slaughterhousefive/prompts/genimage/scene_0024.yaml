@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Multiple war periods overlapping showing eternal conflict cycle
+    location: Generic valley location showing battles across different historical periods
+    weather: Various combat weather conditions from different wars merging
+  characters:
+  - appearance: Soldiers representing different war eras appearing in temporal layers
+    clothing: Military uniforms from various periods - medieval armor, Napoleonic dress, Civil War blue and gray, WWI doughboy
+      gear, WWII equipment, Vietnam fatigues
+    position: Warriors from different centuries occupying same battlefield terrain
+    action: Cyclical warfare showing human conflict as repeating pattern across history rather than progressive evolution,
+      no text or letters visible
+  scene:
+    mainElements: Valley terrain showing accumulated evidence of conflicts across millennia, weapons and military technology
+      evolution, battlefield medical care progression
+    details: Ancient spears mixing with modern rifles, cavalry charges overlapping tank movements, field communication evolution
+      from drums to radios, medical tents showing treatment advancement
+    background: Landscape geology remaining constant while human technology and tactics evolve around eternal conflict patterns
+    atmosphere: Tragic recognition that despite technological progress, war represents unchanging human pattern of violence
+      and loss
+  composition:
+    cameraAngle: Wide valley shot showing multiple battle eras as ghostly overlays
+    focus: Terrain as witness to repeating historical cycles of human conflict
+    depth: Layered historical periods showing war as eternal rather than progressive human activity
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

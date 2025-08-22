@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, spring morning with new life emerging everywhere
+    location: Peaceful courtyard garden in Bombay family home
+    weather: Perfect growing conditions with gentle rain and warm sunshine
+  characters:
+  - appearance: Young Indian village woman, ethereal beauty, eyes reflecting divine madness
+    clothing: Simple white cotton sari, bare feet, silver anklets
+    position: Kneeling beside sprouting tree, hands cupped around emerging trunk
+    action: Nurturing growth while cloud of monarch butterflies creates living mandala around her
+  scene:
+    mainElements: Ancient seed finally breaking through earth, becoming massive tree with golden leaves and branches reaching
+      toward sky
+    details: Sacred bodhi tree emerging from soil in accelerated growth, trunk expanding from delicate shoot to massive base
+      in visible transformation, roots spreading underground creating network of life, branches unfurling with perfect symmetry,
+      leaves emerging as pure gold that catches and reflects sunlight, tree reaching full maturity while still connected to
+      original seed casing, scattered soil revealing ancient origin of sacred specimen, butterflies pollinating impossible
+      golden blossoms, tree casting beneficial shade over entire courtyard, no text or letters visible
+    background: Traditional courtyard with fountain, flowering vines on walls, family members gathering to witness miraculous
+      growth
+    atmosphere: Divine intervention manifesting as natural miracle, sacred potential finally realized through patience and
+      faith
+  composition:
+    cameraAngle: Low angle showing tree's magnificent growth from humble seed to towering presence
+    focus: Sacred tree representing spiritual fulfillment and return to authentic faith
+    depth: 'Foreground: original seed casing in soil, midground: nurturing figure, background: mature tree canopy against
+      blue sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

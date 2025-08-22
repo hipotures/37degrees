@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Three Generations in Same Ilium Street Corner"
+  setting:
+    time: "1930s, 1950s, 1970s showing generational neighborhood evolution"
+    location: "Typical American suburb in Ilium New York, 1950s and 1960s, modeled after Schenectady"
+    weather: "Three different seasonal moments showing same location across decades"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Three generations of Pilgrim family men standing at same corner - grandfather, Billy, and son - each in their respective time periods"
+      action: "Each generation waiting for transportation appropriate to their era, representing continuity and change, no text or letters visible"
+  scene:
+    mainElements: "Ranch-style and split-level houses with brick or wooden construction, manicured lawns, Billy's imposing two-story house, modern shopping centers housing optometry practices"
+    details: "Street corner showing infrastructure evolution from dirt roads to paved streets to modern traffic systems, telephone poles becoming cable lines, mailboxes changing design, streetlights modernizing, house architectural styles evolving"
+    background: "Neighborhood density increasing with development, transportation in background evolving from horses to automobiles to multiple car families, distant skyline showing urban growth"
+    atmosphere: "Surface prosperity and normalcy concealing spiritual emptiness and alienation, bright optimistic sunlight contrasting with sterile fluorescent medical office lighting, sounds of lawnmowers and children playing"
+  composition:
+    cameraAngle: "Medium wide shot showing street corner intersection across three time periods"
+    focus: "Three generational male figures representing family continuity in changing environment"
+    depth: "Foreground shows street surface evolution, middle ground shows family figures, background shows neighborhood development progression"

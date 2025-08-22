@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desperate Search - Empty Roads"
+  setting:
+    time: "1949, day"
+    location: "American highway system, multiple states during desperate search"
+    weather: "Various weather conditions during extended search period"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, showing signs of desperate exhaustion"
+      clothing: "Increasingly disheveled travel clothes, showing wear from extended searching"
+      position: "Behind steering wheel, frantically driving from location to location"
+      action: "Desperately searching, checking motel registers, following false leads, showing increasing desperation"
+  scene:
+    mainElements: "Multiple motel lobbies, registration books, highway scenes, gas stations, American roadside facilities during frantic search"
+    details: "Motel reception desks with registration books, handwritten entries, false names and addresses, mounting evidence of elaborate deception"
+    background: "American highway system, roadside motels, gas stations, landscape of desperate search across multiple states"
+    atmosphere: "Frantic desperation, mounting evidence of elaborate escape plan, adult obsession driving increasingly desperate behavior"
+  composition:
+    cameraAngle: "Over shoulder view watching desperate examination of motel registers and false clues"
+    focus: "Motel registration books with false entries, evidence of elaborate escape deception"
+    depth: "Foreground shows motel registration materials, middle ground shows desperate searcher, background shows endless American roadscape"

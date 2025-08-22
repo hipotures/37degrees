@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1924, winter evening
+    location: Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp
+    weather: Cold winter night with frost forming on windows
+  characters:
+  - appearance: American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly
+      combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely
+      betrays emotion
+    clothing: Thick wool sweater and comfortable trousers, wool socks, relaxed evening attire
+    position: Seated in armchair near fireplace, ceramic mug in hands
+    action: Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail
+  scene:
+    mainElements: Stone fireplace with logs creating crackling sparks, ceramic mug releasing chocolate-scented steam, pine
+      branches nearby releasing resinous fragrance, warm glow reflecting on walls
+    details: Fireplace logs showing red ember patterns with occasional sparks flying upward, steam from hot cocoa creating
+      delicate spirals in warm air, pine branches on mantle releasing visible resin droplets, warm light creating golden atmosphere
+      throughout room, flames dancing with rhythmic patterns suggesting comforting sounds, heat shimmer rising from fireplace
+      creating cozy atmosphere, no text or letters visible
+    background: Solitary refuge with warm yellow lamplight creating deep shadows, sense of masculine simplicity and emotional
+      restraint, refuge from social complexities outside
+    atmosphere: Complete sensory comfort synthesis - visual warmth, aromatic steam patterns, tactile heat effects, synaesthetic
+      blend of multiple comfort elements creating perfect refuge
+  composition:
+    cameraAngle: Medium shot emphasizing fireplace warmth and steam patterns
+    focus: Fire patterns, steam from cocoa, and aromatic pine elements
+    depth: 'Foreground: detailed fire and steam effects, midground: comfortable figure in warm setting, background: apartment
+      transformed by firelight warmth'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

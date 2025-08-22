@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "frederic_henry"
+      name: "Frederic Henry"
+      description_block: |
+        characters:
+          - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+            clothing: "Italian army officer uniform in Grigioverde gray-green, includes tunic, trousers, officer cap with rank insignia on cuffs, leather boots, carries Astra 7.65 pistol, steel helmet and English gas mask on front lines"
+            posture: "Erect military bearing with subtle foreign manner distinguishing him from Italian officers"
+            
+    - id: "catherine_barkley"
+      name: "Catherine Barkley"
+      description_block: |
+        characters:
+          - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+            clothing: "V.A.D. uniform with light blue cotton dress, white apron with red cross symbol, white headscarf-style cap introduced in 1915, carries riding crop of deceased fiancé"
+            posture: "Professional nursing demeanor with underlying grief and growing intimacy"
+            
+    - id: "rinaldi"
+      name: "Lieutenant Rinaldi"
+      description_block: |
+        characters:
+          - appearance: "Handsome Italian surgeon from Amalfi in mid-twenties, lean face often pale from stress, very black hair contrasting with forehead, Mediterranean features"
+            clothing: "Italian army officer uniform in Grigioverde gray-green matching Henry's rank and style"
+            posture: "Expressive physical manner with quick precise movements, embraces and gestures theatrically, cynical worldly bearing"
+            
+  locations:
+    - id: "gorizia_front"
+      name: "Gorizia and Isonzo Front"
+      description_block: |
+        setting:
+          location: "Italian front lines near Gorizia in northeastern Italy, view across Isonzo River valley toward Austrian positions in Julian Alps"
+        mainElements: "Elegant villa converted to officers' quarters with military maps on walls, equipment in corners, mud tracked on fine floors, view through river valley showing pebbles and boulders dry and white in sun with clear swift blue water"
+        atmosphere: "Deceptive beauty of Alpine landscape constantly disrupted by signs of war - dust settling on leaves from passing troops, leaves falling early from shellfire, distant artillery flashes, contrast between natural beauty and military destruction"
+        
+    - id: "british_hospital_garden"
+      name: "British Hospital Garden"
+      description_block: |
+        setting:
+          location: "Cultivated garden area adjacent to British field hospital near Gorizia front, small maintained refuge amid military chaos"
+        mainElements: "Well-tended garden space with trees providing partial concealment, organized flower beds and pathways, clean ordered sanctuary contrasting with surrounding military disorder"
+        atmosphere: "Peaceful cultivated oasis offering privacy and escape from war, white nurse uniforms visible through foliage creating ethereal almost voyeuristic introduction, intimate space for tentative romance"
+        
+    - id: "milan_american_hospital"
+      name: "American Hospital Milan"
+      description_block: |
+        setting:
+          location: "Converted building serving as American military hospital in elegant Milan, 1917-1918, sophisticated urban medical facility"
+        mainElements: "Clean modern medical rooms with new furniture, large wardrobe with mirror, adjustable window blinds, balcony overlooking red tile rooftops and chimneys of Milan cityscape"
+        atmosphere: "Sanctuary of healing and romance, bright sunlight streaming through open blinds, intimate private space removed from war, sounds of civilian city life replacing battlefield noise"
+        
+    - id: "stresa_grand_hotel"
+      name: "Grand Hotel des Iles Borromées, Stresa"
+      description_block: |
+        setting:
+          location: "Luxury Belle Époque palace hotel overlooking Lake Maggiore in Stresa, Italy, elegant resort town with view of Borromean Islands"
+        mainElements: "Magnificent hotel interior with rich fabrics, ornate furnishings, crystal chandeliers, marble floors, expansive windows facing lake and Alps, well-appointed bar with professional service"
+        atmosphere: "Faded grandeur of off-season luxury resort, nervous tension of fugitive lovers hiding in plain sight, surreal juxtaposition of elegance against desperate circumstances"
+        
+    - id: "lake_maggiore"
+      name: "Lake Maggiore"
+      description_block: |
+        setting:
+          location: "Large Alpine lake between Italy and Switzerland, dramatic mountain scenery with deep dark waters reflecting peaks"
+        mainElements: "Vast dark water surface with rocky shores, stone walls along waterfront, small wooden rowboat, steep mountain slopes rising directly from water, wedge-shaped gap between peaks marking Swiss border"
+        atmosphere: "Beautiful but treacherous barrier to freedom, cold November waters under stormy skies, dangerous crossing requiring physical endurance and navigation skill, transition from Italian danger to Swiss sanctuary"
+        
+    - id: "swiss_alpine_refuge"
+      name: "Swiss Mountain House near Montreux"
+      description_block: |
+        setting:
+          location: "Wooden chalet on mountainside above Montreux, Switzerland, overlooking Lake Geneva with Alpine panorama"
+        mainElements: "Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean orderly Swiss landscape contrasting with war-torn Italy"
+        atmosphere: "Peaceful temporary sanctuary offering apparent safety and domestic tranquility, false sense of escape from world's violence, pristine beauty masking underlying biological dangers"
+        
+    - id: "lausanne_hospital"
+      name: "Lausanne Hospital"
+      description_block: |
+        setting:
+          location: "Modern Swiss medical facility in Lausanne, efficient sterile hospital environment"
+        mainElements: "Clean white sterile rooms with modern medical equipment, professional clinical atmosphere, orderly Swiss medical efficiency"
+        atmosphere: "Impersonal medical environment where biological tragedy unfolds, contrast between clinical efficiency and human suffering, neutral Swiss sterility unable to prevent natural cruelty"
+        
+  items:
+    - id: "ambulance_fiat"
+      name: "Fiat Ambulance"
+      description_block: |
+        details: "Fiat Tipo 15 Ter military ambulance with 40 horsepower engine, canvas covering over rear medical compartment, Red Cross markings on sides, basic field medical equipment interior"
+        
+    - id: "riding_crop"
+      name: "Deceased Fiancé's Riding Crop"
+      description_block: |
+        details: "Simple leather riding crop carried by Catherine as memento of fiancé killed in war, physical symbol of grief and past trauma she brings to new relationship"
+        
+    - id: "astra_pistol"
+      name: "Astra 7.65 Pistol"
+      description_block: |
+        details: "Short-barreled semi-automatic pistol required for Italian officers, considered absurd and impractical by Henry, represents empty military authority and bureaucratic requirements"
+        
+    - id: "rowing_boat"
+      name: "Lake Maggiore Rowing Boat"
+      description_block: |
+        details: "Small wooden lake boat with two oars, provided by sympathetic barman for desperate escape to Switzerland, vessel of freedom but also isolation and vulnerability"

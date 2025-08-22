@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Arranged Marriage Conversation"
+  setting:
+    time: "Early 1900s, evening"
+    location: "Simple rural parlor with oil lamp lighting"
+    weather: "Calm evening"
+  characters:
+    - appearance: "Elderly African-American woman in her 70s, slight build, weathered hands, wise eyes, gray hair"
+      clothing: "Simple working dress of early 1900s style, apron, headwrap, worn but clean garments"
+      position: "Sitting in wooden chair with hands folded"
+      action: "Speaking earnestly with protective but firm expression"
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Standing with shoulders slightly hunched"
+      action: "Listening with downcast eyes, fingers nervously clasping and unclasping"
+  scene:
+    mainElements: "Two generations in serious conversation, oil lamp creating intimate lighting, simple furniture showing modest circumstances"
+    details: "Wooden chairs with worn cushions, oil lamp casting warm but limited light, family photographs on mantle, simple but clean room, shadows dancing on walls, no text or letters visible"
+    background: "Modest parlor with basic furnishings, window showing darkness outside"
+    atmosphere: "Tension between love and duty, weight of practical decisions, underlying sadness mixed with resignation, generational wisdom conflicting with personal dreams"
+  composition:
+    cameraAngle: "Medium shot capturing both figures in lamplight"
+    focus: "Contrast between confident elder and uncertain young woman"
+    depth: "Foreground: oil lamp, middle: the two women, background: shadowy room details"

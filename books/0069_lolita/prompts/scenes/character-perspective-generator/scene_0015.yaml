@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Highway Observer - Trapped Movement"
+  setting:
+    time: "1948, daytime"
+    location: "Interior of 1940s automobile on American highway system"
+    weather: "Clear day with American landscape visible"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Car interior view through passenger window, American highway landscape passing by, roadside signs and billboards, gas stations in distance"
+    details: "View through car window showing endless American road stretching ahead, billboards advertising tourist attractions, telephone poles creating rhythm, vast landscape representing lost freedom"
+    background: "American highway system with mountains, plains, and small towns, normal families at gas stations visible in distance, world of normal childhood beyond reach"
+    atmosphere: "Endless movement without destination, landscape blurring past car windows, sense of being trapped in motion, false freedom of the open road"
+  composition:
+    cameraAngle: "Side window view from car interior, watching landscape pass by"
+    focus: "Highway landscape and distant normal families, representing unreachable normal world"
+    depth: "Foreground shows car window frame, middle ground shows passing highway, background shows American landscape and normal world beyond access"

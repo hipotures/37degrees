@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Sterile Morning - Something Wrong in the Routine"
+  setting:
+    time: "Early 1960s, dawn"
+    location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+    weather: "Overcast morning light filtering through barred windows"
+  characters:
+    - appearance: "40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust"
+      clothing: "Standard green hospital patient uniform"
+      position: "Standing hunched, trying to appear smaller and invisible, often holding broom"
+      action: "Sweeping floors methodically while observing silently, maintaining expressionless mask"
+  scene:
+    mainElements: "Glass-walled nurses station in center, scattered tables and chairs, large old television with bulging gray screen, barred windows overlooking hospital grounds"
+    details: "The fluorescent lights buzz with unusual intensity creating harsh shadows that seem to move independently. Floor tiles appear slightly warped in one corner, bending in impossible geometric patterns. Clock on wall ticks with irregular rhythm - sometimes fast, sometimes slow. Patients sit motionless at tables like mannequins"
+    background: "Through barred windows, morning mist hangs unnaturally still over hospital grounds, trees appearing frozen mid-sway"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Subtle wrongness - reality slightly off-kilter, familiar objects behaving strangely"
+  composition:
+    cameraAngle: "Low angle from floor level looking up"
+    focus: "The broom in massive hands, shadows moving incorrectly on walls"
+    depth: "Foreground: worn broom bristles. Middle: institutional furniture and motionless patients. Background: glass nurses station with morning light creating strange reflections"

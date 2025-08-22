@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1851, early morning
+    location: Abandoned or deteriorating plantation area where nature reclaims human systems
+    weather: Fresh morning light with dew symbolizing renewal
+  characters: No characters present in this scene
+  scene:
+    mainElements: Small plant or flower growing through crack in stone foundation of plantation building, symbol of life persisting
+      despite oppressive systems
+    details: Delicate green growth emerging from harsh stone surface, morning dew on new leaves, cracks in foundation suggesting
+      weakness in seemingly permanent structures, seeds scattered by wind or birds suggesting natural processes continuing
+      despite human systems
+    background: Deteriorating plantation buildings showing impermanence of oppressive systems, natural landscape gradually
+      reclaiming constructed spaces, sky suggesting infinite possibilities beyond human-built limitations
+    atmosphere: Hope emerging despite systematic oppression, nature's persistence suggesting that justice and freedom are
+      natural laws that will ultimately prevail, question about whether human systems can change or must be overcome
+  composition:
+    cameraAngle: Close-up on plant breaking through stone with background showing larger context
+    focus: The emerging plant as symbol of hope, change, and natural justice overcoming constructed oppression
+    depth: Foreground shows detailed plant growth and stone crack, middle ground reveals deteriorating human construction,
+      background suggests natural world and infinite sky representing ultimate freedom and possibility
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

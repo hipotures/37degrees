@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Early 1920s late evening
+    location: Simple wooden village tavern near bridge where K. first seeks shelter, humble establishment for common villagers
+    weather: Cold winter night outside, warmth and smoke inside
+  characters:
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Lying on straw mattress near iron stove, woken abruptly
+    action: Startled awake by confrontation, sitting up defensively
+  - appearance: Young man with actor's face, narrow eyes, thick eyebrows
+    clothing: City-style dress distinguishing him from peasants
+    position: Standing dominantly over K. with innkeeper behind holding lamp
+    action: Demanding K.'s permit to stay in Castle territory
+  - appearance: Silent village peasants in work clothes
+    clothing: Rough wool garments, practical rural clothing
+    position: Seated at wooden tables, turned to observe confrontation
+    action: Watching K. with suspicious, unfriendly stares
+  scene:
+    mainElements: Low-ceilinged smoky taproom with simple wooden tables and benches, iron stove providing heat, straw mattress
+      for travelers
+    details: Through K.'s perspective of vulnerability - stove casting dancing orange light on threatening faces, air thick
+      with pipe smoke and smell of wet wool, beer stains on wooden surfaces. Circle of hostile eyes surrounding his makeshift
+      bed, lamp light creating harsh shadows. Initially welcoming refuge transforming into place of interrogation and alienation.
+    background: Smoke-darkened walls with simple furnishings, doorway to outside world now seeming distant
+    atmosphere: K.'s perception shifts from grateful relief to defensive anxiety - warm refuge becoming claustrophobic trap,
+      peasant faces appearing menacing in lamplight, authority figure looming threateningly, no text or letters visible
+  composition:
+    cameraAngle: Low angle from K.'s position on floor looking up at accusers
+    focus: Confrontational triangle - K. vulnerable on mattress, official standing in authority, innkeeper with lamp
+    depth: Foreground shows K.'s alarmed face and protective posture, middle ground captures standing figures and hostile
+      peasants, background fades into smoky tavern darkness
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s, 1950s, 1970s - three transportation eras
+    location: Same street corner in Bombay showing vehicle evolution and urban development
+    weather: Consistent street lighting showing technological progression
+  characters: No characters present in this scene
+  scene:
+    mainElements: Same Bombay street intersection hosting three transportation eras. 1920s displays bullock cart and pedestrian
+      traffic on dusty road. 1950s shows Lambretta scooters and early automobiles on paved streets. 1970s reveals military
+      jeeps and modern vehicles during Emergency period with increased police presence
+    details: Road surface evolves from dirt path to asphalt paving to deteriorating Emergency-era maintenance neglect. Street
+      lighting progresses from oil lamps to electric posts to harsh security illumination. Traffic density increases dramatically
+      with each era while vehicle types modernize
+    background: Street architecture transforms from colonial buildings to independence-era construction to Emergency period
+      fortification. Shop signs and street vendors change reflecting economic and political evolution
+    atmosphere: Progression from rural simplicity through hopeful modernization to militarized urban control. Transportation
+      advancement paralleling loss of personal freedom and community intimacy, no text or letters visible
+  composition:
+    cameraAngle: Wide street view capturing vehicle progression and urban development
+    focus: Central intersection as constant reference point for changing transportation
+    depth: Vehicles and road in foreground, street activity in middle ground, building development in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

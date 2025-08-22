@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Monuments to False Glory - Plantation Grounds"
+  setting:
+    time: "1851, morning"
+    location: "Well-maintained grounds of Kentucky plantation showcasing the idealized image of Southern society"
+    weather: "Clear morning with soft sunlight"
+  characters:
+    - appearance: "5-6 year old boy with innocent face, well-dressed child of plantation owners"
+      clothing: "Fine children's clothes, polished shoes, clean appearance indicating privilege"
+      position: "Playing carefree on manicured lawn near main house"
+      action: "Running and playing games, oblivious to the system supporting his comfort"
+  scene:
+    mainElements: "Imposing main house with white columns and grand entrance, manicured gardens, ornamental trees, gravel pathways"
+    details: "Stone monuments or decorative urns suggesting permanence and nobility, well-tended flower beds, painted fences, tools of enslaved gardeners visible but workers absent from immediate view"
+    background: "Rolling Kentucky countryside, distant view of working fields where actual labor occurs, slave quarters barely visible"
+    atmosphere: "Peaceful morning beauty hiding the labor and suffering that maintains this luxury, birds singing while human voices are silenced"
+  composition:
+    cameraAngle: "Wide establishing shot showing the grandeur of the estate"
+    focus: "The imposing mansion as symbol of power built on human bondage"
+    depth: "Foreground shows manicured beauty, middle ground features the child's innocent play, background hints at the working reality behind the facade"

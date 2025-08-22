@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1920s through 1970s, composite temporal view showing decades simultaneously
+    location: Billy's childhood bedroom in Ilium New York, same room across fifty years of life
+    weather: Interior scene, natural light filtering through window across seasons and years
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Layered temporal positioning showing child Billy at age 6 sitting on small bed, teenager Billy reading by window,
+      soldier Billy in military gear, middle-aged Billy in businessman attire, elderly Billy with walking assistance
+    action: Multiple overlapping temporal moments showing same person aging through decades in identical room location, no
+      text or letters visible
+  scene:
+    mainElements: Single bedroom showing accumulated layers of time with child's toys gradually replaced by books, then military
+      memorabilia, then optometry equipment, then medical aids, wallpaper fading and changing patterns, furniture wearing
+      down and being replaced
+    details: Wooden floor showing wear patterns from decades of footsteps, window frame paint layers revealing multiple color
+      changes, light switch evolved from simple toggle to modern design, door handle worn smooth by thousands of touches,
+      ceiling showing water stains from different decades, radiator accumulating paint layers
+    background: View through window showing neighborhood evolution from 1920s architecture to 1960s suburban development,
+      trees growing larger, power lines appearing, street paving changes
+    atmosphere: Melancholic beauty of time's passage made visible through accumulated changes, dust motes floating in afternoon
+      light that has illuminated same space for fifty years, silence heavy with accumulated memories
+  composition:
+    cameraAngle: Wide interior shot from doorway perspective capturing entire room with temporal overlay technique
+    focus: Multiple translucent figures of Billy at different ages occupying same space but from different time periods
+    depth: Foreground shows most recent elderly Billy version, middle ground shows adult years translucently, background shows
+      childhood objects and early furniture ghostly visible through later additions
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

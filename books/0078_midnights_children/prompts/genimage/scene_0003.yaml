@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1915 to 1965, late afternoon
+    location: Family gathering spaces across multiple homes in Kashmir, Agra, and Bombay
+    weather: Golden afternoon light streaming through windows
+  characters:
+  - appearance: Various ages showing life progression - child hands at age 10, adult hands at age 30, elderly hands at age
+      70. Hands show wear patterns, calluses, and aging spots corresponding to life stages
+    clothing: Hands visible with period-appropriate sleeve cuffs - colonial medical sleeves, elegant sari edges, simple work
+      clothes
+    position: Hands positioned identically reaching toward or holding silver spittoon
+    action: Child hands receiving spittoon as gift, adult hands polishing ornate surface, elderly hands passing object to
+      next generation
+  scene:
+    mainElements: Ornate silver spittoon decorated with lapis lazuli inlay. Gift from Rani of Cooch Naheen representing old
+      Indian aristocratic traditions. Object passed down through generations carrying family history and heritage. Three sets
+      of hands interact with same object across fifty-year span showing intergenerational continuity
+    details: Silver spittoon develops patina and small dents from decades of handling. Lapis lazuli stones show microscopic
+      chips and wear. Hands transform from smooth child skin to work-hardened adult palms to spotted elderly fingers with
+      prominent veins. Each hand position mirrors others creating visual echo across time
+    background: Different domestic interiors representing family migrations - Kashmir mountain home, Agra urban residence,
+      Bombay colonial villa. Backgrounds fade in importance compared to object-hand relationship
+    atmosphere: Nostalgic reverence for family heritage combined with inevitable passage of generations. Silver object serves
+      as constant while human hands reveal mortality and change, no text or letters visible
+  composition:
+    cameraAngle: Close-up focusing on hands and spittoon with shallow depth of field
+    focus: Silver spittoon as central temporal anchor with hands showing age progression
+    depth: Extreme foreground emphasizes hand-object interaction, soft focus background suggests changing domestic spaces
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Luxury Above, Desperation Below"
+  setting:
+    time: "Late 1930s, evening"
+    location: "Vertical view of Chicago showing class stratification from basement to penthouse"
+    weather: "Cold winter evening with artificial lights illuminating the inequality"
+  characters:
+    - appearance: "African American families in basement and lower levels, multiple people crowded together, faces showing exhaustion and desperation"
+      clothing: "layered worn clothing for warmth, patched garments, shoes with holes, children in outgrown clothes"
+      position: "cramped in dark basement and lower floor apartments"
+      action: "struggling with basic survival, multiple families sharing inadequate space, children sleeping on floors"
+    - appearance: "60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence and control"
+      clothing: "expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably dressed conservative businessman"
+      position: "comfortable in well-lit upper floor study"
+      action: "relaxing in leather chair reading newspaper, unaware of suffering below"
+  scene:
+    mainElements: "Cross-section view of Chicago building showing extreme vertical segregation - poverty in basement and lower levels, wealth in upper floors, demonstrating how the same structure houses both exploitation and privilege"
+    details: "Basement: families sleeping on mattresses on floor, one bare lightbulb, leaking pipes, mold on walls, overcrowded conditions. Upper floors: spacious rooms with fine furniture, multiple lights, comfortable furniture, individual bedrooms, quality fixtures and fittings"
+    background: "City skyline showing similar pattern repeated across Chicago - basements and ground floors housing the poor, upper levels reserved for the wealthy, pattern of vertical economic segregation"
+    atmosphere: "Visual metaphor for how economic system literally places wealth above poverty, demonstration of how the same property generates both suffering and comfort, showing physical manifestation of class oppression"
+  composition:
+    cameraAngle: "Vertical cross-section shot revealing all levels simultaneously"
+    focus: "The stark contrast between basement poverty and upper-floor wealth in the same building"
+    depth: "Foreground shows detailed living conditions at each level, middle ground captures the human experience in each environment, background reveals this pattern across the entire city"

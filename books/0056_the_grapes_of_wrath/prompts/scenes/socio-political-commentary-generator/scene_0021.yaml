@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Puppet Theater - Society as Manipulation Performance"
+  setting:
+    time: "1930s, evening"
+    location: "Elevated observation point overlooking California agricultural valley"
+    weather: "Twilight casting dramatic shadows"
+  characters:
+    - appearance: "Multiple groups of people at different levels of society appearing as marionettes with visible strings controlling their movements."
+      clothing: "Various classes of dress from wealthy suits to worker clothes, all appearing constrained by invisible controls"
+      position: "Arranged in hierarchical levels like puppet theater stage"
+      action: "Moving in controlled patterns as if manipulated by unseen puppet masters above, actions appearing choreographed rather than freely chosen"
+  scene:
+    mainElements: "Society visualized as massive puppet theater with different classes of people performing predetermined roles under invisible control"
+    details: "Powerful allegorical image showing social control as puppet manipulation. Wealthy figures in elevated positions still controlled by higher strings. Workers below moved by different puppeteers. Middle managers as intermediary puppet handlers. Everyone dancing to choreography determined by unseen forces above social structure"
+    background: "Vast landscape showing scope of social manipulation extending beyond immediate view"
+    atmosphere: "Disturbing realization that apparent free will may be elaborate performance controlled by hidden forces"
+  composition:
+    cameraAngle: "High angle revealing puppet strings and hierarchical arrangement"
+    focus: "Revelation of invisible controls governing apparently free human actions"
+    depth: "Multiple levels from foreground workers through middle class to background wealthy, all showing strings of control extending upward"

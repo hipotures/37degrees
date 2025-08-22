@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Perfect Citizens in Perfect Order"
+  setting:
+    time: "1950, morning"
+    location: "Moscow residential district with organized morning activities"
+    weather: "Crisp winter morning with light snowfall"
+  characters:
+    - appearance: "Dozens of identical workers in matching uniforms, moving in synchronized formations"
+      clothing: "Dark blue worker overalls, matching caps with red stars, identical lunch pails"
+      position: "Marching in precise columns down wide street"
+      action: "Walking in perfect step to factories, saluting passing party officials, singing patriotic songs"
+  scene:
+    mainElements: "Perfectly straight lines of marching workers, uniformed children walking to school in formation, red banners hanging from every building, loudspeakers broadcasting instructions"
+    details: "Street swept completely clean, identical apartment buildings with matching curtains in every window, portraits of Soviet leaders in every visible window, propaganda slogans painted on walls, police directing pedestrian traffic with whistles"
+    background: "Factory smokestacks releasing white steam in perfect vertical columns, organized rows of identical buildings stretching to horizon"
+    atmosphere: "Mechanized harmony and perfect social order, everything choreographed and controlled, sense of collective purpose overwhelming individual identity"
+  composition:
+    cameraAngle: "High angle shot emphasizing geometric patterns"
+    focus: "Rivers of identical workers flowing through organized urban landscape"
+    depth: "Foreground shows individual faces in formation, middle ground reveals systematic movement patterns, background demonstrates total urban planning"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Manufactured Childhood - Learning Conformity"
+  setting:
+    time: "1930s, afternoon"
+    location: "Company-sponsored school for migrant children in California Central Valley"
+    weather: "Sterile institutional lighting"
+  characters:
+    - appearance: "Children of various ages with faces showing loss of natural curiosity, sitting in rigid posture with hands folded identically."
+      clothing: "Identical school uniforms provided by agricultural company, hair cut in standardized styles"
+      position: "Sitting in perfect rows facing forward, maintaining rigid posture"
+      action: "Reciting company slogans in unison, performing identical hand gestures, learning to suppress individual thought"
+  scene:
+    mainElements: "Classroom with corporate propaganda posters, children learning company loyalty rather than academic subjects, teacher enforcing conformity rather than encouraging learning"
+    details: "Educational system designed to create compliant workers rather than thinking individuals. Children memorize corporate slogans instead of learning critical thinking. Posters promote company loyalty and worker submission. Individual questions discouraged. Standardized responses required. Natural childhood curiosity systematically suppressed"
+    background: "Institutional classroom environment designed to process children into future compliant workers"
+    atmosphere: "Artificial suppression of natural childhood energy and curiosity, sounds of enforced repetition, absence of spontaneous laughter or discovery"
+  composition:
+    cameraAngle: "Eye level from child's perspective"
+    focus: "Loss of individual childhood identity through institutional programming"
+    depth: "Children in foreground show beginning of conformity process, teacher in middle ground enforces compliance, corporate imagery in background promotes future submission"

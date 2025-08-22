@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dresden Ballroom - Multiple Historical Eras Overlaid"
+  setting:
+    time: "1700s through 1970s showing ballroom across three centuries"
+    location: "Historic Dresden ballroom showing architectural and social evolution"
+    weather: "Interior lighting evolution from candles to gas to electric illumination"
+  characters:
+    - appearance: "Multiple generations of dancers from different historical periods appearing as translucent overlays"
+      clothing: "18th century formal court dress, 19th century waltzing attire, 1920s party fashion, 1940s wartime formal wear, 1960s modern evening dress"
+      position: "Dancers from different eras occupying same ballroom space simultaneously in ghostly temporal layers"
+      action: "Dancing across centuries in same space, social customs evolving, music and movement styles changing, no text or letters visible"
+  scene:
+    mainElements: "Grand ballroom showing architectural evolution from baroque splendor to war damage to modern reconstruction, crystal chandeliers surviving bombardment and restoration"
+    details: "Dance floor showing wear patterns from centuries of use, wall decorations changing with historical periods, musical instruments evolving from harpsichord to orchestra to modern sound systems, lighting progressing through technological eras"
+    background: "Windows showing Dresden skyline changes across centuries, view changing from royal city to industrial center to war destruction to modern rebuilding"
+    atmosphere: "Eternal human celebration transcending historical trauma, music and dance as cultural continuity through war and peace, social joy persisting across political upheavals"
+  composition:
+    cameraAngle: "Wide ballroom shot showing full dance floor with temporal overlay effects"
+    focus: "Multiple dancing couples from different eras sharing same space in translucent layers"
+    depth: "Foreground shows detailed period costume and dance styles, middle ground shows architectural changes, background shows Dresden historical transformation"

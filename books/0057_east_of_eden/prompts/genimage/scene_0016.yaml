@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1902, single moment extended infinitely while background time flows normally, afternoon light
+    location: Master bedroom of Trask farmhouse in Salinas Valley during Cathy's departure
+    weather: Bright California afternoon with strong sunlight streaming through bedroom windows
+  characters:
+  - appearance: Cathy Ames visible in frozen moment - small woman in her 20s-30s with child-like figure, golden blonde hair,
+      hazel eyes with drooping lids giving mysterious sleepy look, heart-shaped face with high cheekbones
+    clothing: Dark fitted dress with high collar and long sleeves in Victorian style, small neat boots, simple jewelry
+    position: Frozen in shooting stance, pistol extended toward Adam, face showing cold determination
+    action: Trigger pulled and muzzle flash suspended in time, while motion blur of background figures continues normal activities
+  - appearance: Adam Trask visible beginning to fall from gunshot, middle-aged man in his 40s with gentle, kind face and thin
+      build, expressive eyes showing shock and pain
+    clothing: Simple white cotton shirt with rolled sleeves, dark brown wool vest, durable canvas work pants held by suspenders
+    position: Beginning to fall backward from bullet impact, suspended between standing and falling
+    action: Reaction to gunshot frozen while life continues around the central drama
+  scene:
+    mainElements: Bedroom frozen in moment of violence while background activity continues - muzzle flash suspended like crystallized
+      lightning, bullet path visible as streak of light, Adam beginning fall while babies cry in real time, Lee entering room
+      in normal motion blur
+    details: Gunpowder smoke hanging motionless in air, window curtains moving normally in breeze while indoor drama suspended,
+      dust motes floating naturally while human figures locked in violent moment, clock ticking normally while life hangs
+      in balance
+    background: Household continuing normal rhythms outside bedroom - Lee preparing meal in kitchen, babies crying for attention,
+      birds singing outside windows, normal life proceeding while critical moment frozen
+    atmosphere: Violence suspended in crystal clarity while life's continuity emphasizes tragedy's interruption, time distorted
+      to show how single moments change everything forever, no text or letters visible
+  composition:
+    cameraAngle: Bedroom interior capturing frozen violent moment with motion blur background activity
+    focus: Cathy's extended pistol and muzzle flash as central frozen elements
+    depth: Foreground shows frozen violence details, middle ground captures suspended figures, background reveals continuing
+      household life
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

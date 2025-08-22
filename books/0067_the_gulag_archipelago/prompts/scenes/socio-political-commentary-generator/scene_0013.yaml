@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mass Identity Erasure"
+  setting:
+    time: "1951, evening"
+    location: "Public gathering showing systematic elimination of individual differences"
+    weather: "Uniform artificial lighting eliminating natural shadows"
+  characters:
+    - appearance: "Hundreds of people dressed identically, faces showing loss of individual character"
+      clothing: "Identical gray uniforms, same hairstyles, same posture, same expressions"
+      position: "Arranged in perfect geometric formations, no individual variation visible"
+      action: "Moving in synchronized patterns, speaking in unison, performing identical gestures"
+  scene:
+    mainElements: "Sea of identical faces in perfect formation, individual features blurred into mass uniformity, geometric patterns created by human bodies"
+    details: "No distinguishing features visible between individuals, synchronized breathing creating wave-like movement, identical badges and numbers on clothing, mechanical precision in group movements"
+    background: "Uniformity extending beyond visible horizon, architectural backdrop emphasizing collective rather than individual space"
+    atmosphere: "Complete loss of individual identity, mass transformation into collective entity, erasure of personal characteristics and uniqueness"
+  composition:
+    cameraAngle: "Wide shots emphasizing scale of uniformity, close-ups showing loss of individual features"
+    focus: "Transformation of individuals into undifferentiated mass"
+    depth: "Foreground shows blurred individual faces, middle ground reveals mass formation, background demonstrates total conformity"

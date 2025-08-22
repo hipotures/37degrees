@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Rat Hunt - Opening Metaphor"
+  setting:
+    time: "Late 1930s, early winter morning"
+    location: "single cramped room in deteriorating tenement building on Chicago South Side Black Belt, late 1930s winter"
+    weather: "Cold winter morning before sunrise"
+  characters:
+    - appearance: "20-year-old African American man with average height and lean build, dark skin, short black hair cut close to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw"
+      clothing: "worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays and browns, old scuffed shoes"
+      position: "crouched in hunting position in cramped room"
+      action: "violently pursuing large black rat with iron skillet, demonstrating explosive rage and desperation"
+    - appearance: "young African American woman around 20, physically and mentally exhausted by hard life, signs of weariness and worry on her face, average build"
+      clothing: "simple working clothes - plain dress or skirt and blouse, cheap clean but worn garments in practical colors"
+      position: "pressed against wall in fear"
+      action: "screaming and cowering from both the rat and the violence, representing terror of trapped population"
+  scene:
+    mainElements: "Cramped tenement room where family hunts dangerous rat, serving as central metaphor for how urban environment creates both predator and prey from same oppressed population"
+    details: "large heavy black cast iron frying pan, well-used kitchen implement, substantial weight making it effective weapon, represents transformation of domestic tool into instrument of violence. Large aggressive black rat fighting for survival in same desperate conditions as human residents, both trapped in same deteriorating environment, violence erupting from impossible living conditions"
+    background: "dirty brick building with chipped facade, damaged stairs, one rectangular room serving as bedroom, kitchen, and living room for four people. Peeling plaster walls, worn wooden floors without carpet, overcrowded conditions forcing desperate measures"
+    atmosphere: "Explosive violence born from systemic oppression, demonstration that trapped populations turn violence inward, metaphor for how environment creates desperation that leads to destructive behavior, preview of larger tragedy to come"
+  composition:
+    cameraAngle: "Close-up shot capturing the brutal violence and desperation in confined space"
+    focus: "The rat hunt as metaphor for how oppressive systems create internal violence and self-destruction"
+    depth: "Foreground shows the violent confrontation, middle ground captures the terrified family, background reveals the oppressive environment that creates such desperation"

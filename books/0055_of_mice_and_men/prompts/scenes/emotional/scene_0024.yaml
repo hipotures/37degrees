@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Different expressions on familiar faces in new formation"
+  setting:
+    time: "1930s, afternoon work time with workers in field"
+    location: "Ranch work area with workers arranged in new patterns"
+    weather: "Clear working day with normal sunlight"
+  characters:
+    - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+      clothing: "Blue denim work clothes, worn leather boots"
+      position: "Working alongside others but no longer isolated"
+      action: "Face showing quiet dignity rather than desperation, movements more purposeful, accepting help from others without shame"
+    - appearance: "Black man middle-aged, lean face lined with deep black wrinkles, thin pain-tightened lips lighter than his face, deep-set eyes that glitter with intensity, crooked spine from horse kick"
+      clothing: "Work clothes, boots, spectacles with gold rims hanging on nail"
+      position: "Working in proximity to others, barriers slightly lowered"
+      action: "Still maintaining distance but posture less defensive, occasional eye contact with others, small gestures of acknowledgment"
+    - appearance: "Powerful thick-bodied man, heavy-set build"
+      clothing: "Standard ranch worker denim and boots"
+      position: "Working with less aggressive energy than before"
+      action: "Movements more thoughtful, face showing traces of regret or reflection, less domineering presence"
+  scene:
+    mainElements: "Same ranch work environment but with workers distributed in more considerate patterns, traditional hierarchy softened"
+    details: "Work tools shared more freely, conversations more subdued but genuine, sense of community healing through shared labor"
+    background: "Ranch buildings unchanged but feeling less institutional, more human scale, animals calm and undisturbed"
+    atmosphere: "Environmental healing or permanent change visible, group in new formation suggesting learned lessons, different expressions showing internal growth"
+  composition:
+    cameraAngle: "Wide shot showing new group dynamics and spatial relationships"
+    focus: "The changed group formation and more considerate interaction patterns"
+    depth: "Foreground shows individual changes in expression, middle ground captures new group dynamics, background suggests healing environment"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Jurij's Heart Attack - Final Moment Stretched"
+  setting:
+    time: "Summer 1929, hot afternoon in Moscow - death moment suspended"
+    location: "Interior of crowded Moscow tramcar during suffocating summer heat"
+    weather: "Oppressive heat creating stifling atmosphere inside public transport"
+  characters:
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+    - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+      clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+      posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+      action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+  scene:
+    mainElements: "Jurij's final moment suspended in time as he sees Lara through tram window while suffering fatal heart attack"
+    details: "Temporal distortion showing Jurij frozen mid-collapse inside packed tramcar while normal time continues around him. His face contorted with recognition and physical pain, hand pressed to chest, other passengers continuing their journeys unaware. Through window Lara walks on sidewalk in real time, free and alive in open space. Visual path connects his dying eyes to her living figure, representing final spiritual connection transcending physical death. Around frozen Jurij, anonymous Soviet citizens maintain normal temporal flow, no text or letters visible"
+    background: "Hot Moscow street scene with normal pedestrian traffic and urban life continuing"
+    atmosphere: "Individual death occurring within indifferent collective existence, love transcending mortality in final recognition"
+  composition:
+    cameraAngle: "Interior tram view showing Jurij's suspended state and Lara's movement outside"
+    focus: "Visual line connecting Jurij's eyes to Lara through window glass"
+    depth: "Foreground: collapsing Jurij in tram; middle ground: window barrier; background: Lara on sidewalk"

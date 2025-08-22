@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, afternoon after thunderstorm has passed leaving everything washed clean
+    location: Railway station platform connecting British and Indian areas of Chandrapore
+    weather: Crystal clear air after rain, everything gleaming with water, fresh cool atmosphere
+  characters: No characters present in this scene
+  scene:
+    mainElements: Railway platform with covered waiting areas, tracks stretching toward horizon, mix of British efficiency
+      and Indian decoration
+    details: Rain-washed platform stones reflecting sky like mirrors, water drops hanging from station roof creating prisms,
+      puddles on tracks reflecting telegraph wires, steam from wet platform planks in returning sun, fresh flowers in station
+      garden intensely colored after rain, brass fittings gleaming, red brick station building walls darkened by rain
+    background: Washed landscape stretching toward Marabar Hills, now clearly visible in clean air
+    atmosphere: Sense of world reborn through rain, clarity and freshness replacing dust and heat, optimistic feeling of new
+      beginnings
+  composition:
+    cameraAngle: Along platform showing gleaming tracks and washed surfaces extending to horizon
+    focus: Reflective qualities of rain-washed surfaces creating mirror effects
+    depth: Foreground shows platform details and puddles, middle ground captures track perspective, background displays clear
+      distant landscape
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Clock Without Time"
+  setting:
+    time: "1840s noon, but time seems meaningless"
+    location: "Main deck of three-masted American whaling ship, mid-ocean"
+    weather: "Unchanging overcast sky"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Ship's chronometer sits open on deck table, its brass case gleaming, but the clock face shows no hands while the mechanism still ticks audibly"
+    details: "The precision timepiece continues its mechanical rhythm, each tick echoing across the deck, but the hands have vanished leaving only numbered hours around empty face. Other time-marking devices scattered nearby - sundial casting shadow, hourglass with sand suspended motionless mid-fall, ship's bell hanging silent despite scheduled times for watch changes. The chronometer's steady ticking becomes hypnotic, measuring moments that cannot be counted or recorded, suggesting time continuing despite human inability to track it, no text or letters visible"
+    background: "Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace amidships"
+    atmosphere: "The handless clock represents eternal present moment and the irrelevance of measured time when facing timeless forces of nature and obsession"
+  composition:
+    cameraAngle: "Close-up on open chronometer with empty clock face"
+    focus: "Brass chronometer with missing hands as central impossible object"
+    depth: "Timepiece in sharp foreground, other time devices in middle distance, unchanging sky providing timeless background"

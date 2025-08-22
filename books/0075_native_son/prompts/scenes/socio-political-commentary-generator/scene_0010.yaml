@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silenced Voices and Empty Shelves"
+  setting:
+    time: "Late 1930s, afternoon"
+    location: "Public library in Chicago South Side African American neighborhood"
+    weather: "Overcast winter day with limited natural light"
+  characters:
+    - appearance: "20-year-old African American man with average height and lean build, dark skin, short black hair cut close to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw"
+      clothing: "worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays and browns, old scuffed shoes"
+      position: "standing before nearly empty bookshelves"
+      action: "searching desperately for books to read, finding mostly empty shelves and outdated materials"
+    - appearance: "elderly white librarian with stern disapproving expression, thin build, graying hair pulled back severely"
+      clothing: "conservative dark dress, wire-rimmed spectacles, professional but cold appearance"
+      position: "seated behind circulation desk watching suspiciously"
+      action: "monitoring the young man's movements with clear hostility and mistrust"
+  scene:
+    mainElements: "Underfunded public library with mostly empty bookshelves, inadequate lighting, and atmosphere of educational neglect, demonstrating systematic denial of knowledge and learning opportunities"
+    details: "Long rows of bookshelves with significant gaps where books should be, outdated materials from decades past, broken furniture not replaced, poor lighting making reading difficult, 'RESTRICTED' signs on many sections, few chairs available for study, heating barely functioning in winter cold"
+    background: "Windows showing the impoverished neighborhood outside, contrast with knowledge and education being deliberately withheld, other African American residents also finding limited resources"
+    atmosphere: "Systematic suppression of education and intellectual development, demonstration of how institutions supposedly serving the public actually maintain inequality through resource denial, environmental message that learning is not valued for this community"
+  composition:
+    cameraAngle: "Medium shot down the length of nearly empty bookshelves"
+    focus: "The contrast between the promise of education and the reality of systematic neglect and control of information"
+    depth: "Foreground shows the sparse book collection, middle ground captures the frustrated seeker of knowledge, background reveals the institutional neglect extending throughout the space"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Minister's Midnight Vigil"
+  setting:
+    time: "1648 midnight in empty church"
+    location: "Dark Puritan meeting house with simple wooden pews"
+    weather: "Deep night with single candle flame"
+  characters:
+    - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+      clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+      position: "Position varies by scene context"
+      action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+  scene:
+    mainElements: "Minister kneeling alone before altar with hand pressed to heart in anguish"
+    details: "Symbolic scene depicting the minister's midnight vigil with detailed symbolic elements emphasizing visual metaphors of religious sanctuary offering no comfort to guilty conscience. All elements contribute to overall symbolic narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact."
+    background: "Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social elements"
+    atmosphere: "Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no text or letters visible"
+  composition:
+    cameraAngle: "Angle chosen to emphasize symbolic elements and character relationships"
+    focus: "Religious sanctuary offering no comfort to guilty conscience"
+    depth: "Foreground, middle, and background elements layered to create symbolic meaning and visual depth"

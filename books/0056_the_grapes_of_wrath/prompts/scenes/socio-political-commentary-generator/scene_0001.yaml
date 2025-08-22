@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Official Promise - Handbill of False Hope"
+  setting:
+    time: "1930s, bright afternoon"
+    location: "Federal government-run camp for migrant workers in Kern County California, officially known as Arvin Federal Camp"
+    weather: "Clear sunny day with warm light"
+  characters:
+    - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+      clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+      position: "Gathered in family clusters around belongings or campfires"
+      action: "Examining yellow handbills, reading aloud promises of work and good wages in California, faces showing desperate hope"
+  scene:
+    mainElements: "Large official bulletin board with pristine government posters showing idealized farm workers in clean clothes harvesting abundant crops. Below it, migrants huddle reading contradictory reality"
+    details: "Yellow handbills scattered on ground promise 'Pickers Wanted - Good Wages - Steady Work' while actual workers nearby show signs of malnutrition and exhaustion. Official posters show smiling workers in propaganda style contrasted with real hollow-eyed faces. Clean government buildings loom behind makeshift migrant shelters"
+    background: "Orderly rows of wooden platforms for tents, clean bathroom facilities with running water, community buildings including library and recreation hall"
+    atmosphere: "Deceptive optimism of official promises contrasting with underlying desperation, sounds of hopeful discussion mixed with undercurrent of doubt and worry"
+  composition:
+    cameraAngle: "Medium shot at eye level"
+    focus: "Contrast between official propaganda posters and reality of desperate migrants below"
+    depth: "Foreground shows migrants reading handbills, middle ground has bulletin board with pristine posters, background shows government camp buildings representing false promise of order"

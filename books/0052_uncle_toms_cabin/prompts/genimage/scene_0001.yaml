@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1851, late afternoon
+    location: Elegant drawing room of Kentucky plantation house representing the civilized face of American slavery
+    weather: Mild winter day with grey overcast sky
+  characters:
+  - appearance: Middle-aged gentleman in his 50s with refined appearance of Southern planter
+    clothing: Well-tailored dark suit with vest and pocket watch, polished boots
+    position: Seated comfortably in leather armchair by fireplace
+    action: Examining financial documents with concerned expression while sipping wine
+  - appearance: Short stocky man in 40s-50s, thick common features, coarse appearance of professional slave trader
+    clothing: Flashy many-colored vest, blue neckerchief with cheerful yellow spots, multiple rings on large vulgar hands,
+      heavy gold watch chain
+    position: Seated comfortably while conducting business, or examining enslaved people like merchandise
+    action: Counting money, examining human property, or negotiating sales with casual indifference
+  scene:
+    mainElements: Refined drawing room with mahogany furniture, crystal decanters, warm fireplace, heavy drapes, Persian rug
+    details: Two wine glasses on polished table, legal documents spread between the men, debt notices visible among papers,
+      family portraits on walls overlooking the transaction, sound of children playing somewhere in the house
+    background: Tall windows showing winter landscape of well-maintained plantation grounds, glimpse of slave quarters in
+      distance
+    atmosphere: Surface civility masking brutal financial transaction, contradiction between genteel surroundings and commodity
+      being discussed
+  composition:
+    cameraAngle: Medium shot from slightly elevated angle showing both men and documents
+    focus: The contrast between the refined gentleman and the vulgar trader, with documents as bridge between them
+    depth: Foreground shows the negotiation table, middle ground features the two contrasting figures, background reveals
+      the maintained facade of plantation life
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

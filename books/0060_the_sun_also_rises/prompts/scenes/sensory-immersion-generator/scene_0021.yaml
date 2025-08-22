@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fireplace with crackling logs and steaming cocoa"
+  setting:
+    time: "1924, winter evening"
+    location: "Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp"
+    weather: "Cold winter night with frost forming on windows"
+  characters:
+    - appearance: "American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely betrays emotion"
+      clothing: "Thick wool sweater and comfortable trousers, wool socks, relaxed evening attire"
+      position: "Seated in armchair near fireplace, ceramic mug in hands"
+      action: "Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail"
+  scene:
+    mainElements: "Stone fireplace with logs creating crackling sparks, ceramic mug releasing chocolate-scented steam, pine branches nearby releasing resinous fragrance, warm glow reflecting on walls"
+    details: "Fireplace logs showing red ember patterns with occasional sparks flying upward, steam from hot cocoa creating delicate spirals in warm air, pine branches on mantle releasing visible resin droplets, warm light creating golden atmosphere throughout room, flames dancing with rhythmic patterns suggesting comforting sounds, heat shimmer rising from fireplace creating cozy atmosphere, no text or letters visible"
+    background: "Solitary refuge with warm yellow lamplight creating deep shadows, sense of masculine simplicity and emotional restraint, refuge from social complexities outside"
+    atmosphere: "Complete sensory comfort synthesis - visual warmth, aromatic steam patterns, tactile heat effects, synaesthetic blend of multiple comfort elements creating perfect refuge"
+  composition:
+    cameraAngle: "Medium shot emphasizing fireplace warmth and steam patterns"
+    focus: "Fire patterns, steam from cocoa, and aromatic pine elements"
+    depth: "Foreground: detailed fire and steam effects, midground: comfortable figure in warm setting, background: apartment transformed by firelight warmth"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late monsoon to winter 1947-1948, seasonal transition in post-independence period
+    location: Colonial residential compound in Bombay during 1947 independence. Four identical three-story villas with red
+      sloping roofs and ivory towers. British architecture imposed on Indian landscape
+    weather: Transition from monsoon-fed lushness to dry winter clarity
+  characters: No characters present in this scene
+  scene:
+    mainElements: Lush gardens with bougainvillea, blue swimming pools with goldfish, cactus rockeries, tamarind trees. Gardens
+      showing complete autumn-to-winter transformation. Autumn abundance displays heavy fruit on tamarind trees, blooming
+      bougainvillea cascades, and goldfish active in pools. Winter scene reveals bare branches, dormant gardens, and still
+      pool surfaces
+    details: Bougainvillea petals carpet garden paths during autumn peak then disappear leaving thorny stems. Swimming pools
+      reflect active goldfish in warm months then show sluggish or hidden fish in cooler period. Tamarind pods hang heavy
+      before falling and being cleared away. Garden maintenance changes from active cultivation to dormant season care
+    background: Colonial villas maintain architectural constancy while garden activity cycles naturally. Servant quarters
+      show seasonal work pattern changes. Bombay cityscape beyond gardens reflects post-independence social transitions
+    atmosphere: Natural abundance giving way to restful dormancy within artificial colonial environment. Garden cycle continues
+      despite political upheaval, representing nature's indifference to human historical drama, no text or letters visible
+  composition:
+    cameraAngle: Medium wide shot capturing garden foreground with villa architecture
+    focus: Garden abundance to dormancy transformation as main visual narrative
+    depth: Detailed flora changes in foreground, swimming pool and paths in middle ground, villa backdrop provides architectural
+      constancy
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: August 1628, late evening in military command tent
+    location: Command tent at La Rochelle siege where final recognition transforms provincial youth into royal officer
+    weather: Clear evening with warm candlelight creating ceremonial atmosphere
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Holding royal commission document, hand poised to write name in empty space
+    action: Completing transformation from provincial youth to royal officer by writing name on commission, fulfilling destiny
+      through royal recognition
+  scene:
+    mainElements: Royal commission document with ornate border creating frame, empty space waiting for name to complete transformation,
+      ceremonial atmosphere of military promotion
+    details: Elaborate decorative border on royal commission creating symbolic frame, blank space where name will complete
+      journey, royal seals and heraldic symbols, quill pen ready to write destiny, candlelight creating warm ceremonial glow
+    background: Military command tent with campaign furniture, symbols of royal authority and Cardinal's power, glimpse of
+      successful siege beyond tent walls
+    atmosphere: Ceremonial completion of heroic journey, empty frame symbolizing unfulfilled potential becoming reality, transformation
+      from provincial youth to recognized hero
+  composition:
+    cameraAngle: Close-up on document with ornate framing elements, emphasizing symbolic completion of circular journey from
+      obscurity to recognition
+    focus: Sharp focus on empty space in document frame waiting to be filled, ornate border prominent as symbolic framing
+      element
+    depth: 'Foreground: royal commission document with decorative frame, middle ground: hand with quill completing destiny,
+      background: symbols of authority and achievement, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

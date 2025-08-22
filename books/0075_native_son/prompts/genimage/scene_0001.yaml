@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, late winter afternoon
+    location: Wealthy white Hyde Park district of Chicago, wide tree-lined streets
+    weather: Cold clear winter day with pale sunlight
+  characters:
+  - appearance: 60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence
+      and control
+    clothing: expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably
+      dressed conservative businessman
+    position: standing prominently in foreground on sidewalk
+    action: walking with confident stride past his impressive mansion, displaying ownership and control
+  scene:
+    mainElements: Large imposing mansion in wealthy white Hyde Park district, substantial stone or dark brick house surrounded
+      by iron fence, manicured grounds and clean sidewalks representing elite prosperity
+    details: Iron fence symbolically separating wealth from outside world, perfectly maintained landscaping despite winter,
+      expensive cars parked along street, gas lamps providing warm light, architectural details showing permanence and established
+      power, other similar mansions visible creating impression of unified elite district
+    background: Row of other impressive mansions belonging to Chicago's white elite, wide clean streets with proper infrastructure
+      showing municipal investment in wealthy areas
+    atmosphere: Display of established power and inherited privilege, sense of order and control maintained by wealth, demonstration
+      of who truly owns and controls the city
+  composition:
+    cameraAngle: Wide establishing shot from street level
+    focus: The mansion and its owner as symbols of white economic dominance
+    depth: Foreground shows the affluent street, middle ground features the mansion and owner, background reveals the entire
+      wealthy district as system of privilege
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

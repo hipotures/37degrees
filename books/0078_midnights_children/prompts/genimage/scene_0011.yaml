@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1915, 1947, 1978 - three medical examination moments
+    location: Medical examination rooms showing evolution from Kashmir clinic to Bombay hospital to Delhi emergency setting
+    weather: Interior medical lighting consistent across decades
+  characters:
+  - appearance: Tall man with enormous prominent nose comparable to trunk of god Ganesha. Piercing blue Kashmir eyes. In youth
+      straight-backed and strong. In old age wrinkled with skeleton crumbling to dust within weathered skin. Age ranges from
+      25 to 75 years depending on scene period
+    clothing: 'Young doctor: Western suits and medical attire. Elderly: Traditional loose Indian garments in white or cream'
+    position: Standing upright with medical authority or kneeling in prayer
+    action: Examining patients through perforated sheet or striking frozen ground with nose during prayer
+  scene:
+    mainElements: Three generations of medical practitioners in identical examination poses across sixty-three year span.
+      Young Aadam Aziz examines patient through perforated sheet in Kashmir 1915. Middle-aged doctor performs modern examination
+      in independence-era Bombay 1947. Elderly medical worker tends Emergency period injuries in Delhi 1978
+    details: Medical instruments evolve from basic colonial-era tools to modern stethoscopes to emergency field supplies.
+      Patient clothing changes from traditional Kashmir garments to Bombay urban dress to Delhi working-class attire. Examination
+      tables progress from simple wooden surface to hospital bed to makeshift Emergency treatment space
+    background: Medical environments transform from private Kashmir practice to institutional Bombay hospital to improvised
+      Delhi aid station. Wall decorations shift from British medical certificates to Indian independence symbols to Emergency
+      period austere functionality
+    atmosphere: Continuity of healing mission despite changing political circumstances and medical advancement. Dedication
+      to patient care transcending generational and historical boundaries, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing examination relationship between healer and patient
+    focus: Hands and medical instruments as consistent elements across time periods
+    depth: Patient-doctor interaction in foreground, medical equipment in middle ground, institutional context in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

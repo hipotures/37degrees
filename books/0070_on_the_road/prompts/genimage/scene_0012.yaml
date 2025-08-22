@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1948 late spring morning
+    location: roadside wildflower meadow in Iowa with tall grass and scattered wildflowers, highway visible in distance
+    weather: warm sunny morning with light breeze
+  characters:
+  - appearance: 21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns,
+      bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile
+    clothing: white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just
+      shorts or shirtless revealing his physical nature
+    position: walking through tall wildflowers
+    action: brushing through flower heads while pollen clouds drift around him and bees hover among blossoms
+  scene:
+    mainElements: golden pollen clouds visible in sunlight as figure moves through flowers, multiple bees moving between blossoms
+      in focused patterns, flower heads heavy with visible pollen deposits, gentle breeze carrying pollen particles in drifting
+      patterns
+    details: Pollen bursting from flower heads in small golden clouds with each brush of clothing, bees moving in purposeful
+      flight patterns between specific flowers, pollen accumulating as fine yellow dust on clothing and skin, flower petals
+      releasing visible pollen when touched, grass seed heads releasing their own clouds of fine particles, bees' legs showing
+      collected pollen in bright yellow clumps, pollen particles caught in morning sunbeams creating golden glitter effect
+    background: Iowa prairie extending to distant hills, wildflowers in various colors scattered through tall grass, distant
+      highway with occasional passing cars, farm buildings visible on horizon
+    atmosphere: warm golden morning light, gentle breeze moving grass and flowers, peaceful rural quiet broken only by bee
+      buzzing and distant highway sounds
+  composition:
+    cameraAngle: medium shot showing figure among flowers with pollen clouds
+    focus: visible pollen and bee activity as indicators of flower fragrance and natural abundance
+    depth: pollen clouds and bees in sharp foreground, figure moving through flowers in middle ground, prairie landscape extending
+      to distant horizon
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

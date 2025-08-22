@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Clean Streets of Paradise - Sanitized Prosperity"
+  setting:
+    time: "1930s, midday"
+    location: "Affluent residential district in California agricultural town during Great Depression"
+    weather: "Bright pristine sunlight"
+  characters:
+    - appearance: "Well-dressed wealthy residents with clean faces, healthy complexions, confident postures showing comfort and security."
+      clothing: "Pressed suits, clean dresses, polished shoes, fashionable hats, clothing showing prosperity and social status"
+      position: "Walking leisurely on manicured sidewalks, standing in groups discussing business"
+      action: "Strolling with satisfied expressions, shaking hands over business deals, pointing with pride at their clean orderly community"
+  scene:
+    mainElements: "Perfectly maintained suburban streets with manicured lawns, white picket fences, new automobiles parked in driveways, not a speck of dust or disorder visible"
+    details: "Idealized American dream neighborhood with spotless streets swept clean of any evidence of poverty. Pristine white houses with fresh paint, geometric garden layouts, wealthy residents in summer clothes discussing profits. Modern cars gleaming in driveways. Everything appears artificially perfect and sanitized"
+    background: "Tree-lined streets extending into perfectly ordered residential paradise, mountains visible in clean distance"
+    atmosphere: "Artificial perfection hiding underlying inequality, sounds of polite conversation and lawn mowers, scent of fresh paint and privilege masking distant suffering"
+  composition:
+    cameraAngle: "Eye-level perspective from sidewalk"
+    focus: "Contrast between artificial perfection and unnatural cleanliness that seems almost sterile"
+    depth: "Foreground shows wealthy residents, middle ground reveals perfect houses, background hints at vast agricultural machinery that creates this wealth"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Control Through Communication"
+  setting:
+    time: "1950, morning"
+    location: "City center with public announcement systems and information control"
+    weather: "Bright morning with loudspeakers creating audio landscape"
+  characters:
+    - appearance: "Citizens of various ages stopping to listen to announcements, expressions showing mixture of attention and resignation"
+      clothing: "Heavy winter coats, fur hats, work clothes, all appearing somewhat worn but orderly"
+      position: "Gathered around loudspeakers, reading official notices posted on walls"
+      action: "Listening attentively to broadcast announcements, copying information from public notices, discussing news in hushed tones"
+  scene:
+    mainElements: "Large speakers mounted on every street corner broadcasting government messages, official notice boards covered with regulations and announcements, uniformed officials posting new directives"
+    details: "Citizens gathering around information sources without questioning content, newspapers with identical headlines at every kiosk, radio broadcasts audible from apartment windows, propaganda posters being replaced with updated versions"
+    background: "Communication infrastructure extending throughout city, transmission towers on government buildings, organized distribution of information"
+    atmosphere: "Information monopoly creating uniform understanding, citizens dependent on official sources, subtle pressure to accept all messages"
+  composition:
+    cameraAngle: "Wide shot showing information distribution network"
+    focus: "Citizens receiving and processing official communications"
+    depth: "Foreground shows individual responses to information, middle ground reveals distribution system, background demonstrates communication control"

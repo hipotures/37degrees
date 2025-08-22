@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sealing Secrets - The Letter as Physical Object"  
+  setting:
+    time: "1909, dawn"
+    location: "Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton fields"
+    weather: "Morning light filtering through window"
+  characters:
+    - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+      clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+      position: "Kneeling beside wooden box under bed"
+      action: "Carefully folding letter and placing it with other papers in makeshift hiding place"
+  scene:
+    mainElements: "Wooden floorboards with loose plank revealing hiding space, small collection of precious items, morning light creating stark contrasts"
+    details: "Rough-hewn wooden box containing few personal treasures, folded brown papers with writing, small tin with pencil stub, worn family photograph. Hands moving with reverent care, treating letters as sacred objects"
+    background: "Simple bedroom with single bed, cracked walls, early morning sunlight streaming through small window creating geometric patterns"
+    atmosphere: "Secrecy and preservation, letters becoming lifeline and legacy, physical act of safeguarding voice and truth for future"
+  composition:
+    cameraAngle: "Low angle looking up from hiding place, emphasizing secrecy"
+    focus: "Hands protecting precious written words, physical preservation of voice"
+    depth: "Foreground: hiding place and letters, middle: protective hands, background: modest room"

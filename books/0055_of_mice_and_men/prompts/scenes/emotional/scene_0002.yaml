@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Warm companionship around evening campfire"
+  setting:
+    time: "1930s, evening golden hour"
+    location: "Same secluded bend of Salinas River, campfire glowing beneath polished sycamore branch"
+    weather: "Clear warm evening with gentle breeze"
+  characters:
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Sitting relaxed on smooth sycamore branch, leaning forward toward fire"
+      action: "Speaking quietly while gazing into flames, hands gesturing gently to emphasize words"
+    - appearance: "Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build like a bull, huge hands"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's"
+      position: "Sitting on ground near fire, massive frame hunched forward attentively"
+      action: "Listening with childlike wonder and joy, face lit by firelight showing simple contentment"
+  scene:
+    mainElements: "Crackling campfire with orange flames dancing, bedrolls spread nearby, river water reflecting firelight in ripples"
+    details: "Smoke curling up through branches, coffee pot resting on stones beside fire, worn path disappearing into darkness beyond firelight circle, shadows playing on tree trunks"
+    background: "Dark silhouettes of willows against star-filled sky, distant sound of night birds and water"
+    atmosphere: "Intimate brotherhood feeling, warmth and security within fire's glow, sense of shared dreams and mutual care despite harsh world beyond"
+  composition:
+    cameraAngle: "Medium shot at fire level capturing both figures"
+    focus: "The emotional connection between the two men illuminated by firelight"
+    depth: "Foreground shows dancing flames and intimate space, middle ground captures human warmth, background fades to mysterious darkness"

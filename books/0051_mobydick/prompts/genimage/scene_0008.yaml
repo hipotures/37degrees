@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1840s afternoon, stormy skies
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Approaching storm with heavy clouds
+  characters:
+  - appearance: Lean man of 30 years, tall and spare build, clean tight skin, serious angular face reflecting Quaker heritage
+    clothing: Simple practical officer's attire in muted gray and blue tones, functional wool garments reflecting Quaker plainness
+    position: Standing at attention with officer's bearing, hands clasped behind back in military posture
+    action: Observing crew with responsible watchfulness, expression showing moral conflict between duty and conscience
+  scene:
+    mainElements: Small black wooden idol carved in primitive style, worn smooth by handling, object of Queequeg's daily prayers
+      and offerings now being examined by curious sailors in context of Christian ship
+    details: The wooden god sits on a barrel surrounded by foreign objects - a Bible, a crucifix, ship's papers, and nautical
+      instruments. The idol's dark wood contrasts sharply with the bright brass fittings and white rope nearby. Storm clouds
+      gathering overhead cast shifting shadows that seem to animate the carved figure. The juxtaposition reveals how sacred
+      objects change meaning when removed from their spiritual context, becoming curiosities rather than vessels of faith,
+      no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: The transformation of sacred to secular shows how context changes meaning, suggesting the difficulty of maintaining
+      spiritual truth in foreign environments
+  composition:
+    cameraAngle: Low angle looking up at idol surrounded by contrasting objects
+    focus: Dark wooden idol as central element among bright metal and paper items
+    depth: Idol and surrounding objects in foreground, questioning faces in middle distance, storm clouds building in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

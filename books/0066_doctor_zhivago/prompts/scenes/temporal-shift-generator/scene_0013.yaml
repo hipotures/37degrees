@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Communication Evolution - Letters to Telephones to Radios"
+  setting:
+    time: "1910, 1925, and 1940 - technological progression across three decades"
+    location: "Same domestic interior showing communication technology advancement"
+    weather: "Evening hours with warm interior lighting contrasting cold outside"
+  characters:
+    - appearance: "Woman in her 20s to 30s, slender and elegant build, refined aristocratic features, composed expression capable of deep sadness"
+      clothing: "1902-1917: tasteful high-quality dresses befitting upper class. 1917-1922: still good quality garments showing wear, attempts to maintain dignity in difficult circumstances"
+      posture: "Composed bearing with impeccable manners, controlled gestures, dignified stance"
+      action: "Managing household duties, caring for children, reading, playing piano"
+    - appearance: "Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive face showing both strength and suffering"
+      clothing: "1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical teacher clothes, warm coats and headscarves"
+      posture: "Natural grace and confidence, direct and honest gestures, highly expressive face"
+      action: "Nursing wounded soldiers, teaching children, reading in library, caring for family"
+  scene:
+    mainElements: "Same room corner showing evolution of communication technology with three women using different methods to connect with distant loved ones"
+    details: "Tripartite temporal composition: 1910 shows elegant woman at writing desk composing letter with fountain pen, quality paper and ink well, candles providing warm light, letter sealed with wax. 1925 reveals woman using early telephone at wooden wall-mounted device, speaking into large mouthpiece, operator switchboard visible in background. 1940 displays woman listening to radio broadcast for war news, large wooden radio cabinet with glowing tubes, antenna visible through window, no text or letters visible"
+    background: "Same room architecture but showing changing furniture, technology, and social conditions across three decades"
+    atmosphere: "Human need for connection transcending technological change, each era finding new ways to bridge distance and isolation"
+  composition:
+    cameraAngle: "Medium shot focused on communication activity with period technology visible"
+    focus: "Central figure and communication device showing technological evolution"
+    depth: "Foreground: person and technology; middle ground: room furnishings showing period; background: windows showing changing world outside"

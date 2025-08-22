@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1870s, 1890s, and 1918 overlaid, showing 48 years of social protest and political gathering, various seasons and
+      times of day
+    location: Central town square of Salinas showing same space used for political expression across generations
+    weather: Different weather conditions across eras - 1870s showing clear day, 1890s showing rainy protest, 1918 showing
+      evening gathering
+  characters:
+  - appearance: Multiple generations of protesters visible as overlapping transparent figures - 1870s railroad workers, 1890s
+      agricultural laborers, 1918 war protesters, showing evolution of social concerns
+    clothing: Period appropriate protest clothing - 1870s work clothes and union badges, 1890s farmers' overalls and grange
+      symbols, 1918 civilian clothes and peace symbols
+    position: Using same central square space for different era protests, crowd patterns repeating across generations
+    action: 1870s workers demanding fair wages overlaid with 1890s farmers seeking irrigation rights overlaid with 1918 citizens
+      questioning war, same gestures of political expression across different causes
+  scene:
+    mainElements: Town square showing accumulation of political activity - speakers' platform used across generations, same
+      gathering spaces serving different political movements, civic buildings growing more substantial across eras
+    details: Platform showing wear from multiple generations of speakers, ground worn by crowds gathering for political expression,
+      civic monuments appearing and being contested across eras, American flag displayed differently across political periods
+    background: Salinas Valley and town development showing political concerns evolving with economic growth - railroad bringing
+      labor issues, agricultural development creating farmer concerns, war bringing peace movement, same landscape hosting
+      different political struggles
+    atmosphere: Political expression as eternal human need, same democratic space serving changing concerns across generations,
+      community gathering for political purpose transcending specific issues, no text or letters visible
+  composition:
+    cameraAngle: Elevated view of town square showing multiple political gathering overlays across eras
+    focus: Central speakers' platform and gathering space as anchor for political expression across time
+    depth: Foreground shows square infrastructure development, middle ground reveals overlapping political crowds, background
+      displays town growth context for political evolution
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

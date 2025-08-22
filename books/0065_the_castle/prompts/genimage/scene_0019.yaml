@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening
+    location: Private administrative spaces hidden from K.'s access
+    weather: Cold winter evening with warm private spaces
+  characters:
+  - appearance: Middle-aged official, corpulent and heavy-set, drooping cheeks, sharp black mustache, wearing pince-nez spectacles
+    clothing: Black frock coat with long tails, formal official attire typical of Austrian bureaucrat from 1920s period
+    position: In private room conducting actual administrative work
+    action: Processing documents and making decisions affecting K.'s case
+  - appearance: Two young men virtually identical like drops of water, extremely thin build, dark brown complexion, sharply
+      pointed black beards of particular darkness
+    clothing: Identical tightly-fitted dark clothing, matching outfits emphasizing their interchangeable nature
+    position: Moving through administrative corridors K. never sees
+    action: Carrying out actual bureaucratic functions behind the scenes
+  scene:
+    mainElements: Private administrative offices with actual decision-making processes, formal documents from Castle bureaucracy
+      on aged yellowed paper with ornate seals
+    details: Objective documentation of hidden administrative reality - actual filing systems organizing village affairs,
+      legitimate decision-making processes occurring outside K.'s observation, efficient communication networks using wooden
+      wall-mounted telephone apparatus connecting various offices.
+    background: Complete administrative infrastructure invisible to outsiders, working bureaucratic system
+    atmosphere: Factual representation of functioning administrative machinery - offices maintained at comfortable working
+      temperature, adequate lighting for document review, organized systems for handling citizen requests, professional environment
+      operating independently of K.'s knowledge, no text or letters visible
+  composition:
+    cameraAngle: Insider perspective showing administrative reality K. never witnesses
+    focus: Actual bureaucratic work proceeding normally without K.'s participation
+    depth: Multiple connected office spaces showing complete administrative system
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

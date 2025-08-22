@@ -1,0 +1,109 @@
+canon:
+  characters:
+    - id: "dr_aziz"
+      name: "Dr. Aziz"
+      description_block: |
+        characters:
+          - appearance: "Small man, around 30-32 years old, with thick black hair and small dark mustache. Moving brown eyes, fine dark skin, thin build below average height. Express facial features showing rapid emotional changes from bright smile to deep sadness. Clean-shaven except for mustache"
+            clothing: "Alternates between European formal wear (pressed suit, stiff collar, tie) when official or traditional Muslim attire (loose white pants, long tunic, red fez) when relaxed. Clothing choice reflects his position between two worlds"
+            position: "Energetic and animated movements, quick gestures, theatrical body language"
+            action: "Speaking with passion and vivid gesticulation, displaying intense emotional engagement"
+
+    - id: "cyril_fielding"
+      name: "Cyril Fielding"
+      description_block: |
+        characters:
+          - appearance: "Large man, 45 years old, with sprawling limbs and shaggy appearance. Blue eyes, strong features, brown hair showing signs of gray. Tall, somewhat ungainly build but dignified presence"
+            clothing: "Practical linen jacket and trousers in light colors, open collar shirt without rigid formal wear. Avoids pith helmet, preferring simple hat. Dress reflects his nonconformist philosophy"
+            position: "Relaxed, open posture with natural, unrehearsed movements"
+            action: "Listening thoughtfully with intelligent expression, maintaining direct eye contact and genuine interest"
+
+    - id: "adela_quested"
+      name: "Adela Quested"
+      description_block: |
+        characters:
+          - appearance: "Young woman, 24-26 years old, with angular body and freckled face. Thin build, small chest, boyish figure typical of 1920s fashion. Plain features, cautious expression"
+            clothing: "Simple cotton day dress in neutral colors (beige, gray, pale blue), practical shoes, cloche hat. Modest, intellectual style without ornamentation"
+            position: "Careful, controlled movements, somewhat stiff posture"
+            action: "Observing surroundings with analytical gaze, taking mental notes of everything she sees"
+
+    - id: "mrs_moore"
+      name: "Mrs. Moore"
+      description_block: |
+        characters:
+          - appearance: "Elderly English woman, 65-70 years old, with white hair in neat bun and red face from heat. Gentle but crooked smile, kind eyes showing wisdom and weariness"
+            clothing: "Conservative long skirt, simple cotton blouse with brooch at neck, light traveling coat, proper hat. Clothing in muted colors - grays, beiges, soft purples"
+            position: "Dignified but tired movements, slower pace due to age and climate"
+            action: "Sitting quietly with hands folded, showing intuitive understanding and empathy through expression"
+
+    - id: "ronny_heaslop"
+      name: "Ronny Heaslop"
+      description_block: |
+        characters:
+          - appearance: "Young man, 27-30 years old, characterized by prominent red nose from sun irritation. Clean-shaven, neat appearance, small to average build"
+            clothing: "Impeccable formal British official attire - pressed suit, stiff collar, tie, polished shoes. Always properly dressed for his magistrate position"
+            position: "Stiff, formal posture reflecting his official role"
+            action: "Speaking with authoritative tone while displaying irritation and impatience"
+
+    - id: "professor_godbole"
+      name: "Professor Godbole"
+      description_block: |
+        characters:
+          - appearance: "Wizened Hindu man over 60 years old, with fair complexion like European, gray mustache, and gray-blue eyes. Serene, distant expression"
+            clothing: "Pale purple turban resembling macaroni, matching coat and vest, white dhoti, patterned socks coordinating with turban. Harmonious traditional Hindu dress"
+            position: "Composed, still posture suggesting inner peace and detachment"
+            action: "Sitting in meditation-like stillness or performing religious rituals with graceful precision"
+
+  locations:
+    - id: "chandrapore_indian"
+      name: "Indian Chandrapore"
+      description_block: |
+        setting:
+          location: "Low-lying Indian quarter of fictional city Chandrapore, British India, situated near Ganges River but cut off from water view by bazaars"
+        mainElements: "Dense, chaotic bazaar streets with covered markets, simple mud and wood buildings, narrow unpaved alleys, small ineffective temples, hidden Mughal-era houses"
+        atmosphere: "Organic labyrinth of brown, beige, ochre colors from dried earth and raw wood. Intense sensory experience with spice aromas, cooking smells, incense, dust. Constant sounds of voices, vendors calling, bicycle bells, temple music"
+
+    - id: "british_civil_station"
+      name: "British Civil Station"
+      description_block: |
+        setting:
+          location: "Elevated British administrative quarter of Chandrapore, separated from Indian town by railway line, positioned on higher ground overlooking native city"
+        mainElements: "Spacious white-washed bungalows with wide verandas and Ionic columns, manicured lawns and gardens, geometric street layout, red brick Club building, tennis courts"
+        atmosphere: "Ordered, sterile environment with clean white and green colors. Quiet except for cricket sounds, tennis balls, distant train whistles. Cool shade under trees, electric lighting in evenings"
+
+    - id: "marabar_caves"
+      name: "Marabar Caves"
+      description_block: |
+        setting:
+          location: "Ancient granite hills rising suddenly from flat plain twenty miles south of Chandrapore, containing prehistoric cave formations"
+        mainElements: "Smooth, rounded granite monoliths like giant eggs or bubbles, perfectly circular cave chambers with polished black walls acting as mirrors, narrow straight tunnels leading to cave interiors"
+        atmosphere: "Inhuman, alien landscape of gray-brown naked granite under bleached sky. Complete darkness inside caves broken only by brief match flames. Absolute silence except for monotonous echo transforming all sounds into meaningless 'boum'"
+
+    - id: "chandrapore_club"
+      name: "Chandrapore Club"
+      description_block: |
+        setting:
+          location: "Red brick colonial club building at heart of British Civil Station, serving as social center for British community"
+        mainElements: "Formal building with wide veranda, interior dining rooms and lounges, tennis courts and grounds, British flags and imperial decorations"
+        atmosphere: "Exclusive, segregated space maintaining British identity and superiority. Evening gatherings with electric lights, formal conversations, tennis match sounds, atmosphere of rigid social hierarchy"
+
+  items:
+    - id: "train_to_marabar"
+      name: "Imperial Indian Mail Train"
+      description_block: |
+        details: "Steam locomotive with passenger carriages traveling across Indian landscape, representing British technological power and means of reaching remote Marabar Hills"
+
+    - id: "elephant_transport"
+      name: "Ceremonial Elephant"
+      description_block: |
+        details: "Large elephant decorated with festive patterns and mounted howdah (passenger seat), traditional Indian transport method used for expedition to caves, symbolizing exotic authentic India"
+
+    - id: "adela_binoculars"
+      name: "Adela's Field Glasses"
+      description_block: |
+        details: "British-made field binoculars carried by Adela during cave expedition, broken during the incident and serving as evidence in subsequent trial"
+
+    - id: "punkah_fan"
+      name: "Courtroom Punkah"
+      description_block: |
+        details: "Large manual fan operated by rope-pulling punkah-wallah in courtroom, essential cooling device in extreme heat, symbolizing eternal rhythm of India"

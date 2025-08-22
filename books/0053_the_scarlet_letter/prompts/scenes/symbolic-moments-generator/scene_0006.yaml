@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Heart's Secret Wound"
+  setting:
+    time: "1647 midnight, five years after initial shame"
+    location: "Minister's private study chamber with books and medical implements"
+    weather: "Deep night with single candle providing flickering light"
+  characters:
+    - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+      clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+      position: "Slumped in wooden chair, hand pressed against chest over heart"
+      action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+  scene:
+    mainElements: "Minister's hand permanently positioned over heart area, wooden crucifix on wall, medical implements and herbs suggesting physician's presence, scattered books and papers"
+    details: "The hand-to-heart gesture becomes compulsive symbol of hidden wound, suggesting invisible scarlet letter burned into flesh beneath clothing. Minister's pale face shows increasing torment while books of theology surround him ironically. Wooden crucifix casts shadow on wall creating cross-shaped darkness. Medical implements hint at physician's manipulative presence and false healing."
+    background: "Dark study lined with theological volumes, single candle creating dancing shadows, medical equipment suggesting sinister treatment"
+    atmosphere: "Physical manifestation of psychological guilt, hidden sin eating away at body and soul, false healing masking true spiritual wound, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on hand pressed to chest and anguished facial expression"
+    focus: "Hand over heart as symbol of hidden scarlet letter burned into flesh"
+    depth: "Foreground: minister's tortured expression and gesture; middle: study furnishings; background: crucifix shadow and medical implements"

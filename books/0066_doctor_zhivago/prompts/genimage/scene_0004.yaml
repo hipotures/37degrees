@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1903 and 1922, same winter day but nineteen years apart
+    location: Moscow street location showing same building entrance at two different times
+    weather: Heavy snowfall in both time periods, creating visual continuity
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  scene:
+    mainElements: Dual temporal image of same woman standing in identical position at building entrance, separated by two
+      decades of historical trauma
+    details: Left side shows sixteen-year-old Lara in modest student dress holding schoolbooks, face expressing youthful hope
+      and vulnerability, approaching building with quick light steps. Right side shows thirty-five-year-old Lara in worn but
+      practical teacher's coat and headscarf, face marked by experience and loss but retaining essential strength, approaching
+      same building entrance with measured cautious steps. Same architectural details visible but showing twenty years of
+      weathering, paint fading, ironwork rusting, no text or letters visible
+    background: 'Moscow street scene comparison: 1903 shows horse-drawn carriages and well-dressed pedestrians, 1922 shows
+      military vehicles and poorly clothed citizens in bread queues'
+    atmosphere: Poignant study of resilience and transformation through historical catastrophe, beauty enduring but forever
+      changed by suffering
+  composition:
+    cameraAngle: Medium shot capturing full figure and environmental context
+    focus: Lara's eyes and facial expression showing continuity of spirit despite life's hardships
+    depth: 'Foreground: Lara in both time periods; middle ground: building entrance showing architectural decay; background:
+      street life reflecting social transformation'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

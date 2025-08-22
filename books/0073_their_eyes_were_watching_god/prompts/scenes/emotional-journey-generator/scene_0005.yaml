@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wedding Day Quiet Resignation"
+  setting:
+    time: "Early 1900s, morning"
+    location: "Simple bedroom with morning light"
+    weather: "Clear but subdued morning"
+  characters:
+    - appearance: "African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes, natural hair worn in various styles from covered to loose"
+      clothing: "Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses for special occasions, head wraps or scarves"
+      position: "Sitting on edge of bed looking out window"
+      action: "Gazing outside with hands folded in lap, expression distant and resigned"
+  scene:
+    mainElements: "Young woman in wedding dress on morning of arranged marriage, simple bedroom setting showing modest circumstances, morning light suggesting new beginning tinged with sadness"
+    details: "Simple wooden bed with patchwork quilt, mirror reflecting sad face, wedding dress laid out on chair, window showing pear tree in distance, sunlight streaming across floor, no text or letters visible"
+    background: "View through window of familiar yard and blooming pear tree, symbol of lost dreams"
+    atmosphere: "Quiet resignation mixed with hidden sadness, end of childhood dreams, acceptance of adult responsibilities, baseline emotional state before life changes"
+  composition:
+    cameraAngle: "Side view showing profile against window light"
+    focus: "Contemplative figure silhouetted against morning light"
+    depth: "Foreground: bedroom furniture, middle: seated figure, background: window view of pear tree"

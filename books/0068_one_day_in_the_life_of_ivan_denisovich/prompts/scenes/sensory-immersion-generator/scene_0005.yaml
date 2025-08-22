@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Morning Assembly Ordeal - Weight of Oppression Through Physical Exposure"
+  setting:
+    time: "January 1951, 7:00 AM, early morning in darkness"
+    location: "Large camp assembly square between barracks in Soviet prison camp, exposed to Siberian elements"
+    weather: "Minus 27 degrees Celsius, penetrating wind across open terrain"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki), coat opened for inspection"
+      position: "Standing in formation with opened coat exposing body to freezing air, struggling against wind pressure"
+      action: "Enduring prolonged exposure during mandatory inspection, body fighting to maintain core temperature"
+    - appearance: "Around 50 years old, tall man who maintains proud military bearing despite prison conditions, face has 'turned very black' and gaunt from recent hardship, still hard gaze despite suffering"
+      clothing: "Standard prisoner uniform with civilian vest underneath (which gets him in trouble), maintains military posture"
+      position: "Standing at attention or in military stance, often gesturing with authority, rigid and upright"
+      action: "Protesting treatment while being penalized for unauthorized clothing layer"
+  scene:
+    mainElements: "Large empty assembly plaza between dark wooden barracks, hundreds of prisoners in rows of five, guards patrolling with weapons"
+    details: "Oppressive weight of cold air pressing against exposed bodies, coats opened revealing thin layers beneath, wind creating pressure against fabric and flesh. Physical strain of standing motionless in formation while fighting cold penetration, muscles tensed against temperature assault. Fabric of opened clothing flapping against bodies, weight of freezing air bearing down on exposed torsos. Steam rising from hundreds of prisoners creating collective cloud of body heat, no text or letters visible"
+    background: "Dark wooden barracks surrounding open space, guard towers visible in distance, flat snowy terrain extending to horizon"
+    atmosphere: "Physical manifestation of systemic oppression through enforced exposure, weight of authority pressing down like atmospheric pressure, collective endurance test through environmental extremes"
+  composition:
+    cameraAngle: "Wide shot showing scale of assembly with focus on environmental pressure"
+    focus: "Physical evidence of cold's weight - pressed fabric, bent postures, defensive positioning"
+    depth: "Foreground: detailed exposure effects on individuals, middle: formation dynamics, background: institutional architecture of control"

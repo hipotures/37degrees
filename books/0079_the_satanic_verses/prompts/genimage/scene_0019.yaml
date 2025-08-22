@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, temporal anomaly where past and future occur together
+    location: Abstract timepiece floating in space representing confusion about time and progress
+    weather: Crystalline atmosphere where light behaves like liquid
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Standing before clock, one hand pointing at past time, other at future time
+    action: Attempting to read time while clock face shows multiple contradictory hours
+  scene:
+    mainElements: Massive grandfather clock with transparent case, internal mechanisms visible and moving in impossible ways
+    details: Ornate clockwork with gears turning clockwise and counterclockwise simultaneously, hour hand moving backward
+      toward past while minute hand advances toward future, second hand spinning wildly in both directions, clock face showing
+      multiple time zones overlapping, Roman numerals occasionally rearranging themselves, pendulum swinging in figure-eight
+      pattern, time pieces showing 3 AM and 9 PM simultaneously, clock chiming different hours at same moment, brass gears
+      gleaming despite mechanical impossibility, no text or letters visible on clock face due to artistic stylization
+    background: Temporal distortion field showing glimpses of past and future events occurring simultaneously
+    atmosphere: Confusion about linear time, past and future competing for present moment, uncertainty about progress and
+      direction
+  composition:
+    cameraAngle: Frontal view of clock face emphasizing contradictory hand positions
+    focus: Impossible timepiece representing disconnection from linear time and normal progression
+    depth: 'Foreground: clock hands moving in opposition, midground: figure trying to read time, background: temporal anomalies
+      in space around clock'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

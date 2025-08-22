@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Columbia River Bleeds Through - Past Invades Present"
+  setting:
+    time: "Early 1960s merging with timeless past"
+    location: "Hospital room overlaid with Columbia River gorge landscape in Oregon with forest hills and river valley, Native American tribal homeland showing natural wilderness before industrial development, timeless natural setting"
+    weather: "Institutional lighting mixed with natural forest atmosphere"
+  characters:
+    - appearance: "40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust"
+      clothing: "Standard green hospital patient uniform"
+      position: "Standing hunched, trying to appear smaller and invisible, often holding broom"
+      action: "Sweeping floors methodically while observing silently, maintaining expressionless mask"
+  scene:
+    mainElements: "Columbia River flowing through gorge, waterfalls, massive pine trees, rocky outcroppings, pristine forest wilderness"
+    details: "Hospital walls become transparent revealing forest landscape beyond. Floor tiles crack to show flowing river water beneath. Ceiling opens to show forest canopy instead of institutional fixtures. Pine trees grow through walls, their branches extending into ward space. River sounds of rushing water overlay hospital mechanical hums. Natural forest smells of pine and earth mix with antiseptic odors. Past and present exist simultaneously in same space"
+    background: "Institutional furniture sitting incongruously in natural forest setting, medical equipment among ancient trees"
+    atmosphere: "Lost paradise and ancestral connection, sounds of forest and flowing water, scent of pine resin and moist earth, sense of primal freedom and cultural loss. Two time periods bleeding together, showing what was destroyed to build the institutional present"
+  composition:
+    cameraAngle: "Double exposure effect showing both hospital and forest simultaneously"
+    focus: "Figure caught between two worlds - institutional present and natural past"
+    depth: "Foreground: hospital elements becoming transparent. Middle: figure existing in both realities. Background: powerful natural landscape asserting dominance"

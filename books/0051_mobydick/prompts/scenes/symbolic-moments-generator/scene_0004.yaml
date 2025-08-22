@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Withered Maps of Yesterday"
+  setting:
+    time: "1840s December afternoon, dim indoor light"
+    location: "Simple Quaker-style chapel in New Bedford dedicated to lost whalers"
+    weather: "Overcast day, muted gray light through windows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Ancient nautical charts spread across chapel floor, their edges curled and yellowed with age, ocean areas marked with symbols of unknown dangers"
+    details: "The maps show sailing routes across vast oceans, but many passages are marked with skull symbols and red X marks indicating shipwrecks. Some charts overlap others, creating confusion between old and new paths. Compass roses point in conflicting directions, and depth soundings show varying measurements for the same waters. Several maps have burn holes where candle wax has dropped, obscuring crucial navigation information. The paper crackles in the dry air, threatening to disintegrate at the slightest touch, no text or letters visible"
+    background: "Ship-bow shaped pulpit accessed by rope ladder, black-bordered marble memorial tablets covering walls"
+    atmosphere: "Old maps represent accumulated knowledge that may be unreliable, suggesting how past experience can both guide and mislead, the overlapping charts symbolizing conflicting truths about the same reality"
+  composition:
+    cameraAngle: "Overhead view looking down at scattered charts"
+    focus: "Overlapping map sections with contrasting navigation marks"
+    depth: "Map details in sharp foreground, chapel pulpit in middle distance, memorial tablets creating somber background"

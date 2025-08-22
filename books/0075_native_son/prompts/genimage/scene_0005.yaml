@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, late afternoon
+    location: Chicago downtown business district, corporate headquarters building
+    weather: Cold clear winter afternoon with setting sun
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive imposing corporate headquarters building towering over Chicago streets, representing concentrated
+      economic power and control over city resources
+    details: Monumental architecture with stone columns and classical design elements, company name carved in large letters
+      above entrance, multiple floors of offices with lights beginning to come on as evening approaches, uniformed doormen
+      and security guards, expensive cars dropping off executives, ornate lobby visible through glass doors showing marble
+      floors and chandeliers
+    background: Other tall buildings of Chicago's financial district, busy streets with well-dressed businessmen, banks and
+      corporate offices stretching into distance, American flags flying from building tops
+    atmosphere: Overwhelming demonstration of corporate might and financial control, building designed to intimidate and display
+      power, symbol of the economic system that controls housing, employment, and opportunities for all citizens
+  composition:
+    cameraAngle: Low angle shot looking up at the imposing building
+    focus: The massive scale of corporate power dwarfing individual citizens
+    depth: Foreground shows street level with small human figures, middle ground captures the building's imposing facade,
+      background reveals the entire corporate landscape of power
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,124 @@
+canon:
+  characters:
+    - id: "adam_trask"
+      name: "Adam Trask"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man in his 40s with gentle, kind face and thin build, expressive eyes showing inner turmoil, weathered hands from farm work"
+            clothing: "Simple white cotton shirt with rolled sleeves, dark brown wool vest, durable canvas work pants held by suspenders, worn leather boots"
+            posture: "Upright but slightly hesitant stance, hands often clasped behind back or fidgeting with farm tools"
+            
+    - id: "cathy_ames_kate"
+      name: "Cathy Ames / Kate"
+      description_block: |
+        characters:
+          - appearance: "Small woman in her 20s-30s with child-like figure, golden blonde hair, hazel eyes with drooping lids giving mysterious sleepy look, heart-shaped face with high cheekbones"
+            clothing: "Dark fitted dress with high collar and long sleeves in Victorian style, small neat boots, simple jewelry"
+            posture: "Graceful, controlled movements with cat-like stealth, straight spine conveying authority"
+            
+    - id: "cal_trask"
+      name: "Caleb (Cal) Trask" 
+      description_block: |
+        characters:
+          - appearance: "Teenage boy around 16-17 years old with dark hair and olive complexion, slit-like intense eyes, strong build, serious expression often clouded with inner conflict"
+            clothing: "Work shirt in rough cotton, dark wool pants with suspenders, sturdy leather boots, sometimes wearing simple jacket"
+            posture: "Quick, agile movements, often moving in shadows, tense shoulders suggesting internal struggle"
+            
+    - id: "aron_trask"
+      name: "Aaron (Aron) Trask"
+      description_block: |
+        characters:
+          - appearance: "Teenage boy around 16-17 years old with blonde hair and fair complexion, bright innocent eyes, delicate features reflecting angelic beauty"
+            clothing: "Clean white cotton shirt, neat dark pants with belt, polished shoes, always well-groomed appearance"
+            posture: "Open, trusting stance with straight posture, graceful movements reflecting inner purity"
+            
+    - id: "charles_trask"
+      name: "Charles Trask"
+      description_block: |
+        characters:
+          - appearance: "Strong man in his 30s with dark hair and athletic build, prominent dark scar across forehead, hardened features from farm labor"
+            clothing: "Flannel work shirt, sturdy wool pants, heavy work boots, leather suspenders, clothes often stained with soil and grease"
+            posture: "Powerful, aggressive stance with broad shoulders, movements showing physical strength and barely contained anger"
+            
+    - id: "samuel_hamilton"
+      name: "Samuel Hamilton"
+      description_block: |
+        characters:
+          - appearance: "Tall elderly Irish man in his 60s-70s with white hair and beard, kind eyes full of wisdom, large gentle hands despite his size"
+            clothing: "Simple cotton work shirt, worn wool vest, practical trousers, leather blacksmith apron when working"
+            posture: "Dignified bearing despite poverty, movements showing both strength and gentleness"
+            
+    - id: "lee"
+      name: "Lee"
+      description_block: |
+        characters:
+          - appearance: "Chinese-American man in his 40s with brown eyes under rounded eyelids, intelligent expression, medium build"
+            clothing: "Simple dark servant's clothes - black pants, white cotton shirt, sometimes Chinese-style jacket"
+            posture: "Quiet, efficient movements, respectful but dignified bearing, hands often folded"
+
+  locations:
+    - id: "salinas_valley"
+      name: "Salinas Valley"
+      description_block: |
+        setting:
+          location: "Fertile agricultural valley in central California, stretching south from Monterey Bay, bounded by contrasting mountain ranges"
+        mainElements: "Flat valley floor with winding Salinas River, bright Gabilan Mountains to east bathed in golden sunlight, dark Santa Lucia Mountains to west shrouded in purple shadow"
+        atmosphere: "Dramatic landscape of contrasts between light and shadow, fertility and barrenness, representing eternal struggle between good and evil"
+        
+    - id: "trask_ranch_california"
+      name: "Trask Ranch in California"
+      description_block: |
+        setting:
+          location: "Prosperous farm on fertile land near King City in Salinas Valley, formerly known as Sanchez Place"
+        mainElements: "White wooden farmhouse with green shutters and wide porch, fertile fields extending toward mountains, wooden barn and outbuildings"
+        atmosphere: "Initially representing Adam's vision of paradise, later showing signs of neglect and decay during his depression years"
+        
+    - id: "hamilton_ranch"
+      name: "Hamilton Ranch"
+      description_block: |
+        setting:
+          location: "Poor homestead on rocky, barren hills east of King City in Salinas Valley"
+        mainElements: "Small wooden house built by hand, blacksmith forge with chimney, windmill for water pumping, scattered farm buildings, dry rocky soil"
+        atmosphere: "Humble but warm home showing dignity in poverty, filled with intellectual energy and large family life despite material hardship"
+        
+    - id: "trask_farm_connecticut"
+      name: "Trask Farm in Connecticut"
+      description_block: |
+        setting:
+          location: "Rural farm in Connecticut countryside during late 1800s, inherited from Cyrus Trask"
+        mainElements: "Old wooden farmhouse with weathered siding, stone foundation, wooden barn, stone walls dividing fields, mature oak and maple trees"
+        atmosphere: "Harsh New England environment shaped by Puritan traditions, place of childhood trauma and sibling rivalry"
+        
+    - id: "salinas_town"
+      name: "Salinas Town"
+      description_block: |
+        setting:
+          location: "Growing agricultural town in central California, commercial center of Salinas Valley"
+        mainElements: "Main street with wooden storefronts, railroad tracks, emerging brick buildings, residential areas, disreputable district beyond the tracks"
+        atmosphere: "Bustling frontier town modernizing rapidly, mixture of respectability and hidden vice"
+
+  items:
+    - id: "german_knife_gift"
+      name: "German Knife Gift"
+      description_block: |
+        details: "Expensive German hunting knife with horn handle and sharp steel blade, carefully selected and purchased by Charles as birthday gift for father Cyrus"
+        
+    - id: "puppy_gift"
+      name: "Puppy Gift"
+      description_block: |
+        details: "Small mongrel puppy found by Adam as last-minute birthday present for father Cyrus, representing innocent spontaneous affection"
+        
+    - id: "cathy_pistol"
+      name: "Cathy's Pistol"
+      description_block: |
+        details: "Small caliber handgun carried by Cathy Ames, used to shoot Adam when leaving him and their newborn twins"
+        
+    - id: "wills_automobile"
+      name: "Will's Automobile"
+      description_block: |
+        details: "Early Model T Ford automobile, symbol of modern progress and technological advancement in rural California"
+        
+    - id: "war_telegram"
+      name: "War Telegram"
+      description_block: |
+        details: "Yellow Western Union telegram bringing news of Aron's death in World War I, delivered to Trask household"

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1909, late evening
+    location: Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton
+      fields
+    weather: Still night air, no wind
+  characters: No characters present in this scene
+  scene:
+    mainElements: Extreme close-up of handwritten text on brown paper, showing childlike handwriting and simple words expressing
+      profound pain
+    details: Rough texture of brown paper surface, uneven pencil strokes forming letters, some words crossed out and rewritten,
+      occasional tear stains creating small dark spots on paper. Text visible but blurred around edges, showing vulnerability
+      and secrecy of private communication
+    background: Wooden table surface with grain visible, edge of candlestick holder, soft focus suggesting intimate writing
+      space
+    atmosphere: Raw honesty captured in physical form, power of written word to preserve truth, document becoming witness
+      to suffering and survival
+  composition:
+    cameraAngle: Extreme close-up, almost documentary style examination of handwriting
+    focus: Handwritten words themselves, texture of paper, evidence of emotional weight
+    depth: 'Foreground: text and paper texture, shallow depth of field creating focus on written testimony'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

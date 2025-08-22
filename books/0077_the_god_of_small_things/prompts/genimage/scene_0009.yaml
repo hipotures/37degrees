@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1969 December, afternoon when cinema is closed
+    location: Empty interior of Abhilash Talkies cinema with all lights off and no audience
+    weather: Dim natural light filtering through small windows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Rows of empty seats facing blank screen, dust motes floating in complete stillness, shadows preserving absolute
+      quiet in deserted space
+    details: Theater seats all facing same direction like silent congregation, dust hanging motionless in thin beams of light,
+      even shadows seeming to hold their breath, air so still it appears solid, empty screen reflecting nothing, silence so
+      complete it has weight
+    background: Ornate cinema architecture with decorative moldings, red velvet curtains hanging motionless, projection booth
+      window dark and vacant
+    atmosphere: Cathedral-like reverence for silence, empty space holding memory of sound, profound stillness that seems to
+      echo with absent voices
+  composition:
+    cameraAngle: View from stage toward empty audience area emphasizing vast silent space
+    focus: Empty seats arranged in perfect rows suggesting absent sound and voices
+    depth: Foreground shows blank screen, middle ground captures silent seating area, background features architectural details
+      in dim light, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

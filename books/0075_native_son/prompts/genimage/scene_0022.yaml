@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, late night
+    location: private bedroom on upper floor of Dalton mansion, late 1930s winter night
+    weather: Cold winter night with darkness outside
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing over bed in forbidden white space
+    action: holding white pillow above unconscious white woman, trapped between desire and terror, representing violation
+      of ultimate racial taboo
+  - appearance: 22-year-old white woman, slender build, blonde hair styled in fashionable 1930s waves, bright eyes filled
+      with naive idealism, fair complexion
+    clothing: elegant 1930s fashion - knee-length dresses with defined waist and wide shoulders, high-quality fabrics, sometimes
+      wide trousers for casual wear, fashionable shoes
+    position: unconscious on bed in vulnerable state
+    action: lying helpless and unaware, representing white privilege and vulnerability
+  scene:
+    mainElements: Private bedroom representing forbidden white sanctuary where African American presence becomes ultimate
+      transgression, scene of racial and sexual taboo violation
+    details: large soft white pillow from Mary's bed, symbol of white comfort and privilege that becomes accidental murder
+      weapon, represents irony of comfort becoming death. Expensive bedroom furnishings contrasting with protagonist's poverty,
+      intimate private space of white privilege becoming site of tragedy
+    background: spacious personal room furnished for wealthy young woman, bed as central feature, private dresser and wardrobe.
+      Quality furnishings appropriate for 1930s upper class, intimate private space that excludes outsiders
+    atmosphere: Ultimate transgression of racial boundaries, sexual and economic forbidden territory, moment where systemic
+      tensions explode into individual tragedy, crossing of invisible lines that trigger catastrophic consequences
+  composition:
+    cameraAngle: Close-up shot emphasizing the forbidden nature of the racial and spatial transgression
+    focus: The moment when systemic racial tensions explode into individual catastrophe through boundary violation
+    depth: Foreground shows the critical moment of decision, middle ground captures the forbidden intimacy, background reveals
+      the white privilege space being violated
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

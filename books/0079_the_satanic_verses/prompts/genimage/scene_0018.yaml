@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, ethereal light with no identifiable source
+    location: Void space representing futility of certain aspirations
+    weather: Perfectly still air with faint luminescence surrounding stairs
+  characters:
+  - appearance: Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes
+    clothing: Tattered remains of gray suit hanging loosely on enlarged frame
+    position: Climbing stairs while upper steps vanish ahead of his progress
+    action: Continuing upward climb despite steps disappearing beneath his feet
+  scene:
+    mainElements: Marble staircase beginning solidly at ground level, steps becoming progressively transparent before vanishing
+      entirely into empty sky
+    details: Grand staircase with ornate balustrades, lower steps solid white marble with detailed carvings, middle steps
+      translucent like glass showing increasing fragility, upper steps existing only as faint outlines before complete dissolution,
+      staircase leading nowhere with no destination or platform above, figure's weight causing some steps to crack and fade
+      faster, dissolved steps leaving no debris, impossible architecture suggesting futility of certain pursuits, banister
+      continuing upward despite absence of steps to support it, no text or letters visible
+    background: Infinite white void with no horizon line, occasional floating fragments of architecture suggesting other abandoned
+      constructions
+    atmosphere: Futile effort and impossible dreams, pursuit of goals that dissolve upon approach
+  composition:
+    cameraAngle: Low angle showing stairs ascending into nothingness
+    focus: Vanishing steps representing dreams that disappear when closely examined
+    depth: 'Foreground: solid marble foundation, midground: climbing figure, background: dissolving stairs against empty sky'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

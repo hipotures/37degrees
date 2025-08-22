@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: April 1625, late evening with candlelight illuminating crucial document
+    location: Private chamber where young Gascon receives royal mission that will change his destiny
+    weather: Indoor scene with warm candlelight creating intimate atmosphere
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Back and shoulder visible in foreground, head partially in frame reading document
+    action: Intently studying letter with growing understanding of its importance, hand holding parchment steady in candlelight
+  scene:
+    mainElements: Over-shoulder view following D'Artagnan's gaze toward crucial royal letter, candlelight creating dramatic
+      lighting, parchment visible in his hands showing royal seal
+    details: Letter written on fine parchment with royal watermark, elegant handwriting suggesting noble author, red wax seal
+      indicating official nature, D'Artagnan's hands holding document carefully, single candle providing warm light, shadows
+      creating dramatic atmosphere
+    background: Simple chamber furnishings suggesting modest accommodations, stone walls of Parisian building, window showing
+      night sky beyond
+    atmosphere: Intense concentration and growing realization of mission's importance, intimate lighting creating sense of
+      secrecy, weight of royal trust and dangerous responsibility
+  composition:
+    cameraAngle: Over-the-shoulder shot following character's gaze while keeping him partially in frame to maintain connection
+    focus: Sharp focus on letter content and D'Artagnan's hands, his shoulder and back providing foreground framing element
+    depth: 'Foreground: D''Artagnan''s shoulder and back, middle ground: hands holding letter in candlelight, background:
+      chamber furnishings and window, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

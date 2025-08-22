@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1917 morning
+    location: Italian front lines near Gorizia in northeastern Italy, view across Isonzo River valley toward Austrian positions
+      in Julian Alps
+    weather: Clear morning before storm of battle
+  characters:
+  - appearance: American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing
+    clothing: Italian army officer uniform in Grigioverde gray-green, includes tunic, trousers, officer cap with rank insignia
+      on cuffs, leather boots, carries Astra 7.65 pistol, steel helmet and English gas mask on front lines
+    position: Standing on observation post scanning horizon
+    action: Raising field glasses to observe distant enemy positions
+  scene:
+    mainElements: Elegant villa converted to officers' quarters with military maps on walls, equipment in corners, mud tracked
+      on fine floors, view through river valley showing pebbles and boulders dry and white in sun with clear swift blue water
+    details: Thin smoke wisps rising from distant Austrian artillery positions creating first visual warning of impending
+      bombardment, morning air carrying acrid cordite scent particles suggested by smoke color and drift patterns, explosive
+      chemical residue creating distinct gray-brown smoke signatures different from cooking or wood fires, wind patterns carrying
+      warning scents suggested by smoke tendril direction and dispersal, soldiers' nostrils flaring and facial expressions
+      showing recognition of danger through scent identification, gas mask preparation indicating deadly chemical odor anticipation,
+      smoke density increasing suggesting escalation, no text or letters visible
+    background: Alpine landscape with enemy positions visible as dark spots on distant mountainsides
+    atmosphere: Deceptive beauty of Alpine landscape constantly disrupted by signs of war - dust settling on leaves from passing
+      troops, leaves falling early from shellfire, distant artillery flashes, contrast between natural beauty and military
+      destruction
+  composition:
+    cameraAngle: Elevated observation post view scanning threatening horizon
+    focus: Smoke tendrils and their drift patterns suggesting dangerous scents
+    depth: Foreground shows observation detail, middle ground captures smoke analysis, background reveals distant threat positions
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

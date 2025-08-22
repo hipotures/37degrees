@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: May 1914 and August 1917, from peacetime spring to wartime summer
+    location: Russian countryside orchard and surrounding fields near front lines
+    weather: 'Spring: gentle rain nurturing blossoms. Summer: hot sun over trampled earth'
+  characters:
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Temporal overlay showing peaceful orchard with white and pink blossoms transforming into battle-scarred
+      medical station among broken trees
+    details: 'Double exposure: 1914 shows apple and cherry trees heavy with fragrant blossoms, clean rows of healthy trees
+      extending into distance, pastoral workers tending branches, bees hovering among flowers, grass carpet beneath. 1917
+      reveals same location as field hospital, many trees shattered by artillery, remaining trunks supporting canvas medical
+      tents, wounded soldiers lying under broken branches, doctor treating patients where flowers once bloomed, shell craters
+      replacing orderly rows, no text or letters visible'
+    background: Rolling countryside maintains same topographical features but shows transformation from cultivation to destruction
+    atmosphere: Life's fragile beauty destroyed by war's mechanical violence, natural cycles disrupted by human conflict
+  composition:
+    cameraAngle: Medium wide shot emphasizing contrast between organic growth and military destruction
+    focus: Broken tree serving as both natural beauty and medical shelter
+    depth: 'Foreground: medical work among tree roots; middle ground: orchard transformation; background: scarred landscape
+      horizon'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

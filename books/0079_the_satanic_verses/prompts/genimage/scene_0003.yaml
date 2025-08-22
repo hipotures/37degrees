@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, harsh fluorescent-lit afternoon
+    location: British immigration detention facility, sterile government building interior
+    weather: Cold institutional air, no natural light penetrating sealed windows
+  characters:
+  - appearance: Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes
+    clothing: Tattered remains of gray suit hanging loosely on enlarged frame
+    position: Hunched on metal bench, cloven hooves barely touching linoleum floor
+    action: Breathing sulfurous vapor, hands clenched in anguish and rage
+  scene:
+    mainElements: Small plastic crown from children's toy set lying forgotten on waiting room floor, its bright primary colors
+      faded under institutional lighting
+    details: Toy crown made of cheap yellow plastic with paste gems, one point broken off revealing hollow interior, dusty
+      surface bearing fingerprints of unknown child, scattered nearby are pieces of broken identity cards and official documents,
+      fluorescent light casting harsh shadows that make crown appear both precious and worthless, no text or letters visible
+    background: Row of connected metal chairs, government notices posted on bland walls, water cooler humming in corner, linoleum
+      floor scuffed from countless desperate footsteps
+    atmosphere: Bureaucratic indifference crushing human dignity, childhood innocence discarded in machinery of state control
+  composition:
+    cameraAngle: Ground-level view emphasizing lowly position of abandoned crown
+    focus: Broken toy crown as symbol of lost sovereignty and discarded dreams
+    depth: 'Foreground: detailed crown and scattered papers, midground: transformed figure on bench, background: institutional
+      furniture and walls'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

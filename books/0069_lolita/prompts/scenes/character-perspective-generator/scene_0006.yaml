@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Lake Scene - Adult Decision"
+  setting:
+    time: "1947, summer day"
+    location: "Hourglass Lake recreational area in New England countryside"
+    weather: "Bright summer day, clear skies"
+  characters:
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "Swimming attire with black rubber swimming cap"
+      position: "Standing in shallow lake water, animated in conversation"
+      action: "Gesturing while discussing boarding school plans, speaking enthusiastically about future arrangements"
+    - appearance: "Middle-aged man in his thirties, European features, standing on shore"
+      clothing: "Summer casual clothes, remaining dry on lakeside"
+      position: "Standing on rocky shore, hands in pockets, listening intently"
+      action: "Nodding agreement, watching swimmer, calculating expression while processing boarding school discussion"
+  scene:
+    mainElements: "Clear lake water with rocky shoreline, summer recreational setting, other families visible in distance"
+    details: "Sunlight sparkling on water surface, woman in swimming cap discussing boarding school plans with enthusiasm, man on shore listening with hidden agenda"
+    background: "American lake recreational area, families enjoying summer day, natural outdoor setting with trees and shoreline"
+    atmosphere: "Deceptively pleasant summer outing masking adult decisions that will separate child from normal life, false cheerfulness hiding manipulation"
+  composition:
+    cameraAngle: "Eye level view from water's edge, watching adult conversation about future plans"
+    focus: "Two adults discussing boarding school arrangement, one in water, one on shore"
+    depth: "Foreground shows lake water and shore, middle ground shows adult figures in conversation, background shows recreational lake setting"

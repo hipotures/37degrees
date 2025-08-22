@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Authority figures see Holden as misguided youth requiring correction"
+  setting:
+    time: "Late 1940s, afternoon in December"
+    location: "Professional office or consultation room in Manhattan"
+    weather: "December afternoon with filtered light through professional windows"
+  characters:
+    - appearance: "Male, middle-aged professional representing psychiatric or educational authority"
+      clothing: "Professional attire suggesting medical or educational expertise and social standing"
+      position: "Seated in position of professional authority across from consultation subject"
+      action: "Conducting professional assessment while viewing case through lens of institutional expertise"
+  scene:
+    mainElements: "Professional consultation environment designed to project authority and expertise, furniture arranged to emphasize professional relationship, atmosphere of institutional intervention"
+    details: "Through professional authority perspective, individual problems appear as treatable conditions requiring institutional intervention, rebellion seems as misguided energy needing redirection toward productive social participation"
+    background: "Professional office with appropriate credentials and institutional symbols, view suggesting urban professional environment, evidence of social services infrastructure"
+    atmosphere: "Professional confidence and institutional expertise, sense of providing necessary social intervention, belief in corrective potential of proper guidance, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing professional authority and institutional intervention"
+    focus: "Professional representative viewing individual problems as institutional challenge"
+    depth: "Foreground: professional credentials, middle ground: authority figure, background: institutional framework for social correction"

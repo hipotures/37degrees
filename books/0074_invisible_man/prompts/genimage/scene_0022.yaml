@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1940s, afternoon
+    location: Harlem street corner where police shooting occurred, busy urban intersection
+    weather: Clear afternoon creating stark visibility of violence
+  characters:
+  - appearance: Diverse group of Harlem residents - men, women, children, elderly - witnessing police violence
+    clothing: Various 1940s urban attire reflecting working-class Harlem community
+    position: Gathered in circle around shooting scene, some backing away, others moving closer
+    action: Witnessing police shooting with mixture of shock, anger, fear, and familiar recognition of racial violence
+  scene:
+    mainElements: Police officers standing over body, Sambo doll lying nearby, crowd of witnesses, urban street setting with
+      storefronts
+    details: Through community's collective perspective, shooting represents familiar pattern of police violence against Black
+      youth - witnesses recognize systematic targeting of young Black men, Sambo doll becomes symbol of how society reduces
+      Black humanity to stereotypes, police justifications sound like rehearsed explanations, community response shows both
+      outrage and weary familiarity with racial violence, gathering crowd demonstrates community solidarity in face of state
+      violence
+    background: Harlem street life continuing around tragedy, storefronts and daily commerce contrasting with sudden violence
+    atmosphere: Community trauma from witnessing state violence, collective recognition of systematic targeting of Black youth
+  composition:
+    cameraAngle: Community eye level showing collective witness to police violence
+    focus: Police shooting as community trauma and recognition of systematic oppression
+    depth: Foreground shows immediate community response, middle ground captures police violence, background reveals normal
+      life disrupted by state violence, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

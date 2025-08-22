@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harlem Eviction Through Elder's Memory-Laden Eyes"
+  setting:
+    time: "1940s, winter morning"
+    location: "Harlem street during eviction, belongings scattered on snowy sidewalk"
+    weather: "Cold winter day with snow covering personal possessions"
+  characters:
+    - appearance: "Elderly African American woman in her 70s, weathered face showing lifetime of struggles, bent but dignified posture"
+      clothing: "Worn winter coat, head scarf, practical shoes suitable for harsh weather"
+      position: "Standing beside pile of evicted belongings, surveying lifetime of possessions"
+      action: "Looking at scattered furniture and personal items with mixture of grief and resigned endurance"
+  scene:
+    mainElements: "Personal belongings scattered on snowy sidewalk - furniture, photographs, household items, marriage certificate, carved wooden birds"
+    details: "Through elder's perspective, eviction scene layers present crisis with decades of accumulated memory - each scattered object carries weight of personal history, photograph faces seem to stare with accusations about broken promises, marriage certificate represents commitment that survived slavery and Jim Crow, carved birds symbolize dreams that once soared, furniture tells story of homes built and lost, snow covering possessions appears like burial shroud over lifetime of effort and struggle"
+    background: "Other Harlem residents gathering to witness eviction, police and officials enforcing removal, urban landscape of survival"
+    atmosphere: "Systematic displacement of Black families, community solidarity emerging in response to individual crisis"
+  composition:
+    cameraAngle: "Eye level from elder's position, showing dignity maintained despite circumstances"
+    focus: "Scattered personal possessions representing lifetime of accumulated history"
+    depth: "Foreground shows elder's weathered hands, middle ground captures scattered belongings, background reveals community response, no text or letters visible"

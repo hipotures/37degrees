@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Holden's alienation on Thomsen Hill overlooking football game"
+  setting:
+    time: "Late 1940s, late Saturday afternoon in December"
+    location: "Thomsen Hill overlooking Pencey Preparatory Academy campus in Pennsylvania"
+    weather: "Cold, windy December day with gray overcast sky threatening winter"
+  characters:
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Standing alone beside rusted Revolutionary War cannon, elevated above campus"
+      action: "Observing distant football game while deliberately isolating himself from school community"
+  scene:
+    mainElements: "Solitary figure positioned against institutional backdrop, vast physical and emotional distance between individual and crowd, rusted cannon as symbol of past conflicts"
+    details: "Through Holden's perspective, Pencey buildings appear like prison blocks of red brick, game sounds drift up as meaningless noise, other students appear as tiny conformist dots moving in predictable patterns, shadows growing longer as day dies"
+    background: "Elite boarding school campus spreading below with neo-Gothic buildings, football field where tiny figures play meaningless game, dormitory windows reflecting cold December light"
+    atmosphere: "Profound alienation and melancholy, winter bleakness matching internal emotional state, sense of being outside looking in at world that feels false and theatrical, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from slightly below emphasizing isolation and elevation"
+    focus: "Holden's solitary figure against institutional landscape, red cap as only warm color"
+    depth: "Foreground: lone figure and cannon, middle ground: campus buildings, background: distant game and gray winter sky"

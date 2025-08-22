@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1944, morning
+    location: Colonel's office after bombing of own base
+    weather: smoke-filled Mediterranean morning
+  characters:
+  - appearance: 20s, straight face with separated eyebrows, large eyes, reddish hair, unfortunate reddish-brown mustache,
+      thin nose with moist nostrils
+    clothing: quartermaster lieutenant uniform with expensive civilian accessories
+    position: standing confidently before seated colonel
+    action: explaining profitable bombing operation to superior officer
+  - appearance: 36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture
+      of arrogance and insecurity
+    clothing: immaculate pressed colonel uniform with insignia
+    position: sitting lower in frame behind desk
+    action: listening with confused acceptance to subordinate's business logic
+  scene:
+    mainElements: military office with damage from recent bombing, broken windows, scattered papers, smoke residue on walls
+    details: Milo stands tall explaining how bombing his own base generated enormous profits for the syndicate. Colonel Cathcart
+      sits lower in frame, his usual authority diminished by Milo's financial success. The bombing damage around them proves
+      Milo's power now exceeds military hierarchy through economic control.
+    background: office showing bomb damage, scattered military documents, broken furniture, view of damaged base outside
+    atmosphere: traditional military authority subordinated to capitalist power, mixture of destruction and profitable explanation
+  composition:
+    cameraAngle: low angle favoring Milo, high angle diminishing Colonel
+    focus: reversed power relationship with lieutenant dominating colonel
+    depth: foreground shows bomb damage evidence, middle ground captures power reversal, background reveals scope of destruction
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

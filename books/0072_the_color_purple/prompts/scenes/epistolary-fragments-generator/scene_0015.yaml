@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Other Side - Sister Writing While Others Wait"
+  setting:
+    time: "1925, evening"
+    location: "Traditional West African village in fictional territory, pre-colonial indigenous community surrounded by lush tropical forest"
+    weather: "Warm evening with gentle tropical breeze"
+  characters:
+    - appearance: "African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined features, intelligent eyes, graceful bearing, represents education and worldliness"
+      clothing: "Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted for African climate including white cotton pants designed by Celie"
+      position: "Sitting at simple wooden table by oil lamp"
+      action: "Writing letter with fountain pen, deep concentration on face"
+  scene:
+    mainElements: "Round thatched-roof huts built with natural materials, sacred leaf-roof plant central to culture, village center for gatherings, paths connecting family compounds. Simple writing desk with lamp"
+    details: "Oil lamp casting warm circle of light, fountain pen moving across paper, African village sounds in background. Woman's face showing longing and determination as she maintains connection across distance"
+    background: "Tropical evening with insects singing, village life continuing around her, sense of being far from home but maintaining bonds"
+    atmosphere: "Persistent love across vast distance, writing as bridge between worlds, hope that words will somehow reach their destination"
+  composition:
+    cameraAngle: "Medium shot showing writer in exotic setting"
+    focus: "Act of writing letters destined never to arrive"
+    depth: "Foreground: writing materials, middle: concentrated writer, background: African village at night"

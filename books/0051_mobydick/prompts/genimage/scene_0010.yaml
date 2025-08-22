@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s night, moonlight on deck
+    location: Raised stern deck of whaling ship reserved for captain's command
+    weather: Clear night with full moon
+  characters:
+  - appearance: Man of 58-60 years, tall and broad-shouldered with weathered bronze-like physique, gray hair, sun-darkened
+      face marked by thin white scar running from hairline down through one side of face and neck
+    clothing: Dark navy wool captain's coat, practical ship commander's attire in somber colors, heavy weather-resistant fabric
+    position: Standing rigid in special deck hole for his whale-bone prosthetic leg, one arm gripping ship's rigging for support
+    action: Gazing intensely toward horizon with unwavering focus, stance defiant and commanding despite physical limitation
+  scene:
+    mainElements: Polished white whalebone leg carved from sperm whale's jawbone, fitted with leather straps, worn smooth
+      from constant use, now transformed from medical necessity into symbol of defiance and obsession
+    details: The ivory prosthetic gleams in moonlight, its surface worn mirror-smooth by countless steps across the deck.
+      What began as practical replacement for lost limb has become a ritual object, tapped against the deck in rhythmic patterns
+      that echo across the ship. The bone shows stress fractures from heavy use, hairline cracks that catch moonlight like
+      silver veins. The captain stands planted on this foundation of whale bone, literally supported by the creature he hunts,
+      creating a visual paradox of dependence and revenge, no text or letters visible
+    background: Special auger-hole cut in deck planking for Ahab's ivory leg, whale-bone tiller, commanding view of entire
+      ship
+    atmosphere: The prosthetic's transformation from medical aid to obsessive symbol shows how necessity can become compulsion,
+      and how we are shaped by what we seek to overcome
+  composition:
+    cameraAngle: Low angle emphasizing the ivory leg against moonlit deck
+    focus: Gleaming whalebone prosthetic as transformed symbol of purpose
+    depth: Ivory leg in sharp foreground, deck hole and tiller in middle distance, moonlit ocean extending to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

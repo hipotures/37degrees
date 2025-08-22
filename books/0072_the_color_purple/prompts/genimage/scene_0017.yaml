@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1930, summer afternoon
+    location: Converted barn structure in rural Georgia serving as community gathering place for African American social life,
+      hidden from white authorities
+    weather: Same bright day but atmosphere feels threatening
+  characters:
+  - appearance: Large, powerful African American woman aged 20s-60s, muscular build, light brown skin with lustrous quality,
+      hair worn in tight braids, physical strength that embodies her inner spirit, battle scars from confrontation with racist
+      system
+    clothing: Sturdy work clothes befitting her strength, simple dresses that allow freedom of movement, later worn servant's
+      uniforms during imprisonment, eventual return to dignified working-class attire
+    position: Center of room, now appearing isolated despite crowd
+    action: Dancing but movements seem forced, expression showing underlying tension
+  scene:
+    mainElements: Rough wooden building with small stage area, makeshift bar, dance floor, oil lamps providing warm golden
+      lighting, tables and chairs arranged around performance space. Same space but shadows seem deeper
+    details: Same sunlight but creating harsh contrasts, people's faces showing worry behind smiles, undercurrent of fear
+      and tension, celebration feeling fragile and temporary
+    background: Same gathering but emphasis on vulnerability, awareness of outside threats, community gathering strength because
+      it must
+    atmosphere: Same celebration but filtered through awareness of danger, joy as defiance rather than pure happiness, shadows
+      representing ever-present threat
+  composition:
+    cameraAngle: Same wide shot but with different emotional emphasis
+    focus: Central figure now appearing vulnerable despite strength
+    depth: 'Foreground: dancing with underlying tension, middle: main figure isolated, background: community as protection'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, cosmic twilight where earthly and divine realms meet
+    location: Mystical space above Bombay representing final integration of opposing forces
+    weather: Aurora-like lights creating bridge between earth and sky
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Floating in space with golden aureola now stable and permanent
+    action: Embracing his shadow-self as both angelic and demonic aspects unite
+  - appearance: Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes
+    clothing: Tattered remains of gray suit hanging loosely on enlarged frame
+    position: Approaching angelic figure with arms open for reconciliation
+    action: Allowing horns to transform into halo as demonic nature integrates with divine
+  scene:
+    mainElements: Two opposing symbolic figures drawing together to form single integrated being, boundaries between angel
+      and demon dissolving
+    details: Golden aureola and curved horns beginning to merge into unified crown of light, white wings sprouting from satyr's
+      shoulders while angel's form accepts shadow and substance, supernatural transformation happening through mutual acceptance
+      rather than conquest, features blending to create being that contains both divine and earthly nature, clothing merging
+      into robes that shimmer between elegance and wildness, final form transcending binary opposition to achieve complex
+      unity, integration creating being more complete than either original, no text or letters visible
+    background: Cosmic space where city lights below mirror constellation patterns above, suggesting harmony between mundane
+      and sacred realms
+    atmosphere: Ultimate reconciliation of opposing forces, acceptance of complete self including shadow and light
+  composition:
+    cameraAngle: Wide view showing cosmic scale of symbolic integration
+    focus: Merger of angel and demon representing acceptance of complete human nature
+    depth: 'Foreground: detailed transformation of symbolic elements, midground: merging figures, background: unified cosmos
+      reflecting internal harmony'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

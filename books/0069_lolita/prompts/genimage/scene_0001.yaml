@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1947, summer afternoon
+    location: Small backyard garden behind wooden frame house in New England town of Ramsdale
+    weather: Bright summer sunlight, clear skies
+  characters:
+  - appearance: Middle-aged man in his thirties, European features, well-dressed in casual summer clothes
+    clothing: Light summer shirt, pressed trousers, polished shoes inappropriate for garden setting
+    position: Standing in doorway of house, partially hidden by screen door frame
+    action: Observing garden scene, hand gripping door frame, body tense with sudden attention
+  scene:
+    mainElements: Sunlit patch of lawn, garden towel spread on grass, teenage magazines scattered nearby, glass of lemonade
+      on wooden garden table
+    details: Bright summer light creating sharp shadows across lawn, magazines with colorful movie star covers, empty bubble
+      gum wrapper, white cotton socks and saddle shoes placed beside towel, small pile of teen magazines
+    background: Suburban backyard with clothesline, neighboring houses visible through hedge, garden furniture, residential
+      setting with false sense of normalcy
+    atmosphere: Deceptively peaceful suburban summer scene, sunlight creating contrast between innocence of setting and adult
+      observation
+  composition:
+    cameraAngle: Ground level view from where someone lies on garden towel, looking up toward house
+    focus: Man in doorway watching from shadows, bright garden setting in immediate view
+    depth: Foreground shows bright lawn and personal items, middle ground shows garden space, background shows man observing
+      from house doorway
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Ultimate Symbol - The Machine That Feeds on Humans"
+  setting:
+    time: "1930s, noon"
+    location: "Massive industrial complex in California Central Valley"
+    weather: "Harsh industrial lighting eliminating natural environment"
+  characters:
+    - appearance: "Human figures being consumed by massive mechanical system, appearing as fuel for industrial machine rather than individuals."
+      clothing: "Work clothes being processed through mechanical system like raw materials"
+      position: "Entering machine-like system at one end, emerging as processed components at other end"
+      action: "Being systematically processed through dehumanizing industrial system that transforms living people into mechanical components"
+  scene:
+    mainElements: "Enormous mechanical system that literally consumes human beings as fuel, visualizing economic system that treats people as expendable resources"
+    details: "Shocking allegorical image of economic system as human-consuming machine. Workers enter one end as living individuals and emerge as processed labor units. Mechanical gears and conveyor systems process human input into economic output. Industrial architecture designed to consume human life and dignity. System appears self-sustaining through human consumption"
+    background: "Industrial landscape extending beyond view, suggesting endless mechanical consumption of human resources"
+    atmosphere: "Terrifying realization of system that literally feeds on human life and dignity to maintain its operation"
+  composition:
+    cameraAngle: "Wide shot showing scale of human-consuming industrial system"
+    focus: "Mechanical processing of human beings as industrial raw material"
+    depth: "Human input in foreground flows through processing system in middle ground to emerge as dehumanized output in background"

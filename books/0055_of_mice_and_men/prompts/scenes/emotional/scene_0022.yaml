@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Exhausted but peaceful postures after storm"
+  setting:
+    time: "1930s, late evening after rain with clearing sky"
+    location: "Ranch yard in aftermath of emotional climax"
+    weather: "Rain stopped, air fresh and clean, first stars appearing"
+  characters:
+    - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+      clothing: "Blue denim work clothes, worn leather boots"
+      position: "Sitting on porch step alone, but posture different than before"
+      action: "Looking up at emerging stars with quiet acceptance rather than despair, good hand resting peacefully in lap, breathing steady and calm"
+    - appearance: "Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive boxer stance"
+      clothing: "High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand"
+      position: "Walking away in distance, shoulders no longer aggressive"
+      action: "Head down but no longer in rage, hands unclenched for first time, defeated but not destroyed, walking with slow resignation"
+  scene:
+    mainElements: "Ranch buildings looking normal again in soft starlight, equipment and tools back in their proper places, order restored but changed"
+    details: "Puddles reflecting stars, fresh smell of rain-washed earth, sense of natural cleansing completed, peaceful night sounds returning"
+    background: "Clear sky with stars emerging one by one, moon beginning to show, sense of cosmic perspective and continuity"
+    atmosphere: "Gentle physical contact after conflict, exhausted but peaceful postures replacing violent energy, night bringing rest and acceptance"
+  composition:
+    cameraAngle: "Wide shot showing figures small under vast starry sky"
+    focus: "The transition from violence to exhausted peace under eternal stars"
+    depth: "Foreground shows peaceful human figures, middle ground captures restored ranch order, background emphasizes cosmic continuity and perspective"

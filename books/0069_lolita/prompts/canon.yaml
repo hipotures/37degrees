@@ -1,0 +1,107 @@
+canon:
+  characters:
+    - id: "dolores_haze_child"
+      name: "Dolores Haze (age 12-14)"
+      description_block: |
+        characters:
+          - appearance: "Twelve-year-old girl with chestnut brown hair, gray eyes, four feet ten inches tall, slender childlike build with narrow hips and thin arms"
+            clothing: "1940s American teenage clothing - plaid school skirts, white cotton blouses with Peter Pan collars, blue jeans, checkered shirts, white socks, saddle shoes or loafers, simple cotton pajamas"
+            position: "Often positioned defensively, hunched shoulders, arms crossed protectively, or sitting with knees drawn up"
+            action: "Looking away from adults, staring out windows, reading magazines, chewing gum mechanically, walking with head down"
+    
+    - id: "dolores_haze_teen" 
+      name: "Dolores Haze (age 15-17)"
+      description_block: |
+        characters:
+          - appearance: "Teenage girl with faded gray eyes, chestnut hair grown longer, taller but still slender, visible emotional exhaustion in posture"
+            clothing: "Late 1940s teenage fashion - longer skirts, cardigans, more mature blouses, worn sneakers, clothes that show signs of constant travel"
+            position: "Seated apart from others, leaning against walls, standing with arms wrapped around herself"
+            action: "Looking longingly at other teenagers, writing in notebooks, staring at distant horizons, walking alone"
+
+    - id: "dolores_adult_pregnant"
+      name: "Dolores Schiller (age 17, pregnant)" 
+      description_block: |
+        characters:
+          - appearance: "Seventeen-year-old girl, heavily pregnant, faded gray eyes, worn appearance beyond her years, thin hands with visible veins"
+            clothing: "Simple maternity dress, worn cardigan, practical flat shoes, wedding ring on thin finger"
+            position: "Seated in modest chair, hands resting on pregnant belly, leaning forward slightly from weight"
+            action: "Speaking quietly, looking directly at visitor with tired but determined expression, protective hand gestures toward unborn child"
+
+    - id: "charlotte_haze"
+      name: "Charlotte Haze"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+            clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+            position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+            action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+
+  locations:
+    - id: "haze_house_ramsdale"
+      name: "Haze House, Ramsdale"
+      description_block: |
+        setting:
+          location: "Middle-class wooden frame house at 342 Lawn Street in small New England town of Ramsdale, 1947 America"
+        mainElements: "Gray-white wooden house with mismatched furniture, pink fuzzy toilet seat cover, rubber shower attachment, pretentious middle-class decorations attempting sophistication"
+        atmosphere: "Suffocating domesticity masking underlying tension, sunlight filtering through windows onto worn carpets, sense of performance and pretension"
+
+    - id: "ramsdale_backyard"
+      name: "Haze Backyard Garden"
+      description_block: |
+        setting:
+          location: "Small backyard garden behind wooden frame house in New England town, summer 1947"
+        mainElements: "Patch of sunlit lawn, garden furniture, residential setting with neighboring houses visible, clothesline, small flower beds"
+        atmosphere: "Deceptively peaceful suburban setting, bright summer sunlight creating sharp shadows, false sense of normalcy and safety"
+
+    - id: "american_motel_room"
+      name: "Generic American Motel Room"
+      description_block: |
+        setting:
+          location: "Standard American roadside motel room, late 1940s, anywhere in United States"
+        mainElements: "Pine wood paneling, chenille bedspreads, small television set, mismatched carpet, single window with thin curtains, two beds, small bathroom visible through open door"
+        atmosphere: "Transient, impersonal space with dim yellow lighting from lamps, sense of isolation and displacement, anonymous and temporary"
+
+    - id: "american_highway"
+      name: "American Highway System" 
+      description_block: |
+        setting:
+          location: "Interstate highway system across United States, late 1940s, various states during cross-country travel"
+        mainElements: "Two-lane asphalt road stretching to horizon, billboards advertising tourist attractions, gas stations, roadside diners, telephone poles, vast American landscape"
+        atmosphere: "Endless movement without destination, landscape blurring past car windows, sense of being trapped in motion, false freedom of the open road"
+
+    - id: "beardsley_school"
+      name: "Beardsley School for Girls"
+      description_block: |
+        setting:
+          location: "Private preparatory school in small New England town of Beardsley, 1948-1949 academic year"
+        mainElements: "Brick academic buildings, classrooms with wooden desks, gymnasium with basketball hoops, auditorium stage for school performances, dormitory halls"
+        atmosphere: "Institutional learning environment, echoing hallways, teenage social dynamics, temporary refuge from home life, hope for normal adolescent experiences"
+
+    - id: "coalmont_house"
+      name: "Schiller House, Coalmont"
+      description_block: |
+        setting:
+          location: "Small, modest house in poor mining town of Coalmont, 1952, showing effects of economic hardship"
+        mainElements: "Tiny rooms with worn furniture, thin walls, small kitchen, cramped living space, few possessions, practical necessities only"
+        atmosphere: "Honest poverty but genuine warmth, sense of authentic life after years of deception, simplicity and truth replacing luxury and lies"
+
+  items:
+    - id: "school_magazines"
+      name: "American Teenage Magazines"
+      description_block: |
+        details: "1940s American teen magazines featuring fashion, movie stars, advice columns, popular culture, bright covers with smiling models, articles about dating and style"
+
+    - id: "bubble_gum"
+      name: "Chewing Gum"
+      description_block: |
+        details: "Pink bubble gum constantly chewed, blown into bubbles, mechanical repetitive chewing motion, small pop when bubbles burst, sticky residue"
+
+    - id: "suitcase_belongings"
+      name: "Dolores's Traveling Possessions" 
+      description_block: |
+        details: "Worn suitcase containing few personal items - magazines, simple clothes, small treasures from normal teenage life, items that represent lost childhood and stolen freedom"
+
+    - id: "wedding_ring_simple"
+      name: "Simple Wedding Band"
+      description_block: |
+        details: "Plain gold wedding ring on thin finger of pregnant teenager, symbol of legitimate marriage and escape from past, worn with dignity despite poverty"

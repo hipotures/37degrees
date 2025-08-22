@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: First Monday of April 1625, bright morning
+    location: Courtyard of Free Miller Inn in Loire Valley town of Meung-sur-Loire between provincial Gascony and royal capital
+      Paris
+    weather: Clear spring morning with sharp shadows
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Mounted on comically old yellow horse in center of bustling inn courtyard, chin raised with provincial pride
+      despite shabby appearance
+    action: Surveying surroundings with mix of determination and nervous energy while common people point and snicker at his
+      ridiculous mount and outdated attire
+  scene:
+    mainElements: Wooden two-story inn with courtyard teeming with travelers, merchants, servants, wagoners, all stopped to
+      witness spectacle of ambitious young nobleman on laughably inadequate steed
+    details: Rough wooden construction with heavy beams, stone foundations, multiple windows showing curious faces peering
+      down, horses and carriages of various quality, luggage and supplies scattered about, atmosphere of barely contained
+      mirth at newcomer's expense
+    background: Rural French architecture of Loire Valley with rolling countryside visible beyond inn walls, other travelers'
+      superior horses and equipment emphasizing D'Artagnan's poverty, distant church spire marking provincial life he's leaving
+      behind
+    atmosphere: Comic tension between young man's fierce dignity and obvious disadvantages, spring air filled with laughter
+      and whispered jokes, anticipation of confrontation brewing beneath surface mockery
+  composition:
+    cameraAngle: Extreme wide shot from elevated position showing vast scale of courtyard with tiny figure of D'Artagnan and
+      his horse at center, emphasizing isolation and vulnerability
+    focus: Proud but ridiculous figure of provincial youth surrounded by amused crowd, yellow horse particularly prominent
+      as source of comedy
+    depth: 'Foreground: laughing onlookers and pointing fingers, middle ground: D''Artagnan on horseback maintaining dignity,
+      background: inn structure with faces in windows observing the spectacle, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

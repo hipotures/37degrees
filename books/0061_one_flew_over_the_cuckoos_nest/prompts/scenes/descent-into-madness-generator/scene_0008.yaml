@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fleeting Phantoms - First True Hallucinations"
+  setting:
+    time: "Early 1960s, twilight"
+    location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+    weather: "Dim evening light creating deep shadows"
+  characters:
+    - appearance: "40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust"
+      clothing: "Standard green hospital patient uniform"
+      position: "Standing hunched, trying to appear smaller and invisible, often holding broom"
+      action: "Sweeping floors methodically while observing silently, maintaining expressionless mask"
+  scene:
+    mainElements: "Shadowy figures moving at edge of vision disappearing when looked at directly, whispered voices creating visible distortions in air"
+    details: "Dark human shapes glimpsed in peripheral vision vanish when head turns. Whispers and murmurs materialize as floating text fragments and symbols drifting through air like smoke. Shadows move without casting objects, pooling in corners and stretching across floors. Walls pulse with hidden machinery - gears, wires, and mechanical components visible through transparent surfaces"
+    background: "Nurses station glass reflects figures that aren't actually there, phantom patients sitting in empty chairs"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Boundary between real and unreal completely dissolved, threatening presences manifesting"
+  composition:
+    cameraAngle: "Rapid cuts between direct view and peripheral vision"
+    focus: "Vanishing shadows and floating text symbols, glimpses of mechanical components"
+    depth: "Foreground: broom sweeping empty space. Middle: floating whisper-text and vanishing figures. Background: phantom reflections in glass surfaces"

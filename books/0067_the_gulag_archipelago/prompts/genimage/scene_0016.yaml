@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1952, afternoon
+    location: Large auditorium designed for mass political education
+    weather: Harsh artificial lighting creating stark atmosphere
+  characters:
+  - appearance: Hundreds of citizens arranged in precise rows, faces upturned toward authority figure, expressions showing
+      absorption of information
+    clothing: Identical dark clothing appropriate for serious political instruction, no individual variation in appearance
+    position: Seated in geometric formations facing single speaker platform
+    action: Listening intently to political instruction, taking identical notes, responding in unison to speaker prompts
+  scene:
+    mainElements: Massive speaker platform with single authority figure addressing crowd, huge portraits and symbols surrounding
+      speaker, audience arranged in perfect geometric order
+    details: Speaker using pointing stick to emphasize propaganda charts, audience members writing identical information in
+      notebooks, synchronized head movements following speaker's gestures, recording devices capturing compliance
+    background: Auditorium extending beyond view filled with identical gatherings, systematic indoctrination occurring simultaneously
+      in multiple venues
+    atmosphere: Mass production of approved thoughts and beliefs, systematic replacement of individual judgment with official
+      doctrine, mechanized learning process
+  composition:
+    cameraAngle: High angle showing scale of mass indoctrination, close-ups revealing individual absorption of doctrine
+    focus: Transformation of independent minds into collective thinking
+    depth: Foreground shows individual faces absorbing doctrine, middle ground reveals systematic arrangement, background
+      demonstrates mass scale
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

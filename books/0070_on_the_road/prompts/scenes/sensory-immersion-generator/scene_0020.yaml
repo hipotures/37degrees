@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wine Swirl Light Catcher"
+  setting:
+    time: "1949 evening"
+    location: "cheap cold-water flat in old red brick brownstone in Greenwich Village, New York, small cramped rooms reached through narrow dark corridors and steep stairs"
+    weather: "cool autumn evening"
+  characters:
+    - appearance: "21-year-old man with thin nervous build, dark curly hair in artistic disarray, large intelligent penetrating eyes behind thick black-framed glasses, elongated face with sad poetic expression"
+      clothing: "mismatched worn jackets, shirts and wool pants from thrift shops, intellectual absent-minded professor style contrasting with mainstream fashion"
+      position: "seated on floor holding wine glass"
+      action: "swirling red wine in glass while watching liquid catch light from single overhead bulb"
+    - appearance: "Multiple young bohemian figures in background"
+      clothing: "beat generation style clothing"
+      position: "scattered around room in various positions"
+      action: "engaged in animated conversation and shared meal"
+  scene:
+    mainElements: "red wine creating spiral patterns as it swirls in glass, liquid catching light from overhead bulb and throwing ruby reflections, wine legs running down glass sides, multiple dishes releasing steam with different aromas mixing in air"
+    details: "Wine creating mini-whirlpool in glass with centrifugal force, liquid showing deep red color variations from light burgundy at edges to dark crimson in center, wine leaving temporary coating on glass sides before sliding down, light refracting through wine creating red colored highlights on nearby surfaces, cheap wine showing sediment when swirled, glass showing fingerprints and smudges from handling"
+    background: "small neglected rooms with peeling paint walls, bare wooden floors, minimal random furniture including mattress on floor, makeshift bookshelves, single bare bulb hanging from ceiling"
+    atmosphere: "thick with cigarette smoke, cheap wine smell, coffee and sweat, weak atmospheric lighting creating deep shadows, sounds of jazz gramophone mixing with animated overlapping conversations"
+  composition:
+    cameraAngle: "close-up on wine glass with swirling liquid"
+    focus: "wine's color and movement as representation of complex flavors and bohemian lifestyle"
+    depth: "swirling wine in sharp foreground, figure holding glass in middle ground, party continuing in background shadows"

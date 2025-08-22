@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, sunset hour with healing golden light
+    location: Rooftop terrace overlooking Bombay, where reconciliation finally occurs
+    weather: Calm evening with gentle breeze carrying ocean scent
+  characters:
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Simple white cotton kurta, barefoot, having abandoned British formal wear
+    position: Standing before reforming mirror, both hands extended to guide pieces
+    action: Watching scattered fragments flow together like liquid mercury, face reflecting wonder
+  scene:
+    mainElements: Hundreds of mirror fragments floating in air, moving toward each other to recreate original intact mirror
+    details: Broken mirror pieces scattered across the ground now moving with purpose toward reunification, fragments of different
+      sizes flowing like schools of silver fish, each piece finding its exact position in larger whole, cracks healing as
+      pieces touch, restored mirror showing complete reflection for first time, reassembly happening in slow motion with pieces
+      rotating to perfect alignment, no fragment too small to contribute to restoration, backing reforming to support reunited
+      surface, restored mirror now showing integrated identity rather than fractured perspectives, no text or letters visible
+    background: Bombay skyline at sunset, Arabian Sea gleaming in distance, family home's architecture suggesting roots and
+      continuity
+    atmosphere: Integration and healing, scattered identity pieces finding their proper relationships, wholeness achieved
+      through acceptance
+  composition:
+    cameraAngle: Medium shot showing mirror reassembly process with figure as witness
+    focus: Reunifying mirror representing psychological and cultural integration
+    depth: 'Foreground: floating mirror fragments in precise ballet, midground: amazed figure, background: peaceful cityscape
+      suggesting resolved identity'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

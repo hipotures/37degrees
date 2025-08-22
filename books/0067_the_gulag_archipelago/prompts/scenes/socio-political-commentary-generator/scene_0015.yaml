@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Alone in the Collective"
+  setting:
+    time: "1951, evening"
+    location: "Public space filled with conforming masses, focus on single individual"
+    weather: "Twilight creating contrast between light and shadow"
+  characters:
+    - appearance: "Thin man in 30s with gaunt cheeks, intelligent eyes showing exhaustion, several days stubble, prematurely graying hair, pale complexion with dark circles under eyes"
+      clothing: "Dirty torn telogreika padded jacket in khaki color with multiple patches, matching padded trousers, felt valenki boots or improvised lapti footwear, fur ushanka hat, white cloth patches with black prison number"
+      position: "Sitting on hard wooden chair or standing in formation"
+      action: "Holding tin bowl, working with primitive tools, walking in prisoner column"
+  scene:
+    mainElements: "Single individual standing motionless while crowd flows around in synchronized movement, person's face showing doubt and inner questioning while others remain expressionless"
+    details: "Individual's different posture contrasting with mass conformity, questioning expression amid vacant faces, hesitation in movement while others move automatically, subtle signs of independent thought"
+    background: "Endless stream of conforming citizens flowing past, systematic movement patterns highlighting individual's isolation, collective behavior emphasizing personal loneliness"
+    atmosphere: "Profound isolation within collective conformity, inner resistance against mass pressure, quiet desperation of maintaining individual consciousness"
+  composition:
+    cameraAngle: "Close-up on individual face contrasted with wide shots of flowing crowd"
+    focus: "Single person's humanity preserved within dehumanized mass"
+    depth: "Foreground emphasizes individual's questioning expression, middle ground shows crowd movement, background reveals scale of conformity pressure"
