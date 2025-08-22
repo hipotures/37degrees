@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: Modern agricultural processing facility in California's Central Valley
+    weather: Industrial lighting illuminating facility
+  characters:
+  - appearance: Factory supervisors in clean white coats with clipboards and confident expressions, appearing to oversee benevolent
+      technological progress.
+    clothing: Pristine white laboratory coats, polished shoes, neat hair, clean hands holding official documents
+    position: Standing proudly beside gleaming machinery, gesturing toward efficient operations
+    action: Explaining technological benefits with satisfied expressions, pointing to charts showing increased productivity
+      and worker welfare
+  scene:
+    mainElements: Massive gleaming industrial machinery with chrome surfaces, conveyor belts moving efficiently, electronic
+      control panels with flashing lights, everything appearing futuristic and beneficial
+    details: Impressive technological display suggesting machines exist to help humanity. Pristine factory floor with polished
+      surfaces reflecting light. Charts on walls show rising production graphs labeled as worker benefits. Supervisors gesture
+      proudly at efficient systems. Everything appears clean, modern and humanitarian in purpose
+    background: Vast industrial facility extending beyond view, suggesting technological progress benefiting society
+    atmosphere: False sense of technological benevolence, mechanical humming suggesting efficiency, artificial lighting creating
+      illusion of progress serving humanity
+  composition:
+    cameraAngle: Low angle looking up at impressive machinery
+    focus: Gleaming technology appearing to serve human benefit, with proud supervisors presenting it as humanitarian advancement
+    depth: Foreground shows supervisors explaining benefits, middle ground reveals impressive machinery, background hints
+      at vast scale of industrial operation
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

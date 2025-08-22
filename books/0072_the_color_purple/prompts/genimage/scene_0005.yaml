@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1915, evening
+    location: Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural
+      fields
+    weather: Clear evening with sunset colors
+  characters:
+  - appearance: African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries
+      herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful
+      to determined
+    clothing: 'Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect.
+      Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues,
+      clothes that express newfound freedom and self-worth'
+    position: Standing by mailbox at end of dirt road
+    action: Opening empty mailbox repeatedly, searching for letters that never come, face showing hope fading to resignation
+  scene:
+    mainElements: Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters,
+      kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Empty wooden mailbox on post
+    details: Rusty mailbox hinges creaking, no letters inside, dust and spider webs in empty space. Woman's hands searching
+      hopefully, then slowly closing door with disappointment visible in posture
+    background: Dirt road stretching toward distant farmhouse, fields and trees in evening light, isolation emphasized by
+      vast empty landscape
+    atmosphere: Loneliness and hope deferred, silence speaking louder than words, empty mailbox representing severed connection
+      and hidden truth
+  composition:
+    cameraAngle: Medium shot focusing on figure at mailbox, then close-up of empty interior
+    focus: The act of searching for communication that doesn't come, emptiness as powerful presence
+    depth: 'Foreground: mailbox and searching hands, middle: solitary figure, background: empty road and distant house'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

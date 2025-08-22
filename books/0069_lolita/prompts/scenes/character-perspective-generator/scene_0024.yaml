@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Adult Reunion - Final Truth"
+  setting:
+    time: "1952, day"
+    location: "Small, modest house in poor mining town of Coalmont, 1952, showing effects of economic hardship"
+    weather: "Clear day in modest residential area"
+  characters:
+    - appearance: "Seventeen-year-old girl, heavily pregnant, faded gray eyes, worn appearance beyond her years, thin hands with visible veins"
+      clothing: "Simple maternity dress, worn cardigan, practical flat shoes, wedding ring on thin finger"
+      position: "Seated in modest chair, hands resting on pregnant belly, leaning forward slightly from weight"
+      action: "Speaking quietly, looking directly at visitor with tired but determined expression, protective hand gestures toward unborn child"
+    - appearance: "Middle-aged man in his thirties, European features, now showing age and guilt"
+      clothing: "Travel clothes, formal attire inappropriate for modest setting"
+      position: "Standing awkwardly in small room, uncomfortable in cramped space"
+      action: "Speaking urgently, making desperate appeals, showing desperation and remorse"
+  scene:
+    mainElements: "Tiny rooms with worn furniture, thin walls, small kitchen, cramped living space, few possessions, practical necessities only"
+    details: "Modest home showing honest poverty, pregnant young woman displaying dignity despite hardship, worn but clean furniture, sense of authentic life"
+    background: "Poor mining town visible through small windows, modest neighborhood, sense of honest working-class community"
+    atmosphere: "Honest poverty but genuine warmth, sense of authentic life after years of deception, simplicity and truth replacing luxury and lies"
+  composition:
+    cameraAngle: "Eye level view from modest living room, observing reunion between past victim and former captor"
+    focus: "Pregnant young woman speaking to older man, showing strength despite youth and pregnancy"
+    depth: "Foreground shows modest home interior, middle ground shows two figures in emotional conversation, background shows small house environment"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Physician's Discovery"
+  setting:
+    time: "1647 midnight in minister's bedchamber"
+    location: "Simple minister's sleeping quarters"
+    weather: "Dark night with moonlight through window"
+  characters:
+    - appearance: "Man well advanced in years around 50-60, short and thin build, slight deformity with left shoulder higher than right, pale learned scholarly face, dim but penetrating eyes that acquire demonic red gleam over time"
+      clothing: "Initially strange mixture of civilized and savage garments from time among Native Americans, later adopts modest physician's attire of dark colors, carries leather satchel with herbs and medicines"
+      position: "Position varies by scene context"
+      action: "Constantly observing and analyzing others with piercing gaze, mixing herbal remedies, making notes, speaking in measured intellectual tones while eyes betray malevolent intent"
+  scene:
+    mainElements: "Physician lifting sleeping minister's shirt to reveal hidden mark while face shows triumphant horror"
+    details: "Symbolic scene depicting the physician's discovery with detailed symbolic elements emphasizing visual metaphors of moment of discovery as hidden guilt becomes visible to vengeful eyes. All elements contribute to overall symbolic narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact."
+    background: "Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social elements"
+    atmosphere: "Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no text or letters visible"
+  composition:
+    cameraAngle: "Angle chosen to emphasize symbolic elements and character relationships"
+    focus: "Moment of discovery as hidden guilt becomes visible to vengeful eyes"
+    depth: "Foreground, middle, and background elements layered to create symbolic meaning and visual depth"

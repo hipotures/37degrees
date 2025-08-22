@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: April 1625, clear noon with balanced lighting
+    location: Dueling ground near Carmelite monastery displaying musketeer's cultured bearing
+    weather: Bright clear day allowing appreciation of refined details
+  characters:
+  - appearance: 22-23 years old young man with gentle innocent countenance, extremely handsome with delicate almost feminine
+      features, refined scholarly appearance better suited to poet or diplomat than battle-hardened soldier
+    clothing: Immaculately elegant refined garments with subtle luxurious fabrics, somewhat effeminate attention to detail
+      including embroidered handkerchiefs and perfectly manicured hands
+    position: Waist-up framing showing graceful posture and refined bearing, holding embroidered handkerchief with delicate
+      gesture
+    action: Demonstrating characteristic grace and attention to appearance, adjusting elegant clothing with subtle vanity,
+      maintaining scholarly pose despite martial setting
+  scene:
+    mainElements: Delicate handsome features emphasizing youth and refinement, luxurious but subtle clothing showing wealth
+      and taste, graceful bearing suggesting education and culture rather than military training
+    details: Perfectly arranged clothing with attention to finest details, embroidered handkerchief as symbol of refinement,
+      manicured hands showing care for appearance, subtle luxurious fabrics catching light, elegant posture and graceful movement
+    background: Monastery architecture and dueling ground visible but secondary to character study, religious setting adding
+      irony to his conflicted nature between violence and spirituality
+    atmosphere: Refined elegance and subtle mystery, intellectual sophistication masking hidden depths, tension between scholarly
+      nature and dangerous situation, cultured grace in martial environment
+  composition:
+    cameraAngle: Medium shot at eye level emphasizing refined features and elegant bearing while showing scholarly accessories
+    focus: Sharp focus on subject and immediate details of costume and bearing, embroidered handkerchief prominently featured
+      as character symbol
+    depth: 'Foreground: elegant hands and accessories showing refinement, middle ground: graceful posture and cultured expression,
+      background: monastery setting providing context, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

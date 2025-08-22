@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: January 1951, 6:30 AM, morning meal consumption
+    location: Prison camp dining hall building in Soviet labor camp, January 1951
+    weather: Interior steam environment with temperature contrasts
+  characters:
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Seated at rough table consuming watery soup with methodical determination
+    action: Eating spoiled soup with forced acceptance, extracting nutrition despite unpleasant taste
+  scene:
+    mainElements: Single large room filled with dense steam rising from soup kettles like Turkish bath, two rows of long crude
+      tables made from unfinished planks on wooden sawhorses, no chairs or benches, steep icy steps leading to entrance
+    details: Watery soup with leaves of spoiled black cabbage, small unpeeled fish floating in broth creating distinct aromatic
+      signature. Dark discolored cabbage leaves showing decay and spoilage, bitter taste suggested through prisoner's controlled
+      facial expressions. Careful consumption technique using aluminum spoon to strain out fish bones, methodical eating despite
+      unpalatable flavor. Visual evidence of poor food quality through dark liquid, floating debris, and unappetizing appearance.
+      Prisoner's disciplined consumption showing adaptation to bitter necessity, no waste despite unpleasant taste, no text
+      or letters visible
+    background: Chaotic and loud with shouting and cursing, dense steam mixed with freezing air creating swirling clouds,
+      floor sticky and slippery from spilled soup and mud from boots, dim lighting dispersed through omnipresent vapor
+    atmosphere: Bitter acceptance of inadequate nutrition, survival requiring consumption of unpalatable food, discipline
+      overcoming natural taste aversion for biological necessity
+  composition:
+    cameraAngle: Close-up on soup consumption and facial control
+    focus: Poor food quality visualization, disciplined eating technique, controlled taste reactions
+    depth: 'Foreground: detailed soup quality and consumption method, middle: determined eating ritual, background: institutional
+      food distribution'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

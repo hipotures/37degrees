@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror POV - Jordan's reflection in mountain stream"
+  setting:
+    time: "Late May 1937, early morning with soft light"
+    location: "Mountain stream near partisan camp"
+    weather: "Clear cold morning with mist rising from water"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+  scene:
+    mainElements: "Character's reflection in clear mountain stream water, face distorted by gentle ripples, surrounded by reflection of pine trees and morning sky"
+    details: "Stream water acting as natural mirror with slight distortion from water movement, reflection showing character's contemplative expression, morning light filtering through pine branches creating dappled patterns on water surface"
+    background: "Pine forest reflected in stream surface, rocky stream bed visible through clear water, morning mist creating ethereal atmosphere"
+    atmosphere: "Moment of self-reflection and contemplation, natural mirror showing internal state, peaceful interlude before action, connection with natural environment"
+  composition:
+    cameraAngle: "POV shot looking down at reflection in stream"
+    focus: "Character's reflected face as window to internal state"
+    depth: "Water surface reflection in foreground, stream bed and stones beneath water in background"

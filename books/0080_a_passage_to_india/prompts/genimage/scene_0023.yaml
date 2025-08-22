@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, extreme heat wave during hottest part of hot season
+    location: Open area between communities showing heat effects on landscape and architecture
+    weather: Extreme heat creating visible heat waves and mirages, air shimmering with intensity
+  characters: No characters present in this scene
+  scene:
+    mainElements: Landscape and buildings distorted by extreme heat waves, showing both British and Indian architecture affected
+      by same brutal conditions
+    details: Heat waves rising from ground creating shimmering mirages, buildings appearing to wave in superheated air, metal
+      surfaces too hot to touch, pavement cracking from heat, all vegetation wilted and brown, water tanks empty, heat creating
+      optical illusions making distances difficult to judge, metal roof sheets buckling, tar melting on roads
+    background: Horizon line wavering in heat distortion, Marabar Hills appearing closer then farther in heat mirages
+    atmosphere: Brutal equality of extreme heat affecting all communities, nature's power to make human divisions irrelevant,
+      survival requiring adaptation
+  composition:
+    cameraAngle: Wide shot showing heat distortion effects across entire landscape
+    focus: Visual distortion created by extreme heat making reality appear dreamlike
+    depth: Foreground shows immediate heat effects, middle ground captures distorted buildings, background disappears in heat
+      mirages
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

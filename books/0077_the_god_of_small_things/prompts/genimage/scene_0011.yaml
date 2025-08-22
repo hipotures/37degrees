@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1969 December, early morning in kitchen
+    location: Kitchen of Ipe family house with traditional wood-fired oven and stone counters
+    weather: Cool morning air contrasting with warm kitchen atmosphere
+  characters:
+  - appearance: Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional
+      Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build
+    clothing: Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing
+      her rebellious nature, sunset-colored silk sari with gold threading from wedding photos
+    position: Standing at wooden counter arranging fresh bread
+    action: Lifting hot bread loaves from cooling rack, watching steam rise from golden crusts
+  scene:
+    mainElements: Multiple loaves of fresh bread releasing visible steam in delicate spiraling patterns, kitchen filled with
+      flour dust hanging in morning light, heat shimmer rising from warm bread surfaces
+    details: Steam curling upward from bread in elegant spirals suggesting warmth and aroma, flour dust particles floating
+      in air like tiny aromatic messengers, golden-brown crusts with visible texture indicating freshness, Ammu's face softened
+      by warm steam, kitchen implements dusted with flour residue
+    background: Traditional Kerala kitchen with wood-fired oven, clay vessels, banana leaves used for covering food, morning
+      sunlight streaming through window
+    atmosphere: Domestic warmth and comfort, sense of nourishment and care, kitchen as sanctuary from family tensions
+  composition:
+    cameraAngle: Close view of bread cooling with steam patterns clearly visible in morning light
+    focus: Steam spirals rising from fresh bread suggesting aromatic warmth
+    depth: Foreground captures bread with rising steam, middle ground shows Ammu's gentle movements, background features traditional
+      kitchen setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

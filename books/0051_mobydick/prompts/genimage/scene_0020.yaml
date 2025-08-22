@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1840s afternoon, bright sun
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Blazing tropical sun casting sharp shadows
+  characters:
+  - appearance: Tall dark-skinned Parsee of indeterminate ancient age, one conspicuous white tooth protruding from lips, mysterious
+      otherworldly presence
+    clothing: Black Chinese-style jacket, white turban woven from his own long hair wound around head
+    position: Standing motionless as if carved from shadow, supernatural stillness
+    action: Watching events unfold with prophetic silence, moving like dark specter across deck with unnatural quiet
+  scene:
+    mainElements: Figure stands in bright sunlight but casts shadow that moves independently, the dark silhouette behaving
+      according to different laws than the body creating it
+    details: In brilliant tropical light, the shadow disconnects from its caster, moving across deck planks in directions
+      opposite to the person's movement. While the figure stands still, the shadow paces restlessly. When the person moves
+      forward, the shadow retreats. The ship's rigging creates complex lattework of shadows that seem to writhe and shift
+      independently of the ropes casting them. Other crew members' shadows behave normally, making the rebellious shadow more
+      disturbing. The dark shape appears more solid and real than the flesh creating it, suggesting hidden nature revealing
+      itself, no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: The independent shadow represents the revelation of hidden nature and the idea that surface appearance may
+      conceal deeper realities that follow different rules
+  composition:
+    cameraAngle: Medium shot showing both figure and disobedient shadow
+    focus: Shadow moving contrary to its caster as supernatural element
+    depth: Figure and shadow in foreground, normal shadows in middle distance, bright deck extending to background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

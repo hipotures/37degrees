@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "University Campus - Neutral Architectural Survey"
+  setting:
+    time: "1930s, midday"
+    location: "Southern United States Negro university campus in rural setting, 1930s, with red brick ivy-covered buildings, manicured lawns, flowering shrubs including magnolias, roses and honeysuckle"
+    weather: "Clear midday with strong shadows defining architectural features"
+  characters:
+    - "No characters present in this scene"
+  scene:
+    mainElements: "Gothic chapel with low-hanging eaves, winding roads with hedges, wild roses, wisteria and honeysuckle, meticulously maintained grounds"
+    details: "Objective architectural documentation shows campus as carefully constructed environment - buildings demonstrate combination of Gothic Revival and Colonial Revival styles typical of early 20th century Black institutions, landscaping follows formal garden design principles with strategic placement of flowering plants, maintenance reveals significant financial investment in appearance, paths create controlled movement patterns directing foot traffic, central monument placement establishes institutional hierarchy, overall design replicates elite white college campuses while serving different social function"
+    background: "Rural Southern landscape extending beyond campus boundaries, farmland and forest providing isolation"
+    atmosphere: "Deceptively peaceful academic sanctuary masking institutional control and racial paternalism, surface beauty hiding systematic oppression"
+  composition:
+    cameraAngle: "Elevated neutral perspective showing architectural relationships and spatial organization"
+    focus: "Campus layout revealing institutional design principles and social control mechanisms"
+    depth: "Foreground shows immediate campus features, middle ground captures building relationships, background reveals geographical isolation, no text or letters visible"

@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, evening
+    location: Secret basement meeting room in Chicago South Side
+    weather: Cold winter evening, hidden from street view
+  characters:
+  - appearance: 23-year-old white man with intellectual appearance, may wear glasses, lean build, earnest facial expression
+    clothing: simpler than the Daltons but clean - sweater, corduroy or simple pants, tweed jacket, non-conformist but still
+      distinguishable from working class
+    position: seated at makeshift table in basement
+    action: secretly passing communist literature and organizing materials to African American contacts, building underground
+      resistance network
+  - appearance: Several African American men and women of various ages, faces showing mixture of hope and caution
+    clothing: working clothes, worn but clean garments, dressed for meeting after work shifts
+    position: gathered around table in circle formation
+    action: receiving forbidden political materials, learning about organizing techniques, building connections for resistance
+  scene:
+    mainElements: Clandestine political meeting in hidden basement location, showing development of underground resistance
+      networks and forbidden knowledge sharing
+    details: red brochures and flyers with hammer and sickle symbols, political materials representing foreign ideology to
+      Bigger, used as tools in his manipulation scheme. Books and pamphlets being distributed secretly, maps and organizational
+      charts spread on table, single lamp providing minimal light to avoid detection, hushed voices discussing strategy, lookout
+      posted at basement entrance
+    background: Underground basement with concrete walls, hidden from street surveillance, simple furniture arranged for meeting,
+      stairs leading to concealed entrance, other rooms showing network of safe spaces
+    atmosphere: Dangerous but hopeful organizing activity, building solidarity across racial lines, sharing of forbidden knowledge
+      and resistance strategies, tension between hope for change and fear of violent retaliation
+  composition:
+    cameraAngle: Medium shot from corner showing secretive gathering around table
+    focus: The formation of underground resistance networks and sharing of forbidden political knowledge
+    depth: Foreground shows political materials being distributed, middle ground captures the diverse group organizing, background
+      reveals the hidden nature of resistance activity
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

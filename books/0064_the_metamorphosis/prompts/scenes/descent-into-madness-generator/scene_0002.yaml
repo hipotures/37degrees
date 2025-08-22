@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Distorted Reflection - Mirror of Denial"
+  setting:
+    time: "Same autumn morning 1912, around 7:00 AM"
+    location: "Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building"
+    weather: "Rain continuing against window, creating shifting patterns of light and shadow"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Small mirror on dresser reflecting the room, wardrobe door slightly ajar, fabric samples scattered on writing desk"
+    details: "The mirror shows Gregor's reflection, but it flickers between his insect form and glimpses of his human appearance - a 25-30 year old man in a business suit. The fabric samples on his desk appear to writhe and move like living tissue. The wardrobe door creaks open by itself, revealing clothes that hang like empty shells of his former self."
+    background: "Dark wooden furniture casting deep shadows, window showing the unchanging gray hospital across the street"
+    atmosphere: "Reality becoming unreliable, identity crisis manifesting visually, the familiar room turning alien and threatening"
+  composition:
+    cameraAngle: "Medium shot showing both Gregor and his fragmented reflection"
+    focus: "The mirror showing conflicting images of human and insect forms"
+    depth: "Foreground: Gregor's insect body, middle: dresser with unstable mirror reflection, background: wardrobe with phantom human clothes"

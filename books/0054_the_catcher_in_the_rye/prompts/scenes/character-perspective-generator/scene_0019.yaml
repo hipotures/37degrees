@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Multiple perspectives: Manhattan street revealing simultaneous realities"
+  setting:
+    time: "Late 1940s, evening in December"
+    location: "Manhattan street corner viewed from ground level, elevated position, and architectural interior"
+    weather: "December evening with documented temperature and wind conditions"
+  characters:
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Walking on sidewalk while multiple viewpoints document complete urban environment"
+      action: "Moving through city space while multiple angles reveal simultaneous urban activities"
+  scene:
+    mainElements: "Street viewed simultaneously from pedestrian level showing individual experience, rooftop perspective revealing traffic patterns, building interior showing concurrent activities, basement level revealing infrastructure"
+    details: "Ground perspective documents street width at 40 feet with measured sidewalks, aerial view reveals traffic light timing and vehicle flow patterns, building cross-sections show simultaneous activities in multiple floors, underground view reveals subway system and utility infrastructure"
+    background: "Complete urban documentation showing building heights ranging from 4 to 12 stories, street grid system organized for efficient movement, commercial and residential zones serving documented urban functions"
+    atmosphere: "Comprehensive urban documentation revealing simultaneous multiple realities occurring in same geographic space, neutral recording of complex urban environment functioning, no text or letters visible"
+  composition:
+    cameraAngle: "Multiple simultaneous perspectives documenting complete urban reality from various physical positions"
+    focus: "Urban environment revealed through multiple viewing angles showing concurrent activities and infrastructure"
+    depth: "Multiple depth planes from underground infrastructure through street level to rooftop perspectives"

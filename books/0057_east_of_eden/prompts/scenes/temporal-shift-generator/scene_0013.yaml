@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Communication evolution - letters to telegrams to telephone across decades"
+  setting:
+    time: "1870s, 1890s, and 1910s overlaid, showing 40 years of technological progress, afternoon light"
+    location: "Hamilton farmhouse kitchen table and later Salinas post office, same space adapting to new communication methods"
+    weather: "Bright afternoon light streaming through windows illuminating communication activities"
+  characters:
+    - appearance: "Samuel Hamilton visible as ghostly overlay, tall elderly Irish man in his 60s-70s with white hair and beard, kind eyes full of wisdom, large gentle hands despite his size"
+      clothing: "Simple cotton work shirt, worn wool vest, practical trousers, leather blacksmith apron when working"
+      position: "Seated at kitchen table writing letters in 1870s, standing at telegraph office in 1890s, using wall telephone in 1910s"
+      action: "Carefully composing handwritten letters with quill pen, dictating urgent telegrams to operator, speaking into telephone mouthpiece with wonder at instant communication"
+  scene:
+    mainElements: "Communication technology evolution from writing desk with inkwell and paper to telegraph office with clicking apparatus to wall-mounted telephone with speaking tube and listening piece"
+    details: "Writing materials progressing from quill pens and homemade ink to manufactured fountain pens, paper evolving from hand-cut sheets to standardized letterhead to telegram forms to telephone message pads, furniture adapting from writing desk to telegraph counter to telephone alcove"
+    background: "Farmhouse interior modernizing around communication needs - oil lamps evolving to electric fixtures enabling evening communication, postal service expanding from monthly delivery to daily pickup to instant connection"
+    atmosphere: "Human connection accelerating across distance and time, marvel at technological progress shrinking world, family bonds maintaining strength despite changing communication methods, no text or letters visible"
+  composition:
+    cameraAngle: "Interior view focused on communication equipment and user across three time periods"
+    focus: "Hands using different communication tools as primary temporal indicators"
+    depth: "Foreground shows communication device details, middle ground reveals figure using technology, background displays interior modernization"

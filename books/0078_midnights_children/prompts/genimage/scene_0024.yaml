@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1947, 1965, 1971 - three war periods overlapping in Kashmir
+    location: Kashmir valley showing recurring military conflicts across decades
+    weather: Various war conditions - partition chaos, bombing raids, military occupation
+  characters:
+  - appearance: Soldiers from different conflicts appearing as ghostly overlays. Partition period irregulars, 1965 war regular
+      army, 1971 war modern military forces
+    clothing: Military uniforms evolving across periods - basic partition-era clothing to formal army dress to modern combat
+      gear
+    position: Combat positions and military formations appropriate to different warfare periods
+    action: Fighting, patrolling, occupying territory across multiple historical conflicts
+  scene:
+    mainElements: Kashmir valley serving as recurring battlefield for multiple conflicts over twenty-four year period. Partition
+      violence, 1965 Indo-Pakistani war, and 1971 Bangladesh war all visible as overlapping military actions in same geographical
+      space
+    details: Military equipment and tactics evolve across time periods while battlefield geography remains constant. Weapons
+      progress from basic partition-era arms to modern military hardware. Troop formations and strategy adapt to changing
+      warfare technology and political objectives
+    background: Valley geography provides eternal backdrop while military infrastructure and civilian displacement patterns
+      change. Villages and settlements show damage accumulation and reconstruction cycles across multiple conflicts
+    atmosphere: Tragic repetition of violence in paradise location. Beautiful Kashmir valley scarred by recurring warfare
+      showing cyclical nature of political conflict and human suffering, no text or letters visible
+  composition:
+    cameraAngle: Wide valley shot capturing battlefield geography and military activities
+    focus: Military formations as overlapping temporal elements within constant geography
+    depth: Combat activities in foreground, valley terrain in middle ground, mountain backdrop providing eternal reference
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

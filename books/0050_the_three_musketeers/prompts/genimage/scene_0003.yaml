@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: April 1625, clear morning with crisp shadows
+    location: Imposing facade of Louvre palace complex in central Paris, seat of French royal authority under Louis XIII
+    weather: Bright spring morning with sharp contrasts between light and shadow
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive stone palace complex mixing medieval fortress remnants with Renaissance and early Baroque additions,
+      imposing central courtyard Cour Carrée under construction, formal gardens with geometric patterns, guard posts and ceremonial
+      gates
+    details: Elaborate stonework with royal heraldic symbols carved into facades, countless windows reflecting morning light,
+      ceremonial courtyards paved with precise stone patterns, ornate balconies and decorative elements showing royal wealth,
+      construction scaffolding indicating ongoing expansion, formal French gardens with trimmed hedges and gravel paths
+    background: Urban Paris spreading beyond palace walls with mix of medieval streets and emerging grand boulevards, Seine
+      River visible providing natural boundary, church spires and noble mansions creating layered cityscape of power and privilege
+    atmosphere: Overwhelming sense of royal authority and centralized power, architectural grandeur designed to intimidate
+      visitors and subjects, morning light emphasizing both beauty and forbidding nature of absolute monarchy
+  composition:
+    cameraAngle: Wide architectural shot from ground level looking up at imposing facade, emphasizing monumental scale and
+      authority of royal residence
+    focus: Central palace structure with emphasis on royal symbols and architectural details that communicate power and wealth
+      to all who approach
+    depth: 'Foreground: ceremonial courtyard and formal approaches, middle ground: main palace facade with royal apartments,
+      background: palace wings and formal gardens extending into urban landscape, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, dawn reconnaissance
+    location: Forest observation position overlooking bridge valley
+    weather: Clear dawn light with morning mist
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  scene:
+    mainElements: View through circular binocular frame showing steel bridge spanning rocky gorge, guard posts visible at
+      both ends, early morning light illuminating target structure
+    details: Binocular vignette effect framing bridge structure, guard stations with small figures visible, rocky canyon walls
+      showing strategic importance of crossing point, morning shadows revealing construction details and potential weak points
+    background: Mountain landscape extending beyond bridge site, distant peaks visible through morning haze
+    atmosphere: Professional military assessment, target identification and planning, mixture of technical focus and anticipation
+      of action
+  composition:
+    cameraAngle: POV shot through binocular optics
+    focus: Bridge structure as military objective viewed through magnified optics
+    depth: Circular binocular frame creating tunnel vision effect on distant target
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

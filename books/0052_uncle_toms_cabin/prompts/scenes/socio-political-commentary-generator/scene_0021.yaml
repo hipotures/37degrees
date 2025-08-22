@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Puppet Theatre - Strings of Control"
+  setting:
+    time: "1851, evening"
+    location: "Metaphorical representation of plantation as puppet show with human marionettes"
+    weather: "Dramatic evening lighting creating long shadows"
+  characters:
+    - appearance: "Multiple enslaved people positioned like marionettes with invisible strings suggesting external control"
+      clothing: "Work clothes that appear to move as if controlled by unseen forces"
+      position: "Arranged in theatrical poses suggesting manipulation by external powers"
+      action: "Moving in synchronized patterns suggesting loss of free will and autonomous action"
+  scene:
+    mainElements: "Human figures arranged like puppets in performance, suggestion of invisible strings or controls, puppet theater staging with plantation as backdrop"
+    details: "Movement patterns suggesting external control rather than free choice, positioning that creates illusion of strings attached to limbs, choreographed actions lacking individual initiative, theatrical lighting creating puppet show atmosphere"
+    background: "Plantation buildings arranged like puppet theater set, authority figures positioned like puppet masters, economic system represented as controlling mechanism"
+    atmosphere: "Human beings reduced to controlled performers in economic theater, loss of individual agency through systematic manipulation, theatrical presentation of real human tragedy"
+  composition:
+    cameraAngle: "Theatrical perspective showing puppet-like arrangement of human figures"
+    focus: "The puppet metaphor as symbol of systematic control and loss of human agency"
+    depth: "Foreground shows detailed puppet-like positioning and movement, middle ground reveals the theatrical staging, background suggests the controlling forces manipulating human lives"

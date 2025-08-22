@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mass Rally for Colonial Compliance"
+  setting:
+    time: "Late 1890s, afternoon during colonial administrative demonstration"
+    location: "Sacred central plaza of Umuofia village confederation in southeastern Nigeria, packed red earth surface for community gatherings"
+    weather: "Harsh sunlight creating stark atmosphere of forced public compliance"
+  characters:
+    - appearance: "British colonial official whose face reddens with anger, arrogant and condescending expression"
+      clothing: "White or khaki tropical colonial uniform with pith helmet, formal European dress"
+      position: "Standing elevated above indigenous crowd demonstrating colonial authority"
+      action: "Addressing gathered indigenous population to establish colonial dominance and extract public submission"
+  scene:
+    mainElements: "Large open space with ancient sacred silk-cotton tree, surrounded by gathering crowds during ceremonies now commandeered for colonial political demonstration"
+    details: "Traditional community gathering space repurposed for colonial indoctrination where indigenous people must publicly demonstrate submission to foreign authority. Sacred traditional meeting ground desecrated by foreign political theater designed to humiliate and control"
+    background: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths now occupied by colonial military presence"
+    atmosphere: "Forced public compliance and political theater where traditional community autonomy is systematically destroyed through humiliating demonstrations of colonial power"
+  composition:
+    cameraAngle: "Wide shot showing colonial authority dominating traditional space"
+    focus: "Foreign official commanding submission from indigenous population"
+    depth: "Colonial authority in foreground, submissive crowd in middle ground, desecrated traditional symbols in background"

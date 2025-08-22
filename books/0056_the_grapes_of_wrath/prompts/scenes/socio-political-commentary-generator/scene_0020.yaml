@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Crushing of Beauty - Systematic Destruction of Hope"
+  setting:
+    time: "1930s, afternoon"
+    location: "Public area of California migrant camp during authority raid"
+    weather: "Harsh daylight exposing violence"
+  characters:
+    - appearance: "Uniformed authority figures with stern expressions and aggressive postures, migrant families with expressions of fear and loss."
+      clothing: "Officers in dark uniforms with badges and equipment, migrants in worn work clothes"
+      position: "Officers standing over broken objects while families watch helplessly"
+      action: "Authority figures systematically destroying personal possessions and sources of comfort while families stand by in shock"
+  scene:
+    mainElements: "Scene of systematic destruction where authorities confiscate or destroy migrants' few precious possessions, particularly items of beauty or cultural value"
+    details: "Deliberate destruction of anything that brings joy or maintains cultural identity. Well-worn acoustic guitar with scratched finish and replaced strings, carried by migrant families as one of few possessions bringing comfort and maintaining cultural connection being destroyed. Family photographs torn. Musical instruments broken. Small decorations or artwork confiscated. Systematic removal of hope and beauty from lives"
+    background: "Migrant camp structures showing the poverty from which even small comforts are being removed"
+    atmosphere: "Heartbreaking loss of humanity's small beauties, sounds of destruction and family grief, official justification for cruelty"
+  composition:
+    cameraAngle: "Low angle showing authority power over helpless families"
+    focus: "Destruction of cultural artifacts and personal treasures that maintain human dignity"
+    depth: "Broken beautiful objects in foreground, grieving families in middle ground, departing authorities in background"

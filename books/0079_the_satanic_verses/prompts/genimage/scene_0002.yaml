@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, dawn breaking through coastal mist
+    location: English seaside, snow-covered pebble beach stretching toward gray cliffs
+    weather: Frost-laden morning air, wisps of fog rising from tide pools
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Standing upright beside mirror, one hand extended toward reflection
+    action: Gazing into cracked surface while subtle golden aureola flickers around head
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Tattered remains of gray wool suit, bowler hat askew on head
+    position: Kneeling in wet sand, both palms pressed against mirror base
+    action: Staring desperately at his reflection which shows different landscape entirely
+  scene:
+    mainElements: Large ornate standing mirror half-buried in sand, its surface simultaneously reflecting English coastline
+      and tropical Indian shore with palm trees
+    details: Mirror frame carved with intertwining vines and exotic birds, silver backing partially corroded revealing glimpses
+      of both worlds, wet sand grains clinging to beveled edges, reflection shows warm golden beach while reality displays
+      cold gray stones, impossible dual reflection operating without explanation, no text or letters visible
+    background: Rocky English cliffs behind mirror contrasting with reflected Bombay coastline, morning tide pools reflecting
+      pale sky, seagulls overhead
+    atmosphere: Liminal space where two worlds meet, coolness of English morning mixed with warmth emanating from impossible
+      reflection
+  composition:
+    cameraAngle: Low angle emphasizing mirror's monumental presence against sky
+    focus: Cracked mirror surface showing impossible dual reflection of homeland and adopted country
+    depth: 'Foreground: detailed mirror frame and sand, midground: two figures at different distances, background: contrasting
+      coastlines'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

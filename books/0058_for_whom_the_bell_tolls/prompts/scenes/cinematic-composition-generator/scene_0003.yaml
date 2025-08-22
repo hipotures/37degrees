@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wide architectural shot - Hidden partisan cave entrance in mountain cliff"
+  setting:
+    time: "Late May 1937, late afternoon shadows"
+    location: "Natural limestone cave hidden under rocky overhang in Sierra de Guadarrama mountains, completely concealed from aerial observation"
+    weather: "Clear mountain weather with cooling evening air"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+    - appearance: "68-year-old man, short but sturdy and solid build, face lined with wrinkles expressing wisdom and weariness, archetypal old Spanish peasant"
+      clothing: "black peasant smock, stiff dirty gray trousers, espadrilles - typical Spanish mountain peasant clothing"
+      posture: "moves with dignity of hard-working rural man, shoulders straight despite age"
+      action: "handling rifle with practiced familiarity, watching terrain with hunter's patience and knowledge"
+  scene:
+    mainElements: "Natural cave entrance cleverly concealed beneath granite overhang, entrance curtained by simple blanket, two figures approaching through rocky terrain"
+    details: "Weathered limestone formations creating perfect natural camouflage, entrance completely invisible from above, rough stone surfaces and natural shadows providing ideal concealment, pine trees growing at angles from rocky soil"
+    background: "Layered granite cliff faces rising above cave site, dense pine forest extending down mountainside, no visible paths or signs of human presence"
+    atmosphere: "Perfect hiding place revealing partisan survival skills, harmony between natural landscape and human adaptation, sense of entering secret world"
+  composition:
+    cameraAngle: "Wide shot from across rocky ravine showing geological features"
+    focus: "Cave entrance hidden within natural rock formations"
+    depth: "Foreground rocky ravine, middle ground cave and approaching figures, background cliff faces and forest canopy"

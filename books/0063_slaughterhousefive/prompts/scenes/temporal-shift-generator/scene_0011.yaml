@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wedding Traditions Across Three Generations"
+  setting:
+    time: "1920s, 1950s, 1970s showing three generational weddings"
+    location: "Same church interior hosting three family weddings across fifty years"
+    weather: "Three different wedding days with varying seasonal conditions"
+  characters:
+    - appearance: "Female, from twenties at marriage to over 40 in later scenes, described as fat, unattractive, and extremely large, good-natured but insecure expression"
+      clothing: "1950s and 1960s suburban housewife attire, dresses, pearls, carefully styled hair"
+      position: "Three brides at altar - grandmother, mother Valencia, and daughter - in temporal overlay"
+      action: "Taking wedding vows in same sacred space across generations, continuing family traditions, no text or letters visible"
+  scene:
+    mainElements: "Church altar remaining constant while architectural details modernize, religious decorations evolving with decades, same pews hosting different generations of families"
+    details: "Wedding dress styles changing from 1920s simplicity to 1950s elaborate design to 1970s unconventional fashion, flower arrangements reflecting period preferences, photography equipment evolving from formal portraits to candid shots"
+    background: "Stained glass windows unchanged while congregation clothing and hairstyles evolve, church renovations visible in background details, parking visible through windows showing transportation evolution"
+    atmosphere: "Sacred continuity of marriage tradition spanning generations, eternal vows spoken in space sanctified by time and repetition, family love transcending temporal changes"
+  composition:
+    cameraAngle: "Wide shot from congregation perspective showing altar across three time periods"
+    focus: "Three brides at altar representing generational continuation of marriage tradition"
+    depth: "Foreground shows congregation seating evolution, middle ground shows altar ceremonies, background shows church architectural constancy"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hazy Memory - Sister's Departure as Dreamlike Flashback"
+  setting:
+    time: "1910, morning recalled years later"
+    location: "Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton fields"
+    weather: "Bright sunlight creating overexposed, memory-like quality"
+  characters:
+    - appearance: "African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined features, intelligent eyes, graceful bearing, represents education and worldliness"
+      clothing: "Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted for African climate including white cotton pants designed by Celie"
+      position: "Walking away down dirt path with small bundle of belongings"
+      action: "Looking back over shoulder one final time before disappearing around bend"
+  scene:
+    mainElements: "Small weathered wood-frame house with sagging porch, bare dirt yard, hand-pump water well, outdoor privy, ramshackle barn structures. Image soft-focused and overexposed like fading memory"
+    details: "Dusty path leading away from house, figure becoming smaller in distance, harsh morning light creating ethereal quality. Memory has dreamlike texture, edges blurred and colors washed out"
+    background: "Cotton fields and dirt road stretching to horizon, memories floating like heat shimmer, past and present blending"
+    atmosphere: "Nostalgic loss and fading hope, memory preserved but distant, time creating gentle filter over painful separation"
+  composition:
+    cameraAngle: "Wide shot with soft focus, emphasizing memory-like quality"
+    focus: "Departing figure growing smaller, path leading to unknown future"
+    depth: "Foreground: observer's perspective, middle: departing sister, background: vast empty landscape of memory"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Children Learning Submission"
+  setting:
+    time: "Late 1930s, afternoon"
+    location: "Underfunded African American school in Chicago South Side"
+    weather: "Cold winter afternoon with inadequate heating"
+  characters:
+    - appearance: "African American children of elementary age, faces showing premature seriousness and resignation, small bodies hunched from cold"
+      clothing: "worn school clothes, patched garments, insufficient winter clothing, shoes with holes, multiple layers for warmth"
+      position: "crowded together in overcrowded classroom with insufficient desks"
+      action: "learning basic lessons that prepare them for limited futures, studying from outdated textbooks, practicing submission to authority"
+    - appearance: "overworked African American teacher, young woman showing stress and exhaustion from inadequate resources"
+      clothing: "simple professional dress, worn but clean, struggling to maintain dignity in underfunded environment"
+      position: "at front of classroom trying to teach despite lack of materials"
+      action: "attempting to educate children with minimal resources, fighting system that provides inadequate support"
+  scene:
+    mainElements: "Overcrowded underfunded classroom showing systematic educational neglect designed to limit opportunities and maintain economic segregation"
+    details: "Broken desks shared by multiple children, textbooks decades out of date, inadequate heating causing children to wear coats indoors, blackboard with cracks, pencils and paper in short supply, windows with broken panes, leaking roof creating water stains, minimal educational materials"
+    background: "School building showing years of neglect, contrast with well-funded white schools, neighborhood poverty visible through windows, limited resources extending throughout institution"
+    atmosphere: "Systematic denial of educational opportunity designed to maintain racial and economic hierarchy, children learning that society has limited expectations for their futures, preparation for lifetime of restricted opportunities"
+  composition:
+    cameraAngle: "Medium shot showing overcrowded conditions and inadequate resources"
+    focus: "The deliberate underfunding of education as tool for maintaining social inequality"
+    depth: "Foreground shows children struggling with inadequate materials, middle ground captures the overwhelmed teacher, background reveals institutional neglect and abandonment"

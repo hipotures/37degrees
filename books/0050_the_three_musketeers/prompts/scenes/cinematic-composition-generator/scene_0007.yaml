@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Athos's melancholic nobility revealed through piercing close-up study"
+  setting:
+    time: "April 1625, bright noon with harsh directional lighting"
+    location: "Dueling ground near Carmelite monastery showing aristocratic musketeer's inner pain"
+    weather: "Clear day with strong sunlight creating dramatic facial shadows"
+  characters:
+    - appearance: "Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture"
+      clothing: "Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation, always immaculately groomed and formal"
+      position: "Face dominating frame with eyes capturing light, aristocratic features emphasized by lighting"
+      action: "Maintaining stoic composure while revealing deep inner sadness through subtle facial expressions, jaw slightly tightened from pain of recent wound"
+  scene:
+    mainElements: "Aristocratic face marked by tragedy and loss, regular handsome features carrying weight of hidden past and moral complexity, pale skin suggesting both nobility and suffering"
+    details: "High cheekbones and refined bone structure showing noble breeding, eyes reflecting profound melancholy and buried secrets, slight tension around mouth suggesting controlled pain, impeccable grooming despite current circumstances"
+    background: "Soft blur of monastery architecture and other figures, shallow focus isolating subject to reveal psychological depth and aristocratic bearing"
+    atmosphere: "Profound sadness beneath controlled dignity, sense of tragic past weighing on present moment, aristocratic reserve hiding deep emotional wounds"
+  composition:
+    cameraAngle: "Close-up shot focusing on aristocratic features and hidden emotional depth, revealing character through subtle expressions"
+    focus: "Sharp detail on eyes and central features showing nobility and hidden pain, slight blur on edges emphasizing psychological isolation"
+    depth: "Foreground: nothing visible, middle ground: precisely focused aristocratic features revealing character complexity, background: soft environmental blur, no text or letters visible"

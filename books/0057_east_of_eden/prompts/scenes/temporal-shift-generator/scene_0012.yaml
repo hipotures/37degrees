@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Three generations fishing same spot on Salinas River"
+  setting:
+    time: "1880, 1900, and 1918 overlaid, showing 38 years of family tradition, late afternoon golden hour"
+    location: "Favorite fishing spot on Salinas River where Hamilton men have always cast lines"
+    weather: "Peaceful summer evening with gentle breeze and golden light on water"
+  characters:
+    - appearance: "Samuel Hamilton visible as ghostly overlay, tall elderly Irish man in his 60s-70s with white hair and beard, kind eyes full of wisdom, large gentle hands despite his size"
+      clothing: "Simple cotton work shirt, worn wool vest, practical trousers, leather blacksmith apron when working"
+      position: "Standing in shallow water at same bend of river across three time periods"
+      action: "Casting fishing line with identical technique passed down through generations, teaching young family members the art of patience and river reading"
+    - appearance: "Son and grandson figures visible as temporal overlays, showing progression from boy to man to teacher across the decades"
+      clothing: "Work clothes evolving with fashion but maintaining practical fishing attire - rolled pants, simple shirts, barefoot in water"
+      position: "Learning position beside Samuel in childhood, teaching position as adult with own son"
+      action: "Receiving instruction as child, giving instruction as father, maintaining family fishing wisdom"
+  scene:
+    mainElements: "River bend remaining constant while human figures cycle through generations, same fishing spot marked by distinctive boulder and fallen log used as seating across decades"
+    details: "Fishing equipment evolving from simple cane poles to manufactured rods, tackle box accumulating family additions across generations, river stones worn smoother by decades of fishermen's feet, favorite sitting log aging from fresh fallen tree to weathered fishing bench"
+    background: "Salinas Valley showing subtle changes across decades while river maintains eternal flow, distant hills showing different seasonal colors across time overlays, Hamilton farmhouse visible in distance growing older and more established"
+    atmosphere: "Male bonding traditions transcending generations, river as constant teacher of patience and wisdom, knowledge transfer from grandfather to grandson, timeless nature of water and fishing, no text or letters visible"
+  composition:
+    cameraAngle: "Riverside view showing fishing figures against river bend and valley backdrop"
+    focus: "River bend and favorite fishing boulder as temporal anchors across generations"
+    depth: "Foreground shows riverbank details aging, middle ground reveals generational figures fishing, background displays valley consistency across time"

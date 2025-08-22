@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, pre-dawn darkness before sunrise
+    location: Fictional city Chandrapore overlooking Ganges River valley, showing both Indian quarter and British Civil Station
+    weather: Clear night air, last stars fading in deep blue sky, morning mist rising from distant river
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient Indian city sprawling below elevated British administrative quarter, separated by railway line cutting
+      through landscape
+    details: Low mud-brick buildings of Indian bazaar district clustered near hidden Ganges, contrasted with geometric white
+      bungalows on hill with wide verandas and ordered gardens. Single bird perched on telegraph wire between two worlds.
+      Oil lamps flickering in few windows. Railway tracks gleaming in starlight
+    background: Vast Indian plain stretching to horizon under star-filled sky, distant Marabar Hills barely visible as dark
+      silhouettes against lighter sky
+    atmosphere: Profound stillness of world holding its breath before dawn, sense of ancient land waiting for new day, peaceful
+      separation between sleeping communities
+  composition:
+    cameraAngle: Wide establishing shot from elevated position showing city divide
+    focus: The physical and symbolic separation between Indian and British quarters
+    depth: Foreground shows British bungalows, middle ground reveals railway division, background displays Indian quarter
+      and distant hills
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

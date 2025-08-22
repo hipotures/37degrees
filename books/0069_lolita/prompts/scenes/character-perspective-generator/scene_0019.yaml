@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Suspicious Observer - Adult Stalking"
+  setting:
+    time: "1948, day"
+    location: "School grounds of Beardsley preparatory school, New England"
+    weather: "Clear day on school campus"
+  characters:
+    - appearance: "Unidentified adult male figure, middle-aged, watching from distance"
+      clothing: "Nondescript clothing, attempting to remain inconspicuous"
+      position: "Standing at edge of school property, partially concealed"
+      action: "Observing school activities, watching specific student, maintaining distance while surveillance"
+  scene:
+    mainElements: "School campus with students engaged in normal activities, mysterious adult figure observing from perimeter"
+    details: "Normal school day activities continuing, adult figure maintaining surveillance, sense of being watched during normal routine"
+    background: "School grounds with brick buildings, students walking between classes, normal educational environment under hidden observation"
+    atmosphere: "False sense of school safety undermined by adult surveillance, normal activities shadowed by predatory observation"
+  composition:
+    cameraAngle: "Wide view from school grounds showing both normal activities and distant observer"
+    focus: "Mysterious adult figure watching from school perimeter while normal activities continue"
+    depth: "Foreground shows normal school activities, middle ground shows school grounds, background shows adult observer maintaining surveillance"

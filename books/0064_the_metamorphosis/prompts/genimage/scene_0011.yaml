@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Autumn evening 1912, around 8:00 PM
+    location: Same small bedroom but stripped of most furniture, walls showing marks from insect climbing
+    weather: Night falling, artificial gaslight creating stark geometric shadows
+  characters:
+  - appearance: Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately
+      three feet long
+    clothing: No clothing - naked insect body with hard brown shell and soft pale belly divided into segments
+    posture: Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving
+    action: Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls
+  scene:
+    mainElements: Room geometry defying physics - walls that lead to walls, corners that bend impossible directions, doorways
+      that lead back to the same room
+    details: The door to the living room, when opened, reveals another identical bedroom. Walking through it leads back to
+      the same spot. The window looks out onto the interior of the room itself. Stairs appear where there should be flat floor,
+      leading both up and down simultaneously. The walls meet at angles that hurt to look at - more than 90 degrees yet somehow
+      still forming a closed space. The ceiling becomes a floor when approached.
+    background: Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on
+      walls and ceiling
+    atmosphere: Physical laws completely abandoned, space as psychological prison, geometry reflecting mental entrapment
+  composition:
+    cameraAngle: Impossible perspective showing multiple contradictory viewpoints simultaneously
+    focus: Doorway that leads nowhere and stairs that climb in circles
+    depth: 'Foreground: normal furniture, middle: impossible architectural transitions, background: room folding back on itself
+      infinitely'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

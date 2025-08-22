@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Technology Serves the People"
+  setting:
+    time: "1950, afternoon"
+    location: "Modern Soviet factory floor showcasing industrial achievement"
+    weather: "Indoor industrial environment"
+  characters:
+    - appearance: "Healthy strong workers operating gleaming machinery, all smiling and energetic"
+      clothing: "Clean white work shirts, blue overalls without stains, protective goggles, all clothing appears new"
+      position: "Standing confidently beside modern equipment, poses suggesting mastery and pride"
+      action: "Operating complex machinery with ease, pointing to production charts showing exceeded quotas, shaking hands with visiting officials"
+  scene:
+    mainElements: "Massive steel production machinery running smoothly, assembly lines moving products efficiently, large charts showing production achievements, red banners celebrating workers' victories"
+    details: "Spotless factory floor without oil stains or debris, bright electric lighting illuminating every corner, workers' faces glowing with health and satisfaction, production statistics displayed prominently showing exceeded targets, modern safety equipment perfectly maintained"
+    background: "Endless rows of identical machines stretching into distance, large windows showing other factory buildings, smoke from chimneys forming organized patterns"
+    atmosphere: "Technological triumph and human mastery over machines, everything functioning perfectly, sense of progress and modernization serving collective good"
+  composition:
+    cameraAngle: "Low angle emphasizing scale and power of machinery"
+    focus: "Workers confidently controlling massive industrial equipment"
+    depth: "Foreground shows individual worker excellence, middle ground reveals systematic production, background demonstrates industrial might"

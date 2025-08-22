@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Motel Room - Horrible Truth"
+  setting:
+    time: "1947, night"
+    location: "Standard American roadside motel room, late 1940s, anywhere in United States"
+    weather: "Dark night outside small motel window"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, no longer hiding true nature"
+      clothing: "Casual evening clothes, relaxed in complete control"
+      position: "Seated on motel bed edge, speaking directly"
+      action: "Delivering devastating news about mother's death, revealing complete isolation, establishing total control"
+  scene:
+    mainElements: "Pine wood paneling, chenille bedspreads, small television set, mismatched carpet, single window with thin curtains, two beds, small bathroom visible through open door"
+    details: "Cheap motel room feeling like trap, thin walls offering no escape, single door as only exit, worn carpet pattern, cheap motel furnishings"
+    background: "Anonymous motel room with flickering neon light from outside sign casting colored shadows, muffled sounds from neighboring rooms, complete isolation"
+    atmosphere: "Transient, impersonal space with dim yellow lighting from lamps, sense of isolation and displacement, anonymous and temporary"
+  composition:
+    cameraAngle: "Eye level view from second bed, watching adult deliver terrible news"
+    focus: "Man delivering news of mother's death and complete abandonment"
+    depth: "Foreground shows motel bed where terrible news is received, middle ground shows man with devastating revelation, background shows imprisoning motel room"

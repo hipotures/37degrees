@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Truth - The Scales of Moral Judgment"
+  setting:
+    time: "1851, sunset"
+    location: "Symbolic representation of divine or moral judgment weighing the plantation system"
+    weather: "Dramatic sunset creating powerful symbolic lighting"
+  characters:
+    - appearance: "Man in 40s-50s, short broad muscular build, bullet-shaped head, shaggy hair, wild gleaming greenish eyes, coarse features marked by cruelty and alcohol abuse"
+      clothing: "Rough planter work clothes, often dirty and unkempt, boots suitable for plantation oversight"
+      position: "Standing in threatening posture over victims, aggressive stance with hands on hips"
+      action: "Brandishing whip or other instruments of control, shouting orders with violent gestures"
+    - appearance: "Tall, powerfully built man with broad chest, late 40s, full glistening black skin with truly African features showing gravity and good sense combined with great kindness and benevolence"
+      clothing: "Clean working clothes on Shelby plantation, later forced into torn coat and old pants on Legree plantation"
+      position: "Standing with dignified posture despite circumstances, holding worn Bible"
+      action: "Reading from Bible or speaking words of faith and forgiveness to fellow enslaved people"
+  scene:
+    mainElements: "Symbolic scales of justice with plantation system on one side and human dignity on other, dramatic lighting suggesting divine or moral judgment"
+    details: "Scales clearly showing moral imbalance of slavery system, symbols of oppression weighing against symbols of human worth and dignity, divine or natural law represented through lighting and composition"
+    background: "Plantation landscape fading into symbolic representation of moral universe, suggestion of higher power or natural law judging human systems"
+    atmosphere: "Ultimate moral reckoning of slavery system, divine or natural judgment weighing human systems against eternal principles, symbolic representation of book's central moral argument"
+  composition:
+    cameraAngle: "Dramatic low angle emphasizing the symbolic scales and moral judgment"
+    focus: "The moral scales as ultimate symbol of slavery's fundamental injustice and inevitable judgment"
+    depth: "Foreground shows detailed moral symbols and scales, middle ground features the human representatives of good and evil, background suggests the cosmic or divine context of moral judgment"

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Early 1920s daytime
+    location: Mayor's bedroom where he receives K. while bedridden with gout
+    weather: Cold winter day, dark interior with curtained windows
+  characters:
+  - appearance: Kindly, corpulent, clean-shaven older man suffering from gout
+    clothing: Nightshirt while confined to bed due to illness
+    position: Lying in large bed surrounded by stacks of official documents
+    action: Patiently explaining administrative realities to confused outsider
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Standing beside bed, listening with growing irritation
+    action: Receiving unwelcome explanation about bureaucratic error
+  scene:
+    mainElements: Dark stuffy bedroom with curtained windows, large bed, overwhelming stacks of official documents spilling
+      from cabinets
+    details: From Mayor's perspective of patient administrative wisdom - K. appearing as typical confused citizen requiring
+      gentle explanation of proper procedures. Formal documents representing decades of careful record-keeping, bureaucratic
+      systems functioning exactly as designed. K.'s demands appearing unreasonable given obvious administrative realities.
+    background: Papers scattered throughout room representing complex but orderly administrative system
+    atmosphere: Through Mayor's benevolent authoritative view - bedroom serving as efficient administrative center, K.'s frustration
+      appearing as childish impatience with necessary procedures, winter darkness creating appropriate atmosphere for serious
+      governmental discussion, no text or letters visible
+  composition:
+    cameraAngle: From Mayor's elevated bed position looking down at standing K.
+    focus: Mayor's patient authority contrasted with K.'s unrealistic expectations
+    depth: Foreground shows Mayor's kindly but firm expression, middle ground captures K.'s defensive stance, background emphasizes
+      administrative document chaos
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,197 @@
+canon:
+  characters:
+    - id: "captain_yossarian"
+      name: "Captain John Yossarian"
+      description_block: |
+        characters:
+          - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+            clothing: "USAAF officer khaki uniform or heavy bomber crew flight suit with flak vest, harness, and helmet, frequently naked in protest"
+            position: "standing upright, sitting in cramped bomber position, or lying in hospital bed"
+            action: "censoring letters, arguing with authority, flying combat missions, or seeking ways to avoid duty"
+
+    - id: "colonel_cathcart"
+      name: "Colonel Cathcart"
+      description_block: |
+        characters:
+          - appearance: "36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture of arrogance and insecurity"
+            clothing: "immaculate pressed colonel uniform with insignia"
+            position: "standing authoritatively behind desk or reviewing mission plans"
+            action: "raising mission requirements, seeking promotion opportunities, offering plum tomatoes to chaplain"
+
+    - id: "lieutenant_korn"
+      name: "Lieutenant Colonel Korn"
+      description_block: |
+        characters:
+          - appearance: "40s, bald stocky dark man with flaccid build and shapeless paunch, rimless glasses, morally weak physical features"
+            clothing: "lieutenant colonel uniform with rimless spectacles"
+            position: "standing beside Cathcart or sitting at administrative desk"
+            action: "formulating absurd orders, manipulating bureaucratic systems, cynically advising Cathcart"
+
+    - id: "lieutenant_milo"
+      name: "Lieutenant Milo Minderbinder"
+      description_block: |
+        characters:
+          - appearance: "20s, straight face with separated eyebrows, large eyes, reddish hair, unfortunate reddish-brown mustache, thin nose with moist nostrils"
+            clothing: "quartermaster lieutenant uniform with increasingly civilian expensive accessories"
+            position: "standing among crates of goods or seated with account ledgers"
+            action: "conducting business deals, managing M&M Enterprises operations, trading with enemy forces"
+
+    - id: "orr"
+      name: "Orr"
+      description_block: |
+        characters:
+          - appearance: "short man described as friendly straightforward gnome with protruding teeth, bulging eyes, large cheeks"
+            clothing: "flight suit often stained with grease and mechanical work"
+            position: "crouched over small heating stove or working on aircraft mechanical systems"
+            action: "methodically working on complex heating apparatus, practicing survival techniques, telling absurd stories about apples"
+
+    - id: "chaplain_tappman"
+      name: "Chaplain Tappman"
+      description_block: |
+        characters:
+          - appearance: "32 years old, narrow pale face, light brown hair, brown eyes, delicate almost ascetic build"
+            clothing: "chaplain uniform with cross on collar"
+            position: "sitting quietly or standing nervously before authority figures"
+            action: "conducting religious services, experiencing deja vu episodes, being intimidated by aggressive questioning"
+
+    - id: "nately"
+      name: "Nately"
+      description_block: |
+        characters:
+          - appearance: "19 years old, youthful smooth face, sincere wide open eyes, wealthy boy appearance from good family background"
+            clothing: "immaculate officer uniform"
+            position: "sitting attentively or standing with idealistic posture"
+            action: "writing letters home, expressing patriotic beliefs, visiting Roman prostitute"
+
+    - id: "doc_daneeka"
+      name: "Doc Daneeka"
+      description_block: |
+        characters:
+          - appearance: "40s, worried face with sad bags under eyes, appears to need medical attention himself"
+            clothing: "military doctor uniform"
+            position: "sitting in medical tent or standing with medical equipment"
+            action: "explaining Catch-22 regulations, complaining about assignments, treating patients reluctantly"
+
+    - id: "major_major"
+      name: "Major Major Major Major"
+      description_block: |
+        characters:
+          - appearance: "30s, looks somewhat like Henry Fonda, tall lean build with noble but shy confused features"
+            clothing: "major uniform with sunglasses for hiding"
+            position: "sitting at desk or escaping through office window"
+            action: "avoiding contact with subordinates, jumping through windows, signing documents as Washington Irving"
+
+    - id: "soldier_in_white"
+      name: "The Soldier in White"
+      description_block: |
+        characters:
+          - appearance: "completely bandaged figure without face or identity, connected to two bottles with fluids"
+            clothing: "full body bandages covering entire form"
+            position: "lying motionless on hospital bed"
+            action: "existing as object rather than person, being replaced by identical bandaged figure"
+
+  locations:
+    - id: "pianosa_base"
+      name: "Pianosa Military Base"
+      description_block: |
+        setting:
+          location: "fictional Mediterranean island west of Italy, 1944 wartime Allied airbase"
+        mainElements: "dusty provisional military airfield, canvas officer tents, wooden administrative barracks, corrugated metal hangars"
+        atmosphere: "oppressive heat and dust, tension mixed with boredom, smell of aviation fuel and sweat, deafening roar of bomber engines alternating with nervous silence"
+
+    - id: "airfield"
+      name: "Pianosa Airfield"
+      description_block: |
+        setting:
+          location: "central point of military base on Mediterranean island"
+        mainElements: "dusty provisional runway, lollipop-shaped aircraft parking positions for B-25 bombers, control tower"
+        atmosphere: "blazing sun heat rising from asphalt, overwhelming aircraft engine noise, tension of combat mission departures and returns"
+
+    - id: "field_hospital"
+      name: "Field Hospital"
+      description_block: |
+        setting:
+          location: "long wooden barracks or large tent on Pianosa military base"
+        mainElements: "rows of simple metal beds along walls, medical equipment, bottles and tubes"
+        atmosphere: "sterile but oppressive environment, harsh lighting from bare bulbs, smell of disinfectants and suppressed fear, deceptive refuge from war"
+
+    - id: "yossarian_tent"
+      name: "Yossarian's Officer Tent"
+      description_block: |
+        setting:
+          location: "standard canvas officer tent on Pianosa military base"
+        mainElements: "two field cots, equipment crates, untouched belongings of dead tentmate Mudd, Orr's complicated gasoline heating stove"
+        atmosphere: "cramped claustrophobic space, dim lighting from single bulb or oil lamp, constant reminder of mortality through dead man's possessions"
+
+    - id: "mess_hall"
+      name: "Mess Hall Under Milo's Management"
+      description_block: |
+        setting:
+          location: "large tent or wooden barracks on military base serving as dining facility"
+        mainElements: "long tables and benches, serving area transformed into global syndicate center with exotic foods and trading goods"
+        atmosphere: "evolving from standard military canteen to surreal abundance of fresh eggs and exotic fruits, demonstrating capitalist logic surpassing war logic"
+
+    - id: "rome_early"
+      name: "Rome - City of Escape"
+      description_block: |
+        setting:
+          location: "wartime Rome, Italy, as destination for military leave and passes"
+        mainElements: "ancient monuments like Colosseum, crowded streets, rental apartments, establishments for soldiers, historical architecture"
+        atmosphere: "vibrant life amid war damage, contrast between ancient ruins and military jeeps, joyful crowds greeting Allied forces but also poverty and black market activity"
+
+    - id: "rome_late"
+      name: "Rome - Eternal City Hell"
+      description_block: |
+        setting:
+          location: "war-destroyed Rome transformed into hellish allegory of human downfall"
+        mainElements: "same locations but now destroyed, dirty and abandoned, rubble piles, apathetic impoverished figures"
+        atmosphere: "despair and fear, violence and moral decay, cold dark palette with grays and browns, rain and weak disturbing lamplight"
+
+    - id: "b25_interior"
+      name: "B-25 Mitchell Bomber Interior"
+      description_block: |
+        setting:
+          location: "cramped metallic interior of medium bomber aircraft at high altitude"
+        mainElements: "tight metal space full of cables and instruments, plexiglass bombardier nose position, radio equipment, crew positions"
+        atmosphere: "cramped klaustrophobic conditions, deafening engine roar, freezing cold thin air, fragile transparent barrier between crew and death"
+
+  items:
+    - id: "catch22_regulation"
+      name: "Catch-22 Regulation"
+      description_block: |
+        details: "paradoxical military regulation creating impossible escape situations, self-justifying closed logic of power"
+
+    - id: "mission_counter"
+      name: "Required Mission Count"
+      description_block: |
+        details: "constantly increasing number of required combat missions, goal that perpetually moves away as soldiers approach completion"
+
+    - id: "plum_tomato"
+      name: "Colonel's Plum Tomato"
+      description_block: |
+        details: "disgusting orange-red pear-shaped plum tomato with unnaturally bright color, symbol of corrupted base relationships and clumsy manipulation attempts"
+
+    - id: "orr_stove"
+      name: "Orr's Heating Stove"
+      description_block: |
+        details: "small complicated gasoline stove with many polished precision parts, appearing excessively complex for its purpose, visual symbol of hidden methodical genius and rational escape planning"
+
+    - id: "mm_enterprises_goods"
+      name: "M&M Enterprises Trading Goods"
+      description_block: |
+        details: "exotic foods and trading materials including fresh eggs from Malta, Egyptian cotton, various international commodities representing global capitalist syndicate operations"
+
+    - id: "mudds_belongings"
+      name: "Dead Man Mudd's Possessions"
+      description_block: |
+        details: "untouched personal belongings of deceased tentmate, constant macabre reminder of life's fragility and death's presence"
+
+    - id: "norden_bombsight"
+      name: "Norden Bombsight"
+      description_block: |
+        details: "complex mechanical bombing device in B-25 nose position, sophisticated equipment representing heart of bombing operations and technological warfare precision"
+
+    - id: "flight_gear"
+      name: "USAAF Flight Equipment"
+      description_block: |
+        details: "layered life-saving but restricting equipment including brown leather A-2 jacket, yellow Mae West life vest, complex parachute harness straps, heavy flak vest, steel helmet, oxygen mask with hose and throat microphone"

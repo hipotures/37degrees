@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Official White Prosperity Displayed"
+  setting:
+    time: "Late 1930s, late winter afternoon"
+    location: "Wealthy white Hyde Park district of Chicago, wide tree-lined streets"
+    weather: "Cold clear winter day with pale sunlight"
+  characters:
+    - appearance: "60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence and control"
+      clothing: "expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably dressed conservative businessman"
+      position: "standing prominently in foreground on sidewalk"
+      action: "walking with confident stride past his impressive mansion, displaying ownership and control"
+  scene:
+    mainElements: "Large imposing mansion in wealthy white Hyde Park district, substantial stone or dark brick house surrounded by iron fence, manicured grounds and clean sidewalks representing elite prosperity"
+    details: "Iron fence symbolically separating wealth from outside world, perfectly maintained landscaping despite winter, expensive cars parked along street, gas lamps providing warm light, architectural details showing permanence and established power, other similar mansions visible creating impression of unified elite district"
+    background: "Row of other impressive mansions belonging to Chicago's white elite, wide clean streets with proper infrastructure showing municipal investment in wealthy areas"
+    atmosphere: "Display of established power and inherited privilege, sense of order and control maintained by wealth, demonstration of who truly owns and controls the city"
+  composition:
+    cameraAngle: "Wide establishing shot from street level"
+    focus: "The mansion and its owner as symbols of white economic dominance"
+    depth: "Foreground shows the affluent street, middle ground features the mansion and owner, background reveals the entire wealthy district as system of privilege"

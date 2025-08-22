@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Daily Ritual - Morning to Evening Life Cycle"
+  setting:
+    time: "Single day compressed showing dawn to dusk progression"
+    location: "Billy's daily routine locations showing temporal compression of ordinary life"
+    weather: "Natural light progression from dawn through noon to sunset"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy moving through daily routine from morning awakening to evening rest"
+      action: "Ordinary daily activities compressed into visual cycle showing life's repetitive patterns, no text or letters visible"
+  scene:
+    mainElements: "Bedroom, bathroom, kitchen, car, office, home sequence showing complete daily cycle in compressed time"
+    details: "Morning light quality changing to harsh noon glare to warm evening glow, shadows rotating with sun position, daily objects used and returned to place, routine activities showing temporal rhythm"
+    background: "Neighborhood activity cycling from morning quiet to daytime bustle to evening calm, traffic patterns, mail delivery, children's school schedule"
+    atmosphere: "Peaceful repetition of ordinary life contrasting with war trauma, daily ritual as healing routine providing structure against psychological chaos"
+  composition:
+    cameraAngle: "Multiple location sequence showing daily progression through familiar spaces"
+    focus: "Billy's routine activities as meditation on life's simple continuities"
+    depth: "Compressed daily progression showing ordinary life as temporal anchor"

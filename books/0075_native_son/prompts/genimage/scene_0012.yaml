@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, afternoon
+    location: Industrial workplace in Chicago, factory environment
+    weather: Cold winter afternoon, harsh artificial lighting inside
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing among identical workers at mechanized workstation
+    action: performing repetitive motions with growing frustration and anger, fighting against the dehumanizing rhythm of
+      industrial labor
+  - appearance: Other African American workers around him, faces blank and expressionless from years of mechanical labor
+    clothing: identical industrial uniforms, work clothes stained and worn from repetitive labor
+    position: at surrounding workstations performing identical tasks
+    action: moving in perfect synchronization with machinery, having lost individual identity to industrial rhythm
+  scene:
+    mainElements: Close-up view of industrial workstation showing how human beings are reduced to mechanical functions, emphasis
+      on individual struggle against systematic dehumanization
+    details: Hands performing same motion repeatedly, faces showing exhaustion and loss of spirit, machinery designed to control
+      human movement, time pressure devices forcing rapid pace, supervisors timing every action, workers' individual personalities
+      suppressed by industrial demands
+    background: Massive machinery extending beyond view, other workstations with identical human figures, industrial sounds
+      drowning out human voices, steam and mechanical noise dominating environment
+    atmosphere: Individual resistance emerging against systematic reduction of human worth to economic productivity, tension
+      between human spirit and mechanical demands, growing rebellion against treatment as economic units rather than people
+  composition:
+    cameraAngle: Close-up shot focusing on hands and faces showing human cost of industrial dehumanization
+    focus: The moment when human spirit begins to rebel against being treated as economic machinery
+    depth: Foreground shows detailed view of mechanical labor, middle ground captures individual struggle against system,
+      background reveals the vast industrial apparatus of control
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

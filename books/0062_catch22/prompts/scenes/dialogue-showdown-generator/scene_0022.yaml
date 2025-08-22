@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eyes of Authority - Colonel's Triumph"
+  setting:
+    time: "1944, morning"
+    location: "Colonel's office on Pianosa base"
+    weather: "bright Mediterranean morning"
+  characters:
+    - appearance: "36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture of arrogance and insecurity"
+      clothing: "immaculate pressed colonel uniform with insignia"
+      position: "sitting confidently behind desk"
+      action: "offering final deal to recalcitrant airman"
+  scene:
+    mainElements: "military office with large desk, official papers, framed photographs of superior officers, filing cabinets"
+    details: "Colonel Cathcart's eyes show satisfied triumph as he presents his ultimate proposal to Yossarian. His expression reveals complete confidence in the bureaucratic trap he has constructed. The deal offers safety in exchange for moral compromise, representing the system's final attempt to co-opt individual resistance through temptation."
+    background: "military office with regulation manuals, communication equipment, window showing base operations"
+    atmosphere: "bureaucratic confidence in systematic control over individual choice, mixture of authority and corruption"
+  composition:
+    cameraAngle: "extreme close-up on colonel's satisfied eyes"
+    focus: "eyes showing complete confidence in bureaucratic manipulation"
+    depth: "foreground emphasizes triumphant authority, middle ground shows official context, background reveals institutional power structure"

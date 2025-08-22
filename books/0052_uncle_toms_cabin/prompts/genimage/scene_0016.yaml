@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1851, morning
+    location: Formal classroom or instruction area where plantation ideology is taught to children
+    weather: Bright morning light streaming through windows
+  characters:
+  - appearance: White instructor in formal teaching attire, middle-aged woman with stern expression
+    clothing: Conservative dark dress appropriate for teaching, hair arranged in strict style
+    position: Standing at front of improvised classroom with teaching materials
+    action: Teaching lessons about social hierarchy and proper behavior to mixed group of children
+  - appearance: Mixed group of white and enslaved children receiving different lessons about their roles
+    clothing: White children in clean school clothes, enslaved children in work clothes, clear visual distinction maintained
+    position: Segregated seating arrangements reflecting social hierarchy being taught
+    action: Learning different lessons appropriate to their assigned social positions
+  scene:
+    mainElements: Classroom setting with segregated seating, different books and materials for different groups, blackboard
+      with social hierarchy diagrams
+    details: Religious texts used to justify social order, maps showing plantation as model society, lessons about obedience
+      and duty according to race and class, behavioral expectations clearly differentiated by group
+    background: Plantation house study or converted room, educational materials reflecting plantation values, glimpse of real
+      world where these lessons will be applied
+    atmosphere: Systematic ideological training from early age, use of education as tool of control rather than liberation,
+      childhood innocence exploited to embed social hierarchies
+  composition:
+    cameraAngle: Medium shot showing instructor and segregated student groups
+    focus: The use of education as weapon of social control and ideological manipulation
+    depth: Foreground shows teaching materials and instructor, middle ground reveals segregated learning, background emphasizes
+      the institutional setting supporting this education
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

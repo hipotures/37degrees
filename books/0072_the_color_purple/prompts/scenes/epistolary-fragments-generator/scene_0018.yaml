@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conflicting Accounts - Town Square Confrontation"
+  setting:
+    time: "1932, midday"
+    location: "Small Southern town square during Jim Crow era, Georgia"
+    weather: "Harsh midday sun creating stark shadows"
+  characters:
+    - appearance: "Large, powerful African American woman aged 20s-60s, muscular build, light brown skin with lustrous quality, hair worn in tight braids, physical strength that embodies her inner spirit, battle scars from confrontation with racist system"
+      clothing: "Sturdy work clothes befitting her strength, simple dresses that allow freedom of movement, later worn servant's uniforms during imprisonment, eventual return to dignified working-class attire"
+      position: "Standing tall in town square, facing off-screen authority"
+      action: "Speaking with defiance, chin raised, refusing to back down"
+  scene:
+    mainElements: "Small town courthouse and commercial buildings, dusty square with sparse trees, sense of institutional power and racial hierarchy"
+    details: "Harsh sunlight creating dramatic shadows, dusty ground, institutional buildings representing white authority, confrontation happening in public space"
+    background: "Town buildings suggesting official power, empty square emphasizing isolation, institutional architecture as backdrop to personal courage"
+    atmosphere: "Courage facing systemic oppression, individual dignity challenging unjust authority, moment before consequences fall"
+  composition:
+    cameraAngle: "Low angle emphasizing dignity and courage"
+    focus: "Figure standing strong against institutional power"
+    depth: "Foreground: defiant figure, middle: empty square, background: buildings representing authority"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1944, late evening
+    location: chaplain's private tent on Pianosa base
+    weather: Mediterranean night with gentle breeze
+  characters:
+  - appearance: 32 years old, narrow pale face, light brown hair, brown eyes, delicate almost ascetic build
+    clothing: simple military undershirt and trousers, cross pendant visible
+    position: sitting alone on edge of cot
+    action: experiencing private moment of doubt and spiritual crisis
+  scene:
+    mainElements: small chaplain's tent with simple cot, portable altar with religious items, oil lamp providing dim lighting,
+      personal religious books
+    details: Chaplain Tappman sits alone in dim lamplight, his usual gentle composure cracking to reveal deep spiritual anguish.
+      His hands shake slightly as he holds a letter from home. The mask of religious certainty slips away showing vulnerable
+      human beneath clerical role. Private moment reveals cost of maintaining faith in wartime absurdity.
+    background: canvas tent walls, simple wooden cross on makeshift altar, military gear mixed with religious items, shadows
+      dancing on tent walls
+    atmosphere: intimate spiritual crisis hidden from public view, mixture of religious devotion and human doubt
+  composition:
+    cameraAngle: close-up capturing vulnerable expression in lamplight
+    focus: face showing genuine fear and doubt normally hidden behind clerical mask
+    depth: foreground emphasizes emotional vulnerability, middle ground shows religious context, background creates private
+      intimate space
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Children Learning Perfect Citizenship"
+  setting:
+    time: "1950, morning"
+    location: "Soviet school classroom during political education lesson"
+    weather: "Indoor classroom environment with bright overhead lighting"
+  characters:
+    - appearance: "Dozens of children aged 8-12 with perfect posture, alert expressions, identical neat appearance"
+      clothing: "Matching school uniforms - white shirts, dark vests, red Pioneer neckerchiefs, polished shoes"
+      position: "Sitting in perfectly straight rows, all facing forward, hands folded identically on desks"
+      action: "Reciting political slogans in unison, raising hands in synchronized salute, copying identical text from blackboard"
+  scene:
+    mainElements: "Large portrait of Stalin watching over classroom, red flag in corner, blackboard covered with political slogans, children's desks arranged in perfect geometric grid"
+    details: "Every child holding identical textbooks open to same page, wall displays showing Soviet achievements and maps, teacher pointing to propaganda poster, children's artwork all depicting same patriotic themes, clock showing precise time"
+    background: "Windows looking out to other identical school buildings, more classrooms visible with same activities, organized playground with children in formations"
+    atmosphere: "Complete uniformity and indoctrination, childhood innocence channeled into political purpose, sense of mass production of identical citizens"
+  composition:
+    cameraAngle: "High angle showing perfect geometric arrangement"
+    focus: "Stalin portrait overlooking rows of identical children"
+    depth: "Foreground shows individual children's identical expressions, middle ground reveals classroom organization, background demonstrates systematic education"

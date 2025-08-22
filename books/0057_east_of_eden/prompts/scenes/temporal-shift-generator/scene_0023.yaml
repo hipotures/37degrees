@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Salinas town square - historical protests across multiple eras showing recurring human patterns"
+  setting:
+    time: "1870s, 1890s, and 1918 overlaid, showing 48 years of social protest and political gathering, various seasons and times of day"
+    location: "Central town square of Salinas showing same space used for political expression across generations"
+    weather: "Different weather conditions across eras - 1870s showing clear day, 1890s showing rainy protest, 1918 showing evening gathering"
+  characters:
+    - appearance: "Multiple generations of protesters visible as overlapping transparent figures - 1870s railroad workers, 1890s agricultural laborers, 1918 war protesters, showing evolution of social concerns"
+      clothing: "Period appropriate protest clothing - 1870s work clothes and union badges, 1890s farmers' overalls and grange symbols, 1918 civilian clothes and peace symbols"
+      position: "Using same central square space for different era protests, crowd patterns repeating across generations"
+      action: "1870s workers demanding fair wages overlaid with 1890s farmers seeking irrigation rights overlaid with 1918 citizens questioning war, same gestures of political expression across different causes"
+  scene:
+    mainElements: "Town square showing accumulation of political activity - speakers' platform used across generations, same gathering spaces serving different political movements, civic buildings growing more substantial across eras"
+    details: "Platform showing wear from multiple generations of speakers, ground worn by crowds gathering for political expression, civic monuments appearing and being contested across eras, American flag displayed differently across political periods"
+    background: "Salinas Valley and town development showing political concerns evolving with economic growth - railroad bringing labor issues, agricultural development creating farmer concerns, war bringing peace movement, same landscape hosting different political struggles"
+    atmosphere: "Political expression as eternal human need, same democratic space serving changing concerns across generations, community gathering for political purpose transcending specific issues, no text or letters visible"
+  composition:
+    cameraAngle: "Elevated view of town square showing multiple political gathering overlays across eras"
+    focus: "Central speakers' platform and gathering space as anchor for political expression across time"
+    depth: "Foreground shows square infrastructure development, middle ground reveals overlapping political crowds, background displays town growth context for political evolution"

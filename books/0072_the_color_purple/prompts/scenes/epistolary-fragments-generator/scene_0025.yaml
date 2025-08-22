@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Legacy - Letters Preserved for Future Generations"
+  setting:
+    time: "1949, late afternoon"
+    location: "Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton fields"
+    weather: "Golden sunset light with purple hues in sky"
+  characters:
+    - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+      clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+      position: "Sitting on renovated porch, surrounded by family"
+      action: "Sharing stories with gathered loved ones, letters nearby as treasured family history"
+    - appearance: "African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined features, intelligent eyes, graceful bearing, represents education and worldliness"
+      clothing: "Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted for African climate including white cotton pants designed by Celie"
+      position: "Sitting close beside sister on porch"
+      action: "Listening and adding her own memories, two voices completing the story"
+  scene:
+    mainElements: "Small weathered wood-frame house with sagging porch, bare dirt yard, hand-pump water well, outdoor privy, ramshackle barn structures. House now renovated and welcoming, transformed into place of healing"
+    details: "Bundle of yellowed letters tied with string, bearing exotic African stamps, hidden for decades under loose floorboard in Mister's house, physical proof of love and connection across time and distance. Letters now honored as family treasure, wild purple flowers growing in yard"
+    background: "Wild purple flowers growing in Georgia fields, symbol of divine beauty present in everyday life, representing God's creation that should be noticed and appreciated. Sunset sky echoing purple theme, family gathered in celebration"
+    atmosphere: "Triumph and reunion, letters having fulfilled their purpose, love story preserved for future generations, cycle of separation finally broken"
+  composition:
+    cameraAngle: "Wide shot showing complete family reunion on transformed porch"
+    focus: "Sisters together at last, letters having completed their journey"
+    depth: "Foreground: family gathering, middle: renovated house representing transformation, background: purple sunset symbolizing divine love"

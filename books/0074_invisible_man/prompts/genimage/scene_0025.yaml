@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1950s, moment of recognition
+    location: Underground coal cellar hideout on border of Harlem, forgotten basement section
+    weather: Underground environment transcending surface conditions
+  characters:
+  - appearance: Young African American man, age varying by scene from late teens to mid-twenties, average build and height,
+      generic facial features designed to be overlooked
+    clothing: Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending
+      on imposed identity
+    position: Standing in center of brilliantly illuminated underground space
+    action: Experiencing moment of complete self-recognition and acceptance of complex identity
+  scene:
+    mainElements: Ceiling covered with 1369 light bulbs creating brilliant illumination, gramophone, makeshift furniture,
+      stolen electricity connection
+    details: Universal moment transcending individual perspective shows fundamental human truth - brilliant light reveals
+      reality that exists beyond social construction, 1369 bulbs create illumination so complete that shadows disappear entirely,
+      underground space transforms from hiding place into revelation chamber, Louis Armstrong's music provides soundtrack
+      to universal human experience, physical isolation enables connection to broader humanity, artificial light confirms
+      authentic existence independent of social recognition
+    background: Underground foundation representing solid ground of human dignity, surface world continuing above without
+      awareness
+    atmosphere: Hibernation space for reflection and truth-seeking, brilliant artificial light confirming existence and reality,
+      isolation enabling deep self-examination
+  composition:
+    cameraAngle: Encompassing perspective showing both individual recognition and universal human dignity
+    focus: Moment of complete self-acceptance and recognition of complex human truth
+    depth: Foreground shows individual transformation, middle ground captures illuminated space, background suggests broader
+      human connection, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1949 late afternoon
+    location: two-lane asphalt road stretching to horizon across vast American continent, cutting through endless flat Nebraska
+      prairies, rolling Iowa hills and sun-scorched Arizona deserts, lined with wooden telegraph poles
+    weather: approaching thunderstorm with dark clouds and rising wind
+  characters:
+  - appearance: 21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns,
+      bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile
+    clothing: white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just
+      shorts or shirtless revealing his physical nature
+    position: standing beside car sniffing air while looking at distant horizon
+    action: raising head to test wind direction while thin smoke tendrils rise from distant grass fire
+  scene:
+    mainElements: thin gray smoke tendrils rising vertically from distant point on horizon before being bent by increasing
+      wind, dark storm clouds building overhead creating dramatic contrast with smoke, wind direction change visible through
+      smoke patterns, atmospheric pressure difference affecting smoke behavior
+    details: Smoke initially rising straight upward then suddenly bending eastward as wind shifts, grass fire barely visible
+      as small orange glow at smoke's base many miles distant, storm clouds darkening western sky while smoke provides early
+      warning of approaching weather change, wind picking up dust and debris along roadside, smoke plume growing thicker as
+      fire spreads, telegraph wires beginning to hum with increased wind pressure
+    background: empty road surface black or gray cracked from sun, occasional roadside signs, abandoned car wrecks, infinite
+      sky meeting land at distant horizon
+    atmosphere: faded browns and ochres of earth, bleached green grass, deep navy blue sky, harsh merciless sunlight casting
+      short shadows during day, spectacular purple orange red sunsets, absolute darkness at night pierced only by car headlights
+      and millions of bright stars
+  composition:
+    cameraAngle: wide shot showing vast landscape with small smoke column
+    focus: distant smoke as early warning sign of approaching storm system
+    depth: figure and car in foreground, empty prairie in middle ground, smoke column and storm clouds on distant horizon
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

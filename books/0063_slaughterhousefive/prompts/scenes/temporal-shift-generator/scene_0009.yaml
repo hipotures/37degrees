@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tralfamadorian Zoo - Artificial Seasons of Captivity"
+  setting:
+    time: "Timeless alien environment with imposed earth-like seasonal cycles"
+    location: "Transparent geodesic dome on alien planet Tralfamador serving as human exhibition space"
+    weather: "Artificially controlled climate simulating Earth seasons for alien observation"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy displayed as specimen, sometimes with Montana, adapting to artificial environment changes"
+      action: "Living under constant alien observation while seasons artificially cycle around him, no text or letters visible"
+  scene:
+    mainElements: "Earth-style furniture stolen from Sears Roebuck including sofa, tables, bar, billiard table, federal gold wall-to-wall carpeting, mint green bathroom fixtures, broken television with cowboy gunfight sticker"
+    details: "Climate control systems creating spring warmth, summer heat, autumn cooling, winter chill within dome, artificial weather patterns, seasonal lighting changes, humidity adjustments, temperature variations affecting furniture and fixtures"
+    background: "Tralfamadorian observers outside dome changing behavior with seasons, alien landscape visible through transparent walls, other specimen domes in distance"
+    atmosphere: "Sterile, laboratory-like artificial environment, constant unchanging light with no day-night cycle, alienating parody of human domesticity under constant alien observation"
+  composition:
+    cameraAngle: "Interior dome shot showing full living space with seasonal environmental controls"
+    focus: "Billy experiencing artificial Earth seasons while being observed as laboratory specimen"
+    depth: "Foreground shows domestic furniture arrangement, middle ground shows Billy's adaptation to seasonal changes, background shows alien observers studying human seasonal behavior"

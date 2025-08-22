@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Forest Confessional"
+  setting:
+    time: "1649 spring afternoon in woodland sanctuary"
+    location: "Dense forest clearing beside babbling stream"
+    weather: "Dappled forest light through green canopy"
+  characters:
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Position varies by scene context"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+    - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+      clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+      position: "Position varies by scene context"
+      action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+  scene:
+    mainElements: "Two figures in intense conversation beside flowing water as truth is finally revealed"
+    details: "Symbolic scene depicting the forest confessional with detailed symbolic elements emphasizing visual metaphors of stream as witness to long-delayed honesty between former lovers. All elements contribute to overall symbolic narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact."
+    background: "Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social elements"
+    atmosphere: "Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no text or letters visible"
+  composition:
+    cameraAngle: "Angle chosen to emphasize symbolic elements and character relationships"
+    focus: "Stream as witness to long-delayed honesty between former lovers"
+    depth: "Foreground, middle, and background elements layered to create symbolic meaning and visual depth"

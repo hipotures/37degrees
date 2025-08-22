@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Two-shot - Jordan and María discovering mutual connection"
+  setting:
+    time: "Late May 1937, evening firelight in cave"
+    location: "Intimate corner of partisan cave with warm firelight"
+    weather: "Protected from mountain cold"
+  characters:
+    - appearance: "tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes"
+      clothing: "faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones of khaki, gray, brown"
+      posture: "moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace"
+      action: "methodically checking equipment, observing surroundings with professional alertness"
+    - appearance: "19-year-old woman with slender build, long graceful legs, golden-brown eyes and skin, high cheekbones, full lips, distinctive hair cut short like beaver fur - visual reminder of trauma"
+      clothing: "simple gray shirt and peasant trousers, later khaki shirt with open collar - practical camp clothing"
+      posture: "initially shy and fragile movements, gradually gaining confidence and certainty"
+      action: "moving between vulnerability and growing strength, eyes showing mixture of innocence and hunger for life"
+  scene:
+    mainElements: "Two figures positioned close together in warm firelight, height difference creating protective dynamic, both faces softly illuminated showing growing emotional connection"
+    details: "Firelight creating intimate atmosphere between figures, body language showing initial awkwardness transforming into natural attraction, space between them gradually decreasing, eyes meeting with recognition of mutual feelings"
+    background: "Soft focus cave interior with warm orange firelight, other group members distant and out of focus"
+    atmosphere: "Romantic discovery amid harsh circumstances, hope emerging from trauma, love as refuge from conflict, tenderness contrasting with surrounding tension"
+  composition:
+    cameraAngle: "Two-shot framing both figures in intimate composition"
+    focus: "Emotional connection and developing relationship between two people"
+    depth: "Foreground couple in sharp focus, background group activity softly blurred"

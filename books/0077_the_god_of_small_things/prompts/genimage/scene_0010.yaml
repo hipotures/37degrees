@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1969 December, late afternoon during political demonstration
+    location: Railway crossing where blue Plymouth is stopped by marching protesters in Kerala countryside
+    weather: Hot afternoon with dust clouds stirred by marching feet
+  characters:
+  - appearance: 60-year-old unmarried woman with bitter expression, increasingly plump from sedentary lifestyle, graying hair,
+      suspicious eyes, movements sharp with resentment
+    clothing: Conservative sari in traditional style, gold bangles and chain she touches for comfort, modest colors befitting
+      spinster aunt
+    position: Sitting in back seat of car looking terrified
+    action: Being forced to wave red flag by protesters, her movements jerky with fear and humiliation
+  scene:
+    mainElements: Chaos of overlapping motion with red flags creating blur of movement, dust clouds rising from hundreds of
+      marching feet, car surrounded by sea of moving bodies and waving banners
+    details: Multiple red flags waving in different rhythms creating visual noise, dust particles jumping and swirling from
+      ground vibrations, motion blur from rapid movement in all directions, flag fabric snapping and rippling chaotically,
+      Baby Kochamma's forced movements contrasting with protesters' coordinated march
+    background: Railway crossing with stopped blue Plymouth, rural Kerala landscape, coconut palms swaying from movement-generated
+      wind
+    atmosphere: Visual representation of overwhelming sound through chaotic movement, political force creating environmental
+      disruption, order destroyed by revolutionary energy
+  composition:
+    cameraAngle: View from inside car showing overwhelming chaos of movement surrounding vehicle
+    focus: Overlapping motion patterns of flags and marchers creating visual cacophony around trapped family
+    depth: Foreground shows Baby Kochamma's forced participation, middle ground captures swirling protest movement, background
+      features disrupted landscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

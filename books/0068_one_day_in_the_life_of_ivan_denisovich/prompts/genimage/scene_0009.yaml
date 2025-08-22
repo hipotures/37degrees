@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: January 1951, 10:00 AM, mid-morning work period
+    location: Open steppes construction site several kilometers from Soviet prison camp, January 1951, flat windswept terrain
+    weather: Bitter wind sweeping across open construction site, subzero temperatures
+  characters:
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Working on second floor of unfinished building, exposed to full wind force
+    action: Struggling to work against wind resistance while installing insulation materials
+  - appearance: Baltic prisoner Kilgas, working partner in construction team
+    clothing: Similar prison uniform, working together on wind protection
+    position: Helping to secure materials against wind force
+    action: Coordinating movements to combat wind interference with construction work
+  scene:
+    mainElements: Unfinished two-story power station building made of gray slag blocks with large empty window openings through
+      which wind howls, chaotic landscape of building materials - sand piles, cement bags, stacks of blocks all covered by
+      thick snow layer
+    details: Wind made visible through flying snow particles, loose materials being blown across site, fabric flapping violently
+      against bodies. Empty window openings creating wind tunnel effects with snow and debris streaming through spaces. Construction
+      materials shifting and tumbling from wind pressure, creating chaotic movement patterns. Prisoners' clothing pressed
+      against bodies and pulled by wind forces, hair and loose fabric creating directional indicators of wind flow. Tools
+      and materials requiring constant securing against wind displacement, no text or letters visible
+    background: Brutally cold and windy open space, pale winter sun hanging low on horizon, monochromatic palette of blinding
+      white snow and gray concrete, metallic sounds of tools against freezing wind
+    atmosphere: Nature's acoustic assault visualized through environmental chaos, wind as invisible but powerful antagonist
+      disrupting all human activity, atmospheric violence made tangible through material displacement
+  composition:
+    cameraAngle: Dynamic angle showing wind effects and environmental disruption
+    focus: Visual evidence of wind force - flying materials, pressed clothing, streaming particles
+    depth: 'Foreground: immediate wind effects on workers, middle: building structure channeling wind, background: source
+      and direction of wind flow'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

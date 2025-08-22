@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Characters turning away with building tension"
+  setting:
+    time: "1930s, evening meal time"
+    location: "Ranch bunkhouse during evening gathering, card table area"
+    weather: "Overcast evening with artificial lighting needed"
+  characters:
+    - appearance: "Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive boxer stance"
+      clothing: "High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand"
+      position: "Standing near table with back partially turned to others"
+      action: "Shoulders tense and hunched, hands clenched into fists at sides, radiating barely contained hostility"
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Seated at table but body angled away from confrontation"
+      action: "Head turned aside, jaw clenched, avoiding eye contact while tension builds in neck and shoulders"
+  scene:
+    mainElements: "Card table with abandoned game, chairs pushed back from interrupted activity, harsh electric light creating sharp shadows"
+    details: "Playing cards scattered on table surface, men's belongings suddenly feeling less secure, atmosphere of previously comfortable space now charged with conflict"
+    background: "Other workers keeping distance from brewing confrontation, muted conversations"
+    atmosphere: "Breakdown of social harmony, established patterns disrupted, masculine camaraderie fracturing into hostility and suspicion"
+  composition:
+    cameraAngle: "Medium shot capturing body language of turned-away figures"
+    focus: "The physical manifestation of emotional distance and building conflict"
+    depth: "Foreground shows tense body positions, middle ground captures disrupted social space, background reveals others withdrawing"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Isolation of the Doubting Individual"
+  setting:
+    time: "Late 1890s, evening during family confrontation"
+    location: "Wealthy Igbo patriarch's walled compound in Umuofia village, southeastern Nigeria"
+    weather: "Darkening evening with harsh shadows emphasizing emotional isolation"
+  characters:
+    - appearance: "Slender young man transitioning from boy to adult, delicate features contrasting with father's harsh appearance"
+      clothing: "Traditional loincloth initially, later simple European shirt and trousers after conversion"
+      position: "Standing alone facing family rejection and community ostracism"
+      action: "Experiencing complete isolation from traditional support systems due to questioning cultural practices"
+  scene:
+    mainElements: "Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral shrine now serving as prison rather than protection for questioning individual"
+    details: "Prosperous but tense household reflecting patriarch's rigid control and suppressed emotions creating atmosphere where doubt and questioning are treated as betrayal. Traditional community support systems withdrawn from individual who challenges established practices"
+    background: "Traditional family structure that cannot accommodate individual conscience or moral questioning of established practices"
+    atmosphere: "Profound loneliness and alienation experienced by individual whose moral development conflicts with traditional community expectations and family loyalty"
+  composition:
+    cameraAngle: "Close-up emphasizing individual emotional isolation and internal conflict"
+    focus: "Single person surrounded by rejecting family and community members"
+    depth: "Isolated individual in foreground, hostile family members in middle ground, protective compound walls turned prison in background"

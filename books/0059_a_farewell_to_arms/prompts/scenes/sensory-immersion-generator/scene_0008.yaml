@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Snow muffling retreat footsteps in mountain silence"
+  setting:
+    time: "1917 late autumn, early morning"
+    location: "Italian front lines near Gorizia in northeastern Italy, view across Isonzo River valley toward Austrian positions in Julian Alps"
+    weather: "Early snow creating sound-dampening blanket"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Italian army officer uniform in Grigioverde gray-green, includes tunic, trousers, officer cap with rank insignia on cuffs, leather boots, carries Astra 7.65 pistol, steel helmet and English gas mask on front lines"
+      position: "Walking carefully through fresh snow with other retreating soldiers"
+      action: "Lifting feet high to avoid crunching snow while moving stealthily"
+  scene:
+    mainElements: "Elegant villa converted to officers' quarters with military maps on walls, equipment in corners, mud tracked on fine floors, view through river valley showing pebbles and boulders dry and white in sun with clear swift blue water"
+    details: "Fresh snow accumulation creating natural sound insulation absorbing every footfall and voice, normally crunchy snow compressed silently under careful boot placement, breath vapor dispersing immediately in still mountain air without echoing, equipment rattling muffled to barely audible whispers, tree branches heavy with snow drooping to create enclosed cathedral-like silence, even distant artillery seeming impossibly far away and dreamlike, soldiers moving like ghosts through cotton-wrapped landscape, absolute stillness between footsteps creating profound acoustic isolation, no text or letters visible"
+    background: "Snow-covered Alpine landscape creating natural amphitheater of silence"
+    atmosphere: "Deceptive beauty of Alpine landscape constantly disrupted by signs of war - dust settling on leaves from passing troops, leaves falling early from shellfire, distant artillery flashes, contrast between natural beauty and military destruction"
+  composition:
+    cameraAngle: "Wide shot emphasizing vast silent landscape with small figures"
+    focus: "Contrast between human movement and absolute environmental silence"
+    depth: "Foreground shows detailed snow texture, middle ground captures careful movement, background reveals encompassing mountain silence"

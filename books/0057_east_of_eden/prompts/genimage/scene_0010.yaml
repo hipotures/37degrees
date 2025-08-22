@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Complete annual cycle compressed into one image, showing spring, summer, autumn, and winter simultaneously
+    location: Dirt pathway winding through Salinas Valley connecting Hamilton and Trask properties
+    weather: All four seasonal weather patterns visible in different sections of same path
+  characters: No characters present in this scene
+  scene:
+    mainElements: Winding dirt path divided into four distinct seasonal sections - spring section with budding trees and wildflowers,
+      summer section with full green growth, autumn section with golden grasses and falling leaves, winter section with bare
+      trees and frost
+    details: Path surface showing seasonal variations - spring mud from rain, summer dust and hard-packed earth, autumn leaves
+      covering walkway, winter frost and occasional ice patches, fence posts along route displaying different seasonal wear
+      and plant growth, wooden bridge crossing seasonal stream showing water levels from spring runoff to summer trickle to
+      autumn pools to winter ice
+    background: Salinas Valley mountains showing all seasonal colors simultaneously - spring green overlaid with summer gold
+      overlaid with autumn bronze overlaid with winter gray, sky displaying seasonal cloud patterns and lighting conditions
+      changing across the vista
+    atmosphere: Time collapsed to show eternal cycle within single moment, nature's rhythms compressed to reveal yearly patterns,
+      path as metaphor for life's journey through all seasons, continuity within constant change, no text or letters visible
+  composition:
+    cameraAngle: Elevated view following path's curve through valley showing all seasonal transitions
+    focus: Winding path as unifying element connecting all seasonal manifestations
+    depth: Foreground shows detailed seasonal path surfaces, middle ground reveals vegetation changes, background displays
+      mountain seasonal palette
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

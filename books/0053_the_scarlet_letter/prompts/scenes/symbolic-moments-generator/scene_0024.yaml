@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "PLACEHOLDER_TITLE"
+  setting:
+    time: "PLACEHOLDER_TIME"
+    location: "PLACEHOLDER_LOCATION"
+    weather: "PLACEHOLDER_WEATHER"
+  characters: "PLACEHOLDER_CHARACTERS"
+  scene:
+    mainElements: "PLACEHOLDER_MAIN"
+    details: "PLACEHOLDER_DETAILS"
+    background: "PLACEHOLDER_BACKGROUND"
+    atmosphere: "PLACEHOLDER_ATMOSPHERE"
+  composition:
+    cameraAngle: "PLACEHOLDER_ANGLE"
+    focus: "PLACEHOLDER_FOCUS"
+    depth: "PLACEHOLDER_DEPTH"

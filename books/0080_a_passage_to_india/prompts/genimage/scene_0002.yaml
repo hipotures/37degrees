@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, early dawn with first golden rays emerging
+    location: Interior of mosque in Indian quarter of Chandrapore, showing Islamic architectural elements
+    weather: Clear morning air, gentle warmth beginning to penetrate cool night
+  characters: No characters present in this scene
+  scene:
+    mainElements: Islamic prayer hall with arched doorways and windows, prayer rugs scattered across stone floor, mihrab indicating
+      direction of Mecca
+    details: Geometric patterns carved into stone walls catching early light, oil lamps still burning from night prayers,
+      sandals left at entrance, water basin for ablutions reflecting golden light, verses from Quran in Arabic calligraphy
+      on walls, prayer beads forgotten on window sill
+    background: Courtyard visible through arched openings showing fountain and palm trees, morning birds beginning to sing
+    atmosphere: Sacred peace and tranquility, spiritual preparation for day, warm golden light gradually replacing cool blue
+      shadows
+  composition:
+    cameraAngle: Interior view looking toward mihrab with light streaming through arched windows
+    focus: Golden sunbeams creating patterns on prayer rugs and carved walls
+    depth: Foreground shows detailed floor patterns, middle ground captures light rays, background glimpses courtyard through
+      arches
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

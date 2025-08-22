@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cafe Opening and Closing - Daily Business Rhythm"
+  setting:
+    time: "Morning opening and evening closing of same establishment"
+    location: "Traditional Indian tea stall or cafe showing daily commercial cycles"
+    weather: "Morning freshness transitioning to evening weariness"
+  characters:
+    - appearance: "Cafe owner showing dual state - fresh morning energy and tired evening exhaustion. Middle-aged person with practical work clothing"
+      clothing: "Simple business attire - dhoti or lungi with work shirt, practical for food service"
+      position: "Standing behind counter or moving around cafe space preparing for day and cleaning after day"
+      action: "Setting up equipment and supplies in morning, cleaning and closing in evening"
+  scene:
+    mainElements: "Small Indian cafe or tea stall showing morning preparation overlapping with evening cleanup. Fresh supplies and equipment setup simultaneously with cleaning and storage activities. Customer activity beginning and ending in same space"
+    details: "Food preparation surfaces show both morning cleanliness and evening use. Tea equipment appears fresh and ready while also appearing used and requiring cleaning. Supply deliveries overlap with waste removal. Customer seating arrangements being prepared and cleared"
+    background: "Street scene outside cafe showing morning activity and evening quieting. Other businesses following similar opening and closing patterns. Urban life cycles supporting individual commercial rhythms"
+    atmosphere: "Honest labor dignity within cyclical business routine. Daily commercial life providing community stability through consistent service patterns, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing cafe interior with dual temporal activities"
+    focus: "Cafe owner as central figure managing both opening and closing activities"
+    depth: "Counter and food preparation in foreground, customer space in middle ground, street activity in background"

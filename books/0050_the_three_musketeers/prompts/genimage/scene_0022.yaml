@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: August 1628, evening with dramatic backlighting
+    location: Convent entrance where heroic rescue arrives at moment of ultimate tragedy
+    weather: Clear evening with strong backlighting creating silhouette effect
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Framed in convent doorway, backlit creating dramatic silhouette, rushing forward with desperate urgency
+    action: Bursting through doorway in desperate attempt at rescue, face showing horror as he realizes he has arrived too
+      late
+  - appearance: Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked
+      by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture
+    clothing: Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation,
+      always immaculately groomed and formal
+    position: Behind D'Artagnan in doorway, also backlit, maintaining dignified composure despite tragedy
+    action: Following with grim understanding that they have failed in their mission to protect innocent life
+  - appearance: 25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone
+      to boastful smiles, loud extroverted demeanor
+    clothing: Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories
+      displaying wealth even when living beyond means
+    position: Visible in doorway background, massive frame emphasized by architectural frame
+    action: Arriving with companions, his usual jovial expression replaced by grim determination and sorrow
+  scene:
+    mainElements: Convent doorway creating natural frame for arriving heroes, dramatic backlighting creating powerful silhouettes,
+      religious architecture emphasizing violation of sanctuary
+    details: Stone doorway arch framing multiple figures, strong backlighting creating dramatic silhouette effects, religious
+      symbols and peaceful architecture contrasting with urgent drama, shadows and light creating powerful visual drama
+    background: Peaceful convent interior now scene of tragedy, religious furnishings and symbols, glimpse of victim beyond
+      in chamber, architectural details emphasizing sacred space
+    atmosphere: Desperate urgency mixed with terrible realization of failure, dramatic lighting emphasizing tragedy, heroes
+      arriving at moment of ultimate defeat
+  composition:
+    cameraAngle: Wide shot with doorway creating natural frame containing arriving heroes, backlighting emphasizing dramatic
+      moment
+    focus: Sharp focus on silhouetted figures in doorway frame, architectural elements prominent as framing device
+    depth: 'Foreground: convent interior showing tragedy, middle ground: doorway frame with arriving heroes, background: evening
+      light creating dramatic backlighting, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

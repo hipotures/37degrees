@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Revelation - Secret Documents"
+  setting:
+    time: "1944, night"
+    location: "Milo's expanded storage area in mess hall complex"
+    weather: "Mediterranean night"
+  characters:
+    - appearance: "20s, straight face with separated eyebrows, large eyes, reddish hair, unfortunate reddish-brown mustache, thin nose with moist nostrils"
+      clothing: "quartermaster lieutenant uniform with expensive civilian accessories"
+      position: "standing among account books and contract documents"
+      action: "revealing syndicate contracts and business agreements"
+  scene:
+    mainElements: "transformed mess area filled with business documents, contract files, accounting ledgers, samples of international trade goods"
+    details: "Milo opens his business ledgers revealing contracts with enemy forces, profit statements showing enormous gains from war supplies, and trade agreements crossing battle lines. Documents detail how M&M Enterprises sells to both Allied and Axis forces. Mathematical calculations prove war's profitability exceeds military objectives."
+    background: "stacks of business records, samples of Egyptian cotton, boxes of imported goods, accounting equipment"
+    atmosphere: "revelation of capitalism transcending national loyalty, mixture of business triumph and moral bankruptcy"
+  composition:
+    cameraAngle: "close-up on documents and ledgers showing shocking revelations"
+    focus: "contract papers revealing enemy trade agreements"
+    depth: "foreground shows damning documentation, middle ground captures Milo's pride, background reveals scope of business empire"

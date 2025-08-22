@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1947 early morning
+    location: train car-shaped building made of gleaming stainless steel with rounded corners, large panoramic windows and
+      characteristic neon signs that hiss and flicker in the night
+    weather: cool morning with slight mist
+  characters:
+  - appearance: Middle-aged cook in white apron and cap, flour-dusted hands
+    clothing: white cook's uniform with stained apron
+    position: behind counter removing fresh bread from warming oven
+    action: placing hot loaves on cooling rack while steam rises visibly from crust
+  - appearance: 25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled,
+      dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression
+    clothing: khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or
+      leather jacket, functional but reflecting intellectual Eastern background
+    position: seated at counter facing bread display
+    action: leaning forward slightly with nostrils widening involuntarily at bread aroma
+  scene:
+    mainElements: visible steam ribbons curling upward from fresh hot bread, golden-brown crust still crackling from oven
+      heat, flour particles floating in morning light from diner windows, cook's hands dusted white with flour residue
+    details: Steam curling in delicate spirals from bread crust that continues crackling audibly, flour dust motes dancing
+      in morning sunbeam through diner window, cook's apron showing evidence of morning baking with flour handprints and dough
+      smears, fresh loaves arranged to release maximum aroma circulation, butter melting immediately when placed on hot crust
+      surface, condensation forming briefly on cool display glass when hot bread placed nearby
+    background: long counter with row of rotating stools covered in red or blue vinyl, booths with benches opposite, black
+      and white checkered floor, glass containers with cakes on counter, chrome coffee machines and drink dispensers gleaming
+      in background, jukebox in corner
+    atmosphere: bright fluorescent lighting, smell of fried bacon, fresh brewed coffee and cigarette smoke, sound of clinking
+      cutlery, truck drivers' conversations and jukebox music, temporary oasis of civilization in wilderness
+  composition:
+    cameraAngle: close-up focusing on bread with steam patterns
+    focus: visible steam trails as representation of bread's fresh-baked aroma
+    depth: steaming bread in sharp foreground, cook's flour-dusted hands in middle ground, diner interior extending to background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

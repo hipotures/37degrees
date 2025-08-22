@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Valencia's Wedding Dress Journey Through Time"
+  setting:
+    time: "1940s to 1970s, tracking single garment across three decades"
+    location: "Various locations following dress's journey from boutique to closet to donation"
+    weather: "Interior scenes with changing light quality from fluorescent to incandescent to natural"
+  characters:
+    - appearance: "Female, from twenties at marriage to over 40 in later scenes, described as fat, unattractive, and extremely large, good-natured but insecure expression"
+      clothing: "1950s and 1960s suburban housewife attire, dresses, pearls, carefully styled hair"
+      position: "Temporal overlay showing young Valencia trying on dress, wearing it at wedding, older Valencia carefully storing it away"
+      action: "Dress fitting, wedding ceremony, preservation storage, final donation to charity, no text or letters visible"
+  scene:
+    mainElements: "White wedding dress shown in multiple states - pristine new condition, worn during ceremony, carefully preserved in garment bag, finally yellowed and donated"
+    details: "Fabric aging from bright white to ivory to yellow, lace details becoming brittle, satin losing luster, preservation tissue paper browning, mothballs scent, storage box deteriorating, price tags and labels fading"
+    background: "Wedding shop mirrors reflecting young bride, church altar ceremony, bedroom closet storage, charity shop rack among other donated clothing"
+    atmosphere: "Bittersweet passage of dreams and hopes, romantic expectations fading into practical reality, scent of preservation attempts fighting time's inevitable changes"
+  composition:
+    cameraAngle: "Medium shot following dress as central element through different environments"
+    focus: "Wedding dress as temporal anchor showing wear, aging, and changing significance"
+    depth: "Foreground shows dress detail in each era, middle ground shows environments changing, background shows broader social contexts of each period"

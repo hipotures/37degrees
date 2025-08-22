@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Two Worlds Divided"
+  setting:
+    time: "1950, midday"
+    location: "Street border between elite district and worker housing in Moscow"
+    weather: "Clear day providing stark visual contrast between areas"
+  characters:
+    - appearance: "Well-dressed party officials in expensive coats walking through elite area, contrasted with workers in patched clothing in background"
+      clothing: "Officials: Fine wool overcoats, leather gloves, polished shoes; Workers: Worn telogreika jackets, felt boots, patched clothing"
+      position: "Officials walking confidently on clean sidewalks, workers hurrying through muddy areas"
+      action: "Officials entering luxury shops and restaurants, workers queuing for basic supplies"
+  scene:
+    mainElements: "Sharp visual divide between pristine elite neighborhood with luxury shops and run-down worker district with basic housing, invisible barrier separating two worlds"
+    details: "Elite side: polished stone buildings, well-maintained streets, luxury goods in shop windows, ornate street lamps; Worker side: concrete block housing, unpaved roads, empty shop windows, basic infrastructure"
+    background: "Stark architectural contrast extending to horizon, organized separation maintaining class divisions, different quality of public services on each side"
+    atmosphere: "Obvious inequality masked by official rhetoric of equality, visual evidence contradicting propaganda, separation maintained through environmental design"
+  composition:
+    cameraAngle: "Split composition emphasizing stark contrast"
+    focus: "Clear border between luxury and poverty within same system"
+    depth: "Foreground shows individual representatives of each class, middle ground reveals environmental differences, background demonstrates systematic inequality"

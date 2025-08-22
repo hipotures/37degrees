@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Early 1920s morning
+    location: Village streets that paradoxically lead away from Castle despite appearing to approach it
+    weather: Bright winter morning with exhausting deep snow
+  characters:
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Struggling through deep snow, becoming increasingly tired and frustrated
+    action: Pushing forward with gnarled walking stick, checking direction repeatedly with growing confusion
+  scene:
+    mainElements: Narrow winding streets that mislead rather than guide toward Castle, deep snow creating physical barriers
+      and exhaustion
+    details: Through K.'s increasingly frustrated perspective - streets that seemed to lead directly to Castle now curving
+      away inexplicably, snow deeper than anticipated creating exhausting resistance. Simple gnarled wooden staff serving
+      as only reliable support in treacherous conditions. Castle appearing to maintain same distance despite hours of walking,
+      architectural details becoming no clearer.
+    background: Village houses creating maze-like barriers, paths branching in confusing directions
+    atmosphere: K.'s professional confidence eroding into bewildered determination - logical surveyor's mind struggling with
+      irrational geography, physical exhaustion combining with psychological disorientation, morning optimism fading into
+      stubborn persistence, no text or letters visible
+  composition:
+    cameraAngle: Following K.'s labored movement through challenging terrain
+    focus: K.'s increasing struggle against deceptive path and deep snow
+    depth: Foreground emphasizes K.'s difficult footsteps and walking stick, middle ground shows misleading street curves,
+      background maintains Castle at unchanging distance
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1924, warm afternoon
+    location: Mountain river in Basque Pyrenees near Burguete village, clear morning light in pristine wilderness
+    weather: Perfect warm afternoon with gentle breeze
+  characters:
+  - appearance: American writer aged approximately 29, medium height with sturdy build, friendly open face with intelligent
+      humor in expression, dark hair in casual style, warm eyes that crinkle with frequent laughter
+    clothing: Informal American attire including comfortable wool jacket, soft cotton shirt without rigid collar, practical
+      clothing suitable for travel and outdoor activities
+    position: Seated on rocks beside stream, fruit in hand
+    action: Engaging in witty conversation with good-natured humor while maintaining loyal supportive presence among friends
+  scene:
+    mainElements: Perfectly ripe peach with juice streaming down hand, fruit flesh glistening with natural moisture, droplets
+      falling onto sun-warmed stones
+    details: Clear fruit juice creating shining trails on skin, fruit flesh showing perfect ripeness through color and texture,
+      juice droplets catching sunlight like sweet gems, sticky sweetness visible on fingers, fruit skin with perfect peachy
+      bloom indicating peak flavor, natural sugars creating glossy surface on fruit flesh, no text or letters visible
+    background: Pure natural tranquility with bright mountain air, sounds of flowing water and bird songs, healing quality
+      of untouched wilderness away from urban decay
+    atmosphere: Natural fruit sweetness at peak perfection - visual evidence of concentrated flavor, juice flow indicating
+      pure natural sugar content
+  composition:
+    cameraAngle: Close-up on fruit and juice-covered hand
+    focus: Juice trails and fruit flesh texture showing perfect ripeness
+    depth: 'Foreground: detailed fruit and juice interaction, midground: figure enjoying natural feast, background: mountain
+      wilderness providing pure context'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

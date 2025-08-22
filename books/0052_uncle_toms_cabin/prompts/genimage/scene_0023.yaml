@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1851, dawn
+    location: Plantation designed like Bentham's panopticon with central observation tower
+    weather: Dawn light creating clear visibility from central observation point
+  characters:
+  - appearance: Single observer figure in central tower with surveillance equipment
+    clothing: Authority dress suggesting administrative control and surveillance power
+    position: Elevated in central tower with complete view of all activity below
+    action: Systematically observing and recording all human activity within view
+  - appearance: Multiple enslaved people arranged in visible patterns around central observation point
+    clothing: Work clothes making them easily identifiable and distinguishable for surveillance purposes
+    position: Distributed in geometric pattern allowing maximum observation from central point
+    action: Performing daily activities while constantly aware of central observation
+  scene:
+    mainElements: Central observation tower with panoramic view, systematic arrangement of buildings and work areas for maximum
+      surveillance, recording equipment and observation tools
+    details: Clear sight lines from central point to all areas, mirrors or reflective surfaces extending observation reach,
+      systematic documentation of observed activities, no private or hidden spaces available
+    background: Geometric arrangement of all plantation buildings for surveillance efficiency, paths and roads arranged for
+      visibility, natural landscape modified to eliminate concealment
+    atmosphere: Constant surveillance creating perpetual awareness of being watched, privacy eliminated as tool of control,
+      behavioral modification through knowledge of observation
+  composition:
+    cameraAngle: Central perspective from observation tower showing panoramic surveillance view
+    focus: The panopticon design as symbol of systematic surveillance and psychological control
+    depth: Foreground shows observation equipment and central authority, middle ground reveals geometric arrangement of observed
+      activities, background emphasizes the complete surveillance environment
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

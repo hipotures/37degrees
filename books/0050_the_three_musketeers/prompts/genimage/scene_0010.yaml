@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: April 1625, afternoon following combat with sun lower in sky
+    location: Dueling ground near Carmelite monastery after successful battle against Cardinal's Guards
+    weather: Clear afternoon with warmer golden light replacing harsh noon sun
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Left side of frame, slightly shorter than companions, energetic posture showing excitement and pride
+    action: Grinning with triumph and exhaustion, gesturing enthusiastically while bonding with new brothers through shared
+      combat experience
+  - appearance: Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked
+      by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture
+    clothing: Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation,
+      always immaculately groomed and formal
+    position: Center-right of frame, tallest figure with authoritative bearing despite recent combat
+    action: Nodding with approval and subtle warmth, accepting young Gascon into brotherhood while maintaining aristocratic
+      dignity
+  - appearance: 25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone
+      to boastful smiles, loud extroverted demeanor
+    clothing: Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories
+      displaying wealth even when living beyond means
+    position: Background right, powerful frame dominating space with satisfied expression
+    action: Laughing heartily while clapping D'Artagnan on shoulder, showing acceptance and celebrating successful combat
+  - appearance: 22-23 years old young man with gentle innocent countenance, extremely handsome with delicate almost feminine
+      features, refined scholarly appearance better suited to poet or diplomat than battle-hardened soldier
+    clothing: Immaculately elegant refined garments with subtle luxurious fabrics, somewhat effeminate attention to detail
+      including embroidered handkerchiefs and perfectly manicured hands
+    position: Left background, graceful bearing maintained even after combat
+    action: Smiling with quiet satisfaction while cleaning sword with characteristic precision and elegance
+  scene:
+    mainElements: Four young warriors in moment of bonding after successful combat, mixture of personalities unified by shared
+      danger and victory, monastery setting providing backdrop for new alliance
+    details: Scattered evidence of recent combat including displaced earth and abandoned weapons, afternoon light creating
+      warmer atmosphere than harsh noon battle, expressions showing mixture of exhaustion and exhilaration, body language
+      revealing new bonds of brotherhood
+    background: Carmelite monastery walls with peaceful religious architecture contrasting with recent violence, Parisian
+      rooftops beyond suggesting return to urban life ahead
+    atmosphere: Triumphant brotherhood forged through combat, warmth of new friendship mixed with respect earned through courage,
+      peaceful aftermath following dangerous confrontation
+  composition:
+    cameraAngle: Medium-wide two-shot expanding to include all four characters showing group dynamics and relationship formation
+    focus: All four characters clearly visible with emphasis on D'Artagnan's integration into established trio, space between
+      figures showing developing relationships
+    depth: 'Foreground: D''Artagnan and Athos as primary relationship, middle ground: Porthos and Aramis as supporting brotherhood,
+      background: monastery setting providing context, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

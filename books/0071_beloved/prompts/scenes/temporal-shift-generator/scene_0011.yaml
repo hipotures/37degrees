@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations of Women in Prayer"
+  setting:
+    time: "1840s grandmother's generation overlaid with 1856 mother's time and 1873 daughter's present, three decades of spiritual tradition"
+    location: "Same prayer corner in family dwelling showing generational continuity of faith"
+    weather: "Morning light filtering through same window across three generations"
+  characters:
+    - appearance: "Elderly African American woman, age around 70 when alive, suffering from crooked hip making her movements painful, frail build in later years requiring assistance"
+      clothing: "Simple modest robes appropriate for spiritual leadership and elderly comfort"
+      position: "Seated or reclining due to physical limitations, commanding respect through spiritual presence"
+      action: "Speaking with spiritual authority while gesturing with walking stick, moving slowly due to physical infirmity"
+    - appearance: "African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear as holes punched in a mask, weathered hands showing years of hard labor"
+      clothing: "Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions"
+      position: "Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language"
+      action: "Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective distraction"
+    - appearance: "African American young woman, age 18, round and brown build showing isolation-influenced physique, alert doll-like face inherited from father's sweet features, long heavy eyelashes making eyes appear more active than they are"
+      clothing: "Simple homemade dresses and bonnets suitable for domestic life"
+      position: "Initially withdrawn and uncertain, gradually becoming more confident through story progression"
+      action: "Moving from fearful avoidance to protective determination, transforming from isolated dependence to community engagement"
+  scene:
+    mainElements: "Three overlapping female figures in identical prayer posture across different decades, same wooden prayer corner showing wear from generations of use, identical hand positions and bowed heads"
+    details: "Baby Suggs as elder showing spiritual authority with walking stick beside her, Sethe in middle generation carrying trauma but maintaining faith, Denver as youngest learning prayer traditions while struggling with isolation, same prayer shawl passed through generations showing different patterns of wear, morning light unchanged across decades but illuminating different expressions of faith and hardship"
+    background: "Prayer corner remained unchanged architecturally but accumulated spiritual weight and family history"
+    atmosphere: "Spiritual continuity across generational trauma, faith as inherited strength and learned survival mechanism, women's spiritual leadership connecting past wisdom to future hope, no text or letters visible"
+  composition:
+    cameraAngle: "Medium close-up allowing facial expressions and hand details of all three generations"
+    focus: "Overlapping prayer gestures showing generational continuity of faith practice"
+    depth: "Foreground shows prayer shawl and ritual objects, middle ground emphasizes three generations in prayer, background reveals sacred corner unchanged across time"

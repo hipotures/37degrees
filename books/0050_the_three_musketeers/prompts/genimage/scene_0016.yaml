@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: May 1625, storm-threatened afternoon with dramatic lighting
+    location: Roadside inn courtyard where deadly trap awaits unsuspecting musketeers
+    weather: Heavy clouds and shifting light creating ominous atmosphere
+  characters:
+  - appearance: Multiple Cardinal's Guards wearing red and black uniforms, disciplined military bearing, faces showing cold
+      professionalism
+    clothing: Cardinal's red and black military uniforms creating visual contrast with musketeer blue, practical armor and
+      weapons
+    position: Arranged in ambush formation around courtyard, weapons ready, tilted frame emphasizing threatening presence
+    action: Waiting in concealment for victims to arrive, checking weapons and coordinating attack positions with military
+      precision
+  scene:
+    mainElements: Inn courtyard tilted at sharp angle suggesting moral imbalance and impending violence, guards positioned
+      for deadly surprise attack, architecture creating maze of hiding places
+    details: Dutch angle creating sense of unease and instability, shadows and hiding places throughout courtyard, weapons
+      gleaming in shifting light, red uniforms standing out against stone architecture, horses and equipment ready for quick
+      escape
+    background: Country inn with multiple levels and alcoves providing cover, storm clouds gathering overhead suggesting divine
+      displeasure, rural landscape beyond courtyard
+    atmosphere: Mounting tension and moral imbalance, sense of inevitable confrontation and injustice, tilted world reflecting
+      corruption of Cardinal's methods
+  composition:
+    cameraAngle: Dutch angle with frame tilted to create psychological unease and suggest moral corruption of ambush tactics
+    focus: Clear focus on arranged guards and their threatening positions, tilted perspective emphasizing instability and
+      wrongness
+    depth: 'Foreground: weapons and red uniforms showing immediate threat, middle ground: courtyard space arranged for trap,
+      background: inn architecture and storm clouds, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

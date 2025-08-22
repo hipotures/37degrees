@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Same day showing morning opening and evening closing
+    location: Small cafe in Juriatin showing daily commercial cycle
+    weather: Typical day with morning coolness warming to evening comfort
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  scene:
+    mainElements: Same cafe interior showing morning preparation and evening closure with Lara as regular customer
+    details: 'Daily cycle composition: Morning side shows cafe owner unlocking doors, arranging chairs, lighting samovar,
+      fresh bread delivery, morning light streaming through clean windows, Lara entering for breakfast before work. Evening
+      side reveals same space with chairs stacked on tables, owner counting day''s receipts, lamplight glowing warm, Lara
+      having final tea before going home. Same tables, same samovar, same view through windows but showing passage of working
+      day. Natural rhythm of commerce and community continues despite political upheaval, no text or letters visible'
+    background: Juriatin street view showing morning and evening activity patterns of provincial town
+    atmosphere: Daily economic and social rhythms maintaining human scale amid larger historical forces
+  composition:
+    cameraAngle: Interior view showing both morning activity and evening quiet
+    focus: Central samovar and tables as constant elements through daily transformation
+    depth: 'Foreground: cafe furniture and daily activities; middle ground: customers and service; background: street view
+      showing time passage'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

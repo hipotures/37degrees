@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1930s, dawn
+    location: Central tower overlooking multiple migrant camps and work areas in California valley
+    weather: Early morning light revealing surveillance architecture
+  characters:
+  - appearance: Tiny human figures visible in camps below, appearing controlled and monitored from central observation point.
+    clothing: Work clothes rendered small and indistinct by distance from surveillance tower
+    position: Scattered throughout camps and work areas, all visible from central control point
+    action: Going about daily activities under constant observation, behavior modified by awareness of being watched
+  scene:
+    mainElements: Massive central observation tower providing 360-degree surveillance of all human activity in surrounding
+      area, architecture of total social control
+    details: Powerful image of panopticon surveillance state controlling population through constant observation. Central
+      tower equipped with viewing instruments and communication equipment. All camps, work areas, and living spaces arranged
+      for maximum visibility. No privacy or hidden spaces allowed. Architecture designed to create feeling of permanent observation
+    background: Vast network of camps and work areas all arranged for maximum surveillance from central control point
+    atmosphere: Oppressive feeling of constant observation eliminating privacy and individual freedom
+  composition:
+    cameraAngle: View from surveillance tower looking down at controlled population
+    focus: Architecture of social control enabling total surveillance of human activity
+    depth: Central control point in immediate foreground oversees human activities extending through middle ground to distant
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

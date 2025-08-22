@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, afternoon
+    location: Hospital corridor in Oregon psychiatric facility, institutional hallway with impossible geometry defying spatial
+      logic
+    weather: Artificial fluorescent lighting creating infinite perspective
+  characters:
+  - appearance: 40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native
+      American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust
+    clothing: Standard green hospital patient uniform
+    position: Standing hunched, trying to appear smaller and invisible, often holding broom
+    action: Sweeping floors methodically while observing silently, maintaining expressionless mask
+  scene:
+    mainElements: Corridor that loops back on itself creating impossible circle, doors that open to reveal same corridor,
+      stairways leading up and down to identical floors
+    details: Hallway extends infinitely in both directions despite being inside finite building. Doors numbered in sequence
+      that makes no mathematical sense - 1, 3, 7, 2, 9, 4. Opening any door reveals identical hospital corridor but viewed
+      from different impossible angle. Floor tiles create perspective that draws eye into vanishing point that never arrives.
+      Ceiling height changes imperceptibly - sometimes low and oppressive, sometimes cathedral-high
+    background: Infinite repetition of same institutional elements - fluorescent lights, white walls, linoleum floors stretching
+      endlessly
+    atmosphere: Oppressive institutional echo, footsteps reverberating infinitely, sense of being trapped in geometric maze
+      with no escape. Reality follows dream logic where space obeys psychological rather than physical laws
+  composition:
+    cameraAngle: Multiple impossible perspectives overlapping M.C. Escher style
+    focus: Infinite corridor perspective with impossible geometry
+    depth: 'Foreground: figure with broom in normal space. Middle: corridor beginning to loop impossibly. Background: infinite
+      perspective that defies logic'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1924, afternoon corrida
+    location: Circular stone amphitheater with multiple tiers of seating, sandy arena floor in perfect circle, wooden barriers
+      separating spectators from danger, traditional architecture of weathered stone
+    weather: Hot afternoon sun creating intense heat and sharp shadows
+  characters:
+  - appearance: Spanish bullfighter aged 19, exceptionally handsome with smooth bronze-tanned skin, lustrous black hair, triangular
+      scar on left cheekbone, lean muscular build suggesting both strength and grace, youthful dignity in bearing
+    clothing: Traditional torero costume with richly embroidered black jacket featuring gold threadwork, form-fitting black
+      pants, rose-colored stockings, flat black shoes
+    position: Standing in center of arena, preparing for dangerous artistry
+    action: Demonstrating composed mastery whether in formal conversation or preparing for dangerous confrontation with deadly
+      precision
+  scene:
+    mainElements: Arena sand showing vibration patterns from bull's hooves and crowd stamping, thousands of spectators creating
+      wave-like visual energy, dust clouds rising from arena floor, afternoon heat creating shimmer effects
+    details: Sand surface showing detailed vibration patterns from powerful bull movement, crowd creating visual wave effects
+      through synchronized movements, dust particles dancing in harsh sunlight, heat shimmer rising from stone seats and sand
+      surface, traditional costume reflecting sunlight in dramatic patterns, arena acoustics visible through dust and crowd
+      reaction, no text or letters visible
+    background: Tension-filled silence before ritual begins, harsh contrast between blazing sand and cool shadows, ancient
+      quality of life-and-death ceremony, raw authenticity amid artificial modern world
+    atmosphere: Ultimate sensory intensity synthesis - ground vibration from danger, visual crowd energy, heat effects, dust
+      patterns, ceremonial tension combining in life-or-death artistry
+  composition:
+    cameraAngle: Low angle emphasizing arena power and crowd energy
+    focus: Sand vibration patterns and crowd energy effects
+    depth: 'Foreground: detailed arena sand and vibration effects, midground: torero in perfect control, background: massive
+      crowd creating energy amphitheater'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

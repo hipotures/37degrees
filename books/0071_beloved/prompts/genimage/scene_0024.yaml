@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Multiple wars across centuries in same geographical location, conflict as recurring pattern
+    location: Ohio River valley showing military conflicts across different historical periods
+    weather: Various war conditions from clear battle days to stormy conflict weather
+  characters: No characters present in this scene
+  scene:
+    mainElements: Same river valley serving as strategic location for different military conflicts across centuries, geographical
+      features determining repeated battle patterns
+    details: Civil War skirmishes overlaid with French and Indian War conflicts overlaid with future conflicts, same strategic
+      hill positions used by different armies, identical tactical movements across different uniforms and weapons, battle
+      smoke from different eras mixing in same air, burial grounds accumulating across centuries in same soil, identical human
+      patterns of advance and retreat
+    background: Ohio River valley landscape remaining constant while human conflicts repeat across historical periods
+    atmosphere: War as recurring human pattern tied to geography, landscape as witness to repeated human conflict, valley
+      as stage for eternal struggle over territory and freedom, no text or letters visible
+  composition:
+    cameraAngle: Wide aerial shot showing full valley and multiple conflict overlays
+    focus: Strategic geographical features determining repeated military use
+    depth: Foreground shows battle details from multiple eras, middle ground emphasizes valley geography, background reveals
+      river as constant geographical factor
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

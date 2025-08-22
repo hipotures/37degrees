@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, pre-dawn darkness before first light
+    location: English Channel airspace, 30,000 feet above gray winter waters
+    weather: Clear frigid night air, scattered moonlit clouds below
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Suspended mid-air, arms spread wide in crucifixion pose
+    action: Floating gracefully with theatrical gestures, surrounded by subtle golden aureola
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Impeccable gray wool suit, black bowler hat, formal British gentleman attire
+    position: Falling head-down in rigid vertical descent
+    action: Plummeting with arms pressed against sides, clutching broken navigation compass
+  scene:
+    mainElements: Two falling figures against star-filled sky, antique brass compass spinning wildly between them, needle
+      pointing in impossible directions simultaneously
+    details: Compass face cracked into fragments, each piece reflecting different phases of moon, brass casing tarnished with
+      age, delicate mechanism exposed and grinding uselessly, scattered airplane debris creating constellation of mundane
+      objects against cosmic backdrop, no text or letters visible
+    background: Infinite darkness punctuated by distant city lights below, thick cloud layer obscuring horizon line, debris
+      field from destroyed aircraft forming temporary galaxy
+    atmosphere: Weightless suspension between earthly attachment and divine transcendence, silence broken only by whistle
+      of falling objects through thin air
+  composition:
+    cameraAngle: Wide aerial view capturing full scope of celestial theater
+    focus: Broken compass as central symbolic object representing lost navigation and spiritual disorientation
+    depth: 'Foreground: spinning compass mechanism, midground: two contrasting figures, background: infinite sky and distant
+      earth'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

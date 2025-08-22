@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s December evening, first stars appearing
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Clear night with calm seas
+  characters:
+  - appearance: Man of 58-60 years, tall and broad-shouldered with weathered bronze-like physique, gray hair, sun-darkened
+      face marked by thin white scar running from hairline down through one side of face and neck
+    clothing: Dark navy wool captain's coat, practical ship commander's attire in somber colors, heavy weather-resistant fabric
+    position: Standing rigid in special deck hole for his whale-bone prosthetic leg, one arm gripping ship's rigging for support
+    action: Gazing intensely toward horizon with unwavering focus, stance defiant and commanding despite physical limitation
+  scene:
+    mainElements: Multiple brass instruments scattered across deck - sextant, compass, chronometer, and telescope - each pointing
+      toward different celestial objects in the darkening sky
+    details: The navigation instruments create a circle around the ship's mast, each one carefully positioned but oriented
+      toward different stars and constellations. A sextant points to the North Star, a compass needle swings toward magnetic
+      north, while a telescope aims at the Southern Cross. Star charts flutter in the evening breeze, their pages turning
+      to show different seasons and hemispheres. The chronometer ticks audibly in the silence, marking time that no longer
+      seems to flow in one direction, no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: Multiple instruments seeking different truths suggest the confusion of having too many guides, symbolizing
+      how various forms of knowledge can conflict when searching for ultimate direction
+  composition:
+    cameraAngle: Wide angle showing scattered instruments around mast
+    focus: Collection of brass instruments as symbolic elements seeking guidance
+    depth: Navigation tools in foreground circle, ship's mast in center, star-filled sky extending to infinite background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

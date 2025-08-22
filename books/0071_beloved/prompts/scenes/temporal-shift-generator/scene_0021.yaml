@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Daily Dawn and Dusk Ritual - Kitchen Light Cycles"
+  setting:
+    time: "Single day showing dawn and dusk simultaneously, daily cycle compressed into one image"
+    location: "Kitchen of house 124 showing daily rhythm of light and domestic activity"
+    weather: "Clear day allowing full range of natural light from dawn to dusk"
+  characters:
+    - appearance: "African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear as holes punched in a mask, weathered hands showing years of hard labor"
+      clothing: "Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions"
+      position: "Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language"
+      action: "Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective distraction"
+  scene:
+    mainElements: "Kitchen divided between morning and evening light, same domestic space showing dawn preparation and dusk completion, daily ritual of survival and continuity"
+    details: "Dawn side showing cold morning light, breakfast preparation, renewed energy for daily survival, contrasted with dusk side showing warm evening light, day's end cleanup, exhausted but accomplished completion of daily cycle, same hands performing morning and evening tasks, coffee pot showing empty to full to empty progression, bread dough rising through day"
+    background: "Kitchen windows showing progression from dark pre-dawn to bright morning to golden evening light"
+    atmosphere: "Daily rhythm as meditation on survival and persistence, domestic ritual as anchor against chaos, dawn and dusk as bookends of endurance, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing full kitchen and daily light progression"
+    focus: "Central figure maintaining daily rhythm despite trauma"
+    depth: "Foreground shows daily tasks and their progression, middle ground emphasizes figure's consistency, background reveals natural light cycle"

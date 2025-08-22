@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1969 December, warm afternoon in garden
+    location: Flowering jasmine bushes in courtyard garden of Ipe family house in Ayemenem
+    weather: Warm humid afternoon perfect for flower blooming and bee activity
+  characters:
+  - appearance: Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian
+      Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo
+    clothing: Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames,
+      simple cotton dresses and skirts typical of 1960s Indian children
+    position: Kneeling beside jasmine bush reaching toward flowers
+    action: Cupping hands around jasmine blooms without touching, breathing deeply near flowers
+  scene:
+    mainElements: Masses of white jasmine flowers in peak bloom, multiple bees hovering and landing on blossoms, air shimmering
+      with heat and suggested floral intensity
+    details: Dense clusters of pure white jasmine flowers suggesting overwhelming fragrance, bees moving purposefully from
+      bloom to bloom indicating rich nectar, air around flowers appearing to vibrate with aromatic intensity, Rahel's face
+      showing pleasure of scent, flower petals so fresh they seem to glow
+    background: Lush tropical garden with other flowering plants, coconut palms, traditional Kerala house visible beyond garden
+    atmosphere: Intense natural perfume made visible through bee activity and flower abundance, garden as sensory paradise
+  composition:
+    cameraAngle: Close view of jasmine bush with child nearby showing flower abundance and bee activity
+    focus: Dense jasmine blooms with hovering bees suggesting powerful natural fragrance
+    depth: Foreground emphasizes flower clusters and bee activity, middle ground shows Rahel's response, background features
+      garden setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Champion Wrestler's Legendary Victory"
+  setting:
+    time: "Late 1890s, late afternoon during wrestling season"
+    location: "Sacred central plaza of Umuofia village confederation in southeastern Nigeria, packed red earth surface for community gatherings"
+    weather: "Clear sky with harsh tropical sun casting long shadows"
+  characters:
+    - appearance: "Tall, powerfully-built man in his late thirties to mid-forties, with imposing muscular frame typical of a champion wrestler"
+      clothing: "Simple woven cloth wrapped around waist as loincloth, ankle bracelet marking his titled status"
+      position: "Center of arena, locked in combat with opponent"
+      action: "Executing decisive wrestling throw that will establish his legendary reputation"
+  scene:
+    mainElements: "Large open space with ancient sacred silk-cotton tree, surrounded by gathering crowds during ceremonies forming tight human circle around wrestling combat"
+    details: "Wooden drums of various sizes (ekwe), metal gongs (ogene), ceramic udu pots creating rhythmic foundation for rituals building to crescendo as champion demonstrates supreme physical dominance. Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral shrine visible in background showing established social order"
+    background: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths"
+    atmosphere: "Ordered traditional society with deep spiritual connection to land and ancestors celebrating individual excellence within community framework"
+  composition:
+    cameraAngle: "Wide shot capturing entire arena and crowd"
+    focus: "Central wrestling combat demonstrating strength and honor"
+    depth: "Wrestlers in foreground, excited crowd in middle ground, village compounds in background"

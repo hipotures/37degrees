@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Early 1920s morning
+    location: Village main street leading toward hilltop complex overlooking village, paradoxically appearing as extensive
+      cluster of small crowded buildings rather than fortress
+    weather: Clear winter morning with bright low sun casting long blue shadows
+  characters:
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Standing in village street, looking up toward Castle with professional surveyor's gaze
+    action: Analyzing Castle structure with expert eye, planning route and approach
+  scene:
+    mainElements: Disappointing cluster of village-like structures with crumbling stone walls where plaster has fallen away,
+      circular tower with irregular battlements drawn by careless child's hand
+    details: From K.'s professional surveyor perspective - initially expecting impressive fortress but seeing ramshackle collection
+      of buildings that could be mistaken for poor village. Windows gleaming with somewhat insane brilliance in morning sunlight,
+      architecture defying logical construction principles. Path ahead winding deceptively through snow-covered streets.
+    background: Labyrinthine network of low stone and wooden houses with shingle roofs, narrow winding streets that mislead
+      rather than guide toward Castle
+    atmosphere: K.'s viewpoint combines professional disappointment with persistent determination - Castle appears achievable
+      despite architectural absurdity, morning light creating false optimism about accessibility, professional pride driving
+      him forward despite obvious obstacles, no text or letters visible
+  composition:
+    cameraAngle: K.'s eye level view emphasizing his analytical gaze toward objective
+    focus: Castle complex revealing its unimpressive reality in daylight
+    depth: Foreground shows K.'s determined stance, middle ground captures winding village streets, background features disappointing
+      Castle on hill
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

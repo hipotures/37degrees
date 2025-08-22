@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University Campus Through Dr. Bledsoe's Calculating Eyes"
+  setting:
+    time: "1930s, morning"
+    location: "Southern United States Negro university campus in rural setting, 1930s, with red brick ivy-covered buildings, manicured lawns, flowering shrubs including magnolias, roses and honeysuckle"
+    weather: "Clear morning with sharp shadows"
+  characters:
+    - appearance: "African American man in his late 50s to 60s, heavyset with round bald head, wide spherical face marked by inner pressure, wrinkled features"
+      clothing: "Formal academic attire - navy serge suit with heavy gold watch chain, striped trousers with frock coat with black braided lapels, black homburg hat"
+      position: "Standing on office balcony, surveying campus domain"
+      action: "Observing campus activities with proprietorial authority, calculating control over institution"
+  scene:
+    mainElements: "Gothic chapel with low-hanging eaves, winding roads with hedges, wild roses, wisteria and honeysuckle, meticulously maintained grounds"
+    details: "Through Bledsoe's calculating perspective, campus appears as carefully controlled territory of power - manicured grounds represent his personal achievement and dominance, flowering shrubs mask necessary deceptions, ivy-covered buildings serve as stage set for white benefactor visits, student movements seem like pieces on chess board, paths designed to channel behavior and limit autonomous thinking, beauty exists only to impress donors and maintain funding, every element serves his strategic purposes rather than student education"
+    background: "Students moving between buildings in regulated patterns, maintenance staff keeping facade perfect"
+    atmosphere: "Deceptively peaceful academic sanctuary masking institutional control and racial paternalism, surface beauty hiding systematic oppression"
+  composition:
+    cameraAngle: "High angle from Bledsoe's elevated office position, showing campus as domain to be controlled"
+    focus: "Comprehensive view of campus layout revealing systematic organization and hierarchy"
+    depth: "Foreground shows Bledsoe's commanding figure, middle ground captures campus structures, background extends to boundaries of his influence, no text or letters visible"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Established hierarchy at evening card game"
+  setting:
+    time: "1930s, evening after work"
+    location: "Ranch bunkhouse interior with card table as central gathering point"
+    weather: "Clear evening with artificial lighting"
+  characters:
+    - appearance: "Ageless man could be 35 or 50, tall with hatchet face, long black damp hair slicked back, large lean hands with delicate movements like temple dancer"
+      clothing: "Denim pants and jacket, crushed Stetson hat, typical ranch worker attire but carries natural authority"
+      position: "Sitting at head of card table in position of natural leadership"
+      action: "Dealing cards with smooth practiced movements, speaking with quiet authority that others respect"
+    - appearance: "Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive boxer stance"
+      clothing: "High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand"
+      position: "Sitting rigidly upright at table, trying to project authority despite youth"
+      action: "Making loud comments and gestures to establish dominance, but deferring to Slim's natural leadership"
+  scene:
+    mainElements: "Large square table surrounded by boxes serving as chairs, cards and small coins scattered on surface, harsh electric light creating circle of bright illumination"
+    details: "Men's personal belongings visible on nearby bunks - soap, razors, cheap magazines, work gloves, the institutional feeling of shared quarters"
+    background: "Corners of bunkhouse remain in shadow beyond lamplight, sounds of settling ranch in evening quiet"
+    atmosphere: "Comfortable social hierarchy in action, unspoken rules and respect patterns established, masculine camaraderie within accepted pecking order"
+  composition:
+    cameraAngle: "Medium shot capturing seated figures around illuminated table"
+    focus: "The natural social dynamics and established power relationships"
+    depth: "Foreground shows card game details and hands, middle ground captures group dynamics, background fades into institutional shadows"

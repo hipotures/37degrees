@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening
+    location: More prestigious tavern documented from previously unseen perspectives
+    weather: Cold winter evening with interior and exterior visibility
+  characters:
+  - appearance: Young woman aged 20-25, fair-haired with sad eyes, sunken cheeks, small and unassuming stature but conscious
+      superiority in bearing
+    clothing: Low-cut cream blouse that fits oddly on her thin frame, simple barmaid attire with apron, practical work clothes
+    position: Behind bar counter, simultaneously visible from front and through back window
+    action: Serving customers while private conversation occurs in adjacent room
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Seated at bar visible from multiple sight lines
+    action: Attempting to observe through peephole while being observed by others
+  scene:
+    mainElements: Spacious taproom with bar counter revealing multiple sight lines, small peephole opening providing bidirectional
+      visibility
+    details: Multiple angle documentation revealing hidden elements - back entrance used by staff, storage areas behind bar,
+      listening posts near private rooms. Small peephole opening in wall allowing observation in both directions, bar counter
+      designed with hidden compartments, electric lighting creating blind spots and revealed areas.
+    background: Hierarchical spaces visible from previously hidden perspectives, service corridors and staff areas
+    atmosphere: Objective multi-angle view revealing architectural design for surveillance and privacy - sight lines deliberately
+      constructed for observation, acoustic properties allowing sound transmission, spatial organization serving administrative
+      functions, no text or letters visible
+  composition:
+    cameraAngle: Multiple simultaneous perspectives revealing previously hidden elements
+    focus: Architectural features designed for observation and concealment
+    depth: Layered spaces showing front areas, intermediate zones, and hidden back regions
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

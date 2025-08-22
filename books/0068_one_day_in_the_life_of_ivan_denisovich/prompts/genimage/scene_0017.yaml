@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: January 1951, 9:15 PM, continuation of evening treat
+    location: Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing
+      200 prisoners
+    weather: Interior environment warmed by human presence
+  characters:
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Seated on bunk holding white sugar cube between weathered fingers
+    action: Allowing sugar to slowly dissolve on tongue, maximizing sweetness experience through controlled consumption
+  scene:
+    mainElements: Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude
+      construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely
+      blocking outside view
+    details: Perfect white sugar cube catching dim light like crystalline jewel, sharp geometric edges contrasting with rough
+      camp environment. Visual transformation as cube edges round and dissolve showing sweetness release, wet surfaces glistening
+      as sugar crystals break down. Prisoner's facial expression showing intense concentration and pleasure as sweetness floods
+      mouth, eyes closed in pure appreciation. Small sugar crystals visible on lips and fingers, sparkling particles suggesting
+      intense sweetness experience. Careful handling to prevent loss of precious commodity, contrast between white crystalline
+      perfection and dark camp surroundings, no text or letters visible
+    background: Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow
+      light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic
+      with constant sounds of coughing, snoring and whispers
+    atmosphere: Pure sweetness as ultimate luxury in environment of deprivation, sugar representing concentrated pleasure
+      and energy, crystalline perfection contrasting with camp degradation
+  composition:
+    cameraAngle: Macro close-up on sugar cube dissolution and facial reaction
+    focus: Crystal structure breakdown, sweetness-induced facial expressions, light refraction through sugar
+    depth: 'Foreground: detailed sugar crystal dissolution, middle: pleasure response, background: harsh environment for contrast'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

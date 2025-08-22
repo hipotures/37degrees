@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Replaceable Parts - Expendable Human Resources"
+  setting:
+    time: "1930s, midday"
+    location: "Agricultural labor hiring station in California Central Valley"
+    weather: "Harsh sunlight creating industrial atmosphere"
+  characters:
+    - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+      clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+      position: "Standing in uniform lines waiting for selection like products on assembly line"
+      action: "Holding identification numbers, being examined for physical condition, competing against each other for employment"
+  scene:
+    mainElements: "Labor hiring process resembling factory inventory selection, workers holding numbered tags, supervisors inspecting physical condition like evaluating machinery"
+    details: "Systematic dehumanization of hiring process treating people as industrial equipment. Workers hold numbered cards for identification rather than using names. Supervisors check muscle strength and endurance like testing machine capacity. Rejected workers discarded like defective parts. Selection based purely on physical utility"
+    background: "Industrial buildings and machinery suggesting workers will become part of larger production system"
+    atmosphere: "Competitive desperation as humans compete for right to be used as machines, sounds of numbers being called rather than names"
+  composition:
+    cameraAngle: "Eye level showing human dignity reduced to mechanical evaluation"
+    focus: "Numbered identification system reducing individual humans to inventory items"
+    depth: "Workers in foreground hold numbers, supervisors in middle ground make selections, industrial background awaits chosen human components"

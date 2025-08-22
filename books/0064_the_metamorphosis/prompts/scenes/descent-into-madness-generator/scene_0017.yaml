@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Doppelgänger's Truth - Mirror of Resentment"
+  setting:
+    time: "Deep autumn night 1912, around 3:00 AM"
+    location: "Central room of Prague apartment serving as dining and gathering space, heart of family life"
+    weather: "Dead calm, air thick and suffocating"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"  
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Shadow-Gregor now dominant, forcing the real Gregor to confront all his suppressed hatred and resentment toward his family"
+    details: "The shadow-Gregor speaks with perfect articulation, its voice cutting through the silence: 'You hate them for making you their slave. You resent your father's weakness, your mother's cowardice, your sister's ingratitude. You worked yourself into this state serving ungrateful parasites.' The words are true but horrible. Real Gregor tries to deny them, but his shadow-self produces evidence - memories of bitter thoughts, moments of rage quickly suppressed, dreams of freedom from family obligation."
+    background: "Heavy wooden dining table with chairs, sideboard, father's armchair, gas lamp later replaced by electric light"
+    atmosphere: "Brutal psychological honesty, confrontation with repressed truths, shadow-self as accuser and prosecutor"
+  composition:
+    cameraAngle: "Close-up alternating between the two versions of Gregor"
+    focus: "Shadow-Gregor's articulate accusation versus real Gregor's horrified recognition"
+    depth: "Foreground: confrontational dialogue between selves, middle: empty family furniture as silent witnesses, background: darkness suggesting infinite buried truths"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Objective reality: Hotel room as measured physical space"
+  setting:
+    time: "Late 1940s, night in December"
+    location: "Hotel room measuring approximately 12 by 15 feet with single window"
+    weather: "December night with measured outdoor temperature below freezing"
+  characters:
+    - appearance: "Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly on right side of head, cynical or melancholy facial expression"
+      clothing: "Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared shirt, gray wool trousers, often disheveled appearance"
+      position: "Sitting on hotel bed measuring 6 feet in length with standard mattress"
+      action: "Occupying space without emotional overlay, existing within measured physical reality"
+  scene:
+    mainElements: "Hotel room containing standard commercial furnishings: single bed, desk, chair, dresser, bathroom access door, window providing city view"
+    details: "Objective measurement shows room temperature at approximately 68 degrees Fahrenheit, single window measuring 3 by 4 feet facing east toward adjacent buildings, electrical lighting providing measured illumination, plaster walls painted standard hotel beige"
+    background: "Building constructed in 1920s using standard urban construction methods, city street providing vehicular access, other buildings serving commercial and residential functions"
+    atmosphere: "Neutral commercial space serving temporary accommodation function, standard urban environment providing basic shelter and services, measured physical reality without subjective interpretation, no text or letters visible"
+  composition:
+    cameraAngle: "Documentary perspective capturing actual room dimensions and physical reality"
+    focus: "Physical space serving documented accommodation function with human figure providing scale"
+    depth: "Foreground: measured furniture arrangements, middle ground: occupant within space, background: urban architectural context"

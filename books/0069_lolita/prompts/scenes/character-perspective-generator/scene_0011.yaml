@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Camp Departure - False News"
+  setting:
+    time: "1947, morning"
+    location: "Summer camp grounds in New England countryside, children's outdoor recreation facility"
+    weather: "Bright morning sunlight, clear summer day"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, presenting false parental authority"
+      clothing: "Casual travel clothes, attempting normal parental appearance"
+      position: "Standing near camp office, speaking to counselors"
+      action: "Explaining fabricated family emergency, arranging unexpected departure, displaying false concern"
+  scene:
+    mainElements: "Summer camp cabins, outdoor recreational facilities, other children playing and laughing, camp counselors supervising normal childhood activities"
+    details: "Camp environment with swimming preparations, craft projects, campfire wood gathering, friends waving casual goodbye not knowing departure is permanent, counselors organizing normal activities"
+    background: "Idyllic summer camp setting with lake, trees, children's laughter echoing, everything representing normal protected childhood"
+    atmosphere: "Deceptive brightness and joy of normal childhood being permanently severed, last moments of innocence before complete isolation"
+  composition:
+    cameraAngle: "Eye level view from camp grounds, watching adult arrive with false emergency story"
+    focus: "Man speaking to camp staff while normal camp activities continue around"
+    depth: "Foreground shows camp activities and friends, middle ground shows adult figure with false story, background shows camp setting being abandoned forever"

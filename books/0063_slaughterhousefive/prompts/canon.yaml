@@ -1,0 +1,139 @@
+canon:
+  characters:
+    - id: "billy_pilgrim"
+      name: "Billy Pilgrim"
+      description_block: |
+        characters:
+          - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+            clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+            position: "Often passive stance, birdlike posture, tendency to fall asleep inappropriately"
+            action: "Moving through time involuntarily, observing events with detached acceptance"
+    
+    - id: "roland_weary"
+      name: "Roland Weary"
+      description_block: |
+        characters:
+          - appearance: "Male, 18-20 years old, short and overweight, described as stupid, fat and cruel, childish face hidden under military scarf"
+            clothing: "Heavily bundled in multiple layers of wool and canvas, military helmet, home-knitted scarf, well-equipped for combat conditions"
+            position: "Aggressively positioned, often confrontational stance"
+            action: "Berating fellow soldiers, showing off combat knife with triangular blade and brass knuckle handle"
+
+    - id: "paul_lazzaro"
+      name: "Paul Lazzaro"
+      description_block: |
+        characters:
+          - appearance: "Male, young soldier age, small, thin and sickly looking, frail bone structure, nervous appearance, car thief from Cicero Illinois"
+            clothing: "Standard worn prisoner-of-war uniform, later civilian clothes in old age"
+            position: "Hunched, suspicious posture"
+            action: "Plotting revenge, making threats, carrying out long-delayed vengeance"
+
+    - id: "edgar_derby"
+      name: "Edgar Derby"
+      description_block: |
+        characters:
+          - appearance: "Male, 44 years old, medium height, good physical condition for his age, dignified bearing, righteous and idealistic expression"
+            clothing: "Carefully maintained American soldier uniform reflecting his sense of duty and idealism"
+            position: "Upright, principled stance"
+            action: "Defending American values, standing up to propaganda, tragically dying for trivial teapot theft"
+
+    - id: "valencia_pilgrim"
+      name: "Valencia Merble Pilgrim"
+      description_block: |
+        characters:
+          - appearance: "Female, from twenties at marriage to over 40 in later scenes, described as fat, unattractive, and extremely large, good-natured but insecure expression"
+            clothing: "1950s and 1960s suburban housewife attire, dresses, pearls, carefully styled hair"
+            position: "Devoted wife positioning near Billy"
+            action: "Loving Billy unconditionally, dying absurdly from carbon monoxide poisoning after car accident"
+
+    - id: "montana_wildhack"
+      name: "Montana Wildhack"
+      description_block: |
+        characters:
+          - appearance: "Female, 20 years old, beautiful and sensual movie star, perfect body compared to Dresden buildings before bombing"
+            clothing: "Unclothed in Tralfamadorian zoo, wears silver heart-shaped locket with Serenity Prayer engraved"
+            position: "Displayed as exhibit specimen"
+            action: "Providing companionship to Billy in artificial paradise, representing escape fantasy"
+
+    - id: "tralfamadorians"
+      name: "Tralfamadorians"
+      description_block: |
+        characters:
+          - appearance: "Alien beings two feet tall, green color, shaped like toilet plungers, flexible trunk topped with small hand containing single green eye"
+            clothing: "No clothing, natural alien form"
+            position: "Observing from outside geodesic dome zoo"
+            action: "Teaching fatalistic philosophy about time, keeping humans as zoo specimens"
+
+  locations:
+    - id: "ardennes_forest"
+      name: "Ardennes Forest Battle Site"
+      description_block: |
+        setting:
+          location: "Dense snow-covered forest in Luxembourg, December 1944, during Battle of the Bulge winter offensive"
+        mainElements: "Tall leafless trees creating skeletal cage effect, deep snow drifts mixed with frozen mud, limited visibility through fog and falling snow, claustrophobic atmosphere of military entrapment"
+        atmosphere: "Piercing cold, deadly silence broken by distant artillery, smell of wet earth and gunpowder, paralyzing physical and psychological chill representing war's brutal reality"
+
+    - id: "dresden_before"
+      name: "Dresden Before Bombing"
+      description_block: |
+        setting:
+          location: "Historic Dresden Germany, February 1945, architectural jewel called Florence on the Elbe"
+        mainElements: "Baroque and Rococo architecture with soaring church spires like Frauenkirche, monumental opera houses, ornately decorated townhouses, warm sandstone colors with copper patina roofs"
+        atmosphere: "Civilized splendor described as picture from Sunday school showing Heaven or mythical land of Oz, filled with refugees fleeing Eastern Front, mixture of cultural beauty and wartime tension"
+
+    - id: "slaughterhouse_five"
+      name: "Slaughterhouse Number Five"
+      description_block: |
+        setting:
+          location: "Industrial slaughterhouse complex near Dresden's Elbe River bend, former livestock facility converted to prisoner camp"
+        mainElements: "Functional industrial buildings surrounded by walls, bronze bull statue guarding main gate, former pig barn housing prisoners with faded wall inscriptions, underground meat locker carved from living rock"
+        atmosphere: "Cold, damp, sterile environment saturated with death - both animal and symbolically human, smell of disinfectant and decay, echoing footsteps and guard commands in cavernous spaces"
+
+    - id: "dresden_after"
+      name: "Dresden After Bombing"
+      description_block: |
+        setting:
+          location: "Completely destroyed Dresden, February 15 1945, described as lunar landscape of absolute devastation"
+        mainElements: "Jagged ruins of burned buildings, streets buried under rubble, earth soaked with tons of human bone meal, corpse mining operations in collapsed basements"
+        atmosphere: "Monochromatic gray and black from ash and charred remains, persistent smoke cloud blocking sunlight, red glow from fires burning for weeks, overwhelming silence broken only by collapsing structures"
+
+    - id: "ilium_suburbs"
+      name: "Ilium New York Suburbs"
+      description_block: |
+        setting:
+          location: "Typical American suburb in Ilium New York, 1950s and 1960s, modeled after Schenectady"
+        mainElements: "Ranch-style and split-level houses with brick or wooden construction, manicured lawns, Billy's imposing two-story house, modern shopping centers housing optometry practices"
+        atmosphere: "Surface prosperity and normalcy concealing spiritual emptiness and alienation, bright optimistic sunlight contrasting with sterile fluorescent medical office lighting, sounds of lawnmowers and children playing"
+
+    - id: "tralfamadorian_zoo"
+      name: "Tralfamadorian Zoo"
+      description_block: |
+        setting:
+          location: "Transparent geodesic dome on alien planet Tralfamador serving as human exhibition space"
+        mainElements: "Earth-style furniture stolen from Sears Roebuck including sofa, tables, bar, billiard table, federal gold wall-to-wall carpeting, mint green bathroom fixtures, broken television with cowboy gunfight sticker"
+        atmosphere: "Sterile, laboratory-like artificial environment, constant unchanging light with no day-night cycle, alienating parody of human domesticity under constant alien observation"
+
+  items:
+    - id: "derby_teapot"
+      name: "Edgar Derby's Teapot"
+      description_block: |
+        details: "Simple enameled teapot, possibly white with blue patterns, ordinary household item found in Dresden ruins, symbol of innocence and absurdity representing how trivial objects can determine life and death in war's chaos"
+
+    - id: "serenity_prayer_locket"
+      name: "Montana's Heart Locket"
+      description_block: |
+        details: "Silver heart-shaped medallion on thin chain worn by Montana Wildhack, engraved with Serenity Prayer about accepting unchangeable things, symbol connecting earthly wisdom with alien fatalism"
+
+    - id: "weary_combat_knife"
+      name: "Roland Weary's Combat Knife"
+      description_block: |
+        details: "Military trench knife with triangular blade and brass knuckle handle, weapon Weary proudly displays to others, representing false machismo and misguided heroic fantasies about warfare"
+
+    - id: "serenity_prayer_plaque"
+      name: "Billy's Office Prayer Plaque"
+      description_block: |
+        details: "Simple wooden plaque hanging on optometry office wall displaying Serenity Prayer about wisdom to accept unchangeable circumstances, representing Billy's attempt to find meaning through fatalistic philosophy"
+
+    - id: "silver_theatrical_shoes"
+      name: "Billy's Silver Shoes"
+      description_block: |
+        details: "Silver-painted theatrical footwear from Cinderella stage production, given to Billy after English prisoner performance, absurd military footwear making him appear like dirty flamingo or clown, symbolizing his unsuitability for war"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1944, evening
+    location: investigation office in administrative building on Pianosa base
+    weather: Mediterranean twilight
+  characters:
+  - appearance: 32 years old, narrow pale face, light brown hair, brown eyes, delicate almost ascetic build
+    clothing: chaplain uniform with cross on collar
+    position: sitting nervously before authority figures
+    action: being intimidated by aggressive questioning while experiencing deja vu episodes
+  - appearance: 40s, bald stocky dark man with flaccid build and shapeless paunch, rimless glasses, morally weak physical
+      features
+    clothing: lieutenant colonel uniform with rimless spectacles
+    position: standing beside interrogation table
+    action: conducting intimidating interrogation with cynical manipulation
+  scene:
+    mainElements: stark interrogation room with metal table creating barrier between questioner and subject, harsh overhead
+      lighting, filing cabinets with investigation records
+    details: Chaplain Tappman sits alone on one side of metal table while aggressive officers tower over him from the other
+      side. The table creates physical and psychological barrier emphasizing power imbalance. Harsh lighting casts dramatic
+      shadows. Chaplain's delicate features show confusion and fear under aggressive questioning about loyalty and suspicious
+      activities.
+    background: bare military office walls, filing cabinets with investigation documents, single harsh overhead light fixture,
+      no windows
+    atmosphere: institutional intimidation and paranoid investigation, mixture of religious vulnerability and military persecution
+  composition:
+    cameraAngle: low angle from chaplain's perspective emphasizing interrogators' dominance
+    focus: power dynamics across dividing table with harsh lighting effects
+    depth: foreground shows table barrier, middle ground captures intimidation interaction, background reveals oppressive
+      institutional environment
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

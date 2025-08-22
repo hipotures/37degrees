@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1930s, pre-dawn darkness
+    location: Secluded area behind makeshift shelters in California migrant camp
+    weather: Dark early morning with minimal lighting
+  characters:
+  - appearance: Long thin man around fifty years old, bony elongated skull with abnormally high forehead showing blue veins
+      at temples. Curved hard nose, neck thin as celery stalk.
+    clothing: Worn denim overalls, blue work shirt, denim jacket, stained brown hat, canvas shoes
+    position: Standing in shadows speaking quietly with another worker
+    action: Secretly sharing forbidden knowledge about worker rights and organizing strategies, passing hidden information
+  scene:
+    mainElements: Clandestine meeting in shadows where workers share information about organizing and resistance, books or
+      papers being secretly exchanged
+    details: Underground network of information sharing among oppressed workers. Secret exchange of forbidden books or papers
+      about worker rights. Whispered conversations about organizing strategies. Hidden meeting in location safe from surveillance.
+      Knowledge passed person to person outside official channels
+    background: Dark silhouettes of migrant shelters and camp structures providing cover for secret activities
+    atmosphere: Tension of forbidden knowledge sharing, whispered urgency, risk of discovery by authorities
+  composition:
+    cameraAngle: Medium shot capturing secretive exchange
+    focus: Transfer of dangerous knowledge between individuals committed to resistance
+    depth: Secret meeting in shadowed foreground while authority-controlled camp structures loom in background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

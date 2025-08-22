@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Steel Rail Symphony - Morning Wake-Up Call Visualized"
+  setting:
+    time: "January 1951, 5:00 AM, first moment of wake-up call"
+    location: "Exterior view of Soviet prison camp barrack with hanging steel rail signal"
+    weather: "Minus 27 degrees Celsius, clear freezing night transitioning to dawn"
+  characters:
+    - appearance: "Prison guard or work supervisor with metal hammer in hand"
+      clothing: "Thick guard uniform with warm outer coat and boots"
+      position: "Standing beside suspended steel rail with raised hammer"
+      action: "Mid-strike against steel rail, creating percussive wake-up signal throughout camp"
+  scene:
+    mainElements: "Large steel rail segment suspended from wooden frame beside barracks, metal hammer caught in moment of impact"
+    details: "Vibration waves radiating visually from point of impact, metal rail surface showing stress patterns and deformation from repeated strikes. Hammer frozen in moment of contact showing force transfer, sparks or metal fragments flying from impact point. Sound waves made visible through disturbed snow particles jumping from nearby surfaces, icicles trembling from vibration transmission. Frost crystals on rail surface disrupted by percussion energy, creating visible disturbance patterns, no text or letters visible"
+    background: "Dark wooden barracks with ice-covered windows, rows of prison buildings extending into distance, guard towers visible on horizon"
+    atmosphere: "Mechanical percussion creating rhythmic visual disruption, industrial wake-up ceremony breaking silence with metallic authority, vibration energy transforming static winter scene into dynamic alert system"
+  composition:
+    cameraAngle: "Medium shot capturing impact moment with surrounding vibration effects"
+    focus: "Point of hammer contact with rail showing energy transfer and surrounding disturbance"
+    depth: "Foreground: detailed impact and vibration effects, middle: rail suspension system, background: awakening camp buildings"

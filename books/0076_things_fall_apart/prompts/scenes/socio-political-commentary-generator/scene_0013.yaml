@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Loss of Individual Identity in Colonial Mass"
+  setting:
+    time: "Late 1890s, afternoon during colonial administrative processing"
+    location: "New colonial administrative center where indigenous people are catalogued and controlled"
+    weather: "Flat bureaucratic lighting eliminating natural shadows and individual features"
+  characters:
+    - appearance: "Indigenous individuals stripped of traditional markers of identity and status, rendered anonymous"
+      clothing: "Standardized colonial clothing eliminating tribal and personal distinctions"
+      position: "Standing in identical poses waiting for colonial administrative processing"
+      action: "Being reduced to numbers and categories that eliminate personal history and cultural identity"
+  scene:
+    mainElements: "Colonial administrative space designed to process indigenous people as statistical units rather than complex cultural individuals"
+    details: "Ankle bracelets and quality cloth indicating titles and wealth within traditional merit system now confiscated or forbidden. Traditional names, family lineages, and cultural achievements rendered meaningless in colonial record-keeping system"
+    background: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths now subject to colonial surveillance and control"
+    atmosphere: "Systematic erasure of individual identity and cultural distinctiveness through administrative dehumanization that reduces people to colonial categories"
+  composition:
+    cameraAngle: "Wide shot emphasizing loss of individual distinctiveness"
+    focus: "Uniform mass of people stripped of cultural identity markers"
+    depth: "Anonymous individuals in foreground, colonial administrators in middle ground, abandoned traditional identity symbols in background"

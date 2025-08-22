@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1952, evening
+    location: Public square where instruments and artwork are being destroyed
+    weather: Harsh lighting emphasizing violence of destruction
+  characters:
+  - appearance: Middle-aged man in late 30s, clean-shaven face with harsh angular features, cold calculating eyes, pale complexion
+      from indoor work
+    clothing: Immaculate NKVD uniform - olive drab gymnasterka tunic with high collar, chabrowy blue collar tabs and cuff
+      piping, bottle-shaped shoulder boards with blue stripes, brown leather Sam Browne belt, black leather holster with TT
+      pistol, garrison cap with blue band and red star, polished black leather boots
+    position: Standing behind massive oak desk with authoritative posture, or sitting in leather chair
+    action: Reviewing documents, operating interrogation lamp, speaking with cold authority
+  scene:
+    mainElements: Musical instruments being systematically destroyed, paintings torn from frames, books thrown into fires,
+      cultural artifacts reduced to debris
+    details: Violins and pianos smashed with hammers, sheet music scattered and burned, artistic works trampled underfoot,
+      creative materials systematically eliminated
+    background: Systematic elimination of cultural expression, organized destruction of beauty and creativity, replacement
+      of art with approved propaganda
+    atmosphere: Violent suppression of human creativity, destruction of beauty as threat to control, systematic elimination
+      of independent expression
+  composition:
+    cameraAngle: Close-ups on destruction of beautiful objects contrasted with wide shots of systematic elimination
+    focus: Violence against beauty and creativity as tool of control
+    depth: Foreground shows detailed destruction, middle ground reveals systematic process, background demonstrates cultural
+      elimination
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

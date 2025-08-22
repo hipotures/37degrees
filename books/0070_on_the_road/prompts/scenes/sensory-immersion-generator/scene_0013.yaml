@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Kitchen Spice Shelf Memory"
+  setting:
+    time: "1947 Sunday afternoon"
+    location: "working-class neighborhood home in Paterson, New Jersey, simple two-story wooden or brick house typical of 1940s Eastern suburbs with small front porch and tidy windows"
+    weather: "warm autumn afternoon with golden light"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "standing in kitchen doorway observing scene"
+      action: "watching elderly woman cooking while multiple spice containers sit open on countertop"
+    - appearance: "Elderly woman in 60s with gray hair in neat bun, wearing floral dress and apron"
+      clothing: "simple floral housedress with white apron"
+      position: "working at kitchen stove and counter"
+      action: "sprinkling spices from various small jars and containers into cooking pot"
+  scene:
+    mainElements: "row of small glass spice jars with opened lids arranged on counter, visible spice powders in different colors, steam rising from cooking pot carrying spice particles, late afternoon sunlight illuminating floating spice dust in kitchen air"
+    details: "Multiple spice containers opened simultaneously showing different colored powders - red paprika, yellow turmeric, dark brown cinnamon, spice particles visible floating in steam and sunlight, elderly hands confident in spice selection without measuring, kitchen counter dusted with various spice residues, aromatic steam carrying visible spice particles upward, sunbeam through window highlighting floating spice dust like tiny colored stars"
+    background: "modest but cozy clean interior with dark wood furniture, sofa covered with throw, family photographs in simple frames on walls, lace doilies on tables"
+    atmosphere: "warm browns, beiges and muted greens dominating color scheme, warm lighting from lamps with lampshades, smell of cooked food lingering, quiet domestic sanctuary representing stability and security"
+  composition:
+    cameraAngle: "medium shot from kitchen doorway perspective"
+    focus: "spice containers and floating particles as visual representation of cooking aromas"
+    depth: "spice jars and steam in foreground, cooking figure in middle ground, homey kitchen extending to background"

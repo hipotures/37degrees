@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1915 to 1965, dawn light
+    location: Kashmir valley garden in northern Indian subcontinent, same prayer spot across fifty years
+    weather: Clear mountain morning with crisp air and frost
+  characters:
+  - appearance: Tall man with enormous prominent nose comparable to trunk of god Ganesha. Piercing blue Kashmir eyes. In youth
+      straight-backed and strong. In old age wrinkled with skeleton crumbling to dust within weathered skin. Age ranges from
+      25 to 75 years depending on scene period
+    clothing: 'Young doctor: Western suits and medical attire. Elderly: Traditional loose Indian garments in white or cream'
+    position: Kneeling on prayer mat in identical pose across time periods
+    action: Examining patients through perforated sheet or striking frozen ground with nose during prayer
+  scene:
+    mainElements: Same Kashmir garden location showing temporal transformation. Young Aadam Aziz in 1915 kneels on fresh prayer
+      mat striking nose against frozen earth. Ghostly overlay shows elderly Aadam in 1965 on same worn mat at identical spot.
+      Three drops of blood visible on ground in both time periods
+    details: Prayer mat shows fifty years of wear - from new geometric patterns to faded threadbare cloth. Garden around transforms
+      from wild mountain vegetation to cultivated family grounds. Mountains remain eternal backdrop. Morning light quality
+      identical across decades showing cyclical nature of daily prayer ritual. Blood drops create temporal continuity marker
+    background: Kashmir valley with Dal Lake visible in distance. Snow-capped peaks unchanged across half-century. Small black
+      temple on hilltop remains constant reference point
+    atmosphere: Melancholic passage of time through religious ritual repetition. Loss of faith journey spanning lifetime visualized
+      through environmental decay and physical aging, no text or letters visible
+  composition:
+    cameraAngle: Wide shot capturing both temporal states in single frame
+    focus: Prayer mat and kneeling figure as central time anchor
+    depth: Foreground shows prayer ritual detail, middle ground reveals garden transformation, background maintains eternal
+      mountain landscape
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

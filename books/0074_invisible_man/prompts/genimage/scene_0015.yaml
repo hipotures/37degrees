@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1940s, afternoon
+    location: Liberty Paints factory basement, boiler room during industrial accident
+    weather: Indoor industrial environment, intense heat and steam
+  characters:
+  - appearance: White immigrant factory worker in his 40s, stocky build with work-worn hands, foreign accent
+    clothing: Industrial work clothing - coveralls, safety gear, work boots
+    position: Near boiler controls, witnessing explosion aftermath
+    action: Observing destruction while understanding broader patterns of industrial exploitation
+  scene:
+    mainElements: Large neon sign reading 'KEEP AMERICA PURE WITH LIBERTY PAINTS', mixing vats, pipes, gauges, conveyor systems,
+      basement boiler room
+    details: Through immigrant worker's perspective, factory explosion appears as inevitable result of systematic exploitation
+      - machinery reveals its dangerous reality beneath corporate propaganda, steam and destruction expose hidden violence
+      of industrial capitalism, Black workers become fellow victims of same system that exploits all labor, explosion represents
+      broader contradictions of American promise versus working-class reality, management's safety violations create shared
+      experience of expendable workforce
+    background: Industrial equipment damaged by explosion, other workers responding to emergency, corporate symbols amid destruction
+    atmosphere: Surreal corporate environment embodying racial hypocrisy of America, sterile white surfaces masking industrial
+      exploitation and hidden racial dependencies
+  composition:
+    cameraAngle: Ground level from worker's perspective amid industrial chaos and destruction
+    focus: Explosion aftermath revealing hidden violence beneath corporate surface
+    depth: Foreground shows worker's direct experience, middle ground captures industrial destruction, background reveals
+      corporate machinery's true nature, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

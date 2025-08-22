@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1840s winter night, freezing air
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Bitter cold with ice forming on rigging
+  characters: No characters present in this scene
+  scene:
+    mainElements: Brick furnace built on ship's deck with two large iron try-pots for boiling whale blubber, surrounded by
+      wooden planking, chimney venting black smoke blazing hot while ice forms on surrounding surfaces
+    details: The try-works burns intensely, orange flames licking at iron pots filled with bubbling whale oil, while just
+      feet away ice crystals coat the ship's rigging and deck planks. Steam rises from the furnace and instantly freezes into
+      white clouds that drift across the deck like ghosts. Hot whale oil drips and sizzles where it hits ice-covered wood,
+      creating miniature steam explosions. The contrast between the hellish furnace and arctic conditions creates an impossible
+      scene where fire and ice coexist in violent opposition, each making the other more extreme, no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: The impossible combination of extreme heat and cold symbolizes the conflicting forces of passion and reason,
+      destruction and preservation existing simultaneously in human nature
+  composition:
+    cameraAngle: Medium wide shot showing blazing furnace surrounded by ice
+    focus: Flames and ice as opposing elements forced into proximity
+    depth: Hot furnace interior in foreground, steam clouds in middle distance, ice-covered rigging extending into dark background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

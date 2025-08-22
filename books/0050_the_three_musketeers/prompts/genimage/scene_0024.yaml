@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: August 1628, stormy night with intermittent lightning
+    location: Bank of River Lys where final justice is administered in darkness
+    weather: Storm with lightning creating dramatic shadow patterns
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Kneeling in foreground, unable to watch execution, face marked by shadow bars
+    action: Overcome by grief and horror, turning away from final justice he helped bring about
+  - appearance: Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked
+      by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture
+    clothing: Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation,
+      always immaculately groomed and formal
+    position: Standing with face marked by shadow bars, watching with stone-like expression
+    action: Witnessing execution with controlled dignity, closing painful chapter of his past
+  - appearance: 25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone
+      to boastful smiles, loud extroverted demeanor
+    clothing: Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories
+      displaying wealth even when living beyond means
+    position: Background figure with face partially obscured by shadows
+    action: Standing witness to final justice, his usual jovial nature subdued by gravity of proceedings
+  - appearance: 22-23 years old young man with gentle innocent countenance, extremely handsome with delicate almost feminine
+      features, refined scholarly appearance better suited to poet or diplomat than battle-hardened soldier
+    clothing: Immaculately elegant refined garments with subtle luxurious fabrics, somewhat effeminate attention to detail
+      including embroidered handkerchiefs and perfectly manicured hands
+    position: Shadow-barred face showing conflicted emotions about necessary justice
+    action: Observing execution with mixture of satisfaction and regret, understanding necessity while mourning loss of beauty
+  scene:
+    mainElements: Lightning and trees creating shadow bars across faces of judges, suggesting moral complexity and burden
+      of taking justice into own hands
+    details: Dramatic shadow patterns created by lightning through trees, faces marked with natural prison bars suggesting
+      moral imprisonment, stormy weather emphasizing weight of proceedings, multiple figures showing different reactions to
+      necessary evil
+    background: River bank and wild landscape, storm clouds and lightning, dark water ready to receive final judgment
+    atmosphere: Moral complexity and burden of vigilante justice, shadow bars suggesting all participants are prisoners of
+      their actions, necessary evil in corrupt world
+  composition:
+    cameraAngle: Medium-wide shot showing multiple figures with dramatic shadow patterns creating natural framing through
+      light and dark
+    focus: Clear focus on shadow-marked faces showing moral complexity, natural bars created by lightning and trees
+    depth: 'Foreground: kneeling D''Artagnan unable to watch, middle ground: standing judges marked by shadow bars, background:
+      stormy river landscape, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "uncle_tom"
+      name: "Uncle Tom"
+      description_block: |
+        characters:
+          - appearance: "Tall, powerfully built man with broad chest, late 40s, full glistening black skin with truly African features showing gravity and good sense combined with great kindness and benevolence"
+            clothing: "Clean working clothes on Shelby plantation, later forced into torn coat and old pants on Legree plantation"
+            position: "Standing with dignified posture despite circumstances, holding worn Bible"
+            action: "Reading from Bible or speaking words of faith and forgiveness to fellow enslaved people"
+    
+    - id: "eliza_harris"
+      name: "Eliza Harris"
+      description_block: |
+        characters:
+          - appearance: "Young woman in early 20s, intelligent and beautiful, light brown complexion (quadroon), rich full dark eyes with long lashes, silky black hair, delicate hands and graceful figure"
+            clothing: "Neatly fitted dress when at Shelby plantation, later torn and bloodied clothing during escape, sometimes disguised in men's clothing with hair cut short"
+            position: "Alert stance ready for flight, or protectively holding her child"
+            action: "Caring for her child Harry or making desperate movements during escape"
+    
+    - id: "george_harris"
+      name: "George Harris"
+      description_block: |
+        characters:
+          - appearance: "Young man in mid-20s, very tall with handsome figure, dark Spanish complexion (mulatto), striking black eyes, thick curly hair of shining black, well-formed eagle nose, straight thin lips, admirably outlined limbs"
+            clothing: "Simple working clothes as enslaved person, later elegant Spanish gentleman disguise during escape"
+            position: "Standing tall with proud bearing, defiant posture when confronting authority"
+            action: "Working with mechanical inventions or boldly defending his family during escape"
+    
+    - id: "little_eva"
+      name: "Little Eva St. Clare"
+      description_block: |
+        characters:
+          - appearance: "5-6 year old girl, perfection of childish beauty, long golden-brown hair flowing like a cloud, deep spiritual gravity in violet-blue eyes, ethereal and graceful movements"
+            clothing: "Always dressed in white clothing symbolizing purity and innocence"
+            position: "Sitting close to others while reading or standing with angelic grace"
+            action: "Reading Bible aloud or distributing her golden locks as loving gifts before death"
+    
+    - id: "simon_legree"
+      name: "Simon Legree"
+      description_block: |
+        characters:
+          - appearance: "Man in 40s-50s, short broad muscular build, bullet-shaped head, shaggy hair, wild gleaming greenish eyes, coarse features marked by cruelty and alcohol abuse"
+            clothing: "Rough planter work clothes, often dirty and unkempt, boots suitable for plantation oversight"
+            position: "Standing in threatening posture over victims, aggressive stance with hands on hips"
+            action: "Brandishing whip or other instruments of control, shouting orders with violent gestures"
+    
+    - id: "mr_haley"
+      name: "Mr. Haley"
+      description_block: |
+        characters:
+          - appearance: "Short stocky man in 40s-50s, thick common features, coarse appearance of professional slave trader"
+            clothing: "Flashy many-colored vest, blue neckerchief with cheerful yellow spots, multiple rings on large vulgar hands, heavy gold watch chain"
+            position: "Seated comfortably while conducting business, or examining enslaved people like merchandise"
+            action: "Counting money, examining human property, or negotiating sales with casual indifference"
+    
+    - id: "topsy"
+      name: "Topsy"
+      description_block: |
+        characters:
+          - appearance: "8-9 year old girl, blackest of her race, round glittering eyes like glass beads, woolly hair braided in numerous small tails sticking out in all directions, goblin-like appearance"
+            clothing: "Single dirty ragged garment made of bagging material, barefoot"
+            position: "Crouched or standing in mischievous pose, ready to dart away quickly"
+            action: "Performing tricks, stealing small items, or claiming she just grew without divine creation"
+    
+    - id: "cassy"
+      name: "Cassy"
+      description_block: |
+        characters:
+          - appearance: "Woman in 30s-40s, tall and slender, extremely delicate hands and feet, light complexion (quadroon), face deeply furrowed with wrinkles of pain from years of suffering"
+            clothing: "Neat and orderly clothes better than other enslaved people, showing her special status as Legree's concubina"
+            position: "Standing with proud bearing despite circumstances, or moving with calculated purpose"
+            action: "Planning escape strategies or manipulating situations with intelligence born of desperation"
+
+  locations:
+    - id: "shelby_plantation"
+      name: "Shelby Plantation, Kentucky"
+      description_block: |
+        setting:
+          location: "Paternalistic plantation in Kentucky near Ohio River border, representing the 'genteel' face of American slavery in the Upper South"
+        mainElements: "Well-furnished main house with veranda and comfortable rooms, Uncle Tom's small log cabin covered with scarlet begonia and wild rose vines, farm buildings and slave quarters"
+        atmosphere: "Initially peaceful domestic scene with sounds of farm life and cooking, later tense with moral conflict as economic pressure forces sale of human beings"
+    
+    - id: "st_clare_mansion"
+      name: "St. Clare Mansion, New Orleans"
+      description_block: |
+        setting:
+          location: "Luxurious villa in exotic Moorish style in New Orleans, Louisiana, representing the decadent wealth of Deep South plantation society"
+        mainElements: "Central courtyard with fountains and exotic flowers, moss-covered seats, richly decorated interiors with fine paintings, Eva's room with pink muslin curtains and Parisian carpet"
+        atmosphere: "Lazy decadent luxury with sounds of Eva's laughter, Marie's complaints, clinking brandy glasses, and philosophical debates masking moral paralysis"
+    
+    - id: "legree_plantation"
+      name: "Legree Plantation, Red River, Louisiana"
+      description_block: |
+        setting:
+          location: "Brutal cotton plantation on Red River in Louisiana Deep South, representing the ultimate horror of American slavery system"
+        mainElements: "Decaying mansion with peeling plaster and dirty windows, primitive slave huts with dirt floors and stinking straw, cotton gin machinery, noble avenue of China trees leading to ruined house"
+        atmosphere: "Oppressive brutality with sounds of whip cracks, groans of beaten people, Legree's curses, and sickly unhealthy smell of decay and human misery"
+    
+    - id: "ohio_river_winter"
+      name: "Ohio River in Winter"
+      description_block: |
+        setting:
+          location: "Ohio River forming border between slave state Kentucky and free state Ohio, frozen with dangerous floating ice chunks during late winter/early spring"
+        mainElements: "Turbulent river full of sharp drifting ice floes creating unstable moving barrier, muddy banks on both sides, bare winter trees, threatening sky"
+        atmosphere: "Desperate urgency with sounds of cracking ice, rushing water, wind whistling, pursuit horses, and Eliza's wild cry as she leaps to freedom"
+    
+    - id: "quaker_settlement"
+      name: "Quaker Settlement, Ohio"
+      description_block: |
+        setting:
+          location: "Simple Quaker community in free state Ohio, representing genuine Christian opposition to slavery through Underground Railroad assistance"
+        mainElements: "Plain functional buildings with clean lines, large kitchen table, simple solid furniture, clearly marked rooms for hiding escaped enslaved people"
+        atmosphere: "Peaceful sanctuary with quiet conversations, domestic work sounds, and genuine Christian charity offering hope and safety to refugees"
+
+  items:
+    - id: "toms_bible"
+      name: "Tom's Bible"
+      description_block: |
+        details: "Small worn Bible with pages soft from constant reading, containing verses that provide spiritual strength during extreme suffering and sources of wisdom shared with others"
+    
+    - id: "metal_shackles"
+      name: "Iron Shackles and Chains"
+      description_block: |
+        details: "Heavy iron chains and metal restraints used to bind enslaved people during transport, representing the physical brutality underlying the economic system of human bondage"
+    
+    - id: "slave_whip"
+      name: "Overseer's Whip"
+      description_block: |
+        details: "Leather whip used for punishment and control on plantations, symbolizing the violence necessary to maintain the system of enslaved labor"
+    
+    - id: "evas_golden_hair"
+      name: "Eva's Golden Hair Locks"
+      description_block: |
+        details: "Delicate golden-brown curls cut from Little Eva's head before death and distributed as tokens of love, representing spiritual power that continues after death to inspire conversion and conscience"
+    
+    - id: "freedom_papers"
+      name: "Freedom Documents"
+      description_block: |
+        details: "Official legal papers with seals declaring the freedom of formerly enslaved people, contrasting sharply with bills of sale that treated humans as property"

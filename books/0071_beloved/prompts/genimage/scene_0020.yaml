@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1873 present suddenly invaded by 1856 traumatic past, temporal boundaries dissolving
+    location: Kitchen of house 124 where past and present occupy same space simultaneously
+    weather: Present day calm suddenly disrupted by past storm and chaos
+  characters:
+  - appearance: African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair
+      framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear
+      as holes punched in a mask, weathered hands showing years of hard labor
+    clothing: Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions
+    position: Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language
+    action: Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective
+      distraction
+  - appearance: Young African American woman appearing age 19-20, slender build moving with unnatural heaviness as if head
+      too heavy for neck, mass of black hair like dark thread, smooth new skin without lines even on knuckles, three thin
+      vertical scratches on forehead, delicate scar under chin
+    clothing: High-quality dress with lace at neck and rich woman's hat, all completely soaked as if emerging from water
+    position: Sitting or standing unsteadily, supporting herself on furniture with childlike uncertainty
+    action: Moving with infant-like unsteadiness yet possessing supernatural strength, drinking water eagerly, breathing with
+      milk-scented breath
+  scene:
+    mainElements: Present day kitchen suddenly invaded by ghostly past events, temporal barriers breaking down as trauma erupts
+      into current moment
+    details: 1873 Sethe preparing meal while 1856 traumatic scenes bleed through walls and floor, past blood stains appearing
+      on present clean surfaces, ghostly figures from Sweet Home materializing in corners, 1856 sounds of horses and shouting
+      overlapping with 1873 domestic quiet, kitchen utensils transforming between time periods, woodshed door opening to reveal
+      past horrors
+    background: Kitchen space serving as temporal intersection where repressed memory forcibly enters present reality
+    atmosphere: Past trauma refusing containment and erupting into carefully controlled present, memory as active force breaking
+      temporal boundaries, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on kitchen space and temporal invasion
+    focus: Present domestic scene interrupted by ghostly past trauma
+    depth: Foreground shows present-day activities, middle ground reveals temporal bleeding, background maintains kitchen
+      architecture as constant frame
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

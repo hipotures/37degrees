@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Early spring morning 1913, dawn
+    location: Former bedroom now used as storage space, cluttered with unwanted household items
+    weather: Bright spring sunshine streaming through windows
+  characters:
+  - appearance: 17-year-old girl, still childish features, thin from youth, innocent expression with caring eyes
+    clothing: Simple girl's dress with long sleeves, dark colors, hair in braids or pinned back modestly
+    posture: Moves with youthful energy but grows more cautious over time, often carrying violin case
+    action: Bringing food carefully, cleaning tentatively, playing violin with growing confidence
+  scene:
+    mainElements: The world seen through Gregor's new, dispersed consciousness as part of the wallpaper pattern - a surreal
+      but internally consistent reality
+    details: From his position integrated into the wallpaper, Gregor perceives the world through the pattern's eyes. Greta
+      enters the room, but he sees her as a moving constellation of musical notes. Her violin case becomes a portable symphony.
+      The dusty furniture transforms into abstract sculptures of memory. Light moves through the room in visible streams of
+      pure emotion. This perception is terrifying but beautiful - he has found a way to exist that transcends physical form,
+      experiencing reality as pure pattern and decoration.
+    background: Dusty furniture piled up, ash box, broken items, cobwebs in corners, everything covered in grime
+    atmosphere: Madness as new form of existence, transcendence through complete breakdown, finding beauty in dissolution
+      of self
+  composition:
+    cameraAngle: Impossible perspective from within the wallpaper pattern looking out
+    focus: Grete as seen through pattern-consciousness - abstract and musical rather than human
+    depth: 'Foreground: pattern elements as viewing apparatus, middle: transformed perception of reality, background: room
+      as symphony of abstract forms and flowing light'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

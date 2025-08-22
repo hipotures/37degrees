@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1944, evening
+    location: Yossarian's tent on Pianosa base
+    weather: calm Mediterranean evening
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform, partially unbuttoned
+    position: sitting alone on edge of cot
+    action: contemplating the moral implications of discovered corruption
+  scene:
+    mainElements: cramped tent interior with two field cots, equipment crates, untouched belongings of dead tentmate Mudd,
+      Orr's complicated gasoline heating stove with precision parts
+    details: Yossarian sits alone processing the revelation of Milo's enemy trading. Mudd's untouched belongings serve as
+      constant reminder of death while Milo profits from war. Orr's complex heating stove represents hidden rationality contrasting
+      with exposed systemic corruption. Empty cot emphasizes isolation in moral crisis.
+    background: canvas tent walls, simple wooden cross, military gear mixed with personal items, shadows from oil lamp
+    atmosphere: lonely contemplation of systemic betrayal, mixture of personal isolation and moral awakening
+  composition:
+    cameraAngle: medium shot emphasizing solitary figure in confined space
+    focus: contemplative expression processing moral shock
+    depth: foreground shows dead man's belongings, middle ground captures isolated contemplation, background reveals cramped
+      living conditions
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

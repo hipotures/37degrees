@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Royal crown displayed simultaneously in palace throne room and muddy gutter"
+  setting:
+    time: "Late 1980s, dramatic lighting contrasting golden grandeur with gray poverty"
+    location: "Reality split between opulent British palace interior and squalid London alleyway"
+    weather: "Artificial palace lighting versus cold drizzle in narrow urban passage"
+  characters:
+    - appearance: "40-year-old Indian man, conservative appearance, controlled demeanor"
+      clothing: "Impeccable gray wool suit, black bowler hat, formal British gentleman attire"
+      position: "Kneeling with one knee in marble hall, other knee in muddy alley"
+      action: "Reaching toward same crown existing in both locations simultaneously"
+  scene:
+    mainElements: "Ornate ceremonial crown appearing identical in two radically different settings, object maintaining full dignity in both contexts"
+    details: "Crown of St. Edward crafted with gold and precious gems, left version displayed on velvet cushion in palace hall surrounded by heraldic banners, right version lying in garbage-strewn alley puddle but remaining perfectly clean and lustrous, both crowns equally real and substantial, impossible existence challenging assumptions about worth and context, jewels catching light whether from crystal chandeliers or broken streetlamps, no text or letters visible"
+    background: "Left: marble columns, royal portraits, ceremonial guards, red carpeting; Right: graffiti-covered brick walls, overflowing dumpsters, broken bottles, urban decay"
+    atmosphere: "Fundamental questioning of authority and value, power symbols rendered meaningless by context"
+  composition:
+    cameraAngle: "Split-screen composition emphasizing radical contrast in settings"
+    focus: "Same crown proving that dignity transcends environment while questioning institutional power"
+    depth: "Foreground: figure spanning both worlds, midground: crown in dual contexts, background: opposing symbols of power and powerlessness"

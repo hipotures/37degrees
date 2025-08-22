@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Casting Off of Shame"
+  setting:
+    time: "1649 late spring afternoon in forest sanctuary"
+    location: "Dense ancient forest surrounding Boston settlement beside flowing stream"
+    weather: "Dappled sunlight suddenly breaking through forest canopy"
+  characters:
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Standing beside stream removing scarlet letter and casting it onto ground"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+  scene:
+    mainElements: "Elaborate embroidered letter A in scarlet red cloth outlined with intricate gold thread work and ornate flourishes lying discarded on forest floor, woman's hair flowing free after removing cap"
+    details: "The moment of liberation as scarlet letter falls to earth like shed skin, no longer defining her identity. Woman's abundant dark lustrous hair cascades free after years of concealment under cap, while sudden flood of sunlight breaks through forest canopy as if nature celebrates her freedom. Discarded letter lies among fallen leaves and forest debris, its elaborate gold embroidery now seeming gaudy against natural backdrop. Stream continues its eternal flow suggesting time's passage and possibility of renewal."
+    background: "Realm of natural law beyond human authority, mysterious shadows and dancing light, place where hidden truths can be spoken and societal masks removed"
+    atmosphere: "Liberation from imposed identity, nature supporting individual freedom against social judgment, momentary escape from civilization's constraints, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing both fallen letter and woman's transformation"
+    focus: "Discarded scarlet letter on forest floor contrasted with woman's newfound freedom"
+    depth: "Foreground: fallen letter among leaves; middle: woman with flowing hair; background: sunlight streaming through trees suggesting divine approval"

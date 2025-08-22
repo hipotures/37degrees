@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: April 1625, night with candlelight creating dramatic shadows
+    location: Secret chamber in Louvre palace where political conspiracies unfold
+    weather: Indoor scene with flickering candlelight and deep shadows
+  characters:
+  - appearance: Approximately 40 years old man with ascetic elongated face, high forehead, penetrating intelligent gaze, hooked
+      nose, pointed goatee, frail sickly build contrasting with enormous willpower and authority
+    clothing: Usually scarlet cardinal robes serving as visual symbol of ecclesiastical and political power, during La Rochelle
+      siege military attire with high boots emphasizing role as statesman and war leader
+    position: Visible through circular keyhole aperture, hunched over documents at table, unaware of observation
+    action: Studying secret correspondence and maps by candlelight, plotting political maneuvers with intense concentration
+  scene:
+    mainElements: View through keyhole creating circular vignette, Cardinal working alone in secret chamber, candlelight creating
+      dramatic chiaroscuro lighting, political documents and maps visible
+    details: Circular keyhole frame limiting view, brass key mechanism visible at frame bottom, Cardinal's scarlet robes contrasting
+      with dark chamber, secret documents spread on table, single candle providing dramatic lighting, shadows dancing on walls
+    background: Glimpse of luxurious chamber beyond keyhole view, formal palace architecture, religious and political symbols
+      suggesting power and authority
+    atmosphere: Secretive and sinister political plotting, dramatic lighting suggesting hidden machinations, sense of forbidden
+      knowledge and dangerous discovery
+  composition:
+    cameraAngle: POV shot through keyhole with circular vignette effect, showing exactly what observer sees through spy hole
+    focus: Sharp focus on Cardinal within keyhole aperture, brass mechanism visible at frame edges to establish viewing method
+    depth: 'Foreground: keyhole mechanism and key teeth, middle ground: Cardinal at work by candlelight, background: shadowy
+      chamber with political documents, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Panopticon State - All-Seeing Eye"
+  setting:
+    time: "1953, night"
+    location: "Circular prison design revealing total surveillance architecture"
+    weather: "Harsh spotlight from central tower illuminating all areas"
+  characters:
+    - appearance: "Citizens living in transparent cells arranged in circle around central observation tower, all behavior visible to watchers"
+      clothing: "Ordinary clothing but behavior modified by constant observation, no privacy possible"
+      position: "Arranged in circular pattern around central authority, all actions visible"
+      action: "Living normal lives but with constant awareness of being watched, modifying behavior due to surveillance"
+  scene:
+    mainElements: "Circular prison architecture with central watchtower observing all cells, transparent living spaces providing no privacy, searchlight scanning all areas"
+    details: "Citizens adapting behavior to constant observation, central tower with unseen observers, complete visibility eliminating private space, systematic observation of all human activity"
+    background: "Surveillance architecture extending throughout society, systematic elimination of privacy, total visibility as method of control"
+    atmosphere: "Complete elimination of privacy and independent action, behavior modification through constant observation, psychological control through architecture"
+  composition:
+    cameraAngle: "Central perspective from observation tower, circular views emphasizing total coverage"
+    focus: "Elimination of privacy through architectural design"
+    depth: "Foreground shows individual surveillance details, middle ground reveals circular arrangement, background demonstrates total system coverage"

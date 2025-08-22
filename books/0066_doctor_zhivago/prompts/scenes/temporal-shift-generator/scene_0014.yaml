@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transportation Evolution - Horse to Train to Aircraft"
+  setting:
+    time: "1905, 1920, and 1942 - transportation advancement across nearly four decades"
+    location: "Same transportation hub showing technological progress and social change"
+    weather: "Winter morning with snow covering all three transportation methods"
+  characters:
+    - appearance: "Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned nose, unremarkable face with intelligent features expressing melancholy and contemplation"
+      clothing: "1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later worn civilian clothes, heavy winter coat or sheepskin jacket"
+      posture: "Reflective stance, often lost in thought, restrained gestures, contemplative expression"
+      action: "Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance"
+  scene:
+    mainElements: "Same transportation station showing three different eras of travel technology with passengers representing changing social classes"
+    details: "Triple exposure showing transportation evolution: 1905 displays horse-drawn sleigh with wealthy passengers in furs arriving at rural station, elegantly dressed coachman, well-fed horses stamping in snow, luxury travel for few. 1920 reveals overcrowded cattle train car with refugees and revolutionaries, steam locomotive belching black smoke, military guards, mass transportation for survival. 1942 shows military aircraft on improvised airfield with pilots and soldiers, modern technology serving war effort, same geographic location transformed into aviation base, no text or letters visible"
+    background: "Same geographical features and basic station architecture adapted for different transportation needs"
+    atmosphere: "Technological progress accompanied by social upheaval, speed of change accelerating with each generation"
+  composition:
+    cameraAngle: "Wide shot showing complete transportation infrastructure and social context"
+    focus: "Central transportation vehicle showing technological evolution"
+    depth: "Foreground: passengers and cargo; middle ground: vehicles and infrastructure; background: landscape showing industrial development"

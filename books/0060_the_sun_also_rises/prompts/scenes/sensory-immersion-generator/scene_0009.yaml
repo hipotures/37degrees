@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Library dust motes floating undisturbed"
+  setting:
+    time: "1924, quiet afternoon"
+    location: "Traditional Parisian library with tall windows and countless bookshelves reaching toward vaulted ceiling"
+    weather: "Filtered sunlight creating golden columns through tall windows"
+  characters:
+    - appearance: "American writer aged 34, lean athletic frame from former university boxing, notably flattened nose from boxing injury, dark hair carefully groomed, intelligent expression behind wire-rimmed eyeglasses, sensitive facial features"
+      clothing: "Conservative well-cut American business suit in dark fabric, starched white shirt with proper collar, tasteful necktie reflecting his educated background and social aspirations"
+      position: "Seated at heavy wooden reading table, book open before him"
+      action: "Displaying earnest enthusiasm mixed with barely concealed anxiety about social acceptance within the group"
+  scene:
+    mainElements: "Countless dust particles suspended motionless in shaft of sunlight, book pages so still that dust settles on open text, even shadows seem frozen in perfect position"
+    details: "Dust motes hanging in complete suspension within sunbeam, no air currents disturbing their floating positions, book pages remaining absolutely flat without slightest flutter, even reader's breathing creating no visible air movement, silence so profound that dust becomes visual evidence of perfect stillness, shadows maintaining exact positions on floor, no text or letters visible"
+    background: "Towering bookshelves filled with leather-bound volumes, reading tables with green-shaded lamps, cathedral-like atmosphere of scholarly pursuit"
+    atmosphere: "Silence depicted through environmental stillness - absence of motion making quiet visible, dust particles as witnesses to perfect acoustic calm"
+  composition:
+    cameraAngle: "Medium shot with focus on dust-filled sunbeam"
+    focus: "Suspended dust particles showing absence of sound and movement"
+    depth: "Foreground: detailed dust suspension in light shaft, midground: motionless reader at table, background: vast silent library stretching into shadows"

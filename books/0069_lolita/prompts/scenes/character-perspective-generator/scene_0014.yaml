@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Night Terror - Motel Prison"
+  setting:
+    time: "1947, late night" 
+    location: "Standard American roadside motel room, late 1940s, anywhere in United States"
+    weather: "Dark night with distant highway sounds"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Pine wood paneling, chenille bedspreads, small television set, mismatched carpet, single window with thin curtains, two beds, small bathroom visible through open door"
+    details: "Dark motel room with thin beams of light from parking lot cutting through curtain cracks, distant truck sounds on highway, cheap motel furnishings in shadows"
+    background: "Anonymous motel room in darkness, thin walls, muffled sounds from neighboring rooms suggesting vast loneliness, neon light from outside signs"
+    atmosphere: "Transient, impersonal space with dim yellow lighting from lamps, sense of isolation and displacement, anonymous and temporary"
+  composition:
+    cameraAngle: "Low angle view from bed level in dark motel room"
+    focus: "Dark motel room interior, patterns of light from parking lot, ceiling viewed in sleepless terror"
+    depth: "Foreground shows bed in darkness, middle ground shows motel room furniture in shadows, background shows thin curtained window with outside lights"

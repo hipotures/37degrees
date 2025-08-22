@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Figure caught between light and shadow in internal conflict"
+  setting:
+    time: "1930s, twilight hour with mixed lighting"
+    location: "Threshold between ranch buildings, boundary space"
+    weather: "Clear evening with dramatic natural and artificial light contrast"
+  characters:
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Standing in doorway between bright interior and dark exterior"
+      action: "One hand gripping door frame, body half in light half in shadow, face showing torn expression between hope and despair, head tilted as if listening to conflicting voices"
+  scene:
+    mainElements: "Dramatic split composition with warm yellow light from building interior spilling onto cold blue twilight outside, sharp line dividing two worlds"
+    details: "Dust motes floating in light beam, shadows creating geometric patterns on ground, sense of choice and crossroads, threshold moment visualized literally"
+    background: "Comfortable illuminated interior behind figure, vast darkening landscape ahead, two completely different emotional territories"
+    atmosphere: "Emotional whiplash moment with before/after feeling, visual metaphor for internal conflict, environment reflecting character's torn state between possibilities"
+  composition:
+    cameraAngle: "Medium shot directly facing the threshold to emphasize division"
+    focus: "The split lighting effect and conflicted posture showing internal struggle"
+    depth: "Foreground shows dramatic lighting contrast, middle ground captures suspended figure, background reveals opposing emotional territories"

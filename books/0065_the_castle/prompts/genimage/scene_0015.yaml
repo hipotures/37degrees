@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Early 1920s early morning
+    location: More prestigious tavern during cleaning and preparation before officials arrive
+    weather: Pre-dawn winter darkness with servants working by lamplight
+  characters:
+  - appearance: Village servant woman, middle-aged
+    clothing: Simple working dress, practical cleaning attire
+    position: Cleaning tavern while observing hidden dynamics
+    action: Performing invisible labor while witnessing private conversations and relationships
+  - appearance: Various sleeping officials and their private moments
+    clothing: Informal attire revealing human vulnerabilities
+    position: Unaware of servant's presence and observations
+    action: Displaying private behaviors normally hidden from public view
+  scene:
+    mainElements: Spacious taproom revealed in different light during servant's working hours, small peephole opening providing
+      access to official secrets
+    details: From servant's perspective of invisible observation - witnessing private moments when officials drop formal facades,
+      overhearing confidential discussions about administrative decisions affecting entire village. Hierarchical tension between
+      village world and Castle authority becoming transparent when observed by unnoticed servant.
+    background: Tavern architecture revealing hidden spaces and secret sight lines used by working staff
+    atmosphere: Through servant's invisible observer viewpoint - officials appearing human and fallible when unaware of being
+      watched, administrative mysteries becoming mundane when seen from service perspective, pre-dawn darkness creating atmosphere
+      of secret knowledge and hidden labor, no text or letters visible
+  composition:
+    cameraAngle: Servant's unnoticed perspective revealing hidden truths about power relationships
+    focus: Contrast between public official behavior and private human reality
+    depth: Foreground shows servant's knowing observation, middle ground captures officials' unguarded moments, background
+      emphasizes hidden sight lines and secret spaces
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

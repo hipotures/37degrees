@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Symbolic Image - Justice as Spectacle"
+  setting:
+    time: "Late 1930s, day"
+    location: "large formal courtroom in Chicago criminal courthouse, late 1930s winter"
+    weather: "Cold winter day with harsh artificial lighting inside"
+  characters:
+    - appearance: "20-year-old African American man with average height and lean build, dark skin, short black hair cut close to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw"
+      clothing: "worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays and browns, old scuffed shoes"
+      position: "seated alone in defendant's chair, isolated and surrounded by hostile white authority"
+      action: "facing predetermined verdict in system designed to destroy him, representing ultimate powerlessness against institutional racism"
+    - appearance: "Multiple white authority figures including judge, prosecutor, and jury members, all representing institutional power"
+      clothing: "formal legal attire, judicial robes, expensive suits representing official authority"
+      position: "elevated above defendant in positions of power and judgment"
+      action: "conducting legal performance that reinforces racial hierarchy while maintaining appearance of justice"
+  scene:
+    mainElements: "Formal courtroom serving as theater of racial oppression disguised as legal justice, ultimate demonstration of how institutions maintain white supremacy through performance of fairness"
+    details: "imposing legal chamber with high ceiling, wooden benches, raised judge's platform, jury box. Dark wood paneling, formal seating arrangements, judge's elevated bench, bright harsh lighting from high windows or ceiling lamps. Camera flashes from press documenting spectacle, hostile white audience filling gallery"
+    background: "American flag and legal symbols representing justice that excludes African Americans, formal architecture designed to intimidate and overwhelm, institutional power displayed through environmental design"
+    atmosphere: "Performance of justice that is actually systematic destruction of individual through legal mechanisms, demonstration that courts serve to legitimize racial oppression, ultimate symbol of powerlessness against institutional racism"
+  composition:
+    cameraAngle: "Wide shot showing isolated defendant dwarfed by massive institutional power structure"
+    focus: "The courtroom as ultimate symbol of systematic racial oppression disguised as legal justice"
+    depth: "Foreground shows the powerless defendant, middle ground captures the performance of legal authority, background reveals the institutional apparatus designed to maintain racial hierarchy"

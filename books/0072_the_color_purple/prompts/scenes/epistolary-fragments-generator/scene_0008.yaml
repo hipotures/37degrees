@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Text Overlay Reality - Words Bleeding Through Experience"
+  setting:
+    time: "1920, evening"
+    location: "Converted barn structure in rural Georgia serving as community gathering place for African American social life, hidden from white authorities"
+    weather: "Warm summer night"
+  characters:
+    - appearance: "Striking African American blues singer, aged 30s-70s, tall and slender with commanding presence, very dark skin described as lustrous, long pointed nose, full lips like black plums, large expressive eyes, naturally glamorous bearing"
+      clothing: "Sophisticated urban fashion spanning 1920s-1940s: form-fitting red sequined dresses, fur stoles, feathered headbands, jewelry and accessories, clothing that announces her status as performer and free woman"
+      position: "Center stage in red dress, commanding attention"
+      action: "Singing while ghostly handwriting appears and disappears around her"
+  scene:
+    mainElements: "Rough wooden building with small stage area, makeshift bar, dance floor, oil lamps providing warm golden lighting, tables and chairs arranged around performance space. Translucent text overlays the scene"
+    details: "Oil lamps casting warm golden glow, tobacco smoke curling through air, audience mesmerized by performance. Handwritten words appear and fade across the visual field like double exposure"
+    background: "Crowded juke joint filled with dancing couples, shadows moving rhythmically, atmosphere electric with music and community"
+    atmosphere: "Reality and written memory merge, music giving voice to unspoken letters, performance becoming living document of experience"
+  composition:
+    cameraAngle: "Medium shot of performer with text floating through frame"
+    focus: "Singer commanding attention while words drift through scene like spirits"
+    depth: "Foreground: floating text, middle: performer in spotlight, background: dancing crowd in shadows"

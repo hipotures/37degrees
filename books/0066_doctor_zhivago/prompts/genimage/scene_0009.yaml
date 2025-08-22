@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: October 1918 and January 1919, autumn color peak to winter desolation
+    location: Siberian forest path where Jurij was captured by partisans
+    weather: 'Autumn: crisp clear air with golden light. Winter: howling wind and deep snow'
+  characters:
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Dense Siberian taiga forest showing dramatic seasonal transformation from golden abundance to skeletal emptiness
+    details: 'Overlapping temporal image: October shows birch trees with brilliant yellow leaves creating canopy of gold,
+      forest floor carpeted with fallen leaves in reds and oranges, clear mountain stream flowing through rocks, abundant
+      mushrooms and berries, warm dappled sunlight filtering through branches. January reveals same trees as bare black skeletons
+      against gray sky, stream frozen solid, forest floor buried under deep snow drifts, animal tracks the only signs of life,
+      stark black and white composition, no text or letters visible'
+    background: Mountain ridges and valleys remain constant geographical features through both seasons
+    atmosphere: Nature's cycle from abundance to dormancy paralleling human journey from freedom to captivity
+  composition:
+    cameraAngle: Path-level view leading eye through forest depth showing temporal progression
+    focus: Central birch grove marking seasonal transformation most dramatically
+    depth: 'Foreground: forest floor details; middle ground: tree trunks and path; background: mountain landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1916 early winter, dawn
+    location: Italian front lines near Gorizia in northeastern Italy, view across Isonzo River valley toward Austrian positions
+      in Julian Alps
+    weather: Crisp mountain dawn with frost forming on glass surfaces
+  characters:
+  - appearance: American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing
+    clothing: Italian army officer uniform in Grigioverde gray-green, includes tunic, trousers, officer cap with rank insignia
+      on cuffs, leather boots, carries Astra 7.65 pistol, steel helmet and English gas mask on front lines
+    position: Standing close to frosted window, breath visible in cold air
+    action: Pressing palm against icy glass, leaving temporary handprint that slowly fades
+  scene:
+    mainElements: Elegant villa converted to officers' quarters with military maps on walls, equipment in corners, mud tracked
+      on fine floors, view through river valley showing pebbles and boulders dry and white in sun with clear swift blue water
+    details: Delicate frost crystals creating intricate patterns across window panes, officer's warm breath fogging glass
+      in rhythmic clouds, handprint impression slowly disappearing as cold reclaims surface, wooden window frames crackling
+      softly from temperature stress, morning light filtering through ice formations creating prismatic effects on military
+      maps, contrast between indoor warmth and outdoor Alpine cold, no text or letters visible
+    background: Distant mountains visible through cleared sections of glass, artillery positions barely discernible as dark
+      spots on snowy slopes
+    atmosphere: Peaceful cultivated oasis offering privacy and escape from war, white nurse uniforms visible through foliage
+      creating ethereal almost voyeuristic introduction, intimate space for tentative romance
+  composition:
+    cameraAngle: Close-up view from inside villa looking through frosted window
+    focus: Palm pressed against glass with frost patterns radiating outward from contact point
+    depth: Foreground shows detailed frost formations and hand impression, middle ground reveals window frame and partial
+      interior, background hints at Alpine landscape through clear glass sections
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

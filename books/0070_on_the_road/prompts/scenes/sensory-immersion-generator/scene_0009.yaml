@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Library Dust Motes in Silence"
+  setting:
+    time: "1948 afternoon"
+    location: "university library in New York with tall windows, wooden reading tables, and floor-to-ceiling bookshelves"
+    weather: "clear afternoon with sunlight streaming through windows"
+  characters:
+    - appearance: "21-year-old man with thin nervous build, dark curly hair in artistic disarray, large intelligent penetrating eyes behind thick black-framed glasses, elongated face with sad poetic expression"
+      clothing: "mismatched worn jackets, shirts and wool pants from thrift shops, intellectual absent-minded professor style contrasting with mainstream fashion"
+      position: "seated at wooden reading table surrounded by open books"
+      action: "turning pages carefully while dust motes float undisturbed in afternoon sunbeams"
+  scene:
+    mainElements: "thick beams of afternoon sunlight creating visible columns in dusty air, thousands of tiny dust particles floating motionlessly in light rays, complete absence of sound except for occasional careful page turning, shadows falling precisely between bookcases without movement"
+    details: "Dust particles suspended like stars in golden light columns, each page turn releasing brief cloud of microscopic paper fibers into sunbeam, book spines creating perfect geometric shadows on floor, reading lamp unnecessary due to natural light, glasses reflecting sunbeam fragments, pencil lying motionless exactly where placed, even shadows appearing frozen and permanent"
+    background: "floor-to-ceiling wooden bookshelves filled with leather-bound volumes, tall windows allowing afternoon light, empty reading tables with green-shaded lamps, carved wooden chairs"
+    atmosphere: "golden afternoon light creating warm glow, smell of old paper and leather bindings, profound quiet broken only by distant city sounds muffled by thick walls, sense of timeless scholarly peace"
+  composition:
+    cameraAngle: "medium shot from across reading room showing figure in sunbeam"
+    focus: "visible dust particles representing absolute quiet and undisturbed air"
+    depth: "floating dust motes in bright foreground sunbeam, reading figure in middle ground, rows of books extending into shadowy background"

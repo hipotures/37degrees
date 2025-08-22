@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1969 December, evening during special family dinner
+    location: Dining room of Ipe family house prepared for feast welcoming Sophie Mol
+    weather: Cool evening air inside house with warm atmosphere from cooking
+  characters:
+  - appearance: Heavyset 35-year-old man who has become lazy and fat since Oxford days, distinctive entomologist nose inherited
+      from father, intellectual demeanor, soft features from comfortable living
+    clothing: Western-style clothing reflecting Oxford education - pressed trousers, button-down shirts, occasionally jacket
+      to emphasize his educated status
+    position: Seated at head of table preparing to carve meat
+    action: Lifting covers from various dishes, releasing clouds of aromatic steam
+  scene:
+    mainElements: Large dining table crowded with multiple dishes releasing different types of steam, feast including curries,
+      rice, meat, vegetables each with distinct steam patterns, serving bowls creating landscape of culinary abundance
+    details: Different steam patterns from various dishes - thick curry steam, light rice steam, aromatic meat steam, spiced
+      vegetable vapors all mingling in air above table, serving spoons in each dish suggesting different flavors, condensation
+      forming on serving bowl lids, rich colors of different foods visible beneath rising steam
+    background: Formal dining room with European furniture, family gathered around table, evening light from oil lamps creating
+      warm atmosphere
+    atmosphere: Feast as celebration of abundance and complex flavors, dining table as center of family gathering and sensory
+      pleasure
+  composition:
+    cameraAngle: View across feast table showing multiple steam patterns rising from different dishes
+    focus: Mingling steam from various dishes suggesting complex array of flavors and aromas
+    depth: Foreground captures steam patterns and food dishes, middle ground shows Chacko serving, background features family
+      dining setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1880s to 1918, 38 years compressed into single moment, early morning light
+    location: Wooden gate entrance to Trask property, same spot where departures and arrivals mark family history
+    weather: Crisp morning with dew on grass and golden sunrise illuminating the scene
+  characters:
+  - appearance: Adam Trask shown in transparent overlay - young man around 20 with smooth face and military posture, simultaneously
+      visible as older man around 58 with lined face and civilian clothes
+    clothing: Union cavalry uniform with brass buttons and blue wool fading into simple farmer's clothes of cotton shirt and
+      wool vest, military cap dissolving into civilian hat
+    position: Standing at same wooden gate, hand resting on same fence post, facing same direction toward road
+    action: Young Adam departing for military service overlaid with older Adam waiting for news of son's fate in war, same
+      gesture of touching gate post for luck or comfort
+  scene:
+    mainElements: Weathered wooden gate showing decades of use, fence posts darkened and worn by weather, gate hinges rusted
+      from bright iron to dull brown, road beyond showing ruts deepened by years of wagon traffic
+    details: Gate wood split and repaired multiple times, metal hardware progressed from new to rusted, fence line sagging
+      under weight of time, wild roses growing up posts changing from small shoots to thick vines
+    background: Connecticut farmhouse visible in distance showing additions and modifications across decades, oak tree grown
+      from modest size to towering presence, barn roof replaced and weathered again
+    atmosphere: Cyclical nature of family patterns where sons must leave and fathers must wait, morning light eternal while
+      human figures age and fade, sense of inevitable repetition across generations, no text or letters visible
+  composition:
+    cameraAngle: Medium distance view showing both figure and gate with farmstead background
+    focus: Gate and Adam's hand placement as temporal anchor point across decades
+    depth: Foreground shows gate details aging, middle ground presents dual-time figure, background reveals farmstead evolution
+      over decades
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

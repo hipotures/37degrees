@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, courthouse steps during evening civil rights demonstration
+    location: British judicial building entrance, classical columns and formal architecture
+    weather: Clear evening with dramatic shadows cast by setting sun
+  characters:
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Impeccable gray wool suit, black bowler hat, formal British gentleman attire
+    position: Standing at base of courthouse steps, looking up at scales
+    action: Holding identical sword and olive branch, contemplating which to place on scales
+  scene:
+    mainElements: Massive bronze scales of justice, left plate holding medieval sword with jeweled hilt, right plate holding
+      fresh olive branch with silver leaves
+    details: Ancient balance scale with ornate bronze construction, sword blade gleaming with recent sharpening, edge capable
+      of splitting single hair, olive branch freshly cut with leaves still green and supple, small silver fruit visible among
+      foliage, scales perfectly balanced despite different nature of objects, marble base carved with symbols of various legal
+      traditions, bronze patina showing age and authority, items maintaining perfect equilibrium, no text or letters visible
+    background: Classical courthouse with Corinthian columns, statue of blindfolded Justice above entrance, crowd of diverse
+      protesters holding candles
+    atmosphere: Tension between violence and peace as equally valid responses to injustice, both options carrying equal moral
+      weight
+  composition:
+    cameraAngle: Low angle emphasizing monumental scale of justice symbol against sky
+    focus: Perfect balance between instruments of war and peace, suggesting equivalence of force and diplomacy
+    depth: 'Foreground: detailed scales and symbolic objects, midground: contemplating figure, background: institutional authority
+      and popular resistance'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

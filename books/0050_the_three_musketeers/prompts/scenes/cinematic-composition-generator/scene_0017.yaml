@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Increasingly tilted frame showing Milady's psychological manipulation destroying victim's sanity"
+  setting:
+    time: "June 1625, late night with single candle creating unstable shadows"
+    location: "Stone castle cell where psychological warfare breaks down military discipline"
+    weather: "Indoor scene with flickering light emphasizing mental instability"
+  characters:
+    - appearance: "25-28 years old woman with supernatural beauty, pale fair complexion, long blonde curls falling abundantly on shoulders, large blue dreamy eyes, pink lips, alabaster hands, branded fleur-de-lis mark on left shoulder"
+      clothing: "Always dressed with highest elegance according to latest fashion, garments used as manipulation tools appearing as innocent victim, pious puritan or commanding aristocrat depending on intended deception"
+      position: "Kneeling in apparent prayer and supplication, using religious pose to manipulate religious fanatic"
+      action: "Performing masterful acting to appear as innocent victim, tears streaming down face, hands clasped in false piety"
+    - appearance: "Young English Puritan officer with rigid moral beliefs, stern features marked by religious fanaticism, black clothing emphasizing severe nature"
+      clothing: "Plain black Puritan garments without ornamentation, reflecting strict religious beliefs and moral rigidity"
+      position: "Standing over kneeling figure, frame tilted more severely to show his mental breakdown"
+      action: "Being systematically manipulated and converted from guard to willing accomplice, mental state deteriorating under skilled psychological assault"
+  scene:
+    mainElements: "Stone prison cell with frame tilted at increasing angle showing psychological collapse, masterful manipulation performance, religious symbols used as weapons of deception"
+    details: "Severely tilted frame emphasizing growing mental instability, stone walls and barred window, single candle creating dancing shadows, religious book or crucifix as props, tears on Milady's face appearing genuine"
+    background: "Castle architecture suggesting imprisonment and isolation, barred window showing distant freedom, sparse furnishings emphasizing captivity"
+    atmosphere: "Psychological breakdown and manipulation, growing tilt suggesting increasing mental instability, masterful performance destroying moral certainty"
+  composition:
+    cameraAngle: "Dutch angle with severe tilt creating psychological unease, suggesting growing psychological imbalance and moral corruption"
+    focus: "Sharp focus on manipulation performance and victim's deteriorating mental state, tilted perspective emphasizing psychological warfare"
+    depth: "Foreground: religious props and manipulation tools, middle ground: performance of false innocence, background: prison architecture showing entrapment, no text or letters visible"

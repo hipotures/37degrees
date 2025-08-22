@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, night in December
+    location: Hotel room measuring approximately 12 by 15 feet with single window
+    weather: December night with measured outdoor temperature below freezing
+  characters:
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Sitting on hotel bed measuring 6 feet in length with standard mattress
+    action: Occupying space without emotional overlay, existing within measured physical reality
+  scene:
+    mainElements: 'Hotel room containing standard commercial furnishings: single bed, desk, chair, dresser, bathroom access
+      door, window providing city view'
+    details: Objective measurement shows room temperature at approximately 68 degrees Fahrenheit, single window measuring
+      3 by 4 feet facing east toward adjacent buildings, electrical lighting providing measured illumination, plaster walls
+      painted standard hotel beige
+    background: Building constructed in 1920s using standard urban construction methods, city street providing vehicular access,
+      other buildings serving commercial and residential functions
+    atmosphere: Neutral commercial space serving temporary accommodation function, standard urban environment providing basic
+      shelter and services, measured physical reality without subjective interpretation, no text or letters visible
+  composition:
+    cameraAngle: Documentary perspective capturing actual room dimensions and physical reality
+    focus: Physical space serving documented accommodation function with human figure providing scale
+    depth: 'Foreground: measured furniture arrangements, middle ground: occupant within space, background: urban architectural
+      context'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

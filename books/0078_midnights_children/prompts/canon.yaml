@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "saleem_sinai"
+      name: "Saleem Sinai"
+      description_block: |
+        characters:
+          - appearance: "Round-faced man with prominent temples, aged 30-31 years. Enormous cucumber-like nose constantly dripping. Blue Kashmir eyes. Stains covering face resembling map patterns. Bald patch on crown of head. Missing upper portion of middle finger. Deaf in left ear. Body cracking and deteriorating under weight of history"
+            clothing: "Simple work clothes - loose cotton shirt and trousers, worn and practical for factory work"
+            position: "Seated at wooden table or standing with hunched shoulders"
+            action: "Writing in notebook with intense concentration or gesturing while telling stories"
+    
+    - id: "shiva"
+      name: "Shiva"
+      description_block: |
+        characters:
+          - appearance: "Muscular man aged 30-31 years with sharp angular features. Dark hair and eyes. Most prominent feature is abnormally large, gnarled knees described as monstrous and threatening. Athletic military build with aggressive bearing"
+            clothing: "Indian Army major's uniform with insignia and decorations, or childhood street clothes when shown young"
+            position: "Standing in commanding pose or crouched in fighting stance"
+            action: "Leading soldiers or demonstrating violent knee strikes"
+    
+    - id: "aadam_aziz"
+      name: "Aadam Aziz"
+      description_block: |
+        characters:
+          - appearance: "Tall man with enormous prominent nose comparable to trunk of god Ganesha. Piercing blue Kashmir eyes. In youth straight-backed and strong. In old age wrinkled with skeleton crumbling to dust within weathered skin. Age ranges from 25 to 75 years depending on scene period"
+            clothing: "Young doctor: Western suits and medical attire. Elderly: Traditional loose Indian garments in white or cream"
+            position: "Standing upright with medical authority or kneeling in prayer"
+            action: "Examining patients through perforated sheet or striking frozen ground with nose during prayer"
+    
+    - id: "naseem_ghani"
+      name: "Naseem Ghani (Reverend Mother)"
+      description_block: |
+        characters:
+          - appearance: "Woman aging from 16 to 70 years. In youth slender, in old age large and formidable. Two distinctive large moles on face called witch's nipples. Severe features expressing conservative authority"
+            clothing: "Always traditional dark sari, often with head covering. In youth complete purdah with veil"
+            position: "Sitting with commanding presence or lying covered by perforated sheet"
+            action: "Giving orders to family members or being examined through sheet hole"
+    
+    - id: "amina_sinai"
+      name: "Amina Sinai"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 20-40 years with dark complexion. In youth slender, in middle age becomes plump with facial hair and warts appearing. Expression shows disappointment and life's hardships"
+            clothing: "Elegant sari in 1940s-50s style with traditional jewelry"
+            position: "Standing in domestic settings or seated with maternal authority"
+            action: "Caring for children or managing household duties"
+    
+    - id: "padma_mangroli"
+      name: "Padma Mangroli"
+      description_block: |
+        characters:
+          - appearance: "Sturdy woman around 30 years old, plump and muscular with hairy forearms. Large undulating thigh muscles. Practical earth-mother appearance with strong hands"
+            clothing: "Simple working sari often rolled up fisherman-style for factory work"
+            position: "Squatting on floor or standing with hands on hips"
+            action: "Listening intently to stories or working with preserve jars"
+    
+    - id: "parvati_witch"
+      name: "Parvati-the-witch"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 15-28 years. Permanent grimace on lips from repeated rejections. Small build typical of street performer"
+            clothing: "Colorful theatrical costume with magical performer's accessories - flowing scarves, jingling ornaments"
+            position: "Emerging from wicker basket or standing with magical implements"
+            action: "Performing magic tricks or casting spells with dramatic gestures"
+    
+    - id: "jamila_singer"
+      name: "Jamila Singer (Brass Monkey)"
+      description_block: |
+        characters:
+          - appearance: "Beautiful young woman with thick red-gold hair in childhood. As adult singer maintains elegant appearance contrasting with brother's ugliness"
+            clothing: "As child: wealthy family clothes. As singer: white silk chadar embroidered with gold and religious calligraphy"
+            position: "Standing at microphone or sitting in respectful pose"
+            action: "Singing with pure voice or adjusting her modest head covering"
+
+  locations:
+    - id: "kashmir_valley"
+      name: "Kashmir Valley 1915"
+      description_block: |
+        setting:
+          location: "Pristine Kashmir valley in northern Indian subcontinent, before partition. Old dark houses standing beside Dal Lake shores. Small black temple on khaki-colored hilltop. Valley enclosed by mountains resembling gigantic teeth"
+        mainElements: "Dal Lake with shikara boats, snow-capped mountain peaks, traditional Kashmiri architecture"
+        atmosphere: "Mythical paradise quality with morning mist, crisp mountain air, and timeless serenity before modern world intrusion"
+    
+    - id: "methwold_estate"
+      name: "Methwold's Estate, Bombay"
+      description_block: |
+        setting:
+          location: "Colonial residential compound in Bombay during 1947 independence. Four identical three-story villas with red sloping roofs and ivory towers. British architecture imposed on Indian landscape"
+        mainElements: "Buckingham Villa, Versailles Villa, Escorial Villa, Sans Souci. Lush gardens with bougainvillea, blue swimming pools with goldfish, cactus rockeries, tamarind trees"
+        atmosphere: "Artificial European elegance with cultural displacement. Abandoned British lifestyle maintained by new Indian owners"
+    
+    - id: "magicians_ghetto"
+      name: "Magicians' Ghetto, Delhi"
+      description_block: |
+        setting:
+          location: "Colorful urban slum in old Delhi housing street performers. Narrow winding alleys between makeshift homes of corrugated metal, wood, and cloth. Based on real Kathputli colony"
+        mainElements: "Performance props scattered everywhere - disappearing baskets, levitating ropes, musical instruments, puppets. Bright painted murals on walls"
+        atmosphere: "Vibrant community energy despite poverty. Folk magic and artistry thriving in cramped but spirited environment"
+    
+    - id: "braganza_pickle_factory"
+      name: "Braganza Pickle Factory"
+      description_block: |
+        setting:
+          location: "Industrial preserve factory in Bombay late 1970s. Simple utilitarian building with work areas filled with glass jars and processing equipment"
+        mainElements: "Rows of shelves holding glass jars filled with chutneys and pickles. Single hanging light bulb over wooden work table. Strong aroma of spices - turmeric, chili, coriander"
+        atmosphere: "Quiet melancholy mixed with preservation of memories. Factory represents chutnification of history - stories pickled like fruit"
+    
+    - id: "alia_house_karachi"
+      name: "Aunt Alia's House, Karachi"
+      description_block: |
+        setting:
+          location: "Large old building with yellowing paint on Clayton Road, Karachi, Pakistan. House positioned in long accusatory shadow of local mosque minaret"
+        mainElements: "Deteriorating colonial-era architecture with peeling walls. Mosque minaret casting shadow across property. Interior rooms filled with shadows and religious oppression"
+        atmosphere: "Suffocating religious orthodoxy and emotional tension. House represents narrowing of identity in Islamic Pakistan versus pluralistic Bombay"
+
+  items:
+    - id: "silver_spittoon"
+      name: "Silver Spittoon"
+      description_block: |
+        details: "Ornate silver spittoon decorated with lapis lazuli inlay. Gift from Rani of Cooch Naheen representing old Indian aristocratic traditions. Object passed down through generations carrying family history and heritage"
+    
+    - id: "perforated_sheet"
+      name: "Perforated Sheet"
+      description_block: |
+        details: "White linen sheet with single round hole seven inches in diameter cut in center. Used for medical examinations while maintaining purdah modesty. Symbol of fragmentation and incomplete knowledge"
+    
+    - id: "wicker_basket"
+      name: "Laundry Basket"
+      description_block: |
+        details: "Large wicker laundry basket with tight weave. Dark interior space where telepathic powers first manifest. Represents both hiding place and womb-like space of magical birth"
+    
+    - id: "pickle_jars"
+      name: "Chutney Jars"
+      description_block: |
+        details: "Thirty glass jars filled with various pickled fruits and vegetables in different colors and textures. Each jar represents one year of Saleem's life. Contains preserved memories and chutnified history"
+    
+    - id: "nehru_letter"
+      name: "Letter from Nehru"
+      description_block: |
+        details: "Official government letter with seal and signature from Prime Minister Nehru congratulating midnight's children. Framed document representing great but unfulfilled hopes of independence generation"

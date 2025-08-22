@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1851, midday
+    location: Central posting area where plantation rules and announcements control daily life
+    weather: Bright harsh sunlight creating stark shadows
+  characters:
+  - appearance: Mixed group of enslaved people of various ages gathering reluctantly around announcement area
+    clothing: Various work clothes showing different assignments, some holding tools, children clinging to adults
+    position: Clustered around posting board maintaining respectful distance from authority
+    action: Listening to announcements being read aloud, exchanging worried glances, some unable to read studying faces of
+      those who can
+  scene:
+    mainElements: Large wooden announcement board with multiple posted notices, bell or drum for gathering attention, official
+      plantation seals and signatures
+    details: Work schedules, punishment notices, new rules and restrictions, sale announcements, reward offers for escaped
+      people, official handwriting in formal legal language
+    background: Plantation buildings arranged around central authority point, paths leading to different work areas, overseer's
+      house or office nearby
+    atmosphere: Forced compliance with arbitrary authority, tension as people learn new restrictions or punishments, voices
+      kept to whispers, official proclamations drowning out individual expression
+  composition:
+    cameraAngle: Medium wide shot showing gathered people and authority structure
+    focus: The announcement board as symbol of systematic control through information and fear
+    depth: Foreground shows official notices, middle ground features the gathered community, background emphasizes the controlled
+      environment they inhabit
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

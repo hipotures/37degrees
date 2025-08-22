@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Brotherhood Recruitment Meeting - Documentary Reality"
+  setting:
+    time: "1940s, evening"
+    location: "Harlem meeting hall for Brotherhood gathering, formal political assembly space"
+    weather: "Indoor evening meeting environment"
+  characters:
+    - appearance: "Young African American man, age varying by scene from late teens to mid-twenties, average build and height, generic facial features designed to be overlooked"
+      clothing: "Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending on imposed identity"
+      position: "Standing at podium delivering first Brotherhood speech"
+      action: "Speaking passionately about eviction injustice while being observed and evaluated"
+  scene:
+    mainElements: "Meeting hall with rows of chairs, podium with microphone, Brotherhood banners and political materials, assembled crowd"
+    details: "Objective documentary view reveals political meeting's calculated nature - crowd consists of predetermined supporters ensuring successful recruitment, Brotherhood members take notes evaluating narrator's usefulness for organizational goals, enthusiastic responses appear rehearsed rather than spontaneous, meeting hall setup designed to create impression of grassroots movement while serving centralized political agenda, narrator's genuine passion contrasts with audience's strategic attention"
+    background: "Brotherhood organizational materials and hierarchical seating arrangements, recording equipment documenting performance"
+    atmosphere: "Ideological certainty masking manipulation of community needs for abstract political goals"
+  composition:
+    cameraAngle: "Neutral documentary perspective capturing both speaker and audience dynamics"
+    focus: "Split attention between narrator's genuine passion and audience's calculated response"
+    depth: "Foreground shows speech delivery, middle ground captures audience evaluation, background reveals organizational machinery, no text or letters visible"

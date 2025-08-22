@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Media Hypnosis - Broadcasting Control"
+  setting:
+    time: "1952, evening"
+    location: "Television broadcast center transmitting to mass audience"
+    weather: "Studio lighting designed for maximum psychological impact"
+  characters:
+    - appearance: "Television broadcaster with hypnotic speaking style, audience members in homes showing trance-like attention"
+      clothing: "Broadcaster in formal official attire, audience in everyday clothes but uniformly positioned"
+      position: "Broadcaster centered on screen, audiences in identical viewing positions"
+      action: "Delivering carefully scripted political messages, audiences absorbing information without questioning"
+  scene:
+    mainElements: "Television screens showing same propaganda broadcast simultaneously, families gathered in identical viewing arrangements, transmission towers broadcasting unified message"
+    details: "Identical reactions from different households, synchronized viewing schedules, approved programming replacing all alternative content, viewers' faces illuminated by screen glow"
+    background: "Transmission infrastructure ensuring total coverage, systematic delivery of approved messages to every home, elimination of alternative information sources"
+    atmosphere: "Electronic control of mass consciousness, systematic replacement of individual thought with broadcast messages, technological dominance over minds"
+  composition:
+    cameraAngle: "Split between broadcast source and multiple receiving locations"
+    focus: "Unified message transmitted to fragmented but controlled audience"
+    depth: "Foreground shows broadcast transmission, middle ground reveals distribution network, background demonstrates mass reception"

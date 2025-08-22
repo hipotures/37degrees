@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hospital Abandonment - Medical Isolation"
+  setting:
+    time: "1949, day"
+    location: "Hospital lobby in small American town of Elphinstone"
+    weather: "Bright day outside hospital windows"
+  characters:
+    - appearance: "Hospital staff, nurses and administrators, professional medical personnel"
+      clothing: "1940s medical uniforms, white nurse dresses, professional attire"
+      position: "Behind reception desk, in hallways, conducting normal hospital operations"
+      action: "Processing paperwork, explaining visitor policies, conducting routine medical facility operations"
+  scene:
+    mainElements: "Hospital lobby with reception desk, waiting area chairs, medical facility atmosphere, official paperwork and procedures"
+    details: "Sterile hospital environment, medical staff explaining visitor restrictions, institutional atmosphere, sense of isolation within medical facility"
+    background: "Hospital interior with medical equipment, sterile corridors, institutional lighting, medical facility environment"
+    atmosphere: "Sterile, institutional medical environment, sense of vulnerability in official setting, medical authority creating distance from normal world"
+  composition:
+    cameraAngle: "Eye level view from hospital lobby, watching medical staff and institutional procedures"
+    focus: "Hospital staff conducting official procedures, medical facility operations"
+    depth: "Foreground shows hospital lobby furniture, middle ground shows medical staff, background shows sterile hospital corridors"

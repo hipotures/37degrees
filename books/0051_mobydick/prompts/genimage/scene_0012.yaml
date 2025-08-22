@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s late afternoon, golden light
+    location: Main deck of three-masted American whaling ship, mid-ocean
+    weather: Fair winds with warm sunlight
+  characters:
+  - appearance: Pure-blood Indian from Gay Head, late twenties, long sleek black hair, high cheekbones, dark round eyes, tanned
+      muscular frame with serpentine limbs
+    clothing: Simple harpooner's work attire allowing freedom of movement
+    position: Crouched in hunting stance or standing with natural athletic grace
+    action: Scanning horizon with predator's focus, hands moving with practiced precision preparing hunting equipment
+  scene:
+    mainElements: Ornate brass birdcage sits open on deck rail, its door swinging free in ocean breeze, while nearby a magnificent
+      seabird perches voluntarily on ship's rigging
+    details: The birdcage, elaborate with decorative scrollwork, stands empty with its door wide open, yet a living albatross
+      chooses to rest on the nearby mast, free but choosing proximity to human activity. The contrast between the empty prison
+      and the willing captive creates visual paradox. Ocean wind plays through the cage bars, creating musical tones like
+      a wind chime, while the bird preens its feathers in complete liberty yet seeming companionship. The open cage door swings
+      rhythmically with ship's motion, neither inviting nor excluding, no text or letters visible
+    background: Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace
+      amidships
+    atmosphere: The scene explores the paradox between physical freedom and chosen constraint, suggesting that true captivity
+      may be spiritual while apparent freedom can be its own form of imprisonment
+  composition:
+    cameraAngle: Medium shot showing both empty cage and free bird in same frame
+    focus: Open birdcage door and free-flying seabird as opposing symbols
+    depth: Ornate cage in foreground, perched bird in middle distance, endless ocean representing ultimate freedom in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

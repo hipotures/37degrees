@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Child of Seaweed and Sin"
+  setting:
+    time: "1648 summer morning on rocky coastline"
+    location: "Tide pools and rocky shore near Hester's isolated cottage"
+    weather: "Bright morning sun with ocean breeze"
+  characters:
+    - appearance: "Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like features, bright intelligent eyes, flowing hair, otherworldly beauty"
+      clothing: "Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate dresses that make her appear like living embodiment of scarlet letter"
+      position: "Kneeling by tide pool arranging seaweed on her chest"
+      action: "Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering flowers and seashells, mimicking adult behaviors with disturbing accuracy"
+  scene:
+    mainElements: "Child creating letter A shape from green seaweed and placing it on her chest, tide pools reflecting sky, scattered shells and ocean debris"
+    details: "The innocent child unknowingly recreates her mother's symbol of shame using natural materials from the sea, transforming scarlet letter into green seaweed A placed carefully on her small chest. Her instinctive mimicry reveals deep understanding of symbolism she cannot comprehend. Tide pools create natural mirrors reflecting both sky and child, while scattered shells and seaweed suggest nature's own alphabet of signs and symbols."
+    background: "Rocky coastline with tide pools, distant view of cottage, ocean waves creating rhythmic sound"
+    atmosphere: "Childhood innocence unconsciously reenacting adult shame, nature providing alternative alphabet to human judgment, ocean as source of cleansing and renewal, no text or letters visible"
+  composition:
+    cameraAngle: "High angle looking down at child creating symbol in natural setting"
+    focus: "Green seaweed letter A on child's chest contrasting with natural surroundings"
+    depth: "Foreground: child with seaweed letter; middle: tide pools and rocks; background: ocean and distant cottage representing isolation"

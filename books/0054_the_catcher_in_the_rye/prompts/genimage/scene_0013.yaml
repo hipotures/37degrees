@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in December
+    location: Manhattan street corner where past and present intersect through memory
+    weather: December evening with lights creating nostalgic atmosphere
+  characters:
+  - appearance: Male, elderly figure representing accumulated life experience and historical perspective
+    clothing: Traditional overcoat and hat suggesting earlier era and accumulated dignity
+    position: Standing at familiar corner where decades of memory converge
+    action: Observing present scene while simultaneously experiencing layered memories of same location
+  scene:
+    mainElements: Street corner appearing simultaneously as current reality and historical palimpsest, present buildings overlapping
+      with memory of earlier structures, current pedestrians echoing past generations
+    details: Through elder's layered perspective, current street scene becomes transparent revealing underlying historical
+      layers, young faces appear as echoes of ancestors and previous generations, modern details blend with remembered past
+      creating temporal double exposure
+    background: Manhattan street appearing as historical timeline with past and present superimposed, building facades showing
+      both current condition and remembered earlier appearances, sky holding both current weather and memory of countless
+      previous evenings
+    atmosphere: Nostalgic layering of time and memory, sense of historical continuity and change, melancholy recognition of
+      time's passage mixed with wisdom of accumulated experience, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing temporal layering and historical perspective
+    focus: Elder figure serving as lens for historical continuity and accumulated memory
+    depth: 'Foreground: present moment details, middle ground: observer with historical perspective, background: layered temporal
+      reality'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

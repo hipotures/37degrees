@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shrinking Prison - Claustrophobic Collapse"
+  setting:
+    time: "Autumn night 1912, around 11:00 PM"
+    location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+    weather: "Stormy night with thunder creating irregular flashes of light"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Room walls slowly but visibly closing in, ceiling lowering with each flash of lightning, space becoming impossibly small"
+    details: "The walls move inward with mechanical precision, inch by inch. The ceiling descends like a slow-moving crusher. What began as a small room becomes a cage, then a coffin-sized box. Each lightning flash reveals the walls closer than before. The remaining furniture compresses and warps to fit the shrinking space. The window becomes a narrow slit, then disappears entirely. The air becomes thick and unbreathable."
+    background: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+    atmosphere: "Ultimate claustrophobia, walls as living entities, space itself becoming enemy, physical compression of mental state"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the crushing ceiling and closing walls"
+    focus: "Walls moving inward with mechanical inevitability"
+    depth: "Foreground: Gregor being compressed, middle: furniture warping to fit shrinking space, background: walls meeting in impossible proximity"

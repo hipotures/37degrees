@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Charitable Appearance of Benevolence"
+  setting:
+    time: "Late 1930s, afternoon"
+    location: "Formal office in Chicago business district, corporate headquarters"
+    weather: "Clear winter day"
+  characters:
+    - appearance: "60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence and control"
+      clothing: "expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably dressed conservative businessman"
+      position: "seated behind large wooden desk in position of authority"
+      action: "signing charitable donation papers while photographers document his generosity"
+  scene:
+    mainElements: "Impressive executive office with massive wooden desk, leather chairs, filing cabinets, and formal business atmosphere representing corporate power"
+    details: "Large ceremonial check made out to African American youth organization, photographers with flash cameras documenting the donation, framed certificates on walls showing previous charitable contributions, expensive fountain pen in hand, official papers spread across desk, business associates witnessing the event"
+    background: "Floor-to-ceiling windows overlooking Chicago cityscape, oil portraits of previous business leaders, heavy curtains, bookshelf with business volumes, safe visible in corner"
+    atmosphere: "Orchestrated display of white philanthropy and social conscience, carefully staged event to demonstrate benevolence while maintaining power structure, public relations exercise masking exploitation"
+  composition:
+    cameraAngle: "Medium shot from across the desk"
+    focus: "The donation ceremony as performance of charitable concern while maintaining systemic control"
+    depth: "Foreground shows the charitable documents, middle ground captures the businessman's performance of generosity, background reveals corporate power structure"

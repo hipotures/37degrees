@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Labyrinth made of floating words in unknown languages"
+  setting:
+    time: "Late 1980s, eternal twilight where time seems suspended"
+    location: "Abstract space representing the confusion of multicultural identity"
+    weather: "Windless atmosphere with letters drifting like snow"
+  characters:
+    - appearance: "40-year-old Indian man, conservative appearance, controlled demeanor"
+      clothing: "Impeccable gray wool suit, black bowler hat, formal British gentleman attire"
+      position: "Wandering through maze, head tilted upward reading floating text"
+      action: "Reaching toward words that dissolve at touch, growing increasingly lost"
+  scene:
+    mainElements: "Massive three-dimensional labyrinth constructed entirely of floating text in multiple scripts, walls formed by dense columns of words"
+    details: "Maze walls made of overlapping text in Arabic, Hindi, Urdu, English scripts, words floating at various heights creating pathways and barriers, some letters solid enough to block passage while others dissolve when approached, script changes color from gold to silver to transparent, words occasionally rearranging themselves to alter maze configuration, text includes fragments of religious verses, immigration documents, love letters, legal proclamations, certain words glowing brighter suggesting hidden meanings, no specific readable text visible due to artistic stylization"
+    background: "Infinite gray void extending beyond maze boundaries, occasional distant lights suggesting other text labyrinths"
+    atmosphere: "Overwhelming confusion of multiple languages and cultures, sense of being lost in translation between identities"
+  composition:
+    cameraAngle: "Interior maze view showing towering walls of script surrounding small figure"
+    focus: "Floating words as barriers to understanding and communication across cultures"
+    depth: "Foreground: readable text fragments, midground: lost figure, background: infinite maze extending into distance"

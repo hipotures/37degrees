@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, afternoon
+    location: Chicago South Side streets with political campaign materials
+    weather: Cold winter afternoon with gray overcast sky
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing before large political campaign poster
+    action: reading the threatening message, understanding its psychological purpose to maintain despair and submission
+  scene:
+    mainElements: Large political campaign poster prominently displayed showing prosecutor with threatening message designed
+      to intimidate African American community and maintain psychological control
+    details: thick bundle of paper money bills taken from Mary's purse, represents false hope of freedom and power through
+      crime, temporary symbol of wealth and possibility
+    background: Other campaign materials and public announcements reinforcing white political control, deteriorating neighborhood
+      buildings, limited economic opportunities visible in closed shops and businesses
+    atmosphere: Psychological warfare through political messaging, systematic campaign to maintain hopelessness and prevent
+      resistance, environmental reinforcement of white supremacy through public communications
+  composition:
+    cameraAngle: Medium shot showing figure dwarfed by large threatening political message
+    focus: The use of public messaging as tool of psychological oppression and social control
+    depth: Foreground shows the individual confronting the message, middle ground captures the intimidating poster, background
+      reveals neighborhood context of systematic oppression
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

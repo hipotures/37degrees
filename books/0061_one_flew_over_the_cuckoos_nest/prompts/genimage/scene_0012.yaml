@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, evening
+    location: Hospital room with impossible spatial relationships, walls and openings that violate physical laws
+    weather: Inconsistent lighting - some areas bright, others mysteriously dark
+  characters: No characters present in this scene
+  scene:
+    mainElements: Multiple doors of different sizes and styles, walls that meet at impossible angles, windows showing different
+      seasons simultaneously
+    details: Regular door opens to solid brick wall. Tiny door reveals vast landscape beyond. Door in floor opens to view
+      of identical hospital chamber from overhead perspective. Windows show contradictory views - one displaying summer forest,
+      another winter cityscape, third showing underwater scene. Walls meet at angles that add up to more than 360 degrees.
+      Gravity appears to work differently in different corners of room
+    background: Reality completely abandoned in favor of surreal architecture where each element operates by its own physical
+      laws
+    atmosphere: Disorienting spatial confusion, sounds echoing from impossible directions, sense that fundamental rules of
+      reality no longer apply. Architecture becomes enemy, designed to confuse and trap consciousness
+  composition:
+    cameraAngle: Impossible multi-perspective view showing all walls simultaneously
+    focus: Contradictory doors and windows, impossible architectural angles
+    depth: 'Foreground: normal door opening to brick wall. Middle: tiny door with vast landscape. Background: impossible wall
+      angles and contradictory windows'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

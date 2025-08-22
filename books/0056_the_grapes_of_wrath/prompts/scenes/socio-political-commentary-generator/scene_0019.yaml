@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Secret Exchange - Knowledge Passed in Shadow"
+  setting:
+    time: "1930s, pre-dawn darkness"
+    location: "Secluded area behind makeshift shelters in California migrant camp"
+    weather: "Dark early morning with minimal lighting"
+  characters:
+    - appearance: "Long thin man around fifty years old, bony elongated skull with abnormally high forehead showing blue veins at temples. Curved hard nose, neck thin as celery stalk."
+      clothing: "Worn denim overalls, blue work shirt, denim jacket, stained brown hat, canvas shoes"
+      position: "Standing in shadows speaking quietly with another worker"
+      action: "Secretly sharing forbidden knowledge about worker rights and organizing strategies, passing hidden information"
+  scene:
+    mainElements: "Clandestine meeting in shadows where workers share information about organizing and resistance, books or papers being secretly exchanged"
+    details: "Underground network of information sharing among oppressed workers. Secret exchange of forbidden books or papers about worker rights. Whispered conversations about organizing strategies. Hidden meeting in location safe from surveillance. Knowledge passed person to person outside official channels"
+    background: "Dark silhouettes of migrant shelters and camp structures providing cover for secret activities"
+    atmosphere: "Tension of forbidden knowledge sharing, whispered urgency, risk of discovery by authorities"
+  composition:
+    cameraAngle: "Medium shot capturing secretive exchange"
+    focus: "Transfer of dangerous knowledge between individuals committed to resistance"
+    depth: "Secret meeting in shadowed foreground while authority-controlled camp structures loom in background"

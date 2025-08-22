@@ -66,7 +66,7 @@
 0066_doctor_zhivago,socialist-realism-style.yaml,temporal-shift-generator.md
 0067_the_gulag_archipelago,scratchboard-style.yaml,socio-political-commentary-generator.md
 0068_one_day_in_the_life_of_ivan_denisovich,socialist-realism-style.yaml,sensory-immersion-generator.md
-0069_lolita,pop-art-style.yaml,character-perspective-generator.md
+0069_lolita,scratchboard-style.yaml,character-perspective-generator.md
 0070_on_the_road,abstract-expressionism-style.yaml,sensory-immersion-generator.md
 0071_beloved,afrofuturism-style.yaml,temporal-shift-generator.md
 0072_the_color_purple,naive-art-style.yaml,epistolary-fragments-generator.md

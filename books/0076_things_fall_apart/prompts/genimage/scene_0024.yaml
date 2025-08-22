@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, dawn following ultimate colonial victory
+    location: Small grove behind destroyed traditional compound where final resistance has been extinguished
+    weather: Cold gray dawn light illuminating the death of traditional resistance and cultural autonomy
+  characters:
+  - appearance: Tall, powerfully-built man in his late thirties to mid-forties, with imposing muscular frame typical of a
+      champion wrestler
+    clothing: Simple woven cloth wrapped around waist as loincloth, ankle bracelet marking his titled status
+    position: Hanging lifeless from tree branch, body swaying in morning breeze
+    action: Final act of traditional resistance transformed into colonial symbol of defeated indigenous culture
+  scene:
+    mainElements: Traditional compound ruins with last defender of cultural autonomy hanging from tree in ultimate defeat
+      of indigenous resistance
+    details: Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral
+      shrine now destroyed and abandoned. Wide-bladed cutting tool with wooden handle used for farming, clearing bush, and
+      as weapon when necessary dropped beneath hanging figure
+    background: Prosperous but tense household reflecting patriarch's rigid control and suppressed emotions now completely
+      destroyed by colonial conquest
+    atmosphere: Absolute colonial victory and cultural death symbolized by suicide of last traditional resistance leader who
+      cannot adapt to new colonial reality
+  composition:
+    cameraAngle: Medium shot showing tragic end of traditional resistance
+    focus: Hanging figure representing death of traditional culture and autonomous resistance
+    depth: Dead warrior in foreground, destroyed compound in middle ground, victorious colonial system in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

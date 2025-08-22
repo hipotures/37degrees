@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Catch-22 Explanation - Logic Trap Revealed"
+  setting:
+    time: "1944, morning"
+    location: "medical tent on Pianosa military base"
+    weather: "clear Mediterranean morning"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "standing tensely before medical desk"
+      action: "arguing desperately about mental fitness regulations"
+    - appearance: "40s, worried face with sad bags under eyes, appears to need medical attention himself"
+      clothing: "military doctor uniform"
+      position: "sitting in medical tent with medical equipment"
+      action: "explaining Catch-22 regulations with resigned cynicism"
+  scene:
+    mainElements: "cramped medical tent with examination table, medical supplies, desk covered with military paperwork and regulations"
+    details: "Doc Daneeka explains the paradoxical regulation: anyone requesting to be grounded for insanity proves their sanity by showing concern for safety, therefore must continue flying. The circular logic creates an inescapable trap. Medical equipment and regulation manuals surround the conversation."
+    background: "canvas tent walls, medical charts, bottles of medicine, typewriter for medical reports"
+    atmosphere: "claustrophobic bureaucratic trap where language becomes weapon, mixture of medical authority and military absurdity"
+  composition:
+    cameraAngle: "close-up alternating between faces during explanation"
+    focus: "expressions of growing horror and resigned cynicism"
+    depth: "tight framing emphasizes entrapment, regulation books visible in background representing systematic oppression"

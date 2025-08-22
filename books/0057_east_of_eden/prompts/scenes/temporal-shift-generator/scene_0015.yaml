@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Salinas town ballroom - ghostly overlays of dancers across five decades"
+  setting:
+    time: "1875, 1885, 1895, 1905, 1915 overlaid, showing 40 years of social gathering evolution, evening celebration"
+    location: "Grand ballroom in Salinas town hall, same space hosting community celebrations across generations"
+    weather: "Evening indoor celebration with warm lighting and festive atmosphere"
+  characters:
+    - appearance: "Multiple generations of families visible as transparent overlays dancing in period costumes from different eras - elderly couples from 1870s, middle-aged from 1890s, young couples from 1910s"
+      clothing: "Fashion evolution from Victorian formal wear with bustles and high collars to Edwardian elegance to early modern styles, men's clothing progressing from formal coats to dinner jackets"
+      position: "Dancing in same ballroom spaces but showing evolving dance styles and social patterns across decades"
+      action: "Formal structured dances of 1870s overlaid with waltz of 1890s overlaid with more modern couple dancing of 1910s, same families represented across generational time"
+  scene:
+    mainElements: "Ballroom maintaining elegant proportions while decorative elements evolve across decades - gaslights replaced by electric chandeliers, wooden dance floor polished smooth by generations of dancers, piano evolving from upright to grand model"
+    details: "Wall decorations showing holiday celebrations from different years overlaid, chairs along walls showing furniture style evolution, refreshment tables displaying period-appropriate food and drink containers, musicians' area adapting to different era instruments"
+    background: "Tall windows showing Salinas Valley at night with gradually increasing artificial lighting from farms and town development, community growing around constant social gathering tradition"
+    atmosphere: "Community continuity through changing times, social traditions adapting while maintaining essential human connection, music and dance transcending generational differences, celebration as eternal human need, no text or letters visible"
+  composition:
+    cameraAngle: "Grand ballroom view from elevated position showing full dance floor and surrounding details"
+    focus: "Central dance floor with overlaid generations as primary temporal elements"
+    depth: "Foreground shows period detail evolution, middle ground reveals dancing figures across time, background displays community development through windows"

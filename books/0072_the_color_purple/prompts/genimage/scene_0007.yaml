@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1920s, memory/imagination blend
+    location: Traditional West African village in fictional territory, pre-colonial indigenous community surrounded by lush
+      tropical forest
+    weather: Warm tropical climate with filtered sunlight through trees
+  characters:
+  - appearance: African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined
+      features, intelligent eyes, graceful bearing, represents education and worldliness
+    clothing: 'Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted
+      for African climate including white cotton pants designed by Celie'
+    position: Walking through village, appearing ethereal and dreamlike
+    action: Teaching children, appearing to write letters that float away like spirits
+  scene:
+    mainElements: Round thatched-roof huts built with natural materials, sacred leaf-roof plant central to culture, village
+      center for gatherings, paths connecting family compounds. Scene has ghostly, imagined quality
+    details: Tropical vegetation lush and green, villagers in traditional dress welcoming stranger, scenes blending reality
+      with imagination. Letters appear to write themselves in air, words floating like leaves
+    background: Dense forest surrounding village, sense of harmony between people and nature, exotic beauty filtered through
+      homesick imagination
+    atmosphere: Magical realism meets desperate longing, imagined connection across vast distance, hope creating its own reality
+      through visualization
+  composition:
+    cameraAngle: Floating, dreamlike perspective suggesting imagination
+    focus: Figure moving through exotic landscape, letters dissolving into mist
+    depth: 'Foreground: swirling letters and words, middle: sister figure, background: mysterious African landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

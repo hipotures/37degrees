@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1930s, late evening with stark lighting
+    location: Ranch bunkhouse during peak conflict moment
+    weather: Clear but cold night with harsh artificial lighting
+  characters:
+  - appearance: Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive
+      boxer stance
+    clothing: High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand
+    position: Standing rigid with back against wall, cornered but defiant
+    action: Both fists clenched at sides, jaw set in rage, eyes blazing with humiliation and fury, entire body coiled for
+      violence
+  - appearance: Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build
+      like a bull, huge hands
+    clothing: Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's
+    position: Crouched low in corner, trying to make massive frame smaller
+    action: Arms wrapped around head protectively, huge body trembling with fear and confusion, face hidden in defensive posture
+  scene:
+    mainElements: Bunkhouse interior with harsh overhead light creating sharp shadows, furniture pushed aside from conflict,
+      institutional walls seeming to close in
+    details: Personal belongings scattered and disturbed, playing cards trampled on floor, atmosphere of violated sanctuary,
+      cold institutional feeling emphasized
+    background: Other men pressed against opposite walls in fear, established order completely broken down, sense of civilization
+      failing
+    atmosphere: Peak vulnerability and rage captured visually, explosive tension with no release, harsh angular compositions
+      reflecting broken relationships
+  composition:
+    cameraAngle: High angle shot emphasizing trapped and cornered feeling
+    focus: The contrast between explosive aggression and cowering defense
+    depth: Foreground shows immediate violent tension, middle ground captures disrupted space, background reveals collapsed
+      social structure
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

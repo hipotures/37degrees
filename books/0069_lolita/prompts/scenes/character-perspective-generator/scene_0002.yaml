@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Living Room Observation - Adult Presence"
+  setting:
+    time: "1947, evening"
+    location: "Middle-class wooden frame house living room at 342 Lawn Street in New England town of Ramsdale"
+    weather: "Evening light fading through windows"
+  characters:
+    - appearance: "Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with heavy hips and rounded build"
+      clothing: "1940s middle-class aspirational clothing - tailored dresses, burgundy slacks with yellow silk blouse, attempting elegance"
+      position: "Standing with attempted poise, hands gesturing expressively, trying to appear sophisticated"
+      action: "Hosting, entertaining, showing off house features, smoking cigarettes with theatrical gestures"
+    - appearance: "Middle-aged man in his thirties, European features, well-dressed observer"
+      clothing: "Casual evening clothes, pressed shirt, observant posture"
+      position: "Seated in armchair, leaning forward with interest"
+      action: "Listening politely, eyes scanning room and hostess, evaluating domestic setting"
+  scene:
+    mainElements: "Gray-white wooden house interior with mismatched furniture, pink fuzzy toilet seat cover visible through bathroom door, rubber shower attachment, pretentious middle-class decorations attempting sophistication"
+    details: "Worn carpets with sunlight filtering through windows, cigarette smoke curling in evening air, domestic items scattered around room, sense of performance and pretension in home presentation"
+    background: "Middle-class American home interior, 1940s furniture and decorations, windows showing neighboring houses, domestic suburban setting"
+    atmosphere: "Suffocating domesticity masking underlying tension, forced cheerfulness, adult social interaction with hidden motives"
+  composition:
+    cameraAngle: "Eye level view from corner of room, observing adult interaction"
+    focus: "Two adults in conversation, domestic setting around them"
+    depth: "Foreground shows furniture and domestic items, middle ground shows adult figures, background shows home interior details"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Salinas Valley battlefield - Civil War, Indian Wars, and World War I overlaid showing recurring warfare"
+  setting:
+    time: "1860s, 1880s, and 1918 overlaid, showing 58 years of American warfare affecting same families, various seasons representing different conflicts"
+    location: "Fields and hills around Salinas Valley used for military training and affected by distant wars"
+    weather: "Different weather representing different conflicts - Civil War spring, Indian Wars summer, World War I autumn"
+  characters:
+    - appearance: "Three generations of Trask men visible as overlapping transparent figures - young Cyrus in Civil War uniform, middle-aged Adam in cavalry uniform, teenage Aron in World War I uniform"
+      clothing: "Military uniforms evolving across eras - Civil War blue wool with brass buttons, 1880s cavalry uniform with campaign modifications, 1918 modern military dress with updated equipment"
+      position: "Using same valley training grounds across different wars, same landscape serving military preparation for different conflicts"
+      action: "Civil War drilling overlaid with cavalry training overlaid with World War I preparation, same military gestures and formations adapted for different warfare technologies"
+  scene:
+    mainElements: "Valley landscape showing military use across generations - same hills used for training different military skills, fields showing accumulated evidence of military activity, distant views of families sending sons to different wars"
+    details: "Training equipment evolving across eras - Civil War muskets to cavalry sabers to World War I rifles, ground showing wear patterns from different military activities, military camps appearing and disappearing across time periods"
+    background: "Salinas Valley mountains providing eternal backdrop while human conflicts play out across generations, distant farms showing families affected by different wars, railroad infrastructure supporting different military logistics"
+    atmosphere: "War as recurring human tragedy affecting same families across generations, valley landscape unchanged while human conflicts evolve, pattern of young men leaving for distant wars, same grief experienced by different generations, no text or letters visible"
+  composition:
+    cameraAngle: "Valley view showing military training grounds and family departure points across multiple wars"
+    focus: "Central training area and departure points as anchors for military preparation across generations"
+    depth: "Foreground shows military equipment evolution, middle ground reveals overlapping military figures, background provides stable valley reference across different war periods"

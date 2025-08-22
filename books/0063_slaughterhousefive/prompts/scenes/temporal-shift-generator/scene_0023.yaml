@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Protest Movements Across Centuries in Same Square"
+  setting:
+    time: "Multiple historical periods showing recurring social movements"
+    location: "Town square showing protest tradition across different centuries"
+    weather: "Various weather conditions from different protest events across time"
+  characters:
+    - appearance: "Protesters from different historical eras appearing as temporal overlays"
+      clothing: "Period-appropriate protest attire from various decades - 1960s Vietnam era, 1940s labor movements, 1920s suffrage, Civil War era abolition"
+      position: "Multiple generations of protesters occupying same public space across centuries"
+      action: "Peaceful demonstration activities spanning historical periods showing recurring patterns of social change, no text or letters visible"
+  scene:
+    mainElements: "Public square architecture evolving across centuries while maintaining function as gathering place for civic expression"
+    details: "Protest signs and banners from different eras, demonstration equipment evolving from simple placards to modern sound systems, crowd organization methods changing with technology"
+    background: "Government buildings and civic architecture showing institutional continuity while protest methods evolve, transportation in background showing technological progress"
+    atmosphere: "Hopeful human tradition of peaceful civic engagement transcending specific historical issues, democratic participation as eternal human pattern"
+  composition:
+    cameraAngle: "Elevated view of town square showing multiple protest eras as transparent layers"
+    focus: "Civic square as constant location for democratic expression across time"
+    depth: "Multiple historical periods showing continuity of peaceful social change movements"

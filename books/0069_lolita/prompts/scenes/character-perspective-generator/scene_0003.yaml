@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Couch Scene - Dangerous Proximity"
+  setting:
+    time: "1947, afternoon"
+    location: "Living room in middle-class wooden frame house, New England"
+    weather: "Afternoon light streaming through windows"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, seated close on couch"
+      clothing: "Casual robe or house clothes, relaxed domestic attire"
+      position: "Seated on couch, positioned uncomfortably close"
+      action: "Reading newspaper, making conversation, body language suggesting hidden tension"
+  scene:
+    mainElements: "Living room couch with floral pattern, coffee table with afternoon snacks, red apple placed prominently, magazines scattered nearby"
+    details: "Sunlight filtering through curtains, domestic afternoon setting, apple with bright red color, casual snack arrangement, sense of ordinary moment with underlying threat"
+    background: "Middle-class living room, afternoon domestic setting, furniture and household items typical of 1940s American home"
+    atmosphere: "Deceptively normal domestic afternoon scene with undercurrent of adult threat, false casualness masking danger"
+  composition:
+    cameraAngle: "Eye level view from position next to adult on couch, uncomfortably close perspective"
+    focus: "Adult figure beside viewer, red apple and domestic items on coffee table"
+    depth: "Foreground shows immediate couch area and snacks, middle ground shows adult presence, background shows living room interior"

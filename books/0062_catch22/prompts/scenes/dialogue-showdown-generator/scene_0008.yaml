@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Power Across the Table - Interrogation Divides"
+  setting:
+    time: "1944, evening"
+    location: "investigation office in administrative building on Pianosa base"
+    weather: "Mediterranean twilight"
+  characters:
+    - appearance: "32 years old, narrow pale face, light brown hair, brown eyes, delicate almost ascetic build"
+      clothing: "chaplain uniform with cross on collar"
+      position: "sitting nervously before authority figures"
+      action: "being intimidated by aggressive questioning while experiencing deja vu episodes"
+    - appearance: "40s, bald stocky dark man with flaccid build and shapeless paunch, rimless glasses, morally weak physical features"
+      clothing: "lieutenant colonel uniform with rimless spectacles"
+      position: "standing beside interrogation table"
+      action: "conducting intimidating interrogation with cynical manipulation"
+  scene:
+    mainElements: "stark interrogation room with metal table creating barrier between questioner and subject, harsh overhead lighting, filing cabinets with investigation records"
+    details: "Chaplain Tappman sits alone on one side of metal table while aggressive officers tower over him from the other side. The table creates physical and psychological barrier emphasizing power imbalance. Harsh lighting casts dramatic shadows. Chaplain's delicate features show confusion and fear under aggressive questioning about loyalty and suspicious activities."
+    background: "bare military office walls, filing cabinets with investigation documents, single harsh overhead light fixture, no windows"
+    atmosphere: "institutional intimidation and paranoid investigation, mixture of religious vulnerability and military persecution"
+  composition:
+    cameraAngle: "low angle from chaplain's perspective emphasizing interrogators' dominance"
+    focus: "power dynamics across dividing table with harsh lighting effects"
+    depth: "foreground shows table barrier, middle ground captures intimidation interaction, background reveals oppressive institutional environment"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Learning Perfect Conformity"
+  setting:
+    time: "1951, morning"
+    location: "Educational facility training systematic elimination of individual thought"
+    weather: "Sterile indoor environment with uniform lighting"
+  characters:
+    - appearance: "Children and adults learning identical gestures and responses, expressions becoming increasingly uniform"
+      clothing: "Students in matching educational uniforms, instructors in official teaching attire"
+      position: "Arranged in training formations, mirrors reflecting endless repetition"
+      action: "Practicing identical salutes, reciting same phrases, copying approved facial expressions"
+  scene:
+    mainElements: "Training mirrors showing students copying approved expressions, instructors demonstrating correct posture and gestures, charts displaying acceptable versus unacceptable behaviors"
+    details: "Students practicing until all individual variation disappears, measuring devices ensuring uniform height and positioning, approved emotion charts on walls, elimination of personal mannerisms"
+    background: "Systematic training extending through multiple rooms, mass production of identical citizens, conformity enforcement apparatus"
+    atmosphere: "Methodical elimination of personal characteristics, training in collective identity, systematic suppression of individual expression"
+  composition:
+    cameraAngle: "Multiple angles showing systematic training process"
+    focus: "Process of transforming individuals into identical units"
+    depth: "Foreground shows individual training details, middle ground reveals systematic method, background demonstrates mass conformity production"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1851, evening
+    location: Metaphorical representation of plantation as puppet show with human marionettes
+    weather: Dramatic evening lighting creating long shadows
+  characters:
+  - appearance: Multiple enslaved people positioned like marionettes with invisible strings suggesting external control
+    clothing: Work clothes that appear to move as if controlled by unseen forces
+    position: Arranged in theatrical poses suggesting manipulation by external powers
+    action: Moving in synchronized patterns suggesting loss of free will and autonomous action
+  scene:
+    mainElements: Human figures arranged like puppets in performance, suggestion of invisible strings or controls, puppet
+      theater staging with plantation as backdrop
+    details: Movement patterns suggesting external control rather than free choice, positioning that creates illusion of strings
+      attached to limbs, choreographed actions lacking individual initiative, theatrical lighting creating puppet show atmosphere
+    background: Plantation buildings arranged like puppet theater set, authority figures positioned like puppet masters, economic
+      system represented as controlling mechanism
+    atmosphere: Human beings reduced to controlled performers in economic theater, loss of individual agency through systematic
+      manipulation, theatrical presentation of real human tragedy
+  composition:
+    cameraAngle: Theatrical perspective showing puppet-like arrangement of human figures
+    focus: The puppet metaphor as symbol of systematic control and loss of human agency
+    depth: Foreground shows detailed puppet-like positioning and movement, middle ground reveals the theatrical staging, background
+      suggests the controlling forces manipulating human lives
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

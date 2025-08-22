@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "End of Conversation - Escape to Freedom"
+  setting:
+    time: "1944, late morning"
+    location: "airfield edge leading toward Mediterranean coast"
+    weather: "bright Mediterranean morning with sea breeze"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "running across dusty airfield toward distant coastline"
+      action: "escaping military base toward uncertain freedom represented by sea"
+  scene:
+    mainElements: "wide airfield with bomber aircraft, control tower, military equipment giving way to natural Mediterranean coastline"
+    details: "Yossarian runs across dusty airfield leaving behind rows of military tents and bomber aircraft. His figure moves from institutional military environment toward open Mediterranean horizon symbolizing uncertain but chosen freedom. Behind him lies systematic oppression; ahead lies dangerous but authentic possibility of escape to neutral territory."
+    background: "military base with aircraft and equipment transitioning to natural Mediterranean landscape and distant sea horizon"
+    atmosphere: "desperate hopeful leap toward uncertain but authentic freedom, mixture of military pursuit and natural liberation"
+  composition:
+    cameraAngle: "wide shot showing figure running toward horizon"
+    focus: "movement from institutional confinement toward natural freedom"
+    depth: "foreground shows abandoned military environment, middle ground captures escaping figure, background reveals horizon of possibility and uncertain freedom"

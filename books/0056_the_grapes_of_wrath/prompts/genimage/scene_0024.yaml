@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1930s, noon
+    location: Massive industrial complex in California Central Valley
+    weather: Harsh industrial lighting eliminating natural environment
+  characters:
+  - appearance: Human figures being consumed by massive mechanical system, appearing as fuel for industrial machine rather
+      than individuals.
+    clothing: Work clothes being processed through mechanical system like raw materials
+    position: Entering machine-like system at one end, emerging as processed components at other end
+    action: Being systematically processed through dehumanizing industrial system that transforms living people into mechanical
+      components
+  scene:
+    mainElements: Enormous mechanical system that literally consumes human beings as fuel, visualizing economic system that
+      treats people as expendable resources
+    details: Shocking allegorical image of economic system as human-consuming machine. Workers enter one end as living individuals
+      and emerge as processed labor units. Mechanical gears and conveyor systems process human input into economic output.
+      Industrial architecture designed to consume human life and dignity. System appears self-sustaining through human consumption
+    background: Industrial landscape extending beyond view, suggesting endless mechanical consumption of human resources
+    atmosphere: Terrifying realization of system that literally feeds on human life and dignity to maintain its operation
+  composition:
+    cameraAngle: Wide shot showing scale of human-consuming industrial system
+    focus: Mechanical processing of human beings as industrial raw material
+    depth: Human input in foreground flows through processing system in middle ground to emerge as dehumanized output in background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1947, summer day
+    location: Hourglass Lake recreational area in New England countryside
+    weather: Bright summer day, clear skies
+  characters:
+  - appearance: Middle-aged woman in her thirties, brownish hair in styled waves, wide-set sea-green eyes, full figure with
+      heavy hips and rounded build
+    clothing: Swimming attire with black rubber swimming cap
+    position: Standing in shallow lake water, animated in conversation
+    action: Gesturing while discussing boarding school plans, speaking enthusiastically about future arrangements
+  - appearance: Middle-aged man in his thirties, European features, standing on shore
+    clothing: Summer casual clothes, remaining dry on lakeside
+    position: Standing on rocky shore, hands in pockets, listening intently
+    action: Nodding agreement, watching swimmer, calculating expression while processing boarding school discussion
+  scene:
+    mainElements: Clear lake water with rocky shoreline, summer recreational setting, other families visible in distance
+    details: Sunlight sparkling on water surface, woman in swimming cap discussing boarding school plans with enthusiasm,
+      man on shore listening with hidden agenda
+    background: American lake recreational area, families enjoying summer day, natural outdoor setting with trees and shoreline
+    atmosphere: Deceptively pleasant summer outing masking adult decisions that will separate child from normal life, false
+      cheerfulness hiding manipulation
+  composition:
+    cameraAngle: Eye level view from water's edge, watching adult conversation about future plans
+    focus: Two adults discussing boarding school arrangement, one in water, one on shore
+    depth: Foreground shows lake water and shore, middle ground shows adult figures in conversation, background shows recreational
+      lake setting
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

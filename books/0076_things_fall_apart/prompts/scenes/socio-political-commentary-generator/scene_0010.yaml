@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Censorship of Traditional Knowledge and Stories"
+  setting:
+    time: "Late 1890s, evening during forced cultural suppression"
+    location: "Traditional storytelling area within Igbo village compound now under missionary influence"
+    weather: "Dimming twilight symbolizing cultural darkness and suppression"
+  characters:
+    - appearance: "Stern-faced European missionary with rigid, uncompromising expression and burning zealous eyes"
+      clothing: "Formal, austere black missionary attire reflecting his harsh, uncompromising nature"
+      position: "Standing over traditional elders with authority to silence cultural transmission"
+      action: "Actively suppressing traditional stories, songs, and cultural knowledge as pagan corruption"
+  scene:
+    mainElements: "Traditional gathering space where elders once shared ancestral wisdom now disrupted by foreign religious authority prohibiting cultural expression"
+    details: "Wooden drums of various sizes (ekwe), metal gongs (ogene), ceramic udu pots creating rhythmic foundation for rituals now forbidden and silenced. Traditional stories about ancestors, spirits, and cultural heroes declared evil and banned from community memory"
+    background: "Ordered traditional society with deep spiritual connection to land and ancestors experiencing systematic cultural erasure"
+    atmosphere: "Forced silence and cultural amnesia as traditional knowledge transmission is criminalized and community memory actively destroyed"
+  composition:
+    cameraAngle: "Medium shot showing suppression of cultural expression"
+    focus: "Authoritarian figure silencing traditional cultural practices"
+    depth: "Missionary authority in foreground, silenced elders in middle ground, abandoned cultural artifacts in background"

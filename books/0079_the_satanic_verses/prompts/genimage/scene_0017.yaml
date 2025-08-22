@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, impossible weather creating visual paradox
+    location: Open field representing internal emotional landscape
+    weather: Inverted precipitation with rain falling upward from ground to sky
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Standing beneath upward rain, arms spread wide to catch falling-up droplets
+    action: Looking skyward with expression of wonder and confusion as water rises around him
+  scene:
+    mainElements: Dark storm cloud positioned at ground level, releasing heavy rain that flows upward into clear blue sky
+      above
+    details: Massive cumulonimbus cloud sitting on grass like grounded weather system, rain droplets emerging from cloud base
+      and traveling upward in perfectly straight lines, each droplet catching sunlight as it ascends, clear sky above receiving
+      rain without forming new clouds, ground beneath cloud remaining completely dry despite precipitation source, inverted
+      gravity affecting only water while figure remains earthbound, upward rain creating vertical rivers in air, some droplets
+      reaching impossible heights before disappearing, no text or letters visible
+    background: Peaceful countryside with rolling hills, normal weather visible in distance where laws of physics operate
+      correctly
+    atmosphere: Emotional turmoil manifesting as impossible meteorology, inner chaos defying natural order
+  composition:
+    cameraAngle: Side view showing clear trajectory of upward-flowing rain
+    focus: Inverted storm representing emotions and thoughts moving against natural direction
+    depth: 'Foreground: grounded storm cloud, midground: figure catching reverse rain, background: normal landscape obeying
+      physics'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1952, late night
+    location: Hidden basement where prohibited information is secretly shared
+    weather: Candlelight creating intimate atmosphere of conspiracy
+  characters:
+  - appearance: Small group of individuals with intense expressions, sharing forbidden knowledge with extreme caution
+    clothing: Ordinary clothing that conceals their dangerous activity, faces showing both fear and determination
+    position: Gathered closely around hidden books, positioned to watch for detection
+    action: Reading forbidden texts, copying prohibited information, passing secret messages
+  scene:
+    mainElements: Hidden books and documents containing banned information, secretive gathering of people sharing dangerous
+      knowledge, candles providing concealed lighting
+    details: Books carefully hidden from official detection, handwritten copies of prohibited texts, individuals memorizing
+      information to preserve it, constant vigilance for discovery
+    background: Underground network of knowledge preservation, systematic effort to maintain forbidden truth, resistance to
+      information control
+    atmosphere: Dangerous preservation of truth against systematic lies, intellectual resistance to mental control, hope maintained
+      through shared knowledge
+  composition:
+    cameraAngle: Intimate close-ups on forbidden texts contrasted with surveillance awareness
+    focus: Preservation of forbidden knowledge as act of resistance
+    depth: Foreground shows prohibited information, middle ground reveals secretive sharing, background suggests network of
+      hidden resistance
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

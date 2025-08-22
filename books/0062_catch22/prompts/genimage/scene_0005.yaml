@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1944, late afternoon
+    location: Colonel's office in administrative barracks on Pianosa base
+    weather: Mediterranean heat with dust in air
+  characters:
+  - appearance: 36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture
+      of arrogance and insecurity
+    clothing: immaculate pressed colonel uniform with insignia
+    position: sitting behind desk with hands clenched
+    action: struggling to process naked protest incident while maintaining authority
+  scene:
+    mainElements: military office with large wooden desk, official paperwork scattered, framed military photographs, filing
+      cabinets
+    details: Colonel Cathcart sits alone after witnessing Yossarian's naked medal ceremony protest. His usual confidence is
+      shattered by unprecedented act of rebellion. Papers lie forgotten on desk as he contemplates how to maintain order and
+      his career advancement when faced with such blatant disrespect for military authority.
+    background: wooden office walls with military maps, regulation manuals, communication equipment, window showing base activity
+    atmosphere: bureaucratic power confronting its limitations, mixture of authority confusion and suppressed panic about
+      maintaining control
+  composition:
+    cameraAngle: medium shot focused on colonel's disturbed expression
+    focus: facial expression revealing loss of confident authority
+    depth: foreground shows clenched hands and scattered papers, middle ground captures psychological disturbance, background
+      shows institutional military setting
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

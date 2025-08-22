@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hunched figures in rain with faces turned to shadows"
+  setting:
+    time: "1930s, evening during rainstorm"
+    location: "Ranch bunkhouse interior while storm rages outside"
+    weather: "Heavy rain drumming on roof and walls, darkness outside"
+  characters:
+    - appearance: "Black man middle-aged, lean face lined with deep black wrinkles, thin pain-tightened lips lighter than his face, deep-set eyes that glitter with intensity, crooked spine from horse kick"
+      clothing: "Work clothes, boots, spectacles with gold rims hanging on nail"
+      position: "Hunched on straw bed in corner of small room, back to wall"
+      action: "Face turned away into deep shadow, shoulders curved inward defensively, hands clutched together in lap"
+    - appearance: "Young woman late teens to early 20s, full red-painted lips, heavily made-up wide-set eyes, red fingernails, hair in small sausage curls, attractive but artificial appearance"
+      clothing: "Cotton house dress and red mules with small bouquets of red ostrich feathers, inappropriate for ranch setting"
+      position: "Standing in doorway silhouetted against stormy darkness"
+      action: "Arms wrapped around herself protectively, face turned down in despair, bright clothing now appearing garish and pathetic"
+  scene:
+    mainElements: "Small segregated room with single dim bulb fighting against storm darkness, rain visible through window creating patterns on walls"
+    details: "Harsh contrast between warm interior light and cold storm outside, sense of isolation intensified by weather, personal belongings looking meager and temporary"
+    background: "Sound of rain overwhelming, wind rattling windows, darkness pressing in from all sides"
+    atmosphere: "Despair and conflict in harsh angular compositions, social barriers reinforced by physical storm, hope extinguished by cruel reality"
+  composition:
+    cameraAngle: "Low angle shot emphasizing oppressive ceiling and corners"
+    focus: "The crushing weight of isolation and social rejection"
+    depth: "Foreground shows defensive postures, middle ground captures storm-battered shelter, background reveals overwhelming darkness"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Infinite Void - Agoraphobic Expansion"
+  setting:
+    time: "Autumn night 1912, around midnight"
+    location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+    weather: "Storm passing, leaving eerie silence broken only by distant sounds"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Room walls suddenly vanishing, revealing endless void stretching in all directions, familiar space becoming terrifying emptiness"
+    details: "The walls dissolve into mist, revealing an infinite black void dotted with distant stars. The floor extends endlessly in all directions like a vast plane. The remaining furniture - sofa and picture - float isolated like islands in an ocean of nothingness. Voices of family members echo from impossible distances. The familiar becomes dwarfed by incomprehensible vastness. Wind howls across the empty space carrying sounds from other times and places."
+    background: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+    atmosphere: "Crushing loneliness amplified by infinite space, agoraphobic terror of endless emptiness, insignificance in face of void"
+  composition:
+    cameraAngle: "Extreme wide shot showing tiny figure in vast empty space"
+    focus: "Isolated furniture floating in endless void with Gregor dwarfed by emptiness"
+    depth: "Foreground: Gregor tiny in frame, middle: floating furniture islands, background: infinite starry void extending beyond sight"

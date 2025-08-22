@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1930s, late night
+    location: Makeshift homeless encampment on outskirts of California agricultural town during Great Depression
+    weather: Dark night with single lamp providing secretive illumination
+  characters:
+  - appearance: Tall man in his late twenties, dark brown eyes with brown pigment flecks, high wide cheekbones, strong deep
+      lines down his cheeks. Long upper lip covering protruding teeth. Weathered face with prison pallor.
+    clothing: Worn gray work clothes, denim jacket, heavy work boots. Hands show thick calluses and rough skin from labor.
+    position: Crouched near wall examining hidden symbol
+    action: Discovering symbol of resistance painted secretly on wall, understanding its significance for worker organization
+  scene:
+    mainElements: Small symbol of unity or resistance painted in hidden location, representing underground communication among
+      oppressed workers
+    details: Powerful symbol of hope and resistance hidden from authority view. Simple mark on wall carries deep meaning for
+      worker solidarity. Symbol connects isolated individuals to larger movement for justice. Hidden in location where authorities
+      cannot easily detect. Represents forbidden knowledge and collective strength
+    background: Ramshackle shelters built from cardboard, tar paper, scrap metal and salvaged wood, muddy pathways between
+      structures, communal water source
+    atmosphere: Secretive atmosphere of hidden resistance, tension of discovery, whispered significance of underground communication
+  composition:
+    cameraAngle: Close-up on hidden symbol and discovering hand
+    focus: Small but significant mark representing much larger movement for justice
+    depth: Symbol in immediate foreground, discovering person in middle ground, watchful camp environment in background showing
+      need for secrecy
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

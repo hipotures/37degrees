@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Infinite Void - Agoraphobic Expansion"
+  setting:
+    time: "Early 1960s, unknown time"
+    location: "Hospital room that has become vast empty space extending beyond visible horizons"
+    weather: "Dim lighting lost in infinite space"
+  characters:
+    - appearance: "40+ year old man described as flat nervous man with handsome movie-like face. Wide but thin shoulders often hunched trying to hide. Delicate feminine build. Most characteristic feature: extraordinarily long white delicate hands like carved from soap"
+      clothing: "Standard patient hospital uniform"
+      position: "Sitting with shoulders curled inward, ashamed of his expressive hand gestures"
+      action: "Speaking intellectually while making elegant hand movements he tries to hide, displaying refined but nervous mannerisms"
+  scene:
+    mainElements: "Familiar hospital room stretched to infinite dimensions, single figure lost in vast emptiness"
+    details: "Room walls have disappeared into distant horizon leaving only endless floor plane. Ceiling stretched infinitely high into black void. Familiar objects - chairs, tables, medical equipment - scattered across vast distance like islands in ocean. Sound echoes for impossible distances. Air has thinned making breathing difficult. Horizon shimmers with heat distortion despite cold institutional temperature"
+    background: "Infinite emptiness punctuated by occasional familiar institutional elements lost in distance"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Overwhelming sense of cosmic isolation, fear of endless space and abandonment"
+  composition:
+    cameraAngle: "Extreme wide shot showing figure lost in infinite space"
+    focus: "Tiny isolated figure with elegant gestures in vast emptiness"
+    depth: "Foreground: empty floor extending endlessly. Middle: small lonely figure. Background: infinite void with scattered institutional objects"

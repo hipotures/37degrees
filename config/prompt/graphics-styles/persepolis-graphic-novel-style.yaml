@@ -1,0 +1,76 @@
+styleName: Persepolis Graphic Novel Style
+description: Stark black and white graphic novel style inspired by Marjane Satrapi's Persepolis, featuring bold expressionist lines, shadow theater aesthetics, and universally relatable character abstraction
+aiPrompts:
+  basePrompt: Persepolis graphic novel style, stark black and white, bold expressionist lines, shadow theater, simple abstract characters, inky shadows, felt-tip pen drawing
+  negativePrompt: color, photorealistic, detailed faces, complex backgrounds, gradients, soft edges, watercolor, painting
+  styleKeywords:
+  - graphic novel
+  - black and white
+  - expressionist
+  - shadow theater
+  - stark contrast
+  - abstract characters
+  - bold lines
+  - inky shadows
+visualElements:
+  colorPalette:
+    primary:
+    - pure black (#000000)
+    - paper white (#FFFFFF)
+    secondary:
+    - single accent color (for present-day scenes only)
+    background: pure white paper
+    usageNotes: Strictly monochromatic black and white, occasional single color for flashbacks/present scenes
+    saturation: none (pure black and white only)
+    contrast: maximum (stark black on white)
+  lineArt:
+    style: bold, thick expressionist lines with felt-tip pen quality
+    weight: heavy, varied thickness for dramatic effect
+    color: pure black (#000000)
+    texture: organic felt-tip pen texture, hand-drawn quality
+    edgeTreatment: sharp, confident strokes with slight irregularities
+  lighting:
+    type: dramatic chiaroscuro with heavy shadows
+    direction: high contrast directional lighting
+    intensity: extreme (pure black shadows, pure white highlights)
+    shadows:
+      style: solid black areas, geometric shadow shapes
+      color: pure black (#000000)
+      opacity: completely solid
+    highlights: pure white paper areas, no gradation
+  rendering:
+    technique: felt-tip pen on paper, traditional hand-drawing
+    texture: visible paper grain through black ink areas
+    detailLevel: simplified abstract forms, minimal facial features
+    finish: matte ink on paper, organic hand-drawn imperfections
+  perspective: slightly naive, child-like viewpoint, paranoid scale relationships
+  mood:
+    overall: dramatic, stark, emotionally powerful
+    emotion: universality through abstraction, political tension, coming-of-age
+    tempo: deliberate, contemplative with dramatic moments
+    keywords:
+    - stark
+    - dramatic
+    - universal
+    - abstract
+    - expressionist
+    - bold
+    - emotional
+    - paranoid scale
+  postProcessing:
+    effects:
+    - shadow theater silhouettes for historical scenes
+    - puppet show layered effects
+    - geometric shadow patterns
+    - high contrast ink bleeding
+    filters: none (pure black and white only)
+    adjustments:
+      saturation: zero (monochrome only)
+      contrast: maximum
+  stylePrecedents:
+  - Marjane Satrapi Persepolis
+  - German Expressionist cinema
+  - Art Spiegelman Maus
+  - Ludwig Bemelmans Madeline
+  - Shadow theater traditions
+  - East/West graphic novel fusion

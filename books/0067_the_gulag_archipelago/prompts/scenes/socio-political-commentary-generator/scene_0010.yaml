@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Erasing Memory and Truth"
+  setting:
+    time: "1950, late afternoon"
+    location: "Public library and cultural centers undergoing systematic information control"
+    weather: "Dim interior lighting creating atmosphere of suppression"
+  characters:
+    - appearance: "Uniformed officials systematically removing materials, librarians watching helplessly"
+      clothing: "Officials in NKVD uniforms with document bags, librarians in simple work clothes"
+      position: "Officials loading books into boxes, librarians standing aside with resignation"
+      action: "Removing books from shelves, painting over murals, replacing artwork with approved images"
+  scene:
+    mainElements: "Empty library shelves where books once stood, workers painting over historical murals with white paint, approved propaganda posters being mounted over original artwork"
+    details: "Boxes of removed books ready for destruction, paint brushes covering historical figures and events, new portraits of approved leaders replacing removed images, censorship stamps on remaining materials"
+    background: "Systematic cleansing extending throughout building, cultural artifacts being replaced with approved versions, information control apparatus in full operation"
+    atmosphere: "Deliberate erasure of historical memory, control of knowledge and culture, replacement of truth with approved narrative"
+  composition:
+    cameraAngle: "Medium shots emphasizing systematic destruction"
+    focus: "Process of erasing and replacing cultural memory"
+    depth: "Foreground shows detailed destruction work, middle ground reveals scope of censorship, background demonstrates institutional control"

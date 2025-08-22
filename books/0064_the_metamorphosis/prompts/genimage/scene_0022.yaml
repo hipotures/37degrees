@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late autumn night 1912, around 10:00 PM
+    location: Former bedroom now used as storage space, cluttered with unwanted household items
+    weather: Storm winds howling, rattling everything loose
+  characters:
+  - appearance: Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately
+      three feet long
+    clothing: No clothing - naked insect body with hard brown shell and soft pale belly divided in segments
+    posture: Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving
+    action: Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls
+  scene:
+    mainElements: Violent clashing of pure colors with no objects to contain them, swirling vortexes of light and shadow
+    details: Colors war against each other in mid-air - violent reds crash against electric blues, creating explosions of
+      purple energy. Acidic yellows burn through patches of deep green. Swirling vortexes of black and white spiral around
+      each other, creating hypnotic patterns that hurt to observe. The colors have weight and force, pushing against each
+      other, creating winds and pressure. Gregor's form is caught in this chromatic storm, his brown carapace reflecting prismatic
+      flashes.
+    background: Dusty furniture piled up, ash box, broken items, cobwebs in corners, everything covered in grime
+    atmosphere: Synesthetic chaos where color becomes sound and force, complete sensory overload, perception fragmenting under
+      assault
+  composition:
+    cameraAngle: Swirling, disorienting camera movement following color currents
+    focus: Violent interaction of pure colors in constant motion
+    depth: 'Foreground: aggressive color waves, middle: Gregor caught in chromatic storm, background: reality completely obscured
+      by color chaos'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

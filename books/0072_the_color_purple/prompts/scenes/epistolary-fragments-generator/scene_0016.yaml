@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Version - Joyful Community Gathering"
+  setting:
+    time: "1930, summer afternoon"
+    location: "Converted barn structure in rural Georgia serving as community gathering place for African American social life, hidden from white authorities"
+    weather: "Bright summer day with windows open"
+  characters:
+    - appearance: "Large, powerful African American woman aged 20s-60s, muscular build, light brown skin with lustrous quality, hair worn in tight braids, physical strength that embodies her inner spirit, battle scars from confrontation with racist system"
+      clothing: "Sturdy work clothes befitting her strength, simple dresses that allow freedom of movement, later worn servant's uniforms during imprisonment, eventual return to dignified working-class attire"
+      position: "Center of dance floor, arms raised in celebration"
+      action: "Dancing joyfully with community, laughing and spinning"
+  scene:
+    mainElements: "Rough wooden building with small stage area, makeshift bar, dance floor, oil lamps providing warm golden lighting, tables and chairs arranged around performance space. Scene full of life and celebration"
+    details: "Sunlight streaming through windows, people clapping and dancing, food on tables, children playing around edges, community united in celebration and joy"
+    background: "Musicians playing in corner, families gathered together, atmosphere of unity and strength, temporary escape from hardships"
+    atmosphere: "Community celebration and strength, joy as resistance, collective power and support providing refuge from outside pressures"
+  composition:
+    cameraAngle: "Wide shot capturing community celebration"
+    focus: "Central dancing figure surrounded by supporting community"
+    depth: "Foreground: celebrating dancers, middle: main figure, background: musicians and families"

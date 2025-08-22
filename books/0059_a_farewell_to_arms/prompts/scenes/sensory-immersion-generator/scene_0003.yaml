@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rough hospital blanket against healing skin texture contrast"
+  setting:
+    time: "1917 spring, morning"
+    location: "Converted building serving as American military hospital in elegant Milan, 1917-1918, sophisticated urban medical facility"
+    weather: "Warm spring morning with gentle sunlight"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Piżama szpitalna, później mundur oficerski na przepustkę"
+      position: "Propped up in hospital bed with leg elevated in cast"
+      action: "Running fingers along coarse wool blanket edge while watching morning light"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "V.A.D. uniform with light blue cotton dress, white apron with red cross symbol, white headscarf-style cap introduced in 1915, carries riding crop of deceased fiancé"
+      position: "Sitting on bed edge arranging pillows"
+      action: "Adjusting smooth cotton pillowcase with gentle finger movements"
+  scene:
+    mainElements: "Clean modern medical rooms with new furniture, large wardrobe with mirror, adjustable window blinds, balcony overlooking red tile rooftops and chimneys of Milan cityscape"
+    details: "Coarse military-issue wool blanket with visible weave pattern creating textural ridges under fingertips, smooth cotton hospital linens contrasting dramatically with rough wool surface, healing skin showing different sensitivities to various fabric textures, gentle morning light revealing fiber details in high contrast, pillow fabric appearing silk-smooth compared to scratchy blanket material, fingers tracing texture boundaries where different materials meet, tactile exploration revealing comfort gradients, no text or letters visible"
+    background: "Bright sunlight streaming through open blinds onto clean hospital room surfaces"
+    atmosphere: "Sanctuary of healing and romance, bright sunlight streaming through open blinds, intimate private space removed from war, sounds of civilian city life replacing battlefield noise"
+  composition:
+    cameraAngle: "Close-up view focused on hands exploring fabric textures"
+    focus: "Contrast between rough wool and smooth cotton textures under exploring fingers"
+    depth: "Foreground shows detailed fabric texture comparison, middle ground captures hands and bedding arrangement, background reveals sunlit hospital room"

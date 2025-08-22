@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Villagers' Protective Instinct - Community Defense View"
+  setting:
+    time: "Early 1920s evening"
+    location: "Village street with K. being observed by suspicious residents"
+    weather: "Cold winter evening with lamplight from windows"
+  characters:
+    - appearance: "Various village peasants in work clothes"
+      clothing: "Rough wool garments, practical rural clothing in earth tones"
+      position: "Watching from doorways and windows, maintaining protective distance"
+      action: "Observing outsider with collective suspicion and defensive unity"
+    - appearance: "Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally to maintain universal anonymity"
+      clothing: "Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack as personal belonging"
+      position: "Walking through village streets, unaware of scrutiny"
+      action: "Moving through community that views him as potential threat"
+  scene:
+    mainElements: "Labyrinthine network of low stone and wooden houses with shingle roofs, narrow winding streets with villagers maintaining watchful presence"
+    details: "From villagers' collective protective perspective - K. appearing as dangerous disruption to their carefully maintained relationship with Castle authority. His outsider status threatening village's delicate balance with bureaucratic system. Simple homes representing generations of established community bonds."
+    background: "Village architecture creating sense of closed community protecting itself"
+    atmosphere: "Through villagers' unified defensive viewpoint - K.'s presence endangering their survival strategy of conformity and submission, his independence appearing as reckless threat to everyone's safety, lamplight creating circles of protective community warmth, no text or letters visible"
+  composition:
+    cameraAngle: "Multiple watching perspectives from windows and doorways"
+    focus: "K. as isolated outsider surrounded by protective community surveillance"
+    depth: "Foreground shows watchful villagers, middle ground captures K.'s oblivious movement, background emphasizes village unity"

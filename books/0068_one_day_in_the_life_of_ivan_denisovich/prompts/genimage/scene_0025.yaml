@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: January 1951, 10:00 PM, settling into sleep with satisfaction
+    location: Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing
+      200 prisoners
+    weather: Interior night environment with gradual settling into rest
+  characters:
+  - appearance: 40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles
+      around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to
+      scurvy
+    clothing: Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black
+      painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)
+    position: Lying on upper bunk, reflecting on successful day while consuming final treats
+    action: Experiencing complete sensory satisfaction while mentally cataloging day's victories and preparing for sleep
+  scene:
+    mainElements: Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude
+      construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely
+      blocking outside view
+    details: 'Final consumption of Caesar''s gifts creating culminating taste experience - cookies and sausage providing complex
+      flavors representing ultimate day success. Mental replay of day''s sensory victories: avoiding punishment cold, warm
+      stove comfort, successful food acquisition, craft satisfaction from masonry work, tobacco pleasure, package sharing
+      abundance. Synesthetic memory combination where each sense triggers cascade of related positive experiences, creating
+      comprehensive satisfaction symphony. Body warmth from food and success creating thermal comfort, taste pleasure combining
+      with emotional satisfaction from survival victory. Complete sensory integration of successful survival day creating
+      perfect memory formation, all senses contributing to ultimate satisfaction state, no text or letters visible'
+    background: Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow
+      light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic
+      with constant sounds of coughing, snoring and whispers
+    atmosphere: Complete sensory harmony representing perfect survival day, all negative sensations temporarily overwhelmed
+      by accumulated positive experiences, synesthetic triumph where every sense contributes to profound satisfaction
+  composition:
+    cameraAngle: Intimate close-up on peaceful satisfaction and memory synthesis
+    focus: Facial expression of complete contentment, final food consumption, memory integration process
+    depth: 'Foreground: detailed satisfaction experience, middle: peaceful rest preparation, background: harsh environment
+      temporarily transformed by success'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

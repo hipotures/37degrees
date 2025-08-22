@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Warping Vision - Reality Bends"
+  setting:
+    time: "Autumn morning 1912, later morning around 9:00 AM"
+    location: "Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building"
+    weather: "Intermittent rain creating unstable light patterns"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Entire room perspective beginning to warp and distort, straight lines bending, corners becoming rounded"
+    details: "The edges of the room bend inward like looking through a fishbowl. Straight lines of the bed frame curve impossibly. The rectangular window warps into an oval shape. Floor planks ripple like water. The wardrobe door stretches vertically while the ceiling presses down. All colors become unnaturally saturated - the brown wood glows with amber light, white bedsheets burn with brilliant intensity, shadows deepen to absolute black."
+    background: "Gray hospital building through window appears to melt and flow like liquid architecture"
+    atmosphere: "Perceptual breakdown accelerating, physical laws no longer reliable, visual distortion reflecting mental instability"
+  composition:
+    cameraAngle: "Wide shot with fisheye lens effect showing warped room geometry"
+    focus: "Bent and distorted architectural elements creating disorienting space"
+    depth: "Foreground: curved floor planks, middle: warped furniture and walls, background: melting view through distorted window"

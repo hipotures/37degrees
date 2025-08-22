@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, morning light entering cave
+    location: Cave entrance area with natural morning illumination
+    weather: Clear morning mountain air
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  scene:
+    mainElements: Professional soldier methodically examining contents of heavy canvas packs, checking coils of wire and technical
+      equipment with expert precision
+    details: Morning light illuminating technical equipment spread on blanket, hands moving with practiced familiarity over
+      professional tools, canvas packs showing wear from mountain travel, each piece of equipment carefully positioned and
+      inspected
+    background: Cave mouth with soft morning light creating natural spotlight on work area
+    atmosphere: Professional competence and methodical preparation, contrast between technical modern equipment and primitive
+      cave setting, focus and determination
+  composition:
+    cameraAngle: Medium shot showing torso and hands working with equipment
+    focus: Technical equipment and professional methodology
+    depth: Foreground equipment and hands, middle ground figure, background cave entrance with morning light
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

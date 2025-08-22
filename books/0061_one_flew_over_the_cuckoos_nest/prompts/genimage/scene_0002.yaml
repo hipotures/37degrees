@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, morning
+    location: Glass-walled control booth positioned centrally in psychiatric ward to observe all patient activity, Oregon
+      state hospital 1960s. Panopticon-style surveillance post with clear sightlines throughout ward
+    weather: Artificial interior lighting, no natural weather visible
+  characters:
+  - appearance: 50-year-old woman with unnaturally perfect doll-like face, smooth calculated features like expensive doll.
+      Skin like flesh-colored enamel, childishly blue eyes, small nose with pink nostrils. Large feminine bust hidden under
+      rigid uniform
+    clothing: Immaculate white starched nurse uniform with cap, lips and fingernails painted in disturbing funny orange color
+      like hot soldering iron tip
+    position: Standing rigidly erect behind glass partition or moving with mechanical precision
+    action: Observing patients with cold calculation, speaking in controlled measured tones, maintaining perfect composure
+  scene:
+    mainElements: Steel desk, medicine cabinets, control panel, rotary dial telephone, filing systems, glass walls providing
+      360-degree visibility of ward activities
+    details: Her reflection in multiple glass surfaces creates infinite duplicates, each slightly different - some smiling,
+      some frowning. Medicine bottles on shelves occasionally rearrange themselves when not directly observed. The rotary
+      phone's dial spins slowly by itself. Her orange lipstick gleams wet despite never being reapplied
+    background: Distorted view of patients through multiple glass surfaces, faces appearing stretched and elongated
+    atmosphere: Center of power and control, sterile white lighting, clinical efficiency, sounds muffled by glass barrier
+      creating sense of removed authority. Uncanny valley effect - too perfect to be human, mechanical precision that disturbs
+      rather than comforts
+  composition:
+    cameraAngle: Through multiple glass reflections creating infinity effect
+    focus: The unnaturally perfect face with orange lips moving in precise speech
+    depth: 'Foreground: glass barrier with reflections. Middle: mechanical perfection of nurse. Background: distorted patient
+      figures beyond glass walls'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

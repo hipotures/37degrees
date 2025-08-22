@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "University Campus Through Naive Student's Eyes"
+  setting:
+    time: "1930s, golden afternoon"
+    location: "Southern United States Negro university campus in rural setting, 1930s, with red brick ivy-covered buildings, manicured lawns, flowering shrubs including magnolias, roses and honeysuckle"
+    weather: "Warm spring day with gentle breeze carrying floral scents"
+  characters:
+    - appearance: "Young African American man, age varying by scene from late teens to mid-twenties, average build and height, generic facial features designed to be overlooked"
+      clothing: "Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending on imposed identity"
+      position: "Walking across campus quad, approaching Founder's statue"
+      action: "Striding confidently toward academic buildings, chest swelled with pride and ambition"
+  scene:
+    mainElements: "Gothic chapel with low-hanging eaves, winding roads with hedges, wild roses, wisteria and honeysuckle, meticulously maintained grounds"
+    details: "Through young narrator's idealistic eyes, ivy-covered buildings glow with promise of knowledge and success, manicured lawns appear as symbols of achievement and progress, flowering shrubs seem to celebrate Black excellence, Gothic chapel represents spiritual guidance toward leadership, paths wind toward bright future of racial uplift, everything appears larger and more magnificent than reality"
+    background: "Red brick academic buildings stretching toward horizon, students in distance appearing as future leaders"
+    atmosphere: "Deceptively peaceful academic sanctuary masking institutional control and racial paternalism, surface beauty hiding systematic oppression"
+  composition:
+    cameraAngle: "Eye level from narrator's optimistic perspective, slightly upward to emphasize grandeur"
+    focus: "Founder's monument ahead as beacon of inspiration and destiny"
+    depth: "Foreground shows narrator's determined stride, middle ground reveals campus beauty, background suggests endless educational opportunity, no text or letters visible"

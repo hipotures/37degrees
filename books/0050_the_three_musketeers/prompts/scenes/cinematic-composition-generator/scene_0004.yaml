@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hotel de Tréville military headquarters buzzing with musketeer brotherhood"
+  setting:
+    time: "April 1625, busy midday with natural light flooding interior"
+    location: "Large Parisian mansion on Rue du Vieux-Colombier serving as headquarters for King's Musketeers, bustling center of military brotherhood"
+    weather: "Clear day with bright sunlight streaming through tall windows"
+  characters:
+    - appearance: "Multiple musketeers of various ages and builds, all wearing characteristic blue cloaks with white crosses, mixture of veteran soldiers and eager younger men"
+      clothing: "Blue musketeer uniforms with white cross insignia, individual variations in dress showing personal wealth and style, well-maintained weapons and leather equipment"
+      position: "Scattered throughout spacious antechamber, some gathered around tables, others standing in animated conversation, few practicing sword work"
+      action: "Engaged in typical military activities - dice games, storytelling about exploits, friendly arguments, weapon maintenance, casual sparring, creating atmosphere of controlled chaos"
+  scene:
+    mainElements: "Imposing stone building with monumental staircase and spacious antechamber constantly filled with swaggering soldiers, sounds of dice games, boasting about exploits, seeking quarrels"
+    details: "Stone architecture with high ceilings and tall windows, heavy wooden furniture bearing scars from years of use, weapons racks and military equipment scattered about, gaming tables with dice and cards, wine vessels and simple food, evidence of rough military life mixed with esprit de corps"
+    background: "Formal staircase leading to captain's quarters above, portraits of previous commanders and royal imagery, stone walls marked with weapon strikes and battle damage, other rooms visible through doorways showing administrative and living spaces"
+    atmosphere: "Chaotic but warm environment full of masculine energy, testosterone, bravado and fraternal loyalty, exclusive military club atmosphere with evidence of use and combat"
+  composition:
+    cameraAngle: "Wide master shot from elevated position showing entire antechamber geography with all musketeers positioned before dramatic action begins"
+    focus: "Dynamic groupings of musketeers engaged in various activities, emphasizing brotherhood and military culture before individual personalities emerge"
+    depth: "Foreground: active groups of musketeers in conversation and games, middle ground: central space with staircase and main circulation, background: doorways to other chambers and formal portraits, no text or letters visible"

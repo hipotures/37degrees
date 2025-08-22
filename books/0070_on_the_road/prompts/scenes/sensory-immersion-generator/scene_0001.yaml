@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Winter Window Touch"
+  setting:
+    time: "1947 winter evening"
+    location: "working-class neighborhood home in Paterson, New Jersey, simple two-story wooden or brick house typical of 1940s Eastern suburbs with small front porch and tidy windows"
+    weather: "bitter cold with frost forming intricate patterns on glass surfaces"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "standing close to frost-covered window with palms pressed against cold glass"
+      action: "pressing warm hands against icy window surface while watching condensation form and fade around fingerprints"
+  scene:
+    mainElements: "frost crystals spreading like delicate ferns across window glass, warm breath creating temporary fog patches, sharp contrast between room warmth and outdoor cold penetrating through thin barrier"
+    details: "Ice formations creating intricate geometric patterns that crack and shift with temperature changes, warm palm prints melting frost temporarily before cold reclaims the space, fingertips leaving brief marks in condensation that slowly evaporate, radiator nearby emitting waves of heat that fight against winter's invasion"
+    background: "modest but cozy clean interior with dark wood furniture, sofa covered with throw, family photographs in simple frames on walls, lace doilies on tables"
+    atmosphere: "warm browns, beiges and muted greens dominating color scheme, warm lighting from lamps with lampshades, smell of cooked food lingering, quiet domestic sanctuary representing stability and security"
+  composition:
+    cameraAngle: "close-up focusing on hands against frosted glass"
+    focus: "tactile interaction between warm skin and cold surface creating visible temperature exchange"
+    depth: "hands and window in sharp foreground, cozy room interior softly blurred in background, suggestion of harsh winter landscape beyond glass"

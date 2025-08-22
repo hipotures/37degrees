@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Adult authority sees Pencey as necessary character formation"
+  setting:
+    time: "Late 1940s, afternoon in December"
+    location: "Faculty office in administration building at Pencey Prep"
+    weather: "Cold December day viewed through institutional windows"
+  characters:
+    - appearance: "Male, approximately 70 years old, elderly educator with stooped posture, wearing institutional authority"
+      clothing: "Traditional academic attire of worn but respectable suit, academic propriety despite physical decline"
+      position: "Seated behind institutional desk representing decades of educational authority"
+      action: "Dispensing institutional wisdom while viewing student problems through lens of necessary discipline"
+  scene:
+    mainElements: "Office representing institutional wisdom and traditional values, educational certificates and symbols of authority, view of campus as character-building environment"
+    details: "Through institutional authority perspective, Pencey appears as necessary forge for character development, student rebellion seems as natural stage requiring guidance, traditional values appear as proven wisdom tested by generations"
+    background: "Academic office with traditional furnishings, institutional certificates and awards, window overlooking campus as domain of character formation"
+    atmosphere: "Paternal authority and institutional confidence, sense of participating in time-tested educational mission, belief in necessity of traditional structure, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing institutional authority and educational mission"
+    focus: "Representative of institutional wisdom viewing campus as character-building domain"
+    depth: "Foreground: symbols of educational authority, middle ground: institutional representative, background: campus as character formation environment"

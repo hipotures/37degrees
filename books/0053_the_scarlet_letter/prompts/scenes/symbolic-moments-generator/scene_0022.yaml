@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Family's Sacred Unity"
+  setting:
+    time: "1649 Election Day just before public confession"
+    location: "Edge of marketplace before approaching scaffold"
+    weather: "Bright festive day with clear skies"
+  characters:
+    - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+      clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+      position: "Position varies by scene context"
+      action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+    - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+      clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+      position: "Position varies by scene context"
+      action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+    - appearance: "Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like features, bright intelligent eyes, flowing hair, otherworldly beauty"
+      clothing: "Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate dresses that make her appear like living embodiment of scarlet letter"
+      position: "Position varies by scene context"
+      action: "Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering flowers and seashells, mimicking adult behaviors with disturbing accuracy"
+  scene:
+    mainElements: "Three figures standing together as family unit for first and last time in public view"
+    details: "Symbolic scene depicting the family's sacred unity with detailed symbolic elements emphasizing visual metaphors of brief moment of acknowledged family bond before final truth-telling. All elements contribute to overall symbolic narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact."
+    background: "Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social elements"
+    atmosphere: "Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no text or letters visible"
+  composition:
+    cameraAngle: "Angle chosen to emphasize symbolic elements and character relationships"
+    focus: "Brief moment of acknowledged family bond before final truth-telling"
+    depth: "Foreground, middle, and background elements layered to create symbolic meaning and visual depth"

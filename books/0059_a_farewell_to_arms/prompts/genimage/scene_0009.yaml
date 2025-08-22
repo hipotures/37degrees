@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1917 spring morning
+    location: Converted building serving as American military hospital in elegant Milan, 1917-1918, sophisticated urban medical
+      facility
+    weather: Still spring morning with streaming sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Clean modern medical rooms with new furniture, large wardrobe with mirror, adjustable window blinds, balcony
+      overlooking red tile rooftops and chimneys of Milan cityscape
+    details: Hospital ward completely vacant with beds precisely arranged in perfect military order, golden morning sunlight
+      streaming through tall windows creating dramatic light columns, thousands of tiny dust particles suspended absolutely
+      motionless in light beams like frozen constellations, undisturbed air holding particles in perfect suspension, sheets
+      tucked with crisp hospital corners remaining untouched, equipment positioned exactly where last used with no sign of
+      recent movement, shadows falling in geometric patterns across spotless floor, profound stillness suggesting held breath
+      of empty space, time appearing frozen in golden light shafts, no text or letters visible
+    background: Milan cityscape visible through windows but seeming distant and disconnected
+    atmosphere: Sanctuary of healing and romance, bright sunlight streaming through open blinds, intimate private space removed
+      from war, sounds of civilian city life replacing battlefield noise
+  composition:
+    cameraAngle: Long shot down empty ward showing perfect symmetry and stillness
+    focus: Suspended dust particles in golden light beams creating visible silence
+    depth: Foreground shows light-column detail with dust particles, middle ground reveals empty bed arrangement, background
+      frames distant windows
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

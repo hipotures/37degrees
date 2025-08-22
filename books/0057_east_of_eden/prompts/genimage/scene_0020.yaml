@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1918 overlaid with 1880s, past and present existing simultaneously in same space, afternoon light
+    location: Main street of Salinas town showing historical layers bleeding through present reality
+    weather: Clear afternoon with stable lighting allowing both time periods to be visible simultaneously
+  characters:
+  - appearance: Samuel Hamilton from 1880s visible as transparent figure walking among 1918 townspeople, tall elderly Irish
+      man with white hair and beard, kind eyes full of wisdom
+    clothing: Period clothing from 1880s - simple cotton work shirt, worn wool vest, practical trousers, appearing ghostly
+      among solid 1918 figures
+    position: Walking down main street of earlier Salinas while 1918 version exists simultaneously
+    action: Conducting business in 1880s Salinas while modern townspeople move through same space unaware of historical layer
+  - appearance: 1918 townspeople moving normally in solid form while ghostly 1880s figures move through same spaces
+    clothing: 1918 fashion - men in suits and automobiles, women in longer skirts and modern hats, contrasting with 1880s
+      frontier clothing
+    position: Using same street spaces as historical figures but in different time periods
+    action: Modern business and social activities occurring in same location as historical activities
+  scene:
+    mainElements: Main street showing dual time periods - 1880s wooden storefronts with false second stories overlaid with
+      1918 brick buildings and modern infrastructure, dirt roads bleeding through paved streets
+    details: Store signs from both eras visible simultaneously, horse-drawn vehicles occupying same space as automobiles,
+      wooden sidewalks showing through modern concrete, gas street lamps overlaid with electric lighting, old and new architecture
+      coexisting in same space
+    background: Salinas Valley mountains unchanged across both time periods, providing eternal backdrop while human settlement
+      shows temporal layers, railroad development visible in both eras at different stages
+    atmosphere: Past refusing to stay buried, history alive and walking among present-day activities, time as layered rather
+      than linear, memory and reality coexisting in same space, no text or letters visible
+  composition:
+    cameraAngle: Street level view down main thoroughfare showing both historical periods simultaneously
+    focus: Street center where past and present activities overlap and intersect
+    depth: Foreground shows street surface details from both eras, middle ground reveals overlapping time period activities,
+      background provides stable mountain reference across both time periods
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

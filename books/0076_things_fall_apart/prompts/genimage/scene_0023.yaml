@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, evening during final colonial psychological control
+    location: Simple church building constructed by European missionaries on edge of Evil Forest
+    weather: Artificial lighting creating theatrical atmosphere of manipulation and control
+  characters:
+  - appearance: Slender young man transitioning from boy to adult, delicate features contrasting with father's harsh appearance
+    clothing: Traditional loincloth initially, later simple European shirt and trousers after conversion
+    position: Standing in puppet-like posture controlled by invisible colonial strings
+    action: Moving and speaking according to colonial programming while believing himself to be making free choices
+  scene:
+    mainElements: Basic red clay and thatch structure with wooden cross, benches for converts arranged as theater where indigenous
+      people perform colonial expectations
+    details: Symbol of cultural disruption and new spiritual alternative to traditional beliefs functioning as stage for colonial
+      psychological manipulation. Individual believing himself free while actually performing predetermined colonial script
+    background: Colonial religious and educational system designed to create indigenous collaborators who believe they are
+      freely choosing colonial values
+    atmosphere: Complete psychological colonization where indigenous people become willing performers of colonial expectations
+      while believing they are exercising free will
+  composition:
+    cameraAngle: Medium shot showing puppet-like control of individual consciousness
+    focus: Indigenous person unconsciously performing colonial expectations
+    depth: Manipulated individual in foreground, colonial control mechanisms in middle ground, traditional identity abandoned
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

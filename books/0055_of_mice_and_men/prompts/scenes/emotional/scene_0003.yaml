@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ranch workers in familiar morning routine"
+  setting:
+    time: "1930s, early morning"
+    location: "Ranch bunkhouse interior, long rectangular building with whitewashed walls and unpainted plank floor"
+    weather: "Clear morning with dusty sunlight streaming through windows"
+  characters:
+    - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+      clothing: "Blue denim work clothes, worn leather boots"
+      position: "Moving slowly between bunks with broom and cleaning supplies"
+      action: "Sweeping methodically around sleeping areas, comfortable in routine work"
+    - appearance: "Powerful thick-bodied man, heavy-set build"
+      clothing: "Standard ranch worker denim and boots"
+      position: "Sitting on edge of bunk putting on boots"
+      action: "Preparing for work day with casual unhurried movements"
+  scene:
+    mainElements: "Eight bunks with burlap mattresses arranged along walls, apple crate shelves above each bunk holding modest possessions, large square card table in center"
+    details: "Bright electric bulb in tin shade casting harsh light, small square windows with dusty shafts of light where flies move like shooting stars, black cast-iron stove cold in corner, smell of carbolic soap and men"
+    background: "Sounds of ranch awakening outside - harness chains jingling, horses moving, distant voices"
+    atmosphere: "Settled routine feeling, men comfortable in established patterns, orderly masculine space with each person knowing their place and role"
+  composition:
+    cameraAngle: "Medium wide shot capturing institutional feeling of shared quarters"
+    focus: "The comfortable familiarity of morning routine and established order"
+    depth: "Foreground shows personal sleeping spaces, middle ground captures communal work area, background suggests ongoing ranch life outside"

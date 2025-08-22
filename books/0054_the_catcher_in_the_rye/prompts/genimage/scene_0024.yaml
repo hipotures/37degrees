@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in December
+    location: Pencey Preparatory Academy viewed simultaneously as nurturing institution and oppressive system
+    weather: December afternoon with same weather interpreted differently by opposing viewpoints
+  characters:
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Standing before institutional building experiencing conflicting interpretations
+    action: Viewing same institution through dual lens of promised opportunity and experienced oppression
+  scene:
+    mainElements: Pencey buildings appearing simultaneously as prestigious educational opportunity and soul-crushing conformity
+      machine, traditional architecture representing both cultural heritage and institutional control, campus representing
+      both character development and identity suppression
+    details: Dual perspective reveals same red brick buildings as symbols of educational privilege and architectural imprisonment,
+      same corridors appearing as pathways to success and tunnels of conformity, same traditions appearing as cultural foundation
+      and oppressive ritual
+    background: Educational campus appearing simultaneously as investment in future and waste of authenticity, institutional
+      setting representing both social advancement and spiritual death, academic tradition as both wisdom and dogma
+    atmosphere: Simultaneous hope for betterment and despair at personal cost, recognition of institutional value alongside
+      experience of individual damage, conflicting truth claims about same reality, no text or letters visible
+  composition:
+    cameraAngle: Split perspective showing same institution through opposing interpretive lenses
+    focus: Conflicting interpretations of identical institutional reality revealing perspective's power
+    depth: Multiple interpretive layers showing same environment as simultaneously beneficial and harmful
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

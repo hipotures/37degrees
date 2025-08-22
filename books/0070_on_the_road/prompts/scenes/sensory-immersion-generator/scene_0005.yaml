@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Weight of Wool Embrace"
+  setting:
+    time: "1949 winter night"
+    location: "train car-shaped building made of gleaming stainless steel with rounded corners, large panoramic windows and characteristic neon signs that hiss and flicker in the night"
+    weather: "freezing winter night with wind rattling windows"
+  characters:
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "slumped in corner booth wrapped in heavy coat"
+      action: "pulling thick wool coat tighter around shoulders while feeling weight of exhaustion pressing down"
+  scene:
+    mainElements: "heavy wool coat providing both physical warmth and psychological comfort, weight of fabric creating cocoon-like enclosure, pressure of fatigue making body sink deeper into booth cushions, warmth gradually penetrating cold-stiffened muscles"
+    details: "Thick wool fibers trapping body heat while weight of coat presses reassuringly on shoulders, booth's vinyl surface cold initially but warming where body makes contact, heavy eyelids fighting to stay open under fatigue's pressure, hands buried deep in coat pockets feeling fabric's protective embrace, back muscles releasing tension under coat's enveloping weight"
+    background: "long counter with row of rotating stools covered in red or blue vinyl, booths with benches opposite, black and white checkered floor, glass containers with cakes on counter, chrome coffee machines and drink dispensers gleaming in background, jukebox in corner"
+    atmosphere: "bright fluorescent lighting, smell of fried bacon, fresh brewed coffee and cigarette smoke, sound of clinking cutlery, truck drivers' conversations and jukebox music, temporary oasis of civilization in wilderness"
+  composition:
+    cameraAngle: "medium shot from across diner showing figure wrapped in coat"
+    focus: "physical manifestation of exhaustion through posture and clothing weight"
+    depth: "wrapped figure in booth foreground, diner activity continuing in middle ground, neon-lit night visible through windows in background"

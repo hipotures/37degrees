@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: California agricultural warehouse and adjacent migrant camp
+    weather: Hot sunny day intensifying the contrast
+  characters:
+  - appearance: Warehouse workers in clean uniforms loading abundant produce while migrant families with hungry faces watch
+      from outside fence.
+    clothing: 'Workers: clean uniforms and safety equipment. Migrants: tattered clothes, children with distended bellies from
+      malnutrition'
+    position: Workers inside fence handling abundant food, migrants pressed against fence watching
+    action: Workers casually discarding imperfect produce while hungry families reach through fence trying to access discarded
+      food
+  scene:
+    mainElements: Mountains of fresh produce rotting in warehouse while starving families are prevented from accessing it
+      by barbed wire fence
+    details: Devastating image of artificial scarcity created by economic system. Tons of perfect fruit piled to ceiling inside
+      warehouse. Guards posted to prevent hungry people from accessing discarded food. Signs warn against trespassing. Fruit
+      falling to rot on ground while children starve yards away
+    background: Fertile agricultural valley extending to horizon, showing natural abundance perverted by human systems
+    atmosphere: Moral outrage at waste alongside starvation, sounds of machinery processing abundance while children cry from
+      hunger beyond fence
+  composition:
+    cameraAngle: Medium shot showing fence as barrier between abundance and need
+    focus: Chain link fence as symbol of artificial barriers preventing natural sharing of abundance
+    depth: Hungry families in foreground reach toward mountains of food visible in background warehouse, with fence preventing
+      access in middle ground
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

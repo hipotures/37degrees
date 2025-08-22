@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Early 1920s morning
+    location: Long low old building where K. and Frieda receive temporary accommodation in classroom
+    weather: Cold winter morning with harsh classroom lighting
+  characters:
+  - appearance: Small village children aged 6-10 years
+    clothing: Simple rural school clothes, worn but clean
+    position: Entering classroom for daily lessons, crowding around desks
+    action: Staring fearfully at adult strangers occupying their space
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Awakening in classroom that serves as temporary bedroom
+    action: Disturbed from sleep by children's arrival
+  scene:
+    mainElements: Cold empty classroom furnished only with simple school benches, serving as living quarters with complete
+      lack of privacy
+    details: From child's perspective of frightened confusion - adult strangers appearing as giants occupying their familiar
+      safe space, classroom furniture seeming normal-sized but threatening when adults sprawl across it. Constant interruption
+      by daily lessons creating ongoing disruption to adult activities, children unable to understand adult conflicts.
+    background: Institutional coldness, classroom walls and benches representing children's ordered world
+    atmosphere: Through child's innocent fearful viewpoint - adults appearing unpredictable and dangerous in children's territory,
+      K.'s frustration seeming like adult anger beyond child understanding, school environment transformed into place of adult
+      mystery and conflict, no text or letters visible
+  composition:
+    cameraAngle: Low child's eye level view making adults appear towering and intimidating
+    focus: Children's frightened faces contrasted with adult disruption of their space
+    depth: Foreground shows children's wide fearful eyes, middle ground captures adults as intrusive presences, background
+      emphasizes familiar classroom transformed
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

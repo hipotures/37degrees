@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1873 present day overlaid with 1855 memory, late afternoon light
+    location: Front room of 124 Bluestone Road, Cincinnati Ohio, same domestic space showing passage of eighteen years
+    weather: Overcast afternoon with heavy air suggesting approaching storm
+  characters:
+  - appearance: African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair
+      framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear
+      as holes punched in a mask, weathered hands showing years of hard labor
+    clothing: Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions
+    position: Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language
+    action: Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective
+      distraction
+  scene:
+    mainElements: Same front room showing temporal overlay - past version filled with family warmth and present version stark
+      with absence, identical furniture aged eighteen years, walls showing accumulated wear and emotional weight
+    details: Transparent ghostly overlay of past family life showing children's laughter and community gathering contrasted
+      with present emptiness, dust motes floating in afternoon light, faded fabric patterns showing passage of time, woodwork
+      darkened with age and neglect, same doorways and windows framing different emotional realities across decades
+    background: Windows showing same view of Ohio landscape but light quality changed from hopeful morning brightness of past
+      to weary afternoon shadows of present
+    atmosphere: Temporal vertigo showing how same physical space can hold completely different emotional realities, weight
+      of accumulated silence and loss made visible through comparison, no text or letters visible
+  composition:
+    cameraAngle: Medium shot allowing comparison of same space across time periods
+    focus: Overlapping temporal layers showing identical room in two emotional states
+    depth: Foreground shows present-day stark reality, middle ground reveals ghostly past warmth, background maintains consistent
+      architectural elements across both time periods
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Children Learning Colonial Uniformity"
+  setting:
+    time: "Late 1890s, morning during colonial education indoctrination"
+    location: "Missionary school established to replace traditional education within village territory"
+    weather: "Artificial indoor lighting replacing natural outdoor learning environment"
+  characters:
+    - appearance: "Indigenous children forced into identical postures and expressions, individual personality suppressed"
+      clothing: "Standardized colonial school uniforms eliminating traditional cultural dress and family identity"
+      position: "Arranged in rigid rows facing European authority figure"
+      action: "Mechanically repeating foreign concepts while traditional knowledge and family wisdom are forbidden"
+  scene:
+    mainElements: "Institutional classroom space designed to replace traditional community-based learning with colonial indoctrination system"
+    details: "Traditional stories about ancestors, spirits, and cultural heroes replaced by European historical narratives that portray indigenous culture as primitive and inferior. Traditional community consensus decision-making concepts replaced by authoritarian submission to foreign authority"
+    background: "Ordered traditional society with deep spiritual connection to land and ancestors now disrupted by systematic cultural reeducation"
+    atmosphere: "Forced cultural amnesia where children are systematically trained to reject their heritage and embrace colonial values as superior"
+  composition:
+    cameraAngle: "Medium shot showing regimented childhood indoctrination"
+    focus: "Children being programmed with colonial values and anti-traditional prejudices"
+    depth: "Uniformed children in foreground, European teacher in middle ground, banned traditional learning materials in background"

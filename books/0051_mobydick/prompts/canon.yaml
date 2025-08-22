@@ -1,0 +1,223 @@
+canon:
+  characters:
+    - id: "ishmael"
+      name: "Ishmael (narrator)"
+      description_block: |
+        characters:
+          - appearance: "Young man in early twenties, average height and build suitable for ship work, practical appearance of experienced mariner"
+            clothing: "Worn canvas trousers, rough wool flannel shirt, weather-beaten 'shaggy jacket' of heavy cloth, simple leather boots"
+            position: "Standing observantly at ship's rail or working with hands on rigging and ropes"
+            action: "Watching horizon with contemplative expression, hands steady from sea experience, posture of thoughtful observer"
+
+    - id: "captain_ahab"
+      name: "Captain Ahab"
+      description_block: |
+        characters:
+          - appearance: "Man of 58-60 years, tall and broad-shouldered with weathered bronze-like physique, gray hair, sun-darkened face marked by thin white scar running from hairline down through one side of face and neck"
+            clothing: "Dark navy wool captain's coat, practical ship commander's attire in somber colors, heavy weather-resistant fabric"
+            position: "Standing rigid in special deck hole for his whale-bone prosthetic leg, one arm gripping ship's rigging for support"
+            action: "Gazing intensely toward horizon with unwavering focus, stance defiant and commanding despite physical limitation"
+
+    - id: "queequeg"
+      name: "Queequeg"
+      description_block: |
+        characters:
+          - appearance: "Muscular man around 30 years old, dark Polynesian complexion, entire body and face covered in intricate geometric square-pattern tattoos resembling maze-like Maori designs"
+            clothing: "Mix of civilized and native dress - elegant beaver hat and boots combined with minimal clothing showing tattooed skin"
+            position: "Sitting cross-legged in meditative pose or standing with harpooner's confident bearing"
+            action: "Sharpening harpoon with ritualistic care or performing daily tasks with calm dignity and practiced skill"
+
+    - id: "starbuck"
+      name: "Starbuck (First Mate)"
+      description_block: |
+        characters:
+          - appearance: "Lean man of 30 years, tall and spare build, clean tight skin, serious angular face reflecting Quaker heritage"
+            clothing: "Simple practical officer's attire in muted gray and blue tones, functional wool garments reflecting Quaker plainness"
+            position: "Standing at attention with officer's bearing, hands clasped behind back in military posture"
+            action: "Observing crew with responsible watchfulness, expression showing moral conflict between duty and conscience"
+
+    - id: "stubb"
+      name: "Stubb (Second Mate)"
+      description_block: |
+        characters:
+          - appearance: "Man in late twenties from Cape Cod, average build with weathered cheerful face often lit by humor, eyes bright with mischief"
+            clothing: "Standard ship officer's working clothes, practical and worn from constant use"
+            position: "Relaxed casual stance even during serious moments, weight shifted comfortably"
+            action: "Smoking from ever-present small black pipe, face showing amused expression as if finding cosmic joke in circumstances"
+
+    - id: "flask"
+      name: "Flask (Third Mate)"
+      description_block: |
+        characters:
+          - appearance: "Young man around 25, short and stocky build, ruddy complexion, aggressive bearing of someone ready for fight"
+            clothing: "Practical work clothes suited for physical labor, sturdy and functional"
+            position: "Standing with wide-legged stance, fists often clenched, body language suggesting confrontational readiness"
+            action: "Scowling at sea as if personally offended, treating whales as hereditary enemies deserving destruction"
+
+    - id: "tashtego"
+      name: "Tashtego"
+      description_block: |
+        characters:
+          - appearance: "Pure-blood Indian from Gay Head, late twenties, long sleek black hair, high cheekbones, dark round eyes, tanned muscular frame with serpentine limbs"
+            clothing: "Simple harpooner's work attire allowing freedom of movement"
+            position: "Crouched in hunting stance or standing with natural athletic grace"
+            action: "Scanning horizon with predator's focus, hands moving with practiced precision preparing hunting equipment"
+
+    - id: "daggoo"
+      name: "Daggoo"
+      description_block: |
+        characters:
+          - appearance: "Gigantic African man over 6'5", coal-black complexion, moves with leonine stride, noble bearing despite subordinate position"
+            clothing: "Standard harpooner's attire, large gold hoop earrings in both ears"
+            position: "Standing at full imposing height, shoulders back with regal posture"
+            action: "Moving with dignified power, handling harpoon equipment with gentle strength that contrasts his massive size"
+
+    - id: "fedallah"
+      name: "Fedallah"
+      description_block: |
+        characters:
+          - appearance: "Tall dark-skinned Parsee of indeterminate ancient age, one conspicuous white tooth protruding from lips, mysterious otherworldly presence"
+            clothing: "Black Chinese-style jacket, white turban woven from his own long hair wound around head"
+            position: "Standing motionless as if carved from shadow, supernatural stillness"
+            action: "Watching events unfold with prophetic silence, moving like dark specter across deck with unnatural quiet"
+
+  locations:
+    - id: "new_bedford_streets"
+      name: "New Bedford Streets"
+      description_block: |
+        setting:
+          location: "Cobblestone streets of New Bedford, Massachusetts whaling port in 1840s, largest whaling center in America"
+        mainElements: "Stone-paved streets wet from November drizzle, brick Federal and Greek Revival mansions mixed with wooden working-class buildings"
+        atmosphere: "Cold damp air thick with salt spray, whale oil smoke, and tar, sounds of foreign languages from international sailors"
+
+    - id: "spouter_inn"
+      name: "The Spouter-Inn"
+      description_block: |
+        setting:
+          location: "Gable-ended wooden inn building in New Bedford's port district, sailors' lodging house"
+        mainElements: "Arched whalebone jaw forming tavern entrance, dark narrow corridors carved from old central chimney, low-beamed ceiling like ship's hold"
+        atmosphere: "Murky interior lit by two dim tallow candles, tobacco smoke and whale oil fumes, wooden walls darkened by decades of use"
+
+    - id: "whalemans_chapel"
+      name: "Whaleman's Chapel"
+      description_block: |
+        setting:
+          location: "Simple Quaker-style chapel in New Bedford dedicated to lost whalers"
+        mainElements: "Ship-bow shaped pulpit accessed by rope ladder, black-bordered marble memorial tablets covering walls"
+        atmosphere: "Hushed reverent silence, muted gray daylight filtering through windows, cold marble contrasting dark wood pews"
+
+    - id: "nantucket_harbor"
+      name: "Nantucket Harbor"
+      description_block: |
+        setting:
+          location: "Historic island whaling port of Nantucket, traditional center of American whaling industry"
+        mainElements: "Federal-style brick buildings with widow's walks, cobblestone wharves lined with cooper shops and sail lofts"
+        atmosphere: "Sea-weathered architecture, constant smell of whale oil and salt air, sounds of shipbuilding and sail-mending"
+
+    - id: "pequod_deck"
+      name: "Deck of the Pequod"
+      description_block: |
+        setting:
+          location: "Main deck of three-masted American whaling ship, mid-ocean"
+        mainElements: "Tar-darkened planks worn smooth by countless feet, whale-bone decorations on railings, brick try-works furnace amidships"
+        atmosphere: "Constant motion of waves, creaking rigging, salty spray, whale oil and tar odors mixed with ocean breeze"
+
+    - id: "ahabas_quarterdeck"
+      name: "Pequod's Quarterdeck"
+      description_block: |
+        setting:
+          location: "Raised stern deck of whaling ship reserved for captain's command"
+        mainElements: "Special auger-hole cut in deck planking for Ahab's ivory leg, whale-bone tiller, commanding view of entire ship"
+        atmosphere: "Elevated position of absolute authority, wind-swept and exposed to elements, isolation of command"
+
+    - id: "ahabas_cabin"
+      name: "Captain Ahab's Cabin"
+      description_block: |
+        setting:
+          location: "Private captain's quarters in stern of Pequod, beneath quarterdeck"
+        mainElements: "Narrow bunk, chart table with navigation instruments, spare whalebone leg propped in corner, small porthole windows"
+        atmosphere: "Cramped solitary space, oil lamp flickering on cabin walls, muffled sound of waves against hull"
+
+    - id: "open_ocean"
+      name: "Open Ocean"
+      description_block: |
+        setting:
+          location: "Vast Pacific waters far from any land, whale hunting grounds"
+        mainElements: "Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris"
+        atmosphere: "Immense isolation under expansive sky, constant motion and sound of waves, sense of nature's overwhelming scale"
+
+  items:
+    - id: "ahabs_ivory_leg"
+      name: "Ahab's Whalebone Prosthetic"
+      description_block: |
+        details: "Polished white whalebone leg carved from sperm whale's jawbone, fitted with leather straps, worn smooth from constant use"
+
+    - id: "golden_doubloon"
+      name: "Ecuadorian Gold Doubloon"
+      description_block: |
+        details: "Bright gold Spanish colonial coin showing three Andes peaks with tower, volcano and rooster, zodiac symbols with sun in Libra, gleaming against dark mast wood"
+
+    - id: "queequegs_harpoon"
+      name: "Queequeg's Harpoon"
+      description_block: |
+        details: "Long ash wood shaft with sharp iron toggle-head, steel barbed point, hemp rope coiled and ready, treated with ritual care"
+
+    - id: "queequegs_tomahawk_pipe"
+      name: "Queequeg's Tomahawk-Pipe"
+      description_block: |
+        details: "Dual-purpose tool serving as both tobacco pipe and ceremonial weapon, polished wood handle with carved patterns, steel head blackened by use"
+
+    - id: "yojo_idol"
+      name: "Yojo (Queequeg's wooden god)"
+      description_block: |
+        details: "Small black wooden idol carved in primitive style, worn smooth by handling, object of Queequeg's daily prayers and offerings"
+
+    - id: "queequegs_coffin"
+      name: "Queequeg's Coffin-Canoe"
+      description_block: |
+        details: "Simple pine coffin carved with intricate Polynesian tattoo patterns matching Queequeg's body art, watertight and buoyant"
+
+    - id: "try_works"
+      name: "The Try-Works"
+      description_block: |
+        details: "Brick furnace built on ship's deck with two large iron try-pots for boiling whale blubber, surrounded by wooden planking, chimney venting black smoke"
+
+    - id: "pequod_tiller"
+      name: "Whalebone Tiller"
+      description_block: |
+        details: "Ship's steering handle carved from single piece of sperm whale jawbone, polished white surface worn smooth by countless hands"
+
+    - id: "mysterious_painting"
+      name: "The Spouter-Inn's Mysterious Painting"
+      description_block: |
+        details: "Large oil painting so smoke-darkened and damaged that subject is barely discernible, appears to show ship in hurricane being attacked by whale, hanging in inn's entrance hall"
+
+    - id: "whalebone_chapel_pulpit"
+      name: "Ship-Bow Pulpit"
+      description_block: |
+        details: "Chapel pulpit shaped like ship's prow with projecting figurehead, accessed by rope ladder that minister pulls up after climbing, symbolizing spiritual isolation"
+
+    - id: "memorial_tablets"
+      name: "Memorial Tablets"
+      description_block: |
+        details: "White marble tablets with black borders listing names and fates of dead whalers, inscribed with brief descriptions of deaths at sea"
+
+    - id: "pequod_nameplate"
+      name: "Ship's Name and Decorations"
+      description_block: |
+        details: "Ship's name carved in stern, railings decorated with whale teeth and bone, trophies from previous successful hunts"
+
+    - id: "fedallah_turban"
+      name: "Fedallah's Hair Turban"
+      description_block: |
+        details: "White cloth turban woven from Fedallah's own long black hair wound around his head, creating mysterious headpiece"
+
+    - id: "whale_lance"
+      name: "Whale Lance"
+      description_block: |
+        details: "Long steel-pointed spear for killing wounded whales, sharp cutting edge designed to reach vital organs, hafted on long pole"
+
+    - id: "cutting_spades"
+      name: "Whale Cutting-Spades"
+      description_block: |
+        details: "Large sharp-edged tools like enormous knives for cutting whale blubber, long handles for working over ship's side"

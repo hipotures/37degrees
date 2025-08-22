@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, golden afternoon light
+    location: Sierra de Guadarrama mountain range in central Spain, vast pine forest wilderness stretching to distant peaks
+    weather: Clear mountain air with late spring warmth
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  - appearance: 68-year-old man, short but sturdy and solid build, face lined with wrinkles expressing wisdom and weariness,
+      archetypal old Spanish peasant
+    clothing: black peasant smock, stiff dirty gray trousers, espadrilles - typical Spanish mountain peasant clothing
+    posture: moves with dignity of hard-working rural man, shoulders straight despite age
+    action: handling rifle with practiced familiarity, watching terrain with hunter's patience and knowledge
+  scene:
+    mainElements: Tiny human figures positioned on rocky outcrop overlooking endless forested mountainscape, establishing
+      massive scale of Spanish wilderness
+    details: Two men with rifle and heavy packs silhouetted against afternoon sky, distant steel bridge barely visible far
+      below in valley, mountain peaks extending to horizon under vast open sky, ancient pine trees covering every slope
+    background: Layered mountain ridges fading into blue distance, golden light catching granite peaks, shadows deepening
+      in valleys between ranges
+    atmosphere: Epic scope and isolation, sense of mission beginning in timeless landscape, tension between natural beauty
+      and hidden conflict
+  composition:
+    cameraAngle: Extreme wide shot from elevated position showing massive geographical scale
+    focus: Two small figures against immense natural amphitheater of mountains
+    depth: Foreground rocky ledge, middle ground forest canopy, background distant peaks - creating sense of journey ahead
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

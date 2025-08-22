@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hamilton family harvest table - autumn abundance to winter emptiness"
+  setting:
+    time: "Late September to February, Thanksgiving feast transforming to lean winter months, afternoon to cold morning"
+    location: "Outdoor harvest table behind Hamilton farmhouse on rocky hills east of King City"
+    weather: "Warm harvest afternoon with golden light shifting to cold winter morning with frost"
+  characters:
+    - appearance: "Samuel Hamilton visible as ghostly overlay, white-haired elderly Irish man in his 60s, strong build with gentle hands"
+      clothing: "Simple cotton work shirt, worn wool vest, practical trousers, leather blacksmith apron when working"
+      position: "Seated at head of harvest table in autumn, same spot empty in winter overlay"
+      action: "Carving harvest feast in autumn abundance, chair sitting empty during winter scarcity"
+  scene:
+    mainElements: "Long wooden harvest table showing dramatic seasonal contrast - autumn loaded with fresh vegetables, preserves, and feast preparations overlaid with winter's bare planks covered in frost"
+    details: "Table surface groaning under harvest weight transforming to empty boards scoured by winter wind, wooden benches filled with family ghosts in autumn becoming stark furniture in winter isolation, mason jars full of preserves fading to empty shelves, harvest baskets overflowing with produce becoming storage for kindling and necessities"
+    background: "Hamilton farmhouse showing autumn warmth with smoke from cooking fires overlaid with winter's survival mode with banked fires and shuttered windows, hills showing golden harvest grass transforming to brown winter dormancy"
+    atmosphere: "Cycle of abundance and scarcity, family togetherness dissolving into individual survival, harvest celebration shadowed by winter's harsh reality, nature's rhythm of feast and famine, no text or letters visible"
+  composition:
+    cameraAngle: "View down length of harvest table toward farmhouse showing seasonal transformation"
+    focus: "Harvest table as temporal anchor showing abundance versus scarcity"
+    depth: "Foreground reveals table detail changes, middle ground shows farmhouse seasonal adaptation, background displays hills transforming with weather"

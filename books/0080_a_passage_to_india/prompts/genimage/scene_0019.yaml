@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, late night with most activity settled, few lights remaining
+    location: View across Chandrapore showing scattered windows illuminated in sleeping city
+    weather: Clear calm night, gentle cool air, deep darkness punctuated by artificial lights
+  characters: No characters present in this scene
+  scene:
+    mainElements: Darkened city with occasional illuminated windows creating pattern of human activity, mix of electric and
+      oil lighting in different quarters
+    details: Golden rectangles of lit windows scattered across dark urban landscape, electric lights in British bungalows
+      creating white glow, oil lamps in Indian homes casting warm yellow light, shadows of people visible against window light,
+      mosquito netting creating soft focus effects, night sounds of insects and distant train whistle, street lamps creating
+      pools of light along empty roads
+    background: Dark sky with stars, vast Indian plain surrounding sleeping city, sense of small human settlement in immense
+      landscape
+    atmosphere: Peaceful night settling over divided community, individual lives continuing behind lit windows, sense of shared
+      humanity despite divisions
+  composition:
+    cameraAngle: Elevated night view showing pattern of illuminated windows across sleeping city
+    focus: Lit windows as signs of human presence and activity in surrounding darkness
+    depth: Foreground shows nearby window details, middle ground captures city pattern, background displays dark plain and
+      star-filled sky
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

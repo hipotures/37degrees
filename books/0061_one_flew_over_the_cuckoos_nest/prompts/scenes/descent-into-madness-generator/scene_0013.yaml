@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crushing Walls - Claustrophobic Compression"
+  setting:
+    time: "Early 1960s, night"
+    location: "Small medical chamber in psychiatric hospital that appears to be shrinking, walls closing in"
+    weather: "Oppressive artificial lighting growing dimmer"
+  characters:
+    - appearance: "31-year-old man with boyish appearance despite mature age. Protruding teeth, freckles, chubby cheeks giving innocent childlike look. Slim build appearing fragile. Scars on wrists from previous attempts"
+      clothing: "Standard patient hospital uniform"
+      position: "Hunched shoulders, sitting or standing timidly in background"
+      action: "Speaking with severe stutter, fidgeting nervously, avoiding eye contact, displaying extreme shyness"
+  scene:
+    mainElements: "Room walls slowly moving inward, ceiling lowering imperceptibly, floor rising from below"
+    details: "Four walls creep closer together with grinding mechanical sound. Ceiling presses downward forcing occupant to hunch and eventually crawl. Floor tiles buckle upward meeting descending ceiling. Air becomes thicker and harder to breathe. Light sources dim as space compresses. Institutional fixtures stretch and compress to fit shrinking dimensions - table legs telescope down, chairs flatten"
+    background: "Walls covered in institutional patterns that become more dense and overwhelming as space shrinks"
+    atmosphere: "Vulnerable exposure during sleep hours, cold institutional metal and fabric, night sounds of patients snoring and groaning, moonlight creating long shadows through bars. Crushing psychological pressure made physical, feelings of helplessness and trapped desperation"
+  composition:
+    cameraAngle: "Extreme wide angle showing compression, then tight claustrophobic framing"
+    focus: "Shrinking space and compressed frightened figure"
+    depth: "Foreground: approaching walls. Middle: cowering figure. Background: ceiling lowering inexorably"

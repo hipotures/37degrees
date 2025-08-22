@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening during village crisis
+    location: Village streets with entire community responding to shared emergency
+    weather: Cold winter evening with urgency overriding weather concerns
+  characters:
+  - appearance: Entire village population gathered in collective response
+    clothing: Various village attire unified by shared concern
+    position: Moving together through streets with common purpose
+    action: Responding collectively to administrative crisis affecting everyone
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Center of collective attention as source of community crisis
+    action: Inadvertently triggering village-wide defensive response
+  scene:
+    mainElements: Labyrinthine network of low stone and wooden houses with shingle roofs unified by shared crisis response,
+      village organizing for collective protection
+    details: Collective village perspective during emergency - individual differences disappearing under shared threat, community
+      moving with unified purpose to protect established relationship with Castle authority. K.'s outsider status endangering
+      everyone's carefully maintained survival strategy, collective wisdom prioritizing group preservation over individual
+      rights.
+    background: Village architecture serving collective defensive needs, paths enabling rapid community communication
+    atmosphere: Unified community consciousness during crisis - individual perspectives merging into collective survival instinct,
+      shared understanding of proper response to administrative threats, community bonds strengthening under external pressure,
+      no text or letters visible
+  composition:
+    cameraAngle: Collective group perspective showing unified community response
+    focus: Community unity confronting threat to established order
+    depth: Foreground shows collective action, middle ground captures unified movement, background emphasizes village solidarity
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

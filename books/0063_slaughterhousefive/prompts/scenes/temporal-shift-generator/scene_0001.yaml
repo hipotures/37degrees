@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Billy's Bedroom Through Time - Child to Elder"
+  setting:
+    time: "1920s through 1970s, composite temporal view showing decades simultaneously"
+    location: "Billy's childhood bedroom in Ilium New York, same room across fifty years of life"
+    weather: "Interior scene, natural light filtering through window across seasons and years"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Layered temporal positioning showing child Billy at age 6 sitting on small bed, teenager Billy reading by window, soldier Billy in military gear, middle-aged Billy in businessman attire, elderly Billy with walking assistance"
+      action: "Multiple overlapping temporal moments showing same person aging through decades in identical room location, no text or letters visible"
+  scene:
+    mainElements: "Single bedroom showing accumulated layers of time with child's toys gradually replaced by books, then military memorabilia, then optometry equipment, then medical aids, wallpaper fading and changing patterns, furniture wearing down and being replaced"
+    details: "Wooden floor showing wear patterns from decades of footsteps, window frame paint layers revealing multiple color changes, light switch evolved from simple toggle to modern design, door handle worn smooth by thousands of touches, ceiling showing water stains from different decades, radiator accumulating paint layers"
+    background: "View through window showing neighborhood evolution from 1920s architecture to 1960s suburban development, trees growing larger, power lines appearing, street paving changes"
+    atmosphere: "Melancholic beauty of time's passage made visible through accumulated changes, dust motes floating in afternoon light that has illuminated same space for fifty years, silence heavy with accumulated memories"
+  composition:
+    cameraAngle: "Wide interior shot from doorway perspective capturing entire room with temporal overlay technique"
+    focus: "Multiple translucent figures of Billy at different ages occupying same space but from different time periods"
+    depth: "Foreground shows most recent elderly Billy version, middle ground shows adult years translucently, background shows childhood objects and early furniture ghostly visible through later additions"

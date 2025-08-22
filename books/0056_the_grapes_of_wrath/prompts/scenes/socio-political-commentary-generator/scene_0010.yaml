@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Silenced Voices - The Censorship of Truth"
+  setting:
+    time: "1930s, evening"
+    location: "Public library and community center in California agricultural town"
+    weather: "Artificial interior lighting creating stark shadows"
+  characters:
+    - appearance: "Tall man in his late twenties, dark brown eyes with brown pigment flecks, high wide cheekbones, strong deep lines down his cheeks. Long upper lip covering protruding teeth. Weathered face with prison pallor."
+      clothing: "Worn gray work clothes, denim jacket, heavy work boots. Hands show thick calluses and rough skin from labor."
+      position: "Standing with confident posture, hands at sides or crossed over chest"
+      action: "Discovering empty library shelves and painted-over murals, searching for information that has been removed or censored"
+  scene:
+    mainElements: "Library with empty shelves where books once stood, painted-over wall murals covering scenes of worker solidarity, official notices restricting access to information"
+    details: "Systematic removal of information threatening to power structure. Empty library shelves with lighter rectangles showing where books were removed. Fresh white paint covers murals depicting worker organizing. Official signs restrict access to newspapers or certain topics. Librarian nervously explains unavailable materials"
+    background: "Community spaces that once fostered free exchange of ideas now controlled and sanitized"
+    atmosphere: "Oppressive silence where vibrant discussion once flourished, echo of footsteps in empty halls, whispered warnings about forbidden topics"
+  composition:
+    cameraAngle: "Eye level showing human perspective confronting censorship"
+    focus: "Empty spaces where knowledge and art once existed, showing systematic suppression of truth"
+    depth: "Character in foreground discovers censorship, empty shelves in middle ground, official authority presence in background enforcing silence"

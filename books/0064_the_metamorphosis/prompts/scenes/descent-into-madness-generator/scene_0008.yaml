@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First Hallucination - Shadow Visitors"
+  setting:
+    time: "Autumn afternoon 1912, around 2:00 PM"
+    location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+    weather: "Overcast sky creating shifting shadows through window"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Dark human silhouettes moving through the room that shouldn't be there, appearing and disappearing at the edges of vision"
+    details: "Fleeting glimpses of human figures walking through the emptied room - a tall man in a business suit checking his pocket watch, a woman in a long dress carrying a suitcase, children running past the window. These figures cast no shadows, make no sound, and vanish when looked at directly. They move through walls and furniture as if the room exists in multiple time periods simultaneously."
+    background: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+    atmosphere: "Reality fracturing completely, past and present overlapping, isolation broken by phantom visitors from another dimension"
+  composition:
+    cameraAngle: "Wide shot capturing both Gregor and the phantom figures at edges of frame"
+    focus: "Translucent human figures that appear and vanish unpredictably"
+    depth: "Foreground: Gregor's solid insect form, middle: empty room with phantom visitors, background: scratch-marked walls showing passage of time"

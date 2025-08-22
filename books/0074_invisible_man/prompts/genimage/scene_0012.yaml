@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, dinner time
+    location: University dining hall on Southern Negro college campus, formal institutional eating space
+    weather: Indoor evening environment
+  characters:
+  - appearance: Young African American student, around 18-19 years old, eager and impressionable
+    clothing: Clean student attire, pressed shirt and trousers, attempting to look scholarly
+    position: Seated at long dining table with other students
+    action: Eating dinner while observing campus hierarchy and social dynamics with naive fascination
+  scene:
+    mainElements: Long wooden tables with benches, institutional lighting, formal portraits of university leaders on walls,
+      service area
+    details: Through young student's idealistic perspective, dining hall appears as temple of learning and advancement - formal
+      portraits of Black leaders seem like gallery of future role models, institutional furniture represents stability and
+      tradition, other students appear as fellow travelers on journey to success, faculty at head table seem like distant
+      gods dispensing wisdom, formal dining procedures feel like training for professional life, everything reinforces belief
+      in education as path to racial progress
+    background: More tables filled with students, kitchen staff preparing and serving food, institutional architecture suggesting
+      permanence
+    atmosphere: Formal institutional space reinforcing hierarchy and preparing students for roles in segregated professional
+      world
+  composition:
+    cameraAngle: Eye level from student's seated position, showing institutional perspective and hierarchy
+    focus: Head table where faculty sit elevated above student body
+    depth: Foreground shows student dining experience, middle ground captures institutional order, background reveals institutional
+      scope, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

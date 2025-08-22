@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1915, 1947, 1975 - three wedding ceremonies spanning sixty years
+    location: Traditional Indian temple or religious ceremony space showing architectural consistency across decades
+    weather: Ceremonial lighting with oil lamps and natural daylight
+  characters:
+  - appearance: Woman aging from 16 to 70 years. In youth slender, in old age large and formidable. Two distinctive large
+      moles on face called witch's nipples. Severe features expressing conservative authority
+    clothing: Always traditional dark sari, often with head covering. In youth complete purdah with veil
+    position: Sitting with commanding presence or lying covered by perforated sheet
+    action: Giving orders to family members or being examined through sheet hole
+  scene:
+    mainElements: Same temple interior hosting three wedding ceremonies across generations. 1915 shows Aadam and Naseem's
+      traditional Kashmir wedding with perforated sheet modesty. 1947 reveals Amina and Ahmed's independence-era ceremony
+      with hybrid traditions. 1975 displays Emergency period wedding with simplified rituals and government restrictions
+    details: Wedding attire evolves from conservative purdah garments to independence-era compromise between tradition and
+      modernity to Emergency period simple clothing. Religious decorations and ceremony complexity decrease over time. Guest
+      numbers and celebration elaborateness reduce with each generation
+    background: Temple architecture remains constant while surrounding social context transforms. Religious symbols maintain
+      continuity while political banners and official oversight increase in later periods
+    atmosphere: Gradual erosion of traditional wedding elaborateness under pressure of historical change and political interference.
+      Religious continuity struggling against modernization and authoritarian control, no text or letters visible
+  composition:
+    cameraAngle: Wide shot capturing entire ceremonial space and participant arrangements
+    focus: Central marriage ritual as consistent element despite changing context
+    depth: Ceremonial participants in foreground, religious decorations in middle ground, temple architecture providing background
+      continuity
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Liberty Paints Factory Through Capitalist Owners' Eyes"
+  setting:
+    time: "1940s, daytime"
+    location: "Industrial paint manufacturing facility on Long Island, 1940s, large-scale factory with modern equipment and corporate signage"
+    weather: "Clear industrial day with mechanized efficiency"
+  characters:
+    - appearance: "White man in his 40s-50s, medium build with red hair, one real eye and one glass eye that can fall out, intense authoritative presence"
+      clothing: "Professional political organizer's attire - functional business suit, practical but well-maintained, projecting ideological authority"
+      position: "Standing in factory oversight position, observing production line"
+      action: "Surveying industrial operation with managerial satisfaction, monitoring efficiency and profit"
+  scene:
+    mainElements: "Large neon sign reading 'KEEP AMERICA PURE WITH LIBERTY PAINTS', mixing vats, pipes, gauges, conveyor systems, basement boiler room"
+    details: "Through capitalist management perspective, factory appears as triumph of American industrial efficiency - workers become productive units contributing to national purity, mixing processes represent scientific precision creating superior product, 'Optic White' paint symbolizes America's pure values being manufactured and distributed, machinery demonstrates technological superiority, basement operations remain safely hidden from public view, Black labor remains invisible component necessary for white purity production"
+    background: "Industrial skyline representing American manufacturing dominance, corporate facilities extending toward horizon"
+    atmosphere: "Surreal corporate environment embodying racial hypocrisy of America, sterile white surfaces masking industrial exploitation and hidden racial dependencies"
+  composition:
+    cameraAngle: "High management perspective overlooking factory floor operations"
+    focus: "Central mixing vats producing pure white paint through invisible Black labor"
+    depth: "Foreground shows management oversight position, middle ground captures production process, background reveals industrial empire scope, no text or letters visible"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1642 June morning, bright harsh daylight
+    location: Boston marketplace scaffold in Massachusetts Bay Colony Puritan settlement
+    weather: Clear summer day with unforgiving bright sunshine
+  characters:
+  - appearance: Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black
+      eyes with prominent forehead, rich complexion, noble bearing despite circumstances
+    clothing: Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely
+      except when specified otherwise, worn leather shoes
+    position: Standing prominently on elevated wooden scaffold platform in center of marketplace
+    action: Holding infant child while displaying elaborate embroidered letter A in scarlet red cloth outlined with intricate
+      gold thread work and ornate flourishes, approximately 3 inches tall, sewn permanently to front of dress over heart
+  scene:
+    mainElements: Wooden scaffold platform in center serving as pillory, crowd of Puritan townspeople in dark clothing, surrounding
+      timber-frame houses and shops, woman holding baby while bearing ornate scarlet letter
+    details: The scarlet letter transforms from simple mark of shame into elaborate work of art, its gold threading catching
+      sunlight like crown jewels, creating paradox where symbol of disgrace becomes thing of beauty. Crowd below appears as
+      sea of dark judgment while letter blazes like defiant beacon above them. Heavy oak prison door bound with iron spikes
+      and rusted metal fittings visible in background.
+    background: Harsh unforgiving daylight exposing all to public scrutiny, oppressive weight of collective judgment, sounds
+      of murmuring voices and shuffling feet on packed earth
+    atmosphere: Electric tension between shame and pride, punishment and artistry, as ornate needlework elevates mark of sin
+      into statement of defiant beauty, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing elevation of scaffold and dignity of woman above judging crowd
+    focus: Brilliant scarlet letter with gold embroidery blazing in sunlight as central visual anchor
+    depth: 'Foreground: ornate scarlet letter and woman''s dignified bearing; middle: wooden scaffold platform; background:
+      dark crowd and prison door creating moral geography of judgment'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

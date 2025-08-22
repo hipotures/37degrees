@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1924, blazing midday
+    location: Large rectangular plaza surrounded by buildings with arched galleries, numerous café terraces spilling into
+      square, fountain in center, traditional Spanish architecture with ochre and cream facades
+    weather: Intense summer heat with merciless sun overhead
+  characters:
+  - appearance: British woman aged 34, tall and gracefully slender with curves, very short hair cut in fashionable boy-like
+      style reaching barely to earlobes, large expressive eyes with subtle melancholy beneath surface confidence, refined
+      aristocratic features with defined cheekbones
+    clothing: Form-fitting jersey sweater in muted tone, knee-length skirt representing 1920s fashion revolution, small cloche
+      hat positioned at stylish angle, no stockings as per modern convention
+    position: Standing in shade of archway, one foot testing hot stone surface
+    action: Moving with self-assured grace while engaging in conversation with direct, unflinching manner that commands attention
+  scene:
+    mainElements: Stone plaza radiating heat waves in visible shimmers, shadows providing sharp contrast between scorching
+      sunlight and cool refuge, sandaled feet recoiling from heated surfaces
+    details: Cobblestones so hot they burn through thin shoe soles, air shimmering with heat distortion above stone surfaces,
+      fabric clinging to skin from perspiration, shade offering immediate temperature relief like entering cool cave, metal
+      fountain too hot to touch, no text or letters visible
+    background: Festive chaos with crowds dressed in white with red sashes and scarves, constant noise of celebration, music
+      and laughter, sense of ancient ritual meeting modern tourism
+    atmosphere: Overwhelming heat creating physical discomfort - burning stone, blazing metal surfaces, air so hot it feels
+      solid, contrasted with blessed relief of architectural shadows
+  composition:
+    cameraAngle: Low angle emphasizing heat radiating from ground
+    focus: Feet interacting with burning cobblestones and cooling shadows
+    depth: 'Foreground: detailed heat interaction, midground: heat shimmer effects, background: festival crowds seeking shade'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

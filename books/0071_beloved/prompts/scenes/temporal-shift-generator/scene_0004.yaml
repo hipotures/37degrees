@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Paul D's Evolution - From Youth to Wanderer to Arrival"
+  setting:
+    time: "1855 plantation youth overlaid with 1873 arrival at 124, identical posture across decades"
+    location: "Threshold of house 124, same doorway framing different life stages"
+    weather: "Late afternoon sun creating long shadows across threshold"
+  characters:
+    - appearance: "African American man, age 45-50, straight-backed posture showing maintained dignity, peach-stone colored skin, immobile face capable of sudden smile or emotion, true beard and refined hands despite rough life"
+      clothing: "Simple working clothes, unbuttoned vest with rolled shirt sleeves for casual occasions, practical cap"
+      position: "Standing erect with contained strength, hands often clasped behind back"
+      action: "Moving with careful control while eyes show expectation and years of uncertainty, face transitioning between stillness and sudden warmth"
+  scene:
+    mainElements: "Same doorway threshold showing Paul D at different life stages, identical stance maintained across eighteen years of hardship, same proud bearing despite accumulated trauma"
+    details: "Young face unmarked by suffering overlaid with present weathered features, same straight posture carried through plantation, prison, and wandering, clothing evolved from slave garments to free man's working clothes, hands refined despite rough experiences, beard grown from youthful smoothness, eyes showing accumulated wisdom and pain"
+    background: "House 124 doorway unchanged architecturally but representing different meanings - from unknown future to final destination"
+    atmosphere: "Human persistence and dignity maintained through extreme adversity, posture as resistance against dehumanization, arrival representing completion of long journey, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot capturing full figure in doorway frame"
+    focus: "Overlapping Paul D figures showing youth and maturity in identical pose"
+    depth: "Foreground shows threshold detail, middle ground emphasizes figure transformation, background reveals house interior representing destination"

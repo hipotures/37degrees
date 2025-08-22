@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: January to July same year, frozen winter morning to blazing summer afternoon
+    location: Swimming hole in Salinas River near Hamilton ranch, same bend showing seasonal extremes
+    weather: Rare California freeze with frost and ice transitioning to scorching summer heat above 100 degrees
+  characters:
+  - appearance: Ghostly overlays of children from different seasons - winter shows no children, summer reveals multiple children
+      of various ages splashing and playing
+    clothing: Winter overlay empty of figures, summer shows children in simple cotton undergarments and swimming clothes appropriate
+      to 1900s era
+    position: Summer children positioned throughout swimming hole - diving from rocks, floating, sitting on banks
+    action: Winter emptiness contrasting with summer joy of swimming, diving, and water play
+  scene:
+    mainElements: River bend showing dramatic seasonal contrast - winter ice covering water surface overlaid with summer's
+      clear flowing stream full of swimming children
+    details: Rocks along bank showing ice formations transforming to warm sun-dried surfaces perfect for sitting, willow trees
+      bare and brittle in winter becoming full green canopy providing shade, rope swing hanging unused in winter becoming
+      center of summer activity
+    background: Salinas Valley showing winter's brown dormant hills overlaid with summer's golden grass and heat shimmer,
+      mountains appearing sharp in winter air and hazy in summer heat
+    atmosphere: Seasonal extremes showing life's dormancy and explosion, river as constant through all weather while human
+      use follows natural rhythms, joy emerging from harsh seasons, no text or letters visible
+  composition:
+    cameraAngle: Wide view of river bend showing full seasonal transformation
+    focus: Swimming hole as central feature transitioning from frozen to active water play
+    depth: Foreground shows bank details changing with seasons, middle ground reveals water state transformation, background
+      provides valley context across weather extremes
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

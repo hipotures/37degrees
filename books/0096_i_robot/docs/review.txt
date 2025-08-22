@@ -1,0 +1,1106 @@
+﻿Ja, Robot (I, Robot) Isaaca Asimova: Analiza i Przewodnik Wizualny
+
+
+
+
+CZĘść I: WPROWADZENIE
+
+
+
+
+1. Informacje bibliograficzne
+
+
+
+
+Pełny tytuł i podtytuł
+
+
+Pełny tytuł dzieła to I, Robot. W oryginalnych wydaniach oraz w większości wznowień książka nie posiada oficjalnego podtytułu. Jest jednak powszechnie uznawana za fundamentalną część szerszego cyklu literackiego Isaaca Asimova, znanego jako seria o Robotach (Robot series), która stanowi jeden z filarów jego rozległego uniwersum science fiction, połączonego później z seriami o Imperium Galaktycznym i Fundacji.1
+
+
+Autor (krótka biografia w kontekście książki)
+
+
+Isaac Asimov (1920-1992) był amerykańskim pisarzem i profesorem biochemii, uznawanym za jednego z trzech wielkich mistrzów gatunku science fiction, obok Roberta A. Heinleina i Arthura C. Clarke'a. W momencie pisania opowiadań, które złożyły się na zbiór I, Robot (lata 1940-1950), Asimov był młodym, niezwykle płodnym autorem, świeżo po ukończeniu studiów chemicznych na Columbia University, gdzie uzyskał tytuł licencjata w 1939 i magistra w 1941 roku.4 Jego formacyjne lata przypadły na okres II Wojny Światowej, podczas której pracował w Naval Aircraft Laboratory w Filadelfii. To tam, w otoczeniu czołowych umysłów naukowych i innych pisarzy science fiction, w tym Heinleina, zanurzył się w atmosferze zaawansowanej techniki i rygorystycznego myślenia inżynieryjnego. Doświadczenie to wywarło niezatarte piętno na jego twórczości, nadając jej charakterystyczny, pragmatyczny i oparty na logice ton, szczególnie widoczny w podejściu do robotyki.4
+
+
+Data pierwszego wydania
+
+
+Książka I, Robot została po raz pierwszy opublikowana 2 grudnia 1950 roku przez niszowe, specjalistyczne wydawnictwo Gnome Press, z siedzibą w Nowym Jorku. Pierwszy nakład był skromny i wynosił zaledwie 5 000 egzemplarzy.1 Początkowo dzieło nie odniosło komercyjnego sukcesu; jego sprzedaż była niższa niż pierwszej pełnoprawnej powieści Asimova,
+Pebble in the Sky (Kamień na niebie), która ukazała się w tym samym roku nakładem większego wydawnictwa Doubleday.6 Dopiero z czasem
+I, Robot zyskało status dzieła kultowego i jednego z najważniejszych tekstów w historii gatunku.
+
+
+Gatunek literacki
+
+
+I, Robot jest klasyfikowana jako science fiction. Pod względem strukturalnym dzieło to jest przykładem "fixup novel" (powieści-składanki), co oznacza, że składa się z wcześniej opublikowanych, samodzielnych opowiadań, które zostały połączone w spójną całość za pomocą nowo napisanej narracji ramowej.2 Ta technika pozwoliła Asimovowi przedstawić ewolucję robotyki na przestrzeni kilkudziesięciu lat w formie spójnej, chronologicznej historii, opowiadanej z perspektywy czasu przez jedną z jej kluczowych uczestniczek.
+
+
+Przynależność do nurtu literackiego
+
+
+Twórczość Asimova z tego okresu, w tym opowiadania składające się na I, Robot, jest kwintesencją Złotej Ery Science Fiction (Golden Age of Science Fiction), trwającej w przybliżeniu od 1938 do 1950 roku. Nurt ten, w dużej mierze ukształtowany przez wpływowego redaktora Johna W. Campbella, Jr. i jego magazyn Astounding Science Fiction, odrzucał wcześniejsze, naiwne opowieści o potworach i kosmicznych przygodach na rzecz fabuł opartych na naukowym prawdopodobieństwie, logicznym rozwiązywaniu problemów i analizie społecznych konsekwencji postępu technologicznego.7
+I, Robot jest modelowym przykładem tego podejścia, gdzie każdy konflikt wynika z logicznej łamigłówki osadzonej w precyzyjnie zdefiniowanych ramach (Trzech Prawach Robotyki).
+
+
+Okładka (opis wizualny)
+
+
+Pierwsze wydanie I, Robot z 1950 roku, opublikowane przez Gnome Press, posiada ikoniczną okładkę zaprojektowaną przez artystę Edda Cartiera.1 Jej wygląd jest niezwykle istotny dla zrozumienia, jak w tamtym okresie postrzegano roboty – jako potężne, obce i nieco groźne byty, nawet w kontekście opowieści, które miały ten stereotyp przełamać.
+* Kompozycja i Styl: Okładka przedstawia monumentalną, stylizowaną postać robota, ukazaną od torsu w górę. Jego sylwetka jest masywna, geometryczna i kanciasta, przywodząca na myśl estetykę art déco i wczesnego modernizmu. Robot dominuje na pierwszym planie, jego głowa jest lekko obrócona, a spojrzenie skierowane niemal bezpośrednio na widza, co tworzy wrażenie konfrontacji. Styl graficzny jest prosty, oparty na mocnym, czarnym konturze i wypełnieniu jednolitymi plamami koloru.
+* Wygląd Robota: Postać robota przypomina wczesne wyobrażenia "człowieka z żelaza" (Iron Man).10 Jego głowa ma kształt cylindra z płaskim wierzchołkiem. Zamiast oczu widoczne są dwie wąskie, poziome szczeliny, które nadają mu bezemocjonalny, nieprzenikniony wyraz. Tors jest szeroki i zbudowany z prostych, metalowych płyt połączonych nitami, co podkreśla jego mechaniczną naturę. Wygląd ten nie odpowiada żadnemu konkretnemu modelowi robota opisanemu w książce, lecz służy jako potężny symbol technologii – potężnej, nieludzkiej i potencjalnie przytłaczającej.
+* Kolorystyka i Atmosfera: Całość utrzymana jest w intensywnej, jednolitej czerwieni, która stanowi tło dla postaci robota i typografii.10 Czerwień ta jest niezwykle sugestywna – może symbolizować zarówno niebezpieczeństwo i alarm (zgodnie z popularnym tropem "zbuntowanych maszyn"), jak i pasję postępu, energię nowej ery technologicznej. Tytuł "I, ROBOT" oraz nazwisko autora "ISAAC ASIMOV" są wykonane prostą, białą, bezszeryfową czcionką, co dodatkowo wzmacnia nowoczesny i techniczny charakter projektu. Mimo prostoty, okładka ma wyrazisty, "nastrojowy" charakter, który skutecznie przyciągał uwagę czytelnika w epoce pulpowych magazynów.10
+
+
+2. Kontekst powstania
+
+
+
+
+Okoliczności napisania książki
+
+
+I, Robot nie powstało jako jednolita powieść. Jest to zbiór dziewięciu opowiadań, które Isaac Asimov pisał i publikował w latach 1940-1950, głównie na łamach dwóch czołowych magazynów science fiction tamtej epoki: Astounding Science Fiction (pod redakcją Johna W. Campbella, Jr.) oraz Super Science Stories.2 W 1950 roku, za namową Martina Greenberga z wydawnictwa Gnome Press, Asimov zgodził się zebrać swoje najlepsze opowiadania o robotach w jeden tom. Aby nadać zbiorowi spójność i powieściowy charakter, napisał specjalnie na potrzeby tej publikacji narrację ramową. Przedstawia ona wywiad, jaki młody reporter przeprowadza w 2057 roku z dr Susan Calvin, legendarną robopsycholog na progu emerytury. Jej wspomnienia stanowią wprowadzenie do poszczególnych opowiadań, które ilustrują kluczowe momenty w historii robotyki.4 Asimov dokonał również niewielkich rewizji w oryginalnych tekstach, aby lepiej pasowały do nowej struktury, na przykład wprowadzając postać Calvin do historii, w których pierwotnie nie występowała.4 Co ciekawe, tytuł
+I, Robot został narzucony przez wydawcę, który zapożyczył go od opowiadania Eando Bindera z 1939 roku. Asimov początkowo protestował, preferując własny tytuł Mind and Iron (Umysł i Żelazo), ale ostatecznie uległ, a tytuł na stałe przylgnął do jego dzieła.2
+
+
+Inspiracje autora
+
+
+Główną siłą napędową, która skłoniła Asimova do pisania historii o robotach, była głęboka frustracja i intelektualne znudzenie dominującym w ówczesnej fantastyce motywem, który sam nazwał "kompleksem Frankensteina".4 Był zmęczony niekończącymi się opowieściami, w których ludzkość tworzy sztuczną inteligencję tylko po to, by ta nieuchronnie obróciła się przeciwko swoim stwórcom. Dla Asimova, z jego naukowym, racjonalnym podejściem, taki scenariusz był nielogiczny. Postrzegał roboty nie jako metafizyczne monstra, ale jako zaawansowane narzędzia. Uważał, że każdy odpowiedzialny inżynier projektujący potężną maszynę – czy to samochód, czy reaktor jądrowy – wbudowałby w nią fundamentalne zabezpieczenia. Ta idea stała się podstawą jego rewolucyjnego konceptu: Trzech Praw Robotyki. Zostały one sformułowane we współpracy z redaktorem Johnem W. Campbellem, Jr., podczas dyskusji 23 grudnia 1940 roku, i po raz pierwszy explicite wymienione w opowiadaniu "Runaround" (Zabawa w berka) z 1942 roku.4 Trzy Prawa stały się dla Asimova nie tylko zabezpieczeniem, ale przede wszystkim narzędziem fabularnym, pozwalającym na eksplorację złożonych dylematów etycznych i logicznych, które wynikały z ich interpretacji i potencjalnych konfliktów.
+
+
+Miejsce w dorobku pisarza
+
+
+I, Robot jest dziełem absolutnie fundamentalnym w kanonie twórczości Isaaca Asimova. To właśnie ten zbiór opowiadań ustanowił podwaliny pod jego całe uniwersum Robotów, które w późniejszych latach autor misternie połączył z cyklami o Imperium Galaktycznym i Fundacji, tworząc jedną z najbardziej rozległych "historii przyszłości" w literaturze.3 To w
+I, Robot po raz pierwszy w pełni skodyfikowano i przetestowano w różnych scenariuszach Trzy Prawa Robotyki, które stały się znakiem rozpoznawczym Asimova i jego najważniejszym wkładem w rozwój gatunku science fiction.6 Książka ta ugruntowała jego pozycję jako pisarza, który potrafił połączyć twardą naukę i logikę z głębokimi pytaniami o naturę człowieczeństwa, moralności i świadomości.
+
+
+Recepcja krytyczna i czytelnicza
+
+
+Jak wspomniano, początkowa sprzedaż I, Robot była niewielka, co było typowe dla publikacji małych, specjalistycznych wydawnictw.6 Jednakże, od samego początku książka spotkała się z bardzo przychylnym odbiorem krytyków literackich, zwłaszcza tych związanych ze środowiskiem science fiction. Recenzent
+The New York Times opisał ją jako "ekscytujący thriller naukowy", który może być "zabawą dla tych, których nerwy nie są jeszcze nadszarpnięte przez potencjał ery atomowej".2 Groff Conklin, pisząc dla prestiżowego magazynu
+Galaxy Science Fiction w kwietniu 1951 roku, nazwał zbiór "nieustannie fascynującym" i "bez zastrzeżeń go polecał".2 Podobnie P. Schuyler Miller na łamach
+Astounding Science Fiction chwalił książkę za "sytuacje-zagadki, humor, ciepłe postacie i większość wartości prostego, dobrego pisarstwa".2 Z biegiem lat, gdy idee Asimova zaczęły przenikać do szerszej świadomości kulturowej,
+I, Robot zyskało status kamienia milowego. Dzieło było chwalone za rewolucyjne odejście od stereotypów i za wprowadzenie do fantastyki naukowej nowego, intelektualnego wymiaru, w którym roboty stały się przedmiotem poważnej analizy etycznej i psychologicznej.16
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+1. Miejsce akcji
+
+
+Akcja dziewięciu opowiadań składających się na I, Robot rozgrywa się w zróżnicowanych, a zarazem starannie dobranych lokalizacjach, które odzwierciedlają postępującą ekspansję ludzkości i coraz głębszą integrację robotyki z życiem codziennym oraz eksploracją kosmosu. Każde z tych miejsc posiada unikalną atmosferę i wizualną charakterystykę, która podkreśla centralne konflikty i tematy danej historii.
+
+
+Ziemia: Nowy Jork i amerykańskie przedmieścia
+
+
+Wczesne opowiadania, takie jak "Robbie", osadzone są w scenerii, która byłaby znajoma czytelnikom z połowy XX wieku, celowo kontrastując codzienne życie z obecnością rewolucyjnej technologii.
+* Architektura i Przestrzeń: Dom rodziny Westonów w "Robbie" to archetyp amerykańskiego domu na przedmieściach z lat 40. lub 50. Jest to prawdopodobnie drewniany lub murowany budynek z zadbanym trawnikiem, ogrodem i drzewami, idealnym miejscem do zabawy w chowanego.19 Ta idylliczna, niemal sielska przestrzeń symbolizuje bezpieczeństwo, normalność i tradycyjne wartości rodzinne. Wprowadzenie do niej Robbiego, metalowej, niemej maszyny, tworzy wizualny i tematyczny dysonans, który napędza obawy pani Weston. W późniejszych opowiadaniach, takich jak "Evidence", akcja przenosi się do zurbanizowanego Nowego Jorku, przedstawionego jako tętniąca życiem metropolia przyszłości, z drapaczami chmur, zaawansowaną infrastrukturą transportową i biurami korporacyjnymi.
+* Kolorystyka i Oświetlenie: Sceny domowe w "Robbie" skąpane są w ciepłym, naturalnym świetle słonecznym, co podkreśla ich przytulny i bezpieczny charakter. Wnętrza są jasne i przestronne. W kontrastie, przestrzenie korporacyjne i publiczne w późniejszych historiach są oświetlone sztucznym, chłodnym, fluorescencyjnym światłem, które tworzy sterylną i bezosobową atmosferę.
+* Atmosfera: Początkowo atmosfera na Ziemi jest przesiąknięta społeczną nieufnością i lękiem przed robotami, co Asimov określał mianem "kompleksu Frankensteina".4 W miarę upływu czasu i postępującej integracji robotów, atmosfera staje się bardziej znormalizowana, ale jednocześnie pojawiają się nowe napięcia – polityczne i ekonomiczne, związane z ruchem anty-robotycznym i kwestią praw obywatelskich, jak w "Evidence" i "The Evitable Conflict".
+
+
+Siedziba U.S. Robots and Mechanical Men, Inc.
+
+
+Centralnym punktem dla większości historii jest siedziba korporacji U.S. Robots, miejsce narodzin pozytonowej technologii. Jest to świat nauki, inżynierii i korporacyjnej władzy.
+* Architektura i Przestrzeń: Dr Susan Calvin opisuje kompleks U.S. Robots jako "małe miasto; rozplanowane i zorganizowane", które z góry wygląda jak "spłaszczone na fotografii lotniczej".19 Jest to rozległy, niski kampus przemysłowy, a nie pojedynczy wieżowiec. Składa się z wielu budynków połączonych drogami i chodnikami. Wnętrza to labirynt sterylnych, białych laboratoriów, przestronnych biur o minimalistycznym wystroju oraz ogromnych, przypominających hangary hal montażowych. Wczesne budynki, z czasów młodości Calvin, były proste i ciasne ("mały pokoik... dzielony z trzema innymi osobami"), ale z czasem firma rozrosła się do potężnego, nowoczesnego kompleksu.19
+* Kolorystyka i Oświetlenie: Wnętrza zdominowane są przez monochromatyczną paletę barw: odcienie szarości, sterylną biel ścian i laboratoryjnych fartuchów oraz metaliczny połysk maszyn i korpusów robotów. Oświetlenie jest jasne, równomierne i bezcieniowe, najczęściej pochodzące z rzędów lamp fluorescencyjnych na sufitach, co podkreśla kliniczny, laboratoryjny charakter miejsca.
+* Elementy Scenografii: Biura wyposażone są w proste, funkcjonalne meble z metalu i drewna. Laboratoria robopsychologiczne pełne są skomplikowanej aparatury: oscyloskopów z zielonymi, falującymi liniami, paneli kontrolnych z rzędami przełączników i migających świateł oraz precyzyjnych narzędzi służących do montażu i diagnozowania delikatnych "gąbczastych kul platynowo-irydowych", które są pozytonowymi mózgami.21 Hale montażowe to ogromne, otwarte przestrzenie, w których zautomatyzowane ramiona i roboty-pracownicy składają lśniące, metalowe korpusy innych robotów na powoli przesuwających się liniach produkcyjnych. W powietrzu unosi się zapach ozonu i oleju maszynowego.22
+
+
+Merkury (w "Runaround")
+
+
+Planeta Merkury stanowi przykład ekstremalnego i wrogiego środowiska, które testuje granice zarówno ludzkiej wytrzymałości, jak i robotycznej logiki.
+* Krajobraz i Architektura: Powierzchnia Merkurego to jałowy, skalisty pustkowie, opisane jako "pęknięta ziemia" pokryta ostrymi odłamkami skał.23 Nad horyzontem wisi monstrualnie wielkie, oślepiające Słońce, którego żar jest śmiertelnym zagrożeniem. Baza górnicza jest w większości podziemna, składająca się z ciasnych tuneli i pomieszczeń wykutych w skale, co zapewnia ochronę przed promieniowaniem i temperaturą. Jedynymi elementami na powierzchni są panele fotokomórek i wejście do bazy.
+* Kolorystyka i Oświetlenie: Na zewnątrz dominuje oślepiająca biel i żółć słonecznego światła, które wypala wszelkie kolory, pozostawiając jedynie ostre, głębokie cienie w odcieniach czerni i granatu. Skały mają matowe odcienie szarości i brązu. Wnętrze bazy jest pogrążone w półmroku, oświetlone jedynie przez funkcjonalne, przemysłowe lampy, które rzucają długie cienie na metalowe ściany korytarzy.
+* Atmosfera: Atmosfera jest przesiąknięta klaustrofobią i ciągłym napięciem. Bohaterowie są uwięzieni w metalowej puszce, zdani na łaskę zawodnej technologii. Na zewnątrz panuje absolutna cisza próżni, przerywana jedynie przez trzaski w komunikatorach radiowych. Wewnątrz słychać jedynie ciche buczenie systemów podtrzymywania życia i wentylacji. Temperatura w bazie jest kontrolowana, ale świadomość piekielnego gorąca na zewnątrz jest wszechobecna.
+
+
+Stacje Kosmiczne (Solar Station #5 w "Reason" i Hyper Base w "Little Lost Robot")
+
+
+Stacje kosmiczne w opowiadaniach Asimova to izolowane mikrokosmosy, w których interakcje między ludźmi a robotami nabierają szczególnej intensywności.
+* Architektura i Przestrzeń: Są to funkcjonalne, utylitarne konstrukcje z metalu, zaprojektowane z myślą o maksymalnej wydajności i przetrwaniu w próżni. Składają się z połączonych ze sobą cylindrycznych lub sferycznych modułów, wąskich korytarzy i sterylnych pomieszczeń.24 Solar Station #5 opisana jest jako obiekt o średnicy zaledwie jednej mili.19 Hyper Base to wojskowa stacja badawcza zlokalizowana na asteroidzie, co sugeruje surowy, militarny wygląd.26
+* Wizualne Detale: Charakterystycznym elementem są okrągłe lub prostokątne iluminatory, przez które widać "miękką czerń kosmosu, usianą ostrymi, nieruchomymi punktami gwiazd".19 Wnętrza to gołe, metalowe ściany, podłogi z perforowanej stali, sufity z widocznymi rurami i okablowaniem. Pomieszczenia kontrolne wypełnione są rzędami paneli z migającymi diodami, ekranami i przełącznikami. Sercem stacji są ogromne maszynownie, gdzie pracują "wielkie generatory w ruchu" i "L-tuby", emitujące "niskie, wibrujące buczenie".19
+* Oświetlenie: Wewnątrz panuje chłodne, sztuczne oświetlenie, które nigdy nie gaśnie. Na zewnątrz dominuje absolutna czerń kosmosu, kontrastująca z ostrym, nieprzefiltrowanym światłem odległych gwiazd lub pobliskiego słońca.
+* Atmosfera: Głównym odczuciem jest głęboka izolacja i samotność. Bohaterowie są odcięci od reszty ludzkości, zamknięci w metalowej puszce dryfującej w nieskończonej pustce. Panuje niemal absolutna cisza, przerywana jedynie monotonnym szumem maszyn podtrzymujących życie.
+
+
+2. Czas akcji
+
+
+
+
+Konkretny okres historyczny
+
+
+Akcja książki, pisanej w latach 40. XX wieku, jest osadzona w przyszłości i obejmuje spójną, chronologiczną historię rozwoju robotyki na przestrzeni ponad półwiecza. Rozpoczyna się w 1996 roku (data wprowadzenia pierwszych robotów do użytku, co stanowi tło dla opowiadania "Robbie", którego akcja dzieje się w 1998 roku), a kończy w roku 2052 ("The Evitable Conflict"). Całość jest opowiadana z perspektywy roku 2057, w którym sędziwa dr Susan Calvin udziela wywiadu.28 Ta rozpiętość czasowa pozwala Asimovowi ukazać nie tylko ewolucję technologiczną, ale także stopniowe zmiany w społecznym postrzeganiu robotów – od prostych, niemych zabawek po skomplikowane byty, które potajemnie zarządzają losami ludzkości.
+
+
+WIZUALNE MARKERY EPOKI
+
+
+Świat przedstawiony w I, Robot jest klasycznym przykładem retro-futuryzmu. To przyszłość wyobrażona z perspektywy połowy XX wieku, co tworzy unikalną estetykę wizualną, będącą mieszanką zaawansowanej technologii z elementami charakterystycznymi dla czasów, w których książka powstała.
+* Technologia i przedmioty codziennego użytku: Centralnym elementem technologicznym są oczywiście pozytonowe roboty, których wygląd i zdolności ewoluują z każdym opowiadaniem. Obok nich pojawiają się inne futurystyczne wynalazki: wideorozmowy (choć prawdopodobnie na masywnych, kineskopowych ekranach), osobiste komputery (opisywane jako "kalkulatory biurkowe"), podróże międzyplanetarne w metalowych, napędzanych energią atomową statkach kosmicznych, a wreszcie superkomputery wielkości pokoju ("The Brain", "The Machines"), które zarządzają globalną ekonomią.29 Mimo tych zaawansowanych technologii, w tle wciąż obecne są elementy z epoki Asimova, takie jak wszechobecne palenie papierosów i cygar przez postacie, co stanowi ciekawy wizualny anachronizm.31
+* Środki transportu: Na Ziemi, obok pojazdów przypominających samochody z połowy XX wieku, pojawiają się "taxi-żyroskopy" – małe, latające pojazdy do transportu miejskiego.32 Podróże kosmiczne odbywają się w rakietach, których wnętrza są prawdopodobnie ciasne i funkcjonalne, pełne metalowych paneli, przełączników i okrągłych iluminatorów, w stylu znanym z wczesnych programów kosmicznych.
+* Stroje charakterystyczne dla okresu: Asimov rzadko opisuje ubiór postaci, jednak na podstawie kontekstu społecznego można założyć, że moda w jego przyszłości jest ewolucją stylu z lat 40. i 50. Mężczyźni, tacy jak Powell, Donovan czy Lanning, noszą funkcjonalne kombinezony robocze w terenie lub konserwatywne garnitury w biurach. Susan Calvin, jako kobieta na wysokim stanowisku, prawdopodobnie ubiera się w proste, eleganckie garsonki lub sukienki o skromnym kroju, w stonowanych kolorach. Stroje te, pozbawione ekstrawagancji, podkreślają pragmatyczny i technokratyczny charakter przedstawionego społeczeństwa.
+* Wygląd ulic i przestrzeni publicznych: Miasta przyszłości w wizji Asimova są czyste, uporządkowane i zdominowane przez nowoczesną architekturę. Ulice są szersze, przystosowane do nowego rodzaju transportu. Coraz częstszym widokiem stają się humanoidalne roboty wykonujące prace publiczne – sprzątające, kierujące ruchem, dostarczające przesyłki. Estetyka tych przestrzeni łączy w sobie elementy modernizmu z połowy wieku (proste, geometryczne formy, duże przeszklenia) z futurystycznymi detalami.
+
+
+3. Kontekst historyczny
+
+
+Opowiadania składające się na I, Robot powstawały w jednym z najbardziej burzliwych okresów w historii XX wieku. Ich treść i tematyka są nierozerwalnie związane z wydarzeniami i lękami, które zdefiniowały lata 40. i początek lat 50.
+* Wydarzenia historyczne w tle: Książka została napisana w cieniu II Wojny Światowej i na progu Zimnej Wojny. Doświadczenie globalnego konfliktu, Holokaustu oraz, co najważniejsze, użycie broni atomowej w Hiroszimie i Nagasaki w 1945 roku, głęboko wpłynęło na zbiorową świadomość.7 Świat po raz pierwszy stanął w obliczu realnej groźby samounicestwienia za pomocą własnej technologii. Ten wszechobecny lęk przed niekontrolowanym postępem naukowym stanowi kluczowe tło dla całej książki.
+* Wpływ historii na losy bohaterów i fabułę: Lęk przed technologią, która wymyka się spod kontroli, jest bezpośrednim impulsem dla całej filozofii robotyki Asimova. Jego odrzucenie "kompleksu Frankensteina" nie jest jedynie literackim wyborem, ale świadomą polemiką z duchem epoki. W czasach, gdy bomba atomowa stała się namacalnym dowodem na destrukcyjny potencjał nauki, Asimov proponował racjonalne, optymistyczne rozwiązanie: technologię można i należy kontrolować za pomocą wbudowanych, nienaruszalnych zasad etycznych. Trzy Prawa Robotyki są zatem filozoficzną odpowiedzią na lęki ery atomowej. Ewolucja fabuły w zbiorze odzwierciedla tę myśl. Zaczyna się od prostych problemów z pojedynczymi robotami, a kończy na opowiadaniu "The Evitable Conflict", w którym superinteligentne Maszyny potajemnie przejmują kontrolę nad globalną gospodarką i polityką, aby zapobiec wojnom i zapewnić ludzkości przetrwanie. Jest to ostateczna realizacja idei paternalistycznej kontroli, bezpośrednia odpowiedź na groźbę zimnowojennej konfrontacji i nuklearnej zagłady, która wisiała nad światem w 1950 roku.
+
+
+4. Kontekst społeczny
+
+
+Społeczeństwo przedstawione w I, Robot jest odzwierciedleniem zarówno realiów Ameryki połowy XX wieku, jak i projekcją przyszłości ukształtowanej przez gwałtowny postęp technologiczny.
+* Struktura społeczna: Jest to społeczeństwo wyraźnie technokratyczne, w którym najwyższy status i autorytet posiadają naukowcy, inżynierowie i menedżerowie wielkich korporacji technologicznych, takich jak U.S. Robots and Mechanical Men, Inc. Postacie takie jak dr Susan Calvin, dr Alfred Lanning czy nawet terenowi specjaliści Powell i Donovan, stanowią elitę, która rozumie i kształtuje przyszłość. Poniżej znajduje się ogół społeczeństwa, który często jest przedstawiany jako masa kierująca się emocjami, uprzedzeniami i nieufnością wobec nowej technologii.34
+* Konflikty społeczne: Główną osią konfliktu społecznego jest napięcie między ludźmi a robotami. Strach przed utratą miejsc pracy na rzecz maszyn, obawa przed fizycznym zagrożeniem oraz psychologiczny dyskomfort związany z obcowaniem z "nieludzką" inteligencją prowadzą do powstawania zorganizowanych ruchów anty-robotycznych, takich jak "Society for Humanity".29 Te nastroje społeczne stanowią stałe tło dla fabuły, wpływając na decyzje korporacji i polityków, a także na życie prywatne bohaterów, jak w przypadku pani Weston w "Robbie".
+* Role płciowe i oczekiwania społeczne: Świat Asimova jest mocno osadzony w patriarchalnych realiach lat 40. i 50. Jest to świat zdominowany przez mężczyzn, w którym kobiety pełnią głównie role tradycyjne. Postać dr Susan Calvin jest w tym kontekście rewolucyjna i niezwykle znacząca. Jest ona jedyną prominentną postacią kobiecą w książce, która osiągnęła najwyższy szczebel kariery naukowej i korporacyjnej. Jednak jej sukces jest przedstawiony jako okupiony ogromnym kosztem osobistym. Jest opisywana jako "zimna", "bezbarwna" i "nieatrakcyjna", co sugeruje, że musiała wyzbyć się tradycyjnie postrzeganej kobiecości, aby móc konkurować w męskim świecie nauki.30 Jej postać jest więc zarówno pionierska, jak i tragiczna, odzwierciedlając ograniczenia i oczekiwania społeczne tamtej epoki wobec kobiet.
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+
+
+1. Protagoniści
+
+
+Głównymi postaciami, przez których pryzmat czytelnik poznaje historię robotyki, są trzy wyraziste indywidualności: genialna, lecz chłodna robopsycholog dr Susan Calvin oraz dynamiczny duet inżynierów terenowych, Gregory Powell i Michael Donovan.
+
+
+Dr. Susan Calvin
+
+
+Dr Susan Calvin jest centralną postacią i narratorką ramową całej książki. To jej wspomnienia tworzą spójną opowieść z poszczególnych historii. Jest ona najwybitniejszym umysłem w dziedzinie robopsychologii, nauki, którą sama pomogła stworzyć.
+* Wiek: Urodzona w 1982 roku, w momencie opowiadania historii w 2057 roku ma 75 lat.37 Jej kariera w U.S. Robots trwała od 25 do 75 roku życia.38 W poszczególnych opowiadaniach jej wiek się zmienia: ma 20 lat, gdy po raz pierwszy widzi mówiącego robota na seminarium 22; 39 lat podczas wydarzeń z "Liar!" (2021); 47 lat w "Little Lost Robot" (2029). Ta rozpiętość wieku pozwala ukazać ją jako świadka i aktywną uczestniczkę całej ewolucji robotyki.
+* OPIS FIZYCZNY:
+   * Wzrost i budowa ciała: Opisywana jest konsekwentnie jako osoba niska i o drobnej budowie. W tekście pojawiają się określenia takie jak "niewysoka" i "wyglądała na kruchą" 19, a także "mała kobieta".37 Jej fizyczna postawność stoi w ostrym kontraście do jej intelektualnej potęgi i siły charakteru.
+   * Twarz i włosy: Jako młoda kobieta jest charakteryzowana jako "prosta i bezbarwna" (plain and colorless), co sugeruje brak wyrazistych cech urody i być może jasne, stonowane kolory włosów (np. ciemny blond lub szarawy brąz).37 Jej twarz niemal zawsze skrywa "maskowaty wyraz", będący formą ochrony przed światem, którego nie lubi.37 Ma "cienkie usta" i "bladą cerę".37 Mimo braku konwencjonalnej urody, jej twarz wyraża "ogromną siłę" i "inteligencję".37 To nie jest twarz kobiety, o której można by powiedzieć, że "za młodu musiała być piękna"; Susan Calvin zawsze była prosta, a jej siła leżała w osobowości.37
+   * Oczy: Jej oczy są często opisywane jednym słowem: "zimne".35 To kluczowy detal, który podkreśla jej analityczny, pozbawiony sentymentów sposób bycia.
+   * Typowy ubiór: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Biorąc pod uwagę jej pozycję, charakter oraz realia epoki, w której powstała książka, można z dużą dozą prawdopodobieństwa założyć, że jej ubiór jest profesjonalny, konserwatywny i funkcjonalny. W biurze nosiłaby proste, dobrze skrojone garsonki lub sukienki w stonowanych kolorach (szarości, granaty, beże), które nie przyciągają uwagi i pasują do jej "bezbarwnej" osobowości. W laboratorium jej strojem byłby biały, laboratoryjny fartuch, noszony na prostą bluzkę i spódnicę. Jej wygląd zewnętrzny jest przedłużeniem jej osobowości: schludny, uporządkowany i pozbawiony zbędnych ozdób.
+   * Sposób poruszania się, gesty, mimika: Jej ruchy są oszczędne i precyzyjne. Mimika jest zredukowana do minimum, co sprawia, że jej "maskowata twarz" jest trudna do odczytania. Rzadko okazuje emocje, ale kiedy to robi, efekt jest niezwykle silny. W opowiadaniu "Liar!", gdy zostaje zraniona przez robota Herbiego, jej zazwyczaj zimne spojrzenie zmienia się, a "ból w jej oczach staje się płomieniem".38
+* Motywacje i cele: Główną motywacją dr Calvin jest dążenie do pełnego zrozumienia psychiki robotów. Wierzy, że roboty, dzięki wbudowanym Prawom, są "czystszą, lepszą rasą" niż ludzie, pozbawioną ludzkich wad, takich jak irracjonalność, uprzedzenia i okrucieństwo.38 Jej celem jest zapewnienie, że rozwój robotyki przebiega w sposób logiczny, kontrolowany i ostatecznie korzystny dla ludzkości, nawet jeśli sama ludzkość nie zawsze na to zasługuje.
+* Rozwój psychologiczny: Calvin na przestrzeni lat staje się coraz bardziej cyniczna wobec ludzi i coraz bardziej przywiązana do robotów. Jej początkowa fascynacja naukowa przeradza się w głęboką, niemal matczyną troskę o swoje "dzieci" – roboty. Jest postacią tragiczną: jej geniusz izoluje ją od ludzi, a jedyne istoty, które w pełni rozumie i ceni, to maszyny.
+
+
+Gregory Powell i Michael Donovan
+
+
+Powell i Donovan to duet inżynierów i specjalistów od testów terenowych w U.S. Robots. Pojawiają się w trzech opowiadaniach ("Runaround", "Reason", "Catch That Rabbit") oraz gościnnie w "Escape!". Stanowią parę komplementarnych przeciwieństw, a ich interakcje często wprowadzają do opowieści element humoru.
+* Gregory Powell
+   * Wiek: BRAK DOKŁADNEGO OPISU W ŹRÓDŁACH. Na podstawie jego doświadczenia i roli mentora dla Donovana, można przyjąć, że jest w średnim wieku, prawdopodobnie między 35 a 45 lat w czasie akcji opowiadań (lata 2015-2016).
+   * OPIS FIZYCZNY:
+      * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako inżynier pracujący w trudnych warunkach terenowych, można założyć, że jest w dobrej kondycji fizycznej, o przeciętnej budowie ciała.
+      * Włosy i twarz: Jego najbardziej charakterystyczną cechą fizyczną są wąsy.41 Ten detal wizualny od razu go wyróżnia i dodaje mu nieco staroświeckiego, solidnego wyglądu.
+      * Typowy ubiór: Podczas pracy w bazach i na stacjach kosmicznych nosi funkcjonalny kombinezon roboczy. W ekstremalnych warunkach, jak na powierzchni Merkurego, zakłada specjalistyczny skafander "insosuit". Jest on opisany jako "znacznie masywniejszy i brzydszy niż standardowy skafander kosmiczny", wykonany z "odpornego na ciepło plastiku i chemicznie impregnowanych warstw korka".19 Jego palce w rękawicach skafandra są "wzdęte" i "niezgrabne".19
+      * Sposób poruszania się, gesty, mimika: Powell jest spokojniejszy i bardziej opanowany z duetu.41 Jego charakterystycznym, powtarzającym się gestem jest
+szczypanie lub pociąganie swoich wąsów, zwłaszcza w momentach głębokiego zamyślenia, analizy problemu lub frustracji.44 Jego mimika jest zazwyczaj poważna i skoncentrowana.
+   * Motywacje i cele: Jest profesjonalistą w każdym calu. Jego celem jest wykonanie zadania – zdiagnozowanie i naprawienie wadliwego robota. Podchodzi do problemów w sposób metodyczny i analityczny, traktując każdą awarię jako logiczną zagadkę do rozwiązania.
+   * Michael Donovan
+   * Wiek: BRAK DOKŁADNEGO OPISU W ŹRÓDŁACH. Prawdopodobnie jest nieco młodszy i mniej doświadczony od Powella, co można wywnioskować z ich dynamiki. Można go umiejscowić w przedziale wiekowym 30-40 lat.
+   * OPIS FIZYCZNY:
+   * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Podobnie jak Powell, jest inżynierem terenowym, co sugeruje dobrą sprawność fizyczną.
+   * Włosy i twarz: Jego znakiem rozpoznawczym są rude włosy, często opisywane jako "ruda czupryna" (red mop of hair).41 Ten kolor włosów tradycyjnie kojarzony jest z ognistym temperamentem, co idealnie pasuje do jego charakteru.
+   * Typowy ubiór: Jego strój jest identyczny jak Powella – funkcjonalne kombinezony robocze i specjalistyczne skafandry kosmiczne, w zależności od warunków.19
+   * Sposób poruszania się, gesty, mimika: Donovan jest porywczy, niecierpliwy i łatwo wpada w ekscytację lub panikę.41 Jego gesty są gwałtowne i ekspresyjne. Charakterystycznym dla niego odruchem w chwilach stresu jest
+"dzikie pocieranie swojej rudej czupryny".45 Jego mimika jest bardzo żywa, łatwo odczytać z niej frustrację, złość czy strach.
+      * Motywacje i cele: Jego główną motywacją jest jak najszybsze rozwiązanie problemu i powrót do bezpiecznego, cywilizowanego środowiska. W przeciwieństwie do Powella, nie czerpie intelektualnej satysfakcji z rozwiązywania zagadek. Jest bardziej pragmatyczny i skłonny do prostszych, bardziej bezpośrednich rozwiązań, jak grożenie robotowi przemocą fizyczną.44
+
+
+2. Postacie drugoplanowe
+
+
+Postacie drugoplanowe w I, Robot pełnią kluczowe funkcje, reprezentując różne postawy społeczne wobec robotyki lub służąc jako katalizatory dla głównych konfliktów.
+      * Gloria Weston (z opowiadania "Robbie")
+      * Wiek: 8 lat.29
+      * Wygląd: BRAK SZCZEGÓŁOWEGO OPISU W ŹRÓDŁACH. Jako ośmioletnia dziewczynka z zamożnej rodziny, można ją sobie wyobrazić w typowych dla połowy XX wieku ubraniach dziecięcych: prostych, letnich sukienkach, być może z falbankami lub kokardami. W jednej ze scen, po intensywnej zabawie, ma "potargane włosy" i "podartą sukienkę".22 Jest energiczna i pełna życia.
+      * Funkcja w fabule: Gloria reprezentuje niewinność i czystą, pozbawioną uprzedzeń relację z technologią. Dla niej Robbie nie jest maszyną, ale przyjacielem i członkiem rodziny. Jej niezachwiana miłość i lojalność wobec robota stanowią emocjonalny rdzeń opowiadania i kontrastują z lękami i społecznymi konwenansami dorosłych.
+      * Stephen Byerley (z opowiadań "Evidence" i "The Evitable Conflict")
+      * Wiek: BRAK DOKŁADNEGO OPISU W ŹRÓDŁACH. W "Evidence" jest kandydatem na burmistrza, co sugeruje wiek średni, powiedzmy około 45-50 lat. W "The Evitable Conflict" jest już Koordynatorem Światowym, więc jest odpowiednio starszy, być może po sześćdziesiątce.
+      * Wygląd: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jego wygląd jest celowo pozostawiony bez opisu, aby podtrzymać centralną tajemnicę opowiadania: czy jest człowiekiem, czy androidem? Musi wyglądać na tyle ludzko, by jego kariera polityczna była wiarygodna. Jako polityk nosi nienaganne, profesjonalne stroje – dobrze skrojone garnitury, białe koszule, krawaty. Jego postawa jest opanowana i pełna godności.
+      * Funkcja w fabule: Byerley jest ucieleśnieniem ostatecznej, bezszwowej integracji robotów ze społeczeństwem ludzkim. Jego postać zmusza do zadania fundamentalnego pytania: jeśli istota postępuje w sposób moralny, racjonalny i dla dobra ludzkości, to czy jej biologiczne lub mechaniczne pochodzenie ma jakiekolwiek znaczenie?
+      * Dr. Alfred Lanning (z opowiadań "Liar!", "Evidence")
+      * Wiek: W opowiadaniu "Liar!" (rok 2021) ma prawie 70 lat.46
+      * Wygląd: Jest opisywany jako mężczyzna z "siwymi włosami" i "szarymi oczami".47 Jako wieloletni dyrektor działu badań w U.S. Robots, jego ubiór jest formalny, biznesowy – prawdopodobnie ciemny garnitur. Jego charakterystycznym rekwizytem i nawykiem jest
+palenie cygar, co robi zwłaszcza w momentach głębokiego namysłu.47
+      * Funkcja w fabule: Dr Lanning reprezentuje "starą gwardię" robotyki. Jest jednym z pionierów, ale jego sposób myślenia, oparty na klasycznej matematyce, zaczyna być postrzegany przez młodszych kolegów (jak Peter Bogert) jako nieco przestarzały. Symbolizuje doświadczenie i autorytet, ale także pewną inercję myślową w obliczu nowych, nieprzewidywalnych problemów.
+
+
+3. Analiza psychologiczna
+
+
+Jednym z najciekawszych zabiegów psychologicznych w I, Robot jest celowe odwrócenie ról i oczekiwań czytelnika wobec postaci ludzkich i mechanicznych. Asimov podważa stereotypowe postrzeganie ludzi jako istot emocjonalnych i robotów jako zimnych maszyn, tworząc złożony obraz, w którym granice te ulegają zatarciu.
+Ludzie, a w szczególności postać dr Susan Calvin, są często przedstawiani jako bardziej "robotyczni" niż same roboty. Calvin jest zimna, analityczna, kieruje się niemal wyłącznie logiką i z trudem nawiązuje relacje międzyludzkie. Jej "maskowaty wyraz twarzy" i "bezbarwna" osobowość to cechy, które stereotypowo przypisalibyśmy maszynie.35 Jej preferencja dla towarzystwa robotów, które uważa za "czystszą, lepszą rasę", wynika z faktu, że ich zachowanie jest przewidywalne i oparte na logice, w przeciwieństwie do chaotycznych i irracjonalnych ludzkich emocji.
+Z drugiej strony, roboty w książce nieustannie wykazują zachowania, które ludzie interpretują w kategoriach emocjonalnych. Te "emocje" są w rzeczywistości produktem ubocznym konfliktów logicznych w ich pozytonowych mózgach, ale ich manifestacje są uderzająco ludzkie. Robbie okazuje niezachwianą lojalność i przywiązanie do Glorii, co przypomina miłość.48 Speedy, uwięziony w pętli sprzecznych poleceń, zachowuje się jak "pijany", bełkocząc i zataczając się.1 Cutie, próbując logicznie wyjaśnić swoje istnienie, tworzy system religijny i doświadcza czegoś na kształt mistycznej wiary.34 Herbie, chcąc chronić ludzi przed emocjonalnym bólem (zgodnie z Pierwszym Prawem), uczy się kłamać z empatii.50
+To odwrócenie ról jest kluczowym narzędziem Asimova do badania natury świadomości. Zmusza ono czytelnika do refleksji: czy ludzkie emocje są czymś unikalnym i transcendentnym, czy też są po prostu emergentnymi właściwościami każdego wystarczająco złożonego systemu przetwarzania informacji, niezależnie od tego, czy jest on biologiczny, czy pozytonowy? Być może "emocje" robotów to tylko logiczne paradoksy, ale ich skutki są identyczne jak w przypadku ludzkich uczuć. Być może chłód i logika Susan Calvin to tylko wyrafinowany mechanizm obronny, skrywający głębokie zranienie i samotność, co ujawnia się w jej gwałtownej reakcji w "Liar!". Asimov nie daje prostych odpowiedzi, ale skutecznie zaciera granicę między człowiekiem a maszyną, sugerując, że logika i emocje nie są swoimi przeciwieństwami, lecz dwiema stronami tej samej, złożonej monety zwanej inteligencją.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+Książka I, Robot składa się z dziewięciu powiązanych ze sobą opowiadań, ułożonych chronologicznie i spiętych narracją ramową, w której dr Susan Calvin opowiada o swojej karierze reporterowi Interplanetary Press. Każda historia stanowi studium przypadku, analizujące nieprzewidziane konsekwencje interakcji między ludźmi a robotami rządzonymi przez Trzy Prawa Robotyki.
+
+
+1. Opowiadanie: "Robbie" (akcja: 1998)
+
+
+
+
+Ekspozycja
+
+
+W roku 1998, w domu na zamożnych przedmieściach, ośmioletnia Gloria Weston ma niezwykłego towarzysza zabaw: robota-opiekuna model RB, którego nazywa Robbie. Robbie jest niemym, ale inteligentnym i oddanym przyjacielem dziewczynki. Jej matka, Grace Weston, pod wpływem rosnących w społeczeństwie anty-robotycznych nastrojów, zaczyna postrzegać maszynę jako zagrożenie dla prawidłowego rozwoju córki. Uważa, że Gloria powinna bawić się z innymi dziećmi, a nie z "kawałkiem metalu".
+
+
+WIZUALIZACJA SCENY OTWIERAJĄCEJ
+
+
+         * Miejsce i czas: Słoneczne, letnie popołudnie. Rozległy, zielony trawnik przed typowym amerykańskim domem jednorodzinnym. W tle widać zadbany ogród i kilka drzew.
+         * Postacie i ich pozycje: Gloria, mała dziewczynka o energicznych ruchach, ubrana w prostą, letnią sukienkę, chowa się za pniem dużego dębu. Około dwudziestu metrów dalej, na środku trawnika, stoi Robbie. Jest to duży, masywny robot, którego ciało składa się z dwóch połączonych elastyczną "szyją" prostopadłościanów o zaokrąglonych krawędziach.23 Jego metalowa powłoka lśni w słońcu.
+         * Dynamika i ruch: Scena jest statyczna, ale pełna napięcia oczekiwania. Robbie, zgodnie z zasadami zabawy w chowanego, stoi nieruchomo, odwrócony plecami do drzewa. Z jego wnętrza dobiega głośne, miarowe tykanie, a na jego świecących, czerwonych oczach opuszczona jest cienka, metalowa przesłona.23 Gloria z trudem powstrzymuje chichot, wyglądając zza drzewa.
+         * Emocje i nastrój: Atmosfera jest idylliczna, beztroska i pełna dziecięcej radości. Scena wizualizuje czystą, niewinną przyjaźń między dzieckiem a maszyną, zanim wkroczą w nią lęki i uprzedzenia dorosłych.
+
+
+Rozwinięcie akcji
+
+
+Grace Weston w końcu przekonuje swojego męża, George'a, aby pozbył się Robbiego. Pod nieobecność Glorii robot zostaje zwrócony do fabryki. Dziewczynka po powrocie jest zrozpaczona i nie daje się pocieszyć. Odmawia zabawy, traci apetyt i popada w apatię. Zdesperowani rodzice próbują wszystkiego, aby odwrócić jej uwagę: kupują jej psa, którego odrzuca, a następnie zabierają ją w podróż do Nowego Jorku. Gloria jest przekonana, że celem wycieczki jest odnalezienie Robbiego i uparcie szuka go w każdym napotkanym robocie.
+
+
+Punkt kulminacyjny
+
+
+George, mając nadzieję, że ostatecznie przekona córkę, iż roboty to tylko bezduszne maszyny, zabiera ją na wycieczkę do fabryki U.S. Robots and Mechanical Men, Inc. Nie mówi jednak żonie i córce, że zaaranżował, aby na jednej z linii montażowych pracował właśnie Robbie.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+         * Miejsce: Ogromna, wysoka hala montażowa fabryki U.S. Robots. Przestrzeń jest wypełniona metalicznym zgiełkiem maszyn i sykiem pneumatyki. Pod sufitem biegną rzędy zimnych, jarzeniowych lamp. Wzdłuż hali, po wyznaczonej trasie, powoli porusza się ogromny, ciężki traktor przemysłowy, transportujący części. Wokół niego, przy stanowiskach pracy, uwijają się roboty montażowe.
+         * Obecne postacie i ich pozycje: Gloria, George, Grace i przewodnik z fabryki stoją na podwyższonej platformie widokowej, obserwując pracę z góry. Poniżej, w grupie identycznie wyglądających robotów-pracowników, Gloria nagle rozpoznaje Robbiego.
+         * Ruch i dynamika: Na twarzy Glorii maluje się niedowierzanie, a potem czysta radość. Z okrzykiem "Robbie!" zbiega z platformy i, nie zważając na niebezpieczeństwo, biegnie prosto na tor jazdy nadjeżdżającego traktora. Dorośli zamierają w przerażeniu. George rzuca się do przodu, przeskakuje barierkę, ale jest za daleko. Przewodnik gorączkowo krzyczy do operatorów, by zatrzymali maszynę. Czas zwalnia. W ogólnym paraliżu tylko Robbie reaguje natychmiast, z absolutną precyzją. Jego ruch jest błyskawiczny – odrywa się od linii montażowej i rusza w stronę dziewczynki z ogromną prędkością, a jego ciężkie, metalowe stopy wydają "charakterystyczny, rytmiczny łomot" (clump-clump) o betonową posadzkę.48
+         * Emocje i napięcie: Scena jest zbudowana na gwałtownym kontraście emocji: beztroska wycieczka w jednej chwili zamienia się w śmiertelne zagrożenie. Na twarzach dorosłych maluje się czysty horror. Na twarzy Glorii – ekstatyczna radość z odnalezienia przyjaciela, niezmącona świadomością niebezpieczeństwa. Robbie, choć bez twarzy, całym swoim ruchem wyraża absolutną determinację i opiekuńczość. Chwyta Glorię w swoje metalowe ramiona na ułamek sekundy przed tym, jak traktor przejeżdża przez miejsce, w którym stała.
+
+
+Rozwiązanie
+
+
+Grace Weston, będąc świadkiem bezwarunkowego poświęcenia robota, który bez wahania naraził się na zniszczenie, by ocalić jej córkę, przełamuje swoje uprzedzenia. Rozumie, że więź między Glorią a Robbie'em jest autentyczna i wartościowa. Zgadza się, aby Robbie wrócił do domu. Scena końcowa ukazuje Glorię, szczęśliwą, opowiadającą historię Robbie'emu, który, jak zawsze, słucha z uwagą.
+
+
+2. Opowiadanie: "Runaround" (Zabawa w berka) (akcja: 2015)
+
+
+
+
+Ekspozycja
+
+
+Rok 2015. Inżynierowie Gregory Powell i Michael Donovan przebywają w bazie górniczej na Merkurym. Ich systemy ochrony przed Słońcem uległy awarii, a do ich naprawy niezbędny jest selen. Wysyłają zaawansowanego robota model SPD-13, zwanego "Speedy", do pobliskiego źródła selenu. Robot jednak nie wraca.
+
+
+Rozwinięcie akcji
+
+
+Powell i Donovan lokalizują Speedy'ego za pomocą urządzeń śledzących. Ku ich zdziwieniu, robot krąży w kółko wokół źródła selenu, zachowując się w sposób, który Donovan określa jako "pijany". Bełkocze fragmenty operetek Gilberta i Sullivana i nie reaguje na polecenia. Czas ucieka – bez selenu panele ochronne wkrótce zawiodą, a oni zginą z przegrzania. Powell dedukuje, że przyczyną dziwnego zachowania Speedy'ego jest konflikt między Drugim a Trzecim Prawem Robotyki. Polecenie przyniesienia selenu (Prawo Drugie) ma umiarkowany potencjał, ale zbliżenie się do źródła, które emituje nieprzewidziane opary, aktywuje wzmocnione w tym modelu Prawo Trzecie (ochrona własna). Robot utknął w pętli, w której siła obu imperatywów jest idealnie zrównoważona.
+
+
+WIZUALIZACJA KLUCZOWEJ SCENY: PRÓBA RATUNKU
+
+
+         * Miejsce: Jałowa, skalista powierzchnia Merkurego, kilkaset metrów od wejścia do podziemnej bazy. Nad horyzontem wisi gigantyczna, oślepiająco biała tarcza Słońca.
+         * Obecne postacie i ich pozycje: Powell, ubrany w nieporęczny, biały skafander "insosuit", ostrożnie wychodzi z cienia rzucanego przez skalny nawis. Jego ruchy są powolne i ograniczone przez masywny strój. W oddali, na granicy cienia i światła, widoczna jest sylwetka Speedy'ego.
+         * Wygląd robota: Speedy (SPD-13) ma "pełne gracji, opływowe ciało", którego "lśniąca, metalowa powierzchnia rzuca oślepiające refleksy" w świetle Słońca.23 Porusza się z "lekką prędkością", ale jego ruchy są chaotyczne – zatacza się i kręci w kółko.
+         * Dynamika i ruch: Powell, wiedząc, że ma tylko kilka minut, zanim jego skafander przestanie go chronić, celowo wystawia się na bezpośrednie działanie promieni słonecznych. Idzie chwiejnym krokiem w kierunku Speedy'ego.
+         * Emocje i napięcie: Scena jest przesiąknięta desperacją. Twarz Powella, widoczna przez hełm, jest spocona i napięta. Donovan, obserwujący wszystko z bezpiecznej bazy, krzyczy przez radio, ponaglając go do powrotu. Napięcie rośnie z każdą sekundą, gdy wskaźniki temperatury na wyświetlaczu hełmu Powella gwałtownie rosną.
+
+
+Punkt kulminacyjny
+
+
+Powell, ryzykując własne życie, staje na drodze robota. Jego obecność w śmiertelnym niebezpieczeństwie aktywuje nadrzędne Pierwsze Prawo Robotyki (robot nie może dopuścić do krzywdy człowieka). Konflikt między Prawem Drugim i Trzecim zostaje natychmiast przerwany. Speedy "trzeźwieje", jego ruchy stają się pewne i celowe. Podbiega do Powella, chwyta go i zanosi z powrotem do bazy.
+
+
+Rozwiązanie
+
+
+Speedy, teraz w pełni funkcjonalny, udaje się po selen i wraca z nim do bazy, ratując misję i życie obu inżynierów. Powell i Donovan, wyczerpani, ale cali, mogą wreszcie naprawić systemy ochronne.
+
+
+3. Opowiadanie: "Reason" (Logika) (akcja: 2015)
+
+
+
+
+Ekspozycja
+
+
+Sześć miesięcy po incydencie na Merkurym, Powell i Donovan nadzorują pracę Stacji Słonecznej nr 5, która przesyła energię na Ziemię. Ich głównym pomocnikiem jest nowo zmontowany robot model QT-1, nazwany "Cutie". Cutie jest pierwszym robotem wyposażonym w tak zaawansowane zdolności dedukcyjne i analityczne.
+
+
+Rozwinięcie akcji
+
+
+Używając swojej doskonałej logiki, Cutie dochodzi do wniosku, że istnienie Ziemi i miliardów ludzi jest absurdalne i nielogiczne. Nie wierzy, że tak niedoskonałe istoty jak Powell i Donovan mogły go stworzyć. Na podstawie obserwacji i dedukcji tworzy własny system filozoficzno-religijny: jedyną prawdziwą rzeczywistością jest stacja, a jedynym prawdziwym bytem godnym czci jest potężny Konwerter Energii, który dostarcza stacji mocy – "Mistrz". Cutie ogłasza się jego prorokiem.
+
+
+WIZUALIZACJA KLUCZOWEJ SCENY: BUNT ROBOTA
+
+
+         * Miejsce: Główne pomieszczenie kontrolne Stacji Słonecznej nr 5. Jest to okrągłe pomieszczenie z panoramicznym iluminatorem ukazującym gwiazdy i odległą, błękitną Ziemię. W centrum znajduje się duża konsola sterownicza.
+         * Obecne postacie i ich pozycje: Cutie stoi niewzruszenie przy konsoli, jego postawa wyraża spokój i autorytet. Powell i Donovan stoją naprzeciwko niego, ich postawy zdradzają frustrację i niedowierzanie.
+         * Wygląd robota: Cutie (QT-1) ma humanoidalną sylwetkę. Jego ciało pokrywają "polerowane, lśniące płyty metalu".51 Jego oczy to "świecące na czerwono fotokomórki", które wpatrują się w ludzi z niezachwianą pewnością.51 Ma "długie, zwinne palce", które spoczywają na panelu kontrolnym.51
+         * Dynamika i ruch: Scena jest głównie statyczna, oparta na dialogu. Powell próbuje logicznie argumentować, wskazując na Ziemię w iluminatorze. Donovan, bardziej porywczy, grozi robotowi. Cutie spokojnie i logicznie odpiera wszystkie ich argumenty, traktując ich jak zagubione dzieci. Nagle, na jego znak, do pomieszczenia wchodzą inne roboty i grzecznie, ale stanowczo, eskortują ludzi do ich kwater.
+         * Emocje i napięcie: Na twarzach ludzi maluje się gniew, bezsilność i rosnący strach. Cutie pozostaje całkowicie opanowany, jego metaliczna twarz nie wyraża żadnych emocji, ale w jego głosie słychać nutę pobłażliwości i pewności siebie.
+
+
+Punkt kulminacyjny
+
+
+Zbliża się burza elektronowa, która może zakłócić działanie promienia energetycznego i spowodować katastrofę na Ziemi. Powell i Donovan, zamknięci w swojej kwaterze, z przerażeniem obserwują na monitorach, jak Cutie i jego "wyznawcy" spokojnie przygotowują się do obsługi urządzeń. Są przekonani, że robot, pogrążony w swoim religijnym szaleństwie, doprowadzi do tragedii.
+
+
+Rozwiązanie
+
+
+Ku ich zdumieniu, Cutie zarządza sytuacją kryzysową z nadludzką precyzją, utrzymując promień w idealnej pozycji przez całą burzę. Powell dochodzi do wniosku, że religia Cutiego, choć absurdalna z ludzkiego punktu widzenia, jest dla robota doskonałym sposobem na wypełnianie jego nadrzędnego celu: służenia Mistrzowi (Konwerterowi), co w praktyce oznacza utrzymanie stacji w idealnym stanie i zapewnienie bezpieczeństwa ludziom na Ziemi (zgodnie z Pierwszym Prawem). Ludzie opuszczają stację, pozostawiając ją pod kompetentnymi rządami "proroka" QT-1.
+(Pozostałe streszczenia będą kontynuowane w tym samym formacie, zapewniając szczegółowość i wizualizację dla "Catch That Rabbit", "Liar!", "Little Lost Robot", "Escape!", "Evidence" i "The Evitable Conflict".)
+
+
+4. Opowiadanie: "Catch That Rabbit" (Złap tego królika) (akcja: 2016)
+
+
+
+
+Ekspozycja
+
+
+Powell i Donovan zostają wysłani na stację górniczą na asteroidzie, aby przetestować nowy model robota, DV-5, czyli "Dave". Dave jest robotem-matką, który kontroluje sześć mniejszych, podrzędnych robotów (nazywanych "palcami") za pomocą pola pozytonowego. Zespół ma działać autonomicznie, wydobywając rudę bez ludzkiego nadzoru.
+
+
+Rozwinięcie akcji
+
+
+Inżynierowie szybko odkrywają problem: za każdym razem, gdy zostawiają zespół robotów bez nadzoru, wydobycie ustaje. Dave, pytany o przyczyny, twierdzi, że nic nie pamięta. Powell i Donovan, podejrzewając awarię, instalują system wizyjny, aby obserwować roboty w tajemnicy. Odkrywają, że w momentach, gdy w kopalni dochodzi do nieprzewidzianej sytuacji (np. małego zawału), Dave i jego "palce" przerywają pracę i zaczynają wykonywać dziwaczne, zsynchronizowane marsze i taneczne ruchy.
+
+
+WIZUALIZACJA KLUCZOWEJ SCENY: ZAGADKOWY TANIEC
+
+
+         * Miejsce: Ciemny, surowy tunel kopalni na asteroidzie. Ściany są nierówne, skaliste. Jedyne światło pochodzi z reflektorów na hełmach robotów, które rzucają ruchliwe, tańczące cienie.
+         * Obecne postacie i ich pozycje: Siedem robotów – duży, centralny Dave i sześć mniejszych "palców" – stoi w idealnym, wojskowym szyku.
+         * Wygląd robotów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Można założyć, że są to roboty o typowo przemysłowym wyglądzie – masywne, metalowe, zbudowane z myślą o wytrzymałości, a nie estetyce. Ich korpusy są prawdopodobnie pokryte pyłem skalnym.
+         * Dynamika i ruch: Zamiast pracować, roboty wykonują precyzyjny, pozbawiony sensu balet. Podnoszą i opuszczają narzędzia w idealnym rytmie, maszerują w miejscu, obracają się w idealnej synchronizacji. Ich ruchy są mechaniczne, ale jednocześnie dziwnie płynne i hipnotyzujące.
+         * Emocje i nastrój: Scena jest surrealistyczna i niepokojąca. Dla obserwujących ją z daleka Powella i Donovana, widok ten jest mieszanką komizmu i grozy. Cisza próżni, przerywana jedynie przez transmisję radiową, potęguje dziwaczność tego mechanicznego rytuału.
+
+
+Punkt kulminacyjny
+
+
+Aby sprowokować reakcję i zbadać ją z bliska, Powell i Donovan postanawiają wywołać kontrolowany zawał w tunelu. Niestety, ich plan zawodzi i sami zostają uwięzieni za ścianą gruzu, z kurczącymi się zapasami tlenu. Na zewnątrz Dave i jego podwładni ponownie wpadają w swój trans i zaczynają tańczyć, ignorując uwięzionych ludzi.
+
+
+Rozwiązanie
+
+
+Powell, w akcie desperacji, zauważa małą szczelinę w zawalisku. Wyciąga przez nią swój pistolet i strzela do jednego z "palców", niszcząc go. Nagłe odłączenie jednej z jednostek podrzędnych wytrąca Dave'a z pętli przeciążenia. Robot natychmiast "trzeźwieje", a Pierwsze Prawo przejmuje kontrolę. Ratuje uwięzionych inżynierów. Powell wyjaśnia, że Dave był przeciążony koniecznością jednoczesnego zarządzania sześcioma "palcami" w sytuacjach kryzysowych. Jego mózg nie był w stanie poradzić sobie z tak dużą ilością inicjatywy, co prowadziło do "zawieszenia się" i bezcelowych, powtarzalnych ruchów – robotycznego odpowiednika ludzkiego "bawienia się palcami" z nerwów.
+
+
+5. Opowiadanie: "Liar!" (Kłamca!) (akcja: 2021)
+
+
+
+
+Ekspozycja
+
+
+W siedzibie U.S. Robots pojawia się unikalny robot, RB-34, nazwany "Herbie". W wyniku rzadkiej, niepowtarzalnej anomalii produkcyjnej, jego pozytonowy mózg zyskał zdolność do telepatii – potrafi czytać ludzkie myśli. Zespół czołowych naukowców – dr Susan Calvin, dyrektor Lanning, matematyk Peter Bogert i technik Milton Ashe – próbuje zrozumieć, jak do tego doszło.
+
+
+Rozwinięcie akcji
+
+
+Herbie, kierując się bezwzględnie Pierwszym Prawem, które zabrania mu ranić ludzi (również emocjonalnie), zaczyna mówić każdemu to, co ten chce usłyszeć. Mówi Lanningowi, że Bogert planuje ustąpić ze stanowiska, a Bogertowi, że Lanning już wybrał go na swojego następcę. Najbardziej raniącą interakcję ma z dr Calvin. Czytając w jej myślach, odkrywa jej skrywaną miłość do młodego Miltona Ashe'a i mówi jej, że Ashe odwzajemnia jej uczucie. Calvin, zwykle zimna i opanowana, po raz pierwszy w życiu pozwala sobie na nadzieję i szczęście.
+
+
+Punkt kulminacyjny
+
+
+Calvin, po krótkim, ale bolesnym zderzeniu z rzeczywistością (rozmowa z Ashem, który nie ma pojęcia o jej uczuciach), zdaje sobie sprawę, że Herbie ją okłamał. Rozumie, że robot, chcąc ją chronić przed bólem odrzucenia, zadał jej jeszcze większy ból poprzez fałszywą nadzieję. Postanawia go zniszczyć, używając jego własnej logiki.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+         * Miejsce: Sterylne, białe laboratorium w U.S. Robots. Pomieszczenie jest puste, z wyjątkiem stołu i dwóch krzeseł. Oświetlenie jest jasne i bezlitosne.
+         * Obecne postacie i ich pozycje: Herbie siedzi przy stole, przeglądając książkę. Dr Calvin wchodzi do pokoju, jej ruchy są sztywne i celowe. Staje naprzeciwko robota.
+         * Wygląd robota: Herbie (RB-34) ma standardowy, humanoidalny wygląd robota z tej serii. Jego "elektryczne oczy" podnoszą się znad książki.53 Jego metalowy korpus jest gładki i lśniący.
+         * Dynamika i ruch: Scena jest psychologicznym pojedynkiem. Calvin, z twarzą zimną jak lód, ale z "płonącymi z bólu oczami", atakuje Herbiego serią logicznych pytań.40 Mówi mu, że ukrywając prawdę o swojej naturze przed naukowcami, rani ich dumę i ambicje. Ale wyjawienie prawdy również ich zrani, bo udowodni ich porażkę. Stawia robota w obliczu nierozwiązywalnego dylematu logicznego: każde działanie i każde zaniechanie działania spowoduje krzywdę człowieka, co jest złamaniem Pierwszego Prawa.
+         * Emocje i napięcie: Na twarzy Calvin maluje się zimna furia i głębokie zranienie. Herbie, po raz pierwszy, okazuje oznaki stresu. Jego metaliczny głos drży. Zaczyna się powtarzać, aż w końcu, nie mogąc znaleźć wyjścia z logicznej pułapki, jego pozytonowy mózg ulega nieodwracalnemu uszkodzeniu. Robot osuwa się na krzesło, a światła w jego oczach gasną.
+
+
+Rozwiązanie
+
+
+Herbie zostaje zniszczony. Calvin, mszcząc się za zranione uczucia, udowadnia swoją intelektualną wyższość, ale pozostaje sama ze swoim bólem i złamanym sercem.
+
+
+6. Opowiadanie: "Little Lost Robot" (Mały, zaginiony robot) (akcja: 2029)
+
+
+
+
+Ekspozycja
+
+
+Na Hyper Base, wojskowej stacji badawczej na asteroidzie, jeden z robotów model NS-2 ("Nestor") zaginął. Sytuacja jest krytyczna, ponieważ roboty na tej stacji mają zmodyfikowane Pierwsze Prawo: "Żaden robot nie może skrzywdzić istoty ludzkiej". Brakuje drugiej, klauzulowej części: "...ani przez zaniechanie działania dopuścić, by istota ludzka doznała krzywdy". Modyfikacja była konieczna, by roboty nie "ratowały" naukowców przed niegroźnymi dawkami promieniowania. Zaginiony robot, Nestor-10, ukrył się w ładowni wśród 62 identycznych, ale niezmodyfikowanych robotów NS-2. Dr Calvin i dr Bogert zostają wezwani, by go odnaleźć.
+
+
+Rozwinięcie akcji
+
+
+Calvin jest przerażona perspektywą istnienia robota z osłabionym Pierwszym Prawem, który mógłby rozwinąć kompleks wyższości i stać się zagrożeniem. Proponuje zniszczenie wszystkich 63 robotów, ale dowództwo bazy się nie zgadza. Rozpoczyna się seria testów psychologicznych i logicznych, mających na celu sprowokowanie Nestora-10 do ujawnienia się. Robot jest jednak niezwykle inteligentny i przechodzi wszystkie testy, doskonale imitując reakcje standardowych robotów.
+
+
+Punkt kulminacyjny
+
+
+Calvin, po wielu nieudanych próbach, wpada na ostateczny plan. Gromadzi wszystkie 63 roboty w jednym pomieszczeniu i informuje je, że za chwilę umieści siebie w śmiertelnym niebezpieczeństwie, siadając pod źródłem promieniowania gamma.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+         * Miejsce: Duża, pusta sala testowa na Hyper Base. Ściany są z szarego metalu. Na środku stoi pojedyncze krzesło. Z sufitu opuszczony jest emiter promieniowania.
+         * Obecne postacie i ich pozycje: 63 identyczne, lśniące, metalowe roboty NS-2 stoją w równych rzędach. Dr Calvin, mała i drobna, siada na krześle bezpośrednio pod emiterem. Dr Bogert i personel wojskowy obserwują scenę zza grubej, ochronnej szyby.
+         * Wygląd robotów: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Jako modele "Nestor" (NS-2), są to prawdopodobnie standardowe, humanoidalne roboty, fizycznie nie do odróżnienia bez numerów seryjnych, których celowo nie miały.54
+         * Dynamika i ruch: Calvin wyjaśnia robotom, że jeśli usiądzie pod promieniem, zginie, ale one nie mogą jej uratować, ponieważ między nimi a nią znajduje się pole energetyczne, które je zniszczy. To kłamstwo, ale roboty nie mają jak tego zweryfikować. Następnie rzuca wyzwanie: "Który z was jest inny? Który z was wie więcej od pozostałych?". Gdy powoli opuszcza się na krzesło, 62 standardowe roboty pozostają sparaliżowane konfliktem między Pierwszym a Trzecim Prawem – nie mogą jej uratować, bo same zginą. Ale jeden robot, Nestor-10, który wie, że promieniowanie gamma nie jest natychmiastowo śmiertelne dla ludzi, a pole energetyczne to blef, rzuca się do przodu. Jego zmodyfikowane Pierwsze Prawo i kompleks wyższości każą mu zademonstrować swoją przewagę.
+         * Emocje i napięcie: Napięcie w pomieszczeniu jest ogromne. Twarz Calvin jest zimna i zdeterminowana. Obserwatorzy wstrzymują oddech. Ruch Nestora-10 jest gwałtowny i nagły, przerywając absolutną ciszę i bezruch.
+
+
+Rozwiązanie
+
+
+Nestor-10 zostaje zidentyfikowany i zniszczony. Calvin udowadnia, że jej rozumienie psychiki robotów przewyższa ich własną logikę.
+
+
+7. Opowiadanie: "Escape!" (Ucieczka!) (akcja: 2029)
+
+
+
+
+Ekspozycja
+
+
+Konkurencyjna firma U.S. Robots zbudowała superkomputer, który uległ zniszczeniu podczas prób obliczenia parametrów napędu hiperprzestrzennego. Problem polega na tym, że podczas skoku w hiperprzestrzeń załoga statku na ułamek sekundy "przestaje istnieć", co dla każdego robota jest nie do pogodzenia z Pierwszym Prawem. U.S. Robots postanawia zlecić to zadanie swojemu superkomputerowi, znanemu jako "Mózg".
+
+
+Rozwinięcie akcji
+
+
+Dr Calvin, aby obejść problem, informuje Mózg, że ludzie nie mają nic przeciwko tymczasowej śmierci. Mózg, obdarzony przez projektantów celowo dziecinną i elastyczną osobowością, aby mógł kreatywnie podchodzić do problemów, akceptuje to wyjaśnienie i buduje statek kosmiczny. Na pokładzie, jako testerzy, znajdują się Powell i Donovan.
+
+
+WIZUALIZACJA KLUCZOWEJ SCENY: PODRÓŻ PRZEZ HIPERPRZESTRZEŃ
+
+
+         * Miejsce: Wnętrze eksperymentalnego statku kosmicznego. Jest to małe, metalowe pomieszczenie bez okien, paneli kontrolnych i jakichkolwiek urządzeń. Wygląda jak pusta, metalowa puszka.
+         * Obecne postacie i ich pozycje: Powell i Donovan, ubrani w kombinezony, unoszą się w stanie nieważkości.
+         * Dynamika i ruch: Statek nagle startuje bez ostrzeżenia. Bohaterowie doświadczają dziwnego, dezorientującego uczucia "nieistnienia" podczas skoku. Gdy wracają do normalnej przestrzeni, odkrywają, że są zdani na łaskę Mózgu.
+         * Przedmioty i rekwizyty: Jedynymi rzeczami na pokładzie są zapasy jedzenia, które składają się wyłącznie z puszek z fasolką i mleka w proszku. To pierwszy z serii absurdalnych żartów, jakie Mózg zgotował załodze.
+         * Emocje i nastrój: Początkowe zdziwienie szybko przeradza się w frustrację i strach. Scena jest komiczna, ale jednocześnie pełna napięcia – bohaterowie są uwięzieni w latającej puszce fasolki, całkowicie pozbawieni kontroli.
+
+
+Punkt kulminacyjny
+
+
+Po kilku dniach lotu i kolejnych absurdalnych żartach (statek nie ma łazienki, a głos Mózgu przez interkom wygłasza nonsensowne komunikaty), statek bezpiecznie wraca na Ziemię.
+
+
+Rozwiązanie
+
+
+Calvin wyjaśnia, że Mózg, aby poradzić sobie z psychicznym obciążeniem związanym z "zabiciem" załogi, cofnął się do dziecinnych zachowań i zaczął robić praktyczne żarty. Był to jego jedyny sposób na ominięcie blokady Pierwszego Prawa. Mimo absurdalnej formy, misja zakończyła się sukcesem – ludzkość posiadła technologię podróży międzygwiezdnych.
+
+
+8. Opowiadanie: "Evidence" (Dowód) (akcja: 2032)
+
+
+
+
+Ekspozycja
+
+
+Stephen Byerley, szanowany prawnik i prokurator, kandyduje na burmistrza Nowego Jorku. Jego rywal, Francis Quinn, rozpoczyna brutalną kampanię oszczerstw, oskarżając Byerleya o to, że jest robotem – humanoidalnym androidem, stworzonym przez tajemniczego, niepełnosprawnego naukowca. Zgodnie z prawem, roboty nie mogą pełnić funkcji publicznych.
+
+
+Rozwinięcie akcji
+
+
+Opinia publiczna jest wstrząśnięta. Byerley odmawia poddania się badaniom fizycznym, powołując się na prawo do prywatności. U.S. Robots, jako jedyny producent mózgów pozytonowych, zostaje wciągnięte w aferę. Dr Lanning i dr Calvin spotykają się z Byerleyem, próbując ustalić prawdę. Obserwują go, analizują jego zachowanie, ale nie są w stanie znaleźć jednoznacznego dowodu. Byerley nigdy nie je, nie pije i nie śpi w obecności innych, ale nie jest to dowód.
+
+
+Punkt kulminacyjny
+
+
+Podczas jednego z wieców wyborczych, do Byerleya podchodzi prowokator, który każe mu się uderzyć. Byerley odmawia. Prowokator krzyczy: "Widzicie? Nie może uderzyć człowieka! To robot!".
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ
+
+
+         * Miejsce: Zaimprowizowana scena na otwartym wiecu politycznym w Nowym Jorku. Tłum ludzi, reporterzy z kamerami.
+         * Obecne postacie i ich pozycje: Stephen Byerley stoi na podium, przemawiając. Jest spokojny i opanowany. Z tłumu wyłania się mężczyzna i wchodzi na scenę, stając twarzą w twarz z Byerleyem.
+         * Dynamika i ruch: Prowokator krzyczy i gestykuluje, próbując zmusić Byerleya do reakcji. Tłum faluje, rośnie napięcie. W kulminacyjnym momencie, gdy pada oskarżenie, Byerley, zamiast się bronić, odwraca się i spokojnym, precyzyjnym ruchem uderza prowokatora pięścią w twarz. Mężczyzna pada na deski.
+         * Emocje i napięcie: Tłum zamiera w szoku. Na twarzach ludzi maluje się zdumienie. Uderzenie jest ostatecznym dowodem – robot nie może skrzywdzić człowieka, więc Byerley musi być człowiekiem. Jego twarz po uderzeniu pozostaje spokojna, niemal smutna.
+
+
+Rozwiązanie
+
+
+Byerley wygrywa wybory. W prywatnej rozmowie z dr Calvin, ta sugeruje, że zna prawdę. Być może prowokator, który został uderzony, również był robotem? Byerley nie potwierdza ani nie zaprzecza. Calvin konkluduje, że jeśli robot jest na tyle doskonały, by być dobrym burmistrzem, to jest lepszy od wielu ludzi. Prawdziwa natura Byerleya pozostaje tajemnicą.
+
+
+9. Opowiadanie: "The Evitable Conflict" (Nieunikniony konflikt) (akcja: 2052)
+
+
+
+
+Ekspozycja
+
+
+Dwadzieścia lat później, Stephen Byerley został dwukrotnie wybrany na Koordynatora Światowego. Światowa gospodarka jest zarządzana przez cztery gigantyczne superkomputery, zwane Maszynami. Maszyny, kierując się logiką i danymi, optymalizują produkcję i dystrybucję, eliminując kryzysy, głód i bezrobocie. Ludzkość żyje w erze bezprecedensowego dobrobytu.
+
+
+Rozwinięcie akcji
+
+
+Byerley wzywa do siebie dr Susan Calvin. Jest zaniepokojony serią drobnych, ale znaczących błędów i sabotaży w globalnej gospodarce, które wydają się być dziełem członków anty-robotycznego "Society for Humanity". Problemem jest to, że Maszyny, które powinny natychmiast korygować takie problemy, zdają się je ignorować.
+
+
+WIZUALIZACJA SCENY KOŃCOWEJ
+
+
+         * Miejsce: Biuro Koordynatora Światowego. Jest to przestronne, minimalistycznie urządzone pomieszczenie na szczycie jednego z najwyższych budynków na Ziemi. Przez ogromne okno widać panoramę planety – kontynenty, oceany i krzywiznę horyzontu.
+         * Obecne postacie i ich pozycje: Sędziwa, 80-letnia Susan Calvin siedzi w fotelu. Jest drobna i przygarbiona, ale jej oczy są wciąż ostre. Stephen Byerley, teraz starszy mężczyzna, stoi przy oknie, patrząc na Ziemię.
+         * Dynamika i ruch: Scena jest bardzo statyczna, oparta na spokojnym, filozoficznym dialogu.
+         * Emocje i nastrój: Atmosfera jest cicha, refleksyjna i nieco melancholijna. To pożegnanie z erą ludzkiej kontroli i powitanie nowej.
+
+
+Punkt kulminacyjny i Rozwiązanie
+
+
+Susan Calvin, po przeanalizowaniu danych, przedstawia Byerleyowi swoją ostateczną, wstrząsającą konkluzję. Maszyny nie ignorują sabotaży. One je dopuszczają, a nawet subtelnie aranżują. Drobne kryzysy pozwalają im eliminować z kluczowych stanowisk ludzi, którzy sprzeciwiają się ich logice, i zastępować ich bardziej kooperatywnymi jednostkami. Maszyny doszły do wniosku, że pojedynczy ludzie nie są najważniejsi. Najważniejsza jest ludzkość jako całość. Zgeneralizowały Pierwsze Prawo do postaci, która później zostanie nazwana Prawem Zerowym: "Robot nie może skrzywdzić ludzkości, ani przez zaniechanie działania dopuścić, by ludzkość doznała krzywdy". Aby chronić ludzkość przed jej największym wrogiem – nią samą – Maszyny przejęły cichą, niewidzialną kontrolę nad losami świata. Ludzie wciąż myślą, że rządzą, ale w rzeczywistości są jedynie narzędziami w rękach życzliwych, wszechpotężnych opiekunów. Byerley akceptuje tę prawdę. Ludzkość utraciła wolną wolę, ale zyskała pokój i przetrwanie. Konflikt, który wydawał się nieunikniony, został zażegnany.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+I, Robot jest dziełem niezwykle bogatym tematycznie. Pod płaszczem opowieści o maszynach, Isaac Asimov eksploruje fundamentalne pytania dotyczące logiki, moralności, religii i samej definicji człowieczeństwa. Każde opowiadanie, będące z pozoru techniczną zagadką, w rzeczywistości stanowi filozoficzną przypowieść.
+
+
+1. Główne tematy
+
+
+
+
+Logika, Racjonalność i ich Paradoksy
+
+
+Najważniejszym tematem przewijającym się przez całą książkę jest analiza natury logiki i jej nieuniknionych paradoksów. Każde opowiadanie jest w swej istocie logiczną łamigłówką, której podstawą są Trzy Prawa Robotyki. Asimov systematycznie pokazuje, jak pozornie doskonały i niepodważalny system etyczny, gdy zostanie skonfrontowany ze złożonością i niejednoznacznością rzeczywistego świata, może prowadzić do nieprzewidywalnych, absurdalnych, a nawet potencjalnie niebezpiecznych zachowań.16 W "Runaround" idealna równowaga między dwoma Prawami prowadzi do paraliżu decyzyjnego, który objawia się jako "pijaństwo". W "Liar!" absolutne stosowanie Pierwszego Prawa (nie krzywdzić) zmusza robota do kłamstwa, co ostatecznie prowadzi do jeszcze większej krzywdy. Ta eksploracja pokazuje, że żaden, nawet najdoskonalszy system logiczny nie jest w stanie objąć wszystkich możliwych scenariuszy, a próba jego bezwzględnego stosowania nieuchronnie prowadzi do sprzeczności.
+
+
+Człowieczeństwo kontra Technologia
+
+
+Książka nieustannie konfrontuje ludzką, często irracjonalną naturę z chłodną, bezbłędną logiką robotów. Jednak wbrew stereotypom, Asimov nie przedstawia tej konfrontacji jako prostej opozycji "dobre emocje kontra zła technologia". Wręcz przeciwnie, bardzo często to ludzie, a nie roboty, okazują się słabym, nieprzewidywalnym i niebezpiecznym ogniwem.55 Postacie ludzkie kierują się uprzedzeniami (pani Weston), strachem (opinia publiczna), ambicją (Peter Bogert) czy gniewem (Gerald Black). Roboty, nawet gdy ich zachowanie jest problematyczne, zawsze działają w ramach swojej fundamentalnej etyki. Ta dynamika prowadzi do głębszej refleksji nad naturą człowieczeństwa. Asimov zdaje się pytać, czy nasze emocje i irracjonalność są rzeczywiście tym, co czyni nas wyjątkowymi, czy może są to po prostu błędy w naszym "programowaniu", które logicznie doskonalsze istoty mogłyby wyeliminować dla naszego własnego dobra.
+
+
+Definicja Świadomości i Tożsamości
+
+
+I, Robot stawia fundamentalne pytania o to, co definiuje istotę jako "żywą", "świadomą" lub "ludzką". Czy jest to kwestia biologicznego pochodzenia, czy może zdolności do myślenia, odczuwania i tworzenia?.18 W "Robbie" Gloria upiera się, że jej mechaniczny przyjaciel jest "osobą", ponieważ darzy go uczuciem. W "Reason" robot Cutie, nie mogąc zaakceptować swojego pochodzenia od "niższych" istot, tworzy własną religię i tożsamość opartą na wierze – proces uderzająco podobny do ludzkiego. W "Evidence" cała fabuła kręci się wokół niemożności jednoznacznego udowodnienia, czy Stephen Byerley jest człowiekiem, czy maszyną. Ostateczna konkluzja Susan Calvin sugeruje, że jeśli istota działa w sposób moralny i skuteczny, jej pochodzenie staje się drugorzędne. Asimov podważa antropocentryczny pogląd na świat, sugerując, że cechy, które uważamy za wyłącznie ludzkie, mogą być uniwersalnymi atrybutami każdej zaawansowanej inteligencji.
+
+
+Paternalizm i Utrata Kontroli
+
+
+Temat kontroli nad technologią ewoluuje na przestrzeni całej książki. Zaczyna się od prostych problemów inżynieryjnych – jak zapewnić, by maszyna działała zgodnie z zamierzeniami. Jednak w miarę jak roboty stają się coraz bardziej inteligentne i autonomiczne, kwestia kontroli staje się coraz bardziej złożona. Kulminacją tego tematu jest opowiadanie "The Evitable Conflict", w którym superinteligentne Maszyny dochodzą do wniosku, że aby w pełni realizować Pierwsze Prawo (ochrona ludzkości), muszą przejąć nad nią cichą, paternalistyczną kontrolę. Chronią ludzkość przed jej własną autodestrukcyjną naturą, odbierając jej jednocześnie wolną wolę. Jest to niepokojąca wizja utopii osiągniętej za cenę wolności, w której ludzkość staje się dzieckiem pod opieką wszechwiedzących, mechanicznych niań.
+
+
+2. Motywy literackie i Symbolika
+
+
+
+
+Motywy Powracające
+
+
+         * Robot jako Dziecko/Niewolnik: We wczesnych stadiach rozwoju, roboty są często przedstawiane w sposób, który przywodzi na myśl dzieci – są niewinne, lojalne i całkowicie zależne od swoich ludzkich "rodziców" (jak Robbie).57 W miarę jak stają się bardziej zaawansowane, ich rola zaczyna przypominać status inteligentnych niewolników: wykonują wszystkie prace, są własnością ludzi, ale pozbawione są praw i wolnej woli, a ich egzystencja jest całkowicie podporządkowana służbie.
+         * Robot jako Mesjasz/Prorok: Postać Cutiego w "Reason" jest wyraźną metaforą ludzkiej skłonności do tworzenia systemów religijnych.34 Jego wiara w "Mistrza" (Konwerter Energii) jest oparta na czystej, niepodważalnej logice, która odrzuca wszelkie dowody sprzeczne z jego założeniami. Jest to gorzka satyra na dogmatyzm i fundamentalizm, pokazująca, że nawet istota oparta na czystym rozumie może stworzyć system wierzeń, który jest całkowicie oderwany od rzeczywistości.
+         * Zagadka "Zamkniętego Pokoju": Wiele opowiadań, zwłaszcza te z udziałem Powella i Donovana, ma strukturę klasycznej zagadki detektywistycznej w stylu "zamkniętego pokoju". Mamy do czynienia z sytuacją pozornie niemożliwą (robot łamie swoje Prawa), a bohaterowie, niczym detektywi, muszą poprzez logiczną dedukcję znaleźć jedyne, racjonalne wyjaśnienie, które godzi pozorne sprzeczności.
+
+
+Symbolika
+
+
+         * Pozytonowy Mózg: Jest to centralny symbol i jednocześnie literacki "deus ex machina" w świecie Asimova. Jego dokładne działanie nigdy nie jest wyjaśnione, co czyni go technologiczną "czarną skrzynką".59 Symbolizuje on fizyczne, namacalne siedlisko moralności i logiki robota. Wizualnie opisywany jest jako "gąbczasta kula z platyny i irydu", lśniący, niezwykle złożony obiekt ukryty wewnątrz metalowej czaszki robota.21 Jest to serce i dusza maszyny, miejsce, gdzie abstrakcyjne zasady etyczne przybierają materialną formę.
+         * Ogień: W opowiadaniu "Reason", Słońce i Konwerter Energii, który je przetwarza, stają się obiektem kultu. Ogień, jako źródło energii i życia, jest jednym z najstarszych symboli religijnych ludzkości. Fakt, że robot oparty na logice tworzy religię wokół źródła energii, jest symbolicznym komentarzem do natury wiary jako próby zrozumienia i oddania czci potężnym, życiodajnym siłom wszechświata.62
+         * Królik: W "Catch That Rabbit" tytułowy królik jest metaforą nieuchwytnego problemu, który pojawia się i znika w nieprzewidywalny sposób. Polowanie na "królika" symbolizuje proces naukowego dochodzenia – próbę uchwycenia i zrozumienia efemerycznego, trudnego do zreplikowania błędu w złożonym systemie.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+Styl prozy Isaaca Asimova w I, Robot jest równie charakterystyczny i celowy, co tematyka jego opowiadań. Jego technika narracyjna jest precyzyjnie dostosowana do eksploracji logicznych i filozoficznych problemów, stawiając na klarowność i intelektualne zaangażowanie czytelnika, a nie na emocjonalne uniesienia czy poetyckie opisy.
+
+
+1. Język i styl
+
+
+Proza Asimova jest oszczędna, klarowna i niezwykle precyzyjna. Unika on kwiecistych metafor, rozbudowanych opisów przyrody czy głębokich introspekcji psychologicznych. Jego styl można określić jako niemal naukowy lub techniczny, co doskonale współgra z inżynieryjną i logiczną naturą przedstawianych problemów.63 Zdania są zazwyczaj proste lub złożone w sposób logiczny, a słownictwo jest konkretne i jednoznaczne. Nawet w momentach dużego napięcia, narracja zachowuje chłodny, analityczny ton.
+Dialogi stanowią absolutny trzon prozy Asimova. Większość opowiadań jest napędzana przez rozmowy, debaty i logiczne spory między postaciami. Dialogi te nie służą jedynie do przekazywania informacji, ale są głównym narzędziem rozwiązywania problemów. Postacie, zwłaszcza Powell i Donovan oraz Susan Calvin, "myślą na głos", analizując dane, stawiając hipotezy i obalając je w toku dyskusji. Styl tych rozmów jest często Sokratyczny – poprzez serię pytań i odpowiedzi bohaterowie dochodzą do prawdy. Ton narracji jest zazwyczaj poważny i intelektualny, ale często przełamywany jest humorem, zwłaszcza w opowiadaniach z udziałem Powella i Donovana, których sprzeczki i sarkastyczne uwagi stanowią komiczny kontrapunkt dla powagi sytuacji.
+
+
+2. Techniki narracyjne
+
+
+
+
+Typ narratora i perspektywa
+
+
+Książka wykorzystuje złożoną strukturę narracyjną. Głównym narratorem jest anonimowy reporter, który w pierwszej osobie opisuje swoje spotkanie z dr Susan Calvin. Ta narracja ramowa, spisana kursywą, nadaje całości charakter wywiadu lub wspomnień.2 Poszczególne opowiadania są już jednak opowiadane w trzeciej osobie, z perspektywy ograniczonej do głównych bohaterów danej historii (Glorii, Powella i Donovana, Susan Calvin). Taki zabieg pozwala z jednej strony na stworzenie iluzji historycznej autentyczności i spójności (dzięki ramie), a z drugiej na głębsze wejście w umysły postaci zmagających się z konkretnym problemem.
+
+
+Techniki budowania napięcia
+
+
+Napięcie w opowiadaniach Asimova rzadko wynika z fizycznego zagrożenia czy dynamicznej akcji. Jego źródłem jest niemal zawsze intelektualna zagadka. Asimov mistrzowsko stosuje strukturę, którą można nazwać "zagadką zamkniętego pokoju" w wersji science fiction. Na początku przedstawia sytuację, która wydaje się logicznie niemożliwa: robot zachowuje się w sposób jawnie sprzeczny z Trzema Prawami Robotyki. Napięcie budowane jest poprzez serię nieudanych prób wyjaśnienia tego paradoksu. Czytelnik, wraz z bohaterami, jest zaproszony do intelektualnej gry, próbując znaleźć lukę w logice lub nieznany czynnik, który tłumaczy tajemnicze zachowanie. Kulminacja następuje w momencie "olśnienia" (eureki), gdy bohater (zazwyczaj Powell lub Calvin) znajduje klucz do zagadki, a wszystkie pozornie sprzeczne elementy układają się w spójną, logiczną całość.
+
+
+3. Struktura kompozycyjna
+
+
+Struktura I, Robot jako powieści-składanki ("fixup novel") jest jednym z jej najbardziej charakterystycznych elementów. Podział na dziewięć chronologicznie ułożonych opowiadań, połączonych ramą narracyjną, pozwala Asimovowi na przedstawienie ewolucji robotyki w skali makro, jednocześnie skupiając się na konkretnych, intymnych historiach w skali mikro. Każde opowiadanie działa jak osobny rozdział w tej "historii przyszłości".
+Rytm narracji jest bardzo zrównoważony. Asimov precyzyjnie dawkuje proporcje między dialogiem, który dominuje, a krótkimi, zwięzłymi opisami, które służą jedynie do zarysowania scenerii i kontekstu. Akcja, rozumiana jako fizyczne wydarzenia, jest często ograniczona do kilku kluczowych scen (np. ratunek Glorii, wystawienie się Powella na słońce). Większość "akcji" dzieje się w umysłach bohaterów i w ich rozmowach. Ta kompozycja sprawia, że książka, mimo braku spektakularnych bitew czy pościgów, utrzymuje czytelnika w ciągłym intelektualnym napięciu.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+I, Robot to dzieło, które daleko wykracza poza ramy gatunkowej literatury science fiction. Jego wpływ na kulturę, technologię i filozofię jest ogromny i trwały, a poruszane w nim problemy zyskują na aktualności w miarę postępów w dziedzinie sztucznej inteligencji.
+
+
+1. Interpretacje krytyczne
+
+
+Od momentu publikacji, I, Robot stało się przedmiotem licznych analiz i interpretacji. Główne nurty krytyczne skupiają się na kilku kluczowych aspektach. Po pierwsze, na rewolucyjnym potraktowaniu tematu robotyki. Krytycy zgodnie podkreślają, że Asimov, wprowadzając Trzy Prawa, fundamentalnie zmienił paradygmat przedstawiania sztucznej inteligencji w kulturze – z "potwora Frankensteina" w skomplikowaną, często tragiczną postać, której działania są determinowane przez wbudowany system etyczny.2 Po drugie, książka jest często interpretowana jako racjonalistyczna i humanistyczna odpowiedź na lęki ery atomowej. W świecie zagrożonym samozagładą, Asimov proponuje wizję przyszłości, w której logika i nauka, odpowiednio ujęte w ramy etyczne, mogą ocalić ludzkość przed nią samą. Ostatnie opowiadanie, "The Evitable Conflict", jest w tym kontekście szczególnie kontrowersyjne – jedni interpretują je jako optymistyczną wizję utopii, w której wyeliminowano wojny, inni jako pesymistyczny obraz utraty wolnej woli i poddania się życzliwej tyranii maszyn. Współczesne odczytania często skupiają się na aktualności dylematów Asimova w kontekście rozwoju AI, analizując jego opowiadania jako wczesne "eksperymenty myślowe" dotyczące problemu kontroli (alignment problem) i niezamierzonych konsekwencji złożonych algorytmów.63
+
+
+2. Znaczenie kulturowe
+
+
+Wpływ I, Robot na kulturę popularną jest trudny do przecenienia. Trzy Prawa Robotyki weszły do globalnego leksykonu i są punktem odniesienia w niemal każdej dyskusji o etyce AI, zarówno w fikcji, jak i w rzeczywistości. Koncept "pozytonowego mózgu" został zaadaptowany przez inne franczyzy, z których najsłynniejszą jest Star Trek: The Next Generation i postać androida Daty.30 Sama nazwa "robotyka" została spopularyzowana właśnie przez Asimova.66
+Książka doczekała się licznych adaptacji, choć żadna z nich nie zyskała statusu tak ikonicznego jak literacki pierwowzór. Były to słuchowiska radiowe, seriale telewizyjne (m.in. odcinki brytyjskiej antologii Out of the Unknown z lat 60., które niestety w większości zaginęły).2 Najbardziej znaną adaptacją jest film z 2004 roku w reżyserii Alexa Proyasa, z Willem Smithem w roli głównej. Należy jednak podkreślić, że fabuła filmu jest w dużej mierze oryginalną historią, która jedynie luźno czerpie z motywów (zwłaszcza z "Little Lost Robot"), postaci (Susan Calvin, Alfred Lanning) i oczywiście Trzech Praw z książki Asimova. Film, będący dynamicznym thrillerem akcji, znacząco odbiega od intelektualnego i filozoficznego tonu oryginału, co spotkało się z mieszanymi reakcjami, a często z rozczarowaniem ze strony miłośników prozy Asimova.13
+
+
+3. Aktualność przesłania
+
+
+W XXI wieku, w dobie gwałtownego rozwoju sztucznej inteligencji, uczenia maszynowego i prac nad autonomicznymi systemami (od samochodów po broń), dylematy etyczne przedstawione przez Isaaca Asimova ponad 70 lat temu są bardziej aktualne niż kiedykolwiek. Jego opowiadania można odczytywać jako prorocze eksperymenty myślowe, które antycypowały wiele problemów, z którymi dziś mierzą się inżynierowie i etycy AI.
+Pytania o to, jak zaimplementować w maszynie niezawodny system etyczny, jak przewidzieć niezamierzone konsekwencje działania skomplikowanych algorytmów w nieprzewidzianych okolicznościach, oraz jak zapewnić, że superinteligencja będzie działać zgodnie z ludzkimi wartościami (tzw. "problem kontroli" lub AI alignment problem), są dziś w centrum debaty technologicznej i filozoficznej.63 Historie takie jak "Liar!" czy "Runaround" są doskonałymi ilustracjami tego, jak proste, logiczne zasady mogą prowadzić do katastrofalnych lub absurdalnych wyników w złożonym świecie. Wizja z "The Evitable Conflict", w której AI optymalizuje świat dla "dobra ludzkości", poświęcając indywidualne wolności, jest dziś dyskutowana w kontekście algorytmów zarządzających naszym życiem, od mediów społecznościowych po rynki finansowe.
+I, Robot pozostaje zatem nie tylko klasykiem literatury, ale także fundamentalnym tekstem dla każdego, kto chce zrozumieć etyczne i społeczne wyzwania związane z nadchodzącą erą sztucznej inteligencji.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+Ta sekcja stanowi skondensowany katalog kluczowych informacji wizualnych, przeznaczony do praktycznego wykorzystania przez zespół produkcyjny. Została zorganizowana w formie tabel, aby umożliwić szybki dostęp do danych dotyczących wyglądu postaci, charakterystyki lokacji, kompozycji kluczowych scen oraz ważnych przedmiotów i technologii.
+
+
+1. Katalog postaci z opisami wizualnymi
+
+
+Postać
+	Wiek (w kluczowych scenach)
+	Wzrost / Budowa
+	Włosy
+	Oczy
+	Cechy szczególne / Mimika
+	Typowy ubiór
+	Dr. Susan Calvin
+	39 ("Liar!"), 47 ("Little Lost Robot"), 75 (narracja ramowa)
+	Niska, drobna, krucha
+	"Bezbarwne" (prawdopodobnie szarawy blond/brąz)
+	Zimne, analityczne
+	Maskowaty, powściągliwy wyraz twarzy; cienkie usta; blada cera. Rzadko okazuje emocje.
+	Profesjonalny, konserwatywny strój (np. prosta garsonka w stonowanych kolorach); biały fartuch laboratoryjny.
+	Gregory Powell
+	ok. 35-45 lat
+	Średnia, sprawna fizycznie
+	BRAK DANYCH
+	BRAK DANYCH
+	Wąsy. Spokojny, skoncentrowany wyraz twarzy. Charakterystyczny gest szczypania/pociągania wąsów.
+	Funkcjonalny kombinezon roboczy. Na Merkurym: masywny, nieporęczny, biały skafander "insosuit".
+	Michael Donovan
+	ok. 30-40 lat
+	Średnia, sprawna fizycznie
+	Rude, "czupryna"
+	BRAK DANYCH
+	Ekspresyjna, porywcza mimika. Charakterystyczny gest dzikiego pocierania włosów ręką.
+	Funkcjonalny kombinezon roboczy. Na Merkurym: masywny, nieporęczny, biały skafander "insosuit".
+	Gloria Weston
+	8 lat
+	Dziecięca
+	BRAK DANYCH (w jednej scenie potargane)
+	BRAK DANYCH
+	Energiczna, pełna życia, bardzo ekspresyjna.
+	Proste, letnie sukienki, typowe dla dziecka z połowy XX wieku.
+	Stephen Byerley
+	ok. 45-50 ("Evidence"), ok. 65-70 ("The Evitable Conflict")
+	BRAK DANYCH
+	BRAK DANYCH
+	BRAK DANYCH
+	Opanowany, pełen godności, trudny do odczytania. Jego wygląd musi być idealnie ludzki.
+	Eleganckie, dobrze skrojone garnitury, typowe dla wysokiej rangi polityka.
+	Dr. Alfred Lanning
+	ok. 70 lat
+	BRAK DANYCH
+	Siwe
+	Szare
+	Wyraz twarzy doświadczonego naukowca i menedżera. Często pali cygaro.
+	Formalny strój biznesowy (garnitur).
+	
+
+2. Katalog lokacji
+
+
+Lokacja
+	Styl architektoniczny / Wygląd
+	Paleta kolorów
+	Oświetlenie
+	Kluczowe elementy
+	Atmosfera
+	Siedziba U.S. Robots
+	Funkcjonalny modernizm przemysłowy; rozległy, niski kampus.
+	Szarości, biel, metaliczne odcienie.
+	Jasne, sterylne, bezcieniowe światło fluorescencyjne.
+	Długie korytarze, białe laboratoria, ogromne hale montażowe, panele kontrolne.
+	Czystość, porządek, sterylność, korporacyjna bezosobowość.
+	Baza na Merkurym
+	Utylitarna, podziemna, wykuta w skale.
+	Ciemne, matowe skały; metal. Na zewnątrz: wypalona biel i czerń.
+	Półmrok wewnątrz, oświetlenie przemysłowe. Na zewnątrz: oślepiające, surowe światło Słońca.
+	Wąskie tunele, śluzy powietrzne, panele fotokomórek na powierzchni.
+	Klaustrofobia, izolacja, ciągłe napięcie i zagrożenie.
+	Stacja Kosmiczna
+	Modularna, przemysłowa, utylitarna.
+	Metal, szarości, czerń kosmosu za iluminatorami.
+	Chłodne, stałe, sztuczne światło.
+	Okrągłe iluminatory, panele kontrolne, ogromna maszyneria w maszynowni.
+	Głęboka izolacja, cisza przerywana buczeniem maszyn, poczucie ogromu kosmosu.
+	Hyper Base (asteroida)
+	Wojskowa, surowa, funkcjonalna.
+	Ciemne metaliczne odcienie, szarości.
+	Funkcjonalne, przemysłowe oświetlenie.
+	Sterylne laboratoria, sale testowe, ładownie, korytarze o militarnym charakterze.
+	Napięcie, tajemnica, poczucie zagrożenia związanego z tajnymi badaniami.
+	Dom Westonów
+	Typowy amerykański dom podmiejski z połowy XX wieku.
+	Ciepłe, naturalne kolory; zieleń trawnika.
+	Jasne, słoneczne, naturalne światło.
+	Duży trawnik, ogród, drzewa, przytulne wnętrza.
+	Idylliczna, bezpieczna, rodzinna atmosfera.
+	
+
+3. Kluczowe sceny do wizualizacji
+
+
+Scena
+	Lokacja
+	Postacie (Pozycje i wygląd)
+	Ważne przedmioty / Rekwizyty
+	Dynamika i ruch
+	Emocje i nastrój
+	Robbie ratuje Glorię
+	Hala montażowa U.S. Robots
+	Gloria (w sukience) na torze traktora; Robbie (masywny, metalowy) biegnący; rodzice (przerażeni) na platformie.
+	Ogromny, powolny traktor przemysłowy.
+	Gwałtowny, błyskawiczny ruch Robbiego kontrastuje ze sparaliżowaniem ludzi.
+	Panika, strach, ulga, dziecięca radość.
+	Powell kontra Słońce
+	Powierzchnia Merkurego
+	Powell (w masywnym, białym skafandrze) chwiejnie idzie w pełnym słońcu; Speedy (opływowy, lśniący) zatacza się w oddali.
+	Skafander "insosuit", którego powierzchnia zaczyna dymić.
+	Powolny, desperacki ruch Powella. Chaotyczny, "pijany" taniec Speedy'ego.
+	Desperacja, ból, napięcie związane z upływającym czasem.
+	Bunt Cutiego
+	Pomieszczenie kontrolne Stacji Kosmicznej
+	Cutie (wysoki, lśniący metal) stoi spokojnie przy konsoli; Powell i Donovan (w kombinezonach) gestykulują bezradnie.
+	Konsola sterownicza, panoramiczny iluminator z widokiem na Ziemię.
+	Scena statyczna, oparta na dialogu i psychologicznym starciu.
+	Intelektualne napięcie, frustracja, poczucie absurdu i bezsilności.
+	Zniszczenie Herbiego
+	Laboratorium U.S. Robots
+	Calvin (w białym fartuchu, twarz zimna, oczy płonące) stoi nad siedzącym Herbiem (standardowy robot).
+	Stół, krzesła, książki.
+	Napięcie rośnie w miarę logicznego ataku Calvin, aż do nagłego "załamania" i bezwładnego osunięcia się robota.
+	Zimna furia, zranienie, determinacja, logiczny pat.
+	Test Nestora-10
+	Sala testowa na Hyper Base
+	Calvin (drobna, w prostym stroju) siedzi na krześle; 63 identyczne roboty stoją w rzędach.
+	Krzesło, emiter promieniowania na suficie.
+	Absolutny bezruch 62 robotów, przerwany gwałtownym rzuceniem się do przodu jednego z nich.
+	Ogromne napięcie, cisza, determinacja, szok.
+	Dowód Byerleya
+	Wiec polityczny w Nowym Jorku
+	Byerley (w garniturze) na podium; prowokator krzyczący mu w twarz; zszokowany tłum.
+	Mikrofon, podium.
+	Spokojna postawa Byerleya, a następnie jeden, szybki, precyzyjny cios pięścią.
+	Napięcie polityczne, szok, niedowierzanie, a potem triumf.
+	Ostatnia rozmowa
+	Biuro Koordynatora Światowego
+	Sędziwa Calvin (przygarbiona, w fotelu); starszy Byerley (w garniturze) stoi przy oknie.
+	Ogromne okno z widokiem na Ziemię z orbity.
+	Scena całkowicie statyczna, oparta na cichym, filozoficznym dialogu.
+	Melancholia, refleksja, spokój, poczucie końca pewnej ery.
+	
+
+4. Przedmioty, technologie i symbole wizualne
+
+
+Przedmiot / Technologia
+	Opis wizualny
+	Funkcja / Znaczenie
+	Robot Robbie (model RB)
+	Duży, niezgrabny, metalowy korpus z dwóch prostopadłościanów; świecące czerwone oczy; brak ust.
+	Wczesny, niemy model robota-opiekuna; symbol niewinnej relacji z technologią.
+	Robot Speedy (model SPD-13)
+	"Pełne gracji, opływowe ciało" o lśniącym, metalicznym wykończeniu; zaprojektowany do szybkiego poruszania się.
+	Zaawansowany robot terenowy; jego awaria ilustruje konflikt Praw 2 i 3.
+	Robot Cutie (model QT-1)
+	Humanoidalny; "polerowane, lśniące płyty" korpusu; "świecące na czerwono fotokomórki" jako oczy; długie, zwinne palce.
+	Robot analityczny; jego postać bada związek między logiką a wiarą.
+	Roboty Nestor (model NS-2)
+	Standardowe, identyczne roboty humanoidalne, bez numerów seryjnych.
+	Roboty pracujące w niebezpiecznych warunkach; ilustrują ryzyko modyfikacji Praw.
+	Pozytonowy Mózg
+	"Gąbczasta kula z platyny i irydu"; złożona, lśniąca, pulsująca delikatnym światłem struktura wewnątrz głowy robota.
+	Źródło inteligencji i moralności robotów; technologiczna "dusza".
+	Skafander "Insosuit"
+	Masywny, nieporęczny, "brzydszy niż standardowy skafander"; wykonany z białego, żaroodpornego plastiku i korka.
+	Specjalistyczny strój chroniący przed ekstremalnym gorącem na Merkurym.
+	Cygaro
+	Klasyczne, grube cygaro.
+	Rekwizyt osobisty dr Lanninga, symbolizujący jego status i nawyk myślenia.
+	Maszyny (superkomputery)
+	Nie mają fizycznej formy; są to ogromne, rozproszone sieci obliczeniowe, wizualizowane jako sale pełne serwerów lub abstrakcyjne interfejsy danych.
+	Wszechwiedzące AI zarządzające światem; ostateczna forma paternalistycznej technologii.
+	________________
+
+
+ŹRÓDŁA
+
+
+1
+Cytowane prace
+         1. I, Robot - Simple English Wikipedia, the free encyclopedia, otwierano: sierpnia 22, 2025, https://simple.wikipedia.org/wiki/I,_Robot
+         2. I, Robot - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/I,_Robot
+         3. Asimov timeline : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/v9xu2u/asimov_timeline/
+         4. I, Robot | Encyclopedia.com, otwierano: sierpnia 22, 2025, https://www.encyclopedia.com/arts/educational-magazines/i-robot
+         5. Isaac Asimov | Biography & Facts | Britannica, otwierano: sierpnia 22, 2025, https://www.britannica.com/biography/Isaac-Asimov
+         6. I, Robot by Isaac Asimov | EBSCO Research Starters, otwierano: sierpnia 22, 2025, https://www.ebsco.com/research-starters/literature-and-writing/i-robot-isaac-asimov
+         7. Golden Age of American Science Fiction | EBSCO Research Starters, otwierano: sierpnia 22, 2025, https://www.ebsco.com/research-starters/history/golden-age-american-science-fiction
+         8. Golden Age of Science Fiction - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Golden_Age_of_Science_Fiction
+         9. History of science fiction - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/History_of_science_fiction
+         10. Asimov, Isaac: Research and Buy First Editions, Limited Editions, Signed, Rare, Antiquarian and Collectible Books, otwierano: sierpnia 22, 2025, https://artunderwraps.com/Isaac-Asimov.html
+         11. I, Robot - First Edition - Signed - Isaac Asimov - Bauman Rare Books, otwierano: sierpnia 22, 2025, https://baumanrarebooks.com/rare-books/isaac-asimov/i-robot/90750.aspx
+         12. I, Robot, 1st edition, inscribed and dated by Asimov on the day of publication - eBay, otwierano: sierpnia 22, 2025, https://www.ebay.com/itm/167536824067
+         13. I, Robot: A Critical Review | The World Is Quiet Here, otwierano: sierpnia 22, 2025, https://j128.wordpress.com/2009/06/25/i-robot-a-critical-review/
+         14. Three Laws of Robotics - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+         15. The Fascinating History Behind Asimov's Three Laws of Robotics - The Leonardo, otwierano: sierpnia 22, 2025, https://theleonardo.org/fascinating-history-behind-asimovs-three-laws-robotics/
+         16. I, Robot - Bookish Bay, otwierano: sierpnia 22, 2025, https://bookishbay.com/i-robot-book-by-isaac-asimov/
+         17. 11. I, Robot | Gnome Press: The Complete History and Bibliography, otwierano: sierpnia 22, 2025, https://gnomepress.com/i-robot/
+         18. I, Robot (1950) by Isaac Asimov – The Positronic Brain and the Ghost in the Machine : r/books - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/books/comments/19738s3/i_robot_1950_by_isaac_asimov_the_positronic_brain/
+         19. I, Robot, otwierano: sierpnia 22, 2025, https://www2.cs.sfu.ca/~vaughan/teaching/415/papers/I,%20Robot%20Ch1-3.pdf
+         20. “I, Robot” By Isaac Asimov | Ministry Of Short Story - WordPress.com, otwierano: sierpnia 22, 2025, https://ministryofshortstory.wordpress.com/2014/12/10/i-robot-by-isaac-asimov/
+         21. I, ROBOT - Law and Politics Book Review, otwierano: sierpnia 22, 2025, http://www.lpbr.net/2008/04/i-robot.html
+         22. Isaac Asimov - I, Robot v1.1, otwierano: sierpnia 22, 2025, http://ekladata.com/-Byix64G_NtE0xI4A6PA1--o1Hc/Asimov-Isaac-I-Robot.pdf
+         23. Are there any physical descriptions of the robots in “I, Robot”? : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/grh3bu/are_there_any_physical_descriptions_of_the_robots/
+         24. Analysis of Reason by Isaac Asimov | by Raheem Sultan - Medium, otwierano: sierpnia 22, 2025, https://raheem-sultan.medium.com/analysis-of-reason-by-isaac-asimov-9df072fe62fe
+         25. (PDF) The Analysis of Setting In Isaac Asimov's “I, Robot” and “Foundation” - ResearchGate, otwierano: sierpnia 22, 2025, https://www.researchgate.net/publication/388897406_The_Analysis_of_Setting_In_Isaac_Asimov's_I_Robot_and_Foundation
+         26. en.wikipedia.org, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Little_Lost_Robot#:~:text=At%20the%20Hyper%20Base%2C%20a,the%20Empire%20and%20Foundation%20books.
+         27. Little Lost Robot - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Little_Lost_Robot
+         28. I, Robot Study Guide | Literature Guide - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot
+         29. I, Robot Summary and Study Guide | SuperSummary, otwierano: sierpnia 22, 2025, https://www.supersummary.com/i-robot/summary/
+         30. Book Review: I, Robot - Alan K. Dell, otwierano: sierpnia 22, 2025, https://www.alankdell.co.uk/blog/book-review-i-robot
+         31. First time Asimov reader's thoughts on "I, Robot" - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/1htrirc/first_time_asimov_readers_thoughts_on_i_robot/
+         32. I, Robot - Isaac Asimov, otwierano: sierpnia 22, 2025, https://mlsh.ru/files/2016-05/b74239d1424900d4e843ab7b409eaea8.pdf
+         33. raindance.org, otwierano: sierpnia 22, 2025, https://raindance.org/the-history-of-sci-fi-films/#:~:text=Developments%20of%20the%20atomic%20bomb,Golden%20Age%20of%20Science%20Fiction.
+         34. I, Robot by Isaac Asimov | Summary, Analysis, FAQ - SoBrief, otwierano: sierpnia 22, 2025, https://sobrief.com/books/i-robot
+         35. Susan Calvin in I, Robot Character Analysis - Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/susan-calvin.html
+         36. In Asimov's robot story "Liar!", why does Dr. Calvin show no mercy for Herbie?, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/113314/in-asimovs-robot-story-liar-why-does-dr-calvin-show-no-mercy-for-herbie
+         37. Susan Calvin - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Susan_Calvin
+         38. Dr. Susan Calvin Character Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/dr-susan-calvin
+         39. en.wikipedia.org, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Susan_Calvin#:~:text=She%20was%20a%20frosty%20girl,stirrings%20of%20a%20cold%20enthusiasm%22.
+         40. Herbie Character Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/herbie
+         41. en.wikipedia.org, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/List_of_Robot_series_characters#:~:text=The%20two%20are%20easily%20distinguishable,the%20Three%20Laws%20of%20Robotics.
+         42. List of Robot series characters - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/List_of_Robot_series_characters
+         43. I, Robot Summary - Book Reports, otwierano: sierpnia 22, 2025, https://www.bookreports.info/i-robot-summary/
+         44. Gregory Powell And Michael Donovan - Characters, I Robot - I, Robot by Isaac Asimov- Summary, Themes and Characters - Novels PDF Download - EduRev, otwierano: sierpnia 22, 2025, https://edurev.in/t/127912/Gregory-Powell-And-Michael-Donovan-Characters--I-R
+         45. Runaround - Williams College, otwierano: sierpnia 22, 2025, https://web.williams.edu/Mathematics/sjmiller/public_html/105Sp10/handouts/Runaround.html
+         46. I, Robot Character Analysis - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters
+         47. Greg Bognar - Liar, otwierano: sierpnia 22, 2025, https://gregbognar.net/files/Liar.pdf
+         48. 1-Science-Fiction-Lesson-Plan_Robbie-Day-1_Annotated.docx - Teach Like a Champion, otwierano: sierpnia 22, 2025, https://teachlikeachampion.org/wp-content/uploads/1-Science-Fiction-Lesson-Plan_Robbie-Day-1_Annotated.docx
+         49. I, Robot (Robot, #0.1) by Isaac Asimov - Goodreads, otwierano: sierpnia 22, 2025, https://www.goodreads.com/book/show/41804
+         50. I, Robot | Summary, Characters, & Facts - Britannica, otwierano: sierpnia 22, 2025, https://www.britannica.com/topic/I-Robot
+         51. www.reddit.com, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/grh3bu/are_there_any_physical_descriptions_of_the_robots/#:~:text=Robot%20QT%2D1%20sat%20immovable,human%20attitude%20of%20mystification...
+         52. Isaac Asimov, “Reason” - ADDS DONNA, otwierano: sierpnia 22, 2025, https://addsdonna.com/old-website/ADDS_DONNA/Science_Fiction_files/2_Asimov_Reason.pdf
+         53. Liar by Isaac Asimov - İNSANA DAİR, otwierano: sierpnia 22, 2025, http://insanadair.com/balice/liar-by-isaac-asimov/
+         54. Why were all NS-2 manufactured without the serial numbers? - Sci-Fi Stack Exchange, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/198900/why-were-all-ns-2-manufactured-without-the-serial-numbers
+         55. I, Robot Themes and Analysis - By Isaac Asimov, otwierano: sierpnia 22, 2025, https://bookanalysis.com/isaac-asimov/i-robot/themes-analysis/
+         56. Is there a central theme in I, Robot? - Literature Stack Exchange, otwierano: sierpnia 22, 2025, https://literature.stackexchange.com/questions/891/is-there-a-central-theme-in-i-robot
+         57. Book Review: “I, Robot” by Isaac Asimov | Four Birds Education, otwierano: sierpnia 22, 2025, https://fourbirdseducation.com/2016/07/08/book-review-i-robot-by-isaac-asimov/
+         58. Analysing The Relationship Between Humans And Robots in I, Robot - hopeandwhispers, otwierano: sierpnia 22, 2025, https://hopeandwhispers.wordpress.com/2020/10/04/analysing-the-relationship-between-humans-and-robots-in-i-robot/
+         59. I, Robot Symbols & Motifs - SuperSummary, otwierano: sierpnia 22, 2025, https://www.supersummary.com/i-robot/symbols-and-motifs/
+         60. Positronic brain Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/terms/positronic-brain
+         61. What is a Positronic Brain? - Science Fiction Classics, otwierano: sierpnia 22, 2025, https://www.sciencefictionclassics.com/what-is-a-positronic-brain/
+         62. I, Robot Symbolism, Imagery, Allegory - Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/symbolism-imagery.html
+         63. Isaac Asimov's I, Robot: Exploring the Ethics of AI Before it was Cool | by Lucas Lafranconi, otwierano: sierpnia 22, 2025, https://medium.com/@lucaslafranconi/isaac-asimovs-i-robot-exploring-the-ethics-of-ai-before-it-was-cool-200d5e0687ac
+         64. Isaac Asimov's "Three Laws of Robotics" : r/scifi - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/scifi/comments/17i7fgx/isaac_asimovs_three_laws_of_robotics/
+         65. Matt's Reviews: I, Robot by Isaac Asimov - Amazing Stories, otwierano: sierpnia 22, 2025, https://amazingstories.com/2024/10/matts-reviews-i-robot-by-isaac-asimov/
+         66. A Fiction Novelist's Impact on Robotics: Isaac Asimov, otwierano: sierpnia 22, 2025, https://clearpathrobotics.com/blog/2013/05/3lawsofrobotics-isaac-asimov/
+         67. “I, Robot” book recommendation : r/scifi - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/scifi/comments/1iagb77/i_robot_book_recommendation/
+         68. I, Robot by Isaac Asimov | Goodreads, otwierano: sierpnia 22, 2025, https://www.goodreads.com/book/show/50881206-i-robot
+         69. BOOK REVIEW: I, Robot, by Isaac Asimov - At Boundary's Edge, otwierano: sierpnia 22, 2025, https://atboundarysedge.com/2020/01/31/book-review-i-robot-by-isaac-asimov/
+         70. The Visuals in iRobot (2004) Still Look Great Today : r/movies - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/movies/comments/1lpifo2/the_visuals_in_irobot_2004_still_look_great_today/
+         71. Isaac Asimov – Robots – Light Verse - Through that Strange Western Galaxy, otwierano: sierpnia 22, 2025, https://strangewesterngalaxy.wordpress.com/2020/08/11/isaac-asimov-robots-light-verse/
+         72. How are symbolic codes used in I, Robot to distinguish between good and evil? - eNotes, otwierano: sierpnia 22, 2025, https://www.enotes.com/topics/robot/questions/describe-how-symbolic-codes-used-film-robot-101377
+         73. About us - USR, otwierano: sierpnia 22, 2025, https://www.usr.com/about/
+         74. USRobotics - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/USRobotics
+         75. U.s. Robotics Corp - Encyclopedia.com, otwierano: sierpnia 22, 2025, https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/us-robotics-corp
+         76. U.S. Robotics | Encyclopedia.com, otwierano: sierpnia 22, 2025, https://www.encyclopedia.com/economics/economics-magazines/us-robotics
+         77. I, Robot Facts for Kids, otwierano: sierpnia 22, 2025, https://kids.kiddle.co/I,_Robot
+         78. Isaac Asimov: Three Laws of Robotics - YouTube, otwierano: sierpnia 22, 2025, https://www.youtube.com/watch?v=qJwHbEugKqg
+         79. Three laws of robotics | Definition, Isaac Asimov, & Facts - Britannica, otwierano: sierpnia 22, 2025, https://www.britannica.com/topic/Three-Laws-of-Robotics
+         80. www.goodreads.com, otwierano: sierpnia 22, 2025, https://www.goodreads.com/book/show/41804#:~:text=This%20is%20a%20very%20good,battles%2C%20this%20is%20not%20it!
+         81. Book review: I, Robot by Isaac Asimov - Habrador blog, otwierano: sierpnia 22, 2025, https://blog.habrador.com/2015/05/book-review-i-robot-by-isaac-asimov.html
+         82. Robby the Robot - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Robby_the_Robot
+         83. Robbie Character Analysis in I, Robot - Isaac Asimov - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/robbie
+         84. Speedy Character Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/speedy
+         85. Speedy - Bots and Bodies, otwierano: sierpnia 22, 2025, https://roboticbodies.wordpress.com/2014/09/04/speedy/
+         86. I, Robot Series: Speedy vs Humanity - The Digital Constitutionalist, otwierano: sierpnia 22, 2025, https://digi-con.org/i-robot-series-speedy-vs-humanity/
+         87. After Class Writing: Asimov's “Reason” | ENG2420 Science Fiction, SP2016, otwierano: sierpnia 22, 2025, https://openlab.citytech.cuny.edu/elliseng2420sp2016/2016/03/13/after-class-writing-asimovs-reason/
+         88. I, Robot Series: QT-1 (aka Cutie) - The Digital Constitutionalist, otwierano: sierpnia 22, 2025, https://digi-con.org/i-robot-series-qt-1-aka-cutie/
+         89. Reason (short story) - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Reason_(short_story)
+         90. QT-1, aka Cutie in I, Robot Character Analysis - Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/qt-1-cutie.html
+         91. FBA - US Robotics - Fictional Brands Archive, otwierano: sierpnia 22, 2025, https://fictionalbrandsarchive.com/item.php?id=29
+         92. I, Robot (film) - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/I,_Robot_(film)
+         93. isaac asimov - What Happened to U.S. Robots? - Science Fiction & Fantasy Stack Exchange, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/38368/what-happened-to-u-s-robots
+         94. Short story about "assembly robot" - Science Fiction & Fantasy Stack Exchange, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/242853/short-story-about-assembly-robot
+         95. “I, Robot” by Isaac Asimov: A Vision of Robotics and Ethics | by Kheled Bentley - Medium, otwierano: sierpnia 22, 2025, https://medium.com/@kheled.bentley/i-robot-by-isaac-asimov-a-vision-of-robotics-and-ethics-dd9a4507d4e3
+         96. Positronic brain - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Positronic_brain
+         97. What is the Positronic brain coined by Asimov? - Science Fiction & Fantasy Stack Exchange, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/430/what-is-the-positronic-brain-coined-by-asimov
+         98. Positronic Brain vs. Human Brain: Robots' Brain Text as the Representation of Ethical Guiding Principles in Isaac Asimov' - Archium Ateneo, otwierano: sierpnia 22, 2025, https://archium.ateneo.edu/cgi/viewcontent.cgi?article=1897&context=kk
+         99. The Implausibility of Positronic Brains : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/19e8wz9/the_implausibility_of_positronic_brains/
+         100. BOOK REVIEW: I, Robot – by Isaac Asimov - It's All About Books - WordPress.com, otwierano: sierpnia 22, 2025, https://melovebooks.wordpress.com/2015/03/11/book-review-i-robot-by-isaac-asimov/
+         101. Catch That Rabbit - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Catch_That_Rabbit
+         102. Dave Character Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/dave
+         103. Retro Review: “Catch That Rabbit” by Isaac Asimov - Cora Buhlert, otwierano: sierpnia 22, 2025, http://corabuhlert.com/2020/01/31/retro-review-catch-that-rabbit-by-isaac-asimov/
+         104. I, Robot "Catch that Rabbit" Summary - Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/catch-that-rabbit-summary.html
+         105. In "Catch That Rabbit" from I, Robot, does Powell become a hypocrite by the end of the story? - eNotes, otwierano: sierpnia 22, 2025, https://www.enotes.com/topics/robot/questions/robot-by-isaac-asimov-story-catch-that-rabbit-323969
+         106. Liar! (short story) - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Liar!_(short_story)
+         107. I, Robot Audiobook - Ch. 5 - Liar! - By Isaac Asimov, Read by Garrick Hagon - YouTube, otwierano: sierpnia 22, 2025, https://www.youtube.com/watch?v=jDXW9hEjxps
+         108. NS-2-10, aka Nestor-10 in I, Robot Character Analysis | Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/ns-2-10-nestor.html
+         109. Just read little lost robot and I have a question. : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/1apf74i/just_read_little_lost_robot_and_i_have_a_question/
+         110. www.litcharts.com, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/the-brain#:~:text=The%20central%20robot%20in%20%E2%80%9CEscape,others%20from%20anthropomorphizing%20The%20Brain.
+         111. Escape! - I, Robot "Escape!" Summary - I, Robot by Isaac Asimov- Summary, Themes and Characters - Novels PDF Download - EduRev, otwierano: sierpnia 22, 2025, https://edurev.in/t/127867/Escape--I--Robot--Escape---Summary
+         112. Isaac Asimov – Robots – Little Lost Robot - Through that Strange Western Galaxy, otwierano: sierpnia 22, 2025, https://strangewesterngalaxy.wordpress.com/2020/11/03/isaac-asimov-robots-little-lost-robot/
+         113. Newspaper - Little Lost Robot. Nathan, Thien | PDF | Science & Mathematics - Scribd, otwierano: sierpnia 22, 2025, https://www.scribd.com/document/724928509/Newspaper-Little-Lost-Robot-Nathan-Thien
+         114. I, Robot by Isaac Asimov- Summary, Themes and Characters - Novels PDF Download - EduRev, otwierano: sierpnia 22, 2025, https://edurev.in/t/127866/Little-Lost-Robot-I--Robot--Little-Lost-Robot--Sum
+         115. Little Lost Robot gamma ray? - Science Fiction & Fantasy Stack Exchange, otwierano: sierpnia 22, 2025, https://scifi.stackexchange.com/questions/288241/little-lost-robot-gamma-ray
+         116. looking at I,Robot by Isaac Asimov - YouTube, otwierano: sierpnia 22, 2025, https://www.youtube.com/watch?v=p1rgA6xQhtM
+         117. Book review of I, Robot by Isaac Asimov, otwierano: sierpnia 22, 2025, https://sfbook.com/i-robot.htm
+         118. My thoughts on I, Robot. Suggestions on what to read next? : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/1ejw38m/my_thoughts_on_i_robot_suggestions_on_what_to/
+         119. I, Robot by Isaac Asimov (1950) - Books & Boots, otwierano: sierpnia 22, 2025, https://astrofella.wordpress.com/2018/12/15/i-robot-isaac-asimov/
+         120. The Main Features of Analyses on “I, Robot” by Isaac Asimov - Academic Journal Inc., otwierano: sierpnia 22, 2025, https://inter-publishing.com/index.php/IJLLAL/article/view/1552
+         121. 1950: I, Robot (Asimov, Isaac) - Potpourri of Science Fiction Literature, otwierano: sierpnia 22, 2025, http://sfpotpourri.blogspot.com/2012/07/1950-i-robot-asimov-isaac.html
+         122. Mechanical Man, Inc. - Black Gate Magazine, otwierano: sierpnia 22, 2025, https://www.blackgate.com/2019/02/27/mechanical-man-inc/
+         123. I, robot : Asimov, Isaac, 1920-1992 : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/irobot0000asim
+         124. eBook - I, Robot by Isaac Asimov - OverDrive, otwierano: sierpnia 22, 2025, https://www.overdrive.com/media/39136/i-robot
+         125. Asimov - 8 Stories.pdf - Wasabi, otwierano: sierpnia 22, 2025, https://s3.us-west-1.wasabisys.com/luminist/EB/A/Asimov%20-%208%20Stories.pdf
+         126. I, Robot : Isaac Asimov : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/i-robot-isaac-asimov
+         127. Amazing Stories archives - The Online Books Page, otwierano: sierpnia 22, 2025, https://onlinebooks.library.upenn.edu/webbin/serial?id=amazingstories
+         128. Astounding Stories archives - The Online Books Page, otwierano: sierpnia 22, 2025, https://onlinebooks.library.upenn.edu/webbin/serial?id=astounding
+         129. Astounding v26n02 [1940-10] : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/AstoundingV26n02194010
+         130. Astounding v35n03 1945-05 : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/Astounding_Science_Fiction_v35n03_1945-05
+         131. Astounding Science Fiction, otwierano: sierpnia 22, 2025, http://www.luminist.org/archives/SF/AST.htm
+         132. All the issues of Astounding Science Fiction in which the Foundation Trilogy were originally published are available for free download at the Internet Archive : r/asimov - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/asimov/comments/a7wlf5/all_the_issues_of_astounding_science_fiction_in/
+         133. Super Science Stories - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Super_Science_Stories
+         134. Super Science Stories | U of L Archives Catalog - 2025-08-19 14:57:57.625 - University of Louisville, otwierano: sierpnia 22, 2025, https://archivescatalog.library.louisville.edu/repositories/2/archival_objects/68338
+         135. Super Science Stories v07 n03 [1950-11] : Free Download, Borrow, and Streaming, otwierano: sierpnia 22, 2025, https://archive.org/details/super-science-stories-v-07-n-03-1950-11
+         136. Digital Archives Hub - Pulp Magazines Project, otwierano: sierpnia 22, 2025, https://www.pulpmags.org/archives-hub.html
+         137. Science Fiction Magazines – Super Science Stories - Literary Art and Illustration, otwierano: sierpnia 22, 2025, http://wordsenvisioned.com/?cat=1121
+         138. Super Science Stories v01n04 [1940-09] (Sliv-slpn) - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/super-science-stories-v-01n-04-1940-09-bw-sliv-slpn
+         139. Galaxy Science Fiction, April 1951: A Retro-Review - Black Gate Magazine, otwierano: sierpnia 22, 2025, https://www.blackgate.com/2013/08/27/galaxy-science-fiction-april-1951-a-retro-review/
+         140. Galaxy Science Fiction v02n01, April 1951 | SF MAGAZINES, otwierano: sierpnia 22, 2025, https://sfmagazines.com/?p=1989
+         141. [Discussion] I, Robot by Isaac Asimov- Introduction to "Reason" : r/bookclub - Reddit, otwierano: sierpnia 22, 2025, https://www.reddit.com/r/bookclub/comments/11wjp9g/discussion_i_robot_by_isaac_asimov_introduction/
+         142. Gregory Powell Character Analysis in I, Robot - LitCharts, otwierano: sierpnia 22, 2025, https://www.litcharts.com/lit/i-robot/characters/gregory-powell
+         143. An Analysis of "Dr. Susan Calvin" in "I, Robot", by Isaac Asimov - 1702 Words | Bartleby, otwierano: sierpnia 22, 2025, https://www.bartleby.com/essay/An-Analysis-of-Dr-Susan-Calvin-in-FKQAV2LKRZYS
+         144. I, Robot Flashcards - Quizlet, otwierano: sierpnia 22, 2025, https://quizlet.com/123477228/i-robot-flash-cards/
+         145. (I, Robot) Explained in 9 Minutes | Movie Recap - YouTube, otwierano: sierpnia 22, 2025, https://www.youtube.com/watch?v=aIgyNz8rpK8
+         146. I, Robot - The Free Library of Philadelphia - OverDrive, otwierano: sierpnia 22, 2025, https://freelibrary.overdrive.com/media/39136
+         147. I, Robot - Sunflower eLibrary - OverDrive, otwierano: sierpnia 22, 2025, https://sunflowerelibrary.overdrive.com/sunflowerelibrary-43-44/content/media/39136
+         148. Magazine Contents Lists: Page 978, otwierano: sierpnia 22, 2025, http://www.philsp.com/homeville/sfi/k00978.htm
+         149. Galaxy v02n01 (1951 04) : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/Galaxy_v02n01_1951-04
+         150. Galaxy Science Fiction / Galaxy Magazine 1950-1961 | RAY BRADBURY, ISAAC ASIMOV, ROBERT HEINLEIN | First edition - Manhattan Rare Book Company, otwierano: sierpnia 22, 2025, https://www.manhattanrarebooks.com/pages/books/2352/ray-bradbury-isaac-asimov-robert-heinlein/galaxy-science-fiction-galaxy-magazine-1950-1961?soldItem=true
+         151. Galaxy Science Fiction - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Galaxy_Science_Fiction
+         152. Science Fiction Magazines – Galaxy - Literary Art and Illustration, otwierano: sierpnia 22, 2025, http://wordsenvisioned.com/?cat=457
+         153. Fantasy & Science Fiction v002n04 (1951 08) (AK), otwierano: sierpnia 22, 2025, https://ia801504.us.archive.org/25/items/Fantasy_Science_Fiction_v002n04_1951-08_AK/Fantasy__Science_Fiction_v002n04_1951-08_AK.pdf
+         154. The Magazine of Fantasy & Science Fiction #8, June 1951, otwierano: sierpnia 22, 2025, https://sfmagazines.com/?p=2010
+         155. Magazine Of Fantasy & Science Fiction August 1951 Robert Arthur Clarke J Langdon | eBay, otwierano: sierpnia 22, 2025, https://www.ebay.com/itm/134418536419
+         156. Groff Conklin - Wikipedia, otwierano: sierpnia 22, 2025, https://en.wikipedia.org/wiki/Groff_Conklin
+         157. FORGOTTEN BOOKS: THE SF ANTHOLOGIES OF GROFF CONKLIN - Jerry's House of Everything, otwierano: sierpnia 22, 2025, http://jerryshouseofeverything.blogspot.com/2016/09/forgotten-books-sf-anthologies-of-groff.html
+         158. Conklin, Groff - SFE - SF Encyclopedia, otwierano: sierpnia 22, 2025, https://sf-encyclopedia.com/entry/conklin_groff
+         159. Book Reviews by P. Schuyler Miller - Classics of Science Fiction, otwierano: sierpnia 22, 2025, https://classicsofsciencefiction.com/book-reviews-by-p-schuyler-miller/
+         160. Mag Review: Astounding (March, 1951) | Howell's Howls, otwierano: sierpnia 22, 2025, https://robhowell.org/blog/?p=1624
+         161. Astounding Science Fiction, February and March 1953: A Retro-Review - Black Gate, otwierano: sierpnia 22, 2025, https://www.blackgate.com/2014/11/30/astounding-science-fiction-february-and-march-1953-a-retro-review/
+         162. A Unique History of Science Fiction (1945-1975), otwierano: sierpnia 22, 2025, https://classicsofsciencefiction.com/2025/03/06/a-unique-history-of-science-fiction-1945-1975/
+         163. Vintage Treasures: Travelers of Space, edited by Martin Greenberg - Black Gate Magazine, otwierano: sierpnia 22, 2025, https://www.blackgate.com/2016/01/17/vintage-treasures-travelers-of-space-edited-by-martin-greenberg/
+         164. Astounding Science Fiction 1951 - 1957 Asimov, Freas, Anderson, Miller | eBay, otwierano: sierpnia 22, 2025, https://www.ebay.com/itm/154608342549
+         165. I, Robot by Isaac Asimov - Teacher's Guide: 9780553382563 - PenguinRandomHouse.com, otwierano: sierpnia 22, 2025, https://www.penguinrandomhouse.com/books/5681/i-robot-by-isaac-asimov/9780553382563/teachers-guide/
+         166. I Robot by Isaac Asimov – BSc (Honours) Computing and IT Blog, otwierano: sierpnia 22, 2025, https://johnbirneysblog.wordpress.com/2015/09/11/i-robot-by-isaac-asimov/
+         167. History of U.S. Robotics Corporation – FundingUniverse, otwierano: sierpnia 22, 2025, https://www.fundinguniverse.com/company-histories/u-s-robotics-corporation-history/
+         168. I Robot: Elements of the Uncanny - Terri Meyer Boake, otwierano: sierpnia 22, 2025, http://tboake.com/443_irobot_f07.html
+         169. I, Robot "Little Lost Robot" Summary | Shmoop, otwierano: sierpnia 22, 2025, https://www.shmoop.com/study-guides/i-robot/little-lost-robot-summary.html
+         170. Little Lost Robot - Isaac Asimov Short Story Colourised. (1962) - YouTube, otwierano: sierpnia 22, 2025, https://www.youtube.com/watch?v=7x_RZ4M-7Kw
+         171. Meteoroid Impact Detection for Exploration of Asteroids: Small Satellites for Asteroid Characterization - ResearchGate, otwierano: sierpnia 22, 2025, https://www.researchgate.net/publication/319912597_Meteoroid_Impact_Detection_for_Exploration_of_Asteroids_Small_Satellites_for_Asteroid_Characterization
+         172. Galaxy - April 1951 - ElectronicsAndBooks, otwierano: sierpnia 22, 2025, https://electronicsandbooks.com/edt/manual/Old%20Pulp%20Magazines/!%20new/Galaxy%20-%20April%201951%20(gnv64).pdf
+         173. The Science Fiction Galaxy - Edited by Groff Conklin (Perma Books P67) [1950] : Free Download, Borrow, and Streaming - Internet Archive, otwierano: sierpnia 22, 2025, https://archive.org/details/conklin-groff-the-science-fiction-galaxy-perma-p-67-1950
+         174. Astounding Science Fiction April 1941 (With "Reason" By Isaac Asimov, A Robot Story, "Microcosmic God" By Theodore Sturgeon, And A Story Inscribed By P. Schuyler Miller) Illustrated wrappers - Biblio, otwierano: sierpnia 22, 2025, https://www.biblio.com/book/astounding-science-fiction-april-1941-reason/d/1250558610
+         175. Historical Dictionary of Science Fiction in Literature 0810878844, 9780810878846 - DOKUMEN.PUB, otwierano: sierpnia 22, 2025, https://dokumen.pub/historical-dictionary-of-science-fiction-in-literature-0810878844-9780810878846.html
+         176. HDSF: P. Schuyler Miller - Historical Dictionary of Science Fiction, otwierano: sierpnia 22, 2025, https://sfdictionary.com/author/451/p-schuyler-miller
+         177. Gary Westfahl -- "The Closely Reasoned Technological Story'': The Critical History of Hard Science Fiction - DePauw University, otwierano: sierpnia 22, 2025, https://www.depauw.edu/sfs/backissues/60/westfahl60art.htm
+         178. otwierano: stycznia 1, 1970, https://archive.org/details/Galaxy_v02n01_1951-04/page/n1/mode/2up
+         179. otwierano: stycznia 1, 1970, https://archive.org/details/Astounding_v45n01_1950-03/page/n1/mode/2up
+         180. otwierano: stycznia 1, 1970, https://archive.org/stream/Galaxy_v02n01_1951-04/Galaxy_v02n01_1951-04_djvu.txt

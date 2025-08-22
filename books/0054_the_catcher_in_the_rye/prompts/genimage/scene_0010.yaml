@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in December
+    location: Upscale Manhattan venue representing post-war American prosperity
+    weather: December evening with city lights reflecting economic optimism
+  characters:
+  - appearance: Male, prosperous middle-aged representative of post-war establishment
+    clothing: Expensive business attire reflecting post-war economic success and social position
+    position: Positioned within environment representing achieved American prosperity
+    action: Participating in social ritual while viewing self as architect of beneficial social order
+  scene:
+    mainElements: Venue representing post-war American success story, furnishings and atmosphere suggesting prosperity and
+      social progress, environment of achieved institutional stability
+    details: Through establishment perspective, post-war society appears as successful achievement of democracy and prosperity,
+      individual problems seem as minor disruptions to overall social progress, institutional frameworks appear as proven
+      methods for social advancement
+    background: Upscale venue with evidence of post-war prosperity, city views suggesting economic growth and social opportunity,
+      atmosphere of confident social achievement
+    atmosphere: Post-war confidence and social achievement, sense of having created beneficial institutional order, belief
+      in progressive improvement of society, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing social achievement and institutional confidence
+    focus: Representative of establishment viewing society as successful institutional creation
+    depth: 'Foreground: symbols of prosperity, middle ground: establishment figure, background: evidence of social and economic
+      progress'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

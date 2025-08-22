@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1944, afternoon
+    location: military tent on Pianosa base
+    weather: Mediterranean afternoon heat
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: holding torn photograph fragments
+    action: destroying personal connection to maintain emotional distance
+  scene:
+    mainElements: military tent interior with personal belongings, torn photograph pieces scattered on cot, military equipment
+    details: Yossarian holds fragments of torn photograph showing happier times with fellow airmen. The destroyed image symbolizes
+      severed connections and acceptance that some relationships cannot survive wartime trauma. Pieces of faces and smiles
+      lie scattered, representing fractured bonds that cannot be repaired.
+    background: tent interior with military gear, personal letters, equipment showing ongoing war context
+    atmosphere: symbolic destruction of past connections, mixture of necessary emotional protection and profound loss
+  composition:
+    cameraAngle: close-up on hands holding torn photograph pieces
+    focus: destroyed photograph representing severed emotional connections
+    depth: foreground shows torn fragments, middle ground captures destructive action, background reveals continuing military
+      context
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

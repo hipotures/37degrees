@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1944, morning
+    location: Colonel's office on Pianosa base
+    weather: bright Mediterranean morning
+  characters:
+  - appearance: 36 years old, tall man with stocky beefy build, short curly graying hair, very pale skin, face showing mixture
+      of arrogance and insecurity
+    clothing: immaculate pressed colonel uniform with insignia
+    position: sitting confidently behind desk
+    action: offering final deal to recalcitrant airman
+  scene:
+    mainElements: military office with large desk, official papers, framed photographs of superior officers, filing cabinets
+    details: Colonel Cathcart's eyes show satisfied triumph as he presents his ultimate proposal to Yossarian. His expression
+      reveals complete confidence in the bureaucratic trap he has constructed. The deal offers safety in exchange for moral
+      compromise, representing the system's final attempt to co-opt individual resistance through temptation.
+    background: military office with regulation manuals, communication equipment, window showing base operations
+    atmosphere: bureaucratic confidence in systematic control over individual choice, mixture of authority and corruption
+  composition:
+    cameraAngle: extreme close-up on colonel's satisfied eyes
+    focus: eyes showing complete confidence in bureaucratic manipulation
+    depth: foreground emphasizes triumphant authority, middle ground shows official context, background reveals institutional
+      power structure
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

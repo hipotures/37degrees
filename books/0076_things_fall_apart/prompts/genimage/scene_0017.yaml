@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, afternoon during colonial administrative demonstration
+    location: Sacred central plaza of Umuofia village confederation in southeastern Nigeria, packed red earth surface for
+      community gatherings
+    weather: Harsh sunlight creating stark atmosphere of forced public compliance
+  characters:
+  - appearance: British colonial official whose face reddens with anger, arrogant and condescending expression
+    clothing: White or khaki tropical colonial uniform with pith helmet, formal European dress
+    position: Standing elevated above indigenous crowd demonstrating colonial authority
+    action: Addressing gathered indigenous population to establish colonial dominance and extract public submission
+  scene:
+    mainElements: Large open space with ancient sacred silk-cotton tree, surrounded by gathering crowds during ceremonies
+      now commandeered for colonial political demonstration
+    details: Traditional community gathering space repurposed for colonial indoctrination where indigenous people must publicly
+      demonstrate submission to foreign authority. Sacred traditional meeting ground desecrated by foreign political theater
+      designed to humiliate and control
+    background: Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family
+      compounds connected by dirt paths now occupied by colonial military presence
+    atmosphere: Forced public compliance and political theater where traditional community autonomy is systematically destroyed
+      through humiliating demonstrations of colonial power
+  composition:
+    cameraAngle: Wide shot showing colonial authority dominating traditional space
+    focus: Foreign official commanding submission from indigenous population
+    depth: Colonial authority in foreground, submissive crowd in middle ground, desecrated traditional symbols in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

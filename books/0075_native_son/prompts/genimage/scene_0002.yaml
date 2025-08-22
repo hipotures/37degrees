@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, evening
+    location: Elegant formal dining room in Chicago wealthy white mansion
+    weather: Cold winter evening outside
+  characters:
+  - appearance: 60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence
+      and control
+    clothing: expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably
+      dressed conservative businessman
+    position: seated at head of formal dining table
+    action: presiding over family dinner with patriarchal authority
+  - appearance: 60-year-old blind white woman, completely white hair, pale almost translucent skin, tall and thin, moves slowly
+      with outstretched hands
+    clothing: always dressed in long white conservative dresses that enhance her ghostly appearance, formal and expensive
+      fabrics
+    position: seated gracefully at opposite end of table
+    action: maintaining perfect posture despite blindness, representing dutiful wife role
+  - appearance: 22-year-old white woman, slender build, blonde hair styled in fashionable 1930s waves, bright eyes filled
+      with naive idealism, fair complexion
+    clothing: elegant 1930s fashion - knee-length dresses with defined waist and wide shoulders, high-quality fabrics, sometimes
+      wide trousers for casual wear, fashionable shoes
+    position: seated between parents at polished table
+    action: engaging in pleasant dinner conversation, representing privileged youth
+  scene:
+    mainElements: Formal dining room with large polished wooden table, elegant place settings with china and silver, crystal
+      chandelier overhead, oil paintings on walls
+    details: Perfect table setting with expensive china and silverware, white tablecloth, crystal glasses catching light,
+      elaborate meal prepared by unseen servants, fresh flowers as centerpiece, heavy drapes framing large windows, Persian
+      rug beneath table, every detail showing wealth and refinement
+    background: Dark wood paneling, bookshelves filled with leather-bound volumes, grandfather clock ticking, other formal
+      furniture suggesting established generational wealth
+    atmosphere: Demonstration of white family harmony and prosperity, everything clean and orderly, scene of privilege that
+      excludes and ignores poverty existing elsewhere in the city
+  composition:
+    cameraAngle: Medium shot from dining room entrance
+    focus: The family group as representation of white social order and inherited privilege
+    depth: Foreground shows elegant table setting, middle ground captures family interaction, background reveals wealth of
+      entire formal dining space
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

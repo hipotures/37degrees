@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Protests - Same Square, Different Centuries"
+  setting:
+    time: "1825, 1905, 1917, and 1991 - protest movements across nearly two centuries"
+    location: "Central Moscow square showing recurring patterns of popular uprising"
+    weather: "Winter conditions in all time periods showing seasonal consistency"
+  characters:
+    - appearance: "Man from late teens to 30s, initially shy with almost girlish features, later becomes severe and ascetic with face like stone mask, rigid military posture"
+      clothing: "1902-1917: simple student attire, teacher's suit. 1917-1922: severe dark Red Army commissar uniform, leather coat, high boots, budyonovka cap"
+      posture: "Early years: hesitant and boyish movements. As Strelnikov: rigid military bearing, controlled and intimidating presence"
+      action: "Early: studying revolutionary texts, teaching children. Later: commanding troops, interrogating prisoners"
+  scene:
+    mainElements: "Overlapping transparent crowds showing repeated pattern of revolutionary uprising across multiple generations"
+    details: "Quadruple historical exposure: 1825 Decembrist revolt with noble officers in military uniforms facing Tsarist troops, refined classical dress and formal military formations. 1905 shows mixed crowd of workers and intellectuals with banners, more diverse clothing, some firearms. 1917 reveals massive crowd with Bolshevik flags, revolutionary soldiers, Pasza visible among student agitators. 1991 displays crowds with Soviet flags being lowered, representing cycle completing. Same square architecture, same winter conditions, same human desire for change expressed across centuries, no text or letters visible"
+    background: "Moscow square architecture remaining constant while showing different political symbols and military presence"
+    atmosphere: "Cyclical nature of human uprising against authority, each generation believing they will create permanent change"
+  composition:
+    cameraAngle: "Elevated view showing full square and crowd patterns across time"
+    focus: "Central monument or focal point where crowds naturally gather"
+    depth: "Foreground: contemporary protesters; middle ground: historical crowd layers; background: enduring architecture"

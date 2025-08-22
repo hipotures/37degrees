@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1648 summer morning in meadow
+    location: Wild meadow near cottage filled with natural flowers
+    weather: Bright morning sun with gentle breeze
+  characters:
+  - appearance: Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like
+      features, bright intelligent eyes, flowing hair, otherworldly beauty
+    clothing: Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate
+      dresses that make her appear like living embodiment of scarlet letter
+    position: Position varies by scene context
+    action: Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering
+      flowers and seashells, mimicking adult behaviors with disturbing accuracy
+  scene:
+    mainElements: Child weaving wildflowers into crown while surrounded by natural alphabet of petals and leaves
+    details: Symbolic scene depicting the child's garden of symbols with detailed symbolic elements emphasizing visual metaphors
+      of nature providing innocent symbols in contrast to human marks of judgment. All elements contribute to overall symbolic
+      narrative arc of The Scarlet Letter while maintaining visual clarity and dramatic impact.
+    background: Period-appropriate 1640s Massachusetts Bay Colony setting with authentic Puritan architectural and social
+      elements
+    atmosphere: Symbolic tension between visible and hidden meanings, moral complexity rendered through visual metaphor, no
+      text or letters visible
+  composition:
+    cameraAngle: Angle chosen to emphasize symbolic elements and character relationships
+    focus: Nature providing innocent symbols in contrast to human marks of judgment
+    depth: Foreground, middle, and background elements layered to create symbolic meaning and visual depth
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

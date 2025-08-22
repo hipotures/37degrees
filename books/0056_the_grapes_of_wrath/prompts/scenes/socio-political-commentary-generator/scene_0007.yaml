@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Silent Sentries - Guards of the Order"
+  setting:
+    time: "1930s, dawn"
+    location: "Entrance checkpoint to agricultural work area in California Central Valley"
+    weather: "Early morning mist creating atmospheric tension"
+  characters:
+    - appearance: "Uniformed security guards with badges and authority symbols, standing rigidly at attention with stern expressions."
+      clothing: "Dark uniforms with official badges, leather belts with equipment, polished boots, peaked caps casting shadows over eyes"
+      position: "Standing at strategic observation points, positioned to control access and movement"
+      action: "Scanning crowds with suspicious eyes, checking identification papers, maintaining intimidating presence"
+  scene:
+    mainElements: "Checkpoint barriers controlling access to work areas, official identification stations, armed guards positioned at intervals along perimeter"
+    details: "Security infrastructure designed to control population movement. Metal barriers funnel workers through narrow checkpoints. Guards examine identification papers with suspicious scrutiny. Official stamps and permits required for access. Warning signs list restrictions and penalties. Radio communication between guard posts"
+    background: "Vast agricultural fields visible beyond checkpoint barriers, representing promised work that requires submission to authority"
+    atmosphere: "Intimidating atmosphere of control and suspicion, sounds of radio static and official commands, tension of restricted freedom"
+  composition:
+    cameraAngle: "Eye level from worker perspective approaching checkpoint"
+    focus: "Authority figures controlling access to basic needs like employment"
+    depth: "Guards in foreground block access to agricultural opportunity visible in background, showing power to grant or deny survival"

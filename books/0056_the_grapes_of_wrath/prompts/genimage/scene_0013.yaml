@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, morning
+    location: Large migrant camp dormitory in California Central Valley
+    weather: Institutional lighting creating uniformity
+  characters:
+  - appearance: Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate
+      food, eyes showing mixture of hope and desperation.
+    clothing: Identical work uniforms issued by company, standardized clothing eliminating personal expression
+    position: Standing in perfect rows like military formation
+    action: Performing identical morning routine movements, faces expressionless, all individuality suppressed in favor of
+      collective uniformity
+  scene:
+    mainElements: Dormitory with identical beds arranged in perfect rows, workers dressed in matching uniforms, personal belongings
+      confiscated or forbidden
+    details: Complete elimination of individual identity through standardization. Everyone wears identical company uniforms.
+      Personal possessions removed or forbidden. Identical bed arrangement like military barracks. Synchronized wake-up routine.
+      No personal expression or decoration allowed. Workers indistinguishable from each other
+    background: Institutional architecture designed to eliminate privacy and individual space
+    atmosphere: Oppressive conformity crushing personal identity, synchronized sounds of collective routine, absence of individual
+      voices or expression
+  composition:
+    cameraAngle: Wide shot showing vast scale of uniformity
+    focus: Repetitive patterns of identical humans arranged like manufactured products
+    depth: Rows of identical figures extend from foreground through middle ground to background, showing endless replication
+      of conformity
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

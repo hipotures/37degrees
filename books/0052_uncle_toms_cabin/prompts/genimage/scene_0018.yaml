@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1851, late night
+    location: Hidden corner of slave quarters where forbidden symbols appear
+    weather: Dark night with minimal moonlight for concealment
+  characters:
+  - appearance: Shadowy figure carefully marking wall with forbidden symbol
+    clothing: Dark clothing blending with shadows, face partially concealed
+    position: Crouched against wall in hidden position
+    action: Secretly carving or painting symbol of resistance on hidden wall surface
+  scene:
+    mainElements: Small carved or painted symbol on wall representing hope or resistance, tools used for secret marking, evidence
+      of other hidden messages
+    details: Symbol partially concealed but visible to those who know where to look, crude tools used for marking, dirt or
+      debris arranged to hide the work, signs that others have seen and understood the message
+    background: Slave quarters arranged to provide some concealment, main plantation house in distance with lights suggesting
+      surveillance, paths showing how people move secretly
+    atmosphere: Dangerous act of defiance requiring extreme secrecy, hope existing despite overwhelming oppression, communication
+      methods developed outside official channels
+  composition:
+    cameraAngle: Close-up on the secret symbol and marking hand
+    focus: The forbidden symbol as representation of unbreakable human spirit and resistance
+    depth: Foreground shows detailed symbol and marking action, middle ground reveals concealment strategies, background emphasizes
+      the dangerous environment requiring such secrecy
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

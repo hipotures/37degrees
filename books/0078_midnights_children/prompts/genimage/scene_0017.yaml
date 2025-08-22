@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1965 Karachi bombing night, moment of impact suspended
+    location: Large old building with yellowing paint on Clayton Road, Karachi, Pakistan. House positioned in long accusatory
+      shadow of local mosque minaret
+    weather: Night time bombing raid with explosions and fires visible
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ornate silver spittoon decorated with lapis lazuli inlay. Gift from Rani of Cooch Naheen representing old
+      Indian aristocratic traditions. Object passed down through generations carrying family history and heritage. Spittoon
+      captured in mid-flight trajectory during bombing explosion, suspended in air with debris and destruction continuing
+      around it
+    details: Silver surface reflects explosion flames and debris while maintaining perfect trajectory arc through air. Lapis
+      lazuli decorations catch light creating jewel-like sparkles amid destruction. Object shows no damage despite surrounding
+      catastrophe, representing family heritage survival through historical trauma. Trail of motion blur suggests rapid movement
+      frozen at precise moment
+    background: House destruction proceeds normally with walls collapsing, debris flying, and fires spreading. Only spittoon
+      remains temporally suspended while disaster continues. Mosque minaret shadow maintains constant accusatory presence
+    atmosphere: Precious family heritage suspended between destruction and survival. Object's temporal arrest symbolizing
+      memory preservation amid historical catastrophe and personal loss, no text or letters visible
+  composition:
+    cameraAngle: Close-up tracking shot following spittoon trajectory through destruction
+    focus: Silver spittoon as central temporal anomaly within continuing disaster
+    depth: Suspended object in sharp foreground focus, destruction blur in middle ground, architectural collapse in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

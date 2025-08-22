@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Barnabas Family Tragedy vs Village Relief - Conflicting Group Views"
+  setting:
+    time: "Early 1920s evening during Olga's storytelling"
+    location: "Barnabas family home viewed through multiple group perspectives"
+    weather: "Cold winter evening creating different atmospheres for different groups"
+  characters:
+    - appearance: "Young woman aged 20-25, robust build with hard facial expression, yellow-blonde hair, sturdy constitution"
+      clothing: "Simple village dress, practical rural clothing in earth tones, working woman's attire"
+      position: "Telling family story with mix of pride and resignation"
+      action: "Narrating family destruction caused by moral courage"
+    - appearance: "Young woman similar to siblings, dark brooding gaze that is haughty and commanding, proud facial features"
+      clothing: "Modest village dress, once owned festive dress that caused the infamous incident with official"
+      position: "Silent presence representing defiant resistance to authority"
+      action: "Maintaining proud stance despite family consequences"
+    - appearance: "Village community perspective outside family home"
+      clothing: "Various village attire representing collective judgment"
+      position: "Maintaining distance from outcast family"
+      action: "Interpreting family's fate as necessary lesson about proper submission"
+  scene:
+    mainElements: "Barnabas family home showing physical poverty resulting from administrative punishment versus village perspective of justified consequences"
+    details: "Conflicting group interpretations of family tragedy - family experiencing noble sacrifice for moral principles while village views same events as necessary punishment for dangerous defiance. Simple furnishings representing family dignity versus village perception of appropriate consequences for challenging authority."
+    background: "Village architecture emphasizing family isolation versus community protection from dangerous influence"
+    atmosphere: "Opposing group consciousness regarding same family tragedy - family pride in moral courage contrasted with village relief at punishment of dangerous defiance, identical poverty interpreted as nobility versus justice, no text or letters visible"
+  composition:
+    cameraAngle: "Dual perspective showing family honor and village judgment of same events"
+    focus: "Family tragedy interpreted as both noble sacrifice and justified punishment"
+    depth: "Family interior showing dignity in poverty contrasted with village exterior showing protective distance"

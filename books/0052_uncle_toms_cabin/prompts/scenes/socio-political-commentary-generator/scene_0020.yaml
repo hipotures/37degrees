@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Public Humiliation - The Breaking of Spirit"
+  setting:
+    time: "1851, midday"
+    location: "Central plantation area where public punishment serves as warning to others"
+    weather: "Harsh bright sunlight creating no shade or mercy"
+  characters:
+    - appearance: "Enslaved person receiving punishment, positioned for maximum visibility to others"
+      clothing: "Work clothes, possibly torn or removed to increase humiliation"
+      position: "Restrained in central location where all can see"
+      action: "Enduring punishment while maintaining whatever dignity possible"
+    - appearance: "Other enslaved people forced to witness punishment as warning"
+      clothing: "Their regular work clothes, faces showing forced compliance and hidden horror"
+      position: "Arranged in circle around punishment area, required to watch"
+      action: "Watching punishment while suppressing natural human reactions of sympathy or outrage"
+  scene:
+    mainElements: "Central punishment area designed for maximum visibility, restraints or punishment devices, authority figures overseeing the spectacle"
+    details: "Tools of punishment displayed as warnings, official recording of punishment for plantation records, medical supplies suggesting regular use, positioning to ensure all workers witness the event"
+    background: "Plantation buildings arranged to provide viewing area, work areas temporarily abandoned for mandatory attendance, normal life suspended for this demonstration"
+    atmosphere: "Systematic use of terror to maintain control, public humiliation designed to break individual dignity and warn others, silence enforced except for required responses"
+  composition:
+    cameraAngle: "Medium shot showing punishment scene and forced audience"
+    focus: "The public humiliation as symbol of systematic terror and psychological control"
+    depth: "Foreground shows instruments and process of punishment, middle ground features the victim and forced witnesses, background reveals the institutional setting orchestrating this terror"

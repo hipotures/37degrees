@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1840s midday, bright tropical sun
+    location: Raised stern deck of whaling ship reserved for captain's command
+    weather: Blazing sun with salt spray
+  characters: No characters present in this scene
+  scene:
+    mainElements: Bright gold Spanish colonial coin showing three Andes peaks with tower, volcano and rooster, zodiac symbols
+      with sun in Libra, gleaming against dark mast wood undergoing transformation from pristine gold to salt-tarnished metal
+    details: The doubloon nailed to the mast shows signs of weather exposure - salt crystals form white patterns across its
+      surface while ocean spray causes the gold to develop green patina in spots. The coin that once gleamed like a miniature
+      sun now bears the marks of countless storms. Tropical heat expands the metal, creating tiny stress fractures around
+      the nail hole. Despite its tarnishing, the coin still catches sunlight in brief brilliant flashes, suggesting promise
+      fading but not entirely lost, no text or letters visible
+    background: Special auger-hole cut in deck planking for Ahab's ivory leg, whale-bone tiller, commanding view of entire
+      ship
+    atmosphere: The transformation from bright promise to weathered reality symbolizes how dreams and incentives change under
+      harsh conditions, yet retain their power to motivate
+  composition:
+    cameraAngle: Medium close-up of doubloon on mast showing weather damage
+    focus: Tarnishing gold coin with salt crystal formations
+    depth: Coin detail in foreground, ship's rigging in middle distance, ocean horizon under blazing sun in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Temporal Fusion - Memory Becomes Reality"
+  setting:
+    time: "Deep autumn night 1912, around 5:00 AM"
+    location: "Central room of Prague apartment serving as dining and gathering space, heart of family life"
+    weather: "Air shimmering with temporal distortion"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Past trauma fully merging with present reality, memory-figures becoming solid and interactive with current situation"
+    details: "The ghostly memory scenes solidify and begin interacting with present-day Gregor. His past human self appears, wearing his business suit, and argues with his current insect form about choices made. His deceased boss materializes to demand overdue reports. Past versions of his family move through the room, oblivious to his transformation, discussing financial worries. The past and present versions of people overlap, creating double-exposed figures with multiple temporal identities."
+    background: "Heavy wooden dining table with chairs, sideboard, father's armchair, gas lamp later replaced by electric light"
+    atmosphere: "Complete temporal breakdown, all moments in life existing simultaneously, cause and effect becoming meaningless"
+  composition:
+    cameraAngle: "Complex multi-layered shot showing past and present figures occupying same space"
+    focus: "Interaction between current insect-Gregor and his past human self"
+    depth: "Foreground: temporal dialogue between selves, middle: overlapping family figures from different periods, background: furniture existing in multiple time states"

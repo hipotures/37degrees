@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Cosmic timescale - centuries compressed into single view
+    location: Ancient tree location showing human civilization cycles against natural persistence
+    weather: Multiple seasonal and weather patterns across extended time periods
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive ancient tree serving as witness to multiple human civilization cycles across centuries. Tree growth
+      rings and seasonal changes overlapping with human settlements rising, flourishing, declining, and being replaced around
+      its base. Civilizations appear as translucent layers showing cyclical patterns
+    details: Tree shows growth progression from sapling to ancient giant while human activities cycle through construction,
+      prosperity, decay, and renewal. Building materials and architectural styles evolve while tree remains constant. Human
+      life spans become invisible against tree's longevity creating cosmic perspective on historical change
+    background: Landscape shows geological and environmental changes across extended timeframe. Rivers, hills, and basic geography
+      evolve slowly while human changes appear rapid and ephemeral. Stars wheel overhead suggesting astronomical time scales
+    atmosphere: Humbling cosmic perspective reducing human history to brief episodes within natural and astronomical time.
+      Tree wisdom and natural persistence contrasting with human urgency and political fragmentation, no text or letters visible
+  composition:
+    cameraAngle: Low angle wide shot emphasizing tree majesty and human civilization scale
+    focus: Ancient tree as temporal anchor with human activities as ephemeral overlays
+    depth: Tree trunk and root system in foreground, human civilization cycles in middle ground, cosmic background suggesting
+      astronomical scales
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

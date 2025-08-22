@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "celie"
+      name: "Celie"
+      description_block: |
+        characters:
+          - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+            clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+            posture: "Initial scenes: hunched shoulders, downcast eyes, movements careful and self-effacing. Later scenes: straight spine, direct gaze, confident gestures, hands that work skillfully with fabric and thread"
+    
+    - id: "shug_avery" 
+      name: "Shug Avery"
+      description_block: |
+        characters:
+          - appearance: "Striking African American blues singer, aged 30s-70s, tall and slender with commanding presence, very dark skin described as lustrous, long pointed nose, full lips like black plums, large expressive eyes, naturally glamorous bearing"
+            clothing: "Sophisticated urban fashion spanning 1920s-1940s: form-fitting red sequined dresses, fur stoles, feathered headbands, jewelry and accessories, clothing that announces her status as performer and free woman"
+            posture: "Moves with natural sensuality and confidence, gestures are dramatic and expressive, carries herself like royalty, commands attention in any room"
+    
+    - id: "nettie"
+      name: "Nettie" 
+      description_block: |
+        characters:
+          - appearance: "African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined features, intelligent eyes, graceful bearing, represents education and worldliness"
+            clothing: "Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted for African climate including white cotton pants designed by Celie"
+            posture: "Carries herself with dignity and purpose, movements reflect education and travel experience, hands often holding letters or books"
+    
+    - id: "mister_albert"
+      name: "Mister (Albert)"
+      description_block: |
+        characters:
+          - appearance: "African American man aged 30s-80s, initially imposing physical presence used for dominance, handsome features that become gentler with age, strong build that softens as he finds peace"
+            clothing: "Working farmer's clothes: denim overalls, cotton shirts, heavy boots. Later transformation: clean, simple clothes, often seen with sewing materials"
+            posture: "Early scenes: domineering stance, aggressive gestures, commands space through intimidation. Later: relaxed posture, gentle movements, hands engaged in careful needlework"
+    
+    - id: "sofia"
+      name: "Sofia"
+      description_block: |
+        characters:
+          - appearance: "Large, powerful African American woman aged 20s-60s, muscular build, light brown skin with lustrous quality, hair worn in tight braids, physical strength that embodies her inner spirit, battle scars from confrontation with racist system"
+            clothing: "Sturdy work clothes befitting her strength, simple dresses that allow freedom of movement, later worn servant's uniforms during imprisonment, eventual return to dignified working-class attire"
+            posture: "Stands tall and proud, moves with confidence and power, gestures that show strength tempered by love for family, bearing that challenges anyone who would diminish her"
+
+  locations:
+    - id: "pa_house"
+      name: "Pa's House - Childhood Home"
+      description_block: |
+        setting:
+          location: "Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton fields"
+        mainElements: "Small weathered wood-frame house with sagging porch, bare dirt yard, hand-pump water well, outdoor privy, ramshackle barn structures"
+        atmosphere: "Initial oppression and fear giving way to hope and renewal when inherited and renovated by Celie, transformation from site of trauma to place of healing"
+    
+    - id: "mister_house"
+      name: "Mister's House"
+      description_block: |
+        setting:
+          location: "Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural fields"
+        mainElements: "Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters, kitchen with wood-burning stove, sparse furniture showing bachelor neglect"
+        atmosphere: "Place of Celie's deepest suffering and gradual awakening, rooms that hold secrets and witness transformation, domestic space where power dynamics shift over decades"
+    
+    - id: "harpo_juke_joint"
+      name: "Harpo's Juke Joint"
+      description_block: |
+        setting:
+          location: "Converted barn structure in rural Georgia serving as community gathering place for African American social life, hidden from white authorities"
+        mainElements: "Rough wooden building with small stage area, makeshift bar, dance floor, oil lamps providing warm golden lighting, tables and chairs arranged around performance space"
+        atmosphere: "Vibrant center of music and community, air thick with tobacco smoke and excitement, sounds of blues music and laughter, temporary escape from hardships of segregated life"
+    
+    - id: "olinka_village"
+      name: "Olinka Village"
+      description_block: |
+        setting:
+          location: "Traditional West African village in fictional territory, pre-colonial indigenous community surrounded by lush tropical forest"
+        mainElements: "Round thatched-roof huts built with natural materials, sacred leaf-roof plant central to culture, village center for gatherings, paths connecting family compounds"
+        atmosphere: "Initially harmonious relationship with nature and ancestral traditions, later devastation and cultural destruction from British colonial rubber company's road construction through sacred lands"
+    
+    - id: "memphis_shug_house"
+      name: "Shug's House in Memphis"
+      description_block: |
+        setting:
+          location: "Urban Memphis, Tennessee residence representing freedom and modernity, mid-20th century city environment"
+        mainElements: "Spacious, well-appointed house with modern conveniences, rooms filled with musical instruments and performance costumes, comfortable furniture reflecting success"
+        atmosphere: "Place of liberation and self-discovery for Celie, urban sophistication contrasting with rural hardship, space where love and creativity flourish"
+
+  items:
+    - id: "letters_from_nettie"
+      name: "Nettie's Hidden Letters"
+      description_block: |
+        details: "Bundle of yellowed letters tied with string, bearing exotic African stamps, hidden for decades under loose floorboard in Mister's house, physical proof of love and connection across time and distance"
+    
+    - id: "sewing_materials"
+      name: "Sewing and Tailoring Tools"
+      description_block: |
+        details: "Needles, thread, fabric scissors, measuring tape, sewing machine, and bolts of colorful fabric, tools that represent Celie's path to economic independence and creative expression"
+    
+    - id: "purple_flowers"
+      name: "Purple Wildflowers"
+      description_block: |
+        details: "Wild purple flowers growing in Georgia fields, symbol of divine beauty present in everyday life, representing God's creation that should be noticed and appreciated"
+    
+    - id: "celie_pants"
+      name: "Celie's Designed Pants"
+      description_block: |
+        details: "Custom-tailored women's pants in vibrant colors and practical designs, revolutionary garments challenging gender conventions, products of 'Folkspants, Unlimited' business representing freedom of movement and expression"
+    
+    - id: "shug_photograph"
+      name: "Shug's Glamour Photograph"
+      description_block: |
+        details: "Black and white professional photograph showing Shug in performance attire, representing aspiration and possibility of different life beyond rural constraints, treasured possession that opens window to wider world"

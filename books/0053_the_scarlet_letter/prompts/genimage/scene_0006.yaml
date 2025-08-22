@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1647 midnight, five years after initial shame
+    location: Minister's private study chamber with books and medical implements
+    weather: Deep night with single candle providing flickering light
+  characters:
+  - appearance: Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion
+      growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips
+    clothing: Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes,
+      garments becoming looser as he grows thinner
+    position: Slumped in wooden chair, hand pressed against chest over heart
+    action: Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face
+      shows inner torment, walking with increasingly faltering steps
+  scene:
+    mainElements: Minister's hand permanently positioned over heart area, wooden crucifix on wall, medical implements and
+      herbs suggesting physician's presence, scattered books and papers
+    details: The hand-to-heart gesture becomes compulsive symbol of hidden wound, suggesting invisible scarlet letter burned
+      into flesh beneath clothing. Minister's pale face shows increasing torment while books of theology surround him ironically.
+      Wooden crucifix casts shadow on wall creating cross-shaped darkness. Medical implements hint at physician's manipulative
+      presence and false healing.
+    background: Dark study lined with theological volumes, single candle creating dancing shadows, medical equipment suggesting
+      sinister treatment
+    atmosphere: Physical manifestation of psychological guilt, hidden sin eating away at body and soul, false healing masking
+      true spiritual wound, no text or letters visible
+  composition:
+    cameraAngle: Close-up on hand pressed to chest and anguished facial expression
+    focus: Hand over heart as symbol of hidden scarlet letter burned into flesh
+    depth: 'Foreground: minister''s tortured expression and gesture; middle: study furnishings; background: crucifix shadow
+      and medical implements'
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

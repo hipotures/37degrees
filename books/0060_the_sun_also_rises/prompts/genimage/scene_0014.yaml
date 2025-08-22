@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1924, late afternoon
+    location: Traditional Parisian library with tall windows and countless bookshelves reaching toward vaulted ceiling
+    weather: Golden afternoon light creating dramatic shafts through tall windows
+  characters:
+  - appearance: American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly
+      combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely
+      betrays emotion
+    clothing: Well-tailored charcoal wool suit with soft cotton shirt and subdued tie, garments practical yet respectable
+      befitting working correspondent in 1924 Paris
+    position: Standing before tall bookshelf, fingers tracing along leather spines
+    action: Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail
+  scene:
+    mainElements: Ancient leather-bound volumes with worn spines, particles of aged paper and leather floating in golden light
+      shafts, wisps of dust rising from disturbed books
+    details: Fine dust particles escaping from between book pages like tiny spirits, leather bindings showing cracks and wear
+      patterns suggesting age, golden light beams revealing clouds of paper fibers and leather dust, opened books releasing
+      visible motes that dance in air currents, wooden shelves bearing patina of countless years and accumulated dust, no
+      text or letters visible
+    background: Towering bookshelves filled with leather-bound volumes, reading tables with green-shaded lamps, cathedral-like
+      atmosphere of scholarly pursuit
+    atmosphere: Academic mustiness suggested through visual dust patterns - ancient knowledge made manifest through floating
+      particles, literary history evident in aging materials
+  composition:
+    cameraAngle: Medium shot with dramatic lighting emphasizing dust particles
+    focus: Book dust and paper particles floating in light beams
+    depth: 'Foreground: detailed particle effects in light shaft, midground: figure examining books, background: vast library
+      extending into scholarly shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

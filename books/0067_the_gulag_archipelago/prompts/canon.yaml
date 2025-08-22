@@ -1,0 +1,121 @@
+canon:
+  characters:
+    - id: "nkvd_officer"
+      name: "NKVD Officer"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man in late 30s, clean-shaven face with harsh angular features, cold calculating eyes, pale complexion from indoor work"
+            clothing: "Immaculate NKVD uniform - olive drab gymnasterka tunic with high collar, chabrowy blue collar tabs and cuff piping, bottle-shaped shoulder boards with blue stripes, brown leather Sam Browne belt, black leather holster with TT pistol, garrison cap with blue band and red star, polished black leather boots"
+            position: "Standing behind massive oak desk with authoritative posture, or sitting in leather chair"
+            action: "Reviewing documents, operating interrogation lamp, speaking with cold authority"
+
+    - id: "political_prisoner"
+      name: "Political Prisoner" 
+      description_block: |
+        characters:
+          - appearance: "Thin man in 30s with gaunt cheeks, intelligent eyes showing exhaustion, several days stubble, prematurely graying hair, pale complexion with dark circles under eyes"
+            clothing: "Dirty torn telogreika padded jacket in khaki color with multiple patches, matching padded trousers, felt valenki boots or improvised lapti footwear, fur ushanka hat, white cloth patches with black prison number"
+            position: "Sitting on hard wooden chair or standing in formation"
+            action: "Holding tin bowl, working with primitive tools, walking in prisoner column"
+
+    - id: "criminal_prisoner"
+      name: "Criminal Prisoner"
+      description_block: |
+        characters:
+          - appearance: "Muscular man in 30s with better physical condition, covered in blue-black prison tattoos including eight-pointed stars on shoulders and knees, multiple scars from fights"
+            clothing: "Better quality stolen telogreika jacket, newer boots, clothing worn in nonchalant manner"
+            position: "Lounging confidently or standing in dominant posture"
+            action: "Playing cards, intimidating other prisoners, displaying tattoos"
+
+    - id: "camp_guard"
+      name: "Camp Guard"
+      description_block: |
+        characters:
+          - appearance: "Average build man in 20s with weather-beaten face from outdoor duty, expression of boredom or brutality"
+            clothing: "NKVD convoy troops uniform with warm sheepskin coat, felt valenki boots, fur ushanka hat, rifle with bayonet"
+            position: "Standing on watchtower platform or marching alongside prisoner column"
+            action: "Scanning horizon through binoculars, leading guard dog on leash, counting prisoners"
+
+    - id: "female_prisoner"
+      name: "Female Prisoner"
+      description_block: |
+        characters:
+          - appearance: "Thin woman in 30s with extremely gaunt features, shaved or short matted hair, aged beyond her years, hollow cheeks"
+            clothing: "Oversized male telogreika jacket, torn padded trousers, improvised footwear, sometimes small feminine detail like headscarf"
+            position: "Sitting hunched defensively or standing with other women"
+            action: "Mending clothes with improvised needle, carrying metal bowl, working in kitchen"
+
+  locations:
+    - id: "lubyanka_prison"
+      name: "Lubyanka Prison"
+      description_block: |
+        setting:
+          location: "Moscow's infamous political prison - neo-baroque yellow brick building with imposing facade masking interior horror"
+        mainElements: "Massive iron doors, long empty corridors with felt floor covering, small concrete cells with steel doors, single hanging lightbulb, wooden or iron fold-down bunk, metal bucket toilet, thick walls"
+        atmosphere: "Oppressive silence broken by metallic sounds of keys and locks, echo of footsteps, psychological pressure of total isolation"
+
+    - id: "interrogation_room"
+      name: "Interrogation Room"
+      description_block: |
+        setting:
+          location: "NKVD interrogation chamber designed for psychological dominance"
+        mainElements: "Massive oak desk with documents and red seals, comfortable leather chair for interrogator, hard wooden chair for prisoner, adjustable black bakelite desk lamp, Stalin portrait on wall"
+        atmosphere: "Harsh blinding light from interrogation lamp, sharp contrast between authority and powerlessness, smell of leather and cologne"
+
+    - id: "stolypin_wagon"
+      name: "Stolypin Transport Wagon"
+      description_block: |
+        setting:
+          location: "Modified railway cattle car used for prisoner transport across Soviet Union"
+        mainElements: "Steel-barred compartments, three-tier wooden bunks packed with prisoners, hole in floor for toilet, tiny barred ventilation windows, armed guards in front compartment"
+        atmosphere: "Crushing overcrowding, stench of unwashed bodies and excrement, darkness pierced by thin shafts of light, constant rail noise"
+
+    - id: "siberian_camp"
+      name: "Siberian Labor Camp"
+      description_block: |
+        setting:
+          location: "Remote Siberian gulag surrounded by endless taiga wilderness and permafrost"
+        mainElements: "Rectangular compound surrounded by multiple rows of barbed wire, wooden watchtowers with searchlights, long low wooden barracks, guard dog patrols, cleared death strip between fences"
+        atmosphere: "Bitter arctic cold reaching minus 60 celsius, howling wind, crunching snow underfoot, geometric order imposed on hostile landscape"
+
+    - id: "barracks_interior"
+      name: "Prison Barracks Interior"
+      description_block: |
+        setting:
+          location: "Overcrowded sleeping quarters inside labor camp"
+        mainElements: "Three-tier wooden bunks without mattresses, thin straw-filled sacks, iron stove in center providing inadequate heat, prisoners sleeping in rows, crude wooden table"
+        atmosphere: "Perpetual twilight, body odor and breath vapor in cold air, whispered conversations, sound of coughing and snoring"
+
+    - id: "kolima_landscape"
+      name: "Kolyma Region"
+      description_block: |
+        setting:
+          location: "Far eastern Siberian territory known as most brutal gulag destination"
+        mainElements: "Endless white permafrost landscape, bare rocky hills, stunted trees, mining equipment, primitive roads, scattered camp buildings"
+        atmosphere: "Desolate emptiness stretching to horizon, brutal wind, crushing isolation, sense of being at end of civilized world"
+
+  items:
+    - id: "interrogation_lamp"
+      name: "Interrogation Lamp"
+      description_block: |
+        details: "Heavy black bakelite desk lamp with adjustable metal arm and shade, designed to shine blinding light directly into prisoner's face during questioning, symbol of NKVD torture methods"
+
+    - id: "prisoner_bowl"
+      name: "Prisoner's Metal Bowl"
+      description_block: |
+        details: "Dented aluminum or tin bowl used for watery soup rations, most precious possession of camp prisoner, often held protectively against chest"
+
+    - id: "black_raven_car"
+      name: "Black Raven Vehicle"
+      description_block: |
+        details: "Black GAZ sedan modified for prisoner transport with windowless rear compartment divided into standing-only metal boxes, mobile prison cell on wheels"
+
+    - id: "prison_documents"
+      name: "NKVD Files"
+      description_block: |
+        details: "Thick manila folders with red wax seals containing false charges and fabricated evidence, symbol of bureaucratic machine that condemned millions"
+
+    - id: "work_tools"
+      name: "Primitive Labor Tools"
+      description_block: |
+        details: "Heavy pickaxes for breaking frozen ground, wooden-handled shovels, crude wheelbarrows, two-man crosscut saws, symbols of backbreaking manual labor in impossible conditions"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Sanctuary Through Narrator's Eyes"
+  setting:
+    time: "Early 1950s, late evening"
+    location: "Underground coal cellar hideout on border of Harlem, forgotten basement section"
+    weather: "Underground environment, artificial climate"
+  characters:
+    - appearance: "Young African American man, age varying by scene from late teens to mid-twenties, average build and height, generic facial features designed to be overlooked"
+      clothing: "Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending on imposed identity"
+      position: "Seated at makeshift desk, writing by brilliant artificial light"
+      action: "Writing his story, pausing to listen to Louis Armstrong on gramophone"
+  scene:
+    mainElements: "Ceiling covered with 1369 light bulbs creating brilliant illumination, gramophone, makeshift furniture, stolen electricity connection"
+    details: "From narrator's perspective, each light bulb represents a small victory against invisibility, the warm glow feels like confirmation of existence, shadows are banished completely, gramophone's music provides emotional anchor to authentic Black culture, walls seem protective rather than confining, makeshift furniture appears comfortable and personal rather than primitive"
+    background: "Underground pipes and foundation walls, electrical cables snaking to illegal power connection, stacks of books and papers"
+    atmosphere: "Hibernation space for reflection and truth-seeking, brilliant artificial light confirming existence and reality, isolation enabling deep self-examination"
+  composition:
+    cameraAngle: "Low angle from narrator's seated position, looking up at ceiling of lights"
+    focus: "The overwhelming brightness of 1369 bulbs creating sense of confirmed reality"
+    depth: "Foreground shows narrator's hands on paper, middle ground reveals gramophone and furniture, background fades into brilliant light, no text or letters visible"

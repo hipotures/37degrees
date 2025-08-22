@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transportation evolution - horse to automobile in same Salinas Valley garage"
+  setting:
+    time: "1895 and 1915 overlaid, showing 20 years of transportation revolution, morning preparation time"
+    location: "Barn and later garage building on Trask property, same structure adapted for different vehicles"
+    weather: "Clear morning with good traveling conditions requiring vehicle preparation"
+  characters:
+    - appearance: "Adam Trask shown in transparent overlay - middle-aged man in his 40s with gentle, kind face and thin build, expressive eyes showing inner turmoil, weathered hands from farm work"
+      clothing: "Simple white cotton shirt with rolled sleeves, dark brown wool vest, durable canvas work pants held by suspenders, worn leather boots"
+      position: "Preparing horse for travel in 1895, cranking automobile engine in 1915, same caring attention to vehicle preparation"
+      action: "Brushing and saddling horse with gentle care overlaid with checking automobile oil and water, starting engine with hand crank, same meticulous preparation for journey"
+  scene:
+    mainElements: "Building structure showing adaptation from horse barn to automobile garage - horse stalls converted to car bay, hay storage replaced by gasoline and oil storage, harness hooks repurposed for automotive tools"
+    details: "Dirt floor giving way to concrete slab, wooden feed troughs replaced by workbench with automotive tools, horse grooming brushes hanging beside tire gauges and oil cans, barn doors widened to accommodate automobile width"
+    background: "Salinas Valley visible through open doors showing same mountain vista while transportation infrastructure evolves - dirt roads improved for automobile traffic, telephone lines appearing for emergency automobile assistance"
+    atmosphere: "Transportation revolution changing daily life rhythms, same human care transferred from living animal to mechanical marvel, progress bringing both convenience and complexity, no text or letters visible"
+  composition:
+    cameraAngle: "Interior barn/garage view with open doors framing valley beyond"
+    focus: "Central work area showing transformation from horse care to automobile maintenance"
+    depth: "Foreground shows tool and equipment evolution, middle ground reveals vehicle preparation activities, background provides stable valley reference across transportation eras"

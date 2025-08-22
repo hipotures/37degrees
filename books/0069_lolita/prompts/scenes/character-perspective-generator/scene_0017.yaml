@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Classroom Observation - Normal Students"
+  setting:
+    time: "1948, day"
+    location: "Private preparatory school classroom in Beardsley, New England"
+    weather: "Daylight through school windows"
+  characters:
+    - appearance: "Female teacher, middle-aged, professional educator"
+      clothing: "1940s professional teaching attire, conservative dress"
+      position: "Standing at blackboard, conducting normal class"
+      action: "Teaching lesson, interacting normally with students, unaware of student's situation"
+    - appearance: "Multiple teenage students, various ages, normal school children"
+      clothing: "1940s school uniforms and casual student clothes"
+      position: "Seated at desks, participating in class"
+      action: "Taking notes, participating in normal classroom activities, unaware of classmate's trauma"
+  scene:
+    mainElements: "School classroom with wooden desks, blackboard, educational posters, normal academic environment"
+    details: "Students engaged in normal classroom activities, teacher conducting lesson, academic atmosphere, sense of normal teenage educational experience"
+    background: "School classroom environment, windows showing school grounds, educational materials, atmosphere of normal learning"
+    atmosphere: "Normal educational environment, routine classroom activities, sense of what normal teenage life should be, contrast between appearance and hidden reality"
+  composition:
+    cameraAngle: "Student desk level view of normal classroom activities"
+    focus: "Normal students and teacher engaged in educational activities"
+    depth: "Foreground shows desk and school materials, middle ground shows classmates and teacher, background shows normal school environment"

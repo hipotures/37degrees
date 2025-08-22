@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Elder's Memory-Layered View - Past and Present Overlapping"
+  setting:
+    time: "Early 1920s evening"
+    location: "Simple wooden village tavern with elder remembering decades of village history"
+    weather: "Cold winter evening with warmth of memories"
+  characters:
+    - appearance: "Elderly village resident aged 70+ years"
+      clothing: "Traditional worn village garments, layers accumulated over decades"
+      position: "Seated in tavern corner, observing current events through lens of history"
+      action: "Watching K.'s struggles while remembering similar past conflicts"
+    - appearance: "Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally to maintain universal anonymity"
+      clothing: "Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack as personal belonging"
+      position: "Moving through tavern unaware of elder's historical perspective"
+      action: "Continuing futile attempts to understand village-Castle relationship"
+  scene:
+    mainElements: "Low-ceilinged smoky taproom layered with decades of similar conflicts and resolution patterns"
+    details: "From elder's perspective of accumulated wisdom - K.'s current struggles echoing countless previous outsiders who faced identical bureaucratic challenges. Present overlapping with past memories of other surveyors, officials, and confused visitors. Tavern furniture bearing witness to decades of similar conversations and failures."
+    background: "Village architecture representing continuity of traditional life under various administrative systems"
+    atmosphere: "Through elder's memory-enhanced viewpoint - current conflicts appearing as repetitive cycles, K.'s determination resembling numerous previous hopeful outsiders, bureaucratic patterns remaining unchanged across generations, winter evening creating contemplative mood for historical reflection, no text or letters visible"
+  composition:
+    cameraAngle: "Elder's seated perspective showing both current scene and ghostly memories"
+    focus: "Present events overlaid with transparent memories of similar past incidents"
+    depth: "Foreground shows elder's knowing expression, middle ground captures current tavern activity, background suggests layers of historical repetition"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1944, noon
+    location: military formation area on Pianosa airbase
+    weather: bright Mediterranean sun
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: completely naked in protest against military ceremonies
+    position: standing at attention in formation line
+    action: receiving military decoration while refusing to wear uniform
+  scene:
+    mainElements: formal military ceremony with rows of uniformed officers, official platform with commanding officers, American
+      flag backdrop
+    details: Yossarian stands completely naked among perfectly uniformed soldiers during medal presentation ceremony. His
+      nudity creates shocking visual contrast against military conformity. Officers struggle to maintain ceremony dignity
+      while confronting blatant nonconformist act. Medal pinning becomes absurd ritual.
+    background: rows of olive-green tents, military vehicles, distant bomber aircraft on airfield
+    atmosphere: tension between individual rebellion and institutional authority, mixture of ceremonial solemnity and subversive
+      absurdity
+  composition:
+    cameraAngle: wide shot showing contrast between naked individual and uniformed mass
+    focus: stark visual opposition between conformity and rebellion
+    depth: foreground emphasizes naked protest, middle ground shows uniformed formation, background reveals military institutional
+      power
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

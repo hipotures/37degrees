@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desaturated Vision - Colors Drain Away"
+  setting:
+    time: "Early 1960s, evening"
+    location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+    weather: "Artificial lighting creating stark black and white contrast"
+  characters:
+    - appearance: "40+ year old man described as flat nervous man with handsome movie-like face. Wide but thin shoulders often hunched trying to hide. Delicate feminine build. Most characteristic feature: extraordinarily long white delicate hands like carved from soap"
+      clothing: "Standard patient hospital uniform"
+      position: "Sitting with shoulders curled inward, ashamed of his expressive hand gestures"
+      action: "Speaking intellectually while making elegant hand movements he tries to hide, displaying refined but nervous mannerisms"
+  scene:
+    mainElements: "Room drained of all color except stark black and white contrasts, creating high-contrast film noir effect"
+    details: "Colors bleed away like water washing out paint, leaving only grayscale institutional landscape. Sharp vignetting around edges of vision creating tunnel effect. Harsh lighting creates dramatic shadows that move independently of light sources. White uniforms glow with ethereal brightness against dark backgrounds. Metallic surfaces reflect distorted high-contrast images"
+    background: "Windows show only black void beyond bars, glass surfaces reflect stark contrasts"
+    atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds. Loss of life and vitality, reality becoming increasingly abstract and threatening"
+  composition:
+    cameraAngle: "High contrast black and white with dramatic shadows"
+    focus: "Stark contrasts between light and dark, elegant pale hands moving expressively"
+    depth: "Foreground: sharp white and black contrasts. Middle: graceful hand gestures creating patterns. Background: complete darkness beyond windows"

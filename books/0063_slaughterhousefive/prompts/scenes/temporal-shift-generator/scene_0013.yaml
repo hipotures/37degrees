@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Communication Evolution - Letters to Digital Screens"
+  setting:
+    time: "1940s to 1970s showing communication technology advancement"
+    location: "Same desk location in Billy's home showing communication methods across decades"
+    weather: "Interior lighting evolution from incandescent to fluorescent showing technological progress"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy at same desk location using different communication technologies across his lifetime"
+      action: "Writing letters with fountain pen, using rotary telephone, watching television broadcasts, representing technological evolution, no text or letters visible"
+  scene:
+    mainElements: "Single desk showing communication evolution from handwritten letters to telephone calls to television viewing, each technology replacing previous while desk location remains constant"
+    details: "Fountain pen and inkwell replaced by ballpoint pen, handwritten letters replaced by typed documents, rotary telephone upgrading to push-button model, black and white television becoming color, radio moving from prominence to background"
+    background: "Home interior modernizing around communication center, furniture styles changing, electrical outlets multiplying, wiring becoming more complex, lighting improving"
+    atmosphere: "Technological progress accelerating communication speed while potentially reducing personal intimacy, efficiency improving while human connection transforms"
+  composition:
+    cameraAngle: "Close-up on desk surface showing communication tools evolution across decades"
+    focus: "Communication devices as temporal markers showing technological advancement"
+    depth: "Foreground shows detailed device evolution, middle ground shows Billy adapting to new technologies, background shows home modernization supporting communication changes"

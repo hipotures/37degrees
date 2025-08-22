@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1944, morning
+    location: mess hall on Pianosa military base
+    weather: clear Mediterranean morning
+  characters:
+  - appearance: 20s, straight face with separated eyebrows, large eyes, reddish hair, unfortunate reddish-brown mustache,
+      thin nose with moist nostrils
+    clothing: quartermaster lieutenant uniform with increasingly civilian expensive accessories
+    position: standing among crates of goods with account ledgers
+    action: conducting business deals while managing M&M Enterprises operations
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: sitting at mess table with metal tray
+    action: listening skeptically to business proposals
+  scene:
+    mainElements: military mess hall transformed into trading center with exotic goods, crates of imported foods, account
+      books and business papers
+    details: Milo explains his syndicate operations with nervous hand gestures, pointing to fresh eggs from Malta and Egyptian
+      cotton samples. His moist nostrils flare with excitement as he describes profit margins. Yossarian observes with growing
+      unease as military supply system transforms into personal business empire.
+    background: long mess tables with benches, serving area converted to warehouse space, exotic foods replacing standard
+      military rations
+    atmosphere: capitalist energy infiltrating military structure, mixture of entrepreneurial enthusiasm and moral corruption
+  composition:
+    cameraAngle: medium shot capturing both characters' contrasting body language
+    focus: Milo's excited gestures versus Yossarian's skeptical posture
+    depth: foreground shows business goods and papers, middle ground emphasizes character interaction, background reveals
+      institutional transformation
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

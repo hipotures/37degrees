@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Accelerated Dresden Destruction and Rebuilding"
+  setting:
+    time: "1945 to 1970s showing compressed destruction and reconstruction cycle"
+    location: "Completely destroyed Dresden, February 15 1945, described as lunar landscape of absolute devastation"
+    weather: "Fire and smoke transitioning to construction dust to clear skies"
+  characters:
+    - appearance: "Various ages representing workers and citizens across reconstruction decades"
+      clothing: "Work clothes evolving from wartime salvage gear to modern construction attire"
+      position: "People working in accelerated motion showing destruction clearing and rebuilding efforts"
+      action: "Compressed time showing rapid progression from corpse removal to rubble clearing to foundation laying to building construction, no text or letters visible"
+  scene:
+    mainElements: "Jagged ruins of burned buildings, streets buried under rubble, earth soaked with tons of human bone meal, corpse mining operations in collapsed basements"
+    details: "Accelerated visual effects showing debris removal, ground clearing, foundation pouring, wall construction, roofing installation, architectural finishing, landscaping completion all in compressed time sequence"
+    background: "Dresden skyline rebuilding in time-lapse effect showing architectural evolution from destruction through reconstruction to modern city"
+    atmosphere: "Monochromatic gray and black from ash and charred remains, persistent smoke cloud blocking sunlight, red glow from fires burning for weeks, overwhelming silence broken only by collapsing structures"
+  composition:
+    cameraAngle: "Wide city view showing entire destruction to reconstruction cycle in compressed time"
+    focus: "Single building location showing complete cycle from ruins to modern structure"
+    depth: "Foreground shows detailed construction progression, middle ground shows neighborhood rebuilding, background shows city skyline evolution"

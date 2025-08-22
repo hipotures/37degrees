@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Assembly Line of Cultural Conversion"
+  setting:
+    time: "Late 1890s, morning during systematic missionary education"
+    location: "Simple church building constructed by European missionaries on edge of Evil Forest"
+    weather: "Cold morning light lacking warmth of traditional community gathering"
+  characters:
+    - appearance: "Indigenous children and adults arranged in uniform rows with expressions of confusion and compliance"
+      clothing: "Mixture of traditional clothing and imposed European garments creating cultural dissonance"
+      position: "Seated in rigid formation facing single authority figure"
+      action: "Mechanically repeating foreign religious concepts while abandoning traditional spiritual understanding"
+  scene:
+    mainElements: "Basic red clay and thatch structure with wooden cross, benches for converts arranged in rigid institutional formation eliminating traditional circular community discussion"
+    details: "Brown nut broken into segments and shared among guests with ritual prayers, fundamental act of welcome and respect now replaced by foreign communion rituals. Traditional community consensus decision-making replaced by authoritarian religious instruction"
+    background: "Symbol of cultural disruption and new spiritual alternative to traditional beliefs imposing foreign hierarchy on indigenous social structures"
+    atmosphere: "Mechanized spiritual conversion processing individuals through standardized religious indoctrination that eliminates cultural diversity and traditional wisdom"
+  composition:
+    cameraAngle: "Wide shot showing institutional regimentation of spiritual life"
+    focus: "Uniform rows of converts being processed through standardized religious conversion"
+    depth: "Regimented converts in foreground, foreign religious authority in middle ground, abandoned traditional spiritual sites in background"

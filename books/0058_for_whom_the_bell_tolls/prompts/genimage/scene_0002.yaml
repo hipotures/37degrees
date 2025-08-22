@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, afternoon with dappled forest light
+    location: Pine forest clearing on mountainside overlooking strategic valley position in Spanish mountains
+    weather: Clear mountain air with gentle breeze moving through trees
+  characters:
+  - appearance: tall and lean man around 28 years old with light hair bleached by sun, weather-tanned face, clear sharp eyes
+    clothing: faded flannel shirt, simple peasant trousers, rope-soled espadrilles (alpargatas), all in muted earth tones
+      of khaki, gray, brown
+    posture: moves with economy and precision of trained soldier, carries heavy canvas packs with controlled grace
+    action: methodically checking equipment, observing surroundings with professional alertness
+  scene:
+    mainElements: Lone soldier positioned between massive pine trees observing distant steel bridge through binoculars, forest
+      canopy framing distant objective
+    details: Morning light filtering through pine needles creates dramatic shafts of golden light, heavy canvas packs resting
+      against tree trunk, thick brown carpet of fallen needles underfoot, distant industrial bridge contrasting with organic
+      forest setting
+    background: Dense pine forest extending in all directions, rocky outcrops visible through trees, distant valley with target
+      structure
+    atmosphere: Professional reconnaissance tension, natural sanctuary concealing military purpose, contrast between peaceful
+      forest and strategic objective
+  composition:
+    cameraAngle: Wide shot from behind subject showing scale of forest environment
+    focus: Figure with binoculars framed by towering pine trunks
+    depth: Foreground figure and trees, middle ground forest interior, background distant target across valley
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

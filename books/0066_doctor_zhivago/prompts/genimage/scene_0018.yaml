@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Single moment containing entire seasonal cycle
+    location: Garden at Varykino showing accelerated natural time
+    weather: All weather conditions present simultaneously across temporal compression
+  characters:
+  - appearance: Woman from teenage years to mid-30s, described as very beautiful with inspired beauty, graceful build, expressive
+      face showing both strength and suffering
+    clothing: '1902-1917: modest student dresses, governess attire. 1917-1922: simple white nurse uniform, later practical
+      teacher clothes, warm coats and headscarves'
+    posture: Natural grace and confidence, direct and honest gestures, highly expressive face
+    action: Nursing wounded soldiers, teaching children, reading in library, caring for family
+  scene:
+    mainElements: Single yellow flower displaying entire life cycle from seed to death in compressed temporal moment
+    details: 'Extraordinary time distortion showing complete flower lifecycle in one frame: underground seed sprouting in
+      soil, green shoot emerging through earth, bud forming and swelling, petals opening in full bloom, flower reaching peak
+      beauty, petals beginning to fall, stem weakening and drooping, flower head dried and releasing seeds back to earth.
+      Lara kneels beside flower bed experiencing her own compressed life journey from young girl to mature woman to eventual
+      disappearance, her aging visible in transparent layers around the flower''s growth cycle, no text or letters visible'
+    background: Garden showing seasonal changes compressed into single moment with spring, summer, autumn, and winter elements
+      visible
+    atmosphere: Life's brevity and intensity contained in natural metaphor, beauty and decay occurring simultaneously
+  composition:
+    cameraAngle: Close-up on flower and Lara's hands showing care for growing things
+    focus: Central flower displaying all life stages simultaneously
+    depth: 'Foreground: flower in multiple states; middle ground: Lara''s temporal layers; background: garden showing compressed
+      seasons'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

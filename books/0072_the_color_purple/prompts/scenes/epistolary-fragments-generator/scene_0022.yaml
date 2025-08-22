@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Interception - Letters Stolen from Intended Path"
+  setting:
+    time: "1925, morning"
+    location: "Rural Georgia post office and general store"
+    weather: "Clear morning with deceptive calm"
+  characters:
+    - appearance: "African American man aged 30s-80s, initially imposing physical presence used for dominance, handsome features that become gentler with age, strong build that softens as he finds peace"
+      clothing: "Working farmer's clothes: denim overalls, cotton shirts, heavy boots. Later transformation: clean, simple clothes, often seen with sewing materials"
+      position: "Standing at post office counter"
+      action: "Secretly taking letters addressed to someone else, concealing them in jacket"
+  scene:
+    mainElements: "Small rural post office with wooden counter, mail slots, and community gathering space. Letters being diverted from intended recipient"
+    details: "Postal clerk distracted, letters with African stamps being quietly pocketed, deception happening in plain sight, communication intercepted before reaching destination"
+    background: "Rural store with community members present but unaware of theft, everyday setting hiding crucial betrayal"
+    atmosphere: "Theft of communication as deepest betrayal, love letters becoming weapons of control, ordinary space concealing extraordinary cruelty"
+  composition:
+    cameraAngle: "Medium shot showing secretive action"
+    focus: "Letters being stolen, breaking chain of communication"
+    depth: "Foreground: stealing hands, middle: deceptive figure, background: unsuspecting community"

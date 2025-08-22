@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1969 December, late afternoon in riverside workshop
+    location: Velutha's riverside carpentry workshop with tools, wood shavings, and river sounds
+    weather: Warm afternoon with gentle river breeze carrying scents and sounds
+  characters:
+  - appearance: Handsome 25-year-old Paravan man with dark skin that glistens like polished wood, high cheekbones, muscular
+      swimmer-carpenter body with visible abdominal muscles like chocolate bar divisions, white sudden smile, tall strong
+      build
+    clothing: Simple white or cream mundu sarong worn around waist, often shirtless while working, occasionally simple cotton
+      shirt for formal occasions
+    position: Working at wooden bench carving intricate details
+    action: Smoothing wood with hands while wood shavings curl around tools, completely absorbed in craft
+  scene:
+    mainElements: Fresh wood shavings curling from plane and chisel work, river sounds providing gentle rhythm background,
+      sawdust dancing in afternoon light, wood grain patterns revealed by careful carving
+    details: Wood shavings creating aromatic spiral curls suggesting fresh timber scent, river water sounds providing gentle
+      percussion rhythm, sawdust particles floating in light beams like golden snow, fresh-cut wood revealing beautiful grain
+      patterns, tools creating rhythmic sounds that harmonize with river flow
+    background: Riverside workshop with tools hanging on walls, stacks of different woods, river visible through open sides,
+      afternoon light filtering through trees
+    atmosphere: Perfect synthesis of craft satisfaction - wood texture and scent, rhythmic tool sounds, river breeze, visual
+      beauty of wood grain, taste of clean air
+  composition:
+    cameraAngle: View of Velutha working showing multiple sensory elements of woodworking craft
+    focus: Wood shavings, tool rhythms, and river sounds creating complete craftsman's sensory experience
+    depth: Foreground emphasizes wood shavings and tools, middle ground shows Velutha's focused work, background features
+      river and workshop setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Harmonious Feast of New Yam Celebration"
+  setting:
+    time: "Late 1890s, evening during harvest festival"
+    location: "Wealthy Igbo patriarch's walled compound in Umuofia village, southeastern Nigeria"
+    weather: "Warm evening with clear sky perfect for outdoor celebration"
+  characters:
+    - appearance: "Tall, powerfully-built man in his late thirties to mid-forties, with imposing muscular frame typical of a champion wrestler"
+      clothing: "Simple woven cloth wrapped around waist as loincloth, ankle bracelet marking his titled status"
+      position: "Seated prominently among family members during feast"
+      action: "Presiding over abundant harvest celebration displaying prosperity and social order"
+  scene:
+    mainElements: "Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral shrine with elaborate feast preparation and family gathered in celebration"
+    details: "Large brown tubers with rough skin stored in elevated granaries, symbol of male prosperity and agricultural skill prominently displayed. Brown nut broken into segments and shared among guests with ritual prayers, fundamental act of welcome and respect. Cloudy white alcoholic beverage served in carved calabash gourds during social and ceremonial occasions"
+    background: "Prosperous but tense household reflecting patriarch's rigid control and suppressed emotions within traditional compound structure"
+    atmosphere: "Peak of traditional success showing cultural values of hard work, prosperity, and community harmony before external disruption"
+  composition:
+    cameraAngle: "Medium shot showing feast abundance and family hierarchy"
+    focus: "Patriarch surrounded by symbols of traditional prosperity"
+    depth: "Family feast in foreground, yam storehouse in middle ground, village beyond walls in background"

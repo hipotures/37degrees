@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Medium shot - Pablo's suspicious retreat with wine bota"
+  setting:
+    time: "Late May 1937, evening shadows in cave"
+    location: "Back area of partisan cave away from main group"
+    weather: "Mountain evening cold outside"
+  characters:
+    - appearance: "stocky man in his 40s, about 178cm tall, round bearded stubbled face with broken nose, scarred face including scar at corner of mouth, small widely-set suspicious eyes"
+      clothing: "black peasant smock, dark gray trousers worn shiny on knees and thighs from saddle use, espadrilles"
+      posture: "hunched shoulders, furtive movements, eyes darting with mistrust and calculation"
+      action: "clutching wine bota, movements showing fear mixed with cunning, avoiding direct eye contact"
+  scene:
+    mainElements: "Stocky man withdrawing into cave shadows, clutching large leather wine skin defensively, body language expressing suspicion and fear"
+    details: "Figure hunched protectively over wine bota, scarred face partially hidden in shadows, small suspicious eyes darting nervously, worn clothing suggesting long mountain existence, posture showing withdrawal from group dynamics"
+    background: "Deeper cave shadows with rough stone walls, distant firelight from main group area"
+    atmosphere: "Isolation and mistrust, alcoholic retreat from responsibility, fear overcoming former courage, psychological distance from group unity"
+  composition:
+    cameraAngle: "Medium shot capturing defensive body language and withdrawal"
+    focus: "Figure's protective posture and suspicious facial expression"
+    depth: "Foreground figure in shadows, middle ground cave interior, background distant group activity"

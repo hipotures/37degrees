@@ -1,0 +1,115 @@
+canon:
+  characters:
+    - id: "george_milton"
+      name: "George Milton"
+      description_block: |
+        characters:
+          - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+            clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+            posture: "Alert and tense, quick nervous movements, shoulders often hunched with worry"
+    - id: "lennie_small"
+      name: "Lennie Small"
+      description_block: |
+        characters:
+          - appearance: "Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build like a bull, huge hands"
+            clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's"
+            posture: "Heavy shambling walk dragging feet like a bear, arms hanging loose at sides"
+    - id: "candy"
+      name: "Candy (Swamper)"
+      description_block: |
+        characters:
+          - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+            clothing: "Blue denim work clothes, worn leather boots"
+            posture: "Bent and shuffling, favors his good hand, moves carefully"
+    - id: "curley"
+      name: "Curley"
+      description_block: |
+        characters:
+          - appearance: "Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive boxer stance"
+            clothing: "High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand"
+            posture: "Combative stance with elbows slightly out and fists clenched, chest puffed out to appear larger"
+    - id: "curleys_wife"
+      name: "Curley's Wife"
+      description_block: |
+        characters:
+          - appearance: "Young woman late teens to early 20s, full red-painted lips, heavily made-up wide-set eyes, red fingernails, hair in small sausage curls, attractive but artificial appearance"
+            clothing: "Cotton house dress and red mules with small bouquets of red ostrich feathers, inappropriate for ranch setting"
+            posture: "Provocative stance leaning against door frames, body thrust forward, seeking attention"
+    - id: "slim"
+      name: "Slim (Jerkline Skinner)" 
+      description_block: |
+        characters:
+          - appearance: "Ageless man could be 35 or 50, tall with hatchet face, long black damp hair slicked back, large lean hands with delicate movements like temple dancer"
+            clothing: "Denim pants and jacket, crushed Stetson hat, typical ranch worker attire but carries natural authority"
+            posture: "Calm and dignified bearing, graceful controlled movements, natural leadership presence"
+    - id: "crooks"
+      name: "Crooks (Stable Buck)"
+      description_block: |
+        characters:
+          - appearance: "Black man middle-aged, lean face lined with deep black wrinkles, thin pain-tightened lips lighter than his face, deep-set eyes that glitter with intensity, crooked spine from horse kick"
+            clothing: "Work clothes, boots, spectacles with gold rims hanging on nail"
+            posture: "Body bent to the left from spinal injury, moves with care due to chronic back pain"
+    - id: "carlson"
+      name: "Carlson"
+      description_block: |
+        characters:
+          - appearance: "Powerful thick-bodied man, heavy-set build"
+            clothing: "Standard ranch worker denim and boots"
+            posture: "Solid and imposing stance, moves with physical confidence"
+    - id: "the_boss"
+      name: "The Boss"
+      description_block: |
+        characters:
+          - appearance: "Small stocky man, well-dressed by ranch standards"
+            clothing: "Flannel shirt, black unbuttoned vest, black coat, high-heeled boots and spurs to denote authority"
+            posture: "Authoritative bearing, formal and business-like demeanor"
+  locations:
+    - id: "salinas_riverbank"
+      name: "Salinas River Bank"
+      description_block: |
+        setting:
+          location: "Secluded bend of Salinas River near Soledad California, few miles south of ranch, hidden clearing in dense willow and sycamore grove"
+        mainElements: "Deep green pool of river water, sandy bank, worn path beaten hard by ranch boys and tramps, low horizontal limb of giant sycamore tree polished smooth from sitting"
+        atmosphere: "Peaceful natural sanctuary, sounds of wind in leaves and water lapping, pile of ashes from many campfires beneath tree, Eden-like refuge from harsh world"
+    - id: "bunkhouse_interior" 
+      name: "Ranch Bunkhouse"
+      description_block: |
+        setting:
+          location: "Long rectangular building serving as sleeping quarters for ranch hands, whitewashed walls, unpainted plank floor"
+        mainElements: "Eight bunks with burlap mattresses, apple crate shelves above each bunk for personal belongings, large square table for card games surrounded by boxes for chairs, black cast-iron stove in corner"
+        atmosphere: "Sterile institutional feeling, harsh bright electric bulb in tin shade, small square windows letting in dusty shafts of light with flies like shooting stars, smell of disinfectant and harsh carbolic soap"
+    - id: "crooks_room"
+      name: "Crooks' Harness Room"
+      description_block: |
+        setting:
+          location: "Small lean-to shed attached to barn wall, segregated quarters for black stable hand, one square four-paned window, narrow plank door to barn"
+        mainElements: "Long box filled with straw for bed, broken harness hanging on wall pegs, harness-making tools, new leather straps, bottles of liniment and medicine"
+        atmosphere: "Tidy but isolated space, single dim yellow electric bulb, sounds of horses moving and stamping from adjacent barn, smell of leather tar and hay, books including torn dictionary and California civil code from 1905"
+    - id: "barn_interior"
+      name: "Ranch Barn"
+      description_block: |
+        setting:
+          location: "Large traditional wooden barn, one end piled high with new hay reaching nearly to rafters like mountain slope"
+        mainElements: "Massive hay pile creating natural amphitheater, four-pronged Jackson fork hanging from pulley for moving hay, horse stalls and feeding troughs"
+        atmosphere: "Cathedral-like space with slanting columns of afternoon sunlight streaming through wall cracks, golden dust motes floating in light beams, quiet warm drowsy feeling, sweet smell of fresh hay and animals"
+  items:
+    - id: "luger_pistol"
+      name: "Carlson's Luger"
+      description_block: |
+        details: "German Luger pistol owned by Carlson, modern weapon representing death and finality, same gun used to kill Candy's dog"
+    - id: "dead_mouse"
+      name: "Dead Mouse" 
+      description_block: |
+        details: "Small gray field mouse killed by Lennie's too-strong petting, symbol of his destructive innocent power, soft fur that Lennie cannot resist touching"
+    - id: "puppy"
+      name: "Slim's Puppy"
+      description_block: |
+        details: "Young brown and white puppy given to Lennie by Slim, represents Lennie's need for soft things to pet, accidentally killed by Lennie's strength"
+    - id: "candys_dog" 
+      name: "Candy's Old Dog"
+      description_block: |
+        details: "Ancient blind sheep dog with gray muzzle, arthritic and suffering, Candy's only companion, symbol of fate awaiting old and useless"
+    - id: "work_gear"
+      name: "Migrant Worker Bedroll"
+      description_block: |
+        details: "Bindle containing all possessions wrapped in blanket, typical gear of traveling ranch workers, represents rootless nomadic existence"

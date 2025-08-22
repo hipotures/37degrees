@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Swiss fondue evening with wine swirling in glasses catching light"
+  setting:
+    time: "1918 winter evening"
+    location: "Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean orderly Swiss landscape contrasting with war-torn Italy"
+    weather: "Snow falling gently outside warm chalet"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Ciepłe ubrania cywilne (zimowe)"
+      position: "Seated at wooden table with wine glass raised"
+      action: "Swirling red wine while appreciating complex flavors"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "Ciepłe ubrania cywilne, odzież ciążowa"
+      position: "Across table sharing traditional Swiss meal"
+      action: "Dipping bread into melted cheese while sipping wine"
+  scene:
+    mainElements: "Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean orderly Swiss landscape contrasting with war-torn Italy"
+    details: "Deep red wine creating perfect spiral patterns as glass swirls, wine catching firelight and creating ruby light patterns on wooden table surface, melted cheese bubbling with aromatic steam suggesting rich Alpine dairy flavors, bread chunks showing perfect texture for cheese absorption, wine creating legs down glass sides indicating quality and complex flavor compounds, candlelight revealing wine transparency and color depth, facial expressions showing appreciation of layered taste experience combining wine tartness with cheese richness, traditional Swiss fondue pot creating communal flavor experience, no text or letters visible"
+    background: "Cozy chalet interior with fireplace and snow-covered windows creating intimate dining atmosphere"
+    atmosphere: "Peaceful temporary sanctuary offering apparent safety and domestic tranquility, false sense of escape from world's violence, pristine beauty masking underlying biological dangers"
+  composition:
+    cameraAngle: "Table-level view capturing wine swirl patterns and cheese preparation"
+    focus: "Wine spiral motion and light refraction suggesting complex flavor combinations"
+    depth: "Foreground shows wine and food detail, middle ground captures intimate dining, background reveals cozy chalet atmosphere"

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Same autumn morning 1912, around 7:30 AM
+    location: Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building
+    weather: Rain creating rhythmic patterns, each drop sounding like footsteps
+  characters:
+  - appearance: Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately
+      three feet long
+    clothing: No clothing - naked insect body with hard brown shell and soft pale belly divided into segments
+    posture: Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving
+    action: Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls
+  scene:
+    mainElements: Writing desk covered with fabric samples that appear to move and writhe, each texture becoming hypnotically
+      detailed and threatening
+    details: The fabric samples spread across the desk pulse with life - velvet that feels like skin, silk that slithers like
+      snakes, wool that seems to grow and spread. Patterns within the textiles form eyes that watch Gregor, geometric designs
+      that spiral into hypnotic traps. The texture of each fabric becomes magnified to grotesque proportions - every fiber
+      visible, every weave pattern a maze that draws the eye deeper.
+    background: Other furniture fades as attention becomes obsessively focused on the living textiles, shadows moving independently
+    atmosphere: Paranoid fixation on ordinary objects, materials becoming organic and threatening, professional tools turning
+      sinister
+  composition:
+    cameraAngle: Macro shot showing extreme detail of fabric textures
+    focus: Fabric samples that appear to move and breathe with organic life
+    depth: 'Foreground: hypnotically detailed textile patterns, middle: desk surface becoming organic, background: room blurring
+      into textile-like patterns'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

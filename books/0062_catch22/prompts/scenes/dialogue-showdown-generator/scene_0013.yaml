@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Light and Shadow - Milo's Justification"
+  setting:
+    time: "1944, night"
+    location: "storage area lit by single lamp"
+    weather: "Mediterranean night"
+  characters:
+    - appearance: "20s, straight face with separated eyebrows, large eyes, reddish hair, unfortunate reddish-brown mustache, thin nose with moist nostrils"
+      clothing: "quartermaster lieutenant uniform with expensive civilian accessories"
+      position: "standing in lamplight with confident posture"
+      action: "explaining business logic with calm rationality"
+  scene:
+    mainElements: "dramatic lighting from single oil lamp creating strong shadows, business documents partially illuminated, profit charts visible in light"
+    details: "Milo stands partially in shadow, his face half-lit as he calmly explains how trading with enemies actually helps everyone. Light catches his satisfied smile while shadows obscure his eyes. He gestures to profit statements proving everyone benefits from the syndicate, regardless of nationality or allegiance."
+    background: "documents fade into darkness beyond lamplight, creating mysterious atmosphere around business dealings"
+    atmosphere: "moral ambiguity emphasized through dramatic lighting, mixture of logical explanation and shadowy ethics"
+  composition:
+    cameraAngle: "medium shot using chiaroscuro lighting effects"
+    focus: "half-lit face showing calm satisfaction while explaining amoral logic"
+    depth: "foreground shows illuminated profit documents, middle ground captures dramatic lighting on character, background fades to mysterious darkness"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: August 15, 1947, late evening to midnight
+    location: Bombay streets and colonial residential areas during independence celebration
+    weather: Hot humid summer night with monsoon approaching
+  characters:
+  - appearance: Round-faced man with prominent temples, aged 30-31 years. Enormous cucumber-like nose constantly dripping.
+      Blue Kashmir eyes. Stains covering face resembling map patterns. Bald patch on crown of head. Missing upper portion
+      of middle finger. Deaf in left ear. Body cracking and deteriorating under weight of history
+    clothing: Simple work clothes - loose cotton shirt and trousers, worn and practical for factory work
+    position: Seated at wooden table or standing with hunched shoulders
+    action: Writing in notebook with intense concentration or gesturing while telling stories
+  scene:
+    mainElements: Bombay streets transforming from daytime independence festivities to midnight birth moment. Summer celebration
+      shows crowds with flags, fireworks, and jubilant demonstrations. Temporal shift reveals same streets at stroke of midnight
+      with hospital windows glowing as two children are born simultaneously
+    details: Crowd energy peaks during evening celebrations then gradually disperses toward midnight. Street decorations remain
+      but participants return home. Fireworks transition from celebration to coincidental birth announcement. Hospital building
+      emerges as focal point with lit windows suggesting medical urgency. Clock tower or visible timepiece approaches midnight
+      hour
+    background: Colonial architecture still displaying British features while independence flags and banners create new national
+      imagery. Street lights illuminate transformation from public celebration to private medical drama
+    atmosphere: National euphoria transitioning to intimate personal moment of birth. Summer heat and political excitement
+      cooling into quiet medical tension as history pivots on individual level, no text or letters visible
+  composition:
+    cameraAngle: High angle view showing street to building transition
+    focus: Hospital building as destination point for celebratory energy
+    depth: Street celebrations fill foreground, middle ground shows dispersing crowds, background emphasizes hospital significance
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

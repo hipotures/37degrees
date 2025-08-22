@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1969 December, warm afternoon in kitchen
+    location: Kitchen of Ipe family house during honey extraction from wild honeycomb
+    weather: Warm afternoon creating perfect honey flow consistency
+  characters:
+  - appearance: Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian
+      Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo
+    clothing: Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames,
+      simple cotton dresses and skirts typical of 1960s Indian children
+    position: Standing on tiptoes beside kitchen counter watching honey drip
+    action: Reaching finger toward honey stream, mouth slightly open in anticipation of sweetness
+  scene:
+    mainElements: Fresh honeycomb suspended over bowl with thick golden honey streaming down in continuous ribbons, afternoon
+      light making honey glow like liquid gold, kitchen counter sticky with honey droplets
+    details: Honey flowing in perfect golden streams that catch and refract light like amber, drips forming perfect spheres
+      before falling, honey pooling in bowl with swirling patterns, sticky residue on wooden surfaces suggesting sweetness,
+      golden color so rich it seems to emanate warmth
+    background: Traditional Kerala kitchen with clay vessels, wooden implements, window allowing warm afternoon light to illuminate
+      honey's golden quality
+    atmosphere: Pure sweetness made visible through golden honey streams, kitchen transformed into chamber of liquid gold
+      and anticipated pleasure
+  composition:
+    cameraAngle: Close view of honey streams with child reaching toward golden sweetness
+    focus: Flowing honey streams in golden light suggesting intense sweetness
+    depth: Foreground emphasizes honey flow and golden color, middle ground shows Rahel's anticipation, background features
+      kitchen setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

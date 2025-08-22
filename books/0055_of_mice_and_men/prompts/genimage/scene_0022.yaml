@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1930s, late evening after rain with clearing sky
+    location: Ranch yard in aftermath of emotional climax
+    weather: Rain stopped, air fresh and clean, first stars appearing
+  characters:
+  - appearance: Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like
+      wrist stump
+    clothing: Blue denim work clothes, worn leather boots
+    position: Sitting on porch step alone, but posture different than before
+    action: Looking up at emerging stars with quiet acceptance rather than despair, good hand resting peacefully in lap, breathing
+      steady and calm
+  - appearance: Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive
+      boxer stance
+    clothing: High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand
+    position: Walking away in distance, shoulders no longer aggressive
+    action: Head down but no longer in rage, hands unclenched for first time, defeated but not destroyed, walking with slow
+      resignation
+  scene:
+    mainElements: Ranch buildings looking normal again in soft starlight, equipment and tools back in their proper places,
+      order restored but changed
+    details: Puddles reflecting stars, fresh smell of rain-washed earth, sense of natural cleansing completed, peaceful night
+      sounds returning
+    background: Clear sky with stars emerging one by one, moon beginning to show, sense of cosmic perspective and continuity
+    atmosphere: Gentle physical contact after conflict, exhausted but peaceful postures replacing violent energy, night bringing
+      rest and acceptance
+  composition:
+    cameraAngle: Wide shot showing figures small under vast starry sky
+    focus: The transition from violence to exhausted peace under eternal stars
+    depth: Foreground shows peaceful human figures, middle ground captures restored ranch order, background emphasizes cosmic
+      continuity and perspective
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

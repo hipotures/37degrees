@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, evening in cave
+    location: Intimate space within partisan cave
+    weather: Mountain evening outside, warmth inside
+  characters:
+  - appearance: 19-year-old woman with slender build, long graceful legs, golden-brown eyes and skin, high cheekbones, full
+      lips, distinctive hair cut short like beaver fur - visual reminder of trauma
+    clothing: simple gray shirt and peasant trousers, later khaki shirt with open collar - practical camp clothing
+    posture: initially shy and fragile movements, gradually gaining confidence and certainty
+    action: moving between vulnerability and growing strength, eyes showing mixture of innocence and hunger for life
+  scene:
+    mainElements: First-person view of two hands tentatively reaching toward each other, fingers almost touching in warm firelight,
+      capturing moment of first physical connection
+    details: Hands approaching with hesitation and hope, firelight creating golden glow on skin, texture of weathered masculine
+      hand meeting smooth feminine fingers, moment of electric connection before actual touch
+    background: Soft focus firelight and cave atmosphere creating intimate sanctuary
+    atmosphere: Tender vulnerability, first romantic connection after trauma, hope overcoming fear, healing through human
+      contact
+  composition:
+    cameraAngle: POV shot from character's perspective looking down at hands
+    focus: Moment of first physical contact and emotional breakthrough
+    depth: Hands in sharp focus, warm atmospheric background softly blurred
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

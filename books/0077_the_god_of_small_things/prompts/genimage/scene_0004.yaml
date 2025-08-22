@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1969 December, afternoon in workshop
+    location: Carpenter workshop behind Paradise Pickles factory in Ayemenem, filled with wood shavings and tools
+    weather: Warm afternoon with gentle breeze through open workshop doors
+  characters:
+  - appearance: Handsome 25-year-old Paravan man with dark skin that glistens like polished wood, high cheekbones, muscular
+      swimmer-carpenter body with visible abdominal muscles like chocolate bar divisions, white sudden smile, tall strong
+      build
+    clothing: Simple white or cream mundu sarong worn around waist, often shirtless while working, occasionally simple cotton
+      shirt for formal occasions
+    position: Seated on wooden stool with cupped hands extended
+    action: Cradling injured baby bird in his work-hardened palms, fingers curved protectively around tiny creature
+  - appearance: Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian
+      Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo
+    clothing: Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames,
+      simple cotton dresses and skirts typical of 1960s Indian children
+    position: Standing close beside Velutha watching intently
+    action: Reaching out one finger to gently stroke bird's soft feathers
+  scene:
+    mainElements: Contrast between Velutha's rough, calloused carpenter hands and delicate baby bird with downy soft feathers,
+      workshop environment with scattered wood shavings and tools
+    details: Deep lines and calluses on Velutha's palms from years of woodworking, tiny bird's fragile bones visible under
+      translucent skin, impossibly soft gray down feathers contrasting with scarred knuckles, Rahel's small finger barely
+      touching bird's wing, wood shavings scattered around their feet like cushioning
+    background: Workshop interior with hand tools hanging on walls, partially completed furniture pieces, afternoon sunlight
+      streaming through doorway
+    atmosphere: Tenderness and protection, gentle strength caring for ultimate fragility, moment of connection between human
+      kindness and natural vulnerability
+  composition:
+    cameraAngle: Close view focusing on hands and bird, showing textural contrasts
+    focus: Velutha's weathered hands creating safe nest for tiny soft creature
+    depth: Foreground captures hand-bird interaction, middle ground shows Rahel's gentle approach, background features workshop
+      tools and setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

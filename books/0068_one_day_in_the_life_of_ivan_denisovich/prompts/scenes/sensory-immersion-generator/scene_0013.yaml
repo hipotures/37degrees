@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Body Odor Landscape - Human Scent in Confined Space"
+  setting:
+    time: "January 1951, 10:00 PM, settling for night"
+    location: "Interior of Soviet prison camp barrack in Siberian wilderness, January 1951, wooden prefabricated building housing 200 prisoners"
+    weather: "Interior sealed against cold, creating concentrated atmosphere"
+  characters:
+    - appearance: "200 prisoners of various ages and builds, all showing effects of prolonged imprisonment and poor hygiene"
+      clothing: "Various states of prison uniforms, all unwashed for extended periods, layers of grime and wear"
+      position: "Crowded together on narrow bunks in extremely confined space"
+      action: "Settling for sleep in overcrowded conditions with no privacy or fresh air circulation"
+  scene:
+    mainElements: "Long narrow single-story building interior with two rows of double-deck wooden bunks (called hangers), crude construction from unfinished planks, small iron stove in center providing minimal heat, thick ice covering windows completely blocking outside view"
+    details: "Visible atmosphere thick with concentrated human presence, heat distortion from body warmth creating shimmer effects in air. Clothing fibers releasing accumulated odor particles shown through atmospheric haze, fabric texture suggesting months without washing. Breathing patterns creating micro-circulation of scented air, exhalation clouds carrying body chemistry information. Close proximity forcing shared atmospheric space, personal scent boundaries eliminated by overcrowding. Multiple heat sources from bodies creating convection currents that carry aromatic information throughout space, no text or letters visible"
+    background: "Cramped overcrowded space thick with stench of sweat, dirty clothes, unwashed bodies and tobacco, dim yellow light from few bare bulbs hanging on cables, white spider webs of frost along wall-ceiling joints, oppressive and claustrophobic with constant sounds of coughing, snoring and whispers"
+    atmosphere: "Overwhelming concentration of human presence creating oppressive aromatic environment, lack of privacy extending to olfactory invasion, survival requiring adaptation to constant scent exposure"
+  composition:
+    cameraAngle: "Wide shot showing density and atmospheric effects of overcrowding"
+    focus: "Atmospheric haze and heat distortion showing concentrated human presence"
+    depth: "Foreground: immediate crowding effects, middle: layered human density, background: sealed environment preventing air circulation"

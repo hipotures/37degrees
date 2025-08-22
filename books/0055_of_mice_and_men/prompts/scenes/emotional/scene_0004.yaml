@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Solitary figure finding peace in private space"
+  setting:
+    time: "1930s, late afternoon"
+    location: "Small lean-to shed attached to barn wall, segregated quarters with one square four-paned window"
+    weather: "Warm afternoon with golden light filtering through window"
+  characters:
+    - appearance: "Black man middle-aged, lean face lined with deep black wrinkles, thin pain-tightened lips lighter than his face, deep-set eyes that glitter with intensity, crooked spine from horse kick"
+      clothing: "Work clothes, boots, spectacles with gold rims hanging on nail"
+      position: "Sitting on straw-filled box that serves as his bed, leaning against wall"
+      action: "Reading from worn book with complete absorption, occasionally adjusting position due to back pain"
+  scene:
+    mainElements: "Long box filled with straw for bed, broken harness hanging on wall pegs, harness-making tools arranged neatly, bottles of liniment and medicine on apple crate shelf"
+    details: "Single dim yellow electric bulb providing reading light, torn dictionary and California civil code from 1905 among personal books, new leather straps and repair tools showing pride in craft"
+    background: "Sounds of horses moving and stamping from adjacent barn, scent of leather tar and hay, occasional distant laughter from main bunkhouse"
+    atmosphere: "Dignified solitude and intellectual refuge, sense of man maintaining self-respect and learning despite isolation, neat organized space reflecting inner discipline"
+  composition:
+    cameraAngle: "Medium shot from window level showing intimate personal space"
+    focus: "The peaceful absorption in reading and quiet dignity of solitary moment"
+    depth: "Foreground shows reading figure in golden light, middle ground captures organized personal belongings, background suggests separation from main ranch community"

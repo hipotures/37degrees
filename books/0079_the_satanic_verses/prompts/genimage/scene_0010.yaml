@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, shifting light creating multiple perspectives throughout day
+    location: Multicultural London neighborhood, community center with diverse gathering
+    weather: Variable lighting from passing clouds creating changing shadows
+  characters:
+  - appearance: 40-year-old Indian man, athletic build, confident posture
+    clothing: Elegant dark smoking jacket over white dress shirt, formal evening wear
+    position: Standing to left of mirror, viewing from shallow angle
+    action: Gesturing with divine authority, surrounded by subtle golden aureola
+  - appearance: Eight-foot-tall satyr with human torso, thick curved horns, golden goat eyes
+    clothing: Tattered remains of gray suit hanging loosely on enlarged frame
+    position: Approaching mirror from opposite side, viewing from steep angle
+    action: Breathing sulfurous vapor, hands clenched in anguish and rage
+  scene:
+    mainElements: Large rectangular mirror mounted on rotating stand, surface showing completely different reflections depending
+      on viewing angle
+    details: Antique standing mirror with ornate bronze frame, left side reflection shows peaceful temple interior with monks
+      in meditation, right side reflection reveals chaotic marketplace with merchants arguing, center reflection displays
+      neutral community center meeting room, mirror surface appears to contain multiple realities activated by perspective,
+      frame decorated with symbols from various religious traditions, impossible reflections maintaining perfect clarity regardless
+      of physics, no text or letters visible
+    background: Simple community center with folding chairs, bulletin board covered in multilingual notices, windows showing
+      diverse neighborhood outside
+    atmosphere: Same object revealing radically different truths depending on position and approach, reality shaped by perspective
+  composition:
+    cameraAngle: Three-quarter view showing mirror and both approaching figures from different sides
+    focus: Impossible mirror revealing that truth depends entirely on point of view
+    depth: 'Foreground: ornate mirror frame, midground: two figures seeing different realities, background: neutral community
+      space'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hyper-Reality - The Oppressive Clock"
+  setting:
+    time: "Same autumn morning 1912, around 7:15 AM"
+    location: "Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building"
+    weather: "Rain intensifying, creating staccato rhythm against glass"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Brass alarm clock dominates the scene, becoming unnaturally large and threatening, its ticking overwhelming all other sounds"
+    details: "The alarm clock's face appears to expand and contract like a breathing organism. Each tick reverberates through Gregor's transformed body like physical blows. The clock hands move with jerky, predatory movements. The brass surface reflects distorted images of the room, warping reality. Time itself becomes a tangible, oppressive force pressing down on the insect body."
+    background: "Rest of room fades into shadow, overwhelmed by the clock's monstrous presence, rain sound merging with mechanical ticking"
+    atmosphere: "Extreme sensory overload, time as enemy, ordinary objects becoming threatening and alive"
+  composition:
+    cameraAngle: "Extreme close-up on clock face from insect's eye level"
+    focus: "Oversized, menacing clock with hands that seem to point accusingly"
+    depth: "Foreground: massive clock face filling frame, middle: Gregor's reflection in brass surface, background: room dissolving into darkness"

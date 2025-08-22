@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Battle Royal - Split Reality Between Participants and Spectators"
+  setting:
+    time: "1930s, evening"
+    location: "Hotel ballroom in Southern town, smoky interior with portable boxing ring"
+    weather: "Indoor environment thick with cigar smoke creating divided visibility"
+  characters:
+    - appearance: "Multiple young African American men with white blindfolds, various builds and ages"
+      clothing: "Boxing shorts and nothing else, vulnerable and exposed"
+      position: "In boxing ring swinging blindly at each other"
+      action: "Fighting desperately while blindfolded, experiencing terror and pain"
+    - appearance: "Wealthy white men in formal evening wear, smoking and drinking"
+      clothing: "Tuxedos and formal evening attire representing social elite"
+      position: "Seated around ring at tables with drinks and cigars"
+      action: "Watching entertainment while conducting business conversations"
+  scene:
+    mainElements: "Portable boxing ring surrounded by laughing wealthy white men in evening wear, cigar smoke creating hazy atmosphere, electric carpet with fake coins"
+    details: "Split perspective reveals two completely different realities in same space - Black participants experience terror, pain, and humiliation while blindfolded violence creates disorienting nightmare, white spectators see amusing entertainment and character-building exercise while conducting normal social business, same physical actions register as traumatic violence versus harmless sport, electrical shocks appear as torture versus playful discipline, identical event creates opposing experiences based on racial position"
+    background: "Hotel ballroom with elegant appointments serving as backdrop for ritualized violence"
+    atmosphere: "Ritualistic violence disguised as entertainment, dehumanizing spectacle designed to reinforce racial hierarchy"
+  composition:
+    cameraAngle: "Split screen showing both participant experience and spectator perspective simultaneously"
+    focus: "Dramatic contrast between suffering and entertainment occurring in same physical space"
+    depth: "Foreground shows opposing reactions to same events, middle ground captures central violence, background reveals social context enabling brutality, no text or letters visible"

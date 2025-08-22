@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "House Interior - False Security"
+  setting:
+    time: "1947, evening"
+    location: "Middle-class wooden frame house interior, New England"
+    weather: "Evening interior lighting"
+  characters:
+    - appearance: "Middle-aged man in his thirties, European features, now more comfortable in domestic setting"
+      clothing: "House clothes, relaxed evening attire, settled domestic presence"
+      position: "Moving through house with familiarity, examining personal items"
+      action: "Exploring house interior, touching personal belongings, establishing territorial presence"
+  scene:
+    mainElements: "Domestic house interior now occupied by adult male presence, personal items being examined, furniture rearranged for his comfort"
+    details: "Evening lighting showing man making himself at home, personal belongings being handled, domestic space being claimed by adult presence"
+    background: "Same house interior but now transformed by adult male occupancy, sense of space no longer belonging to original inhabitants"
+    atmosphere: "False sense of family normalcy, domestic space invaded and claimed, underlying threat of adult control establishing dominance"
+  composition:
+    cameraAngle: "Low angle view from child height watching adult claim domestic space"
+    focus: "Adult male figure taking possession of home environment"
+    depth: "Foreground shows familiar home items now threatened, middle ground shows adult presence, background shows transformed domestic space"

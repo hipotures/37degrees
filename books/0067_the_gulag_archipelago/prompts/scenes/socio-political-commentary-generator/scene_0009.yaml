@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Luxurious Few and the Struggling Many"
+  setting:
+    time: "1950, evening"
+    location: "Single frame showing exclusive party restaurant and worker's communal kitchen simultaneously"
+    weather: "Indoor environments with contrasting lighting"
+  characters:
+    - appearance: "Party elite: well-fed officials with healthy complexions; Workers: thin faces showing signs of malnutrition"
+      clothing: "Elite: formal evening wear, jewelry, fine fabrics; Workers: worn work clothes, patched garments, exhausted expressions"
+      position: "Elite reclining in comfortable chairs, workers standing in crowded lines"
+      action: "Elite enjoying elaborate meals and wine, workers dividing meager rations"
+  scene:
+    mainElements: "Split scene showing party banquet with abundance versus worker kitchen with scarcity, same moment in time revealing parallel realities"
+    details: "Elite side: crystal glasses, elaborate food displays, waiters serving multiple courses, warm lighting; Worker side: metal bowls, watery soup, long queues, harsh fluorescent lighting"
+    background: "Architectural settings revealing different worlds - ornate dining room versus industrial cafeteria"
+    atmosphere: "Brutal contrast between abundance and scarcity within same system, hypocrisy of equality rhetoric, visual evidence of systematic privilege"
+  composition:
+    cameraAngle: "Split screen or divided frame showing simultaneous realities"
+    focus: "Food as symbol of inequality - abundance versus scarcity"
+    depth: "Foreground contrasts individual experiences, middle ground shows environmental differences, background reveals institutional design"

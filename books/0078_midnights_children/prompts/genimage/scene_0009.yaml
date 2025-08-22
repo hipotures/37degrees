@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Winter 1975 to spring 1977, Emergency period to post-Emergency recovery
+    location: Colorful urban slum in old Delhi housing street performers. Narrow winding alleys between makeshift homes of
+      corrugated metal, wood, and cloth. Based on real Kathputli colony
+    weather: Cold dry winter transitioning to warm hopeful spring
+  characters: No characters present in this scene
+  scene:
+    mainElements: Performance props scattered everywhere - disappearing baskets, levitating ropes, musical instruments, puppets.
+      Bright painted murals on walls. Winter scene shows demolished ruins and scattered debris from government bulldozers.
+      Spring renewal reveals rebuilt structures and returning street performers attempting to restore their community
+    details: Destruction debris gradually cleared and replaced with makeshift reconstruction. Broken musical instruments repaired
+      or replaced. Painted murals restored with fresh colors over winter damage. Puppets and magic props emerge from hiding
+      places where performers stored them during Emergency crackdown
+    background: Delhi government buildings visible in distance representing oppressive authority during winter. Spring background
+      shows increased civilian activity and reduced military presence suggesting political liberation
+    atmosphere: Oppressive winter silence giving way to tentative spring renewal of artistic expression. Human creativity
+      surviving authoritarian destruction through persistent rebuilding and community solidarity, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing community resilience against official destruction
+    focus: Reconstruction activity and emerging artistic props as symbols of renewal
+    depth: Detailed rebuilding work in foreground, community spaces in middle ground, distant authority buildings in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

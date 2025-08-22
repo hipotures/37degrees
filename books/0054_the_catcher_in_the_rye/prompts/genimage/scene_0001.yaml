@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, late Saturday afternoon in December
+    location: Thomsen Hill overlooking Pencey Preparatory Academy campus in Pennsylvania
+    weather: Cold, windy December day with gray overcast sky threatening winter
+  characters:
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Standing alone beside rusted Revolutionary War cannon, elevated above campus
+    action: Observing distant football game while deliberately isolating himself from school community
+  scene:
+    mainElements: Solitary figure positioned against institutional backdrop, vast physical and emotional distance between
+      individual and crowd, rusted cannon as symbol of past conflicts
+    details: Through Holden's perspective, Pencey buildings appear like prison blocks of red brick, game sounds drift up as
+      meaningless noise, other students appear as tiny conformist dots moving in predictable patterns, shadows growing longer
+      as day dies
+    background: Elite boarding school campus spreading below with neo-Gothic buildings, football field where tiny figures
+      play meaningless game, dormitory windows reflecting cold December light
+    atmosphere: Profound alienation and melancholy, winter bleakness matching internal emotional state, sense of being outside
+      looking in at world that feels false and theatrical, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from slightly below emphasizing isolation and elevation
+    focus: Holden's solitary figure against institutional landscape, red cap as only warm color
+    depth: 'Foreground: lone figure and cannon, middle ground: campus buildings, background: distant game and gray winter
+      sky'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

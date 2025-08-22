@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1910, afternoon
+    location: Rural Georgia sharecropper's wooden dwelling, early 1900s American South, isolated farmstead surrounded by cotton
+      fields
+    weather: Overcast sky, heavy with approaching storm
+  characters:
+  - appearance: African American woman, Celie's younger sister, aging from 12 to 52, conventionally beautiful with refined
+      features, intelligent eyes, graceful bearing, represents education and worldliness
+    clothing: 'Early years: simple rural dresses suitable for young woman. Missionary years: practical, modest clothing adapted
+      for African climate including white cotton pants designed by Celie'
+    position: Sitting on porch steps beside older sister
+    action: Receiving precious pencil and paper, understanding weight of trust being placed in her hands
+  scene:
+    mainElements: Small weathered wood-frame house with sagging porch, bare dirt yard, hand-pump water well, outdoor privy,
+      ramshackle barn structures. Focus on exchange of writing materials between sisters
+    details: Worn wooden porch steps, pencil stub and folded papers changing hands, two young faces showing mixture of hope
+      and sadness. Storm clouds gathering overhead, wind beginning to stir dust in yard
+    background: Cotton fields stretching to horizon, rural poverty evident in surroundings, sense of impending separation
+    atmosphere: Bittersweet transfer of responsibility, writing becoming bridge between sisters, storm approaching both literally
+      and metaphorically
+  composition:
+    cameraAngle: Medium shot capturing both figures and exchange
+    focus: Hands passing writing materials, symbolic transfer of voice and connection
+    depth: 'Foreground: sisters and exchange, middle: porch and house, background: threatening sky and fields'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Artillery percussion ripples disturbing mess hall wine glasses"
+  setting:
+    time: "1916 autumn evening"
+    location: "Italian front lines near Gorizia in northeastern Italy, view across Isonzo River valley toward Austrian positions in Julian Alps"
+    weather: "Clear autumn evening with distant thunder"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Italian army officer uniform in Grigioverde gray-green, includes tunic, trousers, officer cap with rank insignia on cuffs, leather boots, carries Astra 7.65 pistol, steel helmet and English gas mask on front lines"
+      position: "Seated at officers' dining table with wine glass raised"
+      action: "Pausing mid-toast as distant explosions create vibrations"
+    - appearance: "Handsome Italian surgeon from Amalfi in mid-twenties, lean face often pale from stress, very black hair contrasting with forehead, Mediterranean features"
+      clothing: "Italian army officer uniform in Grigioverde gray-green matching Henry's rank and style"
+      position: "Across table gesturing with wine glass"
+      action: "Watching concentric ripples form in wine as artillery sounds echo"
+  scene:
+    mainElements: "Elegant villa converted to officers' quarters with military maps on walls, equipment in corners, mud tracked on fine floors, view through river valley showing pebbles and boulders dry and white in sun with clear swift blue water"
+    details: "Wine glasses trembling with each distant artillery blast creating perfect concentric ripples spreading outward from center, liquid surface acting as sensitive vibration detector, red wine creating mesmerizing patterns as sound waves translate into visible motion, crystal stems humming softly between explosions, dinner plates chattering slightly against table surface, hanging light fixture swaying almost imperceptibly with each rumble, officers' hands instinctively steadying glasses as percussion arrives, silence between blasts feeling heavy and expectant, no text or letters visible"
+    background: "Officers' mess in converted villa with elegant furnishings now serving military function"
+    atmosphere: "Deceptive beauty of Alpine landscape constantly disrupted by signs of war - dust settling on leaves from passing troops, leaves falling early from shellfire, distant artillery flashes, contrast between natural beauty and military destruction"
+  composition:
+    cameraAngle: "Close-up view of wine glasses showing ripple formations"
+    focus: "Concentric waves in wine glasses created by distant artillery percussion"
+    depth: "Foreground shows detailed ripple patterns in wine, middle ground captures officers' reactions, background reveals elegant mess hall setting"

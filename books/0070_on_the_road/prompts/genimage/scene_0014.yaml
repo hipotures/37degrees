@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1948 late afternoon
+    location: used bookstore in Greenwich Village with floor-to-ceiling shelves, narrow aisles, and dusty volumes
+    weather: clear afternoon with golden sunlight through storefront windows
+  characters:
+  - appearance: 21-year-old man with thin nervous build, dark curly hair in artistic disarray, large intelligent penetrating
+      eyes behind thick black-framed glasses, elongated face with sad poetic expression
+    clothing: mismatched worn jackets, shirts and wool pants from thrift shops, intellectual absent-minded professor style
+      contrasting with mainstream fashion
+    position: browsing books in narrow aisle between tall shelves
+    action: pulling aged book from shelf while dust particles shower down in afternoon sunbeam
+  scene:
+    mainElements: thick golden sunbeam cutting through bookstore revealing countless dust particles, aged books releasing
+      visible dust clouds when disturbed, leather-bound volumes with worn spines showing age, floating particles dancing in
+      light ray like literary spirits
+    details: Dust cascade falling from book spine when removed from shelf, particles illuminated in diagonal sunbeam creating
+      visible column of floating specks, aged paper edges releasing microscopic fibers into air, leather book covers showing
+      cracked spines with faded gold lettering, dust accumulated on book tops undisturbed for years, reading chair positioned
+      precisely in sunbeam with dust motes swirling around it, glasses reflecting dancing dust particles
+    background: floor-to-ceiling wooden bookshelves packed with volumes, narrow aisles between towering book walls, antique
+      reading lamps, worn carpet runners, storefront windows allowing afternoon light
+    atmosphere: golden late afternoon light creating dramatic contrasts, musty smell of aged paper and leather suggested by
+      visual dust, quiet scholarly atmosphere broken only by occasional page turning
+  composition:
+    cameraAngle: low angle looking up at figure in sunbeam with floating dust
+    focus: dancing dust particles in sunlight as visual representation of old book aroma
+    depth: dust-filled sunbeam in sharp foreground, figure among books in middle ground, towering bookshelves extending upward
+      to background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

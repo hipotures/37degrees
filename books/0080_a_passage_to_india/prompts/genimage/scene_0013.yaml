@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, evening golden hour with warm light on religious architecture
+    location: Mosque courtyard in Indian quarter showing Islamic architectural elements
+    weather: Perfect evening air, gentle warmth, golden sunlight slanting across courtyard
+  characters: No characters present in this scene
+  scene:
+    mainElements: Mosque courtyard with central fountain, arched cloisters around perimeter, minaret tower rising above
+    details: Warm golden light reflecting off white marble fountain basin, water creating musical sounds and light reflections,
+      geometric tile patterns on walls catching low sun, prayer mats stored in niches, oil lamps being prepared for evening
+      prayers, Islamic calligraphy inscriptions glowing in golden light, shadows of arches creating rhythmic patterns across
+      courtyard
+    background: Minaret silhouetted against orange sky, view toward other rooftops of Indian quarter
+    atmosphere: Sacred peace of evening prayer time, golden light sanctifying religious space, sense of timeless daily ritual
+  composition:
+    cameraAngle: Across courtyard toward fountain with minaret rising in background
+    focus: Golden light transforming white architectural elements into warm sanctuary
+    depth: Foreground shows courtyard details and fountain, middle ground captures arched cloisters, background displays minaret
+      against sky
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

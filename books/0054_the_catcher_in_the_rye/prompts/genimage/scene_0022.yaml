@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in December
+    location: Broadway theater during live performance with full audience participation
+    weather: December evening with theater district creating cultural entertainment atmosphere
+  characters:
+  - appearance: Theater audience representing diverse Manhattan population sharing cultural experience
+    clothing: Evening attire appropriate for Broadway theater including dresses, suits, coats representing various social
+      positions
+    position: Seated in theater auditorium sharing collective viewing experience
+    action: Participating in live theatrical performance as shared cultural ritual
+  scene:
+    mainElements: Theater auditorium filled with audience experiencing live performance together, stage presenting shared
+      narrative, collective response to dramatic moments, unified participation in cultural tradition
+    details: Audience perspective reveals shared emotional responses to performance, collective laughter and applause creating
+      communal experience, universal participation in storytelling tradition, common cultural references creating shared understanding
+    background: Broadway theater district representing Manhattan cultural center, theater architecture designed for collective
+      experience, performance tradition connecting audience with broader cultural heritage
+    atmosphere: Shared cultural experience transcending individual differences, collective participation in artistic tradition,
+      unified emotional response to performance creating temporary community, no text or letters visible
+  composition:
+    cameraAngle: Audience perspective capturing collective cultural participation and shared response
+    focus: Unified audience experience showing shared cultural participation and emotional response
+    depth: 'Foreground: individual audience members, middle ground: collective response, background: shared performance focus'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

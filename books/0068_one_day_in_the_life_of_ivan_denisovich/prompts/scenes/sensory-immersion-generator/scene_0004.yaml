@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sacred Spoon Retrieval - Touch of Identity and Memory"
+  setting:
+    time: "January 1951, 6:30 AM, before breakfast"
+    location: "Prison camp dining hall building in Soviet labor camp, January 1951"
+    weather: "Interior space with dense steam and dramatic temperature contrasts"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Seated at rough wooden table, reaching into boot with deliberate reverent motion"
+      action: "Extracting aluminum spoon from hidden compartment in boot with ceremonial care, preparing for meal ritual"
+  scene:
+    mainElements: "Single large room filled with dense steam rising from soup kettles like Turkish bath, two rows of long crude tables made from unfinished planks on wooden sawhorses, no chairs or benches, steep icy steps leading to entrance"
+    details: "Aluminum spoon cast by Shukhov himself from contraband aluminum, engraved with inscription 'Ust-Izhma 1944', stored in special hiding place in boot shaft, most precious possession representing his identity and ingenuity. Texture contrast between cold metal spoon and warm fingers, smooth aluminum surface against rough hands. Gentle handling of treasured object, fingertips tracing engraved letters with emotional connection. Metal warming to human touch, transformation from cold tool to extension of identity, no text or letters visible"
+    background: "Chaotic and loud with shouting and cursing, dense steam mixed with freezing air creating swirling clouds, floor sticky and slippery from spilled soup and mud from boots, dim lighting dispersed through omnipresent vapor"
+    atmosphere: "Sacred ritual of preparation, tactile connection to personal history and identity, dignified handling of precious possession in dehumanizing environment"
+  composition:
+    cameraAngle: "Extreme close-up on hands and spoon extraction"
+    focus: "Tactile interaction between fingers and engraved aluminum, reverent handling motion"
+    depth: "Foreground: detailed spoon texture and inscription, middle: careful protective hands, background: chaotic mess hall environment"

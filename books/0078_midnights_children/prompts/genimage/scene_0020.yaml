@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1947 and 1978 bleeding into each other
+    location: Industrial preserve factory in Bombay late 1970s. Simple utilitarian building with work areas filled with glass
+      jars and processing equipment
+    weather: Interior lighting mixed between historical periods
+  characters:
+  - appearance: Round-faced man with prominent temples, aged 30-31 years. Enormous cucumber-like nose constantly dripping.
+      Blue Kashmir eyes. Stains covering face resembling map patterns. Bald patch on crown of head. Missing upper portion
+      of middle finger. Deaf in left ear. Body cracking and deteriorating under weight of history
+    clothing: Simple work clothes - loose cotton shirt and trousers, worn and practical for factory work
+    position: Seated at wooden table or standing with hunched shoulders
+    action: Writing in notebook with intense concentration or gesturing while telling stories
+  scene:
+    mainElements: Rows of shelves holding glass jars filled with chutneys and pickles. Single hanging light bulb over wooden
+      work table. Strong aroma of spices - turmeric, chili, coriander. Factory preserve space overlapping with 1947 independence
+      celebration. Present-day Saleem writing his memoir while ghostly independence crowds celebrate around him in same space
+    details: Pickle jars and factory equipment coexist with independence banners and celebrating crowds. Present-day lighting
+      mixes with 1947 fireworks and torches. Historical figures appear translucent while factory reality remains solid. Writing
+      materials occupy same table space as celebration food and drinks
+    background: Factory walls reveal glimpses of 1947 street celebrations and independence parades. Industrial machinery becomes
+      transparent revealing historical gatherings and political speeches. Time periods layer without canceling each other
+    atmosphere: Nostalgic convergence of personal memory with historical moment. Present isolation penetrated by past communal
+      joy creating bittersweet temporal synthesis, no text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing both temporal layers with equal visual weight
+    focus: Writing Saleem as present reality with celebrating crowds as temporal overlay
+    depth: Present factory reality in sharp focus, historical celebration in translucent middle ground, temporal bleeding
+      effects in background
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

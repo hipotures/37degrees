@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Building Construction and Demolition Overlap"
+  setting:
+    time: "Compressed decades showing construction and destruction cycles"
+    location: "Moscow construction site showing accelerated urban development"
+    weather: "All seasons compressed showing weather effects on construction"
+  characters:
+    - appearance: "Man from late teens to 30s, initially shy with almost girlish features, later becomes severe and ascetic with face like stone mask, rigid military posture"
+      clothing: "1902-1917: simple student attire, teacher's suit. 1917-1922: severe dark Red Army commissar uniform, leather coat, high boots, budyonovka cap"
+      posture: "Early years: hesitant and boyish movements. As Strelnikov: rigid military bearing, controlled and intimidating presence"
+      action: "Early: studying revolutionary texts, teaching children. Later: commanding troops, interrogating prisoners"
+  scene:
+    mainElements: "Same building site showing simultaneous construction and demolition in temporal overlay"
+    details: "Accelerated time distortion displaying complete urban cycle: workers laying foundation stones while other workers demolish finished building, construction crane raising walls while wrecking ball destroys same structure, architects planning while ruins accumulate, revolutionary flags being raised on newly completed building while same building burns from artillery bombardment. Strelnikov appears in both time periods - young man helping build schools, older commissar ordering destruction of bourgeois architecture. Construction and destruction workers move at accelerated speed while ideological purpose shifts beneath them, no text or letters visible"
+    background: "Moscow skyline showing rapid transformation from Imperial to Soviet architecture"
+    atmosphere: "Futility of human construction against historical destruction, ideological change consuming physical progress"
+  composition:
+    cameraAngle: "Wide construction site view showing full cycle of building and destruction"
+    focus: "Central building showing all construction phases simultaneously"
+    depth: "Foreground: construction/demolition equipment; middle ground: building in multiple states; background: changing city skyline"

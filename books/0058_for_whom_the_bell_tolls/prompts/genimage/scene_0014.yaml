@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late May 1937, evening firelight in cave
+    location: Interior of partisan cave during storytelling
+    weather: Cold mountain night outside
+  characters:
+  - appearance: powerful 50-year-old woman, nearly as wide as tall, brown square heavy face pleasantly ugly like granite monument,
+      thick curly black hair in bun, large but beautiful hands
+    clothing: black peasant skirt and blouse, thick wool stockings, black espadrilles - dark rough colors
+    posture: moves with authority and strength, takes up space confidently, stands like natural leader
+    action: observing group dynamics, making decisive gestures, emanating protective maternal strength
+  scene:
+    mainElements: Over-shoulder view of storyteller's animated gestures as she recounts dramatic historical events, hands
+      moving expressively in firelight, face showing intensity of memory
+    details: Firelight creating dramatic shadows as hands gesture through narrative, expressions changing with emotional weight
+      of story, other group members visible in background listening intently, cave walls flickering with moving shadows
+    background: Cave interior with other group members arranged around firelight, listening with various expressions of attention
+      and discomfort
+    atmosphere: Oral tradition preserving traumatic history, collective memory and shared experience, power of storytelling
+      to educate and warn
+  composition:
+    cameraAngle: Over-shoulder shot from listener's perspective
+    focus: Storyteller's expressive gestures and emotional intensity
+    depth: Storyteller's animated figure in foreground, attentive audience in background firelight
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1918 winter evening
+    location: Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean
+      orderly Swiss landscape contrasting with war-torn Italy
+    weather: Snow storm outside creating perfect indoor refuge
+  characters:
+  - appearance: American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing
+    clothing: Ciepłe ubrania cywilne (zimowe)
+    position: Sitting close to fireplace with hot cocoa
+    action: Watching flames while feeling warmth on face and hands
+  - appearance: Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure
+    clothing: Ciepłe ubrania cywilne, odzież ciążowa
+    position: Nestled beside him under woolen blanket
+    action: Breathing in pine smoke while savoring cocoa steam
+  scene:
+    mainElements: Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista,
+      clean orderly Swiss landscape contrasting with war-torn Italy
+    details: Pine logs crackling with visible sparks and flame patterns suggesting rhythmic sound, resinous wood smoke creating
+      aromatic wisps that curl toward chimney, warm golden firelight creating temperature zones visible through heat shimmer
+      effects, hot cocoa releasing sweet steam clouds that blend with pine smoke, woolen blanket textures appearing extra
+      soft in firelight warmth, pine needles arranged near hearth releasing additional forest aromatics, fire's radiant heat
+      creating visible comfort zones on faces and hands, smoke patterns suggesting rich pine forest essence, no text or letters
+      visible
+    background: Cozy chalet interior with snow-covered windows blocking harsh exterior cold
+    atmosphere: Peaceful temporary sanctuary offering apparent safety and domestic tranquility, false sense of escape from
+      world's violence, pristine beauty masking underlying biological dangers
+  composition:
+    cameraAngle: Fireside view capturing multiple sensory elements in warm intimate setting
+    focus: Fire crackling effects and smoke patterns suggesting sound, scent, and warmth synthesis
+    depth: Foreground emphasizes fire detail and heat effects, middle ground shows intimate couple, background reveals sheltering
+      chalet interior
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

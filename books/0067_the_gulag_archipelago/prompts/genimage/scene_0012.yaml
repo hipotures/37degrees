@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1951, morning
+    location: Factory floor designed to integrate human workers with mechanical systems
+    weather: Harsh industrial lighting creating sharp shadows
+  characters:
+  - appearance: Workers whose movements have become automatic and machine-like, faces showing no emotion or thought
+    clothing: Standardized work overalls with identification numbers, safety equipment that restricts movement
+    position: Positioned at workstations designed to control human posture and movement
+    action: Performing identical repetitive tasks with mechanical precision, no variation or individual expression
+  scene:
+    mainElements: Human workers physically integrated into assembly line machinery, conveyor belts determining pace of human
+      movement, mechanical devices controlling worker positioning
+    details: Workers' shadows creating gear-tooth patterns on factory floor, time clocks monitoring every movement, production
+      charts reducing humans to output statistics, mechanical sounds drowning out human voices
+    background: Systematic arrangement of human-machine integration extending throughout facility, architectural design emphasizing
+      mechanical efficiency over human comfort
+    atmosphere: Complete mechanization of human spirit, loss of individual will and creativity, reduction of people to interchangeable
+      parts
+  composition:
+    cameraAngle: Close-up on mechanized human movements contrasted with wide shots of systematic organization
+    focus: Transformation of humans into machine components
+    depth: Foreground shows detailed mechanical movements, middle ground reveals human-machine integration, background demonstrates
+      systematic dehumanization
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

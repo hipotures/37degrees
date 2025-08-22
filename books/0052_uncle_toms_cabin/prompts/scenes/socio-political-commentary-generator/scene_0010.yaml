@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Silence Enforced - The Empty Library"
+  setting:
+    time: "1851, late afternoon"
+    location: "Library or study area where enslaved people are forbidden to read or learn"
+    weather: "Dim afternoon light filtering through closed shutters"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Library with books locked behind glass cases or chained shut, empty reading tables, educational materials made inaccessible"
+    details: "Books with locks or chains preventing access, literacy materials hidden away, warning signs about education prohibitions, dust accumulating on unused educational resources, candles unlit suggesting learning forbidden"
+    background: "Well-appointed study with expensive furniture designed for educated white society, maps and educational materials visible but secured, writing materials locked away"
+    atmosphere: "Oppressive silence where knowledge is hoarded as weapon of control, empty spaces meant for learning now serving to maintain ignorance, intellectual resources deliberately withheld from those who could benefit"
+  composition:
+    cameraAngle: "Wide shot showing empty educational space"
+    focus: "The locked or chained books as symbols of deliberate denial of education and human development"
+    depth: "Foreground shows locked educational materials, middle ground features empty learning spaces, background reveals the comfortable environment reserved for privileged education"

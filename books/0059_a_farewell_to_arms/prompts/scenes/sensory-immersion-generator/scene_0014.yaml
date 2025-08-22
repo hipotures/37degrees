@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Swiss chalet interior with pine wood scent suggestions"
+  setting:
+    time: "1918 winter afternoon"
+    location: "Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean orderly Swiss landscape contrasting with war-torn Italy"
+    weather: "Cold mountain afternoon with bright snow reflection"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Ciepłe ubrania cywilne (zimowe)"
+      position: "Sitting near wood-burning stove reading"
+      action: "Turning pages while enjoying warmth and mountain peace"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "Ciepłe ubrania cywilne, odzież ciążowa"
+      position: "Resting in wooden chair near window"
+      action: "Knitting while watching snow fall outside"
+  scene:
+    mainElements: "Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean orderly Swiss landscape contrasting with war-torn Italy"
+    details: "Fresh pine wood paneling releasing resinous aromatic compounds suggested by golden wood grain patterns and warm lighting, wood-burning stove creating aromatic smoke suggested by visible heat shimmer and slight haze, hand-hewn timber beams showing natural wood oils and grain that would release alpine forest scents, pine needle arrangements and evergreen boughs decorating interior spaces, snow outside creating pure cold air contrast that would intensify indoor wood aromas, woolen textiles and fur throws adding comfort scent layers, mountain air entering through briefly opened windows carrying pristine alpine essence, no text or letters visible"
+    background: "Snow-covered pine forest visible through chalet windows with mountain peaks beyond"
+    atmosphere: "Peaceful temporary sanctuary offering apparent safety and domestic tranquility, false sense of escape from world's violence, pristine beauty masking underlying biological dangers"
+  composition:
+    cameraAngle: "Interior view emphasizing wooden surfaces and warm atmospheric lighting"
+    focus: "Pine wood grain patterns and aromatic heat shimmer from stove"
+    depth: "Foreground shows wood detail and stove warmth, middle ground captures domestic scene, background reveals Alpine winter landscape"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in December
+    location: Memorial Wing dormitory corridor at Pencey Preparatory Academy
+    weather: Cold December night outside frosted windows
+  characters:
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Walking through institutional corridor feeling trapped and observed
+    action: Moving through sterile hallway while mentally cataloging everything fake and oppressive about environment
+  scene:
+    mainElements: Long sterile corridor stretching endlessly ahead, harsh fluorescent lighting creating prison-like atmosphere,
+      institutional green and brown color scheme feeling deliberately soul-crushing
+    details: Through Holden's psychological filter, linoleum floors reflect harsh light like ice, dormitory doors appear as
+      cell entrances, radiator sounds become mechanical breathing of oppressive system, floor wax smell suggests institutional
+      control over natural scents
+    background: Identical dormitory doors lining both sides of corridor, institutional bulletin boards with meaningless announcements,
+      windows showing winter darkness beyond
+    atmosphere: Claustrophobic institutional oppression, sense of being processed through system designed to crush individuality,
+      fluorescent lighting stripping warmth from everything, no text or letters visible
+  composition:
+    cameraAngle: Low angle perspective emphasizing institutional dominance and individual powerlessness
+    focus: Diminished human figure against overwhelming institutional architecture
+    depth: 'Foreground: polished institutional floor, middle ground: lone figure dwarfed by corridor, background: endless
+      repetition of identical doors'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

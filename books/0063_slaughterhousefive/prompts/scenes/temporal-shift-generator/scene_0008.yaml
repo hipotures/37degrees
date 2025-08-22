@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ardennes Forest - Autumn Glory to Winter Death"
+  setting:
+    time: "November 1944 to January 1945, showing seasonal transition during Battle of the Bulge"
+    location: "Dense snow-covered forest in Luxembourg, December 1944, during Battle of the Bulge winter offensive"
+    weather: "Autumn warmth gradually yielding to winter's killing cold"
+  characters:
+    - appearance: "Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears glasses as optometrist"
+      clothing: "As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga, silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire with white coat for examinations; At home: pajamas and bathrobe"
+      position: "Billy and fellow soldiers moving from confident autumn positions to desperate winter survival stances"
+      action: "Marching through golden leaves transitioning to stumbling through snow drifts, equipment freezing, breath visible in cold air, no text or letters visible"
+  scene:
+    mainElements: "Tall leafless trees creating skeletal cage effect, deep snow drifts mixed with frozen mud, limited visibility through fog and falling snow, claustrophobic atmosphere of military entrapment"
+    details: "Trees showing autumn colors fading to bare branches, fallen leaves buried under snow, animal tracks disappearing, abandoned equipment half-buried, soldier footprints filling with fresh snow, frost formations on metal weapons"
+    background: "Forest depths hiding enemy positions, distant artillery flashes, smoke from concealed fires, network of foxholes and defensive positions"
+    atmosphere: "Piercing cold, deadly silence broken by distant artillery, smell of wet earth and gunpowder, paralyzing physical and psychological chill representing war's brutal reality"
+  composition:
+    cameraAngle: "Low angle through trees showing soldiers dwarfed by forest and weather"
+    focus: "Temporal transition from colorful autumn to stark winter monochrome"
+    depth: "Foreground shows detailed seasonal ground cover changes, middle ground shows soldier adaptation to conditions, background shows forest becoming maze of winter camouflage"

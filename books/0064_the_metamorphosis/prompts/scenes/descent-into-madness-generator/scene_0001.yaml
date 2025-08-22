@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Unsettling Morning - First Awakening"
+  setting:
+    time: "Early autumn morning 1912, around 6:45 AM"
+    location: "Small bedroom in early 1900s Prague apartment, typical middle-class furnishing in tenement building"
+    weather: "Gray overcast sky with steady rain tapping against window glass"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Dark wooden bed frame with twisted bedsheets, brass alarm clock showing late hour, window with rain streaks, wardrobe casting long shadow"
+    details: "One critical detail is wrong - the shadow of the bedpost moves independently, bending at an impossible angle across the wall. The wallpaper pattern of small flowers seems to shift and breathe when viewed peripherally. The ticking clock sounds unnaturally loud, each tick echoing like a hammer blow in the transformed consciousness."
+    background: "Gray hospital building visible through rain-streaked window, morning light filtering dimly through overcast sky, creating unnatural shadows"
+    atmosphere: "Unsettling normalcy disrupted by one impossible detail, sense of reality beginning to crack, morning routine shattered by inexplicable transformation"
+  composition:
+    cameraAngle: "Close-up from Gregor's perspective looking down at own transformed body"
+    focus: "Gregor's brown segmented belly and helplessly waving thin legs against white bedsheets"
+    depth: "Foreground: transformed body, middle: twisted bedsheets and alarm clock, background: rain-streaked window showing gray world outside"

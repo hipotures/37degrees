@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Timeless alien environment with imposed earth-like seasonal cycles
+    location: Transparent geodesic dome on alien planet Tralfamador serving as human exhibition space
+    weather: Artificially controlled climate simulating Earth seasons for alien observation
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Billy displayed as specimen, sometimes with Montana, adapting to artificial environment changes
+    action: Living under constant alien observation while seasons artificially cycle around him, no text or letters visible
+  scene:
+    mainElements: Earth-style furniture stolen from Sears Roebuck including sofa, tables, bar, billiard table, federal gold
+      wall-to-wall carpeting, mint green bathroom fixtures, broken television with cowboy gunfight sticker
+    details: Climate control systems creating spring warmth, summer heat, autumn cooling, winter chill within dome, artificial
+      weather patterns, seasonal lighting changes, humidity adjustments, temperature variations affecting furniture and fixtures
+    background: Tralfamadorian observers outside dome changing behavior with seasons, alien landscape visible through transparent
+      walls, other specimen domes in distance
+    atmosphere: Sterile, laboratory-like artificial environment, constant unchanging light with no day-night cycle, alienating
+      parody of human domesticity under constant alien observation
+  composition:
+    cameraAngle: Interior dome shot showing full living space with seasonal environmental controls
+    focus: Billy experiencing artificial Earth seasons while being observed as laboratory specimen
+    depth: Foreground shows domestic furniture arrangement, middle ground shows Billy's adaptation to seasonal changes, background
+      shows alien observers studying human seasonal behavior
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

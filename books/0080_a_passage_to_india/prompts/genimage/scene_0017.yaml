@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, night with artificial lighting showing architectural contrasts
+    location: Street area where British Civil Station meets Indian quarter, showing cultural architectural blend
+    weather: Clear night air, gentle warmth, stars visible above street lighting
+  characters: No characters present in this scene
+  scene:
+    mainElements: Street with mix of British colonial buildings and Indian traditional architecture, illuminated by electric
+      and oil lighting
+    details: Electric street lamps with glass globes casting white light on British buildings, oil lamps creating warm yellow
+      pools of light near Indian structures, architectural details revealed by contrasting lighting types, telegraph poles
+      creating geometric lines, bicycle leaning against lamp post, water buffalo resting in lamp's glow, different window
+      styles showing cultural preferences
+    background: Night sky with stars visible between electric and oil lamp glows, both communities sharing same darkness
+    atmosphere: Two lighting technologies and cultures coexisting in shared urban space, night equalizing architectural differences
+      while highlighting them
+  composition:
+    cameraAngle: Street level view showing progression from electric to oil lighting along mixed architecture
+    focus: Contrast between different lighting types revealing cultural and technological divisions
+    depth: Foreground shows street lighting details, middle ground captures architectural variety, background displays star-filled
+      night sky
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

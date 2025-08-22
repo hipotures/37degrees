@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, compressed time from evening through dawn
+    location: Hotel room documented through actual time passage rather than subjective experience
+    weather: December night progressing to morning with measured temperature changes
+  characters:
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Documented positions throughout night showing actual movement patterns
+    action: Actual documented activities throughout time period rather than subjective memory
+  scene:
+    mainElements: Room documented at hourly intervals showing actual changes in lighting, furniture arrangement, personal
+      belongings placement, temperature variations
+    details: 'Time-lapse documentation reveals actual duration of activities: 47 minutes sitting by window, 23 minutes pacing
+      room perimeter, 156 minutes attempting sleep, dawn lighting changes occurring over 43-minute period'
+    background: City street documented through actual time passage showing traffic patterns, building lights turning on and
+      off according to measured schedules, dawn progression occurring at documented astronomical times
+    atmosphere: Objective temporal documentation revealing actual time passage versus subjective time experience, neutral
+      recording of measured reality against memory distortion, no text or letters visible
+  composition:
+    cameraAngle: Fixed documentary position recording actual time passage and spatial changes
+    focus: Temporal reality documented through measured time intervals showing actual versus remembered events
+    depth: 'Foreground: documented room changes, middle ground: measured time passage, background: astronomical time progression'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

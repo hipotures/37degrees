@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Spice-Filled Kitchen with Dust Particles Dancing"
+  setting:
+    time: "1969 December, morning in Paradise Pickles factory kitchen"
+    location: "Industrial kitchen of Paradise Pickles & Preserves factory with spice grinding and preparation area"
+    weather: "Warm morning air with gentle circulation through kitchen vents"
+  characters:
+    - appearance: "Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build"
+      clothing: "Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing her rebellious nature, sunset-colored silk sari with gold threading from wedding photos"
+      position: "Standing at large wooden table sorting dried spices"
+      action: "Lifting handfuls of turmeric and cardamom, letting spice powder fall through fingers"
+  scene:
+    mainElements: "Open spice containers releasing colored dust clouds, morning light making spice particles visible as they float in air, wooden shelves lined with glass jars containing aromatic spices"
+    details: "Turmeric powder creating golden dust clouds, cardamom pods releasing visible aromatic particles, cinnamon sticks with bark curls suggesting intense scent, clove buds scattered on wooden surface, spice dust dancing in light beams like aromatic snow"
+    background: "Factory kitchen with large wooden tables, copper vessels, traditional grinding stones, windows allowing natural light and air circulation"
+    atmosphere: "Rich aromatic environment where smell becomes visible through spice particles, kitchen as center of sensory abundance"
+  composition:
+    cameraAngle: "View across spice table showing dust particles floating in light beams"
+    focus: "Colorful spice dust clouds suggesting intense aromatic qualities"
+    depth: "Foreground captures floating spice particles, middle ground shows Ammu working with spices, background features factory kitchen setting, no text or letters visible"

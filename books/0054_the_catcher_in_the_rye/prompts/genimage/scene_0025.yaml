@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in December
+    location: Central Park during December rainstorm creating shared environmental experience
+    weather: December rain falling equally on all surfaces and people regardless of perspective
+  characters:
+  - appearance: Multiple figures representing different ages, social positions, and viewpoints united by shared weather experience
+    clothing: Various winter attire becoming equally wet and affected by same rain
+    position: Scattered throughout park experiencing identical meteorological conditions
+    action: All responding to same environmental reality regardless of individual perspective or interpretation
+  scene:
+    mainElements: Rain falling uniformly across park affecting all surfaces equally, bare trees receiving same moisture regardless
+      of symbolic interpretation, carousel and buildings experiencing identical weather conditions
+    details: Universal precipitation creates shared physical experience transcending individual interpretation, temperature
+      dropping equally for all figures regardless of personal circumstances, wind affecting everyone similarly despite different
+      life situations, moisture creating identical conditions for all park elements
+    background: Manhattan skyline receiving same weather pattern, city infrastructure responding uniformly to precipitation,
+      natural elements operating according to physical laws rather than human perspective
+    atmosphere: Shared environmental reality transcending individual viewpoint, universal physical experience creating common
+      ground, nature operating independently of human interpretation or social position, no text or letters visible
+  composition:
+    cameraAngle: Wide perspective capturing universal environmental experience affecting all elements equally
+    focus: Natural phenomenon creating shared reality that transcends individual perspective differences
+    depth: Environmental conditions affecting foreground, middle ground, and background identically regardless of human interpretation
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

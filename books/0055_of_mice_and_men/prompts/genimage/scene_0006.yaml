@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1930s, late afternoon
+    location: Salinas River valley view from ranch area, distant golden hills now shadowed
+    weather: Weather changing as dark clouds build on horizon, wind picking up
+  characters: No characters present in this scene
+  scene:
+    mainElements: Previously bright golden hills now cast in shadow, heavy gray clouds massing on western horizon, wind beginning
+      to shake tree branches
+    details: Dust swirling in ranch yard, loose papers and debris starting to blow, animals becoming restless and seeking
+      shelter, previously calm river now showing small whitecaps
+    background: Dark storm front approaching across California landscape, distant thunder rumbling
+    atmosphere: Sense of change and impending disturbance, natural peace being disrupted, tension building in environment
+      that mirrors human emotional shifts to come
+  composition:
+    cameraAngle: Wide landscape shot showing approaching weather system
+    focus: The contrast between receding peaceful conditions and approaching storm
+    depth: Foreground shows immediate ranch area being affected, middle ground captures advancing weather, background reveals
+      scope of approaching change
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1940s, winter morning
+    location: Harlem street during eviction, belongings scattered on snowy sidewalk
+    weather: Cold winter day with snow revealing usually hidden details
+  characters:
+  - No characters present in this scene
+  scene:
+    mainElements: Personal belongings scattered on snowy sidewalk - furniture, photographs, household items, marriage certificate,
+      carved wooden birds
+    details: Alternative angle reveals systematic eviction process - legal documents on snow show bureaucratic machinery enabling
+      displacement, police presence indicates state enforcement of economic inequality, building architecture demonstrates
+      landlord investment priorities favoring profit over tenant welfare, scattered belongings reveal economic strategies
+      of working-class survival, nearby residents' observation patterns show community surveillance and mutual aid networks,
+      snow preservation of personal items creates temporary museum of disrupted domestic life
+    background: Other buildings showing similar eviction patterns, urban infrastructure serving property interests over housing
+      needs
+    atmosphere: Systematic displacement of Black families, community solidarity emerging in response to individual crisis
+  composition:
+    cameraAngle: Bird's eye view revealing spatial patterns and social relationships invisible at ground level
+    focus: Systematic eviction process as part of broader housing discrimination patterns
+    depth: Foreground shows immediate eviction details, middle ground captures community response patterns, background reveals
+      institutional housing policies, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

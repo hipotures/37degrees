@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1918, complete agricultural cycle from planting to harvest compressed into accelerated sequence, full day cycle
+    location: Lettuce field on Trask ranch showing rapid agricultural cycle during wartime food production
+    weather: Seasonal weather compressed - spring rain through summer heat to autumn harvest conditions in accelerated sequence
+  characters: No characters present in this scene
+  scene:
+    mainElements: Agricultural field showing compressed growing season - bare soil rapidly sprouting seeds, seedlings growing
+      to mature plants, harvest occurring in accelerated time, field returning to bare earth for next cycle
+    details: Soil preparation happening simultaneously with planting and harvest, irrigation water flowing in time-lapse patterns,
+      farm equipment appearing and working in accelerated sequence, crop rows showing complete growth cycle from planting
+      lines to full mature plants to harvested stubble
+    background: Salinas Valley mountains maintaining constant presence while agricultural activity accelerates through seasons,
+      farm buildings showing accelerated maintenance and seasonal preparation, railway cars loading harvested crops in rapid
+      sequence
+    atmosphere: Agricultural time compressed to show intensity of wartime food production, nature's rhythms accelerated by
+      human urgency, cycle of growth and harvest emphasized through temporal compression, earth's productivity displayed in
+      fast-forward sequence, no text or letters visible
+  composition:
+    cameraAngle: Elevated view of field showing complete agricultural cycle progression
+    focus: Central crop rows as primary indicators of accelerated agricultural time
+    depth: Foreground shows soil and crop detail changes, middle ground reveals field transformation, background provides
+      stable mountain reference during rapid agricultural activity
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

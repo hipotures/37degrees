@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1918 early summer
+    location: Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista, clean
+      orderly Swiss landscape contrasting with war-torn Italy
+    weather: Perfect summer day with warm sunshine
+  characters:
+  - appearance: Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure
+    clothing: Ciepłe ubrania cywilne, odzież ciążowa
+    position: Sitting in garden with basket of wild strawberries
+    action: Eating fresh berries with juice staining fingertips red
+  - appearance: American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing
+    clothing: Ciepłe ubrania cywilne (zimowe)
+    position: Beside her sharing the mountain harvest
+    action: Offering perfectly ripe berries while laughing at juice stains
+  scene:
+    mainElements: Traditional Swiss wooden construction with snow-covered roof, pine forest surroundings, mountain vista,
+      clean orderly Swiss landscape contrasting with war-torn Italy
+    details: Tiny wild Alpine strawberries releasing bright red juice that runs in sweet rivulets down fingers, berries so
+      ripe they burst at slightest touch creating instant flavor explosions, ruby juice creating natural stains on skin suggesting
+      intense sweetness and tartness, seeds visible in translucent fruit flesh, juice pooling in palm lines and under fingernails,
+      crimson drops catching sunlight like liquid rubies, facial expressions showing surprise and delight at intense flavor
+      concentration, handkerchief dabbing sticky fingers while preserving juice traces, no text or letters visible
+    background: Swiss mountain meadow with wildflower patches and distant Alpine peaks
+    atmosphere: Peaceful temporary sanctuary offering apparent safety and domestic tranquility, false sense of escape from
+      world's violence, pristine beauty masking underlying biological dangers
+  composition:
+    cameraAngle: Close-up view of hands and berries showing juice flow detail
+    focus: Strawberry juice trails suggesting intense sweet-tart flavor experience
+    depth: Foreground shows berry and juice detail, middle ground captures shared enjoyment, background reveals pristine mountain
+      setting
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

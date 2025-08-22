@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Mirror's Betrayal - Reflected Horror"
+  setting:
+    time: "Autumn evening 1912, around 6:00 PM"
+    location: "Same small bedroom but stripped of most furniture, walls showing marks from insect climbing"
+    weather: "Dusk settling, creating deep shadows broken by gaslight"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "Small mirror on remaining dresser reflecting something completely different from what should be there"
+    details: "Gregor looks into the mirror expecting to see his insect form, but instead sees a grotesque amalgamation of human and insect features - a man's torso with compound eyes, multiple arms ending in claws, a face that shifts between human and arthropod features. The reflection moves independently, gesturing with its many hands, mouthing words that can't be heard. Sometimes it shows his aged human self, other times a decomposing corpse in a business suit."
+    background: "Only leather sofa remains along with framed picture of woman in furs, empty floor space, scratch marks on walls and ceiling"
+    atmosphere: "Complete breakdown of identity perception, mirror as portal to alternative realities, self-image becoming monstrous"
+  composition:
+    cameraAngle: "Split composition showing both Gregor and his impossible reflection"
+    focus: "Mirror showing horrifying alternative version of transformed protagonist"
+    depth: "Foreground: Gregor's actual insect body, middle: mirror surface acting as dimensional barrier, background: reflection showing completely different reality"

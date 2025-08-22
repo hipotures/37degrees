@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1945 to 1970s, spring season showing twenty-five years of regeneration
+    location: Completely destroyed Dresden, February 15 1945, described as lunar landscape of absolute devastation
+    weather: Spring weather progression from harsh post-bombing cold to warm renewal seasons
+  characters:
+  - appearance: Various ages, German civilians working to rebuild their city, ranging from elderly survivors to young children
+      born after war
+    clothing: Work clothes evolving from salvaged wartime garments to 1960s construction attire and casual civilian dress
+    position: Multiple temporal layers showing initial rubble clearing, foundation laying, garden planting, children playing
+      in rebuilt spaces
+    action: Clearing debris, planting seeds, building homes, children discovering flowers growing through old foundations,
+      no text or letters visible
+  scene:
+    mainElements: Jagged ruins of burned buildings, streets buried under rubble, earth soaked with tons of human bone meal,
+      corpse mining operations in collapsed basements
+    details: Rubble gradually sorted and removed, first green shoots pushing through ash, small gardens planted between reconstruction
+      sites, flowers growing in bomb craters, trees taking root in foundation remnants, park benches placed where buildings
+      once stood
+    background: Dresden skyline slowly rebuilding with new architectural styles, construction cranes replacing anti-aircraft
+      positions, Elbe River flowing unchanged through transformed cityscape
+    atmosphere: Monochromatic gray and black from ash and charred remains, persistent smoke cloud blocking sunlight, red glow
+      from fires burning for weeks, overwhelming silence broken only by collapsing structures
+  composition:
+    cameraAngle: Wide panoramic view showing city transformation from destruction to renewal
+    focus: Single flowering tree growing from former building foundation as symbol of life returning
+    depth: Foreground shows detailed garden growth, middle ground shows building reconstruction progress, background shows
+      overall city skyline evolution
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

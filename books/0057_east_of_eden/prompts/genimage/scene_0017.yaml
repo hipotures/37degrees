@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1918, single moment of emotional crisis extended while normal time continues around it, midnight
+    location: Main street of Salinas town during Cal's desperate run to reveal truth to Aron
+    weather: Clear cold night with moonlight illuminating town streets
+  characters:
+  - appearance: Caleb (Cal) Trask frozen mid-run, teenage boy around 16-17 years old with dark hair and olive complexion,
+      slit-like intense eyes, strong build, serious expression filled with desperation and destructive purpose
+    clothing: Work shirt in rough cotton, dark wool pants with suspenders, sturdy leather boots, hair disheveled from running
+    position: Suspended mid-stride in desperate run toward house of prostitution, face showing internal anguish and determination
+    action: Running motion frozen while carrying weight of terrible knowledge, every muscle tensed with purpose to destroy
+      brother's innocence
+  - appearance: Aron Trask visible being dragged by frozen Cal, teenage boy around 16-17 years old with blonde hair and fair
+      complexion, bright innocent eyes, face showing confusion and growing fear
+    clothing: Clean white cotton shirt, neat dark pants with belt, polished shoes, clothes disheveled from being pulled
+    position: Suspended in unwilling motion being pulled toward truth he cannot handle
+    action: Resisting brother's pull while normal town life continues around their frozen tragedy
+  scene:
+    mainElements: Town street frozen around Cal's moment of destructive choice while normal nighttime activities continue
+      in background - street lamps burning normally, night watchman walking rounds in motion blur, windows showing normal
+      household activities
+    details: Cal's footprints visible in street dust leading to suspended moment, Aron's dragged feet showing resistance,
+      street showing wear patterns from normal daily use continuing while brothers locked in crisis, buildings maintaining
+      normal evening lighting
+    background: Salinas town continuing normal nighttime routines - lights in windows showing families at dinner, horses and
+      carriages moving normally, distant sounds of normal life while central drama suspended in time
+    atmosphere: Destructive moment crystallized while life's normalcy emphasizes tragedy's interruption, time stopped to show
+      weight of moral choice, innocence about to be shattered while world remains oblivious, no text or letters visible
+  composition:
+    cameraAngle: Street level view following Cal's frozen run through town toward inevitable destination
+    focus: Cal's suspended running figure as central element of frozen crisis
+    depth: Foreground shows street surface and running details, middle ground captures frozen brother conflict, background
+      reveals normal town life continuing
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

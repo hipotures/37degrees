@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1928 to 1976, spanning forty-eight years in split temporal composition
+    location: Backyard of Billy's family home in Ilium New York, same exact spot across decades
+    weather: Spring planting day transitioning to autumn of elder years, warm sunshine to golden light
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Dual temporal positioning showing 6-year-old Billy kneeling beside tiny sapling with small hands in soil, overlaid
+      with 54-year-old Billy standing with walking assistance touching massive trunk
+    action: Child Billy carefully planting small oak sapling with concentrated determination, elderly Billy placing weathered
+      hand against mature tree bark in gesture of recognition and completion, no text or letters visible
+  scene:
+    mainElements: Single oak tree shown in split composition revealing tiny sapling and massive mature tree simultaneously,
+      small hole being dug by child's hands compared to thick roots spreading underground, original planting spot marked by
+      stone that child Billy placed
+    details: Tree growth rings visible where bark has worn thin, initials carved at child height now fifteen feet up the trunk,
+      rope swing that rotted away leaving only weathered groove in branch, fallen acorns scattered around base, stone marker
+      weathered smooth but still present, soil enriched by decades of fallen leaves
+    background: Backyard evolving from bare earth to established garden, house additions visible, neighborhood development,
+      distant skyline changes, fence posts replaced multiple times but following same property line
+    atmosphere: Peaceful continuity spanning human lifetime, sense of cyclical completion, afternoon light quality remaining
+      constant across decades, birds nesting in branches that didn't exist during planting
+  composition:
+    cameraAngle: Medium shot from slight elevation showing both temporal moments in single frame with tree as central vertical
+      element
+    focus: Overlapping hands of child and elderly Billy both touching same tree at different life stages
+    depth: Foreground shows detailed hand positions and soil interaction, middle ground shows full tree growth comparison,
+      background shows neighborhood evolution across five decades
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

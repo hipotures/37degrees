@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Empty Hospital Room - Abandonment"
+  setting:
+    time: "1949, day"
+    location: "Hospital room in small American town medical facility"
+    weather: "Daylight through hospital window"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Empty hospital bed with rumpled sheets, medical equipment, bedside table, hospital room furniture"
+    details: "Hospital room showing recent occupancy but now abandoned, personal items missing, sense of sudden departure, medical facility atmosphere"
+    background: "Hospital room with standard medical furniture, window showing outside world, institutional medical environment"
+    atmosphere: "Sterile medical environment, sense of abandonment and betrayal, institutional isolation, hospital room as site of deception"
+  composition:
+    cameraAngle: "Eye level view from hospital room doorway, looking at empty bed"
+    focus: "Empty hospital bed where patient was abandoned, rumpled sheets showing recent occupancy"
+    depth: "Foreground shows hospital room entrance, middle ground shows empty bed, background shows hospital window and outside world"

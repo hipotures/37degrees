@@ -1,0 +1,162 @@
+canon:
+  characters:
+    - id: "bigger_thomas"
+      name: "Bigger Thomas"
+      description_block: |
+        characters:
+          - appearance: "20-year-old African American man with average height and lean build, dark skin, short black hair cut close to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw"
+            clothing: "worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays and browns, old scuffed shoes"
+            posture: "mixture of defiant bravado and nervous anxiety, shoulders often tensed, frequently clenches fists, movements quick and reactive"
+
+    - id: "mary_dalton"
+      name: "Mary Dalton"
+      description_block: |
+        characters:
+          - appearance: "22-year-old white woman, slender build, blonde hair styled in fashionable 1930s waves, bright eyes filled with naive idealism, fair complexion"
+            clothing: "elegant 1930s fashion - knee-length dresses with defined waist and wide shoulders, high-quality fabrics, sometimes wide trousers for casual wear, fashionable shoes"
+            posture: "carefree and energetic movements, gestures freely without regard for social conventions, confident bearing that shows privilege"
+
+    - id: "mrs_dalton"
+      name: "Mrs. Dalton"
+      description_block: |
+        characters:
+          - appearance: "60-year-old blind white woman, completely white hair, pale almost translucent skin, tall and thin, moves slowly with outstretched hands"
+            clothing: "always dressed in long white conservative dresses that enhance her ghostly appearance, formal and expensive fabrics"
+            posture: "moves carefully and silently, touches walls for guidance, has an otherworldly presence that seems to float rather than walk"
+
+    - id: "mr_dalton"
+      name: "Mr. Dalton"
+      description_block: |
+        characters:
+          - appearance: "60-year-old tall white man with gray hair, upright authoritative posture, calm face expressing confidence and control"
+            clothing: "expensive well-tailored three-piece suits in dark wool (gray, navy, brown), white shirt and tie, impeccably dressed conservative businessman"
+            posture: "stands straight with authority, controlled movements that demonstrate power and social position"
+
+    - id: "jan_erlone"
+      name: "Jan Erlone"
+      description_block: |
+        characters:
+          - appearance: "23-year-old white man with intellectual appearance, may wear glasses, lean build, earnest facial expression"
+            clothing: "simpler than the Daltons but clean - sweater, corduroy or simple pants, tweed jacket, non-conformist but still distinguishable from working class"
+            posture: "energetic with animated gestures when discussing beliefs, eager and sometimes awkward in social interactions"
+
+    - id: "bessie_mears"
+      name: "Bessie Mears"
+      description_block: |
+        characters:
+          - appearance: "young African American woman around 20, physically and mentally exhausted by hard life, signs of weariness and worry on her face, average build"
+            clothing: "simple working clothes - plain dress or skirt and blouse, cheap clean but worn garments in practical colors"
+            posture: "moves with resignation and fatigue, shoulders often slumped, body language expressing hopelessness and lack of energy"
+
+    - id: "boris_max"
+      name: "Boris Max"
+      description_block: |
+        characters:
+          - appearance: "middle-aged man possibly of Jewish descent, intellectual appearance suggesting empathy and intelligence, thoughtful facial features"
+            clothing: "somewhat worn but neat suit, professional but not wealthy, shows dignity rather than material success"
+            posture: "calm and attentive, listens carefully, gestures thoughtfully when speaking, maintains professional demeanor while showing genuine care"
+
+  locations:
+    - id: "thomas_apartment"
+      name: "Thomas Family Apartment"
+      description_block: |
+        setting:
+          location: "single cramped room in deteriorating tenement building on Chicago South Side Black Belt, late 1930s winter"
+        mainElements: "dirty brick building with chipped facade, damaged stairs, one rectangular room serving as bedroom, kitchen, and living room for four people"
+        atmosphere: "claustrophobic and oppressive, no privacy, thin walls allow constant noise from neighbors - arguments, crying children, loud music"
+        details: "peeling plaster walls, worn wooden floors without carpet, two creaking iron beds, old dresser, four simple chairs, folding table, small sink and gas stove, single bare lightbulb hanging from ceiling, one small dirty window providing minimal gray light"
+
+    - id: "dalton_mansion"
+      name: "Dalton Family Residence"
+      description_block: |
+        setting:
+          location: "large imposing mansion in wealthy white Hyde Park district of Chicago, late 1930s winter"
+        mainElements: "substantial stone or dark brick house surrounded by iron fence, spacious clean formal interiors with high ceilings, multiple rooms"
+        atmosphere: "sterile formality, unnatural silence broken only by ticking clock, sense of wealth and power but also coldness and distance"
+        details: "white walls, dark polished wood furniture (mahogany, oak), heavy velvet curtains in deep colors (burgundy, bottle green), Persian rugs, paintings in gold frames, crystal chandeliers, large clean windows with filtered light through curtains"
+
+    - id: "dalton_basement"
+      name: "Dalton House Basement"
+      description_block: |
+        setting:
+          location: "dark concrete basement beneath Dalton mansion, late 1930s winter"
+        mainElements: "utilitarian work space with massive cast iron coal furnace as central feature, concrete walls and floor, storage area"
+        atmosphere: "hot, stifling, hellish environment with demonic character from furnace fire, place where wealth's dirty work is hidden"
+        details: "powerful cast iron furnace with heavy metal doors, coal shovel and hatchet nearby, flickering red and orange light from furnace fire, single weak overhead bulb, shadows dancing on concrete walls"
+
+    - id: "mary_bedroom"
+      name: "Mary Dalton's Bedroom"
+      description_block: |
+        setting:
+          location: "private bedroom on upper floor of Dalton mansion, late 1930s winter night"
+        mainElements: "spacious personal room furnished for wealthy young woman, bed as central feature, private dresser and wardrobe"
+        atmosphere: "intimate private space of white privilege, forbidden territory that becomes site of tragedy"
+        details: "large bed with white soft pillow, dresser with mirror, wooden wardrobe, quality furnishings appropriate for 1930s upper class young woman, dim lighting from hallway"
+
+    - id: "abandoned_building"
+      name: "Abandoned Tenement Building"
+      description_block: |
+        setting:
+          location: "ruined empty tenement building in Chicago South Side Black Belt, late 1930s winter night"
+        mainElements: "deteriorating multi-story building with broken windows, debris-filled rooms, dangerous structural damage"
+        atmosphere: "cold, empty, ghostly environment providing temporary shelter but no safety, urban decay and abandonment"
+        details: "broken windows letting in snow and wind, garbage-strewn floors, ventilation shaft, damaged walls and missing doors, pale light from snow and distant street lamps"
+
+    - id: "courthouse"
+      name: "Chicago Courthouse"
+      description_block: |
+        setting:
+          location: "large formal courtroom in Chicago criminal courthouse, late 1930s winter"
+        mainElements: "imposing legal chamber with high ceiling, wooden benches, raised judge's platform, jury box"
+        atmosphere: "tense and hostile, formal oppressive environment where white power sits in judgment, media spectacle"
+        details: "dark wood paneling, high ceiling, formal seating arrangements, judge's elevated bench, bright harsh lighting from high windows or ceiling lamps, camera flashes from press"
+
+    - id: "death_row_cell"
+      name: "Death Row Prison Cell"
+      description_block: |
+        setting:
+          location: "concrete cell in death row block of Chicago county jail, late 1930s winter night"
+        mainElements: "small confined space with metal bars, minimal furnishings, concrete walls and floor"
+        atmosphere: "final imprisonment, place of ultimate isolation yet also potential understanding"
+        details: "metal bars separating cell from corridor, concrete walls and floor, minimal furnishing, cold artificial light from corridor, bare and institutional"
+
+  items:
+    - id: "iron_skillet"
+      name: "Heavy Iron Skillet"
+      description_block: |
+        details: "large heavy black cast iron frying pan, well-used kitchen implement, substantial weight making it effective weapon, represents transformation of domestic tool into instrument of violence"
+
+    - id: "white_pillow"
+      name: "White Pillow"
+      description_block: |
+        details: "large soft white pillow from Mary's bed, symbol of white comfort and privilege that becomes accidental murder weapon, represents irony of comfort becoming death"
+
+    - id: "hatchet"
+      name: "Coal Hatchet"
+      description_block: |
+        details: "sharp metal hatchet found in basement near furnace, used for chopping coal, becomes tool for dismemberment, represents brutal necessity and dehumanization"
+
+    - id: "brick"
+      name: "City Brick"
+      description_block: |
+        details: "heavy rectangular brick found in abandoned building, common urban debris, prosaic tool used for calculated murder, represents brutality of ghetto life"
+
+    - id: "communist_pamphlets"
+      name: "Communist Literature"
+      description_block: |
+        details: "red brochures and flyers with hammer and sickle symbols, political materials representing foreign ideology to Bigger, used as tools in his manipulation scheme"
+
+    - id: "buckley_poster"
+      name: "Election Poster"
+      description_block: |
+        details: "political campaign poster showing prosecutor Buckley with slogan 'YOU CAN'T WIN', ominous symbol of white power and predetermined doom for African Americans"
+
+    - id: "money_roll"
+      name: "Roll of Cash"
+      description_block: |
+        details: "thick bundle of paper money bills taken from Mary's purse, represents false hope of freedom and power through crime, temporary symbol of wealth and possibility"
+
+    - id: "cell_bars"
+      name: "Prison Bars"
+      description_block: |
+        details: "thick vertical metal bars separating prison cell from corridor, ultimate symbol of physical imprisonment that mirrors lifelong psychological and social confinement"

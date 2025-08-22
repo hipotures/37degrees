@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon in December
+    location: Central Park carousel with rain creating emotional watershed moment
+    weather: December afternoon with rain intensifying emotional significance
+  characters:
+  - appearance: Female, 10 years old, petite and slender build, bright red hair, intelligent and expressive face, neat and
+      tidy appearance
+    clothing: Blue wool coat in climactic scene, neat school dresses with puffed sleeves and sashes typical of 1940s girls,
+      clean and well-maintained attire
+    position: Riding carousel horse while reaching for golden ring
+    action: Experiencing pure joy and childhood freedom while simultaneously representing inevitable growth
+  - appearance: Male, 16 years old, very tall and thin at 189 cm, gangly and uncoordinated build, premature gray hair particularly
+      on right side of head, cynical or melancholy facial expression
+    clothing: Red hunting cap with long visor worn backwards like catcher's mask, rumpled houndstooth coat, white collared
+      shirt, gray wool trousers, often disheveled appearance
+    position: Standing outside carousel watching with mixed emotions
+    action: Experiencing simultaneous joy at sister's happiness and grief at inability to preserve childhood
+  scene:
+    mainElements: Carousel representing both magical childhood kingdom and mechanical symbol of time's passage, golden ring
+      appearing as achievement goal and dangerous temptation, rain creating both cleansing and melancholy atmosphere
+    details: Dual interpretation shows carousel as celebration of childhood joy and recognition of inevitable loss, mechanical
+      motion representing both magical transformation and relentless time passage, reaching gesture symbolizing both achievement
+      and risk
+    background: Central Park appearing as both natural sanctuary and urban reality, city skyline representing both adult possibility
+      and loss of innocence, rain creating both emotional catharsis and environmental challenge
+    atmosphere: Simultaneous celebration and mourning, recognition of joy within inevitable loss, acceptance of growth requiring
+      surrender of protection, no text or letters visible
+  composition:
+    cameraAngle: Dual perspective capturing both joyful celebration and melancholy recognition
+    focus: Split emotional reality showing same moment interpreted as liberation and loss
+    depth: Multiple emotional layers within single scene showing different simultaneous truths
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

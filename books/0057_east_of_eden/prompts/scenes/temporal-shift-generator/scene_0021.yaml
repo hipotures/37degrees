@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn and dusk at Hamilton ranch - daily cycle showing life's continuity"
+  setting:
+    time: "Same day showing dawn and dusk simultaneously, daily cycle compressed into single view, golden hour lighting"
+    location: "Hamilton ranch homestead showing daily rhythms of farm life across single day"
+    weather: "Clear day with beautiful sunrise and sunset lighting illuminating same scene differently"
+  characters:
+    - appearance: "Samuel Hamilton visible in dual time exposure - morning figure showing energy and purpose for day's work, evening figure showing satisfaction and weariness from completed labor"
+      clothing: "Same work clothes - simple cotton work shirt, worn wool vest, practical trousers - appearing fresh in morning overlay and dust-covered in evening overlay"
+      position: "Standing at farmhouse door greeting dawn, same position watching sunset, identical stance bookending the day"
+      action: "Morning preparation for day's blacksmith work overlaid with evening reflection on day's accomplishments, same ritual of checking sky and planning activities"
+  scene:
+    mainElements: "Farmhouse and blacksmith forge showing dual lighting - dawn's cool blue light overlaid with dusk's warm golden glow, same buildings receiving different qualities of light revealing different aspects of same structures"
+    details: "Forge showing morning preparation overlaid with evening banking of fires, tools arranged for work in morning light showing wear and use in evening light, farm animals beginning daily routines overlaid with evening rest patterns"
+    background: "Rocky hills east of King City showing dramatic lighting changes - dawn illumination from eastern sun overlaid with sunset glow from western light, same landscape revealed differently by changing light quality"
+    atmosphere: "Daily rhythms showing consistency within change, work and rest as eternal human cycle, same landscape transformed by light showing multiple aspects of single reality, no text or letters visible"
+  composition:
+    cameraAngle: "Homestead view showing full daily lighting cycle on same scene"
+    focus: "Farmhouse door and Samuel's figure as anchors for daily cycle"
+    depth: "Foreground shows daily work tool changes, middle ground reveals figure in dual lighting, background displays hill lighting transformation"

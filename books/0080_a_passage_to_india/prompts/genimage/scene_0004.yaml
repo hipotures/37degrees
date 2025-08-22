@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, morning as fog begins to clear revealing landscape
+    location: Ganges River valley near Chandrapore, showing sacred river and surrounding terrain
+    weather: Morning mist lifting as sun climbs higher, revealing details of landscape below
+  characters: No characters present in this scene
+  scene:
+    mainElements: Sacred Ganges River winding through valley, ghats with stone steps leading to water, small boats moored
+      along banks
+    details: White mist rolling off water surface, wooden boats with curved prows visible through clearing fog, stone washing
+      platforms emerging from vapor, temple spires becoming visible on distant bank, fishing nets stretched between poles,
+      water buffalo standing in shallows, lotus flowers floating near shore
+    background: Ancient Indian landscape stretching beyond river, distant villages emerging as mist dissipates, endless plain
+      under clearing sky
+    atmosphere: Mystical revelation as sacred landscape emerges from mist, sense of ancient India awakening, spiritual connection
+      to eternal river
+  composition:
+    cameraAngle: Elevated view looking down into river valley as mist clears
+    focus: The gradual revelation of sacred river and surrounding life as fog lifts
+    depth: Foreground shows lifting mist patterns, middle ground reveals river details, background displays emerging distant
+      landscape
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

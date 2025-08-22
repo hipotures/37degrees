@@ -1,0 +1,104 @@
+canon:
+  characters:
+    - id: "hester_prynne"
+      name: "Hester Prynne"
+      description_block: |
+        characters:
+          - appearance: "Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black eyes with prominent forehead, rich complexion, noble bearing despite circumstances"
+            clothing: "Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely except when specified otherwise, worn leather shoes"
+            posture: "Stands with natural dignity and grace, head held high even in shame, shoulders straight, moves with measured, deliberate steps"
+            action: "Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with steady, unflinching gaze"
+
+    - id: "arthur_dimmesdale"
+      name: "Arthur Dimmesdale"
+      description_block: |
+        characters:
+          - appearance: "Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips"
+            clothing: "Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes, garments becoming looser as he grows thinner"
+            posture: "Initially upright with scholarly bearing, progressively more stooped and unsteady, shoulders hunched as if carrying invisible burden"
+            action: "Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face shows inner torment, walking with increasingly faltering steps"
+
+    - id: "roger_chillingworth"
+      name: "Roger Chillingworth"
+      description_block: |
+        characters:
+          - appearance: "Man well advanced in years around 50-60, short and thin build, slight deformity with left shoulder higher than right, pale learned scholarly face, dim but penetrating eyes that acquire demonic red gleam over time"
+            clothing: "Initially strange mixture of civilized and savage garments from time among Native Americans, later adopts modest physician's attire of dark colors, carries leather satchel with herbs and medicines"
+            posture: "Moves with deliberate scholarly manner becoming increasingly furtive and serpentine, often stooped over books or medicines, walks with slight limp"
+            action: "Constantly observing and analyzing others with piercing gaze, mixing herbal remedies, making notes, speaking in measured intellectual tones while eyes betray malevolent intent"
+
+    - id: "pearl"
+      name: "Pearl"
+      description_block: |
+        characters:
+          - appearance: "Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like features, bright intelligent eyes, flowing hair, otherworldly beauty"
+            clothing: "Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate dresses that make her appear like living embodiment of scarlet letter"
+            posture: "Quick unpredictable movements full of energy, dances and skips rather than walks, stands with defiant childish pride, never still for long"
+            action: "Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering flowers and seashells, mimicking adult behaviors with disturbing accuracy"
+
+  locations:
+    - id: "boston_marketplace"
+      name: "Boston Marketplace and Scaffold"
+      description_block: |
+        setting:
+          location: "Central marketplace of 1640s Boston Massachusetts Bay Colony, packed earth town square surrounded by rough wooden buildings with steep roofs"
+        mainElements: "Wooden scaffold platform in center serving as pillory, crowd of Puritan townspeople in dark clothing, surrounding timber-frame houses and shops"
+        atmosphere: "Harsh unforgiving daylight exposing all to public scrutiny, oppressive weight of collective judgment, sounds of murmuring voices and shuffling feet on packed earth"
+
+    - id: "prison_and_rosebush"
+      name: "Prison and Wild Rosebush"
+      description_block: |
+        setting:
+          location: "Heavy oak prison door in early Boston settlement, weathered wooden structure with iron-studded entrance"
+        mainElements: "Massive dark wooden door bound with iron spikes and rusted metal fittings, overgrown patch of unsightly weeds including burdock and pigweed"
+        atmosphere: "Grim forbidding entrance to civilization's dark necessity, single note of natural beauty from wild rosebush with delicate pink and red blossoms growing defiantly at threshold"
+
+    - id: "hester_cottage"
+      name: "Hester's Isolated Cottage"
+      description_block: |
+        setting:
+          location: "Small thatched cottage on peninsula outskirts of Boston settlement, positioned between forest wilderness and ocean waters"
+        mainElements: "Simple one-room dwelling with large stone fireplace, few wooden furnishings, materials for Hester's elaborate needlework, view of both forest and sea"
+        atmosphere: "Profound isolation and exile from human community, melancholy solitude broken only by sounds of wind and waves, refuge that is also prison of social ostracism"
+
+    - id: "primeval_forest"
+      name: "Primeval Forest and Stream"
+      description_block: |
+        setting:
+          location: "Dense ancient forest surrounding Boston settlement, untamed wilderness of towering trees and thick undergrowth"
+        mainElements: "Tall dark trees creating cathedral-like canopy, narrow winding footpath, mysterious babbling brook flowing through shadows, fallen logs and moss-covered stones"
+        atmosphere: "Realm of natural law beyond human authority, mysterious shadows and dancing light, place where hidden truths can be spoken and societal masks removed"
+
+    - id: "governors_hall"
+      name: "Governor Bellingham's Hall"
+      description_block: |
+        setting:
+          location: "Grand reception room in Governor Bellingham's mansion representing wealth and authority of colonial leadership"
+        mainElements: "Dark oak paneling, ancestral portraits on walls, massive carved furniture, suit of shining steel armor standing in corner, large windows letting in bright daylight"
+        atmosphere: "Impressive display of power and luxury surprising in Puritan settlement, contrast between outward austerity and private indulgence of ruling class"
+
+  items:
+    - id: "scarlet_letter_a"
+      name: "The Scarlet Letter A"
+      description_block: |
+        details: "Elaborate embroidered letter A in scarlet red cloth outlined with intricate gold thread work and ornate flourishes, approximately 3 inches tall, sewn permanently to front of dress over heart"
+
+    - id: "wild_rosebush"
+      name: "Wild Rosebush at Prison Door"
+      description_block: |
+        details: "Ancient wild rose bush growing naturally at prison threshold, covered in June with delicate pink and red blossoms called precious jewels, thorny branches intertwined with sweet fragrant flowers"
+
+    - id: "meteor_sign"
+      name: "Mysterious Meteor"
+      description_block: |
+        details: "Fiery red streak of light across night sky taking shape of letter A, supernatural celestial phenomenon lasting only moments but clearly visible to multiple observers"
+
+    - id: "armor_reflection" 
+      name: "Convex Armor Breastplate"
+      description_block: |
+        details: "Highly polished convex steel breastplate of European armor creating distorted mirror effect that magnifies reflected images, particularly enlarging scarlet letter to monstrous proportions"
+
+    - id: "forest_stream"
+      name: "Forest Brook" 
+      description_block: |
+        details: "Narrow babbling brook flowing through forest depths with mysterious source and destination, water flowing over stones and fallen branches creating melancholy murmuring sound"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: Dilapidated roadhouse near railroad tracks outside university town, former church-bank-gambling house in rural
+      American South
+    weather: Hot Southern day with dust and heat
+  characters:
+  - appearance: Young African American man, age varying by scene from late teens to mid-twenties, average build and height,
+      generic facial features designed to be overlooked
+    clothing: Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending
+      on imposed identity
+    position: Standing frozen near entrance, witnessing eruption of violence
+    action: Watching in horrified fascination as veterans attack Supercargo, trying to protect Mr. Norton
+  scene:
+    mainElements: Long dark bar, carved wooden balcony, jukebox, broken bottles, peeling paint on walls, stale beer atmosphere
+    details: Through narrator's shocked university-trained perspective, chaos appears as terrifying breakdown of civilized
+      order - flying bottles seem like deadly missiles, veterans' laughter sounds maniacal and inhuman, Supercargo's overpowering
+      appears like wild animals attacking keeper, blood on floor looks like crimson paint, broken glass creates dangerous
+      glittering landscape, air thick with violence and madness that contradicts everything he's learned about proper behavior
+    background: Shadowy interior with struggling figures on balcony, overturned furniture creating battlefield landscape
+    atmosphere: Chaotic refuge for mentally damaged Black veterans, space of uncontrolled truth-telling and suppressed rage,
+      dangerous freedom from social constraints
+  composition:
+    cameraAngle: Eye level from narrator's position near door, capturing full scope of chaos
+    focus: Central brawl with veterans overwhelming Supercargo while bottles fly
+    depth: Foreground shows narrator's protective stance over Norton, middle ground captures main violence, background reveals
+      more veterans joining fray, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

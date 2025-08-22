@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1940s, evening
+    location: Harlem neighborhood during Brotherhood political activity, community meeting space
+    weather: Indoor evening environment with tension and conflict
+  characters:
+  - appearance: Harlem community members - men, women, various ages representing neighborhood residents
+    clothing: Working-class 1940s attire reflecting Harlem community diversity
+    position: Divided in room between Brotherhood supporters and community skeptics
+    action: Debating Brotherhood's role in community with passionate disagreement
+  - appearance: Brotherhood organizers including narrator and white leadership
+    clothing: Professional political attire contrasting with community dress
+    position: Attempting to control meeting direction and community response
+    action: Promoting ideological agenda while claiming to serve community interests
+  scene:
+    mainElements: Community meeting hall with divided seating, Brotherhood materials and banners, local residents in heated
+      discussion
+    details: Conflicting interpretations of same political events - Brotherhood supporters see ideological liberation and
+      scientific socialism advancing community interests, community skeptics see white-controlled organization exploiting
+      Black struggles for abstract political goals, identical speeches register as inspiring leadership versus manipulative
+      propaganda, same organizing efforts appear as empowerment versus outside control, political materials represent either
+      educational tools or ideological colonization
+    background: Harlem neighborhood context showing community life independent of political organizations
+    atmosphere: Community division over outside political intervention, struggle between local autonomy and ideological organizing
+  composition:
+    cameraAngle: Split perspective showing both Brotherhood ideology and community skepticism
+    focus: Fundamental disagreement about political liberation versus community exploitation
+    depth: Foreground shows community division, middle ground captures political conflict, background reveals neighborhood
+      autonomy, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

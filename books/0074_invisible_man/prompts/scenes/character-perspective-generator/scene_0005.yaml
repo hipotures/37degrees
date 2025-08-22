@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Reflection in Founder's Statue Through Self-Doubting Eyes"
+  setting:
+    time: "1930s, twilight"
+    location: "Central courtyard of Southern Negro university campus, prominent bronze monument on stone pedestal"
+    weather: "Cooling evening air with lengthening shadows"
+  characters:
+    - appearance: "Young African American man, age varying by scene from late teens to mid-twenties, average build and height, generic facial features designed to be overlooked"
+      clothing: "Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending on imposed identity"
+      position: "Standing before statue, looking up at bronze figures"
+      action: "Studying monument intently, questioning its meaning and his own identity"
+  scene:
+    mainElements: "Bronze statue of university founder lifting or lowering veil over face of kneeling slave figure, both figures with empty eye sockets, often stained with bird droppings"
+    details: "Through narrator's growing doubt and confusion, statue appears ambiguous and menacing - Founder's gesture seems both liberating and imprisoning simultaneously, empty eye sockets stare with blind authority, kneeling figure's face hidden by veil appears to mirror his own invisibility, bird droppings on bronze create pattern of white stains suggesting tears or shame, statue's cold metal seems to mock warmth of human emotion, pedestal elevates monument above human reach creating sense of unapproachable power"
+    background: "Campus buildings in twilight, other students passing in distance like shadows"
+    atmosphere: "Ambiguous symbol of education and liberation versus continued control, cold metallic presence dominating campus space"
+  composition:
+    cameraAngle: "Low angle from narrator's position, emphasizing statue's imposing height and authority"
+    focus: "Bronze founder's hands on veil, creating central question of revelation or concealment"
+    depth: "Foreground shows narrator's upturned face, middle ground captures full statue, background fades into darkening campus, no text or letters visible"

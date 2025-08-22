@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "k_surveyor"
+      name: "K."
+      description_block: |
+        characters:
+          - appearance: "Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally to maintain universal anonymity"
+            clothing: "Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack as personal belonging"
+            posture: "Determined stance despite fatigue, forward-leaning when focused, often carrying gnarled walking stick for support"
+    
+    - id: "frieda_barmaid"
+      name: "Frieda"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 20-25, fair-haired with sad eyes, sunken cheeks, small and unassuming stature but conscious superiority in bearing"
+            clothing: "Low-cut cream blouse that fits oddly on her thin frame, simple barmaid attire with apron, practical work clothes"
+            posture: "Confident behind the bar, wielding whip with surprising authority and strength, graceful despite small frame"
+    
+    - id: "klamm_official"
+      name: "Klamm"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged official, corpulent and heavy-set, drooping cheeks, sharp black mustache, wearing pince-nez spectacles"
+            clothing: "Black frock coat with long tails, formal official attire typical of Austrian bureaucrat from 1920s period"
+            posture: "Seated heavily, ponderous movements, aura of bureaucratic authority and indifference"
+    
+    - id: "barnabas_messenger"
+      name: "Barnabas"
+      description_block: |
+        characters:
+          - appearance: "Young man with open, honest face, large bright eyes with clear, victorious gaze, tall and slender build"
+            clothing: "Tight-fitting, shining white garments resembling silk but not silk, giving almost angelic ethereal appearance"
+            posture: "Upright bearing, confident stride, carries himself with dignity despite family's outcast status"
+    
+    - id: "olga_sister"
+      name: "Olga"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 20-25, robust build with hard facial expression, yellow-blonde hair, sturdy constitution"
+            clothing: "Simple village dress, practical rural clothing in earth tones, working woman's attire"
+            posture: "Strong, capable stance, reliable bearing, shoulders set for hard work and endurance"
+    
+    - id: "amalia_sister"
+      name: "Amalia"
+      description_block: |
+        characters:
+          - appearance: "Young woman similar to siblings, dark brooding gaze that is haughty and commanding, proud facial features"
+            clothing: "Modest village dress, once owned festive dress that caused the infamous incident with official"
+            posture: "Defiant bearing, chin raised in pride, uncompromising stance that refuses to bow to authority"
+    
+    - id: "assistants_arthur_jeremias"
+      name: "Arthur and Jeremias"
+      description_block: |
+        characters:
+          - appearance: "Two young men virtually identical like drops of water, extremely thin build, dark brown complexion, sharply pointed black beards of particular darkness"
+            clothing: "Identical tightly-fitted dark clothing, matching outfits emphasizing their interchangeable nature"
+            posture: "Synchronized movements, childish gestures, disruptive and irritating mannerisms, identical positioning"
+    
+    - id: "gardena_landlady"
+      name: "Gardena"
+      description_block: |
+        characters:
+          - appearance: "Older woman, massive figure described as true giantess, face deeply lined with wrinkles from age and hard work"
+            clothing: "Simple innkeeper attire for daily work, possesses wardrobes of elegant old-fashioned dresses from past romance with Klamm"
+            posture: "Commanding presence despite age, heavy movements that dominate any space, maternal authority"
+
+  locations:
+    - id: "village_main"
+      name: "Village"
+      description_block: |
+        setting:
+          location: "Isolated Central European village in former Bohemian region, permanently covered in deep snow during endless winter"
+        mainElements: "Labyrinthine network of low stone and wooden houses with shingle roofs, narrow winding streets that mislead rather than guide toward Castle"
+        atmosphere: "Oppressive claustrophobic mood, perpetual half-light, bone-chilling cold, atmosphere of surveillance and suspicion from residents"
+    
+    - id: "castle_complex"
+      name: "Castle"
+      description_block: |
+        setting:
+          location: "Hilltop complex overlooking village, paradoxically appearing as extensive cluster of small crowded buildings rather than fortress"
+        mainElements: "Disappointing cluster of village-like structures with crumbling stone walls where plaster has fallen away, circular tower with irregular battlements drawn by careless child's hand"
+        atmosphere: "Mysterious inaccessibility combined with architectural disappointment, windows gleaming with somewhat insane brilliance in sunlight"
+    
+    - id: "bridge_inn"
+      name: "Bridge Inn"
+      description_block: |
+        setting:
+          location: "Simple wooden village tavern near bridge where K. first seeks shelter, humble establishment for common villagers"
+        mainElements: "Low-ceilinged smoky taproom with simple wooden tables and benches, iron stove providing heat, straw mattress for travelers"
+        atmosphere: "Initially welcoming refuge that quickly becomes place of confrontation, stuffy interior thick with pipe smoke and beer"
+    
+    - id: "herrenhof_inn"
+      name: "Herrenhof Inn"
+      description_block: |
+        setting:
+          location: "More prestigious tavern reserved for Castle officials, distinguished by balustrade staircase and elegant lantern over entrance"
+        mainElements: "Spacious taproom with bar counter where guests sit on barrels along walls, small peephole opening in wall for viewing Klamm's private room"
+        atmosphere: "Hierarchical tension between village world and Castle authority, electric lighting creating sharp cold illumination"
+    
+    - id: "schoolhouse"
+      name: "School"
+      description_block: |
+        setting:
+          location: "Long low old building where K. and Frieda receive temporary accommodation in classroom"
+        mainElements: "Cold empty classroom furnished only with simple school benches, serving as living quarters with complete lack of privacy"
+        atmosphere: "Institutional coldness, constant interruption by daily lessons and presence of children and teachers, symbol of lacking personal space"
+
+  items:
+    - id: "castle_letters"
+      name: "Official Letters"
+      description_block: |
+        details: "Formal documents from Castle bureaucracy on aged yellowed paper with ornate seals, containing contradictory and unclear bureaucratic communications that mislead rather than inform"
+    
+    - id: "telephone_apparatus"
+      name: "Telephone"
+      description_block: |
+        details: "Wooden wall-mounted telephone apparatus typical of 1920s era with crank handle and separate earpiece, produces incomprehensible singing and noise instead of clear communication"
+    
+    - id: "luxury_sleigh"
+      name: "Official Sleigh"
+      description_block: |
+        details: "Elegant horse-drawn sleigh belonging to Castle officials, upholstered with thick fur blankets and soft cushions representing luxury and authority"
+    
+    - id: "surveyor_staff"
+      name: "Gnarled Walking Stick"
+      description_block: |
+        details: "Simple gnarled wooden staff that serves as K.'s only reliable support tool in unstable world, represents his traveler status and only dependable possession"
+    
+    - id: "frieda_whip"
+      name: "Barmaid's Whip"
+      description_block: |
+        details: "Leather whip wielded by Frieda with surprising authority to control rowdy Castle servants, symbol of unexpected power and connection between authority and sexuality"

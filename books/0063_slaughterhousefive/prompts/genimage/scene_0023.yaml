@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Multiple historical periods showing recurring social movements
+    location: Town square showing protest tradition across different centuries
+    weather: Various weather conditions from different protest events across time
+  characters:
+  - appearance: Protesters from different historical eras appearing as temporal overlays
+    clothing: Period-appropriate protest attire from various decades - 1960s Vietnam era, 1940s labor movements, 1920s suffrage,
+      Civil War era abolition
+    position: Multiple generations of protesters occupying same public space across centuries
+    action: Peaceful demonstration activities spanning historical periods showing recurring patterns of social change, no
+      text or letters visible
+  scene:
+    mainElements: Public square architecture evolving across centuries while maintaining function as gathering place for civic
+      expression
+    details: Protest signs and banners from different eras, demonstration equipment evolving from simple placards to modern
+      sound systems, crowd organization methods changing with technology
+    background: Government buildings and civic architecture showing institutional continuity while protest methods evolve,
+      transportation in background showing technological progress
+    atmosphere: Hopeful human tradition of peaceful civic engagement transcending specific historical issues, democratic participation
+      as eternal human pattern
+  composition:
+    cameraAngle: Elevated view of town square showing multiple protest eras as transparent layers
+    focus: Civic square as constant location for democratic expression across time
+    depth: Multiple historical periods showing continuity of peaceful social change movements
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

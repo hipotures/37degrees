@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1900, 1920, and 1945 - three generations at forty-five year span
+    location: Same bend in Russian river where three generations fish from identical wooden dock
+    weather: Early summer morning with mist rising from water in all three time periods
+  characters:
+  - appearance: Man younger than Jurij, tall and slender with agile build, dark straight hair, dark slanted eyes, distinctive
+      Kyrgyz facial features, mysterious and impenetrable expression
+    clothing: Elegant well-fitted Cheka/Red Army officer uniform, later general's uniform
+    posture: Alert and capable bearing, moves with quiet authority
+    action: Appearing at critical moments, reviewing documents, providing assistance
+  - appearance: Man in his 20s to mid-30s, tall with slender build, dark hair that becomes disheveled over time, upturned
+      nose, unremarkable face with intelligent features expressing melancholy and contemplation
+    clothing: '1902-1917: well-tailored suits, student uniform, elegant coats. 1917-1922: military medical uniform, later
+      worn civilian clothes, heavy winter coat or sheepskin jacket'
+    posture: Reflective stance, often lost in thought, restrained gestures, contemplative expression
+    action: Writing poetry in notebook, treating patients, reading, gazing thoughtfully into distance
+  scene:
+    mainElements: Three transparent figures fishing from same weathered wooden pier showing generational continuity despite
+      historical upheaval
+    details: 'Triple exposure: 1900 shows elderly grandfather in traditional Russian peasant clothing teaching young boy to
+      fish, using simple wooden rod and line, bucket for catch, peaceful pre-revolutionary atmosphere. 1920 reveals adult
+      Jurij fishing alone in worn clothes during civil war period, same pier showing war damage and repair, military activity
+      visible on distant shore. 1945 displays middle-aged Yevgraf teaching young girl (Tania) to fish, both in modest Soviet-era
+      clothing, pier rebuilt again, evidence of wartime reconstruction. Same fishing techniques, same patient waiting, same
+      river flowing beneath, no text or letters visible'
+    background: River landscape remains constant while showing different levels of industrial and military development
+    atmosphere: Timeless human ritual connecting generations through shared activity, natural rhythms continuing beyond political
+      time
+  composition:
+    cameraAngle: Side view of pier showing all three generations in profile
+    focus: Fishing lines as connecting elements between past, present, and future
+    depth: 'Foreground: pier and fishing equipment; middle ground: figures in temporal layers; background: flowing river and
+      changing shoreline'
+visualElements:
+  colorPalette:
+    primary:
+    - banner red
+    - sunny yellow
+    - sky blue
+    - white
+    secondary:
+    - earth colors (browns, greens)
+    - skin tones
+    - machinery grays
+    background: factories, fields, construction sites, bright sky
+    usageNotes: Palette is bright, optimistic and full of sunshine. Red is key symbolic color.
+    saturation: high, vivid
+    contrast: medium to high, but without dark, dramatic shadows
+  lineArt:
+    style: strong, academic drawing, clear contours
+    weight: confident, decisive
+    color: integrated with form
+    texture: smooth, clean
+    edgeTreatment: clear, sculptural edges
+  lighting:
+    type: bright, sunny, optimistic light
+    direction: usually from above, illuminating scene evenly
+    intensity: high, almost shadowless
+    shadows:
+      style: minimized, soft
+      color: natural, never black
+      opacity: light
+    highlights: bright, emphasizing health and strength of figures
+  rendering:
+    technique: academic oil painting, smooth, without visible brushstrokes
+    texture: realistic but idealized textures (e.g., clean work clothes)
+    detailLevel: high, with attention to machinery and portrait details
+    finish: smooth, polished
+  perspective: classical, monumental, often from low viewpoint to elevate figures
+  mood:
+    overall: heroic, optimistic, propagandistic
+    emotion: pride, work enthusiasm, faith in future, strength
+    tempo: dynamic, march-like
+    keywords:
+    - propagandistic
+    - heroic
+    - optimistic
+    - monumental
+    - ideological
+  stylePrecedents:
+  - Aleksandr Deyneka
+  - Isaak Brodsky
+  - Vera Mukhina (sculpture)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

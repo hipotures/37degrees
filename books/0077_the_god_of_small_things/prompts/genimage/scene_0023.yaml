@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1969 December, during local temple festival celebration
+    location: Temple courtyard in nearby village during evening festival with crowds and celebrations
+    weather: Warm evening air filled with dust and festival energy
+  characters:
+  - appearance: Seven-year-old Indian girl with chuda, energetic frame, thin arms, dark complexion typical of Kerala Syrian
+      Christians, observant dark eyes that take in everything, fountain hairstyle called Love-in-Tokyo
+    clothing: Stiff lace dress described as airport fairy outfit with terrible taste, red plastic sunglasses with yellow frames,
+      simple cotton dresses and skirts typical of 1960s Indian children
+    position: Standing in crowd holding tight to adult's hand
+    action: Eyes wide with sensory overload, mouth slightly open, overwhelmed by festival intensity
+  - appearance: Seven-year-old Indian boy with serious demeanor, smooth slender muscular arms for his age, dark complexion,
+      hair styled like Elvis Presley in spiky arrangement, honest facial expression, V-shaped tan mark on his neck
+    clothing: Simple boy's clothes of 1960s Kerala - cotton shirts, short pants, sometimes going shirtless in warm weather
+    position: Pressed close to Rahel in crowd
+    action: Covering ears against drum noise while breathing in festival smoke and incense
+  scene:
+    mainElements: Colored powder thrown in air creating visible clouds of red, yellow, and orange, drum rhythms vibrating
+      ground and air, food vendors with steam rising from cooking, incense smoke mixing with dust and celebration
+    details: Festival powder creating rainbow dust clouds that coat everything and everyone, drum vibrations so strong they're
+      visible in dust movement and water ripples, cooking smoke and incense creating layered aromatic atmosphere, crowd movement
+      generating heat and energy, bright festival lights creating visual chaos
+    background: Temple with decorated entrances, festival decorations, crowds of celebrants, vendors with colorful displays
+    atmosphere: Complete sensory overload combining sight, sound, smell, taste, and touch in overwhelming festival celebration
+  composition:
+    cameraAngle: View through festival chaos showing children experiencing sensory bombardment
+    focus: Multiple sensory elements - colored powder, drum vibrations, smoke, crowds - creating overwhelming experience
+    depth: Foreground captures colored powder and smoke, middle ground shows overwhelmed children, background features chaotic
+      festival scene, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

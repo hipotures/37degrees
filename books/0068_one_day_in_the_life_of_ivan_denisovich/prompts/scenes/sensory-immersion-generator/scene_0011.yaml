@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Morning Soup Steam - Sustenance Aroma Through Visual Vapor"
+  setting:
+    time: "January 1951, 6:30 AM, breakfast serving"
+    location: "Prison camp dining hall building in Soviet labor camp, January 1951"
+    weather: "Interior warmth from cooking creating steam contrast with cold"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Seated at rough table holding aluminum bowl close to face"
+      action: "Breathing deeply over steaming soup, extracting maximum sensory benefit from meager meal"
+  scene:
+    mainElements: "Single large room filled with dense steam rising from soup kettles like Turkish bath, two rows of long crude tables made from unfinished planks on wooden sawhorses, no chairs or benches, steep icy steps leading to entrance"
+    details: "Watery soup with leaves of spoiled black cabbage, small unpeeled fish floating in broth creating distinct aromatic signature. Steam rising from hot liquid in graceful curling patterns, vapor carrying food particles and aromatic molecules made visible. Prisoner's face positioned to capture maximum steam inhalation, nostrils slightly flared showing conscious aroma absorption. Heat distortion around soup bowl showing temperature differential, condensation forming on faces from steam exposure. Multiple prisoners engaged in similar ritual showing universal appreciation for rare warm nourishment, no text or letters visible"
+    background: "Chaotic and loud with shouting and cursing, dense steam mixed with freezing air creating swirling clouds, floor sticky and slippery from spilled soup and mud from boots, dim lighting dispersed through omnipresent vapor"
+    atmosphere: "Precious aromatic experience in sensory-deprived environment, steam as vehicle for essential nourishment information, olfactory appreciation elevated to survival ritual"
+  composition:
+    cameraAngle: "Close-up focusing on steam interaction with face and breathing"
+    focus: "Steam patterns and condensation showing aromatic absorption process"
+    depth: "Foreground: detailed steam and vapor effects, middle: concentrated eating ritual, background: institutional cooking environment"

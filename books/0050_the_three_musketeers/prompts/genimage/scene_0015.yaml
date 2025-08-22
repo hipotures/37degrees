@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: May 1625, late night with single candle creating dramatic shadows
+    location: Private chamber where aristocratic musketeer faces his darkest memories
+    weather: Indoor scene with flickering candlelight and deep shadows
+  characters:
+  - appearance: Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked
+      by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture
+    clothing: Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation,
+      always immaculately groomed and formal
+    position: Profile and reflection both visible, one showing present reality, other revealing inner truth
+    action: Staring at his own reflection with profound sadness, confronting memories of lost love and moral compromise
+  scene:
+    mainElements: Mirror reflection showing Athos seeing himself as others might, candle flame creating dancing shadows, aristocratic
+      features marked by tragedy and loss
+    details: Polished metal or glass mirror reflecting aristocratic features, single candle providing dramatic lighting, noble
+      clothing showing status, signet ring visible as symbol of lost heritage, shadows playing across face suggesting psychological
+      torment
+    background: Simple chamber furnishings suggesting modest military quarters, stone walls and minimal decoration, wine bottle
+      and cup indicating his method of forgetting
+    atmosphere: Profound melancholy and self-examination, weight of guilty past and lost innocence, aristocratic dignity masking
+      deep emotional wounds
+  composition:
+    cameraAngle: Mirror/reflection POV showing character seeing himself as others might, multiple angles revealing psychological
+      complexity
+    focus: Sharp focus on both direct view and reflection showing different aspects of character, candlelight creating dramatic
+      chiaroscuro effects
+    depth: 'Foreground: mirror surface and reflection, middle ground: Athos confronting his image, background: sparse chamber
+      suggesting monastic existence, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

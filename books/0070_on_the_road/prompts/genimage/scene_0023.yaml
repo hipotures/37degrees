@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1950 afternoon
+    location: Mexican town square during fiesta with cobblestone streets, colonial buildings, and festival decorations
+    weather: hot sunny afternoon with dust in air
+  characters:
+  - appearance: 25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled,
+      dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression
+    clothing: khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or
+      leather jacket, functional but reflecting intellectual Eastern background
+    position: in center of festival crowd
+    action: being covered with colored powder while festival drums vibrate ground beneath feet
+  - appearance: 21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns,
+      bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile
+    clothing: white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just
+      shorts or shirtless revealing his physical nature
+    position: nearby in crowd dancing
+    action: throwing colored powder while moving to drum rhythms
+  scene:
+    mainElements: clouds of red, yellow, and blue powder filling air and coating everything, large drums creating visible
+      vibrations through ground and powder clouds, food vendor steam mixing with powder creating rainbow-colored mist, overwhelming
+      sensory bombardment from all directions
+    details: Colored powder suspended in air like living paint clouds, drum beats so powerful they shake powder off surfaces
+      and create visible sound waves, powder coating skin, clothing, and hair in brilliant colors, festival food aromas -
+      roasted corn, spiced meat, sugar - mixing with powder dust, drums resonating through chest cavity and ground, hands
+      clapping in rhythm leaving colored handprints, festival dancers moving in powder-obscured celebration
+    background: colonial Mexican town square with stone buildings, festival banners and decorations, crowds of celebrants,
+      vendors selling food and drinks, church bells visible in distance
+    atmosphere: overwhelming sensory celebration with sound, sight, smell, taste, and touch all engaged simultaneously, joyous
+      chaos of community festival, heat intensifying all aromas and sensations
+  composition:
+    cameraAngle: medium shot from within crowd showing powder clouds and movement
+    focus: overwhelming multi-sensory festival experience combining visual color, rhythmic sound, aromatic food, and tactile
+      powder
+    depth: colored powder clouds in immediate foreground, dancing figures in middle ground, festival square extending to background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

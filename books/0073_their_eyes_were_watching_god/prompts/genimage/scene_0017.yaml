@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: General store and post office in Eatonville - central community building serving as town hub
+    weather: Bright cheerful afternoon
+  characters:
+  - appearance: African-American woman in her 20s-40s (age varies by scene), medium height, graceful build, expressive eyes,
+      natural hair worn in various styles from covered to loose
+    clothing: Period-appropriate 1920s-1930s rural Southern attire - simple cotton dresses, work aprons, Sunday best dresses
+      for special occasions, head wraps or scarves
+    position: Behind counter but leaning forward with interest
+    action: Smiling genuinely for first time, hands reaching toward conversation partner
+  - appearance: African-American man in his 20s, athletic build, charming smile, expressive hands, confident demeanor
+    clothing: Working man's clothes of 1920s-1930s - denim overalls, cotton shirts, suspenders, work boots, occasional hat
+    position: Relaxed and confident stance, often with arms open or gesturing, natural ease in movement
+    action: Engaging in animated conversation with open gestures and natural charm
+  scene:
+    mainElements: Wooden shelves with goods, post office counter, benches and chairs for lounging, checkerboard. Two people
+      connecting across social boundaries
+    details: Bright afternoon light streaming through windows, woman's first genuine smile in years, man's easy confident
+      posture, checker game between them on counter, natural chemistry evident, no text or letters visible
+    background: Social center where men gather to talk and play games, seat of town politics and gossip
+    atmosphere: Joy and genuine connection, first taste of authentic relationship, natural chemistry and mutual respect, hope
+      for different kind of love than previous marriages
+  composition:
+    cameraAngle: Medium shot showing both figures in animated conversation
+    focus: Two people discovering genuine connection across counter
+    depth: 'Foreground: checker game, middle: connecting figures, background: cheerful store interior'
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, dawn
+    location: Entrance checkpoint to agricultural work area in California Central Valley
+    weather: Early morning mist creating atmospheric tension
+  characters:
+  - appearance: Uniformed security guards with badges and authority symbols, standing rigidly at attention with stern expressions.
+    clothing: Dark uniforms with official badges, leather belts with equipment, polished boots, peaked caps casting shadows
+      over eyes
+    position: Standing at strategic observation points, positioned to control access and movement
+    action: Scanning crowds with suspicious eyes, checking identification papers, maintaining intimidating presence
+  scene:
+    mainElements: Checkpoint barriers controlling access to work areas, official identification stations, armed guards positioned
+      at intervals along perimeter
+    details: Security infrastructure designed to control population movement. Metal barriers funnel workers through narrow
+      checkpoints. Guards examine identification papers with suspicious scrutiny. Official stamps and permits required for
+      access. Warning signs list restrictions and penalties. Radio communication between guard posts
+    background: Vast agricultural fields visible beyond checkpoint barriers, representing promised work that requires submission
+      to authority
+    atmosphere: Intimidating atmosphere of control and suspicion, sounds of radio static and official commands, tension of
+      restricted freedom
+  composition:
+    cameraAngle: Eye level from worker perspective approaching checkpoint
+    focus: Authority figures controlling access to basic needs like employment
+    depth: Guards in foreground block access to agricultural opportunity visible in background, showing power to grant or
+      deny survival
+visualElements:
+  colorPalette:
+    primary:
+    - industrial grays
+    - brick reds
+    - deep blues
+    - black
+    secondary:
+    - muted ochre
+    - off-white
+    - metallic silver
+    background: clear or stylized sky, abstract geometric planes
+    usageNotes: A sober, industrial palette with strong tonal contrasts.
+    saturation: low to medium
+    contrast: high, emphasizing geometric forms
+  lineArt:
+    style: sharp, clean, and precise lines that define geometric planes
+    weight: thin to medium, very controlled
+    color: often dark outlines or defined by sharp color edges
+    texture: perfectly smooth
+    edgeTreatment: hard, crisp edges
+  lighting:
+    type: clear, sharp, almost crystalline light
+    direction: strong directional light that creates sharp geometric shadows
+    intensity: high
+    shadows:
+      style: sharply defined geometric shapes
+      color: dark, solid colors
+      opacity: solid
+    highlights: clean, sharp highlights on architectural edges
+  rendering:
+    technique: smooth oil painting with invisible brushstrokes, inspired by photography
+    texture: smooth, untextured surfaces of metal and concrete
+    detailLevel: moderate, simplified to its geometric essence
+    finish: smooth, clean, almost mechanical
+  perspective: often uses dramatic angles and multiple viewpoints to emphasize geometry
+  mood:
+    overall: monumental, orderly, modern
+    emotion: awe of industry, admiration for structure and function, a sense of American power
+    tempo: static, monumental
+    keywords:
+    - industrial
+    - geometric
+    - monumental
+    - clean
+    - modern
+  stylePrecedents:
+  - Charles Demuth
+  - Charles Sheeler
+  - Georgia O'Keeffe (cityscapes)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

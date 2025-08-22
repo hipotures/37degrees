@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1700s through 1970s showing ballroom across three centuries
+    location: Historic Dresden ballroom showing architectural and social evolution
+    weather: Interior lighting evolution from candles to gas to electric illumination
+  characters:
+  - appearance: Multiple generations of dancers from different historical periods appearing as translucent overlays
+    clothing: 18th century formal court dress, 19th century waltzing attire, 1920s party fashion, 1940s wartime formal wear,
+      1960s modern evening dress
+    position: Dancers from different eras occupying same ballroom space simultaneously in ghostly temporal layers
+    action: Dancing across centuries in same space, social customs evolving, music and movement styles changing, no text or
+      letters visible
+  scene:
+    mainElements: Grand ballroom showing architectural evolution from baroque splendor to war damage to modern reconstruction,
+      crystal chandeliers surviving bombardment and restoration
+    details: Dance floor showing wear patterns from centuries of use, wall decorations changing with historical periods, musical
+      instruments evolving from harpsichord to orchestra to modern sound systems, lighting progressing through technological
+      eras
+    background: Windows showing Dresden skyline changes across centuries, view changing from royal city to industrial center
+      to war destruction to modern rebuilding
+    atmosphere: Eternal human celebration transcending historical trauma, music and dance as cultural continuity through war
+      and peace, social joy persisting across political upheavals
+  composition:
+    cameraAngle: Wide ballroom shot showing full dance floor with temporal overlay effects
+    focus: Multiple dancing couples from different eras sharing same space in translucent layers
+    depth: Foreground shows detailed period costume and dance styles, middle ground shows architectural changes, background
+      shows Dresden historical transformation
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

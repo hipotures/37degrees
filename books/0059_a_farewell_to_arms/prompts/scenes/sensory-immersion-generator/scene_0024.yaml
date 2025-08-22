@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hospital birthing room with medical percussion and urgent aromas"
+  setting:
+    time: "1918 winter night"
+    location: "Modern Swiss medical facility in Lausanne, efficient sterile hospital environment"
+    weather: "Cold winter storm outside clinical walls"
+  characters:
+    - appearance: "American lieutenant in mid-twenties, clean-shaven in early scenes then later with beard, outsider bearing"
+      clothing: "Ciepłe ubrania cywilne (zimowe)"
+      position: "Pacing hospital corridor outside delivery room"
+      action: "Listening to medical activity while anxiety builds"
+    - appearance: "Tall beautiful English nurse with abundant tawny golden-brown hair that shines in sunlight, graceful figure"
+      clothing: "Ciepłe ubrania cywilne, odzież ciążowa"
+      position: "In delivery room beyond closed doors"
+      action: "Fighting through difficult labor with medical assistance"
+  scene:
+    mainElements: "Clean white sterile rooms with modern medical equipment, professional clinical atmosphere, orderly Swiss medical efficiency"
+    details: "Medical instruments creating metallic percussion sounds suggested by steel tool arrangements and rapid movements, antiseptic chemical odors visualized through sharp clean light and white surface reflections, urgent medical activity creating rhythmic vibrations felt through floor and walls, sterilization steam rising from equipment suggesting medicinal aromatics, surgical lights creating harsh bright zones contrasting with corridor shadows, medical urgency suggested through rapid footstep patterns and door opening frequency, clinical efficiency shown through precise equipment positioning and sterile white surfaces, biological reality creating underlying tension beneath medical professionalism, no text or letters visible"
+    background: "Swiss hospital corridors with professional medical staff managing childbirth emergency"
+    atmosphere: "Impersonal medical environment where biological tragedy unfolds, contrast between clinical efficiency and human suffering, neutral Swiss sterility unable to prevent natural cruelty"
+  composition:
+    cameraAngle: "Corridor view capturing medical urgency and sterile clinical environment"
+    focus: "Multiple sensory indicators of medical emergency and biological process"
+    depth: "Foreground shows corridor anxiety, middle ground suggests delivery room activity, background reveals hospital clinical efficiency"

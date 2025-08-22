@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1925, early morning
+    location: Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural
+      fields
+    weather: Gray dawn with mist
+  characters: No characters present in this scene
+  scene:
+    mainElements: Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters,
+      kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Room showing signs of disturbance
+    details: Overturned chair, scattered papers on floor, broken dish fragments, coffee spilled and staining wood. Silence
+      heavy with unspoken trauma, morning light revealing damage to both room and spirit
+    background: Empty doorways suggesting recent departure, dust motes floating in shafts of pale sunlight, sense of abandonment
+      and aftermath
+    atmosphere: Violence without showing act itself, consequences speaking louder than actions, empty room as witness to unwritten
+      story
+  composition:
+    cameraAngle: Static shot emphasizing stillness and aftermath
+    focus: Physical evidence of conflict without depicting violence directly
+    depth: 'Foreground: scattered debris, middle: overturned furniture, background: empty doorways'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

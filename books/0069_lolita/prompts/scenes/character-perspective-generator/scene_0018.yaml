@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "School Play Rehearsal - Performance Mask"
+  setting:
+    time: "1948, afternoon"
+    location: "School auditorium stage in Beardsley preparatory school"
+    weather: "Afternoon light through auditorium windows"
+  characters:
+    - appearance: "Drama teacher, middle-aged woman, enthusiastic about theater"
+      clothing: "Artistic clothing appropriate for theater instruction"
+      position: "Directing rehearsal from auditorium seating"
+      action: "Giving stage directions, encouraging student performances, unaware of student's real situation"
+    - appearance: "Other student actors, teenagers in costume"
+      clothing: "Theater costumes for school play production"
+      position: "On stage in performance positions"
+      action: "Rehearsing lines, performing scenes, engaging in normal extracurricular activities"
+  scene:
+    mainElements: "School auditorium stage with theatrical lighting, costumes, props, students rehearsing play about enchanted forest theme"
+    details: "Stage decorated for forest setting, students in theatrical costumes, drama teacher directing rehearsal, normal school theater production"
+    background: "School auditorium with seating, stage lighting, theatrical atmosphere, educational extracurricular environment"
+    atmosphere: "Creative expression through theater, normal teenage artistic activities, ironic performance of innocence while hiding trauma"
+  composition:
+    cameraAngle: "Stage level view of rehearsal activities, watching performance from participant perspective"
+    focus: "Students performing on stage, drama teacher directing, theatrical environment"
+    depth: "Foreground shows stage performance area, middle ground shows other student actors, background shows auditorium and directing teacher"

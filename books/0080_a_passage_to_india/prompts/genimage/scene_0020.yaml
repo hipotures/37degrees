@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, late night with mist rising from Ganges creating atmospheric effects
+    location: Street area near river where mist encounters artificial lighting sources
+    weather: Cool night air with mist rising from river, creating ethereal lighting effects around lamps
+  characters: No characters present in this scene
+  scene:
+    mainElements: Street lamps and building lights surrounded by swirling mist from nearby Ganges, creating magical atmospheric
+      effects
+    details: Mist swirling around lamp posts creating glowing halos, fog diffusing electric and oil light into soft atmospheric
+      glow, water droplets reflecting light sources, mysterious shapes emerging and disappearing in shifting mist, lamp flames
+      flickering in moisture-laden air, spider webs outlined with dew drops catching light, pavement glistening with condensation
+    background: Direction of Ganges barely visible through mist, distant lights becoming dreamlike through fog
+    atmosphere: Mystical night scene with mist transforming ordinary lighting into magical environment, sense of sacred river's
+      presence affecting urban space
+  composition:
+    cameraAngle: Street level view showing mist interaction with artificial lighting sources
+    focus: Atmospheric effects of mist around lights creating halos and diffused illumination
+    depth: Foreground shows detailed mist and light interaction, middle ground captures street scene, background hints at
+      river source through fog
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

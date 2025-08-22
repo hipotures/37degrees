@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Moment before resolution with storm at worst darkness"
+  setting:
+    time: "1930s, late evening approaching night"
+    location: "Ranch yard during gathering of vengeful mob"
+    weather: "Storm clouds overhead blocking moon and stars, oppressive darkness"
+  characters:
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Standing on precipice of terrible decision, isolated from advancing mob"
+      action: "Hand hidden behind back holding fateful object, face mask of grim determination hiding inner agony, body rigid with resolve"
+    - appearance: "Young man early 20s, short stature, thin build, brown face and brown eyes, tightly curled brown hair, aggressive boxer stance"
+      clothing: "High-heeled boots to add height, work clothes but cleaner than laborers, vaseline-filled glove on left hand"
+      position: "Leading mob with torch held high, silhouetted against flame"
+      action: "Pointing direction of pursuit with free hand, face lit from below by torch showing demonic determination, movements sharp and predatory"
+    - appearance: "Powerful thick-bodied man, heavy-set build"
+      clothing: "Standard ranch worker denim and boots"
+      position: "Following with shotgun visible in hands"
+      action: "Weapon held ready for violence, face hard with mob mentality, moving with pack hunting instinct"
+  scene:
+    mainElements: "Ranch yard transformed into staging area for hunt, torches and lanterns creating dramatic pools of light against overwhelming darkness"
+    details: "Shadows dancing wildly from moving flames, peaceful ranch buildings now seeming sinister in flickering light, civilized order completely abandoned"
+    background: "Dark storm clouds pressing down like judgment, no stars or moon visible, sense of approaching climax and reckoning"
+    atmosphere: "Maximum emotional tension with held breath feeling, characters on precipice between choices, storm at its worst before potential dawn"
+  composition:
+    cameraAngle: "High angle shot showing figures small against overwhelming darkness"
+    focus: "The moment of suspension before irreversible action"
+    depth: "Foreground shows torch-lit mob energy, middle ground captures isolated decision-maker, background emphasizes cosmic darkness and judgment"

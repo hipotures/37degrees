@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1873 showing accelerated aging process compressed into single temporal frame
+    location: House 124 interior showing supernatural growth and consumption of life force
+    weather: Interior atmosphere growing heavier and more oppressive as supernatural presence increases
+  characters:
+  - appearance: Young African American woman appearing age 19-20, slender build moving with unnatural heaviness as if head
+      too heavy for neck, mass of black hair like dark thread, smooth new skin without lines even on knuckles, three thin
+      vertical scratches on forehead, delicate scar under chin
+    clothing: High-quality dress with lace at neck and rich woman's hat, all completely soaked as if emerging from water
+    position: Sitting or standing unsteadily, supporting herself on furniture with childlike uncertainty
+    action: Moving with infant-like unsteadiness yet possessing supernatural strength, drinking water eagerly, breathing with
+      milk-scented breath
+  - appearance: African American woman, age 36, strong and wytrzymała physique showing resilience from survival, dark hair
+      framing a masklike face that remains deliberately inexpressive, iron-colored eyes matching her skin tone that appear
+      as holes punched in a mask, weathered hands showing years of hard labor
+    clothing: Simple brown work dress made of rough cotton for daily wear, heavy wool dress of good quality for special occasions
+    position: Standing with quiet dignity and controlled posture, maintaining emotional distance through rigid body language
+    action: Moving with purpose while carrying the weight of unspoken trauma, hands often busy with domestic tasks as protective
+      distraction
+  scene:
+    mainElements: Beloved showing rapid transformation from uncertain young woman to pregnant supernatural force while Sethe
+      simultaneously shrinks and weakens, parasitic relationship made visible through contrasting physical changes
+    details: Beloved's body expanding and strengthening while maintaining childlike facial expressions, pregnancy developing
+      at unnatural speed, skin glowing with absorbed life force, hair growing longer and more lustrous, contrasted with Sethe
+      becoming smaller, frailer, more transparent, both changes happening simultaneously in compressed time frame
+    background: House 124 interior growing darker and more oppressive as supernatural consumption intensifies
+    atmosphere: Supernatural parasitism accelerating natural life processes, time distortion around unhealthy consumption,
+      aging and growth happening at unnatural speeds, no text or letters visible
+  composition:
+    cameraAngle: Medium shot allowing both figures and their contrasting transformations to be visible
+    focus: Contrasting physical changes showing supernatural consumption effect
+    depth: Foreground shows detailed physical transformations, middle ground emphasizes relationship dynamics, background
+      reveals house responding to supernatural presence
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

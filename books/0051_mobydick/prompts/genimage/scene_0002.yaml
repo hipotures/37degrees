@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1840s November evening, lamplight
+    location: Gable-ended wooden inn building in New Bedford's port district, sailors' lodging house
+    weather: Indoor scene, cold night outside
+  characters:
+  - appearance: Young man in early twenties, average height and build suitable for ship work, practical appearance of experienced
+      mariner
+    clothing: Worn canvas trousers, rough wool flannel shirt, weather-beaten 'shaggy jacket' of heavy cloth, simple leather
+      boots
+    position: Standing observantly at ship's rail or working with hands on rigging and ropes
+    action: Watching horizon with contemplative expression, hands steady from sea experience, posture of thoughtful observer
+  scene:
+    mainElements: Antique hand mirror lies on rough wooden table, its silvered surface cracked into seven distinct fragments,
+      each piece reflecting different angles of candlelight
+    details: The mirror's ornate handle is carved with whale motifs, now worn smooth by countless hands. Each crack creates
+      a separate reflection - some showing the flickering candle flame, others revealing glimpses of the inn's dark timber
+      walls, still others reflecting only shadow. Broken pieces remain in their original frame but no longer form a complete
+      image. The largest fragment shows a distorted view that seems to bend reality itself, no text or letters visible
+    background: Arched whalebone jaw forming tavern entrance, dark narrow corridors carved from old central chimney, low-beamed
+      ceiling like ship's hold
+    atmosphere: The shattered mirror suggests fractured identity and multiple perspectives on truth, each fragment revealing
+      a different aspect of reality while the whole remains forever incomplete
+  composition:
+    cameraAngle: Close-up angled view showing mirror's fractured surface
+    focus: Seven cracked segments each reflecting different light sources
+    depth: Mirror fragments in sharp foreground, candle flame in middle distance, dark inn walls fading into background shadows
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

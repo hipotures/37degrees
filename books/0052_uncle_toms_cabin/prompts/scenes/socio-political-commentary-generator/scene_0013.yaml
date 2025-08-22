@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Uniform Identity - The Mass of Sameness"
+  setting:
+    time: "1851, morning"
+    location: "Plantation gathering area where enslaved people are assembled in identical clothing"
+    weather: "Overcast morning creating flat uniform lighting"
+  characters:
+    - appearance: "Large group of enslaved people arranged in formation, individual features obscured by distance and identical presentation"
+      clothing: "Identical rough work clothes issued by plantation, same fabric and cut for all, removing individual expression through dress"
+      position: "Standing in organized rows facing plantation authority"
+      action: "Maintaining required posture and position, suppressing individual movement or expression"
+  scene:
+    mainElements: "Mass of identically dressed people arranged in geometric patterns, authority figure addressing the group, plantation architecture asserting dominance"
+    details: "Numbered or marked clothing identifying individuals only by economic function, standardized work tools distributed uniformly, regulation haircuts or grooming requirements, personal items forbidden or confiscated"
+    background: "Plantation buildings designed to reinforce hierarchy, fields where uniform labor will be performed, living quarters offering minimal individual space"
+    atmosphere: "Systematic erasure of individual identity through enforced uniformity, silence required except for responses to authority, human beings reduced to interchangeable economic units"
+  composition:
+    cameraAngle: "Wide shot emphasizing the mass formation and loss of individuality"
+    focus: "The uniform appearance as symbol of systematic destruction of personal identity"
+    depth: "Foreground shows individual details becoming lost in mass, middle ground reveals the organized formation, background emphasizes the institutional control creating uniformity"

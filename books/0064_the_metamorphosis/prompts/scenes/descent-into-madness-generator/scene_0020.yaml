@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Moment of Clarity - The Lucid Horror"
+  setting:
+    time: "Early autumn dawn 1912, around 6:00 AM"
+    location: "Central room of Prague apartment serving as dining and gathering space, heart of family life"
+    weather: "First light of dawn breaking through windows, harsh and revealing"
+  characters:
+    - appearance: "Massive insect-like creature, brown segmented carapace, numerous thin legs that move helplessly, size approximately three feet long"
+      clothing: "No clothing - naked insect body with hard brown shell and soft pale belly divided into segments"
+      posture: "Usually lying on rounded back, unable to right himself easily, or pressed against walls when moving"
+      action: "Struggling with uncoordinated movements, legs waving helplessly in air, occasionally managing to crawl along walls"
+  scene:
+    mainElements: "All hallucinations, distortions, and supernatural elements suddenly vanish, leaving stark, unvarnished reality"
+    details: "Dawn light cuts through the room like a blade, banishing all phantoms and temporal distortions. The room returns to its normal proportions and appearance. Colors return to normal saturation. The walls stop moving. The shadow-Gregor dissolves. Memory-figures fade. Gregor sees himself clearly for the first time - a massive, helpless insect with thin legs and brown carapace, trapped in an ordinary room. The brutal clarity of his situation hits with full force: he is a monster, his family will never accept him, and he is completely alone."
+    background: "Heavy wooden dining table with chairs, sideboard, father's armchair, gas lamp later replaced by electric light"
+    atmosphere: "Devastating clarity after madness, reality more horrible than any hallucination, lucid awareness of hopeless situation"
+  composition:
+    cameraAngle: "Stark, documentary-style shot with harsh natural lighting"
+    focus: "Gregor's insect form in brutal, unforgiving daylight"
+    depth: "Foreground: Gregor in pitiless clarity, middle: ordinary family furniture, background: normal room without supernatural elements"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1924, late night
+    location: Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp
+    weather: Cool night air with autumn chill penetrating windows
+  characters:
+  - appearance: American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly
+      combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely
+      betrays emotion
+    clothing: White cotton nightshirt, bare feet on cool wooden floor
+    position: Lying beneath thick wool blanket on simple bed
+    action: Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail
+  scene:
+    mainElements: Thick wool military blanket pressing down with comforting weight, soft mattress yielding to body shape,
+      feather pillow conforming to head's contours
+    details: Wool's scratchy texture against skin softened by underlying cotton sheet, blanket's weight creating cocoon of
+      pressure and warmth, mattress springs responding to every movement with gentle give, pillow's feathers redistributing
+      with soft rustling, sensation of being held by accumulated layers, body heat trapped creating personal microclimate,
+      no text or letters visible
+    background: Solitary refuge with warm yellow lamplight creating deep shadows, sense of masculine simplicity and emotional
+      restraint, refuge from social complexities outside
+    atmosphere: Physical comfort contrasting with emotional isolation - body embraced by textile layers while spirit remains
+      alone, weight and warmth providing temporary refuge from internal conflicts
+  composition:
+    cameraAngle: Overhead view emphasizing compression and layers
+    focus: Weight and texture of covering materials
+    depth: 'Foreground: detailed fabric interaction with body, midground: bed within room context, background: shadowy apartment
+      corners'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

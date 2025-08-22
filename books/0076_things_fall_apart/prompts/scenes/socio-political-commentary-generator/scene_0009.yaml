@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Inequality Between Colonial Elite and Local Outcasts"
+  setting:
+    time: "Late 1890s, midday showing extreme social contrast"
+    location: "Border area between traditional village and new colonial administrative center"
+    weather: "Harsh tropical sun highlighting dramatic disparities in living conditions"
+  characters:
+    - appearance: "British colonial official whose face reddens with anger, arrogant and condescending expression"
+      clothing: "White or khaki tropical colonial uniform with pith helmet, formal European dress"
+      position: "Standing in well-appointed colonial residence overlooking indigenous settlements"
+      action: "Surveying territory under administrative control with dismissive superiority toward local population"
+  scene:
+    mainElements: "Stark contrast between well-constructed European administrative buildings and traditional indigenous compounds showing dramatic inequality of resources and status"
+    details: "Basic red clay and thatch structure with wooden cross, benches for converts representing minimal investment in local welfare compared to elaborate colonial infrastructure. Forbidden sacred grove outside Umuofia village considered dwelling place of evil spirits and outcasts where marginalized people now gather"
+    background: "Traditional Igbo village confederation in southeastern Nigeria, late 19th century, comprising scattered family compounds connected by dirt paths now overshadowed by colonial authority"
+    atmosphere: "Sharp inequality between colonial privilege and indigenous marginalization demonstrating exploitative nature of new power structure"
+  composition:
+    cameraAngle: "High angle shot emphasizing colonial elevation over indigenous level"
+    focus: "Dramatic contrast between colonial luxury and traditional simplicity"
+    depth: "Colonial buildings in foreground, administrative boundary in middle ground, indigenous settlements in background"

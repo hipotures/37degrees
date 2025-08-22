@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Coffee Grounds Scattered"
+  setting:
+    time: "1948 early morning"
+    location: "train car-shaped building made of gleaming stainless steel with rounded corners, large panoramic windows and characteristic neon signs that hiss and flicker in the night"
+    weather: "cool pre-dawn darkness with first light appearing"
+  characters:
+    - appearance: "Middle-aged diner cook with tired expression, stubbled face"
+      clothing: "stained white cook's uniform and apron"
+      position: "behind counter preparing coffee"
+      action: "dumping used coffee grounds from metal filter while fresh grounds scatter across counter surface"
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "seated at counter watching coffee preparation"
+      action: "observing coffee grounds with slight grimace suggesting anticipation of bitter taste"
+  scene:
+    mainElements: "dark coffee grounds scattered across white counter surface, grounds clinging to metal coffee filter, used grounds showing compressed texture from brewing process, fresh dry grounds contrasting with wet used ones"
+    details: "Used coffee grounds forming dense dark cake in metal filter, individual grounds scattered like dark seeds across counter, wet grounds clumping together while dry grounds remain separate, coffee residue staining filter basket dark brown, grounds releasing aromatic oils visible as slight sheen, cook's hands stained brown from handling coffee equipment, steam rising from fresh coffee pot nearby"
+    background: "long counter with row of rotating stools covered in red or blue vinyl, booths with benches opposite, black and white checkered floor, glass containers with cakes on counter, chrome coffee machines and drink dispensers gleaming in background, jukebox in corner"
+    atmosphere: "bright fluorescent lighting, smell of fried bacon, fresh brewed coffee and cigarette smoke, sound of clinking cutlery, truck drivers' conversations and jukebox music, temporary oasis of civilization in wilderness"
+  composition:
+    cameraAngle: "overhead shot looking down at scattered coffee grounds"
+    focus: "coffee grounds as visual representation of strong bitter coffee taste"
+    depth: "scattered grounds on counter in foreground, cook's hands working in middle ground, diner interior extending to background"

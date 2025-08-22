@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: April 1625, bright noon with clear lighting
+    location: Dueling ground near Carmelite monastery showcasing musketeer's imposing stature
+    weather: Clear day with good visibility for displaying martial bearing
+  characters:
+  - appearance: 25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone
+      to boastful smiles, loud extroverted demeanor
+    clothing: Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories
+      displaying wealth even when living beyond means
+    position: Waist-up framing showing imposing physical stature and confident body language, hand positioned near decorated
+      sword belt
+    action: Displaying characteristic bravado through expansive gestures and confident smile, adjusting ornate sword belt
+      with obvious pride in expensive equipment
+  scene:
+    mainElements: Powerful muscular frame emphasized through medium framing, elaborate costume details showing vanity and
+      wealth, confident bearing suggesting combat experience and physical dominance
+    details: Richly embroidered doublet with gold thread catching sunlight, expensive lace collar and cuffs showing attention
+      to fashion, decorated leather sword belt visible as symbol of pride, broad shoulders and muscular build emphasized by
+      tailored clothing
+    background: Immediate environment including glimpses of monastery walls and other musketeers, enough context to show military
+      setting while focusing on individual character
+    atmosphere: Confident martial energy mixed with vanity and showmanship, sense of physical power combined with love of
+      luxury and attention, jovial but dangerous presence
+  composition:
+    cameraAngle: Medium shot from slightly low angle emphasizing impressive height and physical presence while showing elaborate
+      costume details
+    focus: Clear focus on subject and immediate environment showing both character and setting, decorated sword belt prominently
+      featured as symbol of vanity
+    depth: 'Foreground: hands and sword belt showing personal details, middle ground: powerful torso and confident expression,
+      background: dueling ground and monastery setting, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

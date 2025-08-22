@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Complete seasonal cycle compressed into single moment
+    location: Garden space representing various family home courtyards across India
+    weather: All seasonal conditions present simultaneously in different areas
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single flower or small garden bed showing complete life cycle simultaneously. Seed planting, budding, blooming,
+      peak flower, seed production, and decay all visible in same spatial area. Multiple growth stages occupy overlapping
+      positions creating temporal palimpsest of botanical life
+    details: Flower petals display fresh bright colors overlapping with brown wilted edges. Stem shows green growing strength
+      simultaneous with dry brittle decay. Soil reveals seeds, roots, and decomposing matter in same location. Seasonal weather
+      conditions affect different growth stages appropriately
+    background: Garden setting suggests family courtyard spaces across different homes and time periods. Architecture remains
+      neutral allowing natural cycle to dominate symbolic meaning
+    atmosphere: Compressed beauty and tragedy of natural life cycles. Visual metaphor for human life span and family generations
+      experiencing birth, growth, decline, and renewal simultaneously, no text or letters visible
+  composition:
+    cameraAngle: Macro close-up emphasizing flower detail with compressed life stages
+    focus: Single flower as temporal convergence point for all life cycle stages
+    depth: Flower detail in extreme foreground, garden context in middle ground, architectural background provides setting
+      context
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

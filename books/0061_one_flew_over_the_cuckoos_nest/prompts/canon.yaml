@@ -1,0 +1,143 @@
+canon:
+  characters:
+    - id: "randle_mcmurphy"
+      name: "Randle Patrick McMurphy"
+      description_block: |
+        characters:
+          - appearance: "35-year-old man of powerful build, broad shoulders and strong chest. Thick red curly hair with long red sideburns, wide jaw with characteristic devilish grin. Body covered with numerous tattoos and scars, fresh scar across bridge of nose and cheekbone with visible sutures from recent fight"
+            clothing: "Black satin boxer shorts with large white whales pattern with red eyes"
+            position: "Standing confidently with thumbs hooked in belt loops or waistband"
+            action: "Moving with swaggering confidence, gesticulating expressively with loud infectious laughter"
+
+    - id: "chief_bromden"
+      name: "Chief Bromden"
+      description_block: |
+        characters:
+          - appearance: "40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust"
+            clothing: "Standard green hospital patient uniform"
+            position: "Standing hunched, trying to appear smaller and invisible, often holding broom"
+            action: "Sweeping floors methodically while observing silently, maintaining expressionless mask"
+
+    - id: "nurse_ratched"
+      name: "Nurse Ratched (Big Nurse)"
+      description_block: |
+        characters:
+          - appearance: "50-year-old woman with unnaturally perfect doll-like face, smooth calculated features like expensive doll. Skin like flesh-colored enamel, childishly blue eyes, small nose with pink nostrils. Large feminine bust hidden under rigid uniform"
+            clothing: "Immaculate white starched nurse uniform with cap, lips and fingernails painted in disturbing funny orange color like hot soldering iron tip"
+            position: "Standing rigidly erect behind glass partition or moving with mechanical precision"
+            action: "Observing patients with cold calculation, speaking in controlled measured tones, maintaining perfect composure"
+
+    - id: "billy_bibbit"
+      name: "Billy Bibbit"
+      description_block: |
+        characters:
+          - appearance: "31-year-old man with boyish appearance despite mature age. Protruding teeth, freckles, chubby cheeks giving innocent childlike look. Slim build appearing fragile. Scars on wrists from previous attempts"
+            clothing: "Standard patient hospital uniform"
+            position: "Hunched shoulders, sitting or standing timidly in background"
+            action: "Speaking with severe stutter, fidgeting nervously, avoiding eye contact, displaying extreme shyness"
+
+    - id: "dale_harding"
+      name: "Dale Harding"
+      description_block: |
+        characters:
+          - appearance: "40+ year old man described as flat nervous man with handsome movie-like face. Wide but thin shoulders often hunched trying to hide. Delicate feminine build. Most characteristic feature: extraordinarily long white delicate hands like carved from soap"
+            clothing: "Standard patient hospital uniform"
+            position: "Sitting with shoulders curled inward, ashamed of his expressive hand gestures"
+            action: "Speaking intellectually while making elegant hand movements he tries to hide, displaying refined but nervous mannerisms"
+
+    - id: "black_orderlies"
+      name: "Black Orderlies (Warren, Washington, Williams)"
+      description_block: |
+        characters:
+          - appearance: "Young African American men aged 20-40. Williams described as twisted wiry dwarf color of cold asphalt with oversized head. Warren and Washington tall sharp and bony with faces like cold stone masks, drooping eyelids"
+            clothing: "Immaculate white rigid uniforms contrasting with their skin color"
+            position: "Standing at attention or moving in coordinated formation"
+            action: "Performing duties with mechanical precision, maintaining cold expressionless demeanor"
+
+  locations:
+    - id: "day_room"
+      name: "Day Room - Main Ward Area"
+      description_block: |
+        setting:
+          location: "Large open communal room in Oregon state psychiatric hospital ward, early 1960s America. One wall features glass partition of nurses station, windows barred. Sterile institutional space designed for total patient observation"
+        mainElements: "Glass-walled nurses station in center, scattered tables and chairs, large old television with bulging gray screen, barred windows overlooking hospital grounds"
+        atmosphere: "Oppressive surveillance environment with harsh fluorescent lighting eliminating all shadows, monotonous instrumental music from ceiling speakers, constant mechanical humming and buzzing sounds"
+
+    - id: "nurses_station"
+      name: "Nurses Station - Glass Control Center"
+      description_block: |
+        setting:
+          location: "Glass-walled control booth positioned centrally in psychiatric ward to observe all patient activity, Oregon state hospital 1960s. Panopticon-style surveillance post with clear sightlines throughout ward"
+        mainElements: "Steel desk, medicine cabinets, control panel, rotary dial telephone, filing systems, glass walls providing 360-degree visibility of ward activities"
+        atmosphere: "Center of power and control, sterile white lighting, clinical efficiency, sounds muffled by glass barrier creating sense of removed authority"
+
+    - id: "dormitory"
+      name: "Patient Dormitory - Sleeping Ward"
+      description_block: |
+        setting:
+          location: "Long rectangular dormitory room in Oregon psychiatric hospital with rows of identical metal beds, 1960s institutional sleeping quarters. Barred windows allow moonlight entry at night"
+        mainElements: "Rows of identical metal hospital beds with white sheets, small bedside cabinets, overhead fluorescent lights, large barred windows showing exterior grounds"
+        atmosphere: "Vulnerable exposure during sleep hours, cold institutional metal and fabric, night sounds of patients snoring and groaning, moonlight creating long shadows through bars"
+
+    - id: "tub_room"
+      name: "Tub Room - Hydrotherapy Bathroom"
+      description_block: |
+        setting:
+          location: "Humid white-tiled bathroom chamber in Oregon psychiatric hospital used for patient bathing and hydrotherapy treatments, early 1960s. Echo-prone enclosed space with medical equipment"
+        mainElements: "White tile walls and floor, several old bathtubs, exposed pipes, massive concrete-and-steel control panel console for hydrotherapy standing unused like abandoned altar"
+        atmosphere: "Cold dampness, echo of footsteps on tiles, smell of chlorine and staleness, sense of institutional neglect and symbolic challenge"
+
+    - id: "shock_therapy_room"
+      name: "Electroshock Treatment Room"
+      description_block: |
+        setting:
+          location: "Small claustrophobic medical chamber behind unmarked metal doors in Oregon psychiatric hospital, early 1960s. Clinical treatment space designed for electroconvulsive therapy procedures"
+        mainElements: "Cross-shaped treatment table with leather restraints, electroshock apparatus with tangle of cables and electrodes, harsh clinical lighting, monitoring equipment"
+        atmosphere: "Fear and institutional power, smell of ozone and medical antiseptic, harsh white lighting, mechanical humming of electrical equipment"
+
+    - id: "fishing_boat_deck"
+      name: "Ocean Fishing Boat - Freedom Space"
+      description_block: |
+        setting:
+          location: "Wooden deck of old fishing boat on Pacific Ocean waters off Oregon coast, sunny but windy day in early 1960s. Open maritime environment contrasting completely with hospital confinement"
+        mainElements: "Weathered wooden deck, fishing equipment and lines, life preservers, ship wheel, ocean waves in deep emerald green and chrome colors"
+        atmosphere: "Liberation and natural freedom, sound of waves and seagulls, salt sea air smell, wind blowing hair, camaraderie and triumph"
+
+    - id: "columbia_river_landscape"
+      name: "Columbia River Gorge - Bromden's Homeland"
+      description_block: |
+        setting:
+          location: "Columbia River gorge landscape in Oregon with forest hills and river valley, Native American tribal homeland showing natural wilderness before industrial development, timeless natural setting"
+        mainElements: "Columbia River flowing through gorge, waterfalls, massive pine trees, rocky outcroppings, pristine forest wilderness"
+        atmosphere: "Lost paradise and ancestral connection, sounds of forest and flowing water, scent of pine resin and moist earth, sense of primal freedom and cultural loss"
+
+  items:
+    - id: "control_panel"
+      name: "Hydrotherapy Control Panel"
+      description_block: |
+        details: "Massive concrete-and-steel console standing unused in tub room like mechanical altar. Heavy block with rusted levers, gauges, and dials for controlling water temperature and pressure in hydrotherapy treatments. Immovable weight representing institutional power"
+
+    - id: "playing_cards"
+      name: "McMurphy's Playing Cards"
+      description_block: |
+        details: "Standard deck of playing cards with adult images on each card showing different positions. Used for gambling and building community among patients, representing freedom of choice and rebellion against institutional control"
+
+    - id: "cigarettes"
+      name: "Cigarettes - Ward Currency"
+      description_block: |
+        details: "Standard 1960s cigarettes used as currency and control mechanism on psychiatric ward. Distributed by nursing staff as rewards and privileges, representing small freedoms and social interaction among patients"
+
+    - id: "broom"
+      name: "Chief Bromden's Broom"
+      description_block: |
+        details: "Well-worn institutional broom used by Chief Bromden for endless floor sweeping duties. Tool that makes him invisible observer while he maintains facade of deaf-mute patient, representing his marginalized position"
+
+    - id: "wicker_bag"
+      name: "Nurse Ratched's Wicker Bag"
+      description_block: |
+        details: "Large wicker bag resembling toolbox carried by Nurse Ratched. Contains mechanical tools - wheels, gears, cogs, needles, pliers - instead of feminine accessories, representing her mechanical dehumanized nature and control apparatus"
+
+    - id: "fog_machine"
+      name: "Fog Machine (Bromden's Hallucination)"
+      description_block: |
+        details: "Imaginary machine believed by Chief Bromden to pump thick white cold fog throughout ward to pacify patients. Represents both sedating medication effects and psychological escape mechanism, symbol of mental confusion and institutional control"

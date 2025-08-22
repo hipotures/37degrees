@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mambo Heat and Tequila"
+  setting:
+    time: "1950 late night"
+    location: "Mexican bordello in Gregoria with stone walls, dim lighting, and humid tropical air"
+    weather: "hot humid night with occasional tropical breeze"
+  characters:
+    - appearance: "21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns, bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile"
+      clothing: "white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just shorts or shirtless revealing his physical nature"
+      position: "dancing in crowded room"
+      action: "moving to mambo rhythm while holding tequila glass and perspiring heavily in tropical heat"
+    - appearance: "25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled, dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression"
+      clothing: "khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or leather jacket, functional but reflecting intellectual Eastern background"
+      position: "leaning against wall watching scene"
+      action: "observing overwhelming sensory spectacle while tasting tequila and feeling humid air"
+  scene:
+    mainElements: "intense mambo music creating visible rhythm through dancer movements, tequila glasses catching and reflecting colored lights, perspiration visible on all surfaces, humid air making everything slightly hazy, overwhelming combination of music, alcohol, heat, and human proximity"
+    details: "Mambo rhythms so intense they create visible movement patterns in dancing bodies, tequila creating sharp taste contrast with sweet tropical air, perspiration glistening on skin under colored lights, humid air carrying mixture of alcohol, perfume, and human scents, music volume creating physical vibration in chest, colored lights reflecting off wet surfaces - glasses, skin, walls, dancers moving in syncopated patterns creating visual rhythm"
+    background: "stone-walled Mexican interior with dim lighting, other patrons and women, bar area with bottles, tropical plants visible through openings, night sounds of insects and distant music"
+    atmosphere: "sensual overwhelming environment combining alcohol, music, heat, and human interaction, exotic location far from familiar American landscape, intense sensory experience beyond normal limits"
+  composition:
+    cameraAngle: "handheld camera with slight motion to capture rhythm and heat"
+    focus: "overwhelming sensory combination of sound, taste, temperature, and visual stimulation"
+    depth: "dancing figures and tequila glasses in foreground, crowded room activity in middle ground, stone walls and tropical night extending to background"

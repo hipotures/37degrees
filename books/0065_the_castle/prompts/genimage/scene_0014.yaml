@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening
+    location: Simple wooden village tavern with massive landlady commanding respect through experience
+    weather: Cold winter evening with warmth of established authority
+  characters:
+  - appearance: Older woman, massive figure described as true giantess, face deeply lined with wrinkles from age and hard
+      work
+    clothing: Simple innkeeper attire for daily work, possesses wardrobes of elegant old-fashioned dresses from past romance
+      with Klamm
+    position: Dominating tavern space with commanding maternal presence
+    action: Dispensing wisdom about Castle relationships based on personal experience
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Seated before Gardena receiving unwanted advice
+    action: Listening impatiently to stories of past Castle romances
+  scene:
+    mainElements: Initially welcoming refuge transformed into place of confrontation, massive landlady representing accumulated
+      village wisdom
+    details: From Gardena's perspective of experienced authority - K.'s romantic and professional struggles appearing naive
+      compared to her intimate knowledge of Castle relationships. Her elegant old-fashioned dresses representing genuine past
+      connection to Castle power, current humble innkeeper status showing realistic outcomes of Castle involvement.
+    background: Tavern representing decades of village-Castle interactions, Gardena's domain of accumulated wisdom
+    atmosphere: Through Gardena's maternal authoritative viewpoint - K.'s ambitions appearing childish compared to her hard-earned
+      knowledge of Castle realities, her massive presence suggesting protective but overwhelming maternal wisdom, evening
+      warmth contrasting with harsh truths about Castle relationships, no text or letters visible
+  composition:
+    cameraAngle: Looking up at Gardena's commanding maternal presence
+    focus: Gardena's overwhelming authority based on lived experience with Castle power
+    depth: Foreground shows Gardena's dominant figure, middle ground captures K.'s diminished position, background suggests
+      tavern as repository of village wisdom
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

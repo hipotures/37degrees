@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Geological epochs compressed with human history as brief moment
+    location: Ancient landscape showing geological time scale versus human temporal experience
+    weather: Climate changes across geological periods compressed into single view
+  characters:
+  - appearance: Male, ranging from 22 years old as soldier to 54 years old at death, extremely tall at 6 feet 3 inches, very
+      thin build resembling matchbox chest and shoulders or Coca-Cola bottle shape, physically weak and uncoordinated, wears
+      glasses as optometrist
+    clothing: 'As soldier: absurd mismatched uniform including small civilian coat with fur collar, blue curtain fabric toga,
+      silver-painted theatrical shoes from Cinderella production, often barefoot; As optometrist: professional 1960s attire
+      with white coat for examinations; At home: pajamas and bathrobe'
+    position: Billy appearing as tiny figure against vast geological time scale
+    action: Human activity shown as brief flicker against eternal geological processes, no text or letters visible
+  scene:
+    mainElements: Ancient rock formations showing geological stratification, mountains rising and eroding, rivers changing
+      course across millennia, ice ages advancing and retreating
+    details: Rock layers showing millions of years of geological time, fossil evidence of previous life forms, human civilization
+      appearing as thin recent layer, astronomical events affecting landscape over cosmic time
+    background: Stars wheeling overhead across geological epochs, solar system changes affecting climate, cosmic time scale
+      dwarfing human history
+    atmosphere: Humbling perspective on human temporal significance versus cosmic and geological eternities, peaceful acceptance
+      of individual insignificance in universal time scale
+  composition:
+    cameraAngle: Extreme wide shot showing cosmic scale with human time as tiny element
+    focus: Geological formations as symbols of time scales beyond human comprehension
+    depth: Multiple temporal scales from human to geological to cosmic showing relative significance
+visualElements:
+  colorPalette:
+    primary:
+    - muted, aged tones (representing the past)
+    - vibrant, clear colors (representing the present)
+    - ethereal, glowing colors (representing the future)
+    secondary:
+    - metallic grays and browns
+    - transparent, ghostly overlays
+    background: an abstract, non-descript temporal void
+    usageNotes: Colors are used to signify different points in time, bleeding and overlapping.
+    saturation: varies wildly within the piece
+    contrast: high, between different temporal layers
+  lineArt:
+    style: sharp, geometric lines of cubism mixed with the blurred "speed lines" of futurism
+    weight: varies, from sharp and precise to blurred and in motion
+    color: often black or dark brown to define fragments
+    texture: a mix of smooth planes and motion-blurred textures
+    edgeTreatment: sharp, fragmented edges that blur into motion trails
+  lighting:
+    type: inconsistent, multiple light sources
+    direction: light seems to emanate from different time-layers of the object itself
+    intensity: varies from dark and shadowed (past) to brilliantly lit (future)
+    shadows:
+      style: fragmented, geometric shadows that are also in motion
+      color: dark, often with chromatic aberration
+      opacity: varies
+    highlights: sharp highlights on present forms, glowing auras on future forms
+  rendering:
+    technique: digital painting or mixed-media collage that combines sharp rendering with motion blur and transparency
+    texture: smooth surfaces juxtaposed with grainy, time-worn textures
+    detailLevel: high in the "present" fragments, fading in past and future ones
+    finish: a composite of matte, gloss, and glowing finishes
+  perspective: multiple, conflicting perspectives layered on top of each other, creating a sense of temporal dislocation
+  mood:
+    overall: disorienting, complex, intellectual
+    emotion: a sense of inevitability, the passage of time, and interconnectedness
+    tempo: chaotic yet structured
+    keywords:
+    - temporal
+    - complex
+    - dynamic
+    - disorienting
+    - intellectual
+  stylePrecedents:
+  - Cubism (Picasso, Braque)
+  - Futurism (Boccioni)
+  - Marcel Duchamp's "Nude Descending a Staircase, No. 2"
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

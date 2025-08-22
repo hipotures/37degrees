@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1969 December, early morning in garden
+    location: Courtyard garden of Ipe family house in Ayemenem, beneath large mango tree with ancient textured bark
+    weather: Cool morning air with dew still drying on surfaces
+  characters:
+  - appearance: Beautiful 27-year-old Indian woman with deep dimples when she smiles, dark hair typically worn in traditional
+      Kerala style, eyes that seem always to be looking elsewhere, graceful movements, slender build
+    clothing: Simple but elegant sari in muted colors befitting a divorced woman, occasionally western-style dresses showing
+      her rebellious nature, sunset-colored silk sari with gold threading from wedding photos
+    position: Leaning back against mango tree trunk with eyes closed
+    action: Pressing her silk-covered back against rough bark, feeling texture contrast through delicate fabric
+  scene:
+    mainElements: Ancient mango tree with deeply ridged bark surface contrasting against smooth silk sari material, morning
+      light filtering through leaves creating dappled patterns on fabric and skin
+    details: Silk sari catching on bark ridges and roughness, creating pulls and wrinkles in smooth fabric, texture of tree
+      bark visible through translucent silk, woman's spine feeling every ridge and groove through thin material, delicate
+      gold threading in sari contrasting with crude bark texture
+    background: Tropical garden with other fruit trees, flowering plants, glimpses of house veranda through foliage
+    atmosphere: Moment of stolen solitude amid family tension, contrast between refined textile and raw nature, sensual awareness
+      of texture differences
+  composition:
+    cameraAngle: Close view of woman's back against tree trunk showing fabric-bark interaction
+    focus: Textural contrast between smooth silk and deeply grooved bark surface
+    depth: Foreground emphasizes fabric-bark contact point, middle ground shows woman's contemplative pose, background features
+      garden setting, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Over-shoulder view of D'Artagnan reading Queen's desperate letter"
+  setting:
+    time: "April 1625, late evening with candlelight illuminating crucial document"
+    location: "Private chamber where young Gascon receives royal mission that will change his destiny"
+    weather: "Indoor scene with warm candlelight creating intimate atmosphere"
+  characters:
+    - appearance: "18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning, overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth and manhood"
+      clothing: "Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers"
+      position: "Back and shoulder visible in foreground, head partially in frame reading document"
+      action: "Intently studying letter with growing understanding of its importance, hand holding parchment steady in candlelight"
+  scene:
+    mainElements: "Over-shoulder view following D'Artagnan's gaze toward crucial royal letter, candlelight creating dramatic lighting, parchment visible in his hands showing royal seal"
+    details: "Letter written on fine parchment with royal watermark, elegant handwriting suggesting noble author, red wax seal indicating official nature, D'Artagnan's hands holding document carefully, single candle providing warm light, shadows creating dramatic atmosphere"
+    background: "Simple chamber furnishings suggesting modest accommodations, stone walls of Parisian building, window showing night sky beyond"
+    atmosphere: "Intense concentration and growing realization of mission's importance, intimate lighting creating sense of secrecy, weight of royal trust and dangerous responsibility"
+  composition:
+    cameraAngle: "Over-the-shoulder shot following character's gaze while keeping him partially in frame to maintain connection"
+    focus: "Sharp focus on letter content and D'Artagnan's hands, his shoulder and back providing foreground framing element"
+    depth: "Foreground: D'Artagnan's shoulder and back, middle ground: hands holding letter in candlelight, background: chamber furnishings and window, no text or letters visible"

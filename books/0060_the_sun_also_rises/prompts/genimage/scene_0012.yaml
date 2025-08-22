@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1924, warm afternoon
+    location: Mountain river in Basque Pyrenees near Burguete village, clear morning light in pristine wilderness
+    weather: Perfect spring weather with gentle mountain breeze
+  characters:
+  - appearance: American writer aged approximately 29, medium height with sturdy build, friendly open face with intelligent
+      humor in expression, dark hair in casual style, warm eyes that crinkle with frequent laughter
+    clothing: Informal American attire including comfortable wool jacket, soft cotton shirt without rigid collar, practical
+      clothing suitable for travel and outdoor activities
+    position: Walking slowly through meadow, occasionally stopping to observe flowers
+    action: Engaging in witty conversation with good-natured humor while maintaining loyal supportive presence among friends
+  scene:
+    mainElements: Field of diverse wildflowers in peak bloom, honeybees moving in purposeful patterns between blossoms, pollen
+      visible as golden dust in afternoon light
+    details: Bees creating figure-eight flight patterns suggesting nectar collection, pollen grains visible as sparkling dust
+      on flower petals, petals heavy with moisture suggesting sweet nectar, flower faces turned toward sun indicating natural
+      fragrance release, gentle breeze carrying visible pollen clouds, meadow displaying spectrum of colors indicating diverse
+      floral perfumes, no text or letters visible
+    background: Pure natural tranquility with bright mountain air, sounds of flowing water and bird songs, healing quality
+      of untouched wilderness away from urban decay
+    atmosphere: Mountain meadow sweetness suggested through visual abundance - flower variety and bee activity indicating
+      rich natural perfume garden, pristine wilderness offering aromatic escape
+  composition:
+    cameraAngle: Low angle emphasizing flower abundance and bee activity
+    focus: Bee flight patterns and pollen effects suggesting floral fragrances
+    depth: 'Foreground: detailed flower and bee interaction, midground: figure moving through meadow, background: mountain
+      wilderness context'
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 1980s, twilight hour when day transforms into night
+    location: Mystical junction point existing between London, Bombay, and ancient Arabia
+    weather: Three different weather systems meeting at convergence point without mixing
+  characters:
+  - appearance: 40-year-old Indian man, conservative appearance, controlled demeanor
+    clothing: Impeccable gray wool suit, black bowler hat, formal British gentleman attire
+    position: Standing at exact center of crossroads, equidistant from all three paths
+    action: Holding identical compass in each hand, all needles pointing to different destinations
+  scene:
+    mainElements: Stone crossroads marker with three distinct paths radiating outward, each road leading to completely different
+      landscape and time period
+    details: Ancient crossroads stone carved with symbols from three civilizations, left path paved with London cobblestones
+      leading toward gray industrial skyline, right path made of Bombay's red earth stretching toward tropical coast with
+      palm trees, center path consisting of desert sand leading toward ancient domed city, each route maintaining distinct
+      weather and lighting, paths meeting at perfect geometric angles, figure must choose single direction while others vanish,
+      compasses all functioning but pointing to different magnetic norths, no text or letters visible
+    background: Three separate horizons visible simultaneously, each showing different era and culture, impossible convergence
+      of multiple realities
+    atmosphere: Moment of ultimate choice where multiple futures compete for single decision, crossroads demanding commitment
+      to one identity
+  composition:
+    cameraAngle: Overhead view showing perfect symmetry of three-way intersection
+    focus: Decision point where choosing one path means forever abandoning others
+    depth: 'Foreground: crossroads stone and converging paths, midground: figure with multiple compasses, background: three
+      distinct worlds calling simultaneously'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

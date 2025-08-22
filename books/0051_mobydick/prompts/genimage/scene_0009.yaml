@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1840s sunset, orange light on water
+    location: Vast Pacific waters far from any land, whale hunting grounds
+    weather: Calm seas with spectacular sunset
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive ship's anchor lies partially submerged, its chain snapped and floating free, the anchor itself resting
+      on shallow reef visible through clear water
+    details: The broken anchor chain drifts in the current like a sea serpent, its severed links catching orange sunset light.
+      The anchor itself, meant to provide security and stability, now rests useless on rocks beneath the surface. Schools
+      of tropical fish swim through the anchor's arms, treating it as an artificial reef. Seaweed begins to grow around the
+      metal, transforming a tool of civilization into part of the natural ocean environment. The scene suggests transformation
+      from security to abandonment, no text or letters visible
+    background: Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris
+    atmosphere: The broken anchor represents failed security and the transformation of human tools into natural elements,
+      symbolizing how the ocean reclaims all attempts at control
+  composition:
+    cameraAngle: Underwater perspective looking up at sunken anchor
+    focus: Broken chain floating free from abandoned anchor
+    depth: Submerged anchor in foreground, drifting chain in middle distance, sunset surface light filtering down from above
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 1890s, evening during family gathering
+    location: Wealthy Igbo patriarch's walled compound in Umuofia village, southeastern Nigeria
+    weather: Calm evening with firelight illuminating compound interior
+  characters:
+  - appearance: Tall, powerfully-built man in his late thirties to mid-forties, with imposing muscular frame typical of a
+      champion wrestler
+    clothing: Simple woven cloth wrapped around waist as loincloth, ankle bracelet marking his titled status
+    position: Seated in central obi hut receiving family members and visitors
+    action: Exercising absolute patriarchal authority over household members demonstrating rigid traditional masculine power
+  scene:
+    mainElements: Red clay wall enclosing central obi (man's hut), wives' huts arranged in crescent, yam storehouse, ancestral
+      shrine showing complete male dominance over domestic space
+    details: Large brown tubers with rough skin stored in elevated granaries, symbol of male prosperity and agricultural skill
+      demonstrating economic control. Wide-bladed cutting tool with wooden handle used for farming, clearing bush, and as
+      weapon when necessary symbolizing capacity for both productivity and violence
+    background: Prosperous but tense household reflecting patriarch's rigid control and suppressed emotions within traditional
+      compound structure
+    atmosphere: Absolute patriarchal order where masculine authority dominates all aspects of family life through economic
+      control and threat of violence
+  composition:
+    cameraAngle: Low angle emphasizing patriarchal dominance and authority
+    focus: Central patriarch surrounded by symbols of power and control
+    depth: Patriarch in foreground, submissive family members in middle ground, symbols of wealth in background
+visualElements:
+  colorPalette:
+    primary:
+    - earth red
+    - burnt orange
+    - yellow ochre
+    - brown
+    secondary:
+    - white
+    - black
+    - clay green
+    background: earth-toned base (brown or red)
+    usageNotes: Natural pigment colors reflecting the landscape
+    saturation: medium
+    contrast: medium
+  lineArt:
+    style: forms defined by dot outlines
+    weight: n/a (dot size varies)
+    color: white or yellow on dark; black or brown on light
+    texture: dense pattern of repeated dots
+    edgeTreatment: soft edges created by dot gradients
+  lighting:
+    type: flat (pattern-based imagery)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: hand-painted dots with sticks/brush
+    texture: raised dots, tactile pattern
+    detailLevel: high (thousands of dots form detail)
+    finish: matte, textured
+  perspective: flat, symbolic map-like
+  mood:
+    overall: spiritual, organic, intricate
+    emotion: connection to land, storytelling
+    tempo: rhythmic, meditative
+    keywords:
+    - spiritual
+    - intricate
+    - patterned
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Papunya Tula art
+  - Central Australian Indigenous dot paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

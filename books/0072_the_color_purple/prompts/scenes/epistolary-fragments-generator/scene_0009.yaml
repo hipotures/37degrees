@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Words Over Water - Bathing Scene with Text"
+  setting:
+    time: "1925, afternoon"
+    location: "Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural fields"
+    weather: "Warm spring day with gentle breeze"
+  characters:
+    - appearance: "African American woman aging from 14 to 54 years throughout story, thin build with angular features, carries herself with initial timidity that transforms to confident dignity, dark skin, expressive eyes that evolve from fearful to determined"
+      clothing: "Early years: worn cotton dresses in muted browns and grays, poorly fitting garments showing poverty and neglect. Later transformation: colorful, well-tailored pants of her own design, bright fabrics in purples, yellows, and blues, clothes that express newfound freedom and self-worth"
+      position: "Gently washing someone's hair in basin of warm water"
+      action: "Tender care-giving with hands moving through water and hair"
+    - appearance: "Striking African American blues singer, aged 30s-70s, tall and slender with commanding presence, very dark skin described as lustrous, long pointed nose, full lips like black plums, large expressive eyes, naturally glamorous bearing"
+      clothing: "Sophisticated urban fashion spanning 1920s-1940s: form-fitting red sequined dresses, fur stoles, feathered headbands, jewelry and accessories, clothing that announces her status as performer and free woman"
+      position: "Sitting in chair, head tilted back peacefully"
+      action: "Relaxing and receiving care, eyes closed in trust and comfort"
+  scene:
+    mainElements: "Two-story wooden house with wraparound porch, main living areas with loose floorboard hiding place for letters, kitchen with wood-burning stove, sparse furniture showing bachelor neglect. Interior room with basin and towels"
+    details: "Warm water in metal basin, gentle steam rising, towels folded nearby, afternoon light streaming through window. Cursive text appears to flow with the water, words about love and tenderness"
+    background: "Simple bedroom with clean bedding, sense of sanctuary and peace, intimate space of healing and connection"
+    atmosphere: "Tenderness and emerging love, physical care as emotional nurturing, handwritten words flowing like water through scene expressing unspoken feelings"
+  composition:
+    cameraAngle: "Intimate close-up focusing on gentle care"
+    focus: "Hands moving through water, tender expression, words flowing with liquid motion"
+    depth: "Foreground: basin and caring hands, middle: peaceful faces, background: soft bedroom setting"

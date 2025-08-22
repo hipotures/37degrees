@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1855 initial gift overlaid with 1873 cherished memory, morning light on jewelry
+    location: Bedroom vanity space showing same object across decades of meaning
+    weather: Gentle morning light illuminating small precious objects
+  characters: No characters present in this scene
+  scene:
+    mainElements: Small crystal drop earrings given to Sethe by Mrs. Garner, representing brief moment of dignity and feminine
+      recognition during Sweet Home period, precious symbol of humanity acknowledged
+    details: Same crystal earrings showing temporal journey from new gift sparkling in morning light to cherished inheritance
+      dulled by years but increased in emotional value, wooden jewelry box showing wear from repeated opening, mirror reflecting
+      different faces across decades, fabric lining faded but earrings carefully preserved, light catching crystal facets
+      identically across time
+    background: Simple bedroom furniture unchanged but meaning transformed from slavery's small kindness to freedom's precious
+      memory
+    atmosphere: Object as witness to human dignity and continuity, beauty preserved through trauma as anchor to identity,
+      material culture carrying emotional weight across decades, no text or letters visible
+  composition:
+    cameraAngle: Extreme close-up allowing detailed examination of jewelry and container
+    focus: Crystal earrings as central element showing temporal continuity
+    depth: Foreground emphasizes earring detail and light refraction, middle ground shows jewelry box aging, background suggests
+      bedroom setting transformation
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

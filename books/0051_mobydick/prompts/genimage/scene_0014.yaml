@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1840s dawn, first light breaking
+    location: Vast Pacific waters far from any land, whale hunting grounds
+    weather: Calm dawn with gentle swells
+  characters:
+  - appearance: Gigantic African man over 6'5", coal-black complexion, moves with leonine stride, noble bearing despite subordinate
+      position
+    clothing: Standard harpooner's attire, large gold hoop earrings in both ears
+    position: Standing at full imposing height, shoulders back with regal posture
+    action: Moving with dignified power, handling harpoon equipment with gentle strength that contrasts his massive size
+  scene:
+    mainElements: Long steel-pointed spear for killing wounded whales, sharp cutting edge designed to reach vital organs,
+      hafted on long pole being used gently to guide injured seabird to safety
+    details: The whale lance, designed for death, becomes an instrument of mercy as it carefully lifts a wounded petrel from
+      the water's surface. The sharp steel point that would normally pierce whale hide now delicately supports broken wing
+      feathers. Blood from previous hunt still stains the lance shaft, yet the same tool now preserves life rather than taking
+      it. Morning light catches both the steel point and the bird's frightened eye, creating moment where weapon becomes rescue
+      tool, violence transforms into compassion, no text or letters visible
+    background: Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris
+    atmosphere: The transformation of killing tool into saving instrument suggests how purpose can be transformed by intention,
+      showing that instruments of destruction can serve creation when guided by compassion
+  composition:
+    cameraAngle: Close-up of lance point gently supporting injured bird
+    focus: Steel weapon tip carefully cradling fragile bird life
+    depth: Lance and bird in sharp foreground, calm ocean surface in middle distance, dawn sky providing soft background light
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

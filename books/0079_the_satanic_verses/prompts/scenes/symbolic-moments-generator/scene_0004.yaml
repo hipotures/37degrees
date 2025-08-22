@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Golden chain and iron shackle intertwined on marble floor"
+  setting:
+    time: "Late 1980s, evening shadows lengthening through tall windows"
+    location: "Elegant London townhouse interior, wealthy residential district"
+    weather: "Clear evening with golden sunlight streaming through Georgian windows"
+  characters:
+    - appearance: "40-year-old Indian man, conservative appearance, controlled demeanor"
+      clothing: "Impeccable gray wool suit, black bowler hat, formal British gentleman attire"
+      position: "Standing motionless with hands clasped behind back in doorway"
+      action: "Observing chains with calculated British propriety, face showing internal conflict"
+  scene:
+    mainElements: "Delicate gold chain intertwined with heavy iron shackle, both lying on polished white marble floor where sunlight and shadow meet"
+    details: "Golden chain crafted with intricate Victorian links, each connection perfectly forged and gleaming, iron shackle rusted and pitted with age bearing scratches from previous struggles, two chains wound together in complex knot that seems both accidental and inevitable, marble veining creates natural borders between light and dark areas, metal pieces rest precisely on boundary line, no text or letters visible"
+    background: "Ornate fireplace with family portraits above mantel, Persian rugs, leather-bound books, crystal decanters reflecting window light"
+    atmosphere: "Tension between luxury and bondage, refinement masking fundamental constraints on freedom and identity"
+  composition:
+    cameraAngle: "Overhead view showing precise placement of chains on marble boundary"
+    focus: "Intertwined chains representing connection between privilege and imprisonment"
+    depth: "Foreground: detailed metalwork on marble, midground: observing figure, background: symbols of British upper-class life"

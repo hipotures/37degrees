@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Arms raised in triumph as dreams take shape"
+  setting:
+    time: "1930s, evening with warm lamplight"
+    location: "Ranch bunkhouse interior transformed by hope and excitement"
+    weather: "Clear evening with cozy artificial lighting"
+  characters:
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Standing beside card table, leaning forward with excitement"
+      action: "Gesturing enthusiastically with both hands, face animated and eyes bright with possibility, body language open and energetic"
+    - appearance: "Enormous man in late 20s, shapeless face, large pale vacant eyes, broad sloping shoulders, powerful build like a bull, huge hands"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat identical to George's"
+      position: "Sitting on bunk edge with huge frame leaning forward eagerly"
+      action: "Large hands clasped together in joy, face beaming with simple happiness, whole body radiating excitement"
+    - appearance: "Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like wrist stump"
+      clothing: "Blue denim work clothes, worn leather boots"
+      position: "Seated at table, leaning in to join conversation"
+      action: "Good hand extended toward others in offering gesture, face showing first hope in years, eyes bright with possibility"
+  scene:
+    mainElements: "Card table now center of planning and hope, warm lamplight creating intimate circle, papers or magazines pushed aside for serious discussion"
+    details: "Atmosphere completely transformed from institutional coldness to warm collaboration, men's possessions suddenly looking like foundation for future rather than temporary survival"
+    background: "Other bunks recede into shadows as three men create bubble of shared vision, sense of purpose filling space"
+    atmosphere: "Maximum visual warmth and hope, genuine smiles and open body language, dream becoming tangible through shared commitment and resources"
+  composition:
+    cameraAngle: "Medium shot capturing all three men in warm lamplight circle"
+    focus: "The transformative power of shared hope and genuine human connection"
+    depth: "Foreground shows animated gestures and expressions, middle ground captures collaborative energy, background suggests expanded possibilities"

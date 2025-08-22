@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Melting Institution - Dalí's Hospital"
+  setting:
+    time: "Early 1960s, time appears to flow at different speeds"
+    location: "Hospital ward where solid matter behaves like liquid, all objects drooping and melting"
+    weather: "Heat distortion effects despite normal temperature"
+  characters:
+    - appearance: "50-year-old woman with unnaturally perfect doll-like face, smooth calculated features like expensive doll. Skin like flesh-colored enamel, childishly blue eyes, small nose with pink nostrils. Large feminine bust hidden under rigid uniform"
+      clothing: "Immaculate white starched nurse uniform with cap, lips and fingernails painted in disturbing funny orange color like hot soldering iron tip"
+      position: "Standing rigidly erect behind glass partition or moving with mechanical precision"
+      action: "Observing patients with cold calculation, speaking in controlled measured tones, maintaining perfect composure"
+  scene:
+    mainElements: "All solid objects droop and melt like heated wax - furniture, medical equipment, architectural elements"
+    details: "Tables sag in middle like soft fabric, legs stretching toward floor. Chairs flow like thick liquid. Clock face melts showing impossible times. Walls droop creating curved surfaces. Glass windows run like honey. Even rigid nurse uniform begins to soften and flow. Medical instruments bend and curl. Time itself becomes viscous - some movements extremely slow, others unnaturally fast"
+    background: "Entire institutional environment transformed into surreal landscape of flowing, melting forms"
+    atmosphere: "Center of power and control, sterile white lighting, clinical efficiency, sounds muffled by glass barrier creating sense of removed authority. Time and reality losing solidity, fundamental properties of matter no longer reliable"
+  composition:
+    cameraAngle: "Tilted perspective emphasizing flowing, melting forms"
+    focus: "Melting institutional elements and figure maintaining unnatural rigidity"
+    depth: "Foreground: melting furniture flowing toward viewer. Middle: rigid figure in flowing environment. Background: completely liquefied architecture"

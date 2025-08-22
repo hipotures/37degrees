@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Early 1920s evening
+    location: Village and Castle showing same events from opposing group interpretations
+    weather: Cold winter evening experienced differently by different groups
+  characters:
+  - appearance: Man in his thirties, approximately 30-35 years old, no specific physical description provided intentionally
+      to maintain universal anonymity
+    clothing: Shabby-looking dark winter coat, heavy wool garments, solid leather boots worn from long journey, small backpack
+      as personal belonging
+    position: Central figure experiencing personal defeat
+    action: Facing administrative rejection and personal isolation
+  - appearance: Village residents and Castle officials viewing same events
+    clothing: Mixed village and official attire representing unified community
+    position: Surrounding K. with collective interpretation of success
+    action: Witnessing proper administrative resolution and community protection
+  scene:
+    mainElements: Same physical space interpreted through conflicting group perspectives - K.'s rejection appearing as administrative
+      failure versus community success
+    details: Simultaneous opposing interpretations of identical events - K.'s failure to gain Castle access representing personal
+      defeat while community interprets same outcome as successful protection of established order. Formal documents representing
+      bureaucratic victory for system while signifying personal catastrophe for K.
+    background: Village and Castle architecture serving as backdrop for opposing interpretations of same reality
+    atmosphere: Split consciousness showing identical events interpreted as failure versus success - K.'s isolation contrasted
+      with community satisfaction, individual tragedy occurring simultaneously with collective triumph, same winter evening
+      experienced as defeat and victory, no text or letters visible
+  composition:
+    cameraAngle: Split screen perspective showing same events from opposing viewpoints
+    focus: Identical reality interpreted as both failure and success
+    depth: Layered perspectives showing K.'s defeat overlaid with community victory interpretation
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sunlight breaking through clouds with genuine embraces"
+  setting:
+    time: "1930s, morning with dramatic lighting change"
+    location: "Ranch yard area with workers emerging into unexpected brightness"
+    weather: "Storm clouds parting to reveal brilliant sunshine"
+  characters:
+    - appearance: "Ageless man could be 35 or 50, tall with hatchet face, long black damp hair slicked back, large lean hands with delicate movements like temple dancer"
+      clothing: "Denim pants and jacket, crushed Stetson hat, typical ranch worker attire but carries natural authority"
+      position: "Standing in central position with arms open in welcoming gesture"
+      action: "Genuine smile creasing weathered features, extending hand in friendship and acceptance, body language radiating approval and warmth"
+    - appearance: "Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose, large restless dark eyes, small strong hands, lean wiry build"
+      clothing: "Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots"
+      position: "Approaching with grateful relief visible in posture"
+      action: "Shoulders relaxing for first time, hand extended to accept friendship, face showing rare moment of peace and acceptance"
+  scene:
+    mainElements: "Ranch yard bathed in golden morning light after storm, puddles reflecting brilliant sky, fresh-washed air and clean scents"
+    details: "Dramatic contrast between dark storm clouds retreating and brilliant sunshine illuminating everything, sense of renewal and fresh start"
+    background: "Other workers moving with lighter step in improved weather, animals calm and peaceful, sense of harmony restored"
+    atmosphere: "Moment of grace and human connection, natural world reflecting inner emotional breakthrough, warmth and acceptance replacing suspicion"
+  composition:
+    cameraAngle: "Medium shot with dramatic backlighting from breakthrough sun"
+    focus: "The handshake and genuine human connection against transformed landscape"
+    depth: "Foreground shows intimate human moment, middle ground captures renewed ranch environment, background reveals broader sense of hope"

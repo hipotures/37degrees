@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1953, midnight
+    location: Vast prison encompassing entire society, revealing ultimate nature of totalitarian control
+    weather: Darkness pierced by searchlights revealing prison architecture everywhere
+  characters:
+  - appearance: All citizens revealed as prisoners within massive societal prison, guards and prisoners indistinguishable
+      in ultimate system
+    clothing: Prison uniforms becoming visible on all citizens, guard uniforms revealed as prison clothing for higher-level
+      inmates
+    position: Arranged within cells and corridors of society-wide prison complex
+    action: Performing daily routines within prison structure, guards revealed as privileged prisoners supervising others
+  scene:
+    mainElements: Entire society revealed as elaborate prison complex, buildings showing barred windows and guard towers,
+      streets revealed as prison corridors, normal life exposed as elaborate incarceration
+    details: Familiar buildings showing prison architecture underneath facades, guard towers visible on every corner, barbed
+      wire integrated into urban design, prison numbers visible on all citizens
+    background: Prison architecture extending to horizon, no escape possible from total institutional control, society designed
+      as perfect prison
+    atmosphere: Ultimate revelation of totalitarian society as total prison, no distinction between guards and prisoners in
+      final analysis, complete institutional control of human existence
+  composition:
+    cameraAngle: Sweeping views revealing prison architecture underlying society, close-ups showing prison details on familiar
+      structures
+    focus: Society itself as ultimate prison containing all citizens
+    depth: Foreground shows individual prison details, middle ground reveals institutional structure, background demonstrates
+      total imprisonment
+visualElements:
+  colorPalette:
+    primary:
+    - black surface
+    - white scratches
+    - single color layer
+    secondary:
+    - gray tones (partial scratching)
+    - earth tones (colored boards)
+    background: black scratchboard surface
+    usageNotes: High contrast between black surface and scratched areas
+    saturation: low (mostly black and white)
+    contrast: very high (black background, white lines)
+  lineArt:
+    style: scratched lines revealing underlying color
+    weight: varies by scratching tool and pressure
+    color: white or underlying board color
+    texture: rough, scratched texture
+    edgeTreatment: rough, hand-scratched edges
+  lighting:
+    type: created by scratching density and direction
+    direction: indicated by scratch direction
+    intensity: controlled by amount of scratching
+    shadows:
+      style: areas left unscratched (solid black)
+      color: black board surface
+      opacity: solid
+    highlights: heavily scratched areas showing maximum underlying color
+  rendering:
+    technique: physical scratching away of black surface
+    texture: rough scratched texture, tool marks visible
+    detailLevel: high (precise scratch control)
+    finish: matte, textured surface
+  perspective: traditional perspective through scratched lines
+  mood:
+    overall: dramatic, high contrast, crafted
+    emotion: intensity, craftsmanship, boldness
+    tempo: deliberate, careful
+    keywords:
+    - dramatic
+    - high contrast
+    - intense
+    - crafted
+    - bold
+  stylePrecedents:
+  - traditional engraving techniques
+  - M.C. Escher woodcut style
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

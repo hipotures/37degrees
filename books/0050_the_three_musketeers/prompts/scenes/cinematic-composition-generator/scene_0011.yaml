@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "D'Artagnan's POV discovering mysterious beauty through window frame"
+  setting:
+    time: "April 1625, evening with golden light streaming through window"
+    location: "Rented room overlooking Parisian courtyard where young Gascon first glimpses his destiny"
+    weather: "Clear evening with warm light creating romantic atmosphere"
+  characters:
+    - appearance: "22-25 years old young woman with natural innocent beauty, fair long curly hair, large blue dreamy eyes, pink lips, alabaster hands, graceful modest bearing"
+      clothing: "Modest but tasteful attire befitting bourgeois wife and Queen's confidante, practical garments often including characteristic period hood partially concealing face"
+      position: "Seen through window frame across courtyard, framed by architecture like living portrait"
+      action: "Moving gracefully through domestic space, unaware of being observed, hood partially concealing features adding mystery"
+  scene:
+    mainElements: "View exactly as D'Artagnan sees it through his window, hands visible at frame edges gripping window sill, courtyard space creating distance and romantic mystery"
+    details: "Window frame creating natural border for view, woman's movements visible but distant, architectural elements of Parisian courtyard, evening light creating golden highlights on her fair hair, domestic details suggesting comfortable bourgeois life"
+    background: "Typical Parisian courtyard architecture with stone buildings, multiple windows suggesting urban domestic life, church spires visible beyond buildings indicating religious context"
+    atmosphere: "Romantic discovery and instant fascination, golden light creating magical quality, sense of destiny and love at first sight, voyeuristic intimacy of secret observation"
+  composition:
+    cameraAngle: "Point-of-view shot from D'Artagnan's exact position showing what he sees, hands partially visible at frame edges to establish perspective"
+    focus: "Sharp focus on mysterious woman with courtyard architecture providing depth, window frame creating natural vignette effect"
+    depth: "Foreground: D'Artagnan's hands gripping window frame, middle ground: courtyard space creating romantic distance, background: woman framed by architecture, no text or letters visible"

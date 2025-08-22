@@ -12,7 +12,7 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0069_lolita"
+  ""
 )
 
 # Plik z komendą/promptem dla modelu Claude.

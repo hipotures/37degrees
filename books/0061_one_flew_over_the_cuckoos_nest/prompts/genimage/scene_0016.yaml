@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, midnight
+    location: Long rectangular dormitory room in Oregon psychiatric hospital with rows of identical metal beds, 1960s institutional
+      sleeping quarters. Barred windows allow moonlight entry at night
+    weather: Pale moonlight creating stark shadows
+  characters:
+  - appearance: 40-45 year old man of gigantic stature, 201-203 cm tall with powerful bull-like muscled build. Half-Native
+      American with dark hair, severe face marked by sadness and resignation. Large hands, moves slowly and quietly like dust
+    clothing: Standard green hospital patient uniform
+    position: Standing hunched, trying to appear smaller and invisible, often holding broom
+    action: Sweeping floors methodically while observing silently, maintaining expressionless mask
+  scene:
+    mainElements: Identical figure standing opposite, mirror image but with malevolent expression and aggressive posture
+    details: Shadow self emerges from corner darkness - same giant frame but standing proud and threatening. Dark double speaks
+      with voice of rage and violence that was always suppressed. Its eyes burn with hatred and vengeance. Hands move aggressively,
+      no longer humble. Uniform appears darker, more militaristic. It gestures accusingly while speaking words of fury about
+      betrayal and cowardice. Room splits between two realities - one with cowering observer, one with violent aggressor
+    background: Dormitory beds filled with sleeping patients unaware of psychological confrontation, moonlight casting two
+      distinct shadow patterns
+    atmosphere: Vulnerable exposure during sleep hours, cold institutional metal and fabric, night sounds of patients snoring
+      and groaning, moonlight creating long shadows through bars. Internal psychological warfare made external, confrontation
+      with suppressed rage and violent potential
+  composition:
+    cameraAngle: Split screen or mirror composition showing both versions
+    focus: Contrast between submissive original and aggressive shadow double
+    depth: 'Foreground: confrontation between two selves. Middle: sleeping patients as witnesses. Background: barred windows
+      casting divided shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

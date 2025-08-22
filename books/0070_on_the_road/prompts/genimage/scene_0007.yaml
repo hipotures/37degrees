@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1949 Sunday morning
+    location: church courtyard in Denver, Colorado with stone church building and wooden bell tower, small puddles from overnight
+      rain
+    weather: clear morning after rain with standing water in courtyard
+  characters:
+  - appearance: 21-24 year old man, 178 cm tall with compact muscular physique, light brown hair slicked back with long sideburns,
+      bright blue restless eyes constantly moving, angular elongated face with sharp features, wide infectious smile
+    clothing: white worn T-shirts often stained with grease, faded Levi's jeans, heavy leather work boots, sometimes just
+      shorts or shirtless revealing his physical nature
+    position: standing near puddle watching water surface
+    action: crouched beside rainwater puddle observing concentric ripples spreading from center
+  scene:
+    mainElements: church bell tower rising above courtyard, clear puddle surface reflecting sky until bell strikes, concentric
+      circles spreading outward from puddle center with each bell toll, ripples overlapping and interfering with each other
+      creating complex water patterns
+    details: Perfect circular ripples expanding from puddle's center exactly timed with distant bell sounds, water surface
+      acting like drum skin responding to sound vibrations, each successive bell toll creating new circle before previous
+      ones fade, overlapping rings creating interference patterns, nearby loose gravel vibrating slightly with each bell strike,
+      reflection of church tower fragmenting and reassembling in rippled water
+    background: stone church building with tall windows, wooden bell tower with visible bell, other church-goers in distance
+      entering building, mountains visible beyond Denver skyline
+    atmosphere: clear mountain air, morning light reflecting off wet stone surfaces, peaceful Sunday morning quiet interrupted
+      rhythmically by bell tolls
+  composition:
+    cameraAngle: overhead shot looking down at puddle with figure beside it
+    focus: water surface showing sound's visual impact through ripple patterns
+    depth: puddle with expanding circles in foreground, crouched figure in middle ground, church tower rising in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

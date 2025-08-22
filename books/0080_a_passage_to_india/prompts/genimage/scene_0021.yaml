@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, dramatic moment when hot season transforms to monsoon season
+    location: Courtyard garden area between Indian quarter and British Civil Station showing seasonal weather transformation
+    weather: Sudden change from scorching heat to first monsoon winds bringing relief and transformation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Courtyard space showing immediate transformation as weather patterns shift dramatically, same location under
+      two different seasonal conditions
+    details: Dust devil spinning in one corner while first monsoon winds blow from opposite direction, dry leaves suddenly
+      caught in cool wind, flowers wilted from heat beginning to lift with moisture in air, birds appearing after hiding from
+      heat, clouds building rapidly overhead, temperature dropping noticeably, air pressure changing creating physical sensation
+      of weather shift
+    background: Sky divided between clear hot blue and building monsoon clouds, distant Marabar Hills appearing and disappearing
+      in changing atmosphere
+    atmosphere: Dramatic moment of seasonal change, nature's power to instantly transform environment, relief and excitement
+      of weather breaking
+  composition:
+    cameraAngle: Wide shot capturing entire courtyard during moment of weather transformation
+    focus: Visual evidence of sudden seasonal shift affecting all elements in scene
+    depth: Foreground shows immediate weather effects on ground level, middle ground captures courtyard transformation, background
+      displays dramatic sky change
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

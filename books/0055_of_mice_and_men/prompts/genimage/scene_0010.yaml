@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1930s, late evening after confrontation
+    location: Ranch bunkhouse with card table now abandoned
+    weather: Night with single harsh electric bulb
+  characters:
+  - appearance: Elderly man around 60, tall and stooped, white bristly mustache, missing right hand leaving round stick-like
+      wrist stump
+    clothing: Blue denim work clothes, worn leather boots
+    position: Sitting alone on edge of bunk, hunched over with grief
+    action: Staring at empty space where his companion used to be, good hand pressed to face in sorrow
+  scene:
+    mainElements: Card table with single empty chair prominent in harsh light, scattered playing cards left unfinished, cold
+      black stove in corner
+    details: Personal belongings looking suddenly sparse and temporary, old man's few possessions seeming even more pathetic,
+      harsh institutional lighting emphasizing loneliness
+    background: Other bunks occupied but men silent and separate, sense of community fractured, each man isolated
+    atmosphere: Profound disruption of established patterns, loss and grief replacing comfortable routine, empty spaces speaking
+      louder than presence
+  composition:
+    cameraAngle: Medium shot emphasizing the empty chair and solitary figure
+    focus: The visual metaphor of absence and disrupted patterns
+    depth: Foreground shows empty chair as central element, middle ground captures grieving figure, background reveals fractured
+      community
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

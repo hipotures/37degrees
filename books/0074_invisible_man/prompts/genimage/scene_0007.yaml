@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1930s, afternoon
+    location: Rural sharecropper cabin area outside university, dilapidated former slave quarters
+    weather: Hot afternoon sun creating stark shadows
+  characters:
+  - appearance: Elderly white man in his 70s-80s, distinguished thin build, pink Santa Claus-like face, silky white hair,
+      pale blue misty eyes
+    clothing: Aristocratic attire - checkered vest, soft silk shirt, blue and white polka dot bow tie, elegant suit befitting
+      wealthy philanthropist
+    position: Seated in car, gazing out window at rural poverty
+    action: Studying scene with mixture of fascination and paternalistic sentiment, seeing 'authentic' Black experience
+  scene:
+    mainElements: Weathered unpainted wooden cabins, former slave quarters, dusty yard with scattered belongings, signs of
+      rural poverty
+    details: Through Norton's patronizing white liberal perspective, poverty appears romantically authentic - weathered cabins
+      seem to represent 'true blood' of Black experience he craves to understand, broken-down structures appear quaint rather
+      than oppressive, dust and decay suggest honest simplicity compared to university's artificiality, inhabitants seem like
+      noble primitives offering genuine cultural wisdom, poverty becomes exotic destination for his spiritual tourism, suffering
+      transforms into educational opportunity for his personal enlightenment
+    background: More cabins extending into rural distance, cotton fields and farmland representing historical continuity
+    atmosphere: Voyeuristic observation of authentic Black poverty as source of white liberal enlightenment and redemption
+  composition:
+    cameraAngle: View through car window from Norton's privileged passenger position
+    focus: Specific cabin details that appear most 'authentically' impoverished to white observer
+    depth: Foreground shows car interior framing Norton's gaze, middle ground captures cabin scene, background extends to
+      rural landscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Early 1960s, midday
+    location: Humid white-tiled bathroom chamber in Oregon psychiatric hospital used for patient bathing and hydrotherapy
+      treatments, early 1960s. Echo-prone enclosed space with medical equipment
+    weather: No windows, artificial lighting only
+  characters: No characters present in this scene
+  scene:
+    mainElements: White tile walls and floor, several old bathtubs, exposed pipes, massive concrete-and-steel control panel
+      console for hydrotherapy standing unused like abandoned altar
+    details: Single water drop falling from pipe faucet creates thunderous echo with each drip - PLOP-PLOP-PLOP. Each droplet
+      appears magnified to marble size, creating perfect ripples that spread in mathematical precision. Tile grout lines form
+      maze-like patterns that seem to shift and connect in threatening configurations. Chrome fixtures reflect infinite distorted
+      images. Steam rises from empty bathtubs despite no hot water running
+    background: Exposed pipes snake across ceiling like mechanical veins, their shadows creating spiderweb patterns on walls
+    atmosphere: Cold dampness, echo of footsteps on tiles, smell of chlorine and staleness, sense of institutional neglect
+      and symbolic challenge. Every ordinary sound amplified to threatening levels, familiar objects taking on sinister properties
+  composition:
+    cameraAngle: Extreme close-up on falling water droplet frozen mid-air
+    focus: The droplet with perfect reflection of tiled room, ripples spreading in geometric patterns
+    depth: 'Foreground: enormous water droplet. Middle: reflective tile surfaces with maze patterns. Background: mechanical
+      pipes creating threatening shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

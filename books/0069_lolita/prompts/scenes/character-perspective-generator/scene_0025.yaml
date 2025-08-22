@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Final Justice - Gothic Confrontation"
+  setting:
+    time: "1952, day"
+    location: "Pavor Manor, large deteriorating mansion, gothic estate setting"
+    weather: "Overcast day with dramatic lighting"
+  characters:
+    - appearance: "Middle-aged man, playwright and predator, showing decadent lifestyle"
+      clothing: "Expensive but disheveled clothing, silk robe, showing wealth and decay"
+      position: "Moving through cluttered mansion rooms, attempting to evade confrontation"
+      action: "Speaking theatrically, attempting to deflect responsibility, showing cowardice despite bravado"
+    - appearance: "Middle-aged man in his thirties, European features, now showing murderous determination"
+      clothing: "Dark clothing, formal attire, showing grim purpose"
+      position: "Pursuing through mansion rooms, carrying weapon"
+      action: "Confronting predator, demanding justice, showing deadly determination"
+  scene:
+    mainElements: "Ogromny, rozklekotany dom, gotycki zamek par excellence, wypełniony dziwnymi rzeźbami i oprawionymi obrazami, meble przykryte białymi prześcieradłami"
+    details: "Chaotyczny bałagan luksusowych przedmiotów, puste butelki i szklanki rozrzucone pośród bezguście wystroju, dekadencka atmosfera, groteskowa sceneria"
+    background: "Gothic mansion interior with covered furniture, strange sculptures, framed paintings, atmosphere of decadent wealth and moral decay"
+    atmosphere: "Dekadencka, groteskowa i surrealistyczna atmosfera, mieszanka horroru i czarnego humoru, poczucie sprawiedliwości w gotyckim otoczeniu"
+  composition:
+    cameraAngle: "Wide view of gothic mansion interior showing confrontation between predators"
+    focus: "Two adult men in final confrontation about past crimes, gothic setting emphasizing moral drama"
+    depth: "Foreground shows gothic mansion details, middle ground shows confrontation between adults, background shows decadent mansion interior"

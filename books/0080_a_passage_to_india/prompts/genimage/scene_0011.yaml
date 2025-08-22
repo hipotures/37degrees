@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: 1920s British India, late afternoon with slanted sunlight creating patterns
+    location: Courtyard garden area between residential sections, featuring native Indian trees
+    weather: Clear afternoon air, gentle breeze moving leaves, perfect temperature
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient banyan tree with complex root system and spreading branches, courtyard space with mix of Indian
+      and British garden elements
+    details: Sunlight filtering through leaves creating moving patterns on ground, dust motes dancing in golden light beams,
+      fallen leaves creating natural carpet, tree roots forming natural seating areas, carved stone water basin reflecting
+      light, brass pot catching dripping water, small shrine decorated with marigolds, peacock feather stuck in bark
+    background: Mixed architecture visible through branches showing cultural blend of colonial period
+    atmosphere: Peaceful confluence of cultures under natural canopy, golden hour magic making ordinary space sacred, sense
+      of harmony between human and natural worlds
+  composition:
+    cameraAngle: Looking up through branches toward filtered sunlight creating natural cathedral
+    focus: Interplay of light and shadow through moving leaves creating dynamic patterns
+    depth: Foreground shows root details and ground patterns, middle ground captures trunk and branches, background glimpses
+      architecture through foliage
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

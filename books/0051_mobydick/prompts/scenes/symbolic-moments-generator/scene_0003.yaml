@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Binding Chains of Choice"
+  setting:
+    time: "1840s winter morning, pale sunlight"
+    location: "Historic island whaling port of Nantucket, traditional center of American whaling industry"
+    weather: "Clear cold morning with sharp sea breeze"
+  characters:
+    - appearance: "Muscular man around 30 years old, dark Polynesian complexion, entire body and face covered in intricate geometric square-pattern tattoos resembling maze-like Maori designs"
+      clothing: "Mix of civilized and native dress - elegant beaver hat and boots combined with minimal clothing showing tattooed skin"
+      position: "Sitting cross-legged in meditative pose or standing with harpooner's confident bearing"
+      action: "Sharpening harpoon with ritualistic care or performing daily tasks with calm dignity and practiced skill"
+  scene:
+    mainElements: "Heavy iron ship's anchor chain lies coiled on dock planking, some links polished bright from use while others show rust and corrosion, one central link stands open as if waiting to be closed"
+    details: "The chain's links vary in condition - some gleam like silver from constant handling, others bear the patina of age and salt air. The open link hovers between connection and separation, its gap just wide enough for a hand to pass through. Nearby a ship's bell sits silent, its bronze surface reflecting the morning light. Seagulls perch on coiled ropes, and dock workers move between barrels of whale oil, their shadows falling across the chain in complex patterns, no text or letters visible"
+    background: "Federal-style brick buildings with widow's walks, cobblestone wharves lined with cooper shops and sail lofts"
+    atmosphere: "The chain represents both bondage and connection, suggesting that the same forces that bind us also link us to purpose and community, the open link symbolizing choice between constraint and freedom"
+  composition:
+    cameraAngle: "Medium angle showing coiled chain with emphasis on open link"
+    focus: "The single open link as point of decision and possibility"
+    depth: "Chain coils in immediate foreground, dock activities in middle distance, harbor buildings in background"

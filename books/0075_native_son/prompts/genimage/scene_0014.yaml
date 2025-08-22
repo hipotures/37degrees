@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, afternoon
+    location: Underfunded African American school in Chicago South Side
+    weather: Cold winter afternoon with inadequate heating
+  characters:
+  - appearance: African American children of elementary age, faces showing premature seriousness and resignation, small bodies
+      hunched from cold
+    clothing: worn school clothes, patched garments, insufficient winter clothing, shoes with holes, multiple layers for warmth
+    position: crowded together in overcrowded classroom with insufficient desks
+    action: learning basic lessons that prepare them for limited futures, studying from outdated textbooks, practicing submission
+      to authority
+  - appearance: overworked African American teacher, young woman showing stress and exhaustion from inadequate resources
+    clothing: simple professional dress, worn but clean, struggling to maintain dignity in underfunded environment
+    position: at front of classroom trying to teach despite lack of materials
+    action: attempting to educate children with minimal resources, fighting system that provides inadequate support
+  scene:
+    mainElements: Overcrowded underfunded classroom showing systematic educational neglect designed to limit opportunities
+      and maintain economic segregation
+    details: Broken desks shared by multiple children, textbooks decades out of date, inadequate heating causing children
+      to wear coats indoors, blackboard with cracks, pencils and paper in short supply, windows with broken panes, leaking
+      roof creating water stains, minimal educational materials
+    background: School building showing years of neglect, contrast with well-funded white schools, neighborhood poverty visible
+      through windows, limited resources extending throughout institution
+    atmosphere: Systematic denial of educational opportunity designed to maintain racial and economic hierarchy, children
+      learning that society has limited expectations for their futures, preparation for lifetime of restricted opportunities
+  composition:
+    cameraAngle: Medium shot showing overcrowded conditions and inadequate resources
+    focus: The deliberate underfunding of education as tool for maintaining social inequality
+    depth: Foreground shows children struggling with inadequate materials, middle ground captures the overwhelmed teacher,
+      background reveals institutional neglect and abandonment
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

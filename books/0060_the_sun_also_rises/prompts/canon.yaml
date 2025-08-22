@@ -1,0 +1,130 @@
+canon:
+  characters:
+    - id: "jake_barnes"
+      name: "Jake Barnes"
+      description_block: |
+        characters:
+          - appearance: "American journalist aged around 29, athletic build at approximately 180cm height, short dark brown hair neatly combed, intense dark eyes with penetrating gaze, square-set jaw, straight nose, stoic facial expression that rarely betrays emotion"
+            clothing: "Well-tailored charcoal wool suit with soft cotton shirt and subdued tie, garments practical yet respectable befitting working correspondent in 1924 Paris"
+            posture: "Stands with composed bearing, shoulders straight, observant stance of experienced reporter who watches more than participates"
+            action: "Maintaining professional demeanor while subtly observing surroundings with reporter's trained eye for detail"
+
+    - id: "brett_ashley"
+      name: "Lady Brett Ashley"
+      description_block: |
+        characters:
+          - appearance: "British woman aged 34, tall and gracefully slender with curves, very short hair cut in fashionable boy-like style reaching barely to earlobes, large expressive eyes with subtle melancholy beneath surface confidence, refined aristocratic features with defined cheekbones"
+            clothing: "Form-fitting jersey sweater in muted tone, knee-length skirt representing 1920s fashion revolution, small cloche hat positioned at stylish angle, no stockings as per modern convention"
+            posture: "Confident bearing with slight masculine edge, stands with natural authority and independence characteristic of liberated women of era"
+            action: "Moving with self-assured grace while engaging in conversation with direct, unflinching manner that commands attention"
+
+    - id: "robert_cohn"
+      name: "Robert Cohn"
+      description_block: |
+        characters:
+          - appearance: "American writer aged 34, lean athletic frame from former university boxing, notably flattened nose from boxing injury, dark hair carefully groomed, intelligent expression behind wire-rimmed eyeglasses, sensitive facial features"
+            clothing: "Conservative well-cut American business suit in dark fabric, starched white shirt with proper collar, tasteful necktie reflecting his educated background and social aspirations"
+            posture: "Somewhat tense bearing suggesting underlying insecurity, tendency to lean forward when speaking, gestures that seek approval and acceptance"
+            action: "Displaying earnest enthusiasm mixed with barely concealed anxiety about social acceptance within the group"
+
+    - id: "mike_campbell"
+      name: "Mike Campbell"
+      description_block: |
+        characters:
+          - appearance: "Scottish veteran aged approximately 33, once-handsome features now showing effects of chronic alcohol consumption, bloodshot eyes with dark circles, unshaven stubble, hair disheveled from frequent drinking, clothes rumpled"
+            clothing: "High-quality tweed jacket now showing wear and neglect, wrinkled shirt with loosened collar, garments that once suggested aristocratic background but now reveal financial decline"
+            posture: "Unsteady stance with slight sway, leaning against surfaces for support, aggressive body language when confrontational"
+            action: "Gesturing with drink in hand while speaking with increasingly slurred speech and belligerent manner"
+
+    - id: "pedro_romero"
+      name: "Pedro Romero"
+      description_block: |
+        characters:
+          - appearance: "Spanish bullfighter aged 19, exceptionally handsome with smooth bronze-tanned skin, lustrous black hair, triangular scar on left cheekbone, lean muscular build suggesting both strength and grace, youthful dignity in bearing"
+            clothing: "Outside arena: elegant black suit of fine quality. In arena: traditional torero costume with richly embroidered black jacket featuring gold threadwork, form-fitting black pants, rose-colored stockings, flat black shoes"
+            posture: "Perfect posture with natural aristocratic bearing, movements precise and controlled, radiating quiet confidence and professional competence"
+            action: "Demonstrating composed mastery whether in formal conversation or preparing for dangerous confrontation with deadly precision"
+
+    - id: "bill_gorton"
+      name: "Bill Gorton"
+      description_block: |
+        characters:
+          - appearance: "American writer aged approximately 29, medium height with sturdy build, friendly open face with intelligent humor in expression, dark hair in casual style, warm eyes that crinkle with frequent laughter"
+            clothing: "Informal American attire including comfortable wool jacket, soft cotton shirt without rigid collar, practical clothing suitable for travel and outdoor activities"
+            posture: "Relaxed confident bearing, easy gestures suggesting natural camaraderie, comfortable with himself and situations"
+            action: "Engaging in witty conversation with good-natured humor while maintaining loyal supportive presence among friends"
+
+  locations:
+    - id: "paris_cafe"
+      name: "Parisian Café"
+      description_block: |
+        setting:
+          location: "Traditional Parisian café on tree-lined boulevard in Montparnasse district, late afternoon in 1924"
+        mainElements: "Interior with dark polished wood panels, large mirrors reflecting amber gaslight, white marble-topped round tables, wicker chairs with curved backs, bar along one wall with brass fittings"
+        atmosphere: "Warm golden light filtering through tobacco smoke, conversations in multiple languages creating intellectual hum, aromatic blend of coffee and cigarette smoke, bustling energy of artistic community"
+
+    - id: "jake_apartment"
+      name: "Jake's Paris Apartment"
+      description_block: |
+        setting:
+          location: "Small apartment in typical Haussmann building on Left Bank, evening lighting from single electric lamp"
+        mainElements: "High ceilings with simple molding, tall windows with heavy curtains, herringbone parquet flooring, large wardrobe with mirror, simple wooden bed, writing desk with typewriter"
+        atmosphere: "Solitary refuge with warm yellow lamplight creating deep shadows, sense of masculine simplicity and emotional restraint, refuge from social complexities outside"
+
+    - id: "irati_river"
+      name: "River Irati in Pyrenees"
+      description_block: |
+        setting:
+          location: "Mountain river in Basque Pyrenees near Burguete village, clear morning light in pristine wilderness"
+        mainElements: "Crystal-clear mountain water flowing over smooth stones, ancient stone dam creating pools, dense beech forests on hillsides, meadows with wildflowers, rustic wooden bridge"
+        atmosphere: "Pure natural tranquility with bright mountain air, sounds of flowing water and bird songs, healing quality of untouched wilderness away from urban decay"
+
+    - id: "pamplona_plaza"
+      name: "Plaza del Castillo, Pamplona"
+      description_block: |
+        setting:
+          location: "Main square in historic center of Pamplona during San Fermín festival, blazing afternoon sun"
+        mainElements: "Large rectangular plaza surrounded by buildings with arched galleries, numerous café terraces spilling into square, fountain in center, traditional Spanish architecture with ochre and cream facades"
+        atmosphere: "Festive chaos with crowds dressed in white with red sashes and scarves, constant noise of celebration, music and laughter, sense of ancient ritual meeting modern tourism"
+
+    - id: "bullring_arena"
+      name: "Plaza de Toros Bull Arena"
+      description_block: |
+        setting:
+          location: "Traditional Spanish bullring in Pamplona, harsh afternoon sunlight creating stark shadows"
+        mainElements: "Circular stone amphitheater with multiple tiers of seating, sandy arena floor in perfect circle, wooden barriers separating spectators from danger, traditional architecture of weathered stone"
+        atmosphere: "Tension-filled silence before ritual begins, harsh contrast between blazing sand and cool shadows, ancient quality of life-and-death ceremony, raw authenticity amid artificial modern world"
+
+    - id: "madrid_hotel"
+      name: "Hotel Room in Madrid"
+      description_block: |
+        setting:
+          location: "Anonymous hotel room in Madrid, hot afternoon with bright sunlight streaming through windows"
+        mainElements: "Simple furnishings with iron bed frame, small writing table, washstand with mirror, tall windows with thin curtains, tiled floor typical of Spanish accommodation"
+        atmosphere: "Stark bright light creating overexposed quality, sense of transience and ending, heat suggesting emotional intensity, final clarity of harsh daylight revealing truth"
+
+  items:
+    - id: "fishing_equipment"
+      name: "Fishing Gear"
+      description_block: |
+        details: "Simple bamboo fishing rods with cork handles, canvas creel bag for caught trout, tin of earthworms for bait, wicker picnic basket with wine bottles cooling in stream"
+
+    - id: "typewriter"
+      name: "Manual Typewriter"
+      description_block: |
+        details: "Heavy black mechanical typewriter with round keys and ribbon, stack of white typing paper, carbon paper for copies, tools of professional journalism trade"
+
+    - id: "wine_bottles"
+      name: "Wine and Bottles"
+      description_block: |
+        details: "French wine bottles with cork stoppers, crystal glasses reflecting light, leather wine flask (bota) traditional to Spanish festivals, represents both sophistication and escape"
+
+    - id: "bullfighting_equipment"
+      name: "Bullfighter's Tools"
+      description_block: |
+        details: "Red silk cape (muleta) for close passes, straight sword (estoque) for final moment, montera hat worn during ceremony, tools requiring skill and courage for deadly art"
+
+    - id: "cloche_hat"
+      name: "Women's Cloche Hat"
+      description_block: |
+        details: "Small close-fitting bell-shaped hat in dark felt, worn low over forehead in fashionable 1920s style, symbol of modern liberated womanhood and social revolution"

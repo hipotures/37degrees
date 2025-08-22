@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Averted Gaze - Major Major's Escape"
+  setting:
+    time: "1944, afternoon"
+    location: "squadron commander's office on Pianosa base"
+    weather: "bright Mediterranean afternoon"
+  characters:
+    - appearance: "30s, looks somewhat like Henry Fonda, tall lean build with noble but shy confused features"
+      clothing: "major uniform with sunglasses for hiding"
+      position: "sitting at desk while preparing to escape through office window"
+      action: "avoiding contact with subordinates by jumping through windows"
+  scene:
+    mainElements: "small military office with standard wooden desk, filing cabinets, open window for escape route, official paperwork scattered"
+    details: "Major Major sits at his desk hearing approaching footsteps of subordinates seeking meetings. His eyes dart nervously toward the open window. He removes his sunglasses briefly, revealing fearful eyes, then replaces them as he prepares his routine escape. Papers remain unsigned as he prioritizes avoidance over duty."
+    background: "simple office furnishings, military regulations posted on walls, window overlooking base activities, desk chair positioned for quick window access"
+    atmosphere: "authority paralyzed by responsibility, mixture of official duty and personal inadequacy creating institutional dysfunction"
+  composition:
+    cameraAngle: "close-up on Major Major's anxious face and darting eyes"
+    focus: "eyes avoiding direct contact even with camera, showing pathological avoidance"
+    depth: "foreground emphasizes nervous facial expressions, middle ground shows escape preparations, background reveals institutional setting being abandoned"

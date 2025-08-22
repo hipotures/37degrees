@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "War Patterns Repeating Throughout History"
+  setting:
+    time: "Multiple war periods overlapping showing eternal conflict cycle"
+    location: "Generic valley location showing battles across different historical periods"
+    weather: "Various combat weather conditions from different wars merging"
+  characters:
+    - appearance: "Soldiers representing different war eras appearing in temporal layers"
+      clothing: "Military uniforms from various periods - medieval armor, Napoleonic dress, Civil War blue and gray, WWI doughboy gear, WWII equipment, Vietnam fatigues"
+      position: "Warriors from different centuries occupying same battlefield terrain"
+      action: "Cyclical warfare showing human conflict as repeating pattern across history rather than progressive evolution, no text or letters visible"
+  scene:
+    mainElements: "Valley terrain showing accumulated evidence of conflicts across millennia, weapons and military technology evolution, battlefield medical care progression"
+    details: "Ancient spears mixing with modern rifles, cavalry charges overlapping tank movements, field communication evolution from drums to radios, medical tents showing treatment advancement"
+    background: "Landscape geology remaining constant while human technology and tactics evolve around eternal conflict patterns"
+    atmosphere: "Tragic recognition that despite technological progress, war represents unchanging human pattern of violence and loss"
+  composition:
+    cameraAngle: "Wide valley shot showing multiple battle eras as ghostly overlays"
+    focus: "Terrain as witness to repeating historical cycles of human conflict"
+    depth: "Layered historical periods showing war as eternal rather than progressive human activity"

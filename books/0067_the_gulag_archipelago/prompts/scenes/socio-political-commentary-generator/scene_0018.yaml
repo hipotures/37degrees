@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Hidden Symbol - First Spark of Rebellion"
+  setting:
+    time: "1952, night"
+    location: "Dark alley where forbidden symbols appear on walls"
+    weather: "Cover of darkness providing concealment for resistance"
+  characters:
+    - appearance: "Shadowy figure creating forbidden markings, face partially hidden but showing determination"
+      clothing: "Dark clothing for concealment, ordinary worker's garments that don't attract attention"
+      position: "Crouched near wall, working quickly and quietly"
+      action: "Painting small symbol of resistance on wall, checking for surveillance, preparing to disappear"
+  scene:
+    mainElements: "Small but powerful symbol painted on official propaganda poster, forbidden image contrasting with approved messages, darkness concealing act of rebellion"
+    details: "Simple but unmistakable symbol of resistance appearing over official propaganda, paint still wet from recent application, other small signs of covert resistance barely visible, tools hastily concealed"
+    background: "Network of surveillance infrastructure that failed to prevent this act, systematic control apparatus showing first crack"
+    atmosphere: "Dangerous defiance of total control, first evidence that human spirit cannot be completely suppressed, spark of hope in oppressive environment"
+  composition:
+    cameraAngle: "Close-up on forbidden symbol contrasted with wide shot showing surveillance context"
+    focus: "Small act of rebellion against massive control system"
+    depth: "Foreground shows symbol of resistance, middle ground reveals immediate danger, background demonstrates systematic control being challenged"

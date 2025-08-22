@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1948 late night
+    location: cramped smoky basement club with low ceiling, small stage barely fitting musicians, tiny crowded tables, dark
+      walls possibly brick covered with posters
+    weather: indoor venue, no external weather
+  characters:
+  - appearance: Black saxophone player in 30s with sweat-glistened face, eyes closed in musical trance
+    clothing: white dress shirt with sleeves rolled up, dark vest, loosened tie
+    position: center stage leaning into microphone
+    action: blowing saxophone with entire body swaying, instrument reflecting stage lights
+  - appearance: 25-year-old man, 180 cm tall with athletic but lean build, dark brown thick wavy hair slightly disheveled,
+      dark deep-set melancholic eyes, strongly defined jaw with boyish features, thoughtful and introspective expression
+    clothing: khaki pants or worn wool trousers, flannel plaid shirts or simple collared shirts, weathered tweed jacket or
+      leather jacket, functional but reflecting intellectual Eastern background
+    position: seated at small table near stage
+    action: leaning forward with body unconsciously moving to rhythm, transfixed by musical performance
+  scene:
+    mainElements: saxophone's brass surface catching and throwing light with each movement, visible breath patterns shown
+      through instrument's shine and musician's chest expansion, audience bodies responding involuntarily to rhythmic patterns,
+      sound waves visualized through moving objects
+    details: Saxophone bell gleaming as it sways side to side, keys flashing under spotlights as fingers dance rapidly across
+      them, musician's chest rising and falling with deep breaths powering sound, drinks trembling slightly on tables from
+      bass vibrations, cigarette smoke moving in currents created by sound waves, pianist's hands blurring over keys in background
+    background: stage with saxophone, piano, drums and bass instruments, musicians' faces focused and sweaty, mixed racial
+      crowd in eclectic styles, beat generation members in casual clothes alongside elegantly dressed couples
+    atmosphere: dark browns, blacks, red brick colors, atmospheric spotlighting focused on stage while rest of venue drowns
+      in darkness lit only by glowing cigarette ends and instrument reflections, thick cigarette smoke creating visible streaks
+      in air
+  composition:
+    cameraAngle: low angle from audience perspective looking up at musician
+    focus: saxophone as sound-producing object with visual evidence of musical creation
+    depth: gleaming instrument in sharp foreground, swaying musician in middle ground, responsive audience faces fading into
+      smoky background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

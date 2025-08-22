@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Liberty Paints - Multiple Angle Industrial Documentation"
+  setting:
+    time: "1940s, daytime"
+    location: "Industrial paint manufacturing facility on Long Island, 1940s, large-scale factory with modern equipment and corporate signage"
+    weather: "Clear industrial day revealing all operational details"
+  characters:
+    - "No characters present in this scene"
+  scene:
+    mainElements: "Large neon sign reading 'KEEP AMERICA PURE WITH LIBERTY PAINTS', mixing vats, pipes, gauges, conveyor systems, basement boiler room"
+    details: "Multi-angle documentation exposes factory's contradictory reality - main floor showcases modern industrial efficiency with clean white surfaces and corporate branding, basement reveals dangerous working conditions with exposed machinery and inadequate safety measures, mixing process requires precise addition of black chemical drops to achieve pure white paint, corporate signage emphasizes racial purity while depending on Black labor, architectural design segregates clean administrative areas from dirty production spaces"
+    background: "Industrial Long Island landscape with other manufacturing facilities, transportation infrastructure serving corporate interests"
+    atmosphere: "Surreal corporate environment embodying racial hypocrisy of America, sterile white surfaces masking industrial exploitation and hidden racial dependencies"
+  composition:
+    cameraAngle: "Multiple perspectives revealing hidden aspects invisible from single viewpoint"
+    focus: "Industrial process contradictions between corporate image and operational reality"
+    depth: "Foreground shows surface appearances, middle ground reveals operational mechanisms, background exposes broader industrial context, no text or letters visible"

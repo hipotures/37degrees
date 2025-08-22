@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1944, morning
+    location: Colonel's office on Pianosa base
+    weather: bright Mediterranean morning
+  characters:
+  - appearance: 28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin,
+      Assyrian heritage, intelligent but tired and restless eyes
+    clothing: USAAF officer khaki uniform
+    position: standing defiantly before colonel's desk
+    action: rejecting authority's final compromise offer
+  scene:
+    mainElements: military office with colonel's desk, official papers scattered, bureaucratic symbols of power
+    details: Yossarian stands rejecting the colonel's deal that would send him home as hero in exchange for endorsing the
+      mission system. His refusal represents metaphorical final blow against institutional corruption. The rejection shatters
+      the authority's confidence that everyone can be bought or compromised through self-interest.
+    background: military office with regulation books, framed portraits of military hierarchy, communication equipment
+    atmosphere: individual moral choice defeating institutional manipulation, mixture of personal liberation and system rejection
+  composition:
+    cameraAngle: medium shot showing defiant stance against authority
+    focus: metaphorical visualization of moral argument as decisive blow against corruption
+    depth: foreground shows rejection of compromise, middle ground captures confrontation, background reveals institutional
+      power being challenged
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Late 1930s, evening
+    location: Crowded Chicago South Side street during rush hour
+    weather: Cold winter evening with gathering darkness
+  characters:
+  - appearance: 20-year-old African American man with average height and lean build, dark skin, short black hair cut close
+      to the head, intense dark eyes that dart between fear and suppressed anger, face often tense with clenched jaw
+    clothing: worn-out, ill-fitting clothes in faded colors - old pants, simple shirt, thin worn jacket, all in muted grays
+      and browns, old scuffed shoes
+    position: standing still in center of moving crowd
+    action: looking around with expression of doubt and sadness, isolated despite being surrounded by people, questioning
+      the system he sees around him
+  - appearance: Crowd of African American residents moving past, faces showing resignation and weariness, all dressed similarly
+      in work clothes
+    clothing: identical worn work clothes, similar colors and styles showing economic uniformity, tired expressions
+    position: flowing around the stationary central figure
+    action: hurrying past without making eye contact, absorbed in daily survival, ignoring individual suffering
+  scene:
+    mainElements: Crowded urban street scene emphasizing isolation within community, showing how systemic oppression creates
+      alienation even among those who share similar circumstances
+    details: Single figure standing motionless while crowd flows around him like water around a stone, faces in crowd showing
+      exhaustion and preoccupation with survival, street lights creating harsh shadows, urban environment showing wear and
+      neglect, everyone moving with purpose but no joy
+    background: Deteriorating tenement buildings, inadequate street lighting, signs of urban decay, other isolated figures
+      visible in doorways and alleys, industrial smoke in distance
+    atmosphere: Profound loneliness and alienation even within community, sense of individual consciousness awakening to injustice
+      while others remain absorbed in survival, beginning of critical awareness that separates individual from crowd
+  composition:
+    cameraAngle: Medium shot with central figure in sharp focus, crowd blurred in motion around him
+    focus: The emergence of individual critical consciousness within mass of people focused on survival
+    depth: Foreground shows the isolated questioning figure, middle ground captures the flowing crowd ignoring him, background
+      reveals urban environment that shapes all their lives
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

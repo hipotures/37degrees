@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Latrine Warning Scents - Sanitation Crisis Through Olfactory Alarm"
+  setting:
+    time: "January 1951, various times, daily necessity"
+    location: "Camp latrine facilities in Soviet prison camp, primitive sanitation area"
+    weather: "Outdoor facility exposed to freezing temperatures"
+  characters:
+    - appearance: "40-year-old man, medium height, lean and wiry build, deeply weathered and sunburned face marked by deep wrinkles around eyes and mouth, shaved head with stubble, several days of graying beard growth, missing half his teeth due to scurvy"
+      clothing: "Black padded prison jacket and pants (vatnik), dirty and patched in places, white rectangular patches with black painted number Sh-854 sewn on cap front, chest, back, and left knee, ushanka fur cap, felt boots (valenki)"
+      position: "Approaching latrine area with obvious reluctance and necessity"
+      action: "Breathing carefully and preparing for unpleasant but necessary biological function"
+  scene:
+    mainElements: "Primitive outdoor latrine structure with basic wooden construction, multiple stalls or openings, minimal privacy or weather protection"
+    details: "Frozen waste materials creating concentrated aromatic warnings about sanitation crisis, visible vapor and particles indicating overwhelming olfactory assault. Prisoners approaching with covered noses and mouth breathing showing defensive reactions to intense odors. Atmospheric distortion around latrine area showing concentration of warning scents, visual evidence of health hazards through environmental effects. Ice formation creating temporary preservation and concentration of waste aromas, paradoxical preservation of unpleasant scents by freezing temperatures. Steam and vapor rising from warmer biological materials contrasting with frozen surroundings, no text or letters visible"
+    background: "Basic wooden structure providing minimal shelter, other camp buildings visible in distance, open exposure to elements"
+    atmosphere: "Olfactory warning system indicating health risks and sanitation failure, scent as survival information about disease and contamination, biological reality of overcrowding and poor infrastructure"
+  composition:
+    cameraAngle: "Medium shot showing approach and defensive reactions to overwhelming scent"
+    focus: "Defensive body language and atmospheric distortion showing scent intensity"
+    depth: "Foreground: defensive reactions and atmospheric effects, middle: latrine structure, background: camp infrastructure showing systemic problems"

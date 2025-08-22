@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening
+    location: Hotel ballroom in Southern town, smoky interior with portable boxing ring
+    weather: Indoor environment thick with cigar smoke and tension
+  characters:
+  - appearance: Young African American man, age varying by scene from late teens to mid-twenties, average build and height,
+      generic facial features designed to be overlooked
+    clothing: Clothing changes throughout story - student uniform, business suit, workers' coveralls, or street clothes depending
+      on imposed identity
+    position: Center of boxing ring with white blindfold covering eyes
+    action: Swinging wildly with blindfolded desperation, trying to avoid blows while maintaining dignity
+  scene:
+    mainElements: Portable boxing ring surrounded by laughing wealthy white men in evening wear, cigar smoke creating hazy
+      atmosphere, electric carpet with fake coins
+    details: Through blindfolded narrator's terrified perspective, sounds become amplified and distorted - laughter echoes
+      like demonic chorus, footsteps thunder around ring, other boys' breathing seems magnified, his own heartbeat pounds
+      like drums, smells of sweat, blood, cigars and alcohol overwhelm senses, sense of space distorted by blindness making
+      ring feel simultaneously tiny and vast, white voices blur into cruel symphony
+    background: Shadowy figures of white men blurred by smoke and blindfold, hotel ballroom walls seeming to press inward
+    atmosphere: Ritualistic violence disguised as entertainment, dehumanizing spectacle designed to reinforce racial hierarchy
+  composition:
+    cameraAngle: Subjective viewpoint from behind narrator's blindfold, world appears darkened and distorted
+    focus: Disorienting darkness with occasional glimpses of movement and light
+    depth: Immediate foreground dominated by blindfold's white fabric, middle ground shows other struggling figures, background
+      dissolves into threatening shadows, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

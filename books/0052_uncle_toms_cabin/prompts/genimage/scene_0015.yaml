@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1851, evening
+    location: Crowded slave quarters where individual humanity is lost in mass living conditions
+    weather: Dimming twilight creating shadows and isolation
+  characters:
+  - appearance: Young woman in early 20s, intelligent and beautiful, light brown complexion (quadroon), rich full dark eyes
+      with long lashes, silky black hair, delicate hands and graceful figure
+    clothing: Neatly fitted dress when at Shelby plantation, later torn and bloodied clothing during escape, sometimes disguised
+      in men's clothing with hair cut short
+    position: Alert stance ready for flight, or protectively holding her child
+    action: Caring for her child Harry or making desperate movements during escape
+  - appearance: Multiple other people crowded into shared living space, various ages and conditions
+    clothing: Mix of worn work clothes, patched garments, shared or borrowed items
+    position: Packed into small space with minimal privacy or personal area
+    action: Going about evening routines in cramped conditions, some socializing, others seeking solitude
+  scene:
+    mainElements: Overcrowded living quarters with multiple families sharing minimal space, few personal possessions, basic
+      furniture and sleeping arrangements
+    details: Personal items reduced to bare necessities, shared cooking and eating facilities, minimal privacy with curtains
+      or dividers, children playing in limited space, adults finding moments of quiet contemplation
+    background: Additional crowded quarters suggesting systematic overcrowding, contrast with spacious main plantation house,
+      evening work continuing outside
+    atmosphere: Individual humanity struggling to survive in dehumanizing conditions, small acts of personal dignity despite
+      systematic oppression, loneliness possible even in crowded conditions
+  composition:
+    cameraAngle: Close-up on individual face surrounded by crowd
+    focus: The preservation of individual humanity despite systematic attempts to erase it
+    depth: Foreground shows detailed individual expression and emotion, middle ground reveals crowded living conditions, background
+      suggests the larger system creating these conditions
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

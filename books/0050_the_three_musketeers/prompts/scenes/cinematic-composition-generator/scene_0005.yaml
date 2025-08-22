@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Carmelite monastery dueling ground set for honor combat at blazing noon"
+  setting:
+    time: "April 1625, precisely noon with sun at zenith creating minimal shadows"
+    location: "Secluded ground near Carmelite monastery in Paris, traditional location for illegal duels away from authorities"
+    weather: "Brilliant clear day with intense overhead sunlight creating harsh lighting"
+  characters:
+    - appearance: "18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning, overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth and manhood"
+      clothing: "Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers"
+      position: "Center of dueling ground facing three musketeers, hand on sword hilt, tense but determined stance"
+      action: "Preparing for multiple duels while showing nervous energy mixed with fierce Gascon pride and determination to prove himself worthy"
+    - appearance: "Approximately 30 years old, tall man with noble distinguished bearing, regular aristocratic features marked by deep melancholy, pale complexion suggesting inner suffering, reserved dignified posture"
+      clothing: "Impeccably elegant but restrained attire in dark subdued colors, high-quality materials without ostentation, always immaculately groomed and formal"
+      position: "Primary opponent position, maintaining dignified distance while favoring wounded shoulder"
+      action: "Standing with controlled dignity despite recent injury, demonstrating aristocratic composure before combat"
+    - appearance: "25-35 years old giant with proud bearing, very tall and powerfully built muscular frame, jovial face prone to boastful smiles, loud extroverted demeanor"
+      clothing: "Ostentatious fashionable garments in bright colors with gold embroidery and expensive lace, elaborate accessories displaying wealth even when living beyond means"
+      position: "Secondary position as witness and next scheduled opponent, confident relaxed stance"
+      action: "Observing proceedings with amused confidence while preparing for his own turn at combat"
+    - appearance: "22-23 years old young man with gentle innocent countenance, extremely handsome with delicate almost feminine features, refined scholarly appearance better suited to poet or diplomat than battle-hardened soldier"
+      clothing: "Immaculately elegant refined garments with subtle luxurious fabrics, somewhat effeminate attention to detail including embroidered handkerchiefs and perfectly manicured hands"
+      position: "Third position as final scheduled opponent, graceful but alert stance"
+      action: "Watching with subtle calculation while maintaining facade of disinterested elegance and scholarly detachment"
+  scene:
+    mainElements: "Open ground near monastery walls providing secluded space for illegal dueling, stone architecture creating formal backdrop, religious setting adding irony to coming violence"
+    details: "Sparse dueling ground with packed earth, monastery walls providing partial enclosure and privacy, religious architecture visible but distant, minimal vegetation allowing clear movement, shadows at minimum due to overhead sun position"
+    background: "Carmelite monastery buildings with their austere religious architecture, partially visible Parisian rooftops beyond walls, church bells and spires suggesting urban context while maintaining isolation"
+    atmosphere: "Tense anticipation before combat with religious irony, blazing noon heat adding to pressure, formal courtesy masking deadly intent, moment of calm before storm of violence"
+  composition:
+    cameraAngle: "Wide master shot showing complete dueling arena with all participants positioned and ready, emphasizing spatial relationships before action"
+    focus: "Four young men arranged for combat with D'Artagnan isolated against three musketeers, tension visible in body language and positioning"
+    depth: "Foreground: main participants in dueling formation, middle ground: open combat space and monastery walls, background: religious architecture and distant urban landscape, no text or letters visible"

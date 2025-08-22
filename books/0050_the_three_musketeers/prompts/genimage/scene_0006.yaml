@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: April 1625, blazing noon with harsh overhead lighting
+    location: Dueling ground near Carmelite monastery in Paris during moment of deadly serious confrontation
+    weather: Brilliant clear day with intense direct sunlight creating dramatic shadows
+  characters:
+  - appearance: 18-year-old young man with long, swarthy southern French face, prominent cheekbones marking Gascon cunning,
+      overdeveloped jaw muscles, open intelligent eyes, curved but subtle nose, slender build still forming between youth
+      and manhood
+    clothing: Simple, practical garments - initially worn blue woolen doublet faded to nameless shade between wine sediment
+      and heavenly blue, plain hat with single feather, later clean military uniform befitting King's Guards then Musketeers
+    position: Face filling frame with eyes slightly above center line, intense focus on facial expression
+    action: Expressing fierce Gascon pride mixed with nervous energy, jaw muscles tensed with determination, eyes burning
+      with ambition and wounded honor
+  scene:
+    mainElements: Extreme close focus on young provincial's face revealing character through micro-expressions, southern French
+      features marking his outsider status among Parisian elite
+    details: Prominent cheekbones casting sharp shadows, intelligent eyes showing mix of calculation and passionate determination,
+      slight perspiration from tension and heat, jaw set with stubborn pride, lips compressed with resolve
+    background: Completely out of focus monastery walls and blurred figures suggesting combat situation, shallow depth isolating
+      subject from chaotic environment
+    atmosphere: Intense psychological pressure and determination, heat of noon sun adding physical stress to emotional tension,
+      moment of personal transformation from provincial youth to potential hero
+  composition:
+    cameraAngle: Extreme close-up shot with face filling entire frame, allowing detailed study of character through facial
+      features and expressions
+    focus: Sharp focus only on eyes and central facial features with everything else falling into soft blur, emphasizing internal
+      struggle and determination
+    depth: 'Foreground: nothing visible, middle ground: precisely focused facial features showing character, background: completely
+      blurred environment suggesting isolation, no text or letters visible'
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

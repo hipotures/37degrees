@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Verdict - Moral Victor's Posture"
+  setting:
+    time: "1944, morning"
+    location: "administrative building on Pianosa base"
+    weather: "bright Mediterranean sunlight"
+  characters:
+    - appearance: "28 years old, tall man with broad shoulders, dark thick hair, strong physical build, tanned unblemished skin, Assyrian heritage, intelligent but tired and restless eyes"
+      clothing: "USAAF officer khaki uniform"
+      position: "standing upright with shoulders back"
+      action: "maintaining dignity after moral victory over institutional corruption"
+  scene:
+    mainElements: "military administrative building interior with official furnishings, paperwork, symbols of bureaucratic authority"
+    details: "Yossarian stands with upright posture and confident expression after rejecting the colonel's corrupt bargain. His body language shows triumph of individual conscience over institutional pressure. Despite facing consequences, his bearing demonstrates that moral victory transcends official punishment. Shoulders back, head high, representing uncompromised integrity."
+    background: "military administrative setting with desks, filing cabinets, official portraits, regulatory documents"
+    atmosphere: "moral triumph over institutional corruption, mixture of personal dignity and systemic defiance"
+  composition:
+    cameraAngle: "medium shot emphasizing dignified upright posture"
+    focus: "confident bearing of someone who has won moral battle"
+    depth: "foreground shows victorious stance, middle ground captures institutional setting being rejected, background reveals bureaucratic power structure"

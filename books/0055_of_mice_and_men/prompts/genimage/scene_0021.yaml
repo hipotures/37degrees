@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1930s, evening at riverbank after climactic events
+    location: Secluded bend of Salinas River near Soledad California, same peaceful clearing as opening
+    weather: Gentle rain beginning to fall, washing the air clean
+  characters:
+  - appearance: Small, quick man in late 20s, dark tanned face from outdoor work, sharp angular features, thin bony nose,
+      large restless dark eyes, small strong hands, lean wiry build
+    clothing: Denim pants and denim jacket with brass buttons, black shapeless hat, worn work boots
+    position: Sitting on riverbank with head tilted back to feel rain
+    action: Eyes closed as water runs down face mixing with tears, shoulders finally relaxed after long tension, breathing
+      deeply for first time
+  - appearance: Ageless man could be 35 or 50, tall with hatchet face, long black damp hair slicked back, large lean hands
+      with delicate movements like temple dancer
+    clothing: Denim pants and jacket, crushed Stetson hat, typical ranch worker attire but carries natural authority
+    position: Standing nearby in respectful silence
+    action: Removing hat in gesture of respect and understanding, face showing quiet compassion, body language offering support
+      without intrusion
+  scene:
+    mainElements: Same peaceful river setting as story's beginning but now cleansed by gentle rain, green water still reflecting
+      sky, willows fresh and dripping
+    details: Rain creating circles on water surface, path still worn but feeling renewed, pile of ashes from old campfire
+      washed clean, natural world continuing its eternal cycle
+    background: Golden hills now soft in rain, distant mountains shrouded in mist, sense of peace returning to landscape
+    atmosphere: Catharsis and release through cleansing rain, exhausted but peaceful postures, breathing spaces opening up
+      after terrible compression
+  composition:
+    cameraAngle: Medium shot showing both figures in rain-washed landscape
+    focus: The cleansing effect of rain and natural cycle of renewal
+    depth: Foreground shows peaceful human figures, middle ground captures renewed natural sanctuary, background suggests
+      eternal continuity
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

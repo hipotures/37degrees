@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: 1930, late evening
+    location: Isolated farmhouse in rural Georgia countryside, early-to-mid 20th century American South, surrounded by agricultural
+      fields
+    weather: Still night with clear stars
+  characters: No characters present in this scene
+  scene:
+    mainElements: Bundle of yellowed letters tied with string, bearing exotic African stamps, hidden for decades under loose
+      floorboard in Mister's house, physical proof of love and connection across time and distance. Close focus on aging documents
+    details: Papers yellowed with age, ink fading but still legible, string worn from handling, African stamps colorful against
+      aged paper. Stack growing thicker as years pass, testament to persistent love
+    background: Dark hiding space under floorboards, wooden beams and shadows, secrecy preserving but also imprisoning communication
+    atmosphere: Time as thief and preserver, letters aging while remaining unread, hidden truth gathering power through years
+      of concealment
+  composition:
+    cameraAngle: Extreme close-up of letters showing texture and age
+    focus: Physical deterioration contrasted with enduring emotional content
+    depth: 'Foreground: detailed letter surfaces, shallow focus emphasizing precious documents'
+visualElements:
+  colorPalette:
+    primary:
+    - bright red
+    - vivid blue
+    - sunny yellow
+    secondary:
+    - grass green
+    - purple
+    - orange
+    background: simple flat colors or patterns
+    usageNotes: Intense, saturated colors used intuitively
+    saturation: very high (bold, pure colors)
+    contrast: high (bright colors against each other)
+  lineArt:
+    style: simple, direct outlines
+    weight: consistent, moderate thickness
+    color: dark outlines or color boundaries
+    texture: hand-drawn quality, slight irregularities
+    edgeTreatment: simple, clean edges
+  lighting:
+    type: flat, even lighting (no sophisticated shading)
+    direction: front-lit, minimal shadows
+    intensity: bright, cheerful
+    shadows:
+      style: simple, flat shadows if any
+      color: darker version of base color
+      opacity: solid
+    highlights: minimal, simple bright spots
+  rendering:
+    technique: direct, intuitive application
+    texture: flat colors with simple patterns
+    detailLevel: high in some areas (obsessive detail), simple in others
+    finish: flat, matte appearance
+  perspective: flattened or incorrect perspective, childlike spatial relationships
+  mood:
+    overall: cheerful, innocent, direct
+    emotion: joy, simplicity, honesty
+    tempo: peaceful, content
+    keywords:
+    - cheerful
+    - innocent
+    - direct
+    - honest
+    - joyful
+  stylePrecedents:
+  - Henri Rousseau jungle paintings
+  - Grandma Moses rural scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

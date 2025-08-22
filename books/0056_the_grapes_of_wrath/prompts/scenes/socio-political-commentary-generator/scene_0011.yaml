@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Human Machinery - Workers as Industrial Components"
+  setting:
+    time: "1930s, pre-dawn"
+    location: "Large-scale agricultural processing facility in California Central Valley"
+    weather: "Artificial harsh lighting eliminating natural rhythms"
+  characters:
+    - appearance: "Groups of men, women and children of various ages, faces weathered by sun and hardship, bodies lean from inadequate food, eyes showing mixture of hope and desperation."
+      clothing: "Patched work clothes, faded dresses, worn shoes or barefoot children, clothes dusty from travel"
+      position: "Standing in identical formations at workstations like machine parts"
+      action: "Performing repetitive motions in perfect synchronization, faces blank and expressionless, movements automated like mechanical components"
+  scene:
+    mainElements: "Workers arranged in assembly line formation performing identical repetitive tasks, supervisors with stopwatches timing human efficiency, mechanical rhythm imposed on human labor"
+    details: "Dehumanizing industrial organization treating people as replaceable machine parts. Workers maintain identical posture and timing. No individual expression or variation allowed. Supervisors measure human efficiency with mechanical precision. Workers' faces show exhaustion and loss of individual identity"
+    background: "Vast industrial facility with conveyor belts and machinery that workers must match in pace and precision"
+    atmosphere: "Mechanical rhythm drowning out human voices, repetitive sounds of industrial production, loss of individual humanity to collective efficiency"
+  composition:
+    cameraAngle: "Elevated angle showing human workers as components in larger machine"
+    focus: "Repetitive patterns of human movement mimicking mechanical processes"
+    depth: "Workers in foreground blend into identical patterns extending through middle ground to mechanical background, showing integration of human and machine"

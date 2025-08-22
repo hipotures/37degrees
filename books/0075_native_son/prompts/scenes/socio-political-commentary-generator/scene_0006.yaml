@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surveillance Eyes Watching"
+  setting:
+    time: "Late 1930s, evening"
+    location: "Chicago South Side Black Belt, street corners and building walls"
+    weather: "Cold winter evening with gathering darkness"
+  characters:
+    - appearance: "uniformed white police officers, middle-aged men with stern authoritative expressions, alert postures showing constant vigilance"
+      clothing: "heavy winter police uniforms with badges, caps, and clubs visible, dark wool coats over uniforms, leather boots"
+      position: "stationed at strategic street corners throughout the neighborhood"
+      action: "watching all movement in the area with suspicious attention, hands near weapons, making their presence intimidating"
+  scene:
+    mainElements: "Multiple uniformed police officers positioned at key intersections throughout the African American neighborhood, creating atmosphere of constant surveillance and control"
+    details: "Police officers positioned every few blocks, some standing under street lamps, others in shadow but clearly visible, patrol cars parked prominently, officers with hands near nightsticks and pistols, residents forced to walk carefully around police presence, atmosphere of tension and fear in normal neighborhood interactions"
+    background: "rundown tenement buildings of the South Side Black Belt, poorly lit streets with inadequate street lamps, residents hurrying past trying to avoid attention, shops closing early due to police presence"
+    atmosphere: "Oppressive surveillance creating climate of fear and control, police presence designed to intimidate rather than protect, demonstration of how law enforcement maintains racial boundaries and suppresses African American community"
+  composition:
+    cameraAngle: "Medium shot showing multiple police positions across the neighborhood"
+    focus: "The network of surveillance and control imposed on the African American community"
+    depth: "Foreground shows detailed view of police authority, middle ground captures the intimidated residents, background reveals the extent of surveillance coverage"

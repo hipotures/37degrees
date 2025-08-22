@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1840s aftermath, dawn of new day
+    location: Vast Pacific waters far from any land, whale hunting grounds
+    weather: Clear morning with gentle swells
+  characters:
+  - appearance: Young man in early twenties, average height and build suitable for ship work, practical appearance of experienced
+      mariner
+    clothing: Worn canvas trousers, rough wool flannel shirt, weather-beaten 'shaggy jacket' of heavy cloth, simple leather
+      boots
+    position: Standing observantly at ship's rail or working with hands on rigging and ropes
+    action: Watching horizon with contemplative expression, hands steady from sea experience, posture of thoughtful observer
+  scene:
+    mainElements: Simple brass ship's compass, no longer broken but somehow made whole, floats on water surface with needle
+      pointing steadily toward true north for the first time
+    details: The same compass seen broken in the story's beginning now floats miraculously on the calm sea, its brass case
+      sealed and gleaming, glass uncracked, needle steady and true. Water supports the instrument as if it were solid ground,
+      and the compass face shows clear directions for the first time. Around it float other navigation tools - all functioning
+      perfectly, no longer spinning wildly or pointing in wrong directions. The morning sun aligns perfectly with the compass
+      points, confirming the accuracy of the readings. Nature and human instruments finally work in harmony, no text or letters
+      visible
+    background: Endless rolling swells extending to horizon, occasional whale spouts in distance, scattered floating debris
+    atmosphere: The restored compass represents found direction and the harmony between human purpose and natural order achieved
+      through surviving catastrophe and finding true guidance
+  composition:
+    cameraAngle: Close-up on floating compass with steady needle
+    focus: Brass compass pointing true north as symbol of found direction
+    depth: Floating compass in immediate foreground, calm water surface in middle distance, clear horizon with rising sun
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
