@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1780s, winter evening
+    location: Interior of De Lacey cottage viewed through window crack from creature's hiding place
+    weather: Snow falling softly outside, cold winter night
+  characters:
+  - appearance: Mature gentleman aged approximately 50-60 years showing dignity of respected Genevese magistrate, graying
+      hair reflecting wisdom and experience, kind eyes expressing paternal love and concern, features bearing marks of grief
+      from family tragedies
+    clothing: Simple practical clothing appropriate to household servant including plain dark colored dress with white apron,
+      modest white cap covering hair, sturdy shoes for daily work, during trial wearing black mourning dress showing her distress
+    posture: Humble respectful bearing appropriate to servant role, natural dignity despite lower social position, increasingly
+      dejected posture as false accusation destroys her reputation
+    action: Performing household duties with cheerful efficiency, caring tenderly for young William, standing trial with quiet
+      dignity despite false charges, or facing execution as innocent victim of circumstantial evidence
+  - appearance: Young man aged approximately 17-27 years, possessing open handsome features reflecting noble spirit and artistic
+      temperament, healthy robust build from outdoor activities, expressive eyes showing warmth and human kindness, countenance
+      radiating natural goodness and intellectual curiosity
+    clothing: Well-made gentleman's attire of late 18th century including fitted dark colored coat, light colored waistcoat,
+      white linen shirt with neat cravat, comfortable traveling clothes when journeying, practical boots suitable for walking
+    posture: Energetic confident stance reflecting enthusiasm for life and learning, animated gestures when discussing poetry
+      or travel, protective stance when caring for ill friend
+    action: Engaging in animated conversation about literature and travel, nursing Victor through illness with devoted care,
+      exploring foreign countries with eager curiosity, or lying murdered as innocent victim of creature's revenge
+  scene:
+    mainElements: Warm cottage interior glowing with firelight, De Lacey family gathered around hearth sharing simple meal,
+      creature's massive form hidden in shadows outside window, snow creating curtain of privacy
+    details: Family members appearing as angels of domestic virtue through creature's longing eyes, their simple gestures
+      of care and affection seeming more precious than royal ceremonies, firelight creating halos around their heads, their
+      humble clothing appearing noble through creature's perception of true worth, shared meal representing communion of souls
+      the creature desperately craves, old De Lacey's blindness marking him as potentially wise judge who sees beyond appearances,
+      no text or letters visible
+    background: Cold winter landscape where creature shivers in exile, warm cottage representing everything denied to him
+    atmosphere: Overwhelming longing for belonging and family love, cottage appearing as sanctuary of human goodness, creature's
+      education in virtue through observation of genuine nobility of spirit despite poverty
+  composition:
+    cameraAngle: Creature's hidden perspective through small window opening, family appearing framed like precious painting
+    focus: De Lacey family's mutual love and care glowing more brightly than fire in hearth
+    depth: Foreground shows creature's concealment in darkness, middle ground captures idealized family scene, background
+      suggests warmth and acceptance forever beyond creature's reach
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

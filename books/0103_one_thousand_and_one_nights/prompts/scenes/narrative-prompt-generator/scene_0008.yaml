@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Royal Wedding Chamber at Midnight"
+  setting:
+    time: "Midnight, Sasanian Persian Empire"
+    location: "Opulent royal bedchamber prepared for wedding night, filled with luxury but overshadowed by death sentence"
+    weather: "Interior scene with oil lamps creating dramatic lighting and deep shadows"
+  characters:
+    - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+      clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+      position: "Seated gracefully with erect spine, hands positioned expressively for storytelling, calm and dignified demeanor"
+      action: "Narrating with subtle hand gestures, maintaining steady eye contact, speaking with measured cadence"
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Initially rigid and imperious, gradually softening to leaning forward attentively, shoulders relaxing over time"
+      action: "Listening intently to stories, facial expressions shifting from stone-faced to engaged, occasional questioning gestures"
+    - appearance: "Young woman aged 17 years with delicate features resembling her older sister, innocent expression with wide trusting eyes, graceful but more youthful bearing"
+      clothing: "Elegant but simpler robes appropriate for younger daughter of noble house, lighter jewelry, hair arranged in youthful style"
+      position: "Seated quietly nearby ready to prompt continuation of story"
+      action: "Waiting attentively to request story at appropriate moment"
+  scene:
+    mainElements: "Luxurious bedchamber with silk hangings, ornate carpets, low furnishings with cushions, multiple oil lamps creating warm light, royal bed with rich coverings"
+    details: "Persian carpets with intricate patterns covering marble floor, silk curtains in rich colors hanging from ceiling, brass oil lamps casting flickering shadows on walls, ornate furniture inlaid with precious materials, incense burning with exotic fragrances, jeweled vessels and royal accessories, no text or letters visible"
+    background: "Carved wooden screens and doorways, palace corridors beyond chamber, night sounds filtered through thick walls"
+    atmosphere: "Tension between luxury and mortal danger, intimate setting for life-or-death storytelling, heavy perfumes masking fear, dramatic lighting creating both beauty and menace"
+  composition:
+    cameraAngle: "Medium shot capturing intimate triangle of three figures"
+    focus: "Storyteller as central figure with king and sister as engaged audience"
+    depth: "Storytelling group in center, luxurious furnishings framing scene, shadowy chamber extending beyond"

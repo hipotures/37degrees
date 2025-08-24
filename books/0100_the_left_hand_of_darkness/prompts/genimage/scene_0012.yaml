@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, winter day, overcast natural lighting
+    location: Remote forced labor camp in deforested wilderness of Orgoreyn on planet Gethen, brutal prison facility disguised
+      as voluntary farm
+    weather: Cold overcast winter day with intermittent snow
+  characters:
+  - appearance: Young Gethenian child approximately 10-12 years old, thin from poor nutrition, large frightened eyes, wearing
+      inadequate clothing for harsh conditions
+    clothing: Torn and insufficient winter garments, thin fabric providing little protection from cold, oversized adult clothing
+      hanging loose
+    position: Huddled near wooden barrack wall trying to stay warm and invisible
+    action: Watching adult prisoners with confusion and terror, unable to comprehend systematic cruelty, seeking comfort from
+      any available adult figure
+  - appearance: Adult prisoners of various ages, all showing effects of forced labor and poor treatment, thin and worn down
+      by harsh conditions
+    clothing: Ragged work clothes and insufficient winter protection, dirty and patched garments
+    position: Moving between barracks and work areas under guard supervision
+    action: Attempting to shield child from worst aspects of camp life while dealing with their own survival needs
+  scene:
+    mainElements: Crude wooden barracks creating oppressive geometric shapes, barbed wire fencing appearing like metallic
+      thorns, muddy compound where nothing grows, guard towers looming as threatening monuments
+    details: Everything appears inexplicably cruel and frightening without adult context for political oppression, sounds
+      of shouting and machinery creating atmosphere of constant threat, cold penetrating through inadequate shelter, adults
+      moving with defeated postures that terrify child observer, no text or letters visible
+    background: Deforested landscape suggesting world stripped of natural comfort, grey sky providing no warmth or hope, distant
+      sounds of logging machinery destroying remaining trees
+    atmosphere: Childhood innocence confronting incomprehensible adult cruelty - systematic oppression appears as inexplicable
+      nightmare where normal protective adults have become powerless and frightened
+  composition:
+    cameraAngle: Low child's eye level emphasizing vulnerability and confusion in hostile environment
+    focus: Contrast between child's need for safety and security and adult world's complete failure to provide protection
+    depth: 'Foreground: huddled frightened child, middle: defeated adult prisoners, background: mechanical infrastructure
+      of systematic oppression'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

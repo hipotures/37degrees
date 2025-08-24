@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Philosophy of Negation - Self-Definition"
+  setting:
+    time: "16th century, evening after Easter walk"
+    location: "High-vaulted, cramped Gothic chamber in 16th-century German university town. Pointed stone arches and walls oppress the scholar figure, symbolizing limitations of medieval scholasticism. Large pointed-arch window with stained glass casts colored light into room."
+    weather: "Night deepening outside, candlelight creating dancing shadows"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Modest dark robes of traveling scholar, but fabric seems to shift and change subtly in candlelight, suggesting deeper deception"
+      position: "Leaning against bookshelf with casual elegance, one hand gesturing philosophically"
+      action: "Speaking with intellectual passion about his nature as force of negation, eyes gleaming with pride in his cosmic role"
+  scene:
+    mainElements: "Philosophical dialogue in progress, Mephistopheles explaining his identity as 'part of that force which always wills evil and always works good.' Books and instruments serve as props for cosmic discussion about nature of existence"
+    details: "This is Mephistopheles' moment of intellectual seduction - he presents himself not as mere tempter but as essential cosmic principle. His argument reveals sophisticated understanding of dialectical necessity: without negation there can be no affirmation, without chaos no order, without destruction no creation. He positions himself as unwitting servant of divine plan, making rebellion seem like cooperation"
+    background: "Gothic study with its religious symbolism becomes ironic backdrop for heretical philosophy. Stained glass window now shows darkened religious scenes seeming to frown on theological discussion"
+    atmosphere: "Intellectual electricity of dangerous ideas being shared between kindred spirits. Air thick with concepts that challenge fundamental assumptions about good and evil, creating intoxicating sense of forbidden knowledge"
+  composition:
+    cameraAngle: "Medium shot capturing both characters engaged in philosophical exchange, emphasizing equality of intellectual discourse"
+    focus: "Mephistopheles' animated gestures and expression as he explains his cosmic role with evident pride"
+    depth: "Foreground: Philosophical gesture and expression. Middle ground: Both figures in animated discussion. Background: Gothic architecture and religious imagery providing ironic commentary"

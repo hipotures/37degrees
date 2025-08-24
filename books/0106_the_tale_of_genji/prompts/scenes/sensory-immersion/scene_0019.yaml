@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Forgotten Bread Char"
+  setting:
+    time: "Late 10th century Japan, late morning in palace kitchens"
+    location: "Imperial Palace Heian-kyō service areas, stone ovens where court meals are prepared"
+    weather: "Clear morning with smoke visible against blue sky"
+  characters:
+    - appearance: "Japanese kitchen servant in simple work clothing, practical cotton robes tied back for work, hair covered with cloth, hands dusted with flour"
+      clothing: "Simple undyed cotton work robes, practical tabi socks, cloth head covering, flour-dusted apron"
+      position: "Standing beside stone ovens, discovering overcooked rice cakes and bread"
+      action: "Removing burnt bread from ovens with wooden paddles, examining charred edges with disappointment, scraping away burnt portions"
+  scene:
+    mainElements: "Stone ovens built into palace kitchen walls, wooden work surfaces, bamboo steaming baskets, ceramic storage jars"
+    details: "Rice cakes show dark burnt edges contrasting sharply with white interior, bread surfaces display gradient from golden brown to deep black char, burnt portions create powdery black residue when scraped, smoke tendrils rise from overheated surfaces, charred crumbs scatter across wooden work surfaces like tiny black pearls, burnt edges crack and flake revealing interior textures, wooden paddles show dark staining from burnt contact, overheated ovens radiate visible heat shimmer, no text or letters visible"
+    background: "Imperial Palace kitchen complex with stone work surfaces, hanging copper pots, storage areas filled with ceramic jars and bamboo baskets"
+    atmosphere: "Kitchen disappointment where perfection fails, bitter lessons of timing and temperature, humble food preparation revealing harsh realities"
+  composition:
+    cameraAngle: "Medium shot showing burnt food textures and kitchen worker's reaction"
+    focus: "Contrasting textures of burnt edges and proper interior, visual evidence of bitter taste"
+    depth: "Burnt bread details in foreground, disappointed kitchen worker in middle ground, busy kitchen environment in background"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 2021, early morning after robot destruction
+    location: U.S. Robots laboratory where Herbie was destroyed
+    weather: Dawn light filtering through laboratory windows
+  characters:
+  - appearance: Maintenance robot clearing away the remains of destroyed telepathic unit
+    clothing: Standard industrial robot design without coverings
+    position: Methodically removing components and cleaning workspace
+    action: Disposing of Herbie's remains with mechanical efficiency
+  - appearance: Laboratory technician documenting the incident for company records
+    clothing: White lab coat over standard work attire
+    position: Standing at distance, taking notes on clipboard
+    action: Recording details of robot destruction for official report
+  scene:
+    mainElements: Empty laboratory table where Herbie sat, scattered electronic components being cleared away, official incident
+      forms being completed
+    details: Scorch marks on table surface from robot's final system failure, books Herbie was reading now boxed for analysis,
+      sterile cleanup erasing all trace of the telepath
+    background: Dawn light revealing the aftermath of psychological warfare, other robots continuing normal operations unaware
+      of their colleague's destruction
+    atmosphere: Clinical aftermath of intellectual murder. The methodical cleanup contrasts with the emotional violence of
+      the previous night's confrontation
+  composition:
+    cameraAngle: Wide shot showing the empty space where dramatic confrontation occurred
+    focus: The systematic erasure of evidence from robot's destruction
+    depth: Foreground shows mechanical cleanup, middle ground the scene of crime, background the institutional machinery that
+      enables such acts
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

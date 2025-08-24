@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: N/A
+    location: A symbolic, abstract landscape.
+    weather: N/A
+  characters:
+  - name: No characters present in this scene
+  scene:
+    mainElements: 'A visual representation of the central philosophical theme of the
+      book: the conflict between free will and determinism. The scene presents two
+      paths, each representing a different vision of humanity.'
+    details: The path on the left is a chaotic, overgrown jungle, representing a world
+      of free will, where good and evil are both possible. The path on the right is
+      a straight, sterile, white corridor, representing a world of determinism, where
+      evil has been eliminated, but so has the freedom to choose. The two paths stretch
+      out to the horizon, and it is unclear which one is preferable.
+    background: A vast, empty sky.
+    atmosphere: A scene of profound philosophical ambiguity. The scene does not offer
+      any easy answers, but instead forces the viewer to confront the difficult question
+      of what it means to be human. Is it better to be good by force, or evil by choice?
+  composition:
+    cameraAngle: A high, wide shot that shows the two paths stretching out to the
+      horizon.
+    focus: The point where the two paths diverge.
+    depth: The scene has a sense of infinite, vast space.
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

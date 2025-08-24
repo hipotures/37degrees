@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, dawn
+    location: The edge of the jungle, overlooking the fields of the man-village.
+    weather: A cool, misty morning. The sun is just beginning to rise.
+  characters:
+  - appearance: A young man of about 17 years old.
+    clothing: Wears a simple loincloth.
+    position: Standing at the edge of the jungle, looking out at the fields.
+    action: His face is filled with a sense of longing and resignation. He knows that he must leave the jungle, his home.
+  - appearance: A woman and a small child.
+    clothing: Traditional Indian clothing.
+    position: In the distance, near the village.
+    action: The woman is Messua, Mowgli's adoptive human mother, and her son. They represent the world that Mowgli must now
+      join.
+  scene:
+    mainElements: Mowgli's decision to leave the jungle. He has finally accepted his human nature.
+    details: The mist hangs low over the fields, creating a soft, dreamlike atmosphere. The rising sun casts a golden glow
+      on the scene. The world of man seems peaceful and inviting from a distance. no text or letters visible
+    background: The dark, silent jungle behind him.
+    atmosphere: A scene of quiet resignation and a bittersweet sense of new beginnings. The end of one life and the start
+      of another. no text or letters visible
+  composition:
+    cameraAngle: Over-the-shoulder shot, looking past Mowgli towards the village.
+    focus: The distant figures of Messua and her child, a symbol of the human connection that Mowgli craves.
+    depth: 'Foreground: Mowgli''s back. Middle ground: the misty fields. Background: the village and the rising sun.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

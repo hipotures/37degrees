@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Tiger's Siesta"
+  setting:
+    time: "19th Century India, midday"
+    location: "A wide, dry ravine with steep sides."
+    weather: "The heat of the day is intense, the air is still."
+  characters:
+    - appearance: "A powerful Bengal tiger, lame in one paw."
+      clothing: "None"
+      position: "Sleeping in the shade of a rock in the middle of the ravine."
+      action: "He is fat and lazy after a big meal, completely unaware of the danger he is in."
+    - appearance: "A boy of about 11 years old."
+      clothing: "Wears a simple loincloth."
+      position: "Peering down into the ravine from the top of the cliff."
+      action: "Signaling to his wolf brothers, his face set with grim determination. The hunt is on."
+    - appearance: "Two gray wolves."
+      clothing: "None"
+      position: "On the opposite cliff, waiting for the signal."
+      action: "Their bodies are tense, ready to spring into action."
+  scene:
+    mainElements: "The trap is set for Shere Khan. Mowgli and his allies prepare to bring down the tyrant."
+    details: "The ravine is a natural trap. The sun beats down, creating a shimmering heat haze. The sense of impending action is palpable. no text or letters visible"
+    background: "The vast, empty plains under a blazing sun."
+    atmosphere: "Tense and suspenseful. The calm before a violent storm. The hunter is about to become the hunted. no text or letters visible"
+  composition:
+    cameraAngle: "High-angle shot, looking down into the ravine at the sleeping tiger."
+    focus: "The vulnerable, sleeping form of Shere Khan, a stark contrast to his usual arrogant demeanor."
+    depth: "Foreground: Mowgli giving the signal. Middle ground: the sleeping tiger. Background: the two wolves on the far cliff."

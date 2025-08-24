@@ -1,0 +1,174 @@
+canon:
+  characters:
+    - id: "candide"
+      name: "Candide"
+      description_block: |
+        characters:
+          - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character. Facial expression evolves from naive innocence to tired determination."
+            clothing: "Varies with circumstances: initially simple relative's clothes (linen shirt, wool vest, brown trousers), later Prussian military uniform (dark blue coat with red facings, white trousers, gaiters), then wealthy gentleman's attire (silk coat, embroidered vest, lace accessories, powdered wig), finally practical work clothes (linen shirt, leather boots)"
+            posture: "Initially moves with shy confidence, gestures open and readable. Later becomes more tired, loses naivety, gains quiet determination"
+            action: "Depends on scene context - from philosophical student to soldier to traveler to farmer"
+
+    - id: "cunegonde"
+      name: "Cunegonde"
+      description_block: |
+        characters:
+          - appearance: "17 years old initially, 25 at end. Initially: full Rubenesque figure, healthy rosy complexion, fresh and appealing. Later: thin and worn, ugly and quarrelsome, bloodshot eyes, withered neck, wrinkled cheeks, dark rough skin from work"
+            clothing: "Initially elegant silk dresses befitting baron's daughter. Later depends on circumstances: luxurious gowns as kept woman or simple servant's attire. Final scenes: plain working dress"
+            posture: "Initially lively, slightly flirtatious movements. Later tired, movements express bitterness and irritation"
+            action: "Varies by scene - from innocent girl to experienced survivor to working woman"
+
+    - id: "pangloss"
+      name: "Pangloss"
+      description_block: |
+        characters:
+          - appearance: "45-55 years old, thin and hunched from reading. Initially wearing spectacles on nose tip. Later severely disfigured by syphilis: covered in sores, sunken eyes, eaten nose, twisted mouth, black teeth. Missing one eye and one ear after treatment"
+            clothing: "Initially dark academic robes suggesting quasi-priestly role. As beggar: dirty rags"
+            posture: "Excessively rhetorical gestures, expression of unwavering self-confidence despite physical ruin"
+            action: "Always philosophizing regardless of circumstances, gesturing with scholarly precision"
+
+    - id: "martin"
+      name: "Martin"
+      description_block: |
+        characters:
+          - appearance: "Around 60+ years old, lean build with intelligent face lined with wrinkles. Gray thinning hair, dark penetrating eyes expressing cynicism and resignation"
+            clothing: "Worn but clean dark scholar's coat showing former better position"
+            posture: "Moves with resigned dignity, carries walking stick"
+            action: "Provides pessimistic commentary, represents cynical philosophy"
+
+    - id: "cacambo"
+      name: "Cacambo"  
+      description_block: |
+        characters:
+          - appearance: "30-40 years old mixed-race Peruvian, sturdy agile build, dark hair and eyes, tanned complexion. Face shows intelligence, resourcefulness and calm"
+            clothing: "Practical traveling attire: leather trousers, strong boots, simple shirt suitable for difficult terrain"
+            posture: "Moves with confident competence, always alert and ready for action"
+            action: "Demonstrates practical loyalty and problem-solving skills"
+
+    - id: "old_woman"
+      name: "Old Woman"
+      description_block: |
+        characters:
+          - appearance: "70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with intelligence and resilience. Characteristic limping gait due to missing buttock. Italian features (daughter of Pope and princess)"
+            clothing: "Plain dark servant's dress"
+            posture: "Moves with dignity despite physical limitations, shows remarkable will to live"
+            action: "Provides wise counsel born from extensive suffering"
+
+    - id: "young_baron"
+      name: "Young Baron (Cunegonde's Brother)"
+      description_block: |
+        characters:
+          - appearance: "17 years old initially, handsome young aristocrat with haughty bearing and contemptuous facial expression, worthy of his father in every way"
+            clothing: "Initially elegant young nobleman's attire, later black Jesuit commander habit"
+            posture: "Arrogant upright posture, movements express aristocratic pride and disdain"
+            action: "Embodies unchanging aristocratic arrogance and obsession with bloodline purity"
+
+    - id: "james_anabaptist"
+      name: "James the Anabaptist"
+      description_block: |
+        characters:
+          - appearance: "Around 50 years old, dignified man with honest, kind face befitting Dutch merchant and peaceful religious sect member"
+            clothing: "Simple but orderly dark bourgeois attire without ornaments"
+            posture: "Upright honest bearing, movements express genuine Christian virtue"
+            action: "Demonstrates true selfless charity and human compassion"
+
+  locations:
+    - id: "thunder_ten_tronckh_castle"
+      name: "Castle Thunder-ten-tronckh"
+      description_block: |
+        setting:
+          location: "Provincial castle in Westphalia region, western Germany. U-shaped building of plastered brick in pale yellow or off-white, steep slate roof, few windows with small panes divided by mullions. Attempts grandeur but reveals provincial limitations"
+        mainElements: "Great hall with single faded tapestry, heavy dark oak paneling, massive simple furniture, dominant rough fireplace. Small grove masquerading as park"
+        atmosphere: "Dominant colors browns, grays, muted greens. Natural lighting through few windows creating semi-darkness. Air smells of dampness, old wood, chimney smoke. Atmosphere of stuffy isolation from world, self-satisfied stagnation"
+
+    - id: "holland_town"
+      name: "Dutch Town"
+      description_block: |
+        setting:
+          location: "Typical Dutch city resembling Amsterdam. Narrow cobbled streets run along canals, tall narrow brick houses with characteristic stepped gables on both sides"
+        mainElements: "Public square with Protestant preacher against background of austere Protestant architecture. Anabaptist's carpet workshop interior full of dust, noise of working looms, bright colors of yarn"
+        atmosphere: "Weather likely cloudy and damp. Dominant palette grays, brick browns, dark green canal water. Flat diffused lighting. Air smells of wet earth and water"
+
+    - id: "lisbon_destroyed"
+      name: "Lisbon After Earthquake"
+      description_block: |
+        setting:
+          location: "Portuguese capital after devastating 1755 earthquake. Scene begins at port with view of city panorama, then moves to destroyed urban areas"
+        mainElements: "Collapsed stone buildings, fallen churches, makeshift scaffolding for auto-da-fé. Wooden execution platform hastily erected in square cleared of rubble. Balconies of surviving buildings where church dignitaries and king observe ceremony"
+        atmosphere: "Colors of fire (orange, red) and dust (grays, browns). Dramatic lighting full of contrasts - fire flashes in darkness. Sound of collapsing buildings, waves, human screams. Auto-da-fé scene eerily calm and ritualized with black inquisitor robes, yellow sanbenitos, white penitent garments"
+
+    - id: "buenos_aires_residence"  
+      name: "Buenos Aires Governor's Residence"
+      description_block: |
+        setting:
+          location: "Spanish colonial outpost residence in Buenos Aires, ruled by arrogant governor"
+        mainElements: "Simple austere Spanish colonial style. Whitewashed brick or adobe building with red tile roof. Central patio with fountain and lush vegetation. Surrounding arched porticoes provide shade. Interior rooms dark and cool, furnished with heavy carved dark wood furniture, walls hung with ancestor portraits and religious paintings"
+        atmosphere: "Heat, sharp southern sun creating deep shadows. Color palette white walls, red tiles, green vegetation. Air carries scent of dust and exotic flowers. Sound of buzzing insects and distant port city"
+
+    - id: "jesuit_mission"
+      name: "Jesuit Mission in Paraguay"
+      description_block: |
+        setting:
+          location: "Jesuit reductions in Paraguay, unique historical experiment combining theocracy with forced indigenous labor. Perfectly organized settlement"
+        mainElements: "Central rectangular plaza dominated by imposing stone church combining Baroque style with Guarani art elements. Long single-story stone buildings with porticoes supported by columns surrounding plaza - housing for Indians. Jesuit residence and workshops beside church. Everything laid out in perfectly straight lines creating military order impression"
+        atmosphere: "Earth colors - reddish stone and soil tones, green jungle surrounding mission. Sharp tropical light. Atmosphere of absolute control and discipline. Sound of church bells calling to prayer and work"
+
+    - id: "eldorado"
+      name: "Eldorado"  
+      description_block: |
+        setting:
+          location: "Mythical utopian land hidden in inaccessible South American mountains. Landscape of unreal beauty reached by underground river tunnel"
+        mainElements: "Roads filled with carriages of brilliant material pulled by giant red sheep faster than finest horses. Children play with gold, emeralds, rubies as common pebbles. Monumental architecture of precious materials: silver doors, golden ceilings, walls incrustated with gems. Public buildings reach clouds, markets adorned with thousand columns. Fountains spray rose water and sugar cane liqueur, sidewalks emit scent of cloves and cinnamon"
+        atmosphere: "Land of eternal happiness and harmony. Bright pure colors: gold, red, green, opalescent hummingbird feather hues. Light bright, warm, almost divine. Air scented with flowers and spices. Sound of gentle music and happy people's laughter"
+
+    - id: "venice_carnival"
+      name: "Venice During Carnival"
+      description_block: |
+        setting:
+          location: "City of decadence and pleasures during carnival season, famous for freedom of morals. Grand Canal teeming with life, filled with gondolas and richly decorated boats"
+        mainElements: "Magnificent palaces of marble and stone along canals, somewhat damaged by time. St. Mark's Square crowded with masked figures (white stylized bauta masks covering most faces) and black cloaks. Senator Pococurante's palace interior overflowing with artworks - paintings, sculptures, precious books - that bring him no joy"
+        atmosphere: "City shrouded in mist of moisture and mystery. Rich but muted color palette - ochre shades, blue, gold, black. Light reflects off water surface creating shimmering reflections on building facades. Mood of hedonistic weariness and melancholy"
+
+    - id: "turkey_farm"
+      name: "Farm in Turkey"
+      description_block: |
+        setting:
+          location: "Final location symbolizing end of journey and finding new meaning in life. Small farm (twenty acres) on shore of Sea of Marmara near Constantinople"
+        mainElements: "Small functional house, vegetable garden and cultivated field. Simple stone and wood construction. View of Sea of Marmara. Constantinople visible as bustling multicultural port with Ottoman architecture: mosques with great domes and slender minarets, covered bazaars, labyrinth of narrow streets with wooden houses"
+        atmosphere: "Constantinople noisy and chaotic, full of exotic scents and sounds. Farm is opposite - quiet, peaceful, orderly. Visual emphasis shifts from grand architecture and chaos to simplicity, work, closeness to nature. Natural color palette: earth browns, plant greens, sea and sky blue. Warm light of setting sun"
+
+  items:
+    - id: "cunegundes_handkerchief"
+      name: "Cunegonde's Handkerchief"
+      description_block: |
+        details: "Delicate white linen handkerchief dropped by Cunegonde in opening scene behind screen. Symbol of innocent flirtation and beginning of all misfortunes. Small, feminine accessory that triggers the entire story"
+
+    - id: "pangloss_spectacles"
+      name: "Pangloss's Spectacles" 
+      description_block: |
+        details: "Round spectacles perched on nose tip, visual symbol of his intellectualism and ironic prop related to his absurd philosophy that noses were created to wear spectacles. Represents pedantic scholarly authority"
+
+    - id: "sanbenito_garments"
+      name: "Sanbenito and Coroza"
+      description_block: |
+        details: "Yellow sleeveless garments painted with flames and devils (sanbenito) and tall pointed paper caps (coroza) worn by condemned during auto-da-fé. Symbols of Inquisition fanaticism and cruelty. Yellow color with painted religious symbols"
+
+    - id: "red_sheep"
+      name: "Red Sheep from Eldorado"
+      description_block: |
+        details: "Giant red sheep faster than finest horses, used as mounts in Eldorado. Loaded with gold and precious stones when Candide leaves utopia. Symbol of wealth that is simultaneously fantastic and useless in real world"
+
+    - id: "sugar_cane"
+      name: "Sugar"
+      description_block: |
+        details: "Sweet luxury product whose true price, as Candide learns from Suriname slave, is measured in blood and suffering of enslaved workers. White granules representing hidden cost of European comfort"
+
+    - id: "garden_tools"
+      name: "Garden Tools"
+      description_block: |
+        details: "Spades, hoes, and other farming implements used in final farm scene. Become symbols of new philosophy - pragmatic work giving meaning and dignity. Simple wooden handles, metal working ends, tools for cultivation and care"
+
+    - id: "garden_metaphor"
+      name: "The Garden"
+      description_block: |
+        details: "Central evolving symbol appearing three times: Thunder-ten-tronckh (false lost paradise), Eldorado (utopian inaccessible paradise), Turkish farm (paradise regained through work). Represents human relationship with happiness and meaning - from illusion through impossible perfection to achievable contentment through labor"

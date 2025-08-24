@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Memory of Freedom - Hazy Recollection of School Days"
+  setting:
+    time: "1941, spring morning (flashback memory)"
+    location: "Amsterdam school playground and classroom, Netherlands before hiding"
+    weather: "Bright spring morning, soft overexposed lighting"
+  characters:
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas, school uniform"
+      position: "Among group of schoolgirls in playground"
+      action: "Laughing and playing with friends, carefree and happy"
+  scene:
+    mainElements: "Dreamlike, slightly out-of-focus memory of school days with friends, overexposed and ethereal"
+    details: "School building with characteristic Dutch architecture, children's laughter echoing, bikes parked outside school, Żółta sześcioramienna Gwiazda Dawida z czarnym napisem Jood not yet mandatory, freedom of movement and association"
+    background: "Amsterdam school courtyard, normal 1940s daily life"
+    atmosphere: "Nostalgic, dreamlike quality of recalled memory, innocence before persecution, golden hazy light suggesting precious lost normalcy"
+  composition:
+    cameraAngle: "Soft focus establishing shot of school playground"
+    focus: "The ethereal, memory-like quality of life before hiding"
+    depth: "All elements slightly soft and overexposed, creating memory-like atmosphere"

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Near future, dawn lighting suggesting new beginning
+    location: Harsh urban environment with cracked concrete pavement in controlled Gilead territory
+    weather: Fresh morning light after rain, creating atmosphere of renewal and possibility
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single small plant or flower breaking through crack in concrete pavement, representing life and hope persisting
+      despite systematic oppression
+    details: The plant is small but vibrant, showing natural life force that cannot be completely controlled by artificial
+      systems. The concrete represents the rigid, artificial control of Gilead, while the plant represents natural human resilience
+      and the possibility of change. The crack in the concrete suggests that even the most controlling systems contain the
+      seeds of their own weakness.
+    background: Harsh urban environment showing Gilead's architectural control with surveillance equipment, official signage,
+      and institutional buildings, all suggesting the oppressive system that cannot completely suppress natural life
+    atmosphere: Quiet hope and possibility that change is possible, that human nature and life force will eventually overcome
+      artificial systems of oppression
+  composition:
+    cameraAngle: Close-up ground-level view emphasizing the small but significant plant breaking through concrete
+    focus: The small plant emerging from cracked concrete dominates the center of the frame despite its tiny size
+    depth: Plant and cracked concrete in foreground, oppressive urban architecture in background creating contrast between
+      natural hope and artificial control
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "A Letter Being Written - Political Consequences"
+  setting:
+    time: "2032, night after rally confrontation"
+    location: "Private study in Byerley's campaign headquarters"
+    weather: "Quiet night with rain pattering on windows"
+  characters:
+    - appearance: "Mężczyzna w średnim wieku (45-50 lat), o opanowanej postawie i pełen godności. Jego wygląd musi być idealnie ludzki - trudny do odczytania"
+      clothing: "Eleganckie, dobrze skrojone garnitury w ciemnych kolorach, białe koszule i krawaty - typowy strój wysokiej rangi polityka"
+      position: "Stoi na podium przemawiając lub siedzi przy biurku w pozycji władczej"
+      action: "Przemawia spokojnie do tłumu, prowadzi negocjacje polityczne lub wykonuje precyzyjne ruchy podczas konfrontacji"
+  scene:
+    mainElements: "Byerley writing at desk under lamplight, papers scattered with poll numbers and strategy notes, campaign materials showing his rising popularity"
+    details: "Byerley's hand moving across paper with inhuman steadiness, no tremor or fatigue despite late hour, rain creating patterns on dark windows"
+    background: "Campaign office late at night with skeleton staff, phones silent, the machinery of democracy winding down after dramatic day"
+    atmosphere: "Quiet determination and strategic planning after public triumph. The late hour and solitude emphasize the cost of political survival"
+  composition:
+    cameraAngle: "Close-up focusing on hands writing, emphasizing their unnaturally steady movement"
+    focus: "The act of writing revealing character through physical precision"
+    depth: "Foreground shows mysterious identity, middle ground political success, background the democratic process that hangs in balance"

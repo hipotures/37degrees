@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Raksha the Demoness Defends Her Lair"
+  setting:
+    time: "19th Century India, night"
+    location: "The entrance to a wolf's lair in the Seeonee hills."
+    weather: "A warm, clear night with a full moon."
+  characters:
+    - appearance: "A she-wolf with a 'great, gray nose.' In moments of threat, her eyes glow 'like two green moons in the darkness.' Her strength and fierceness in defending Mowgli earn her the name Raksha (The Demoness)."
+      clothing: "None"
+      position: "Crouched low at the entrance of her cave, blocking the way."
+      action: "Snarling, hackles raised, ready to spring. She is a picture of maternal fury, protecting her cubs and the newly-arrived man-cub within."
+    - appearance: "A powerful Bengal tiger, called 'The Great.' His most defining physical trait is his disability—he has been lame in one paw since birth. His paws are also severely burned from jumping into a woodsman's fire."
+      clothing: "None"
+      position: "His great, square head and shoulders are thrust into the cave entrance, his body blocking the moonlight."
+      action: "Roaring with frustration and rage, demanding his prey. His eyes burn like hot coals in the darkness."
+  scene:
+    mainElements: "The tense standoff between Raksha and Shere Khan at the mouth of the cave. The scene is a dramatic confrontation of wills."
+    details: "Inside the cave, a tiny, infant Mowgli, can be partially seen behind Raksha, looking on with curiosity rather than fear. The moonlight from outside illuminates the dust motes in the air and the sharp outlines of the two animals. no text or letters visible"
+    background: "The dark, rocky interior of the cave, and the moonlit jungle outside."
+    atmosphere: "Charged with imminent violence and primal conflict. The fierce, protective love of a mother against the arrogant fury of a tyrant. no text or letters visible"
+  composition:
+    cameraAngle: "Low-angle shot from inside the cave, looking out past Raksha towards Shere Khan."
+    focus: "The glowing green eyes of Raksha and the burning orange eyes of Shere Khan, locked in a deadly stare-down."
+    depth: "Foreground: the infant Mowgli. Middle ground: Raksha in her defensive posture. Background: Shere Khan's head and shoulders filling the cave entrance."

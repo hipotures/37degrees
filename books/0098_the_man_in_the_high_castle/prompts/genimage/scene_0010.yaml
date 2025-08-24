@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1962, temporal convergence showing all seasons simultaneously
+    location: Single location showing multiple timeline possibilities - spring liberation, summer occupation, autumn resistance,
+      winter desolation
+    weather: All four seasons visible in different sections of same space
+  characters: No characters present in this scene
+  scene:
+    mainElements: Impossible but visually powerful scene showing single tree with four different seasonal states in four quadrants,
+      representing different possible historical outcomes and timeline branches
+    details: Tree with budding spring branches bearing liberation flags, summer section heavy with Japanese occupation symbols,
+      autumn portion showing resistance activities, winter quadrant stark and bare with Nazi symbols, footprints in mud showing
+      spring visitors, grass paths worn by summer occupation, fallen leaves gathered by autumn conspirators, snow covering
+      winter section completely, four different lighting conditions corresponding to each season, no text or letters visible
+    background: San Francisco skyline shifting between four different historical outcomes - Allied victory, Japanese occupation,
+      resistance success, Nazi conquest - all existing simultaneously in impossible temporal overlap
+    atmosphere: Mystical convergence of possible histories, time collapsed into single moment showing all potential outcomes,
+      sense of reality's fragility where different timelines bleed through dimensional barriers
+  composition:
+    cameraAngle: Impossible perspective showing all four seasonal quadrants equally
+    focus: Central tree showing four seasonal states with background showing corresponding historical outcomes
+    depth: 'Foreground: tree roots anchoring all possibilities, middle: four seasonal sections, background: shifting cityscape
+      showing all potential timelines'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

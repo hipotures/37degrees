@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Daily Life in Medieval Florence Market Square"
+  setting:
+    time: "14th century mid-morning, busy market hours with warm sunlight"
+    location: "Central market square in Florence, Italy, surrounded by guild halls and merchant buildings"
+    weather: "Clear spring morning with bright sunlight and light breeze"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Busy marketplace with wooden stalls selling various goods, stone fountain at center, guild halls with distinctive architecture, merchants' scales and measuring tools"
+    details: "Wooden market stalls with canvas awnings displaying wares - bolts of fine cloth, barrels of grain and oil, baskets of bread and seasonal produce, leather goods hanging from hooks, metalwork including tools and ornamental items. Stone fountain carved with Florentine heraldic symbols, water flowing from lion-head spouts. Guild hall facades showing symbols of different trades - wool merchants, bankers, judges, physicians. Cobblestone square worn smooth by centuries of commerce, stone benches around fountain edge. Measuring scales and standardized weights for fair trading, wooden signs indicating different merchant specialties."
+    background: "Tall tower houses of wealthy merchant families, church bell tower visible beyond rooflines, glimpse of city walls in distance"
+    atmosphere: "Prosperous commercial life of medieval Italian city-state, sense of civic pride and economic vitality, organized society based on guild system and trade"
+  composition:
+    cameraAngle: "Street level view from edge of square showing market activity and guild hall architecture"
+    focus: "The commercial culture and civic organization of medieval Florence"
+    depth: "Foreground shows market stalls and fountain detail, middle ground displays guild halls and merchant activity, background shows tower houses and urban skyline"

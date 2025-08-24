@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: The entire island.
+    weather: The sky is black with smoke.
+  characters:
+  - name: No characters present in this scene
+  scene:
+    mainElements: The fire set by the hunters to smoke out Ralph has consumed the
+      entire island. The world has been reduced to a swirling, abstract chaos of flame
+      and smoke.
+    details: There are no recognizable forms or shapes. The jungle, the beach, the
+      mountain - they have all been consumed by the fire. The scene is a pure, expressionistic
+      nightmare of jagged lines of flame, clashing colors of orange and black, and
+      a swirling vortex of smoke that seems to be sucking the sky itself into its
+      maw.
+    background: There is no background, only the all-encompassing chaos of the fire.
+    atmosphere: A scene of total, apocalyptic destruction. The island has become a
+      literal hell, a physical manifestation of the boys' savagery. This is the ultimate
+      point of no return.
+  composition:
+    cameraAngle: A dizzying, spinning shot from the center of the fiery vortex.
+    focus: There is no focus, only the abstract chaos of the fire.
+    depth: There is no depth, only a flat, two-dimensional plane of fire and smoke.
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

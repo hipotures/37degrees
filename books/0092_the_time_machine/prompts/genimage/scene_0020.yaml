@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1895 and 802,701 CE occupying same space simultaneously
+    location: Victorian London street showing temporal overlap with future garden world
+    weather: Impossible combination of Victorian fog with future clear warmth
+  characters:
+  - appearance: Ghostly transparent overlays of Victorian gentlemen walking same paths as future Eloi, temporal figures unaware
+      of each other's presence
+    clothing: Victorian formal dress visible as transparent layer over simple Eloi tunics, showing fashion evolution across
+      vast time spans
+    position: Same street positions occupied by different temporal periods - past and future pedestrians sharing space without
+      interaction
+    action: Dual timeline activities - Victorian business walking overlapping with Eloi leisurely wandering, both groups following
+      same geographical paths across time
+  scene:
+    mainElements: Street scene where Victorian London bleeds through future garden world - cobblestones visible beneath grass
+      paths, gas lamps growing flowers, shop fronts serving as palace walls, horse carriages sharing space with organic future
+      structures
+    details: Architecture exists in both time periods - Victorian building facades serve as transparent ghosts behind organic
+      future structures, creating impossible but beautiful architectural palimpsest. Street furniture overlaps temporally
+      - Victorian lamp posts growing flowering vines, stone steps becoming garden terraces
+    background: Thames visible in both eras - industrial Victorian river with smoking factories overlapping crystal clear
+      future waterway with natural banks, creating temporal double exposure
+    atmosphere: Dreamlike collision of vastly different time periods, sense of eternal return and continuity, beautiful impossibility
+      of time as layered rather than linear, no text or letters visible
+  composition:
+    cameraAngle: Wide street view showing temporal overlap across full scene
+    focus: Central street area where temporal bleeding is most visible
+    depth: Overlapping pedestrians in foreground, temporal architecture in middle ground, double-exposed river and sky in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

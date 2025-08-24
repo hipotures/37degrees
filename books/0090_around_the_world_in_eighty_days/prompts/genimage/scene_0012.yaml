@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, sunset
+    location: Malabar Hill Bombay, ancient Hindu temple complex showing traditional religious architecture
+    weather: Golden evening light illuminating stone carvings and creating dramatic shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ornate Hindu temple with elaborate stone carvings, multiple spires and domes showing traditional Indian
+      architectural styles, sacred courtyard with ritual elements, ancient trees providing natural canopy
+    details: Intricate stone sculptures of deities and mythological figures covering temple walls, multiple levels of carved
+      spires with detailed geometric and floral patterns, sacred pool or tank for ritual ablutions reflecting temple architecture,
+      oil lamps and incense holders creating spots of warm light, flower garlands and offerings arranged on stone platforms,
+      carved pillars supporting covered walkways, traditional Indian architectural elements including lotus motifs and elephant
+      sculptures, brass vessels for ceremonial use, sacred fire burning in ritual hearth
+    background: Other temple structures within complex, ancient banyan trees with extensive root systems, Bombay harbor visible
+      in distance
+    atmosphere: Deep spiritual reverence and ancient tradition, mystical quality enhanced by evening light, sense of continuity
+      with pre-colonial religious practices
+  composition:
+    cameraAngle: Medium-height view showing temple architecture against evening sky
+    focus: Main temple spire with detailed carvings as centerpiece of spiritual architecture
+    depth: Carved temple details in foreground, courtyard and supporting structures in middle ground, trees and distant landscape
+      creating sacred setting
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

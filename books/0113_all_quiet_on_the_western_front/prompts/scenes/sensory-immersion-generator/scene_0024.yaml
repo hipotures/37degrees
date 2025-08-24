@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Soldier examining skull while cherry blossoms fall creating life-death contrast"
+  setting:
+    time: "1917 spring morning, cherry blossom season at peak bloom"
+    location: "battlefield cemetery where fighting has ceased, cherry trees planted in peacetime now blooming over graves, soldier on burial detail"
+    weather: "gentle spring morning with light breeze stirring blossoms, perfect conditions for flower falling"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "kneeling beside exposed skull in cemetery, cherry tree directly overhead"
+      action: "holding human skull in contemplation while pink cherry blossoms fall around him, examining mortality while surrounded by symbols of renewal and beauty"
+  scene:
+    mainElements: "battlefield cemetery with exposed human remains, cherry tree in full bloom overhead, soldier contemplating skull while pink blossoms fall continuously, contrast between death symbols and life symbols in single scene"
+    details: "pink cherry blossoms falling in gentle cascade creating beautiful contrast against white skull bone, flower petals landing on skull surface creating poetic juxtaposition of life and death, soldier's hands holding skull with reverence while surrounded by beauty, cherry blossoms covering ground around grave creating carpet of life over death, spring renewal happening literally over battlefield mortality, skull bleached white by weather contrasting with soft pink petals, blossoms continuing to fall creating temporal beauty over permanent death, soldier's contemplative expression showing philosophical meditation on mortality, no text or letters visible"
+    background: "cemetery with other graves and exposed remains, cherry trees throughout cemetery creating grove of beauty over death, peaceful spring landscape reclaiming battlefield"
+    atmosphere: "profound meditation on mortality contrasted with life's beauty, soldier confronting death's reality while surrounded by nature's renewal, synesthetic experience combining visual beauty with existential contemplation"
+  composition:
+    cameraAngle: "medium shot showing soldier with skull while cherry blossoms fall around him"
+    focus: "skull in soldier's hands with cherry blossoms falling and settling on bone surface"
+    depth: "foreground shows detailed skull and falling blossom interaction, middle ground features contemplating soldier, background reveals cemetery with blooming cherry trees throughout"

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1780s, November night at 1 AM
+    location: Victor's attic laboratory in Ingolstadt during creature's awakening
+    weather: Cold stormy night with rain beating against windows
+  characters:
+  - appearance: Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing
+      superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous
+      flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white
+      teeth, visible surgical scars and stitching marks across body where body parts were joined together
+    clothing: Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory
+      clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark
+      cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel
+    posture: Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands
+      with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or
+      threatening stance of rage
+    action: Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human
+      families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship
+  scene:
+    mainElements: Laboratory table where creature lies awakening to consciousness, candle flame providing only light source,
+      scientific instruments surrounding birthplace like witnesses to miracle of creation, rain drumming on roof overhead
+    details: First sensations of light burning new-formed eyes, cold air shocking bare skin into awareness, overwhelming flood
+      of sensory input as nervous system activates, laboratory appearing vast and cathedral-like from low perspective on table,
+      Victor's discarded clothing nearby suggesting absent father figure, instruments of creation scattered about like discarded
+      toys after game, stitches across body marking places where life was assembled from death, no text or letters visible
+    background: Dark corners of laboratory shrouded in shadow, rain-streaked windows showing hostile night beyond, door through
+      which creator has fled
+    atmosphere: Confusion and wonder at existence itself, innocent amazement at miracle of consciousness, growing awareness
+      of abandonment and rejection by absent creator, laboratory transformed from Victor's sanctuary into creature's nursery
+      of despair
+  composition:
+    cameraAngle: Low angle from creature's position on table, making laboratory ceiling appear infinite
+    focus: Single candle flame representing first light seen by new consciousness
+    depth: Foreground shows creature's massive form taking first breaths, middle ground reveals abandoned scientific apparatus,
+      background suggests creator's cowardly flight
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

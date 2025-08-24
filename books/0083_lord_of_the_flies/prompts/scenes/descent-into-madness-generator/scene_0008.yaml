@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Hunt for the Beast on the Shifting Mountain"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "The highest point on the island, a rocky peak with a commanding view of the surrounding ocean."
+    weather: "Grey and overcast. A strong wind is blowing."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Leading the hunt for the beast, looking hesitant and afraid."
+      action: "He is peering into a dark cave, a sharpened stick in his hand."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Beside Ralph, eager and excited by the hunt."
+      action: "He is trying to push past Ralph to get into the cave."
+  scene:
+    mainElements: "The boys are on a mission to find and kill the beast. The landscape of the mountain, however, seems to be actively working against them, feeding their fear."
+    details: "The rocks on the mountain seem to shift and change shape, their surfaces forming leering faces and monstrous forms. The wind howls with a voice-like quality. The shadows in the caves and crevices seem to writhe and deepen, hiding unimaginable horrors. The path ahead seems to twist and rearrange itself, leading them in circles."
+    background: "The churning, grey sea far below. The rest of the island is laid out like a map, but it looks alien and hostile from this vantage point."
+    atmosphere: "A paranoid and disorienting scene. The external environment is a direct reflection of the boys' internal state of fear and confusion. It is impossible to tell what is real and what is imagined."
+  composition:
+    cameraAngle: "A wide, sweeping shot that captures the vastness and hostility of the mountain landscape, with the boys appearing small and insignificant."
+    focus: "The shifting, face-like patterns on the rocks."
+    depth: "Foreground: The boys, armed with sharpened sticks. Middle ground: The treacherous, rocky terrain. Background: The stormy sea."

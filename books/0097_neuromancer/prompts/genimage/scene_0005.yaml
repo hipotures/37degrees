@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 2030s, night cycle in artificial lighting
+    location: sleeping quarters in Zion cluster habitat, zero gravity environment with improvised furnishings
+    weather: recycled air circulation with slight temperature variation
+  characters:
+  - appearance: rastafarianin with shoulder-length dreadlocks, sturdy build suggesting physical competence, weathered features
+      showing experience with space environment, peaceful expression reflecting spiritual grounding
+    clothing: patched blue pressure suit worn as everyday clothing, comfortable fabric worn soft from repeated use, modifications
+      showing personal touches and repairs
+    position: floating in zero gravity, wrapped in thick woolen blanket
+    action: pulling heavy wool blanket tighter around body, fabric compressing against skin in absence of gravity, creating
+      artificial sensation of weight and security
+  scene:
+    mainElements: thick woolen blanket floating and wrapping around figure in zero gravity, sleeping pod with straps and anchor
+      points, hydroponic plants growing in nearby cultivation units
+    details: wool fibers compressing against skin providing pressure sensation missing in weightless environment, blanket
+      edges floating freely while center portion pressed tight against body, fabric creating cocoon-like enclosure, breathing
+      causing slight movement of surrounding material, no text or letters visible
+    background: cluster of connected habitat modules visible through transparent sections, other sleeping areas with web-like
+      restraint systems, distant view of Earth through observation ports
+    atmosphere: peaceful floating sensation combined with comforting pressure of wool against skin, ersatz gravity created
+      through textile compression, spiritual tranquility of communal living space enhanced by gentle plant growth
+  composition:
+    cameraAngle: medium shot showing figure wrapped in blanket floating in zero gravity
+    focus: wool blanket compression creating artificial weight sensation, emphasizing contrast with weightless environment
+    depth: foreground showing detailed blanket texture and compression, middle ground featuring floating figure, background
+      revealing habitat interior and Earth view
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

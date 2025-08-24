@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1866, polar winter with ethereal ice-filtered lighting
+    location: Antarctic waters beneath massive ice shelf formations
+    weather: Extreme cold with ice formations creating underwater caverns
+  characters: No characters present in this scene
+  scene:
+    mainElements: Spectacular underwater ice formations creating cathedral-like caverns beneath Antarctic ice shelves. Massive
+      icebergs extend deep below the surface, their underwater portions far larger than visible above. Ice formations create
+      natural sculpture gardens with stalactites and stalagmites of frozen seawater. Trapped air bubbles create silver streams
+      within the ice.
+    details: The ice exhibits brilliant blue coloration where compressed over centuries, contrasting with crystal-clear transparent
+      sections. Marine life adapted to extreme cold includes seals, penguins diving from above, and specialized cold-water
+      fish species. The underwater ice landscape creates a maze of tunnels and chambers that challenge even Nautilus navigation.
+    background: The Antarctic ice environment extends infinitely, representing one of Earth's most hostile and beautiful environments
+      where few life forms can survive.
+    atmosphere: Sublime danger and arctic beauty. This represents nature's power to create environments of stunning beauty
+      that are simultaneously deadly to unprepared explorers. The ice wilderness challenges human survival instincts.
+  composition:
+    cameraAngle: Dramatic angle emphasizing the scale and beauty of the underwater ice formations
+    focus: The interplay between ice sculpture and marine life in the hostile Antarctic environment
+    depth: Foreground shows detailed ice formations, middle ground features the underwater ice caverns, background extends
+      into the infinite Antarctic ice wilderness
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

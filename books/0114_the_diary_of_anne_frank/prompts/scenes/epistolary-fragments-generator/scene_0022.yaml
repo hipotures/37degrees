@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Near Interception - Papers Almost Discovered"
+  setting:
+    time: "April 1944, after break-in attempt"
+    location: "Office building stairwell, moments before police discovery"
+    weather: "Night, emergency lighting from flashlights"
+  characters:
+    - appearance: "Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz, showing extreme fear"
+      clothing: "Prosty strój pracującej kobiety z lat 40., sukienka płaszcz"
+      position: "Crouched behind filing cabinet"
+      action: "Quickly hiding documents and money meant for Secret Annex"
+  scene:
+    mainElements: "Office building during police search, dangerous moment of near-discovery of evidence"
+    details: "Police flashlights sweeping room, hidden papers and supplies that could expose the secret, file cabinets and office furniture providing concealment, footsteps on stairs"
+    background: "Business office transformed into scene of potential catastrophe"
+    atmosphere: "Heart-stopping tension, the razor-thin margin between safety and disaster"
+  composition:
+    cameraAngle: "Low angle from hiding position, showing threat from police perspective"
+    focus: "The critical moment when discovery seems inevitable"
+    depth: "Layers of concealment - hidden person, hidden documents, hidden families above"

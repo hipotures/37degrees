@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1863, underground camp
+    location: Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces
+    weather: Still underground air in temporary camp setting
+  characters:
+  - appearance: 50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind
+      large round spectacles, energetic and impatient demeanor
+    clothing: Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition,
+      sturdy leather boots, always carrying scientific instruments
+    position: Usually in dominant position, gesturing authoritatively or examining specimens with intense focus
+    action: Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements
+  - appearance: Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey
+      into more confident bearing with weathered appearance
+    clothing: Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive
+      wear and hardening from underground conditions
+    position: Often positioned as observer or follower, gradually asserting more independent stance as story progresses
+    action: Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders
+      encountered
+  - appearance: Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten
+      Nordic features, long flowing red hair, stoic expression
+    clothing: Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja,
+      sturdy breeches, leather boots, woolen cap
+    position: Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision
+    action: Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations
+  scene:
+    mainElements: Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits,
+      cathedral-like caverns with towering stone formations
+    details: Expedition provisions carefully arranged on flat stone surface creating makeshift table, preserved meats glistening
+      with natural fats catching lamplight, dried fruits appearing jewel-like in artificial illumination, hands breaking apart
+      dense travel bread with visible crumb texture, faces showing satisfaction and contentment while chewing, natural saliva
+      production visible through lip moisture and swallowing motions, golden honey preserved in small containers reflecting
+      light like amber, steam rising from heated provisions warming over lamp flame, no text or letters visible
+    background: Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and
+      ancient geological time
+    atmosphere: Nourishing sweetness providing comfort in hostile environment, visual representation of rich flavors through
+      satisfied expressions and careful food preparation
+  composition:
+    cameraAngle: Medium shot showing meal preparation and consumption
+    focus: Food textures and satisfied eating expressions
+    depth: Foreground emphasizes food details and consumption, middle ground shows social eating, background suggests underground
+      shelter
+visualElements:
+  colorPalette:
+    primary:
+    - muted gray
+    - bruised purple
+    - fleshy pink
+    - steel blue
+    secondary:
+    - oily black
+    - rust brown
+    - bone white
+    background: dark industrial or fleshy backdrop
+    usageNotes: Mostly desaturated tones with occasional sickly accent colors
+    saturation: low
+    contrast: high (bright fleshy highlights vs dark shadows)
+  lineArt:
+    style: intricate sinewy lines and tubing
+    weight: fine, interwoven
+    color: dark gray or black
+    texture: slick, vein-like curves
+    edgeTreatment: smooth curves blending into sharp mechanical edges
+  lighting:
+    type: dramatic, directional spotlight
+    direction: side or under lighting for eerie effect
+    intensity: strong highlights, deep shadows
+    shadows:
+      style: complex overlapping shadows of cables and organs
+      color: cool blue-gray or deep brown
+      opacity: heavy
+    highlights: wet specular highlights on flesh, metallic gleam on machinery
+  rendering:
+    technique: airbrush or detailed digital painting
+    texture: glossy slick flesh, cold metal surfaces
+    detailLevel: very high (small mechanical parts and organic textures)
+    finish: glossy on organic parts, metallic on machine parts
+  perspective: three-dimensional realistic perspective (often claustrophobic close-ups)
+  mood:
+    overall: eerie, sci-fi horror, complex
+    emotion: unease, fascination
+    tempo: tense, intense
+    keywords:
+    - eerie
+    - intricate
+    - dark
+    - alien
+    - mechanical
+  stylePrecedents:
+  - H.R. Giger
+  - Biomechanical tattoo art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

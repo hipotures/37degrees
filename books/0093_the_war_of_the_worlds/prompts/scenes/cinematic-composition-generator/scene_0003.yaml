@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Victorian London street scene - confident imperial capital"
+  setting:
+    time: "1897, busy weekday afternoon"
+    location: "Victorian London at height of British Empire, bustling metropolitan center with mixture of Georgian terraces, grand public buildings, railway terminals, commercial districts, and crowded residential areas"
+    weather: "Overcast London sky with filtered daylight through industrial haze"
+  characters:
+    - appearance: "Early 20s medical student, similar features to narrator but younger and more energetic, clean-shaven youthful face, lean build, alert intelligent eyes, fashionable student appearance"
+      clothing: "Less formal than narrator - Norfolk jacket or simple suit appropriate for London student, lighter colors, may wear straw boater hat in summer, practical sturdy shoes for city walking"
+      position: "Walking confidently along crowded London street, weaving between other pedestrians"
+      action: "Striding purposefully through busy street scene, epitomizing young Victorian confidence in progress and civilization"
+  scene:
+    mainElements: "Cobblestone and early asphalt streets filled with horse-drawn vehicles, gas street lamps, imposing architecture of government buildings, busy railway stations, crowded omnibuses and hansom cabs, well-dressed pedestrians"
+    details: "Horse-drawn double-decker omnibuses packed with passengers, elegant hansom cabs weaving through traffic, well-dressed Victorian gentlemen in top hats and ladies with parasols, newspaper vendors calling headlines, impressive stone architecture of public buildings representing imperial power, gas street lamps ready for evening lighting"
+    background: "Grand Victorian public buildings with classical columns and carved stonework, busy railway terminal with steam visible, mixture of commercial shops and residential terraces"
+    atmosphere: "Confident imperial capital, constant motion and energy of major city, mixture of coal smoke and horse odors, sounds of urban life - wheels on cobblestones, vendors calling, church bells, sense of civilization's triumph. Overwhelming impression of progress and human achievement"
+  composition:
+    cameraAngle: "Wide architectural shot from street level showing imposing buildings and busy urban life"
+    focus: "Narrator's brother moving through crowded street representing youthful Victorian optimism, no text or letters visible"
+    depth: "Foreground shows detailed street activity and pedestrians, middle ground features horse-drawn vehicles and urban bustle, background reveals impressive government buildings and railway infrastructure of imperial London"

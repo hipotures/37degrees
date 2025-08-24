@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1998, early morning
+    location: Garden behind Weston family home, underneath large oak tree
+    weather: Clear morning with dew still on grass
+  characters:
+  - appearance: Ośmioletnia dziewczynka o energicznych ruchach i bardzo ekspresyjnej mimice. Po intensywnej zabawie ma potargane
+      włosy
+    clothing: Prosta, letnia sukienka typowa dla dziecka z połowy XX wieku, czasem podarta po zabawie
+    position: Biegnie radośnie lub chowa się za drzewem podczas zabawy
+    action: Bawi się z robotem, śmieje się głośno lub płacze z tęsknoty za swoim mechanicznym przyjacielem
+  scene:
+    mainElements: Empty garden where robot and child used to play, oak tree with carved initials, abandoned ball on the ground
+    details: Morning light revealing the absence where Robbie should be, small footprints in the soil showing Gloria's frantic
+      search, screen door to house standing open as parents watch from distance
+    background: Well-maintained suburban garden with flower beds, white picket fence, comfortable family home
+    atmosphere: Heartbreaking loss and confusion. The space feels hollow without the mechanical companion, childhood innocence
+      confronting adult decisions
+  composition:
+    cameraAngle: Low angle following Gloria's desperate search movements
+    focus: The empty space where Robbie should be standing, emphasizing absence and loss
+    depth: Foreground shows Gloria's small figure, middle ground the empty garden space, background the house where parents
+      watch their daughter's pain
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

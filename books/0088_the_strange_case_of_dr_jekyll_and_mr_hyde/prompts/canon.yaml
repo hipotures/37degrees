@@ -1,0 +1,135 @@
+canon:
+  characters:
+    - id: "dr_henry_jekyll"
+      name: "Dr. Henry Jekyll"
+      description_block: |
+        characters:
+          - appearance: "Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples"
+            clothing: "Impeccable dark frock coat, white shirt with stiff collar, dark silk waistcoat, dark trousers, at home wears elegant smoking jacket of velvet or brocade"
+            position: "Standing with confident gentleman's posture or seated at mahogany desk in study"
+            action: "Reading correspondence, mixing chemicals in laboratory glassware, or engaging in refined conversation with controlled gestures"
+
+    - id: "mr_edward_hyde"
+      name: "Mr. Edward Hyde"
+      description_block: |
+        characters:
+          - appearance: "Small pale man appearing 30-35 years old, dwarfish build around 160-165 cm, unnaturally repulsive face with indefinable deformity without specific malformation, dark unkempt hair, wiry hairy hands"
+            clothing: "Oversized clothes belonging to taller man - coat sleeves too long, shoulders too broad, creating grotesque ill-fitting appearance"
+            position: "Hunched or crouched posture, quick nervous movements, or standing defiantly with aggressive stance"
+            action: "Moving with swift animal-like motions, clutching heavy walking stick, or retreating into shadows with snarling expression"
+
+    - id: "mr_utterson"
+      name: "Mr. Gabriel John Utterson"
+      description_block: |
+        characters:
+          - appearance: "Lean tall gentleman around 50 years old, austere face that never brightens with smile, clean-shaven, thinning dark hair neatly combed"
+            clothing: "Conservative dark suit befitting respectable lawyer, black or gray formal attire, top hat when outdoors"
+            position: "Standing with measured lawyer's bearing or walking with steady purposeful gait"
+            action: "Examining documents with concentrated expression, taking methodical notes, or engaged in serious conversation with restrained gestures"
+
+    - id: "dr_lanyon"
+      name: "Dr. Hastie Lanyon"
+      description_block: |
+        characters:
+          - appearance: "Robust gentleman 50-60 years old, initially hearty red-faced complexion, graying hair, after witnessing transformation becomes pale gaunt with hollow fearful eyes"
+            clothing: "Respectable physician's attire similar to Jekyll but more conservative - dark formal coat and waistcoat"
+            position: "Seated in study chair or standing with initially confident then later trembling posture"
+            action: "Initially gesturing with animated discussion, later clutching sealed envelope with shaking hands and haunted expression"
+
+    - id: "sir_danvers_carew"
+      name: "Sir Danvers Carew"
+      description_block: |
+        characters:
+          - appearance: "Elderly distinguished gentleman around 70 years old, beautiful aged features, white hair, emanating innocence and old-world courtesy"
+            clothing: "Elegant dark overcoat, top hat, white gloves, refined evening attire of distinguished politician"
+            position: "Walking with dignified elderly gait or bowing politely in gentleman's greeting"
+            action: "Approaching with courteous inquiry, removing hat in polite gesture, speaking with kind gentle manner"
+
+    - id: "poole_butler"
+      name: "Poole"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man 50-60 years old, neat dignified appearance befitting head servant, face showing loyalty but later twisted with terror for his master"
+            clothing: "Formal butler's attire - black tailcoat, white shirt with bow tie, proper servant's uniform"
+            position: "Standing at attention in service posture or later gripping axe with desperate determination"
+            action: "Serving with professional discretion, carrying candle through corridors, or desperately explaining fears to lawyer"
+
+  locations:
+    - id: "jekyll_house_front"
+      name: "Jekyll's Respectable Front House"
+      description_block: |
+        setting:
+          location: "Elegant Victorian townhouse on respectable London square, well-maintained Georgian facade with symmetrical windows"
+        mainElements: "Red brick construction with large clean sash windows, solid polished front door, iron railings, orderly architectural proportions"
+        atmosphere: "Dignity, wealth, respectability, established social standing of professional gentleman"
+
+    - id: "jekyll_laboratory_rear"
+      name: "Jekyll's Hidden Laboratory"
+      description_block: |
+        setting:
+          location: "Sinister two-story building at rear of Jekyll's property, facing neglected back alley"
+        mainElements: "Windowless ground floor, discolored walls, door without bell or knocker, marked by prolonged neglect"
+        atmosphere: "Concealment, decay, scientific mystery, moral ambiguity lurking behind respectability"
+
+    - id: "jekyll_study_interior"
+      name: "Jekyll's Private Study"
+      description_block: |
+        setting:
+          location: "Comfortable gentleman's study within Jekyll's main residence"
+        mainElements: "Open fireplace with warm flames, dark polished mahogany furniture, thick carpets, framed paintings, glass-fronted bookcases"
+        atmosphere: "Warmth, scholarly comfort, refined civilization, sanctuary of respectable professional life"
+
+    - id: "laboratory_interior"
+      name: "Chemical Laboratory Interior"
+      description_block: |
+        setting:
+          location: "Interior of Jekyll's scientific laboratory and cabinet, filled with experimental apparatus"
+        mainElements: "Glass vessels, test tubes, chemical apparatus, dusty light from ceiling dome, shelved bottles containing mysterious substances"
+        atmosphere: "Scientific secrecy, forbidden knowledge, dangerous experimentation beyond ethical boundaries"
+
+    - id: "london_foggy_streets"
+      name: "London Streets in Fog"
+      description_block: |
+        setting:
+          location: "Victorian London streets enveloped in characteristic dense fog, mixture of respectable areas and seedy districts"
+        mainElements: "Cobblestone pavements, gas street lamps casting yellow pools of light, chocolate-colored fog swirling between buildings"
+        atmosphere: "Mystery, concealment, moral duality of great metropolis, anonymity enabling double lives"
+
+    - id: "soho_district"
+      name: "Soho Neighborhood"
+      description_block: |
+        setting:
+          location: "Disreputable district of London known for poverty and vice, contrasting with respectable areas"
+        mainElements: "Narrow dirty streets, run-down tenements, dim lighting, shadowy figures moving through alleys"
+        atmosphere: "Urban decay, moral corruption, dangerous anonymity, refuge for those avoiding respectable society"
+
+  items:
+    - id: "jekyll_walking_stick"
+      name: "Jekyll's Heavy Walking Stick"
+      description_block: |
+        details: "Sturdy walking cane made of fine hard wood, elegant gentleman's accessory that becomes instrument of violence, capable of being broken into two pieces"
+
+    - id: "chemical_apparatus"
+      name: "Laboratory Equipment"
+      description_block: |
+        details: "Glass retorts, test tubes, chemical bottles with mysterious contents, scientific instruments typical of Victorian era, brass microscopes and analytical scales"
+
+    - id: "transformation_elixir"
+      name: "Jekyll's Chemical Formula"
+      description_block: |
+        details: "Mysterious chemical compound in glass vial, mixture of unknown substances creating supernatural transformation, represents dangerous scientific ambition"
+
+    - id: "sealed_documents"
+      name: "Legal Papers and Letters"
+      description_block: |
+        details: "Formal documents including will, sealed envelopes containing confessions, lawyer's correspondence, handwritten testimony revealing truth"
+
+    - id: "gas_street_lamp"
+      name: "Victorian Street Lighting"
+      description_block: |
+        details: "Tall iron gas lamp posts casting pools of yellow light through fog, insufficient illumination creating deep shadows and concealment"
+
+    - id: "hansom_cab"
+      name: "London Horse Cab"
+      description_block: |
+        details: "Two-wheeled covered carriage drawn by single horse, driver seated high at rear, typical Victorian London transportation for gentlemen"

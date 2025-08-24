@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1780s, evening after William's murder
+    location: Forest grove near Geneva where William's body was discovered
+    weather: Clear evening with gathering dusk, no storm to obscure evidence
+  characters:
+  - appearance: Young child approximately 6-8 years old with fair complexion resembling family features, bright innocent eyes
+      now closed in death, small stature emphasizing vulnerability
+    clothing: Child's clothing disheveled from struggle, small jacket torn, white stockings muddied, shoes scuffed from desperate
+      flight
+    posture: Small body lying still in death, positioned showing evidence of strangulation without graphic detail
+    action: Lying motionless as innocent victim of creature's revenge against his creator
+  scene:
+    mainElements: Forest clearing containing child's body discovered by search party, physical evidence suggesting supernatural
+      strength used in crime, setting showing peaceful location transformed into crime scene
+    details: Small body positioned to show death by strangulation without graphic violence, surrounding vegetation trampled
+      by massive footprints far larger than any normal human could make, broken branches at impossible height suggesting eight-foot
+      creature passing through forest, impression in soft earth showing size and weight beyond human capability, child's toy
+      scattered nearby indicating interrupted play, search lanterns casting pools of light in gathering darkness, peaceful
+      forest clearing transformed into scene of tragedy, investigators examining evidence that defies natural explanation,
+      no text or letters visible
+    background: Tranquil forest near Geneva that should have been safe haven for children's play, distant lights of city suggesting
+      civilization's false security
+    atmosphere: Objective documentation of crime scene revealing supernatural agency, forensic evidence pointing to killer
+      beyond human category, peaceful setting made horrible by presence of innocent death
+  composition:
+    cameraAngle: Forensic perspective documenting evidence of unnatural crime
+    focus: Physical evidence revealing superhuman strength and impossible creature responsible for tragedy
+    depth: Foreground shows tragic victim, middle ground reveals supernatural evidence, background suggests failure of civilization
+      to protect innocence
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

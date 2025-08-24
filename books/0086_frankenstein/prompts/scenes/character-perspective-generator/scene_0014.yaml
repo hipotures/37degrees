@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Felix's Protective Fury - Young Man Defends Family"
+  setting:
+    time: "1780s, spring afternoon"
+    location: "Interior of De Lacey cottage during family's return"
+    weather: "Bright spring day suddenly turned dark with conflict"
+  characters:
+    - appearance: "Young man approximately 22-25 years with strong healthy build from outdoor labor, handsome features expressing noble character, eyes blazing with protective fury, face flushed with righteous anger"
+      clothing: "Simple peasant working clothes including rough shirt, sturdy trousers, heavy boots, clothing showing honest labor and dirt from fields"
+      posture: "Aggressive protective stance defending beloved family members, muscles tensed for action, fists clenched with determination to protect innocent father"
+      action: "Striking creature with wooden staff and driving monster away from helpless father, shouting commands to retreat and flee"
+    - appearance: "Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white teeth, visible surgical scars and stitching marks across body where body parts were joined together"
+      clothing: "Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel"
+      posture: "Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or threatening stance of rage"
+      action: "Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship"
+  scene:
+    mainElements: "Cottage interior transformed from sanctuary into battlefield, Felix wielding wooden staff against towering creature, blind De Lacey cowering in confusion, moment of violence destroying possibility of acceptance"
+    details: "Felix's face expressing natural horror at creature's appearance, protective instincts overriding any possibility of communication, heavy wooden staff striking creature's massive frame without effect, furniture overturned in struggle, De Lacey crying out in terror and confusion at sudden violence, creature's desperate pleas for understanding drowned by shouts of rejection, cottage door standing open for creature's retreat, broken dishes and scattered belongings showing destruction of peaceful moment, creature's massive strength held back by desire not to harm innocents, no text or letters visible"
+    background: "Peaceful cottage garden visible through doorway, representing normal human life that creature can never enter"
+    atmosphere: "Violent destruction of creature's only hope for acceptance, Felix's protective love for family justified but tragic in consequences, moment when prejudice and fear triumph over possibility of understanding"
+  composition:
+    cameraAngle: "Felix's heroic perspective - seeing monster threatening beloved family requiring immediate action"
+    focus: "Protective fury of young man defending those he loves against perceived threat"
+    depth: "Foreground shows Felix's courageous defense, middle ground captures creature's anguished retreat, background suggests safety and normalcy creature can never reach"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Moonlit Castle Courtyard with Silver Shadows"
+  setting:
+    time: "Late 19th century, deep night with full moon overhead"
+    location: "Castle Dracula's inner courtyard bathed in bright moonlight"
+    weather: "Clear night with bright full moon casting strong shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Stone castle courtyard flooded with brilliant silver moonlight creating stark black shadows from battlements, arches, and architectural details. Ancient well at center casting circular shadow. High walls creating geometric shadow patterns"
+    details: "Moonlight bright enough to show individual stone textures and mortar lines. Sharp-edged shadows creating dramatic contrast between silver-lit areas and deep black shade. Stone surfaces appearing almost luminescent in intense moonlight. Iron well chain and fittings clearly visible in bright lunar illumination"
+    background: "Castle walls and towers silhouetted against star-filled night sky. Full moon visible overhead casting everything in monochromatic silver and black"
+    atmosphere: "Supernatural quality of brilliant moonlight making night almost bright as day. Eerie beauty of lunar illumination on ancient stone. Stark geometric patterns of light and shadow creating dramatic visual composition. Otherworldly silence and stillness of deep night. No text or letters visible"
+  composition:
+    cameraAngle: "Ground level view across moonlit courtyard toward shadowed walls"
+    focus: "Dramatic moonlight and shadow patterns with emphasis on stark contrast"
+    depth: "Foreground moonlit flagstones, middle ground courtyard well and shadows, background castle walls against night sky"

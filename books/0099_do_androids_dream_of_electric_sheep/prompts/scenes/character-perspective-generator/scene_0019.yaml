@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Surveillance Angles Exposing Hidden Truth"
+  setting:
+    time: "January 2021, night"
+    location: "Seemingly normal police office with subtle uncanny valley architectural elements too clean and symmetric"
+    weather: "Indoor institutional environment with controlled lighting and ventilation"
+  characters:
+    - appearance: "Adult man in his 30s, dominant presence emanating intelligence and authority, calculated expression"
+      clothing: "Practical clothing with possible elements suggesting colonial background"
+      position: "Standing with commanding posture demonstrating leadership"
+      action: "Observing surroundings with strategic assessment and calculated movements"
+    - appearance: "Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker appearance, tired expression"
+      clothing: "Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside"
+      position: "Standing with slight wariness, hand near laser rifle holster"
+      action: "Moving cautiously through environment with professional detachment"
+  scene:
+    mainElements: "Standard office furniture arranged too perfectly with mathematical precision, fluorescent lighting creating uniform illumination without natural shadows, bureaucratic surfaces maintained beyond normal cleanliness standards. Security camera angles reveal activities from multiple positions - overhead view shows movement patterns, corner angles expose blind spots, doorway positions reveal entry/exit monitoring"
+    details: "Every surface reflecting light with identical intensity suggesting artificial maintenance, file organization following perfect systematic arrangement unlike human bureaucratic chaos, temperature and humidity maintained at exact specifications. From overhead angle: complete room surveillance showing all occupant movements. From corner position: diagonal sight lines revealing concealed activities. From doorway: monitoring of all entry and departure. Each angle exposes different aspects of institutional control"
+    background: "Perfect institutional environment revealing artificial rather than natural administrative efficiency"
+    atmosphere: "Complete surveillance environment where every action is monitored from multiple angles, revealing total institutional observation and control, no text or letters visible"
+  composition:
+    cameraAngle: "Multiple security camera positions showing police station interaction from overhead, corner, and doorway surveillance points"
+    focus: "Systematic monitoring revealing previously hidden movements and activities through comprehensive surveillance coverage"
+    depth: "Multiple depth perspectives from security positions: overhead showing complete room control, corner angles revealing diagonal sight lines, doorway positions monitoring access control"

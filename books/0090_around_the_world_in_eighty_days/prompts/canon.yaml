@@ -1,0 +1,150 @@
+canon:
+  characters:
+    - id: "phileas_fogg"
+      name: "Phileas Fogg"
+      description_block: |
+        characters:
+          - appearance: "Man around 40 years old, tall and elegant build, light blond short hair and sideburns, clear blue eyes, regular pale features with smooth forehead, handsome face with excellent teeth"
+            clothing: "Impeccably tailored dark frock coat, matching waistcoat and trousers, white shirt with stiff detachable collar, black top hat, polished black shoes, gold pocket watch on chain"
+            position: "Standing upright with perfect posture, minimal economical gestures"
+    
+    - id: "jean_passepartout"
+      name: "Jean Passepartout (Obieżyświat)"
+      description_block: |
+        characters:
+          - appearance: "30-year-old man of medium height, sturdy muscular build with tendency to plumpness, brown tousled hair, blue eyes, rubicund round pleasant face with prominent lips"
+            clothing: "Eclectic mix reflecting his journey - European servant attire, old Japanese kimono, Indian moccasins decorated with false pearls, worn turban - visual record of adventures"
+            position: "Agile and energetic posture, lively French gesticulation, expressive face showing all emotions"
+    
+    - id: "aouda"
+      name: "Aouda"
+      description_block: |
+        characters:
+          - appearance: "Young woman approximately 20-25 years old, slender graceful build, long dark black hair, large black melancholy eyes, fair complexion unusual for region, delicate noble features"
+            clothing: "Initially rich Parsee bride costume - gold and purple silk sari with Chinese embroidery, later elegant European travel dress with bustle, hat, gloves and parasol"
+            position: "Natural grace in movement, restrained gestures, subtle but expressive facial expressions"
+    
+    - id: "detective_fix"
+      name: "Detective Fix"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man 40-50 years old, short slight build, nervous intelligent face, sharp penetrating eyes under constantly moving bushy eyebrows"
+            clothing: "Unobtrusive dark travel coat and trousers designed for anonymity, dark hat"
+            position: "Constantly alert and suspicious posture, nervous quick movements"
+
+  locations:
+    - id: "london_1872"
+      name: "Victorian London"
+      description_block: |
+        setting:
+          location: "London England under Queen Victoria, capital of British Empire in October 1872"
+        mainElements: "Monumental Portland stone and brick buildings darkened by coal soot, elegant Georgian townhouses on Saville Row with symmetrical facades and black iron railings, gas street lamps"
+        atmosphere: "Formal order and imperial power, omnipresent fog giving yellow-gray tint, sounds of horse hooves on cobblestone and distant steam machinery"
+    
+    - id: "reform_club"
+      name: "Reform Club Interior"
+      description_block: |
+        setting:
+          location: "Prestigious gentleman's club at Pall Mall, London, main salon in Italian Renaissance style"
+        mainElements: "High ceiling with dark wood paneling, walls covered in burgundy damask, massive gas chandeliers casting warm golden light, large marble fireplace with portraits in gilded frames"
+        atmosphere: "Distinguished quiet masculine exclusivity, heavy leather armchairs, whist tables covered in green cloth"
+    
+    - id: "fogg_house"
+      name: "Fogg's House Interior"
+      description_block: |
+        setting:
+          location: "Fogg's residence at 7 Saville Row, London, interior salon"
+        mainElements: "Georgian ascetic interior with muted beiges and grays, dark wood, precise clock on mantelpiece, organized library with orderly books, minimal decorations"
+        atmosphere: "Order, silence, sterility and mechanical peace, natural light through large windows, evening gas lamp warmth"
+    
+    - id: "suez_port"
+      name: "Suez Egypt Port"
+      description_block: |
+        setting:
+          location: "Suez port town Egypt after opening of Suez Canal in 1869, gateway to the East"
+        mainElements: "Chaotic labyrinth of docks, warehouses and ship masts from around the world, traditional low sandstone buildings in Ottoman style alongside new European hotels and shipping offices"
+        atmosphere: "Port boom atmosphere, multilingual crowd of merchants sailors and travelers, hot dry air filled with spice dust and sea salt"
+    
+    - id: "bombay_calcutta"
+      name: "British India Cities"
+      description_block: |
+        setting:
+          location: "Bombay and Calcutta under British colonial rule in 1872, jewels in the Crown"
+        mainElements: "Fascinating mixture of chaotic native districts with narrow streets and colorful bazaars alongside monumental ordered European quarters with Victorian Gothic and neoclassical buildings in local sandstone"
+        atmosphere: "Explosion of colors in saris and turbans contrasting with sandy colonial buildings, intense tropical sun, mixture of incense exotic food flowers and dust, constant crowd chatter and temple bells"
+    
+    - id: "indian_jungle"
+      name: "Indian Jungle"
+      description_block: |
+        setting:
+          location: "Dense tropical jungle in British India between railway stations"
+        mainElements: "Dense green vegetation with lianas and ancient trees, hidden ancient pagoda in thicket, funeral pyre clearing"
+        atmosphere: "Humid sultry air full of sounds, mysterious dangerous feeling, dappled sunlight filtering through thick foliage creating light and shadow patterns"
+    
+    - id: "hongkong_yokohama"
+      name: "Hong Kong and Yokohama Ports"
+      description_block: |
+        setting:
+          location: "Hong Kong British colonial outpost and Yokohama Japan during rapid modernization after 1868 Meiji Restoration"
+        mainElements: "Hong Kong - European architecture adapted to tropical climate with wide shaded verandas. Yokohama - traditional Japanese wooden and paper houses alongside new pseudo-Western Giyōfū buildings combining European elements with Japanese roof forms"
+        atmosphere: "Hong Kong shows British order imposed on Chinese energy. Yokohama displays fascination and tension of opening to world after centuries of isolation"
+    
+    - id: "american_prairie"
+      name: "American Great Plains"
+      description_block: |
+        setting:
+          location: "Great Plains of Nebraska and surrounding territories during American westward expansion, crossed by transcontinental railroad"
+        mainElements: "Endless snow-covered plains in winter with railroad tracks disappearing into distance, buffalo herds, Indian encampments, occasional military forts"
+        atmosphere: "Vast emptiness and boundless freedom but also danger, harsh open sunlight, sense of endless horizon and untamed wilderness"
+    
+    - id: "san_francisco"
+      name: "San Francisco 1872"
+      description_block: |
+        setting:
+          location: "San Francisco California during post-Gold Rush boom, still frontier-like city"
+        mainElements: "Ornate Victorian wooden houses climbing steep hills, emerging solid brick commercial buildings in city center, muddy streets"
+        atmosphere: "Dynamic chaotic frontier energy, sounds of construction and development, Gold Rush legacy atmosphere"
+    
+    - id: "new_york_1872"
+      name: "New York City 1872"
+      description_block: |
+        setting:
+          location: "New York as mature metropolis, America's commercial capital in Gilded Age"
+        mainElements: "Rows of elegant brownstone townhouses, wide avenues crowded with carriages and omnibuses, elevated railway iron constructions casting moving shadows"
+        atmosphere: "Energy of constant movement and development, train whistles and streetcar bells, smell of progress and industrial growth"
+
+  items:
+    - id: "gold_pocket_watch"
+      name: "Fogg's Gold Chronometer"
+      description_block: |
+        details: "Elegant gold precision chronometer pocket watch on gold chain, symbol of order control and mathematical approach to time"
+    
+    - id: "silver_family_watch"
+      name: "Passepartout's Silver Watch"
+      description_block: |
+        details: "Solid silver pocket watch, family heirloom from grandfather, stubbornly showing London time throughout journey, symbol of tradition and personal identity"
+    
+    - id: "carpet_bag"
+      name: "Victorian Carpet Bag"
+      description_block: |
+        details: "Large soft bag made of thick patterned carpet material with Oriental or Victorian motifs, leather reinforcements and metal frame with clasp, containing shirts toiletries and enormous quantity of banknotes"
+    
+    - id: "bradshaw_guide"
+      name: "Bradshaw's Railway Guide"
+      description_block: |
+        details: "Thick book bound in red or dark green leather, filled with dense timetable charts for trains and steamships, Fogg's travel bible and symbol of faith in ordered predictable world"
+    
+    - id: "steamship_paddle"
+      name: "Victorian Steamship"
+      description_block: |
+        details: "Large iron ship with powerful paddle wheels or screw propeller, tall black funnels emitting thick black coal smoke, first-class decks laid with wood and brass fittings, luxurious interiors with wood paneling and gas lamps"
+    
+    - id: "steam_locomotive"
+      name: "Steam Railway Train"
+      description_block: |
+        details: "Steam locomotive pulling long wooden carriage composition, luxury Pullman Palace Cars as hotels on wheels with carved wood velvet upholstery mirrors in gilded frames and brass lamps, seats converting to comfortable berths with curtains"
+    
+    - id: "elephant_kiouni"
+      name: "Indian Elephant with Howdah"
+      description_block: |
+        details: "Large Indian elephant named Kiouni carrying ornate decorated covered seat (howdah) on its back for passengers, symbol of exotic transportation through Indian jungle"

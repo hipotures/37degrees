@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Ludovico Technique and the Strapped-Down Subject"
+  setting:
+    time: "Near future, daytime"
+    location: "A sterile, white medical facility."
+    weather: "The room is windowless."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white hospital gown. He is strapped to a chair, his head held in a brace, his eyes clamped open.
+      position: "In the center of a small cinema-like room."
+      action: "He is being forced to watch violent films on a large screen. He is screaming, but no one is listening."
+    - id: "dr_brodsky"
+      name: "Dr. Brodsky"
+      description_block: |
+        A cold, clinical-looking man with a severe expression. He is clean-shaven and has short, neat hair. Wears a white lab coat. Stands with a rigid, authoritarian posture.
+      position: "Standing behind Alex, observing him with a detached, scientific curiosity."
+      action: "He is administering eye drops to Alex, ensuring he cannot close his eyes."
+  scene:
+    mainElements: "The Ludovico Technique is a form of aversion therapy designed to cure Alex of his violent tendencies. It is a brutal and dehumanizing process."
+    details: "The room is dark, except for the flickering light from the screen. The screen shows scenes of extreme violence, which are reflected in Alex's wide, terrified eyes. Wires are attached to his head, monitoring his brain activity."
+    background: "Other doctors and scientists are visible in the background, observing the experiment from behind a glass window."
+    atmosphere: "A scene of intense psychological torture and medical horror. Alex is a helpless subject in a cruel experiment."
+  composition:
+    cameraAngle: "A close-up on Alex's face, capturing his terror and anguish. The reflection of the violent films is visible in his eyes."
+    focus: "The clamps that are holding Alex's eyes open."
+    depth: "Foreground: Alex's face. Middle ground: The movie screen. Background: The observers behind the glass."

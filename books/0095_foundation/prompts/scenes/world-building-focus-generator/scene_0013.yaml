@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Imperial ceremonial chamber showing state symbols and art"
+  setting:
+    time: "Galactic Standard Era 12000s, formal ceremonial period"
+    location: "grand Imperial ceremonial chamber within Trantor government complex"
+    weather: "controlled interior environment with dramatic artificial lighting"
+  characters:
+    - appearance: "Imperial officials in formal ceremonial dress, various ages representing different government departments, dignified bearing reflecting state authority"
+      clothing: "elaborate ceremonial robes with Imperial insignia, formal military dress uniforms with traditional decorations, hierarchical color schemes indicating rank and department"
+      position: "arranged in formal ceremonial positions, standing at attention during state rituals, processing through ceremonial spaces"
+      action: "participating in state ceremonies, displaying formal protocol, demonstrating Imperial authority through ritualized behavior"
+  scene:
+    mainElements: "monumental Imperial symbols and artwork, ceremonial thrones and official seating, state banners and heraldic displays, formal architectural elements designed to inspire awe and submission"
+    details: "massive Imperial eagle and starburst symbols carved in metal and stone, portraits of past Emperors in classical artistic style, ceremonial weapons and regalia displayed as state artifacts, geometric patterns incorporating Imperial themes, dramatic lighting emphasizing grandeur and authority, acoustic design amplifying ceremonial speeches"
+    background: "vast ceremonial chamber with vaulted ceilings, formal galleries for official observers, architectural elements extending beyond visual limits suggesting infinite Imperial power"
+    atmosphere: "overwhelming state authority expressed through artistic and architectural grandeur, formal ritualism reinforcing Imperial hierarchy, sense of ancient traditions maintaining political control"
+  composition:
+    cameraAngle: "low angle emphasizing monumental scale of Imperial symbols"
+    focus: "state artistic expression of Imperial power and authority"
+    depth: "foreground ceremonial details, middle ground official participants, background monumental architecture"

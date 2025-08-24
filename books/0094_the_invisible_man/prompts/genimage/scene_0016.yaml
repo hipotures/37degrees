@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1896, late night in London laboratory (flashback)
+    location: Cramped boarding house room in London converted into makeshift chemical laboratory, shabby urban accommodation
+      repurposed for scientific work
+    weather: Foggy London night with gas lamps flickering outside window
+  characters:
+  - appearance: Pale albino man in his late twenties, tall and broad-shouldered, height around six feet, with pale pink-white
+      complexion and distinctive red eyes, angular facial features
+    clothing: Simple dark woolen suit typical of poor university demonstrator, white cotton shirt, worn leather shoes, functional
+      garments showing signs of wear and financial constraint
+    position: Hunched over laboratory table working with intense concentration
+    action: Methodically working with scientific apparatus, measuring chemicals with precise movements
+  scene:
+    mainElements: Numerous glass bottles and chemical apparatus cluttering every surface, scientific instruments improvised
+      from common materials, chemical stains on furniture
+    details: Gas flame heating chemical mixture, graduated cylinders filled with precisely measured solutions, cat cage in
+      corner containing test subject, landlord's footsteps audible on stairs outside
+    background: Shabby London boarding house room with peeling wallpaper, single gas fixture providing inadequate light, window
+      showing smoky London night, sounds of urban poverty
+    atmosphere: Obsessive scientific dedication mixed with desperate poverty, sharp chemical odors, chaotic arrangement suggesting
+      fevered experimentation
+  composition:
+    cameraAngle: Medium shot showing objective documentation of laboratory work
+    focus: Scientific method and precise measurement without emotional overlay
+    depth: Foreground shows detailed laboratory equipment, middle ground captures Griffin's methodical work, background reveals
+      harsh urban reality, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

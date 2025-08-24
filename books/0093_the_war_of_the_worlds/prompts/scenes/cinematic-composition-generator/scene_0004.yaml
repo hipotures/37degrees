@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Domestic tranquility - narrator's wife in Victorian home"
+  setting:
+    time: "1897, peaceful afternoon"
+    location: "Victorian middle-class villa in Maybury district near Woking Surrey, red brick two-story house with bay windows and small front garden, typical comfortable suburban residence of professional class"
+    weather: "Mild summer afternoon with soft natural light"
+  characters:
+    - appearance: "Approximately 35 years old Victorian lady, average height and build, gentle refined features, dark hair styled in period-appropriate updo with small decorative pins"
+      clothing: "Long modest Victorian dress in muted colors with high neckline and long sleeves, fitted bodice shaped by corset, full skirt reaching floor, small domestic apron when at home, simple jewelry"
+      position: "Seated in comfortable drawing room, engaged in needlework or reading"
+      action: "Quietly occupied with domestic activities, embodying Victorian feminine ideals of grace and domesticity"
+  scene:
+    mainElements: "Well-appointed Victorian interior with high ceilings, ornate plaster moldings, heavy mahogany furniture, bookcases lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope"
+    details: "Elegant drawing room with floral wallpaper, heavy brocade curtains, antimacassar doilies on furniture, family photographs in silver frames, china tea service, comfortable upholstered furniture arranged around fireplace, Persian carpet, potted plants in bay window"
+    background: "Sunlight streaming through lace curtains, view of small garden through window, family portraits on walls, domestic order and comfort"
+    atmosphere: "Secure domestic environment representing Victorian middle-class comfort and order, warm gaslight illumination, sense of established civilization and intellectual pursuit, sanctuary of normalcy. Perfect embodiment of peaceful home life soon to be destroyed"
+  composition:
+    cameraAngle: "Medium wide shot through doorway creating natural frame around domestic scene"
+    focus: "Narrator's wife as symbol of Victorian domestic peace and stability, no text or letters visible"
+    depth: "Foreground shows doorframe framing the scene, middle ground centers on wife in comfortable domestic setting, background reveals garden through window suggesting connection to outside world"

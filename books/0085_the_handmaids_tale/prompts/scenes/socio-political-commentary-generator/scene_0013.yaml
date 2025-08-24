@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crowd of Identical Figures - Loss of Individuality"
+  setting:
+    time: "Near future, uniform fluorescent lighting eliminating natural shadows"
+    location: "Large assembly hall or public gathering space in Gilead administrative complex"
+    weather: "Indoor setting with controlled artificial lighting creating sterile atmosphere"
+  characters:
+    - appearance: "Hundreds of people dressed identically within their caste groups, no individual features distinguishable"
+      clothing: "Perfect uniform conformity - red Handmaids in one section, blue Wives in another, brown Aunts supervising, all clothing identical within each group"
+      position: "Arranged in precise geometric rows and columns like a human grid"
+      action: "Sitting or standing in perfect unison, all facing the same direction with identical posture and hand positions"
+  scene:
+    mainElements: "Mass of humanity organized into color-coded blocks with no individual variation visible, creating visual impression of human uniformity as state policy"
+    details: "Every person within each caste group is indistinguishable from others - same clothing, same posture, same neutral expression. The organization is perfectly geometric with precise spacing and alignment. No personal items, jewelry, or individual touches are visible. The crowd forms distinct color blocks representing Gilead's caste system."
+    background: "Institutional architecture designed for mass gatherings with efficient seating arrangements and supervision platforms for authorities"
+    atmosphere: "Complete erasure of individual personality and human uniqueness, replaced by mass conformity and state-mandated identity"
+  composition:
+    cameraAngle: "Wide overhead or elevated view showing the geometric pattern of mass human conformity"
+    focus: "The patterns created by color-coded uniform groups dominating the entire frame"
+    depth: "Mass crowd formation filling foreground and middle ground, institutional architecture in background emphasizing the scale of conformity"

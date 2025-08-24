@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Revelation Behind the Veil"
+  setting:
+    time: "Mid-18th century, evening"
+    location: "Richly decorated interior of Lisbon house, private chamber"
+    weather: "Calm evening after the chaos of earthquake and auto-da-fé"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple clean shirt and trousers, bandages visible from auto-da-fé wounds"
+      position: "Seated in chair, being tended by mysterious veiled woman"
+      action: "Stares with growing hope and disbelief as veiled figure's movements become familiar"
+    - appearance: "70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with intelligence and resilience"
+      clothing: "Plain dark servant's dress"
+      position: "Standing beside curtained doorway, watching with knowing expression"
+      action: "Nods meaningfully toward veiled woman, eyes showing mixture of pity and anticipation for reunion"
+    - appearance: "Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing"
+      clothing: "Elegant dress with full veil covering face and hair"
+      position: "Standing before Candide, hand reaching toward veil"
+      action: "Slowly lifts veil with trembling hand, revealing face to beloved, eyes filled with emotion at reunion"
+  scene:
+    mainElements: "Luxuriously furnished room with Persian carpets, rich tapestries, candlelit interior showing wealth and comfort in stark contrast to public destruction outside"
+    details: "Cunegonde's hand trembles as she lifts veil. Candide's face transforms from hopeful expectation to overwhelming joy and disbelief. Old Woman watches with satisfaction at orchestrated reunion. Candlelight creates romantic atmosphere while shadows hint at secrets."
+    background: "Rich Portuguese interior with religious paintings, carved furniture, glimpse through window of Lisbon's damaged streets and fires still burning in distance"
+    atmosphere: "Dramatic revelation and emotional reunion against backdrop of recent trauma. Warm candlelight provides intimate setting. Hope emerging from despair. Colors of gold candlelight, rich fabrics, shadows of mystery."
+  composition:
+    cameraAngle: "Close-up shot capturing the moment of veil lifting and recognition"
+    focus: "Cunegonde's revealed face and Candide's expression of overwhelming joy and recognition"
+    depth: "Foreground shows the intimate revelation, middle ground the Old Woman's knowing presence, background the luxurious interior contrasting with destroyed city beyond"

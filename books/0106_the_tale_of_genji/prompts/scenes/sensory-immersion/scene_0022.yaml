@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Sacred Incense Meditation"
+  setting:
+    time: "Late 10th century Japan, twilight during religious ceremony"
+    location: "Imperial Palace Heian-kyō, private Buddhist chapel with altar and meditation space"
+    weather: "Calm evening with sacred atmosphere"
+  characters:
+    - appearance: "Japanese imperial consort in her teens to thirties, bears striking resemblance to deceased Kiri-Tsubo, pale aristocratic features with powdered white face, blackened teeth, redrawn high eyebrows, long straight black hair"
+      clothing: "Imperial quality twelve-layer robes befitting emperor's consort, often incorporating wisteria motifs in subtle purples and whites, garments of highest silk quality with court-appropriate seasonal colors"
+      position: "Kneeling in meditation position before Buddhist altar, hands in prayer mudra"
+      action: "Deep breathing during incense ceremony, eyes closed in spiritual concentration, maintaining perfect stillness except for gentle breathing rhythm"
+  scene:
+    mainElements: "Elegant bronze vessel with perforated lid for burning blended aromatic woods, sits on wooden stand, creates fragrant smoke that permeates silk clothing and architectural spaces"
+    details: "Sacred incense creates elaborate smoke spirals rising from bronze burner, aromatic smoke permeates silk clothing making fabrics seem to glow with absorbed fragrance, smoke patterns dance in rhythm with gentle breathing, incense particles create luminous clouds in filtered evening light, bronze burner surfaces show heat patterns and aromatic oil stains, silk robes absorb and hold fragrant smoke creating permanent aromatic memory, breathing rhythm matches smoke spiral patterns creating visual harmony, meditation space feels embraced by aromatic sanctuary, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Spiritual sanctuary where incense creates multi-sensory meditation experience combining sight, scent, taste, touch of aromatic smoke, and rhythmic breathing"
+  composition:
+    cameraAngle: "Medium shot capturing incense smoke patterns and meditative figure"
+    focus: "Incense smoke spirals and their interaction with breathing rhythm and silk absorption"
+    depth: "Rising incense smoke in foreground, meditating figure in middle ground, sacred chapel space extending in background"

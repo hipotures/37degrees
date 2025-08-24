@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documentary View of Border Crossing - Raw Political Reality"
+  setting:
+    time: "1491 Ekumen calendar, midday, natural overcast lighting"
+    location: "Border checkpoint between Karhide and Orgoreyn on planet Gethen, administrative facility in disputed territory"
+    weather: "Cold overcast day with intermittent snow flurries"
+  characters:
+    - appearance: "Border guards from both nations, middle-aged Gethenians in official uniforms, faces showing professional detachment and routine boredom"
+      clothing: "Official border guard uniforms with national insignia, practical winter gear for outdoor duty, weapons visible but not prominently displayed"
+      position: "Stationed at checkpoint barriers and administrative buildings"
+      action: "Processing routine border crossings with mechanical efficiency, stamping documents and inspecting cargo according to established protocols"
+    - appearance: "Various travelers waiting to cross border, merchants with goods, diplomatic couriers, ordinary citizens on legal business"
+      clothing: "Mix of practical travel clothing and official business attire, winter protection gear"
+      position: "Queued in orderly lines according to checkpoint procedures"
+      action: "Presenting documentation and submitting to routine searches while maintaining patient compliance with bureaucratic requirements"
+  scene:
+    mainElements: "Simple administrative buildings housing border checkpoint, barrier gates controlling passage, document inspection stations, storage areas for detained goods, national flags marking territorial boundaries"
+    details: "Routine bureaucratic process operating without emotional drama or political tension, paperwork processed according to standard procedures regardless of individual circumstances, checkpoint functioning as mechanical interface between political systems, measured pace of official business, no text or letters visible"
+    background: "Neutral border landscape showing no obvious signs of territorial dispute, road infrastructure serving commercial and diplomatic traffic, distant markers indicating national boundaries"
+    atmosphere: "Mundane administrative reality underlying political tensions - border functioning as routine bureaucratic interface despite theoretical national rivalry"
+  composition:
+    cameraAngle: "Neutral documentary angle showing complete checkpoint operation without favoring any perspective"
+    focus: "Mechanical efficiency of border administration operating independently of political rhetoric"
+    depth: "Foreground: routine document processing, middle: orderly traveler queues, background: neutral border infrastructure"

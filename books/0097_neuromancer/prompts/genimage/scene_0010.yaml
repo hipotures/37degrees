@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 2030s, climactic moment of cyberspace infiltration
+    location: core security region of corporate database, digital battleground where information warfare occurs
+    weather: no physical weather but information storm creating digital turbulence
+  characters:
+  - appearance: 24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet,
+      pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible
+      at temples
+    clothing: worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or
+      puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive
+      lifestyle
+    position: centered in maelstrom of competing data streams
+    action: maintaining position while surrounded by chaotic information flows, consciousness struggling against overwhelming
+      digital cacophony
+  scene:
+    mainElements: explosive collision of multiple data streams creating visual chaos, security programs manifesting as geometric
+      attack patterns, defensive ice structures shattering into crystalline fragments, information particles swirling in tornado-like
+      formations
+    details: geometric shapes colliding and fragmenting in all directions, light trails showing velocity of competing programs,
+      crystalline barriers exploding into sharp-edged debris, data particles accelerating past perception limits, overlapping
+      motion blur creating sensation of overwhelming speed, no text or letters visible
+    background: digital space torn apart by information warfare, distant structures collapsing under data pressure, horizon
+      line dissolved into chaos of competing signals
+    atmosphere: overwhelming sensory bombardment where consciousness struggles to maintain coherence, digital equivalent of
+      natural disaster with information as destructive force, technological sublime expressing power beyond human comprehension
+  composition:
+    cameraAngle: dynamic shot spinning with chaotic data flow around central figure
+    focus: explosive collision of information streams creating visual representation of digital cacophony
+    depth: extreme foreground showing detailed particle collision, middle ground featuring figure maintaining position in
+      chaos, background dissolving into information storm
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

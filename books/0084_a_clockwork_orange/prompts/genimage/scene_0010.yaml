@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: Near future, night
+    location: A deserted country road.
+    weather: A cold, dark night.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is being held down by two police officers.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      He is dressed in a cheap, ill-fitting suit.
+    position: On the side of a deserted road.
+    action: He is being brutally beaten by his former droogs, who are now police officers.
+  - appearance: A slow-witted, brutish young man with a vacant expression. He is grinning
+      stupidly as he beats Alex with a truncheon.
+    clothing: Wears a police uniform.
+    position: Standing over Alex.
+    action: He is enjoying his newfound power.
+  - appearance: A cunning and ambitious young man with a sharp, fox-like face. He
+      is watching the beating with a cold, calculating expression.
+    clothing: Wears a police uniform.
+    position: Leaning against a police car.
+    action: He is savoring his revenge.
+  scene:
+    mainElements: The ultimate irony. Alex's former partners in crime are now the
+      enforcers of the law, and they are using their power to get their revenge on
+      him.
+    details: The scene is illuminated by the headlights of the police car, which cast
+      long, distorted shadows. The police uniforms of Dim and Georgie are clean and
+      crisp, a stark contrast to the dirty, disheveled state of Alex.
+    background: The dark, empty countryside.
+    atmosphere: A scene of cynical, brutal irony. The line between law and crime has
+      been completely blurred. The forces of order are just as savage and corrupt
+      as the criminals they are supposed to be fighting.
+  composition:
+    cameraAngle: A low angle shot, looking up at Dim and Georgie, making them appear
+      as monstrous figures of authority.
+    focus: The police badges on the uniforms of Dim and Georgie, a symbol of their
+      corrupted power.
+    depth: 'Foreground: Alex on the ground. Middle ground: Dim and Georgie. Background:
+      The police car.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

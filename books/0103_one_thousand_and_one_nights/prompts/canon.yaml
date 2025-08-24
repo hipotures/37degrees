@@ -1,0 +1,139 @@
+canon:
+  characters:
+    - id: "scheherazade"
+      name: "Scheherazade"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+            clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+            posture: "Seated gracefully with erect spine, hands positioned expressively for storytelling, calm and dignified demeanor"
+            action: "Narrating with subtle hand gestures, maintaining steady eye contact, speaking with measured cadence"
+
+    - id: "king_shahrijar"
+      name: "King Shahrijar"
+      description_block: |
+        characters:
+          - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+            clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+            posture: "Initially rigid and imperious, gradually softening to leaning forward attentively, shoulders relaxing over time"
+            action: "Listening intently to stories, facial expressions shifting from stone-faced to engaged, occasional questioning gestures"
+
+    - id: "sinbad_sailor"
+      name: "Sinbad the Sailor"
+      description_block: |
+        characters:
+          - appearance: "Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long white beard, face marked by adventure and wisdom, alert eyes scanning horizon"
+            clothing: "Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with purse"
+            posture: "Confident stance of experienced sailor, hands often gesturing as if describing vast distances"
+            action: "Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully"
+
+    - id: "aladdin"
+      name: "Aladdin" 
+      description_block: |
+        characters:
+          - appearance: "Young man aged 18 years, lean and agile build, quick intelligent brown eyes, short dark hair, smooth youthful face, medium height with energetic bearing"
+            clothing: "Initially worn and patched clothing of poor youth, later magnificent princely silk robes with jeweled belt and fine leather shoes"
+            posture: "Alert and ready to move quickly, sometimes nervous fidgeting when uncertain"
+            action: "Moving with youthful energy, handling objects with curiosity, expressing wonder at magical discoveries"
+
+    - id: "morgiana"
+      name: "Morgiana"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 25 years, quick and nimble build suited for household work, alert dark eyes showing intelligence and determination, dark hair covered by simple headscarf, capable hands"
+            clothing: "Simple practical servant's dress in earth tones allowing freedom of movement, sturdy sandals, small belt pouch for tools"
+            posture: "Efficient and purposeful movement, ready stance showing vigilance"
+            action: "Moving stealthily when needed, performing tasks with focused attention, showing protective loyalty"
+
+    - id: "ali_baba"
+      name: "Ali Baba"
+      description_block: |
+        characters:
+          - appearance: "Man aged 45 years, sturdy build with work-hardened hands of laborer, weathered face showing honest character, graying beard, modest bearing of humble woodcutter"
+            clothing: "Rough working clothes of poor woodcutter, patched tunic and worn sandals, simple rope belt, later modest middle-class robes"
+            posture: "Straightforward honest bearing, sometimes nervous when dealing with wealth"
+            action: "Working with steady rhythm, showing cautious curiosity, expressing humble gratitude"
+
+    - id: "bandit_captain"
+      name: "Captain of Forty Thieves"
+      description_block: |
+        characters:
+          - appearance: "Man aged 40 years, powerful ruthless build, scarred face showing violent life, piercing calculating eyes, unkempt dark beard, commanding presence"
+            clothing: "Dark leather traveling garments suitable for desert raids, large turban, heavy boots, multiple weapons visible"
+            posture: "Dominant aggressive stance, scanning surroundings for threats"
+            action: "Commanding with harsh voice, moving with predatory caution, handling weapons expertly"
+
+  locations:
+    - id: "royal_palace_persia"
+      name: "Royal Palace of King Shahrijar"
+      description_block: |
+        setting:
+          location: "Sasanian royal palace complex in ancient Persian empire, opulent interior chambers and throne halls"
+        mainElements: "Vast halls with Persian architectural features including pointed arches, ornate columns with carved capitals, elaborate tile work, throne room with elevated royal seat, private royal chambers with low furnishings"
+        atmosphere: "Majestic but oppressive, filled with tension and the weight of absolute power, echoing footsteps in marble halls, flickering oil lamp shadows on richly decorated walls"
+
+    - id: "abbasid_baghdad"
+      name: "Baghdad during Abbasid Caliphate"
+      description_block: |
+        setting:
+          location: "Capital city of Abbasid Caliphate on banks of Tigris River, center of Islamic Golden Age civilization"
+        mainElements: "Broad main streets leading to central areas, brick and mud-brick buildings with pointed arches, large open courtyards, covered bazaar areas, riverside docks with merchant vessels"
+        atmosphere: "Bustling cosmopolitan center of learning and commerce, sounds of multiple languages and crafts, scents of spices and perfumes, bright sunlight filtered through wooden lattice screens"
+
+    - id: "merchants_bazaar"
+      name: "Covered Bazaar Market"
+      description_block: |
+        setting:
+          location: "Traditional Middle Eastern covered market with vaulted arcade passages and numerous merchant stalls"
+        mainElements: "Arched stone or brick passageways, wooden merchant stalls displaying colorful goods, hanging carpets and textiles, brass vessels and pottery, spice mountains in sacks"
+        atmosphere: "Vibrant chaos of commerce, constant haggling voices, rich aromas of cardamom cinnamon and sandalwood, dappled light filtering through ceiling openings, dust motes dancing in air"
+
+    - id: "treasure_cave"
+      name: "Cave of Forty Thieves"
+      description_block: |
+        setting:
+          location: "Hidden cave in rocky cliff face accessible only through secret stone entrance in remote wilderness"
+        mainElements: "Natural stone chamber expanded by human effort, piles of gold coins in leather sacks, rolls of silk and brocade, precious gems scattered on stone floor, wooden chests bound with iron"
+        atmosphere: "Mysterious and tempting, golden gleam from treasure reflecting torchlight, musty scent of age and wealth, echoing drips of water, shadows dancing on cave walls"
+
+    - id: "magic_underground_chamber"
+      name: "Aladdin's Underground Treasure Chamber"
+      description_block: |
+        setting:
+          location: "Magical subterranean garden chamber accessed through hidden desert entrance"
+        mainElements: "Stone steps descending into ornate underground garden, trees bearing fruit of precious gems instead of normal fruit, central platform with simple oil lamp, jeweled surfaces reflecting magical light"
+        atmosphere: "Enchanted and dangerous, supernatural glow from gem-fruits, absolute silence except for footsteps, air of ancient magic and deadly traps, beauty hiding mortal peril"
+
+    - id: "sinbad_island"
+      name: "Fantastical Ocean Island"
+      description_block: |
+        setting:
+          location: "Remote tropical island in Indian Ocean with extraordinary natural phenomena and magical creatures"
+        mainElements: "Sandy beaches with unusual colored sand, dense jungle vegetation, strange rock formations, pristine freshwater springs, exotic birds and unknown creatures"
+        atmosphere: "Sense of wonder and hidden danger, sounds of unfamiliar bird calls and mysterious rustling, scents of unknown tropical flowers, brilliant colors under intense sun, feeling of discovery and peril"
+
+  items:
+    - id: "magic_oil_lamp"
+      name: "Aladdin's Magic Lamp"
+      description_block: |
+        details: "Simple clay oil lamp with practical bronze fittings, unremarkable appearance hiding immense supernatural power, small enough to hold in two hands, surface worn smooth from age and handling"
+
+    - id: "curved_persian_sword"
+      name: "Royal Scimitar"
+      description_block: |
+        details: "Elegantly curved single-edged sword with ornate Persian craftsmanship, jeweled hilt wrapped in leather, polished steel blade reflecting light, symbol of royal authority and justice"
+
+    - id: "merchant_scales"
+      name: "Merchant's Balance Scale"
+      description_block: |
+        details: "Bronze balance scale with hanging weighing pans, used for measuring precious goods and coins, portable size for market use, showing wear from constant commercial activity"
+
+    - id: "treasure_gold_coins"
+      name: "Golden Coins and Jewels"
+      description_block: |
+        details: "Heaps of gold dinars and silver dirhams in leather pouches, loose precious gems including rubies emeralds and pearls, ornate jewelry and golden vessels, representing immense wealth"
+
+    - id: "storytelling_scroll"
+      name: "Written Stories and Books"
+      description_block: |
+        details: "Rolled parchment scrolls and bound volumes containing collected tales and wisdom, written in Arabic calligraphy, representing knowledge and the power of narrative"

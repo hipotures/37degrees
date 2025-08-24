@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Coffee grounds scattered with bitter powder clouds in morning air"
+  setting:
+    time: "1917 early morning, coffee preparation time"
+    location: "field kitchen area behind trenches, soldiers preparing ersatz coffee from rationed supplies, makeshift brewing equipment"
+    weather: "cool morning with gentle breeze dispersing coffee dust, clear air making powder clouds visible"
+  characters:
+    - appearance: "40 lat, zgarbione opadające ramiona sugerujące człowieka przyzwyczajonego do ciężkiej pracy, niebieskie oczy, twarz z ziemi poorana zmarszczkami ogorzała od wiatru i słońca surowa i prosta, biedny cienki wąsik, niezwykły nos"
+      clothing: "znoszony brudny mundur niemieckiego żołnierza Feldgrau, jako szewc z zawodu prawdopodobnie najlepiej dbał o swoje buty w warunkach frontowych"
+      position: "crouched beside camp stove, grinding coffee with hand-mill"
+      action: "grinding ersatz coffee beans with manual grinder, bitter powder dispersing into air creating visible dust clouds, preparing morning ration of substitute coffee"
+  scene:
+    mainElements: "makeshift coffee grinding station with hand-operated mill, dark coffee grounds scattered on wooden surface, bitter powder clouds dispersing in morning air, soldier preparing ersatz coffee from limited supplies"
+    details: "coffee grounds appearing coarse and uneven from manual grinding, bitter powder creating small dust clouds when grounds are disturbed, coffee substitute looking darker and grittier than real coffee, powder particles floating in morning air showing bitterness made visible, scattered grounds on wooden preparation surface showing grinding process, hand-grinder producing irregular particle sizes, coffee dust settling on surfaces creating bitter residue coating, ersatz coffee appearing less refined than prewar coffee, no text or letters visible"
+    background: "field kitchen with basic cooking equipment, other soldiers waiting for morning coffee ration, supply crates containing coffee substitutes and military rations"
+    atmosphere: "morning ritual providing comfort despite poor quality substitutes, bitter reality of wartime rationing affecting even basic pleasures, soldiers accepting inferior coffee as better than none"
+  composition:
+    cameraAngle: "close-up shot showing coffee grinding process with visible powder clouds"
+    focus: "coffee grounds and bitter powder dust dispersing in morning air"
+    depth: "extreme foreground shows detailed coffee grinding and powder formation, middle ground features soldier at work, background reveals field kitchen and waiting soldiers"

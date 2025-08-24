@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1880s evening, private moment behind closed doors
+    location: Jekyll's house showing concealed areas and hidden activities
+    weather: Indoor environment with natural lighting from various sources
+  characters:
+  - appearance: Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face
+      with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples
+    clothing: Casual indoor attire - shirt sleeves, waistcoat, clothing showing signs of private activity
+    position: Moving between public and private areas of house
+    action: Transitioning between different behaviors in different spaces
+  scene:
+    mainElements: House architecture revealing hidden passages and concealed areas - service stairs connecting all levels,
+      locked doors leading to restricted areas, back entrances not visible from street
+    details: Physical evidence of dual usage - laboratory equipment in unexpected locations, chemical stains in supposedly
+      pristine areas, worn paths between house sections showing frequent travel, hidden storage areas
+    background: Complete building layout showing relationship between public and private spaces, architectural features designed
+      for concealment, connecting passages unknown to casual visitors
+    atmosphere: Neutral revelation of previously hidden physical arrangements, natural lighting showing actual conditions,
+      objective documentation of concealed architectural features, no text or letters visible
+  composition:
+    cameraAngle: Documentary perspective showing previously concealed areas and connections
+    focus: Hidden architectural features and evidence of concealed activities
+    depth: Foreground shows immediate hidden elements, middle ground reveals concealed passages, background suggests complete
+      hidden infrastructure
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

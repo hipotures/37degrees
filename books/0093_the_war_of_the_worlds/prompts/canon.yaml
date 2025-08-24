@@ -1,0 +1,116 @@
+canon:
+  characters:
+    - id: "narrator"
+      name: "Narrator"
+      description_block: |
+        characters:
+          - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+            clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+            posture: "Upright posture of educated professional, thoughtful and observant demeanor, moves with deliberate precision"
+    
+    - id: "narrator_wife"
+      name: "Narrator's Wife" 
+      description_block: |
+        characters:
+          - appearance: "Approximately 35 years old Victorian lady, average height and build, gentle refined features, dark hair styled in period-appropriate updo with small decorative pins"
+            clothing: "Long modest Victorian dress in muted colors with high neckline and long sleeves, fitted bodice shaped by corset, full skirt reaching floor, small domestic apron when at home, simple jewelry"
+            posture: "Graceful carriage typical of well-bred Victorian woman, gentle movements, composed demeanor"
+    
+    - id: "curate"
+      name: "The Curate"
+      description_block: |
+        characters:
+          - appearance: "30-35 year old Anglican clergyman with weak physical bearing, pale complexion, fair almost flaxen curly hair on low forehead, large pale blue vacant eyes, receded chin, thin white hands, slender fragile frame, nervous movements"
+            clothing: "Black clerical suit or cassock with characteristic white clerical collar, black leather shoes, clothing becomes increasingly disheveled and dirty during crisis"
+            posture: "Slightly stooped posture suggesting physical and moral weakness, fidgety nervous gestures, uncertain gait"
+    
+    - id: "artilleryman"
+      name: "The Artilleryman"
+      description_block: |
+        characters:
+          - appearance: "25-30 year old British soldier, strong muscular build typical of artillery service, weather-beaten face with straight honest features, clean-shaven per military regulations, confident military bearing"
+            clothing: "Navy blue Royal Artillery field uniform with red facings and collar trim, navy trousers with red stripe, initially complete military dress becoming ragged civilian clothes, sturdy military boots"
+            posture: "Erect military posture, confident stride, disciplined movements even when uniform is lost"
+    
+    - id: "narrator_brother"
+      name: "Narrator's Brother"
+      description_block: |
+        characters:
+          - appearance: "Early 20s medical student, similar features to narrator but younger and more energetic, clean-shaven youthful face, lean build, alert intelligent eyes, fashionable student appearance"
+            clothing: "Less formal than narrator - Norfolk jacket or simple suit appropriate for London student, lighter colors, may wear straw boater hat in summer, practical sturdy shoes for city walking"
+            posture: "Youthful energy in movement, quick decisive actions, confident bearing of educated young man"
+    
+    - id: "martian"
+      name: "Martian"
+      description_block: |
+        characters:
+          - appearance: "Large bulbous head-like body approximately 1.2 meters diameter, oily brownish leathery skin, two large dark luminous eyes, fleshy V-shaped beak without lips or nostrils, sixteen writhing tentacles arranged in two groups of eight around mouth area, no visible limbs or torso beyond the head-body"
+            clothing: "No clothing - natural alien form"
+            posture: "Moves via tentacle manipulation, alien ungainly movement unlike any earthly creature, intellectually focused but physically awkward on Earth"
+
+  locations:
+    - id: "horsell_common"
+      name: "Horsell Common"
+      description_block: |
+        setting:
+          location: "Open heathland in Surrey England, sandy soil with scattered pine and birch groves, purple heather covering rolling terrain, old sand-pits creating natural depressions in landscape, public common land on edge of Victorian suburbs near Woking"
+        mainElements: "Expansive heathland with clusters of pine trees, sandy patches between heather growth, natural amphitheater of old sand workings, footpaths crossing common used by local residents"
+        atmosphere: "Peaceful English countryside setting, warm summer air filled with buzzing insects and birdsong, sense of rural tranquility near civilized suburbs that will be shattered by alien arrival"
+    
+    - id: "narrator_home_maybury"
+      name: "Narrator's Home in Maybury"
+      description_block: |
+        setting:
+          location: "Victorian middle-class villa in Maybury district near Woking Surrey, red brick two-story house with bay windows and small front garden, typical comfortable suburban residence of professional class"
+        mainElements: "Well-appointed Victorian interior with high ceilings, ornate plaster moldings, heavy mahogany furniture, bookcases lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope"
+        atmosphere: "Secure domestic environment representing Victorian middle-class comfort and order, warm gaslight illumination, sense of established civilization and intellectual pursuit, sanctuary of normalcy"
+    
+    - id: "london_before_invasion"
+      name: "London Before Invasion"
+      description_block: |
+        setting:
+          location: "Victorian London at height of British Empire, bustling metropolitan center with mixture of Georgian terraces, grand public buildings, railway terminals, commercial districts, and crowded residential areas"
+        mainElements: "Cobblestone and early asphalt streets filled with horse-drawn vehicles, gas street lamps, imposing architecture of government buildings, busy railway stations, crowded omnibuses and hansom cabs, well-dressed pedestrians"
+        atmosphere: "Confident imperial capital, constant motion and energy of major city, mixture of coal smoke and horse odors, sounds of urban life - wheels on cobblestones, vendors calling, church bells, sense of civilization's triumph"
+    
+    - id: "london_after_invasion"
+      name: "London After Invasion" 
+      description_block: |
+        setting:
+          location: "Same London streets now empty and devastated, buildings damaged by Martian weapons, thick coating of black dust from Black Smoke, eerie silence replacing urban bustle, red weed growing over ruins and waterways"
+        mainElements: "Abandoned vehicles and possessions scattered in streets, broken windows like empty eye sockets, collapsed sections of buildings, Thames River choked with crimson Martian vegetation, unnatural stillness"
+        atmosphere: "Tomb-like silence broken only by wind through ruins, oppressive sense of death and abandonment, unnatural red vegetation creating alien transformation of familiar cityscape, complete reversal of former confidence"
+    
+    - id: "ruined_house_sheen"
+      name: "Ruined House in Sheen"
+      description_block: |
+        setting:
+          location: "Partially collapsed Victorian house in Sheen district, damaged by Martian cylinder landing, basement scullery and pantry areas still intact but filled with rubble, small triangular opening in ruined wall providing view of Martian crater"
+        mainElements: "Cramped underground space with broken crockery, stored food supplies, dusty confined air, pile of building debris, narrow window opening facing Martian excavation site"
+        atmosphere: "Claustrophobic prison-like confinement, stale air and dampness, constant tension from nearby alien presence, psychological pressure of close quarters with unstable companion, fear of discovery"
+
+  items:
+    - id: "martian_cylinder"
+      name: "Martian Cylinder"
+      description_block: |
+        details: "Massive metallic cylinder approximately 30 meters diameter, dull brownish scaly surface scarred by space travel, threaded top section that unscrews to reveal dark interior opening, clearly artificial construction of unknown metal alloy"
+    
+    - id: "martian_fighting_machine"
+      name: "Martian Fighting Machine (Tripod)"
+      description_block: |
+        details: "Towering three-legged walking machine about 30 meters tall, gleaming metallic body with articulated hood-like head section, flexible tentacle-like appendages beneath main body, rear basket for carrying captured humans, moves with fluid alien grace despite mechanical nature"
+    
+    - id: "heat_ray_apparatus" 
+      name: "Heat Ray Weapon"
+      description_block: |
+        details: "Camera-like device mounted on flexible arm projecting from Martian fighting machine, emits invisible beam of intense heat that ignites organic matter instantly and melts metal, no visible ray only devastating thermal effects, represents alien technology beyond human understanding"
+    
+    - id: "red_weed"
+      name: "Martian Red Weed"
+      description_block: |
+        details: "Alien vegetation with blood-red coloration, spreads rapidly through water systems, forms thick spongy masses with cactus-like segmented growth, emits faint violet phosphorescence at night, represents biological terraforming attempt by Martians"
+    
+    - id: "victorian_telescope"
+      name: "Victorian Telescope"
+      description_block: |
+        details: "Brass astronomical telescope mounted on wooden tripod, typical amateur instrument of 1890s, used for observing celestial phenomena including mysterious flashes on Mars that herald the invasion, represents human scientific curiosity"

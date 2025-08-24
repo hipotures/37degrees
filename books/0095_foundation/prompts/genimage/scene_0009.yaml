@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, continuous cosmic time
+    location: deep space near galactic center showing extreme stellar density around Imperial core worlds
+    weather: vacuum of space with intense stellar radiation
+  characters: No characters present in this scene
+  scene:
+    mainElements: incredibly dense star field creating nearly solid wall of light, massive stellar formations including binary
+      systems and stellar clusters, cosmic dust and gas formations illuminated by countless stars, gravitational effects visible
+      in light distortion
+    details: thousands of stars visible as individual points creating overwhelming celestial display, nebula formations glowing
+      with stellar radiation, asteroid belts and cosmic debris reflecting starlight, evidence of ancient cosmic engineering
+      projects, stellar traffic routes marked by navigation beacons
+    background: infinite depth of stellar density extending beyond visual limit, galactic core brightness creating perpetual
+      cosmic daylight, distant galaxies barely visible through stellar glare
+    atmosphere: overwhelming cosmic grandeur emphasizing galactic center as heart of civilization, sense of astronomical forces
+      beyond human scale, cosmic environment supporting vast Imperial infrastructure
+  composition:
+    cameraAngle: deep space perspective showing stellar density relationships
+    focus: extreme stellar concentration of galactic center environment
+    depth: foreground stellar formations, middle ground stellar clusters, background infinite cosmic depth
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

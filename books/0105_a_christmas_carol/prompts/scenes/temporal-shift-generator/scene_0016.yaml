@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Frozen Moment - The Rejected Invitation"
+  setting:
+    time: "December 24, 1843 - single moment suspended in time"
+    location: "Cramped London business office in commercial district, Victorian era with grimy brick buildings, narrow cobblestone streets"
+    weather: "Cold winter afternoon with time frozen at peak moment"
+  characters:
+    - appearance: "Cheerful young man in 30s with bright eyes, handsome features, rosy complexion from cold air, warm smile, brown hair"
+      clothing: "Well-tailored but modest coat, colorful scarf, quality boots, fashionable but not ostentatious dress of middle class"
+      position: "Mid-gesture extending invitation, hand outstretched in welcoming motion"
+      action: "Laughing heartily, extending warm greetings, raising glass in toasts, engaging in parlor games with infectious joy"
+    - appearance: "Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt cheeks marked by inner coldness"
+      clothing: "Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting his frugal nature"
+      position: "Frozen in moment of rejection, mouth open mid-refusal"
+      action: "Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving expression"
+  scene:
+    mainElements: "Critical moment suspended while life continues - Fred's invitation gesture frozen in time while office activity flows around them, Bob continuing to work in background, street traffic moving outside windows, time stopping only for crucial interaction"
+    details: "Temporal suspension effect - words visible as breath vapor hanging motionless in cold air, Fred's outstretched hand paused mid-gesture, Scrooge's rejection expression crystallized, ink drop frozen mid-fall from Bob's pen, coal ember suspended mid-spark from fireplace, dust motes hanging motionless in shaft of light, clock pendulum stopped while building sounds continue, street sounds muffled as if heard through glass, paper corner lifted by draft held at exact angle, no text or letters visible"
+    background: "Office environment continuing normal time flow - window frost patterns still forming, gas lamps flickering normally, street activities proceeding outside, building settling sounds continuing"
+    atmosphere: "Dramatic temporal suspension highlighting critical moral choice, silence around frozen figures while normal sounds continue elsewhere, light quality intensified around suspended moment, emotional weight of decision made tangible through time manipulation"
+  composition:
+    cameraAngle: "Medium shot focusing on suspended gesture between nephew and uncle"
+    focus: "Outstretched invitation hand serving as center of temporal distortion"
+    depth: "Foreground shows frozen interaction details, middle ground reveals continuing office activity, background displays normal time progression"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Foundation community gathering on Terminus showing frontier culture"
+  setting:
+    time: "Galactic Standard Era 12000s, evening community time"
+    location: "central gathering area in Terminus City, open plaza designed for colonial community events"
+    weather: "natural evening atmosphere with clear sky showing sparse galactic rim stars"
+  characters:
+    - appearance: "Foundation colonists of various ages and specializations, practical bearing from frontier life, intellectual curiosity mixed with pioneering spirit"
+      clothing: "simple functional garments made from local materials, work clothes suited for diverse colonial occupations, personal items showing individual expertise and interests"
+      position: "gathered around central speaking area, seated in informal groups, children playing at edges of gathering"
+      action: "listening to community discussions, sharing reports from different work projects, participating in democratic decision-making processes, socializing across professional boundaries"
+  scene:
+    mainElements: "simple outdoor amphitheater built from local stone, community bulletin areas with project updates, informal seating areas encouraging social interaction, practical lighting systems using Foundation technology"
+    details: "modular seating arrangements that can be reconfigured for different events, information displays showing colony progress and resource status, children's play areas integrated with adult gathering space, simple but effective audio systems for community-wide communication, locally-made craft items reflecting emerging colonial culture"
+    background: "Terminus landscape visible beyond community area, scattered residential and workshop buildings showing colonial development, star-sparse sky emphasizing frontier location"
+    atmosphere: "democratic community spirit contrasting with Imperial hierarchy, practical cooperation replacing formal protocol, emerging colonial identity based on shared challenges and goals"
+  composition:
+    cameraAngle: "elevated perspective showing community interaction patterns"
+    focus: "social democracy and cultural development in frontier colony"
+    depth: "foreground community activities, middle ground colonial architecture, background natural Terminus environment"

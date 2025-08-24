@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Palace of Lac - Architecture of Deception"
+  setting:
+    time: "1000-800 BCE, evening"
+    location: "Palace in Varanawata built from highly flammable materials like lac resin straw and other combustible substances as death trap for Pandavas"
+    weather: "Calm evening with no wind"
+  characters:
+    - appearance: "Female, middle-aged, noble bearing with concerned expression, protective maternal stance"
+      clothing: "Simple but elegant traveling robes in earth tones"
+      position: "Standing in palace chamber examining walls"
+      action: "Running fingers along wall surface feeling sticky resin texture"
+  scene:
+    mainElements: "Walls dripping with resin, furniture soaked in oil, hidden escape tunnel, deceptively comfortable appearance masking deadly nature"
+    details: "Walls glistening with lac coating, furniture surfaces showing oil stains, pleasant chamber decorations hiding sinister purpose, flickering oil lamps creating dangerous shadows, no text or letters visible"
+    background: "Comfortable palace interior with rich furnishings all treated with flammable substances, windows showing darkening sky outside"
+    atmosphere: "Cozy deceptive lighting creating atmosphere of trap and false security, sounds of crackling fire scent of lac and burning wood"
+  composition:
+    cameraAngle: "Medium shot showing architectural details that reveal hidden danger"
+    focus: "Mother figure discovering deadly nature of seemingly pleasant accommodations"
+    depth: "Foreground gleaming lac-coated surfaces, middle ground investigating figure, background comfortable but treacherous interior, no text or letters visible"

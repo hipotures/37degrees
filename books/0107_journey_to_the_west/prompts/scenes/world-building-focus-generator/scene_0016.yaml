@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underworld's Dark Administrative Districts and Prison Complexes"
+  setting:
+    time: "Eternal twilight hours when underworld bureaucracy operates at peak efficiency"
+    location: "Secondary administrative districts and prison complexes throughout the ten courts of hell"
+    weather: "Perpetual gloom with no natural light, only artificial illumination from torches and supernatural sources"
+  characters:
+    - appearance: "Lower-ranking demon clerks and prison guards with grotesque features, horned heads, spiked limbs, wearing official underworld uniforms indicating their bureaucratic functions"
+      clothing: "Dark administrative robes marked with underworld insignia, iron badges of office, practical work clothing suitable for harsh underworld conditions"
+      position: "Working at administrative desks, guarding prison entrances, patrolling between judicial complexes"
+      action: "Processing endless paperwork, maintaining prison security, escorting souls between different punishment areas"
+  scene:
+    mainElements: "Sprawling complexes of administrative buildings connected by underground tunnels, prison blocks housing souls awaiting judgment, processing centers where karmic records are calculated, guard towers monitoring vast underworld territories"
+    details: "Underworld administrative infrastructure showing the dark side of cosmic justice with filing systems containing records of all earthly sins, calculation chambers determining appropriate punishments, transportation networks moving souls between different court jurisdictions, communication systems connecting to earthly realm for monitoring living beings' actions"
+    background: "Vast underground city extending beyond immediate administrative areas, mining operations extracting rare underworld materials, industrial areas producing tools of punishment and containment"
+    atmosphere: "Oppressive bureaucratic efficiency mixed with supernatural dread, sounds of grinding administrative machinery and distant cries, air thick with sulfur and decay"
+  composition:
+    cameraAngle: "Underground urban view showing the systematic organization of underworld society"
+    focus: "The dark administrative machinery that processes cosmic justice"
+    depth: "Foreground shows daily operations of underworld bureaucracy, middle ground reveals systematic organization of punishment systems, background suggests vast underground civilization dedicated to managing afterlife justice"

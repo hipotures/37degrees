@@ -1,0 +1,100 @@
+canon:
+  characters:
+    - id: "count_dracula"
+      name: "Count Dracula"
+      description_block: |
+        characters:
+          - appearance: "Tall, thin man with nonthreatening build despite supernatural strength. Nonthreatening height approximately 6 feet. Gaunt, aristocratic features with high forehead, thin aquiline nose with peculiarly arched nostrils. Extremely pale complexion. Massive, heavy dark grey eyebrows nearly meeting over nose with hair that curls in profusion. Cruel mouth with peculiar sharp white teeth protruding over lower lip"
+            clothing: "Dressed entirely in black from head to foot without single spot of color anywhere. Victorian aristocratic attire: black frock coat, black waistcoat, black trousers, pristine white shirt with high collar"
+            posture: "Stands with aristocratic bearing and fluid, predatory grace. Moves with ceremonial precision when greeting guests, predatory stealth when stalking"
+
+    - id: "jonathan_harker"
+      name: "Jonathan Harker"
+      description_block: |
+        characters:
+          - appearance: "Young man approximately 28 years old with professional demeanor. Medium build, clean-shaven face typical of Victorian middle-class gentleman. After trauma: prematurely aged appearance with stress lines, hollow cheeks"
+            clothing: "Practical tweed traveling suit with high white collar and dark necktie during journey. Later wears conservative dark business suits appropriate for London solicitor"
+            posture: "Initially confident and upright bearing of ambitious young professional. After castle ordeal: cautious, alert stance with quick, nervous glances"
+
+    - id: "mina_harker"
+      name: "Mina Harker"
+      description_block: |
+        characters:
+          - appearance: "Young woman approximately 25 years old with intelligent, determined expression. Modest appearance befitting working woman. When marked by Dracula: red scar burned on forehead by holy wafer"
+            clothing: "Practical dark costume consisting of fitted jacket and skirt suitable for professional woman. Simple white shirtwaist blouse beneath jacket. Conservative, functional attire without ornate decoration"
+            posture: "Upright, purposeful bearing reflecting inner strength and determination. Moves with efficient precision when working at typewriter or organizing documents"
+
+    - id: "lucy_westenra"
+      name: "Lucy Westenra"
+      description_block: |
+        characters:
+          - appearance: "Beautiful 19-year-old woman with sweet, lovely features and charming pink cheeks. Radiant complexion and vivacious expression. As vampire: voluptuous beauty transformed to heartless cruelty with eyes that burn unholy fire, scarlet lips from fresh blood"
+            clothing: "Fashionable white muslin dresses and light-colored gowns appropriate for wealthy young lady. As vampire: white grave-clothes stained with blood"
+            posture: "Graceful, youthful movements with natural charm and vivacity. As vampire: sensuous, predatory grace with deliberate, seductive movements"
+
+    - id: "van_helsing"
+      name: "Professor Abraham Van Helsing"
+      description_block: |
+        characters:
+          - appearance: "Approximately 60-year-old man of medium height with broad, deep chest and strong shoulders. Ruddy hair that falls naturally back and to sides. Large dark blue eyes set wide apart, clean-shaven face with hard, square chin and large, firm, mobile mouth. Broad, noble forehead"
+            clothing: "Dark professional attire: well-tailored dark wool frock coat or suit with waistcoat. Carries large leather medical bag containing both medical instruments and vampire-fighting implements"
+            posture: "Energetic, decisive movements reflecting quick mind and determined will. Expressive gestures and animated bearing when explaining or teaching"
+
+    - id: "three_vampiresses"
+      name: "Three Vampire Women"
+      description_block: |
+        characters:
+          - appearance: "Three beautiful women with voluptuous ruby lips and brilliant white teeth. Two have dark hair with great dark piercing eyes that seem red in moonlight, with high aquiline noses like Count's. Third has great wavy masses of golden hair and pale sapphire eyes. All possess supernatural beauty with cruel, sensuous expressions"
+            clothing: "Flowing, ethereal gowns befitting ladies of aristocratic status. Garments that seem to float and move with otherworldly grace"
+            posture: "Fluid, dance-like movements approaching prey. Bend and sway with feline grace and predatory intent"
+
+  locations:
+    - id: "castle_dracula"
+      name: "Castle Dracula"
+      description_block: |
+        setting:
+          location: "Vast ruined castle built of heavy stones perched on precipice edge in Carpathian Mountains of Transylvania. Massive oak doors studded with iron nails set in richly carved stone portal"
+        mainElements: "Labyrinth of corridors and chambers filled with dust of centuries. Great fireplace with ancient silver lamp. Long dining table set with golden service. Library with books and manuscripts. No mirrors anywhere in castle"
+        atmosphere: "Oppressive silence broken only by howling wind and wolves. Heavy smell of dust and decay. Shadows dance from flickering flames. Temperature unnaturally cold despite fires"
+
+    - id: "whitby_abbey"
+      name: "Whitby Abbey and Cemetery"  
+      description_block: |
+        setting:
+          location: "Picturesque English seaside town with red-roofed houses climbing steep hillside. Majestic Gothic abbey ruins crowning cliff overlooking North Sea. Ancient cemetery surrounding ruined abbey with weathered headstones"
+        mainElements: "199 stone steps leading up cliff to abbey ruins and St. Mary's Church. Cemetery bench overlooking harbor where ships enter. Harbor with lighthouse and stone pier"
+        atmosphere: "Initially peaceful and romantic with sea breezes and crying gulls. During storms: dramatic with lightning illuminating ruins and crashing waves below"
+
+    - id: "carfax_estate"
+      name: "Carfax Estate"
+      description_block: |
+        setting:
+          location: "Large neglected estate in Purfleet on outskirts of London surrounded by high wall of ancient construction built with heavy stones. House shows mixture of architectural periods with central portion resembling medieval keep"
+        mainElements: "Ruined chapel attached to main house. Overgrown grounds with wild vegetation. Heavy iron gates and stone walls. Nearby lunatic asylum creating isolated atmosphere"
+        atmosphere: "Stagnation and decay with heavy sweet smell of earth and old graves. Little daylight penetrates thick tree cover and dirty windows. Sense of ancient evil taking root in modern setting"
+
+  items:
+    - id: "earth_boxes"
+      name: "Transylvanian Earth Boxes"
+      description_block: |
+        details: "Fifty large wooden boxes filled with consecrated Transylvanian soil from castle grounds. Each box rectangular, built of heavy planks, appearing plain but emanating aura of ancient power and evil. Essential for Dracula's rest and regeneration in foreign land"
+
+    - id: "crucifix"
+      name: "Holy Crucifix"
+      description_block: |
+        details: "Sacred silver cross capable of repelling and burning vampires upon contact. Ranges from simple wooden peasant crucifix given to Jonathan by innkeeper's wife to ornate silver crucifix wielded by Van Helsing. Physical manifestation of divine protection against unholy creatures"
+
+    - id: "typewriter"
+      name: "Remington Typewriter"
+      description_block: |
+        details: "Heavy black iron typewriter machine with round keys and mechanical action. Mina uses it to transcribe and organize documents in fight against Dracula. Represents modern efficiency and scientific method being used to combat ancient evil"
+
+    - id: "phonograph"
+      name: "Edison Phonograph"
+      description_block: |
+        details: "Wooden box containing spring-driven mechanism for recording on wax cylinders. Large brass horn for amplifying sound. Dr. Seward records his diary entries on brown wax cylinders. Symbol of modern technology preserving human voice and memory"
+
+    - id: "medical_bag"
+      name: "Van Helsing's Medical Bag"
+      description_block: |
+        details: "Large leather physician's bag containing both modern medical instruments and ancient weapons against vampires: surgical scalpels, syringes for blood transfusion, wooden stakes, garlic, holy wafer, blessed items. Synthesis of science and faith"

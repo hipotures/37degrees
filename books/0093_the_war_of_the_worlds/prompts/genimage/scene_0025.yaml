@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1897, narrator's return to Maybury home after Martian defeat
+    location: Victorian middle-class villa in Maybury district near Woking Surrey, red brick two-story house with bay windows
+      and small front garden, typical comfortable suburban residence of professional class
+    weather: Soft evening light suggesting hope and renewal after catastrophe
+  characters:
+  - appearance: Approximately 35 years old Victorian lady, average height and build, gentle refined features, dark hair styled
+      in period-appropriate updo with small decorative pins
+    clothing: Long modest Victorian dress in muted colors with high neckline and long sleeves, fitted bodice shaped by corset,
+      full skirt reaching floor, small domestic apron when at home, simple jewelry
+    position: Emerging from interior shadows into doorway, completing circular frame
+    action: Appearing as miraculous survivor, representing return of hope and domestic peace after global catastrophe
+  scene:
+    mainElements: Initially empty doorframe of familiar home filling with appearance of presumed-lost wife, completing narrative
+      circle
+    details: Doorframe creating circular symbolic frame, initially empty representing loss and devastation, then filled by
+      wife's appearance representing survival and renewal, familiar domestic architecture damaged but still standing, evidence
+      of alien invasion but also of recovery beginning
+    background: Familiar home interior showing signs of invasion period but also of life returning, domestic order being restored
+    atmosphere: Emotional climax - reunion after ultimate separation, return of human love and domestic peace after global
+      catastrophe, completion of journey from civilization through catastrophe to renewal
+  composition:
+    cameraAngle: Symbolic frame created by doorway initially empty then filled, suggesting cycle completion
+    focus: Initially empty doorframe representing loss, then wife appearing to complete circle of departure and return, no
+      text or letters visible
+    depth: Foreground shows doorframe threshold between exterior and interior worlds, middle ground captures wife's appearance
+      filling symbolic frame, background reveals familiar home interior representing return to normal life after catastrophe
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

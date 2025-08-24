@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Aesthetic Corruption - Beauty as Weapon"
+  setting:
+    time: "Mythical time, classical antiquity within Faust Part II"
+    location: "Idealized Greek landscape with marble columns, olive groves, rocky coastline of Aegean Sea"
+    weather: "Perfect Mediterranean climate with clear skies and warm sunshine"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Adapted to classical setting while maintaining his essential character - perhaps toga-like garment in dark colors with subtle demonic touches"
+      position: "Observing from distance as Faust encounters Helen of Troy"
+      action: "Watching with intellectual curiosity as Faust attempts to possess absolute beauty, knowing such possession must end in destruction"
+  scene:
+    mainElements: "Helen of Troy in classical Greek garments representing ideal beauty, Faust in medieval knight's clothing representing Northern culture, mythical landscape combining both traditions"
+    details: "Mephistopheles observes ultimate philosophical experiment - what happens when insatiable desire meets absolute beauty? He understands this as demonstration of human tragedy: the very intensity of aesthetic experience that makes life worth living also makes permanent satisfaction impossible. Faust's attempt to possess Helen represents futile effort to make eternal what must remain temporal"
+    background: "Wyidealizowany krajobraz klasyczny. Ruiny świątyń, gaje oliwne, skaliste wybrzeże Morza Egejskiego. Jasna, harmonijna. Błękity nieba i morza, biel marmuru, zieleń gajów, złoto słońca."
+    atmosphere: "Philosophical meditation on beauty's simultaneous power to elevate and destroy. Mephistopheles appreciates aesthetic irony of perfect beauty being inherently unstable because perfection cannot coexist with time"
+  composition:
+    cameraAngle: "Elevated perspective showing mythical landscape with figures representing different cultural ideals"
+    focus: "Helen and Faust's meeting with Mephistopheles observing from philosophical distance"
+    depth: "Foreground: Mephistopheles in contemplative pose. Middle ground: Faust and Helen in classical setting. Background: Idealized Greek landscape with ancient architecture"

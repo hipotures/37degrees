@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Festival with colored powder in air, drums vibrating ground, food vendor steam"
+  setting:
+    time: "1917 spring afternoon, soldiers discovering abandoned village festival preparations"
+    location: "French village square behind lines, remnants of interrupted spring festival, decorations and supplies left when villagers fled"
+    weather: "bright spring day with gentle breeze perfect for outdoor celebration"
+  characters:
+    - appearance: "19 lat, wystające zęby donośny śmiech, twarz wyrażająca pragmatyzm"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "standing in village square surrounded by festival debris"
+      action: "throwing handful of colored festival powder into air, creating cloud of bright pigments while other soldiers discover drums and food preparation areas"
+    - appearance: "19 lat ślusarz z zawodu, bardzo chudy porównywany do konika polnego lub szczapy mimo że największy żarłok w kompanii, ostre mysie rysy"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "crouched beside abandoned drum, hands pressing on stretched skin"
+      action: "beating rhythm on festival drum, vibrations visible through ground tremors and dust movement"
+    - appearance: "19 lat, nosi pełną brodę przez co wygląda na starszego niż jest w rzeczywistości"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "near abandoned food stalls, investigating cooking equipment"
+      action: "discovering still-warm cooking pots with steam rising, attempting to revive interrupted food preparation"
+  scene:
+    mainElements: "village square with interrupted festival preparations, colored powder clouds dispersing in spring air, soldiers discovering drums and creating ground vibrations, food vendor stalls with still-steaming pots, festival decorations abandoned mid-preparation"
+    details: "colored festival powder creating brilliant clouds of red blue yellow pigments floating in bright air showing celebratory atmosphere through visual spectacle, drum beats made visible through ground vibrations causing dust particles to jump and dance in rhythmic patterns, food steam rising from abandoned cooking pots indicating interrupted meal preparation suggesting taste and aroma through visual vapor, festival banners and decorations showing celebration cut short by war evacuation, soldiers discovering sensory explosion of color sound and steam creating overwhelming multi-sensory experience, powder settling on uniforms creating temporary festival transformation of military clothing, no text or letters visible"
+    background: "French village square with stone buildings, abandoned festival stalls and decorations, evidence of hasty evacuation with celebration supplies left behind"
+    atmosphere: "overwhelming sensory festival experience contrasting with military environment, soldiers temporarily transformed by celebratory elements, multi-sensory explosion providing escape from war through color sound and implied taste"
+  composition:
+    cameraAngle: "wide shot capturing entire festival scene with colored powder clouds, drum vibrations, and steam patterns"
+    focus: "combination of colored powder in air, visible drum vibrations, and rising steam from food stalls"
+    depth: "foreground shows colored powder detail and ground vibrations, middle ground features soldiers at various festival stations, background reveals village square and abandoned celebration preparations"

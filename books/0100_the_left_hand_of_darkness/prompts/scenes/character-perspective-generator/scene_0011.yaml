@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Child's View of Royal Parade - Magical Giants"
+  setting:
+    time: "1491 Ekumen calendar, spring afternoon, overcast day with intermittent sunlight"
+    location: "Stone-built capital city of Karhide on planet Gethen, massive monolithic architecture creating deep narrow street-canyons"
+    weather: "Cool spring day with drizzling rain, deceptive sunlight breaking through clouds giving light but no warmth"
+  characters:
+    - appearance: "Young Gethenian child approximately 8-10 years old, small compact build typical of youth, round face with wide curious eyes, wearing warm layered clothing"
+      clothing: "Child-sized traditional Karhidish clothing in family colors, thick wool tunic and pants, small fur-lined cloak and hat"
+      position: "Standing at front of crowd at child's eye level, barely able to see over adult legs"
+      action: "Craning neck to glimpse parade procession between towering adult figures, reaching up toward colorful banners, reacting with wonder to ceremonial spectacle"
+    - appearance: "Adults towering overhead like giants, visible mostly as legs and torsos from child's low perspective"
+      clothing: "Traditional ceremonial dress creating forest of fabric and color above child's head"
+      position: "Surrounding child in dense crowd, inadvertently blocking view"
+      action: "Participating in adult ceremony while child experiences different magical version of same event"
+  scene:
+    mainElements: "Stone buildings rising like mountains beyond comprehension, colorful silk banners streaming overhead like rainbow rivers in sky, adults forming living forest of legs and robes around small observer"
+    details: "Everything appears impossibly large and magical from ground level perspective, sounds echoing mysteriously off stone walls, colors appearing more vivid and exciting, ceremonial music sounding like voices of giants, puddles reflecting parade like magical pools, no text or letters visible"
+    background: "Ancient stone architecture appearing as fairy-tale castle walls reaching toward sky, narrow streets creating magical canyons of adventure, glimpses of other children peeking between adult legs"
+    atmosphere: "Wonder and magical thinking transforming civic ceremony into fantastical adventure - ordinary political event becomes story of giants and colored spirits dancing in stone canyon"
+  composition:
+    cameraAngle: "Very low angle from child's height looking up at towering adult world"
+    focus: "Contrast between mundane adult ceremony and magical child interpretation, emphasis on scale making everything appear wonderous"
+    depth: "Foreground: small child reaching upward, middle: forest of adult legs and banners, background: magical stone castle-city extending upward beyond sight"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rough bark against smooth silk, calloused hands holding delicate fabric"
+  setting:
+    time: "1917 spring evening, golden hour light"
+    location: "abandoned French village behind lines, soldier resting against massive oak tree, scattered ruins of bombed houses nearby"
+    weather: "mild spring evening, gentle breeze stirring new leaves"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "leaning back against rough oak bark, sitting at base of ancient tree"
+      action: "holding delicate piece of silk fabric in weathered hands, fingers tracing smooth surface while back presses against rough bark texture"
+  scene:
+    mainElements: "massive oak tree with deeply grooved bark, soldier holding fragment of fine silk fabric, contrast between rough natural texture and refined material, peaceful village ruins in background"
+    details: "bark surface with deep ridges and weathered texture catching evening light, silk fabric flowing like water between fingers worn rough by trench work, tactile contrast visible through soldier's gentle handling of delicate material against his calloused palms, fabric catching light with different sheen than rough wool uniform, tree bark pressed into soldier's back creating textured imprints on cloth, no text or letters visible"
+    background: "ruins of elegant French village homes, remnants of fine furnishings scattered among rubble, oak tree standing untouched amid destruction"
+    atmosphere: "poignant contrast between refined peacetime life and brutal war reality, texture representing lost civilization and gentle beauty, momentary escape through sensory memory"
+  composition:
+    cameraAngle: "close-up shot focusing on hands holding silk against tree bark background"
+    focus: "contrast between rough weathered hands, smooth silk fabric, and deeply textured bark"
+    depth: "extreme foreground shows detailed fabric and skin texture, background softly reveals village ruins through tree branches"

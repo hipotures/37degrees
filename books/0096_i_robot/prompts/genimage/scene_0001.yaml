@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1998, late afternoon
+    location: Spacious living room of Weston family home on wealthy American suburbs
+    weather: Warm summer day, golden sunlight streaming through windows
+  characters:
+  - appearance: Middle-aged woman in her 40s, well-dressed suburban housewife with styled hair and concerned expression
+    clothing: Conservative 1950s-style dress in muted blue, pearl necklace, low heels
+    position: Standing with arms crossed defensively near the window, looking out at the garden
+    action: Turning sharply to face her husband, her body language tense with disapproval
+  - appearance: Middle-aged businessman in his 40s, slightly tired expression, holding a newspaper
+    clothing: Dark suit with loosened tie, white shirt, dress shoes
+    position: Sitting in comfortable armchair, newspaper folded in his lap
+    action: Looking up at his wife with weary resignation, preparing to defend his position
+  scene:
+    mainElements: Elegant suburban living room with traditional furniture, family photographs on mantelpiece, large windows
+      showing manicured garden where Gloria plays with Robbie
+    details: Coffee cup on side table, newspaper headlines about rising robotics industry, afternoon shadows growing longer
+      across hardwood floor. Through window visible the massive metallic form of Robbie following the small figure of Gloria
+    background: Bookshelves with classic literature, family portraits, comfortable middle-class prosperity of late 1990s America
+    atmosphere: Domestic tension and parental anxiety. The warm, homey environment contrasts with the cold fear about technological
+      change affecting their family
+  composition:
+    cameraAngle: Medium shot capturing both parents in conversation
+    focus: Grace Weston's worried face as she articulates her fears about their daughter's relationship with a machine
+    depth: Foreground shows the human drama, middle ground reveals family setting, background glimpses the robot-child relationship
+      that threatens traditional values
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

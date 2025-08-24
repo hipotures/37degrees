@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: A secluded, circular clearing deep within the jungle, enclosed by a
+      curtain of vines and thick bushes.
+    weather: Hot, humid, and suffocating. The air is thick with the buzzing of flies.
+  characters:
+  - appearance: A small, slight boy with a pointed chin and a mop of coarse black
+      hair that falls over his face. He has bright, intense eyes. Often solitary and
+      withdrawn, with a gentle and observant demeanor. Can be seen walking with a
+      quiet, purposeful gait.
+    clothing: Wears simple, tattered shorts, often barefoot.
+    position: Sitting on the ground in front of the Lord of the Flies.
+    action: He is having a seizure, his body trembling. He is in the midst of a terrifying,
+      hallucinatory conversation with the pig's head.
+  scene:
+    mainElements: Simon is confronting the Lord of the Flies, the physical embodiment
+      of the island's evil. The pig's head is speaking to him, its voice a mixture
+      of the boys' voices and something ancient and evil.
+    details: As the Lord of the Flies speaks, the jungle surrounding the clearing
+      begins to warp and twist into an impossible, looping maze. The trees bend and
+      stretch, their branches forming a cage around Simon. The flowers in the clearing
+      wilt and turn black. The buzzing of the flies becomes a deafening roar, and
+      the flies themselves form swirling, hypnotic patterns in the air.
+    background: The jungle has become a nightmarish, Escher-like landscape of looping
+      paths and impossible geometry.
+    atmosphere: A scene of profound psychological horror and revelation. Simon is
+      learning the terrible truth about the beast, but the knowledge is breaking his
+      mind. The world is literally collapsing around him.
+  composition:
+    cameraAngle: A dizzying, spinning shot that mimics Simon's seizure and the collapse
+      of his reality.
+    focus: The leering, grinning face of the Lord of the Flies, its dead eyes seeming
+      to see into Simon's soul.
+    depth: 'Foreground: Simon, convulsing on the ground. Middle ground: The Lord of
+      the Flies. Background: The looping, impossible jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

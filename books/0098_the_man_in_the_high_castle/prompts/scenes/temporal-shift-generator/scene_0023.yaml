@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Protest Across Centuries - Revolutionary Patterns"
+  setting:
+    time: "1962, afternoon demonstration"
+    location: "San Francisco public square showing historical pattern of protests across different eras and causes"
+    weather: "Overcast afternoon with diffused light perfect for temporal overlays"
+  characters:
+    - appearance: "Beautiful 30-year-old woman with ebony black hair falling to shoulders, athletic build from judo training with visible muscle tone, clear skin with traces of Spanish heritage"
+      clothing: "Casual, somewhat youthful style - cotton sweater, brown tweed skirt, saddle shoes from high school, canvas zip-up jacket"
+      position: "Standing among crowd in peaceful demonstration, ghostly overlays showing protesters from multiple historical periods"
+      action: "Participating in quiet resistance demonstration while temporal echoes show centuries of similar protests"
+  scene:
+    mainElements: "Public square showing ghostly overlays of protests across historical periods - 1776 colonial resistance, 1860s civil rights, 1930s labor strikes, 1962 occupation resistance, suggesting future liberation movements"
+    details: "Cobblestone square worn smooth by centuries of gatherings, platform area used for speeches across different eras, protest signs from different periods overlapping transparently, crowd formations showing identical patterns despite different causes, police barriers appearing and disappearing across timelines, fountain serving as eternal gathering focal point, no text or letters visible"
+    background: "Government buildings showing architectural changes across centuries while maintaining same official function, flags changing from British to American to Japanese to unknown future symbols"
+    atmosphere: "Eternal human drive for freedom and justice, protest patterns repeating across centuries despite changing political circumstances, courage echoing through generations, temporal proof that resistance is eternal human trait"
+  composition:
+    cameraAngle: "Wide shot showing crowd with transparent historical overlay protesters"
+    focus: "Current protesters with ghostly echoes of historical resistance movements"
+    depth: "Foreground: immediate crowd and demonstration, middle: square filled with temporal protest overlays, background: government buildings showing historical changes"

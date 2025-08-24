@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The New God"
+  setting:
+    time: "A timeless, psychological space."
+    location: "The throne room at the top of the ivory tower."
+    weather: "A perpetual, stormy twilight."
+  characters:
+    - appearance: "A figure that is a monstrous fusion of Marlow and Kurtz."
+      clothing: "A ragged combination of a sailor's uniform and primitive, tribal adornments."
+      position: "Seated on the throne of skulls."
+      action: "The figure is looking directly at the viewer, its face a mask of serene, absolute madness. It has accepted the darkness and become its new avatar."
+  scene:
+    mainElements: "The final, complete collapse of the self. Marlow has become Kurtz."
+    details: "The figure holds a cracked, ivory scepter in one hand. In the other, it holds a small, model steamboat. The throne of skulls is now a part of the figure, its bony structure fused with the figure's own. The whispering smoke from the skulls below now coils around the figure like a royal robe. no text or letters visible"
+    background: "The swirling vortex of chaos."
+    atmosphere: "A scene of terrifying, transcendent horror. The final, logical conclusion of the descent into madness. no text or letters visible"
+  composition:
+    cameraAngle: "A direct, eye-level shot, as if the viewer is standing before the throne."
+    focus: "The serene, terrifying face of the fused Marlow/Kurtz figure."
+    depth: "A shallow depth of field, with the vortex of chaos swirling in the background."

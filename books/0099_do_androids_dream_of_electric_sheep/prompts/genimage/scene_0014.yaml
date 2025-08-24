@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: January 2021, sunset
+    location: Vast barren rocky desert landscape covered in gray radioactive dust under same sunless sky
+    weather: Gray radioactive dust creating timeless atmosphere connecting past and present
+  characters:
+  - appearance: Figure carrying ancestral wisdom in weathered features, movements connecting present with historical memory
+    clothing: Layered protective clothing reflecting accumulated survival knowledge
+    position: Standing on elevated ground surveying landscape with deep historical understanding
+    action: Reading current desolation through lens of generational survival and recovery
+  scene:
+    mainElements: Rocky hills for climbing, scattered stones, endless empty horizon, monochromatic terrain. Through generational
+      perspective, current wasteland overlays with memories of pre-war abundance and post-war recovery attempts across decades
+    details: Gray dust covering all surfaces like historical sediment, rocky outcroppings suggesting geological permanence
+      beyond human conflict, scattered debris representing multiple waves of destruction and abandonment. From ancestral viewpoint,
+      current desolation echoes previous recoveries from disaster - dust settles, life returns, cycles continue. Terrain features
+      remain constant while human presence fluctuates. Horizon suggests both ending and beginning of historical cycles
+    background: Existential emptiness, spiritual trial, catharsis through solitude, but also continuity of landscape across
+      generations
+    atmosphere: Present desolation layered with ancestral memories of similar survival and recovery. Through generational
+      filter, current crisis appears as recurring pattern with precedent for eventual renewal, no text or letters visible
+  composition:
+    cameraAngle: Elevated perspective showing vast landscape connecting present with historical memory
+    focus: Timeless terrain features suggesting continuity beyond current human crisis
+    depth: Foreground shows immediate desolate landscape, middle ground captures figure connecting past and present, background
+      extends into geological time suggesting permanence beyond human conflict
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

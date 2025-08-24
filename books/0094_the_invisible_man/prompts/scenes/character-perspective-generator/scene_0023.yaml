@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Victory or Defeat - Multiple Interpretations"
+  setting:
+    time: "March 1897, late afternoon during final confrontation"
+    location: "Victorian seaside town streets near English coast where invisible man is cornered"
+    weather: "Bright afternoon sunlight making violence starkly visible"
+  characters:
+    - appearance: "Crowd of townspeople with mixed expressions of triumph, horror, and uncertainty"
+      clothing: "Various Victorian garments now disheveled from violent struggle"
+      position: "Surrounding scene of final confrontation in loose circle"
+      action: "Some celebrating victory, others recoiling from violence, all staring at same central point with different emotional responses"
+  scene:
+    mainElements: "Central focus where invisible man has been cornered, crowd showing simultaneous reactions of triumph and horror, same event interpreted differently by different groups"
+    details: "Some faces showing satisfaction at justice served, others displaying shock at brutal violence, working-class participants viewing as necessary action while middle-class observers show distress"
+    background: "Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in period dress"
+    atmosphere: "Single violent event creating multiple simultaneous emotional responses, community divided between satisfaction and horror, victory tainted by brutality"
+  composition:
+    cameraAngle: "Medium shot showing varied crowd reactions to same event"
+    focus: "Different interpretations of same violent conclusion"
+    depth: "Foreground shows contrasting facial expressions, middle ground captures crowd dynamics, background provides social context, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "POV Shot - Through Warrior's Helmet at Battle Chaos"
+  setting:
+    time: "1000-800 BCE, midday"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Hot sun creating heat haze over battlefield"
+  characters:
+    - appearance: "Male, 30-35 years old, ogromny wzrost jak wyrośnięte drzewo sala, potężna muskularna budowa z długimi ramionami, jasnozłota karnacja"
+      clothing: "Heavy battle armor with war helm, fighting gear"
+      position: "Partially visible at frame edges as POV source"
+      action: "Wielding massive mace in brutal combat, hands visible gripping weapon"
+  scene:
+    mainElements: "Chaotic battlefield view through warrior's helmet visor, enemy warriors charging directly at viewer, weapons raised threatening, dust and debris flying"
+    details: "Helmet rim visible at top and sides of frame, scratches on visor surface, sweat droplets inside helmet, incoming arrows and spear points, mace partially visible swinging across view, blood spatters, no text or letters visible"
+    background: "Battle chaos with fallen warriors, broken chariots, riderless horses, smoke from fires, scattered weapons and armor pieces"
+    atmosphere: "Intense visceral combat experience from warrior's perspective, deafening sounds of metal on metal, screams of wounded, horses neighing in terror"
+  composition:
+    cameraAngle: "POV shot from inside warrior's helmet showing direct combat experience"
+    focus: "Immediate life-threatening danger approaching from enemy warriors"
+    depth: "Foreground helmet interior frame, middle ground attacking enemies, background war-torn battlefield, no text or letters visible"

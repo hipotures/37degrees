@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Creature Views Laboratory as Birthplace - First Moments of Consciousness"
+  setting:
+    time: "1780s, November night at 1 AM"
+    location: "Victor's attic laboratory in Ingolstadt during creature's awakening"
+    weather: "Cold stormy night with rain beating against windows"
+  characters:
+    - appearance: "Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white teeth, visible surgical scars and stitching marks across body where body parts were joined together"
+      clothing: "Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel"
+      posture: "Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or threatening stance of rage"
+      action: "Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship"
+  scene:
+    mainElements: "Laboratory table where creature lies awakening to consciousness, candle flame providing only light source, scientific instruments surrounding birthplace like witnesses to miracle of creation, rain drumming on roof overhead"
+    details: "First sensations of light burning new-formed eyes, cold air shocking bare skin into awareness, overwhelming flood of sensory input as nervous system activates, laboratory appearing vast and cathedral-like from low perspective on table, Victor's discarded clothing nearby suggesting absent father figure, instruments of creation scattered about like discarded toys after game, stitches across body marking places where life was assembled from death, no text or letters visible"
+    background: "Dark corners of laboratory shrouded in shadow, rain-streaked windows showing hostile night beyond, door through which creator has fled"
+    atmosphere: "Confusion and wonder at existence itself, innocent amazement at miracle of consciousness, growing awareness of abandonment and rejection by absent creator, laboratory transformed from Victor's sanctuary into creature's nursery of despair"
+  composition:
+    cameraAngle: "Low angle from creature's position on table, making laboratory ceiling appear infinite"
+    focus: "Single candle flame representing first light seen by new consciousness"
+    depth: "Foreground shows creature's massive form taking first breaths, middle ground reveals abandoned scientific apparatus, background suggests creator's cowardly flight"

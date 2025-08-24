@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, evening
+    location: Severely decayed apartment in almost completely empty conapt building on city periphery
+    weather: Gray radioactive dust penetrating through broken windows
+  characters:
+  - appearance: Adult man in his 30s, dominant presence emanating intelligence and authority, calculated expression
+    clothing: Practical clothing with possible elements suggesting colonial background
+    position: Standing with commanding posture demonstrating leadership
+    action: Observing surroundings with strategic assessment and calculated movements
+  scene:
+    mainElements: Piles of kipple in every corner, peeling plaster, broken appliances, dust accumulation. Through Roy's perspective,
+      the decaying environment becomes evidence of human species' fundamental inadequacy and natural decline toward extinction
+    details: Omnipresent accumulation of useless objects including old newspapers, broken appliances, gum wrappers, dust,
+      representing universal entropy and decay scattered throughout apartment. From Roy's viewpoint, every broken object and
+      dust pile demonstrates human inability to maintain their own civilization. The decay appears not tragic but inevitable
+      - logical consequence of inferior design. His analytical mind catalogs each failure as proof of android superiority
+      and human obsolescence
+    background: Extreme loneliness, decay, pathos, silence broken only by distant city sounds
+    atmosphere: Clinical assessment of species decline, intellectual detachment from human suffering. Through Roy's filter
+      of strategic analysis, environmental decay becomes data supporting android evolutionary necessity, no text or letters
+      visible
+  composition:
+    cameraAngle: Elevated angle from Roy's position surveying human failure and environmental collapse
+    focus: Systematic decay and accumulated kipple representing human civilizational inadequacy
+    depth: Foreground shows detailed kipple accumulation as evidence of human failure, middle ground captures Roy's analytical
+      assessment, background extends into building emptiness representing human species decline
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

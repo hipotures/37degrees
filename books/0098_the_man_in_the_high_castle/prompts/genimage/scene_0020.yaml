@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1962, temporal convergence moment
+    location: San Francisco park where multiple timeline possibilities bleed through dimensional barriers
+    weather: Shifting between different timeline weather patterns simultaneously
+  characters:
+  - appearance: Dignified Japanese official in his 50s, composed bearing masking inner moral conflicts
+    clothing: Impeccably tailored Western-style business suit in dark charcoal, crisp white dress shirt, understated silk
+      tie
+    position: Sitting on park bench holding silver triangle pendant, experiencing mystical vision
+    action: Witnessing multiple timeline realities bleeding through into single space, seeing alternate histories simultaneously
+  scene:
+    mainElements: Park space showing multiple historical timelines overlapping - Allied victory celebration, Japanese occupation,
+      Nazi conquest, alternative peaceful resolution - all existing simultaneously in same location
+    details: Silver triangle pendant gleaming in hand while reality shifts around bearer, park benches showing different states
+      of repair across timelines, trees bearing different seasonal conditions simultaneously, victory parades and occupation
+      forces marching through same space, fountain flowing and dry simultaneously, multiple flag combinations flying from
+      same poles, no text or letters visible
+    background: San Francisco skyline showing all possible architectural outcomes simultaneously - American celebration, Japanese
+      domination, Nazi monumentalism, peaceful coexistence
+    atmosphere: Mystical convergence of all possible histories, reality proving fragile and multiple, temporal bleeding revealing
+      infinite timeline possibilities, overwhelming sense of history's contingent nature
+  composition:
+    cameraAngle: Medium shot showing figure on bench with reality distortions surrounding
+    focus: Central figure holding pendant while multiple timeline versions of same space overlap
+    depth: 'Foreground: park bench and immediate surroundings, middle: figure experiencing vision, background: multiple skyline
+      possibilities'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

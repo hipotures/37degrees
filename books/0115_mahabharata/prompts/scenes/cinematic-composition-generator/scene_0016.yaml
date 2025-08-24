@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dutch Angle - Drona's Moral Collapse"
+  setting:
+    time: "1000-800 BCE, late afternoon"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Ominous darkening sky suggesting moral upheaval"
+  characters:
+    - appearance: "Male, 80+ years old, ciemna karnacja, potężna silna budowa, węzeł włosów śikha na czubku głowy"
+      clothing: "Proste białe szaty bramina z lekkim pancerzem"
+      position: "Seated in meditation posture in war chariot, weapons abandoned"
+      action: "Wygląd łączący cechy bramina i wojownika"
+  scene:
+    mainElements: "War chariot tilted at unnatural angle, abandoned divine weapons scattered on chariot floor, warrior-teacher in meditation pose surrounded by chaos of battle"
+    details: "World tilted suggesting psychological breakdown, weapons thrown down in despair, meditation position contrasting with surrounding violence, tilted horizon line creating unease, no text or letters visible"
+    background: "Battlefield tilted at disturbing angle, other warriors approaching at diagonal slant, smoke and debris falling sideways due to tilted perspective"
+    atmosphere: "Psychological disorientation and moral collapse, sounds of battle distorted, world literally out of balance, crushing despair"
+  composition:
+    cameraAngle: "Dutch angle tilted 25 degrees suggesting complete moral disorientation"
+    focus: "Teacher-warrior's complete abandonment of duty due to false news of son's death"
+    depth: "Foreground tilted chariot and abandoned weapons, middle ground meditating figure, background diagonally slanted battlefield chaos, no text or letters visible"

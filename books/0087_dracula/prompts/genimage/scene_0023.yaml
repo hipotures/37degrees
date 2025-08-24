@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, during severe summer thunderstorm
+    location: London street with Victorian buildings during extreme rainfall
+    weather: Heavy torrential rain creating flooding conditions in city streets
+  characters: No characters present in this scene
+  scene:
+    mainElements: Cobblestone street now running like river with water flowing rapidly toward storm drains. Rain so heavy
+      it creates vertical curtains of water reducing visibility. Victorian buildings appearing through rain like ghostly shapes
+    details: Individual raindrops too numerous and heavy to distinguish, creating solid sheets of falling water. Water flowing
+      rapidly between cobblestones carrying debris and leaves. Building facades streaming with water pouring from gutters
+      and downspouts. Street lamps creating small halos in driving rain
+    background: Buildings and distant landmarks completely obscured by heavy rainfall. Street disappearing into gray curtain
+      of water beyond short visible distance
+    atmosphere: Urban environment overwhelmed by natural forces beyond human control. Streets transformed into temporary rivers
+      by weather extremes. Sense of city infrastructure struggling against nature's power. Dramatic display of weather as
+      hostile force in civilized environment. Impressive scale of natural phenomena. No text or letters visible
+  composition:
+    cameraAngle: Street level view showing water flowing down cobblestone roadway
+    focus: Extreme rainfall and flood conditions with emphasis on water effects
+    depth: Foreground detailed water flow patterns, middle ground buildings through rain curtain, background complete obscuration
+      by rainfall
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

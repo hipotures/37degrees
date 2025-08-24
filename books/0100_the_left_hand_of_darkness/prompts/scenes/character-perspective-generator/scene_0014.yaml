@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Elder's View of Ice Journey - Ancestral Echoes"
+  setting:
+    time: "1491 Ekumen calendar, winter day, natural lighting from snow-reflected sunlight"
+    location: "Vast 800-mile ice sheet spanning northern regions between Karhide and Orgoreyn on planet Gethen, deadly glacial wilderness"
+    weather: "Extreme winter conditions with bright sunlight reflecting off snow and ice"
+  characters:
+    - appearance: "Elderly Gethenian survivor approximately 60-70 years old, weathered face showing lifetime of harsh climate survival, thick white hair and deep-set eyes holding memories of many winters"
+      clothing: "Traditional Gethenian winter survival gear, multiple layers of fur and leather accumulated over decades, practical garments showing years of harsh use"
+      position: "Trudging across ice sheet pulling survival sled, moving with experience gained from lifetime of winter travel"
+      action: "Navigating treacherous ice while simultaneously perceiving ghostly presence of ancestors who made similar survival journeys across generations of Gethenian history"
+    - appearance: "Spectral figures of ancestors appearing as translucent overlays - previous generations who survived similar ice crossings"
+      clothing: "Traditional winter gear from different historical periods, appearing as layered historical images"
+      position: "Walking alongside living traveler as ghostly companions"
+      action: "Providing spiritual guidance and ancestral wisdom for survival journey"
+  scene:
+    mainElements: "Endless white ice plains, dangerous crevasses, volcanic ash patches, extreme weather phenomena, absolute isolation from civilization creating environment where past and present converge"
+    details: "Current ice journey overlaid with ghostly images of ancestral crossings, footprints in snow appearing to follow ancient pathways used by generations, survival equipment echoing traditional methods passed down through families, sunlight reflecting off ice creating prismatic effects suggesting spiritual dimensions, no text or letters visible"
+    background: "Vast glacial landscape extending beyond horizon, distant mountains appearing as landmarks used by generations of travelers, sky patterns familiar from lifetime of weather observation"
+    atmosphere: "Ancestral communion during survival trial - extreme isolation and danger create conditions where family memory and cultural wisdom become living presence guiding survival"
+  composition:
+    cameraAngle: "Wide angle emphasizing vastness while including ancestral presence overlay"
+    focus: "Contrast between individual survival struggle and collective cultural memory providing guidance"
+    depth: "Foreground: current traveler with sled, middle: ghostly ancestral figures, background: eternal ice landscape connecting all generations"

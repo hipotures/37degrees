@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Treasure Cave Opens to Magic Words"
+  setting:
+    time: "Late afternoon, remote mountain forest"
+    location: "Hidden cave in rocky cliff face accessible only through secret stone entrance in remote wilderness"
+    weather: "Dappled sunlight filtering through forest canopy with long shadows"
+  characters:
+    - appearance: "Man aged 45 years, sturdy build with work-hardened hands of laborer, weathered face showing honest character, graying beard, modest bearing of humble woodcutter"
+      clothing: "Rough working clothes of poor woodcutter, patched tunic and worn sandals, simple rope belt, later modest middle-class robes"
+      position: "Straightforward honest bearing, sometimes nervous when dealing with wealth"
+      action: "Working with steady rhythm, showing cautious curiosity, expressing humble gratitude"
+  scene:
+    mainElements: "Natural stone chamber expanded by human effort, piles of gold coins in leather sacks, rolls of silk and brocade, precious gems scattered on stone floor, wooden chests bound with iron"
+    details: "Cave entrance sliding open revealing hidden mechanism in solid rock, golden treasure gleaming in afternoon sunlight, leather bags bulging with coins, precious fabrics in brilliant colors, emeralds and rubies scattered like pebbles, ornate weapons with jeweled hilts, Persian carpets rolled and stacked, no text or letters visible"
+    background: "Forest setting with tall trees and rocky mountainside, cave passage extending into darkness, filtered sunlight creating dramatic lighting effects"
+    atmosphere: "Mysterious and tempting, golden gleam from treasure reflecting torchlight, musty scent of age and wealth, echoing drips of water, shadows dancing on cave walls"
+  composition:
+    cameraAngle: "Wide shot showing cave entrance revealing treasure within"
+    focus: "Cave opening like doorway to another world with figure silhouetted against treasure"
+    depth: "Forest and rocks in foreground, cave entrance in middle ground, treasure chamber extending into background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Vision's Warning - Conscience Penetrating Distraction"
+  setting:
+    time: "16th century, Walpurgis Night, past midnight on Brocken peak"
+    location: "Wild, primeval nature of Harz Mountains in Germany. Steep, rocky forest slopes leading to bare, windswept peak of Brocken mountain. Harsh and threatening landscape representing untamed natural forces."
+    weather: "Storm winds intensifying, eerie red moon partially obscured by clouds"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather"
+      position: "Standing beside Faust, trying to redirect his attention from disturbing vision"
+      action: "Attempting to dismiss or explain away vision of Margarete with red mark on neck, showing rare moment of defensive concern"
+  scene:
+    mainElements: "Pale apparition of young woman with fair hair, dressed in simple dress, standing motionless in distance with thin red line across throat like blade's mark. Vision appears among dancing crowd but remains separate and still"
+    details: "Mephistopheles experiences rare moment of strategic concern - his psychological manipulation is breaking down as Faust's conscience penetrates the sabbath's distractions. The vision represents failure of his distraction protocol and suggests that human love might be stronger than demonic entertainment. He must quickly regain control or lose his investment in Faust's corruption"
+    background: "Continued sabbath celebration with bonfires, dancing figures, and supernatural chaos, but atmosphere now contaminated by intrusion of guilt and memory"
+    atmosphere: "Mephistopheles' confident orchestration disrupted by unexpected appearance of human conscience. His usual cynical amusement replaced by calculating concern as he realizes limits of his psychological control"
+  composition:
+    cameraAngle: "Medium shot showing both Faust's horrified recognition and Mephistopheles' defensive reaction"
+    focus: "Contrast between ghostly vision of Margarete and Mephistopheles' attempt to maintain control over situation"
+    depth: "Foreground: Mephistopheles trying to manage crisis. Middle ground: Faust staring at vision in horror. Background: Continuing sabbath celebration with pale vision standing apart"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Tramp's Revenge and the Reversal of Power"
+  setting:
+    time: "Near future, daytime"
+    location: "Under a concrete viaduct."
+    weather: "A cold, damp day."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. He is dressed in a cheap, ill-fitting suit. He is being held down by a group of homeless men.
+      position: "Under the same viaduct where he once tormented the tramp."
+      action: "He is being attacked by the tramp and a group of other homeless men."
+    - id: "tramp"
+      name: "The Tramp"
+      description_block: |
+        An old, disheveled man with a long, dirty beard and rheumy eyes. Wears ragged, filthy clothing. Hunched over and frail, often muttering to himself.
+      position: "Standing over Alex, his face contorted with rage."
+      action: "He is kicking and punching Alex, getting his revenge for the past humiliation."
+  scene:
+    mainElements: "The cycle of violence continues, but the roles have been reversed. Alex, the former predator, is now the victim. The tramp, the former victim, is now the aggressor."
+    details: "The scene is a mirror image of the earlier scene under the viaduct. The lighting is the same, the setting is the same, but the power dynamic is completely different. Alex is now the one who is helpless and afraid."
+    background: "The other homeless men are cheering and shouting, their faces filled with a savage glee."
+    atmosphere: "A scene of brutal, ironic justice. The violence is just as ugly and senseless as it was before, but now it is directed at Alex. The scene raises questions about the nature of revenge and the futility of violence."
+  composition:
+    cameraAngle: "A high angle shot, looking down on Alex, just as he once looked down on the tramp."
+    focus: "The look of terror and helplessness on Alex's face."
+    depth: "Foreground: Alex on the ground. Middle ground: The tramp and the other homeless men. Background: The concrete viaduct."

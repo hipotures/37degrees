@@ -1,0 +1,166 @@
+canon:
+  characters:
+    - id: "ebenezer_scrooge_old"
+      name: "Elderly Ebenezer Scrooge"
+      description_block: |
+        characters:
+          - appearance: "Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt cheeks marked by inner coldness"
+            clothing: "Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting his frugal nature"
+            posture: "Rigid, hunched shoulders, deliberate movements, hands often clasped behind back, defensive stance"
+            action: "Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving expression"
+
+    - id: "ebenezer_scrooge_young"
+      name: "Young Ebenezer Scrooge"
+      description_block: |
+        characters:
+          - appearance: "Young man in 20s with softer features, bright eyes full of hope, brown hair, smooth complexion, eager expression"
+            clothing: "Simple apprentice attire with white linen shirt, brown wool vest, knee-length breeches, white stockings, sturdy work boots"
+            posture: "Upright and energetic, open gestures, animated movement, leaning forward with interest"
+            action: "Dancing at festivities, working with enthusiasm, reading by candlelight, or embracing loved ones with genuine warmth"
+
+    - id: "ghost_of_jacob_marley" 
+      name: "Ghost of Jacob Marley"
+      description_block: |
+        characters:
+          - appearance: "Translucent elderly man with hollow eye sockets, gaunt face, wild gray hair, spectacles pushed up on forehead, dropping jaw held by bandage"
+            clothing: "Same business attire as in life but ethereal and transparent, dark coat, waistcoat, all with ghostly quality"
+            posture: "Bound and weighed down by heavy chain, floating slightly above ground, hunched from burden of metal links"
+            action: "Dragging massive chain of cashboxes and ledgers, gesturing dramatically with burdened arms, pointing with skeletal finger while rattling links"
+
+    - id: "ghost_of_christmas_past"
+      name: "Ghost of Christmas Past"
+      description_block: |
+        characters:
+          - appearance: "Androgynous figure blending child and elder, ageless face with ancient eyes, white hair, bright clear light streaming from head, ever-shifting form"
+            clothing: "Pure white tunic trimmed with white fur, glittering belt, holly wreath, surrounded by floating summer flowers"
+            posture: "Ethereal and fluid, constantly shifting between child-like lightness and elderly wisdom, gestures graceful and otherworldly"
+            action: "Illuminating scenes with head-light, carrying extinguisher cap, pointing toward memories, floating with dreamlike movement"
+
+    - id: "ghost_of_christmas_present"
+      name: "Ghost of Christmas Present"
+      description_block: |
+        characters:
+          - appearance: "Massive jolly giant with dark brown curls, bare chest, kind sparkling eyes, ruddy complexion, holly crown decorated with icicles"
+            clothing: "Simple green robe bordered with white fur, antique empty sword sheath at waist, bare feet, no other adornments"
+            posture: "Majestic and welcoming, arms often spread wide in generous gesture, standing tall with confidence, aging visibly throughout day"
+            action: "Sprinkling incense from horn-shaped torch, blessing food and gatherings, gesturing broadly with open arms, revealing hidden figures beneath robe"
+
+    - id: "ghost_of_christmas_yet_to_come"
+      name: "Ghost of Christmas Yet to Come"
+      description_block: |
+        characters:
+          - appearance: "Tall silent figure completely shrouded in deep black garment, no visible features except single outstretched hand"
+            clothing: "Floor-length black hooded cloak covering entire form, creating void-like silhouette"
+            posture: "Motionless except for pointing gesture, gliding rather than walking, maintaining intimidating stillness"
+            action: "Pointing silently with skeletal hand, leading through shadows, standing as ominous presence, revealing future scenes without words"
+
+    - id: "bob_cratchit"
+      name: "Bob Cratchit"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged thin man in 40s with kind eyes, prematurely aged by hardship, gentle face showing patience and goodness"
+            clothing: "Threadbare dark suit, worn white shirt, thin white scarf wrapped around neck for warmth, patched but clean garments"
+            posture: "Hunched from cold and work, careful movements preserving dignity, protective stance around family"
+            action: "Writing in ledgers with numb fingers, warming hands over single candle, embracing family members with tender affection"
+
+    - id: "tiny_tim"
+      name: "Tiny Tim Cratchit"  
+      description_block: |
+        characters:
+          - appearance: "Small frail boy around 8 years old with pale complexion, bright intelligent eyes, thin limbs, cheerful expression despite physical weakness"
+            clothing: "Simple patched shirt, small woolen vest, knee breeches, worn stockings, wrapped in family shawl for warmth"
+            posture: "Supported by small wooden crutch, metal brace on leg, sitting carefully, leaning on family members for support"
+            action: "Using crutch for walking, singing carols with pure voice, blessing others with innocent wisdom, being carried by father's shoulders"
+
+    - id: "fred_nephew"
+      name: "Fred (Scrooge's Nephew)"
+      description_block: |
+        characters:
+          - appearance: "Cheerful young man in 30s with bright eyes, handsome features, rosy complexion from cold air, warm smile, brown hair"
+            clothing: "Well-tailored but modest coat, colorful scarf, quality boots, fashionable but not ostentatious dress of middle class"
+            posture: "Energetic and animated, open gestures, leaning forward with enthusiasm, welcoming stance"
+            action: "Laughing heartily, extending warm greetings, raising glass in toasts, engaging in parlor games with infectious joy"
+
+    - id: "mrs_cratchit"
+      name: "Mrs. Martha Cratchit"
+      description_block: |
+        characters:
+          - appearance: "Kind woman in 40s with work-worn hands, caring eyes, graying hair neatly arranged, thin but dignified bearing"
+            clothing: "Twice-turned dress adorned with ribbons for festivity, simple white apron, modest cap, making best of limited wardrobe"
+            posture: "Busy and efficient movements, protective around children, standing proud despite circumstances"
+            action: "Preparing modest feast with great care, sewing by firelight, embracing children with fierce maternal love"
+
+  locations:
+    - id: "scrooge_counting_house"
+      name: "Scrooge's Counting House"
+      description_block: |
+        setting:
+          location: "Cramped London business office in commercial district, Victorian era with grimy brick buildings, narrow cobblestone streets"
+        mainElements: "Massive wooden desk covered in ledgers and coin purses, iron safe in corner, minimal coal fire, Bob's tiny clerk booth"
+        atmosphere: "Oppressively cold and dark, sound of scratching pens and counting coins, shadows cast by single candles, smell of coal smoke and paper"
+
+    - id: "scrooge_chambers"
+      name: "Scrooge's Dismal Chambers"  
+      description_block: |
+        setting:
+          location: "Upper floors of old London building, gloomy residential quarters above commercial area, overlooking narrow courtyard"
+        mainElements: "Sparse furniture, very small coal fire, Dutch tiles with biblical scenes, heavy curtained bed, minimal personal belongings"
+        atmosphere: "Haunted silence broken by settling wood, frost on windows, echo of footsteps on bare floors, cold penetrating every corner"
+
+    - id: "fezziwig_warehouse"
+      name: "Mr. Fezziwig's Festive Warehouse"
+      description_block: |
+        setting:
+          location: "Spacious merchant warehouse in Victorian London transformed into ballroom, with high ceiling beams and polished wooden floors"  
+        mainElements: "Great blazing fire in hearth, tables laden with feast foods, musicians on platform, cleared dance floor, festive decorations"
+        atmosphere: "Warm golden light from oil lamps, sounds of fiddle music and laughter, aroma of roasted meats and mulled wine, joy filling every corner"
+
+    - id: "cratchit_humble_home"
+      name: "The Cratchit Family Home"
+      description_block: |
+        setting:
+          location: "Modest four-room dwelling in working-class London neighborhood, clean but cramped quarters showing pride despite poverty"
+        mainElements: "Small dining table set for feast, humble fireplace, simple wooden chairs, few treasured possessions, family Bible on shelf"  
+        atmosphere: "Warm firelight casting dancing shadows, sounds of family conversation and laughter, smell of cooking goose and pudding, love making space feel larger"
+
+    - id: "london_christmas_streets"
+      name: "Victorian London Christmas Streets"
+      description_block: |
+        setting:
+          location: "Busy commercial thoroughfares of 1840s London with shop fronts, market stalls, and pedestrians hurrying through winter weather"
+        mainElements: "Shop windows displaying Christmas goods, street vendors with roasted chestnuts, church bells visible, gas lamps beginning to flicker"
+        atmosphere: "Crisp winter air with visible breath, sounds of church bells and street calls, yellow gaslight cutting through gray mist, festive energy despite cold"
+
+    - id: "abandoned_schoolhouse"
+      name: "Scrooge's Childhood School"
+      description_block: |
+        setting:
+          location: "Remote countryside boarding school building, now empty and decaying, surrounded by overgrown grounds and bare winter trees"
+        mainElements: "Long rows of empty wooden desks, cracked windows, dusty floors, forgotten books, single remaining chair by cold fireplace"
+        atmosphere: "Desolate silence with wind through broken panes, pale winter light, smell of dust and neglect, echoes of children's voices long gone"
+
+  items:
+    - id: "marleys_chain"
+      name: "Marley's Spectral Chain"
+      description_block: |
+        details: "Massive metal chain forged from cash-boxes, keys, padlocks, ledger books, heavy purses, all wrought in steel and worn from eternal dragging"
+
+    - id: "christmas_past_torch"
+      name: "Ghost's Memory Light"
+      description_block: |
+        details: "Bright clear flame streaming from spirit's head, casting warm illuminating glow on past scenes, accompanied by cone-shaped extinguisher cap"
+
+    - id: "christmas_present_cornucopia"
+      name: "Horn of Festive Abundance"  
+      description_block: |
+        details: "Torch shaped like horn of plenty, emanating fragrant incense that blesses food and brings peace to quarreling people"
+
+    - id: "tiny_tims_crutch"
+      name: "Small Wooden Crutch"
+      description_block: |
+        details: "Child-sized wooden walking aid, worn smooth by small hands, supporting metal leg brace, symbol of courage despite physical challenges"
+
+    - id: "christmas_feast_spread"
+      name: "Humble Christmas Dinner"
+      description_block: |
+        details: "Modest goose surrounded by simple vegetables, small Christmas pudding, family's best crockery, representing wealth of love over material riches"

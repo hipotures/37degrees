@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Writer's Transformation and the Mirror of Cruelty"
+  setting:
+    time: "Near future, daytime"
+    location: "F. Alexander's house."
+    weather: "A grey, overcast day."
+  characters:
+    - id: "f_alexander"
+      name: "F. Alexander"
+      description_block: |
+        A middle-aged writer with a thoughtful, intellectual face. He wears glasses and has graying hair. Dresses in comfortable, academic-style clothing, such as a tweed jacket and corduroy trousers. He is consumed by his desire for revenge, and his reflection shows a monstrous transformation within him.
+      position: "In his study."
+      action: "He is plotting his revenge on Alex, his face reflected in a dark, polished tabletop. The reflection is a distorted, monstrous version of himself."
+  scene:
+    mainElements: "The writer, once a victim of Alex's cruelty, has become a perpetrator of cruelty himself. He is consumed by his desire for revenge, and in the process, he has become the thing he hates."
+    details: "The room is filled with books and art, but they are now just props in the writer's game of revenge. The writer's reflection is a key visual element, showing the monstrous transformation that has taken place within him. The reflection seems to have a life of its own, its expression even more cruel and calculating than the writer's own."
+    background: "The bleak, empty landscape outside the window."
+    atmosphere: "A scene of moral decay and psychological transformation. The writer, a man of intellect and reason, has been corrupted by his desire for revenge. The line between victim and victimizer has been blurred."
+  composition:
+    cameraAngle: "A close-up on the writer's face, with his distorted reflection filling the lower half of the frame."
+    focus: "The monstrous, distorted reflection of the writer."
+    depth: "Foreground: The writer's face. Middle ground: The polished tabletop. Background: The writer's study."

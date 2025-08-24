@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The End of the Hunt and the Abstract Shapes of Savagery"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "The beach, which is now a blackened, smoking ruin."
+    weather: "The air is thick with smoke and ash."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Cornered on the beach, a sharpened stick in his hand."
+      action: "He has nowhere left to run. He is preparing to die."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Leading the hunters as they close in on Ralph."
+      action: "He is no longer recognizable as a boy. He is a creature of pure, savage intent."
+  scene:
+    mainElements: "The hunt has reached its inevitable conclusion. Ralph is trapped, and the hunters are moving in for the kill."
+    details: "The hunters are no longer depicted as boys. They are abstract shapes of savagery and violence, their bodies made of jagged lines and swirling smoke. Their faces are demonic masks of pure, unthinking malice. They move with a fluid, predatory grace, their forms merging and separating as they surround Ralph."
+    background: "The burning island and the black sky."
+    atmosphere: "The final, terrifying moments of the hunt. All hope is lost. Ralph is about to be consumed by the savagery that has destroyed the island."
+  composition:
+    cameraAngle: "A tight, claustrophobic shot that traps Ralph in the center of the frame, with the abstract shapes of the hunters closing in from all sides."
+    focus: "The terrifying, inhuman forms of the hunters."
+    depth: "Foreground: Ralph, cornered and helpless. Background: The swirling, abstract shapes of the hunters."

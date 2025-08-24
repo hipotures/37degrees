@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bitter Medicine Ritual"
+  setting:
+    time: "Late 10th century Japan, early morning in medical treatment chamber"
+    location: "Imperial Palace Heian-kyō, private healing quarters with medical supplies and treatment tables"
+    weather: "Gray dawn light filtering through paper windows"
+  characters:
+    - appearance: "Japanese noblewoman in her twenties to forties with mature intimidating beauty, intense dark eyes that reveal deep intelligence and passion, pale aristocratic features with court makeup, long black hair"
+      clothing: "Sophisticated court robes in darker more dramatic color combinations reflecting her complex nature, garments show impeccable taste but hint at underlying intensity"
+      position: "Seated upright on silk cushions, receiving medical treatment from court physician"
+      action: "Drinking bitter herbal medicine from ceramic bowl, face showing involuntary reaction to harsh taste, maintaining dignity despite discomfort"
+  scene:
+    mainElements: "Ceramic medicine bowls with dark liquid, wooden shelves with glass bottles containing various remedies, bronze scales for measuring doses"
+    details: "Dark bitter medicine creates black pools in white ceramic bowls, liquid surface shows oily patterns suggesting medicinal herbs, face involuntarily contracts with bitter taste creating subtle wrinkles around eyes and mouth, medicine bottles contain dark liquids in various shades of brown and black, dried herbs hang in bundles creating shadow patterns, grinding stones show residue of pulverized bitter roots, steam rises from hot medicinal tea showing aromatic vapors, ceramic surfaces show staining from repeated bitter medicine preparation, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Medicinal necessity overcoming palatial comfort, bitter healing requiring aristocratic endurance, visual evidence of unpleasant but necessary treatment"
+  composition:
+    cameraAngle: "Close-up focusing on facial reaction and medicine bowl details"
+    focus: "Facial expressions showing bitter taste reaction and dark medicine surfaces"
+    depth: "Medicine bowl and bitter liquid in sharp foreground, reacting face in middle ground, medical chamber equipment in background"

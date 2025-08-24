@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mythical Creatures and Divine Beings of the Mountain Realm"
+  setting:
+    time: "Dawn chorus time when all magical beings are most active"
+    location: "Sacred groves and clearings throughout Flower Fruit Mountain where divine beings gather"
+    weather: "Golden morning light creating perfect conditions for mystical creature activity"
+  characters:
+    - appearance: "White celestial cranes with wingspan reaching 4 meters, elegant long necks and legs, feathers that shimmer with divine light, ancient wise eyes"
+      clothing: "Natural pristine white plumage with occasional golden highlights"
+      position: "Some standing in shallow pools, others in graceful flight formations"
+      action: "Performing ritual dances, calling to each other with melodious cries, teaching younger cranes traditional movements"
+    - appearance: "Phoenix birds with magnificent multi-colored tail feathers displaying reds, golds, and purples, proud bearing and regal posture, flames occasionally dancing around their forms"
+      clothing: "Natural exotic plumage that shifts colors in different light"
+      position: "Perched on highest branches and rocky outcroppings"
+      action: "Singing celestial songs that influence weather and plant growth, preening magnificent feathers"
+  scene:
+    mainElements: "Sacred pools reflecting sky perfectly, ancient stone platforms where creatures gather for ceremonies, flowering trees that serve as perches for flying beings, crystal formations that amplify natural magic"
+    details: "Divine creature habitats showing their integration with mountain ecosystem, nesting areas built from precious materials, feeding grounds where immortal fruits grow specifically for these beings, communication networks between different species, territorial markers made of light and sound"
+    background: "Mountain slopes teeming with other magical creatures partially visible in distance, sky filled with various flying beings creating beautiful aerial displays"
+    atmosphere: "Harmony between all living things magical and mundane, filled with musical calls of divine creatures, scents of exotic flowers that only bloom for immortal beings"
+  composition:
+    cameraAngle: "Multi-level view capturing both ground-dwelling and aerial magical beings"
+    focus: "The diverse supernatural fauna that inhabits this paradise realm"
+    depth: "Foreground shows detailed creature behaviors and interactions, middle ground reveals their integration with mountain environment, background suggests vast populations of magical beings throughout the realm"

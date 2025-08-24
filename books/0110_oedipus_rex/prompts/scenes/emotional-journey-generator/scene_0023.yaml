@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "New Order Taking Shape"
+  setting:
+    time: "Ancient Bronze Age Greece, mid-morning"
+    location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+    weather: "Bright clear morning, normal daylight returning after nightmare"
+  characters:
+    - appearance: "Leaner, more wiry man in his fifties, graying hair and beard neatly trimmed, intellectual strength rather than physical, calm rational bearing"
+      clothing: "High-quality but modest linen chiton and wool himation in subdued earth tones - olive green, gray, or dark blue, practical rather than luxurious"
+      position: "Standing on palace steps in position of authority but with different bearing than Oedipus"
+      action: "Speaking with quiet authority, gestures measured and practical rather than dramatic"
+    - appearance: "Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray or white hair and beards signifying elder status"
+      clothing: "Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors like dark gray or deep blue"
+      position: "Arranged in new formation showing respect but different relationship than with previous king"
+      action: "Moving and reacting as unified group, faces showing cautious hope and respect for different kind of leadership"
+  scene:
+    mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+    details: "Same physical space but different emotional geography. Authority exercised with restraint rather than drama. No royal regalia visible - leadership through character rather than symbols. Palace doors open and welcoming rather than forbidding. Sunlight creating different shadows and patterns. No text or letters visible"
+    background: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone now appearing more like home than fortress"
+    atmosphere: "New emotional baseline establishing, different kind of order based on wisdom rather than power, cautious hope"
+  composition:
+    cameraAngle: "Medium shot showing new leader in position but with different visual relationship to space and people"
+    focus: "The establishment of new leadership style and community relationships"
+    depth: "Foreground shows chorus in new arrangement, middle ground captures Creon's measured authority, background shows palace transformed by new use"

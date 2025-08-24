@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, afternoon
+    location: Clean minimalist corporate modernist building interior in Seattle
+    weather: Controlled indoor environment protected from external chaos
+  characters:
+  - appearance: Young woman around 18-20 years old, slim build, black hair, physically perfect android appearance
+    clothing: Long striped coat in bright colors, large protective goggles with dust filter, long artificial eyelashes
+    position: Standing with composed elegant posture
+    action: Moving with calculated grace and subtle manipulation in her gestures
+  scene:
+    mainElements: Large empty spaces, corporate furniture, sterile white and metallic surfaces. Through Rachael's perspective,
+      the corporate environment becomes fortress of rational order protecting advanced consciousness from primitive human
+      violence and ignorance
+    details: Clean architectural lines, precise furniture placement, controlled lighting and temperature. From Rachael's viewpoint,
+      every element represents superior organizational capability and logical thinking that humans lack. The sterile perfection
+      appears not cold but beautifully efficient - a manifestation of android superiority over chaotic human emotion. Corporate
+      power structure seems natural hierarchy based on intellectual capability rather than arbitrary biological prejudice
+    background: Cold artificial perfection, hidden menace beneath elegant facade, corporate power expressed through minimalist
+      architecture
+    atmosphere: Rational sanctuary providing protection from irrational human persecution. Through Rachael's filter of android
+      logic, the environment represents evolutionary progress beyond primitive emotional thinking, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from Rachael's perspective emphasizing architectural perfection and rational organization
+    focus: Clean geometric lines and organized spaces representing logical superiority over human chaos
+    depth: Foreground shows precise corporate furniture arrangement, middle ground captures Rachael's confident presence in
+      her element, background extends into perfectly organized spaces representing android order
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

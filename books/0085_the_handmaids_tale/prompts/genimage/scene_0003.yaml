@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Near future, mid-morning with clear lighting
+    location: Wide ceremonial boulevard in Gilead's capital district
+    weather: Bright clear day with strong directional light creating sharp shadows
+  characters:
+  - appearance: Multiple rows of citizens in their designated caste uniforms - red Handmaids, blue Wives, brown Aunts, black-suited
+      Commanders
+    clothing: Each figure wearing the exact prescribed uniform for their caste with perfect conformity in dress and appearance
+    position: Arranged in precise geometric formation marching in synchronized steps
+    action: Walking in perfect unison with identical posture and synchronized arm movements
+  scene:
+    mainElements: Hundreds of citizens arranged in perfect rectangular formation marching down a wide boulevard, their color-coded
+      uniforms creating distinct visual blocks of red, blue, brown, and black
+    details: Every individual maintains identical spacing and posture creating an almost mechanical precision. The formation
+      creates clear visual hierarchy with Commanders in front, followed by Wives, then Aunts, with Handmaids forming the largest
+      red block at the rear. No individual faces are distinguishable - all blend into the collective mass.
+    background: Imposing government buildings line the boulevard with banners and flags displaying Gilead's symbols, wide
+      steps and columns suggesting state architecture designed for mass gatherings
+    atmosphere: Overwhelming uniformity that transforms individual humans into components of a larger state machine, the precision
+      creating both impressive order and disturbing loss of individuality
+  composition:
+    cameraAngle: Elevated view from above showing the geometric patterns formed by the marching citizens
+    focus: The color-coded formation fills the frame showing the visual organization of Gilead's caste system
+    depth: Marching formation in foreground and middle ground, imposing architecture in background creating sense of state
+      power
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

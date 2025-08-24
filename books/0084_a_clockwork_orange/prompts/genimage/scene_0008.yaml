@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Near future, daytime
+    location: The steps of the prison.
+    weather: A cold, grey day.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He looks small, vulnerable, and lost.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      He is dressed in a cheap, ill-fitting suit.
+    position: Standing on the steps of the prison, blinking in the unfamiliar sunlight.
+    action: He has been released, but he is not free. He is a conditioned automaton,
+      unable to make his own choices or defend himself.
+  scene:
+    mainElements: Alex's return to the world. He is no longer a predator, but prey.
+      He is a walking symbol of the state's power to control and manipulate.
+    details: The world outside the prison is a confusing, overwhelming place. The
+      colors are too bright, the sounds are too loud. The faces of the people on the
+      street are menacing and hostile. Alex is a stranger in his own city.
+    background: The imposing, grey facade of the prison.
+    atmosphere: A sense of disorientation and vulnerability. Alex is a man without
+      a will, a puppet whose strings are pulled by the state. His freedom is an illusion.
+  composition:
+    cameraAngle: A long shot that shows Alex as a small, insignificant figure in a
+      large, hostile world.
+    focus: The look of fear and confusion on Alex's face.
+    depth: 'Foreground: The street. Middle ground: Alex. Background: The prison.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

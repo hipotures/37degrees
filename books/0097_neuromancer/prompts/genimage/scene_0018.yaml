@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 2030s, night in illegal medical facility
+    location: underground cybernetics clinic in Chiba City, improvised medical equipment in converted basement
+    weather: stagnant air with poor ventilation, humidity from nearby street level
+  characters:
+  - appearance: elderly medical practitioner with steady hands despite age, face showing years of underground practice, eyes
+      reflecting knowledge of dangerous procedures
+    clothing: worn medical coat over street clothes, practical garments suitable for clandestine operations, personal protection
+      equipment
+    position: standing at makeshift laboratory counter, examining dark liquid in glass vials
+    action: holding vial up to dim light, swirling dark contents to examine consistency and color, preparing dangerous medical
+      compounds
+  scene:
+    mainElements: collection of glass vials containing dark liquids, improvised laboratory equipment, single overhead light
+      creating dramatic shadows, medical supplies arranged on metal counter
+    details: dark liquid in vials showing different viscosities and opacity levels, light creating amber and brown color variations,
+      glass surfaces reflecting dim illumination, liquid movement showing density and consistency, medical equipment suggesting
+      serious pharmaceutical preparation, no text or letters visible
+    background: underground clinic with exposed pipes and concrete walls, improvised medical equipment repurposed from various
+      sources, exit routes and security measures visible
+    atmosphere: dangerous medical practice conducted in shadows, necessity driving people to seek illegal treatments, bitter
+      reality of underground healthcare for those excluded from legitimate medicine
+  composition:
+    cameraAngle: close-up shot focusing on vials with practitioner examining contents
+    focus: dark liquid colors and viscosity suggesting bitter medicinal compounds
+    depth: extreme foreground showing detailed liquid contents in vials, middle ground featuring examining hands, background
+      revealing underground medical facility
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

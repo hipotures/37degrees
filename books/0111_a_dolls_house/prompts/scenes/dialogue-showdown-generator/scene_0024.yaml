@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Verdict - Defeat and Victory"
+  setting:
+    time: "1879, Boxing Day very late night, near dawn"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "First light of dawn beginning to show"
+  characters:
+    - appearance: "Woman aged 28-30 years, composed and zdecydowana expression, opanowana postawa"
+      clothing: "Prosta ciemna suknia podróżna in szary or brązowy color, skromna pozbawiona ozdób, praktyczna for travel"
+      position: "Standing tall and dignified, having found her strength"
+      action: "Preparing to leave, moving with newfound purpose and dignity, victorious in her self-discovery"
+    - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+      clothing: "Evening attire now completely disheveled, representing his fallen status"
+      position: "Slumped in chair, defeated and comprehending his loss"
+      action: "Posture showing complete defeat, the proud patriarch reduced to a confused, abandoned man"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The elegant salon witnesses the complete reversal of power. Prosta skromna torba podróżna belonging to Nora, symbol of jej nowego życia, niezależności and niepewnej przyszłości, represents her choice to leave sits nearby. Dawn light begins to enter, symbolizing her new beginning and his ending."
+    background: "The comfortable bourgeois interior that can no longer contain her awakened consciousness"
+    atmosphere: "The quiet aftermath of revolution. She has won her freedom; he has lost his doll. Dawn brings the promise of her new life and the reality of his emptiness."
+  composition:
+    cameraAngle: "Wide shot showing the complete reversal - she stands victorious, he sits defeated"
+    focus: "The dramatic contrast between her dignified departure and his collapse"
+    depth: "Foreground: Nora standing ready for freedom. Middle ground: The space between their separate fates. Background: Torvald slumped in defeat in the ruins of their marriage."

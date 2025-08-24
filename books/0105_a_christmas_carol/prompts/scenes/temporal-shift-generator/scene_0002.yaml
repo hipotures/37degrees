@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scrooge's Chambers - Decades of Isolation"
+  setting:
+    time: "1823 and 1843, evening hours"
+    location: "Upper floors of old London building, gloomy residential quarters above commercial area, overlooking narrow courtyard"
+    weather: "Frost accumulating on windows over twenty years"
+  characters:
+    - appearance: "Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt cheeks marked by inner coldness"
+      clothing: "Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting his frugal nature"
+      position: "Standing by fireplace in both time periods"
+      action: "Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving expression"
+  scene:
+    mainElements: "Same sparse chamber showing twenty years of decline - Dutch tiles with biblical scenes now cracked, heavy curtained bed grown more threadbare, very small coal fire reduced to single glowing ember"
+    details: "Ghostly overlay of younger Scrooge superimposed over older self, furniture positions unchanged but deteriorated, floorboards worn in exact walking patterns, wallpaper peeling in identical spots from 1823, cobwebs accumulated in corners, same minimal personal belongings but more tarnished, candle wax built up on holders over decades, no text or letters visible"
+    background: "Courtyard view through frost-covered windows showing same buildings aged twenty years, brick mortar crumbled, neighboring windows permanently shuttered, ivy growth patterns revealing time passage"
+    atmosphere: "Deepening cold and haunted silence, accumulated dust motes floating in pale lamplight, smell of old paper and neglect intensified over decades, echo quality changed by accumulated emptiness"
+  composition:
+    cameraAngle: "Medium shot from doorway showing room's temporal layering"
+    focus: "Fireplace where coal reduction most dramatically shows time's passage"
+    depth: "Foreground shows immediate furniture decay, middle ground reveals architectural wear patterns, background displays courtyard changes over twenty years"

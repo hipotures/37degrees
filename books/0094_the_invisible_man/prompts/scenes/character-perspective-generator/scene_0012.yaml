@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Child's Wonder - Invisible Footprints"
+  setting:
+    time: "February 1897, morning after light snowfall"
+    location: "Village lane in Iping, narrow path between cottages"
+    weather: "Clear morning with fresh snow showing mysterious tracks"
+  characters:
+    - appearance: "Village child around eight years old, wide curious eyes, rosy cheeks from cold"
+      clothing: "Simple wool coat and knitted cap, sturdy boots for country walking"
+      position: "Crouched low beside lane examining mysterious footprints in snow"
+      action: "Pointing excitedly at footprints that appear to lead nowhere, following tracks with fascinated wonder"
+  scene:
+    mainElements: "Clear footprints impressed in fresh snow, appearing and disappearing without visible maker, child's innocent fascination with impossible sight"
+    details: "Perfect human footprints emerging from nothing and vanishing into air, child's breath steaming as she leans close to examine tracks, snow crystals disturbed by invisible passage"
+    background: "Quiet village cottages with smoke from chimneys, adults in distance unaware of magical discovery, peaceful rural morning scene"
+    atmosphere: "Childhood wonder confronting supernatural mystery, innocent amazement rather than fear, magic seen through eyes uncorrupted by adult skepticism"
+  composition:
+    cameraAngle: "Low angle from child's perspective close to ground"
+    focus: "Mysterious footprints appearing in pristine snow"
+    depth: "Foreground shows detailed footprint impressions, middle ground captures child's wonder, background reveals peaceful village, no text or letters visible"

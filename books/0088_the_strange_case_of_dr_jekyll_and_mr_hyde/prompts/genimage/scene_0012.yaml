@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1880s evening, servant working hours when masters believe themselves unobserved
+    location: Jekyll's house viewed from servant corridors and back passages
+    weather: Indoor service atmosphere, warm from kitchen fires
+  characters:
+  - appearance: Middle-aged man 50-60 years old, neat dignified appearance befitting head servant, face showing loyalty but
+      growing concern
+    clothing: Formal butler's attire - black tailcoat, white shirt with bow tie, proper servant's uniform
+    position: Moving through service areas with practiced invisibility
+    action: Observing strange behaviors while maintaining professional discretion, carrying out duties with growing unease
+  scene:
+    mainElements: House reveals its hidden architecture of service - narrow back stairs connecting all levels, service bells
+      showing master's demands, kitchen where real conversations occur away from public spaces
+    details: Servant's world exposes truth behind respectability - back doors where strange visitors arrive, service corridors
+      where whispered conversations carry, dusty spaces where evidence accumulates, locked rooms that weren't locked before
+    background: Network of servant passages creates parallel house where truth is visible, kitchen hearth provides warm sanctuary
+      for honest discussion, service quarters where loyalty conflicts with growing fear
+    atmosphere: Intimate knowledge of house's secrets creating burden of dangerous information, warm service areas contrasting
+      with cold mysteries upstairs, growing tension between professional loyalty and personal safety, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from servant's discrete observational position, seeing what masters believe hidden
+    focus: Poole's growing awareness of disturbing changes in familiar household routine
+    depth: Foreground shows servant's careful observation, middle ground reveals hidden aspects of house architecture, background
+      suggests vast network of secrets beneath respectable surface
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

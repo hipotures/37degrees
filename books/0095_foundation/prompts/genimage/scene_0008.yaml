@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, early morning
+    location: natural coastal area on Terminus beyond colonial settlement, pristine galactic rim ecosystem
+    weather: clear morning with ocean mist, temperate galactic rim climate
+  characters: No characters present in this scene
+  scene:
+    mainElements: unique galactic rim flora and fauna adapted to sparse stellar environment, rocky coastline with unusual
+      geological formations, native plants with distinctive characteristics, small indigenous creatures
+    details: plants with thick leaves adapted to low-light conditions of galactic rim, unusual rock formations created by
+      unique mineral composition, indigenous small mammals and birds with distinctive coloring and behavior, coastal pools
+      with endemic aquatic life, distinctive ecosystem showing evolutionary adaptation to remote stellar location
+    background: sparse star field typical of galactic rim, distant ocean horizon with minimal stellar illumination, scattered
+      islands showing similar ecosystem development
+    atmosphere: pristine natural environment untouched by galactic civilization, sense of evolutionary uniqueness in isolated
+      stellar region, peaceful ecosystem adapted to frontier conditions
+  composition:
+    cameraAngle: natural landscape perspective showing ecosystem diversity
+    focus: unique galactic rim biological adaptations and natural beauty
+    depth: foreground coastal details, middle ground geological features, background sparse stellar environment
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

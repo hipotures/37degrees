@@ -1,0 +1,109 @@
+canon:
+  characters:
+    - id: "leopold_bloom"
+      name: "Leopold Bloom"
+      description_block: |
+        characters:
+          - appearance: "38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face, dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage"
+            clothing: "Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers, black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status"
+            posture: "Thoughtful, observant bearing, gentle mannerisms that contrast with typical Dublin male bravado, habit of touching items in pockets (potato talisman, lemon soap)"
+            action: "Moves through Dublin with careful, contemplative steps, frequently pausing to observe his surroundings with curious, empathetic eyes"
+
+    - id: "stephen_dedalus"
+      name: "Stephen Dedalus"
+      description_block: |
+        characters:
+          - appearance: "22-year-old man of slender, almost frail build, hair standing up in disarray, intelligent and often brooding facial expression, poor eyesight due to broken glasses day before, pale complexion suggesting indoor scholarly life"
+            clothing: "Worn black mourning attire for his mother consisting of threadbare black frock coat with frayed cuff edges and shiny sleeves, black trousers, wide-brimmed Latin Quarter style hat, all clothing second-hand and showing poverty"
+            posture: "Distant, intellectual bearing, carries himself with mixture of pride and alienation, often lost in thought, theatrical gestures when agitated"
+            action: "Walks with measured, sometimes dramatic steps, frequently grips his ashplant walking stick, moves as if mentally composing literature"
+
+    - id: "molly_bloom"
+      name: "Marion (Molly) Bloom"
+      description_block: |
+        characters:
+          - appearance: "33-year-old woman of full, voluptuous build described as plump with sensual curves, dark Mediterranean complexion inherited from Spanish-Jewish mother, dark hair, attractive features described as handsome, exotic Gibraltar heritage visible in her looks"
+            clothing: "Throughout the day remains in bed wearing nightgown and undergarments, visible discarded clothing on bedroom chair includes soiled undergarments and petticoat, as opera singer would own theatrical, feminine evening wear"
+            posture: "Languid, sensual movements confined to bed, natural physical grace suggesting musical performer background"
+            action: "Lies in bed in various positions, occasionally shifting weight, hair disheveled on pillow, hands moving expressively as thoughts flow"
+
+    - id: "buck_mulligan"
+      name: "Malachi 'Buck' Mulligan"
+      description_block: |
+        characters:
+          - appearance: "22-25 years old, stately and plump build, long equine face, light-colored hair with texture and grain of pale oak, lively smoke-blue eyes, even white teeth with some gold dental work, generally handsome but slightly coarse features"
+            clothing: "Yellow unbuttoned dressing gown in opening scene, later changes to primrose waistcoat and panama hat, clothing choices reflect vanity and theatrical nature"
+            posture: "Expansive, theatrical bearing, dominates physical space with confident gestures, parody of religious movements during mock mass scene"
+            action: "Moves with jaunty self-assurance, performs exaggerated gestures, holds shaving bowl like chalice in opening scene, mocks sacred rituals"
+
+  locations:
+    - id: "martello_tower"
+      name: "Martello Tower, Sandycove"
+      description_block: |
+        setting:
+          location: "19th-century coastal defense tower, circular stone fortress on rocky outcrop overlooking Dublin Bay, Sandycove area south of Dublin"
+        mainElements: "Round stone gun platform at top with panoramic sea views, dark spiral staircase leading to circular living quarters below, thick granite walls, military architecture"
+        atmosphere: "Wind-swept, isolated, intellectually charged tension between inhabitants, morning salt air mixed with masculine domestic conflict, echoing of voices in stone chambers"
+
+    - id: "eccles_street_house"
+      name: "7 Eccles Street"
+      description_block: |
+        setting:
+          location: "Georgian terraced house in middle-class Dublin neighborhood, red-brown brick exterior with characteristic Georgian proportions and sash windows"
+        mainElements: "Basement kitchen with coal-burning stove and sink, cramped but functional domestic space, distinctive front door and hallway, cluttered bedroom with loose brass bed rails, outdoor privy in back yard"
+        atmosphere: "Domestic intimacy mixed with marital tension, cooking smells and household routines, sounds of neighboring houses, sense of middle-class respectability masking personal crisis"
+
+    - id: "glasnevin_cemetery"
+      name: "Glasnevin Cemetery"
+      description_block: |
+        setting:
+          location: "Victorian garden cemetery in north Dublin, Ireland's national cemetery with elaborate headstones and monuments spanning decades of Irish history"
+        mainElements: "Gravel pathways winding between ornate Victorian monuments, Celtic crosses and marble angels, O'Connell's prominent tomb and crypt, chapel building, high walls enclosing sacred space"
+        atmosphere: "Solemn melancholy mixed with Irish historical pride, quiet broken only by gravel footsteps and cemetery birds, gray overcast sky typical of Irish weather, sense of national memory and personal grief intertwined"
+
+    - id: "davy_byrnes_pub"
+      name: "Davy Byrne's Pub"
+      description_block: |
+        setting:
+          location: "Respectable moral house public establishment in Dublin city center, known for quiet atmosphere and quality food rather than rowdy drinking"
+        mainElements: "Long curved bar counter made of polished wood, brass fittings and taps, bottles arranged on shelves, high wooden stools, clean swept floors, orderly interior suggesting moral establishment"
+        atmosphere: "Calm, civilized refuge from Dublin street chaos, smell of fresh bread and cheese, quiet conversations rather than shouting, sense of respectability and order, warm gaslight"
+
+    - id: "newspaper_office"
+      name: "Freeman's Journal and Evening Telegraph Office"
+      description_block: |
+        setting:
+          location: "Busy newspaper printing and editorial offices in Dublin city center, heart of Irish journalism and public opinion"
+        mainElements: "Large mechanical printing presses creating constant noise, stacks of fresh newspapers, editorial desks with papers and telegraph equipment, ink-stained surfaces, machinery filling industrial space"
+        atmosphere: "Loud mechanical rhythms, smell of printer's ink and paper, urgent energy of news production, masculine workplace filled with tobacco smoke, sense of information as power and commerce"
+
+  items:
+    - id: "ashplant_walking_stick"
+      name: "Stephen's Ashplant Walking Stick"
+      description_block: |
+        details: "Simple walking stick carved from ashwood, smooth from regular handling, natural wood grain visible, solid construction suitable for both practical walking aid and symbolic artistic implement, length appropriate for Stephen's height"
+
+    - id: "potato_talisman"
+      name: "Bloom's Dried Potato"
+      description_block: |
+        details: "Small shriveled potato carried as protective charm, blackened and hardened with age, rough wrinkled surface, kept in trouser pocket as inheritance from deceased mother, traditional Irish folk talisman against rheumatism and evil"
+
+    - id: "lemon_soap"
+      name: "Lemon-Scented Soap Bar"
+      description_block: |
+        details: "Oval pale yellow soap bar with subtle citrus fragrance, wrapped in thin paper with chemist's label, represents domestic care and cleanliness ritual, symbol of Bloom's thoughtfulness toward Molly, smooth texture worn by handling"
+
+    - id: "cracked_looking_glass"
+      name: "Servant's Cracked Mirror"
+      description_block: |
+        details: "Small handheld mirror in cheap metal or celluloid frame, distinct crack running across glass surface creating distorted reflections, inexpensive servant's quality representing colonial Ireland's fractured cultural identity"
+
+    - id: "house_key"
+      name: "House Keys"
+      description_block: |
+        details: "Iron house keys for front doors, absence more significant than presence, symbol of domestic control and belonging, their loss or surrender representing homelessness and displacement, heavy metal construction typical of period locks"
+
+    - id: "plumtree_meat"
+      name: "Plumtree's Potted Meat"
+      description_block: |
+        details: "Commercial preserved meat in jar or tin container with printed label reading 'Plumtree's Potted Meat', mass-produced colonial food product, crumbs and evidence found in marital bed suggesting adultery, represents commodified sexuality and British economic dominance"

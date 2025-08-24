@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Multiple epochs from prehistoric to far future
+    location: Thames River location showing temporal evolution of same waterway
+    weather: Consistent flowing water under changing skies of different eras
+  characters: No characters present in this scene
+  scene:
+    mainElements: Same river bend shown across geological time - pristine prehistoric waters, Roman settlements, medieval
+      villages, Victorian London, garden world ruins, far future desolation. Water flows constant while shores transform completely
+    details: River maintains same course and flow patterns while everything around it evolves. Banks show different materials
+      - natural earth, stone embankments, metal reinforcements, organic future materials, final erosion back to stone. Bridges
+      appear and disappear - Roman stone, medieval wood, Victorian iron, future unknown materials, ultimate abandonment
+    background: Landscape evolution from virgin forest to agricultural fields to urban density to garden wilderness to final
+      barren earth, all unified by consistent water flow
+    atmosphere: River as witness to all human history, water as eternal constant while civilizations rise and fall along its
+      banks, geological time vs human time, persistence of nature through all change, no text or letters visible
+  composition:
+    cameraAngle: Aerial view following river course through temporal changes
+    focus: River bend as constant element while shores show dramatic transformation
+    depth: Water surface in foreground maintaining consistency, changing shoreline infrastructure in middle ground, evolving
+      landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

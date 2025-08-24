@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Weeping Boys and the Collapse of Savagery"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "The beach."
+    weather: "The smoke is beginning to clear."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Standing before the naval officer, weeping uncontrollably."
+      action: "He is not weeping for joy at being rescued, but for the darkness of man's heart, and the fall through the air of the true, wise friend called Piggy."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Standing with the other boys, his painted face streaked with tears."
+      action: "The savage leader has vanished, replaced by a small, frightened boy."
+  scene:
+    mainElements: "The boys, confronted by the reality of the adult world, break down. Their savage personas collapse, revealing the lost, frightened children underneath."
+    details: "As the boys weep, the painted masks on their faces seem to melt and run, dripping down their cheeks like tears of black and red. Their sharpened sticks fall to the ground, no longer weapons, but just sticks. The world around them returns to a state of mundane reality. The jungle is just a jungle, the beach is just a beach."
+    background: "The naval officer watches them, embarrassed and uncomfortable. The naval cruiser waits on the horizon."
+    atmosphere: "A scene of profound, heartbreaking sorrow. The great adventure is over, and all that is left is the terrible knowledge of what they have done. The boys are crying for the loss of their innocence."
+  composition:
+    cameraAngle: "A series of close-up shots on the faces of the weeping boys, their savage paint melting and running."
+    focus: "The transformation of the boys from savages back into children."
+    depth: "Foreground: The weeping boys. Middle ground: The naval officer. Background: The burning island."

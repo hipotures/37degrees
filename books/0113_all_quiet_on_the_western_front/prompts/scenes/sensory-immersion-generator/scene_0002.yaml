@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Feet sinking deep in desert-hot trench sand while heat waves shimmer"
+  setting:
+    time: "1918 summer midday, blazing noon sun"
+    location: "front line trench system on Western Front, sandy section baked by relentless sun, makeshift dugouts carved into trench walls"
+    weather: "scorching heat creating visible distortions in air, no wind to provide relief"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "standing in bottom of trench, feet sunk ankle-deep in burning sand"
+      action: "lifting one boot from sand with visible effort, sand pouring from boot like liquid, using rifle as walking stick for support while navigating scorching trench floor"
+  scene:
+    mainElements: "narrow trench filled with fine sand heated to burning temperature, soldier struggling to walk through deep shifting sand, heat waves creating visual distortion above trench edges, makeshift sandbag walls providing minimal shade"
+    details: "sand so hot it burns through boot leather, each footstep sinking deeper creating temporary wells that immediately fill with more sand, heat waves making distant objects dance and blur, metal surfaces of weapons and equipment too hot to touch with bare skin, sand particles rising in small clouds with each labored step, fabric of uniform darkened with sweat stains, no text or letters visible"
+    background: "more trench system extending into heat-distorted distance, sun-bleached sandbags and wooden supports, shimmer effects making horizon line waver"
+    atmosphere: "oppressive heat made visible through distortion and physical struggle, exhaustion from fighting both enemy and elements, contrast between burning sand and desperate need for solid ground"
+  composition:
+    cameraAngle: "low angle from trench floor, emphasizing depth of sand and height of trench walls above"
+    focus: "soldier's boots sinking into sand with heat waves rising around his legs"
+    depth: "foreground shows detailed sand texture and boot impressions, middle ground features struggling soldier, background dissolves into heat distortion"

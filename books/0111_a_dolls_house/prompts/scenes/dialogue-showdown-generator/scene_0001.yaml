@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Christmas Eve - Nora's Secret Indulgence"
+  setting:
+    time: "1879, Christmas Eve afternoon"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold Norwegian winter outside, visible through window"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Standing alone in center of room, glancing toward doors"
+      action: "Secretly eating macaroons, quickly wiping mouth and hiding paper bag in pocket"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "Małe migdałowe ciasteczka in papierowa torebka, symbol of drobny dziecinny bunt against Torvald's autorytet, sign of Nora's first próba samostanowienia and practice in oszustwo. Christmas packages scattered nearby from shopping trip. Warm light from żeliwny piec creates cozy atmosphere."
+    background: "Initially przytulny świąteczny and pełny beztroski, evolving into klaustrofobiczna duszna pułapka, osvětlenie from zimowe światło z okna and ciepły migotliwy blask from piec creating contrasts"
+    atmosphere: "Deceptively peaceful Christmas Eve setting with undertones of secrecy and hidden rebellion. The warm domestic interior masks the small acts of deception that will grow into larger lies."
+  composition:
+    cameraAngle: "Medium shot focusing on Nora's furtive actions"
+    focus: "Nora's hand quickly hiding the paper bag, her expression showing both pleasure and guilt"
+    depth: "Foreground: Nora with macaroons. Middle ground: Scattered Christmas packages. Background: Closed doors to other rooms, suggesting hidden spaces and secrets."

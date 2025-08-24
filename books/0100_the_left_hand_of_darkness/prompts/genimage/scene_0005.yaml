@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, late evening, interior lighting from single lamp
+    location: Small private room in Karhidish guest quarters, simple stone chamber with minimal furnishings
+    weather: Interior space, cold stone environment requiring heating
+  characters:
+  - appearance: Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians,
+      strong masculine physique with less body hair than natives, dark hair and eyes
+    clothing: Simple indoor garments, lighter layers worn in private quarters, still maintaining dignity appropriate to diplomatic
+      mission
+    position: Standing before small mirror or reflective surface, examining his own appearance
+    action: Studying his reflection while contemplating his mission and place on this alien world, adjusting clothing and
+      posture to project authority and competence
+  scene:
+    mainElements: Sparse private chamber with single small mirror or polished metal surface, simple wooden furniture, personal
+      belongings arranged to suggest temporary residence but maintained dignity
+    details: Reflection showing confident diplomatic bearing despite isolation, personal items from Ekumen suggesting technological
+      and cultural superiority, simple oil lamp casting warm light that flatters features and suggests inner strength, shadows
+      falling dramatically to emphasize heroic stature, no text or letters visible
+    background: Stone walls of guest quarters, narrow window showing glimpses of alien cityscape beyond, door leading to wider
+      building suggesting connection to larger mission
+    atmosphere: Self-perception filtered through heroic mission narrative - reflection appears noble and purposeful, lighting
+      emphasizes strength and determination, environment suggests temporary hardship endured for greater cause
+  composition:
+    cameraAngle: Slightly low angle emphasizing dignity and stature, including both figure and reflection
+    focus: Self-examination revealing inner confidence despite external challenges, heroic bearing maintained in private moment
+    depth: 'Foreground: reflection in mirror, middle: figure examining self, background: sparse but dignified living space
+      suggesting sacrifice for duty'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

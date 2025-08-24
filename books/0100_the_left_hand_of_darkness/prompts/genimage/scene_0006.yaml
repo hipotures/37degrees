@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, spring afternoon, overcast day with intermittent sunlight
+    location: Stone-built capital city of Karhide on planet Gethen, massive monolithic architecture creating deep narrow street-canyons
+    weather: Cool spring day with drizzling rain, deceptive sunlight breaking through clouds giving light but no warmth
+  characters:
+  - appearance: Middle-aged Gethenian ruler 50-60 years old, face lined with shadows expressing paranoia and inner torment,
+      later showing universal grief after personal loss
+    clothing: Simple white tunic, white shirt and pants, single gold ring as only symbol of royal authority, deliberately
+      minimal royal attire
+    position: Standing on wooden scaffolding above crowd, elevated for ceremonial keystone placement
+    action: Performing ritual keystone installation while scanning crowd for threats, executing traditional ceremony while
+      internally cataloging potential dangers and enemies
+  - appearance: Hundreds of Gethenian subjects gathered below, representing various guilds and family hearths
+    clothing: Ceremonial dress in family colors, silk banners and formal guild attire creating riot of color in rain
+    position: Filling street canyon below, pressed together in ceremonial formation
+    action: Participating in traditional celebration while some individuals harbor unknown loyalties and hidden agendas
+  scene:
+    mainElements: Elevated wooden platform for keystone ceremony, massive stone arch under construction, crowd of subjects
+      extending through street canyon, colorful silk banners streaming in rain creating visual chaos
+    details: Every face in crowd potentially concealing treachery or foreign influence, traditional pink mortar for keystone
+      suggesting ancient blood sacrifice rituals, ceremonial tools feeling heavy with historical weight and responsibility,
+      rain making footing treacherous on wooden scaffolding, no text or letters visible
+    background: Ancient stone city where every shadow could hide conspirators, narrow alleyways providing escape routes for
+      enemies, palace walls in distance representing both safety and prison
+    atmosphere: Ceremonial duty filtered through paranoid suspicion - traditional celebration becomes exercise in threat assessment,
+      every tradition carries weight of maintaining power against unknown enemies
+  composition:
+    cameraAngle: Elevated perspective from royal position looking down at potentially threatening crowd
+    focus: Contrast between ceremonial dignity required and internal fear of betrayal, burden of leadership during public
+      vulnerability
+    depth: 'Foreground: ceremonial tools and keystone, middle: royal figure performing ritual, background: sea of subjects
+      with unknowable loyalties'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

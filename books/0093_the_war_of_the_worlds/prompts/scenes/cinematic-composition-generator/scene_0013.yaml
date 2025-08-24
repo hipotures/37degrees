@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Over-the-shoulder view of narrator meeting the artilleryman"
+  setting:
+    time: "1897, dawn after night of destruction"
+    location: "Surrey countryside near damaged bridge over river Wey, debris and destruction from Martian attack visible"
+    weather: "Clear dawn light revealing extent of overnight devastation"
+  characters:
+    - appearance: "25-30 year old British soldier, strong muscular build typical of artillery service, weather-beaten face with straight honest features, clean-shaven per military regulations, confident military bearing"
+      clothing: "Navy blue Royal Artillery field uniform with red facings and collar trim, navy trousers with red stripe, initially complete military dress becoming ragged civilian clothes, sturdy military boots"
+      position: "Standing amid debris of destroyed military position, rifle in hands"
+      action: "Explaining military situation to narrator, displaying soldier's practical assessment of hopeless situation"
+    - appearance: "Back of narrator's head and shoulders visible in foreground"
+      clothing: "Torn and disheveled Victorian gentleman's attire from night of terror"
+      position: "Looking toward artilleryman from slight distance"
+      action: "Listening to military account of humanity's military failure against alien technology"
+  scene:
+    mainElements: "Destroyed military equipment and bridge wreckage showing futility of human weapons against Martian technology"
+    details: "Scattered military supplies, destroyed artillery pieces, damaged bridge structure, evidence of fierce but useless resistance against superior alien weapons, soldier representing humanity's military response"
+    background: "River Wey flowing past damaged bridge, countryside scarred by Heat Ray attacks, smoke rising from distant fires"
+    atmosphere: "Grim military reality - professional soldier's honest assessment of hopeless situation, beginning of narrator's education about true scale of catastrophe"
+  composition:
+    cameraAngle: "Over-the-shoulder shot following narrator's gaze toward artilleryman"
+    focus: "Artilleryman as source of military knowledge and harsh realism about human prospects, no text or letters visible"
+    depth: "Foreground shows narrator's shoulder and back of head, middle ground features artilleryman among military debris, background reveals damaged landscape and flowing river"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dawn at the Plague-Stricken Palace"
+  setting:
+    time: "Ancient Bronze Age Greece, early dawn"
+    location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+    weather: "Pale sickly yellow dawn light, oppressive heat beginning to build"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing majestically at top of palace steps, elevated above the courtyard"
+      action: "Emerging through central palace doors into morning light, surveying his domain with confident authority"
+  scene:
+    mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+    details: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone with faded royal frescoes of lions and griffins. Morning mist clings to the courtyard stones. Empty altar to Apollo stands to one side. Palace walls show signs of age but retain their monumental presence. No text or letters visible"
+    background: "Rocky hills of Thebes visible beyond palace walls, distant mountains of Boeotia under pale sky"
+    atmosphere: "Established royal order and authority, but with subtle undertones of unease - the cracked stones and weeds suggesting something wrong beneath the surface of power"
+  composition:
+    cameraAngle: "Low angle looking up at the palace steps, emphasizing Oedipus's commanding position"
+    focus: "Oedipus standing confidently on the palace steps, silhouetted against the opening doors"
+    depth: "Foreground shows empty courtyard stones, middle ground captures the palace steps and Oedipus, background shows palace facade and distant hills"

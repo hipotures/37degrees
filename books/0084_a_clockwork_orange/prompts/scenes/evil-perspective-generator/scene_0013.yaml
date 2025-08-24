@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Suicide Attempt and the Sound of Beethoven"
+  setting:
+    time: "Near future, daytime"
+    location: "An upper-floor room in F. Alexander's house."
+    weather: "A grey, overcast day."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. He is dressed in comfortable clothes. He is standing on a windowsill, his arms outstretched.
+      position: "In a locked room."
+      action: "He is about to jump out of the window to escape the sound of Beethoven's 9th Symphony, which is being blasted from a loudspeaker in the room below."
+  scene:
+    mainElements: "The writer and his associates are using Alex's aversion to Beethoven to drive him to suicide. This is the culmination of their psychological torture."
+    details: "The room is bare, except for a single bed. The window is open, and the wind is blowing in. The sound of the music is deafening, a torrent of glorious, unbearable sound. The musical notes are visualized as sharp, jagged shapes that are physically assaulting Alex."
+    background: "The empty sky and the ground far below."
+    atmosphere: "A scene of intense, claustrophobic desperation. Alex is trapped in a prison of sound, and his only escape is death. The most beautiful music has become a weapon of torture."
+  composition:
+    cameraAngle: "A shot from behind Alex, looking out the window. This places the viewer in his position, sharing his desperation and his desire to escape."
+    focus: "The empty space outside the window, a symbol of both freedom and death."
+    depth: "Foreground: Alex on the windowsill. Middle ground: The empty room. Background: The sky."

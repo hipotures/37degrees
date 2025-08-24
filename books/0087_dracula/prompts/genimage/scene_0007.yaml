@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, hottest part of summer afternoon
+    location: Narrow London street with Victorian buildings and cobblestone paving
+    weather: Exceptional heat creating visible heat distortion rising from pavement
+  characters: No characters present in this scene
+  scene:
+    mainElements: Cobblestone street surface with visible heat waves rising and distorting air above pavement. Victorian brick
+      buildings lining narrow street with tall windows and chimneys. Street appears deserted due to oppressive heat
+    details: Individual cobblestones clearly defined but wavering through heat distortion. Heat waves rising from stone surface
+      creating shimmering effect like water. Building facades appearing to ripple slightly through rising hot air. Window
+      glass reflecting harsh sunlight. Iron lampposts and railings too hot to touch. Dust particles suspended in superheated
+      air
+    background: Street recedes into heat haze making distant buildings appear unclear and wavering. Clock tower or church
+      spire visible through heat distortion in far distance
+    atmosphere: Oppressive urban heat island effect. Streets abandoned as people seek shade indoors. Heat making air itself
+      visible through distortion. Sense of summer city becoming hostile environment. Bleached colors and harsh contrasts.
+      No text or letters visible
+  composition:
+    cameraAngle: Street level view down cobblestone road
+    focus: Heat distortion rising from cobblestones with emphasis on shimmering air effects
+    depth: Foreground detailed cobblestones, middle ground heat waves and building facades, background street disappearing
+      into heat haze
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

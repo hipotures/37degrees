@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The First Lesson - Observing Base Nature"
+  setting:
+    time: "16th century, evening in tavern"
+    location: "Underground, historical wine cellar in Leipzig with low barrel-vaulted ceilings of rough stone. Simple interior equipped with heavy, crude wooden tables and benches. Murals on walls depicting local legend of Faust flying out on wine barrel."
+    weather: "Underground environment, smoky and humid from many bodies"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Now appears as fashionable nobleman in scarlet red dublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather"
+      position: "Standing among drunken revelers with arms crossed, watching both crowd and Faust's reaction"
+      action: "Performing wine magic with casual gesture while studying Faust's disgust with clinical interest"
+  scene:
+    mainElements: "Wine barrels, rough wooden tables sticky with spilled wine, flickering torches and lanterns casting orange light on faces of drinkers. Earthen colors dominate: browns of wood, greys of stone, reds of spilled wine."
+    details: "This is Mephistopheles' first educational experiment - showing Faust the lowest common denominator of human pleasure. His magic making wine flow from table demonstrates power over matter, but real lesson is anthropological: observe how quickly humans descend to animal behavior when restraints are removed. Faust's revulsion confirms demon's assessment that scholar's appetites are more sophisticated"
+    background: "Loud, bawdy and chaotic. Air thick with smoke, smell of cheap wine, beer, sweat and food. Everywhere sounds of drunken singing, shouting, laughter and fighting. First test of Mephistopheles to tempt Faust with base, sensual pleasures."
+    atmosphere: "Anthropological observation laboratory where Mephistopheles studies human nature through its basest expressions. Mixture of entertainment and disgust, education through negative example"
+  composition:
+    cameraAngle: "Medium shot showing Mephistopheles' detached observation of both crowd and Faust"
+    focus: "Contrast between Mephistopheles' cool calculation and surrounding chaos of drunken revelry"
+    depth: "Foreground: Mephistopheles observing. Middle ground: Drunken crowd and disgusted Faust. Background: Stone cellar with murals showing legendary Faust"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Predator Arrives - Krogstad's First Threat"
+  setting:
+    time: "1879, Christmas Eve late afternoon"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Darkening winter afternoon"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Frozen in place, caught off guard, backing slightly toward wall"
+      action: "Face showing shock and fear as she recognizes the threat, body language revealing her vulnerability"
+    - appearance: "Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca zgorzknienie but also troskę about los swoich dzieci"
+      clothing: "Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną sytuację finansową"
+      position: "Standing in doorway, dominating entrance, casting shadow into room"
+      action: "Speaking with quiet menace, his desperation masked by controlled threatening demeanor"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The comfortable Christmas setting is suddenly invaded by threat. Krogstad's worn appearance contrasts sharply with the elegant interior. His presence transforms the safe domestic space into a trap. Biała koperta containing demaskujący list from Krogstad, fizyczny nośnik prawdy that wdziera się into dom Helmerów and niszczy jego fasadę, object of największy strach for Nora visible in his hand."
+    background: "The secure bourgeois interior now feels confining as Nora realizes she cannot escape this confrontation"
+    atmosphere: "The Christmas warmth is shattered by the intrusion of external threats. The room feels suddenly smaller, more confining, as danger enters the previously safe space."
+  composition:
+    cameraAngle: "Wide shot showing Krogstad dominating doorway with Nora trapped inside"
+    focus: "The power dynamic - predator at entrance, prey backing away"
+    depth: "Foreground: Krogstad's threatening presence filling the doorway. Middle ground: Nora's shocked retreat. Background: The comfortable interior that now feels like a prison."

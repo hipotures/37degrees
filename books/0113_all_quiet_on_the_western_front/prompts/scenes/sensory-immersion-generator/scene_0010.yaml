@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Battlefield chaos with explosive clouds and debris flying in all directions"
+  setting:
+    time: "1918 spring morning, massive artillery barrage"
+    location: "No Man's Land during major offensive, multiple shell impacts creating overlapping explosions across scarred battlefield"
+    weather: "clear morning transformed into chaos by artillery smoke and debris clouds"
+  characters:
+    - appearance: "19 lat ślusarz z zawodu, bardzo chudy porównywany do konika polnego lub szczapy mimo że największy żarłok w kompanii, ostre mysie rysy"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "diving for cover in shell crater, body in mid-air leap"
+      action: "throwing himself into crater while debris rains down around him, covering head with arms while earth erupts in all directions"
+  scene:
+    mainElements: "multiple artillery explosions creating overlapping chaos, debris clouds expanding in all directions, soldier caught in desperate dive for safety, battlefield transformed into violent storm of earth and metal"
+    details: "explosive clouds expanding at different rates creating complex overlapping patterns, soil chunks and metal fragments flying in chaotic trajectories, multiple explosions creating competing shock waves visible through debris movement, dust and smoke clouds merging and separating in turbulent air currents, soldier's uniform and equipment buffeted by pressure waves, earth geysers erupting at random intervals across battlefield, metal shrapnel glinting as it spins through debris clouds, ground trembling visible through jumping objects and unstable debris piles, no text or letters visible"
+    background: "battlefield extending to horizon with continuous explosion pattern, smoke and dust obscuring distant features, crater-scarred earth showing previous bombardment damage"
+    atmosphere: "overwhelming cacophony made visual through chaotic debris patterns, survival instincts triggering desperate movement, mechanical violence of modern warfare displayed through explosive physics"
+  composition:
+    cameraAngle: "dynamic angle capturing soldier mid-dive with explosions erupting around him"
+    focus: "soldier's desperate leap with debris clouds and flying earth fragments"
+    depth: "foreground shows detailed debris and explosion effects, middle ground features diving soldier, background reveals continuous battlefield explosions"

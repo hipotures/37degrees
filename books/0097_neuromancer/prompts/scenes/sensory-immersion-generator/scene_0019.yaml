@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Coffee grounds scattered across interface console"
+  setting:
+    time: "2030s, early morning in safe house preparation area"
+    location: "improvised command center in abandoned building, cybernetics equipment mixed with basic survival needs"
+    weather: "cool morning air entering through broken windows"
+  characters:
+    - appearance: "24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet, pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible at temples"
+      clothing: "worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive lifestyle"
+      position: "hunched over cybernetics console, hands shaking from stimulant withdrawal"
+      action: "accidentally spilling ground coffee across interface surface, dark granules mixing with electronic components"
+  scene:
+    mainElements: "cybernetics interface console with scattered coffee grounds, electronic components partially buried under dark granules, improvised coffee preparation area nearby, morning light entering through damaged windows"
+    details: "coffee grounds in various sizes creating textured pattern across smooth console surface, dark granules contrasting with metallic interface elements, residual coffee powder showing grinding process, electronic components partially obscured by scattered grounds, bitter scent suggested by visual evidence, no text or letters visible"
+    background: "abandoned building converted to temporary command center, mixture of high-tech equipment and basic survival necessities, urban decay visible through broken windows"
+    atmosphere: "harsh reality of underground operations where luxury items mix with survival necessities, bitter stimulants needed to maintain alertness during dangerous missions, improvised living conditions affecting even basic activities"
+  composition:
+    cameraAngle: "overhead shot showing coffee grounds scattered across console surface"
+    focus: "coffee ground texture and distribution suggesting bitter flavor through visual evidence"
+    depth: "extreme foreground showing detailed coffee ground patterns, middle ground featuring console interface, background revealing improvised command center environment"

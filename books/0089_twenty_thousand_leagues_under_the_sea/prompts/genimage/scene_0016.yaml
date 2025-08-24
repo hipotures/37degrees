@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1866, deep night in oceanic abyss where no sunlight penetrates
+    location: Abyssal trench system in deep Atlantic Ocean at crushing depths
+    weather: Complete darkness with powerful underwater currents and extreme pressure
+  characters: No characters present in this scene
+  scene:
+    mainElements: Terrifying underwater canyon system with walls disappearing into absolute blackness. Giant tentacles emerge
+      from hidden caves and crevices, belonging to colossal creatures that have never seen sunlight. Phosphorescent predators
+      patrol the trench depths with glowing lures and razor-sharp teeth. The environment represents the ocean's most dangerous
+      and unexplored regions.
+    details: Jagged rock formations create narrow passages where massive creatures can ambush prey. Bioluminescent displays
+      serve as warnings and hunting strategies among the abyssal predators. Crushing water pressure creates an environment
+      where only the most specialized life forms can survive. Underwater volcanic vents occasionally illuminate the darkness
+      with hellish red glow.
+    background: The trench extends infinitely downward, representing the Earth's last unexplored frontier where unknown dangers
+      lurk in perpetual darkness.
+    atmosphere: Primordial terror and dangerous beauty. This represents the ocean's capacity for creating life forms so alien
+      and threatening that they seem like monsters from nightmares. The abyss holds dangers that even Nautilus must navigate
+      carefully.
+  composition:
+    cameraAngle: Dramatic angle emphasizing the threatening presence of unseen creatures in the darkness
+    focus: The interplay between bioluminescent creatures and the threatening darkness of the deep trench
+    depth: Foreground shows immediate threats emerging from the darkness, middle ground features the hostile environment,
+      background disappears into infinite black depths
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

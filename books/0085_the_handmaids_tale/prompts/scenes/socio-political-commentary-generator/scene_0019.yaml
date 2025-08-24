@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Secret Book Exchange - Hidden Knowledge Transfer"
+  setting:
+    time: "Near future, late evening with dim artificial lighting"
+    location: "Hidden corner of basement or concealed room away from surveillance"
+    weather: "Indoor setting with minimal lighting to avoid detection"
+  characters:
+    - appearance: "Two women in Handmaid uniforms engaged in clandestine exchange of forbidden reading material"
+      clothing: "Standard red Handmaid dress with white winged bonnet that restricts peripheral vision, identical to all other Handmaids"
+      position: "Positioned close together in shadowy corner, bodies angled to conceal their activity from potential observers"
+      action: "Carefully passing forbidden book or written material between them, movements cautious and alert for discovery"
+  scene:
+    mainElements: "Small forbidden book or written material being secretly exchanged in location chosen specifically to avoid surveillance detection"
+    details: "The book represents banned literature - perhaps poetry, science, philosophy, or pre-Gilead women's writing. The exchange is conducted with extreme care and stealth. Lighting is minimal to avoid detection. The women's body language shows both the value of the forbidden knowledge and the extreme danger of possessing it."
+    background: "Concealed location showing efforts to avoid surveillance - perhaps basement corner, service area, or deliberately obscured space"
+    atmosphere: "Dangerous preservation of forbidden knowledge and intellectual resistance, where the simple act of reading becomes revolutionary"
+  composition:
+    cameraAngle: "Medium shot capturing the intimate secrecy of the knowledge exchange"
+    focus: "The forbidden book and the careful hand exchange dominate the center of the frame"
+    depth: "Secret exchange in foreground, concealed location details in background emphasizing the hidden nature of intellectual resistance"

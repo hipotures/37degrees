@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Gilead Propaganda Posters - Idealized Family Order"
+  setting:
+    time: "Near future, bright morning light"
+    location: "Government building corridor or public space in Gilead territory"
+    weather: "Indoor setting with clean artificial lighting"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Large propaganda posters mounted on clean white walls showing idealized Gilead family structures with Commanders, Wives, and Handmaids in harmonious biblical scenes"
+    details: "The posters feature pristine artwork showing smiling families in biblical dress, with slogans like Faith, Hope, and Charity and Under His Eye prominently displayed. Each poster shows the rigid caste system as natural and divinely ordained. The artistic style is reminiscent of Socialist Realist art but with religious iconography. Colors are muted blues, whites, and earth tones suggesting purity and tradition."
+    background: "Sterile government interior with polished marble floors, institutional lighting, and additional smaller informational displays about civic duties and religious observances"
+    atmosphere: "Sanitized perfection designed to present the regime's ideology as natural and beautiful, creating an unsettling contrast between the propaganda's perfection and the underlying control it represents"
+  composition:
+    cameraAngle: "Straight-on view of the wall displaying the posters"
+    focus: "The propaganda posters dominate the center of the frame with their idealized imagery"
+    depth: "Posters on wall in foreground, polished corridor extending into background, institutional lighting creating even illumination throughout"

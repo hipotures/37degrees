@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Multiple Angles Revealing Hidden Elements"
+  setting:
+    time: "January 2021, evening"
+    location: "Majestic but mostly empty opera house interior with ornate classical architecture"
+    weather: "Indoor performance space with controlled atmospheric conditions"
+  characters:
+    - appearance: "Adult woman in her late 20s, graceful artistic bearing befitting opera singer, refined features"
+      clothing: "Stage costume during performance or stylish coat in public spaces"
+      position: "Standing with elegant artistic poise or at opera hall stage"
+      action: "Performing with beautiful voice or moving with cultured artistic grace"
+    - appearance: "Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker appearance, tired expression"
+      clothing: "Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside"
+      position: "Standing with slight wariness, hand near laser rifle holster"
+      action: "Moving cautiously through environment with professional detachment"
+  scene:
+    mainElements: "Grand stage with measured dimensions, audience seats arranged in documented configurations, architectural details following classical design principles. Multiple sight lines reveal different aspects of same interaction - stage perspective shows performer's view, audience position reveals acoustic design, side angles expose backstage access and security vulnerabilities"
+    details: "Ornate decorative elements constructed according to historical architectural specifications, acoustic engineering designed for optimal sound distribution, seating capacity documented for safety regulations. From stage angle: performer's sight lines to entire auditorium. From audience position: full view of performance and architectural grandeur. From side angle: access corridors, emergency exits, concealed observation points. Each angle reveals information invisible from other positions"
+    background: "Cultural beauty contrasting with surrounding decay, architectural preservation within documented maintenance parameters"
+    atmosphere: "Multiple simultaneous perspectives revealing complete spatial relationships and hidden elements not visible from single viewpoint, no text or letters visible"
+  composition:
+    cameraAngle: "Rotating perspective showing opera house interaction from stage, audience, and side positions revealing hidden spatial elements"
+    focus: "Architectural sight lines and access points revealed through multiple viewing angles"
+    depth: "Multiple depth perspectives: stage-to-audience, audience-to-stage, and side-angle revealing previously hidden architectural elements and security considerations"

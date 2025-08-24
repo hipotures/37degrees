@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Suppliants' Desperate Gathering"
+  setting:
+    time: "Ancient Bronze Age Greece, morning"
+    location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+    weather: "Growing heat as sun climbs higher, harsh light on stone"
+  characters:
+    - appearance: "Mixed group of Theban citizens - elderly, young, families - all showing signs of plague's toll, thin faces, weakened bodies, desperate expressions"
+      clothing: "Simple rough chitones and himatia in faded earth tones, worn and patched garments showing poverty and suffering"
+      position: "Gathered densely in courtyard before palace steps, some kneeling, others standing with bowed heads"
+      action: "Holding olive branches wrapped with white wool, reaching toward palace, some with arms raised in supplication"
+  scene:
+    mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+    details: "Olive branches wrapped with white wool carried by suppliants, traditional symbols of supplication and desperate pleading to the gods and rulers. Bodies pressed together in shared misery, children clinging to parents, elderly supported by younger family members. Shadows of palace walls create patterns on the crowd. No text or letters visible"
+    background: "Palace steps rising above the crowd, massive closed doors of authority beyond reach"
+    atmosphere: "Collective desperation and hope mingled together, community united in suffering but still trusting in their king's power to save them"
+  composition:
+    cameraAngle: "Wide shot from behind the crowd, showing them facing the palace"
+    focus: "The mass of suppliants with their olive branches, creating sea of desperate humanity"
+    depth: "Foreground shows closest suppliants with detailed faces, middle ground captures the crowd's density, background shows palace steps rising above them"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fresh Bread Steam Clouds"
+  setting:
+    time: "Late 10th century Japan, early morning in palace kitchens"
+    location: "Imperial Palace Heian-kyō service areas, stone ovens and preparation rooms where court meals are made"
+    weather: "Cool morning air creating dramatic steam contrast"
+  characters:
+    - appearance: "Japanese kitchen servant in simple work clothing, practical cotton robes tied back for work, hair covered with cloth, hands dusted with flour"
+      clothing: "Simple undyed cotton work robes, practical tabi socks, cloth head covering, flour-dusted apron"
+      position: "Removing freshly baked rice cakes and steamed buns from stone ovens"
+      action: "Lifting hot baked goods with wooden paddles, creating dramatic steam clouds, wiping sweat from forehead with flour-covered hands"
+  scene:
+    mainElements: "Stone ovens built into palace kitchen walls, wooden work surfaces covered with flour, bamboo steaming baskets, ceramic storage jars"
+    details: "Fresh baked rice cakes release dramatic steam clouds when exposed to cool morning air, flour particles dance and swirl in steam currents like tiny snowflakes, vapor rises in distinct spiraling patterns from hot surfaces, bread crusts create crackling sounds and visible moisture release, condensation forms on cool stone surfaces creating temporary patterns, wooden paddles show flour residue and heat marks, steam creates temporary veils that reveal and conceal kitchen activity, no text or letters visible"
+    background: "Imperial Palace kitchen complex with stone work surfaces, hanging copper pots, storage areas filled with ceramic jars and bamboo baskets"
+    atmosphere: "Warm yeasty richness suggested by visible steam patterns, comfort and nourishment implied through thermal visualization, humble kitchen artistry creating aromatic clouds"
+  composition:
+    cameraAngle: "Medium shot capturing steam patterns and flour particle movement"
+    focus: "Steam spiral patterns and flour dust interaction with thermal currents"
+    depth: "Steam details and flour particles in foreground, working figure in middle ground, kitchen equipment and storage in background"

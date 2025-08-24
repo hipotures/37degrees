@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: March 1897, early morning in house corridors
+    location: Service corridors and back stairs of respectable Port Burdock house, hidden passages used by domestic staff
+    weather: Gray dawn light filtering through servant quarters windows
+  characters:
+  - appearance: Young housemaid with sharp observant eyes, practical bearing, quietly efficient manner
+    clothing: Simple gray dress with white apron and cap, practical shoes for house work
+    position: Pressed against wall in service corridor, peering around corner toward main rooms
+    action: Observing strange goings-on while remaining unseen, carrying cleaning supplies as cover
+  scene:
+    mainElements: Narrow service corridor with plain walls, back stairs leading to main floors, doorways offering glimpses
+      into grander rooms beyond, servant's invisible perspective on household mysteries
+    details: Housemaid's keen eyes catching details others miss, cleaning rags and brushes providing legitimate cover for
+      presence, early morning shadows concealing her observation post, dust motes disturbed by invisible passage
+    background: Grand household spaces visible through doorways, contrast between servants' plain quarters and elegant main
+      rooms, morning routine beginning upstairs
+    atmosphere: Servant class witnessing mysteries while remaining unnoticed, hidden knowledge of household secrets, powerless
+      observer of supernatural events
+  composition:
+    cameraAngle: Low angle from servant's concealed position looking toward main house
+    focus: Contrast between servant's hidden vantage point and mysterious activities beyond
+    depth: Foreground shows detailed servant quarters, middle ground captures doorway glimpses of mystery, background reveals
+      elegant household spaces, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

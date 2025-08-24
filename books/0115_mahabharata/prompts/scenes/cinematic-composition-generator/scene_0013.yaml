@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Over-shoulder - Karna's Final Arrow"
+  setting:
+    time: "1000-800 BCE, late afternoon"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Dramatic lighting with sun beginning to set"
+  characters:
+    - appearance: "Male, 35-40 years old, potężna atletyczna budowa, wrodzona złota zbroja kawacza będąca częścią skóry, złote kolczyki kundala lśniące na twarzy"
+      clothing: "Złote szaty i złoty pancerz nadające promienny słoneczny wygląd"
+      position: "Partially visible from behind, drawing bow for crucial shot"
+      action: "Przystojny potężny wojownik wyrażający tragiczną dumę i lojalność"
+  scene:
+    mainElements: "View over Karna's shoulder showing his target, golden armor gleaming in sunset light, bow drawn to full tension, arrow nocked and aimed"
+    details: "Golden armor kavach visible as part of skin surface, earrings kundal catching light, muscular arm and shoulder drawing bowstring, fletched arrow ready for release, no text or letters visible"
+    background: "Distant target warrior on opposite battlefield, other combats continuing around, smoke and dust of ongoing war, dying light creating long shadows"
+    atmosphere: "Climactic moment of greatest archer's final shot, tension in drawn bowstring, sounds of battle fading to focus on this crucial moment"
+  composition:
+    cameraAngle: "Over-the-shoulder shot following Karna's aim toward his target"
+    focus: "Tracking line of sight from legendary archer to distant enemy"
+    depth: "Foreground shoulder and bow arm, middle ground arrow trajectory path, background target and battlefield, no text or letters visible"

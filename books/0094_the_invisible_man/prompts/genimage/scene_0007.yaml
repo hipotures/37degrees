@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: February 1897, midday confrontation in inn parlor
+    location: Coach and Horses Inn main parlor, scene of dramatic revelation
+    weather: Bright afternoon sunlight streaming through windows
+  characters:
+  - appearance: Completely concealed figure wrapped entirely in white bandages from head to toe, only pink artificial nose
+      visible, large blue-tinted spectacles with side shields covering eye area
+    clothing: Empty clothing moving without visible wearer, coat sleeves gesturing while hollow, trouser legs walking independently,
+      hat floating in air, creating unsettling spectacle of animation without occupant
+    position: Center of room, in process of removing disguise, partially revealed
+    action: Tearing away bandages and artificial features in dramatic revelation
+  - appearance: Middle-aged innkeeper woman with practical bearing, sturdy build suited to inn work, determined expression,
+      graying hair pulled back
+    clothing: Dark wool dress with white apron, practical working garments suited to inn management, small lace cap typical
+      of respectable innkeeper
+    position: Pressed against far wall with other villagers
+    action: Backing away from mysterious disturbances in visible fear
+  scene:
+    mainElements: Bandages and clothing falling away to reveal nothing beneath, artificial nose flying through air, hat floating
+      independently, villagers recoiling in terror
+    details: Sunbeams illuminating floating fabric, bandages unraveling in spirals, spectacles hanging in mid-air, villagers'
+      faces frozen in disbelief, furniture beginning to move on its own
+    background: Familiar inn interior transformed into scene of supernatural horror, afternoon light making impossibility
+      starkly visible, rural normalcy shattered
+    atmosphere: Moment of terrible revelation transforming mystery into horror, rational world collapsing into supernatural
+      chaos, power dynamic completely reversed
+  composition:
+    cameraAngle: Low angle from villagers' perspective looking up at revelation
+    focus: Empty spaces where solid body should be, emphasis on impossible absence
+    depth: Foreground shows terrorized faces, middle ground captures floating garments, background reveals familiar space
+      made alien, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

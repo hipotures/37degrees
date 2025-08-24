@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, period of Imperial decline
+    location: former Imperial colony world on galactic periphery, showing effects of Imperial withdrawal and local collapse
+    weather: uncontrolled natural weather with failing atmospheric management systems
+  characters:
+  - appearance: former Imperial citizens adapting to post-collapse conditions, local leaders attempting to maintain order,
+      various ages showing effects of technological regression
+    clothing: mixture of deteriorating Imperial-style clothing and locally-made replacements, improvised protective gear,
+      symbols of former Imperial authority now modified for local use
+    position: struggling to maintain failing infrastructure, organizing local defense and governance, scavenging Imperial
+      technological remnants
+    action: attempting repairs with insufficient knowledge, adapting Imperial equipment for simpler purposes, establishing
+      local authority structures replacing Imperial administration
+  scene:
+    mainElements: deteriorating Imperial infrastructure beyond local maintenance capability, improvised solutions using available
+      materials, evidence of social and technological regression, abandoned Imperial facilities
+    details: Imperial buildings showing structural failure and improvised repairs, technological equipment functioning partially
+      or repurposed for simpler uses, local markets trading Imperial artifacts as valuable commodities, defensive preparations
+      using primitive weapons alongside failing Imperial technology, religious or quasi-religious reverence for Imperial technological
+      remnants
+    background: landscape showing abandoned Imperial development projects, natural environment reclaiming artificial structures,
+      distant signs of other struggling settlements
+    atmosphere: post-Imperial decline and local adaptation, loss of technological capability leading to social regression,
+      transformation of Imperial subjects into independent but struggling communities
+  composition:
+    cameraAngle: wide perspective showing relationship between failing Imperial legacy and local adaptation
+    focus: technological and social regression in post-Imperial periphery
+    depth: foreground local survival activities, middle ground failing Imperial infrastructure, background abandoned Imperial
+      projects
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

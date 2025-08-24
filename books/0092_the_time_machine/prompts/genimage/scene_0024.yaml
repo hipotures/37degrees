@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Multiple revolutionary periods showing repeated social upheaval patterns
+    location: Same public square across different centuries of social change
+    weather: Revolutionary weather - storms accompanying social upheaval across time
+  characters:
+  - appearance: Crowds from different revolutionary periods - ancient slave revolts, medieval peasant uprisings, industrial
+      worker strikes, future unknown social movements - all occupying same demonstration space
+    clothing: Revolutionary attire across centuries - simple worker clothes through different eras, showing consistent patterns
+      of oppressed versus oppressor dress
+    position: Same crowd positions and formation patterns repeated across historical uprisings
+    action: Identical revolutionary activities echoing through time - speeches, protests, resistance movements following same
+      patterns across centuries
+  scene:
+    mainElements: Public square serving as eternal stage for social revolution - same architectural spaces hosting different
+      centuries of popular uprising, platform structures serving speakers across time periods
+    details: Revolutionary symbols evolve while underlying patterns remain constant - raised fists, banners, crowd formations
+      identical across vastly different historical contexts. Architecture shows damage and repair from repeated uprisings
+      - stones replaced, buildings rebuilt, same spaces contested across centuries
+    background: Authority structures responding identically across time - same defensive positions, same suppression tactics,
+      suggesting eternal conflict patterns
+    atmosphere: Cyclical nature of social change, human patterns transcending technological development, eternal struggle
+      between classes regardless of specific historical context, hope and tragedy repeating endlessly, no text or letters
+      visible
+  composition:
+    cameraAngle: Elevated view showing crowd patterns and architectural consistency
+    focus: Central platform area where revolutionary activities concentrate across time
+    depth: Revolutionary crowds in foreground, consistent architecture in middle ground, repeating authority responses in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

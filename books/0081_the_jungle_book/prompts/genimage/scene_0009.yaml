@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, night
+    location: The Cold Lairs, an abandoned, ruined city deep in the heart of the jungle.
+    weather: A still, moonlit night.
+  characters:
+  - appearance: A massive rock python, 'thirty feet' long (over 9 meters). His skin has a 'beautiful, mottled, brownish-yellow
+      pattern.'
+    clothing: None
+    position: Coiled in the center of a marble courtyard.
+    action: Performing his hypnotic 'hunger dance.' He sways rhythmically, his voice a low hum, his eyes mesmerizing the monkeys.
+  - appearance: A chaotic, chattering mass of monkeys (langurs).
+    clothing: None
+    position: Gathered in a circle around Kaa.
+    action: Frozen in place, their eyes fixed on the swaying python. They are completely under his spell, inching closer to
+      their doom.
+  - appearance: A large, black panther.
+    clothing: None
+    position: Watching from the shadows, a safe distance away.
+    action: Awed and terrified by the power of Kaa's dance.
+  - appearance: A large sloth bear.
+    clothing: None
+    position: Huddled near Bagheera, equally impressed and frightened.
+    action: Muttering in fear and wonder at the ancient power being unleashed.
+  scene:
+    mainElements: The rescue of Mowgli. Kaa the python uses his hypnotic dance to subdue the Bandar-log.
+    details: The moonlight casts long, eerie shadows across the marble courtyard. Kaa's scales shimmer as he moves. The monkeys
+      are a silent, captivated audience, their usual chaos replaced by a deadly stillness. no text or letters visible
+    background: The ruined city of the Cold Lairs, a silent witness to the ancient magic.
+    atmosphere: Hypnotic, terrifying, and awe-inspiring. The scene is a display of ancient, amoral power that transcends the
+      ordinary laws of the jungle. no text or letters visible
+  composition:
+    cameraAngle: Low-angle shot, looking up at the swaying form of Kaa, emphasizing his power and size.
+    focus: The mesmerized faces of the monkeys, their eyes wide and vacant.
+    depth: 'Foreground: the entranced monkeys. Middle ground: the coiling, dancing form of Kaa. Background: Bagheera and Baloo
+      watching from the shadows.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

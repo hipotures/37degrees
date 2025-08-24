@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Tibe's View of Royal Court - Strategic Opportunity"
+  setting:
+    time: "1491 Ekumen calendar, daytime, interior palace lighting"
+    location: "Stone throne room in royal palace of Erhenrang, Karhide capital on planet Gethen, massive stone architecture with heavy shadows"
+    weather: "Interior space, cold stone environment"
+  characters:
+    - appearance: "Middle-aged Gethenian politician around 50 years old, face covered with network of fine wrinkles, long-toothed smile with multiple hidden meanings"
+      clothing: "Rich Karhidish noble attire in colors representing his political faction, ornate formal robes of high court official"
+      position: "Standing among courtiers, positioned to observe both king and foreign visitor"
+      action: "Watching diplomatic exchange while calculating political advantages, studying king's erratic behavior and foreign threat for opportunities to advance his agenda"
+    - appearance: "Middle-aged Gethenian ruler 50-60 years old, face lined with shadows expressing paranoia and inner torment, later showing universal grief after personal loss"
+      clothing: "Simple white tunic, white shirt and pants, single gold ring as only symbol of royal authority, deliberately minimal royal attire"
+      position: "Seated on throne, displaying increasing agitation during audience"
+      action: "Showing signs of mental instability and paranoid suspicion toward foreign visitor"
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves, but garments sit differently due to his height and build"
+      position: "Standing before throne as supplicant"
+      action: "Presenting credentials while growing visibly frustrated with royal reception"
+  scene:
+    mainElements: "Stone throne room with stark architecture, simple throne emphasizing royal instability, handful of courtiers positioned for maximum political advantage, shadows cast by narrow windows"
+    details: "King's obvious mental fragility providing opportunity for strong leadership, foreign visitor's alien appearance and suspicious mission creating perfect justification for nationalist agenda, cold stone environment reinforcing need for decisive action, gold ring on royal hand symbolizing power ready to be claimed, no text or letters visible"
+    background: "Court officials whispering among themselves, stone archways leading to private chambers where real political business occurs, heavy architecture suggesting ancient traditions ready for reform"
+    atmosphere: "Political calculation disguised as patriotic concern - unstable king and foreign threat create perfect conditions for seizing power and implementing nationalist agenda for Karhide's protection"
+  composition:
+    cameraAngle: "Strategic angle allowing observation of all key players, emphasizing political triangulation"
+    focus: "Opportunistic assessment of weakness in leadership and foreign threat requiring strong nationalist response"
+    depth: "Foreground: calculating politician, middle: unstable king and foreign threat, background: court structure ready for new leadership"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Feast table with steam from different dishes mingling in air"
+  setting:
+    time: "1917 autumn evening, special occasion meal"
+    location: "abandoned French manor house converted to officers' mess, elegant dining room repurposed for military feast, soldiers sharing captured provisions"
+    weather: "cool autumn evening, warm indoor air contrasting with cold outside"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "seated at improvised feast table surrounded by other soldiers"
+      action: "observing steam patterns rising from various dishes, watching vapors mingle and combine in air above table, amazed by abundance after military rations"
+  scene:
+    mainElements: "long table covered with various hot dishes creating complex steam patterns, soldiers seated around feast sharing captured French provisions, steam from different foods mingling in air above table, elegant manor dining room contrasting with military occupation"
+    details: "steam from multiple dishes creating layered vapor patterns in air above table, different foods producing distinct steam characteristics showing temperature and moisture content, roasted meat steam mixing with vegetable vapors creating complex aromatic clouds, hot soup producing thick steady steam columns while bread releases lighter moisture vapors, wine glasses catching condensation from surrounding steam, captured French delicacies producing unfamiliar steam patterns, soldiers' faces illuminated by steam-diffused candlelight, feast representing temporary abundance in wartime scarcity, no text or letters visible"
+    background: "elegant French manor interior with ornate furnishings damaged by military occupation, crystal chandeliers hanging over military feast, fine dining room repurposed for soldiers' meal"
+    atmosphere: "rare abundance and luxury contrasting with usual military rations, soldiers experiencing complex flavors through visual steam patterns, temporary escape from war's deprivations through captured feast"
+  composition:
+    cameraAngle: "medium shot showing feast table with rising steam patterns and seated soldiers"
+    focus: "complex steam patterns rising from various dishes and mingling in air above table"
+    depth: "foreground shows detailed steam formation from nearest dishes, middle ground features soldiers around table, background reveals elegant manor interior adapted for military use"

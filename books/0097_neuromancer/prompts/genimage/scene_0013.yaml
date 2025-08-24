@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 2030s, immediately following brief rainstorm in evening
+    location: parking area outside abandoned cybernetics facility, hot pavement creating steam from rain contact
+    weather: brief storm clearing to reveal humid air filled with rising vapor
+  characters:
+  - appearance: tall athletic woman in late twenties, pale skin stretched over lean muscle, dark hair cropped short, surgically
+      implanted mirrored lenses covering entire eye sockets like permanent sunglasses reflecting world back at observer, four-centimeter
+      retractable scalpel blades hidden beneath fingernails
+    clothing: form-fitting black leather garments designed for combat mobility, reinforced synthetic fabric suit with hidden
+      pockets for weapons, soft-soled boots for silent movement, everything in matte black
+    position: standing on steaming asphalt, feet planted carefully on hot surface
+    action: breathing deeply while surrounded by rising vapor, chest expanding to take in humid air filled with scent of hot
+      rain on pavement
+  scene:
+    mainElements: extensive asphalt surface covered with thin layer of rainwater, visible steam rising from heated pavement,
+      abandoned facility in background, storm clouds clearing overhead
+    details: vapor clouds rising from wet asphalt in complex patterns, steam creating momentary visibility of air currents,
+      water evaporating rapidly from superheated surface, humidity visible as atmospheric haze, rain droplets still falling
+      occasionally creating fresh steam bursts, no text or letters visible
+    background: abandoned cybernetics facility with broken windows, storm clouds moving away revealing patches of sky, distant
+      city sprawl visible through clearing weather
+    atmosphere: intense humidity creating almost tangible air quality, cleansing sensation of rain meeting heat, temporary
+      transformation of harsh environment into something more livable through moisture
+  composition:
+    cameraAngle: low angle shot showing steam rising around figure with clearing sky above
+    focus: steam patterns rising from wet asphalt making rain scent visible through vapor movement
+    depth: foreground showing detailed steam patterns on pavement, middle ground featuring figure breathing in humid air,
+      background revealing clearing storm and abandoned facility
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, night
+    location: The Inner Station.
+    weather: A dark, moonless night.
+  characters:
+  - appearance: Mr. Kurtz, a skeletal figure.
+    clothing: Minimal, ragged clothing.
+    position: Crawling on all fours through the grass, away from the steamboat and back towards the jungle.
+    action: He is a man possessed, drawn back to the darkness that has consumed him. His movement is like that of an insect
+      or a reptile.
+  - appearance: Charles Marlow, 32.
+    clothing: Simple sailor's clothes.
+    position: Standing over Kurtz.
+    action: He is trying to reason with Kurtz, to bring him back to the boat, back to civilization. His face is a mixture
+      of pity and horror.
+  scene:
+    mainElements: Marlow's confrontation with Kurtz in the jungle. A struggle for the soul of a man.
+    details: The jungle is a black, oppressive wall of darkness. The only light comes from the distant fires of the native
+      camp, which cast a hellish, red glow on the scene. The air is filled with the sound of drums and chanting. The grass
+      and leaves of the jungle seem to writhe and twist, as if alive. no text or letters visible
+    background: The distant, flickering lights of the native camp.
+    atmosphere: A scene of primal, psychological horror. Marlow is not just fighting for Kurtz's body, but for his soul, against
+      the seductive power of the darkness. no text or letters visible
+  composition:
+    cameraAngle: A high-angle shot, looking down on the two men, making them seem small and insignificant in the face of the
+      vast, dark jungle.
+    focus: The skeletal, insect-like form of Kurtz, crawling through the grass.
+    depth: 'Foreground: the writhing, living jungle. Middle ground: Kurtz and Marlow. Background: the red glow of the native
+      camp.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

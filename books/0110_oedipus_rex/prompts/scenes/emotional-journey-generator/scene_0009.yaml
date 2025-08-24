@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Defensive Brotherhood Strained"
+  setting:
+    time: "Ancient Bronze Age Greece, late afternoon"
+    location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+    weather: "Oppressive heat under heavy clouds, air thick with tension"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing at edge of palace steps, turned aggressively toward Creon"
+      action: "Gesturing accusingly with clenched fists, face flushed with paranoid anger"
+    - appearance: "Leaner, more wiry man in his fifties, graying hair and beard neatly trimmed, intellectual strength rather than physical, calm rational bearing"
+      clothing: "High-quality but modest linen chiton and wool himation in subdued earth tones - olive green, gray, or dark blue, practical rather than luxurious"
+      position: "Standing his ground in courtyard, maintaining dignified distance"
+      action: "Raising hands in defensive gesture, face showing hurt and bewilderment at accusations"
+  scene:
+    mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+    details: "Two men who should be allies now facing each other as enemies. Oedipus's royal regalia looking disheveled - himation slipping from shoulder, diadem slightly askew. Creon's calm earth-toned clothing contrasting with Oedipus's agitated crimson and purple. Cracks in courtyard stones becoming more prominent, weeds seeming to grow larger. No text or letters visible"
+    background: "Two-story stone facade with large central wooden doors flanked by smaller doors, palace seeming to loom over the confrontation"
+    atmosphere: "Family bonds and political alliances fracturing, paranoia destroying trust, relationships turning hostile"
+  composition:
+    cameraAngle: "Wide shot showing both men with palace steps creating physical and symbolic barrier between them"
+    focus: "The breakdown of brotherhood and alliance, emphasized by body language and positioning"
+    depth: "Foreground shows Creon's defensive stance, middle ground captures the space between them, background shows Oedipus elevated but isolated"

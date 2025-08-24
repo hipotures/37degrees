@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, pre-dawn
+    location: The highest point on the island, a rocky peak with a commanding view
+      of the surrounding ocean.
+    weather: Windy and cold. The sky is just beginning to lighten.
+  characters:
+  - appearance: Identical twins, stocky and energetic, with tousled fair hair. They
+      are so alike they are treated as a single entity. Move in unison, often finishing
+      each other's sentences. Their expressions are usually cheerful but become increasingly
+      fearful.
+    clothing: Matching torn shorts and shirts, becoming more disheveled over time.
+    position: Huddled together by the dying signal fire.
+    action: They are asleep, but are starting to stir as a shadow falls over them.
+  scene:
+    mainElements: A dead parachutist, a casualty of an aerial battle high above the
+      island, is descending from the sky. This is the 'beast from the air'.
+    details: The scene is shot from the groggy, terrified perspective of Samneric.
+      The parachutist is a confusing, nightmarish figure. The parachute lines are
+      tangled in the rocks, and the wind catches the silk, making the dead body seem
+      to move, to sit up and fall down like a grotesque marionette. The figure is
+      silhouetted against the dawn sky, its form indistinct and monstrous.
+    background: The dark ocean and the first hints of dawn. The signal fire is just
+      a pile of glowing embers.
+    atmosphere: A moment of pure, surreal horror. The sign from the world of grown-ups
+      is not one of hope, but of death and decay. The line between reality and nightmare
+      is blurring.
+  composition:
+    cameraAngle: A low, canted angle from the ground where Samneric are sleeping,
+      looking up at the terrifying, dancing silhouette of the dead parachutist.
+    focus: The tangled parachute lines that make the dead body seem alive.
+    depth: 'Foreground: The dying embers of the signal fire. Middle ground: The terrifying
+      figure of the parachutist. Background: The pale, dawn sky.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

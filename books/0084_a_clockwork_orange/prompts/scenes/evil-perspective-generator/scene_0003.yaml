@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Aftermath at 'HOME'"
+  setting:
+    time: "Near future, night"
+    location: "A modern, isolated house in the countryside."
+    weather: "A storm is raging outside."
+  characters:
+    - id: "f_alexander"
+      name: "F. Alexander"
+      description_block: |
+        A middle-aged writer with a thoughtful, intellectual face. He wears glasses and has graying hair. Dresses in comfortable, academic-style clothing, such as a tweed jacket and corduroy trousers. Often seen sitting at his desk, surrounded by books.
+      position: "Sitting in a chair, his head in his hands."
+      action: "He is in a state of shock and despair."
+  scene:
+    mainElements: "The scene is the aftermath of a violent home invasion. The house has been ransacked, and the owner, F. Alexander, is left to deal with the psychological trauma."
+    details: "The room is in disarray. Books are torn and scattered on the floor. A typewriter has been smashed. A large window is broken, and the wind and rain are blowing into the room. The scene is one of violation and desecration."
+    background: "The dark, stormy night outside."
+    atmosphere: "A sense of profound violation and despair. The sanctity of the home has been shattered, and the intellectual world of the writer has been destroyed by mindless violence."
+  composition:
+    cameraAngle: "A wide shot that captures the full extent of the destruction. The camera is positioned outside the broken window, looking in."
+    focus: "The despairing figure of F. Alexander in the midst of the chaos."
+    depth: "Foreground: The broken window. Middle ground: The ransacked room. Background: F. Alexander."

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Burglary Discovery - Vicar's Violation"
+  setting:
+    time: "February 1897, early morning after church burglary"
+    location: "Village vicarage study, ransacked room showing signs of invisible intruder"
+    weather: "Gray dawn light filtering through disturbed curtains"
+  characters:
+    - appearance: "Local vicar with kindly but concerned expression, elderly gentleman with gentle features"
+      clothing: "Dark clerical robes with white collar, hastily donned over nightclothes"
+      position: "Standing in doorway surveying destruction, hand pressed to chest in shock"
+      action: "Stepping carefully through scattered belongings, searching for missing items"
+    - appearance: "Vicar's wife, elderly woman with frightened expression"
+      clothing: "Dark wool dress hastily put on, shawl wrapped around shoulders"
+      position: "Peering anxiously from behind husband"
+      action: "Pointing at disturbed furniture while whispering fearfully"
+  scene:
+    mainElements: "Study furniture overturned and scattered, books thrown from shelves, desk drawers pulled out, clear signs of systematic search, morning light revealing full extent of violation"
+    details: "Papers scattered across floor, empty cash box lying open, leather straps missing from desk, inkwell overturned creating dark stain, family portraits knocked askew"
+    background: "Church visible through window, peaceful village morning contrasting with indoor chaos, sense of sacred space violated"
+    atmosphere: "Sanctity destroyed by invisible force, helpless confusion in face of impossible crime, violation of trust and safety in sacred space"
+  composition:
+    cameraAngle: "Wide shot from vicar's perspective showing full destruction"
+    focus: "Systematic nature of ransacking suggesting intelligence behind chaos"
+    depth: "Foreground shows specific damaged items, middle ground captures overall destruction, background reveals peaceful exterior world, no text or letters visible"

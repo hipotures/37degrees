@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Royal Pardon Proclaimed in Throne Hall"
+  setting:
+    time: "Midday, Sasanian Persian Empire"
+    location: "Grand throne hall filled with court officials, ministers, and representatives of the kingdom"
+    weather: "Bright daylight streaming through high windows illuminating formal ceremony"
+  characters:
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Initially rigid and imperious, gradually softening to leaning forward attentively, shoulders relaxing over time"
+      action: "Listening intently to stories, facial expressions shifting from stone-faced to engaged, occasional questioning gestures"
+    - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+      clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+      position: "Seated gracefully with erect spine, hands positioned expressively for storytelling, calm and dignified demeanor"
+      action: "Narrating with subtle hand gestures, maintaining steady eye contact, speaking with measured cadence"
+    - appearance: "Elderly man aged 55 years with lined face showing deep worry and grief, graying beard, dignified bearing of high court official"
+      clothing: "Black formal robes of chief minister with insignia of office, turban indicating high rank"
+      position: "Standing near throne with expression of profound relief and gratitude"
+      action: "Receiving royal proclamation with tears of joy, bowing in thankfulness"
+  scene:
+    mainElements: "Magnificent throne hall with soaring columns and Persian architectural splendor, court assembled in formal ceremony, throne elevated above assembled officials"
+    details: "Bright natural light illuminating ornate carved stonework, court officials in ceremonial dress standing in organized ranks, silk banners and royal insignia displayed prominently, guards with ceremonial weapons standing at attention, Persian carpets covering marble floors, incense burning in golden censers, no text or letters visible"
+    background: "High vaulted ceiling with painted decorations, tall windows allowing brilliant daylight, distant courtiers and servants witnessing historic moment"
+    atmosphere: "Joyous transformation of court from place of fear to celebration, sounds of relief and celebration beginning, scents of ceremonial incense, sense of justice restored and kingdom redeemed"
+  composition:
+    cameraAngle: "Wide shot showing full ceremony with all participants"
+    focus: "Royal couple on throne as center of kingdom's transformation"
+    depth: "Throne platform in center, court officials in foreground and middle ground, vast hall extending in background"

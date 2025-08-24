@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1780s, late afternoon
+    location: Family library in Frankenstein villa overlooking Lake Geneva, Switzerland
+    weather: Clear autumn day with golden sunlight streaming through tall windows
+  characters:
+  - appearance: Young man aged approximately 19-28 years, originally healthy build but becomes increasingly pale and gaunt
+      through obsession and psychological torment, with eyes that grow wild and haunted in appearance, facial features showing
+      progressive physical deterioration from guilt and sleeplessness
+    clothing: Well-tailored late 18th century gentleman's attire including dark wool frock coat with high collar, fitted waistcoat,
+      white linen shirt with high neckline secured by white cravat, knee-length breeches or long trousers, leather boots,
+      in Arctic scenes heavy fur-lined coat and boots for extreme cold protection
+    posture: Initially confident and energetic bearing, progressively becoming nervous and agitated with frequent restless
+      movement, shoulders often hunched from psychological burden, hands trembling during periods of extreme distress
+    action: Conducting scientific experiments with intense concentration, fleeing in panic and horror, pursuing his creation
+      across vast distances, writing feverishly in notebooks, or lying weakened by illness and exhaustion
+  scene:
+    mainElements: Mahogany bookshelves reaching ceiling height filled with leather-bound volumes, young Victor seated at polished
+      wooden desk surrounded by open books on alchemy and natural philosophy, afternoon sunlight illuminating dust motes floating
+      in air, peaceful Lake Geneva visible through diamond-paned windows
+    details: Ancient alchemical texts by Paracelsus and Cornelius Agrippa spread across desk surface, quill pen in Victor's
+      eager hand as he copies mysterious formulas into personal notebook, brass candlesticks waiting unlit for evening study,
+      comfortable upholstered chair positioned for reading, Persian carpet beneath feet, oil paintings of ancestors watching
+      from walls, distant Alpine peaks creating serene backdrop through windows, no text or letters visible
+    background: Elegant villa interior with polished wooden floors, carved ceiling beams, heavy curtains framing windows,
+      formal portraits creating sense of family heritage and respectability
+    atmosphere: Youthful enthusiasm and innocent curiosity about natural mysteries, warm domestic security contrasting with
+      dangerous knowledge being absorbed, sense of unlimited possibility and ambition beginning to take root in young mind
+  composition:
+    cameraAngle: Medium shot from Victor's perspective looking down at fascinating books
+    focus: Ancient alchemical texts appearing to glow with hidden knowledge and promise
+    depth: Foreground shows illuminated book pages, middle ground captures Victor's eager expression, background reveals peaceful
+      family environment soon to be destroyed by his ambitions
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

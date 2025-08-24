@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Inventor's Hands - Young Genius to Elder Sage"
+  setting:
+    time: "1850s to 1895, morning light consistency"
+    location: "Same laboratory workbench position across forty years"
+    weather: "Clear morning light streaming through workshop skylight"
+  characters:
+    - appearance: "Triple temporal overlay of same man - young student's hands at 20, mature inventor's hands at 35, distinguished gentleman's hands at 40, all working at identical bench position"
+      clothing: "Hands show progression from simple student sleeves to fine gentleman's cuffs, same wedding ring growing worn with decades of wear"
+      position: "Identical pose at workbench, hands manipulating scientific instruments"
+      action: "Layered transparencies showing same person learning, practicing, and mastering scientific craft across lifetime"
+  scene:
+    mainElements: "Time-lapse composition of single person's hands aging while performing identical precise scientific work, showing skill development from uncertain youth to confident mastery"
+    details: "Young hands tentative with delicate brass instruments, middle-aged hands confident and sure, older hands showing liver spots but steady with experience. Tools remain consistent across time layers, showing their role as constants while human skill evolves. Wedding ring moves from bright gold to worn smooth metal"
+    background: "Workshop tools and surfaces remain static while hands age, emphasizing human temporality against enduring objects"
+    atmosphere: "Dedication to craft spanning lifetime, accumulation of knowledge through repetition, hands as repositories of skill and memory, wisdom earned through decades of practice, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot focusing on hands and immediate work area"
+    focus: "Overlapping transparent hands showing temporal progression of same person"
+    depth: "Hands and instruments sharp in foreground, workbench surface in middle ground, blurred tool rack in background"

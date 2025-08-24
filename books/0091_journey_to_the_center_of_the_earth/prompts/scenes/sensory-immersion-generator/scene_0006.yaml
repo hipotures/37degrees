@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Echo of Voices Through Stone Galleries"
+  setting:
+    time: "1863, deep underground"
+    location: "Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces"
+    weather: "Still underground air with perfect acoustic properties"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+  scene:
+    mainElements: "Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits, cathedral-like caverns with towering stone formations"
+    details: "Open mouths captured mid-speech with professor gesturing emphatically, sound waves made visible through disturbed stone dust dancing in air currents created by vocal vibrations, lamp flame flickering rhythmically in response to voice-generated air movements, multiple overlapping shadows cast by speakers creating visual rhythm on tunnel walls, crystalline formations acting as natural resonators with hairline fractures vibrating sympathetically to human voices, ripples spreading through accumulated ground dust with each spoken word, no text or letters visible"
+    background: "Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and ancient geological time"
+    atmosphere: "Acoustic architecture of underground spaces amplifying human communication, visual representation of sound traveling through solid stone and returning transformed"
+  composition:
+    cameraAngle: "Wide shot showing figures positioned for acoustic effect"
+    focus: "Speaking figures with visual sound effects in dust and light"
+    depth: "Foreground shows sound source, middle ground captures wave propagation, background reveals acoustic space dimensions"

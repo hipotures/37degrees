@@ -1,0 +1,114 @@
+canon:
+  characters:
+    - id: "mowgli"
+      name: "Mowgli"
+      description_block: |
+        characters:
+          - name: "Mowgli"
+            age: "Variable, from infant to 17 years old, specific to scene"
+            appearance: "Slender, yet muscular and hardy build. Brown skin. Intense, direct gaze that animals cannot withstand. No textual data on eye or hair color, but commonly depicted with long, black, disheveled hair appropriate for the Indian context and wild upbringing. Has scars and calluses on knees and elbows from moving on all fours as a child. Typically naked, but wears a simple loincloth during his time in the human village. His primary attribute is a skinning knife."
+            clothing: "Wears a simple loincloth made of woven leaves or animal hide."
+            posture: "Moves with extraordinary grace and agility, a mix of human and animal traits. Can glide through branches silently like moss or run with a distinctive 'wolf's trot that eats up long miles like fire'."
+    - id: "bagheera"
+      name: "Bagheera"
+      description_block: |
+        characters:
+          - name: "Bagheera"
+            age: "Adult"
+            appearance: "A large, black panther. Fur is 'black as ink from every side,' but under certain light reveals the rosette patterns of a leopard, 'like the pattern on watered silk.' Eyes turn 'hard as jadeites' in anger. Has a faint, hidden scar from a collar around his neck, a memento from his time in captivity at the royal cages in Udaipur."
+            clothing: "None"
+            posture: "Moves with a sleek, powerful, and graceful demeanor. Embodies the cunning and experience of a seasoned hunter."
+    - id: "baloo"
+      name: "Baloo"
+      description_block: |
+        characters:
+          - name: "Baloo"
+            age: "Adult"
+            appearance: "A large sloth bear, consistently referred to as the 'sleepy, brown bear.' He is massive and powerful, with a voice that can thunder 'like a storm on a hot night.' Has hard paws, earning him the nickname 'Iron Feet.' His fur is dense and likely dark brown."
+            clothing: "None"
+            posture: "Sturdy and authoritative. Represents the stability and moral backbone of the jungle community."
+    - id: "shere_khan"
+      name: "Shere Khan"
+      description_block: |
+        characters:
+          - name: "Shere Khan"
+            age: "Adult"
+            appearance: "A powerful Bengal tiger, called 'The Great.' His most defining physical trait is his disability—he has been lame in one paw since birth, earning him the derogatory name 'Lungri' (The Lame One). This disability is the source of his frustration and cruelty. In the opening scene, his paws are also severely burned from jumping into a woodsman's fire. His hide is noted to be ten feet long after his death."
+            clothing: "None"
+            posture: "Arrogant and tyrannical, his lameness affects his movement, making him less of a noble hunter and more of a cunning, cruel opportunist."
+    - id: "raksha"
+      name: "Raksha"
+      description_block: |
+        characters:
+          - name: "Raksha"
+            age: "Adult"
+            appearance: "A she-wolf with a 'great, gray nose.' In moments of threat, her eyes glow 'like two green moons in the darkness.' Her strength and fierceness in defending Mowgli earn her the name Raksha (The Demoness)."
+            clothing: "None"
+            posture: "The archetypal protective mother, fierce and unyielding when defending her young."
+    - id: "akela"
+      name: "Akela"
+      description_block: |
+        characters:
+          - name: "Akela"
+            age: "Old"
+            appearance: "A 'great, gray Lone Wolf' who leads the pack through strength and cunning. His appearance changes with age—from a powerful leader to a weakened old wolf who 'lifts his tired, old head' as he loses authority."
+            clothing: "None"
+            posture: "Represents the old order, honor, and just leadership. His posture reflects his status, from proud and dominant to weary and aged."
+    - id: "kaa"
+      name: "Kaa"
+      description_block: |
+        characters:
+          - name: "Kaa"
+            age: "Ancient"
+            appearance: "A massive rock python, 'thirty feet' long (over 9 meters). His skin has a 'beautiful, mottled, brownish-yellow pattern.' He has a 'great, blunt-ended head' and is described as an ancient, powerful creature."
+            clothing: "None"
+            posture: "Moves with a hypnotic, terrifying grace. Represents an ancient, amoral force of nature."
+  locations:
+    - id: "seeonee_jungle"
+      name: "Seeonee Jungle"
+      description_block: |
+        setting:
+          location: "The Seeonee (modern Seoni) hills region in Madhya Pradesh, central India. A varied landscape of rocky hills, deep dry ravines (nullahs), dense bamboo thickets, and open plains. Key trees include the Mohwa tree with its waxy flowers and wild fig trees."
+        mainElements: "The jungle is depicted as an ordered, albeit harsh, society governed by ancient Law. Key landmarks include the Council Rock, a natural stone amphitheater, and the Waingunga River."
+        atmosphere: "Majestic and ancient. A world of sounds and smells: 'hot, still nights' broken by animal calls, the scent of damp earth, decaying leaves, and the metallic tang of blood. During droughts, the air is heavy with dust and the smell of decay."
+    - id: "man_village"
+      name: "The Man-Village"
+      description_block: |
+        setting:
+          location: "A traditional village on the edge of the Seeonee jungle in 19th-century British India."
+        mainElements: "Consists of simple, single-room huts made of clay and thatched roofs, with red-lacquered beds and large clay grain chests inside. The center of social life is a brick platform under a large fig tree. The village is surrounded by cattle-pens (byres) and plowed fields."
+        atmosphere: "Claustrophobic and chaotic in contrast to the jungle's order. The air is thick with smoke from cooking fires and the smell of cattle. Filled with the noise of human chatter, temple bells, and shouts. A closed, superstitious world, distrustful of outsiders."
+    - id: "cold_lairs"
+      name: "The Cold Lairs"
+      description_block: |
+        setting:
+          location: "An abandoned, ruined city deep in the heart of the jungle, now inhabited by the Bandar-log (Monkey-People)."
+        mainElements: "A 'great palace without a roof' on a hill, with courtyards of cracked marble stained green and red. Rows of roofless houses like 'empty honeycombs filled with blackness.' Destroyed temple domes and filled-in wells. An underground treasury holds treasures guarded by a white cobra."
+        atmosphere: "Eerily beautiful in its decay. At night, moonlight streams through ornate marble latticework, casting shadows like 'black velvet embroidery.' A place of death, forgetfulness, and anarchy."
+    - id: "council_rock"
+      name: "Council Rock"
+      description_block: |
+        setting:
+          location: "A hilltop in the Seeonee jungle, covered with bare rocks and boulders."
+        mainElements: "A flat platform at the summit forms a natural amphitheater where the Seeonee wolf pack holds its meetings. Akela, the leader, sits on a large rock on the edge."
+        atmosphere: "A place of solemnity, law, and ritual. The meetings always take place at night under a full moon, creating an atmosphere of political tension and ancient tradition."
+    - id: "waingunga_river"
+      name: "Waingunga River"
+      description_block: |
+        setting:
+          location: "The main river flowing through the Seeonee region. It is a key element of the landscape and jungle life."
+        mainElements: "A wide river with a deep, rocky gorge. During the great drought, it shrinks to a small stream, revealing the 'Peace Rock' which signals the 'Water Truce'."
+        atmosphere: "A place of both life and death. It is a source of water and food, but also a place of danger and a strategic location for Mowgli's plans. The atmosphere can be peaceful during the truce or deadly during conflicts."
+  items:
+    - id: "red_flower"
+      name: "The Red Flower"
+      description_block: |
+        details: "The jungle's name for fire. It is the most powerful and feared element, representing human knowledge, technology, and power. It is depicted as a living, hypnotic force, not just a simple flame. Mowgli often carries it in a clay pot of glowing embers."
+    - id: "kings_ankus"
+      name: "The King's Ankus"
+      description_block: |
+        details: "An elephant goad, exquisitely crafted and deadly. It has an ivory handle inlaid with gold, a steel blade and hook, and is adorned with a large ruby at the end and a pattern of turquoises along its length. It symbolizes human greed, vanity, and the corruption of wealth."
+    - id: "mowglis_knife"
+      name: "Mowgli's Knife"
+      description_block: |
+        details: "A simple, functional skinning knife that becomes Mowgli's inseparable tool and a symbol of his skill and human ingenuity."

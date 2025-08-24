@@ -1,0 +1,124 @@
+canon:
+  characters:
+    - id: "time_traveller"
+      name: "The Time Traveller"
+      description_block: |
+        characters:
+          - appearance: "British gentleman, 38-40 years old, average height, intellectual build, pale complexion with tendency to flush when excited, sharp grey eyes that gleam with intelligence, dark hair with first touches of grey at temples"
+            clothing: "Formal black evening dress (frock coat, white waistcoat, white bow tie) for dinner scenes, or practical dark tweed three-piece suit with high starched collar for laboratory work, smoking jacket for home comfort"
+            posture: "Confident posture typical of educated Victorian gentleman, animated gestures when discussing scientific theories, intense focus when working on machinery"
+
+    - id: "weena"
+      name: "Weena"
+      description_block: |
+        characters:
+          - appearance: "Small Eloi female with appearance of 8-year-old child, about 120cm tall, extremely delicate build, light blonde curly hair cut short at neck, large gentle eyes, Dresden porcelain features with small red lips and pointed chin"
+            clothing: "Simple soft tunic in light colors (violet, white, or orange), leather belt at waist, sandals or light shoes, often decorated with fresh flowers she picks"
+            posture: "Childlike grace in movement, stays close to Time Traveller, expresses emotions through simple gestures like clapping hands or holding flowers"
+
+    - id: "eloi_archetype"
+      name: "Eloi (Generic)"
+      description_block: |
+        characters:
+          - appearance: "Small humanoid beings about 120cm tall, androgynous appearance making gender difficult to distinguish, prematurely aged children look, slender fragile build, curly hair in various light colors cut short at neck, large gentle but vacant eyes, small mouths with thin red lips, pointed chins, small ears"
+            clothing: "Soft silken tunics in bright colors (purple, white, orange), leather belts, sandals or light boots, simple and comfortable garments"
+            posture: "Graceful but languid movements, childlike behavior, passive and curious but lacking deep interest or focus"
+
+    - id: "morlock_archetype"
+      name: "Morlock (Generic)"  
+      description_block: |
+        characters:
+          - appearance: "Hunched ape-like humanoids shorter than normal humans, pale white or half-bleached skin like preserved specimens, lank light-colored hair on head and back, large greyish-red or pinkish-grey eyes without eyelids that reflect light in darkness, pale beige faces, thin fingers, cold to touch"
+            clothing: "No clothing described in source material - appear to be unclothed"
+            posture: "Stooped, simian posture, moves awkwardly in light but with familiarity in darkness, scurries and retreats from bright illumination"
+
+    - id: "dinner_guests"
+      name: "Victorian Dinner Guests"
+      description_block: |
+        characters:
+          - appearance: "Well-dressed Victorian gentlemen in their 40s-50s, various builds typical of wealthy middle-aged men, graying hair carefully arranged, intelligent but skeptical expressions"
+            clothing: "Formal evening dress of 1890s - black frock coats, fitted black trousers, white low-cut waistcoats, starched white shirts with high wing-tip collars, white bow ties"
+            posture: "Seated comfortably in armchairs, smoking cigars, holding champagne glasses, expressing polite but profound skepticism through their gestures and poses"
+
+  locations:
+    - id: "victorian_home_salon"
+      name: "Time Traveller's Home - Salon/Dining Room"
+      description_block: |
+        setting:
+          location: "Victorian gentleman's house in Richmond, London suburbs 1895 - comfortable salon with fireplace"
+        mainElements: "Large room with central fireplace casting warm light, deep leather armchairs arranged around small octagonal tables, heavy Victorian furnishings in dark polished wood (mahogany, oak), rich patterned wallpaper and heavy velvet curtains in deep colors"
+        atmosphere: "Warm, intellectual comfort, domestic security, civilized discourse, mixture of traditional candlelight and modern electric bulbs creating interplay of light and shadow"
+
+    - id: "time_machine_laboratory"
+      name: "Time Traveller's Laboratory"
+      description_block: |
+        setting:
+          location: "Workshop laboratory connected to main house through long drafty corridor"
+        mainElements: "Functional workspace with workbenches, scientific instruments of brass crystal and ivory, technical drawings, chemical substances, tools scattered about, incomplete full-size Time Machine under construction"
+        atmosphere: "Scientific mystery, intellectual passion, organized chaos of invention, skylight providing natural illumination mixed with oil lamps"
+
+    - id: "future_garden_world"
+      name: "Garden World of 802,701"
+      description_block: |
+        setting:
+          location: "Same geographical location as Richmond but 800,000 years in the future, transformed into vast garden landscape"
+        mainElements: "Lush overgrown garden with tangled beautiful shrubs and flowers long neglected but free from weeds, rhododendron bushes with pale violet and purple blossoms, large white waxy flowers a foot across, palace-like buildings in various states of ruin, no small houses or fences"
+        atmosphere: "Initially idyllic but increasingly ominous, warmer climate than Victorian era, abundant fruit and flowers, underlying sense of abandonment and hidden danger"
+
+    - id: "white_sphinx"
+      name: "The White Sphinx Monument"
+      description_block: |
+        setting:
+          location: "Central monument dominating the garden landscape of 802,701"
+        mainElements: "Colossal figure carved from white stone, winged sphinx with wings spread horizontally as if hovering, weathered marble with diseased leprous appearance, standing on massive bronze pedestal green with verdigris, face turned toward observer with sightless eyes and slight smile, hidden bronze panels in base conceal entrance to Morlock world"
+        atmosphere: "Ancient mystery, ominous guardianship, inhuman indifference, holds secrets and mocking smile suggesting hidden knowledge"
+
+    - id: "morlock_underworld"
+      name: "Underground Morlock World"
+      description_block: |
+        setting:
+          location: "Vast subterranean cavern system beneath the garden world"
+        mainElements: "Enormous dark cave with working machinery, metal ladders and handholds leading down vertical shafts, huge incomprehensible machines operating in darkness, tables and surfaces suggesting industrial workspace, ventilation shafts connecting to surface"
+        atmosphere: "Claustrophobic industrial nightmare, oppressive darkness broken only by furnace fires, smell of fresh blood in air, mechanical sounds echoing, cold dampness, sense of being observed by unseen creatures"
+
+    - id: "green_porcelain_palace"
+      name: "Palace of Green Porcelain (Ruined Museum)"
+      description_block: |
+        setting:
+          location: "Large building on distant hill visible from garden world, constructed of green porcelain-like material"
+        mainElements: "Vast ruined museum with enormous galleries, partially collapsed roof letting in weak light, thick dust covering everything, decaying exhibits including blackened skeletons of prehistoric beasts (Megatherium), rusted broken machinery, rotting library books, chemical gallery with untouched camphor jars"
+        atmosphere: "Melancholy of lost knowledge, death of civilization, museum-tomb of human achievement, thick silence and abandonment, treasure-house of forgotten science"
+
+    - id: "dying_earth_beach"
+      name: "Dying Earth - Final Beach"
+      description_block: |
+        setting:
+          location: "Desolate seashore approximately 30 million years in future on same planet"
+        mainElements: "Barren beach covered with gravel and black sand with reddish tinge, sickly oily sea that moves in sluggish oily swells without waves, rocks covered with bright green slime, absolutely silent and cold environment"
+        atmosphere: "Ultimate desolation, existential horror of final ending, lifelessness except for grotesque crab-like creatures, oppressive silence, bone-chilling cold, cosmic loneliness under dying red sun"
+
+  items:
+    - id: "time_machine_device"
+      name: "The Time Machine"
+      description_block: |
+        details: "Small working model - delicate construction slightly larger than small clock, made of gleaming metal, ivory and transparent crystalline substance, has tiny saddle and two small white levers for control. Full-size version - solid construction of brass, nickel, ivory and glittering crystalline quartz, has saddle for rider, brass rails for handholds, two control levers, after journey shows damage with bent rails and cracked stained ivory"
+
+    - id: "matchbox_and_matches"
+      name: "Matches and Matchbox"
+      description_block: |
+        details: "Ordinary wooden matches in cardboard box, becomes precious survival tool in future world, small flame provides light to ward off Morlocks in darkness, symbolizes civilization and human knowledge, matches gradually consumed leaving Time Traveller increasingly vulnerable"
+
+    - id: "iron_lever_weapon"
+      name: "Iron Lever from Museum"
+      description_block: |
+        details: "Heavy iron bar about one meter long, broken off from some machine in the ruined museum, becomes primitive but effective weapon and tool, rusty metal surface, represents return to basic survival tools, crude mace for fighting Morlocks"
+
+    - id: "weena_flowers"
+      name: "Weena's White Flowers"
+      description_block: |
+        details: "Two fresh white flowers resembling large mallows, given by Weena as tokens of affection, placed in Time Traveller's pocket, survive the journey back to 1895 as withered but recognizable blossoms, only physical proof of the time journey, symbol of love and innocence persisting through time"
+
+    - id: "victorian_scientific_instruments"
+      name: "Victorian Scientific Equipment"
+      description_block: |
+        details: "Brass instruments, crystal apparatus, ivory components typical of 1890s scientific workshop, precision clockwork mechanisms, drawing instruments, chemical glassware, oil lamps with shades, represent pinnacle of Victorian scientific achievement and mechanical precision"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1897, afternoon after days of flight and terror
+    location: Abandoned house in Surrey countryside, interior damaged by Martian attacks
+    weather: Overcast day with muted natural light through broken windows
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Standing before broken mirror or window, seeing his reflection
+    action: Confronting his physical and psychological transformation from civilized gentleman to survivor
+  scene:
+    mainElements: Narrator's reflection showing how crisis has changed him from confident Victorian gentleman to haggard survivor
+    details: Mirror or window glass showing narrator's face and form changed by terror and hardship - clothes torn and dirty,
+      face gaunt and stubbled, eyes showing strain and trauma, formerly neat appearance now disheveled and desperate, transformation
+      from civilized intellectual to primitive survivor
+    background: Damaged interior of abandoned house, broken furniture, debris from Martian attacks, domestic order destroyed
+    atmosphere: Personal psychological reckoning - seeing how catastrophe has stripped away civilized veneer and reduced him
+      to basic human animal fighting for survival
+  composition:
+    cameraAngle: Mirror/reflection POV showing narrator seeing himself as others might
+    focus: Narrator's transformed appearance reflecting psychological journey from civilization to survival mode, no text
+      or letters visible
+    depth: Foreground shows broken mirror surface and frame, middle ground captures narrator's shocked reflection, background
+      reveals destroyed domestic interior representing collapsed civilization
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

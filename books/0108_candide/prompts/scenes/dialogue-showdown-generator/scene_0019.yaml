@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Bored Collector's Empty Palace"
+  setting:
+    time: "Mid-18th century, afternoon"
+    location: "Luxurious palace interior in Venice, art-filled salon"
+    weather: "Soft afternoon light filtering through Venetian windows"
+  characters:
+    - appearance: "Wealthy Venetian senator, middle-aged with expression of profound boredom and world-weariness"
+      clothing: "Rich Venetian noble's attire: silk robes, fine fabrics, jeweled accessories showing immense wealth"
+      position: "Seated in ornate chair surrounded by masterpieces, gesturing dismissively at artworks"
+      action: "Waves hand in contemptuous dismissal at priceless paintings and books, face showing complete indifference to beauty surrounding him"
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Wealthy gentleman's attire appropriate for visiting Venetian nobility"
+      position: "Standing before magnificent artwork, turning to stare at senator in amazement"
+      action: "Looks with wonder at beautiful paintings and sculptures, then with shock at owner's complete indifference to their beauty"
+    - appearance: "Around 60+ years old, lean build with intelligent face lined with wrinkles. Gray thinning hair, dark penetrating eyes expressing cynicism and resignation"  
+      clothing: "Worn but clean dark scholar's coat showing former better position"
+      position: "Examining expensive books with professional interest"
+      action: "Nods with understanding at senator's jaded attitude, recognizing another form of life's disappointments"
+  scene:
+    mainElements: "Opulent Venetian palace room filled with masterpiece paintings, ancient sculptures, rare books, elaborate furnishings - all treated with complete indifference"
+    details: "Senator surrounded by treasures but derives no pleasure from them. Candide's amazement at both beauty and owner's indifference. Martin understands that even beauty and culture cannot guarantee happiness. Priceless artworks treated like furniture."
+    background: "Venetian palace architecture with marble columns, painted ceilings, view through windows of Grand Canal with gondolas, other nobles visible in adjacent rooms"
+    atmosphere: "Luxurious melancholy and spiritual emptiness despite material abundance. Afternoon light beautiful but wasted on unappreciative eyes. Colors of gold frames, rich fabrics, marble sculptures all rendered meaningless by emotional poverty."
+  composition:
+    cameraAngle: "Wide shot showing the magnificent room and the contrast between artistic beauty and human indifference"
+    focus: "The senator's bored expression surrounded by masterpieces, with Candide's amazement at this spiritual poverty"
+    depth: "Foreground shows the immediate conversation, middle ground the incredible art collection, background the Venetian luxury context"

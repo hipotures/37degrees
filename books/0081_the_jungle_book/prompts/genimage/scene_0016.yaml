@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, night
+    location: Council Rock.
+    weather: A clear, moonlit night.
+  characters:
+  - appearance: A boy of about 11 years old.
+    clothing: Wears a simple loincloth.
+    position: Standing on the great rock where Akela used to sit.
+    action: Spreading the massive, striped hide of Shere Khan on the rock. His face is triumphant.
+  - appearance: An old, gray wolf.
+    clothing: None
+    position: At the foot of the rock, looking up at Mowgli.
+    action: Howling a song of triumph and respect. He is acknowledging Mowgli as the master of the jungle.
+  - appearance: The wolves of the Seeonee pack.
+    clothing: None
+    position: Gathered around the rock.
+    action: A mixture of awe, respect, and fear on their faces. They are witnessing the fulfillment of the prophecy.
+  scene:
+    mainElements: Mowgli's triumphant return to the wolf pack. He has fulfilled his promise to lay the hide of Shere Khan
+      on the Council Rock.
+    details: The tiger skin is huge, covering a large portion of the rock. The moonlight gleams on its stripes. The wolves
+      are a silent, respectful audience. no text or letters visible
+    background: The dark jungle, and the moon in the sky.
+    atmosphere: A scene of triumph, power, and fulfilled destiny. The tyrant is dead, and a new leader has emerged. no text
+      or letters visible
+  composition:
+    cameraAngle: Low-angle shot, looking up at Mowgli and the tiger skin, emphasizing his power and status.
+    focus: The massive tiger skin, a symbol of Mowgli's victory.
+    depth: 'Foreground: the assembled wolves. Middle ground: Mowgli and the tiger skin on the rock. Background: the night
+      sky.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

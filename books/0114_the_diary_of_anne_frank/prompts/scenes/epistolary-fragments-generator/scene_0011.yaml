@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Aftermath of the Burglary - What Anne Couldn't See"
+  setting:
+    time: "March 1943, night after break-in"
+    location: "Office building ground floor warehouse, Prinsengracht 263 Amsterdam"
+    weather: "Dark night, emergency lighting"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Warehouse floor showing signs of attempted break-in, overturned boxes and scattered papers"
+    details: "Broken window pane, footprints in dust, disturbed inventory, police flashlight beams crossing the space, evidence of the intruders who nearly discovered the hidden refugees above"
+    background: "Commercial warehouse space beneath the Secret Annex"
+    atmosphere: "Eerie aftermath of near-discovery, silent testimony to how close the hidden families came to being found"
+  composition:
+    cameraAngle: "Low angle showing the warehouse floor and signs of disturbance"
+    focus: "Evidence of the break-in that terrified the Annex residents"
+    depth: "Foreground: scattered items and footprints, background: warehouse shadows hiding threats"

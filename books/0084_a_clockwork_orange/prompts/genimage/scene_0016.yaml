@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Near future
+    location: A split screen.
+    weather: N/A
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. The two versions of Alex represent the violent predator and the
+      helpless victim - two different people, or two sides of the same coin.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+    position: The two versions of Alex are shown side-by-side.
+    action: The two Alexes are looking at each other, a look of mutual hatred and
+      incomprehension in their eyes.
+  scene:
+    mainElements: A visual representation of the two sides of Alex's nature. The scene
+      explores the question of whether the violent predator and the helpless victim
+      are two different people, or two sides of the same coin.
+    details: The background on the left side of the screen is dark and chaotic, representing
+      Alex's life of crime. The background on the right side is sterile and white,
+      representing the clinical horror of the Ludovico Technique.
+    background: N/A
+    atmosphere: A scene of profound psychological dissonance. The two versions of
+      Alex are irreconcilable, yet they are both him. The scene raises questions about
+      the nature of identity and the meaning of self.
+  composition:
+    cameraAngle: A straight-on shot that shows the two Alexes in perfect symmetry.
+    focus: The look of mutual incomprehension in the eyes of the two Alexes.
+    depth: The scene is flat, with the two Alexes existing in their own separate,
+      two-dimensional worlds.
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: The Company's Outer Station in the Congo.
+    weather: Oppressively hot and humid, the air is thick and heavy.
+  characters: No characters are focused on, only the dying.
+  scene:
+    mainElements: A grove of trees where sick and dying African workers have been left to waste away. It is a scene of profound
+      suffering and neglect.
+    details: The ground is littered with the emaciated forms of men, their bodies contorted in attitudes of pain and despair.
+      A piece of white yarn tied around one man's neck stands out with startling, meaningless clarity. The air is filled with
+      a low, continuous moaning, almost like the buzzing of insects. The shadows of the trees seem to cling to the dying men
+      like shrouds. no text or letters visible
+    background: In the distance, the pointless explosions of the French man-of-war shelling the bush.
+    atmosphere: A vision of hell on earth. A sense of utter despair, waste, and the complete indifference of the colonial
+      machine to human life. no text or letters visible
+  composition:
+    cameraAngle: Low-angle shot, from the perspective of someone lying on the ground.
+    focus: The piece of white yarn, a tiny, absurd detail in a landscape of immense suffering.
+    depth: 'Foreground: the twisted limbs of a dying man. Middle ground: other dying figures. Background: the dark, indifferent
+      jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

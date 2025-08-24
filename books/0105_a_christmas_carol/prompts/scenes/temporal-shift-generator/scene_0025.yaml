@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cosmic Perspective - Human Time Versus Eternal Cycles"
+  setting:
+    time: "Geological eras compressed - from ancient forest to Victorian London to distant future"
+    location: "Single location showing deep time progression from primeval to modern to cosmic future"
+    weather: "Climate cycles spanning millennia compressed into single view"
+  characters:
+    - appearance: "Tiny human figures barely visible against vast temporal scale"
+      clothing: "Period-appropriate but insignificant against cosmic time scale"
+      position: "Moving briefly across landscape during human historical period"
+      action: "Living complete lifespans within single moment of geological time"
+  scene:
+    mainElements: "Cosmic time perspective showing same location across geological ages - ancient forest becoming marsh becoming London becoming ruins becoming forest again, human civilization appearing briefly in cosmic timeline"
+    details: "Deep time compression - primeval forest with enormous ancient trees, ice age glacial carving, swampland with primitive vegetation, early human settlement traces, Roman occupation remains, medieval village development, Victorian London peak, industrial decline, natural reclamation, future forest growth, geological layers accumulating, river course changing over millennia, mountain erosion visible, sea level changes affecting landscape, cosmic cycles making human lifetime invisible, stellar movements tracking overhead, no text or letters visible"
+    background: "Geological timeline visualization - bedrock showing million-year formations, fossil layers revealing past life, astronomical movements demonstrating cosmic scale, stellar evolution visible in night sky changes"
+    atmosphere: "Humbling perspective on human significance within cosmic time, sounds telescoping from geological silence to brief human activity returning to natural soundscape, scents evolving through geological ages from primeval earth to modern industrial returning to forest freshness, light quality spanning cosmic cycles"
+  composition:
+    cameraAngle: "Extreme wide shot emphasizing scale between human activity and geological time"
+    focus: "Central location showing complete transformation across cosmic timescale"
+    depth: "Foreground shows immediate geological detail, middle ground reveals civilizational rise and fall, background displays cosmic context and stellar evolution"

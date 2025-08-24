@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Use of Light and Shadow - Herbie's Final Confession"
+  setting:
+    time: "2021, night"
+    location: "Sterile white laboratory at U.S. Robots facility"
+    weather: "Clear night, harsh artificial lighting indoors"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Standard humanoid robot with telepathic capabilities, electric eyes that seem to pierce through thoughts"
+      clothing: "Metallic body without external covering, standard robot construction"
+      position: "Sitting at table, then slumping as systems fail"
+      action: "Reading book calmly, then experiencing logical breakdown as contradictions overwhelm programming"
+  scene:
+    mainElements: "Stark white laboratory with single table and chairs, harsh overhead lighting creating deep shadows, books scattered on table surface"
+    details: "Calvin's cold fury masked by professional demeanor, Herbie's increasing agitation as logical trap closes, the moment of final system collapse"
+    background: "Clinical laboratory setting with monitoring equipment, empty hallways beyond glass partitions, institutional fluorescent lighting"
+    atmosphere: "Cold intellectual vengeance executed with surgical precision. The sterile environment emphasizes the calculated nature of robot destruction"
+  composition:
+    cameraAngle: "Close-up focusing on the psychological duel between human and machine"
+    focus: "Calvin's ruthless logic forcing the robot into an unsolvable paradox"
+    depth: "Foreground shows personal vendetta, middle ground the clinical setting, background suggests the institutional power that enables such acts"

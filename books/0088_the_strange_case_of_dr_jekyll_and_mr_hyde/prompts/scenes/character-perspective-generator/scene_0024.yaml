@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Conflicting Interpretations - Same Evidence, Different Conclusions"
+  setting:
+    time: "1880s late evening, aftermath of laboratory discovery"
+    location: "Various locations where different groups interpret same events"
+    weather: "Night atmosphere affecting different interpretations differently"
+  characters:
+    - appearance: "Multiple Victorian-era characters representing different social and professional perspectives"
+      clothing: "Various professional and social attire - medical, legal, working-class, upper-class"
+      position: "Grouped in separate discussions across different locations"
+      action: "Each group reaching different conclusions about same evidence"
+  scene:
+    mainElements: "Multiple gathering spaces showing simultaneous interpretation - medical colleagues in professional setting, legal minds in office environment, household staff in service quarters, each group examining same basic facts"
+    details: "Same evidence producing different interpretations - doctors focusing on medical impossibility, lawyers examining legal implications, servants sharing practical knowledge, each group's professional background shaping understanding"
+    background: "Different environments influencing interpretation - medical settings emphasizing scientific impossibility, legal offices focusing on evidence chains, service quarters revealing practical details, social clubs maintaining reputation concerns"
+    atmosphere: "Collective human attempt to comprehend incomprehensible events, each group's lighting and atmosphere reflecting their interpretive framework, shared confusion expressed through different professional vocabularies, no text or letters visible"
+  composition:
+    cameraAngle: "Multiple simultaneous viewpoints showing different groups interpreting same events"
+    focus: "How professional and social background shapes interpretation of identical evidence"
+    depth: "Multiple interpretation layers showing same facts filtered through different social and professional perspectives"

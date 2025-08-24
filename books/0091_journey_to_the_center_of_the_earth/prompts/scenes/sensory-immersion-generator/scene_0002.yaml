@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Contact with Icelandic Volcanic Rock"
+  setting:
+    time: "1863, morning"
+    location: "Rugged volcanic landscape of Iceland near Snæfellsjökull glacier, harsh Nordic wilderness dominated by geological formations"
+    weather: "Cool arctic air with occasional mist drifting across landscape"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+  scene:
+    mainElements: "Expansive fields of hardened lava rock formations, geometric basalt columns, sparse tufted vegetation, snow-capped volcanic peak looming overhead"
+    details: "Hands pressing against razor-sharp volcanic glass edges contrasted with smooth worn surfaces polished by centuries of weather, fingertips exploring geometric basalt columns with perfect hexagonal texture, breath forming visible clouds against cold stone, clothing fabric catching on rough lava formations, boots finding precarious grip on uneven surfaces, temperature shock as hands move from sun-warmed stone to shadow-chilled rock face, no text or letters visible"
+    background: "Raw primordial power of volcanic forces, isolation from civilization, mist and clouds creating ethereal quality over barren landscape"
+    atmosphere: "Visceral encounter between human touch and ancient geological violence, texture contrasts revealing millions of years of volcanic formation, temperature variations telling story of fire and ice"
+  composition:
+    cameraAngle: "Medium shot capturing human figures against massive rock formations"
+    focus: "Hands making direct contact with volcanic textures, showing scale and tactile exploration"
+    depth: "Foreground emphasizes hand-rock interaction, middle ground shows full figures, background reveals vast volcanic landscape"

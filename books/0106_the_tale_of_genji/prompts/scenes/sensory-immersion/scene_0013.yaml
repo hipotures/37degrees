@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Grandmother's Spice Memory"
+  setting:
+    time: "Late 10th century Japan, autumn evening in private quarters"
+    location: "Imperial Palace Heian-kyō, elderly court lady's personal chambers filled with memories and treasures"
+    weather: "Cool autumn evening with closed windows creating intimate space"
+  characters:
+    - appearance: "Elderly Japanese court lady with dignified bearing, white hair arranged in simple but elegant style, wearing subdued but fine court robes"
+      clothing: "Understated but expensive silk robes in muted autumn colors, fewer layers appropriate for advanced age and privacy"
+      position: "Seated beside low table covered with small containers and pouches, organizing medicinal herbs and spices"
+      action: "Carefully measuring and combining aromatic ingredients, occasionally lifting small portions to nose, arranging items with practiced precision"
+  scene:
+    mainElements: "Low wooden table with numerous small ceramic containers, silk pouches containing dried herbs, bronze scales for measuring, bamboo scoops, scrolls with written formulas"
+    details: "Dozens of small containers hold visible spices and dried herbs in various colors and textures, fine aromatic powder creates small clouds when poured between containers, cinnamon bark pieces show rich brown surfaces, star anise pods display perfect geometric patterns, dried ginger root creates sculptural forms, medicinal scales show precise measurements, dust motes dance in powder clouds suggesting aromatic intensity, silk pouches emit subtle fragrances when opened, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Nostalgic warmth suggested by organized spice collection, memory palace of aromatic treasures, wisdom of age preserved in fragrant formulas"
+  composition:
+    cameraAngle: "Close-up emphasizing spice textures and powder cloud details"
+    focus: "Aromatic powder movements and diverse spice textures suggesting complex scent memories"
+    depth: "Spice containers and powder details in foreground, elderly figure's careful actions in middle ground, memory-filled chamber in background"

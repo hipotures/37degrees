@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty Library Shelves - Censorship Made Visible"
+  setting:
+    time: "Near future, dim interior lighting with dust particles visible in air"
+    location: "Former public library converted into approved reading facility in Gilead territory"
+    weather: "Indoor setting with artificial lighting creating pools of light and shadow"
+  characters:
+    - appearance: "Few citizens present, mostly men in Commander uniforms, looking at approved materials"
+      clothing: "Black Commander suits and brown Aunt uniforms, no Handmaids present in this literacy-restricted space"
+      position: "Standing or sitting at reading tables with officially approved texts"
+      action: "Reading only from approved religious and state documents, speaking in whispers when speaking at all"
+  scene:
+    mainElements: "Vast empty bookshelves stretching from floor to ceiling with only scattered approved volumes, large empty spaces where thousands of books once stood"
+    details: "Most shelves are completely bare with only dust outlines showing where books were removed. The few remaining books are all religious texts, approved history, and state documentation. Empty card catalogs sit abandoned. Former literature, science, and humanities sections are completely vacant. Signs indicate restricted access and approved reading lists."
+    background: "Reading rooms with empty displays where exhibitions once showed diverse knowledge, desks and chairs arranged for controlled study of limited materials"
+    atmosphere: "Intellectual emptiness and loss of knowledge, the vast empty shelves serving as monument to systematic censorship and mind control"
+  composition:
+    cameraAngle: "Wide shot down long rows of empty shelving to emphasize the scale of intellectual destruction"
+    focus: "The empty bookshelves dominate the frame showing the absence of forbidden knowledge"
+    depth: "Empty shelves in foreground extending into background creating perspective of endless intellectual void"

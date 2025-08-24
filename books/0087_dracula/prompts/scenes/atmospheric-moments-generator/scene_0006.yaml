@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Harsh Noon Sun Bleaching Castle Courtyard"
+  setting:
+    time: "Late 19th century, midday with sun at zenith casting minimal shadows"
+    location: "Stone courtyard within castle walls with ancient well at center"
+    weather: "Blazing bright sunshine with intense heat radiating from stone surfaces"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Large stone courtyard paved with ancient flagstones bleached pale by intense sunlight. Central well with worn stone rim and iron chain mechanism. High castle walls surrounding courtyard create fortress-like enclosure"
+    details: "Stone surfaces appearing almost white under harsh overhead sun. Iron chain at well showing rust and age, metal too hot to touch. Carved stone details on walls losing definition in bright light. Flagstones cracked and worn smooth by centuries of use. Small weeds growing between stones wilted by heat. Stone walls radiating visible heat waves"
+    background: "High castle walls with narrow windows appearing as black voids in bright stone. Battlements creating stark geometric lines against bleached blue sky"
+    atmosphere: "Oppressive heat and blinding brightness. Exhausting intensity of midday sun on stone surfaces. Colors washed out to pale extremes. Harsh contrast between brilliant light and deep shadows. Sense of exposure with nowhere to hide from blazing sun. No text or letters visible"
+  composition:
+    cameraAngle: "Ground level view across courtyard toward well and surrounding walls"
+    focus: "Central well with emphasis on harsh lighting effects on stone surfaces"
+    depth: "Foreground courtyard flagstones, middle ground well structure, background castle walls and sky"

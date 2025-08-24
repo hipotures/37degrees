@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Nautilus crew quarters revealing the communal life aboard the submarine"
+  setting:
+    time: "1866, late evening rest period with soft electric lighting"
+    location: "Crew living quarters deep within Nautilus submarine"
+    weather: "Controlled environment with perfect temperature and air quality"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Efficiently designed living spaces for Nautilus crew members featuring hammocks that can be secured during underwater maneuvers, personal storage compartments built into the hull walls, and communal areas for rest and social interaction. The quarters reflect a maritime tradition adapted for submarine life with advanced materials and electric lighting replacing traditional ship furnishings."
+    details: "Each crew member has a personal space with storage for clothing made from byssus fabric and personal effects. Electric reading lamps provide individual lighting while maintaining the submarine's silent operations. Ventilation systems ensure fresh air circulation throughout the living spaces. The design prioritizes functionality and space efficiency while maintaining human comfort during extended underwater voyages."
+    background: "The crew quarters extend through multiple levels of the submarine, housing the international crew that has chosen to abandon surface world loyalties to serve Captain Nemo."
+    atmosphere: "Brotherhood and shared purpose. These living spaces represent a community of individuals who have rejected surface world society to create a new form of civilization beneath the ocean. The quarters suggest equality and mutual respect among the crew members."
+  composition:
+    cameraAngle: "Wide angle showing the organized efficiency of submarine crew living spaces"
+    focus: "The practical yet comfortable accommodations that enable long-term underwater living"
+    depth: "Foreground shows personal storage and sleeping areas, middle ground features communal spaces, background extends to additional crew quarters"

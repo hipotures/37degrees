@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Weighted Silk Embrace"
+  setting:
+    time: "Late 10th century Japan, deep night during winter"
+    location: "Aristocratic residential complex in Heian-kyō designed as idealized spring garden, interior sleeping quarters with thick wall hangings"
+    weather: "Bitter cold night with frost forming on windows"
+  characters:
+    - appearance: "Japanese noblewoman aged ten to forty-three with remarkable beauty resembling Fujitsubo, very pale white powdered face with blackened teeth, artificially drawn high eyebrows, magnificent floor-length straight black hair that gleams like silk"
+      clothing: "Exquisite twelve-layer court robes jūnihitoe with perfectly harmonized color combinations, each ensemble demonstrates flawless seasonal taste and refined aesthetic sensibility"
+      position: "Lying beneath multiple layers of heavy silk bedding, body compressed by weight of fabrics"
+      action: "Experiencing pressure of twelve thick silk quilts layered for winter warmth, breathing shallow under heavy weight, feeling secure despite compression"
+  scene:
+    mainElements: "Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees, plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream"
+    details: "Multiple layers of silk bedding create substantial weight pressing down on body, breathing becomes measured and deliberate under heavy fabrics, silk materials compress and warm from body heat, layers shift and settle with every movement, weight provides comforting security against winter cold, thick textiles muffle outside sounds, warmth builds gradually under multiple coverings, no text or letters visible"
+    background: "Harmonious beauty representing eternal spring, gentle sounds of water and birds, sweet fragrance of blossoms, soft filtered light creating peaceful intimate mood"
+    atmosphere: "Protective cocoon of weighted warmth against bitter cold, luxury of heavy silk providing security and comfort, physical pressure creating psychological safety"
+  composition:
+    cameraAngle: "Side view showing layers of bedding and slight compression of figure beneath"
+    focus: "Multiple textile layers and their weight effect on sleeping form"
+    depth: "Detailed fabric textures in foreground, compressed figure in middle ground, winter room interior in soft background"

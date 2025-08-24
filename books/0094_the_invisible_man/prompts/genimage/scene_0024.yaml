@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: March 1897, late afternoon moment of final truth
+    location: Victorian seaside town street where invisible man's body becomes visible
+    weather: Clear afternoon light revealing terrible reality
+  characters:
+  - appearance: Diverse crowd of townspeople unified in shocked silence
+    clothing: Mix of working-class and respectable Victorian garments
+    position: Standing in stunned circle around central revelation
+    action: Staring in horrified silence as invisible man's body slowly materializes
+  scene:
+    mainElements: Body of invisible man slowly becoming visible on cobblestone street, crowd witnessing impossible sight,
+      transition from supernatural threat to broken human form
+    details: Pale albino features gradually appearing, red eyes staring lifelessly, broken and bruised body revealing full
+      extent of violence, artificial nose and spectacles scattered nearby
+    background: Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in
+      period dress
+    atmosphere: Universal moment of horror transcending individual perspectives, supernatural mystery resolved into human
+      tragedy, collective confrontation with mortality and violence
+  composition:
+    cameraAngle: Wide shot showing crowd's collective reaction to revelation
+    focus: Materializing body creating universal moment of shocked recognition
+    depth: Foreground shows detailed crowd reactions, middle ground captures materializing corpse, background provides community
+      context, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Multiple historical periods showing repeating conflict patterns
+    location: Same battlefield location across different centuries
+    weather: Battle weather conditions repeated across temporal layers
+  characters:
+  - appearance: Transparent overlays of warriors from different eras - Roman legions, medieval knights, Victorian soldiers,
+      future conflicts - all occupying same battlefield
+    clothing: Military equipment evolution visible as temporal layers - ancient armor through medieval mail through modern
+      uniforms through unknown future battle gear
+    position: Same strategic positions occupied across different historical battles
+    action: Identical tactical movements repeated across centuries - charges, retreats, formations echoing through time
+  scene:
+    mainElements: Battlefield showing eternal recurrence of human conflict - same geographical advantages exploited by different
+      armies across centuries, identical strategic decisions made by commanders separated by millennia
+    details: Weapons evolve while tactics remain consistent - bronze swords to iron to gunpowder to energy weapons, but formations
+      and strategies echo across time. Landscape shows accumulated battle damage - ancient earthworks beneath medieval fortifications
+      beneath modern trenches beneath future scars
+    background: Same hills and rivers exploited for tactical advantage across all eras, geographical constants while technology
+      and cultures transform completely
+    atmosphere: Tragic repetition of human warfare, geographical determinism overcoming technological change, eternal patterns
+      of conflict regardless of civilization level, history as cyclical tragedy, no text or letters visible
+  composition:
+    cameraAngle: Wide battlefield overview showing tactical positions across time
+    focus: Central conflict area where historical echoes overlap most dramatically
+    depth: Overlapping warriors in foreground, battlefield formations in middle ground, unchanging tactical landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

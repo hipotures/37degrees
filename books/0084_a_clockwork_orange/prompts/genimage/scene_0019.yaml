@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Near future, daytime
+    location: A montage of various locations.
+    weather: N/A
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is being celebrated as a celebrity, a symbol of youthful rebellion
+      and anti-establishment sentiment.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+    position: In a montage of newspaper headlines and television reports.
+    action: He is being celebrated as a celebrity, a symbol of youthful rebellion
+      and anti-establishment sentiment.
+  scene:
+    mainElements: The scene is a commentary on the fickle and sensationalist nature
+      of public opinion. The public, which once condemned Alex as a monster, now embraces
+      him as a hero.
+    details: The montage includes images of Alex on the cover of magazines, being
+      interviewed on television, and being mobbed by adoring fans. The headlines are
+      sensationalist and hyperbolic, proclaiming him as a 'rebel with a cause' and
+      a 'victim of state tyranny'.
+    background: N/A
+    atmosphere: A scene of surreal, satirical absurdity. The public's reaction is
+      a reflection of their own shallow, media-driven culture. The scene is a critique
+      of the cult of celebrity and the power of the media to shape public opinion.
+  composition:
+    cameraAngle: A fast-paced montage of images and headlines.
+    focus: The adoring, almost hysterical expressions on the faces of Alex's fans.
+    depth: The scene is a flat, two-dimensional collage of media images.
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

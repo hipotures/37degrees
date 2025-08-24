@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1866, evening with warm electric lighting illuminating the space
+    location: Obszerna czytelnia i gabinet pracy przylegające do salonu wewnątrz okrętu podwodnego Nautilus
+    weather: Stable underwater environment deep beneath ocean surface
+  characters:
+  - appearance: Dojrzały mężczyzna w wieku około 45 lat, wysoki o dumnej i wyniosłej postawie zdradzającej arystokratyczne
+      pochodzenie. Blada cera, szerokie czoło, prosty nos i czysto narysowane usta. Niebieskie oczy osadzone nieco szerzej
+      niż przeciętnie, dające mu niezwykle szerokie pole widzenia. Spojrzenie bystre, pewne siebie, spokojne, ale potrafiące
+      w jednej chwili stać się lodowate i groźne. Ciemne włosy i broda nadające mu tajemniczy wygląd. Niezwykle delikatne
+      i smukłe dłonie kontrastujące z jego rolą dowódcy
+    clothing: Prosta, elegancka tunika i spodnie z bisioru w ciemnych kolorach bez jakichkolwiek dystynkcji czy ozdób, podkreślające
+      że jego autorytet wynika z osobowości
+    position: Seated in a deep leather chair, reading from an open book with complete focus
+    action: Studying scientific texts with the intensity of a scholar, occasionally making notes in a leather-bound journal
+  scene:
+    mainElements: Pomieszczenie równie obszerne jak salon z wysokimi sięgającymi sufitu regałami z czarnego palisandru z miedzianymi
+      inkrustacjami mieszczącymi 12000 książek wszystkie oprawione w jednolity sposób. Wygodne głębokie sofy obite są ciemnobrązową
+      skórą. Na środku stoi duży stół na którym leżą broszury i czasopisma naukowe. This represents the intellectual command
+      center of the Nautilus, containing knowledge from around the world.
+    details: Dominują ciemne nasycone barwy drewna i skóry, w powietrzu unosi się zapach starych książek, skóry i dymu z cygar
+      z wodorostów. The books are organized with scientific precision, their uniform binding creating geometric patterns on
+      the towering shelves. Maps, charts, and scientific instruments are scattered across the central table. Three electric
+      light globes provide clear, steady illumination perfect for reading. The library contains works in multiple languages,
+      representing the global nature of human knowledge.
+    background: The walls are completely covered with the systematic arrangement of 12,000 volumes, creating an overwhelming
+      impression of accumulated learning.
+    atmosphere: Cisza, intelektualne skupienie i porządek. This space represents the pinnacle of 19th-century learning and
+      Captain Nemo's role as a scholar-exile who has preserved civilization's greatest achievements in his underwater refuge.
+  composition:
+    cameraAngle: Medium shot from the side showing both the character and the impressive wall of books
+    focus: The character reading in the center of this temple of knowledge, with the towering bookshelves emphasizing the
+      scale of collected learning
+    depth: Foreground shows reading materials and instruments on the table, middle ground features the character, background
+      displays the massive library collection rising to the ceiling
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

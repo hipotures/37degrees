@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Exile from the Pack"
+  setting:
+    time: "19th Century India, night"
+    location: "Council Rock."
+    weather: "A tense, still night under a full moon."
+  characters:
+    - appearance: "A boy of about 11 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled hair. Wears a simple loincloth."
+      clothing: "Wears a simple loincloth."
+      position: "Standing alone in the center of the council circle."
+      action: "Holding a flaming branch aloft, the 'Red Flower,' his face a mask of anger and sorrow. He is defying Shere Khan and the wolves who have betrayed him."
+    - appearance: "A powerful Bengal tiger, lame in one paw."
+      clothing: "None"
+      position: "At the edge of the circle, snarling."
+      action: "Recoiling in fear from the flames, his arrogance momentarily forgotten."
+    - appearance: "The wolves of the Seeonee pack."
+      clothing: "None"
+      position: "Surrounding Mowgli, but keeping their distance from the fire."
+      action: "A mixture of fear, shame, and aggression on their faces. They are a pack divided."
+  scene:
+    mainElements: "Mowgli's dramatic exile from the wolf pack. He uses the power of fire to assert his dominance and say farewell."
+    details: "The firelight from Mowgli's branch casts flickering shadows across the rocks and the faces of the wolves. Tears stream down Mowgli's face, the first time he has ever cried, as he realizes he is no longer a wolf, but a man. no text or letters visible"
+    background: "The dark, silent jungle."
+    atmosphere: "A scene of heartbreak, betrayal, and a painful coming-of-age. The bonds of family are breaking. no text or letters visible"
+  composition:
+    cameraAngle: "Low-angle shot, looking up at Mowgli, emphasizing his newfound power and his defiance."
+    focus: "The tears on Mowgli's face, illuminated by the firelight, a symbol of his lost innocence and his human heart."
+    depth: "Foreground: the cowering wolves. Middle ground: Mowgli with his flaming branch. Background: the dark shape of Shere Khan."

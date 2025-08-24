@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rack Focus - Divine Weapons to Mortal Faces"
+  setting:
+    time: "1000-800 BCE, late afternoon"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Smoke-filled air from battle"
+  characters:
+    - appearance: "Male, young warrior with expression of terror, wide eyes reflecting divine light"
+      clothing: "Basic warrior's armor, simple weapons inadequate for divine combat"
+      position: "Background figure initially out of focus, becoming sharp focus"
+      action: "Face registering shock and fear at witnessing divine weapon activation"
+  scene:
+    mainElements: "Divine weapon of mass destruction, activation causes blinding flash tremors and destructive explosion capable of destroying entire armies, most powerful weapon in epic threatening world destruction"
+    details: "Focus shift from blazing divine weapon in foreground to terrified mortal face in background, rack focus revealing human cost of supernatural warfare, divine light reflecting in frightened eyes, no text or letters visible"
+    background: "Battlefield chaos with other warriors fleeing from divine weapon's power, smoke and debris creating atmospheric haze"
+    atmosphere: "Supernatural terror as mortals witness power beyond human comprehension, sounds shifting from weapon's energy to human cries of fear"
+  composition:
+    cameraAngle: "Medium shot with dramatic focus shift revealing connection between divine power and human cost"
+    focus: "Rack focus shifting from foreground divine weapon to background mortal reaction"
+    depth: "Foreground divine weapon initially sharp then blurring, middle ground empty space, background human face becoming sharp focus, no text or letters visible"

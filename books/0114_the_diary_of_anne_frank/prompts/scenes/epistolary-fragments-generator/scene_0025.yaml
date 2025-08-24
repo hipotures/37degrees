@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Legacy - Future Generations Read Anne's Words"
+  setting:
+    time: "Present day, classroom or museum"
+    location: "Modern educational setting with students studying the diary"
+    weather: "Modern artificial lighting, contemporary atmosphere"
+  characters:
+    - appearance: "Contemporary students of various backgrounds, teenage age similar to Anne"
+      clothing: "Modern school clothes, diverse contemporary fashion"
+      position: "Seated in classroom or museum space"
+      action: "Reading Anne's diary with absorption and emotion"
+    - appearance: "Adult teacher or museum guide"
+      clothing: "Professional contemporary attire"
+      position: "Standing nearby observing students' reactions"
+      action: "Facilitating discussion about Anne's story and its relevance"
+  scene:
+    mainElements: "Modern students connecting across time with Anne's words, published diary in their hands"
+    details: "Multiple copies of published diary in different languages, modern printed pages contrasting with handwritten original, students' emotional reactions showing the timeless power of Anne's voice, displays or projections of historical context"
+    background: "Contemporary educational environment - classroom or Anne Frank House museum"
+    atmosphere: "Timeless connection across generations, Anne's voice continuing to inspire and educate decades later, proof that her literary ambitions were fulfilled"
+  composition:
+    cameraAngle: "Wide shot showing multiple generations connected by shared reading experience"
+    focus: "The eternal life of Anne's words transcending time and place"
+    depth: "Foreground: contemporary readers, background: historical context, all united by Anne's preserved voice"

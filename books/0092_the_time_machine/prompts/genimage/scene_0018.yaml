@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Accelerated evolution from present humans to Eloi and Morlocks
+    location: Split composition showing surface and underground evolution
+    weather: Changing climate conditions across evolutionary timeline
+  characters:
+  - appearance: Evolutionary progression visible as overlapping transparent figures - normal humans gradually becoming either
+      delicate Eloi above or brutish Morlocks below
+    clothing: Garments evolving from complex Victorian attire to simple Eloi tunics above, deteriorating to primitive wrappings
+      below ground
+    position: Vertical composition showing upward evolution to surface beauty, downward evolution to underground adaptation
+    action: Species divergence made visible - some figures ascending toward light and ease, others descending toward darkness
+      and labor
+  scene:
+    mainElements: Humanity's evolutionary split compressed into single image - upper half shows gradual refinement toward
+      Eloi beauty and fragility, lower half shows adaptation toward Morlock underground existence
+    details: Physical changes visible across timeline - skin becoming pale from different causes (surface leisure vs underground
+      existence), body types diverging (delicate refinement vs muscular labor adaptation), eye development (large gentle vs
+      large light-sensitive), posture evolution (graceful vs hunched)
+    background: Environmental split - surface becoming garden paradise while underground develops industrial complexity, suggesting
+      environmental pressures driving evolution
+    atmosphere: Fascinating horror of human species divergence, beauty and terror of evolutionary adaptation, visual representation
+      of class warfare's ultimate biological consequences, no text or letters visible
+  composition:
+    cameraAngle: Vertical split composition showing surface and underground evolution
+    focus: Central divergence point where humanity splits into two evolutionary paths
+    depth: Evolutionary progression figures in foreground, environmental adaptations in middle ground, ultimate results in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

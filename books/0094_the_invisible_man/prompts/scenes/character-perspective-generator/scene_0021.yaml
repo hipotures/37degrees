@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Community Fear - Collective Paranoia"
+  setting:
+    time: "March 1897, market day in Port Burdock during manhunt"
+    location: "Victorian seaside town streets near English coast, mixture of residential and commercial buildings, bustling market town atmosphere"
+    weather: "Overcast day with intermittent drizzle creating suspicious shadows"
+  characters:
+    - appearance: "Crowd of townspeople with varied expressions of fear and suspicion"
+      clothing: "Mix of working-class and middle-class Victorian garments, market vendors and shoppers"
+      position: "Scattered throughout market square in nervous clusters"
+      action: "Constantly glancing over shoulders, jumping at unexpected sounds, whispering in small groups"
+  scene:
+    mainElements: "Market stalls partially abandoned, nervous crowds gathering in defensive clusters, vendors and customers alike scanning empty spaces for signs of invisible threat"
+    details: "People instinctively avoiding open spaces, staying close to walls and doorways, market goods left unattended as attention focuses on supernatural threat, dogs barking at seemingly empty air"
+    background: "Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in period dress"
+    atmosphere: "Busy town life disrupted by manhunt, growing paranoia and fear among townspeople, sense of community under siege"
+  composition:
+    cameraAngle: "Medium wide shot capturing collective community anxiety"
+    focus: "Groups of people exhibiting shared fearful behavior patterns"
+    depth: "Foreground shows specific fearful faces, middle ground captures crowd dynamics, background reveals disrupted normal town life, no text or letters visible"

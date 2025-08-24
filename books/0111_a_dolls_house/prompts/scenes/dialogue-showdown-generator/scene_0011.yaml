@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Damning Evidence - Focus on the Letter"
+  setting:
+    time: "1879, Boxing Day evening"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Dark winter evening"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Staring at the letter box with horrified fascination"
+      action: "Reaching toward but not touching the box, knowing the letter inside will destroy her world"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "Zamknięta na klucz skrzynka na listy, symbol tajemnic and Torvald's kontrola nad przepływem informacji, zawiera listy from Krogstad and later Rank dominates the scene. The innocent-looking box has become the focal point of her terror. Biała koperta containing demaskujący list from Krogstad, fizyczny nośnik prawdy that wdziera się into dom Helmerów and niszczy jego fasadę, object of największy strach for Nora waits inside."
+    background: "The comfortable bourgeois interior frames this moment of revelation"
+    atmosphere: "The ordinary domestic object has become an instrument of doom. The letter box represents the inevitable revelation of truth."
+  composition:
+    cameraAngle: "Close-up on the letter box with Nora's hands reaching toward it"
+    focus: "The locked box containing her fate, her trembling fingers almost touching it"
+    depth: "Foreground: The letter box as object of terror. Middle ground: Nora's frightened approach. Background: The comfortable home that will soon be destroyed."

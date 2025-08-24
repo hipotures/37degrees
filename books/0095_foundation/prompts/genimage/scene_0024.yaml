@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, quiet evening period
+    location: Terminus community garden and research area showing integration of nature and science
+    weather: gentle evening with natural light and pleasant galactic rim climate
+  characters:
+  - appearance: Foundation families and researchers of various ages, relaxed bearing showing life without Imperial oppression,
+      children learning alongside adults
+    clothing: comfortable everyday clothing made from local materials, practical attire allowing for both work and leisure,
+      personal items reflecting individual interests and abilities
+    position: working in community gardens, studying in outdoor research areas, families spending time together in peaceful
+      environment
+    action: tending plants while discussing scientific principles, children learning through hands-on experience, adults balancing
+      productive work with family time, collaborative learning across generations
+  scene:
+    mainElements: integration of natural growing areas with scientific research facilities, community spaces designed for
+      both productivity and family life, peaceful coexistence of technology and nature
+    details: food plants growing in carefully tended garden plots, research equipment used for agricultural improvement and
+      scientific education, children's play areas integrated with learning opportunities, solar collectors and Foundation
+      technology providing clean efficient power, community workshops where practical skills and scientific knowledge combine
+      in useful projects
+    background: Terminus landscape showing successful colonial development, Foundation buildings harmoniously integrated with
+      natural environment, evening sky with sparse galactic rim stars suggesting peaceful frontier location
+    atmosphere: peaceful human development based on scientific knowledge and democratic cooperation, vision of civilization
+      advancing through understanding rather than conquest, harmonious relationship between human technology and natural environment
+  composition:
+    cameraAngle: community-level perspective showing integrated human development
+    focus: Foundation vision of peaceful human civilization based on knowledge and cooperation
+    depth: foreground family and community activities, middle ground integrated natural and technological development, background
+      peaceful Terminus environment
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

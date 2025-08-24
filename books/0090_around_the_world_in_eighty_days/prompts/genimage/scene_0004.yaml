@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, morning
+    location: Saville Row London, elegant Georgian residential street showing refined urban lifestyle
+    weather: Typical London overcast with filtered sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Symmetrical Georgian townhouses with Portland stone facades, identical in height creating unified streetscape,
+      black iron railings defining private spaces, horse-drawn hansom cabs and four-wheelers providing elegant transportation
+    details: Precise architectural order with uniform window spacing and classical proportions, immaculately maintained front
+      steps and doorways each with brass house numbers and door knockers, gas street lamps positioned at regular intervals,
+      cobblestone pavement with central drainage channel, gentlemen's walking sticks and top hats visible through windows
+      suggesting inhabitants' lifestyle, servant areas visible in basement levels with different entrance stairs, milk delivery
+      cart making morning rounds showing domestic rhythm
+    background: Street continuing in both directions with identical architecture creating perspective lines, other residential
+      areas of elite London neighborhood
+    atmosphere: Ordered precision and predictable routine of Victorian upper-class life, sense of mechanical regularity and
+      social stability, quiet dignity befitting gentleman's residence
+  composition:
+    cameraAngle: Street-level perspective looking down length of Saville Row
+    focus: Central house facades showing architectural detail and daily life indicators
+    depth: Nearest houses showing fine detail in foreground, street extending to create perspective, background houses showing
+      neighborhood continuity
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

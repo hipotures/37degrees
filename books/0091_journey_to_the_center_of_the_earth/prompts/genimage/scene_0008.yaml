@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1863, deep underground during Axel's separation
+    location: Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces
+    weather: Perfectly still air without any movement or circulation
+  characters:
+  - appearance: Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey
+      into more confident bearing with weathered appearance
+    clothing: Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive
+      wear and hardening from underground conditions
+    position: Often positioned as observer or follower, gradually asserting more independent stance as story progresses
+    action: Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders
+      encountered
+  scene:
+    mainElements: Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits,
+      cathedral-like caverns with towering stone formations
+    details: Extinguished lamp leaving only memory of light, absolute darkness consuming all visual reference points, dust
+      particles suspended motionless in perfectly still air without slightest disturbance, clothing hanging limply without
+      any air movement, hands pressed against ears in gesture of desperate listening, mouth open in silent scream that produces
+      no disturbance in oppressive stillness, complete absence of sound made visible through total lack of movement in environment,
+      shadows frozen in unnatural stillness, no text or letters visible
+    background: Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and
+      ancient geological time
+    atmosphere: Suffocating quiet that becomes almost tangible presence, silence so complete it seems to have physical weight
+      and texture
+  composition:
+    cameraAngle: Extreme close-up on face showing listening strain
+    focus: Facial expression of desperate listening in complete silence
+    depth: Foreground shows strained listening posture, middle ground dissolves into darkness, background completely black
+visualElements:
+  colorPalette:
+    primary:
+    - muted gray
+    - bruised purple
+    - fleshy pink
+    - steel blue
+    secondary:
+    - oily black
+    - rust brown
+    - bone white
+    background: dark industrial or fleshy backdrop
+    usageNotes: Mostly desaturated tones with occasional sickly accent colors
+    saturation: low
+    contrast: high (bright fleshy highlights vs dark shadows)
+  lineArt:
+    style: intricate sinewy lines and tubing
+    weight: fine, interwoven
+    color: dark gray or black
+    texture: slick, vein-like curves
+    edgeTreatment: smooth curves blending into sharp mechanical edges
+  lighting:
+    type: dramatic, directional spotlight
+    direction: side or under lighting for eerie effect
+    intensity: strong highlights, deep shadows
+    shadows:
+      style: complex overlapping shadows of cables and organs
+      color: cool blue-gray or deep brown
+      opacity: heavy
+    highlights: wet specular highlights on flesh, metallic gleam on machinery
+  rendering:
+    technique: airbrush or detailed digital painting
+    texture: glossy slick flesh, cold metal surfaces
+    detailLevel: very high (small mechanical parts and organic textures)
+    finish: glossy on organic parts, metallic on machine parts
+  perspective: three-dimensional realistic perspective (often claustrophobic close-ups)
+  mood:
+    overall: eerie, sci-fi horror, complex
+    emotion: unease, fascination
+    tempo: tense, intense
+    keywords:
+    - eerie
+    - intricate
+    - dark
+    - alien
+    - mechanical
+  stylePrecedents:
+  - H.R. Giger
+  - Biomechanical tattoo art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Koto Strings Dancing"
+  setting:
+    time: "Late 10th century Japan, spring evening during music gathering"
+    location: "Aristocratic residential complex in Heian-kyō designed as idealized spring garden, elegant shinden-zukuri pavilion with open verandas"
+    weather: "Gentle spring breeze carrying cherry blossom petals"
+  characters:
+    - appearance: "Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes, long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build"
+      clothing: "Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions"
+      position: "Seated gracefully beside thirteen-string koto, fingers poised above strings"
+      action: "Playing complex melody with ivory plectra, body swaying in rhythm with music, silk sleeves flowing with hand movements"
+    - appearance: "Japanese noblewoman aged ten to forty-three with remarkable beauty resembling Fujitsubo, very pale white powdered face with blackened teeth, artificially drawn high eyebrows, magnificent floor-length straight black hair that gleams like silk"
+      clothing: "Exquisite twelve-layer court robes jūnihitoe with perfectly harmonized color combinations, each ensemble demonstrates flawless seasonal taste and refined aesthetic sensibility"
+      position: "Dancing gracefully in open space, twelve layers of silk robes flowing with movement"
+      action: "Moving in perfect harmony with music, silk layers rippling like water, each gesture echoing the rhythm and melody"
+  scene:
+    mainElements: "Traditional Japanese stringed instrument made from paulownia wood with natural finish, thirteen silk strings stretched over movable bridges, long rectangular resonating body, played with ivory plectra"
+    details: "Koto strings vibrate visibly with each note, creating small waves along their length, silk court robes flow and ripple with dancer's movements like liquid fabric responding to invisible currents, cherry blossom petals drift and dance in air currents created by music and movement, dust motes sparkle and swirl in patterns matching the rhythm, sliding doors tremble subtly with bass resonance, no text or letters visible"
+    background: "Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees, plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream"
+    atmosphere: "Music made visible through movement and flowing fabrics, perfect harmony between sound and visual rhythm, aristocratic artistry transforming air into dance"
+  composition:
+    cameraAngle: "Medium wide shot capturing both musician and dancer with flowing fabrics"
+    focus: "Visible string vibrations and fabric movement patterns echoing musical rhythm"
+    depth: "Vibrating koto strings in foreground, dancing figure with flowing robes in middle ground, spring garden setting in background"

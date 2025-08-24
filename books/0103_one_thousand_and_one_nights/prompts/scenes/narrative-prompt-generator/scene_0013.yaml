@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Woodcutter Discovers Mountain Cave Secret"
+  setting:
+    time: "Midday, forested mountain region"
+    location: "Dense forest on mountainside with hidden cave entrance concealed in rocky cliff face"
+    weather: "Clear day with dappled sunlight filtering through forest canopy"
+  characters:
+    - appearance: "Man aged 45 years, sturdy build with work-hardened hands of laborer, weathered face showing honest character, graying beard, modest bearing of humble woodcutter"
+      clothing: "Rough working clothes of poor woodcutter, patched tunic and worn sandals, simple rope belt, later modest middle-class robes"
+      position: "Straightforward honest bearing, sometimes nervous when dealing with wealth"
+      action: "Working with steady rhythm, showing cautious curiosity, expressing humble gratitude"
+    - appearance: "Man aged 40 years, powerful ruthless build, scarred face showing violent life, piercing calculating eyes, unkempt dark beard, commanding presence"
+      clothing: "Dark leather traveling garments suitable for desert raids, large turban, heavy boots, multiple weapons visible"
+      position: "Dominant aggressive stance, scanning surroundings for threats"
+      action: "Commanding with harsh voice, moving with predatory caution, handling weapons expertly"
+  scene:
+    mainElements: "Dense forest with tall trees and thick undergrowth, rocky cliff face with barely visible cave entrance, scattered firewood and woodcutter's tools, horses and men partially hidden in shadows"
+    details: "Sunbeams filtering through green canopy creating patterns of light and shadow, axe and rope lying beside cut logs, cave entrance appearing as dark crack in weathered stone, forty mounted figures in dark clothing positioned strategically around clearing, weapons glinting in filtered sunlight, no text or letters visible"
+    background: "Mountain forest extending up steep slopes, distant peaks visible through trees, natural cave formation in ancient rock face"
+    atmosphere: "Hidden danger in peaceful forest setting, tension between honest work and criminal activity, rustling leaves masking sounds of hidden watchers, sense of ancient secrets about to be revealed"
+  composition:
+    cameraAngle: "Medium shot showing woodcutter concealed among trees"
+    focus: "Hidden figure witnessing secret gathering representing discovery of treasure"
+    depth: "Forest vegetation in foreground, watching figure in middle ground, cave and bandits in background"

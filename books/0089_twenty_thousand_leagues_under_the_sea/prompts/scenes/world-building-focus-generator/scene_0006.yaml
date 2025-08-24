@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Nautilus engine room showcasing revolutionary electric power systems"
+  setting:
+    time: "1866, mid-afternoon with artificial electric lighting throughout"
+    location: "Engine and power generation chamber deep within Nautilus submarine"
+    weather: "Controlled interior environment independent of external ocean conditions"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Revolutionary electric power plant featuring massive dynamos, copper conductor systems, and electrical generation equipment that powers the entire Nautilus. Large cylindrical electric motors with copper windings and brass fittings generate the submarine's silent propulsion. Banks of electric storage cells line the walls, their glass chambers filled with unknown chemical solutions that glow with soft phosphorescent light. Complex switchboards with brass instruments and gauges monitor the electrical systems."
+    details: "The technology is decades ahead of 1866 surface world capabilities, featuring clean electric power instead of coal and steam. No smoke, no fire, no noise - only the quiet hum of electrical systems and the occasional spark from high-voltage connections. Thick copper cables snake across the ceiling and walls, carrying power to every system aboard the submarine. Glass insulators separate high-voltage systems. The electric motors that drive the propeller are massive, featuring precision-machined components that gleam with oil and careful maintenance."
+    background: "The chamber extends further into the submarine with additional electrical equipment, storage batteries, and power distribution systems."
+    atmosphere: "Scientific marvel and technological supremacy. This represents technology that seems magical compared to 1866 steam-powered surface vessels. The clean, efficient operation of electric power creates an atmosphere of advanced civilization and engineering mastery far beyond contemporary capabilities."
+  composition:
+    cameraAngle: "Wide angle shot showing the full scope of the electrical power systems"
+    focus: "The massive electric dynamos and motor systems that represent the heart of Nautilus technology"
+    depth: "Foreground shows detailed electrical instruments and gauges, middle ground features the main power generation equipment, background reveals additional electrical systems extending deeper into the submarine"

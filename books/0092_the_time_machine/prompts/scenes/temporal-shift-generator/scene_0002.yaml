@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Richmond House - From Victorian Grandeur to Ruin"
+  setting:
+    time: "1895 to distant future, golden hour transition"
+    location: "Victorian gentleman's house in Richmond, London, same exterior view"
+    weather: "Transitioning from clear evening to overgrown abandonment"
+  characters: "No characters present in this scene"  
+  scene:
+    mainElements: "Temporal overlay showing same stately Victorian house facade across centuries - pristine manicured property dissolving into ivy-covered ruins. Well-maintained garden becomes wild overgrowth, manicured hedges transform into tangled wilderness"
+    details: "Fresh paint and clean windows fade to peeling shutters and broken glass, iron gate shifts from polished black to rust-streaked brown, stone steps worn smooth by countless footsteps, chimney crumbles from sharp edges to weathered brick. Garden path transitions from neat gravel to moss-covered stones, ornate lamp posts lean at angles, their glass broken"
+    background: "Neighboring houses similarly decay, street cobblestones crack and sprout weeds, mature oak trees grow larger while buildings diminish around them"
+    atmosphere: "Melancholy of civilization's impermanence, natural reclamation of human constructions, beauty in decay as nature transforms architecture into romantic ruins, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from street level, showing full facade"
+    focus: "Central entrance doorway showing transition from elegant welcome to overgrown mystery"
+    depth: "Street level in foreground, house facade in middle ground, sky and distant buildings in background showing temporal changes"

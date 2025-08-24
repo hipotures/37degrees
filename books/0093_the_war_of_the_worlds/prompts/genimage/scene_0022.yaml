@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1897, after emergence from ruined house imprisonment
+    location: London building with view of Thames River, showing alien biological terraforming of familiar landscape
+    weather: Overcast day with unnatural reddish tinge from alien vegetation
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Standing at damaged window looking out at transformed Thames River
+    action: Witnessing alien biological transformation of Earth's waterways and familiar landscape
+  scene:
+    mainElements: Window frame containing narrator's silhouette looking out at Thames choked with alien red vegetation
+    details: Alien vegetation with blood-red coloration, spreads rapidly through water systems, forms thick spongy masses
+      with cactus-like segmented growth, emits faint violet phosphorescence at night, represents biological terraforming attempt
+      by Martians. Thames completely clogged with red growth, London's lifeline transformed into alien artery
+    background: London skyline changed by alien vegetation growth, familiar city becoming alien landscape
+    atmosphere: Biological conquest of Earth proceeding systematically, familiar environment being transformed into alien
+      ecosystem, sense of planet being consumed and converted
+  composition:
+    cameraAngle: Natural frame created by damaged window containing narrator observing transformed world
+    focus: Narrator silhouetted in window frame with transformed Thames visible beyond showing biological invasion, no text
+      or letters visible
+    depth: Foreground shows window frame and interior damage, middle ground features narrator's silhouette, background reveals
+      Thames choked with alien red vegetation extending through transformed cityscape
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

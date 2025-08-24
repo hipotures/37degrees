@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crowd's horrified reaction as Heat Ray strikes delegation"
+  setting:
+    time: "1897, late afternoon as first Martian attack begins"
+    location: "Open heathland in Surrey England, sandy soil with scattered pine and birch groves, purple heather covering rolling terrain, old sand-pits creating natural depressions in landscape, public common land on edge of Victorian suburbs near Woking"
+    weather: "Evening light suddenly interrupted by unnatural green glow and flames"
+  characters:
+    - appearance: "Crowd of Victorian onlookers of various ages and social classes, faces showing transition from curiosity to absolute terror"
+      clothing: "Mix of Victorian attire - working men in caps and rough cloth, middle-class ladies with parasols, gentlemen in formal suits, children in period dress"
+      position: "Recoiling from crater edge, some falling backward, others beginning to run"
+      action: "Mass reaction of horror and panic as peaceful delegation is instantly vaporized by alien weapon"
+  scene:
+    mainElements: "Human crowd in moment of collective realization that the aliens are hostile, faces capturing the instant civilization's assumptions are shattered"
+    details: "Terror-stricken faces of men, women and children witnessing first act of interplanetary warfare, expressions of disbelief and dawning comprehension that humanity faces extinction, Victorian social order beginning to crumble in face of alien hostility"
+    background: "Flames and smoke rising from crater where delegation was destroyed, heathland beginning to burn, alien threat becoming visible reality"
+    atmosphere: "Pivotal moment when curiosity becomes mortal terror, end of innocence, beginning of humanity's fight for survival"
+  composition:
+    cameraAngle: "Medium wide shot capturing multiple faces in crowd showing range of human reactions"
+    focus: "Collective expression of human terror and disbelief as peaceful overtures are answered with death, no text or letters visible"
+    depth: "Foreground shows individual faces contorted with fear and shock, middle ground reveals crowd beginning to scatter, background displays rising flames and smoke from alien attack"

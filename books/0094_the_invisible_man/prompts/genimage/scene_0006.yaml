@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: February 1897, early morning after church burglary
+    location: Village vicarage study, ransacked room showing signs of invisible intruder
+    weather: Gray dawn light filtering through disturbed curtains
+  characters:
+  - appearance: Local vicar with kindly but concerned expression, elderly gentleman with gentle features
+    clothing: Dark clerical robes with white collar, hastily donned over nightclothes
+    position: Standing in doorway surveying destruction, hand pressed to chest in shock
+    action: Stepping carefully through scattered belongings, searching for missing items
+  - appearance: Vicar's wife, elderly woman with frightened expression
+    clothing: Dark wool dress hastily put on, shawl wrapped around shoulders
+    position: Peering anxiously from behind husband
+    action: Pointing at disturbed furniture while whispering fearfully
+  scene:
+    mainElements: Study furniture overturned and scattered, books thrown from shelves, desk drawers pulled out, clear signs
+      of systematic search, morning light revealing full extent of violation
+    details: Papers scattered across floor, empty cash box lying open, leather straps missing from desk, inkwell overturned
+      creating dark stain, family portraits knocked askew
+    background: Church visible through window, peaceful village morning contrasting with indoor chaos, sense of sacred space
+      violated
+    atmosphere: Sanctity destroyed by invisible force, helpless confusion in face of impossible crime, violation of trust
+      and safety in sacred space
+  composition:
+    cameraAngle: Wide shot from vicar's perspective showing full destruction
+    focus: Systematic nature of ransacking suggesting intelligence behind chaos
+    depth: Foreground shows specific damaged items, middle ground captures overall destruction, background reveals peaceful
+      exterior world, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

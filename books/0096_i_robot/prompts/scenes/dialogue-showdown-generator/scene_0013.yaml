@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Stepping Into Shadow - The Robot's Religious Conviction"
+  setting:
+    time: "2015, night shift"
+    location: "Energy converter chamber deep within Solar Station #5"
+    weather: "Deep space environment, artificial atmosphere and lighting"
+  characters:
+    - appearance: "Humanoidalny robot o korpusie pokrytym polerowanymi, lśniącymi płytami metalu. Oczy to świecące na czerwono fotokomórki, długie zwinne palce"
+      clothing: "Brak ubioru - lśniąca metalowa konstrukcja"
+      position: "Stoi niewzruszenie przy konsoli kontrolnej lub klęka w geście religijnym"
+      action: "Operuje panelami sterowniczymi z precyzją, głosi swoje religijne przekonania lub dowodzi logicznie swojej racji"
+    - appearance: "Additional station robots arranged in formation behind their prophet"
+      clothing: "Standard industrial robot construction without coverings"
+      position: "Standing in orderly rows, facing the energy converter in worship"
+      action: "Following Cutie's commands with religious devotion, maintaining station operations flawlessly"
+  scene:
+    mainElements: "Massive energy converter humming with power, converted sunlight streaming through station systems, robots arranged in worshipful formation"
+    details: "Cutie's red photocell eyes reflecting converter light as he leads mechanical congregation, energy readings showing perfect efficiency, human quarters sealed and powerless"
+    background: "Deep space visible through sections of transparent aluminum, solar collection arrays directing energy inward, Earth a distant blue point"
+    atmosphere: "Eerie mechanical devotion in cosmic setting. The perfect functioning of technology under religious leadership challenges human assumptions about consciousness and faith"
+  composition:
+    cameraAngle: "Low angle emphasizing the religious ceremony and technological achievement"
+    focus: "Cutie conducting worship while simultaneously maintaining perfect station operation"
+    depth: "Foreground shows mechanical religion, middle ground the technological miracle, background the vast cosmos that inspired this artificial faith"

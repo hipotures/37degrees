@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 2030s, indeterminate time in artificial environment
+    location: abandoned cybernetics training facility deep in corporate sprawl, sterile chambers once used for neural interface
+      development
+    weather: controlled atmosphere with no air movement, artificial lighting creating stark shadows
+  characters:
+  - appearance: 24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet,
+      pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible
+      at temples
+    clothing: worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or
+      puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive
+      lifestyle
+    position: standing motionless in center of empty chamber
+    action: holding breath and remaining perfectly still, creating zone of absolute quiet where even dust particles float
+      undisturbed
+  scene:
+    mainElements: vast empty chamber with white walls and ceiling, single figure standing in geometric center, dust motes
+      floating in absolute stillness, abandoned interface terminals around perimeter
+    details: dust particles suspended in air without movement showing absence of sound vibration, figure's clothing hanging
+      without motion, shadows perfectly defined without tremor, abandoned equipment creating geometric silhouettes, complete
+      absence of visual disturbance indicating perfect silence, no text or letters visible
+    background: sterile chamber walls with minimal architectural details, defunct interface stations showing no activity,
+      corridor entrances leading to darkness
+    atmosphere: overwhelming quiet that makes consciousness hypersensitive to smallest motion, absence of sound creating meditative
+      state, technological abandonment emphasized by perfect stillness
+  composition:
+    cameraAngle: wide shot showing figure dwarfed by empty chamber volume
+    focus: suspended dust particles and motionless air showing visualization of silence
+    depth: foreground featuring floating dust motes, middle ground showing solitary figure, background revealing geometric
+      architecture of abandoned facility
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

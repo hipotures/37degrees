@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Doctor's Examination - Professional Curiosity"
+  setting:
+    time: "February 1897, afternoon in stranger's room"
+    location: "Small upstairs chamber at Coach and Horses Inn, now crowded with scientific apparatus and medical investigation"
+    weather: "Overcast afternoon with pale light through windows"
+  characters:
+    - appearance: "Village doctor with refined features, nervous disposition, wearing spectacles"
+      clothing: "Dark formal suit with medical bag nearby, white collar"
+      position: "Seated uncomfortably close to bandaged stranger, medical bag open"
+      action: "Attempting to examine patient while maintaining professional demeanor despite obvious fear"
+    - appearance: "Completely concealed figure wrapped entirely in white bandages from head to toe, only pink artificial nose visible, large blue-tinted spectacles with side shields covering eye area"
+      clothing: "Long thick dark overcoat, soft felt hat with wide brim, heavy leather gloves, all garments designed to completely hide body shape and form"
+      position: "Seated rigidly in chair, body language suggesting barely contained hostility"
+      action: "Moving with measured deliberate steps, hands always kept within gloves"
+  scene:
+    mainElements: "Medical instruments laid out beside chemical apparatus, strange combination of healing and experimental tools, tension between scientific method and supernatural mystery"
+    details: "Doctor's hands trembling as he reaches toward bandages, stranger's artificial nose gleaming unnaturally, medical bag contents spilling across table, chemical odors mixing with carbolic acid"
+    background: "Collection of glass bottles, beakers, and chemical vessels of various sizes, some containing colorful liquids, measuring instruments, heating apparatus, scientific glassware typical of 1890s chemistry laboratory, arranged in chaotic profusion"
+    atmosphere: "Professional duty conflicting with instinctive fear, scientific curiosity overruled by supernatural dread, breakdown of rational medical examination"
+  composition:
+    cameraAngle: "Close-up from doctor's perspective looking at bandaged face"
+    focus: "Doctor's trembling hands approaching unnaturally still patient"
+    depth: "Foreground shows medical instruments, middle ground captures tense interaction, background reveals chaotic laboratory setup, no text or letters visible"

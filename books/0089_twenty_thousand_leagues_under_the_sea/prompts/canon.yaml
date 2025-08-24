@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "captain_nemo"
+      name: "Captain Nemo"
+      description_block: |
+        characters:
+          - appearance: "Dojrzały mężczyzna w wieku około 45 lat, wysoki o dumnej i wyniosłej postawie zdradzającej arystokratyczne pochodzenie. Blada cera, szerokie czoło, prosty nos i czysto narysowane usta. Niebieskie oczy osadzone nieco szerzej niż przeciętnie, dające mu niezwykle szerokie pole widzenia. Spojrzenie bystre, pewne siebie, spokojne, ale potrafiące w jednej chwili stać się lodowate i groźne. Ciemne włosy i broda nadające mu tajemniczy wygląd. Niezwykle delikatne i smukłe dłonie kontrastujące z jego rolą dowódcy"
+            clothing: "Prosta, elegancka tunika i spodnie z bisioru w ciemnych kolorach bez jakichkolwiek dystynkcji czy ozdób, podkreślające że jego autorytet wynika z osobowości"
+            posture: "Porusza się z opanowaniem i godnością, gesty precyzyjne i oszczędne, przez większość czasu twarz jest beznamiętną maską"
+    
+    - id: "professor_aronnax"
+      name: "Professor Pierre Aronnax"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku 40 lat o szczupłej, intelektualnej budowie ciała z wysokim czołem. Starannie przystrzyżona broda i wąsy typowe dla akademików tamtej epoki. Oczy wyrażające inteligencję i nieustanną ciekawość. Twarz o rysach intelektualisty odzwierciedlająca jego stany myślowe"
+            clothing: "Na lądzie nosi formalny strój dżentelmena - ciemny surdut, kamizelkę, białą koszulę ze sztywnym kołnierzem, krawat i eleganckie spodnie. Na Nautilusie otrzymuje ubrania z bisioru - lekką, wygodną tunikę i spodnie w stonowanych kolorach szarym lub beżowym"
+            posture: "Porusza się z powagą i spokojem naukowca, gesty oszczędne, często zamyślone, mimika odzwierciedlająca skupienie podczas obserwacji"
+    
+    - id: "conseil"
+      name: "Conseil"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku 30 lat o średnim wzroście i schludnej postawie. Flamandzkie pochodzenie. Gładko ogolony o spokojnej, niemal beznamiętnej twarzy. Wyprostowana postawa odzwierciedlająca jego uporządkowaną naturę"
+            clothing: "Prosty, ale zawsze czysty i porządny strój składający się z ciemnych spodni, kamizelki i prostej marynarki. Ubiór dyskretny i funkcjonalny, pozbawiony jakichkolwiek ozdób"
+            posture: "Porusza się cicho i sprawnie, zawsze kilka kroków za swoim panem, gesty precyzyjne i celowe, twarz rzadko zdradza emocje nawet w obliczu największych niebezpieczeństw"
+    
+    - id: "ned_land"
+      name: "Ned Land"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w wieku około 40 lat o imponującym wzroście przeszło sześć stóp angielskich (około 183 cm) i potężnej, silnej budowie ciała. Twarz ma poważny wyraz z dziwnie przenikliwym wejrzeniem - oczy wytrawnego myśliwego zdolne dostrzec najmniejszy ruch na horyzoncie. Ciemne, gęste włosy typowe dla Kanadyjczyka z Quebecu. Duże i silne dłonie stworzone do władania harpunem"
+            clothing: "Praktyczna, znoszona odzież marynarza lub wielorybnika - grube spodnie, wełniana koszula, buty z grubej skóry dostosowane do pracy w trudnych warunkach"
+            posture: "Porusza się z pewnością siebie i energią człowieka przyzwyczajonego do wysiłku fizycznego, gesty zamaszyste i zdecydowane, porywczy i nie ukrywa emocji"
+
+  locations:
+    - id: "nautilus_salon"
+      name: "Salon Nautilusa"
+      description_block: |
+        setting:
+          location: "Luksusowe centrum obserwacyjne i muzeum wewnątrz okrętu podwodnego Nautilus na głębokości oceanicznej"
+        mainElements: "Przestronne pomieszczenie o wymiarach 10x6x5 metrów z dwoma ogromnymi owalnymi oknami z kryształowego szkła o grubości 21 centymetrów na bocznych ścianach otwierających panoramiczny widok na podwodny świat"
+        atmosphere: "Luksus, spokój, kontemplacja i tajemnica. Ciemna nasycona paleta barw - heban i palisander mebli, głęboka czerwień wzorzystych tapiserii na ścianach, połysk mosiężnych okuć i złoconych ram obrazów. Równomierne jasne chłodne światło elektryczne z sufitu nie rzucające ostrych cieni"
+
+    - id: "nautilus_library"
+      name: "Biblioteka Nautilusa"
+      description_block: |
+        setting:
+          location: "Obszerna czytelnia i gabinet pracy przylegające do salonu wewnątrz okrętu podwodnego Nautilus"
+        mainElements: "Pomieszczenie równie obszerne jak salon z wysokimi sięgającymi sufitu regałami z czarnego palisandru z miedzianymi inkrustacjami mieszczącymi 12000 książek wszystkie oprawione w jednolity sposób"
+        atmosphere: "Cisza, intelektualne skupienie i porządek. Dominują ciemne nasycone barwy drewna i skóry, w powietrzu unosi się zapach starych książek, skóry i dymu z cygar z wodorostów"
+
+    - id: "nautilus_exterior"
+      name: "Nautilus - widok zewnętrzny"
+      description_block: |
+        setting:
+          location: "Okręt podwodny Nautilus pływający w oceanicznych wodach lub wynurzony na powierzchnię"
+        mainElements: "Okręt o kształcie idealnie hydrodynamicznego cygara długości 70 metrów i maksymalnej szerokości 8 metrów. Kadłub wykonany z podwójnej warstwy stalowych płyt gładki i pozbawiony zbędnych elementów. Na dziobie potężny ostro zakończony taran. Na grzbiecie niewielka płaska platforma z sterówką z grubymi soczewkowymi szybami oraz potężny reflektor elektryczny"
+        atmosphere: "Tajemnica i zagrożenie. Kadłub ma barwę ciemnej matowej stali pozwalającej wtopić się w mrok głębin. Cichy szybki i śmiercionośny, jego pojawienie się często w nocy poprzedzone fosforyzującą poświatą budzi skojarzenia z mitycznym potworem morskim"
+
+    - id: "underwater_forest_crespo"
+      name: "Podwodny las wyspy Crespo"
+      description_block: |
+        setting:
+          location: "Dno oceanu w pobliżu fikcyjnej wyspy Crespo na Pacyfiku pokryte piaskiem i skałami"
+        mainElements: "Surrealistyczny las gigantycznych pionowo rosnących wodorostów tworzących pionową roślinność przez którą przelatują ryby jak ptaki. Fantastyczna roślinność o organicznej strukturze"
+        atmosphere: "Magia, sen, cisza i momentami groza. Światło słoneczne przenika przez wodę tworząc magiczną błękitno-zieloną poświatę i ruchome smugi światła na dnie. Głębokie zielenie, błękity, czerwienie i róże filtrowanego światła"
+
+    - id: "atlantis_ruins"
+      name: "Ruiny zatopionej Atlantydy"
+      description_block: |
+        setting:
+          location: "Zatopione miasto na dnie Oceanu Atlantyckiego oświetlone przez podwodny wulkan"
+        mainElements: "Monumentalne ruiny starożytnej architektury w stylu toskańskim z kolumnami świątyniami i budynkami pokrytymi porostami morskimi"
+        atmosphere: "Majestat, tajemnica, melancholia i groza. Ciemne skały kontrastujące z czerwienią i pomarańczem lawy wulkanicznej oraz zielenią porostów. Pulsujące czerwonawe światło podwodnego wulkanu tworzy dramatyczne oświetlenie"
+
+    - id: "abraham_lincoln_frigate"
+      name: "Fregata Abraham Lincoln"
+      description_block: |
+        setting:
+          location: "Okręt wojenny Marynarki Wojennej Stanów Zjednoczonych na otwartym Pacyfiku"
+        mainElements: "Hybryda technologiczna - smukły prawdopodobnie drewniany kadłub, trzy wysokie maszty z pełnym ożaglowaniem, centralnie umieszczony wysoki komin z którego wydobywa się gęsty czarny dym podczas pracy maszyny parowej. Rzędy ciężkich gładkolufowych dział umieszczonych w ambrazurach na pokładzie działowym"
+        atmosphere: "Dyscyplina, ciasnota, zapach smoły i pary. Wnętrza oficerskie funkcjonalne ale ciasne wykończone ciemnym drewnem i oświetlone chwiejnymi lampami naftowymi"
+
+  items:
+    - id: "diving_suit"
+      name: "Skafander nurkowy"
+      description_block: |
+        details: "Ciężki gumowany kombinezon z dużym kulistym hełmem z mosiądzu z trzema grubymi okrągłymi iluminatorami. Zbiornik na powietrze na plecach i ciężkie ołowiane buty. Narzędzie eksploracji symbolizujące wtargnięcie człowieka w obcy świat"
+
+    - id: "electric_rifle"
+      name: "Strzelba elektryczna"
+      description_block: |
+        details: "Opływowy futurystyczny karabin zamiast kul wystrzeliwujący skondensowane ładunki elektryczne zwane kulami lejdejskimi które paraliżują i zabijają. Symbol technologicznej przewagi Nemo - cicha i precyzyjna broń nie zakłócająca spokoju oceanu"
+
+    - id: "nemo_flag"
+      name: "Flaga Kapitana Nemo"
+      description_block: |
+        details: "Czarna flaga ze złotą stylizowaną literą N pośrodku. Symbol suwerenności i niezależności Nemo oznaczenie jego terytorium i odrzucenie wszystkich flag narodowych"
+
+    - id: "harpoon"
+      name: "Harpun Neda Landa"
+      description_block: |
+        details: "Długi ciężki harpun z ostrym stalowym grotem i drewnianym trzonkiem wyślizganym od wieloletniego użytku. Symbol tradycyjnego wielorybnictwa i siły fizycznej reprezentujący stary świat który staje się bezużyteczny wobec technologii Nemo"
+
+    - id: "organ"
+      name: "Organy w salonie"
+      description_block: |
+        details: "Wielki majestatyczny instrument wbudowany w ścianę salonu z ciemnego polerowanego drewna i rzędami metalowych piszczałek. Głos duszy kapitana Nemo na których gra w chwilach triumfu smutku lub furii wyrażając emocje których nie potrafi ubrać w słowa"

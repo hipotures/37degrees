@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Mask Slips - Terror Behind the Smile"
+  setting:
+    time: "1879, Christmas morning"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Harsh winter light revealing truth"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Standing alone after Krogstad's departure, facing away from doors"
+      action: "Forced smile crumbling as she believes herself unobserved, face showing raw terror and desperation beneath the cheerful facade"
+  scene:
+    mainElements: "Same mieszczański salon in Christiania during Boże Narodzenie period, decorated for święta"
+    details: "The Christmas decorations now seem grotesque in contrast to Nora's unveiled terror. The comfortable room witnesses the collapse of her performed happiness. Her face shows the true cost of maintaining lies and the growing awareness of her trapped situation."
+    background: "Initially przytulny świąteczny and pełny beztroski, evolving into klaustrofobiczna duszna pułapka, osvětlenie from zimowe światło z okna and ciepły migotliwy blask from piec creating contrasts"
+    atmosphere: "The artificial Christmas cheer cannot mask the growing darkness. Truth breaks through the performance of happiness."
+  composition:
+    cameraAngle: "Extreme close-up on Nora's face"
+    focus: "The transition from forced smile to revealed terror, the mask falling away"
+    depth: "Foreground: Nora's true expression of fear. Middle ground: Empty room after the threat has departed. Background: Christmas decorations that mock her desperate situation."

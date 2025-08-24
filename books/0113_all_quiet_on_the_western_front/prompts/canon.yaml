@@ -1,0 +1,171 @@
+canon:
+  characters:
+    - id: "paul_baumer"
+      name: "Paul Bäumer"
+      description_block: |
+        characters:
+          - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+            clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+            posture: "ewoluuje od niepewności rekruta do zautomatyzowanych instynktownych reakcji weterana, w walce porusza się jak dzikie zwierzę kierowany wyłącznie instynktem przetrwania, na tyłach ze znużeniem i rezygnacją"
+            
+    - id: "stanislaus_katczinsky"
+      name: "Stanislaus Katczinsky (Kat)"
+      description_block: |
+        characters:
+          - appearance: "40 lat, zgarbione opadające ramiona sugerujące człowieka przyzwyczajonego do ciężkiej pracy, niebieskie oczy, twarz z ziemi poorana zmarszczkami ogorzała od wiatru i słońca surowa i prosta, biedny cienki wąsik, niezwykły nos"
+            clothing: "znoszony brudny mundur niemieckiego żołnierza Feldgrau, jako szewc z zawodu prawdopodobnie najlepiej dbał o swoje buty w warunkach frontowych"
+            posture: "porusza się w sposób pewny i opanowany bez zbędnych ruchów, gesty celowe i praktyczne, mimika powściągliwa ale niebieskie oczy wyrażają spryt troskę i zmęczenie"
+
+    - id: "albert_kropp"
+      name: "Albert Kropp"
+      description_block: |
+        characters:
+          - appearance: "19 lat, niski drobnej budowy mały Albert Kropp najmniejszy z grupy, inteligentne myślące spojrzenie"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "intelektualna postawa często inicjuje filozoficzne dyskusje"
+
+    - id: "mueller"
+      name: "Müller"
+      description_block: |
+        characters:
+          - appearance: "19 lat, wystające zęby donośny śmiech, twarz wyrażająca pragmatyzm"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "pragmatyczna postawa zawsze praktyczne podejście do sytuacji"
+
+    - id: "tjaden"
+      name: "Tjaden"
+      description_block: |
+        characters:
+          - appearance: "19 lat ślusarz z zawodu, bardzo chudy porównywany do konika polnego lub szczapy mimo że największy żarłok w kompanii, ostre mysie rysy"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "zawsze z menażką często podwójna porcja jedzenia, główną troską zaspokojenie głodu"
+
+    - id: "leer"
+      name: "Leer"
+      description_block: |
+        characters:
+          - appearance: "19 lat, nosi pełną brodę przez co wygląda na starszego niż jest w rzeczywistości"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "uosobieniem utraconej młodości i jej pragnień myśli krążą wokół kobiet i miłości"
+
+    - id: "haie_westhus"
+      name: "Haie Westhus"
+      description_block: |
+        characters:
+          - appearance: "19 lat kopacz torfu z zawodu, bardzo duży facet o ogromnej sile fizycznej z wielkimi łapami"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "reprezentuje siłę fizyczną i prostotę, łopatka saperska której używa jako broni"
+
+    - id: "detering"
+      name: "Detering"
+      description_block: |
+        characters:
+          - appearance: "chłop rolnik z zawodu, budowa typowa dla rolnika krzepka, twarz prosta chłopska wyrażająca tęsknotę"
+            clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+            posture: "symbol głębokiej więzi z naturą i domem, miłość do koni i tęsknota za gospodarstwem"
+
+    - id: "franz_kemmerich"
+      name: "Franz Kemmerich"
+      description_block: |
+        characters:
+          - appearance: "19 lat, przed zranieniem twarz dziecka i delikatne kości bardzo blady coś z dziewczyny, umierający wychudzony szkielet przebijający się przez skórę twarz upiorna żółta i blada zapadnięte oczy w oczodołach"
+            clothing: "szpitalna koszula, wysokiej jakości buty lotnicze kluczowy rekwizyt"
+            posture: "leży na pryczy umierający po amputacji nogi"
+
+    - id: "kantorek"
+      name: "Kantorek (nauczyciel)"
+      description_block: |
+        characters:
+          - appearance: "surowy mały człowieczek w szarym surducie o twarzy przypominającej ryjówkę, niski drobny, nosi okulary"
+            clothing: "w cywilu szary surdut, w wojsku komicznie niedopasowany mundur"
+            posture: "uosabia obłudę i ignorancję starszego pokolenia, wskaźnik lub laska nauczycielska"
+
+    - id: "himmelstoss"
+      name: "Kapral Himmelstoss"
+      description_block: |
+        characters:
+          - appearance: "niewielki niski facet z lisim woskowanym wąsikiem, twarz wyrażająca butę i sadyzm"
+            clothing: "mundur kaprala zawsze nienagannie czysty podczas szkolenia"
+            posture: "archetyp małego człowieka upajającego się władzą, były listonosz w wojsku sadystyczny tyran, gwizdek notes do zapisywania przewinień"
+
+  locations:
+    - id: "front_trenches"
+      name: "Okopy frontu zachodniego"
+      description_block: |
+        setting:
+          location: "front zachodni I wojny światowej północna Francja i Flandria w Belgii, piekielny chaotyczny labirynt głębokich na 3 metry wąskich rowów wykopanych w zygzakowatym wzorze, system okopów pierwszej linii okopów wsparcia i łączących je wąskich rowów komunikacyjnych"
+        mainElements: "prymitywne ziemianki wkopane w ściany okopów, krajobraz całkowicie zdewastowany przypominający wzburzone morze błota usiane lejami po pociskach tworzące księżycową topografię, ziemia niczyja splątana plątaniną drutów kolczastych jak cierniowe chaszcze usiana rozkładającymi się ciałami"
+        atmosphere: "monochromatyczna paleta błotnistego brązu posępnej szarości głębokiej czerni z tłustym niezdrowym połyskiem, plamy jaskrawej czerwieni krwi i wnętrzności, podczas ataków gazowych chorobliwa żółto-zielona mgła, ołowianoszare niebo zasnute dymem"
+
+    - id: "behind_lines"
+      name: "Tereny za linią frontu"
+      description_block: |
+        setting:
+          location: "przestrzeń tymczasowego wytchnienia za frontem zachodnim, żołnierze kwaterują w prostych barakach opuszczonych stodołach lub piwnicach zrujnowanych wiosek"
+        mainElements: "kuchnia polowa z której unosi się zapach tłustego jedzenia, prowizoryczne wspólne latryny z drewnianych skrzyń miejsce spotkań towarzyskich, piwnica w opuszczonej wiosce zamieniona w tymczasowy raj z zrabowanymi meblami materacami i pościelą"
+        atmosphere: "kolorystyka stonowana ale naturalne barwy zieleń łąk i drzew błękit nieba, względna cisza chociaż daleki pomruk dział na froncie stałe tło dźwiękowe, atmosfera czarnego humoru i ducha braterstwa, życie koncentruje się na podstawowych potrzebach jedzeniu spaniu i byciu razem"
+
+    - id: "german_hometown"
+      name: "Niemieckie miasteczko rodzinne Paula"
+      description_block: |
+        setting:
+          location: "typowe spokojne niemieckie miasteczko z początku XX wieku, znane uporządkowane elementy zielona wieża kościoła św Małgorzaty ogródek piwny w cieniu kasztanowców schludne mieszczańskie domy"
+        mainElements: "dom rodzinny Paula oaza bezpieczeństwa i komfortu, pokój z dzieciństwa z brązową skórzaną kanapą półkami pełnymi książek i osobistymi pamiątkami symbolizuje utracony świat niewinności"
+        atmosphere: "ciepłe naturalne barwy błękit nieba zieleń liści ciepłe odcienie wnętrz domowych ostry wizualny kontrast z szaroburą paletą frontu, cisza i porządek dźwięki codziennego życia cywilnego dzwonki tramwajów rozmowy przechodniów"
+
+    - id: "field_hospital"
+      name: "Szpital polowy wojskowy"
+      description_block: |
+        setting:
+          location: "proste baraki lub zaadaptowane budynki za linią frontu, długie korytarze sale wieloosobowe"
+        mainElements: "rzędy łóżek białe prześcieradła bandaże prymitywny sprzęt medyczny wyciągi dla rannych z połamanymi kończynami"
+        atmosphere: "sterylna zimna biel szarość czerwień krwi na bandażach, surowe zimne światło lamp elektrycznych lub naftowych, cierpienie ból śmierć ale też solidarność pacjentów"
+
+    - id: "destroyed_cemetery"
+      name: "Zrujnowany cmentarz"
+      description_block: |
+        setting:
+          location: "zniszczony cmentarz na ziemi niczyjej frontu zachodniego, nagrobki poprzewracane ziemia zryta przez eksplozje"
+        mainElements: "wyrzucone z grobów trumny szkielety zniszczone krzyże, leje po pociskach między grobami"
+        atmosphere: "czerń nocy szarość kamienia biel kości, mroczna oświetlana jedynie błyskami wybuchów, makabra groza świętokradztwo wojny"
+
+  items:
+    - id: "kemmerich_boots"
+      name: "Buty Kemmericha"
+      description_block: |
+        details: "wysokiej jakości skórzane buty lotnicze obiekt pożądania w warunkach gdzie dobre obuwie na wagę złota, przechodząc z jednego żołnierza na drugiego symbolizują brutalny pragmatyzm wojny i dewaluację ludzkiego życia"
+
+    - id: "gas_mask"
+      name: "Maska przeciwgazowa"
+      description_block: |
+        details: "cylindryczna puszka na maskę przeciwgazową noszona na pasku przez ramię, przedmiot o upiornym wyglądzie z okrągłymi szkłami przypominającymi oczy owada, symbolizuje nieludzką technologiczną naturę nowoczesnej wojny"
+
+    - id: "german_uniform_feldgrau"
+      name: "Mundur Feldgrau"
+      description_block: |
+        details: "standardowy mundur Cesarskiej Armii Niemieckiej tunika i spodnie z grubego szorstkiego sukna w kolorze Feldgrau polowej szarości, tunika ze stójkowo-wykładanym kołnierzem guziki kryte listwą naramienniki z numerem pułku, symbolizuje utratę indywidualności i dehumanizację"
+
+    - id: "mauser_rifle"
+      name: "Karabin Mauser Gewehr 98"
+      description_block: |
+        details: "długolufowy karabin Mauser Gewehr 98 z bagnetem, podstawowa broń niemieckiego piechura"
+
+    - id: "steel_helmet"
+      name: "Hełm Stahlhelm"
+      description_block: |
+        details: "charakterystyczny hełm stalowy M1916 o kształcie przypominającym garnek do węgla powierzchnia matowa w kolorze Feldgrau często pokryta błotem dla kamuflażu, jeden z najbardziej rozpoznawalnych symboli niemieckiego żołnierza"
+
+    - id: "barbed_wire"
+      name: "Drut kolczasty"
+      description_block: |
+        details: "splątane zardzewiałe zwoje drutu kolczastego wyglądające jak cierniowe chaszcze symbolizują nienaturalną bolesną barierę i pułapkę na ziemi niczyjej"
+
+    - id: "cherry_blossoms"
+      name: "Kwitnąca wiśnia"
+      description_block: |
+        details: "drzewo wiśni w pełnym rozkwicie gałązka kwitnącej wiśni symbolizuje utracony dom pokój i naturalny cykl życia przerwany przez wojnę"
+
+    - id: "earth_mud"
+      name: "Ziemia i błoto"
+      description_block: |
+        details: "wszechobecne błoto pokrywające wszystko i wszystkich na froncie, ziemia przesiąknięta krwią i rozkładem symbolizuje zarówno schronienie matka-ziemia jak i masowy grób"

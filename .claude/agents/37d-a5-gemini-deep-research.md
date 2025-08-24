@@ -104,16 +104,22 @@ cat books/${book_folder}/docs/book-ds-prompt.md | xsel --clipboard
 Focus na pole tekstowe i wklejenie przez Control+V:
 
 ```javascript
+await mcp__playwright-show-browser__browser_wait_for({time: 3});
+
 // Focus na pole tekstowe
 await mcp__playwright-show-browser__browser_click({
     element: "Pole tekstowe promptu",
     ref: "[REF_Z_SNAPSHOT]"
 });
 
+await mcp__playwright-show-browser__browser_wait_for({time: 3});
+
 // Wklej zawartość przez Control+V
 await mcp__playwright-show-browser__browser_press_key({
     key: "Control+v"
 });
+
+await mcp__playwright-show-browser__browser_wait_for({time: 3});
 
 // Wyślij za pomocą Ctrl+Enter
 await mcp__playwright-show-browser__browser_press_key({
@@ -239,3 +245,4 @@ Zawsze informuję o postępie:
 - Zakończenie procesu
 
 Jestem gotowy do wykonania automatyzacji. Wystarczy powiedzieć "uruchom gemini-deep-research" lub użyć komendy "Use gemini-deep-research subagent".
+

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Crowd Perspective - Keystone Ceremony Celebration"
+  setting:
+    time: "1491 Ekumen calendar, spring afternoon, overcast day with intermittent sunlight"
+    location: "Stone-built capital city of Karhide on planet Gethen, massive monolithic architecture creating deep narrow street-canyons"
+    weather: "Cool spring day with drizzling rain, deceptive sunlight breaking through clouds giving light but no warmth"
+  characters:
+    - appearance: "Hundreds of Gethenian citizens representing all social levels, ages, and family affiliations, compact builds typical of cold-climate adaptation"
+      clothing: "Festival dress in family colors creating brilliant display, silk banners and ceremonial attire mixing traditional patterns with individual expression"
+      position: "Packed together in stone street canyon, pressed into unified crowd formation"
+      action: "Participating in collective celebration through synchronized cheering, banner waving, and traditional responses to ceremonial moments"
+    - appearance: "Middle-aged Gethenian ruler 50-60 years old, face lined with shadows expressing paranoia and inner torment"
+      clothing: "Simple white tunic, white shirt and pants, single gold ring as only symbol of royal authority"
+      position: "Elevated on ceremonial platform above crowd"
+      action: "Performing keystone installation ceremony as focal point for collective celebration"
+  scene:
+    mainElements: "Stone street canyon filled with celebrating citizens, colorful silk banners creating visual unity despite individual differences, ceremonial arch construction providing symbolic focus, elevated platform creating shared viewing experience"
+    details: "Collective voice creating unified sound rising from individual throats, shared emotional experience transcending personal concerns, traditional responses passed down through generations creating temporal continuity, rain-wet banners creating brilliant color display, crowd movement creating organic patterns, no text or letters visible"
+    background: "Ancient stone architecture providing historical context for ceremony, narrow alleys creating acoustic amplification for crowd sounds, palace walls suggesting institutional continuity"
+    atmosphere: "Collective celebration creating temporary unity across social divisions - individual identity merging into shared cultural experience of traditional ceremony"
+  composition:
+    cameraAngle: "Wide angle from within crowd showing collective experience from participant perspective"
+    focus: "Shared emotional experience creating temporary community transcending individual differences and social hierarchies"
+    depth: "Foreground: immediate crowd participants, middle: ceremonial focus point, background: historical architecture connecting celebration to cultural tradition"

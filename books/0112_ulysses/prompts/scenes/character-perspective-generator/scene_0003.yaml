@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Leopold Bloom Perceives Simon Dedalus as Haunted Father"
+  setting:
+    time: "1904 late morning, 11:00 AM, overcast Dublin sky"
+    location: "Interior of funeral carriage traveling through Dublin streets toward Glasnevin Cemetery"
+    weather: "Gray cloudy morning with gentle Irish mist in air"
+  characters:
+    - appearance: "38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face, dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage"
+      clothing: "Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers, black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status"
+      position: "Seated in cramped funeral carriage, observing Simon Dedalus with empathetic understanding across from him"
+      action: "Listening with compassionate attention to Simon's stories, mentally connecting father's pain to his own loss of son Rudy, touching potato talisman while absorbing Simon's grief"
+    - appearance: "Stephen's father, once-handsome man now weathered by alcohol and financial failure, showing remnants of former dignity, aged beyond his years with sorrowful eyes"
+      clothing: "Worn but once-elegant black funeral attire, clothing showing signs of reduced circumstances but maintained with stubborn pride"
+      position: "Seated opposite Leopold in carriage, leaning forward in animated conversation despite funeral solemnity"
+      action: "Sharing memories and stories with mixture of charm and desperation, voice carrying echoes of better times, hands gesturing with inherited Irish eloquence"
+  scene:
+    mainElements: "Dark carriage interior transformed by Leopold's understanding into moving confession booth, funeral journey becoming pilgrimage of shared parental loss, cramped space feeling intimate rather than oppressive through Leopold's empathetic perspective"
+    details: "Through Leopold's compassionate lens, every detail of Simon resonates with tragic dignity - father's worn clothing suggests nobility surviving hardship, animated storytelling revealing desperate need for connection and validation, practiced charm masking profound loneliness, shared carriage space creating temporary sanctuary where two fathers can acknowledge unspoken grief, shadows playing across Simon's face highlighting lines of worry and loss, funeral procession outside representing collective human mortality, carriage wheels on cobblestones providing rhythmic accompaniment to Simon's tales, other mourners appearing as chorus of human suffering and resilience"
+    background: "Leopold's empathetic vision transforms carriage surroundings into sacred space of male vulnerability - cushioned seats suggesting brief respite from life's harshness, windows framing passing Dublin as theater of universal human drama"
+    atmosphere: "Profound masculine tenderness filtered through Leopold's paternal understanding, recognition of shared fatherhood transcending social differences, gentle melancholy that honors rather than wallows in loss, sense of brotherhood among men who have buried their hopes in their children, Dublin morning transformed from mere funeral journey into pilgrimage of compassionate witness, no text or letters visible"
+  composition:
+    cameraAngle: "Intimate medium shot from Leopold's perspective, capturing Simon's expressive face and gestures within confined carriage space"
+    focus: "Simon's animated storytelling reflected in Leopold's deeply attentive, understanding expression"
+    depth: "Foreground shows Leopold's listening presence, middle ground frames Simon in his moment of need for connection, background suggests Dublin streets bearing witness to their shared journey through grief"

@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Near future, dim interior lighting with dust particles visible in air
+    location: Former public library converted into approved reading facility in Gilead territory
+    weather: Indoor setting with artificial lighting creating pools of light and shadow
+  characters:
+  - appearance: Few citizens present, mostly men in Commander uniforms, looking at approved materials
+    clothing: Black Commander suits and brown Aunt uniforms, no Handmaids present in this literacy-restricted space
+    position: Standing or sitting at reading tables with officially approved texts
+    action: Reading only from approved religious and state documents, speaking in whispers when speaking at all
+  scene:
+    mainElements: Vast empty bookshelves stretching from floor to ceiling with only scattered approved volumes, large empty
+      spaces where thousands of books once stood
+    details: Most shelves are completely bare with only dust outlines showing where books were removed. The few remaining
+      books are all religious texts, approved history, and state documentation. Empty card catalogs sit abandoned. Former
+      literature, science, and humanities sections are completely vacant. Signs indicate restricted access and approved reading
+      lists.
+    background: Reading rooms with empty displays where exhibitions once showed diverse knowledge, desks and chairs arranged
+      for controlled study of limited materials
+    atmosphere: Intellectual emptiness and loss of knowledge, the vast empty shelves serving as monument to systematic censorship
+      and mind control
+  composition:
+    cameraAngle: Wide shot down long rows of empty shelving to emphasize the scale of intellectual destruction
+    focus: The empty bookshelves dominate the frame showing the absence of forbidden knowledge
+    depth: Empty shelves in foreground extending into background creating perspective of endless intellectual void
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

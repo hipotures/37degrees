@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Delegation with white flag approaching Martian crater"
+  setting:
+    time: "1897, late afternoon as peace mission forms"
+    location: "Open heathland in Surrey England, sandy soil with scattered pine and birch groves, purple heather covering rolling terrain, old sand-pits creating natural depressions in landscape, public common land on edge of Victorian suburbs near Woking"
+    weather: "Golden afternoon light creating long dramatic shadows across heathland"
+  characters:
+    - appearance: "Small group of Victorian gentlemen including local astronomer and journalist, middle-aged men in formal dark suits, serious expressions showing mix of civic duty and apprehension"
+      clothing: "Conservative Victorian formal wear - dark wool suits, top hats, white shirts with high collars, representing civilized humanity's diplomatic approach"
+      position: "Walking cautiously across heathland toward crater in formal procession"
+      action: "Advancing slowly with white flag held high, attempting to establish peaceful communication with alien visitors"
+  scene:
+    mainElements: "Small delegation of humans approaching alien crater with white flag of truce, vast heathland stretching around them"
+    details: "Simple kawałek białego materiału na kiju - white cloth attached to wooden pole representing universal symbol of peaceful intent, men walking with careful dignity despite obvious fear, formal Victorian deportment maintained even in unprecedented circumstances"
+    background: "Curious crowd maintaining safe distance, pine and birch groves creating natural amphitheater, summer heathland extending to horizon"
+    atmosphere: "Tense hope that human diplomatic traditions might bridge interplanetary divide, Victorian confidence in civilized discourse meeting alien unknown"
+  composition:
+    cameraAngle: "Medium shot following delegation from behind, showing their vulnerable approach"
+    focus: "White flag as symbol of human hope for peaceful contact, delegation walking toward uncertain fate, no text or letters visible"
+    depth: "Foreground shows heather-covered ground, middle ground features delegation with prominent white flag, background reveals distant crater and watching crowd"

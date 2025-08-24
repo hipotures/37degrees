@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rapid Christmas Joy - From Misery to Celebration"  
+  setting:
+    time: "December 25, 1843 - single day compressed to moments"
+    location: "Busy commercial thoroughfares of 1840s London with shop fronts, market stalls, and pedestrians hurrying through winter weather"
+    weather: "Christmas morning snow clearing to bright afternoon sun"
+  characters:
+    - appearance: "Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt cheeks marked by inner coldness"
+      clothing: "Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting his frugal nature"
+      position: "Rapidly transforming from withdrawn figure to celebrant"
+      action: "Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving expression"
+  scene:
+    mainElements: "Scrooge's Christmas Day transformation shown in fast motion - morning isolation rapidly giving way to afternoon celebration, hostile withdrawal accelerating into enthusiastic participation, single day compressed into dramatic character evolution sequence"
+    details: "Accelerated redemption progression - morning scowl rapidly softening to smile, rigid posture melting to animated gestures, dark clothing unchanged but body language completely transformed, breakfast solitude quickly replaced by active street engagement, hostile street encounters accelerating into warm greetings, shop purchasing happening in rapid succession, gift-giving gestures multiplying quickly, Christmas carol joining happening suddenly, church attendance decision made instantly, no text or letters visible"
+    background: "London Christmas activity accelerating around transformation - morning emptiness rapidly filling with Christmas celebration, shop windows displaying goods in fast motion, gas lamps lighting in accelerated sequence, church bells increasing tempo, snow melting quickly under warming sun"
+    atmosphere: "Joy spreading at supernatural speed, sounds accelerating from silence to full Christmas celebration, scents rapidly changing from cold air to feast preparation aromas, light quality intensifying from gray morning to golden afternoon"
+  composition:
+    cameraAngle: "Following shot tracking Scrooge's rapid progression through London streets"
+    focus: "Scrooge's accelerating transformation from miserly isolation to Christmas celebration"  
+    depth: "Foreground shows immediate character changes, middle ground reveals rapid street interaction, background displays London Christmas activity acceleration"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: A small, cramped cabin on the steamboat.
+    weather: The air is hot, humid, and stagnant.
+  characters:
+  - appearance: Mr. Kurtz, a dying man.
+    clothing: Lying on a cot, covered by a thin, stained sheet.
+    position: His body is skeletal, but his eyes are wide and filled with a terrifying, final clarity.
+    action: He whispers his final words, his voice a dry, rasping sound. His face is a mask of profound, soul-shattering horror.
+  - appearance: Charles Marlow, 32.
+    clothing: Simple sailor's clothes.
+    position: Sitting by Kurtz's side.
+    action: He is listening to Kurtz's final words, his face a reflection of the dying man's horror.
+  scene:
+    mainElements: The death of Kurtz. A moment of terrible, final self-knowledge.
+    details: The cabin is claustrophobic and oppressive. The walls seem to be closing in. The light from the single porthole
+      is a sickly yellow. The shadows in the corners of the room seem to writhe and twist. The words 'The horror! The horror!'
+      are visualized as a black, oily substance that leaks from Kurtz's mouth and stains the sheets. no text or letters visible
+    background: The monotonous, unchanging jungle, visible through the porthole.
+    atmosphere: A scene of intense, claustrophobic horror. The final, terrifying revelation of the darkness that lies at the
+      heart of all things. no text or letters visible
+  composition:
+    cameraAngle: An extreme close-up on Kurtz's face at the moment of his death.
+    focus: The look of absolute, soul-shattering horror in Kurtz's eyes.
+    depth: A very shallow depth of field, with everything but Kurtz's face dissolving into a blurry, nightmarish background.
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

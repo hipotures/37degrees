@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: February 1897, afternoon during dramatic revelation
+    location: Coach and Horses Inn main parlor viewed from multiple simultaneous angles
+    weather: Bright afternoon providing clear visibility of impossible events
+  characters:
+  - appearance: Empty clothing moving without visible wearer, coat sleeves gesturing while hollow, trouser legs walking independently,
+      hat floating in air, creating unsettling spectacle of animation without occupant
+    clothing: Long thick dark overcoat, soft felt hat with wide brim, heavy leather gloves, all garments designed to completely
+      hide body shape and form
+    position: Center of room surrounded by terrified villagers
+    action: Removing disguise while villagers react with terror
+  - appearance: Multiple village residents with varying expressions of fear, confusion, and disbelief
+    clothing: Mix of working-class garments and village authority figures
+    position: Scattered around room at different distances from central phenomenon
+    action: Reacting simultaneously with different emotional responses
+  scene:
+    mainElements: Supernatural revelation of invisible man seen from multiple vantage points simultaneously, revealing different
+      aspects of impossible event
+    details: Bandages floating from one angle, empty spectacles from another, villagers' faces showing different stages of
+      comprehension, dramatic moment captured from corner, doorway, and center perspectives
+    background: Familiar inn interior made strange through multiple simultaneous viewpoints, revealing hidden angles and previously
+      unseen details
+    atmosphere: Reality fragmented into multiple perspectives, truth emerging through accumulation of impossible viewpoints,
+      single event revealing different meanings from different positions
+  composition:
+    cameraAngle: Split perspective showing multiple simultaneous angles
+    focus: How supernatural revelation appears different from various positions
+    depth: Multiple depth fields showing different aspects of dramatic revelation, revealing complexity of invisible man's
+      unmasking, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

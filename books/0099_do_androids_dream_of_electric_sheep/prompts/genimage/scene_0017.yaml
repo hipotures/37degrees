@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: January 2021, afternoon
+    location: Clean minimalist corporate modernist building interior in Seattle
+    weather: Controlled environmental systems maintaining specific temperature and humidity levels
+  characters:
+  - appearance: Young woman around 18-20 years old, slim build, black hair, physically perfect android appearance
+    clothing: Long striped coat in bright colors, large protective goggles with dust filter, long artificial eyelashes
+    position: Standing with composed elegant posture
+    action: Moving with calculated grace and subtle manipulation in her gestures
+  - appearance: Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker
+      appearance, tired expression
+    clothing: Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside
+    position: Standing with slight wariness, hand near laser rifle holster
+    action: Moving cautiously through environment with professional detachment
+  scene:
+    mainElements: Large empty spaces measuring specific square footage, corporate furniture meeting industry standards, sterile
+      white and metallic surfaces maintained according to cleaning protocols
+    details: Briefcase containing precise medical-looking instruments with light emitter goggles, pulse and skin response
+      sensors, small monitor displaying reaction graphs at documented technical specifications. Testing equipment calibrated
+      to measure physiological responses within established parameters. Room temperature, lighting levels, acoustic properties
+      maintained within corporate environmental standards. Furniture placement optimized for functional efficiency rather
+      than aesthetic or psychological effect
+    background: Corporate architecture designed according to standard modernist principles with measured ceiling heights and
+      regulated ventilation systems
+    atmosphere: Neutral testing environment optimized for scientific measurement without subjective emotional interpretation,
+      technical procedure following established protocols, no text or letters visible
+  composition:
+    cameraAngle: Standard documentation angle showing technical procedure without dramatic or emotional emphasis
+    focus: Scientific equipment functioning according to specifications during routine testing procedure
+    depth: Foreground shows technical instruments in operational detail, middle ground captures standard professional interaction,
+      background documents corporate environmental controls
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

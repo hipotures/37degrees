@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Galactic Empire from orbital perspective showing Trantor's metallic surface"
+  setting:
+    time: "Galactic Standard Era 12000s, midday"
+    location: "orbital view of Trantor, central capital planet of Galactic Empire"
+    weather: "artificial atmospheric control visible as regulated cloud patterns"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Entire planetary surface covered in continuous metallic cityscape, multi-layered urban structures extending from pole to pole, artificial atmospheric dome creating regulated weather patterns, massive orbital traffic of Imperial vessels"
+    details: "Planet-wide ecumenopolis reflecting sunlight from countless metal surfaces, geometric grid patterns of streets and structures visible from space, transport tubes snaking between levels, occasional green patches marking exclusive Imperial preserves, spacecraft moving in organized traffic lanes around planet"
+    background: "Deep space filled with dense star field of galactic center, neighboring systems visible as bright points, other Imperial worlds appearing as distant lights in cosmic infrastructure network"
+    atmosphere: "Overwhelming display of human dominance over nature, artificial world representing pinnacle of Imperial engineering, sense of monumental scale suggesting both achievement and potential hubris"
+  composition:
+    cameraAngle: "orbital wide shot from space looking down at planet"
+    focus: "entire planet Trantor showing complete surface urbanization"
+    depth: "foreground with spacecraft, middle ground planet surface detail, background galactic center star density"

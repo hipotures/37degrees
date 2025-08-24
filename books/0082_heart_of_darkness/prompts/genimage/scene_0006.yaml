@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: On the repaired steamboat, moving up the Congo River.
+    weather: Oppressively hot and humid. The air is unnaturally still.
+  characters:
+  - appearance: Charles Marlow, 32.
+    clothing: Simple, practical sailor's clothes.
+    position: At the helm of the steamboat.
+    action: Staring intently at the river ahead, his knuckles white as he grips the wheel. He is trying to focus on the task
+      of navigation, but is clearly distracted.
+  scene:
+    mainElements: The journey up the river. The jungle on either side is a solid, impenetrable wall of green.
+    details: The water of the river is dark and sluggish, like oil. The wake of the boat does not seem to spread, but heals
+      instantly behind it. The jungle is silent, but it feels like a watchful, waiting silence. The leaves of the trees seem
+      to form whispering, distorted faces. no text or letters visible
+    background: A vast, featureless sky, the color of lead.
+    atmosphere: A sense of profound isolation and paranoia. The world outside the boat feels alien and hostile. The silence
+      is more menacing than any sound. no text or letters visible
+  composition:
+    cameraAngle: A tight, claustrophobic shot from behind Marlow, looking out at the river.
+    focus: The whispering, distorted faces that seem to form in the dense jungle foliage on the riverbanks.
+    depth: 'Foreground: Marlow''s tense shoulders and hands gripping the wheel. Middle ground: the dark, oily river. Background:
+      the impenetrable wall of the jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

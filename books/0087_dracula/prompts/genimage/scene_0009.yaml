@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, afternoon with storm front approaching
+    location: Whitby harbor viewed from clifftop cemetery with sea and ships visible below
+    weather: Massive dark storm clouds building on horizon with heavy, oppressive atmosphere
+  characters: No characters present in this scene
+  scene:
+    mainElements: Towering dark storm clouds building dramatically on sea horizon. Harbor below with sailing ships and steam
+      vessels moored at piers. Cemetery headstones in foreground with abbey ruins visible on adjacent cliff
+    details: Storm clouds showing vertical development with dark base and brilliant white tops catching last sunlight. Sea
+      surface appearing increasingly rough with whitecaps forming. Ships in harbor with masts swaying as wind increases. Seabirds
+      flying low ahead of approaching weather. Weathered headstones and crosses in cemetery casting long shadows
+    background: Massive wall of dark clouds dominating sky and horizon. Distant lightning barely visible as bright flickers
+      within cloud mass. Sea stretching to storm front
+    atmosphere: Mounting tension as powerful weather approaches. Heavy, oppressive air with sense of impending drama. Birds
+      and ships responding to approaching disturbance. Nature gathering forces for spectacular display. Ominous beauty of
+      approaching tempest. No text or letters visible
+  composition:
+    cameraAngle: Elevated view from clifftop looking out over harbor toward approaching storm
+    focus: Dramatic storm clouds with emphasis on scale and approaching weather
+    depth: Foreground cemetery headstones, middle ground harbor and ships, background massive storm front
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1962, compressed temporal moment
+    location: Bathroom mirror in Denver motel showing accelerated identity transformation
+    weather: Evening interior lighting with harsh fluorescent illumination
+  characters:
+  - appearance: Lean, muscular man with long legs, initially appearing as Italian truck driver with dark stubble and pain-filled
+      dark eyes, blue letter 'C' tattoo on shoulder
+    clothing: Initially rough trucker clothes, later transforms to neat, clean Aryan-style clothing after cutting and bleaching
+      hair short and blonde
+    position: Standing before bathroom mirror undergoing rapid identity transformation
+    action: Simultaneously cutting hair, dyeing blonde, changing clothes in compressed time sequence showing complete identity
+      shift
+  scene:
+    mainElements: Bathroom mirror showing accelerated transformation from Italian working man to Nazi operative, temporal
+      compression showing hours of change in single moment, identity death and rebirth visualized through rapid aging/changing
+      process
+    details: Mirror reflection showing multiple stages of transformation simultaneously, hair falling to floor in dark clumps
+      while blonde dye spreads across scalp, old clothes discarded while new uniform appears, facial expression shifting from
+      false warmth to cold calculation, bathroom lighting casting harsh shadows emphasizing transformation, scissors and dye
+      bottles moving at accelerated speed, no text or letters visible
+    background: Motel bathroom with standard fixtures showing normal time flow while central transformation occurs at compressed
+      rate
+    atmosphere: Disturbing acceleration of identity destruction, time manipulation revealing true nature hidden beneath false
+      persona, sinister beauty of evil revelation, psychological metamorphosis made physically visible
+  composition:
+    cameraAngle: Close-up on mirror reflection showing multiple transformation stages simultaneously
+    focus: Mirror image with overlapping phases of identity change from Italian to Nazi
+    depth: 'Foreground: discarded clothes and hair, middle: figure undergoing transformation, background: normal bathroom
+      fixtures in real time'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

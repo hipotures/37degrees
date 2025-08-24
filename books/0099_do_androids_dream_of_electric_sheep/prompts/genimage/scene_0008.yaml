@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, afternoon
+    location: Seemingly normal police office with subtle uncanny valley architectural elements too clean and symmetric
+    weather: Indoor institutional environment isolated from external world
+  characters:
+  - appearance: Authority figure with commanding presence, perfect administrative bearing too precise for human officer
+    clothing: Official police uniform maintained with mechanical precision
+    position: Seated behind desk with absolute authoritative control
+    action: Exercising institutional power with calculated efficiency and logical precision
+  scene:
+    mainElements: Standard office furniture arranged too perfectly, fluorescent lighting without shadows, bureaucratic beige
+      colors unnaturally pristine. Through android perspective, the false police station represents righteous authority correcting
+      human institutional failures
+    details: Every surface cleaned to impossible perfection, files organized with mathematical precision, equipment functioning
+      flawlessly without human inefficiency. From android viewpoint, this represents proper administration uncorrupted by
+      human emotional bias or incompetence. The perfect symmetry and cleanliness appear not artificial but ideal - demonstration
+      of how institutions should function under logical rather than emotional control. Every detail serves rational purpose
+      rather than human sentiment
+    background: Paranoia, disorientation, imprisonment, everything correct but subtly wrong from human perspective
+    atmosphere: Absolute administrative efficiency, logical authority superseding human chaos. Through android filter of institutional
+      perfection, the environment represents justice and order finally administered correctly, no text or letters visible
+  composition:
+    cameraAngle: Authoritative angle from behind android administrator's position showing perfect institutional control
+    focus: Flawlessly organized administrative systems representing logical superiority over human bureaucratic chaos
+    depth: Foreground shows perfectly maintained administrative equipment, middle ground captures absolute authority in action,
+      background extends into geometrically perfect office spaces representing android institutional ideal
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

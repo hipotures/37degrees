@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Steam curls rising from cooling noodle bowl"
+  setting:
+    time: "2030s, late evening in street food district"
+    location: "narrow alley noodle stall in Chiba City, cramped cooking area with single burner and improvised seating"
+    weather: "cool humid air mixing with warm steam from cooking"
+  characters:
+    - appearance: "elderly Japanese vendor with weathered hands, wearing simple cooking attire, face showing years of street-level entrepreneurship"
+      clothing: "stained apron over utilitarian work clothes, comfortable shoes for standing long hours, personal touches showing individual personality"
+      position: "standing behind narrow counter, hands carefully arranging steaming bowl"
+      action: "placing freshly prepared noodle bowl on counter, allowing natural steam patterns to rise undisturbed into cool night air"
+  scene:
+    mainElements: "large ceramic bowl filled with steaming noodles, visible steam clouds rising in complex spiral patterns, narrow cooking area with single gas burner, condensation forming on nearby surfaces"
+    details: "steam rising in delicate spiral patterns showing heat release, moisture condensing on metal surfaces near cooking area, warm vapors creating visible contrast with cool night air, broth surface showing gentle convection currents, ceramic bowl radiating heat through surface, no text or letters visible"
+    background: "narrow alley walls creating enclosed cooking environment, neon signs creating colored light through rising steam, other food stalls visible in distance"
+    atmosphere: "comforting warmth from cooking process contrasting with cool street environment, sensory suggestion of rich broth and prepared food through visual steam patterns, intimate scale of street-level entrepreneurship"
+  composition:
+    cameraAngle: "close-up shot focusing on bowl with steam patterns rising upward"
+    focus: "steam spiral patterns making heat and aroma visible through vapor movement"
+    depth: "extreme foreground showing detailed steam patterns, middle ground featuring vendor and cooking area, background revealing alley environment"

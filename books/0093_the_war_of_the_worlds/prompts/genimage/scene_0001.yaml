@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1897, clear summer evening
+    location: Victorian middle-class villa study in Maybury district near Woking Surrey, comfortable domestic interior with
+      astronomical equipment
+    weather: Clear evening sky perfect for astronomical observation
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Standing beside brass telescope on tripod, one eye pressed to eyepiece
+    action: Observing Mars through telescope, noting mysterious flashes on planet's surface with scientific fascination
+  scene:
+    mainElements: Well-appointed Victorian study with high ceilings, ornate plaster moldings, heavy mahogany furniture, bookcases
+      lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope
+    details: Brass astronomical telescope mounted on wooden tripod, typical amateur instrument of 1890s, used for observing
+      celestial phenomena including mysterious flashes on Mars that herald the invasion, represents human scientific curiosity.
+      Scattered astronomical charts and notebooks on desk, warm gaslight from table lamp creating cozy scholarly atmosphere,
+      sense of established civilization and intellectual pursuit, sanctuary of normalcy
+    background: Window open to night sky, bookshelves filled with scientific volumes, writing desk with papers and ink well,
+      comfortable domestic furnishings
+    atmosphere: Secure domestic environment representing Victorian middle-class comfort and order, warm gaslight illumination,
+      sense of established civilization and intellectual pursuit, sanctuary of normalcy. Scientific curiosity about celestial
+      mysteries, anticipation of discovery
+  composition:
+    cameraAngle: Medium wide shot from low angle showing narrator's silhouette against window
+    focus: Telescope and narrator's concentrated observation of Mars visible as bright point through window, no text or letters
+      visible
+    depth: Foreground shows study furnishings and warm lamplight, middle ground focuses on narrator at telescope, background
+      reveals night sky through window with Mars as distant bright star
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

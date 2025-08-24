@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1897, daylight hours during London evacuation
+    location: Victorian London at height of British Empire, bustling metropolitan center with mixture of Georgian terraces,
+      grand public buildings, railway terminals, commercial districts, and crowded residential areas
+    weather: Clear day creating harsh shadows and blinding dust clouds from massive crowds
+  characters:
+  - appearance: Early 20s medical student, similar features to narrator but younger and more energetic, clean-shaven youthful
+      face, lean build, alert intelligent eyes, fashionable student appearance
+    clothing: Less formal than narrator - Norfolk jacket or simple suit appropriate for London student, lighter colors, may
+      wear straw boater hat in summer, practical sturdy shoes for city walking
+    position: Struggling through chaotic crowd of evacuees filling London streets
+    action: Fighting through panicked masses trying to escape capital as civilization collapses
+  scene:
+    mainElements: Massive crowd of refugees filling London streets in chaotic exodus, overloaded vehicles, abandoned possessions,
+      breakdown of social order
+    details: Same London streets now empty and devastated, buildings damaged by Martian weapons, thick coating of black dust
+      from Black Smoke, eerie silence replacing urban bustle, red weed growing over ruins and waterways. Thousands of people
+      crammed into streets, overturned carts, abandoned belongings, people trampling each other, Victorian social hierarchy
+      completely collapsed
+    background: London's grand architecture now backdrop to civilizational collapse, smoke rising from distant Martian attacks,
+      imperial capital becoming refugee camp
+    atmosphere: Complete breakdown of Victorian order and confidence, mass hysteria, end of civilized world as people reduce
+      to basic survival instincts, tilted perspective emphasizing disorientation and collapse
+  composition:
+    cameraAngle: Dutch angle tilted frame suggesting imbalance and psychological breakdown
+    focus: Chaotic human river flowing through titled London streets as civilization collapses, no text or letters visible
+    depth: Foreground shows trampling crowd and abandoned possessions at tilted angle, middle ground captures brother navigating
+      chaos, background reveals London architecture tilting as stable world collapses
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

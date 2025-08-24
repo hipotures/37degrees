@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Honey dripping in golden streams from abandoned beehive"
+  setting:
+    time: "1917 late summer afternoon, peak honey harvest season"
+    location: "abandoned French farmyard with wooden beehives, soldiers discovering intact hive among destroyed outbuildings"
+    weather: "warm sunny afternoon perfect for honey flow, golden light enhancing amber colors"
+  characters:
+    - appearance: "19 lat ślusarz z zawodu, bardzo chudy porównywany do konika polnego lub szczapy mimo że największy żarłok w kompanii, ostre mysie rysy"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "crouched beside damaged beehive, hands cupped to catch flowing honey"
+      action: "carefully collecting dripping honey streams, golden liquid flowing between his fingers as he tries to capture precious sweetness"
+  scene:
+    mainElements: "wooden beehive damaged by shell fragments revealing honeycomb interior, thick golden honey flowing in continuous streams from broken comb, soldier attempting to catch liquid sweetness, destroyed farmyard showing peaceful agricultural life interrupted by war"
+    details: "honey flowing in thick golden streams creating amber ribbons in afternoon sunlight, liquid consistency varying from thick syrup to flowing streams depending on temperature, honey dripping creating golden stalactites before breaking into perfect drops, soldier's fingers sticky with collected honey showing amber coating, honeycomb structure visible with perfect hexagonal patterns filled with golden liquid, honey pooling in cupped hands creating miniature golden lakes, sunlight making honey glow like liquid amber, honey's viscous flow showing temperature and purity, no text or letters visible"
+    background: "abandoned farmyard with destroyed buildings, other beehives intact but empty, agricultural tools scattered among rubble, pastoral setting disrupted by war damage"
+    atmosphere: "sweetness and natural abundance surviving despite destruction, soldier finding rare treat in harsh military environment, connection to peaceful farming life now destroyed"
+  composition:
+    cameraAngle: "close-up shot focusing on honey streams and soldier's hands catching golden liquid"
+    focus: "flowing honey streams creating golden ribbons between hive and cupped hands"
+    depth: "extreme foreground shows honey detail and hand positions, middle ground features damaged hive structure, background reveals destroyed farmyard setting"

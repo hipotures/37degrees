@@ -1,0 +1,49 @@
+sceneDescription:
+  title: "The First Assembly and the Whispering Fear"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "A raised, triangular platform of pink rock on the beach, shaded by palm trees. It serves as the boys' assembly area."
+    weather: "Bright and sunny, but the shade from the palms creates deep, dark shadows."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Seated on a large, fallen log, holding the conch."
+      action: "Presiding over the first meeting, trying to establish rules and order."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Standing with his choir boys, separate from the main group."
+      action: "Interrupting and challenging Ralph's authority, a look of resentment on his face."
+    - id: "littluns"
+      name: "The Littluns"
+      description_block: |
+        characters:
+          - name: "The Littluns"
+            age: "6-8"
+            appearance: "A group of the youngest boys, of various shapes and sizes. They are often dirty, with tangled hair and runny noses."
+            clothing: "Remnants of school uniforms, now just rags."
+            posture: "Huddle together for comfort, often crying or playing aimlessly in the sand."
+      position: "Sitting on the platform, looking frightened."
+      action: "A small boy with a mulberry-colored birthmark is being pushed forward to speak about the 'beastie'."
+  scene:
+    mainElements: "The boys are gathered on the platform for their first assembly. The conch is the symbol of authority. The scene is one of attempted democracy, but there are clear divisions and a growing sense of fear."
+    details: "The shadows on the platform are distorted, twisting into vaguely menacing shapes. The jungle behind the platform seems to be listening, the leaves forming patterns that resemble eyes. The sound of the sea is a constant, rhythmic whisper."
+    background: "The turquoise lagoon and the coral reef. The vast, empty ocean beyond."
+    atmosphere: "An undercurrent of fear and tension beneath the surface of the boys' attempts at civilization. The idyllic setting feels deceptive."
+  composition:
+    cameraAngle: "Eye-level shot, capturing the different factions within the group. The camera is positioned to show the dark, ominous jungle behind the boys."
+    focus: "The frightened face of the small boy with the birthmark as he talks about the 'beastie'."
+    depth: "Foreground: The littluns. Middle ground: Ralph, Jack, and the older boys. Background: The jungle."

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Lower in the Frame - Calvin's Intellectual Dominance"
+  setting:
+    time: "2029, evening"
+    location: "Conference room at Hyper Base during emergency briefing"
+    weather: "Artificial environment, institutional lighting"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Senior military officers and base personnel arranged around conference table"
+      clothing: "Military uniforms and scientific lab coats indicating mixed military-civilian operation"
+      position: "Seated around table in positions of formal briefing, looking to Calvin for solutions"
+      action: "Taking notes, asking technical questions, deferring to civilian expert despite military setting"
+  scene:
+    mainElements: "Military conference room with large display screens showing robot schematics, radiation warning symbols, charts tracking the missing Nestor-10"
+    details: "Calvin presenting complex psychological analysis to room full of powerful men, technical diagrams illustrating robot behavioral patterns, urgency visible in officers' faces"
+    background: "High-security military facility with classified research equipment, monitoring stations, the institutional power of military-industrial complex"
+    atmosphere: "Intellectual authority commanding military respect. The dangerous implications of a modified robot loose among humans elevates civilian expertise above military rank"
+  composition:
+    cameraAngle: "Wide shot showing Calvin's small figure commanding attention from roomful of military brass"
+    focus: "The moment when superior intellect overrides institutional hierarchy"
+    depth: "Foreground shows individual brilliance, middle ground collective institutional power, background the classified military environment where such expertise matters most"

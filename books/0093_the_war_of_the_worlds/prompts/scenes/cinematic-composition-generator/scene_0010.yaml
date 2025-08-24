@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Narrator and wife together in final domestic moment before separation"
+  setting:
+    time: "1897, evening after first Martian attack"
+    location: "Victorian middle-class villa in Maybury district near Woking Surrey, red brick two-story house with bay windows and small front garden, typical comfortable suburban residence of professional class"
+    weather: "Ominous evening with distant glow from burning heathland visible through windows"
+  characters:
+    - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+      clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+      position: "Standing close to wife in drawing room, hands on her shoulders"
+      action: "Urgently explaining situation and need for her to leave immediately for safety"
+    - appearance: "Approximately 35 years old Victorian lady, average height and build, gentle refined features, dark hair styled in period-appropriate updo with small decorative pins"
+      clothing: "Long modest Victorian dress in muted colors with high neckline and long sleeves, fitted bodice shaped by corset, full skirt reaching floor, small domestic apron when at home, simple jewelry"
+      position: "Facing husband with expression of fear and reluctance to leave their home"
+      action: "Listening with growing alarm while mentally preparing for separation from everything familiar"
+  scene:
+    mainElements: "Victorian drawing room now charged with urgency and fear, familiar domestic setting becoming scene of desperate farewell"
+    details: "Well-appointed Victorian interior with high ceilings, ornate plaster moldings, heavy mahogany furniture, bookcases lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope. Hastily packed belongings, signs of preparation for emergency departure, normal domestic order disrupted by crisis"
+    background: "Orange glow visible through windows from burning common, domestic tranquility shattered by approaching danger"
+    atmosphere: "Last moments of Victorian domestic security, love and duty competing with survival instinct, the personal cost of global catastrophe"
+  composition:
+    cameraAngle: "Two-shot emphasizing intimate relationship dynamics and emotional connection"
+    focus: "Physical and emotional bond between husband and wife at moment of forced separation, no text or letters visible"
+    depth: "Foreground shows their clasped hands and close positioning, middle ground captures their faces and expressions, background reveals familiar home environment now threatened by alien invasion"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1866, midday with filtered sunlight creating ethereal underwater lighting
+    location: Dno oceanu w pobliżu fikcyjnej wyspy Crespo na Pacyfiku pokryte piaskiem i skałami
+    weather: Crystal clear water with excellent visibility and gentle underwater currents
+  characters: No characters present in this scene
+  scene:
+    mainElements: Surrealistyczny las gigantycznych pionowo rosnących wodorostów tworzących pionową roślinność przez którą
+      przelatują ryby jak ptaki. Fantastyczna roślinność o organicznej strukturze. Massive kelp fronds reach upward from the
+      ocean floor like underwater trees, some extending 50 meters toward the surface. The vegetation creates a three-dimensional
+      forest with multiple canopy layers inhabited by diverse marine life.
+    details: Głębokie zielenie, błękity, czerwienie i róże filtrowanego światła. The kelp fronds sway gently in the ocean
+      currents, creating hypnotic undulating movements. Schools of colorful tropical fish weave between the kelp stalks like
+      birds flying through terrestrial trees. Sea anemones in brilliant reds and oranges attach to the kelp bases. Jellyfish
+      drift through the upper canopy layers like translucent lanterns. The sandy ocean floor is covered with coral formations
+      and sea stars.
+    background: The kelp forest extends in all directions, creating an underwater landscape that rivals any terrestrial forest
+      in complexity and beauty.
+    atmosphere: Magia, sen, cisza i momentami groza. This underwater forest represents an alien landscape more fantastic than
+      any terrestrial environment, showcasing the hidden wonders that exist beneath the ocean surface.
+  composition:
+    cameraAngle: Low angle shot looking up through the kelp canopy toward filtered sunlight
+    focus: The towering kelp fronds creating a natural underwater cathedral with marine life moving through
+    depth: Foreground shows detailed seafloor with coral and marine creatures, middle ground features the kelp forest structure,
+      background fades into deep blue water with filtered sunlight
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

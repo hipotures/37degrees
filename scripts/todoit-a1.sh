@@ -12,7 +12,26 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  ""
+  "0095_foundation"
+  "0096_i_robot"
+  "0097_neuromancer"
+  "0098_the_man_in_the_high_castle"
+  "0099_do_androids_dream_of_electric_sheep"
+  "0100_the_left_hand_of_darkness"
+  "0101_the_epic_of_gilgamesh"
+  "0102_the_divine_comedy"
+  "0103_one_thousand_and_one_nights"
+  "0105_a_christmas_carol"
+  "0106_the_tale_of_genji"
+  "0107_journey_to_the_west"
+  "0108_candide"
+  "0109_faust"
+  "0110_oedipus_rex"
+  "0111_a_dolls_house"
+  "0112_ulysses"
+  "0113_all_quiet_on_the_western_front"
+  "0114_the_diary_of_anne_frank"
+  "0115_mahabharata"
 )
 
 # Plik z komendą/promptem dla modelu Claude.

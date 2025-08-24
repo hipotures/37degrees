@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Torvald's Isolation - The Empty Study"
+  setting:
+    time: "1879, Boxing Day late night"
+    location: "Torvald's study adjacent to main salon, masculine private space with desk and books"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+      clothing: "Nienaganny elegancki garnitur or marynarka, aksamitna kurtka do palenia at home, formalny wieczorowy frak for evening events, zawsze nienagannie ubrany"
+      position: "Sitting at his desk with back to door, unaware of the storm approaching"
+      action: "Working on bank papers, completely absorbed in his professional success, oblivious to his wife's crisis"
+  scene:
+    mainElements: "Masculine study with heavy wooden desk, leather-bound books, formal banker's workspace representing his professional identity and authority"
+    details: "His private sanctum filled with symbols of masculine authority and professional success. Papers spread on desk represent his focus on career advancement while remaining blind to personal relationships. The study represents the male sphere from which Nora is excluded."
+    background: "Dark wood paneling and formal furnishings emphasizing traditional masculine space"
+    atmosphere: "Ironic comfort and security as he works, unknowing that his world is about to crumble. His isolation is self-imposed through his obsession with reputation and status."
+  composition:
+    cameraAngle: "Shot from behind emphasizing his isolation and unawareness"
+    focus: "Torvald absorbed in work, completely oblivious to the crisis approaching"
+    depth: "Foreground: Torvald's focused work. Middle ground: His masculine sanctuary. Background: The closed door separating him from his wife's growing awakening."

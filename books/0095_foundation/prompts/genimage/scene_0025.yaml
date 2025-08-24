@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, cosmic perspective beyond individual time
+    location: view of galaxy showing Foundation territory expanding from galactic rim toward center
+    weather: cosmic environment with stellar formations and galactic structure visible
+  characters: No characters present in this scene
+  scene:
+    mainElements: galactic spiral structure with Foundation influence spreading from rim toward Imperial center, visible contrast
+      between declining Imperial core and growing Foundation territories, cosmic perspective on historical transition
+    details: galactic spiral arms showing different stages of civilization development, Imperial core region showing signs
+      of decline and stagnation, Foundation rim territories displaying expanding influence and technological advancement,
+      trade routes and communication networks spreading Foundation methods throughout galaxy, other civilizations beginning
+      to adopt Foundation scientific and social approaches
+    background: infinite cosmic depth showing galaxy as single system within larger universe, neighboring galaxies visible
+      as distant prospects for future human expansion, cosmic formations suggesting vast timescales and cyclical nature of
+      galactic civilization
+    atmosphere: cosmic perspective on psychohistorical forces shaping galactic development, sense of Foundation as part of
+      larger historical pattern of human advancement, vision of rational scientific civilization expanding to replace traditional
+      Imperial authority, hope for continued human development through knowledge and understanding
+  composition:
+    cameraAngle: cosmic wide perspective showing galactic structure and civilizational patterns
+    focus: Foundation's role in larger galactic historical development and cosmic human future
+    depth: foreground galactic rim Foundation territory, middle ground galactic spiral structure, background cosmic depth
+      and infinite future possibilities
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

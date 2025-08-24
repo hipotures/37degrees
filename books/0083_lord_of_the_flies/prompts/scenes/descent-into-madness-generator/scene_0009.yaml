@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Schism and the Two Realities"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "The beach, near the platform."
+    weather: "The weather is unnaturally divided. On one side of the beach, it is sunny and bright. On the other, dark storm clouds are gathering."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Standing on the sunny side of the beach with Piggy and a few other boys."
+      action: "Looking on in dismay as Jack leads his followers away."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Leading his new tribe of hunters down the beach towards the stormy side."
+      action: "He is shouting defiantly, his face a mask of savage triumph."
+  scene:
+    mainElements: "The final, irreparable split between Ralph and Jack. The two groups are separating, and their realities are diverging."
+    details: "The division in the weather is a stark visual metaphor for the schism in the group. Ralph's side is the world of reason and order, while Jack's is the world of savagery and chaos. The sand on Jack's side of the beach is darker, and the waves are more violent. The air on his side seems to shimmer with heat and aggression."
+    background: "The jungle and the mountain. The sky is literally split in two."
+    atmosphere: "A scene of profound and tragic division. The hope of a unified, civilized society is shattered. Two opposing realities are now coexisting on the island."
+  composition:
+    cameraAngle: "A perfectly symmetrical shot, with the frame divided down the middle. On the left is Ralph's world, on the right is Jack's."
+    focus: "The stark, unnatural line that divides the sunny beach from the stormy beach."
+    depth: "Foreground: The divided beach. Middle ground: The two groups of boys walking away from each other. Background: The split sky."

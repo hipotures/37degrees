@@ -131,7 +131,7 @@
 0131_on_the_origin_of_species,eco-botanical-style.yaml,temporal-shift-generator.md
 0132_the_interpretation_of_dreams,surrealism-art-style.yaml,character-perspective-generator.md
 0133_silent_spring,solarpunk-style.yaml,sensory-immersion-generator.md
-0134_père_goriot,realism-art-style.yaml,character-perspective-generator.md
+0134_pere_goriot,realism-art-style.yaml,character-perspective-generator.md
 0135_adventures_of_huckleberry_finn,vintage-cartoon-style.yaml,narrative-prompt-generator.md
 0136_in_search_of_lost_time,impressionism-style.yaml,temporal-shift-generator.md
 0137_mrs_dalloway,impressionism-style.yaml,character-perspective-generator.md

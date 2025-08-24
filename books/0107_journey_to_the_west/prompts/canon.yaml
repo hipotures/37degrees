@@ -1,0 +1,130 @@
+canon:
+  characters:
+    - id: "sun_wukong"
+      name: "Sun Wukong"
+      description_block: |
+        characters:
+          - appearance: "Small monkey warrior, height under 1.3 meters, lean muscular build with yellow-brown fur, flat forehead, pointed jaw, distinctive golden eyes with fiery pupils that can see through all illusions"
+            clothing: "Simple monk's robe in earth tones, tiger skin kilt around waist, leather boots, prominent golden circlet around head"
+            position: "Alert stance with staff ready, constantly vigilant and agile"
+            action: "Scanning surroundings with supernatural sight, ready for combat or swift movement"
+
+    - id: "tang_sanzang"
+      name: "Tang Sanzang"
+      description_block: |
+        characters:
+          - appearance: "Young Buddhist monk around 25-30 years old, approximately 1.8 meters tall, handsome features with gentle expression, completely shaved head, fair complexion"
+            clothing: "Simple saffron or white monk robes, ornate brocade kasaya with golden threads and precious stones when in ceremonial dress, carrying nine-ring staff"
+            position: "Dignified upright posture, often seated on white horse or standing in prayer position"
+            action: "Reading scriptures, praying with hands clasped, or riding with serene composure"
+
+    - id: "zhu_bajie"
+      name: "Zhu Bajie"
+      description_block: |
+        characters:
+          - appearance: "Large hybrid creature combining human and boar features, tall and massively built, black coarse skin, pig-like head with long snout extending one meter, prominent tusks, large fan-like ears, small round eyes"
+            clothing: "Dark blue or black monk robes that are too small, often disheveled with protruding belly visible"
+            position: "Slouching posture, often leaning on rake or appearing tired"
+            action: "Complaining, eating, or reluctantly performing duties while grumbling"
+
+    - id: "sha_wujing"
+      name: "Sha Wujing"
+      description_block: |
+        characters:
+          - appearance: "Towering demon over 3 meters tall with powerful muscular build, indigo-blue skin, fierce demonic face, flaming red hair and beard, large round eyes that glow in darkness"
+            clothing: "Simple monk robes with yellow goose-down cape, distinctive necklace of nine human skulls around neck"
+            position: "Stoic standing position carrying heavy luggage on back"
+            action: "Quietly performing duties, carrying group's belongings, or standing guard in silence"
+
+    - id: "white_dragon_horse"
+      name: "White Dragon Horse"
+      description_block: |
+        characters:
+          - appearance: "Magnificent white stallion with pure snow-white coat, noble bearing, slightly larger than normal horse, intelligent eyes with hint of draconic wisdom"
+            clothing: "Ornate saddle and bridle befitting imperial transport"
+            position: "Standing patiently or walking steadily along the path"
+            action: "Carrying Tang Sanzang with steady gait or grazing peacefully"
+
+    - id: "guanyin"
+      name: "Guanyin"
+      description_block: |
+        characters:
+          - appearance: "Divine feminine figure of eternal youth and grace, tall and elegant, serene beautiful face radiating infinite compassion, long black hair arranged in high ornate topknot with small Buddha crown"
+            clothing: "Flowing pure white robes that seem to move with celestial wind, adorned with precious gems and divine ornaments"
+            position: "Standing or seated on blooming lotus flower, often floating on clouds"
+            action: "Blessing with raised hand, sprinkling holy water from jade vase with willow branch"
+
+  locations:
+    - id: "flower_fruit_mountain"
+      name: "Flower Fruit Mountain"
+      description_block: |
+        setting:
+          location: "Mythical mountain paradise on Eastern Victory Divine Continent, towering peaks reaching into clouds with ancient cypress and bamboo forests"
+        mainElements: "Pristine wilderness with crystal streams cascading down moss-covered cliffs, exotic fruit trees bearing magical produce, white cranes and phoenixes soaring overhead"
+        atmosphere: "Eternal spring warmth with golden sunlight filtering through emerald canopy, gentle mountain breezes carrying sweet floral fragrances"
+
+    - id: "water_curtain_cave"
+      name: "Water Curtain Cave"
+      description_block: |
+        setting:
+          location: "Hidden cavern behind thundering waterfall on Flower Fruit Mountain, accessible only by leaping through cascading wall of water"
+        mainElements: "Spacious natural chamber with stone furniture smoothed by ancient immortals, stone tables and chairs, cold hearth with ash remnants, stone bridge spanning underground stream"
+        atmosphere: "Cool humid environment with blue-green light filtered through falling water, constant roar of waterfall creating isolation from outside world"
+
+    - id: "heavenly_palace"
+      name: "Heavenly Palace"
+      description_block: |
+        setting:
+          location: "Divine imperial complex floating among clouds, consisting of 33 celestial levels with golden halls and jade pavilions"
+        mainElements: "Multi-tiered palaces with curved upswept roofs covered in golden and azure tiles, massive vermillion pillars entwined with carved golden dragons, marble balustrades and jade bridges connecting floating platforms"
+        atmosphere: "Eternal ethereal golden radiance without harsh shadows, filled with celestial music of gongs and otherworldly melodies, air fragrant with sandalwood incense"
+
+    - id: "underworld_courts"
+      name: "Underworld Courts"
+      description_block: |
+        setting:
+          location: "Subterranean bureaucratic empire beneath the earth, Ten Courts of Hell each ruled by judge-kings in administrative fortress complexes"
+        mainElements: "Dark stone government buildings with iron gates, torture courtyards with various punishment devices, rivers of blood and tar crossed by rickety iron bridges"
+        atmosphere: "Perpetual twilight lit by flickering torches and ghostly green luminescence, air heavy with sulfur and decay, filled with groans of suffering souls and monotone voices of demon clerks"
+
+    - id: "chang_an_capital"
+      name: "Chang'an Capital"
+      description_block: |
+        setting:
+          location: "Great Tang Dynasty imperial capital city in 7th century China, organized in geometric grid of walled districts with grand boulevards"
+        mainElements: "Massive city walls with towering gates, imperial palace complex with golden roofs and red pillars, busy marketplaces with colorful banners and merchant stalls, wide streets filled with ox carts and horsemen"
+        atmosphere: "Bustling cosmopolitan energy with sounds of commerce and court ceremonies, mixture of cooking spices and incense in the air, golden light of prosperous Tang civilization"
+
+    - id: "western_paradise"
+      name: "Western Paradise"
+      description_block: |
+        setting:
+          location: "Buddha's sacred realm on Vulture Peak in India, mountainous paradise where enlightened beings dwell in perfect harmony"
+        mainElements: "Golden monasteries and temples built into sacred mountain slopes, lotus ponds reflecting infinite light, jeweled trees bearing dharma fruits, countless stupas and prayer wheels"
+        atmosphere: "Perfect tranquility filled with divine five-colored radiance and sacred mists, air resonating with celestial chanting and temple bells, fragrant with lotus blossoms and holy incense"
+
+  items:
+    - id: "ruyi_jingu_bang"
+      name: "Ruyi Jingu Bang"
+      description_block: |
+        details: "Magical golden-brown iron staff with golden bands at each end, weighs nearly 8000 kilograms, can change size from tiny needle to massive pillar capable of supporting heaven and earth, originally used by Yu the Great to measure ocean depths"
+
+    - id: "golden_circlet"
+      name: "Golden Circlet"
+      description_block: |
+        details: "Enchanted golden headband that fits snugly around Sun Wukong's forehead, appears as simple ornamental band but tightens painfully when controlling mantra is recited, symbol of discipline and spiritual restraint"
+
+    - id: "brocade_kasaya"
+      name: "Brocade Kasaya"
+      description_block: |
+        details: "Magnificent ceremonial monk robe woven with golden threads and adorned with precious pearls and jewels, emanates holy light that protects wearer from evil influences and dragon poison"
+
+    - id: "nine_ring_staff"
+      name: "Nine-Ring Staff"
+      description_block: |
+        details: "Sacred pilgrim's staff with nine metallic rings that jingle with each step, carved with protective symbols and blessed mantras, serves as both walking aid and spiritual protection against demons"
+
+    - id: "nine_tooth_rake"
+      name: "Nine-Tooth Rake"
+      description_block: |
+        details: "Massive celestial weapon forged in heaven for Marshal of Heavenly Reeds, weighs over 2000 kilograms, nine-pronged design allows devastating attacks, made of divine metals that can harm supernatural beings"

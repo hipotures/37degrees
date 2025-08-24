@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Old Friend Returns - Kristine's Arrival"
+  setting:
+    time: "1879, Christmas Eve afternoon"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold Norwegian winter, snow outside"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Sitting comfortably on sofa, bright and animated"
+      action: "Gesturing excitedly while speaking, face glowing with warmth and comfort"
+    - appearance: "Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła build"
+      clothing: "Skromna prosta suknia podróżna, czysta ale znoszona pozbawiona modnych ozdób, świadcząca o ubóstwie and status kobiety pracującej"
+      position: "Sitting opposite on chair, posture slightly stiff from travel and hardship"
+      action: "Listening with serious expression, hands folded, creating stark contrast to Nora's animated gestures"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The contrast between two women's circumstances is visually striking - Nora surrounded by Christmas luxury, Kristine's travel bag and worn coat nearby. Window shows cold winter landscape, emphasizing Kristine's journey from harsh world outside."
+    background: "Elegant furnishings and Christmas decorations emphasize the comfort Nora lives in, while shadows from winter light hint at hardships beyond these walls"
+    atmosphere: "Reunion warmth mixed with underlying tension as two very different life paths are revealed through their appearance and bearing."
+  composition:
+    cameraAngle: "Medium two-shot capturing both women seated across from each other"
+    focus: "The visual contrast between Nora's comfortable prosperity and Kristine's worn dignity"
+    depth: "Foreground: The two women in conversation. Middle ground: The comfortable furnishings of Nora's protected world. Background: Winter window suggesting the harsh outside world Kristine has endured."

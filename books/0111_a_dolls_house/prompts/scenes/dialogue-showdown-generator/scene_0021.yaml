@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eyes of Fury - Torvald's Rage"
+  setting:
+    time: "1879, Boxing Day late night after the ball"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+      clothing: "Formalny wieczorowy frak from the evening, now disheveled from shock and rage"
+      position: "Standing rigid with fury, holding the opened letter"
+      action: "Eyes blazing with rage and betrayal, face contorted with anger as he processes her deception"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The elegant salon becomes a courtroom where Torvald sits in judgment. Stary pożółkły papier z podpisami, fizyczny dowód przestępstwa and Nora's ofiary, dokument showing fałszerstwo with ojciec's podpis datowany na trzy dni po jego śmierci lies exposed in his hands. His comfortable world of respectability has just exploded."
+    background: "The familiar bourgeois comfort now feels hostile and judgmental"
+    atmosphere: "Explosive rage as his carefully constructed world of respectability crumbles. His fury is not about her suffering but about damage to his reputation."
+  composition:
+    cameraAngle: "Extreme close-up on Torvald's furious eyes"
+    focus: "The blazing anger and betrayal in his expression, the transformation from husband to judge"
+    depth: "Foreground: Torvald's face contorted with rage. Middle ground: The letter evidence in his trembling hands. Background: The comfortable room that has become a courtroom."

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, midday commercial period
+    location: typical commercial district on Trantor serving administrative population
+    weather: controlled interior climate with artificial lighting systems
+  characters:
+  - appearance: Imperial citizens of various ages and administrative ranks, formal bearing reflecting bureaucratic culture,
+      diverse builds representing galactic population
+    clothing: standardized Imperial civilian attire, dark functional garments with subtle rank indicators, identical styling
+      showing conformity, occasional luxury accessories for higher ranks
+    position: shopping for regulated goods, queuing at distribution centers, engaging in formal social interactions
+    action: purchasing standardized food products, obtaining luxury items from distant worlds, participating in regulated
+      social commerce, following formal etiquette protocols
+  scene:
+    mainElements: regulated commercial spaces with standardized product displays, food distribution centers serving artificial
+      but nutritious meals, luxury import shops for galactic elite, automated service systems
+    details: synthetic food products artificially flavored to resemble natural cuisine, imported delicacies from distant Imperial
+      worlds for wealthy citizens, standardized consumer goods mass-produced for bureaucratic population, holographic advertisements
+      showing Imperial propaganda, automated payment systems using Imperial credits
+    background: repetitive commercial architecture extending through district levels, transport connections to residential
+      and administrative areas, subtle surveillance systems monitoring commercial activity
+    atmosphere: regulated consumerism serving vast bureaucratic population, social hierarchy expressed through access to luxury
+      goods, formal politeness masking individual anonymity within Imperial system
+  composition:
+    cameraAngle: eye-level perspective showing human scale within regulated commercial environment
+    focus: social interactions and cultural expressions within Imperial bureaucratic society
+    depth: foreground commercial transactions, middle ground social dynamics, background systematic urban infrastructure
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

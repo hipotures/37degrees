@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Table of Division - The Barrier Between"
+  setting:
+    time: "1879, Christmas morning"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Winter morning light casting shadows"
+  characters:
+    - appearance: "Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca zgorzknienie but also troskę about los swoich dzieci"
+      clothing: "Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną sytuację finansową"
+      position: "Standing on one side of the round table, leaning forward aggressively"
+      action: "Placing hands flat on table surface, leaning across toward Nora with threatening intensity"
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Seated on opposite side of table, pressed back in chair"
+      action: "Gripping edge of table, using it as protective barrier while maintaining eye contact with visible fear"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The okrągły stół becomes a battlefield dividing the opponents. Morning light creates stark shadows across the table surface, emphasizing the divide between them. Stary pożółkły papier z podpisami, fizyczny dowód przestępstwa and Nora's ofiary, dokument showing fałszerstwo with ojciec's podpis datowany na trzy dni po jego śmierci implied in their discussion."
+    background: "The comfortable bourgeois furnishings frame this psychological warfare"
+    atmosphere: "Tense standoff with the table serving as both protection and divide. The civilized furniture contrasts with the primitive confrontation taking place."
+  composition:
+    cameraAngle: "Low angle shot across the table surface"
+    focus: "The table as barrier and battlefield, hands gripping either side"
+    depth: "Foreground: The table surface dividing the frame. Middle ground: The two opponents facing off. Background: The elegant room witnessing this psychological battle."

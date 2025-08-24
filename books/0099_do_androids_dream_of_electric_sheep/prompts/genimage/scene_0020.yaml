@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: January 2021, multiple time periods compressed
+    location: Spacious but sterile conapt apartment interior with 1960s aesthetic showing signs of neglect
+    weather: Indoor environment showing change over compressed time period
+  characters:
+  - appearance: Woman in her early 30s, gray joyless eyes reflecting chronic depression, tired appearance
+    clothing: Simple home clothing like robe or sleepwear
+    position: Sitting at bedside mood organ console or standing with resigned posture
+    action: Operating mood organ controls or moving with emotional exhaustion
+  scene:
+    mainElements: Penfield mood organ console beside bed showing usage patterns over time, functional furniture accumulating
+      specific wear patterns, artificial lighting with documented power consumption cycles. Time-lapse reveals actual daily
+      routines versus remembered experiences - frequent mood organ usage, repetitive movement patterns, gradual environmental
+      deterioration
+    details: 'Bedside console with 1960s retro-futuristic design showing control wear from repeated use, numeric selections
+      revealing preferred emotional states, power consumption indicating actual usage frequency. Time compression shows real
+      behavioral patterns: extended mood organ sessions, minimal social interaction, gradual accumulation of kipple debris.
+      Environmental changes document actual maintenance decline rather than sudden dramatic deterioration. Furniture arrangement
+      remains static despite claims of domestic activity'
+    background: Domestic space showing actual usage patterns rather than idealized or remembered versions of daily life
+    atmosphere: Objective passage of time showing what really happened versus what characters remember or claim, documentation
+      of actual daily patterns rather than subjective experience, no text or letters visible
+  composition:
+    cameraAngle: Fixed time-lapse position documenting changes over compressed time period without subjective interpretation
+    focus: Actual behavioral patterns and environmental changes revealed through objective time documentation
+    depth: Temporal depth showing foreground details changing over time, middle ground documenting behavioral patterns, background
+      recording environmental deterioration at actual rates
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Scholar's Hypocrisy - First Target Acquired"
+  setting:
+    time: "16th century, sunny afternoon in German university town"
+    location: "Cobblestone street outside Gothic church where Easter service has just concluded"
+    weather: "Bright spring sunshine, warm and inviting after winter"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather"
+      position: "Standing in shadows between buildings, observing street scene with calculating gaze"
+      action: "Watching young Faust's crude attempt to approach Margarete with mixture of amusement and contempt"
+  scene:
+    mainElements: "Rejuvenated Faust attempting to offer his arm to modest young woman leaving church, her polite but firm refusal, townspeople in Sunday best creating backdrop of respectable society"
+    details: "From Mephistopheles' perspective, this scene reveals everything about human pretension: Faust, moments ago a desperate scholar contemplating suicide, now acts the confident nobleman trying to seduce innocent girl. The irony is perfect - man who spent lifetime seeking transcendent truth immediately pursues base physical desire when given youth and power"
+    background: "Gothic church facade with carved saints seeming to watch disapprovingly, half-timbered houses with overhanging upper floors, townspeople in period dress observing social interactions"
+    atmosphere: "Surface respectability masking human appetites and social predation. Mephistopheles sees through veneer of civilization to raw desires driving behavior"
+  composition:
+    cameraAngle: "From Mephistopheles' hidden position, showing his predatory observation of social interaction"
+    focus: "Contrast between Faust's attempted sophistication and Margarete's genuine modesty, with demon's cynical perspective framing scene"
+    depth: "Foreground: Mephistopheles in shadows observing. Middle ground: Faust approaching Margarete on street. Background: Church and townspeople representing social order"

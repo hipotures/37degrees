@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1780s, daytime at University of Ingolstadt
+    location: Academic hall where professors discuss reports of Victor's claims
+    weather: Bright rational daylight contrasting with dark supernatural subject
+  characters:
+  - appearance: Group of middle-aged professors and academics with powdered wigs and learned expressions, faces showing mixture
+      of concern and skepticism
+    clothing: Formal academic robes and 18th century scholarly attire including dark coats, white wigs, refined clothing appropriate
+      to university setting
+    posture: Dignified scholarly bearing with gestures of intellectual discourse, some leaning forward with interest, others
+      sitting back in skeptical dismissal
+    action: Debating Victor's claims with academic rigor, examining evidence through lens of rational philosophy, dismissing
+      supernatural explanations as impossible
+  scene:
+    mainElements: University lecture hall with learned men analyzing Victor's reported experiments, scientific community struggling
+      to reconcile impossible claims with rational worldview
+    details: Wooden lecture podium where professors present arguments for and against possibility of creating life, blackboards
+      covered with chemical formulas and anatomical diagrams attempting to explain Victor's claimed success through natural
+      means, scholarly books and scientific journals spread across tables as authorities cite established knowledge contradicting
+      reports, professors examining Victor's abandoned laboratory notes with mixture of fascination and disbelief, academic
+      robes creating formal atmosphere of rational inquiry, windows allowing bright daylight to illuminate scholarly debate,
+      oil lamps providing additional light for examination of evidence, learned men pointing to texts proving impossibility
+      of reanimating dead tissue, no text or letters visible
+    background: University halls representing pinnacle of rational thought and scientific method attempting to explain supernatural
+      events
+    atmosphere: Intellectual struggle between established scientific knowledge and impossible reported facts, learned community's
+      inability to accept evidence that challenges fundamental beliefs about natural law
+  composition:
+    cameraAngle: Academic perspective showing scholarly attempt to rationalize impossible supernatural events
+    focus: Learned men's intellectual struggle to maintain rational worldview despite overwhelming evidence of supernatural
+      transgression
+    depth: Foreground shows professors examining evidence, middle ground captures academic debate, background reveals institutional
+      knowledge inadequate to explain supernatural reality
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

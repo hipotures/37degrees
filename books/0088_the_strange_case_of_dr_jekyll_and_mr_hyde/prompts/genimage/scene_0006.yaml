@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1880s night, oppressive darkness with minimal lighting
+    location: Jekyll's study viewed as cage of hypocritical respectability
+    weather: Stifling indoor atmosphere, fireplace heat feeling oppressive
+  characters:
+  - appearance: Small pale man appearing 30-35 years old, dwarfish build around 160-165 cm, unnaturally repulsive face with
+      indefinable deformity without specific malformation, dark unkempt hair, wiry hairy hands
+    clothing: Oversized clothes belonging to taller man - coat sleeves too long, shoulders too broad, creating grotesque ill-fitting
+      appearance
+    position: Crouched in oversized chair, dwarfed by furniture designed for Jekyll's stature
+    action: Surveying room with contemptuous sneer, touching objects with obvious disdain for their false significance
+  scene:
+    mainElements: Study reveals itself as elaborate theater of deception - gilt frames appear gaudy, leather bindings suggest
+      unread pretension, mahogany furniture looms like monuments to empty achievement
+    details: Every symbol of respectability becomes evidence of pathetic self-deception - medical diplomas hang like certificates
+      of cowardice, Persian carpet feels like chains binding natural impulses, crystal decanter contains liquid lies
+    background: Walls close in with oppressive weight of social expectations, bookcases tower like prison bars of intellectual
+      conformity, grandfather clock ticks with rhythm of wasted life
+    atmosphere: Claustrophobic rage at suffocating respectability, harsh shadows revealing ugliness behind polished surfaces,
+      burning resentment at years of suppressed authentic nature, no text or letters visible
+  composition:
+    cameraAngle: Low angle from Hyde's diminished position, emphasizing how room towers oppressively above
+    focus: Symbols of Jekyll's respectability revealed as instruments of self-imprisonment
+    depth: Foreground shows Hyde's cramped discomfort, middle ground reveals oppressive weight of social pretense, background
+      suggests vast prison of Victorian propriety
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

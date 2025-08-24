@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Royal Children Present Dawn of Hope"
+  setting:
+    time: "Early morning, royal bedchamber"
+    location: "Opulent royal bedchamber where storytelling has taken place for one thousand nights"
+    weather: "Interior scene with gentle dawn light streaming through ornate windows"
+  characters:
+    - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+      clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+      position: "Seated gracefully with erect spine, hands positioned expressively for storytelling, calm and dignified demeanor"
+      action: "Narrating with subtle hand gestures, maintaining steady eye contact, speaking with measured cadence"
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Initially rigid and imperious, gradually softening to leaning forward attentively, shoulders relaxing over time"
+      action: "Listening intently to stories, facial expressions shifting from stone-faced to engaged, occasional questioning gestures"
+    - appearance: "Three small children aged 2-3 years with features combining both parents, innocent faces full of trust, healthy and well-cared for appearance"
+      clothing: "Fine silk garments appropriate for royal children, soft colors and comfortable fabrics"
+      position: "Standing close to their mother seeking protection and comfort"
+      action: "Looking between parents with childhood curiosity, clinging to mother's robes"
+  scene:
+    mainElements: "Same luxurious bedchamber where thousand nights of storytelling occurred, now transformed by presence of family, soft morning light replacing harsh lamp flames"
+    details: "Golden dawn light streaming through carved wooden window screens, silk hangings appearing softer in natural light, royal bed with rich coverings now symbol of family rather than death, Persian carpets and cushions, oil lamps extinguished with morning arrival, children's toys scattered among royal furnishings, no text or letters visible"
+    background: "Palace corridors beyond showing peaceful morning activity, distant sounds of awakening court, garden courtyard visible through windows"
+    atmosphere: "Transformation from death chamber to family sanctuary, gentle morning sounds replacing night terrors, scent of dawn air mixing with household fragrances, hope replacing despair"
+  composition:
+    cameraAngle: "Medium shot capturing intimate family moment"
+    focus: "Family group as symbol of redemption and new beginning"
+    depth: "Royal family in center, luxurious chamber setting, dawn light filtering from background"

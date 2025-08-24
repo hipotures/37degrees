@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Observatory study - narrator contemplating Mars through telescope"
+  setting:
+    time: "1897, clear summer evening"
+    location: "Victorian middle-class villa study in Maybury district near Woking Surrey, comfortable domestic interior with astronomical equipment"
+    weather: "Clear evening sky perfect for astronomical observation"
+  characters:
+    - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+      clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+      position: "Standing beside brass telescope on tripod, one eye pressed to eyepiece"
+      action: "Observing Mars through telescope, noting mysterious flashes on planet's surface with scientific fascination"
+  scene:
+    mainElements: "Well-appointed Victorian study with high ceilings, ornate plaster moldings, heavy mahogany furniture, bookcases lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope"
+    details: "Brass astronomical telescope mounted on wooden tripod, typical amateur instrument of 1890s, used for observing celestial phenomena including mysterious flashes on Mars that herald the invasion, represents human scientific curiosity. Scattered astronomical charts and notebooks on desk, warm gaslight from table lamp creating cozy scholarly atmosphere, sense of established civilization and intellectual pursuit, sanctuary of normalcy"
+    background: "Window open to night sky, bookshelves filled with scientific volumes, writing desk with papers and ink well, comfortable domestic furnishings"
+    atmosphere: "Secure domestic environment representing Victorian middle-class comfort and order, warm gaslight illumination, sense of established civilization and intellectual pursuit, sanctuary of normalcy. Scientific curiosity about celestial mysteries, anticipation of discovery"
+  composition:
+    cameraAngle: "Medium wide shot from low angle showing narrator's silhouette against window"
+    focus: "Telescope and narrator's concentrated observation of Mars visible as bright point through window, no text or letters visible"
+    depth: "Foreground shows study furnishings and warm lamplight, middle ground focuses on narrator at telescope, background reveals night sky through window with Mars as distant bright star"

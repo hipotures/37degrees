@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, late afternoon
+    location: A traditional village on the edge of the Seeonee jungle in 19th-century British India.
+    weather: Hot and dusty, the air is thick with the smoke from cooking fires.
+  characters: No characters present in this scene
+  scene:
+    mainElements: An establishing shot of the man-village. Simple, single-room huts made of clay and thatched roofs are clustered
+      together. The village is surrounded by cattle-pens and plowed fields.
+    details: A brick platform under a large fig tree forms the center of social life. The air is filled with the noise of
+      human chatter, temple bells, and the lowing of cattle. The village feels claustrophobic and chaotic in contrast to the
+      jungle's open spaces. no text or letters visible
+    background: The dense, dark wall of the jungle looms over the village, a constant, watchful presence.
+    atmosphere: A closed, superstitious world, distrustful of outsiders and the wilderness that surrounds it. no text or letters
+      visible
+  composition:
+    cameraAngle: Eye-level shot from just outside the village, looking in.
+    focus: The contrast between the man-made structures of the village and the natural world of the jungle.
+    depth: 'Foreground: a dusty path leading into the village. Middle ground: the village huts and the central fig tree. Background:
+      the imposing wall of the jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

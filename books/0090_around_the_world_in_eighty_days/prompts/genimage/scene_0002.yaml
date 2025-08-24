@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, evening
+    location: Pall Mall London, Reform Club exterior facade in Italian Renaissance style
+    weather: Clear evening with gas street lamps illuminated
+  characters: No characters present in this scene
+  scene:
+    mainElements: Magnificent Portland stone facade of Reform Club designed by Sir Charles Barry, featuring grand Italian
+      Renaissance architecture with classical columns and ornate window treatments, imposing stone staircase leading to main
+      entrance
+    details: Elaborate carved stonework showing imperial wealth and power, symmetrical facade with regular window spacing,
+      elegant iron railings and balustrades, gas lamp posts casting warm golden light on stonework, brass nameplate and club
+      insignia marking exclusive institution, horse-drawn carriages passing on cobblestone street, other prestigious club
+      buildings flanking both sides creating canyon of masculine power
+    background: Other gentleman's clubs lining Pall Mall creating corridor of elite institutions, St James's Palace visible
+      in distance, London's exclusive gentlemen's district
+    atmosphere: Exclusive masculine power and British imperial confidence, architectural solidity representing unchanging
+      social order, gaslight creating romantic glow suggesting luxury and privilege within
+  composition:
+    cameraAngle: Street-level view looking up at impressive facade from slight angle
+    focus: Main entrance and central columns of Reform Club building
+    depth: Club entrance in foreground, full building facade in middle ground, neighboring buildings and street perspective
+      creating depth
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

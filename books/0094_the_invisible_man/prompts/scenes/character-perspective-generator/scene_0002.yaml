@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Private Room - Stranger's Isolation"
+  setting:
+    time: "February 1897, evening in private room"
+    location: "Small upstairs chamber at Coach and Horses Inn, cramped quarters converted to makeshift laboratory"
+    weather: "Snow continuing outside, wind rattling windows"
+  characters:
+    - appearance: "Completely concealed figure wrapped entirely in white bandages from head to toe, only pink artificial nose visible, large blue-tinted spectacles with side shields covering eye area"
+      clothing: "Long thick dark overcoat, soft felt hat with wide brim, heavy leather gloves, all garments designed to completely hide body shape and form"
+      position: "Hunched over makeshift laboratory table, surrounded by scientific apparatus"
+      action: "Methodically working with scientific apparatus, measuring chemicals with precise movements"
+  scene:
+    mainElements: "Collection of glass bottles, beakers, and chemical vessels of various sizes, some containing colorful liquids, measuring instruments, heating apparatus, scientific glassware typical of 1890s chemistry laboratory, arranged in chaotic profusion"
+    details: "Bottles catching candlelight creating rainbow reflections, strange chemical odors permeating air, papers covered in encrypted formulas scattered across surfaces, lone candle providing inadequate illumination"
+    background: "Inn sounds muffled through walls, storm continuing outside, sense of secretive isolation, shadows dancing from single flame"
+    atmosphere: "Scientific obsession consuming all thought, desperate secrecy mixed with intellectual fever, world narrowed to chemical equations and glass vessels"
+  composition:
+    cameraAngle: "Close-up from behind Griffin's shoulder looking at his work"
+    focus: "Bandaged hands manipulating delicate glassware with scientific precision"
+    depth: "Foreground shows detailed laboratory equipment, middle ground captures Griffin's intense concentration, background dissolves into candlelit shadows, no text or letters visible"

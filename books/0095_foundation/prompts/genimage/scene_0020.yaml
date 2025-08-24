@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, archaeological site from pre-Imperial period
+    location: ancient ruins on established Imperial world, remnants of previous galactic civilization from before current
+      Empire
+    weather: natural atmospheric conditions with archaeological site partially exposed to elements
+  characters:
+  - appearance: Imperial archaeologists and researchers in 30s to 60s, academic bearing with practical field experience
+    clothing: field research attire adapted for archaeological work, protective equipment for handling ancient materials,
+      documentation tools and measuring devices
+    position: carefully excavating ancient structures, documenting architectural details, analyzing ancient artifacts
+    action: cataloging ancient technologies, comparing pre-Imperial achievements with current capabilities, studying evidence
+      of cyclical galactic civilization
+  scene:
+    mainElements: monumental architecture from pre-Imperial galactic civilization, advanced construction techniques unknown
+      to current Empire, artifacts suggesting technological capabilities different from Imperial methods
+    details: massive stone or metal construction using unknown architectural principles, artistic designs incorporating unfamiliar
+      symbolic systems, technological artifacts showing different approach to energy and materials than Imperial science,
+      evidence of advanced transportation and communication systems, inscriptions in ancient languages predating Imperial
+      records
+    background: archaeological site extending beyond current excavation, landscape showing layers of different historical
+      periods, Imperial facilities established for research purposes, natural environment reclaiming ancient structures
+    atmosphere: cyclical nature of galactic civilization showing current Empire as latest in series of rises and falls, humbling
+      evidence of previous advanced civilizations, archaeological mystery suggesting patterns of development and decline repeating
+      through galactic history
+  composition:
+    cameraAngle: elevated perspective showing relationship between ancient ruins and current Imperial research
+    focus: evidence of cyclical galactic civilization and recurring patterns of rise and decline
+    depth: foreground archaeological details, middle ground research activities, background ancient architectural monuments
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

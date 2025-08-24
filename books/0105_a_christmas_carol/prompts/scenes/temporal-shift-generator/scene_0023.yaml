@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Historical Repetition - Charity and Rejection Across Centuries"
+  setting:
+    time: "1643, 1743, 1843 - same winter appeals across centuries"
+    location: "London commercial district showing architectural evolution but consistent human patterns"
+    weather: "Similar winter conditions across two hundred years"
+  characters:
+    - appearance: "Charitable gentlemen from different eras but similar appearance and mission"
+      clothing: "Period-appropriate respectable dress - 17th century formal wear, 18th century refined attire, 19th century business suits"
+      position: "Standing in same appeal position outside business premises"
+      action: "Making charitable appeals with identical gestures and earnest expressions"
+    - appearance: "Wealthy merchants from different eras showing consistent rejection patterns"
+      clothing: "Business attire appropriate to each century but reflecting similar wealth and authority"
+      position: "Dismissing charitable appeals from similar defensive positions"
+      action: "Rejecting charitable requests with identical cold gestures and avoidance"
+  scene:
+    mainElements: "Historical pattern repetition showing charity appeals and rejections across centuries - same human behavior patterns despite architectural and costume changes, identical moral choices repeated across different eras"
+    details: "Historical behavior cycling - charitable gentlemen using similar persuasive gestures across centuries, wealthy merchants employing identical avoidance tactics, building styles evolving from Tudor to Georgian to Victorian but serving same commercial functions, street surfaces changing from dirt to cobblestone to improved paving, lighting progressing from torches to oil lamps to gas fixtures, transportation evolving from walking to horse-drawn vehicles, clothing fashions updating but maintaining class distinctions, monetary systems changing but charitable need remaining constant, no text or letters visible"
+    background: "London street architecture showing two centuries of evolution - building materials updating from wood to brick to improved construction, window styles changing with periods, shop signs evolving but serving identical functions"
+    atmosphere: "Cyclical nature of human moral choices transcending historical change, sounds evolving with technological development but human voices maintaining same tones of appeal and rejection, scents changing from wood smoke to coal smoke to industrial emissions"
+  composition:
+    cameraAngle: "Medium shot showing charitable encounter across historical periods"
+    focus: "Central interaction between charity and commerce repeating across centuries"
+    depth: "Foreground shows immediate interaction details from different eras, middle ground reveals architectural evolution, background displays London historical development"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Imperial atomic power station showing massive energy infrastructure"
+  setting:
+    time: "Galactic Standard Era 12000s, continuous operation"
+    location: "massive Imperial power generation facility within Trantor underground levels"
+    weather: "controlled industrial environment with regulated atmosphere"
+  characters:
+    - appearance: "Imperial technicians in 30s to 50s, various builds, professional bearing showing specialized training"
+      clothing: "standardized industrial uniforms with radiation badges, protective equipment, rank insignia indicating technical specialization"
+      position: "monitoring control stations, conducting maintenance procedures, supervising automated systems"
+      action: "operating massive control panels with physical switches and displays, checking radiation levels, maintaining aging but powerful atomic reactors"
+  scene:
+    mainElements: "colossal atomic reactors with visible containment systems, massive control panels with analog displays and physical controls, thick radiation shielding, enormous cooling systems with steam vents"
+    details: "1940s-inspired industrial design with atomic age aesthetics, heavy machinery requiring large crews to operate, visible atomic symbols and radiation warnings, cooling towers and steam systems, massive cables and conduits carrying power throughout planet, aging but still functional technology showing Imperial stagnation"
+    background: "underground industrial complex extending beyond sight, multiple reactor chambers connected by transport tunnels, heavy industrial atmosphere with mechanical sounds"
+    atmosphere: "overwhelming scale of atomic age technology, sense of powerful but aging infrastructure, industrial might of Imperial civilization, hint of technological stagnation despite massive scale"
+  composition:
+    cameraAngle: "low angle emphasizing massive scale of atomic reactors"
+    focus: "contrast between human operators and massive technology"
+    depth: "foreground control systems, middle ground reactor chambers, background industrial complex"

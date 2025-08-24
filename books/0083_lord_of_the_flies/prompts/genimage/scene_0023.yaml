@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: The beach.
+    weather: The air is still thick with smoke.
+  characters:
+  - name: Naval Officer
+    age: 40s
+    appearance: A tall, imposing figure in a crisp, white naval uniform.
+    clothing: A pristine white uniform with gold buttons and a peaked cap.
+    position: Standing on the beach, looking at the boys with a mixture of bewilderment
+      and disapproval.
+    action: He has just arrived on the island, having seen the smoke from the fire.
+  - appearance: A fair-haired boy, tall for his age, with a confident and athletic
+      build. His face is open and freckled, with a natural leader's charisma. Stands
+      tall and assertive, often holding the conch, but gradually shows more tension
+      and weariness.
+    clothing: Wears the tattered remains of a grey school shirt and shorts, becoming
+      progressively more worn and dirty.
+    position: Staring at the officer in stunned disbelief.
+    action: The reality of the hunt is shattered by the sudden appearance of the adult
+      world.
+  scene:
+    mainElements: The sudden, unexpected arrival of a naval officer. The world of
+      savagery and the world of civilization collide with a deafening crash.
+    details: The officer's presence is so alien and out of place that it literally
+      shatters the reality of the island. The scene is depicted as a pane of glass
+      cracking and breaking apart. On one side of the cracks is the officer and his
+      pristine, orderly world. On the other side is the boys' world of fire, smoke,
+      and savagery. The two realities are visible simultaneously, but they are irreconcilable.
+    background: The burning island. A naval cruiser is visible on the horizon.
+    atmosphere: A moment of profound, jarring dislocation. The boys are snapped out
+      of their collective madness, and the horror of what they have done is suddenly,
+      crushingly apparent.
+  composition:
+    cameraAngle: A shot that is split down the middle, with the officer on one side
+      and the boys on the other. The line between them is a jagged crack in the fabric
+      of reality.
+    focus: The cracking, shattering effect that separates the two worlds.
+    depth: 'Foreground: The cracked pane of glass. Middle ground: The officer and
+      the boys. Background: The burning island and the naval cruiser.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

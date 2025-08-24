@@ -12,12 +12,10 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0069_lolita"
-  "0046_madame_bovary"
-  "0047_les_miserables"
-  "0048_the_hunchback_of_notredame"
-  "0049_the_count_of_monte_cristo"
-  "0050_the_three_musketeers"
+  "0053_the_scarlet_letter"
+  "0054_the_catcher_in_the_rye"
+  "0055_of_mice_and_men"
+  "0056_the_grapes_of_wrath"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
@@ -28,6 +26,9 @@ MCP_CONFIG="/home/xai/DEV/37degrees/.mcp.json-one_stop_workflow"
 
 # Czas oczekiwania w sekundach między poszczególnymi wywołaniami.
 SLEEP_DURATION=103
+
+#  Usuń jeśli został status
+rm -f /tmp/todoit-a3-last-scenes.txt
 
 # Plik do zapamiętywania ostatnio przetwarzanych scen dla każdej listy
 LAST_SCENE_FILE="/tmp/todoit-a3-last-scenes.txt"
@@ -217,13 +218,13 @@ for book_dir in "${book_directories[@]}"; do
         # Sprawdź czy ta sama scena była przetwarzana w poprzedniej iteracji
         if check_repeated_scene "$book_dir" "$task_key"; then
             echo "🔄 Wykryto powtarzającą się scenę: $task_key dla $book_dir"
-            echo "💤 To oznacza limit ChatGPT Plus - wykonuję sleep 6h (21600 sekund)..."
+            echo "💤 To oznacza limit ChatGPT Plus - wykonuję sleep 1h (3600 sekund)..."
             
             # Pokaż kiedy skrypt wznowi działanie
             wake_time=$(date -d "+6 hours" "+%Y-%m-%d %H:%M:%S %Z")
             echo "⏰ Wznowienie przetwarzania o: $wake_time"
             
-            sleep 21600  # 6 godzin
+            sleep 3600  # 6 godzin
 	    rm "$LAST_SCENE_FILE"
             echo "🚀 Kontynuowanie przetwarzania po 6h sleep..."
             

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Training Ground Architecture of Competition"
+  setting:
+    time: "1000-800 BCE, afternoon"
+    location: "Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth"
+    weather: "Hot afternoon with dust in air"
+  characters:
+    - appearance: "Male, 25-30 years old, wysoki o szerokiej klatce piersiowej i długich potężnych ramionach, ciemna śniada karnacja, czarne kręcone włosy, oczy kolor polerowanej miedzi"
+      clothing: "Praktyczny strój dostosowany do walki, funkcjonalny pancerz łuczniczy"
+      position: "Center of training ground drawing bow"
+      action: "Chód pełen gracji i mocy jak rozgniewany słoń, oburęczny łucznik"
+    - appearance: "Male, 30-35 years old, potężna muskularna atletyczna budowa, górna część ciała twarda jak diament"
+      clothing: "Krzykliwe bogate szaty w ciężkim pancerzu"
+      position: "Standing at edge of training ground watching"
+      action: "Arogancka postawa potężnego wojownika mistrza maczugi"
+  scene:
+    mainElements: "Large earthen training ground within palace walls, wooden practice weapons mounted on walls, targets set at various distances, viewing pavilion for observers"
+    details: "Dust clouds raised by movement, practice arrows embedded in distant targets, wooden swords and shields scattered on ground, sweat gleaming on warriors, no text or letters visible"
+    background: "Fortified palace walls rising behind training area, guard towers visible, other young warriors practicing in groups"
+    atmosphere: "Tense competitive atmosphere with sounds of wooden weapons clashing, instructors shouting commands, feet shuffling in dust, rivalry palpable in air"
+  composition:
+    cameraAngle: "Wide architectural shot showing enclosed training ground within fortress walls"
+    focus: "Central archer demonstrating supreme skill while rival watches with growing jealousy"
+    depth: "Foreground dusty training ground with scattered equipment, middle ground competing warriors, background massive defensive architecture, no text or letters visible"

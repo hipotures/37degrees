@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Scroll Mysteries"
+  setting:
+    time: "Late 10th century Japan, quiet afternoon in palace library"
+    location: "Imperial Palace Heian-kyō, private library chamber with wooden shelves and storage chests"
+    weather: "Overcast afternoon creating soft diffused light through paper windows"
+  characters:
+    - appearance: "Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes, long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build"
+      clothing: "Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions"
+      position: "Seated on floor cushions before open wooden chest, surrounded by ancient scrolls and documents"
+      action: "Carefully unrolling aged paper scrolls, leaning close to examine faded text and illustrations, handling materials with reverent care"
+  scene:
+    mainElements: "Wooden storage chests with metal fittings, bamboo scroll containers, silk-wrapped document bundles, low reading table with oil lamp"
+    details: "Ancient paper scrolls show age through yellow-brown discoloration and subtle crackling textures, fine dust particles rise when scrolls are moved creating miniature dust storms in afternoon light beams, aged paper surfaces have developed subtle patterns from years of handling, ink has faded leaving ghost impressions of original text, silk wrapping ribbons have acquired patina of age, storage chests emit subtle woody aromas when opened, dust motes create atmospheric clouds suggesting mustiness of ancient knowledge, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Scholarly reverence for ancient wisdom, dusty bibliothecal sanctuary, time's passage made visible through aging materials and atmospheric particles"
+  composition:
+    cameraAngle: "Medium shot capturing both figure and surrounding ancient documents with dust effects"
+    focus: "Aged paper textures and dust particle movement suggesting ancient mustiness"
+    depth: "Open scrolls and dust clouds in foreground, scholar figure in middle ground, library shelves and storage extending into background"

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1491-1497 Ekumen calendar, compressed time showing multiple seasons and years
+    location: Stone throne room in royal palace of Erhenrang, Karhide capital on planet Gethen, showing architectural changes
+      over time
+    weather: Interior space showing seasonal lighting changes through windows over multiple years
+  characters:
+  - appearance: Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians,
+      strong masculine physique with less body hair than natives, dark hair and eyes
+    clothing: Diplomatic clothing evolving over time from initial formal presentation to experienced traveler's practical
+      gear
+    position: Multiple positions showing progression from initial supplicant to successful negotiator
+    action: Time-compressed sequence showing diplomatic mission evolving from rejection to acceptance over multiple years
+      of patient effort
+  - appearance: Middle-aged Gethenian ruler 50-60 years old, face showing transformation from paranoia to exhausted acceptance
+      over passage of time
+    clothing: Royal garments remaining consistent while bearing showing progressive change from fearful authority to resigned
+      cooperation
+    position: On throne throughout sequence, posture evolving from defensive suspicion to collaborative engagement
+    action: Character development compressed into time-lapse showing political learning and personal growth through crisis
+      experience
+  scene:
+    mainElements: Stone throne room architecture remaining constant while lighting, decorations, and occupants change through
+      seasons and years, political documents and communications equipment appearing as diplomatic relationship develops
+    details: Time-lapse photography effect showing multiple diplomatic meetings compressed into single sequence, seasonal
+      lighting changes through windows marking passage of years, accumulated evidence of growing diplomatic relationship through
+      progressive changes in room arrangement and protocols, no text or letters visible
+    background: Palace infrastructure showing gradual modernization and diplomatic preparation as relationship with interstellar
+      community develops over time
+    atmosphere: Objective documentation of political transformation over time - initial conflict and suspicion gradually evolving
+      into mutual understanding and cooperation through accumulated experience
+  composition:
+    cameraAngle: Fixed documentary angle showing complete diplomatic evolution over compressed timeframe
+    focus: Time-lapse revelation of actual diplomatic process requiring years of patient relationship building rather than
+      dramatic single confrontation
+    depth: 'Foreground: evolving diplomatic interaction, middle: changing throne room reflecting growing relationship, background:
+      palace infrastructure adapting to interstellar contact'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1863, timeless prehistoric underground
+    location: Vast underground ocean within gigantic cavern system, prehistoric marine environment lit by electrical phenomena
+    weather: Humid prehistoric atmosphere with water disturbance from creature movement
+  characters:
+  - appearance: 50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind
+      large round spectacles, energetic and impatient demeanor
+    clothing: Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition,
+      sturdy leather boots, always carrying scientific instruments
+    position: Usually in dominant position, gesturing authoritatively or examining specimens with intense focus
+    action: Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements
+  - appearance: Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey
+      into more confident bearing with weathered appearance
+    clothing: Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive
+      wear and hardening from underground conditions
+    position: Often positioned as observer or follower, gradually asserting more independent stance as story progresses
+    action: Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders
+      encountered
+  - appearance: Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten
+      Nordic features, long flowing red hair, stoic expression
+    clothing: Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja,
+      sturdy breeches, leather boots, woolen cap
+    position: Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision
+    action: Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations
+  scene:
+    mainElements: Endless expanse of dark water stretching to invisible horizons, sandy beaches littered with fossilized bones
+      and shells, towering mushroom forest nearby
+    details: Primitive vessel constructed from semi-petrified tree trunks found on underground shore, simple mast rigged with
+      improvised sail, representing human ingenuity in prehistoric environment. Massive prehistoric sea creatures locked in
+      mortal combat creating enormous water disturbances, blood mixing with prehistoric ocean water creating metallic taste
+      in spray, violent thrashing generating intense water vibrations felt through raft structure, primitive terror and awe
+      shown through paralyzed watching postures, spray from creature battle carrying organic prehistoric scents, electrical
+      aurora reflecting off massive creature scales creating dazzling visual effects, thunderous creature sounds visualized
+      through explosive water geysers, no text or letters visible
+    background: Unearthly illumination from electrical aurora on cavern ceiling, profound silence broken by lapping waves,
+      sense of primordial world untouched by surface time
+    atmosphere: Ultimate prehistoric sensory experience combining visual spectacle, physical vibrations, primitive scents,
+      taste of ancient blood, and primordial terror creating connection with Earth's violent past
+  composition:
+    cameraAngle: Wide shot showing creature scale compared to human figures
+    focus: Massive prehistoric creatures with human figures as witnesses
+    depth: Foreground shows raft and human reactions, middle ground captures creature battle, background reveals prehistoric
+      ocean scale
+visualElements:
+  colorPalette:
+    primary:
+    - muted gray
+    - bruised purple
+    - fleshy pink
+    - steel blue
+    secondary:
+    - oily black
+    - rust brown
+    - bone white
+    background: dark industrial or fleshy backdrop
+    usageNotes: Mostly desaturated tones with occasional sickly accent colors
+    saturation: low
+    contrast: high (bright fleshy highlights vs dark shadows)
+  lineArt:
+    style: intricate sinewy lines and tubing
+    weight: fine, interwoven
+    color: dark gray or black
+    texture: slick, vein-like curves
+    edgeTreatment: smooth curves blending into sharp mechanical edges
+  lighting:
+    type: dramatic, directional spotlight
+    direction: side or under lighting for eerie effect
+    intensity: strong highlights, deep shadows
+    shadows:
+      style: complex overlapping shadows of cables and organs
+      color: cool blue-gray or deep brown
+      opacity: heavy
+    highlights: wet specular highlights on flesh, metallic gleam on machinery
+  rendering:
+    technique: airbrush or detailed digital painting
+    texture: glossy slick flesh, cold metal surfaces
+    detailLevel: very high (small mechanical parts and organic textures)
+    finish: glossy on organic parts, metallic on machine parts
+  perspective: three-dimensional realistic perspective (often claustrophobic close-ups)
+  mood:
+    overall: eerie, sci-fi horror, complex
+    emotion: unease, fascination
+    tempo: tense, intense
+    keywords:
+    - eerie
+    - intricate
+    - dark
+    - alien
+    - mechanical
+  stylePrecedents:
+  - H.R. Giger
+  - Biomechanical tattoo art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Autumn's Warning - Garden World in Decline"
+  setting:
+    time: "802,701 CE, late autumn evening"
+    location: "Same garden landscape entering autumn dormancy" 
+    weather: "Cool evening air with first frost threatening, mist rising from cooling ground"
+  characters:
+    - appearance: "Small humanoid beings about 120cm tall, androgynous appearance making gender difficult to distinguish, prematurely aged children look, slender fragile build, curly hair in various light colors cut short at neck, large gentle but vacant eyes, small mouths with thin red lips, pointed chins, small ears"
+      clothing: "Soft silken tunics in bright colors (purple, white, orange), leather belts, sandals or light boots, simple and comfortable garments"
+      position: "Huddled together in small groups, seeking warmth as temperatures drop"
+      action: "Gathering fallen fruit with increasing urgency, showing first signs of seasonal concern"
+  scene:
+    mainElements: "Garden world transitions toward winter dormancy as leaves turn golden and crimson, fruit becomes scarce, flowers fade to seed pods. First hints of scarcity appear in paradise"
+    details: "Rhododendron leaves yellow at edges, fruit trees drop their last harvest creating carpet of rotting produce. Flowers that bloomed magnificently now show brown edges and dropping petals. Grass grows sparse and brown in patches, revealing underlying soil. Ventilation shafts become more visible as concealing vegetation dies back"
+    background: "Palace ruins look more skeletal as covering vines lose leaves, distant hills show brown and gold instead of green, sky takes on grey autumn tones"
+    atmosphere: "Melancholy beauty of autumn decline, first awareness that paradise has seasons and limitations, subtle unease as abundance fades, foreshadowing of harder times ahead, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot emphasizing landscape transition from abundance to scarcity"
+    focus: "Eloi figures reacting to seasonal change and diminishing resources"
+    depth: "Fallen leaves and fruit in foreground, grouped Eloi in middle ground, bare trees and grey sky in background"

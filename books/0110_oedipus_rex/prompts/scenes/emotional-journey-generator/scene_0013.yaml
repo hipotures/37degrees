@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Shadow of Terrible Truth"
+  setting:
+    time: "Ancient Bronze Age Greece, evening"
+    location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+    weather: "Sudden cloud passing over sun, casting courtyard into shadow"
+  characters:
+    - appearance: "Regal woman in early fifties with majestic dignity, dark hair intricately braided and arranged with subtle gray streaks at temples, composed bearing with underlying tension"
+      clothing: "Doric peplos of heavy finely-woven wool in rich saffron color, ornate gold fibulae brooches at shoulders, deep blue himation when worn, gold bracelets and necklace"
+      position: "Frozen at edge of palace steps, one hand reaching toward Oedipus"
+      action: "Face transformed with sudden terrible understanding, eyes wide with horror, mouth opening in silent realization"
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing with back partially turned to Jocasta, still facing messenger"
+      action: "Continuing to question eagerly, completely unaware of his wife's transformation, gesturing with animated curiosity"
+  scene:
+    mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+    details: "Ornate golden brooches used to fasten Jocasta's peplos at the shoulders catching the last light before shadow falls. Her rich saffron-colored peplos suddenly seeming sickly in changed light. Sharp contrast between her frozen horror and his continued enthusiasm. Shadows racing across courtyard as cloud covers sun. No text or letters visible"
+    background: "Two-story stone facade with large central wooden doors flanked by smaller doors, suddenly appearing ominous as light changes"
+    atmosphere: "Devastating moment of recognition for one character while another remains in ignorance, horror piercing through joy"
+  composition:
+    cameraAngle: "Close-up split between Jocasta's horrified face and Oedipus's back, emphasizing their opposite emotional states"
+    focus: "Jocasta's moment of terrible realization while Oedipus remains oblivious"
+    depth: "Foreground shows Jocasta's detailed expression of horror, middle ground shows space between them, background shows Oedipus still engaged with messenger"

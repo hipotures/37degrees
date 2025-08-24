@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: October 1872, early morning
+    location: Indian subcontinent showing tropical wildlife and vegetation in natural habitat
+    weather: Clear morning with gentle mist rising from vegetation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Magnificent Indian elephant moving through grassland dotted with tropical trees, colorful peacocks displaying
+      brilliant plumage, exotic flowering trees with vivid blossoms, diverse tropical plant life showing botanical richness
+    details: Elephant with weathered gray skin and intelligent eyes moving with natural dignity, peacocks with iridescent
+      blue-green feathers and elaborate tail displays, flowering trees including flame-of-the-forest with orange-red blooms,
+      lotus plants in water bodies with large circular leaves, bamboo groves creating natural screens, various tropical birds
+      in flight showing bright colors, butterflies in metallic blues and oranges, tropical fruits hanging from branches, morning
+      mist creating ethereal atmosphere around animals and plants
+    background: Rolling Indian landscape with distant hills, mix of grassland and forest showing diverse ecosystems
+    atmosphere: Natural paradise showcasing India's exotic beauty and biodiversity, sense of wonder at tropical nature's abundance,
+      peaceful coexistence of diverse species
+  composition:
+    cameraAngle: Medium-height perspective showing interaction between wildlife and natural environment
+    focus: Elephant as majestic centerpiece with peacocks and flowering trees creating colorful frame
+    depth: Wildlife and vegetation details in foreground, landscape rolling through middle distance, hills creating natural
+      backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Medium Shot - Brothers in Exile Preparation"
+  setting:
+    time: "1000-800 BCE, early morning"
+    location: "Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth"
+    weather: "Cool morning mist"
+  characters:
+    - appearance: "Male, 30-35 years old, ogromny wzrost jak wyrośnięte drzewo sala, potężna muskularna budowa z długimi ramionami, jasnozłota karnacja"
+      clothing: "Simple bark cloth robes for forest exile, abandoning royal garments"
+      position: "Standing beside pile of royal possessions being left behind"
+      action: "W gniewie brwi ściągają się zagryza wargi nadając przerażający wygląd, trzyma gigantyczną maczugę"
+    - appearance: "Male, 25-30 years old, wysoki o szerokiej klatce piersiowej i długich potężnych ramionach, ciemna śniada karnacja, czarne kręcone włosy, oczy kolor polerowanej miedzi"
+      clothing: "Bark cloth ascetic robes, sacred bow wrapped in simple cloth"
+      position: "Adjusting travel pack and weapons for forest journey"
+      action: "Twarz często wyrażająca skupienie i determinację, trzyma boski łuk Gandiva"
+  scene:
+    mainElements: "Palace courtyard with royal possessions being abandoned, simple ascetic gear prepared for forest exile, servants loading basic supplies"
+    details: "Royal crowns and jewelry discarded on ground, bark cloth robes rough against skin, weapons wrapped in plain cloth, travel packs containing minimal provisions, no text or letters visible"
+    background: "Palace architecture becoming memory as gates prepare to close behind them, morning light illuminating beginning of exile"
+    atmosphere: "Somber preparation for harsh transformation from royalty to forest dwellers, sounds of packing and quiet farewells"
+  composition:
+    cameraAngle: "Medium shot showing full body language and immediate environment"
+    focus: "Brothers adjusting to radical change from palace luxury to forest austerity"
+    depth: "Foreground abandoned royal possessions, middle ground brothers preparing, background palace they must leave, no text or letters visible"

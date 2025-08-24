@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Abandoned Hut"
+  setting:
+    time: "Late 19th Century, daytime"
+    location: "A small, abandoned hut on the riverbank."
+    weather: "Hot and humid."
+  characters:
+    - appearance: "Charles Marlow, 32."
+      clothing: "Simple sailor's clothes."
+      position: "Inside the dilapidated hut."
+      action: "He is looking at a tattered book on seamanship that he has found. The familiar, practical text is a comfort, but also a stark contrast to the surrounding madness."
+  scene:
+    mainElements: "The discovery of the abandoned hut and the book. A brief moment of connection to the outside world."
+    details: "The hut is falling apart, the jungle reclaiming it. The book is the only object that seems to have survived. On the margins of the book, there are notes written in a strange, spidery script that seems to be a cipher. As Marlow looks at the notes, they seem to writhe and twist like insects. no text or letters visible"
+    background: "The dark, oppressive jungle, visible through the holes in the hut's walls."
+    atmosphere: "A fleeting sense of connection to a sane world, immediately undercut by the unsettling, alien nature of the notes in the book. no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on the book."
+    focus: "The strange, writhing script in the margins of the book."
+    depth: "Foreground: the book. Middle ground: Marlow's hands holding it. Background: the dark interior of the hut."

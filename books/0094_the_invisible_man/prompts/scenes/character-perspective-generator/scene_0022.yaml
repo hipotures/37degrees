@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mob Formation - Collective Action"
+  setting:
+    time: "March 1897, afternoon during final manhunt"
+    location: "Victorian seaside town streets near English coast, multiple locations where hunting parties converge"
+    weather: "Clear afternoon providing good visibility for search"
+  characters:
+    - appearance: "Large group of working-class men armed with various tools and weapons"
+      clothing: "Work clothes, heavy boots, caps and jackets suitable for outdoor pursuit"
+      position: "Formed into organized search parties moving through streets"
+      action: "Carrying clubs, spades, and other makeshift weapons while systematically searching area"
+    - appearance: "Mix of townspeople including shopkeepers, laborers, and local authorities"
+      clothing: "Various Victorian garments reflecting different social classes united in common cause"
+      position: "Supporting main search effort from doorways and windows"
+      action: "Watching search progress while ready to join if invisible man discovered"
+  scene:
+    mainElements: "Organized manhunt with multiple search parties, improvised weapons and tools, systematic combing of streets and buildings, community united in common purpose"
+    details: "Men calling out positions to coordinate search, weapons raised ready to strike at invisible target, determined faces showing community resolve, every potential hiding place being examined"
+    background: "Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in period dress"
+    atmosphere: "Community solidarity transformed into aggressive hunting force, civilization temporarily abandoned for primitive mob justice, fear converted to determined action"
+  composition:
+    cameraAngle: "Wide shot showing scale of organized manhunt"
+    focus: "Collective transformation from fearful individuals to determined mob"
+    depth: "Foreground shows specific weapon details, middle ground captures mob organization, background reveals community-wide participation, no text or letters visible"

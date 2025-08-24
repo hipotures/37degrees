@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Night Writing - Kristine's Letter of Truth"
+  setting:
+    time: "1879, Boxing Day late night"
+    location: "Small table by window in modest lodging room"
+    weather: "Cold winter night, lamplight against darkness"
+  characters:
+    - appearance: "Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła build"
+      clothing: "Simple dark dress, practical for working"
+      position: "Seated at small table, leaning over paper in concentrated writing"
+      action: "Writing by lamplight, crafting words that will force truth into the open, face showing determination to end the lies"
+  scene:
+    mainElements: "Simple wooden table, oil lamp casting circle of warm light, paper and ink, humble but clean surroundings"
+    details: "The act of writing becomes an act of moral courage. Her pen creates the words that will destroy Nora's false paradise but potentially save her soul. The lamp's small circle of light in the vast darkness mirrors her isolated but crucial decision."
+    background: "Modest room with simple furnishings, contrasting sharply with the Helmer's luxury"
+    atmosphere: "Quiet determination in the darkness. One woman's decision to speak truth, regardless of consequences, driven by her belief in authentic relationships over comfortable lies."
+  composition:
+    cameraAngle: "Close-up on her hands writing, the pen creating fateful words"
+    focus: "The act of writing itself - words flowing onto paper that will change everything"
+    depth: "Foreground: Her writing hand and the flowing ink. Middle ground: Her concentrated face in lamplight. Background: Darkness surrounding this small island of purposeful light."

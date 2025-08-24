@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Law of the Jungle is Decreed"
+  setting:
+    time: "19th Century India, night"
+    location: "Council Rock, a hilltop in the Seeonee jungle, covered with bare rocks and boulders."
+    weather: "A clear night under a full moon."
+  characters:
+    - appearance: "A 'great, gray Lone Wolf' who leads the pack through strength and cunning."
+      clothing: "None"
+      position: "Seated majestically on a large rock on the edge of the platform, overlooking the pack."
+      action: "Presiding over the council meeting with solemn authority. His gaze is steady and commanding as he asks the pack who will speak for the man-cub."
+    - appearance: "A large sloth bear, consistently referred to as the 'sleepy, brown bear.' He is massive and powerful."
+      clothing: "None"
+      position: "Standing up from his usual place among the cubs."
+      action: "Speaking in a gruff, rumbling voice, offering to teach the man-cub the Law."
+    - appearance: "A large, black panther. Fur is 'black as ink from every side,' but under certain light reveals the rosette patterns of a leopard."
+      clothing: "None"
+      position: "Draped elegantly on a branch of a tree overlooking the rock."
+      action: "Speaking in a soft, persuasive voice, offering a freshly killed bull to buy the man-cub's life."
+  scene:
+    mainElements: "The wolf pack assembled at Council Rock for a meeting. The scene is a formal, political gathering."
+    details: "An infant Mowgli sits in the center of the circle, playing with pebbles, oblivious to the life-or-death debate happening around him. The wolves of the pack are a sea of gray fur and watchful eyes under the moonlight. no text or letters visible"
+    background: "The dark jungle surrounds the clearing, with the moon hanging high in the sky."
+    atmosphere: "A place of solemnity, law, and ritual. The atmosphere is tense with political maneuvering, as the fate of the man-cub hangs in the balance. no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot, showing the entire assembly at Council Rock."
+    focus: "The small, vulnerable figure of Mowgli in the center of the powerful circle of wolves."
+    depth: "Foreground: the assembled wolf pack. Middle ground: Mowgli and the central rock where Akela sits. Background: the surrounding jungle and the night sky."

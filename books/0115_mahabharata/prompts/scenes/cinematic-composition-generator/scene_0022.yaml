@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Natural Frame - Window to Exile"
+  setting:
+    time: "1000-800 BCE, morning"
+    location: "Dense primeval forest in northern India, untamed wilderness inhabited by ascetics sages in humble ashrams but also demons rakshasas and wild beasts"
+    weather: "Morning light filtering through forest canopy"
+  characters:
+    - appearance: "Female, 20 years old, zgrabna budowa z talią jak ołtarz ofiarny, długie czarnoniebieskie kręcone włosy, duże czarne oczy jak płatki lotosu, ciemna śniada karnacja"
+      clothing: "Simple forest clothing, bark cloth robes suitable for exile life"
+      position: "Standing in simple hut doorway looking out at forest"
+      action: "Ciało emanuje zapachem błękitnego lotosu, twarz wyrażająca szeroką gamę emocji od miłości przez gniew po determinację"
+  scene:
+    mainElements: "Simple hut doorway framing view of deep forest, exiled queen looking toward uncertain future, primitive living conditions contrasting with former palace luxury"
+    details: "Rough wooden doorframe creating natural border, forest light streaming through opening, simple interior visible behind figure, bark clothing showing adaptation to exile, determination in posture despite hardship, no text or letters visible"
+    background: "Mighty ancient trees, thick undergrowth, swamps and hidden clearings, modest ascetic huts scattered throughout, wild animals mythical creatures lurking in shadows"
+    atmosphere: "Variable atmosphere, near ashrams peaceful contemplative filled with nature sounds mantra recitation, deep in forest becomes threatening unpredictable full of unexpected sounds sensation of being watched"
+  composition:
+    cameraAngle: "Medium shot through doorway frame showing transition from shelter to wilderness"
+    focus: "Exiled royalty facing uncertain forest future with dignity intact"
+    depth: "Foreground hut interior and doorframe, middle ground figure in doorway, background vast threatening forest depths, no text or letters visible"

@@ -1,0 +1,156 @@
+directory,title,title_pl,author,year,genre
+0001_alice_in_wonderland,Alice's Adventures in Wonderland,Robot,Lewis Carroll,1865,Fantasy
+0002_animal_farm,Animal Farm,Folwark zwierzęcy,George Orwell,1945,Political satire
+0003_anna_karenina,Anna Karenina,Anna Karenina,Leo Tolstoy,1877,Psychological novel
+0004_brave_new_world,Brave New World,Nowy wspaniały świat,Aldous Huxley,1932,Dystopian fiction
+0005_chlopi,The Peasants,Chłopi,Władysław Reymont,1904,Naturalistic novel
+0006_don_quixote,Don Quixote,Don Kichot,Miguel de Cervantes,1605,Adventure novel
+0007_dune,Dune,Diuna,Frank Herbert,1965,Science Fiction
+0008_emma,Emma,Emma,Jane Austen,1815,Romantic comedy
+0009_fahrenheit_451,Fahrenheit 451,Fahrenheit 451,Ray Bradbury,1953,Dystopian fiction
+0010_great_gatsby,The Great Gatsby,Wielki Gatsby,F. Scott Fitzgerald,1925,American tragedy
+0011_gullivers_travels,Gulliver's Travels,Podróże Guliwera,Jonathan Swift,1726,Adventure satire
+0012_harry_potter,Harry Potter and the Philosopher's Stone,Harry Potter i Kamień Filozoficzny,J.K. Rowling,1997,Young adult fantasy
+0013_hobbit,The Hobbit,Hobbit,J.R.R. Tolkien,1937,Fantasy
+0014_jane_eyre,Jane Eyre,Jane Eyre,Charlotte Brontë,1847,Gothic romance
+0015_lady_of_the_camellias,The Lady of the Camellias,Dama Kameliowa,Alexandre Dumas (fils),1848,Tragic romance
+0016_lalka,The Doll,Lalka,Bolesław Prus,1890,Social novel
+0017_little_prince,The Little Prince,Mały Książę,Antoine de Saint-Exupéry,1943,Philosophical fable
+0018_lord_of_the_rings,The Lord of the Rings,Władca Pierścieni,J.R.R. Tolkien,1954,Fantasy
+0019_master_and_margarita,The Master and Margarita,Mistrz i Małgorzata,Mikhail Bulgakov,1967,Philosophical fantasy
+0020_narnia,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Opowieści z Narnii: Lew, czarownica i stara szafa",C.S. Lewis,1950,Fantasy
+0021_nineteen_eighty_four,Nineteen Eighty-Four,Rok 1984,George Orwell,1949,Dystopian fiction
+0022_old_man_and_the_sea,The Old Man and the Sea,Stary człowiek i morze,Ernest Hemingway,1952,Novella
+0023_one_hundred_years_of_solitude,One Hundred Years of Solitude,Sto lat samotności,Gabriel García Márquez,1967,Magical realism
+0024_pan_tadeusz,Pan Tadeusz,Pan Tadeusz,Adam Mickiewicz,1834,National epic
+0025_portrait_of_dorian_gray,The Picture of Dorian Gray,Portret Doriana Graya,Oscar Wilde,1890,Philosophical novel
+0026_pride_and_prejudice,Pride and Prejudice,Duma i uprzedzenie,Jane Austen,1813,Romance
+0027_quo_vadis,Quo Vadis,Quo Vadis,Henryk Sienkiewicz,1896,Historical novel
+0028_red_and_black,The Red and the Black,Czerwone i czarne,Stendhal,1830,Psychological novel
+0029_robinson_crusoe,Robinson Crusoe,Robinson Crusoe,Daniel Defoe,1719,Adventure novel
+0030_romeo_and_juliet,Romeo and Juliet,Romeo i Julia,William Shakespeare,1597,Romantic tragedy
+0031_solaris,Solaris,Solaris,Stanisław Lem,1961,Philosophical science fiction
+0032_sorrows_of_young_werther,The Sorrows of Young Werther,Cierpienia młodego Wertera,Johann Wolfgang von Goethe,1774,Epistolary novel
+0033_the_trial,The Trial,Proces,Franz Kafka,1925,Existential novel
+0034_to_kill_a_mockingbird,To Kill a Mockingbird,Zabić drozda,Harper Lee,1960,Social novel
+0035_tom_sawyer,The Adventures of Tom Sawyer,Przygody Tomka Sawyera,Mark Twain,1876,Adventure novel
+0036_treasure_island,Treasure Island,Wyspa skarbów,Robert Louis Stevenson,1883,Adventure novel
+0037_wuthering_heights,Wuthering Heights,Wichrowe Wzgórza,Emily Brontë,1847,Gothic romance
+0038_iliad,Iliad,Iliada,Homer,genre:,
+0039_odyssey,Odyssey,Odyseja,Homer,genre:,
+0040_hamlet,Hamlet,Hamlet,William Shakespeare,genre:,
+0041_macbeth,Macbeth,Makbet,William Shakespeare,genre:,
+0042_king_lear,King Lear,Król Lear,William Shakespeare,genre:,
+0043_crime_and_punishment,Crime and Punishment,Zbrodnia i kara,Fyodor Dostoevsky,genre:,
+0044_the_brothers_karamazov,The Brothers Karamazov,Bracia Karamazow,Fyodor Dostoevsky,genre:,
+0045_war_and_peace,War and Peace,Wojna i pokój,Leo Tolstoy,genre:,
+0046_madame_bovary,Madame Bovary,Pani Bovary,Gustave Flaubert,genre:,
+0047_les_miserables,Les Misérables,Nędznicy,Victor Hugo,genre:,
+0048_the_hunchback_of_notredame,The Hunchback of Notre-Dame,Katedra Marii Panny w Paryżu,Victor Hugo,genre:,
+0049_the_count_of_monte_cristo,The Count of Monte Cristo,Hrabia Monte Christo,Alexandre Dumas (père),genre:,
+0050_the_three_musketeers,The Three Musketeers,Trzej muszkieterowie,Alexandre Dumas (père),genre:,
+0051_mobydick,Moby-Dick,Moby Dick,Herman Melville,genre:,
+0052_uncle_toms_cabin,Uncle Tom's Cabin,Chata wuja Toma,Harriet Beecher Stowe,genre:,
+0053_the_scarlet_letter,The Scarlet Letter,Szkarłatna litera,Nathaniel Hawthorne,genre:,
+0054_the_catcher_in_the_rye,The Catcher in the Rye,Buszujący w zbożu,J.D. Salinger,genre:,
+0055_of_mice_and_men,Of Mice and Men,Myszy i ludzie,John Steinbeck,genre:,
+0056_the_grapes_of_wrath,The Grapes of Wrath,Grona gniewu,John Steinbeck,genre:,
+0057_east_of_eden,East of Eden,Na wschód od Edenu,John Steinbeck,genre:,
+0058_for_whom_the_bell_tolls,For Whom the Bell Tolls,Komu bije dzwon,Ernest Hemingway,genre:,
+0059_a_farewell_to_arms,A Farewell to Arms,Pożegnanie z bronią,Ernest Hemingway,genre:,
+0060_the_sun_also_rises,The Sun Also Rises,Słońce też wschodzi,Ernest Hemingway,genre:,
+0061_one_flew_over_the_cuckoos_nest,One Flew Over the Cuckoo's Nest,Lot nad kukułczym gniazdem,Ken Kesey,genre:,
+0062_catch22,Catch-22,Paragraf 22,Joseph Heller,genre:,
+0063_slaughterhousefive,Slaughterhouse-Five,Rzeźnia numer pięć,Kurt Vonnegut,genre:,
+0064_the_metamorphosis,The Metamorphosis,Przemiana,Franz Kafka,genre:,
+0065_the_castle,The Castle,Zamek,Franz Kafka,genre:,
+0066_doctor_zhivago,Doctor Zhivago,Doktor Żywago,Boris Pasternak,genre:,
+0067_the_gulag_archipelago,The Gulag Archipelago,Archipelag GUŁag,Aleksandr Solzhenitsyn,genre:,
+0068_one_day_in_the_life_of_ivan_denisovich,One Day in the Life of Ivan Denisovich,Jeden dzień Iwana Denisowicza,Aleksandr Solzhenitsyn,genre:,
+0069_lolita,Lolita,Lolita,Vladimir Nabokov,genre:,
+0070_on_the_road,On the Road,W drodze,Jack Kerouac,genre:,
+0071_beloved,Beloved,Umiłowana,Toni Morrison,genre:,
+0072_the_color_purple,The Color Purple,Kolor purpury,Alice Walker,genre:,
+0073_their_eyes_were_watching_god,Their Eyes Were Watching God,Ich oczy oglądały Boga,Zora Neale Hurston,genre:,
+0074_invisible_man,Invisible Man,Niewidzialny człowiek,Ralph Ellison,genre:,
+0075_native_son,Native Son,Syn swego kraju,Richard Wright,genre:,
+0076_things_fall_apart,Things Fall Apart,Wszystko się rozpada,Chinua Achebe,genre:,
+0077_the_god_of_small_things,The God of Small Things,Bóg rzeczy małych,Arundhati Roy,genre:,
+0078_midnights_children,Midnight's Children,Dzieci północy,Salman Rushdie,genre:,
+0079_the_satanic_verses,The Satanic Verses,Szatańskie wersety,Salman Rushdie,genre:,
+0080_a_passage_to_india,A Passage to India,Podróż do Indii,E.M. Forster,genre:,
+0081_the_jungle_book,The Jungle Book,Księga dżungli,Rudyard Kipling,genre:,
+0082_heart_of_darkness,Heart of Darkness,Jądro ciemności,Joseph Conrad,genre:,
+0083_lord_of_the_flies,Lord of the Flies,Władca much,William Golding,genre:,
+0084_a_clockwork_orange,A Clockwork Orange,Mechaniczna pomarańcza,Anthony Burgess,genre:,
+0085_the_handmaids_tale,The Handmaid's Tale,Opowieść podręcznej,Margaret Atwood,genre:,
+0086_frankenstein,Frankenstein,Frankenstein,Mary Shelley,genre:,
+0087_dracula,Dracula,Drakula,Bram Stoker,genre:,
+0088_the_strange_case_of_dr_jekyll_and_mr_hyde,The Strange Case of Dr Jekyll and Mr Hyde,Dziwna historia doktora Jekylla i pana Hyde’a,Robert Louis Stevenson,genre:,
+0089_twenty_thousand_leagues_under_the_sea,Twenty Thousand Leagues Under the Sea,Dwadzieścia tysięcy mil podmorskiej żeglugi,Jules Verne,genre:,
+0090_around_the_world_in_eighty_days,Around the World in Eighty Days,W osiemdziesiąt dni dookoła świata,Jules Verne,genre:,
+0091_journey_to_the_center_of_the_earth,Journey to the Center of the Earth,Podróż do wnętrza Ziemi,Jules Verne,genre:,
+0092_the_time_machine,The Time Machine,Wehikuł czasu,H.G. Wells,genre:,
+0093_the_war_of_the_worlds,The War of the Worlds,Wojna światów,H.G. Wells,genre:,
+0094_the_invisible_man,The Invisible Man,Niewidzialny człowiek,H.G. Wells,genre:,
+0095_foundation,Foundation,Fundacja,Isaac Asimov,genre:,
+0096_i_robot,"I, Robot",Robot,Isaac Asimov,genre:,
+0097_neuromancer,Neuromancer,Neuromancer,William Gibson,genre:,
+0098_the_man_in_the_high_castle,The Man in the High Castle,Człowiek z Wysokiego Zamku,Philip K. Dick,genre:,
+0099_do_androids_dream_of_electric_sheep,Do Androids Dream of Electric Sheep?,Czy androidy marzą o elektrycznych owcach?,Philip K. Dick,genre:,
+0100_the_left_hand_of_darkness,The Left Hand of Darkness,Lewa ręka ciemności,Ursula K. Le Guin,genre:,
+0101_the_epic_of_gilgamesh,The Epic of Gilgamesh,Epos o Gilgameszu,Anonymous,genre:,
+0102_the_divine_comedy,The Divine Comedy,Boska komedia,Dante Alighieri,genre:,
+0103_one_thousand_and_one_nights,One Thousand and One Nights,Księga tysiąca i jednej nocy,Anonymous,genre:,
+0104_the_canterbury_tales,The Canterbury Tales,Opowieści kanterberyjskie,Geoffrey Chaucer,genre:,
+0105_a_christmas_carol,A Christmas Carol,Opowieść wigilijna,Charles Dickens,genre:,
+0106_the_tale_of_genji,The Tale of Genji,Opowieść o księciu Genjim,Murasaki Shikibu,genre:,
+0107_journey_to_the_west,Journey to the West,Wędrówka na Zachód,Wu Cheng'en,genre:,
+0108_candide,Candide,,Voltaire,genre:,
+0109_faust,Faust,Faust,Johann Wolfgang von Goethe,genre:,
+0110_oedipus_rex,Oedipus Rex,Król Edyp,Sophocles,genre:,
+0111_a_dolls_house,A Doll's House,Dom lalki,Henrik Ibsen,genre:,
+0112_ulysses,Ulysses,Ulisses,James Joyce,genre:,
+0113_all_quiet_on_the_western_front,All Quiet on the Western Front,Na Zachodzie bez zmian,Erich Maria Remarque,genre:,
+0114_the_diary_of_anne_frank,The Diary of Anne Frank,Dziennik Anne Frank,Anne Frank,genre:,
+0115_mahabharata,Mahabharata,Mahabharata,Vyasa,genre:,
+0116_ramayana,Ramayana,Ramajana,Valmiki,genre:,
+0117_aeneid,Aeneid,Eneida,Virgil,genre:,
+0118_the_republic,The Republic,Państwo,Plato,genre:,
+0119_the_art_of_war,The Art of War,Sztuka wojny,Sun Tzu,genre:,
+0120_the_prince,The Prince,Książę,Niccolò Machiavelli,genre:,
+0121_essays,Essays,Próby,Michel de Montaigne,genre:,
+0122_leviathan,Leviathan,Lewiatan,Thomas Hobbes,genre:,
+0123_the_social_contract,The Social Contract,Umowa społeczna,Jean-Jacques Rousseau,genre:,
+0124_the_wealth_of_nations,The Wealth of Nations,Bogactwo narodów,Adam Smith,genre:,
+0125_a_vindication_of_the_rights_of_woman,A Vindication of the Rights of Woman,Wołanie o prawa kobiety,Mary Wollstonecraft,genre:,
+0126_the_communist_manifesto,The Communist Manifesto,Manifest komunistyczny,Karl Marx and Friedrich Engels,genre:,
+0127_on_liberty,On Liberty,O wolności,John Stuart Mill,genre:,
+0128_thus_spoke_zarathustra,Thus Spoke Zarathustra,Tako rzecze Zaratustra,Friedrich Nietzsche,genre:,
+0129_the_second_sex,The Second Sex,Druga płeć,Simone de Beauvoir,genre:,
+0130_the_wretched_of_the_earth,The Wretched of the Earth,Wyklęty lud ziemi,Frantz Fanon,genre:,
+0131_on_the_origin_of_species,On the Origin of Species,O powstawaniu gatunków,Charles Darwin,genre:,
+0132_the_interpretation_of_dreams,The Interpretation of Dreams,Objaśnianie marzeń sennych,Sigmund Freud,genre:,
+0133_silent_spring,Silent Spring,Milcząca wiosna,Rachel Carson,genre:,
+0134_pere_goriot,Père Goriot,Ojciec Goriot,Honoré de Balzac,genre:,
+0134_père_goriot,Père Goriot,Ojciec Goriot,Honoré de Balzac,genre:,
+0135_adventures_of_huckleberry_finn,Adventures of Huckleberry Finn,Przygody Hucka Finna,Mark Twain,genre:,
+0136_in_search_of_lost_time,In Search of Lost Time,W poszukiwaniu straconego czasu,Marcel Proust,genre:,
+0137_mrs_dalloway,Mrs Dalloway,Pani Dalloway,Virginia Woolf,genre:,
+0138_the_waste_land,The Waste Land,Ziemia jałowa,T.S. Eliot,genre:,
+0139_the_sound_and_the_fury,The Sound and the Fury,Wściekłość i wrzask,William Faulkner,genre:,
+0140_the_stranger,The Stranger,Obcy,Albert Camus,genre:,
+0141_waiting_for_godot,Waiting for Godot,Czekając na Godota,Samuel Beckett,genre:,
+0142_the_real_story_of_ahq,The Real Story of Ah-Q,Czekając na Godota,Lu Xun,genre:,
+0143_gitanjali,Gitanjali,Gitanjali. Pieśni ofiarne,Rabindranath Tagore,genre:,
+0144_ficciones,Ficciones,Fikcje,Jorge Luis Borges,genre:,
+0145_the_cairo_trilogy,The Cairo Trilogy,Trylogia kairska,Naguib Mahfouz,genre:,
+0146_season_of_migration_to_the_north,Season of Migration to the North,Sezon migracji na Północ,Tayeb Salih,genre:,
+0147_the_house_of_the_spirits,The House of the Spirits,Dom duchów,Isabel Allende,genre:,
+0148_red_sorghum,Red Sorghum,Czerwone sorgo,Mo Yan,genre:,
+0149_the_oresteia,The Oresteia,Oresteja,Aeschylus,genre:,
+0150_tartuffe,Tartuffe,Świętoszek,Molière,genre:,
+0151_death_of_a_salesman,Death of a Salesman,Śmierć komiwojażera,Arthur Miller,genre:,
+0152_a_streetcar_named_desire,A Streetcar Named Desire,Tramwaj zwany pożądaniem,Tennessee Williams,genre:,
+0153_long_days_journey_into_night,Long Day's Journey into Night,Długa podróż dnia ku nocy,Eugene O'Neill,genre:,
+0154_mother_courage_and_her_children,Mother Courage and Her Children,Matka Courage i jej dzieci,Bertolt Brecht,genre:,

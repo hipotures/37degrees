@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, afternoon
+    location: A dimly lit office in a European city, referred to as a whited sepulchre.
+    weather: Overcast, light filtering weakly through a tall window.
+  characters:
+  - appearance: A young, eager Charles Marlow, 32, with a lean, sailor's build.
+    clothing: A respectable, but not opulent, suit for his job interview.
+    position: Sitting on a wooden chair, waiting.
+    action: Observing the room. His gaze is drawn to a large, dark map of Africa on the wall, a vast, unexplored space.
+  scene:
+    mainElements: The oppressive silence of the company office. The map of Africa dominates the wall, a character in itself.
+    details: On the map, the Congo River is a coiled snake, inviting and menacing. A single fly buzzes lazily in the room,
+      its sound unnaturally loud in the silence. The shadow of the fly on the wall seems disproportionately large. no text
+      or letters visible
+    background: Two women knit with black wool in the corner, their faces obscured by shadow. They resemble the Fates, knitting
+      the destiny of those who pass through.
+    atmosphere: A sense of foreboding and bureaucratic dread. The room feels like a gateway to something ancient and ominous.
+      no text or letters visible
+  composition:
+    cameraAngle: Eye-level, from Marlow's perspective.
+    focus: The vast, dark, and mostly blank space of the African continent on the map.
+    depth: 'Foreground: Marlow''s hands, resting on his knees. Middle ground: the map. Background: the two knitting women.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

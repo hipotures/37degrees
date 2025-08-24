@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Flaying of Shere Khan"
+  setting:
+    time: "19th Century India, afternoon"
+    location: "The bottom of the dry ravine."
+    weather: "The heat is beginning to lessen, the dust is settling."
+  characters:
+    - appearance: "A boy of about 11 years old, covered in mud and blood."
+      clothing: "Wears a simple loincloth."
+      position: "Kneeling over the body of the dead tiger."
+      action: "Methodically skinning the tiger with his knife. His face is grim and focused, showing no emotion."
+    - appearance: "An old man, the village hunter."
+      clothing: "Traditional Indian dhoti and turban."
+      position: "Standing on the edge of the ravine, looking down."
+      action: "His face is a mixture of awe, fear, and greed as he watches the boy."
+  scene:
+    mainElements: "Mowgli claims his prize. The act of skinning the tiger is a ritualistic assertion of his victory and his identity."
+    details: "The body of Shere Khan is a massive, striped form, now still and lifeless. Mowgli works with a practiced skill that belies his age. The ten-foot-long hide is slowly peeled away from the carcass. no text or letters visible"
+    background: "The rest of the buffalo herd is grazing peacefully nearby, the stampede over."
+    atmosphere: "A quiet, intense, and slightly gruesome scene. The violence is over, but the aftermath is stark and brutal. A sense of finality and grim satisfaction. no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot, focusing on Mowgli and the tiger."
+    focus: "The methodical, almost surgical way Mowgli handles the knife, a symbol of his human intelligence and his jungle upbringing."
+    depth: "Foreground: Mowgli and the tiger. Middle ground: the grazing buffaloes. Background: the figure of Buldeo, the hunter, on the clifftop."

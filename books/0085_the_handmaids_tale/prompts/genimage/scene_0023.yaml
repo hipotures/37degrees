@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Near future, dramatic lighting with single bright source from above
+    location: Circular architectural space based on Bentham's Panopticon prison design
+    weather: Indoor setting with controlled lighting emphasizing the surveillance architecture
+  characters:
+  - appearance: Citizens in caste uniforms positioned around circular perimeter, all facing center where surveillance authority
+      is located
+    clothing: Standard caste uniforms - red, blue, brown, black - all perfectly maintained and conforming
+    position: Arranged in circular formation around central observation point, all visible to central authority
+    action: Conducting daily activities while constantly aware of central observation, their behavior modified by knowledge
+      of being watched
+  - appearance: Central surveillance authority figure representing the all-seeing state power
+    clothing: Authority uniform suggesting total surveillance capability
+    position: Located at central observation point with ability to see all citizens simultaneously
+    action: Observing all citizens from central position, representing omnipresent state surveillance
+  scene:
+    mainElements: Circular panopticon architecture where central observation point can monitor all citizens simultaneously,
+      creating perfect surveillance state metaphor
+    details: The panopticon design ensures that citizens can always be observed but never know when they are being watched,
+      creating constant self-monitoring behavior. The architecture makes privacy impossible and individual autonomy meaningless.
+      Citizens modify their behavior based on assumption of constant surveillance.
+    background: Circular architecture with cells or spaces arranged around central observation tower, creating the classic
+      panopticon design that maximizes surveillance efficiency
+    atmosphere: Paranoia and self-censorship created by constant potential observation, where the possibility of surveillance
+      controls behavior even when actual watching is uncertain
+  composition:
+    cameraAngle: Overhead or elevated view showing the circular panopticon layout and central surveillance position
+    focus: The circular surveillance architecture and central observation point dominate the frame
+    depth: Circular arrangement of citizens in foreground and middle ground, central surveillance tower in background creating
+      the panopticon's surveillance geometry
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

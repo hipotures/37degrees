@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Nautilus navigating through vast underwater canyon system"
+  setting:
+    time: "1866, midday with filtered sunlight penetrating ocean depths"
+    location: "Deep underwater canyon in Pacific Ocean at approximately 200 meters depth"
+    weather: "Clear surface waters above allowing maximum light penetration to the depths"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Nautilus gracefully navigating through a spectacular underwater canyon system with towering rocky walls rising on both sides. The submarine appears dwarfed by the massive geological formations, emphasizing the scale of the ocean's hidden landscape. Ancient sedimentary rock layers are visible in the canyon walls, creating natural striations in browns, grays, and ochres. Schools of deep-sea fish move in coordinated formations around the submarine."
+    details: "The canyon walls show millions of years of geological history with distinct rock strata, coral formations, and marine growth covering the surfaces. Nautilus moves through the water with perfect buoyancy control, its powerful electric motors providing silent propulsion. The submarine's exterior lights are activated, casting bright beams that reveal hidden caverns and crevices in the canyon walls. Kelp forests sway from rock ledges like underwater trees. The water itself has a deep blue-green tint characteristic of significant depth."
+    background: "The canyon extends both ahead and behind Nautilus, creating a natural underwater highway. Filtered sunlight creates ethereal rays penetrating from above, gradually fading to darkness in the deepest portions of the canyon."
+    atmosphere: "Majesty and exploration. The scene emphasizes the hidden grandeur of the ocean depths and Nautilus's role as humanity's first vessel capable of exploring these unreachable realms. There is a sense of discovery and scientific wonder at the Earth's hidden geography."
+  composition:
+    cameraAngle: "Side-angle view from within the canyon, positioned on one wall looking across at Nautilus"
+    focus: "Nautilus positioned in the center of the canyon passage, showing its relationship to the massive scale of underwater geology"
+    depth: "Foreground features detailed canyon wall textures with marine growth, middle ground shows Nautilus in passage, background extends deeper into the canyon system with fading light"

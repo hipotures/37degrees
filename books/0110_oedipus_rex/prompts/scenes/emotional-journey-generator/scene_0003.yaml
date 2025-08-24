@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Royal Authority Established"
+  setting:
+    time: "Ancient Bronze Age Greece, mid-morning"
+    location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+    weather: "Clear harsh sunlight casting sharp shadows across palace facade"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing at center of palace steps with arms extended toward his people"
+      action: "Making royal proclamation with confident gestures, addressing the crowd with paternal authority"
+    - appearance: "Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray or white hair and beards signifying elder status"
+      clothing: "Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors like dark gray or deep blue"
+      position: "Standing in orderly formation to one side of the courtyard"
+      action: "Listening respectfully with attentive faces, nodding approval of their king's words"
+  scene:
+    mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+    details: "Simple but heavy gold circlet worn by Oedipus as crown, plain design emphasizing solidity and weight of royal authority. Long staff topped with royal emblem, possibly lion's head, symbol of Oedipus's kingship and authority, made of polished wood with gold ornamentation. Palace walls showing their cyclopean stonework, weathered but still imposing. No text or letters visible"
+    background: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone with faded royal frescoes of lions and griffins"
+    atmosphere: "Peak of royal confidence and established order, king and subjects in harmonious relationship of trust and authority"
+  composition:
+    cameraAngle: "Medium shot capturing both Oedipus on steps and chorus in courtyard"
+    focus: "Oedipus as central figure of authority with his royal regalia and commanding presence"
+    depth: "Foreground shows chorus members, middle ground captures Oedipus on steps, background shows palace doors and facade"

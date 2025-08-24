@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Underground Storm with Electrical Cacophony"
+  setting:
+    time: "1863, deep underground"
+    location: "Vast underground ocean within gigantic cavern system, prehistoric marine environment lit by electrical phenomena"
+    weather: "Violent electrical storm with supernatural atmospheric disturbances"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+  scene:
+    mainElements: "Endless expanse of dark water stretching to invisible horizons, sandy beaches littered with fossilized bones and shells, towering mushroom forest nearby"
+    details: "Primitive vessel constructed from semi-petrified tree trunks found on underground shore, simple mast rigged with improvised sail, representing human ingenuity in prehistoric environment. Explosive electrical discharges creating stroboscopic lighting effects, chaotic overlapping movements of wind-whipped sail and churning water, hair and clothing in violent motion showing force of supernatural winds, faces illuminated intermittently by brilliant electrical flashes revealing expressions of terror and awe, compass needle spinning wildly indicating magnetic chaos, equipment scattered by hurricane-force winds with metal objects creating sparks, water spray frozen mid-air during lightning strikes, no text or letters visible"
+    background: "Unearthly illumination from electrical aurora on cavern ceiling, profound silence broken by lapping waves, sense of primordial world untouched by surface time"
+    atmosphere: "Overwhelming sensory chaos where multiple forces compete for attention, visual cacophony representing auditory overload of supernatural storm"
+  composition:
+    cameraAngle: "Dynamic diagonal shot capturing chaos and motion blur"
+    focus: "Multiple competing elements creating visual noise and confusion"
+    depth: "Foreground shows immediate chaos on raft, middle ground captures electrical phenomena, background reveals cavern scale"

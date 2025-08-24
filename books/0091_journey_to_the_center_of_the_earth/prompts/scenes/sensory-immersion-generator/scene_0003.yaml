@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Descent into the Volcanic Crater Opening"
+  setting:
+    time: "1863, early morning"
+    location: "Interior of Snæfellsjökull crater, narrow volcanic passage leading into Earth's depths"
+    weather: "Cold mountain air with frost forming on rock surfaces"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+  scene:
+    mainElements: "Narrow volcanic opening descending into darkness, rope secured around jagged crater rim, coiled climbing equipment"
+    details: "Rough volcanic rope burning palms as hands grip tightly, sharp crater edges cutting through thick leather gloves, feet searching for purchase against smooth volcanic glass walls, bodies pressed against cold stone absorbing mountain chill through clothing, weight of equipment packs pulling shoulders downward, harsh contrast between surface warmth and underground cold penetrating through multiple clothing layers, breath visible as white clouds in frigid air, no text or letters visible"
+    background: "Deep volcanic shaft disappearing into black unknown depths, circle of distant sky above growing smaller"
+    atmosphere: "Physical commitment to unknown depths, texture contrast between brutal rope and unforgiving rock, temperature gradient marking transition from surface world to underground mystery"
+  composition:
+    cameraAngle: "Looking up from within crater showing figures descending against sky"
+    focus: "Hands gripping rope and feet finding footholds on volcanic walls"
+    depth: "Foreground shows detailed climbing action, middle ground captures full figures, background frames distant sky opening"

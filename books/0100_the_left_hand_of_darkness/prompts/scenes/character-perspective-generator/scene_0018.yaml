@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Multiple Angles - Ice Rescue Operation"
+  setting:
+    time: "1491 Ekumen calendar, night, artificial light from portable sources"
+    location: "Remote forced labor camp in deforested wilderness of Orgoreyn on planet Gethen, brutal prison facility disguised as voluntary farm"
+    weather: "Cold winter night with snow falling"
+  characters:
+    - appearance: "Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion"
+      clothing: "Guard uniform borrowed or stolen as disguise, official insignia and winter protection gear"
+      position: "Moving through camp perimeter toward prisoner barracks"
+      action: "Executing rescue operation by impersonating camp guard, carrying unconscious prisoner to safety using concentrated mental discipline and physical strength"
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Prison clothing, inadequate winter protection, unconscious and unable to move independently"
+      position: "Being carried by rescuer, semi-conscious from illness and institutional abuse"
+      action: "Recovering from medical abuse and institutional trauma while being evacuated by determined ally"
+  scene:
+    mainElements: "Crude wooden barracks surrounded by barbed wire, guard towers with searchlights, muddy compound with logging equipment, forest perimeter providing escape route"
+    details: "Multiple perspective angles revealing different aspects of rescue operation - guard tower view showing camp security, ground level view showing physical obstacles, forest perspective showing escape route, institutional lighting revealing camp layout while creating shadows for concealment, no text or letters visible"
+    background: "Deforested wilderness surrounding camp, distant lights of administrative facilities, vehicle access roads, communication equipment in guard towers"
+    atmosphere: "High-risk rescue operation shown from multiple angles revealing complete tactical situation - courage and desperation operating within institutional security system"
+  composition:
+    cameraAngle: "Multiple simultaneous angles showing rescue operation from guard tower, ground level, and forest perimeter perspectives"
+    focus: "Complete tactical situation revealing both risk and determination involved in rescue operation"
+    depth: "Foreground: immediate rescue action, middle: camp security systems, background: wilderness escape route and administrative infrastructure"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Dr Rank's Confession - Love and Death Revealed"
+  setting:
+    time: "1879, Boxing Day evening"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Evening shadows deepening"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Frozen in shock, stepping back from Dr Rank's revelation"
+      action: "Face showing mixed horror and sympathy as she realizes his confession has trapped them both"
+    - appearance: "Man aged 40-50 years, naznaczony śmiertelną chorobą, blada twarz, lekko przygarbiona postawa suggesting chroniczne zmęczenie and ból, oczy showing inteligencja cynizm and ironiczny dystans"
+      clothing: "Elegancki but być może nieco znoszony garnitur dżentelmena, ciemny stonowany strój reflecting pesymistyczne nastawienie"
+      position: "Standing with dignity despite his physical decline, eyes showing both love and resignation"
+      action: "Speaking with quiet intensity, revealing his love while knowing it cannot be returned"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The comfortable salon becomes witness to this painful revelation. Evening light creates intimate but tragic atmosphere. Wizytówka z czarnym krzyżem, wizualny sygnał of Rank's nadchodzącej śmierci and ostateczne pożegnanie, symbol mortality entering the dom lies nearby on a table."
+    background: "The elegant interior frames this moment of tragic honesty between friends"
+    atmosphere: "Tragic intimacy as death and unrequited love are revealed. The comfortable room cannot protect them from these harsh truths."
+  composition:
+    cameraAngle: "Medium two-shot emphasizing the emotional distance created by his confession"
+    focus: "Nora's shocked retreat and Dr Rank's dignified resignation"
+    depth: "Foreground: Dr Rank's confession changing everything. Middle ground: Nora's conflicted response. Background: The domestic setting that cannot contain these deep truths."

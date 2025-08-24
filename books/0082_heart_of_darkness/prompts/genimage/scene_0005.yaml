@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: The Central Station.
+    weather: Hot and humid, the air thick with the scent of decay.
+  characters:
+  - appearance: Charles Marlow, 32.
+    clothing: Practical, but worn and sweat-stained work clothes.
+    position: Standing on the riverbank, looking down at his sunken steamboat.
+    action: His face is a mask of weary frustration. The delay feels like a personal attack by the jungle itself.
+  scene:
+    mainElements: Marlow's steamboat, half-submerged in the muddy river. It looks like the carcass of some dead river beast.
+    details: The water around the boat is oily and stagnant. The jungle vegetation seems to be actively trying to reclaim
+      the boat, with vines snaking around its rusty hull. Looking into the murky water, Marlow sees his own reflection, but
+      it is distorted and monstrous, with hollow eyes. no text or letters visible
+    background: The lazy, indolent 'pilgrims' of the station watch him from the shore with a mixture of amusement and contempt.
+    atmosphere: A sense of decay, inertia, and quiet hostility. The jungle is not a passive backdrop, but an active antagonist,
+      working to thwart Marlow's progress. no text or letters visible
+  composition:
+    cameraAngle: High-angle shot, looking down at Marlow and his sunken boat.
+    focus: The distorted, monstrous reflection of Marlow in the oily water.
+    depth: 'Foreground: the watching pilgrims. Middle ground: Marlow on the riverbank. Background: the half-submerged steamboat.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

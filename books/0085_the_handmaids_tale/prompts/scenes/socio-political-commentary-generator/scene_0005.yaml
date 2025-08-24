@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Towering Government Complex - Symbol of Power"
+  setting:
+    time: "Near future, late afternoon with dramatic backlighting"
+    location: "Central government district in former Washington DC area now headquarters of Gilead"
+    weather: "Clear sky with sun positioning creating imposing silhouette"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Massive government or corporate complex of buildings rising above the cityscape, featuring neo-classical architecture mixed with modern brutalist elements, all designed to project absolute authority"
+    details: "The complex features imposing columns, wide steps, and geometric facades that dwarf human scale. Gilead's symbols and biblical inscriptions are carved into the stone facade. The buildings incorporate elements suggesting both religious authority and corporate power - crosses mixed with eagles, biblical quotes alongside efficiency slogans. Clean lines and overwhelming scale designed to make visitors feel insignificant."
+    background: "Lower city buildings spreading outward from the central complex, wide ceremonial approaches and plazas designed for mass gatherings, carefully planned landscaping that emphasizes the buildings' dominance"
+    atmosphere: "Overwhelming projection of state power and divine authority, the architecture communicating that Gilead's rule is both inevitable and permanent"
+  composition:
+    cameraAngle: "Low angle from ground level emphasizing the buildings' towering height and imposing presence"
+    focus: "The government complex dominates the entire frame, showing its architectural intimidation"
+    depth: "Complex filling most of frame in foreground and middle ground, smaller city elements in background emphasizing the hierarchy of power"

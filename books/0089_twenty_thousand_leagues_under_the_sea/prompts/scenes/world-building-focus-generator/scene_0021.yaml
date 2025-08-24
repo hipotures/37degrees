@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underwater memorial ceremony honoring fallen crew member"
+  setting:
+    time: "1866, solemn twilight hour during memorial service"
+    location: "Coral cemetery on ocean floor where Nautilus crew honors their dead"
+    weather: "Calm underwater environment with gentle currents and respectful silence"
+  characters:
+    - appearance: "Dojrzały mężczyzna w wieku około 45 lat, wysoki o dumnej i wyniosłej postawie zdradzającej arystokratyczne pochodzenie. Blada cera, szerokie czoło, prosty nos i czysto narysowane usta. Niebieskie oczy osadzone nieco szerzej niż przeciętnie, dające mu niezwykle szerokie pole widzenia. Spojrzenie bystre, pewne siebie, spokojne, ale potrafiące w jednej chwili stać się lodowate i groźne. Ciemne włosy i broda nadające mu tajemniczy wygląd. Niezwykle delikatne i smukłe dłonie kontrastujące z jego rolą dowódcy"
+      clothing: "Prosta, elegancka tunika i spodnie z bisioru w ciemnych kolorach bez jakichkolwiek dystynkcji czy ozdób, podkreślające że jego autorytet wynika z osobowości"
+      position: "Standing solemnly before coral formations that serve as underwater cemetery"
+      action: "Leading memorial ceremony for deceased crew member with quiet dignity and respect"
+  scene:
+    mainElements: "Underwater cemetery created within natural coral formations that serve as eternal resting place for Nautilus crew members. The coral garden provides a living monument more beautiful than any terrestrial graveyard. Marine life inhabits the coral cemetery, creating a ecosystem of eternal life surrounding the memorial."
+    details: "Coral formations of various species create natural headstones and monuments in brilliant colors. The deceased are laid to rest within the coral structures where they become part of the ocean ecosystem. Schools of tropical fish move through the memorial garden like living prayers. The ceremony demonstrates that even in exile, the crew maintains dignity and respect for their fallen comrades."
+    background: "The coral cemetery extends across the seafloor, representing a community that has chosen the ocean as their eternal home rather than terrestrial burial grounds."
+    atmosphere: "Solemn respect and underwater spirituality. This ceremony represents the crew's commitment to their chosen ocean life and their reverence for those who have died in service to their underwater community."
+  composition:
+    cameraAngle: "Respectful medium shot capturing the solemnity of the underwater memorial service"
+    focus: "The captain conducting the ceremony within the beautiful coral cemetery setting"
+    depth: "Foreground shows coral formations serving as memorials, middle ground features the ceremony, background reveals the extent of the underwater cemetery"

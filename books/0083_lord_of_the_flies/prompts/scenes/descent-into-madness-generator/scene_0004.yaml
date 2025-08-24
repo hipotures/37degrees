@@ -1,0 +1,27 @@
+sceneDescription:
+  title: "The Jungle's Gaze and the Whispering Creepers"
+  setting:
+    time: "Mid-20th Century, twilight"
+    location: "A dense, dark, and humid tropical jungle covering the interior of the island."
+    weather: "The air is still and heavy. The light is fading fast."
+  characters:
+    - id: "littluns"
+      name: "The Littluns"
+      description_block: |
+        characters:
+          - name: "The Littluns"
+            age: "6-8"
+            appearance: "A group of the youngest boys, of various shapes and sizes. They are often dirty, with tangled hair and runny noses."
+            clothing: "Remnants of school uniforms, now just rags."
+            posture: "Huddle together for comfort, often crying or playing aimlessly in the sand."
+      position: "A single littlun is lost in the jungle, separated from the others."
+      action: "Crying silently, his face streaked with tears and dirt. He is staring into the darkness, his eyes wide with terror."
+  scene:
+    mainElements: "The jungle at twilight is a terrifying place for a small child. The familiar shapes of the day have become monstrous and threatening in the fading light."
+    details: "The thick vines (creepers) that hang from the trees seem to writhe and twist like snakes. The shadows are deep and full of imagined movement. The sounds of the jungle - the buzzing of insects, the rustling of leaves - are amplified and distorted, sounding like whispers."
+    background: "The impenetrable darkness of the deeper jungle. The last rays of sunlight are visible through the dense canopy."
+    atmosphere: "A claustrophobic and terrifying scene of childhood fear. The jungle itself seems to be a living, breathing entity, hostile to the lost child."
+  composition:
+    cameraAngle: "A shot from the littlun's point of view, looking into the dark and menacing jungle. The camera is low to the ground, emphasizing the child's vulnerability."
+    focus: "The twisting, snake-like creepers that seem to be reaching for the child."
+    depth: "Foreground: The terrified face of the littlun. Middle ground: The menacing shapes of the jungle. Background: The encroaching darkness."

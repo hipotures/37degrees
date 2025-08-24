@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Accelerated building decay from pristine to ruin
+    location: Single palace structure showing compressed deterioration
+    weather: Weathering effects accelerated through all seasonal extremes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Palace structure undergoing accelerated aging - paint fading, stones cracking, metal oxidizing, vegetation
+      claiming surfaces, all visible simultaneously as temporal overlay showing construction, glory, and ultimate decay
+    details: Architectural elements showing every stage of deterioration - fresh marble becoming stained, metal fittings transforming
+      from bright to tarnished to rusted to fragments, wood elements warping and rotting, roof tiles sliding and breaking,
+      windows cracking and falling. Ivy and climbing plants advance up walls like living time-lapse
+    background: Supporting structures similarly aging - walls crumbling, foundations settling, gardens becoming wild, pathways
+      cracking and disappearing under encroaching vegetation
+    atmosphere: Melancholy beauty of inevitable decay, time as destroyer of human achievement, nature's patient reclamation
+      of artificial structures, entropy made visible and accelerated, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing complete palace with all decay stages visible
+    focus: Central facade showing clearest temporal progression from glory to ruin
+    depth: Detailed decay processes in foreground, structural deterioration in middle ground, landscape reclamation in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

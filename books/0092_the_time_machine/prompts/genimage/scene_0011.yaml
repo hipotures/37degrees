@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Overlapping temporalities from 1895 to 802,701
+    location: Same great hall space across vast temporal span
+    weather: Interior lighting evolving from candlelight to electric to unknown future illumination
+  characters:
+  - appearance: Triple temporal overlay - Victorian dinner guests in 1895 formal attire, Eloi in future tunics, ghostly suggestion
+      of intervening generations
+    clothing: 1895 layer shows formal evening dress, future layer shows simple colored tunics, middle layers suggest fashion
+      evolution across centuries
+    position: Identical seated positions around same table space across temporal layers
+    action: Communal dining ritual repeated across generations - formal Victorian ceremony, casual Eloi fruit sharing, implied
+      continuity of human gathering
+  scene:
+    mainElements: Great hall showing same communal dining space across enormous time span, with architectural evolution from
+      Victorian grandeur to ruined palace to simple future gathering place
+    details: Table settings evolve from fine china and crystal to simple wooden bowls and natural materials. Food transforms
+      from elaborate Victorian courses to abundant exotic fruits. Lighting shifts from warm candlelight to harsh electric
+      to soft future luminescence. Architectural details weather and change - carved wood becomes worn stone becomes organic
+      growing structures
+    background: Same windows show different views - Victorian London to garden wilderness to unknowable future landscape,
+      walls accumulate and lose decoration across time
+    atmosphere: Continuity of human fellowship across time, dining as eternal human ritual, generational echo in same space,
+      comfort of repeated tradition despite revolutionary change, no text or letters visible
+  composition:
+    cameraAngle: Wide shot encompassing full dining hall with temporal layers visible
+    focus: Central dining table showing clear temporal progression of communal meals
+    depth: Table settings sharp in foreground, seated figures in middle ground, evolving architecture and windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

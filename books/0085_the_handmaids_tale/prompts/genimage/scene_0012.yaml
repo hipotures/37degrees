@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Near future, dramatic lighting with strong geometric shadows
+    location: Massive state facility designed around mechanical efficiency in Gilead industrial district
+    weather: Indoor industrial environment with artificial lighting creating machine-like atmosphere
+  characters:
+  - appearance: Workers arranged in circular or gear-like formation, their positions and movements creating geometric patterns
+    clothing: Identical work uniforms in neutral colors, each worker indistinguishable from others
+    position: Positioned as human teeth in a giant gear mechanism, each person occupying a specific functional role
+    action: Moving in coordinated rotation or cycling pattern, their human movements reduced to mechanical functions
+  scene:
+    mainElements: Visual metaphor of giant gear or clockwork mechanism where human workers serve as the moving parts, creating
+      obvious symbolism of people as machine components
+    details: The facility design emphasizes geometric patterns and mechanical precision. Workers' stations are arranged in
+      circles, spirals, or gear-tooth patterns. Their synchronized movements create the visual impression of a massive machine
+      in operation. Individual human faces are not visible or distinguishable - only their function matters.
+    background: Industrial architecture designed around mechanical metaphors with circular platforms, rotating work stations,
+      and geometric patterns that reinforce the machine imagery
+    atmosphere: Complete subjugation of human individuality to mechanical function, where people exist solely to serve the
+      system's operational needs
+  composition:
+    cameraAngle: Overhead or elevated view showing the geometric pattern formed by workers in their mechanical arrangement
+    focus: The gear-like pattern created by human workers dominates the entire composition
+    depth: Worker formation in foreground creating geometric pattern, industrial machinery in middle ground, more geometric
+      industrial patterns extending into background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

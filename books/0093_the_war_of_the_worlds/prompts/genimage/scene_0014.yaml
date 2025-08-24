@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1897, mid-morning during Martian advance
+    location: Banks of river Wey in Surrey, damaged bridge and water crossing point, strategic location for observing alien
+      advance
+    weather: Clear morning light creating reflections on water surface
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Crouched behind riverbank vegetation, observing alien machines crossing water
+    action: Witnessing Martian tripods wading through river with unstoppable mechanical grace
+  scene:
+    mainElements: Multiple tripod fighting machines crossing river in organized military formation, demonstrating tactical
+      intelligence
+    details: Towering three-legged walking machine about 30 meters tall, gleaming metallic body with articulated hood-like
+      head section, flexible tentacle-like appendages beneath main body, rear basket for carrying captured humans, moves with
+      fluid alien grace despite mechanical nature. Water displaced by massive mechanical legs, spray catching sunlight, methodical
+      advance showing alien military coordination
+    background: Surrey countryside on both sides of river, damaged human infrastructure, peaceful English landscape being
+      systematically conquered
+    atmosphere: Overwhelming demonstration of alien military efficiency, sense of unstoppable force advancing across familiar
+      landscape, technological superiority made manifest
+  composition:
+    cameraAngle: Over narrator's shoulder from concealment, watching tripods cross water
+    focus: Tripod machines wading through river showing their adaptation to Earth terrain, no text or letters visible
+    depth: Foreground shows narrator's hidden position behind foliage, middle ground features tripods crossing river, background
+      reveals conquered countryside beyond
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

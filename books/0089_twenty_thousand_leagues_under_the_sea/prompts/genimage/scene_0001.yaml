@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1866, late evening approaching dusk
+    location: Open Pacific Ocean several hundred miles from Japanese coast
+    weather: Calm seas with gentle swells, clear skies transitioning to twilight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vast Pacific Ocean stretching to the horizon with the mysterious cigar-shaped silhouette of Nautilus partially
+      submerged beneath the surface. The submarine appears as a dark elongated shadow approximately 70 meters long moving
+      through crystal-clear blue waters. Phosphorescent wake trails behind the vessel creating an otherworldly glow in the
+      darkening sea.
+    details: The ocean surface reflects the last golden rays of sunlight creating rippling patterns across the water. The
+      Nautilus shadow is clearly visible through the transparent upper layers of water, its sleek hydrodynamic form cutting
+      through the depths with silent efficiency. Occasional air bubbles rise to the surface marking the submarine's passage.
+      The vessel's distinctive ram-shaped bow and flat platform with retractable conning tower can be discerned through the
+      water. Schools of small fish scatter in silver flashes as the massive form passes beneath.
+    background: Endless Pacific Ocean meeting the darkening sky at the horizon. Distant clouds catching the last light of
+      day. The curvature of the Earth visible in the vast seascape.
+    atmosphere: Mystery and anticipation. The scene captures the moment before first contact, when the Nautilus was still
+      an unknown phenomenon terrorizing maritime routes. The peaceful surface water contrasts with the ominous presence lurking
+      below, creating tension between beauty and hidden danger.
+  composition:
+    cameraAngle: High aerial view looking down at the ocean surface from approximately 200 meters altitude
+    focus: The dark silhouette of Nautilus visible through the clear water as the central focal point
+    depth: Foreground shows detailed water surface textures and reflections, middle ground features the submarine shadow,
+      background extends to the infinite horizon where ocean meets sky
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

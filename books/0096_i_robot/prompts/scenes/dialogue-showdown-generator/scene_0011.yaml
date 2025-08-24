@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Revelation - Powell Discovers Robot Psychology"
+  setting:
+    time: "2015, dawn"
+    location: "Recovery area inside Mercury mining base after crisis"
+    weather: "Artificial atmosphere, filtered lighting reducing harsh solar glare"
+  characters:
+    - appearance: "Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne wąsy, spokojny i skoncentrowany wyraz twarzy"
+      clothing: "Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+      position: "Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym"
+      action: "Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny"
+    - appearance: "Robot o pełnym gracji, opływowym ciele z lśniącą, metalową powierzchnią. Zaprojektowany do szybkiego poruszania się"
+      clothing: "Brak ubioru - polerowana metalowa konstrukcja"
+      position: "Zatacza się w kółko wokół źródła selenu lub porusza się chaotycznie"
+      action: "Bełkocze fragmenty operetek, zachowuje się jak pijany, krąży w niezrozumiałych wzorcach"
+  scene:
+    mainElements: "Base interior with technical readouts showing restored systems, selenium successfully delivered, both men exhausted after near-death experience"
+    details: "Powell's thoughtful expression as he pieces together the robot's behavior, Speedy now functioning normally after crisis resolution, successful mission parameters restored"
+    background: "Mercury mining base with functioning life support, communication links to Earth restored, mining equipment back online"
+    atmosphere: "Relief and intellectual satisfaction after solving a deadly puzzle. The dangerous environment now conquered through understanding rather than force"
+  composition:
+    cameraAngle: "Medium shot capturing Powell's moment of understanding"
+    focus: "The eureka moment when robot psychology becomes clear to human observer"
+    depth: "Foreground shows intellectual breakthrough, middle ground the resolved crisis situation, background the hostile environment now safely managed"

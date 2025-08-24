@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 30 million years in future, cosmic scale time perception
+    location: Desolate seashore approximately 30 million years in future on same planet
+    weather: Final dying Earth climate - bitter cold under dying red sun
+  characters: No characters present in this scene
+  scene:
+    mainElements: Barren beach covered with gravel and black sand with reddish tinge, sickly oily sea that moves in sluggish
+      oily swells without waves, rocks covered with bright green slime, absolutely silent and cold environment
+    details: Ancient tree transformed to stone fossil stands as witness to all previous time, its petrified rings containing
+      record of entire human history compressed into single growth band. Only living creatures are giant crab-like beings
+      and mysterious black organisms, representing life's final evolutionary experiments. Red sun hangs motionless in crimson
+      sky, no longer following daily cycle
+    background: Star field shows different constellations than any human ever knew, demonstrating cosmic time scales beyond
+      all terrestrial concerns. Distant galaxies visible as changed patterns, universe itself aged beyond recognition
+    atmosphere: Ultimate temporal perspective showing human time as brief flash against cosmic eternities, humbling recognition
+      of species impermanence, beauty and terror of geological time scales, final cosmic context reducing all human achievement
+      to momentary spark, no text or letters visible
+  composition:
+    cameraAngle: Wide cosmic vista showing dying Earth under alien stars
+    focus: Fossilized ancient tree as monument to all terrestrial time
+    depth: Strange final life forms in foreground, dying landscape in middle ground, changed universe in infinite background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

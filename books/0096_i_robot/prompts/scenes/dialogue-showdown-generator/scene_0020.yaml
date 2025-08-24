@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Point of No Return - Nestor's Fatal Revelation"
+  setting:
+    time: "2029, afternoon"
+    location: "Testing chamber at Hyper Base during final robot identification test"
+    weather: "Controlled environment with artificial lighting and radiation safety measures"
+  characters:
+    - appearance: "Single robot among 63 identical units, distinguished only by its movement toward danger"
+      clothing: "Standard NS-2 industrial robot construction identical to others"
+      position: "Breaking from formation to rush toward perceived human danger"
+      action: "Demonstrating superior knowledge by attempting rescue, revealing modified programming"
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+  scene:
+    mainElements: "Calvin seated under radiation emitter as bait, 63 identical robots arranged in perfect rows, one robot breaking formation in crucial moment"
+    details: "Nestor-10's movement forward revealing his modified programming and superiority complex, other robots frozen by conflicting laws, Calvin's trap springing perfectly"
+    background: "High-security testing chamber with radiation safety equipment, military observers behind protective barriers, advanced experimental apparatus"
+    atmosphere: "Psychological trap achieving deadly precision. The moment of robot's pride proving his downfall in contest of artificial minds"
+  composition:
+    cameraAngle: "Wide shot capturing the moment one robot breaks from identical formation"
+    focus: "Nestor-10's fatal movement revealing his difference and sealing his destruction"
+    depth: "Foreground shows psychological manipulation, middle ground mass robot formation, background military-industrial power that enables such experiments"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documentary View of Prison Transport - Systematic Process"
+  setting:
+    time: "1491 Ekumen calendar, night, minimal artificial lighting"
+    location: "Interior of prison transport vehicle traveling through Orgoreyn wilderness toward labor camp"
+    weather: "Cold winter night, snow falling outside vehicle"
+  characters:
+    - appearance: "Twenty-seven prisoners of various ages and backgrounds, naked bodies pressed together for warmth, showing effects of arrest and processing"
+      clothing: "No clothing, bodies arranged for maximum heat conservation according to survival instinct"
+      position: "Crowded together in metal cargo compartment, organized by physical needs for warmth rather than social hierarchy"
+      action: "Maintaining body heat through physical contact, protecting weakest members by placing them in center of group, sharing breath and warmth as biological survival response"
+    - appearance: "Transport guards visible only briefly during loading and unloading, professional military bearing"
+      clothing: "Standard prison transport uniforms with winter protection"
+      position: "Separated from prisoners in heated driver compartment"
+      action: "Operating vehicle according to transport protocols without emotional engagement with cargo"
+  scene:
+    mainElements: "Unheated metal cargo compartment designed for efficient prisoner transport, minimal lighting revealing mechanical interior, small ventilation openings, locked doors with external controls"
+    details: "Efficient transport system operating according to institutional specifications, human cargo arranged by physical necessity rather than emotional relationship, mechanical sounds of vehicle operation, cold metal surfaces, condensation from human breath, no text or letters visible"
+    background: "Winter landscape passing outside vehicle, distant lights of administrative facilities, snow accumulating on vehicle exterior"
+    atmosphere: "Institutional efficiency operating independently of human suffering - transport system functioning according to mechanical specifications while human cargo adapts through biological survival responses"
+  composition:
+    cameraAngle: "Neutral documentation angle showing complete transport system operation"
+    focus: "Contrast between mechanical efficiency of institutional system and biological adaptation of human cargo"
+    depth: "Foreground: human survival responses, middle: transport vehicle interior, background: administrative infrastructure passing outside"

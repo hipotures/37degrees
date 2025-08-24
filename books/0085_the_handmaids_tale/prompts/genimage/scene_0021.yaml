@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Near future, dramatic theatrical lighting from above
+    location: Large public square or ceremonial space designed for state gatherings
+    weather: Controlled indoor or covered environment with artificial lighting creating puppet show atmosphere
+  characters:
+  - appearance: Citizens in caste uniforms moving in unnatural, puppet-like motions as if controlled by invisible strings
+    clothing: Perfect caste uniforms - red, blue, brown, black - each group moving in coordinated puppet-like fashion
+    position: Arranged throughout the space in positions suggesting external control of their movements
+    action: Moving in synchronized, unnatural motions resembling marionette puppets - jerky, controlled movements that deny
+      human natural flow
+  - appearance: Authority figures positioned as puppet masters or controllers
+    clothing: Elite state uniforms suggesting they control the puppet-like masses
+    position: Elevated or positioned to suggest they manipulate the puppet-like citizens
+    action: Directing or controlling the movements of the puppet-like population
+  scene:
+    mainElements: Visual metaphor showing citizens as marionette puppets controlled by state authority, with movement patterns
+      that emphasize external control over individual will
+    details: The puppet metaphor is created through unnatural, synchronized movements that remove human spontaneity and individual
+      choice. Citizens move in ways that suggest invisible strings controlling their actions. The choreography emphasizes
+      the loss of free will and autonomous decision-making under totalitarian control.
+    background: Theatrical or ceremonial architecture that reinforces the puppet show metaphor with staging elements that
+      emphasize the performance aspect of totalitarian control
+    atmosphere: Disturbing realization that human autonomy has been replaced by external manipulation, reducing people to
+      controlled objects rather than free agents
+  composition:
+    cameraAngle: Elevated view showing the puppet-like choreography and control relationships
+    focus: The unnatural puppet-like movements of controlled citizens dominate the frame
+    depth: Puppet-like citizens in foreground and middle ground, controlling authority figures in background pulling the metaphorical
+      strings
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

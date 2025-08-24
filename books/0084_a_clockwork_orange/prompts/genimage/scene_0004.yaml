@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: Near future, night
+    location: Outside a wealthy woman's house.
+    weather: A clear, cold night.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. Confident and arrogant, with a swaggering walk.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      Wears a white boiler suit, a black bowler hat, and black boots. He often carries
+      a cane.
+    position: Lying on the ground, dazed and bleeding.
+    action: He has just been betrayed by his droogs, who have hit him with a milk
+      bottle and left him for the police.
+  - appearance: A slow-witted, brutish young man with a vacant expression. Slouches
+      and follows Alex's lead, often with a confused look on his face.
+    clothing: Wears a white boiler suit and black boots.
+    position: Running away from the scene with the other droogs.
+    action: He looks back at Alex with a mixture of fear and triumph.
+  scene:
+    mainElements: The moment of betrayal. Alex, the leader of the gang, has been brought
+      down by his own followers. The power dynamic has shifted dramatically.
+    details: Alex is lying on the ground, his bowler hat knocked off, his face covered
+      in blood and milk. The broken milk bottle lies next to him. The faces of his
+      droogs are visible in the distance, their expressions a mixture of fear, resentment,
+      and newfound power.
+    background: The wealthy woman's house. The sound of police sirens can be heard
+      in the distance.
+    atmosphere: A scene of shock, betrayal, and a sudden, violent shift in power.
+      Alex's world has been turned upside down.
+  composition:
+    cameraAngle: A high angle shot, looking down on Alex, emphasizing his vulnerability
+      and defeat.
+    focus: The look of stunned disbelief on Alex's face.
+    depth: 'Foreground: Alex on the ground. Middle ground: The broken milk bottle.
+      Background: The fleeing droogs.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

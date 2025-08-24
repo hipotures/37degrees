@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Trantor street level showing daily bureaucratic life"
+  setting:
+    time: "Galactic Standard Era 12000s, morning rush period"
+    location: "typical residential and administrative district on Trantor surface level"
+    weather: "regulated indoor climate with artificial lighting systems"
+  characters:
+    - appearance: "diverse Imperial citizens in 20s to 60s, various builds, bureaucratic bearing, formal dress indicating administrative roles"
+      clothing: "standardized Imperial civilian attire, dark functional garments with subtle rank indicators, identical styling showing conformity, occasional luxury accessories for higher ranks"
+      position: "walking purposefully along pedestrian areas, queuing at transport stations, entering government buildings"
+      action: "commuting to administrative duties, checking portable devices, engaging in formal conversations with colleagues"
+  scene:
+    mainElements: "automated transportation systems with transparent tubes, standardized apartment blocks and office complexes, government service centers, regulated pedestrian zones with moving walkways"
+    details: "sterile administrative architecture with numbered districts, electronic information displays showing regulations and announcements, food distribution centers serving artificial but nutritious meals, recreational facilities offering virtual entertainment, subtle surveillance systems monitoring citizen activity"
+    background: "endless repetition of identical structures extending to artificial horizon, transport tubes carrying thousands of workers, distant upper levels of city disappearing into controlled atmosphere"
+    atmosphere: "organized efficiency of vast bureaucratic machine, sense of individual anonymity within massive administrative system, regulated existence serving galactic governance"
+  composition:
+    cameraAngle: "street-level perspective showing human scale within vast system"
+    focus: "interaction between citizens and urban infrastructure"
+    depth: "foreground pedestrian activity, middle ground architectural details, background urban infinity"

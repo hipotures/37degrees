@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Festival sensory overload in Freeside marketplace"
+  setting:
+    time: "2030s, evening during orbital station celebration"
+    location: "central marketplace of Freeside transformed for festival, multiple vendors and entertainment areas"
+    weather: "artificially controlled atmosphere filled with various scents and particles from celebrations"
+  characters:
+    - appearance: "diverse crowd of wealthy orbital residents and visitors, various ages and backgrounds united in celebration, colorful clothing and elaborate costumes"
+      clothing: "festival attire in brilliant colors, expensive fabrics and decorative elements, masks and accessories for celebration"
+      position: "moving through crowded marketplace in various celebratory activities"
+      action: "participating in festival activities including dancing, eating, and social interaction creating complex sensory environment"
+  scene:
+    mainElements: "crowded marketplace filled with festival decorations, multiple food vendors with steam rising from various dishes, performers creating music and visual entertainment, colorful powders and particles in air from celebrations"
+    details: "colored powder clouds in air creating visible scent and taste particles, steam from multiple food sources creating complex aromatic mixtures, festival decorations reflecting and refracting light, crowd movements creating rhythmic patterns suggesting music, vendors displaying elaborate food presentations, no text or letters visible"
+    background: "curved station architecture decorated for celebration, viewing ports showing stars, distant areas of station visible through festival crowds"
+    atmosphere: "overwhelming sensory bombardment combining visual spectacle, suggested musical rhythms through movement, aromatic complexity from food vendors, tactile crowding, and taste implications from festival foods creating complete synesthetic experience"
+  composition:
+    cameraAngle: "wide shot capturing festival chaos and sensory abundance"
+    focus: "overlapping sensory elements including steam, colored particles, crowd movement, and food displays creating synesthetic overload"
+    depth: "foreground showing detailed sensory elements like steam and particles, middle ground featuring crowd activities, background revealing festival decorations and station architecture"

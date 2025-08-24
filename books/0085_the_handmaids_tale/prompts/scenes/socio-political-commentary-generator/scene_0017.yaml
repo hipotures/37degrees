@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mass Rally - Collective Ideology Absorption"
+  setting:
+    time: "Near future, late afternoon with dramatic lighting from above"
+    location: "Large outdoor amphitheater or stadium converted for state rallies"
+    weather: "Clear day with strong directional lighting creating dramatic shadows"
+  characters:
+    - appearance: "Thousands of citizens arranged by caste in color-coded sections responding to mass media presentation"
+      clothing: "Perfect caste uniforms creating distinct color blocks - red Handmaids, blue Wives, brown Aunts, black Commanders"
+      position: "Organized in stadium seating with clear visual separation between caste groups"
+      action: "Participating in collective responses - cheering, chanting, or ritual gestures in perfect unison"
+    - appearance: "State officials and speakers on elevated platform addressing the masses"
+      clothing: "Formal state uniforms and religious vestments indicating highest authority"
+      position: "On elevated stage or platform commanding view of entire audience"
+      action: "Delivering ideological messages and leading crowd responses through amplified speech and ritual"
+  scene:
+    mainElements: "Massive screen or projection system delivering state propaganda to organized crowd, with speakers leading collective responses and ritual participation"
+    details: "The rally combines religious ceremony with political theater. Digital displays show approved imagery and messages. Sound systems coordinate crowd responses. The visual organization by caste creates clear hierarchy even in mass participation. Symbols and banners reinforce state ideology throughout the space."
+    background: "Stadium or amphitheater architecture modified for state purposes with surveillance equipment and security positions visible"
+    atmosphere: "Mass psychological manipulation through collective participation, where individual thought dissolves into group ideology"
+  composition:
+    cameraAngle: "Elevated view showing the scale of mass participation and organization"
+    focus: "The color-coded crowd organization and mass media presentation dominate the frame"
+    depth: "Organized crowd in foreground and middle ground, elevated speakers and screens in background showing the scale of ideological control"

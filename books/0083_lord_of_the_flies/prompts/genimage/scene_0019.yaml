@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: The jungle.
+    weather: Hot, humid, and oppressive.
+  characters:
+  - appearance: A fair-haired boy, tall for his age, with a confident and athletic
+      build. His face is open and freckled, with a natural leader's charisma. Stands
+      tall and assertive, often holding the conch, but gradually shows more tension
+      and weariness.
+    clothing: Wears the tattered remains of a grey school shirt and shorts, becoming
+      progressively more worn and dirty.
+    position: Running for his life through the jungle.
+    action: He is terrified, exhausted, and wounded. He is no longer a leader; he
+      is prey.
+  - appearance: Tall, thin, and bony, with red hair and a freckled, angular face.
+      His eyes are light blue and often narrowed in concentration or anger. Aggressive
+      and predatory, often crouching or leaning forward, brandishing a spear.
+    clothing: Initially wears a black choir uniform with a silver badge, later strips
+      down to just a tattered pair of shorts, his body painted with clay and charcoal.
+    position: Leading the hunt for Ralph.
+    action: He is emitting a high-pitched, ululating cry, a sound that is both human
+      and animal.
+  scene:
+    mainElements: The final, terrifying hunt. Ralph is being hunted like a pig by
+      the entire tribe of savages.
+    details: The jungle itself has become a living, breathing entity that is actively
+      participating in the hunt. The branches of the trees are like grasping claws,
+      tearing at Ralph's clothes and skin. The creepers are like snares, trying to
+      trip him. The faces of the hunters can be seen in the patterns of the leaves
+      and the bark of the trees. The entire jungle is a terrifying, claustrophobic
+      maze that is closing in on him.
+    background: The sound of the hunters' ululating cries is everywhere. The jungle
+      is on fire, the smoke filling the air.
+    atmosphere: A scene of pure, primal terror. Ralph is completely alone, hunted
+      by his former friends in a world that has become a living nightmare. There is
+      no escape.
+  composition:
+    cameraAngle: A frantic, handheld point-of-view shot from Ralph's perspective as
+      he runs through the jungle.
+    focus: The grasping branches and the leering faces in the leaves.
+    depth: The scene is a chaotic blur of movement and terror. The jungle is a suffocating,
+      all-encompassing presence.
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

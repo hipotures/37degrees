@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Victor Views Henry as Pure Friendship - Idealized Companionship"
+  setting:
+    time: "1780s, afternoon"
+    location: "Riverbank near Ingolstadt during Victor's recovery from illness"
+    weather: "Bright spring afternoon with warm sunshine and gentle breeze"
+  characters:
+    - appearance: "Young man aged approximately 17-27 years, possessing open handsome features reflecting noble spirit and artistic temperament, healthy robust build from outdoor activities, expressive eyes showing warmth and human kindness, countenance radiating natural goodness and intellectual curiosity"
+      clothing: "Well-made gentleman's attire of late 18th century including fitted dark colored coat, light colored waistcoat, white linen shirt with neat cravat, comfortable traveling clothes when journeying, practical boots suitable for walking"
+      posture: "Energetic confident stance reflecting enthusiasm for life and learning, animated gestures when discussing poetry or travel, protective stance when caring for ill friend"
+      action: "Engaging in animated conversation about literature and travel, nursing Victor through illness with devoted care, exploring foreign countries with eager curiosity, or lying murdered as innocent victim of creature's revenge"
+    - appearance: "Young man aged approximately 19-28 years, originally healthy build but becomes increasingly pale and gaunt through obsession and psychological torment, with eyes that grow wild and haunted in appearance, facial features showing progressive physical deterioration from guilt and sleeplessness"
+      clothing: "Well-tailored late 18th century gentleman's attire including dark wool frock coat with high collar, fitted waistcoat, white linen shirt with high neckline secured by white cravat, knee-length breeches or long trousers, leather boots, in Arctic scenes heavy fur-lined coat and boots for extreme cold protection"
+      posture: "Initially confident and energetic bearing, progressively becoming nervous and agitated with frequent restless movement, shoulders often hunched from psychological burden, hands trembling during periods of extreme distress"
+      action: "Conducting scientific experiments with intense concentration, fleeing in panic and horror, pursuing his creation across vast distances, writing feverishly in notebooks, or lying weakened by illness and exhaustion"
+  scene:
+    mainElements: "Henry reading poetry aloud under shade of willow tree beside flowing river, Victor reclining on grassy bank recovering from nervous exhaustion, spring flowers blooming abundantly around peaceful scene"
+    details: "Henry's voice carrying pure joy and enthusiasm for beautiful language, his animated gestures bringing literature to life, sunlight filtering through green leaves creating patterns of light and shadow, river water flowing clear and musical, Henry's presence restoring Victor's faith in human goodness, wildflowers seeming more colorful in atmosphere of genuine friendship, Victor's troubled mind finding rare peace through Henry's noble influence, no text or letters visible"
+    background: "Rolling countryside with distant church spires, other students and townspeople appearing as harmonious part of pastoral landscape"
+    atmosphere: "Healing power of true friendship, Henry representing everything pure and human that Victor's obsessions have caused him to abandon, moment of grace where natural world and human affection combine to restore wounded soul"
+  composition:
+    cameraAngle: "Victor's grateful perspective looking up at Henry who appears almost saint-like"
+    focus: "Henry's radiant goodness contrasting with Victor's inner darkness and guilt"
+    depth: "Foreground shows Victor's renewed hope, middle ground captures Henry's healing presence, background suggests return to simple human pleasures"

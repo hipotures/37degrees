@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, morning
+    location: Suez Canal Egypt, maritime junction between Mediterranean and Red Sea
+    weather: Clear bright desert sunlight, cloudless blue sky
+  characters: No characters present in this scene
+  scene:
+    mainElements: Revolutionary artificial waterway cutting through Egyptian desert, massive engineering achievement enabling
+      ship passage between Europe and Asia, steam vessels of various nations navigating narrow channel
+    details: Multiple steamships from British P&O line and other international shipping companies creating maritime traffic,
+      tall black smokestacks emitting coal smoke against desert landscape, ships flying flags of different nations showing
+      global commerce, canal banks lined with new infrastructure including telegraph poles, signal stations and pilot houses,
+      desert sand dunes on both sides creating stark contrast with blue water, engineering structures like locks and lighthouses
+      marking human conquest over geography
+    background: Endless Egyptian desert stretching to horizons, distant mountains and ancient land contrasting with modern
+      waterway
+    atmosphere: Triumph of nineteenth-century engineering and imperial ambition, sense of technological conquest over nature,
+      bustling international commerce showing global connectivity
+  composition:
+    cameraAngle: Elevated perspective showing length of canal stretching toward horizon
+    focus: Steam vessels navigating canal with emphasis on maritime traffic and engineering scale
+    depth: Ships in foreground showing detail, canal extending through middle distance, desert horizon emphasizing isolation
+      and achievement
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

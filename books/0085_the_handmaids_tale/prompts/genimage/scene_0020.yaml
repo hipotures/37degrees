@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Near future, harsh midday sunlight creating stark shadows
+    location: Public street or square in Gilead urban center where citizens normally conduct daily business
+    weather: Bright clear day making the violence impossible to ignore or hide
+  characters:
+  - appearance: Multiple armed Guards in military uniforms conducting aggressive arrest of citizen
+    clothing: Standard Guardian military uniforms with boots, caps, and visible weapons including rifles and restraint equipment
+    position: Surrounding and restraining the arrested person with overwhelming force
+    action: Using excessive force to subdue and restrain the individual, displaying state power through physical dominance
+  - appearance: Citizen being arrested - possibly a Handmaid or other caste member
+    clothing: Torn or disheveled caste uniform showing the violence of the arrest
+    position: On ground or forcibly restrained by multiple Guards
+    action: Being physically overpowered and restrained despite offering no visible resistance
+  - appearance: Other citizens witnessing the arrest from safe distance
+    clothing: Various caste uniforms
+    position: Standing back from the arrest scene but forced to witness the state violence
+    action: Watching fearfully while maintaining distance, their expressions showing terror and forced compliance
+  scene:
+    mainElements: Public display of state violence designed to terrorize and control civilian population through demonstration
+      of overwhelming force against individual resistance
+    details: The arrest uses far more force than necessary for simple detention, clearly intended as public theater to demonstrate
+      state power. Witnesses are forced to observe but not intervene. The violence is conducted in broad daylight in public
+      space to maximize its intimidation effect.
+    background: Normal urban environment where citizens conduct daily life, making the intrusion of state violence more shocking
+      and intimidating
+    atmosphere: Terror and intimidation through public display of state violence, designed to crush individual resistance
+      and enforce mass compliance through fear
+  composition:
+    cameraAngle: Wide shot showing both the violent arrest and the intimidated witnesses
+    focus: The violent arrest dominates the center of the frame while showing its public nature
+    depth: Violent arrest in foreground, fearful witnesses in middle ground, normal urban environment in background creating
+      contrast between violence and everyday life
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

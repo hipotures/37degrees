@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Price of European Sugar"
+  setting:
+    time: "Mid-18th century, hot midday"
+    location: "Road outside Surinam, Dutch colony in South America"
+    weather: "Oppressive tropical heat, harsh sun"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Wealthy gentleman's attire: silk coat, embroidered vest, lace accessories, showing his fortune from Eldorado"
+      position: "Standing frozen in horror, staring down at mutilated figure"
+      action: "Face shows complete shock and dawning moral awareness, hand covers mouth in revulsion, body recoils from what he sees"
+    - appearance: "Black enslaved man, missing left leg and right hand, emaciated from suffering"
+      clothing: "Only blue canvas shorts, rest of body exposed showing scars and mutilation"
+      position: "Lying propped against tree by roadside, calm despite horrific injuries"
+      action: "Speaks with matter-of-fact resignation about his condition, explaining calmly how he lost limbs, face showing dignified acceptance rather than self-pity"
+    - appearance: "30-40 years old mixed-race Peruvian, sturdy agile build, dark hair and eyes, tanned complexion. Face shows intelligence, resourcefulness and calm"
+      clothing: "Practical traveling attire: leather trousers, strong boots, simple shirt suitable for difficult terrain"
+      position: "Standing slightly behind Candide, also shocked but more composed"
+      action: "Listens with grim understanding, face showing he has seen such horrors before but still feels their impact"
+  scene:
+    mainElements: "Tropical road lined with sugar cane fields, Dutch colonial plantation buildings visible in distance, oppressive heat making air shimmer"
+    details: "Stark contrast between Candide's fine clothes and slave's near-nakedness. The man's missing limbs are cleanly healed, showing this was systematic punishment not accident. Sugar cane visible in background connects directly to his mutilation. Candide's wealth from Eldorado seems suddenly tainted."
+    background: "Sugar plantation stretching to horizon, other enslaved workers visible in distant fields, Dutch colonial architecture of master's house, ships in harbor loading sugar for Europe"
+    atmosphere: "Brutal revelation of European luxury's true cost. Harsh tropical sun emphasizing the harshness of truth being revealed. Colors of white sugar contrasting with dark skin, rich clothes versus naked poverty. Sweet product built on bitter suffering."
+  composition:
+    cameraAngle: "Medium wide shot capturing both the horror of the slave's condition and Candide's shocked reaction"
+    focus: "The mutilated slave's calm dignity contrasted with Candide's horrified awakening to exploitation"
+    depth: "Foreground shows the immediate moral confrontation, middle ground the sugar plantation context, background the system of global trade connecting to Europe"

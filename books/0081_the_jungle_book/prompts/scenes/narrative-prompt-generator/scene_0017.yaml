@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Outcast"
+  setting:
+    time: "19th Century India, daytime"
+    location: "The edge of the man-village."
+    weather: "A hot, dusty day."
+  characters:
+    - appearance: "A boy of about 11 years old."
+      clothing: "Wears a simple loincloth."
+      position: "Standing alone, watching the village from a distance."
+      action: "His face is hard and unforgiving. He has been cast out by the villagers, who have accused him of sorcery."
+    - appearance: "The villagers."
+      clothing: "Traditional Indian clothing."
+      position: "Gathered at the entrance to the village."
+      action: "Shouting and throwing stones at Mowgli, their faces contorted with fear and hatred."
+  scene:
+    mainElements: "Mowgli's exile from the man-village. He is now an outcast from both the world of men and the world of wolves."
+    details: "The villagers are a faceless, angry mob. Mowgli stands alone, a solitary figure against the backdrop of the hostile village. The dust kicked up by the villagers creates a hazy, chaotic scene. no text or letters visible"
+    background: "The vast, indifferent plains."
+    atmosphere: "A scene of anger, betrayal, and loneliness. Mowgli is truly alone in the world. no text or letters visible"
+  composition:
+    cameraAngle: "Eye-level shot, capturing the confrontation between Mowgli and the villagers."
+    focus: "The stones being thrown at Mowgli, a symbol of the villagers' fear and superstition."
+    depth: "Foreground: the angry villagers. Middle ground: the solitary figure of Mowgli. Background: the empty plains."

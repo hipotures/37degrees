@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, pre-dawn with first light breaking over mountains
+    location: Return to opening Carpathian mountain view but now in different season showing passage of time
+    weather: Clear dawn breaking with stars fading as first light appears
+  characters: No characters present in this scene
+  scene:
+    mainElements: Jagged mountain silhouettes showing subtle seasonal changes with snow dusting on peaks. First golden light
+      of dawn touching highest peaks while valleys remain in shadow. Last bright stars fading as sky lightens from black to
+      deep blue
+    details: Mountain peaks showing slight snow cover indicating seasonal progression through year's cycle. Dawn light revealing
+      landscape detail as darkness gives way to illumination. Different cloud formations and atmospheric conditions suggesting
+      time passage. Lone tree branch in foreground showing different seasonal character with winter adaptation
+    background: Sky showing familiar transition from night to day but with variations suggesting cyclical return with change.
+      Valley mists beginning to form as in cycle's beginning
+    atmosphere: Cyclical completion with sense of familiar return but subtle transformation. Time made visible through seasonal
+      and atmospheric changes. Eternal natural rhythms continuing despite human drama. Hope of new beginning while acknowledging
+      change and loss. Full circle moment with deeper understanding. No text or letters visible
+  composition:
+    cameraAngle: Wide landscape shot from elevated vantage point
+    focus: Dawn breaking over familiar mountain landscape with emphasis on cyclical time passage
+    depth: Foreground branch details showing seasonal change, middle ground mountain peaks catching first light, background
+      brightening sky with fading stars
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

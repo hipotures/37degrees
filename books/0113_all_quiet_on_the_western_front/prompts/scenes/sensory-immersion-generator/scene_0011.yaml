@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bread cooling with steam curling up from makeshift field kitchen"
+  setting:
+    time: "1917 early morning, just after dawn"
+    location: "field kitchen behind front lines, mobile cooking station set up near abandoned barn, supply wagons nearby"
+    weather: "cool morning air creating visible steam, gentle breeze dispersing vapor"
+  characters:
+    - appearance: "kucharz kompanii z rudymi włosami, krzepka budowa charakterystyczna dla kucharzy wojskowych, twarz ogorzała od stania przy ogniu"
+      clothing: "brudny fartuch wojskowy przerzucony przez mundur Feldgrau, rękawy podwinięte odsłaniając mocne przedramiona"
+      position: "standing behind field kitchen counter, arranging fresh loaves"
+      action: "lifting hot bread loaves from improvised oven, steam rising from crusty surfaces as cool air meets warm bread"
+  scene:
+    mainElements: "mobile field kitchen with smoking chimney, rows of freshly baked bread loaves cooling on wooden planks, steam clouds rising from hot crusty surfaces, hungry soldiers beginning to gather in distance"
+    details: "steam curling upward from bread crusts in visible spirals, vapor patterns showing temperature difference between hot bread and cool morning air, crust crackling as internal heat escapes creating micro-steam jets, bread surfaces golden brown with flour dust catching morning light, steam dissipating at different rates depending on air currents, field kitchen equipment primitive but functional, loaves arranged in military precision despite rustic conditions, condensation forming on cooler surfaces near hot bread, no text or letters visible"
+    background: "supply wagons and equipment scattered around field kitchen, abandoned barn providing windbreak, soldiers emerging from sleeping areas drawn by bread aroma"
+    atmosphere: "warmth and nourishment contrasting with military austerity, essential comfort food providing momentary civilian normalcy in war zone"
+  composition:
+    cameraAngle: "medium shot showing bread arrangement with steam patterns clearly visible"
+    focus: "curling steam rising from multiple bread loaves creating complex vapor patterns"
+    depth: "foreground shows detailed bread texture and steam formation, middle ground features field kitchen setup, background reveals approaching soldiers and military camp"

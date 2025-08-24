@@ -1,0 +1,102 @@
+sceneDescription:
+  setting:
+    time: 1780s, wedding night
+    location: Bridal chamber in Frankenstein villa on Lake Geneva
+    weather: Clear night with bright moon illuminating dual reality
+  characters:
+  - appearance: Young woman aged approximately 17-27 years with ethereal beauty, slender graceful build, luminously fair complexion,
+      hair of brightest golden color falling in natural waves, eyes of clear blue expressing gentle intelligence and deep
+      affection, features of perfect symmetry embodying idealized feminine beauty
+    clothing: Elegant late 18th century women's fashion including high-waisted white or pale colored muslin gowns reaching
+      to ankles, short puffy sleeves, square neckline, thin ribbon sash below breast, delicate shawl or short spencer jacket,
+      simple ribbon hair ornaments, soft leather slippers
+    posture: Graceful upright bearing reflecting well-bred education, gentle movements expressing natural kindness, hands
+      often clasped or extended in gesture of comfort and care
+    action: Reading quietly by window, tending to family members with loving care, walking through gardens, or expressing
+      concern and devotion to Victor during his troubled periods
+  - appearance: Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing
+      superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous
+      flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white
+      teeth, visible surgical scars and stitching marks across body where body parts were joined together
+    clothing: Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory
+      clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark
+      cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel
+    posture: Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands
+      with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or
+      threatening stance of rage
+    action: Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human
+      families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship
+  scene:
+    mainElements: Bridal chamber existing simultaneously as scene of happiness and tragedy, split reality showing moment when
+      joy transforms into horror through creature's revenge
+    details: Elegant bridal chamber with silk curtains and fine furnishings creating atmosphere of wedding joy, moonlight
+      streaming through tall windows illuminating anticipated happiness, Elizabeth in white bridal gown representing perfect
+      beauty and innocence, fresh flowers decorating room for celebration, expensive furniture and fine linens showing prosperity
+      and social success - SIMULTANEOUSLY - chamber transformed into tragedy as creature's massive shadow falls across moonlit
+      floor, wedding flowers scattered and overturned furniture showing signs of supernatural intrusion, Elizabeth's terror
+      replacing joy as creature enacts final revenge against Victor, creature's massive form dominating chamber that should
+      have been sanctuary of love, no text or letters visible
+    background: Lake Geneva visible through windows both as scene of romantic beauty and backdrop for tragedy, representing
+      dual nature of human experience
+    atmosphere: Reality split between anticipated happiness and actual horror, wedding chamber serving as stage where domestic
+      bliss transforms into supernatural revenge
+  composition:
+    cameraAngle: Dual perspective showing same moment as both pinnacle of happiness and depth of tragedy
+    focus: Split reality revealing how same space and time can contain both ultimate joy and ultimate horror
+    depth: Foreground shows Elizabeth in two states of being, middle ground captures chamber as both sanctuary and crime scene,
+      background reveals Lake Geneva as witness to human duality
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

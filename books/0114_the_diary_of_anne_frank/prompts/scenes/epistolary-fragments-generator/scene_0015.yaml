@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Other Side - Helpers' Secret Meeting"
+  setting:
+    time: "November 1942, evening"
+    location: "Office space below Secret Annex, after business hours"
+    weather: "Cold autumn evening, minimal lighting for secrecy"
+  characters:
+    - appearance: "Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz"
+      clothing: "Prosty strój pracującej kobiety z lat 40., sukienka płaszcz"
+      position: "Standing near desk with supplies"
+      action: "Organizing food and supplies for the hidden families"
+    - appearance: "Young kobieta wiek 23-25 lat, drobna szczupła, młoda nieśmiała twarz"
+      clothing: "Skromna sukienka lub bluzka i spódnica"
+      position: "Sitting at desk with notebooks"
+      action: "Writing lists and checking supplies"
+  scene:
+    mainElements: "Office space converted to supply depot and coordination center for helping hidden refugees"
+    details: "Food packages, letters to carry upstairs, money for black market purchases, forged identification papers, careful lists of needs and supplies, the dangerous infrastructure of rescue"
+    background: "Normal office environment used for extraordinary humanitarian purpose"
+    atmosphere: "Quiet courage and determination, the hidden heroes risking everything to save eight lives"
+  composition:
+    cameraAngle: "Medium shot showing the helpers' clandestine organization"
+    focus: "The systematic effort required to keep the hidden families alive"
+    depth: "Foreground: supplies and documents, middle: helpers working, background: darkened office"

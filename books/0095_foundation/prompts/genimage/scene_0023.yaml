@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, crisis response period
+    location: Foundation command center on Terminus during strategic defense planning
+    weather: controlled interior environment optimized for tactical planning
+  characters:
+  - appearance: Foundation leaders and technical specialists in 30s to 50s, practical bearing combining intellectual capability
+      with decisive action, diverse backgrounds representing democratic leadership
+    clothing: practical work attire suitable for crisis management, functional clothing without ceremonial elements, personal
+      equipment emphasizing efficiency and communication
+    position: gathered around compact command systems, collaborating on strategic analysis, coordinating defensive preparations
+    action: analyzing Imperial fleet movements, coordinating technological countermeasures, implementing strategic plans based
+      on scientific analysis rather than traditional military doctrine
+  scene:
+    mainElements: compact efficient command center with advanced analytical capabilities, technological systems designed for
+      intelligent rather than brute force response, strategic planning based on mathematical and scientific principles
+    details: compact efficient vessels designed for small crews, every surface covered with instruments, no wasted space,
+      advanced but tactile technology with sharp displays and integrated systems, functional design prioritizing effectiveness
+      over comfort used for strategic analysis and coordination, mathematical models showing strategic probability analysis,
+      communication systems linking Foundation territories for coordinated response
+    background: Foundation facilities showing technological efficiency, windows revealing Terminus landscape and defensive
+      preparations, communication links to Foundation settlements and allies
+    atmosphere: intelligent strategic response contrasting with Imperial brute force approach, confidence in scientific method
+      and technological superiority, democratic leadership coordinating effective defense through innovation rather than traditional
+      military power
+  composition:
+    cameraAngle: command center perspective showing collaborative strategic planning
+    focus: Foundation approach to conflict resolution through intelligence and technology rather than force
+    depth: foreground strategic planning activities, middle ground command center technology, background Foundation defensive
+      preparations
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Estraven's Death as Victory/Tragedy"
+  setting:
+    time: "1491 Ekumen calendar, dusk, natural twilight lighting"
+    location: "Border region between Karhide and Orgoreyn on planet Gethen, disputed territory at precise international boundary"
+    weather: "Heavy snow falling during winter evening, creating ethereal atmosphere"
+  characters:
+    - appearance: "Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion"
+      clothing: "Winter survival gear including skis and pack, practical clothing for border crossing attempt"
+      position: "Fallen precisely on invisible international boundary line, body positioned between two nations"
+      action: "Death scene interpreted simultaneously as heroic sacrifice enabling diplomatic success and tragic waste of exceptional individual"
+    - appearance: "Border guards from both nations, witnessing event with different interpretations"
+      clothing: "Official uniforms representing opposing national authorities"
+      position: "Approaching from both sides of border, seeing same event through different political perspectives"
+      action: "Responding to border incident according to conflicting national priorities while witnessing individual tragedy"
+  scene:
+    mainElements: "Snow-covered border landscape where invisible political boundary becomes visible through tragic event, national symbols and markers indicating territorial division, ski tracks showing final journey path"
+    details: "Same physical event interpreted as both political victory and personal tragedy depending on perspective, snow falling equally on both sides of border, body positioned to symbolize transcendence of artificial national divisions, international boundary made visible through sacrifice, conflicting interpretations coexisting in same visual space, no text or letters visible"
+    background: "Winter landscape extending across artificial political boundary, guard stations from both nations, communication equipment connecting different national responses"
+    atmosphere: "Simultaneous victory and tragedy - identical event interpreted as successful completion of diplomatic mission and devastating loss of exceptional individual, political boundary transcended through personal sacrifice"
+  composition:
+    cameraAngle: "Split screen or overlapping perspectives showing same event interpreted as both triumph and tragedy"
+    focus: "Contrast between political success and personal loss contained within single event, transcendence of artificial boundaries through individual sacrifice"
+    depth: "Foreground: individual sacrifice, middle: international boundary markers, background: political systems continuing despite personal cost"

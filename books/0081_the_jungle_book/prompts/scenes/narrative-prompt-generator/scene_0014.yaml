@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Stampede"
+  setting:
+    time: "19th Century India, midday"
+    location: "A wide, dry ravine with steep sides."
+    weather: "Hot and dusty."
+  characters:
+    - appearance: "A boy of about 11 years old."
+      clothing: "Wears a simple loincloth."
+      position: "Riding on the back of a massive bull buffalo at the head of the stampede."
+      action: "Yelling and urging the herd on, his face a mask of fierce concentration."
+    - appearance: "A powerful Bengal tiger, lame in one paw."
+      clothing: "None"
+      position: "Caught in the middle of the ravine."
+      action: "Awake now and terrified, trying to run but trapped by the stampeding herd."
+    - appearance: "A herd of hundreds of water buffaloes."
+      clothing: "None"
+      position: "Thundering down the ravine from both ends."
+      action: "A chaotic, unstoppable river of black horns, pounding hooves, and panicked eyes."
+  scene:
+    mainElements: "The death of Shere Khan. Mowgli uses his human intelligence to orchestrate a stampede that tramples his enemy."
+    details: "The air is thick with dust, kicked up by the hooves of the buffaloes. The noise is deafening - a roar of pounding hooves and bellowing animals. The ground shakes with the force of the stampede. no text or letters visible"
+    background: "The steep, rocky walls of the ravine."
+    atmosphere: "A scene of epic, violent, and chaotic action. The raw power of nature, unleashed by human ingenuity. no text or letters visible"
+  composition:
+    cameraAngle: "A dynamic, ground-level shot, capturing the chaos and power of the stampede from a low angle."
+    focus: "The terrified face of Shere Khan as he is overwhelmed by the herd."
+    depth: "A chaotic blur of motion, with the buffaloes filling the frame."

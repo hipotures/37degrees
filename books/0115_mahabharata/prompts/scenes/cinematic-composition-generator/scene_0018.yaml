@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Low Angle - Bhima's Mace Dominance"
+  setting:
+    time: "1000-800 BCE, midday"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Harsh midday sun creating stark shadows"
+  characters:
+    - appearance: "Male, 30-35 years old, ogromny wzrost jak wyrośnięte drzewo sala, potężna muskularna budowa z długimi ramionami, jasnozłota karnacja"
+      clothing: "Czerwone proste szaty niekrępujące ruchów, funkcjonalne i praktyczne"
+      position: "Standing over fallen enemy, massive form towering above"
+      action: "Porusza się z ciężką niepowstrzymaną energią, gesty szerokie i zamaszyste"
+  scene:
+    mainElements: "Towering warrior shot from ground level emphasizing massive size and power, enormous iron mace raised triumphantly, defeated enemies scattered below"
+    details: "Gigantyczna maczuga gada wielded with deadly effectiveness, massive silhouette against bright sky, sweat and dust coating powerful frame, symbol of brutal untamed strength, no text or letters visible"
+    background: "Sky dominates frame showing warrior's monumental scale, other battlefield action appearing small and distant below"
+    atmosphere: "Raw physical power and domination through pure strength, sounds of heavy breathing and mace impact, ground trembling under giant's steps"
+  composition:
+    cameraAngle: "Extreme low angle from ground level making warrior appear monumentally threatening"
+    focus: "Overwhelming physical power and the terror it inspires in enemies"
+    depth: "Foreground ground-level perspective, middle ground towering warrior figure, background vast sky emphasizing scale, no text or letters visible"

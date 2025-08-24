@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Mask Slips - Calvin's Moment of Vulnerability"
+  setting:
+    time: "2021, late evening"
+    location: "Private office at U.S. Robots facility during after-hours"
+    weather: "Clear night, artificial lighting indoors"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Young male technician in his late 20s, clean-cut appearance with kind eyes"
+      clothing: "Standard U.S. Robots technician uniform, white lab coat over dark trousers"
+      position: "Standing near doorway, preparing to leave after shift"
+      action: "Making casual conversation, unaware of the deeper emotions his words trigger"
+  scene:
+    mainElements: "Sparse office with technical manuals, desk lamp casting warm light on scattered papers, window showing darkened facility grounds"
+    details: "Calvin's usual composed facade momentarily cracking, personal photograph face-down on desk corner, Milton Ashe's friendly expression contrasting with Calvin's internal turmoil"
+    background: "Institutional office setting with filing cabinets, technical charts on walls, empty hallways beyond the door"
+    atmosphere: "Rare moment of human vulnerability breaking through professional armor. The cold, clinical environment highlights Calvin's personal isolation"
+  composition:
+    cameraAngle: "Close-up focusing on Calvin's face as her professional mask briefly falters"
+    focus: "The fleeting expression of hope and longing before she reasserts control"
+    depth: "Foreground captures intimate human moment, middle ground shows sterile work environment, background suggests the vast loneliness of her life"

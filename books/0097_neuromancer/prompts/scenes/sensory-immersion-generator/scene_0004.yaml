@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Calloused hands examining delicate hologram projection"
+  setting:
+    time: "2030s, evening in luxury suite"
+    location: "expensive hotel room in Freeside station, decorated with mixture of antique and futuristic furnishings"
+    weather: "perfectly controlled artificial atmosphere"
+  characters:
+    - appearance: "man in late thirties with military bearing, handsome features that seem artificial like a mask, unnaturally calm expression, piercing blue eyes that appear inhuman, physically reconstructed after severe battlefield injuries, no visible scars but subtle wrongness suggesting extensive surgery"
+      clothing: "expensive conservative business suits in dark colors, crisp white shirts, understated ties, polished leather shoes, clothing as costume projecting corporate authority and control"
+      position: "seated at polished table, leaning forward to examine holographic display"
+      action: "extending battle-scarred hands toward fragile hologram, rough fingertips nearly touching but not disturbing delicate light projection"
+  scene:
+    mainElements: "intricate holographic data visualization floating above table surface, showing complex geometric patterns and flowing information streams, hands with visible calluses and old scars reaching toward ethereal display"
+    details: "heavily scarred knuckles and palms showing history of violence contrasted with gossamer-light hologram that would dissipate at slightest touch, rough skin texture emphasized by proximity to smooth light projection, hologram colors shifting and dancing beyond physical reach, no text or letters visible"
+    background: "luxury suite with mixture of antique wooden furniture and advanced technology, soft lighting creating intimate atmosphere, curved walls following station structure"
+    atmosphere: "tension between physical brutality suggested by scarred hands and fragile beauty of untouchable hologram, meditation on impossibility of grasping digital information with flesh"
+  composition:
+    cameraAngle: "medium close-up showing relationship between hands and holographic projection"
+    focus: "contrast between rough skin texture and smooth light patterns, emphasizing untouchable nature of digital beauty"
+    depth: "foreground featuring detailed hand textures, middle ground showing hologram complexity, background revealing luxury environment"

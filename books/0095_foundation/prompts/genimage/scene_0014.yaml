@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, research working hours
+    location: Foundation research center on Terminus, walls displaying scientific knowledge and mathematical principles
+    weather: controlled research environment with optimal lighting for detailed work
+  characters:
+  - appearance: Foundation researchers and mathematicians in 20s to 50s, intellectual bearing combined with practical frontier
+      attitude, diverse backgrounds from various academic fields
+    clothing: simple work attire suitable for research activities, practical lab coats with useful pockets, minimal ornamentation
+      emphasizing function over status
+    position: studying wall displays of mathematical formulas, collaborating on theoretical problems, reviewing scientific
+      data
+    action: analyzing psychohistorical equations, discussing theoretical implications, updating mathematical models, teaching
+      younger researchers
+  scene:
+    mainElements: extensive wall displays of mathematical equations and scientific principles, research workstations with
+      analytical equipment, collaborative spaces for theoretical discussion, symbols representing advancement of human knowledge
+    details: complex psychohistorical equations covering wall surfaces, atomic and nuclear symbols integrated with mathematical
+      formulas, research notes and theoretical diagrams showing work in progress, simple but effective furniture designed
+      for long intellectual work sessions, reference materials and scientific instruments reflecting serious academic pursuit
+    background: research facility extending through multiple connected rooms, windows showing Terminus landscape, library
+      areas with accumulated scientific knowledge, communication equipment linking to other research centers
+    atmosphere: intellectual pursuit replacing Imperial ceremony, scientific method as foundation of cultural identity, practical
+      application of advanced knowledge for human benefit, collaborative scholarship transcending individual authority
+  composition:
+    cameraAngle: eye-level perspective showing relationship between researchers and mathematical knowledge
+    focus: scientific symbols and intellectual culture of Foundation society
+    depth: foreground detailed equations and symbols, middle ground researcher activities, background scientific infrastructure
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

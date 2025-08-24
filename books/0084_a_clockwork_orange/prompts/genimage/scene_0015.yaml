@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Near future, night
+    location: A dark alley.
+    weather: A cold, dark night.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is leading a new gang of droogs.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      Wears a white boiler suit, a black bowler hat, and black boots. He often carries
+      a cane.
+    position: In a dark alley.
+    action: He is about to commit an act of violence, a look of ecstatic pleasure
+      on his face.
+  scene:
+    mainElements: The story has come full circle. Alex is back where he started, a
+      violent predator ready to inflict pain and suffering on the world.
+    details: The scene is a mirror image of the opening scenes of the story. Alex
+      is once again the leader of a gang of droogs, and he is once again about to
+      engage in an act of 'ultra-violence'. The only difference is that now, he has
+      the full support of the state.
+    background: The dark, menacing city.
+    atmosphere: A chilling and deeply pessimistic final scene. The cycle of violence
+      is unbroken. Nothing has been learned, and nothing has changed. The story ends
+      with the triumph of evil.
+  composition:
+    cameraAngle: A low angle shot, looking up at Alex, making him appear as a demonic
+      figure of pure, unadulterated evil.
+    focus: The look of ecstatic pleasure on Alex's face.
+    depth: 'Foreground: Alex. Middle ground: His new droogs. Background: The dark
+      alley.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

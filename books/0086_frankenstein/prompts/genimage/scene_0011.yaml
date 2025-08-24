@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1780s, afternoon
+    location: Gardens of Frankenstein villa where William plays alone
+    weather: Perfect spring day with flowers blooming everywhere
+  characters:
+  - appearance: Young child approximately 6-8 years old with fair complexion resembling family features, bright innocent eyes
+      full of wonder and trust, small stature making adult world appear enormous
+    clothing: Child's clothing of late 18th century including short jacket, knee-length breeches, white stockings, small leather
+      shoes, miniature cravat, clothing showing signs of active play outdoors
+    posture: Energetic childish movements, running and skipping with natural joy, stopping to examine interesting objects
+      with total absorption
+    action: Playing with toys in garden, chasing butterflies, examining flowers with microscopic attention, speaking to imaginary
+      companions
+  scene:
+    mainElements: Garden appearing magical and infinite through child's eyes, flowers towering like trees, butterflies appearing
+      large as birds, garden paths stretching like highways to adventure
+    details: Every flower petal appearing precious as jewels, garden statues seeming like friendly giants, fountain spray
+      creating rainbows that seem painted just for William, birds singing personal concerts, trees appearing tall as mountains
+      offering endless climbing adventures, shadows creating mysterious caves for exploration, garden gates opening to worlds
+      of unlimited possibility, no text or letters visible
+    background: Villa appearing like fairy tale castle, lake beyond looking like ocean full of sea monsters and treasure islands
+    atmosphere: Pure innocent wonder where every moment brings new discoveries, world appearing designed specifically for
+      child's happiness and exploration, complete trust in safety and love
+  composition:
+    cameraAngle: Low angle from William's height making everything appear monumentally large and wondrous
+    focus: Single butterfly or flower appearing as natural miracle deserving complete attention
+    depth: Foreground shows child's intense focus on small wonders, middle ground captures magical garden landscape, background
+      suggests infinite world of childhood imagination
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1866, twilight hour with first stars appearing
+    location: Pacific Ocean surface where the legendary submarine makes its presence known
+    weather: Perfectly calm seas like a mirror, slight mist rising from the water
+  characters: No characters present in this scene
+  scene:
+    mainElements: The complete form of Nautilus revealed on the ocean surface - a technological masterpiece shaped like a
+      perfect metallic cigar 70 meters in length and 8 meters at maximum width. The submarine's dark steel hull gleams with
+      water droplets, its surface smooth and engineered for hydrodynamic perfection. The distinctive sharp ram at the bow
+      designed as both structural element and weapon. The flat platform on the submarine's back houses the conning tower with
+      thick lens-like windows and a powerful electric searchlight capable of illuminating half a mile of ocean.
+    details: The double-layered steel hull shows no rivets or unnecessary protrusions, creating an almost organic appearance
+      despite being entirely mechanical. Water cascades from the hull in sheets as it settles on the surface. The conning
+      tower's brass fittings catch the last light of day, contrasting with the matte steel coloring of the main hull. A sealed
+      hatch provides access to the platform, with a retractable ladder system visible. The powerful searchlight remains dark,
+      creating an air of dormant menace. Steam vents release small puffs of vapor from hidden outlets.
+    background: Endless ocean in all directions with the first stars beginning to twinkle in the darkening sky. The horizon
+      line barely visible in the growing darkness.
+    atmosphere: Awe and technological wonder mixed with underlying menace. This is humanity's first clear view of Captain
+      Nemo's creation - a machine that defies the naval engineering of 1866. The submarine appears both beautiful and threatening,
+      a perfect fusion of scientific achievement and military potential.
+  composition:
+    cameraAngle: Low angle shot from water level, positioning viewer as if floating nearby
+    focus: The complete profile of Nautilus from bow to stern, emphasizing its impressive scale and engineering precision
+    depth: Foreground shows gentle wave patterns around the submarine, middle ground features the full vessel in sharp detail,
+      background fades into the darkening ocean and sky
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Abandoned Imperial research facility showing forgotten scientific projects"
+  setting:
+    time: "Galactic Standard Era 12000s, long after abandonment"
+    location: "derelict Imperial research complex on remote world, abandoned during Imperial decline"
+    weather: "failing environmental controls creating unpredictable interior climate"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "massive abandoned research laboratories with experimental equipment, sealed chambers containing unknown projects, automated systems still functioning after years of abandonment, evidence of advanced Imperial science now lost to current knowledge"
+    details: "sophisticated research equipment beyond current Imperial maintenance capability, sealed experimental chambers with warning systems still active, computer systems with encrypted data from lost research programs, prototype technologies never deployed, radiation sensors and biological containment systems indicating dangerous research, preserved specimens and data storage systems from advanced Imperial science programs"
+    background: "vast research complex extending through multiple connected facilities, underground laboratories with specialized environmental controls, abandoned living quarters for research staff, communication systems linking to Imperial scientific network now disconnected"
+    atmosphere: "lost Imperial scientific capability representing forgotten golden age of research and development, mystery of abandoned projects suggesting dangerous or politically sensitive research, sense of advanced knowledge lost through Imperial decline and bureaucratic abandonment"
+  composition:
+    cameraAngle: "wide perspective showing scale of abandoned research infrastructure"
+    focus: "lost Imperial scientific capabilities and mysterious abandoned projects"
+    depth: "foreground detailed research equipment, middle ground laboratory facilities, background vast abandoned complex"

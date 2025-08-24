@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Confrontation at Castle Rock and the Demonic Tribe"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "A steep, rocky outcrop at one end of the island, almost a separate islet, connected to the mainland by a narrow causeway."
+    weather: "Harsh, bright sunlight. The heat is radiating off the rocks."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Standing at the entrance to Castle Rock, holding the conch."
+      action: "He is trying to reason with Jack, his voice cracking with desperation."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Standing above Ralph, on a ledge at Castle Rock."
+      action: "He is flanked by his tribe of hunters, who are all painted and armed. He is mocking Ralph, his face a mask of contempt."
+  scene:
+    mainElements: "Ralph's last, desperate attempt to restore order and reason. He is confronting Jack and his tribe, but they are no longer boys. They are savages."
+    details: "Jack's tribe are not just painted; their forms are subtly distorted, making them appear as monstrous, inhuman figures. Their eyes glow with a malevolent red light, and their painted masks seem to be their true faces. The rocks of Castle Rock are carved with crude, demonic symbols."
+    background: "The sea crashes against the rocks below Castle Rock. The sky is a harsh, unforgiving blue."
+    atmosphere: "A tense and hopeless standoff. The forces of reason and civilization are making their last stand against the overwhelming power of savagery. There is a sense of an inevitable, tragic conclusion."
+  composition:
+    cameraAngle: "A low angle shot, looking up at Jack and his tribe, making them appear powerful and menacing. Ralph appears small and isolated below."
+    focus: "The glowing red eyes of the hunters, which seem to pierce through their painted masks."
+    depth: "Foreground: Ralph, holding the conch. Middle ground: The narrow causeway. Background: Jack and his tribe, looming above."

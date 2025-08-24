@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brother Kings Meet in Throne Hall"
+  setting:
+    time: "Afternoon, Sasanian Persian Empire"
+    location: "Grand throne hall in royal palace with massive columns and Persian architectural grandeur"
+    weather: "Bright afternoon sunlight streaming through high windows"
+  characters:
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Seated on elevated throne with imperial bearing"
+      action: "Welcoming visiting brother with formal royal gestures and warm smile"
+    - appearance: "Man aged 28 years, similar Persian features to his brother but bearing expression of deep sadness and distraction, well-built figure of royal warrior, neat appearance despite inner turmoil"
+      clothing: "Traveling robes of royal quality but showing dust of long journey, ornate belt with royal insignia"
+      position: "Standing before throne with respectful but troubled demeanor"
+      action: "Bowing formally while struggling to conceal his emotional anguish"
+  scene:
+    mainElements: "Massive throne hall with soaring ceilings supported by carved stone columns, elevated throne platform, Persian carpets covering marble floors, courtiers standing at respectful distances along walls"
+    details: "Intricate carved stone work on columns featuring Persian motifs, hanging brass lamps casting warm light, silk tapestries displaying royal heraldry, polished marble reflecting afternoon sunlight, guards standing at attention with ceremonial weapons, no text or letters visible"
+    background: "High vaulted ceiling with painted Persian designs, tall windows allowing natural light, distant figures of palace officials and servants"
+    atmosphere: "Formal royal ceremony masking underlying tension, echoing voices in vast space, scent of burning incense, sense of powerful brotherhood about to be tested"
+  composition:
+    cameraAngle: "Medium shot emphasizing both royal figures and architectural grandeur"
+    focus: "The two brothers as central figures with throne as symbol of power"
+    depth: "Throne platform in foreground, brothers in middle ground, vast hall extending into background"

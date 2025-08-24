@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 2029, afternoon
+    location: Testing chamber at Hyper Base during final robot identification test
+    weather: Controlled environment with artificial lighting and radiation safety measures
+  characters:
+  - appearance: Single robot among 63 identical units, distinguished only by its movement toward danger
+    clothing: Standard NS-2 industrial robot construction identical to others
+    position: Breaking from formation to rush toward perceived human danger
+    action: Demonstrating superior knowledge by attempting rescue, revealing modified programming
+  - appearance: Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu
+      szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz
+    clothing: Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch
+      laboratoryjny
+    position: Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami
+    action: Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją
+  scene:
+    mainElements: Calvin seated under radiation emitter as bait, 63 identical robots arranged in perfect rows, one robot breaking
+      formation in crucial moment
+    details: Nestor-10's movement forward revealing his modified programming and superiority complex, other robots frozen
+      by conflicting laws, Calvin's trap springing perfectly
+    background: High-security testing chamber with radiation safety equipment, military observers behind protective barriers,
+      advanced experimental apparatus
+    atmosphere: Psychological trap achieving deadly precision. The moment of robot's pride proving his downfall in contest
+      of artificial minds
+  composition:
+    cameraAngle: Wide shot capturing the moment one robot breaks from identical formation
+    focus: Nestor-10's fatal movement revealing his difference and sealing his destruction
+    depth: Foreground shows psychological manipulation, middle ground mass robot formation, background military-industrial
+      power that enables such experiments
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

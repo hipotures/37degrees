@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Time Machine's Journey - Prototype to Legend"
+  setting:
+    time: "1890s through multiple decades to abandonment"
+    location: "Workshop laboratory showing machine's evolution"
+    weather: "Consistent artificial light from oil lamps to electric bulbs"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Time progression of the time machine itself from scattered brass components to working prototype to historical artifact, showing object biography across temporal phases"
+    details: "Initial stage shows raw materials - gleaming brass, fresh ivory, clear crystal components arranged separately on workbench. Middle phase reveals assembled working machine with polished surfaces and precise mechanical joints. Final stage depicts aged device with tarnished brass, cracked ivory, dust accumulation, representing transition from active invention to historical relic"
+    background: "Laboratory environment ages around the machine - fresh tools become antiques, electric lighting replaces oil lamps, workshop transforms from active workspace to museum display"
+    atmosphere: "Object persistence across human lifespans, technology becoming history, mechanical precision yielding to entropy and time, invention's journey from revolutionary tool to historical curiosity, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing complete machine in workshop context"
+    focus: "Time machine as central subject showing clear temporal evolution"
+    depth: "Machine components sharp in foreground, workbench and tools in middle ground, laboratory walls and windows in background showing environmental aging"

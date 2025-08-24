@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Final Philosophical Argument"
+  setting:
+    time: "Mid-18th century, evening"
+    location: "Small boat traveling to Turkish farm, Sea of Marmara"
+    weather: "Calm evening, golden sunset light"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple practical clothes for farm work ahead"
+      position: "Rowing small boat, back to passengers, muscles working steadily"
+      action: "Rows with determined rhythm toward their destination, occasionally glancing back with mixture of affection and exasperation at ongoing philosophical debate"
+    - appearance: "45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten nose, twisted mouth, black teeth. Missing one eye and one ear after treatment"
+      clothing: "Clean simple clothes provided after purchasing his freedom, but still physically ruined"
+      position: "Seated in boat stern, gesturing with undiminished scholarly enthusiasm"
+      action: "Argues with animated gestures that their rescue proves his optimistic philosophy correct, completely unchanged by galley experience"
+    - appearance: "Around 60+ years old, lean build with intelligent face lined with wrinkles. Gray thinning hair, dark penetrating eyes expressing cynicism and resignation"
+      clothing: "Simple clean scholar's attire, dignified despite recent hardships"
+      position: "Seated opposite Pangloss, leaning forward in debate"
+      action: "Counters with pessimistic philosophy, pointing out that their brief good fortune only emphasizes life's general misery, eyes flashing with intellectual combat"
+  scene:
+    mainElements: "Small boat on calm water, golden sunset reflecting on sea, distant Turkish coastline with their farm destination visible"
+    details: "Candide's rowing provides steady rhythm while philosophers debate. His back turned suggests growing disengagement from theoretical arguments. Water's reflection creates double image suggesting duality of philosophical positions. Destination visible ahead suggests practical solution approaching."
+    background: "Turkish coast with farm visible, other boats, seabirds, Constantinople's minarets and domes distant on horizon"
+    atmosphere: "Final philosophical confrontation during transition to new life phase. Golden light suggests resolution approaching. Sound of oars and lapping water accompanies verbal battle. Beautiful evening undermining both extreme positions."
+  composition:
+    cameraAngle: "Medium shot capturing the three figures and their different relationships to ongoing debate"
+    focus: "The contrast between Candide's practical action (rowing) and the two philosophers' continued theoretical argument"
+    depth: "Foreground shows the immediate debate, middle ground Candide's practical work, background their approaching destination representing resolution"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Echoes - Conquest Patterns Across Time"
+  setting:
+    time: "Multiple historical periods showing repeating conflict patterns"
+    location: "Same battlefield location across different centuries"
+    weather: "Battle weather conditions repeated across temporal layers"
+  characters:
+    - appearance: "Transparent overlays of warriors from different eras - Roman legions, medieval knights, Victorian soldiers, future conflicts - all occupying same battlefield"
+      clothing: "Military equipment evolution visible as temporal layers - ancient armor through medieval mail through modern uniforms through unknown future battle gear"
+      position: "Same strategic positions occupied across different historical battles"
+      action: "Identical tactical movements repeated across centuries - charges, retreats, formations echoing through time"
+  scene:
+    mainElements: "Battlefield showing eternal recurrence of human conflict - same geographical advantages exploited by different armies across centuries, identical strategic decisions made by commanders separated by millennia"
+    details: "Weapons evolve while tactics remain consistent - bronze swords to iron to gunpowder to energy weapons, but formations and strategies echo across time. Landscape shows accumulated battle damage - ancient earthworks beneath medieval fortifications beneath modern trenches beneath future scars"
+    background: "Same hills and rivers exploited for tactical advantage across all eras, geographical constants while technology and cultures transform completely"
+    atmosphere: "Tragic repetition of human warfare, geographical determinism overcoming technological change, eternal patterns of conflict regardless of civilization level, history as cyclical tragedy, no text or letters visible"
+  composition:
+    cameraAngle: "Wide battlefield overview showing tactical positions across time"
+    focus: "Central conflict area where historical echoes overlap most dramatically"
+    depth: "Overlapping warriors in foreground, battlefield formations in middle ground, unchanging tactical landscape in background"

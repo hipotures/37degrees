@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, night
+    location: The man-village.
+    weather: A warm, still night.
+  characters:
+  - appearance: A boy of about 11 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled hair.
+      Wears a simple loincloth.
+    clothing: Wears a simple loincloth.
+    position: Crouched by a fire in the village.
+    action: Staring into the flames with a mixture of fascination and fear. He is about to steal the fire, the 'Red Flower,'
+      a symbol of human power.
+  scene:
+    mainElements: Mowgli's decision to use the Red Flower against his enemies. A turning point in his relationship with both
+      the jungle and the man-village.
+    details: Mowgli holds a clay pot, ready to scoop up the glowing embers. The firelight flickers on his face, highlighting
+      his determined expression. The village is quiet, the huts dark silhouettes against the night sky. no text or letters
+      visible
+    background: The dark, imposing wall of the jungle, from which he has been exiled.
+    atmosphere: A moment of quiet determination and dawning power. Mowgli is embracing his human ingenuity to solve a jungle
+      problem. no text or letters visible
+  composition:
+    cameraAngle: Close-up on Mowgli's face, illuminated by the fire.
+    focus: The conflict and determination in Mowgli's eyes as he contemplates the power of fire.
+    depth: 'Foreground: the fire. Middle ground: Mowgli and the pot. Background: the sleeping village and the dark jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

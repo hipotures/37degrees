@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Arctic Ship Discovery - Maritime Log of Supernatural Encounter"
+  setting:
+    time: "1790s, Arctic dawn"
+    location: "Ice-locked ship discovering Victor and creature in Arctic wasteland"
+    weather: "Clear Arctic morning with brilliant aurora and extreme cold"
+  characters:
+    - appearance: "English sea captain aged 28 years, weathered face from maritime exposure showing determination and ambition, build suitable for commanding men on long voyages, eyes reflecting loneliness and intellectual curiosity"
+      clothing: "Heavy Arctic exploration attire including thick fur-lined coat reaching to knees, fur-trimmed hood, heavy leather boots with fur lining, thick woolen garments underneath, leather gloves, naval officer's uniform visible beneath when indoors"
+      posture: "Confident captain's bearing when commanding ship, thoughtful pose when writing letters, concerned lean forward when tending to Victor's needs"
+      action: "Standing at ship's rail scanning Arctic ice through telescope, writing detailed letters by lamplight, directing crew through dangerous ice floes, or listening intently to Victor's terrible confession"
+    - appearance: "Multiple crew members bundled in Arctic clothing, faces showing amazement at impossible sights witnessed in polar wasteland"
+      clothing: "Heavy maritime Arctic gear including fur coats, wool caps, thick boots, all practical clothing for extreme cold survival"
+      posture: "Alert watchful poses of experienced sailors, some pointing across ice fields, others clustered for warmth and discussion"
+      action: "Scanning horizon with telescopes, recording observations in ship's log, discussing extraordinary sightings among themselves"
+  scene:
+    mainElements: "Ship's deck with crew witnessing creature moving across distant ice at impossible speed, Victor's rescue from near-death, documentary evidence of supernatural pursuit recorded in maritime logs"
+    details: "Wooden sailing vessel locked in Arctic ice with rigging frosted by extreme cold, crew members pointing across endless white expanse toward massive figure moving with superhuman speed, Victor's weakened form brought aboard showing evidence of impossible journey across polar wasteland, ship's telescope revealing creature's gigantic proportions and unnatural ability to traverse deadly terrain, crew's weathered faces expressing mixture of disbelief and terror at sights witnessed, ship's log open on captain's table recording factual account of supernatural encounters, aurora borealis creating eerie colored lights across star-filled sky illuminating impossible scene, dog sled tracks in snow showing pursuit that covered impossible distances, no text or letters visible"
+    background: "Boundless white Arctic expanse broken only by pressure ridges and cracks, representing ultimate frontier beyond civilized world where final confrontation occurs"
+    atmosphere: "Maritime professionalism documenting supernatural events with factual precision, experienced sailors forced to record impossible truth in official logs"
+  composition:
+    cameraAngle: "Ship's deck perspective providing maritime documentation of extraordinary Arctic encounter"
+    focus: "Crew's professional observation of supernatural pursuit across polar wasteland"
+    depth: "Foreground shows experienced sailors recording impossible sights, middle ground captures vast Arctic landscape, background reveals creature and Victor engaged in final pursuit"

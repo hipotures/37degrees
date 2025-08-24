@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The White Fog"
+  setting:
+    time: "Late 19th Century, morning"
+    location: "On the steamboat, enveloped in a thick white fog."
+    weather: "A dense, wet, and blindingly white fog."
+  characters:
+    - appearance: "Charles Marlow, 32."
+      clothing: "Simple sailor's clothes, damp from the fog."
+      position: "At the helm of the boat."
+      action: "He is blind, unable to see more than a few feet in front of him. He is listening intently to the sounds of the river."
+  scene:
+    mainElements: "The boat is lost in a sea of white fog. The world has been reduced to a small, isolated circle of visibility."
+    details: "The fog is so thick it feels solid, like cotton wool. It muffles all sound, creating an eerie, unnatural silence. The only sound is the dripping of water from the boat's railings. Within the fog, indistinct, monstrous shapes seem to form and dissolve. no text or letters visible"
+    background: "A uniform, featureless white."
+    atmosphere: "A sense of sensory deprivation, isolation, and extreme tension. The world has disappeared, leaving only a blind, helpless feeling of being watched. no text or letters visible"
+  composition:
+    cameraAngle: "A disorienting, close-up shot of Marlow's face, his eyes wide and straining to see."
+    focus: "The indistinct, monstrous shapes that seem to be moving just at the edge of vision within the fog."
+    depth: "A shallow, claustrophobic depth of field, with everything dissolving into the white fog."

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Subjective View - The Annex Through Anne's Eyes"
+  setting:
+    time: "July 1942, first week"
+    location: "Secret Annex second floor, very small cramped bedroom shared by Anne and Fritz Pfeffer, Amsterdam 1942-1944"
+    weather: "Interior dim lighting, no natural light visibility"
+  characters:
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+      position: "Sitting on bed, looking around the small space"
+      action: "Taking in her new prison-home with teenage eyes"
+  scene:
+    mainElements: "Bardzo mały ciasny pokój, małe drewniane biurko, ściany oklejone kolorowymi zdjęciami gwiazd filmowych i pocztówkami seen from Anne's perspective"
+    details: "Kolorowe zdjęcia i pocztówki gwiazd filmowych między innymi Deanna Durbin Ginger Rogers, członkowie rodzin królewskich, reprodukcje dzieł sztuki oklejające ściany pokoju Anny creating dramatic contrast with gray walls. Everything appears cramped and confining from a teenager's viewpoint"
+    background: "Klaustrofobiczna przestrzeń, walka o minimalną prywatność, kontrast między szarością a kolorowymi marzeniami"
+    atmosphere: "Claustrophobic teenage perspective, walls closing in, colorful dreams contrasting with gray reality"
+  composition:
+    cameraAngle: "First-person POV shot from Anne's position on the bed"
+    focus: "The overwhelming smallness of the space from a teenager's viewpoint"
+    depth: "Distorted perspective emphasizing the cramped nature of the hiding place"

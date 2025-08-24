@@ -1,0 +1,103 @@
+canon:
+  characters:
+    - id: "griffin_visible"
+      name: "Griffin Before Transformation"
+      description_block: |
+        characters:
+          - appearance: "Pale albino man in his late twenties, tall and broad-shouldered, height around six feet, with pale pink-white complexion and distinctive red eyes, angular facial features"
+            clothing: "Simple dark woolen suit typical of poor university demonstrator, white cotton shirt, worn leather shoes, functional garments showing signs of wear and financial constraint"
+            posture: "Intense scholarly bearing, often hunched over work, shoulders carrying weight of scientific obsession"
+            action: "Methodically working with scientific apparatus, measuring chemicals with precise movements"
+
+    - id: "griffin_bandaged"
+      name: "Griffin in Disguise" 
+      description_block: |
+        characters:
+          - appearance: "Completely concealed figure wrapped entirely in white bandages from head to toe, only pink artificial nose visible, large blue-tinted spectacles with side shields covering eye area"
+            clothing: "Long thick dark overcoat, soft felt hat with wide brim, heavy leather gloves, all garments designed to completely hide body shape and form"
+            posture: "Stiff unnatural stance, movements deliberately controlled to maintain concealment, head held rigidly forward"
+            action: "Moving with measured deliberate steps, hands always kept within gloves"
+
+    - id: "kemp"
+      name: "Dr. Kemp"
+      description_block: |
+        characters:
+          - appearance: "Tall distinguished gentleman in early forties, fair-haired with nearly white mustache, refined scholarly features, composed intellectual bearing"
+            clothing: "Well-tailored dark academic suit, white starched collar, formal waistcoat, polished leather shoes representing respectable professional status"
+            posture: "Upright confident stance reflecting social status and education, hands often clasped behind back in contemplative pose"
+            action: "Writing at desk, studying scientific manuscripts, or standing near window overlooking town"
+
+    - id: "marvel"
+      name: "Thomas Marvel"
+      description_block: |
+        characters:
+          - appearance: "Short corpulent vagrant in late middle age, round flexible face with prominent cylindrical nose, full trembling lips, unruly gray whiskers, weathered complexion"
+            clothing: "Mismatched worn garments held together with string and shoelaces instead of proper buttons, old silk hat showing age, shabby coat patched multiple times"
+            posture: "Hunched anxious bearing, constantly looking over shoulder, carrying bundle of belongings wrapped in blue tablecloth"
+            action: "Nervously handling stolen notebooks bound with vicar's straps, or cowering in visible fear while listening to invisible voice"
+
+    - id: "mrs_hall"
+      name: "Mrs. Hall"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged innkeeper woman with practical bearing, sturdy build suited to inn work, determined expression, graying hair pulled back"
+            clothing: "Dark wool dress with white apron, practical working garments suited to inn management, small lace cap typical of respectable innkeeper"
+            posture: "Confident authoritative stance when managing inn, but shrinking back when confronted with supernatural events"
+            action: "Wiping hands on apron, serving food, or backing away from mysterious disturbances"
+
+  locations:
+    - id: "coach_and_horses_inn"
+      name: "Coach and Horses Inn, Iping"
+      description_block: |
+        setting:
+          location: "Village inn parlor in rural Sussex, England during February snowstorm, cozy interior contrasting with harsh winter outside"
+        mainElements: "Dark oak wooden furniture, stone fireplace with iron grate, blazing fire providing warmth, bay window with thick curtains, heavy wooden tables and chairs"
+        atmosphere: "Warm sanctuary atmosphere disrupted by growing tension, shadows dancing from fireplace, storm winds audible outside creating sense of isolation"
+
+    - id: "griffin_london_laboratory"
+      name: "Griffin's London Laboratory"
+      description_block: |
+        setting:
+          location: "Cramped boarding house room in London converted into makeshift chemical laboratory, shabby urban accommodation repurposed for scientific work"
+        mainElements: "Numerous glass bottles and chemical apparatus cluttering every surface, scientific instruments improvised from common materials, chemical stains on furniture"
+        atmosphere: "Obsessive scientific dedication mixed with desperate poverty, sharp chemical odors, chaotic arrangement suggesting fevered experimentation"
+
+    - id: "kemp_study"
+      name: "Dr. Kemp's Study"
+      description_block: |
+        setting:
+          location: "Well-appointed study in respectable house overlooking Port Burdock, organized scholarly workspace reflecting academic success"
+        mainElements: "Large bay window providing view over town, mahogany desk covered with manuscripts and scientific journals, microscope and research materials, bookshelves"
+        atmosphere: "Ordered intellectual sanctuary representing rational thought, but becoming violated by chaos of invisible intruder"
+
+    - id: "sussex_downs"
+      name: "Sussex Downs Countryside"
+      description_block: |
+        setting:
+          location: "Rolling chalk hills of South Downs in Sussex, open windswept landscape with few trees, isolated rural setting"
+        mainElements: "Grassy hillsides marked by sheep paths, scattered flint stones, occasional hawthorn bushes, broad sky dominating horizon"
+        atmosphere: "Desolate windswept openness providing no concealment, sense of vulnerability in exposed landscape"
+
+    - id: "port_burdock_streets"
+      name: "Port Burdock Town Streets" 
+      description_block: |
+        setting:
+          location: "Victorian seaside town streets near English coast, mixture of residential and commercial buildings, bustling market town atmosphere"
+        mainElements: "Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in period dress"
+        atmosphere: "Busy town life disrupted by manhunt, growing paranoia and fear among townspeople, sense of community under siege"
+
+  items:
+    - id: "scientific_notebooks"
+      name: "Griffin's Three Scientific Notebooks"
+      description_block: |
+        details: "Three large leather-bound volumes containing detailed scientific formulas and diagrams, pages covered with encrypted mathematical notations and chemical equations, some pages water-stained and partially illegible, bound together with leather straps taken from vicar's belongings"
+
+    - id: "chemical_apparatus"
+      name: "Laboratory Equipment"
+      description_block: |
+        details: "Collection of glass bottles, beakers, and chemical vessels of various sizes, some containing colorful liquids, measuring instruments, heating apparatus, scientific glassware typical of 1890s chemistry laboratory, arranged in chaotic profusion"
+
+    - id: "invisible_clothing"
+      name: "Floating Garments"
+      description_block: |
+        details: "Empty clothing moving without visible wearer, coat sleeves gesturing while hollow, trouser legs walking independently, hat floating in air, creating unsettling spectacle of animation without occupant"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, early morning, artificial interior lighting mixed with dawn light
+    location: Service corridors and kitchen areas in royal palace of Erhenrang, Karhide capital, working spaces hidden from
+      ceremonial areas
+    weather: Interior spaces, cold stone environment requiring heating
+  characters:
+  - appearance: Middle-aged Gethenian palace servant, weathered hands and face showing lifetime of manual labor, alert eyes
+      that notice everything while remaining invisible to power
+    clothing: Simple practical work clothes in neutral colors, worn but clean garments suitable for invisible service, layers
+      for warmth during early morning duties
+    position: Moving through service corridors carrying supplies for palace operations
+    action: Observing political tensions and power struggles while performing invisible maintenance tasks, noticing details
+      and conversations that nobles assume servants cannot understand
+  - appearance: Palace nobles and officials visible through doorways and during brief encounters, focused on political business
+    clothing: Rich formal attire contrasting sharply with servant's practical garments
+    position: Occupying main palace spaces during political meetings
+    action: Conducting political business while largely ignoring servant presence, inadvertently revealing secrets and tensions
+  scene:
+    mainElements: Hidden service corridors running parallel to main palace spaces, kitchen areas with hearths and work surfaces,
+      storage rooms for supplies, glimpses through doorways into formal political areas
+    details: Political tensions visible through overheard conversations and observed interactions, evidence of palace resource
+      allocation revealing financial and political priorities, servants' work enabling ceremonial functions while remaining
+      unacknowledged, contrast between functional and decorative architecture, no text or letters visible
+    background: Ancient stone palace infrastructure showing working machinery of power, service entrances and hidden passages,
+      dawn light beginning to illuminate formal spaces while work areas remain in shadow
+    atmosphere: Invisible labor enabling visible power - servant perspective reveals mechanical operation of political system
+      and hidden costs of ceremonial authority
+  composition:
+    cameraAngle: From working level looking toward formal power spaces, emphasizing separation between service and ceremony
+    focus: Contrast between essential invisible work and visible political performance, emphasis on servant's detailed knowledge
+      unrecognized by nobles
+    depth: 'Foreground: servant with work materials, middle: service infrastructure, background: glimpses of formal political
+      spaces'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

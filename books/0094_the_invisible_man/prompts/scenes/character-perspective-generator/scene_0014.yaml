@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Scholar's Recognition - Kemp's Understanding"
+  setting:
+    time: "March 1897, late evening in study"
+    location: "Well-appointed study in respectable house overlooking Port Burdock, organized scholarly workspace reflecting academic success"
+    weather: "Clear night with stars visible through large windows"
+  characters:
+    - appearance: "Tall distinguished gentleman in early forties, fair-haired with nearly white mustache, refined scholarly features, composed intellectual bearing"
+      clothing: "Well-tailored dark academic suit, white starched collar, formal waistcoat, polished leather shoes representing respectable professional status"
+      position: "Seated at mahogany desk under lamplight, leaning forward with intense concentration"
+      action: "Writing at desk, studying scientific manuscripts, or standing near window overlooking town"
+  scene:
+    mainElements: "Large bay window providing view over town, mahogany desk covered with manuscripts and scientific journals, microscope and research materials, bookshelves"
+    details: "Scientific papers scattered across desk showing optical equations, lamplight creating pool of illumination around work area, pen paused mid-sentence as understanding dawns, reflection of concentrated thought in window glass"
+    background: "Port Burdock town lights twinkling below, organized bookshelves suggesting systematic knowledge, comfortable bachelor quarters of academic success"
+    atmosphere: "Ordered intellectual sanctuary representing rational thought, but becoming violated by chaos of invisible intruder"
+  composition:
+    cameraAngle: "Close-up from behind Kemp looking over his shoulder at work"
+    focus: "Scientific papers and equations relating to invisibility theory"
+    depth: "Foreground shows detailed manuscript pages, middle ground captures Kemp's intense study, background reveals ordered scholarly environment, no text or letters visible"

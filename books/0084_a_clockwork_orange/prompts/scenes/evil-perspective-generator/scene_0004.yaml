@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Betrayal by the Droogs"
+  setting:
+    time: "Near future, night"
+    location: "Outside a wealthy woman's house."
+    weather: "A clear, cold night."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white boiler suit, a black bowler hat, and black boots. He often carries a cane. Confident and arrogant, with a swaggering walk.
+      position: "Lying on the ground, dazed and bleeding."
+      action: "He has just been betrayed by his droogs, who have hit him with a milk bottle and left him for the police."
+    - id: "dim"
+      name: "Dim"
+      description_block: |
+        A slow-witted, brutish young man with a vacant expression. Wears a white boiler suit and black boots. Slouches and follows Alex's lead, often with a confused look on his face.
+      position: "Running away from the scene with the other droogs."
+      action: "He looks back at Alex with a mixture of fear and triumph."
+  scene:
+    mainElements: "The moment of betrayal. Alex, the leader of the gang, has been brought down by his own followers. The power dynamic has shifted dramatically."
+    details: "Alex is lying on the ground, his bowler hat knocked off, his face covered in blood and milk. The broken milk bottle lies next to him. The faces of his droogs are visible in the distance, their expressions a mixture of fear, resentment, and newfound power."
+    background: "The wealthy woman's house. The sound of police sirens can be heard in the distance."
+    atmosphere: "A scene of shock, betrayal, and a sudden, violent shift in power. Alex's world has been turned upside down."
+  composition:
+    cameraAngle: "A high angle shot, looking down on Alex, emphasizing his vulnerability and defeat."
+    focus: "The look of stunned disbelief on Alex's face."
+    depth: "Foreground: Alex on the ground. Middle ground: The broken milk bottle. Background: The fleeing droogs."

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1790s, Arctic dawn and dusk simultaneously
+    location: Arctic ice field existing in multiple temporal states
+    weather: Aurora borealis creating impossible colored light suggesting reality beyond normal perception
+  characters:
+  - appearance: Victor appearing simultaneously as ambitious young student, tormented creator, and dying pursuer, multiple
+      versions of self existing in same moment
+    clothing: Clothing shifting between student attire, gentleman's dress, and Arctic expedition gear, representing different
+      stages of existence
+    posture: Multiple postures overlapping - confident creation, guilt-ridden flight, determined pursuit, final exhaustion
+    action: Speaking final words while simultaneously creating life, fleeing in horror, pursuing across continents, and dying
+      in Arctic - all moments existing together
+  - appearance: Creature appearing as confused newborn, eloquent philosopher, and vengeful destroyer simultaneously, representing
+      evolution of consciousness
+    clothing: Garments shifting between laboratory rags, peasant clothing, and Arctic gear, showing adaptation across time
+    posture: Multiple postures of confusion, learning, pleading, and threatening existing in single moment
+    action: Awakening to consciousness, learning human language, seeking acceptance, and enacting revenge - all experiences
+      simultaneous
+  scene:
+    mainElements: Arctic landscape fractured into multiple realities where all moments of story exist simultaneously, past
+      creation and future destruction occupying same space and time
+    details: Ice field showing simultaneous footprints from pursuit and laboratory equipment from original creation, aurora
+      borealis creating impossible lighting where day and night exist together, Victor's laboratory apparatus scattered across
+      ice alongside evidence of years-long pursuit, creature's books of learning buried in snow next to victims of revenge,
+      multiple seasons existing in same location with flowers blooming through ice and snow falling in sunshine, Ingolstadt
+      laboratory windows appearing in Arctic sky like mirages, Geneva villa visible through ice formations, Orkney Islands
+      hut standing on moving glacier, time itself fractured showing all consequences of creation existing simultaneously,
+      no text or letters visible
+    background: Cosmic arena where linear time breaks down and all moments of tragedy exist in eternal present
+    atmosphere: Consciousness itself fractured by weight of supernatural transgression, reality unable to contain consequences
+      of violation against natural law
+  composition:
+    cameraAngle: Fractured perspective showing multiple realities and timelines existing simultaneously
+    focus: All moments of creation and consequence occupying same impossible space and time
+    depth: Multiple layers of reality with laboratory, pursuit, and final confrontation all visible simultaneously across
+      different planes of existence
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

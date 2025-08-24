@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Memory Palace - Multiple Eras Simultaneously"
+  setting:
+    time: "1790s, 1810s, 1830s, 1843 - all periods overlapping"
+    location: "Spacious merchant warehouse in Victorian London transformed into ballroom, with high ceiling beams and polished wooden floors"
+    weather: "Timeless quality with all seasons and times blending"
+  characters:
+    - appearance: "Young man in 20s with softer features, bright eyes full of hope, brown hair, smooth complexion, eager expression"
+      clothing: "Simple apprentice attire with white linen shirt, brown wool vest, knee-length breeches, white stockings, sturdy work boots"
+      position: "Dancing in warehouse across multiple time periods simultaneously"
+      action: "Dancing at festivities, working with enthusiasm, reading by candlelight, or embracing loved ones with genuine warmth"
+    - appearance: "Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt cheeks marked by inner coldness"
+      clothing: "Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting his frugal nature"
+      position: "Standing in shadows observing past celebrations"
+      action: "Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving expression"
+  scene:
+    mainElements: "Ghostly memory overlay showing warehouse hosting multiple era celebrations simultaneously - transparent figures from different decades dancing through same space, past joy coexisting with present emptiness"
+    details: "Temporal memory palace - multiple celebration scenes superimposed with varying transparency levels, musicians from different eras playing in harmony, tables laden with feast foods from various decades overlapping, great blazing fire showing different states from roaring to embers to cold ashes, polished wooden floors reflecting ghostly impressions of countless past dancers, oil lamps and candles from different periods illuminating space simultaneously, festive decorations from multiple Christmas seasons layered, high ceiling beams echoing with accumulated laughter across decades, no text or letters visible"
+    background: "Warehouse architecture showing memory impressions - walls holding emotional imprints of past celebrations, windows revealing different seasonal views simultaneously, doors opening to multiple time periods"
+    atmosphere: "Melancholic nostalgia with joy and regret intermingled, sounds layering multiple celebration acoustics, scents blending feast aromas across decades, light quality shifting between memory illumination and present dimness"
+  composition:
+    cameraAngle: "Wide elevated shot capturing entire memory palace effect"
+    focus: "Central dance floor where multiple time periods converge most dramatically"
+    depth: "Foreground shows present observer position, middle ground reveals layered celebrations, background displays temporal architecture holding memory impressions"

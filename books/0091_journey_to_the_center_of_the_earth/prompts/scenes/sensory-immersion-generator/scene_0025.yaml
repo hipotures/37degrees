@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Return to Surface Light - Complete Sensory Memory Trigger"
+  setting:
+    time: "1863, dawn on surface"
+    location: "Stromboli volcano slope in Italy with Mediterranean vegetation and sea vista"
+    weather: "Brilliant Mediterranean sunrise after underground darkness"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+  scene:
+    mainElements: "Mediterranean hillside with olive trees and vineyards, blue sea stretching to horizon, volcanic slope with ash and fertile soil"
+    details: "Bodies covered in volcanic ash gradually revealing human forms beneath gray coating, hands touching green grass and living plants with wonder and disbelief, faces squinting against brilliant natural sunlight after weeks in artificial illumination, warm Mediterranean breeze carrying scents of olive blossoms and sea salt creating overwhelming olfactory memories of surface world, skin feeling natural warmth penetrating through clothing, mouths opening to taste fresh sea air, overwhelming relief and joy expressed through tears mixing with volcanic dust, complete sensory awakening from underground sensory deprivation, no text or letters visible"
+    background: "Bright Mediterranean landscape with azure sea, scattered islands, and fertile volcanic slopes representing return to life and civilization"
+    atmosphere: "Ultimate memory trigger combining all senses in overwhelming return to surface world, visual representation of complete sensory rebirth after underground ordeal"
+  composition:
+    cameraAngle: "Wide shot showing emergence from underground to surface paradise"
+    focus: "Human figures experiencing complete sensory awakening in natural light"
+    depth: "Foreground shows ash-covered figures, middle ground captures Mediterranean landscape, background reveals vast sea and sky"

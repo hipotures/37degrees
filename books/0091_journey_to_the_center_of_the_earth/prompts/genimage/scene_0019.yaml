@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1863, deep underground
+    location: Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces
+    weather: Chemical-laden atmosphere from explosive preparations
+  characters:
+  - appearance: Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten
+      Nordic features, long flowing red hair, stoic expression
+    clothing: Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja,
+      sturdy breeches, leather boots, woolen cap
+    position: Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision
+    action: Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations
+  - appearance: 50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind
+      large round spectacles, energetic and impatient demeanor
+    clothing: Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition,
+      sturdy leather boots, always carrying scientific instruments
+    position: Usually in dominant position, gesturing authoritatively or examining specimens with intense focus
+    action: Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements
+  scene:
+    mainElements: Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits,
+      cathedral-like caverns with towering stone formations
+    details: Gunpowder cotton charges creating acrid chemical smoke, faces turning away with expressions of revulsion at bitter
+      explosive taste coating tongues, handkerchiefs pressed against mouths showing protective response to harsh chemicals,
+      visible smoke particles creating burning sensation, eyes watering from chemical irritation with tears visible on cheeks,
+      coughing gestures showing respiratory response to toxic environment, fabric and fuse materials creating bitter burnt
+      flavor in air, lamp flame affected by chemical atmosphere showing different burning characteristics, no text or letters
+      visible
+    background: Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and
+      ancient geological time
+    atmosphere: Dangerous chemical environment creating harsh bitter taste experience, visual representation of toxic flavors
+      through human defensive reactions
+  composition:
+    cameraAngle: Medium shot showing protective reactions to chemical smoke
+    focus: Covered faces and defensive postures against chemical taste
+    depth: Foreground emphasizes protective reactions, middle ground shows chemical smoke, background suggests explosive placement
+visualElements:
+  colorPalette:
+    primary:
+    - muted gray
+    - bruised purple
+    - fleshy pink
+    - steel blue
+    secondary:
+    - oily black
+    - rust brown
+    - bone white
+    background: dark industrial or fleshy backdrop
+    usageNotes: Mostly desaturated tones with occasional sickly accent colors
+    saturation: low
+    contrast: high (bright fleshy highlights vs dark shadows)
+  lineArt:
+    style: intricate sinewy lines and tubing
+    weight: fine, interwoven
+    color: dark gray or black
+    texture: slick, vein-like curves
+    edgeTreatment: smooth curves blending into sharp mechanical edges
+  lighting:
+    type: dramatic, directional spotlight
+    direction: side or under lighting for eerie effect
+    intensity: strong highlights, deep shadows
+    shadows:
+      style: complex overlapping shadows of cables and organs
+      color: cool blue-gray or deep brown
+      opacity: heavy
+    highlights: wet specular highlights on flesh, metallic gleam on machinery
+  rendering:
+    technique: airbrush or detailed digital painting
+    texture: glossy slick flesh, cold metal surfaces
+    detailLevel: very high (small mechanical parts and organic textures)
+    finish: glossy on organic parts, metallic on machine parts
+  perspective: three-dimensional realistic perspective (often claustrophobic close-ups)
+  mood:
+    overall: eerie, sci-fi horror, complex
+    emotion: unease, fascination
+    tempo: tense, intense
+    keywords:
+    - eerie
+    - intricate
+    - dark
+    - alien
+    - mechanical
+  stylePrecedents:
+  - H.R. Giger
+  - Biomechanical tattoo art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Trantor cityscape panorama showing multi-level urban canyons"
+  setting:
+    time: "Galactic Standard Era 12000s, late afternoon"
+    location: "surface level of Trantor metropolis, multi-tiered urban canyon system"
+    weather: "artificially controlled climate with filtered light from above"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Towering metal structures creating deep urban canyons, multiple transportation levels with enclosed tubes, massive public spaces with artificial lighting systems, kilometer-high buildings extending beyond sight"
+    details: "Deco-Brutalist architecture combining monumental Roman scale with Art Deco ornamentation, layered traffic systems moving through transparent tubes, artificial lighting creating day-night cycles, holographic advertisements and information displays, weathered metal surfaces showing age and constant use, ventilation systems managing atmospheric circulation"
+    background: "endless metallic horizon stretching to vanishing point, upper levels of city disappearing into artificial sky, controlled atmospheric effects creating sense of contained environment"
+    atmosphere: "Claustrophobic despite vast scale, oppressive grandeur of total urbanization, evidence of technological stagnation in aging infrastructure, sense of forty-five billion inhabitants living in artificial environment"
+  composition:
+    cameraAngle: "ground-level perspective looking up and across urban canyon"
+    focus: "architectural details of Deco-Brutalist structures and transportation systems"
+    depth: "foreground street level details, middle ground building facades, background extending city levels"

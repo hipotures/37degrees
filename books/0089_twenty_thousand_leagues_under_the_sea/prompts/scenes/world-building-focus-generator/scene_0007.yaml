@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Nautilus advanced diving equipment storage and preparation chamber"
+  setting:
+    time: "1866, morning with bright electric illumination"
+    location: "Equipment chamber aboard Nautilus submarine dedicated to underwater exploration gear"
+    weather: "Controlled environment with perfect temperature and humidity for equipment preservation"
+  characters:
+    - appearance: "Mężczyzna w wieku 30 lat o średnim wzroście i schludnej postawie. Flamandzkie pochodzenie. Gładko ogolony o spokojnej, niemal beznamiętnej twarzy. Wyprostowana postawa odzwierciedlająca jego uporządkowaną naturę"
+      clothing: "Prosty, ale zawsze czysty i porządny strój składający się z ciemnych spodni, kamizelki i prostej marynarki. Ubiór dyskretny i funkcjonalny, pozbawiony jakichkolwiek ozdób"
+      position: "Methodically arranging diving equipment with precise, careful movements"
+      action: "Inspecting and organizing the advanced underwater exploration gear with systematic efficiency"
+  scene:
+    mainElements: "Ciężki gumowany kombinezon z dużym kulistym hełmem z mosiądzu z trzema grubymi okrągłymi iluminatorami. Zbiornik na powietrze na plecach i ciężkie ołowiane buty. Advanced diving suits hang from specialized mounting systems along the walls. Opływowy futurystyczny karabin zamiast kul wystrzeliwujący skondensowane ładunki elektryczne zwane kulami lejdejskimi które paraliżują i zabijają mounted in glass cases. Air tanks, pressure regulators, and breathing apparatus represent technology decades ahead of surface world capabilities."
+    details: "The diving suits are marvels of engineering with articulated joints that allow complete underwater mobility. The brass helmets feature multiple thick glass viewing ports providing panoramic underwater vision. Electric lighting systems built into the helmets can illuminate the ocean depths. The electric rifles are sleek, efficient weapons that fire compressed electrical charges - completely silent and leaving no powder residue. Specialized tools for underwater specimen collection line the walls in organized rows."
+    background: "Additional equipment storage areas extend into the chamber with spare parts, maintenance tools, and backup systems for underwater exploration."
+    atmosphere: "Precision and technological mastery. This represents the pinnacle of underwater exploration equipment, enabling humans to safely venture into ocean depths that were previously impossible to explore. The systematic organization reflects the scientific precision of Nautilus operations."
+  composition:
+    cameraAngle: "Medium shot emphasizing both the character and the impressive array of advanced equipment"
+    focus: "The sophisticated diving gear and electric weapons that enable underwater exploration and protection"
+    depth: "Foreground shows detailed equipment components, middle ground features the character organizing gear, background reveals additional storage systems and equipment"

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, daytime
+    location: The shallows of the Waingunga river.
+    weather: The sun is setting, casting a red glow on the water.
+  characters:
+  - appearance: A boy of about 16 years old, exhausted and wounded.
+    clothing: Wears a simple loincloth.
+    position: Kneeling in the water, holding the head of an old wolf.
+    action: His face is a mask of grief as he listens to the dying words of his old friend.
+  - appearance: An old, gray wolf, mortally wounded.
+    clothing: None
+    position: Lying in the water, his head in Mowgli's lap.
+    action: He is weak and dying, but his eyes are full of pride and affection for his man-cub.
+  - appearance: The surviving wolves of the Seeonee pack.
+    clothing: None
+    position: Standing on the riverbank.
+    action: They are a battered and depleted group, but they have been victorious. They watch the scene with a mixture of
+      sorrow and respect.
+  scene:
+    mainElements: The aftermath of the battle with the red dogs. A scene of victory and loss.
+    details: The river is choked with the bodies of the dead dholes. The water is stained red with blood. The setting sun
+      creates a somber, funereal atmosphere. no text or letters visible
+    background: The dark jungle, and the red sky of sunset.
+    atmosphere: A scene of tragic victory. The pack has been saved, but at a terrible cost. The death of Akela marks the end
+      of an era. no text or letters visible
+  composition:
+    cameraAngle: Close-up on Mowgli and Akela.
+    focus: The grief on Mowgli's face as he holds the dying wolf.
+    depth: 'Foreground: Mowgli and Akela. Middle ground: the bodies of the dead dholes in the river. Background: the surviving
+      wolves on the bank.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

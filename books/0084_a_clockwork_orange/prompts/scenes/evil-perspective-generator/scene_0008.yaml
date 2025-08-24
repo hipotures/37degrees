@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Release and the Defenseless Man"
+  setting:
+    time: "Near future, daytime"
+    location: "The steps of the prison."
+    weather: "A cold, grey day."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. He is dressed in a cheap, ill-fitting suit. He looks small, vulnerable, and lost.
+      position: "Standing on the steps of the prison, blinking in the unfamiliar sunlight."
+      action: "He has been released, but he is not free. He is a conditioned automaton, unable to make his own choices or defend himself."
+  scene:
+    mainElements: "Alex's return to the world. He is no longer a predator, but prey. He is a walking symbol of the state's power to control and manipulate."
+    details: "The world outside the prison is a confusing, overwhelming place. The colors are too bright, the sounds are too loud. The faces of the people on the street are menacing and hostile. Alex is a stranger in his own city."
+    background: "The imposing, grey facade of the prison."
+    atmosphere: "A sense of disorientation and vulnerability. Alex is a man without a will, a puppet whose strings are pulled by the state. His freedom is an illusion."
+  composition:
+    cameraAngle: "A long shot that shows Alex as a small, insignificant figure in a large, hostile world."
+    focus: "The look of fear and confusion on Alex's face."
+    depth: "Foreground: The street. Middle ground: Alex. Background: The prison."

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Philosophical Response to Agony"
+  setting:
+    time: "Mid-18th century, late morning after punishment"
+    location: "Military camp, medical tent area"
+    weather: "Overcast, oppressive gray clouds"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Torn military uniform, shirt removed to reveal back covered in bloody welts and open wounds from beating"
+      position: "Lying face down on crude wooden table, barely conscious"
+      action: "Turns head weakly toward familiar voice, eyes struggling to focus through pain, desperate for comfort"
+    - appearance: "45-55 years old, thin and hunched from reading. Wearing spectacles on nose tip"
+      clothing: "Dark academic robes suggesting quasi-priestly role"
+      position: "Standing beside Candide's injured form, gesturing with scholarly precision despite the horrific setting"
+      action: "Explaining with calm academic detachment why this suffering is part of divine plan, completely oblivious to student's physical agony"
+    - appearance: "Around 50 years old, dignified man with honest, kind face befitting Dutch merchant and peaceful religious sect member"
+      clothing: "Simple but orderly dark bourgeois attire without ornaments"
+      position: "Kneeling beside table with medical supplies and water basin"
+      action: "Tends wounds with gentle compassion while shooting incredulous looks at philosopher's callous theorizing"
+  scene:
+    mainElements: "Military medical tent with rough wooden table serving as treatment surface, medical supplies scattered about, other wounded soldiers visible on straw pallets"
+    details: "Candide's back shows systematic pattern of brutal beating, each welt representing military discipline. Pangloss continues philosophical discourse with same animated gestures he used in castle, unchanged by horror around him. James's face shows mixture of compassion for Candide and disgust at Pangloss's heartlessness."
+    background: "Canvas tent walls, military camp sounds of drilling and shouting, other wounded being treated by indifferent military surgeons"
+    atmosphere: "Sharp contrast between abstract philosophy and concrete suffering. Gray oppressive light filtering through canvas. Smell of blood, antiseptic, and human misery. Intellectual callousness versus practical compassion."
+  composition:
+    cameraAngle: "Medium shot capturing all three figures and their contrasting responses to suffering"
+    focus: "Juxtaposition between Candide's tortured body and Pangloss's animated philosophical gesturing"
+    depth: "Foreground shows the wounded student, middle ground the contrasting helpers, background the broader military medical reality"

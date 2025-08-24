@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Uncontrolled Fire and the Living Smoke"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "The highest point on the island, a rocky peak with a commanding view of the surrounding ocean."
+    weather: "Hot and dry. The sun is beating down."
+  characters:
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Leading a group of boys who are wildly throwing wood onto a fire."
+      action: "Shouting with excitement, his face flushed and triumphant."
+    - id: "piggy"
+      name: "Piggy"
+      description_block: |
+        characters:
+          - name: "Piggy"
+            age: "12"
+            appearance: "A short, overweight boy with thinning hair. He is asthmatic and wears thick spectacles."
+            clothing: "Wears a greasy windbreaker, shorts, and scuffed shoes. His clothes are ill-fitting and rumpled."
+            posture: "Often hunched over, polishing his glasses, or holding his stomach. His movements are clumsy and hesitant."
+      position: "Standing at the edge of the group, looking horrified."
+      action: "Gesturing at the out-of-control fire, his mouth open in a silent scream."
+  scene:
+    mainElements: "The boys' first attempt at a signal fire has gone terribly wrong. A huge pile of wood has erupted into an uncontrollable inferno, and the fire is spreading rapidly down the side of the mountain."
+    details: "The smoke from the fire is thick and black, and it twists into monstrous, writhing shapes against the blue sky. The flames themselves seem to have a life of their own, leaping and dancing with a predatory glee. The heat is so intense that the air shimmers and distorts."
+    background: "The green canopy of the jungle below, with a growing patch of brown and black where the fire is consuming it. The ocean is a calm, indifferent blue."
+    atmosphere: "A terrifying scene of destruction and chaos. The boys' initial excitement has turned to horror as they realize what they have unleashed. The fire is a physical manifestation of their own unchecked impulses."
+  composition:
+    cameraAngle: "High angle shot, looking down at the boys and the fire, emphasizing their smallness and powerlessness in the face of the destruction they have caused."
+    focus: "The monstrous shapes of the smoke against the sky."
+    depth: "Foreground: The out-of-control fire. Middle ground: The boys reacting with a mixture of excitement and horror. Background: The spreading destruction in the jungle."

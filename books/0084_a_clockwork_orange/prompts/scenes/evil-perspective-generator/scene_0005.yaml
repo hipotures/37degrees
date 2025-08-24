@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "Alex in Prison"
+  setting:
+    time: "Near future, daytime"
+    location: "A stark, oppressive prison with long, echoing corridors and small, bare cells."
+    weather: "The only light comes from a small, barred window high up in the cell wall."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a drab prison uniform. He is pacing his cell like a caged animal.
+      position: "In a small, bare prison cell."
+      action: "He is trying to maintain his sense of self in a dehumanizing environment."
+  scene:
+    mainElements: "The prison is a place of sensory deprivation and psychological oppression. Alex is stripped of his identity, his clothes, his music, and his freedom."
+    details: "The cell is a concrete box. There is a single, hard bed, a toilet, and a sink. The walls are covered in graffiti left by previous inmates. The sound of dripping water and distant shouts echoes through the corridors."
+    background: "The prison corridor, visible through the bars of the cell door."
+    atmosphere: "A scene of claustrophobia, boredom, and despair. Alex is trapped, not just physically, but also mentally. He is fighting to hold on to his sanity."
+  composition:
+    cameraAngle: "A shot from outside the cell, looking in through the bars. This emphasizes Alex's confinement and the viewer's role as an observer."
+    focus: "Alex's defiant expression, a sign that his spirit has not yet been broken."
+    depth: "Foreground: The bars of the cell door. Middle ground: Alex in his cell. Background: The prison corridor."

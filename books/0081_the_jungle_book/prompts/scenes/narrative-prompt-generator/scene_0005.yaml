@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Master-Words of the Jungle"
+  setting:
+    time: "19th Century India, daytime"
+    location: "A sun-dappled clearing deep within the Seeonee Jungle."
+    weather: "Warm and sunny, with light filtering through the dense canopy."
+  characters:
+    - appearance: "A young boy, around 7 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled hair. Wears a simple loincloth made of woven leaves or animal hide."
+      clothing: "Wears a simple loincloth made of woven leaves or animal hide."
+      position: "Sitting cross-legged on the ground, looking up attentively."
+      action: "Repeating the Master-Words for the different Jungle-People, his expression a mixture of concentration and pride."
+    - appearance: "A large sloth bear, consistently referred to as the 'sleepy, brown bear.' He is massive and powerful."
+      clothing: "None"
+      position: "Sitting back on his haunches, like a furry Buddha."
+      action: "Gravely instructing Mowgli, occasionally giving him a gentle cuff for a mispronounced word. He is the stern but loving teacher."
+    - appearance: "A large, black panther. Fur is 'black as ink from every side.'"
+      clothing: "None"
+      position: "Lying gracefully on a low-hanging branch, observing the lesson with an amused glint in his eyes."
+      action: "Purring with satisfaction at his pupil's progress. He represents the more practical, cunning side of Mowgli's education."
+  scene:
+    mainElements: "The lesson of the Law of the Jungle. Baloo teaches, Bagheera observes, and Mowgli learns."
+    details: "The clearing is surrounded by ancient trees. Sunlight streams down in shafts, illuminating the scene. The relationship between the three is clear: Baloo the teacher, Bagheera the guardian, and Mowgli the student. no text or letters visible"
+    background: "The lush, green, and vibrant jungle, teeming with life."
+    atmosphere: "A peaceful, educational moment. A sense of safety, tradition, and the passing of ancient knowledge. no text or letters visible"
+  composition:
+    cameraAngle: "Eye-level shot, focusing on the interaction between the three characters."
+    focus: "Mowgli's face, showing his intense concentration as he learns the Law."
+    depth: "Foreground: Mowgli and Baloo. Middle ground: Bagheera on his branch. Background: the dense jungle."

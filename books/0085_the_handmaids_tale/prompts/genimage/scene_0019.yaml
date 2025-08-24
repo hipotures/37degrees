@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Near future, late evening with dim artificial lighting
+    location: Hidden corner of basement or concealed room away from surveillance
+    weather: Indoor setting with minimal lighting to avoid detection
+  characters:
+  - appearance: Two women in Handmaid uniforms engaged in clandestine exchange of forbidden reading material
+    clothing: Standard red Handmaid dress with white winged bonnet that restricts peripheral vision, identical to all other
+      Handmaids
+    position: Positioned close together in shadowy corner, bodies angled to conceal their activity from potential observers
+    action: Carefully passing forbidden book or written material between them, movements cautious and alert for discovery
+  scene:
+    mainElements: Small forbidden book or written material being secretly exchanged in location chosen specifically to avoid
+      surveillance detection
+    details: The book represents banned literature - perhaps poetry, science, philosophy, or pre-Gilead women's writing. The
+      exchange is conducted with extreme care and stealth. Lighting is minimal to avoid detection. The women's body language
+      shows both the value of the forbidden knowledge and the extreme danger of possessing it.
+    background: Concealed location showing efforts to avoid surveillance - perhaps basement corner, service area, or deliberately
+      obscured space
+    atmosphere: Dangerous preservation of forbidden knowledge and intellectual resistance, where the simple act of reading
+      becomes revolutionary
+  composition:
+    cameraAngle: Medium shot capturing the intimate secrecy of the knowledge exchange
+    focus: The forbidden book and the careful hand exchange dominate the center of the frame
+    depth: Secret exchange in foreground, concealed location details in background emphasizing the hidden nature of intellectual
+      resistance
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

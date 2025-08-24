@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1962, harsh winter evening
+    location: Rocky Mountain States Neutral Zone showing winter's stark isolation and abandonment of hope
+    weather: Heavy snow falling with bitter cold wind
+  characters: No characters present in this scene
+  scene:
+    mainElements: Barren landscape showing winter's dormancy and death, abandoned roadside establishments half-buried in snow,
+      telephone poles and power lines weighted down with ice, suggesting communication breakdown and isolation
+    details: Deep snow drifts covering abandoned cars and structures, icicles hanging from broken neon signs, bare trees creating
+      skeletal silhouettes against gray sky, single set of tire tracks in snow showing recent passage but now filling with
+      fresh snowfall, frozen signs for closed businesses barely visible above snow level, wind creating swirling snow devils
+      across empty highway, no text or letters visible
+    background: Snow-covered Rocky Mountain peaks disappearing into gray storm clouds, vast empty landscape stretching to
+      horizon, no signs of human activity or hope
+    atmosphere: Profound isolation and abandonment, winter representing political and spiritual death, nature reclaiming spaces
+      that civilization has abandoned, sense of time frozen in endless desolation
+  composition:
+    cameraAngle: Wide desolate landscape shot emphasizing emptiness and harsh conditions
+    focus: Snow-covered highway disappearing into storm with abandoned structures on either side
+    depth: 'Foreground: snow-drifted highway, middle: abandoned roadside structures, background: mountain peaks lost in storm
+      clouds'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

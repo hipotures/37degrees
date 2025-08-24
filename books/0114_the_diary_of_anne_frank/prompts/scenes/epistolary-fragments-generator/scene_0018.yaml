@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Anne's Romanticized View - Peter as Prince"
+  setting:
+    time: "April 1944, spring evening"
+    location: "Secret Annex top floor attic under roof with wooden ceiling beams, storage space, Amsterdam 1942-1944"
+    weather: "Golden spring evening light through attic window"
+  characters:
+    - appearance: "Teenage chłopak wiek 15-18 lat, wysoki szczupły, początkowo niezdarny skulony, ciemne kręcone włosy, nieśmiałe spojrzenie, idealized through Anne's romantic lens"
+      clothing: "Proste robocze ubrania, kombinezon, appearing more attractive through love-struck eyes"
+      position: "Silhouetted against window with chestnut tree"
+      action: "Speaking softly while gazing out window, appearing noble and profound"
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+      position: "Sitting nearby, gazing at Peter adoringly"
+      action: "Listening with rapt attention to his words"
+  scene:
+    mainElements: "Ciemna przestrzeń pod dachem, widoczne belki stropowe, beczki i worki z jedzeniem, jedno niezamalowane okno z widokiem na kasztanowiec bathed in romantic golden light"
+    details: "Jedyne miejsce kontaktu z naturą, azyl dla zadumy i intymności, smugi światła w kurzu, Stary kasztanowiec rosnący na podwórzu widoczny z okna strychu appearing like enchanted garden beyond window"
+    background: "Attic space transformed by first love into romantic sanctuary"
+    atmosphere: "Dreamlike romantic atmosphere, teenage love idealizing everything, golden light making ordinary space magical"
+  composition:
+    cameraAngle: "Soft focus romantic cinematography emphasizing idealized beauty"
+    focus: "Peter as Anne sees him - romantic hero against beautiful backdrop"
+    depth: "Dreamy depth of field with golden light creating ethereal atmosphere"
