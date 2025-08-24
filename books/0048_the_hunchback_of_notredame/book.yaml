@@ -1,6 +1,8 @@
 book_info:
   title: "The Hunchback of Notre-Dame"
-  title_pl: "Katedra Marii Panny w Paryżu"
+  title_pl: 
+    - "Dzwonnik z Notre-Dame"
+    - "Katedra Marii Panny w Paryżu"
   author: "Victor Hugo"
   year: 1831
   genre: "Gothic,Historical fiction"

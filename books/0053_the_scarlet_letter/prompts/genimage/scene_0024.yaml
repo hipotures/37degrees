@@ -1,18 +1,48 @@
 sceneDescription:
   setting:
-    time: PLACEHOLDER_TIME
-    location: PLACEHOLDER_LOCATION
-    weather: PLACEHOLDER_WEATHER
-  characters: PLACEHOLDER_CHARACTERS
+    time: 1649 afternoon following Election Day confession
+    location: Boston marketplace scaffold after crowd has dispersed
+    weather: Soft afternoon light fading to early evening
+  characters:
+  - appearance: Tall woman with elegant, imposing figure, age around 24-26 years, abundant dark lustrous hair, deep black
+      eyes with prominent forehead, rich complexion, noble bearing despite circumstances
+    clothing: Simple gray Puritan dress made of coarse material, white linen apron, modest linen cap covering hair completely
+      except when specified otherwise, worn leather shoes
+    position: Kneeling beside minister's collapsed form on scaffold platform
+    action: Often engaged in needlework with masterful skill, tending to Pearl, or standing in contemplative silence with
+      steady, unflinching gaze
+  - appearance: Beautiful child from infant to 7 years old, perfect figure with natural grace, wild vitality, elfish fairy-like
+      features, bright intelligent eyes, flowing hair, otherworldly beauty
+    clothing: Always dressed in rich fabrics and fantastical garments in brilliant colors especially crimson and gold, elaborate
+      dresses that make her appear like living embodiment of scarlet letter
+    position: Standing between parents for first time as complete family unit
+    action: Playing with wild imagination creating games from nature, asking penetrating questions with uncanny insight, gathering
+      flowers and seashells, mimicking adult behaviors with disturbing accuracy
+  - appearance: Young minister around 28-30 years, slender almost ethereal build becoming increasingly gaunt, pale complexion
+      growing paler with time, white prominent forehead, large melancholy brown eyes, trembling lips
+    clothing: Plain black clerical robe of Puritan minister, simple white collar, black cap or hat, worn black leather shoes,
+      garments becoming looser as he grows thinner
+    position: Lying weakened on scaffold platform after confession
+    action: Frequently pressing hand to heart in nervous gesture, delivering sermons with passionate intensity while face
+      shows inner torment, walking with increasingly faltering steps
   scene:
-    mainElements: PLACEHOLDER_MAIN
-    details: PLACEHOLDER_DETAILS
-    background: PLACEHOLDER_BACKGROUND
-    atmosphere: PLACEHOLDER_ATMOSPHERE
+    mainElements: 'Three scarlet letter symbols converging: Hester''s embroidered letter on chest, minister''s revealed mark
+      burned into flesh, and Pearl herself as living scarlet letter finally united with both parents in moment of truth'
+    details: The symbolic integration of all story elements as family triangle completes for first time. Hester's elaborate
+      embroidered letter A in scarlet red cloth outlined with intricate gold thread work and ornate flourishes, approximately
+      3 inches tall, sewn permanently to front of dress over heart meets minister's hidden mark finally exposed. Pearl, dressed
+      in brilliant crimson and gold, stands between them forming living bridge between shame and acknowledgment. Torn clerical
+      robe reveals chest where secret burden was carried seven years. Late afternoon light creates golden aureole around trio,
+      transforming scaffold from place of shame into altar of truth and family recognition.
+    background: Wooden scaffold platform in center serving as pillory, crowd of Puritan townspeople in dark clothing, surrounding
+      timber-frame houses and shops
+    atmosphere: Sacred moment of family unity after years of separation, symbols of shame transformed into bonds of love,
+      truth finally creating wholeness from fragmentation, no text or letters visible
   composition:
-    cameraAngle: PLACEHOLDER_ANGLE
-    focus: PLACEHOLDER_FOCUS
-    depth: PLACEHOLDER_DEPTH
+    cameraAngle: Medium wide shot capturing all three figures forming symbolic triangle on scaffold
+    focus: Three scarlet letter symbols - embroidered, marked, and living - finally united in single frame
+    depth: 'Foreground: family trinity united at last; middle: empty scaffold space showing their isolation; background: distant
+      Boston buildings suggesting world they must now face together'
 visualElements:
   colorPalette:
     primary:

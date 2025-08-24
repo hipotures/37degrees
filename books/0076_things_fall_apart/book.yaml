@@ -1,6 +1,8 @@
 book_info:
   title: "Things Fall Apart"
-  title_pl: "Wszystko się rozpada"
+  title_pl: 
+    - "Świat się rozpada"
+    - "Wszystko się rozpada"
   author: "Chinua Achebe"
   year: 1958
   genre: "Historical fiction,Tragedy"
