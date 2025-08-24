@@ -2,16 +2,31 @@
 
 # Skrypt do tworzenia plików book-ds-prompt.md dla wszystkich książek
 # na podstawie template Research-prompt.md
+# 
+# Użycie:
+#   ./create_book_prompts.sh        # Tworzy pliki tylko jeśli nie istnieją
+#   ./create_book_prompts.sh --force # Nadpisuje istniejące pliki
 
 TEMPLATE_FILE="/home/xai/DEV/37degrees/docs/Research-prompt.md"
 BOOKS_DIR="/home/xai/DEV/37degrees/books"
+FORCE_OVERWRITE=false
+
+# Sprawdź czy podano opcję --force
+if [ "$1" = "--force" ] || [ "$1" = "-f" ]; then
+    FORCE_OVERWRITE=true
+    echo "Tryb FORCE: będą nadpisywane istniejące pliki"
+fi
 
 if [ ! -f "$TEMPLATE_FILE" ]; then
     echo "Błąd: Nie znaleziono pliku template: $TEMPLATE_FILE"
     exit 1
 fi
 
-echo "Rozpoczynam tworzenie plików book-ds-prompt.md dla wszystkich książek..."
+if [ "$FORCE_OVERWRITE" = true ]; then
+    echo "Rozpoczynam tworzenie plików book-ds-prompt.md dla wszystkich książek (z nadpisywaniem)..."
+else
+    echo "Rozpoczynam tworzenie plików book-ds-prompt.md dla wszystkich książek..."
+fi
 
 # Iteruj przez wszystkie katalogi książek
 for book_dir in "$BOOKS_DIR"/*/; do
@@ -35,10 +50,12 @@ for book_dir in "$BOOKS_DIR"/*/; do
             echo "  Utworzono katalog: $docs_dir"
         fi
         
-        # Sprawdź czy plik już istnieje
-        if [ -f "$output_file" ]; then
+        # Sprawdź czy plik już istnieje (tylko jeśli nie ma --force)
+        if [ -f "$output_file" ] && [ "$FORCE_OVERWRITE" = false ]; then
             echo "  Pominięto: plik już istnieje - $output_file"
             continue
+        elif [ -f "$output_file" ] && [ "$FORCE_OVERWRITE" = true ]; then
+            echo "  Nadpisywanie istniejącego pliku: $output_file"
         fi
         
         # Wyciągnij title i author z book.yaml
@@ -60,11 +77,19 @@ for book_dir in "$BOOKS_DIR"/*/; do
         sed -i "s/\[title\]/$title/g" "$output_file"
         sed -i "s/\[author\]/$author/g" "$output_file"
         
-        echo "  ✓ Utworzono: $output_file"
+        if [ "$FORCE_OVERWRITE" = true ] && [ -f "$output_file.bak" ]; then
+            echo "  ✓ Nadpisano: $output_file"
+        else
+            echo "  ✓ Utworzono: $output_file"
+        fi
         echo "    Title: $title"
         echo "    Author: $author"
     fi
 done
 
 echo ""
-echo "Gotowe! Utworzono pliki book-ds-prompt.md dla wszystkich książek."
+if [ "$FORCE_OVERWRITE" = true ]; then
+    echo "Gotowe! Utworzono/nadpisano pliki book-ds-prompt.md dla wszystkich książek."
+else
+    echo "Gotowe! Utworzono pliki book-ds-prompt.md dla wszystkich książek."
+fi

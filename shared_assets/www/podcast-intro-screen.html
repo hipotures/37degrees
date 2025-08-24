@@ -58,7 +58,7 @@
         
         .podcast-name {
             font-family: 'Playfair Display', serif;
-            font-size: 120px;
+            font-size: 156px;
             font-weight: 700;
             background: linear-gradient(135deg, #f5f5f5 0%, #d4af37 50%, #f5f5f5 100%);
             -webkit-background-clip: text;
@@ -71,7 +71,7 @@
         }
         
         .tagline {
-            font-size: 24px;
+            font-size: 31px;
             font-weight: 300;
             color: rgba(255, 255, 255, 0.7);
             letter-spacing: 4px;
@@ -81,13 +81,14 @@
         /* Divider line */
         .divider {
             position: absolute;
-            top: 450px;
+            top: 500px;
             left: 50%;
             transform: translateX(-50%);
             width: 0;
             height: 2px;
             background: linear-gradient(90deg, transparent, #d4af37, transparent);
             animation: expandWidth 1s ease-out 0.8s forwards;
+            z-index: 1;
         }
         
         @keyframes expandWidth {
@@ -104,11 +105,12 @@
             width: 900px;
             opacity: 0;
             animation: fadeInUp 1s ease-out 1.2s forwards;
+            z-index: 2;
         }
         
         .book-title {
             font-family: 'Playfair Display', serif;
-            font-size: 96px;
+            font-size: 125px;
             font-weight: 700;
             color: #f5f5f5;
             line-height: 1.2;
@@ -117,7 +119,7 @@
         }
         
         .book-author {
-            font-size: 42px;
+            font-size: 55px;
             font-weight: 400;
             color: rgba(255, 255, 255, 0.9);
             letter-spacing: 2px;
@@ -151,7 +153,7 @@
             bottom: 300px;
             left: 50%;
             transform: translateX(-50%);
-            font-size: 28px;
+            font-size: 36px;
             font-weight: 300;
             color: rgba(255, 255, 255, 0.6);
             letter-spacing: 3px;

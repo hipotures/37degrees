@@ -12,10 +12,16 @@
 # Każda nazwa katalogu odpowiada nazwie listy TODOIT.
 # Unikalna lista katalogów, posortowana rosnąco po numerze
 declare -a book_directories=(
-  "0053_the_scarlet_letter"
-  "0054_the_catcher_in_the_rye"
-  "0055_of_mice_and_men"
-  "0056_the_grapes_of_wrath"
+  "0057_east_of_eden"
+  "0058_for_whom_the_bell_tolls"
+  "0059_a_farewell_to_arms"
+  "0060_the_sun_also_rises"
+  "0061_one_flew_over_the_cuckoos_nest"
+  "0062_catch22"
+  "0063_slaughterhousefive"
+  "0064_the_metamorphosis"
+  "0065_the_castle"
+  "0066_doctor_zhivago"
 )
 
 # Plik z komendą/promptem dla modelu Claude.
