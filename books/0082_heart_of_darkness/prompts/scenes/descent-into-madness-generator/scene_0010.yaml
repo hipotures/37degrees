@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Steam Whistle"
+  setting:
+    time: "Late 19th Century, morning"
+    location: "On the steamboat, during the attack."
+    weather: "The fog is lifting, but the air is thick with the smoke from the pilgrims' rifles."
+  characters:
+    - appearance: "Charles Marlow, 32."
+      clothing: "Simple sailor's clothes, spattered with the helmsman's blood."
+      position: "At the helm."
+      action: "He is pulling the cord for the steam whistle, his face a grimace of rage and grief."
+  scene:
+    mainElements: "Marlow's response to the attack. He uses the technology of the boat as a weapon."
+    details: "A deafening, inhuman shriek erupts from the steam whistle. The sound is visualized as a physical force, a wave of distorted, jagged lines that rips through the jungle. The unseen attackers are terrified, and their panicked cries are heard for a moment before they flee. The reflection of the steam whistle in a pool of the helmsman's blood on the deck is distorted and monstrous. no text or letters visible"
+    background: "The jungle, now silent and seemingly empty."
+    atmosphere: "A moment of technological horror. The shriek of the whistle is more terrifying than any sound of the jungle. A victory that feels like a violation. no text or letters visible"
+  composition:
+    cameraAngle: "A low-angle shot, looking up at the steam whistle as it shrieks."
+    focus: "The distorted reflection of the whistle in the pool of blood."
+    depth: "Foreground: the pool of blood. Middle ground: Marlow pulling the cord. Background: the steam whistle."

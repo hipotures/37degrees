@@ -1,0 +1,153 @@
+canon:
+  characters:
+    - id: "gilgamesh_king"
+      name: "Gilgamesh as King and Tyrant"
+      description_block: |
+        characters:
+          - appearance: "Imposing height, perfect musculature of 2/3 divine being, long dark hair, intricately braided square beard in Assyrian style, idealized physique described as terrifying like a great wild bull"
+            clothing: "Rich ceremonial robes decorated with fringes (kaunakes), golden jewelry, royal crown with divine symbols"
+            position: "Standing in dominant frontal pose, looking down at others with divine distance and contempt"
+            action: "Displaying cold, ritualistic authority with slow mechanical movements, showing no human empathy"
+
+    - id: "gilgamesh_wanderer"
+      name: "Gilgamesh as Transformed Wanderer"  
+      description_block: |
+        characters:
+          - appearance: "Same imposing physique but weathered by journey, face marked by grief with potential gray streaks in hair and beard, eyes showing acceptance rather than arrogance"
+            clothing: "Simple rough animal hides, practical traveler's attire, no royal ornaments"
+            position: "Upright but humble posture, gesturing with open hands toward his achievements"
+            action: "Pointing proudly but peacefully at the walls of Uruk, speaking with quiet dignity"
+
+    - id: "enkidu_wild"
+      name: "Enkidu in Wild State"
+      description_block: |
+        characters:
+          - appearance: "Body completely covered in thick matted hair, exceptionally long head hair flowing like uncut grain, wild alert eyes unfamiliar with human gaze"
+            clothing: "Completely naked, natural state without any garments"
+            position: "Moving in animal-like manner, often on four limbs or low crouching run"
+            action: "Drinking water by lying on belly like gazelles, destroying hunter traps to protect animal companions"
+
+    - id: "enkidu_civilized" 
+      name: "Enkidu Civilized"
+      description_block: |
+        characters:
+          - appearance: "Muscular build with shortened hair and beard, clean-shaven revealing human skin, upright human posture"
+            clothing: "Simple woolen kilt (kaunakes) bound with belt, basic civilized garments"
+            position: "Standing upright with loyal, grounded stance serving as moral compass"
+            action: "Fighting with bare hands or simple bronze axe, displaying fierce loyalty to Gilgamesh"
+
+    - id: "ishtar_goddess"
+      name: "Ishtar - Goddess of Love and War"
+      description_block: |
+        characters:
+          - appearance: "Embodiment of divine beauty and power with large emphasized eyes, full lips, supernatural hypnotic beauty with dangerous undertones"
+            clothing: "Richly decorated multilayered transparent robes, divine tiara with horns symbolizing status, lapis lazuli and gold jewelry"
+            position: "Transforming from fluid seductive poses to rigid terrifying stances in anger"
+            action: "Moving with calculated grace that shifts from alluring to menacing, eyes showing capricious divine nature"
+
+    - id: "humbaba_guardian"
+      name: "Humbaba - Forest Guardian"  
+      description_block: |
+        characters:
+          - appearance: "Gigantic anthropomorphic beast with face as swirling mass of wrinkles resembling coiled intestines, wide eyes, massive fangs, powerful arms, body partially covered with bark or moss"
+            clothing: "Surrounded by seven auras of divine terror (melammu) visualized as pulsating light-distorting fields around him"
+            position: "Towering monumentally over humans, movements causing earth-shaking effects"
+            action: "Speaking with voice like storm torrent, breathing like fire, displaying chaotic primordial terror"
+
+    - id: "shamhat_priestess"
+      name: "Shamhat - Sacred Priestess"
+      description_block: |
+        characters:
+          - appearance: "Dignified temple priestess bearing symbols of Ishtar such as eight-pointed star or sacred tattoos"
+            clothing: "Elegant but practical robes suitable for travel, ceremonial elements indicating temple status"
+            position: "Moving with conscious, deliberate, purposeful gestures as civilization's envoy"
+            action: "Embodying culture, knowledge, and transformative human sexuality through ritual movements"
+
+    - id: "utnapishtim_survivor"
+      name: "Utnapishtim - Flood Survivor"
+      description_block: |
+        characters:
+          - appearance: "Ordinary tired-looking elderly man whose immortality does not manifest in appearance, weathered face showing eternal weariness"
+            clothing: "Simple robes of someone who has transcended worldly concerns, practical island dweller's attire"
+            position: "Sitting peacefully in isolation, posture showing resignation and detachment from worldly affairs"
+            action: "Speaking with quiet authority about cosmic events, demonstrating tests of human limitation"
+
+  locations:
+    - id: "uruk_city"
+      name: "Ancient City of Uruk" 
+      description_block: |
+        setting:
+          location: "Ancient Mesopotamian city-state Uruk in Sumer, between Tigris and Euphrates rivers, heart of early civilization"
+        mainElements: "Massive nine-kilometer defensive walls of fired brick gleaming like copper, narrow unpaved streets winding between crowded single-story mud-brick houses, two monumental temple complexes rising above urban fabric"
+        atmosphere: "Dense sensory environment with omnipresent dust, smoke from hearths, sounds of merchants calling, children crying, livestock, rhythmic temple chants, contrasting poverty of common dwellings with unimaginable wealth of palaces and temples"
+
+    - id: "cedar_forest"
+      name: "Sacred Cedar Forest"
+      description_block: |
+        setting:
+          location: "Legendary sacred Cedar Forest in mountains beyond Mesopotamian plains, dwelling place of gods forbidden to mortals"
+        mainElements: "Monumentally huge cedar trees with thick wrinkled bark and characteristic spreading horizontal branches creating dense canopy, supernaturally wide straight paths burned by Humbaba's power"
+        atmosphere: "Holy ancient place charged with supernatural energy, deep unnatural silence broken only by wind whispers, heavy air thick with resinous cedar scent and moist earth, eternal twilight under tree canopy"
+
+    - id: "mesopotamian_steppe"
+      name: "Wild Mesopotamian Steppe"
+      description_block: |
+        setting:
+          location: "Endless open steppes surrounding Mesopotamian cities, domain of wild animals and nomadic life"
+        mainElements: "Vast grasslands with browns of dried earth, gold of steppe grasses, muted greens of sparse shrubs, natural water holes"
+        atmosphere: "Pure natural domain with only wind sounds and animal calls, perfect symbiosis between wild creatures, representing untamed nature versus civilization"
+
+    - id: "mashu_mountains"
+      name: "Twin Peaks of Mashu"
+      description_block: |
+        setting:
+          location: "Mythical twin peaks at edge of world marking sunrise and sunset points where sun enters and exits sky"
+        mainElements: "Two massive mountain peaks carved with stone gateway entrance to tunnel through cosmic mountain"
+        atmosphere: "Boundary between world of light and realm of darkness, cosmic significance emphasized by twilight lighting and otherworldly scale"
+
+    - id: "garden_of_gods"
+      name: "Supernatural Garden of the Gods"
+      description_block: |
+        setting:
+          location: "Divine paradise beyond tunnel of darkness, crystalline otherworldly realm where gods dwell"
+        mainElements: "Trees with leaves of thin lapis lazuli plates, fruits of polished carnelian and agates, other precious stones, light emanating from plants themselves"
+        atmosphere: "Heavenly but inhuman paradise with supernaturally saturated colors, still motionless air, crystal-clear perfection that feels alien to human experience"
+
+    - id: "waters_of_death" 
+      name: "Waters of Death"
+      description_block: |
+        setting:
+          location: "Cosmic ocean of deadly water separating mortal world from island of immortal Utnapishtim"
+        mainElements: "Perfectly smooth black surface like tar or oil, every drop deadly poisonous, requiring special wooden poles for crossing"
+        atmosphere: "Absolute deathly silence, tension-filled slow journey across perfectly still lethal waters under empty sky"
+
+  items:
+    - id: "uruk_walls"
+      name: "Walls of Uruk"
+      description_block: |
+        details: "Massive nine-kilometer fortifications of fired brick gleaming copper-like in sunlight, crowned with battlements, reinforced with regularly spaced towers, representing boundary between civilization's order and nature's chaos"
+
+    - id: "bronze_weapons"
+      name: "Bronze Age Weapons"
+      description_block: |
+        details: "Heavy bronze axe called Might of Heroes, bow from Anshan, bronze swords, all crafted with ceremonial decorations and practical deadly efficiency of ancient metallurgy"
+
+    - id: "seven_auras"
+      name: "Seven Auras of Terror"  
+      description_block: |
+        details: "Seven supernatural auras of divine terror (melammu) surrounding Humbaba, manifesting as pulsating energy fields that distort air with different visual effects - heat waves, sound illusions, paralyzing fear - each with distinct color and distortion pattern"
+
+    - id: "bull_of_heaven"
+      name: "Divine Bull of Heaven"
+      description_block: |
+        details: "Cosmic constellation creature with hide resembling night sky studded with twinkling stars, crescent moon-shaped horns, size towering over buildings, breathing cold cosmic nebula instead of steam, embodying Taurus constellation"
+
+    - id: "plant_of_youth"
+      name: "Thorny Plant of Rejuvenation"
+      description_block: |
+        details: "Small underwater plant with sharp thorns like rose, growing on ocean floor, emitting subtle underwater light, containing power to restore youth and vitality"
+
+    - id: "mesopotamian_textiles"
+      name: "Ancient Mesopotamian Fabrics"
+      description_block: |
+        details: "Woolen fringed garments (kaunakes), rough untanned animal hides, richly decorated multilayered transparent ceremonial robes with geometric patterns - rosettes, zigzags, braided designs in red, black, white colors"

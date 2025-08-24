@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1962, afternoon wedding ceremony
+    location: San Francisco church under Japanese occupation showing three generations of family weddings in same sacred space
+    weather: Bright afternoon with sunlight streaming through stained glass
+  characters:
+  - appearance: Beautiful 30-year-old woman with ebony black hair falling to shoulders, athletic build from judo training
+      with visible muscle tone, clear skin with traces of Spanish heritage
+    clothing: Simple white wedding dress appropriate for wartime restrictions, carrying small bouquet of available flowers
+    position: Standing at altar with ghostly overlays of mother and grandmother in same position
+    action: Exchanging vows while temporal echoes show three generations of women in identical ceremony
+  scene:
+    mainElements: Church altar showing temporal layers of three wedding ceremonies - grandmother's pre-war celebration, mother's
+      wartime service wedding, current bride's occupation-era union - same sacred space hosting generational traditions despite
+      changing political circumstances
+    details: Stained glass windows casting colored light patterns unchanged across decades, worn wooden pews showing three
+      generations of family attendance, altar flowers arranged in different styles reflecting available blooms across different
+      eras, wedding dress styles evolving from elaborate to simple to practical, family Bible passed between generations,
+      church architecture showing subtle war damage repaired over time, no text or letters visible
+    background: Church interior with ghostly congregations from three different eras, candles burning in same holders across
+      decades, religious symbols providing continuity despite political upheaval outside
+    atmosphere: Sacred continuity transcending political change, human traditions enduring despite occupation, family love
+      providing stability across temporal uncertainty, bittersweet acknowledgment of losses between generations
+  composition:
+    cameraAngle: Medium shot from congregation perspective showing altar with temporal overlays
+    focus: Current bride with ghostly echoes of mother and grandmother in identical poses
+    depth: 'Foreground: church pews with family members, middle: bride at altar with generational echoes, background: stained
+      glass and religious architecture'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

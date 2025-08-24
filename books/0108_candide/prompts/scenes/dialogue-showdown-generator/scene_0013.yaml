@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Shadows on the Water at Dawn"
+  setting:
+    time: "Mid-18th century, early dawn"
+    location: "Small boat on calm waters leaving Lisbon harbor"
+    weather: "Misty dawn, soft light beginning to illuminate water"
+  characters:
+    - appearance: "Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing"
+      clothing: "Dark traveling cloak hood pulled up, simple dress for disguise"
+      position: "Seated in stern of small boat, turned back toward receding Lisbon"
+      action: "Looks back at burning city with mixture of relief and regret, hand trailing in water, face half in shadow half in emerging dawn light"
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple dark traveling clothes, sword at side"
+      position: "Rowing boat steadily away from shore, muscles tense with effort"
+      action: "Rows with determined strength while glancing anxiously between Cunegonde and the harbor they're fleeing"
+    - appearance: "70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with intelligence and resilience"
+      clothing: "Dark servant's traveling dress, small bundle of possessions"
+      position: "Seated amidships, keeping watch on harbor for pursuit"
+      action: "Scans horizon and harbor with practiced eyes of someone who has fled many times before"
+  scene:
+    mainElements: "Small wooden boat cutting through calm harbor water, Lisbon visible in background still showing fires and earthquake damage, mist rising from water"
+    details: "Dawn light creates dramatic chiaroscuro effect with Cunegonde's face half in shadow representing her dark experiences, half in light suggesting hope. Candide's rowing shows physical determination. Old Woman's alertness reveals survival instincts. Boat's wake shows their escape path."
+    background: "Portuguese coastline with damaged city skyline, other boats in harbor, some pursuing vessels possible in distance, sun beginning to rise behind mountains"
+    atmosphere: "Escape and transformation under cover of dawn. Light emerging from darkness symbolizing new phase of journey. Colors of gray dawn mist, gold emerging sunlight, dark water, orange glow from distant fires. Sense of leaving one world for unknown other."
+  composition:
+    cameraAngle: "Wide shot capturing both the small boat and the harbor they're leaving"
+    focus: "Cunegonde's face showing complex emotions as she looks back at the life she's leaving"
+    depth: "Foreground shows their small boat and immediate escape, middle ground the harbor waters, background the damaged city representing their past"

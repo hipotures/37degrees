@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Vagrant's Terror - Marvel's Recruitment"
+  setting:
+    time: "February 1897, afternoon on isolated hillside"
+    location: "Rolling chalk hills of South Downs in Sussex, open windswept landscape with few trees, isolated rural setting"
+    weather: "Overcast afternoon with cold wind"
+  characters:
+    - appearance: "Short corpulent vagrant in late middle age, round flexible face with prominent cylindrical nose, full trembling lips, unruly gray whiskers, weathered complexion"
+      clothing: "Mismatched worn garments held together with string and shoelaces instead of proper buttons, old silk hat showing age, shabby coat patched multiple times"
+      position: "Crouched on hillside examining own mismatched boots, then suddenly recoiling in terror"
+      action: "Nervously handling stolen notebooks bound with vicar's straps, or cowering in visible fear while listening to invisible voice"
+  scene:
+    mainElements: "Grassy hillsides marked by sheep paths, scattered flint stones, occasional hawthorn bushes, broad sky dominating horizon"
+    details: "Marvel's hat flying off his head without visible cause, stones pelting him from empty air, his ragged coat flapping as invisible hands grasp him, terror-stricken expression as he realizes he's not alone"
+    background: "Desolate countryside stretching in all directions, no witnesses or help in sight, sheep in distance unaware of supernatural encounter"
+    atmosphere: "Overwhelming terror of supernatural encounter, helpless vulnerable vagrant meeting incomprehensible force, power dynamic of invisible predator and visible prey"
+  composition:
+    cameraAngle: "Medium shot from Marvel's eye level showing his terror"
+    focus: "Marvel's horrified expression as he experiences invisible assault"
+    depth: "Foreground shows Marvel's detailed fearful features, middle ground captures flying objects, background reveals endless isolation, no text or letters visible"

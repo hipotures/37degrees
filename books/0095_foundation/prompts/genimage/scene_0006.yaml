@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, continuous operation
+    location: massive Imperial power generation facility within Trantor underground levels
+    weather: controlled industrial environment with regulated atmosphere
+  characters:
+  - appearance: Imperial technicians in 30s to 50s, various builds, professional bearing showing specialized training
+    clothing: standardized industrial uniforms with radiation badges, protective equipment, rank insignia indicating technical
+      specialization
+    position: monitoring control stations, conducting maintenance procedures, supervising automated systems
+    action: operating massive control panels with physical switches and displays, checking radiation levels, maintaining aging
+      but powerful atomic reactors
+  scene:
+    mainElements: colossal atomic reactors with visible containment systems, massive control panels with analog displays and
+      physical controls, thick radiation shielding, enormous cooling systems with steam vents
+    details: 1940s-inspired industrial design with atomic age aesthetics, heavy machinery requiring large crews to operate,
+      visible atomic symbols and radiation warnings, cooling towers and steam systems, massive cables and conduits carrying
+      power throughout planet, aging but still functional technology showing Imperial stagnation
+    background: underground industrial complex extending beyond sight, multiple reactor chambers connected by transport tunnels,
+      heavy industrial atmosphere with mechanical sounds
+    atmosphere: overwhelming scale of atomic age technology, sense of powerful but aging infrastructure, industrial might
+      of Imperial civilization, hint of technological stagnation despite massive scale
+  composition:
+    cameraAngle: low angle emphasizing massive scale of atomic reactors
+    focus: contrast between human operators and massive technology
+    depth: foreground control systems, middle ground reactor chambers, background industrial complex
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

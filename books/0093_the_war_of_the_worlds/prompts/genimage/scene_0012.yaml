@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1897, night during tripod attack
+    location: Surrey countryside near Maybury, pine forest and heathland under alien assault
+    weather: Storm continuing with added heat and smoke from Martian weapons
+  characters:
+  - appearance: First-person perspective showing narrator's view from ground level after cart accident
+    clothing: Glimpse of Victorian gentleman's torn sleeve and muddy hands visible at frame edges
+    position: Lying on ground looking up at destruction above
+    action: Witnessing Heat Ray weapon destroying forest and landscape from victim's eye level
+  scene:
+    mainElements: POV from ground showing invisible Heat Ray's devastating effects on natural environment
+    details: Camera-like device mounted on flexible arm projecting from Martian fighting machine, emits invisible beam of
+      intense heat that ignites organic matter instantly and melts metal, no visible ray only devastating thermal effects,
+      represents alien technology beyond human understanding. Trees bursting into flame instantly, pine needles flashing to
+      ash, forest canopy becoming inferno
+    background: Tripod machines moving through burning landscape like mechanical gods of destruction, night sky lit by flames
+    atmosphere: Absolute technological superiority of alien weapons, helplessness of organic life against advanced engineering,
+      environmental destruction as warfare
+  composition:
+    cameraAngle: POV from ground level looking up at towering destruction above
+    focus: Heat Ray effects destroying natural world from human victim's perspective, no text or letters visible
+    depth: Foreground shows narrator's position on ground, middle ground captures immediate fire and destruction, background
+      reveals tripods continuing systematic devastation of countryside
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Aversion to Beethoven and the Desecration of Art"
+  setting:
+    time: "Near future, daytime"
+    location: "The Ludovico Medical Facility."
+    weather: "The room is windowless."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white hospital gown. He is writhing in agony on the floor.
+      position: "In the cinema-like room."
+      action: "He is being forced to listen to Beethoven's 9th Symphony, which is now associated with the nausea and terror of the Ludovico Technique."
+    - id: "dr_brodsky"
+      name: "Dr. Brodsky"
+      description_block: |
+        A cold, clinical-looking man with a severe expression. He is clean-shaven and has short, neat hair. Wears a white lab coat. Stands with a rigid, authoritarian posture.
+      position: "Observing Alex with a look of triumph."
+      action: "He is demonstrating the success of the treatment to a group of government officials."
+  scene:
+    mainElements: "The unintended consequence of the Ludovico Technique. Alex's love for classical music, his one redeeming quality, has been turned into a source of torment."
+    details: "The room is filled with the glorious, transcendent music of Beethoven, but for Alex, it is a sound of pure horror. The musical notes are visualized as sharp, jagged shapes that are physically attacking him. The bust of Beethoven in his memory is cracking and crumbling."
+    background: "A group of government officials are watching the demonstration, their faces a mixture of awe and revulsion."
+    atmosphere: "A scene of profound tragedy and artistic desecration. The most beautiful art is being used as a tool of torture. Alex's soul is being destroyed."
+  composition:
+    cameraAngle: "A high angle shot, looking down on Alex as he writhes on the floor, emphasizing his helplessness and agony."
+    focus: "The visualized, jagged musical notes that are attacking Alex."
+    depth: "Foreground: Alex. Middle ground: Dr. Brodsky. Background: The government officials."

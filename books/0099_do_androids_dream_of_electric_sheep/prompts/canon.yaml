@@ -1,0 +1,179 @@
+canon:
+  characters:
+    - id: "rick_deckard"
+      name: "Rick Deckard"
+      description_block: |
+        characters:
+          - appearance: "Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker appearance, tired expression"
+            clothing: "Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside"
+            position: "Standing with slight wariness, hand near laser rifle holster"
+            action: "Moving cautiously through environment with professional detachment"
+    
+    - id: "john_isidore"
+      name: "John Isidore"
+      description_block: |
+        characters:
+          - appearance: "Young man in his 20s, thin build, nervous uncertain movements, marginalized appearance reflecting his status as 'special'"
+            clothing: "Simple work clothing, worn and mismatched garments"
+            position: "Seated or standing with hesitant posture in debris-filled surroundings"
+            action: "Carefully tending to empathy box or showing concern for others"
+    
+    - id: "rachael_rosen"
+      name: "Rachael Rosen"
+      description_block: |
+        characters:
+          - appearance: "Young woman around 18-20 years old, slim build, black hair, physically perfect android appearance"
+            clothing: "Long striped coat in bright colors, large protective goggles with dust filter, long artificial eyelashes"
+            position: "Standing with composed elegant posture"
+            action: "Moving with calculated grace and subtle manipulation in her gestures"
+    
+    - id: "pris_stratton"
+      name: "Pris Stratton"
+      description_block: |
+        characters:
+          - appearance: "Young woman around 18-20 years old, physically identical to Rachael but with more childlike or disheveled presentation"
+            clothing: "Casual unkempt clothing contrasting with Rachael's elegance, simple functional garments"
+            position: "Crouching or sitting in cluttered space"
+            action: "Examining small objects with cold curiosity or manipulating surroundings"
+    
+    - id: "roy_baty"
+      name: "Roy Baty"
+      description_block: |
+        characters:
+          - appearance: "Adult man in his 30s, dominant presence emanating intelligence and authority, calculated expression"
+            clothing: "Practical clothing with possible elements suggesting colonial background"
+            position: "Standing with commanding posture demonstrating leadership"
+            action: "Observing surroundings with strategic assessment and calculated movements"
+    
+    - id: "luba_luft"
+      name: "Luba Luft"
+      description_block: |
+        characters:
+          - appearance: "Adult woman in her late 20s, graceful artistic bearing befitting opera singer, refined features"
+            clothing: "Stage costume during performance or stylish coat in public spaces"
+            position: "Standing with elegant artistic poise or at opera hall stage"
+            action: "Performing with beautiful voice or moving with cultured artistic grace"
+    
+    - id: "iran_deckard"
+      name: "Iran Deckard"
+      description_block: |
+        characters:
+          - appearance: "Woman in her early 30s, gray joyless eyes reflecting chronic depression, tired appearance"
+            clothing: "Simple home clothing like robe or sleepwear"
+            position: "Sitting at bedside mood organ console or standing with resigned posture"
+            action: "Operating mood organ controls or moving with emotional exhaustion"
+    
+    - id: "phil_resch"
+      name: "Phil Resch"
+      description_block: |
+        characters:
+          - appearance: "Adult man in his 30s, harsh aggressive features more severe than Deckard"
+            clothing: "Similar bounty hunter attire to Deckard but more worn or military style"
+            position: "Standing with aggressive ready stance"
+            action: "Moving with cold precision and taking aim with calculated efficiency"
+  
+  locations:
+    - id: "san_francisco_exterior"
+      name: "Post-apocalyptic San Francisco"
+      description_block: |
+        setting:
+          location: "Post-nuclear war San Francisco with decaying brutalist conapt buildings under permanently gray radioactive dust-filled sky"
+        mainElements: "Towering half-abandoned residential complexes, empty streets covered in kipple debris, dim diffused sunlight through dust clouds"
+        atmosphere: "Overwhelming grayness with entropy, melancholy and abandonment, world without sharp shadows or bright colors"
+    
+    - id: "deckard_apartment"
+      name: "Deckard apartment interior"
+      description_block: |
+        setting:
+          location: "Spacious but sterile conapt apartment interior with 1960s aesthetic showing signs of neglect"
+        mainElements: "Penfield mood organ console beside bed, functional furniture, artificial lighting, stale cigarette scent"
+        atmosphere: "Emotional coldness, suppressed despair, tension between inhabitants, sterile domestic space"
+    
+    - id: "building_rooftop"
+      name: "Conapt building rooftop"
+      description_block: |
+        setting:
+          location: "Covered rooftop pasture area on top of residential building under gray sunless sky"
+        mainElements: "Fenced enclosure for animals, control panels hidden in synthetic animal wool, neighboring rooftops visible"
+        atmosphere: "Open space contrasting with claustrophobic interiors, hope and shame mingled, status anxiety"
+    
+    - id: "isidore_apartment"  
+      name: "John Isidore's apartment"
+      description_block: |
+        setting:
+          location: "Severely decayed apartment in almost completely empty conapt building on city periphery"
+        mainElements: "Piles of kipple in every corner, peeling plaster, broken appliances, dust accumulation"
+        atmosphere: "Extreme loneliness, decay, pathos, silence broken only by distant city sounds"
+    
+    - id: "rosen_association"
+      name: "Rosen Association headquarters"
+      description_block: |
+        setting:
+          location: "Clean minimalist corporate modernist building interior in Seattle"
+        mainElements: "Large empty spaces, corporate furniture, sterile white and metallic surfaces"
+        atmosphere: "Cold artificial perfection, hidden menace beneath elegant facade, corporate power"
+    
+    - id: "false_police_station"
+      name: "Android-operated false police station"
+      description_block: |
+        setting:
+          location: "Seemingly normal police office with subtle uncanny valley architectural elements too clean and symmetric"
+        mainElements: "Standard office furniture arranged too perfectly, fluorescent lighting without shadows, bureaucratic beige colors unnaturally pristine"
+        atmosphere: "Paranoia, disorientation, imprisonment, everything correct but subtly wrong"
+    
+    - id: "opera_house"
+      name: "San Francisco Opera House"
+      description_block: |
+        setting:
+          location: "Majestic but mostly empty opera house interior with ornate classical architecture"
+        mainElements: "Grand stage, empty audience seats, elaborate ceiling and architectural details, acoustic excellence"
+        atmosphere: "Cultural beauty contrasting with surrounding decay, artistic transcendence, haunting emptiness"
+    
+    - id: "oregon_wasteland"
+      name: "Radioactive Oregon desert wasteland"
+      description_block: |
+        setting:
+          location: "Vast barren rocky desert landscape covered in gray radioactive dust under same sunless sky"
+        mainElements: "Rocky hills for climbing, scattered stones, endless empty horizon, monochromatic terrain"
+        atmosphere: "Existential emptiness, spiritual trial, catharsis through solitude, universal desolation"
+  
+  items:
+    - id: "penfield_mood_organ"
+      name: "Penfield mood organ"
+      description_block: |
+        details: "Bedside console with 1960s retro-futuristic design featuring control knobs, numeric keypad for emotion selection, possibly glowing vacuum tubes or small display screen"
+    
+    - id: "empathy_box"
+      name: "Mercerian empathy box"
+      description_block: |
+        details: "Small black matte box with two worn metal handles, minimalist almost religious object appearance, small screen showing grainy projection of Mercer's climb"
+    
+    - id: "voigt_kampff_apparatus"
+      name: "Voigt-Kampff test equipment"
+      description_block: |
+        details: "Briefcase containing precise medical-looking instruments with light emitter goggles, pulse and skin response sensors, small monitor displaying reaction graphs"
+    
+    - id: "electric_sheep"
+      name: "Electric sheep"
+      description_block: |
+        details: "Hyperrealistic sheep replica with too-regular movements, hidden control panel concealed in synthetic wool, mechanical precision in grazing motions"
+    
+    - id: "electric_toad"
+      name: "Electric toad"
+      description_block: |
+        details: "Small artificial toad with lifelike appearance but subtle mechanical movements, representing final acceptance of artificial life"
+    
+    - id: "laser_rifle"
+      name: "Bounty hunter laser rifle" 
+      description_block: |
+        details: "Futuristic handheld energy weapon serving as standard sidearm for android hunters, sleek technological design"
+    
+    - id: "kipple"
+      name: "Kipple debris"
+      description_block: |
+        details: "Omnipresent accumulation of useless objects including old newspapers, broken appliances, gum wrappers, dust, representing universal entropy and decay"
+    
+    - id: "flying_car"
+      name: "Personal flying vehicle"
+      description_block: |
+        details: "Airborne personal transportation vehicle for navigating between city locations, primary travel method in post-apocalyptic world"

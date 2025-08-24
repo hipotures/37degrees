@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: Marlow's cabin on the steamboat, after Kurtz's death.
+    weather: The air is hot and still.
+  characters:
+  - appearance: Charles Marlow, 32, looking gaunt and feverish himself.
+    clothing: Simple sailor's clothes.
+    position: Sitting on his bunk, holding a small, framed photograph.
+    action: He is looking at the photograph of Kurtz's Intended, but the image is corrupted by his experiences.
+  scene:
+    mainElements: Marlow's struggle with the memory of Kurtz. The darkness has followed him back from the Inner Station.
+    details: The photograph is of a beautiful, sad-eyed woman. But as Marlow looks at it, her face seems to momentarily twist
+      into the skeletal visage of Kurtz. The glass of the photograph is cracked, and the crack resembles the winding course
+      of the Congo river. The shadows in the cabin seem to coalesce into a dark, vaguely human form that stands just behind
+      Marlow. no text or letters visible
+    background: The monotonous jungle landscape passing by the porthole.
+    atmosphere: A sense of haunting and psychological infection. The horror of the Inner Station is not a place, but a state
+      of mind that Marlow cannot escape. no text or letters visible
+  composition:
+    cameraAngle: Close-up on the photograph.
+    focus: The momentary, horrifying transformation of the Intended's face into Kurtz's.
+    depth: 'Foreground: the photograph. Middle ground: Marlow''s feverish face. Background: the dark, shadowy form that is
+      coalescing behind him.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

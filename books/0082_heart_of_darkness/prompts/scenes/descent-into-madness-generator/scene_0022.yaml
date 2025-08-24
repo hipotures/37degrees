@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Ivory Tower"
+  setting:
+    time: "A timeless, psychological space."
+    location: "A towering, skeletal structure in the heart of the vortex."
+    weather: "A perpetual, stormy twilight."
+  characters:
+    - appearance: "A skeletal, god-like figure of Kurtz."
+      clothing: "None."
+      position: "Seated on a throne of skulls at the top of the tower."
+      action: "He is laughing, a silent, skull-faced laugh that echoes through the chaos."
+  scene:
+    mainElements: "The final, triumphant image of Kurtz as the king of the darkness."
+    details: "The tower is made of yellowed, ancient ivory. It is a twisted, organic structure, like a great, dead tree. The skulls that form the throne are the skulls of all those who have been consumed by the darkness. The river of ink flows around the base of the tower. no text or letters visible"
+    background: "The swirling vortex of chaos."
+    atmosphere: "A scene of absolute, nihilistic horror. The ultimate triumph of the darkness. no text or letters visible"
+  composition:
+    cameraAngle: "A low-angle shot, looking up at the towering figure of Kurtz."
+    focus: "The silent, laughing skull of Kurtz."
+    depth: "Foreground: the river of ink. Middle ground: the ivory tower. Background: the swirling vortex."

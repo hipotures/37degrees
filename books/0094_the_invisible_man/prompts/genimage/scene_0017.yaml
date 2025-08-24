@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1896, midnight during crucial experiment (flashback)
+    location: Cramped boarding house room in London converted into makeshift chemical laboratory, shabby urban accommodation
+      repurposed for scientific work
+    weather: Still London night with thick fog outside windows
+  characters:
+  - appearance: Pale albino man in his late twenties, tall and broad-shouldered, height around six feet, with pale pink-white
+      complexion and distinctive red eyes, angular facial features
+    clothing: Simple dark woolen suit typical of poor university demonstrator, white cotton shirt, worn leather shoes, functional
+      garments showing signs of wear and financial constraint
+    position: Standing beside laboratory table having just consumed experimental formula
+    action: Beginning physical transformation as invisibility formula takes effect
+  scene:
+    mainElements: Numerous glass bottles and chemical apparatus cluttering every surface, scientific instruments improvised
+      from common materials, chemical stains on furniture
+    details: Subject's skin becoming translucent like frosted glass, underlying circulatory system briefly visible before
+      disappearing, clothing remaining solid while body fades, scientific process occurring exactly as theoretical predictions
+      suggested
+    background: Laboratory equipment recording transformation objectively, gas flame continuing to burn steadily, mechanical
+      clock marking precise time of change
+    atmosphere: Clinical documentation of unprecedented scientific breakthrough, transformation occurring according to natural
+      laws despite supernatural appearance
+  composition:
+    cameraAngle: Fixed position documenting transformation from neutral perspective
+    focus: Precise stages of invisibility transformation as scientific phenomenon
+    depth: Foreground shows transformation details, middle ground captures laboratory context, background provides temporal
+      reference points, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

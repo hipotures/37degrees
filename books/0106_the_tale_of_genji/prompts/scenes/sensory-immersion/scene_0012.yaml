@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wisteria Bloom Cloud"
+  setting:
+    time: "Late 10th century Japan, late spring during peak wisteria season"
+    location: "Aristocratic residential complex in Heian-kyō designed as idealized spring garden, beneath ancient wisteria arbor"
+    weather: "Warm spring day with gentle breezes moving through flowering vines"
+  characters:
+    - appearance: "Japanese imperial consort in her teens to thirties, bears striking resemblance to deceased Kiri-Tsubo, pale aristocratic features with powdered white face, blackened teeth, redrawn high eyebrows, long straight black hair"
+      clothing: "Imperial quality twelve-layer robes befitting emperor's consort, often incorporating wisteria motifs in subtle purples and whites, garments of highest silk quality with court-appropriate seasonal colors"
+      position: "Seated beneath flowering wisteria arbor on silk cushions, reading poetry scrolls"
+      action: "Breathing deeply while reading, looking up occasionally at flowers, brushing fallen petals from scroll surfaces"
+  scene:
+    mainElements: "Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees, plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream"
+    details: "Massive wisteria clusters hang like purple waterfalls overhead, thousands of tiny flowers create dense aromatic canopy, gentle breeze causes flower clusters to sway and release petals in purple snow showers, bees hover and dance among flowers in systematic patterns, fallen petals carpet ground in purple and white, honey-like fragrance suggested by bee activity and flower density, morning dew still visible on some flower clusters creating sparkle effect, no text or letters visible"
+    background: "Harmonious beauty representing eternal spring, gentle sounds of water and birds, sweet fragrance of blossoms, soft filtered light creating peaceful intimate mood"
+    atmosphere: "Overwhelming floral abundance suggesting intense sweet perfume, nature's aromatic cathedral created by flowering arbor, romantic solitude enhanced by flower-scented air"
+  composition:
+    cameraAngle: "Low angle looking up through flower canopy at seated figure"
+    focus: "Dense flower clusters and falling petal patterns suggesting aromatic intensity"
+    depth: "Hanging flower clusters in foreground, figure reading among petals in middle ground, spring garden extending beyond arbor in background"

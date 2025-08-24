@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy water pressure embracing body underwater in flooded shell crater"
+  setting:
+    time: "1917 late autumn afternoon, overcast sky"
+    location: "large water-filled shell crater in No Man's Land, rainwater and groundwater creating temporary pond, debris settled on muddy bottom"
+    weather: "recent heavy rains filled crater, continuing light drizzle creating ripples on surface"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "partially submerged in crater water, head just above surface, body supported by water density"
+      action: "floating in muddy water with arms spread wide, allowing water pressure to support body weight, eyes closed experiencing momentary weightlessness and peace"
+  scene:
+    mainElements: "large water-filled shell crater forming temporary pond, soldier floating peacefully despite muddy water, ripples from continuing drizzle creating concentric circles, submerged debris and equipment on crater bottom"
+    details: "water pressure creating visible support around soldier's body, uniform fabric flowing and billowing underwater like dark seaweed, boots heavy with water making feet sink while torso floats, hair flowing in water currents, water droplets from rain creating expanding ripple patterns across surface, uniform color darkened and changed by water saturation, mud particles suspended in water creating murky brown transparency, metal equipment creating small weight anchors underwater, no text or letters visible"
+    background: "crater rim scarred from explosion, more shell holes visible across battlefield, gray sky reflected in water surface broken by ripples"
+    atmosphere: "paradoxical peace and weightlessness found in destruction, water providing momentary escape from war's harsh realities, pressure and embrace offering comfort in devastated landscape"
+  composition:
+    cameraAngle: "slightly elevated angle showing soldier floating in crater with water surface creating frame"
+    focus: "soldier's peaceful expression and water's enveloping embrace around his body"
+    depth: "foreground shows water surface ripples and floating soldier, middle ground reveals crater walls, background extends to battlefield beyond"

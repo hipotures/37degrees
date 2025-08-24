@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: January 2021, morning
+    location: Post-nuclear war San Francisco with decaying brutalist conapt buildings under permanently gray radioactive dust-filled
+      sky
+    weather: Gray radioactive dust creating mysterious filtered light
+  characters:
+  - appearance: Small figure dwarfed by enormous adult environment, wide eyes reflecting wonder and fear
+    clothing: Oversized protective clothing against radiation, too large for small frame
+    position: Looking upward at towering world designed for giants
+    action: Navigating environment where everything appears magnified and threatening
+  scene:
+    mainElements: Towering half-abandoned residential complexes, empty streets covered in kipple debris, dim diffused sunlight
+      through dust clouds. Through child perspective, buildings become mountains reaching impossible heights, streets transform
+      into vast canyons between concrete cliffs
+    details: Every architectural element looms overhead like natural formations - doorways become cave entrances, windows
+      transform into watchful eyes in cliff faces, abandoned vehicles appear as giant sleeping beasts. Kipple debris creates
+      mysterious landscape of strange artifacts and hidden treasures. Adult protective equipment hangs loose and awkward,
+      emphasizing vulnerability in hostile environment. The gray dust makes everything appear magical and otherworldly rather
+      than merely polluted
+    background: Overwhelming grayness with entropy, melancholia and abandonment transformed into mystical landscape of wonder
+      and danger
+    atmosphere: World appearing larger, more magical and frightening than adult perspective. Every shadow holds potential
+      monsters, every sound suggests hidden giants, no text or letters visible
+  composition:
+    cameraAngle: Low angle from child's eye level making everything appear gigantic and imposing
+    focus: Towering architectural elements creating sense of overwhelming scale and mysterious grandeur
+    depth: Foreground shows small vulnerable figure in oversized world, middle ground captures imposing environmental features,
+      background extends into mysterious distances beyond child comprehension
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

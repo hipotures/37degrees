@@ -1,0 +1,33 @@
+sceneDescription:
+  title: "The Mock Hunt and the Merging of Forms"
+  setting:
+    time: "Mid-20th Century, evening"
+    location: "The beach, near a large bonfire."
+    weather: "The air is thick with smoke and the smell of roasting pig."
+  characters:
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Leading a ritualistic dance around the fire."
+      action: "He is chanting and brandishing his spear, his painted face demonic in the firelight."
+    - name: "Robert"
+      age: "around 11"
+      appearance: "One of the older boys, strong and athletic."
+      clothing: "Tattered shorts."
+      position: "In the center of the circle of dancers."
+      action: "He is playing the part of the pig in a mock hunt, but the game has become terrifyingly real. He is screaming in genuine pain and fear as the other boys jab him with their spears."
+  scene:
+    mainElements: "The boys are reenacting the pig hunt, a ritual that is spiraling out of control into real violence. The line between game and reality has been erased."
+    details: "As the dance becomes more frenzied, the forms of the boys begin to blur and merge. They are no longer individuals, but a single, monstrous entity of chanting, stamping feet, and jabbing spears. The firelight casts long, distorted shadows that dance with them. The jungle behind them seems to twist into a claustrophobic cage of writhing branches."
+    background: "The dark ocean and the night sky. The bonfire is the only source of light."
+    atmosphere: "A terrifying scene of mob mentality and bloodlust. The boys are losing their humanity, becoming a single, savage organism."
+  composition:
+    cameraAngle: "A chaotic, handheld shot that is right in the middle of the dance, capturing the confusion and terror of the scene."
+    focus: "The terrified face of Robert, who is trapped in the center of the frenzied circle."
+    depth: "Foreground: The blurred, dancing forms of the boys. Middle ground: Robert being tormented. Background: The bonfire and the dark jungle."

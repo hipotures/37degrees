@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Genly's Self-Image - Heroic Mission Bearer"
+  setting:
+    time: "1491 Ekumen calendar, late evening, interior lighting from single lamp"
+    location: "Small private room in Karhidish guest quarters, simple stone chamber with minimal furnishings"
+    weather: "Interior space, cold stone environment requiring heating"
+  characters:
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Simple indoor garments, lighter layers worn in private quarters, still maintaining dignity appropriate to diplomatic mission"
+      position: "Standing before small mirror or reflective surface, examining his own appearance"
+      action: "Studying his reflection while contemplating his mission and place on this alien world, adjusting clothing and posture to project authority and competence"
+  scene:
+    mainElements: "Sparse private chamber with single small mirror or polished metal surface, simple wooden furniture, personal belongings arranged to suggest temporary residence but maintained dignity"
+    details: "Reflection showing confident diplomatic bearing despite isolation, personal items from Ekumen suggesting technological and cultural superiority, simple oil lamp casting warm light that flatters features and suggests inner strength, shadows falling dramatically to emphasize heroic stature, no text or letters visible"
+    background: "Stone walls of guest quarters, narrow window showing glimpses of alien cityscape beyond, door leading to wider building suggesting connection to larger mission"
+    atmosphere: "Self-perception filtered through heroic mission narrative - reflection appears noble and purposeful, lighting emphasizes strength and determination, environment suggests temporary hardship endured for greater cause"
+  composition:
+    cameraAngle: "Slightly low angle emphasizing dignity and stature, including both figure and reflection"
+    focus: "Self-examination revealing inner confidence despite external challenges, heroic bearing maintained in private moment"
+    depth: "Foreground: reflection in mirror, middle: figure examining self, background: sparse but dignified living space suggesting sacrifice for duty"

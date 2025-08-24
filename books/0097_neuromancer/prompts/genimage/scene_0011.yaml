@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 2030s, late evening in street food district
+    location: narrow alley noodle stall in Chiba City, cramped cooking area with single burner and improvised seating
+    weather: cool humid air mixing with warm steam from cooking
+  characters:
+  - appearance: elderly Japanese vendor with weathered hands, wearing simple cooking attire, face showing years of street-level
+      entrepreneurship
+    clothing: stained apron over utilitarian work clothes, comfortable shoes for standing long hours, personal touches showing
+      individual personality
+    position: standing behind narrow counter, hands carefully arranging steaming bowl
+    action: placing freshly prepared noodle bowl on counter, allowing natural steam patterns to rise undisturbed into cool
+      night air
+  scene:
+    mainElements: large ceramic bowl filled with steaming noodles, visible steam clouds rising in complex spiral patterns,
+      narrow cooking area with single gas burner, condensation forming on nearby surfaces
+    details: steam rising in delicate spiral patterns showing heat release, moisture condensing on metal surfaces near cooking
+      area, warm vapors creating visible contrast with cool night air, broth surface showing gentle convection currents, ceramic
+      bowl radiating heat through surface, no text or letters visible
+    background: narrow alley walls creating enclosed cooking environment, neon signs creating colored light through rising
+      steam, other food stalls visible in distance
+    atmosphere: comforting warmth from cooking process contrasting with cool street environment, sensory suggestion of rich
+      broth and prepared food through visual steam patterns, intimate scale of street-level entrepreneurship
+  composition:
+    cameraAngle: close-up shot focusing on bowl with steam patterns rising upward
+    focus: steam spiral patterns making heat and aroma visible through vapor movement
+    depth: extreme foreground showing detailed steam patterns, middle ground featuring vendor and cooking area, background
+      revealing alley environment
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

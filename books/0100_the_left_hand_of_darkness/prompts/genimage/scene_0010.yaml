@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, late evening, reflected moonlight and indoor lamp
+    location: Private quarters in Orgoreyn exile, simple room with mirror or reflective surface
+    weather: Cold clear winter night, moonlight streaming through windows
+  characters:
+  - appearance: Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy
+      dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion
+    clothing: Simple exile garments but maintained with dignity, practical clothing suggesting preparedness for difficult
+      journey ahead
+    position: Standing before reflective surface, examining appearance in moonlight and lamplight
+    action: Studying reflection while contemplating burden of protecting both homeland and foreign ally from political catastrophe,
+      preparing mentally for dangerous rescue mission
+  scene:
+    mainElements: Simple room with mirror or polished metal surface, oil lamp creating warm interior light, moonlight through
+      window providing cold illumination, personal belongings suggesting temporary but dignified residence
+    details: Reflection showing calm determination despite political exile, features illuminated to suggest inner strength
+      and moral clarity, simple clothing emphasizing substance over appearance, shadows falling to create impression of depth
+      and complexity, no text or letters visible
+    background: Window showing moonlit foreign landscape, simple furniture suggesting acceptance of reduced circumstances
+      for higher purpose, writing materials and maps indicating continued engagement with political crisis
+    atmosphere: Self-perception as necessary guardian - reflection reveals person willing to sacrifice everything for greater
+      good, lighting emphasizes nobility of purpose despite personal cost
+  composition:
+    cameraAngle: Slightly elevated angle emphasizing dignity maintained despite exile, including both figure and reflection
+    focus: Self-examination revealing unwavering commitment to protecting others from political disaster transcending national
+      boundaries
+    depth: 'Foreground: reflection in mirror, middle: contemplative figure, background: moonlit window suggesting wider world
+      requiring protection'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

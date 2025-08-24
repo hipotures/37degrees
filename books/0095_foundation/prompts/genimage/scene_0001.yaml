@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, midday
+    location: orbital view of Trantor, central capital planet of Galactic Empire
+    weather: artificial atmospheric control visible as regulated cloud patterns
+  characters: No characters present in this scene
+  scene:
+    mainElements: Entire planetary surface covered in continuous metallic cityscape, multi-layered urban structures extending
+      from pole to pole, artificial atmospheric dome creating regulated weather patterns, massive orbital traffic of Imperial
+      vessels
+    details: Planet-wide ecumenopolis reflecting sunlight from countless metal surfaces, geometric grid patterns of streets
+      and structures visible from space, transport tubes snaking between levels, occasional green patches marking exclusive
+      Imperial preserves, spacecraft moving in organized traffic lanes around planet
+    background: Deep space filled with dense star field of galactic center, neighboring systems visible as bright points,
+      other Imperial worlds appearing as distant lights in cosmic infrastructure network
+    atmosphere: Overwhelming display of human dominance over nature, artificial world representing pinnacle of Imperial engineering,
+      sense of monumental scale suggesting both achievement and potential hubris
+  composition:
+    cameraAngle: orbital wide shot from space looking down at planet
+    focus: entire planet Trantor showing complete surface urbanization
+    depth: foreground with spacecraft, middle ground planet surface detail, background galactic center star density
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

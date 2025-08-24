@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, afternoon
+    location: A doctor's office in the same European city.
+    weather: The same overcast light as before.
+  characters:
+  - appearance: Charles Marlow, 32.
+    clothing: His shirt is unbuttoned for the examination.
+    position: Sitting on a stool.
+    action: Submitting to the doctor's strange examination with a sense of detached amusement.
+  - appearance: An old, sallow-faced doctor.
+    clothing: A dark, formal suit.
+    position: In front of Marlow.
+    action: Measuring Marlow's skull with a pair of calipers, his movements precise and clinical.
+  scene:
+    mainElements: The doctor's unsettling, pseudo-scientific examination. The focus is on the cold, clinical nature of the
+      process.
+    details: The doctor makes notes in a ledger, but the writing appears to be meaningless scribbles, almost like insects
+      crawling on the page. The reflection of the calipers in the doctor's spectacles is distorted, making them look like
+      the pincers of a beetle. no text or letters visible
+    background: Anatomical charts on the wall, but the figures are subtly wrong, with too many joints or misplaced organs.
+    atmosphere: A feeling of being categorized, dehumanized, and prepared for a journey from which one might not return unchanged.
+      A clinical, detached horror. no text or letters visible
+  composition:
+    cameraAngle: Close-up on the calipers as they measure Marlow's head.
+    focus: The cold, metallic glint of the calipers against Marlow's skin.
+    depth: 'Foreground: the calipers. Middle ground: the doctor''s impassive face. Background: the distorted anatomical charts.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

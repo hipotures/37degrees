@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 2030s, evening in luxury safe house
+    location: secure hideout combining old-world comfort with high-tech security, fireplace in room with cybernetics equipment
+    weather: controlled interior climate allowing comfortable fireplace use
+  characters:
+  - appearance: 24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet,
+      pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible
+      at temples
+    clothing: worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or
+      puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive
+      lifestyle
+    position: seated on floor near fireplace, neural interface cables coiled nearby
+    action: warming hands near crackling fire while steam from hot beverage rises nearby, creating multi-sensory comfort environment
+  scene:
+    mainElements: active fireplace with visible flames and glowing embers, neural interface cables reflecting firelight, steaming
+      mug on nearby surface, comfortable seating area combining old and new technology
+    details: flames creating dancing light patterns on walls and equipment, heat shimmer visible in air near fire, steam rising
+      from hot beverage in gentle spirals, neural cables catching and reflecting firelight, wood crackling sounds suggested
+      by visible spark patterns, cozy atmosphere contrasting with high-tech equipment, no text or letters visible
+    background: secure room with mixture of traditional comfort items and advanced technology, security monitors showing perimeter
+      views, other equipment powered down for rest period
+    atmosphere: synthesis of comfort and technology creating multi-sensory sanctuary, traditional warmth combined with digital
+      lifestyle necessities, temporary refuge allowing both physical and mental restoration
+  composition:
+    cameraAngle: medium shot showing figure, fire, and surrounding comfort elements
+    focus: firelight effects and steam patterns creating visual representation of warmth, sound, and scent
+    depth: foreground showing detailed fire and steam patterns, middle ground featuring figure in comfortable position, background
+      revealing secure room with mixed technologies
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

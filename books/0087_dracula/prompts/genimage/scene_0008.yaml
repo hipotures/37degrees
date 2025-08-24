@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, midday under thick cloud cover
+    location: English country churchyard with ancient stone church and surrounding headstones
+    weather: Heavy overcast sky creating flat, even lighting without shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Gray stone church with Norman architecture surrounded by weathered headstones under uniformly overcast sky.
+      Every surface evenly lit without shadows or bright highlights. Muted colors throughout scene
+    details: Stone church walls and carved details visible in soft, even light without harsh contrasts. Headstones showing
+      complete form without shadow definition. Grass and vegetation appearing rich in color despite gray light. Church windows
+      dark without sun reflection. Bell tower and architectural details clearly defined but flattened by diffuse lighting
+    background: Thick gray cloud cover creating uniform ceiling of soft light. Distant trees and hills visible but without
+      atmospheric perspective due to even lighting
+    atmosphere: Soft, contemplative mood created by gentle lighting. Colors rich but muted. Peaceful, meditative quality without
+      dramatic contrasts. Sense of time suspended under gray sky. Quieting effect of overcast conditions. No text or letters
+      visible
+  composition:
+    cameraAngle: Medium view of church and surrounding cemetery
+    focus: Stone church architecture emphasized by even lighting revealing all detail
+    depth: Foreground headstones, middle ground church structure, background overcast sky and distant landscape
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

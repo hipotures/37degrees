@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1897, during narrator's horrific observation of alien biology
+    location: Partially collapsed Victorian house in Sheen district, damaged by Martian cylinder landing, basement scullery
+      and pantry areas still intact but filled with rubble, small triangular opening in ruined wall providing view of Martian
+      crater
+    weather: Natural daylight filtering through triangular opening creating dramatic frame
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Crouched at triangular opening, forced to witness alien feeding process
+    action: Observing Martian biology with mixture of scientific fascination and moral horror
+  scene:
+    mainElements: Narrator's face and upper body framed by triangular opening in wall, beyond which alien feeding ritual is
+      visible
+    details: Triangular opening creating natural frame around narrator's horrified observation, view beyond showing Martian
+      biological processes that reduce humans to livestock, scientific curiosity warring with moral revulsion at witnessing
+      humanity's reduction to cattle status
+    background: Alien excavation beyond opening showing Martian feeding activities, humans reduced to biological resources
+      for alien consumption
+    atmosphere: Ultimate horror of species reduction - humans becoming mere food source for superior aliens, scientific observation
+      of own species' degradation to animal status
+  composition:
+    cameraAngle: Natural frame created by triangular opening containing narrator as unwilling witness
+    focus: Narrator's face showing horror and fascination at witnessing humanity's ultimate degradation, no text or letters
+      visible
+    depth: Foreground shows interior darkness and debris, middle ground frames narrator through triangular opening, background
+      reveals alien feeding area beyond frame
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Separate Locations - Powell's Technical Breakthrough"
+  setting:
+    time: "2015, morning after crisis"
+    location: "Powell's private quarters on Mercury base, away from partner"
+    weather: "Filtered artificial atmosphere, soft lighting for rest period"
+  characters:
+    - appearance: "Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne wąsy, spokojny i skoncentrowany wyraz twarzy"
+      clothing: "Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+      position: "Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym"
+      action: "Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny"
+  scene:
+    mainElements: "Small personal quarters with technical manuals, notebook filled with calculations, empty coffee cup, personal tablet showing robot behavioral analysis"
+    details: "Powell working alone on robot psychology theory, charts and diagrams scattered across small desk, the eureka moment visible in his expression"
+    background: "Cramped base quarters with minimal personal items, porthole showing Mercury's harsh surface, distant communication panels connecting to Earth"
+    atmosphere: "Intellectual satisfaction and scientific breakthrough in isolation. The confined space emphasizes the mental expansion happening within it"
+  composition:
+    cameraAngle: "Medium shot capturing Powell's moment of understanding"
+    focus: "The solitary scientist achieving breakthrough without colleagues present"
+    depth: "Foreground shows personal achievement, middle ground the cramped work environment, background the hostile world that demanded this solution"

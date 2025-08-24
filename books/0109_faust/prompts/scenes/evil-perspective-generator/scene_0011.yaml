@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Enabler's Greed - Exploiting Human Weakness"
+  setting:
+    time: "16th century, evening in neighbor's garden"
+    location: "Small garden behind townhouse with flowering plants and simple wooden benches, separated by low fence from Margarete's property"
+    weather: "Warm summer evening with golden light fading to dusk"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Scarlet red dublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather"
+      position: "Sitting on garden bench beside Martha, leaning in conspiratorially"
+      action: "Charming Martha with false stories about her husband's death while simultaneously arranging Faust's access to Margarete"
+  scene:
+    mainElements: "Middle-aged widow around 40-50 years old, energetic, somewhat stocky. Lively expression, prone to gossip and affectation. Worldly woman seeking new husband. Widow's attire but with certain elements suggesting desire to attract attention like colorful trim or excess jewelry betraying her pragmatic desire to remarry."
+    details: "Mephistopheles manipulates Martha's loneliness and greed with masterful precision, offering fabricated news of her husband's death and hints of his own availability. This demonstrates his keen understanding of human psychology - every person has exploitable weakness, Martha's being her desperate need for male companionship and financial security"
+    background: "Garden setting with flowers and plants representing natural beauty being corrupted by human scheming, house windows suggesting privacy for intimate conversations"
+    atmosphere: "Superficial charm masking calculated manipulation. Mephistopheles operates like skilled confidence artist, reading Martha's desires and feeding them false hope while advancing his own agenda"
+  composition:
+    cameraAngle: "Medium shot emphasizing intimate conversation while showing garden setting"
+    focus: "Mephistopheles' charming expression contrasted with Martha's eager, hopeful face"
+    depth: "Foreground: Intimate conversation between two figures. Middle ground: Garden flowers and benches. Background: Houses suggesting domestic life being manipulated"

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1780s-1790s, compressed timeline showing years of consequences
+    location: Multiple locations across Europe showing trail of destruction
+    weather: Changing seasons compressed into single view of time's passage
+  characters:
+  - appearance: Victor shown aging rapidly from young ambitious student to haggard tormented man, physical deterioration marking
+      passage of years and accumulating guilt
+    clothing: Clothing changing from fine student attire to travel-worn garments to Arctic expedition gear showing progression
+      of pursuit
+    posture: Posture transforming from confident youth to nervous guilt to desperate determination, showing physical toll
+      of years of torment
+    action: Accelerated sequence of creation, flight, pursuit, and final exhaustion across years of consequences
+  - appearance: Creature shown developing from confused newborn consciousness to articulate but vengeful being, unchanging
+      physical form contrasting with emotional evolution
+    clothing: Garments changing from laboratory rags to scavenged clothing to Arctic gear, showing adaptation and learning
+    posture: Evolution from confusion to determined vengeance, movements becoming more purposeful and calculated
+    action: Learning, observing, killing, pursuing in compressed sequence showing development from innocent to avenger
+  scene:
+    mainElements: Time-compressed montage showing creation's laboratory transforming to multiple murder scenes across Europe,
+      ending in Arctic wasteland, with seasons and years flowing like accelerated stream
+    details: Laboratory apparatus dissolving into courtroom scenes, peaceful Geneva homes transforming into sites of tragedy,
+      multiple grave markers appearing in sequence showing mounting death toll, Victor's notebooks scattered across changing
+      landscapes, creature's massive footprints appearing in different seasons and locations, family portraits showing faces
+      of victims accumulating like fallen leaves, seasons cycling rapidly from creation's autumn through multiple winters
+      to final Arctic spring, evidence of supernatural strength appearing at crime scenes across Europe, innocent lives destroyed
+      in accelerated sequence without graphic violence, no text or letters visible
+    background: European landscape changing with seasons and years, showing geographic scope of tragedy from Bavaria to Scotland
+      to Arctic
+    atmosphere: Relentless passage of time revealing inevitable consequences of transgression against natural law, accelerated
+      tragedy showing how single act of creation spawns years of destruction
+  composition:
+    cameraAngle: Time-lapse perspective revealing compressed timeline of cause and effect
+    focus: Accelerated consequences flowing inevitably from single moment of transgression
+    depth: Foreground shows rapid progression of tragic events, middle ground captures geographic spread of consequences,
+      background reveals time itself as witness to inevitable tragedy
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

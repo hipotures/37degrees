@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1880s afternoon, scholarly discussion hour
+    location: Lanyon's medical study, seen as theater of intellectual discourse
+    weather: Clear daylight through tall windows, comfortable indoor temperature
+  characters:
+  - appearance: Robust gentleman 50-60 years old, initially hearty red-faced complexion, graying hair
+    clothing: Respectable physician's attire - dark formal coat and waistcoat, more conservative than Jekyll's style
+    position: Seated behind impressive desk, surrounded by conventional medical texts
+    action: Gesturing with animated discussion, defending traditional scientific methods with passionate conviction
+  scene:
+    mainElements: Lanyon's study appears as museum of conventional wisdom - orderly shelves of traditional medical texts,
+      scientific instruments of accepted practice, everything representing established knowledge
+    details: Room reflects Lanyon's admirable but limited intellectual boundaries - diplomas from respected institutions,
+      journals of mainstream medicine, microscopes and scales of conventional analysis, all suggesting brilliant mind constrained
+      by orthodox thinking
+    background: Medical library represents vast repository of accepted knowledge, conservative furniture suggests resistance
+      to innovation, traditional scientific apparatus indicates dedication to proven methods
+    atmosphere: Warm admiration mixed with gentle frustration at intellectual limitations, bright daylight emphasizing clarity
+      of conventional thinking while casting shadows on unexplored possibilities, sense of affectionate disagreement between
+      brilliant colleagues, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from Jekyll's perspective, viewing Lanyon with mixture of respect and gentle condescension
+    focus: Lanyon's passionate defense of conventional medicine, seen as both admirable and sadly restrictive
+    depth: Foreground shows Lanyon's animated scholarly discourse, middle ground reveals impressive but conservative medical
+      library, background suggests boundaries of traditional scientific thinking
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

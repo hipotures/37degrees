@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Contrasting living quarters showing Imperial luxury versus Foundation practicality"
+  setting:
+    time: "Galactic Standard Era 12000s, residential evening period"
+    location: "split perspective showing Imperial elite quarters on Trantor and Foundation colonist housing on Terminus"
+    weather: "artificial climate control on Trantor, natural evening atmosphere on Terminus"
+  characters:
+    - appearance: "Imperial elite in expensive clothing showing wealth and status, Foundation families in practical attire emphasizing comfort and function"
+      clothing: "Imperial side: elaborate robes with rare materials and decorative elements, Foundation side: simple comfortable clothing made from local textiles"
+      position: "Imperial figures in formal poses within luxury surroundings, Foundation families in relaxed natural arrangements"
+      action: "Imperial elite engaged in formal leisure activities, Foundation families sharing meals and practical conversation"
+  scene:
+    mainElements: "stark visual comparison between Imperial opulence and Foundation pragmatism in living arrangements, contrasting approaches to personal comfort and social organization"
+    details: "Imperial side: ornate furniture with precious materials, decorative art objects from across galaxy, automated luxury services, artificial entertainment systems, formal dining arrangements with imported delicacies; Foundation side: well-designed functional furniture made from local materials, handmade items showing personal craftsmanship, efficient use of space, shared community resources, meals featuring local ingredients prepared simply but nutritiously"
+    background: "Imperial side: vast private chambers with excessive space, Foundation side: efficient compact housing designed for community living, windows showing respective planetary environments"
+    atmosphere: "fundamental contrast between societies based on hierarchy and consumption versus equality and production, visual demonstration of different approaches to human civilization and social organization"
+  composition:
+    cameraAngle: "split screen or transitional perspective showing both living environments"
+    focus: "social hierarchy differences expressed through material culture and living arrangements"
+    depth: "foreground personal and family details, middle ground living space organization, background societal infrastructure"

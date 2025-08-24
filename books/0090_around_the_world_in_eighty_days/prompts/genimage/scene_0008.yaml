@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, late afternoon
+    location: Dense tropical jungle in British India between railway stations, heart of wilderness
+    weather: Humid tropical atmosphere with filtered sunlight through canopy
+  characters: No characters present in this scene
+  scene:
+    mainElements: Impenetrable tropical rainforest with towering trees creating thick canopy, tangled lianas and dense undergrowth
+      blocking passage, mysterious ancient ruins partially hidden in vegetation suggesting forgotten civilizations
+    details: Massive tree trunks covered in climbing vines and epiphytes, exotic flowering plants in brilliant reds and oranges,
+      filtered sunlight creating dramatic beams through forest canopy, hidden stone structures with carved details showing
+      ancient Indian architecture, bird calls and unseen animal sounds suggesting rich wildlife, humid air visible as slight
+      haze, fallen logs and decomposing vegetation showing natural cycles, narrow animal paths hinting at hidden passages
+      through jungle, butterfly clouds and insects adding movement and life
+    background: Forest extending endlessly in all directions, canopy creating green ceiling, distant glimpses of sky through
+      openings
+    atmosphere: Mysterious primeval nature resistant to colonial control, sense of ancient secrets and hidden dangers, humid
+      oppressive feeling contrasting with ordered civilization
+  composition:
+    cameraAngle: Ground-level view looking up through forest layers toward canopy
+    focus: Ancient carved stones emerging from jungle growth as symbol of nature reclaiming civilization
+    depth: Dense undergrowth in immediate foreground, tree trunks and ruins in middle distance, canopy creating mysterious
+      ceiling
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

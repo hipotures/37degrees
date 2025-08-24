@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "High Angle - Draupadi's Vulnerability and Dignity"
+  setting:
+    time: "1000-800 BCE, midday"
+    location: "Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth"
+    weather: "Harsh overhead lighting"
+  characters:
+    - appearance: "Female, 20 years old, zgrabna budowa z talią jak ołtarz ofiarny, długie czarnoniebieskie kręcone włosy, duże czarne oczy jak płatki lotosu, ciemna śniada karnacja"
+      clothing: "Single torn garment, hair disheveled from assault, surrounded by growing mountain of divine cloth"
+      position: "Center of assembly hall surrounded by infinite expanding sari"
+      action: "Ciało emanuje zapachem błękitnego lotosu, twarz wyrażająca szeroką gamę emocji od miłości przez gniew po determinację"
+  scene:
+    mainElements: "Bird's eye view of assembly hall showing Draupadi surrounded by ever-expanding circle of divine cloth, courtiers backing away in amazement and fear"
+    details: "Infinite sari growing in concentric circles around central figure, different colored fabrics creating mandala pattern, divine miracle expanding outward, lotus scent rising through hall, no text or letters visible"
+    background: "Assembly hall architecture viewed from above showing geometric patterns of pillars, courtiers arranged in formal rows now disrupted by miracle"
+    atmosphere: "Divine intervention protecting feminine dignity through impossible miracle, gasps of amazement echoing through hall, supernatural protection manifesting"
+  composition:
+    cameraAngle: "High angle showing vulnerable figure protected by expanding divine intervention"
+    focus: "Contrast between human vulnerability and divine protection creating expanding sacred space"
+    depth: "Foreground assembly hall floor and expanding cloth, middle ground central protected figure, background retreating crowd and architecture, no text or letters visible"

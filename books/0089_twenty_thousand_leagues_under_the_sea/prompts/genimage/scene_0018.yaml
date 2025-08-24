@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1866, afternoon with brilliant filtered sunlight illuminating virgin waters
+    location: Remote ocean region never before explored by human vessels
+    weather: Perfect underwater visibility with gentle currents and ideal marine conditions
+  characters: No characters present in this scene
+  scene:
+    mainElements: Untouched underwater paradise featuring pristine coral reefs in impossible colors, crystal-clear water revealing
+      every detail of the seafloor, and marine life existing in perfect natural balance. This represents the ocean as it existed
+      before human interference - a world of unimaginable beauty and complexity.
+    details: Coral formations in brilliant reds, oranges, purples, and yellows create underwater gardens of stunning beauty.
+      Fish species never catalogued by science display exotic colors and forms. The water clarity allows visibility for hundreds
+      of meters, revealing underwater mountains, valleys, and plains in perfect preservation. No pollution, no human debris
+      - only pure natural marine ecosystem.
+    background: The pristine underwater landscape extends to the horizon, representing the vast majority of Earth's oceans
+      that remain unexplored and untouched by human activity.
+    atmosphere: Primordial paradise and natural perfection. This represents the Earth's true face beneath the ocean surface
+      - a world of beauty and complexity that exists independent of human civilization and reveals what we stand to lose through
+      environmental destruction.
+  composition:
+    cameraAngle: Panoramic view showcasing the vast scale and pristine beauty of the untouched marine environment
+    focus: The perfect natural harmony of the underwater ecosystem in its virgin state
+    depth: Foreground shows detailed coral formations and marine life, middle ground features the pristine underwater landscape,
+      background extends to untouched ocean wilderness
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

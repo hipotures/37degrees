@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Laboratory Before and After - Invention's Evolution"
+  setting:
+    time: "1895, late evening transitioning across decades"
+    location: "Victorian scientist's workshop laboratory in Richmond house"
+    weather: "Clear night with moonlight streaming through skylight"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Split composition showing same laboratory workspace across temporal divide - left side pristine 1895 with organized tools and fresh blueprints, right side decades later with dust-covered surfaces and aging equipment"
+    details: "Victorian scientific instruments of brass and ivory gleaming new on left, same instruments tarnished and worn on right. Fresh technical drawings curl with age, oil lamps replaced by electric fixtures, workbench wood darkened with use and time. Prototype time machine components evolve from scattered parts to assembled device, showing progression of invention. Skylight glass reveals different seasons - spring moonlight versus autumn stars"
+    background: "Brick walls show accumulation of soot and age, tool racks fill and empty with temporal changes, scientific books multiply and yellow with time"
+    atmosphere: "Intellectual passion crystallized in time, showing how ideas transform space and objects across years, sense of scientific progress measured in worn surfaces and evolved designs, no text or letters visible"
+  composition:
+    cameraAngle: "Medium wide shot at bench height, horizontal split composition"
+    focus: "Central workbench where time machine components show clear temporal evolution"
+    depth: "Foreground workbenches sharp, middle ground tools and blueprints, background shelving fades into shadow showing accumulation of years"

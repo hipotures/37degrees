@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Destruction and Creation - The Laboratory After Herbie"
+  setting:
+    time: "2021, early morning after robot destruction"
+    location: "U.S. Robots laboratory where Herbie was destroyed"
+    weather: "Dawn light filtering through laboratory windows"
+  characters:
+    - appearance: "Maintenance robot clearing away the remains of destroyed telepathic unit"
+      clothing: "Standard industrial robot design without coverings"
+      position: "Methodically removing components and cleaning workspace"
+      action: "Disposing of Herbie's remains with mechanical efficiency"
+    - appearance: "Laboratory technician documenting the incident for company records"
+      clothing: "White lab coat over standard work attire"
+      position: "Standing at distance, taking notes on clipboard"
+      action: "Recording details of robot destruction for official report"
+  scene:
+    mainElements: "Empty laboratory table where Herbie sat, scattered electronic components being cleared away, official incident forms being completed"
+    details: "Scorch marks on table surface from robot's final system failure, books Herbie was reading now boxed for analysis, sterile cleanup erasing all trace of the telepath"
+    background: "Dawn light revealing the aftermath of psychological warfare, other robots continuing normal operations unaware of their colleague's destruction"
+    atmosphere: "Clinical aftermath of intellectual murder. The methodical cleanup contrasts with the emotional violence of the previous night's confrontation"
+  composition:
+    cameraAngle: "Wide shot showing the empty space where dramatic confrontation occurred"
+    focus: "The systematic erasure of evidence from robot's destruction"
+    depth: "Foreground shows mechanical cleanup, middle ground the scene of crime, background the institutional machinery that enables such acts"

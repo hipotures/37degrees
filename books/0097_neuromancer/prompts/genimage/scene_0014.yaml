@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 2030s, late afternoon with sun entering through window
+    location: abandoned library section in Villa Straylight, filled with ancient books and manuscripts
+    weather: still air inside climate-controlled environment
+  characters:
+  - appearance: young woman in early twenties with aristocratic bearing, clone-perfect features showing signs of genetic optimization,
+      pale translucent skin from artificial environment living, ice-cold beauty that suggests centuries of refined breeding,
+      eyes holding ancient weariness despite youthful face
+    clothing: avant-garde garments mixing historical periods and futuristic design, rich fabrics in deep colors, unique pieces
+      from private collections, clothing reflecting access to unlimited resources and contempt for conventional fashion
+    position: seated in antique chair, surrounded by towers of leather-bound books
+    action: opening ancient leather-bound book, releasing cloud of dust particles into shaft of afternoon light
+  scene:
+    mainElements: massive library with floor-to-ceiling bookshelves, single beam of sunlight entering through high window,
+      thousands of dust particles made visible in light shaft, figure surrounded by accumulated knowledge
+    details: dust particles swirling in complex patterns within light beam, aged leather bindings releasing microscopic particles
+      when disturbed, light beam creating natural spotlight effect, motes dancing in slow air currents, paper fragments and
+      binding dust creating visible atmosphere, no text or letters visible
+    background: endless rows of bookshelves extending into shadows, gothic architecture with high ceilings, accumulated artifacts
+      of centuries of collecting
+    atmosphere: reverent quiet of accumulated knowledge mixed with decay, sensory suggestion of old paper and leather bindings
+      through visible dust patterns, weight of history made tangible through atmospheric particles
+  composition:
+    cameraAngle: medium shot showing figure in light beam surrounded by dancing dust particles
+    focus: dust particles in sunlight shaft making book scents visible through atmospheric movement
+    depth: foreground showing detailed dust particle behavior in light, middle ground featuring figure opening book, background
+      revealing vast library extending into shadows
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

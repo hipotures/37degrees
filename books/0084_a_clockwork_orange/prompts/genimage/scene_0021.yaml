@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: N/A
+    location: A symbolic, abstract landscape.
+    weather: N/A
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is depicted in a stylized, graphic manner, forming one half of
+      a yin and yang symbol with the writer.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+    position: In a circular composition.
+    action: He is locked in a perpetual struggle with the writer, each one defining
+      the other.
+  - appearance: A middle-aged writer with a thoughtful, intellectual face. Dresses
+      in comfortable, academic-style clothing. He is depicted in a stylized, graphic
+      manner, forming the other half of a yin and yang symbol with Alex.
+    clothing: He wears glasses and has graying hair.
+    position: In a circular composition.
+    action: He is locked in a perpetual struggle with Alex, each one defining the
+      other.
+  scene:
+    mainElements: A visual representation of the symbiotic relationship between Alex
+      and the writer. They are two sides of the same coin, violence and intellect,
+      chaos and order. Neither can exist without the other.
+    details: The two figures are depicted in a stylized, graphic manner, their bodies
+      forming the two halves of a yin and yang symbol. The background is a neutral
+      grey, emphasizing the balance between the two opposing forces.
+    background: N/A
+    atmosphere: A scene of philosophical balance and interdependence. The scene suggests
+      that good and evil are not separate entities, but two aspects of a single, unified
+      whole.
+  composition:
+    cameraAngle: A straight-on, symmetrical shot that emphasizes the balance and harmony
+      of the composition.
+    focus: The point where the two figures meet, the line that both separates and
+      joins them.
+    depth: The scene is flat and two-dimensional, like a graphic design.
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

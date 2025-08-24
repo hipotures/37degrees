@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Frozen Moment - Time Traveller's Departure Suspended"
+  setting:
+    time: "1895, single instant stretched across eternity"
+    location: "Victorian laboratory at exact moment of time machine activation"
+    weather: "Interior laboratory lighting frozen in temporal suspension"
+  characters:
+    - appearance: "British gentleman, 38-40 years old, average height, intellectual build, pale complexion with tendency to flush when excited, sharp grey eyes that gleam with intelligence, dark hair with first touches of grey at temples"
+      clothing: "Practical dark tweed three-piece suit with high starched collar for laboratory work, smoking jacket for home comfort"
+      position: "Seated on time machine, hand reaching toward control lever, entire figure suspended in crystal clarity"
+      action: "Caught in exact moment between decision and action, face showing mix of excitement and apprehension, every detail of gesture frozen in perfect clarity"
+  scene:
+    mainElements: "Single moment of time machine activation frozen while world continues around it. Time Traveller suspended in crystal clarity while workshop shows motion blur of continuing time - tools falling, papers scattering, dust motes caught in sunbeam paths"
+    details: "Machine glows with temporal energy field, brass components gleaming with supernatural clarity. Workshop shows temporal distortion - some objects frozen sharp while others blur with movement, creating surreal mixture of stillness and motion. Light rays visible as solid golden bars, dust particles suspended like stars"
+    background: "Laboratory walls ripple with temporal distortions, windows show street life continuing normally while interior exists in temporal suspension"
+    atmosphere: "Dramatic tension of crucial moment extended infinitely, beauty of single instant given eternal significance, time as malleable rather than fixed, anticipation crystallized into art, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing time traveller's suspended action"
+    focus: "Time machine and operator in perfect temporal suspension"
+    depth: "Crystalline clear machine and figure in foreground, motion-blurred workshop in middle ground, rippling temporal walls in background"

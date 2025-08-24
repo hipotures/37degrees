@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Return to the River"
+  setting:
+    time: "Late 19th Century, dusk"
+    location: "The deck of the Nellie, on the River Thames."
+    weather: "The sun has set, and the sky is a dark, brooding purple."
+  characters:
+    - appearance: "An older Charles Marlow."
+      clothing: "Simple sailor's clothes."
+      position: "Sitting in his characteristic Buddha-like pose."
+      action: "He has finished his story. His face is impassive, but his eyes reflect the deep, unending darkness of the river."
+  scene:
+    mainElements: "The end of Marlow's story. The frame narrative returns, but the atmosphere has been forever changed by the tale that has been told."
+    details: "The River Thames, which at the start of the story seemed a symbol of civilization and commerce, now seems as dark and menacing as the Congo. The lights of London are a feeble, insignificant flicker against the vast, oppressive darkness. The river itself seems to be a living entity, a great, dark artery leading to the heart of an immense darkness. no text or letters visible"
+    background: "The dark, brooding sky."
+    atmosphere: "A sense of profound, philosophical gloom. The darkness is not just in the jungle, but everywhere, at the heart of civilization itself. The story has not brought enlightenment, but a deeper, more terrifying understanding of the world. no text or letters visible"
+  composition:
+    cameraAngle: "A wide shot, showing the small yacht on the vast, dark river."
+    focus: "The way the dark, oily water of the Thames seems to merge with the dark, brooding sky, creating a single, unified field of darkness."
+    depth: "Foreground: the figures of the men on the yacht, small and insignificant. Background: the vast, dark expanse of the river and the sky."

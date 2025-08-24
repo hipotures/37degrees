@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hidden Elements - Behind Locked Doors"
+  setting:
+    time: "March 1897, evening during secret conference"
+    location: "Back room of Port Burdock inn where authorities plan response to invisible threat"
+    weather: "Rainy evening with water streaming down windows"
+  characters:
+    - appearance: "Local police inspector with serious demeanor, military bearing"
+      clothing: "Dark police uniform with brass buttons, peaked cap on table"
+      position: "Leaning over table covered with maps and documents"
+      action: "Pointing at locations on map while discussing strategy"
+    - appearance: "Town officials and concerned citizens gathered for emergency meeting"
+      clothing: "Mix of formal suits and official uniforms"
+      position: "Seated around table in tense discussion"
+      action: "Studying documents and maps while planning community response"
+  scene:
+    mainElements: "Maps of local area spread across table showing planned search routes, documents describing previous encounters, oil lamps providing dramatic lighting for secret conference"
+    details: "Pinned locations marking invisible man sightings, sketched patrol routes, concerned expressions reflecting gravity of situation, windows revealing stormy night outside"
+    background: "Inn back room with heavy curtains drawn for privacy, muffled sounds of normal evening activity from main bar, sense of official secrecy"
+    atmosphere: "Organized community response to supernatural threat, authority attempting to apply rational methods to irrational problem, hidden planning revealing community fear"
+  composition:
+    cameraAngle: "Overhead angle looking down at conference table"
+    focus: "Maps and documents showing organized response to invisible threat"
+    depth: "Foreground shows detailed planning materials, middle ground captures intense discussion, background reveals private meeting space, no text or letters visible"

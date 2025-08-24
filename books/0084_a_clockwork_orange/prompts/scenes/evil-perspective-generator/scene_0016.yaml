@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Two Alexes and the Duality of Man"
+  setting:
+    time: "Near future"
+    location: "A split screen."
+    weather: "N/A"
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. The two versions of Alex represent the violent predator and the helpless victim - two different people, or two sides of the same coin.
+      position: "The two versions of Alex are shown side-by-side."
+      action: "The two Alexes are looking at each other, a look of mutual hatred and incomprehension in their eyes."
+  scene:
+    mainElements: "A visual representation of the two sides of Alex's nature. The scene explores the question of whether the violent predator and the helpless victim are two different people, or two sides of the same coin."
+    details: "The background on the left side of the screen is dark and chaotic, representing Alex's life of crime. The background on the right side is sterile and white, representing the clinical horror of the Ludovico Technique."
+    background: "N/A"
+    atmosphere: "A scene of profound psychological dissonance. The two versions of Alex are irreconcilable, yet they are both him. The scene raises questions about the nature of identity and the meaning of self."
+  composition:
+    cameraAngle: "A straight-on shot that shows the two Alexes in perfect symmetry."
+    focus: "The look of mutual incomprehension in the eyes of the two Alexes."
+    depth: "The scene is flat, with the two Alexes existing in their own separate, two-dimensional worlds."

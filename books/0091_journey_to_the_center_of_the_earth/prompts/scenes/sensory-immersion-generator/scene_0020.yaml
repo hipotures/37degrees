@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Complex Mineral Flavors of Underground Lake"
+  setting:
+    time: "1863, timeless underground"
+    location: "Vast underground ocean within gigantic cavern system, prehistoric marine environment lit by electrical phenomena"
+    weather: "Humid prehistoric atmosphere with complex chemical composition"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+  scene:
+    mainElements: "Endless expanse of dark water stretching to invisible horizons, sandy beaches littered with fossilized bones and shells, towering mushroom forest nearby"
+    details: "Cupped hands bringing underground sea water to lips for cautious tasting, facial expressions showing complex reaction to mineral-rich prehistoric water, tongues testing unfamiliar salt and mineral combinations, visible contemplation of unusual flavor profiles, water drops creating ripples suggesting density different from surface water, prehistoric salt deposits crystallizing on lips and fingers, taste-testing gestures showing scientific curiosity mixed with caution, lamp flame reflecting off water surface suggesting chemical complexity, no text or letters visible"
+    background: "Unearthly illumination from electrical aurora on cavern ceiling, profound silence broken by lapping waves, sense of primordial world untouched by surface time"
+    atmosphere: "Ancient flavors from prehistoric ocean providing complex taste experience mixing scientific curiosity with primordial sensations"
+  composition:
+    cameraAngle: "Close-up on faces showing complex taste analysis"
+    focus: "Thoughtful tasting expressions and water interaction"
+    depth: "Foreground shows tasting action and analysis, middle ground captures water surface, background reveals prehistoric environment"

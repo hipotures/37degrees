@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Diamond Valley Guarded by Serpents"
+  setting:
+    time: "Midday, fantastical mountain valley"
+    location: "Inaccessible deep rocky gorge with diamond-covered floor guarded by giant serpents in remote mountain range"
+    weather: "Harsh mountain sunlight creating brilliant diamond reflections"
+  characters:
+    - appearance: "Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long white beard, face marked by adventure and wisdom, alert eyes scanning horizon"
+      clothing: "Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with purse"
+      position: "Confident stance of experienced sailor, hands often gesturing as if describing vast distances"
+      action: "Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully"
+  scene:
+    mainElements: "Deep rocky gorge with steep cliff walls, valley floor covered with countless diamonds sparkling in sunlight, enormous serpents coiled among precious stones, inaccessible location"
+    details: "Diamonds of every size scattered across valley floor like fallen stars, massive serpents with scales gleaming like jewels, sheer rock walls preventing escape, gigantic snake heads raised menacingly, precious stones reflecting sunlight in brilliant flashes, serpent eyes glowing with predatory intelligence, no text or letters visible"
+    background: "Towering cliff faces rising to impossible heights, mountain peaks surrounding valley, harsh blue sky overhead, giant bird nests visible on highest crags"
+    atmosphere: "Majestic yet terrifying with serpent presence, impossible wealth guarded by deadly creatures, harsh mountain air, sound of serpents sliding over stone and diamonds, beauty and terror combined in supernatural setting"
+  composition:
+    cameraAngle: "High angle showing both treasure and danger in valley below"
+    focus: "Human figure confronting impossible choice between wealth and survival"
+    depth: "Valley floor with diamonds and serpents in foreground, cliff walls in middle ground, mountain sky in background"

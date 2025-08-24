@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Two Perspectives and the Subjectivity of Morality"
+  setting:
+    time: "Near future, daytime"
+    location: "A split screen."
+    weather: "N/A"
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Two versions of Alex are shown side-by-side, depicting the same event from two different perspectives.
+      position: "The two versions of Alex are shown side-by-side."
+      action: "The scene depicts the same event - the Ludovico Technique - from two different perspectives."
+  scene:
+    mainElements: "A visual representation of the subjective nature of morality. The scene shows how the same event can be interpreted in two completely different ways, depending on your point of view."
+    details: "On the left side of the screen, the Ludovico Technique is depicted as a form of state-sponsored torture, a violation of individual freedom. On the right side, it is depicted as a necessary evil, a legitimate tool for protecting society from dangerous criminals."
+    background: "N/A"
+    atmosphere: "A scene of moral ambiguity and philosophical complexity. The scene does not offer any easy answers, but instead forces the viewer to confront the difficult question of what is right and what is wrong."
+  composition:
+    cameraAngle: "A straight-on shot that shows the two scenes in perfect symmetry."
+    focus: "The stark contrast between the two depictions of the same event."
+    depth: "The scene is flat, with the two scenes existing in their own separate, two-dimensional worlds."

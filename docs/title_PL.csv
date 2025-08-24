@@ -1,0 +1,119 @@
+,author,title,title_pl
+37,Homer,Iliad,Iliada
+38,Homer,Odyssey,Odyseja
+39,William Shakespeare,Hamlet,Hamlet
+40,William Shakespeare,Macbeth,Makbet
+41,William Shakespeare,King Lear,Król Lear
+42,Fyodor Dostoevsky,Crime and Punishment,Zbrodnia i kara
+43,Fyodor Dostoevsky,The Brothers Karamazov,Bracia Karamazow
+44,Leo Tolstoy,War and Peace,Wojna i pokój
+45,Gustave Flaubert,Madame Bovary,Pani Bovary
+46,Victor Hugo,Les Misérables,Nędznicy
+47,Victor Hugo,The Hunchback of Notre-Dame,Katedra Marii Panny w Paryżu
+48,Alexandre Dumas (père),The Count of Monte Cristo,Hrabia Monte Christo
+49,Alexandre Dumas (père),The Three Musketeers,Trzej muszkieterowie
+50,Herman Melville,Moby-Dick,Moby Dick
+51,Harriet Beecher Stowe,Uncle Tom's Cabin,Chata wuja Toma
+52,Nathaniel Hawthorne,The Scarlet Letter,Szkarłatna litera
+53,J.D. Salinger,The Catcher in the Rye,Buszujący w zbożu
+54,John Steinbeck,Of Mice and Men,Myszy i ludzie
+55,John Steinbeck,The Grapes of Wrath,Grona gniewu
+56,John Steinbeck,East of Eden,Na wschód od Edenu
+57,Ernest Hemingway,For Whom the Bell Tolls,Komu bije dzwon
+58,Ernest Hemingway,A Farewell to Arms,Pożegnanie z bronią
+59,Ernest Hemingway,The Sun Also Rises,Słońce też wschodzi
+60,Ken Kesey,One Flew Over the Cuckoo's Nest,Lot nad kukułczym gniazdem
+61,Joseph Heller,Catch-22,Paragraf 22
+62,Kurt Vonnegut,Slaughterhouse-Five,Rzeźnia numer pięć
+63,Franz Kafka,The Metamorphosis,Przemiana
+64,Franz Kafka,The Castle,Zamek
+65,Boris Pasternak,Doctor Zhivago,Doktor Żywago
+66,Aleksandr Solzhenitsyn,The Gulag Archipelago,Archipelag GUŁag
+67,Aleksandr Solzhenitsyn,One Day in the Life of Ivan Denisovich,Jeden dzień Iwana Denisowicza
+68,Vladimir Nabokov,Lolita,Lolita
+69,Jack Kerouac,On the Road,W drodze
+70,Toni Morrison,Beloved,Umiłowana
+71,Alice Walker,The Color Purple,Kolor purpury
+72,Zora Neale Hurston,Their Eyes Were Watching God,Ich oczy oglądały Boga
+73,Ralph Ellison,Invisible Man,Niewidzialny człowiek
+74,Richard Wright,Native Son,Syn swego kraju
+75,Chinua Achebe,Things Fall Apart,Wszystko się rozpada
+76,Arundhati Roy,The God of Small Things,Bóg rzeczy małych
+77,Salman Rushdie,Midnight's Children,Dzieci północy
+78,Salman Rushdie,The Satanic Verses,Szatańskie wersety
+79,E.M. Forster,A Passage to India,Podróż do Indii
+80,Rudyard Kipling,The Jungle Book,Księga dżungli
+81,Joseph Conrad,Heart of Darkness,Jądro ciemności
+82,William Golding,Lord of the Flies,Władca much
+83,Anthony Burgess,A Clockwork Orange,Mechaniczna pomarańcza
+84,Margaret Atwood,The Handmaid's Tale,Opowieść podręcznej
+85,Mary Shelley,Frankenstein,Frankenstein
+86,Bram Stoker,Dracula,Drakula
+87,Robert Louis Stevenson,The Strange Case of Dr Jekyll and Mr Hyde,Dziwna historia doktora Jekylla i pana Hyde’a
+88,Jules Verne,Twenty Thousand Leagues Under the Sea,Dwadzieścia tysięcy mil podmorskiej żeglugi
+89,Jules Verne,Around the World in Eighty Days,W osiemdziesiąt dni dookoła świata
+90,Jules Verne,Journey to the Center of the Earth,Podróż do wnętrza Ziemi
+91,H.G. Wells,The Time Machine,Wehikuł czasu
+92,H.G. Wells,The War of the Worlds,Wojna światów
+93,H.G. Wells,The Invisible Man,Niewidzialny człowiek
+94,Isaac Asimov,Foundation,Fundacja
+95,Isaac Asimov,"I, Robot","Ja, robot"
+96,William Gibson,Neuromancer,Neuromancer
+97,Philip K. Dick,The Man in the High Castle,Człowiek z Wysokiego Zamku
+98,Philip K. Dick,Do Androids Dream of Electric Sheep?,Czy androidy marzą o elektrycznych owcach?
+99,Ursula K. Le Guin,The Left Hand of Darkness,Lewa ręka ciemności
+100,Anonymous,The Epic of Gilgamesh,Epos o Gilgameszu
+101,Dante Alighieri,The Divine Comedy,Boska komedia
+102,Anonymous,One Thousand and One Nights,Księga tysiąca i jednej nocy
+103,Geoffrey Chaucer,The Canterbury Tales,Opowieści kanterberyjskie
+104,Charles Dickens,A Christmas Carol,Opowieść wigilijna
+105,Murasaki Shikibu,The Tale of Genji,Opowieść o księciu Genjim
+106,Wu Cheng'en,Journey to the West,Wędrówka na Zachód
+107,Voltaire,Candide,"Kandyd, czyli optymizm"
+108,Johann Wolfgang von Goethe,Faust,Faust
+109,Sophocles,Oedipus Rex,Król Edyp
+110,Henrik Ibsen,A Doll's House,Dom lalki
+111,James Joyce,Ulysses,Ulisses
+112,Erich Maria Remarque,All Quiet on the Western Front,Na Zachodzie bez zmian
+113,Anne Frank,The Diary of Anne Frank,Dziennik Anne Frank
+114,Vyasa,Mahabharata,Mahabharata
+115,Valmiki,Ramayana,Ramajana
+116,Virgil,Aeneid,Eneida
+117,Plato,The Republic,Państwo
+118,Sun Tzu,The Art of War,Sztuka wojny
+119,Niccolò Machiavelli,The Prince,Książę
+120,Michel de Montaigne,Essays,Próby
+121,Thomas Hobbes,Leviathan,Lewiatan
+122,Jean-Jacques Rousseau,The Social Contract,Umowa społeczna
+123,Adam Smith,The Wealth of Nations,Bogactwo narodów
+124,Mary Wollstonecraft,A Vindication of the Rights of Woman,Wołanie o prawa kobiety
+125,Karl Marx and Friedrich Engels,The Communist Manifesto,Manifest komunistyczny
+126,John Stuart Mill,On Liberty,O wolności
+127,Friedrich Nietzsche,Thus Spoke Zarathustra,Tako rzecze Zaratustra
+128,Simone de Beauvoir,The Second Sex,Druga płeć
+129,Frantz Fanon,The Wretched of the Earth,Wyklęty lud ziemi
+130,Charles Darwin,On the Origin of Species,O powstawaniu gatunków
+131,Sigmund Freud,The Interpretation of Dreams,Objaśnianie marzeń sennych
+132,Rachel Carson,Silent Spring,Milcząca wiosna
+133,Honoré de Balzac,Père Goriot,Ojciec Goriot
+134,Honoré de Balzac,Père Goriot,Ojciec Goriot
+135,Mark Twain,Adventures of Huckleberry Finn,Przygody Hucka Finna
+136,Marcel Proust,In Search of Lost Time,W poszukiwaniu straconego czasu
+137,Virginia Woolf,Mrs Dalloway,Pani Dalloway
+138,T.S. Eliot,The Waste Land,Ziemia jałowa
+139,William Faulkner,The Sound and the Fury,Wściekłość i wrzask
+140,Albert Camus,The Stranger,Obcy
+141,Samuel Beckett,Waiting for Godot,Czekając na Godota
+142,Lu Xun,The Real Story of Ah-Q,Prawdziwa historia Ah Q
+143,Rabindranath Tagore,Gitanjali,Gitanjali. Pieśni ofiarne
+144,Jorge Luis Borges,Ficciones,Fikcje
+145,Naguib Mahfouz,The Cairo Trilogy,Trylogia kairska
+146,Tayeb Salih,Season of Migration to the North,Sezon migracji na Północ
+147,Isabel Allende,The House of the Spirits,Dom duchów
+148,Mo Yan,Red Sorghum,Czerwone sorgo
+149,Aeschylus,The Oresteia,Oresteja
+150,Molière,Tartuffe,Świętoszek
+151,Arthur Miller,Death of a Salesman,Śmierć komiwojażera
+152,Tennessee Williams,A Streetcar Named Desire,Tramwaj zwany pożądaniem
+153,Eugene O'Neill,Long Day's Journey into Night,Długa podróż dnia ku nocy
+154,Bertolt Brecht,Mother Courage and Her Children,Matka Courage i jej dzieci

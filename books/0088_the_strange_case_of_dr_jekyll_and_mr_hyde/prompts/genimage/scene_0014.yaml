@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1880s late night, private investigation hour in lawyer's study
+    location: Utterson's legal office transformed into detective's headquarters
+    weather: Indoor candlelight creating focused work atmosphere
+  characters:
+  - appearance: Lean tall gentleman around 50 years old, austere face that never brightens with smile, clean-shaven, thinning
+      dark hair neatly combed
+    clothing: Conservative dark suit befitting respectable lawyer, loosened for private work
+    position: Seated at desk surrounded by documents and evidence, methodically analyzing
+    action: Examining documents with concentrated expression, taking methodical notes, piecing together impossible puzzle
+  scene:
+    mainElements: Office becomes command center for rational investigation - documents spread in organized patterns, legal
+      precedents stacked for reference, evidence arranged according to logical methodology
+    details: Every tool of legal analysis proves inadequate for supernatural mystery - handwriting samples reveal impossible
+      dualities, witness statements describe inexplicable events, physical evidence contradicts rational explanation, legal
+      procedures designed for natural world
+    background: Law books represent centuries of human justice inadequate for current case, legal furniture designed for normal
+      disputes, professional atmosphere struggling to contain supernatural implications
+    atmosphere: Determined rationality confronting irrational mystery, candlelight providing focused illumination for methodical
+      analysis, growing frustration as legal logic fails to explain evidence, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing Utterson's methodical approach to overwhelming evidence
+    focus: Lawyer's systematic investigation methodology failing against supernatural mystery
+    depth: Foreground shows careful document analysis, middle ground reveals organized investigation materials, background
+      suggests vast legal tradition inadequate for current challenge
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,209 @@
+canon:
+  characters:
+    - id: "judhiszthira"
+      name: "Judhiszthira"
+      description_block: |
+        characters:
+          - appearance: "Male, 30-35 years old, smukła szczupła budowa ciała, duże oczy, wydatny nos, pure gold karnacja"
+            clothing: "Białe lub szafranowe jedwabie i lna ozdobione dyskretną złotą biżuterią, prosta korona symbolizująca prawość"
+            posture: "Zawsze wyprostowana postawa pełna godności, porusza się powoli w sposób przemyślany"
+            action: "Spokojna opanowana mimika naznaczona wewnętrznym cierpieniem i poczuciem odpowiedzialności"
+    
+    - id: "bhima"
+      name: "Bhima"
+      description_block: |
+        characters:
+          - appearance: "Male, 30-35 years old, ogromny wzrost jak wyrośnięte drzewo sala, potężna muskularna budowa z długimi ramionami, jasnozłota karnacja"
+            clothing: "Czerwone proste szaty niekrępujące ruchów, funkcjonalne i praktyczne"
+            posture: "Porusza się z ciężką niepowstrzymaną energią, gesty szerokie i zamaszyste"
+            action: "W gniewie brwi ściągają się zagryza wargi nadając przerażający wygląd, trzyma gigantyczną maczugę"
+    
+    - id: "arjuna"
+      name: "Arjuna"
+      description_block: |
+        characters:
+          - appearance: "Male, 25-30 years old, wysoki o szerokiej klatce piersiowej i długich potężnych ramionach, ciemna śniada karnacja, czarne kręcone włosy, oczy kolor polerowanej miedzi"
+            clothing: "Praktyczny strój dostosowany do walki, funkcjonalny pancerz łuczniczy"
+            posture: "Chód pełen gracji i mocy jak rozgniewany słoń, oburęczny łucznik"
+            action: "Twarz często wyrażająca skupienie i determinację, trzyma boski łuk Gandiva"
+    
+    - id: "nakula"
+      name: "Nakula"
+      description_block: |
+        characters:
+          - appearance: "Male, 20-25 years old, smukła zgrabna budowa, najprzystojniejszy mężczyzna epoki, jasna karnacja, długie czarne włosy"
+            clothing: "Eleganckie szaty o militarnym charakterze z widocznym mieczem u boku"
+            posture: "Zgrabne ruchy mistrza miecza i znawcy koni"
+            action: "Postawa księcia-wojownika uosobienia piękna"
+    
+    - id: "sahadewa"
+      name: "Sahadewa"
+      description_block: |
+        characters:
+          - appearance: "Male, 20-25 years old, smukła zgrabna budowa, niezwykła uroda z mądrym spojrzeniem, jasna karnacja, długie czarne włosy"
+            clothing: "Stonowane eleganckie szaty odzwierciedlające mądrość i powściągliwość"
+            posture: "Spokojne ruchy najmądrzejszego z braci astrologa"
+            action: "Postawa mędrca-księcia z wiedzą astrologiczną"
+    
+    - id: "draupadi"
+      name: "Draupadi (Pańczali)"
+      description_block: |
+        characters:
+          - appearance: "Female, 20 years old, zgrabna budowa z talią jak ołtarz ofiarny, długie czarnoniebieskie kręcone włosy, duże czarne oczy jak płatki lotosu, ciemna śniada karnacja"
+            clothing: "Bogate jedwabne sari ozdobione bogatą biżuterią jako królowa"
+            posture: "Postawa ognistej królowej uosobienia godności"
+            action: "Ciało emanuje zapachem błękitnego lotosu, twarz wyrażająca szeroką gamę emocji od miłości przez gniew po determinację"
+    
+    - id: "kryszna"
+      name: "Kryszna"
+      description_block: |
+        characters:
+          - appearance: "Male, 30 years old, boskie ciało o ciemnoniebieskiej karnacji jak nowa chmura deszczowa, czarne kręcone włosy ozdobione pawim piórem, postawa trzykrotnie zgięta tribhanga"
+            clothing: "Jaskrawożółte jedwabie lśniące jak błyskawica"
+            posture: "Taneczna gracja boskiej postaci"
+            action: "Czarujący enigmatyczny uśmiech boga-woźnicy boskiego intryganta"
+    
+    - id: "duryodhana"
+      name: "Duryodhana"
+      description_block: |
+        characters:
+          - appearance: "Male, 30-35 years old, potężna muskularna atletyczna budowa, górna część ciała twarda jak diament"
+            clothing: "Krzykliwe bogate szaty w ciężkim pancerzu"
+            posture: "Arogancka postawa potężnego wojownika mistrza maczugi"
+            action: "Twarz stale wyrażająca arogancję zawiść gniew i poczucie krzywdy, trzyma maczugę"
+    
+    - id: "karna"
+      name: "Karna"
+      description_block: |
+        characters:
+          - appearance: "Male, 35-40 years old, potężna atletyczna budowa, wrodzona złota zbroja kawacza będąca częścią skóry, złote kolczyki kundala lśniące na twarzy"
+            clothing: "Złote szaty i złoty pancerz nadające promienny słoneczny wygląd"
+            posture: "Postawa tragicznego bohatera wojownika słońca"
+            action: "Przystojny potężny wojownik wyrażający tragiczną dumę i lojalność"
+    
+    - id: "bhiszma"
+      name: "Bhiszma"
+      description_block: |
+        characters:
+          - appearance: "Male, 80+ years old, czcigodny starzec z długimi białymi włosami i brodą, jasna karnacja Gauranga, sylwetka i siła wojownika mimo wieku"
+            clothing: "Białe szaty i biały pancerz"
+            posture: "Patriarcha strażnik przysięgi o potężnej postawie mimo wieku"
+            action: "Surowa twarz naznaczona determinacją i tragicznym losem wynikającym z straszliwej przysięgi, trzyma łuk"
+    
+    - id: "drona"
+      name: "Drona"
+      description_block: |
+        characters:
+          - appearance: "Male, 80+ years old, ciemna karnacja, potężna silna budowa, węzeł włosów śikha na czubku głowy"
+            clothing: "Proste białe szaty bramina z lekkim pancerzem"
+            posture: "Postać łącząca cechy bramina i wojownika"
+            action: "Nauczyciel-wojownik o tragicznej postawie trzymający łuk i boską broń"
+    
+    - id: "dhritarasztra"
+      name: "Dhritarasztra"
+      description_block: |
+        characters:
+          - appearance: "Male, 80+ years old, niewidomy z zamkniętymi lub mlecznobiałymi oczami, potężna silna budowa zdolna kruszyć żelazo"
+            clothing: "Bogate królewskie szaty"
+            posture: "Zazwyczaj na tronie bezradny mimo fizycznej siły"
+            action: "Ślepy król dosłownie i w przenośni trzymający berło władcy"
+    
+    - id: "gandhari"
+      name: "Gandhari"
+      description_block: |
+        characters:
+          - appearance: "Female, 80+ years old, stale nosi opaskę na oczach w geście solidarności z niewidomym mężem"
+            clothing: "Proste królewskie szaty"
+            posture: "Kobieta o ogromnej sile wewnętrznej widocznej mimo fizycznego ograniczenia"
+            action: "Matka cierpiąca uosobienie poświęcenia w geście oddania lub protestu"
+    
+    - id: "sakuni"
+      name: "Śakuni"
+      description_block: |
+        characters:
+          - appearance: "Male, 60+ years old, być może odmienny wygląd z regionu Gandhary, chytry podstępny wyraz twarzy"
+            clothing: "Ciemne podstępne szaty"
+            posture: "Postawa mistrza intrygi kusiciela"
+            action: "Trzyma kości do gry wykonane z kości słoniowej, magicznie mu podlegające"
+
+  locations:
+    - id: "hastinapura"
+      name: "Hastinapura"
+      description_block: |
+        setting:
+          location: "Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth"
+        mainElements: "Monumental wooden gates, high defensive ramparts, extensive courtyards, multi-story wooden pavilions with carved columns and copper-gold roofed palace"
+        atmosphere: "Atmosphere of ancient established power filled with court intrigue, sounds of city bustle hammering of smiths guards calling from walls music from palace chambers, scents of incense cooked food horses and dust"
+    
+    - id: "indraprastha"
+      name: "Indraprastha"
+      description_block: |
+        setting:
+          location: "Magical new capital built by Pandavas on barren Khandawaprastha land with supernatural architecture transcending physics"
+        mainElements: "Palace of illusion Majasabha built by demon architect Maya with crystal floors smooth as water surface, jewel-encrusted walls, gold columns, impossible optical illusions and pools so still they appear solid"
+        atmosphere: "Ethereal magical atmosphere mixing wonder admiration and subtle unease, sounds of water and subtle music, silence interrupted by lotus scents and cool stone, contrasting sharply with earthy Hastinapura"
+    
+    - id: "kurukszetra"
+      name: "Kurukszetra"
+      description_block: |
+        setting:
+          location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+        mainElements: "Wide open landscape under broad sky, before battle peaceful with few sacred lakes and groves, during battle torn by chariot wheels trampled by elephants strewn with broken weapons destroyed chariots bodies"
+        atmosphere: "Before battle tense silence and expectation, during battle deafening chaos of thousands of warriors conch sounds horse hoofbeats chariot wheel clatter arrows whistling constant steel clashing, air thick with dust smoke metallic blood scent"
+    
+    - id: "kamyaka_forest"
+      name: "Las Kamyaka"
+      description_block: |
+        setting:
+          location: "Dense primeval forest in northern India, untamed wilderness inhabited by ascetics sages in humble ashrams but also demons rakshasas and wild beasts"
+        mainElements: "Mighty ancient trees, thick undergrowth, swamps and hidden clearings, modest ascetic huts scattered throughout, wild animals mythical creatures lurking in shadows"
+        atmosphere: "Variable atmosphere, near ashrams peaceful contemplative filled with nature sounds mantra recitation, deep in forest becomes threatening unpredictable full of unexpected sounds sensation of being watched"
+    
+    - id: "varanawata_palace"
+      name: "Pałac w Waranawata"
+      description_block: |
+        setting:
+          location: "Palace in Varanawata built from highly flammable materials like lac resin straw and other combustible substances as death trap for Pandavas"
+        mainElements: "Walls dripping with resin, furniture soaked in oil, hidden escape tunnel, deceptively comfortable appearance masking deadly nature"
+        atmosphere: "Cozy deceptive lighting creating atmosphere of trap and false security, sounds of crackling fire scent of lac and burning wood"
+
+  items:
+    - id: "gandiva_bow"
+      name: "Łuk Gandiva"
+      description_block: |
+        details: "Divine bow created by Brahma decorated with gold of extraordinary power and durability, always returns to owner, symbol of Arjuna's unmatched archery skills and divine support"
+    
+    - id: "bhima_mace"
+      name: "Maczuga Bhimy"
+      description_block: |
+        details: "Enormous heavy iron mace gada possibly decorated with simple patterns, symbol of his brutal untamed physical strength"
+    
+    - id: "sudarshana_chakra"
+      name: "Dysk Sudarśana"
+      description_block: |
+        details: "Shining serrated disc spinning at tremendous speed surrounded by fiery aureole, always hits target and returns to owner, symbol of divine power justice and ultimate weapon"
+    
+    - id: "karna_armor"
+      name: "Zbroja i Kolczyki Karny"
+      description_block: |
+        details: "Golden armor kavach and earrings kundal integral part of his body shining like sun, gift from sun god Surya ensuring almost complete immortality"
+    
+    - id: "sakuni_dice"
+      name: "Kości Śakuniego"
+      description_block: |
+        details: "Gaming dice made from ivory or according to legend from thighbone of Shakuni's father, symbol of deception and manipulation, magically fall according to thrower's will"
+    
+    - id: "arrow_bed"
+      name: "Łoże ze strzał"
+      description_block: |
+        details: "Bhishma's body pierced by hundreds of arrows so densely they suspend him above ground, symbol of his unbreakability suffering and status as greatest warrior"
+    
+    - id: "brahmastra"
+      name: "Brahmastra"
+      description_block: |
+        details: "Divine weapon of mass destruction, activation causes blinding flash tremors and destructive explosion capable of destroying entire armies, most powerful weapon in epic threatening world destruction"
+    
+    - id: "arjuna_chariot"
+      name: "Rydwan Ardżuny"
+      description_block: |
+        details: "Magnificent war chariot drawn by four celestial white horses, banner depicting god Hanuman, symbol of divine help and righteous cause with Hanuman's presence ensuring victory"

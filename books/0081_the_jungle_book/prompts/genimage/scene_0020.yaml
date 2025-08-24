@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, daytime
+    location: A deep gorge with cliffs full of beehives.
+    weather: Hot and sunny.
+  characters:
+  - appearance: A boy of about 16 years old.
+    clothing: Wears a simple loincloth.
+    position: Clinging to a vine, high up on the cliff face.
+    action: He has just disturbed the beehives, and is now trying to escape the wrath of the bees.
+  - appearance: A swarm of millions of black, wild bees.
+    clothing: None
+    position: Pouring out of the cliffs like a black cloud.
+    action: They are a terrifying, buzzing mass of fury, descending on the red dogs in the gorge below.
+  - appearance: The pack of red dogs.
+    clothing: None
+    position: In the gorge below.
+    action: Surprised and terrified by the bee attack. They are trapped between the bees and the river.
+  scene:
+    mainElements: Mowgli's clever plan to defeat the red dogs. He uses the natural defenses of the jungle to destroy his enemies.
+    details: The cliffs are honeycombed with black holes, the entrances to the beehives. The bees form a solid, black, buzzing
+      cloud that fills the gorge. The red dogs are in a panic, yelping and snapping at the air. no text or letters visible
+    background: The blue sky above the gorge.
+    atmosphere: A scene of brilliant strategy and terrifying natural power. The jungle itself has become a weapon. no text
+      or letters visible
+  composition:
+    cameraAngle: High-angle shot, looking down into the gorge.
+    focus: The black cloud of bees, a living weapon of mass destruction.
+    depth: 'Foreground: Mowgli on his vine. Middle ground: the cloud of bees. Background: the panicking red dogs in the gorge.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

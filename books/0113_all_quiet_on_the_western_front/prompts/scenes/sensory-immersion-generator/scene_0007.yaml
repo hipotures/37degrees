@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dust particles jumping on ammunition boxes like visible drum beats"
+  setting:
+    time: "1918 summer midday, blazing sun"
+    location: "supply depot behind front lines, wooden ammunition crates stacked in organized rows, heavy artillery firing in distance"
+    weather: "hot dry day, dust coating everything, no wind to disturb particles"
+  characters:
+    - appearance: "19 lat, niski drobnej budowy mały Albert Kropp najmniejszy z grupy, inteligentne myślące spojrzenie"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "sitting on ammunition crate, watching dust patterns with fascination"
+      action: "observing how dust particles respond to distant artillery vibrations, using visual patterns to count shots and estimate distance"
+  scene:
+    mainElements: "wooden ammunition boxes covered in fine layer of dust, particles dancing and jumping with each artillery blast, systematic rhythm visible through dust movement patterns, stacked supplies creating geometric arrangement"
+    details: "fine dust particles lifting vertically with each shell fired, creating tiny eruptions on wooden surfaces, dust patterns revealing vibration intensity and direction, particles settling between shots only to jump again with next blast, different sized particles responding to different frequencies of sound waves, wooden crate surfaces acting as natural drums with visible dust percussion, supply depot organization showing military precision, sunlight illuminating dust clouds making them clearly visible, no text or letters visible"
+    background: "more supply crates extending into distance, military vehicles parked between stacks, soldiers moving supplies while unconsciously timing their work to artillery rhythm"
+    atmosphere: "mechanical rhythm of war made visible through natural physics, soldiers learning to read battlefield through environmental cues, industrial precision of military supply contrasted with organic dust response"
+  composition:
+    cameraAngle: "close-up shot of ammunition crate surface with dust particles in sharp detail"
+    focus: "dust particles mid-jump showing moment of percussion from distant artillery"
+    depth: "extreme foreground shows individual dust particles in motion, middle ground features crate surface details, background reveals supply depot organization"

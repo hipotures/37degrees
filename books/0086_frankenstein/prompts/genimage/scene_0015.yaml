@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 1780s, winter morning
+    location: Alpine mountain path where traveler spots creature and Victor in pursuit
+    weather: Clear winter morning with brilliant snow and thin mountain air
+  characters:
+  - appearance: Mountain guide or traveler aged approximately 35-40 years, weathered face from high altitude exposure, strong
+      build suitable for difficult terrain, eyes wide with astonishment at impossible sight
+    clothing: Heavy mountain clothing including thick wool coat, fur-lined boots, woolen cap, leather gloves, clothing practical
+      for severe alpine conditions
+    posture: Stopped mid-stride in amazement, hand shielding eyes from snow glare, body tensed with curiosity and alarm
+    action: Pausing on mountain trail to stare in wonder at extraordinary pursuit taking place across distant peaks
+  - appearance: Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing
+      superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous
+      flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white
+      teeth, visible surgical scars and stitching marks across body where body parts were joined together
+    clothing: Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory
+      clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark
+      cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel
+    posture: Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands
+      with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or
+      threatening stance of rage
+    action: Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human
+      families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship
+  scene:
+    mainElements: Vast Alpine landscape with traveler witnessing impossible sight of giant figure moving across distant glacier,
+      tiny human form pursuing far behind, pristine wilderness becoming stage for supernatural drama
+    details: Creature's massive form moving with impossible speed across ice field that would take normal human hours to cross,
+      Victor's small figure struggling far behind through deep snow, traveler rubbing eyes believing he witnesses hallucination
+      from thin mountain air, morning sun creating blazing reflections off snow making figures appear like mirages, glacier
+      crevasses and ice formations suggesting deadly terrain being crossed with inhuman ease, traveler's breath visible in
+      cold air as he gasps in astonishment, distant avalanche rumble suggesting dangers of pursuit, no text or letters visible
+    background: Overwhelming Alpine grandeur with peaks reaching beyond clouds, vast scale making human drama appear both
+      insignificant and cosmic
+    atmosphere: Sense of witnessing supernatural event beyond human understanding, Alpine wilderness serving as stage for
+      drama that transcends normal human experience, awe at forces beyond natural law
+  composition:
+    cameraAngle: Outsider's distant perspective witnessing extraordinary events from safe remove
+    focus: Impossible pursuit across terrain that challenges natural law and human capability
+    depth: Foreground shows astonished traveler, middle ground reveals vast mountain landscape, background captures tiny figures
+      engaged in cosmic struggle across impossible distances
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

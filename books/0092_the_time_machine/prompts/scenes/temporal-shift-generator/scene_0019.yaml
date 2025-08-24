@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Decay Acceleration - Palace Aging in Fast Forward"
+  setting:
+    time: "Accelerated building decay from pristine to ruin"
+    location: "Single palace structure showing compressed deterioration"
+    weather: "Weathering effects accelerated through all seasonal extremes"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Palace structure undergoing accelerated aging - paint fading, stones cracking, metal oxidizing, vegetation claiming surfaces, all visible simultaneously as temporal overlay showing construction, glory, and ultimate decay"
+    details: "Architectural elements showing every stage of deterioration - fresh marble becoming stained, metal fittings transforming from bright to tarnished to rusted to fragments, wood elements warping and rotting, roof tiles sliding and breaking, windows cracking and falling. Ivy and climbing plants advance up walls like living time-lapse"
+    background: "Supporting structures similarly aging - walls crumbling, foundations settling, gardens becoming wild, pathways cracking and disappearing under encroaching vegetation"
+    atmosphere: "Melancholy beauty of inevitable decay, time as destroyer of human achievement, nature's patient reclamation of artificial structures, entropy made visible and accelerated, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing complete palace with all decay stages visible"
+    focus: "Central facade showing clearest temporal progression from glory to ruin"
+    depth: "Detailed decay processes in foreground, structural deterioration in middle ground, landscape reclamation in background"

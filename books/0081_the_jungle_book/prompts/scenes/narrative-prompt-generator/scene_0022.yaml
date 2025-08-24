@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Spring Running"
+  setting:
+    time: "19th Century India, spring"
+    location: "The Seeonee jungle."
+    weather: "The jungle is bursting with new life. The air is full of the scent of flowers and the sound of birdsong."
+  characters:
+    - appearance: "A young man of about 17 years old."
+      clothing: "Wears a simple loincloth."
+      position: "Running aimlessly through the jungle."
+      action: "His face is filled with a strange sadness and longing that he does not understand. The joy of the jungle in springtime no longer fills him with happiness."
+  scene:
+    mainElements: "The time of New Talk, the spring running. A time of restlessness and change in the jungle."
+    details: "The jungle is a riot of color and life. Flowers are blooming, birds are singing, and the animals are all filled with a strange new energy. But Mowgli is out of place in this world of simple, natural desires. no text or letters visible"
+    background: "The vibrant, living jungle."
+    atmosphere: "A scene of melancholy and confusion. Mowgli is on the cusp of manhood, and the jungle is no longer enough for him. no text or letters visible"
+  composition:
+    cameraAngle: "Tracking shot, following Mowgli as he runs through the jungle."
+    focus: "The look of sadness and confusion on Mowgli's face, a stark contrast to the joy of the jungle around him."
+    depth: "A blur of green and colorful flowers as Mowgli runs through the jungle."

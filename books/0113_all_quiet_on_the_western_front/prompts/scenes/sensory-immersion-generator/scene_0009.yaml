@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Empty bombed cathedral with dust motes floating undisturbed"
+  setting:
+    time: "1917 autumn afternoon, golden light streaming through holes"
+    location: "ruins of French Gothic cathedral behind lines, shell damage creating new windows in ancient walls, altar area partially intact"
+    weather: "calm clear afternoon, still air allowing dust to float suspended"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "standing perfectly still in cathedral nave, afraid to disturb sacred quiet"
+      action: "remaining motionless while observing floating dust particles, breathing so quietly that dust patterns remain undisturbed around him"
+  scene:
+    mainElements: "damaged Gothic cathedral with broken roof allowing sunlight streams, thousands of dust motes floating in perfect suspension, soldier standing reverent in ruins, ancient stone architecture mixing with fresh war damage"
+    details: "dust particles floating in complete stillness showing perfect absence of air movement, golden sunbeams revealing dust clouds like visible silence, stone debris settled and undisturbed since bombing, even soldier's presence not affecting floating particle patterns, dust motes moving only with slowest natural air currents, cathedral acoustics amplifying even smallest sounds making silence more profound, light beams creating visible columns through dusty air, ancient stone work contrasting with fresh shell damage, no text or letters visible"
+    background: "Gothic arches partially collapsed but still majestic, stained glass windows shattered but fragments catching light, altar area damaged but recognizably sacred"
+    atmosphere: "profound silence made visible through undisturbed dust suspension, reverence for both sacred space and war's destruction, spiritual quiet in midst of military conflict"
+  composition:
+    cameraAngle: "wide shot from cathedral nave showing scale of space and floating dust patterns"
+    focus: "thousands of dust motes suspended in cathedral light beams"
+    depth: "foreground shows detailed dust particle suspension, middle ground features still soldier, background reveals damaged but majestic cathedral architecture"

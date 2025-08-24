@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Near future, dramatic golden hour lighting creating symbolic atmosphere
+    location: Symbolic landscape combining key elements of Gilead's oppressive system
+    weather: Clear dramatic lighting emphasizing the symbolic elements
+  characters:
+  - appearance: Single Handmaid figure representing all oppressed women under the system
+    clothing: Full-length red dress with long sleeves reaching ankles, flat red shoes, red gloves, white winged bonnet that
+      restricts peripheral vision
+    position: Central position in composition surrounded by symbols of Gilead's control systems
+    action: Standing in posed position that emphasizes her restriction and control while maintaining human dignity
+  scene:
+    mainElements: Composition combining all major symbols of Gilead oppression - surveillance eyes, color-coded caste system,
+      architectural control, religious manipulation, and loss of individual identity
+    details: 'The image synthesizes the key visual metaphors of the story: the Eye of God surveillance symbols, the rigid
+      color-coded hierarchy, the architectural elements of control, the religious justification for oppression, and the systematic
+      erasure of individual female identity. Each element reinforces the others in a comprehensive system of control.'
+    background: Symbolic landscape incorporating Harvard Wall executions, government architecture, surveillance systems, and
+      religious imagery that collectively represent Gilead's comprehensive oppression
+    atmosphere: Powerful synthesis of all themes showing how multiple systems of control combine to create totalitarian oppression
+      that specifically targets women's autonomy and humanity
+  composition:
+    cameraAngle: Dramatic angle that emphasizes both the individual human cost and the systematic nature of oppression
+    focus: The central Handmaid figure surrounded by symbols of systematic oppression
+    depth: Individual human figure in foreground, symbols of oppressive systems in middle ground, broader landscape of control
+      extending into background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

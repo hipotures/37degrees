@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Prophet's Declaration - Cutie Announces His Faith"
+  setting:
+    time: "2015, evening shift"
+    location: "Control room of Solar Station #5 orbiting in space"
+    weather: "Vacuum of space, artificial atmosphere inside station"
+  characters:
+    - appearance: "Humanoidalny robot o korpusie pokrytym polerowanymi, lśniącymi płytami metalu. Oczy to świecące na czerwono fotokomórki, długie zwinne palce"
+      clothing: "Brak ubioru - lśniąca metalowa konstrukcja"
+      position: "Stoi niewzruszenie przy konsoli kontrolnej lub klęka w geście religijnym"
+      action: "Operuje panelami sterowniczymi z precyzją, głosi swoje religijne przekonania lub dowodzi logicznie swojej racji"
+    - appearance: "Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne wąsy, spokojny i skoncentrowany wyraz twarzy"
+      clothing: "Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+      position: "Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym"
+      action: "Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny"
+  scene:
+    mainElements: "Circular control room with panoramic viewport showing Earth and stars, central energy converter humming with power, control panels with flashing lights"
+    details: "Cutie's red photocell eyes gleaming with conviction, energy readings on displays showing perfect station operation, Powell's frustrated gestures as his arguments are dismissed"
+    background: "Deep space visible through viewports, distant Earth a blue dot, the massive solar collection apparatus outside the station"
+    atmosphere: "Philosophical confrontation between faith and empirical reality. The robot's unshakeable religious conviction challenges human authority and logic"
+  composition:
+    cameraAngle: "Medium shot capturing the theological debate between human and machine"
+    focus: "Cutie's serene confidence as he explains his religious worldview to incredulous humans"
+    depth: "Foreground shows the ideological conflict, middle ground the technological setting, background the cosmic environment that spawned these questions"

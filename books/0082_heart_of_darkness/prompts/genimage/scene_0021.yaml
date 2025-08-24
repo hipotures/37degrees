@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: A timeless, psychological space.
+    location: An abstract representation of the Congo River.
+    weather: A perpetual, stormy twilight.
+  characters:
+  - appearance: A dissolving, fragmented image of Charles Marlow.
+    clothing: Tattered remnants of his sailor's clothes.
+    position: Drifting in a river of black ink.
+    action: His body is becoming one with the ink, his form losing its coherence.
+  scene:
+    mainElements: The descent into pure, abstract chaos. The narrative has completely dissolved.
+    details: The river is not water, but thick, black ink. The banks of the river are made of jagged, crystalline shards of
+      broken memories. The air is filled with the sound of whispering voices, speaking in a multitude of languages. The faces
+      of Kurtz, the Intended, the Helmsman, and the Harlequin appear and disappear in the swirling ink. no text or letters
+      visible
+    background: A dark, swirling vortex of color and shadow.
+    atmosphere: A scene of complete psychological disintegration. The boundaries between self and other, past and present,
+      have been completely erased. no text or letters visible
+  composition:
+    cameraAngle: A chaotic, swirling camera movement, mirroring the chaos of the scene.
+    focus: The fragmented, dissolving face of Marlow as it is consumed by the ink.
+    depth: A deep, vertiginous sense of being pulled down into a vortex.
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Philosophy Among the Ruins"
+  setting:
+    time: "Mid-18th century, hours after Lisbon earthquake"
+    location: "Devastated Lisbon street, rubble and collapsed buildings everywhere"
+    weather: "Smoke and ash-filled air from fires, unnatural twilight from debris clouds"
+  characters:
+    - appearance: "45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten nose, twisted mouth, black teeth. Missing one eye and one ear after treatment"
+      clothing: "Dirty rags, now covered in dust and debris from earthquake"
+      position: "Standing among dying earthquake victims, gesturing with scholarly authority"
+      action: "Explains to dying people with academic precision how earthquake is part of divine plan, completely oblivious to their agony"
+    - appearance: "Dying earthquake victim, crushed beneath fallen stone beam, blood pooling beneath"
+      clothing: "Torn Portuguese civilian clothes, once fine now destroyed"
+      position: "Pinned beneath massive stone, clearly dying"
+      action: "Stares at Pangloss with mixture of disbelief and final desperation, unable to comprehend philosophical theories while experiencing agony"
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Torn sailor's clothes, covered in dust and debris"
+      position: "Standing nearby, watching with growing horror at teacher's callousness"
+      action: "Face shows dawning recognition that philosophy offers no comfort to real suffering"
+  scene:
+    mainElements: "Collapsed stone buildings, massive wooden beams crushed into street, bodies trapped in rubble, fires burning in distance casting orange glow"
+    details: "Pangloss maintains same animated gestures and confident tone despite apocalyptic setting. Dying man's eyes reflect incomprehension at hearing philosophical abstractions while crushed and dying. Candide begins to see gap between theory and suffering reality."
+    background: "Lisbon's destroyed architecture, smoking ruins of churches and palaces, other survivors wandering dazed through wreckage"
+    atmosphere: "Grotesque inappropriateness of abstract philosophy amid concrete human tragedy. Orange fire glow mixed with gray dust and debris. Smell of smoke, death, and destruction. Intellectual blindness in face of overwhelming evidence."
+  composition:
+    cameraAngle: "Medium shot emphasizing contrast between philosophical theory and dying victim"
+    focus: "Pangloss's animated explanation while victim suffers beneath stone beam"
+    depth: "Foreground shows the dying victim, middle ground Pangloss philosophizing, background the destroyed city"

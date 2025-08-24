@@ -1,0 +1,140 @@
+canon:
+  characters:
+    - id: "offred"
+      name: "Offred (The Narrator)"
+      description_block: |
+        characters:
+          - appearance: "Woman in her early 30s, 5 feet 7 inches tall, brown hair, average build, haunted expression with signs of suppressed fear and defiance"
+            clothing: "Full-length red dress with long sleeves reaching ankles, flat red shoes, red gloves, white winged bonnet that restricts peripheral vision"
+            
+    - id: "commander_fred"
+      name: "Commander Fred"
+      description_block: |
+        characters:
+          - appearance: "Older man in his 60s, silver-gray hair, average height, distinguished appearance like a Midwest bank president, gold-rimmed reading glasses"
+            clothing: "Standard black business suit, white shirt, dark tie representing masculine authority"
+            
+    - id: "serena_joy"
+      name: "Serena Joy"
+      description_block: |
+        characters:
+          - appearance: "Older woman past menopause, blonde hair likely dyed, wrinkled face, uses walking cane for arthritic left foot, cigarette smoker with yellowed fingers"
+            clothing: "Elegant modest dress in blue or turquoise shades representing Wife status, modest jewelry"
+            
+    - id: "nick"
+      name: "Nick"
+      description_block: |
+        characters:
+          - appearance: "Young man in his late 20s, dark hair, lean build, subtly rebellious demeanor with slight insubordination in posture"
+            clothing: "Guardian uniform with deliberately casual touches - rolled sleeves, slightly askew cap"
+            
+    - id: "moira"
+      name: "Moira"
+      description_block: |
+        characters:
+          - appearance: "Woman in her early 30s, unconventional masculine demeanor, strong build, defiant expression now replaced with broken spirit"
+            clothing: "Gaudy, provocative costume from pre-Gilead times - sequins, cheap fabric, theatrical makeup"
+            
+    - id: "aunt_lydia"
+      name: "Aunt Lydia"
+      description_block: |
+        characters:
+          - appearance: "Elderly woman with stern authoritarian bearing, harsh expression, carries electric cattle prod as symbol of authority"
+            clothing: "Modest functional dress in dull brown color, practical shoes"
+            
+    - id: "ofglen"
+      name: "Ofglen"
+      description_block: |
+        characters:
+          - appearance: "Woman slightly plumper than Offred, brown eyes, initially appears pious but conceals rebel nature"
+            clothing: "Standard red Handmaid uniform identical to all other Handmaids"
+            
+    - id: "janine"
+      name: "Janine (Ofwarren)"
+      description_block: |
+        characters:
+          - appearance: "Frail woman with pale, pointed face appearing drained and psychologically broken, thin build showing effects of trauma"
+            clothing: "Standard red Handmaid uniform, often disheveled"
+
+  locations:
+    - id: "commanders_house"
+      name: "Commander's House"
+      description_block: |
+        setting:
+          location: "Large Victorian Colonial Revival mansion in Cambridge Massachusetts, well-maintained with imposing architecture"
+        mainElements: "Dark wood paneling, heavy fabrics, marble fireplaces, separate servant stairs, convex fish-eye mirror in hallway"
+        atmosphere: "Wealthy but oppressive, melancholic interior with rich materials lacking personal warmth"
+        
+    - id: "offreds_room"
+      name: "Offred's Room"
+      description_block: |
+        setting:
+          location: "Small third-floor room in Commander's house, former servant quarters resembling college guest room"
+        mainElements: "Single bed, chair, table, lamp, braided rag rug on polished wood floor, unbreakable window opening only few inches, empty ceiling fixture space where chandelier once hung"
+        atmosphere: "Cell-like confinement with subtle signs of previous occupant's suicide, sterile and monitored"
+        
+    - id: "commanders_study"
+      name: "Commander's Study"
+      description_block: |
+        setting:
+          location: "Forbidden masculine sanctuary in Commander's house filled with banned books and knowledge"
+        mainElements: "Floor-to-ceiling bookshelves, large imposing desk, fireplace, Scrabble board as centerpiece, old magazines"
+        atmosphere: "Cozy intellectual environment hiding enormous danger and risk"
+        
+    - id: "red_center"
+      name: "Red Center (Rachel and Leah Center)"
+      description_block: |
+        setting:
+          location: "Converted high school gymnasium in urban area, repurposed for Handmaid indoctrination"
+        mainElements: "Military cots arranged in rows on gymnasium floor, basketball hoops without nets still visible, barbed wire fencing"
+        atmosphere: "Prison-like training facility with constant surveillance by armed Aunts"
+        
+    - id: "jezebels_club"
+      name: "Jezebel's Club"
+      description_block: |
+        setting:
+          location: "Former luxury hotel converted to state-sanctioned brothel for regime elite"
+        mainElements: "Dimly lit smoky interior with cheap gaudy decorations, remnants of pre-Gilead nightlife, tawdry furniture"
+        atmosphere: "Desperate parody of sexuality, tragic showcase of regime hypocrisy"
+        
+    - id: "harvard_wall"
+      name: "The Wall at Harvard"
+      description_block: |
+        setting:
+          location: "Historic brick wall around Harvard Yard with added barbed wire, broken glass, and steel hooks for public executions"
+        mainElements: "Old brick construction with modern security additions, floodlights, steel hooks, executed bodies in white bags"
+        atmosphere: "Transformation of academic symbol into public terror display"
+        
+    - id: "harvard_yard"
+      name: "Harvard Yard"
+      description_block: |
+        setting:
+          location: "Historic lawn in front of Widener Library at Harvard University repurposed for public executions"
+        mainElements: "Wooden execution platform resembling graduation stage, three wooden posts with nooses, academic buildings as backdrop"
+        atmosphere: "Perverse transformation of intellectual achievement space into brutal punishment theater"
+
+  items:
+    - id: "handmaid_wings"
+      name: "White Wings (Handmaid's Bonnet)"
+      description_block: |
+        details: "White fabric extensions on red bonnet designed to restrict peripheral vision, preventing Handmaids from seeing or being seen clearly"
+        
+    - id: "electric_prod"
+      name: "Electric Cattle Prod"
+      description_block: |
+        details: "Handheld electric shock device carried by Aunts as instrument of control and punishment"
+        
+    - id: "scrabble_board"
+      name: "Scrabble Game Board"
+      description_block: |
+        details: "Wooden board game with letter tiles representing forbidden act of reading and word creation, symbol of intellectual rebellion"
+        
+    - id: "convex_mirror" 
+      name: "Fish-Eye Mirror"
+      description_block: |
+        details: "Convex mirror in Commander's house hallway that distorts reflections, symbolizing surveillance and warped identity"
+        
+    - id: "old_magazines"
+      name: "Pre-Gilead Magazines"
+      description_block: |
+        details: "Forbidden publications like Vogue from before regime, artifacts of women's former autonomy and literacy"

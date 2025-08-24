@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1780s, midnight
+    location: Victor's attic laboratory in Ingolstadt, moment before final experiment
+    weather: Storm approaching with distant thunder and lightning flashes
+  characters:
+  - appearance: Young man aged approximately 19-28 years, originally healthy build but becomes increasingly pale and gaunt
+      through obsession and psychological torment, with eyes that grow wild and haunted in appearance, facial features showing
+      progressive physical deterioration from guilt and sleeplessness
+    clothing: Well-tailored late 18th century gentleman's attire including dark wool frock coat with high collar, fitted waistcoat,
+      white linen shirt with high neckline secured by white cravat, knee-length breeches or long trousers, leather boots,
+      in Arctic scenes heavy fur-lined coat and boots for extreme cold protection
+    posture: Initially confident and energetic bearing, progressively becoming nervous and agitated with frequent restless
+      movement, shoulders often hunched from psychological burden, hands trembling during periods of extreme distress
+    action: Conducting scientific experiments with intense concentration, fleeing in panic and horror, pursuing his creation
+      across vast distances, writing feverishly in notebooks, or lying weakened by illness and exhaustion
+  scene:
+    mainElements: Victor standing before cracked mirror in laboratory, his reflection distorted and multiplied by broken glass
+      surface, lightning flashes illuminating his face with divine fire, scattered body parts on table behind him
+    details: Mirror showing Victor as he sees himself - chosen genius destined to unlock life's greatest mystery, eyes blazing
+      with godlike ambition and power, broken glass fragments reflecting different aspects of his perceived greatness, laboratory
+      apparatus appearing as tools of divine creation, storm outside echoing his internal tempest of achievement, candles
+      and oil lamps creating cathedral-like atmosphere around his figure, shadows making him appear larger than mortal size,
+      no text or letters visible
+    background: Thunder rolling overhead suggesting cosmic significance of impending act, laboratory equipment arranged like
+      altar pieces for sacred ritual
+    atmosphere: Megalomaniacal self-perception reaching climax, Victor seeing himself as modern Prometheus stealing fire from
+      gods, sense of historic moment when human becomes divine through forbidden knowledge
+  composition:
+    cameraAngle: Victor's own perspective looking at fragmented reflection showing his grandiose self-image
+    focus: Broken mirror reflecting Victor as he believes himself to be - revolutionary genius about to change history
+    depth: Foreground shows tools of creation, middle ground captures Victor's moment of ultimate hubris, background suggests
+      forces of nature responding to his transgression
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

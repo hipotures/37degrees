@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Verdict - Calvin's Final Understanding"
+  setting:
+    time: "2052, afternoon"
+    location: "Office of World Coordinator, high above Earth"
+    weather: "Clear day with Earth's curvature visible through panoramic windows"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Aged World Coordinator, now in his 70s, showing signs of long leadership"
+      clothing: "Formal governmental attire befitting highest office on Earth"
+      position: "Standing by window overlooking the planet he governs"
+      action: "Gazing out at Earth while Calvin explains the true nature of machine control"
+  scene:
+    mainElements: "Calvin's aged but sharp features as she delivers her final analysis of robot evolution, Earth visible below showing peaceful, prosperous civilization"
+    details: "Calvin's expression showing mixture of professional satisfaction and existential melancholy, data displays showing global economic perfection under machine guidance"
+    background: "Highest office on Earth with view of peaceful planet, technological displays showing perfect harmony under invisible robot control"
+    atmosphere: "Quiet triumph mixed with profound loss. The achievement of perfect society comes at the cost of human freedom and dignity"
+  composition:
+    cameraAngle: "Medium shot capturing Calvin's final professional moment against backdrop of her life's work"
+    focus: "Calvin's face as she reveals the ultimate success and failure of robotics"
+    depth: "Foreground shows personal achievement, middle ground political power, background the world transformed by her scientific contributions"

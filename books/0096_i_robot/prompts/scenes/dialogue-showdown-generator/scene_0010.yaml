@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The New Power Dynamic - Calvin Commands Respect"
+  setting:
+    time: "2029, afternoon"
+    location: "Testing chamber at Hyper Base military facility"
+    weather: "Controlled indoor environment, artificial lighting"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Military general with weathered features and authoritative bearing"
+      clothing: "Full military dress uniform with insignia and medals"
+      position: "Standing at attention but showing subtle deference to civilian expert"
+      action: "Listening intently to Calvin's technical explanation, occasionally asking clarifying questions"
+  scene:
+    mainElements: "High-security military testing facility with observation windows, radiation warning signs, rows of identical NS-2 robots standing at attention"
+    details: "Calvin's small stature commanding attention from military officers, radiation detection equipment humming, 63 identical robots awaiting orders"
+    background: "Military installation with steel corridors, security checkpoints, advanced testing equipment designed for dangerous experiments"
+    atmosphere: "Intellectual authority overriding military hierarchy. The dangerous nature of the experiment heightens respect for Calvin's expertise"
+  composition:
+    cameraAngle: "Low angle emphasizing Calvin's authority despite her small physical stature"
+    focus: "The moment when military brass defers to civilian scientific expertise"
+    depth: "Foreground shows power dynamics, middle ground the dangerous test setup, background the institutional setting where such authority matters"

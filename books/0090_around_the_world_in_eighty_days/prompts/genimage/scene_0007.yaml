@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: October 1872, midday
+    location: Indian Ocean showing P&O steamship navigating between British colonial ports
+    weather: Clear ocean weather with moderate seas and tropical sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Majestic ocean steamship with paddle wheels or screw propeller cutting through blue waters, tall black smokestack
+      emitting distinctive plume of coal smoke, multiple masts with sails as auxiliary power, elegant passenger decks showing
+      luxury travel
+    details: Ship displaying Union Jack and P&O company colors representing British maritime dominance, wooden passenger decks
+      with brass railings and deck chairs showing first-class luxury, lifeboats secured along sides following maritime safety
+      protocols, cargo holds indicating commercial function alongside passenger service, ship's telegraph and navigation equipment
+      showing technological advancement, smoke trail creating atmospheric effect against blue sky, white wake foaming behind
+      vessel showing power and speed, other distant ships on horizon indicating busy maritime traffic routes
+    background: Endless Indian Ocean with horizon line emphasizing global reach, distant coastline suggesting colonial territories
+      connected by sea
+    atmosphere: Imperial maritime power connecting British Empire across oceans, sense of luxury travel and commercial might,
+      romantic appeal of steam age ocean travel
+  composition:
+    cameraAngle: Mid-level perspective showing full ship profile with emphasis on maritime grandeur
+    focus: Steamship as floating symbol of British technological and commercial supremacy
+    depth: Ship details in foreground, ocean expanse in middle distance, horizon line suggesting infinite imperial reach
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

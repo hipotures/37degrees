@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: December 1872, late afternoon
+    location: American Great Plains where transcontinental railroad crosses Native American territory
+    weather: Cold clear winter day with snow creating stark landscape
+  characters: No characters present in this scene
+  scene:
+    mainElements: Transcontinental railroad train stopped on snow-covered prairie, signs of recent conflict between expanding
+      American transportation and Native American resistance, aftermath of frontier tensions
+    details: Steam locomotive with several passenger and freight cars stopped on snowy tracks, damaged or derailed railway
+      cars showing signs of conflict, scattered personal belongings and cargo in snow around train, abandoned weapons and
+      equipment indicating recent skirmish, smoke rising from damaged cars or equipment, telegraph wires cut or damaged disrupting
+      communication, horse tracks and moccasin prints in snow showing Native American presence, military equipment or supplies
+      scattered from freight cars, overturned cargo creating disorder in usually ordered railway system
+    background: Endless snow-covered prairie extending to horizon, distant mountains, vast emptiness emphasizing isolation
+      of railway in hostile territory
+    atmosphere: Tension between American westward expansion and Native American territorial defense, aftermath of violent
+      encounter, sense of vulnerability of technological progress in wilderness
+  composition:
+    cameraAngle: Medium perspective showing damaged train and scattered aftermath in landscape context
+    focus: Stopped locomotive as symbol of interrupted technological progress
+    depth: Damaged railway equipment in foreground, tracks extending across prairie in middle distance, vast wilderness horizon
+      emphasizing frontier isolation
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

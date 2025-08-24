@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Merchant Ships Departing Baghdad Harbor"
+  setting:
+    time: "Early morning, 9th century Abbasid Caliphate"
+    location: "Busy port on Tigris River in Baghdad with merchant vessels and trading activity"
+    weather: "Clear morning with gentle river breeze and bright sunlight"
+  characters:
+    - appearance: "Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long white beard, face marked by adventure and wisdom, alert eyes scanning horizon"
+      clothing: "Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with purse"
+      position: "Confident stance of experienced sailor, hands often gesturing as if describing vast distances"
+      action: "Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully"
+  scene:
+    mainElements: "Large sailing vessels with triangular lateen sails moored at wooden docks, merchant activity with goods being loaded, sailors preparing rigging, river flowing with small boats"
+    details: "Ships loaded with bales of silk and spices, wooden cargo crates secured on decks, coiled ropes and sailing equipment, brass navigation instruments visible, merchants checking inventory lists, dock workers carrying heavy loads, water reflecting morning sunlight, no text or letters visible"
+    background: "Baghdad cityscape with minarets and domes visible beyond harbor, distant ships on river, busy marketplace adjacent to docks"
+    atmosphere: "Excitement of departure and adventure, sounds of creaking ships and shouting sailors, scents of exotic spices and tar, anticipation of profitable voyage"
+  composition:
+    cameraAngle: "Wide shot showing bustling harbor activity"
+    focus: "Merchant figure preparing for departure with ships representing adventure"
+    depth: "Harbor activity in foreground, ships in middle ground, city skyline in background"

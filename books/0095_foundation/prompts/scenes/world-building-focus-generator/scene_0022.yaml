@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Imperial fleet preparing for military action showing technological stagnation"
+  setting:
+    time: "Galactic Standard Era 12000s, military mobilization period"
+    location: "Imperial fleet assembly point in deep space near peripheral territories"
+    weather: "vacuum of space with artificial illumination from fleet operations"
+  characters:
+    - appearance: "Imperial naval officers and crew in military dress, various ages representing career military service, formal bearing showing traditional military discipline"
+      clothing: "standardized Imperial military uniforms with traditional decorations, hierarchical color schemes indicating rank and department, formal ceremonial elements reflecting Imperial military tradition"
+      position: "manning battle stations on massive vessels, conducting fleet coordination activities, maintaining formation discipline"
+      action: "preparing aging Imperial technology for combat, coordinating massive fleet movements, following traditional military protocols, attempting to project Imperial authority through force"
+  scene:
+    mainElements: "colossal vessels up to two miles long, ornate decorative architecture with Imperial symbols, spacious but inefficient design requiring large crews, visible signs of age and makeshift repairs, bridges resembling throne rooms more than command centers"
+    details: "massive Imperial warships showing technological stagnation, ornate but inefficient design requiring enormous crews, visible maintenance problems and improvised repairs, traditional command structures emphasizing ceremony over efficiency, weapons systems powerful but outdated and energy-inefficient, communication systems slow and hierarchical"
+    background: "fleet formation extending beyond visual limits, deep space illuminated by massive vessel operations, distant target territories visible as strategic objectives, other Imperial support vessels maintaining traditional formations"
+    atmosphere: "Imperial military might based on tradition and scale rather than innovation, sense of technological stagnation disguised by impressive appearance, brewing conflict between Imperial force and emerging Foundation efficiency"
+  composition:
+    cameraAngle: "wide space perspective showing impressive scale but underlying inefficiency of Imperial fleet"
+    focus: "Imperial military power representing tradition-bound approach to conflict"
+    depth: "foreground flagship details, middle ground fleet formation, background strategic space and target objectives"

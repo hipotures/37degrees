@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Communication Evolution - From Letters to Silence"
+  setting:
+    time: "1962, evening"
+    location: "Home study showing evolution of communication methods across occupation period"
+    weather: "Evening twilight with warm interior lighting"
+  characters:
+    - appearance: "Middle-aged man, 39 years old, American antique dealer with neatly groomed appearance"
+      clothing: "Conservative, well-tailored but modest suit typical of American shopkeeper, dark colored jacket with pressed white shirt and tie"
+      position: "Sitting at desk surrounded by communication devices from different eras"
+      action: "Hesitating before writing letter, surrounded by ghostly overlays of previous communication attempts"
+  scene:
+    mainElements: "Desk area showing temporal progression of communication technology - handwritten letters from prewar era, wartime telegrams, early telephone systems, current restricted correspondence under occupation, future electronic devices glimpsed as possibilities"
+    details: "Fountain pen poised over blank paper, typewriter showing signs of censorship modifications, telephone with Japanese monitoring equipment attached, stack of old family letters tied with ribbon, telegraph key gathering dust, radio equipment partially disassembled for compliance, desk blotter showing ink stains from years of correspondence, no text or letters visible"
+    background: "Study walls lined with books showing different levels of censorship markings, window showing evening neighborhood with communication lines overhead"
+    atmosphere: "Increasing isolation through communication restrictions, nostalgia for open correspondence, fear of surveillance creating self-censorship, technological progress constrained by political oppression, human need for connection struggling against systematic separation"
+  composition:
+    cameraAngle: "Close-up on desk area with figure hunched over blank paper"
+    focus: "Hesitant writer surrounded by ghostly echoes of freer communication eras"
+    depth: "Foreground: blank paper and fountain pen, middle: figure and desk equipment, background: study environment showing communication evolution"

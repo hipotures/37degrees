@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 2030s, evening celebration in communal space
+    location: central gathering area of Zion cluster, large zero gravity chamber designed for community activities
+    weather: warm recycled air carrying scents of growing plants and cooking food
+  characters:
+  - appearance: multiple rastafarianin community members of various ages, men and women with dreadlocks and peaceful expressions,
+      bodies adapted to zero gravity movement
+    clothing: colorful patchwork clothing combining recycled materials, comfortable fabrics that flow gracefully in weightless
+      environment, personal modifications showing individual creativity
+    position: floating and rotating in complex three-dimensional dance patterns
+    action: moving bodies in rhythm with invisible music, limbs extending and contracting like violin strings being plucked,
+      synchronized movements creating visual representation of bass frequencies
+  scene:
+    mainElements: multiple figures dancing in three-dimensional space, bodies creating flowing patterns that echo musical
+      rhythm, hydroponic gardens providing natural backdrop, lighting systems pulsing in time with movement
+    details: dancers' movements creating visual waves through space, arms and legs extending like instrument strings, rotational
+      motions suggesting drum beats, hair and clothing flowing to show air currents moved by rhythm, synchronized breathing
+      visible as vapor clouds, no text or letters visible
+    background: curved chamber walls lined with growing plants, observation windows showing star field, other community members
+      watching from anchored positions
+    atmosphere: joyful celebration where music becomes visible through human movement, spiritual connection between rhythm
+      and motion, weightless environment allowing three-dimensional expression of sound
+  composition:
+    cameraAngle: wide shot capturing multiple dancers in three-dimensional arrangement
+    focus: flowing movement patterns that visualize musical rhythm, emphasizing connection between sound and motion
+    depth: foreground showing detailed dancer movements, middle ground featuring group synchronization, background revealing
+      communal habitat setting
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Near future, daytime
+    location: Under a concrete viaduct.
+    weather: A cold, damp day.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is being held down by a group of homeless men.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      He is dressed in a cheap, ill-fitting suit.
+    position: Under the same viaduct where he once tormented the tramp.
+    action: He is being attacked by the tramp and a group of other homeless men.
+  - appearance: An old, disheveled man with a long, dirty beard and rheumy eyes. Hunched
+      over and frail, often muttering to himself.
+    clothing: Wears ragged, filthy clothing.
+    position: Standing over Alex, his face contorted with rage.
+    action: He is kicking and punching Alex, getting his revenge for the past humiliation.
+  scene:
+    mainElements: The cycle of violence continues, but the roles have been reversed.
+      Alex, the former predator, is now the victim. The tramp, the former victim,
+      is now the aggressor.
+    details: The scene is a mirror image of the earlier scene under the viaduct. The
+      lighting is the same, the setting is the same, but the power dynamic is completely
+      different. Alex is now the one who is helpless and afraid.
+    background: The other homeless men are cheering and shouting, their faces filled
+      with a savage glee.
+    atmosphere: A scene of brutal, ironic justice. The violence is just as ugly and
+      senseless as it was before, but now it is directed at Alex. The scene raises
+      questions about the nature of revenge and the futility of violence.
+  composition:
+    cameraAngle: A high angle shot, looking down on Alex, just as he once looked down
+      on the tramp.
+    focus: The look of terror and helplessness on Alex's face.
+    depth: 'Foreground: Alex on the ground. Middle ground: The tramp and the other
+      homeless men. Background: The concrete viaduct.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

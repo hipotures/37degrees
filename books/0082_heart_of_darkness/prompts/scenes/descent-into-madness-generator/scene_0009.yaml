@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Attack"
+  setting:
+    time: "Late 19th Century, morning"
+    location: "On the steamboat, just as the fog begins to lift."
+    weather: "The fog is thinning, but visibility is still poor."
+  characters:
+    - appearance: "Charles Marlow, 32."
+      clothing: "Simple sailor's clothes."
+      position: "At the helm."
+      action: "He is trying to steer the boat away from the bank, his face a mask of intense concentration."
+    - appearance: "The African Helmsman."
+      clothing: "Minimal, tribal attire."
+      position: "At the helm with Marlow."
+      action: "He is suddenly impaled by a spear, his face a mask of shock and pain."
+  scene:
+    mainElements: "The sudden, shocking attack from the unseen assailants on the riverbank."
+    details: "A hail of small, black arrows rains down on the boat, sticking in the wooden railings and the deck. They look like insects. The spear that kills the helmsman is long and thin, and it quivers in his body. The blood that spurts from the wound is unnaturally bright against the gray backdrop of the fog. no text or letters visible"
+    background: "The jungle is a blur of green and gray, the attackers are unseen."
+    atmosphere: "A scene of sudden, brutal violence and chaos. The unseen enemy adds to the sense of terror and paranoia. no text or letters visible"
+  composition:
+    cameraAngle: "A jarring, handheld shot, capturing the chaos and confusion of the attack."
+    focus: "The helmsman's shocked face as the spear strikes him."
+    depth: "A chaotic scene, with arrows flying and the boat lurching."

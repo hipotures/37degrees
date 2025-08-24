@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Elder's View of Handdara Prophecy - Layered Time"
+  setting:
+    time: "1491 Ekumen calendar, daytime, interior lighting from fire and narrow windows"
+    location: "Ancient stone Handdara monastery nestled in mountain forest on planet Gethen, austere religious architecture"
+    weather: "Interior space with cold stone environment warmed by fire"
+  characters:
+    - appearance: "Elderly Gethenian Foreteller approximately 70-80 years old, deeply lined face showing wisdom and spiritual discipline, eyes holding depth of long experience"
+      clothing: "Simple dark monastic robes of Handdara tradition, worn soft fabric suggesting years of contemplative life"
+      position: "Seated in circle with other Foretellers during prophecy ceremony, positioned as senior member of group"
+      action: "Participating in mystical ritual while simultaneously experiencing multiple time layers - present ceremony overlapping with memories of similar rituals across decades of spiritual practice"
+    - appearance: "Multiple Handdara monks of various ages seated in contemplative circle, faces showing spiritual concentration"
+      clothing: "Simple dark robes creating unified appearance during religious ceremony"
+      position: "Arranged in circle for group prophecy ritual"
+      action: "Entering collective trance state while elder perceives both current moment and echoes of past ceremonies"
+  scene:
+    mainElements: "Empty stone halls, deep fireplaces, narrow high windows, simple wooden furniture, contemplative spaces for spiritual practice creating timeless environment where past and present merge"
+    details: "Current ceremony superimposed with ghostly images of similar rituals from decades past, young faces of long-dead monks appearing translucent alongside present participants, firelight seeming to flicker across multiple time periods simultaneously, stone architecture unchanged across generations, no text or letters visible"
+    background: "Ancient monastery walls holding memories of countless spiritual ceremonies, forest beyond windows appearing eternal and unchanging, shadows suggesting presence of ancestors and spiritual tradition"
+    atmosphere: "Mystical time-layering where present moment contains echoes of entire spiritual lineage - prophecy ceremony becomes convergence of past, present and future wisdom"
+  composition:
+    cameraAngle: "Contemplative angle from within ceremonial circle, including multiple time layers"
+    focus: "Contrast between immediate spiritual experience and accumulated wisdom of lifetime practice, emphasis on continuity of tradition"
+    depth: "Foreground: current ceremony participants, middle: overlay of remembered past rituals, background: timeless monastery architecture connecting all spiritual generations"

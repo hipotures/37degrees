@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crowd gathering around fallen cylinder on Horsell Common"
+  setting:
+    time: "1897, morning after cylinder landing"
+    location: "Open heathland in Surrey England, sandy soil with scattered pine and birch groves, purple heather covering rolling terrain, old sand-pits creating natural depressions in landscape, public common land on edge of Victorian suburbs near Woking"
+    weather: "Bright clear morning with gathering curiosity replacing tranquil solitude"
+  characters:
+    - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+      clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+      position: "Standing among curious crowd at edge of crater, maintaining respectful distance"
+      action: "Observing mysterious cylinder with scientific curiosity mixed with growing unease"
+  scene:
+    mainElements: "Expansive heathland with clusters of pine trees, sandy patches between heather growth, natural amphitheater of old sand workings, footpaths crossing common used by local residents"
+    details: "Massive metallic cylinder approximately 30 meters diameter, dull brownish scaly surface scarred by space travel, threaded top section that unscrews to reveal dark interior opening, clearly artificial construction of unknown metal alloy. Growing crowd of Victorian onlookers maintaining cautious distance, mixture of curiosity and apprehension on faces, some pointing and discussing the strange object"
+    background: "Scorched and disturbed heather from cylinder's impact, damaged pine trees, scattered debris from landing, normal countryside beyond crater"
+    atmosphere: "Tense mixture of scientific fascination and growing unease, excited murmur of crowd speculation, sense that normal world has been disrupted by something utterly foreign and potentially dangerous"
+  composition:
+    cameraAngle: "Master shot from elevated position showing entire scene geography with all players visible"
+    focus: "Mysterious alien cylinder in crater center with crowd arranged in cautious semicircle, no text or letters visible"
+    depth: "Foreground shows individual faces in crowd expressing curiosity and concern, middle ground centers on alien cylinder in crater, background reveals peaceful heathland now forever changed by extraterrestrial arrival"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chase Sequence - Movement Frozen"
+  setting:
+    time: "1962, late evening"
+    location: "Denver motel corridor during critical confrontation between opposing forces"
+    weather: "Clear mountain evening with crisp air"
+  characters:
+    - appearance: "Beautiful 30-year-old woman with ebony black hair falling to shoulders, athletic build from judo training with visible muscle tone, clear skin with traces of Spanish heritage"
+      clothing: "Casual, somewhat youthful style - cotton sweater, brown tweed skirt, saddle shoes from high school, canvas zip-up jacket"
+      position: "Mid-motion in martial arts defensive stance, frozen at moment of recognition of danger"
+      action: "Suspended in time at instant of realizing companion's true Nazi identity, body beginning defensive movement"
+  scene:
+    mainElements: "Time distortion showing critical moment of realization frozen while background world continues normal pace, martial arts movement suspended mid-execution, threat recognition crystallized in single instant"
+    details: "Motel corridor with flickering fluorescent light frozen mid-flicker, carpet fibers compressed under foot showing movement direction, door handle turned halfway revealing escape attempt, shadows cast at impossible angles showing multiple light sources, dust particles suspended in air, fabric of clothing showing wind resistance patterns, no text or letters visible"
+    background: "Motel exterior showing normal evening activity - cars passing on highway, normal lighting patterns, people moving at regular speed while foreground action remains suspended"
+    atmosphere: "Suspended moment of deadly recognition, time dilated during life-threatening realization, contrast between frozen crisis and continuing normal world, psychological time expansion during extreme danger"
+  composition:
+    cameraAngle: "Low dynamic angle emphasizing frozen movement with normal background"
+    focus: "Central figure suspended mid-defensive movement with time distortion effects"
+    depth: "Foreground: frozen motion details, middle: suspended figure and immediate threat, background: normal-speed motel environment"

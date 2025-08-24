@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Assassination Moment - Time Suspended"
+  setting:
+    time: "1962, precise moment of violent confrontation"
+    location: "Executive office in Nippon Times Building during critical assassination attempt"
+    weather: "Bright afternoon light streaming through venetian blinds"
+  characters:
+    - appearance: "Dignified Japanese official in his 50s, composed bearing masking inner moral conflicts"
+      clothing: "Impeccably tailored Western-style business suit in dark charcoal, crisp white dress shirt, understated silk tie"
+      position: "Standing behind desk with antique revolver raised in defensive position"
+      action: "Frozen in moment of moral transformation from pacifist to killer, time suspended at instant of decision"
+  scene:
+    mainElements: "Time distortion effect showing single critical moment expanded while world continues normal pace, gunpowder flash frozen mid-explosion, bullet trajectory visible in air, falling glass suspended in space, papers floating weightlessly"
+    details: "Antique Colt .44 revolver with muzzle flash frozen like flower bloom, bullet visible as metallic streak through air, window blind slats casting geometric shadows frozen in time, falling documents suspended at different heights, dust motes stopped in sunbeam, coffee cup tilted but liquid not yet spilling, no text or letters visible"
+    background: "San Francisco Bay view through windows showing normal movement - boats crossing water, cars on distant roads, clouds drifting across sky - while foreground action remains frozen"
+    atmosphere: "Temporal suspension of moral crisis moment, time stretched to allow contemplation of life-changing decision, contrast between frozen violence and continuing peaceful world outside, weight of single moment that changes everything"
+  composition:
+    cameraAngle: "Dynamic angle capturing suspended action with normal background movement"
+    focus: "Central figure with revolver while projectiles and debris freeze mid-motion"
+    depth: "Foreground: suspended bullet and debris, middle: figure with weapon, background: normal-speed world through windows"

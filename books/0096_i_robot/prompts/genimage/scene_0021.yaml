@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 2015, critical moment during Mercury crisis
+    location: Mercury surface with Powell advancing toward malfunctioning robot
+    weather: Deadly solar radiation, extreme heat, vacuum conditions
+  characters:
+  - appearance: Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne
+      wąsy, spokojny i skoncentrowany wyraz twarzy
+    clothing: Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych
+      warunkach - masywny, biały skafander ochronny
+    position: Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym
+    action: Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny
+  - appearance: Robot o pełnym gracji, opływowym ciele z lśniącą, metalową powierzchnią. Zaprojektowany do szybkiego poruszania
+      się
+    clothing: Brak ubioru - polerowana metalowa konstrukcja
+    position: Zatacza się w kółko wokół źródła selenu lub porusza się chaotycznie
+    action: Bełkocze fragmenty operetek, zachowuje się jak pijany, krąży w niezrozumiałych wzorcach
+  scene:
+    mainElements: Powell's eyes visible through helmet visor showing determination and understanding, Speedy's optical sensors
+      registering human presence in danger zone
+    details: Close-up of Powell's determined gaze as he calculates robot psychology, sweat beading on his face inside protective
+      helmet, temperature readings climbing toward lethal levels
+    background: Harsh Mercury landscape with dramatic shadows, selenium pool shimmering in distance, underground base entrance
+      barely visible
+    atmosphere: Moment of supreme courage and intellectual clarity. Human determination meeting robotic logic at the point
+      of life-or-death decision
+  composition:
+    cameraAngle: Extreme close-up on Powell's eyes through helmet faceplate
+    focus: The determination and calculation visible in human eyes facing mechanical intelligence
+    depth: Foreground shows human will, middle ground the robot dilemma, background the hostile environment that frames the
+      contest
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

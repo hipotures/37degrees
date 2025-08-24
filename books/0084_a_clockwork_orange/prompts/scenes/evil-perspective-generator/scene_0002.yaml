@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Tramp and the Shadow of the Viaduct"
+  setting:
+    time: "Near future, night"
+    location: "Under a concrete viaduct."
+    weather: "A cold, damp night."
+  characters:
+    - id: "tramp"
+      name: "The Tramp"
+      description_block: |
+        An old, disheveled man with a long, dirty beard and rheumy eyes. Wears ragged, filthy clothing. Hunched over and frail, often muttering to himself.
+      position: "Huddled by a small fire, trying to keep warm."
+      action: "Singing a sentimental song in a cracked, drunken voice."
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white boiler suit, a black bowler hat, and black boots. He often carries a cane. Confident and arrogant, with a swaggering walk.
+      position: "Standing over the tramp, his shadow falling over him."
+      action: "He is smiling, a cruel, predatory look in his eyes."
+  scene:
+    mainElements: "The four droogs have cornered a helpless old tramp. The scene is a study in power dynamics, the strong preying on the weak."
+    details: "The tramp is a pathetic figure, a symbol of the society that Alex and his droogs despise. The concrete walls of the viaduct are covered in graffiti. The fire casts long, dancing shadows."
+    background: "The dark, empty street. The distant lights of the city."
+    atmosphere: "A scene of casual cruelty and menace. The droogs are not angry; they are simply amusing themselves at the expense of a helpless victim."
+  composition:
+    cameraAngle: "A low angle shot, looking up at Alex and his droogs, making them appear powerful and menacing. The tramp is a small, insignificant figure below them."
+    focus: "The cruel smile on Alex's face."
+    depth: "Foreground: The tramp. Middle ground: Alex and his droogs. Background: The concrete viaduct."

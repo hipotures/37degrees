@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1962, compressed temporal sequence
+    location: Hidden study showing accelerated destruction of forbidden literature
+    weather: Interior space with controlled lighting showing temporal distortion
+  characters: No characters present in this scene
+  scene:
+    mainElements: Forbidden book The Grasshopper Lies Heavy undergoing accelerated decay and regeneration simultaneously,
+      pages yellowing and crumbling while new copies appear, representing cyclical destruction and preservation of dangerous
+      ideas
+    details: Book pages aging rapidly from white to yellow to brown to dust, binding cracking and separating in fast motion,
+      words fading from pages as censorship takes effect, yet ghostly new copies materializing to replace destroyed ones,
+      paper fragments floating in air like snow, bookshelf showing simultaneous filling and emptying, ink dissolving and reforming
+      in temporal loops, no text or letters visible
+    background: Study environment showing normal time flow with clocks ticking at regular speed while book experiences temporal
+      acceleration
+    atmosphere: Tragic beauty of knowledge destruction, futility of censorship as ideas regenerate faster than suppression,
+      time manipulation showing eternal struggle between oppression and human curiosity, phoenix-like resurrection of forbidden
+      truth
+  composition:
+    cameraAngle: Close-up on book with decay and regeneration effects overlapping
+    focus: Central book showing multiple stages of destruction and renewal simultaneously
+    depth: 'Foreground: decomposing pages and floating fragments, middle: book in various states, background: normal-speed
+      study environment'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

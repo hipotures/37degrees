@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: A timeless, psychological space.
+    location: The base of the ivory tower.
+    weather: A perpetual, stormy twilight.
+  characters: None, only the remnants of characters.
+  scene:
+    mainElements: The skulls that adorn the base of the ivory tower.
+    details: The skulls are not silent. They are whispering, their voices a low, incessant murmur. They are telling the stories
+      of all those who have been consumed by the darkness. The whispers are visualized as a thick, black smoke that seeps
+      from the eye sockets of the skulls and coils around the tower. no text or letters visible
+    background: The swirling vortex of chaos.
+    atmosphere: A scene of eternal, chattering madness. The final, inescapable chorus of the damned. no text or letters visible
+  composition:
+    cameraAngle: An extreme close-up on the whispering skulls.
+    focus: The black, whispering smoke that seeps from the eye sockets of the skulls.
+    depth: A shallow depth of field, with the rest of the tower and the vortex blurred in the background.
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

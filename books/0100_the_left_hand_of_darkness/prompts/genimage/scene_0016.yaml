@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, midday, natural overcast lighting
+    location: Border checkpoint between Karhide and Orgoreyn on planet Gethen, administrative facility in disputed territory
+    weather: Cold overcast day with intermittent snow flurries
+  characters:
+  - appearance: Border guards from both nations, middle-aged Gethenians in official uniforms, faces showing professional detachment
+      and routine boredom
+    clothing: Official border guard uniforms with national insignia, practical winter gear for outdoor duty, weapons visible
+      but not prominently displayed
+    position: Stationed at checkpoint barriers and administrative buildings
+    action: Processing routine border crossings with mechanical efficiency, stamping documents and inspecting cargo according
+      to established protocols
+  - appearance: Various travelers waiting to cross border, merchants with goods, diplomatic couriers, ordinary citizens on
+      legal business
+    clothing: Mix of practical travel clothing and official business attire, winter protection gear
+    position: Queued in orderly lines according to checkpoint procedures
+    action: Presenting documentation and submitting to routine searches while maintaining patient compliance with bureaucratic
+      requirements
+  scene:
+    mainElements: Simple administrative buildings housing border checkpoint, barrier gates controlling passage, document inspection
+      stations, storage areas for detained goods, national flags marking territorial boundaries
+    details: Routine bureaucratic process operating without emotional drama or political tension, paperwork processed according
+      to standard procedures regardless of individual circumstances, checkpoint functioning as mechanical interface between
+      political systems, measured pace of official business, no text or letters visible
+    background: Neutral border landscape showing no obvious signs of territorial dispute, road infrastructure serving commercial
+      and diplomatic traffic, distant markers indicating national boundaries
+    atmosphere: Mundane administrative reality underlying political tensions - border functioning as routine bureaucratic
+      interface despite theoretical national rivalry
+  composition:
+    cameraAngle: Neutral documentary angle showing complete checkpoint operation without favoring any perspective
+    focus: Mechanical efficiency of border administration operating independently of political rhetoric
+    depth: 'Foreground: routine document processing, middle: orderly traveler queues, background: neutral border infrastructure'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

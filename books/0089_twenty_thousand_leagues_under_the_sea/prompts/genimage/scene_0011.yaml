@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1866, evening dinner time with warm electric lighting
+    location: Elegant dining chamber aboard Nautilus submarine
+    weather: Stable interior environment maintained by advanced life support systems
+  characters:
+  - appearance: Dojrzały mężczyzna w wieku około 45 lat, wysoki o dumnej i wyniosłej postawie zdradzającej arystokratyczne
+      pochodzenie. Blada cera, szerokie czoło, prosty nos i czysto narysowane usta. Niebieskie oczy osadzone nieco szerzej
+      niż przeciętnie, dające mu niezwykle szerokie pole widzenia. Spojrzenie bystre, pewne siebie, spokojne, ale potrafiące
+      w jednej chwili stać się lodowate i groźne. Ciemne włosy i broda nadające mu tajemniczy wygląd. Niezwykle delikatne
+      i smukłe dłonie kontrastujące z jego rolą dowódcy
+    clothing: Prosta, elegancka tunika i spodnie z bisioru w ciemnych kolorach bez jakichkolwiek dystynkcji czy ozdób, podkreślające
+      że jego autorytet wynika z osobowości
+    position: Seated at the head of an elegantly set dining table
+    action: Dining on foods entirely derived from the ocean, demonstrating complete independence from land-based resources
+  scene:
+    mainElements: Refined dining chamber with mahogany table set with fine china, crystal glasses, and silver serving pieces.
+      The meal consists entirely of ocean-derived foods prepared with sophisticated culinary techniques - kelp-based bread,
+      various fish preparations, sea vegetables, and beverages distilled from marine sources. Electric heating systems prepare
+      the food without fire or smoke.
+    details: The dining service is elegant but practical, designed for submarine life without delicate items that might break
+      during underwater maneuvers. Speciality foods unknown to surface dwellers include processed kelp products, preserved
+      fish preparations, and distilled spirits made from marine vegetation. The meal represents complete self-sufficiency,
+      proving that submarine life need not mean deprivation or crude survival rations.
+    background: The dining chamber features understated luxury appropriate for submarine living, with secure storage for fine
+      dining implements and provisions.
+    atmosphere: Civilized self-sufficiency and underwater luxury. This demonstrates that life aboard Nautilus maintains the
+      refinements of surface civilization while being completely independent of land-based resources. The scene represents
+      the possibility of elegant living in complete isolation from terrestrial society.
+  composition:
+    cameraAngle: Medium shot showing both the character and the elaborate ocean-derived meal
+    focus: The sophisticated dining experience that demonstrates complete independence from land-based civilization
+    depth: Foreground shows detailed place setting and ocean-derived foods, middle ground features the character, background
+      reveals the elegant dining chamber interior
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

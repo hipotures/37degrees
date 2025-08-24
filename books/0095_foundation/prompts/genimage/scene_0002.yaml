@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, late afternoon
+    location: surface level of Trantor metropolis, multi-tiered urban canyon system
+    weather: artificially controlled climate with filtered light from above
+  characters: No characters present in this scene
+  scene:
+    mainElements: Towering metal structures creating deep urban canyons, multiple transportation levels with enclosed tubes,
+      massive public spaces with artificial lighting systems, kilometer-high buildings extending beyond sight
+    details: Deco-Brutalist architecture combining monumental Roman scale with Art Deco ornamentation, layered traffic systems
+      moving through transparent tubes, artificial lighting creating day-night cycles, holographic advertisements and information
+      displays, weathered metal surfaces showing age and constant use, ventilation systems managing atmospheric circulation
+    background: endless metallic horizon stretching to vanishing point, upper levels of city disappearing into artificial
+      sky, controlled atmospheric effects creating sense of contained environment
+    atmosphere: Claustrophobic despite vast scale, oppressive grandeur of total urbanization, evidence of technological stagnation
+      in aging infrastructure, sense of forty-five billion inhabitants living in artificial environment
+  composition:
+    cameraAngle: ground-level perspective looking up and across urban canyon
+    focus: architectural details of Deco-Brutalist structures and transportation systems
+    depth: foreground street level details, middle ground building facades, background extending city levels
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

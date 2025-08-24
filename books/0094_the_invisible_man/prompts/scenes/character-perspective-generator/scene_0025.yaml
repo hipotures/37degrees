@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Legacy of Knowledge - Universal Questions"
+  setting:
+    time: "Months later, autumn 1897, in Marvel's inn"
+    location: "Cozy country inn owned by Thomas Marvel, comfortable establishment showing newfound prosperity"
+    weather: "Warm evening with golden light through windows"
+  characters:
+    - appearance: "Short corpulent vagrant in late middle age, round flexible face with prominent cylindrical nose, full trembling lips, unruly gray whiskers, weathered complexion"
+      clothing: "Better quality clothing reflecting improved circumstances, still mismatched but clean and mended"
+      position: "Seated alone at corner table with three large books"
+      action: "Secretly studying notebook pages while glancing nervously around room"
+  scene:
+    mainElements: "Three large leather-bound volumes containing detailed scientific formulas and diagrams, pages covered with encrypted mathematical notations and chemical equations, some pages water-stained and partially illegible, Marvel studying them with combination of fascination and fear"
+    details: "Candlelight illuminating complex scientific diagrams, Marvel's finger tracing formulas he cannot understand, other patrons unaware of dangerous knowledge in their midst, inn atmosphere of comfortable normalcy"
+    background: "Prosperous inn interior with satisfied customers, warm fire in hearth, evidence of Marvel's success as innkeeper, peaceful rural evening scene"
+    atmosphere: "Dangerous knowledge preserved but unused, power sleeping in incomprehending hands, questions about wisdom of scientific discovery, universal human desire for forbidden knowledge"
+  composition:
+    cameraAngle: "Medium shot focusing on Marvel with notebooks"
+    focus: "Contrast between powerful knowledge and ordinary keeper"
+    depth: "Foreground shows detailed scientific diagrams, middle ground captures Marvel's secretive study, background reveals normal life continuing unaware, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Transportation Evolution - Same Journey Different Era"
+  setting:
+    time: "1800, 1830, 1860 - same morning commute hour"
+    location: "London thoroughfare connecting residential area to commercial district"
+    weather: "Clear morning with identical lighting across six decades"
+  characters:
+    - appearance: "Working gentleman commuting to daily employment, dressed appropriately for each era"
+      clothing: "Period-appropriate business attire evolving from Georgian to early Victorian to mid-Victorian style"
+      position: "Making same journey route using different transportation methods"
+      action: "Traveling from home to work via era-appropriate transport"
+  scene:
+    mainElements: "Transportation evolution overlay showing same street route traveled three different ways - 1800 walking journey, 1830 horse-drawn omnibus ride, 1860 railway carriage commute, identical starting and ending points"
+    details: "Transportation progression - cobblestone street showing wear patterns from foot traffic evolving to omnibus wheel ruts to reduced pedestrian use as rail transport develops, same buildings serving different transport-related functions, street lighting progressing from oil lamps to gas fixtures, road width modifications accommodating larger vehicles, horse manure evidence varying with transportation changes, passenger clothing adapting to transport methods, travel time reduction visible through multiple journey overlays, station infrastructure appearing along route, no text or letters visible"
+    background: "London street infrastructure adapting to transportation needs - buildings converted from residential to transport-related services, new construction accommodating transport hubs, architectural styles reflecting different prosperity levels"
+    atmosphere: "Accelerating pace of travel and urban life, sounds evolving from footsteps to horse hooves to steam engines, air quality changing from clear to increasingly industrial, sense of time compression through faster transportation"
+  composition:
+    cameraAngle: "Wide street view showing transportation method evolution"
+    focus: "Central thoroughfare demonstrating transport progression across decades"
+    depth: "Foreground shows immediate transport details, middle ground reveals street adaptations, background displays urban development responding to transport changes"

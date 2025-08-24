@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Street Level View of Medieval Florence Architecture"
+  setting:
+    time: "14th century late afternoon, golden hour light filtering through narrow streets"
+    location: "Narrow medieval street in Florence, Italy, stone buildings and market area"
+    weather: "Clear spring day with warm golden sunlight"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Narrow cobblestone street flanked by multi-story stone buildings with distinctive Florentine architecture, ground level shops with wooden shutters, upper floors with small windows and flower boxes"
+    details: "Buildings constructed from local pietra serena grey stone with rustic brown wooden doors and shutters. Street paved with irregular stone blocks worn smooth by centuries of use. Hanging signs indicating different crafts - blacksmith hammer, baker's wheat sheaf, cloth merchant's fabric samples. Stone wells and fountains at street corners. Washing lines strung between buildings. Small religious shrines built into wall corners with candles and offerings. Medieval architectural details include stone arches, corbelled upper floors, and decorative ironwork on windows."
+    background: "View extends down street showing more buildings receding into distance, glimpses of tower houses and church bell towers rising above rooflines, hint of city walls in far distance"
+    atmosphere: "Authentic medieval urban environment, sense of daily life and commerce, warm golden light creating sharp shadows, peaceful late afternoon mood of prosperous Italian city"
+  composition:
+    cameraAngle: "Ground level perspective walking down the street, slightly low angle to emphasize building height"
+    focus: "The architectural details of medieval Florentine buildings and street layout"
+    depth: "Foreground shows detailed stonework and street surface, middle ground displays building facades and shop fronts, background shows street receding with tower silhouettes"

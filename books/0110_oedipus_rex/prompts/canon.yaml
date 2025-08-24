@@ -1,0 +1,124 @@
+canon:
+  characters:
+    - id: "oedipus"
+      name: "Oedipus"
+      description_block: |
+        characters:
+          - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+            clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+            posture: "Standing upright with commanding presence, initially confident and authoritative"
+    
+    - id: "jocasta"
+      name: "Jocasta"
+      description_block: |
+        characters:
+          - appearance: "Regal woman in early fifties with majestic dignity, dark hair intricately braided and arranged with subtle gray streaks at temples, composed bearing with underlying tension"
+            clothing: "Doric peplos of heavy finely-woven wool in rich saffron color, ornate gold fibulae brooches at shoulders, deep blue himation when worn, gold bracelets and necklace"
+            posture: "Initially composed and controlled, gradually showing increasing anxiety"
+    
+    - id: "creon"
+      name: "Creon"
+      description_block: |
+        characters:
+          - appearance: "Leaner, more wiry man in his fifties, graying hair and beard neatly trimmed, intellectual strength rather than physical, calm rational bearing"
+            clothing: "High-quality but modest linen chiton and wool himation in subdued earth tones - olive green, gray, or dark blue, practical rather than luxurious"
+            posture: "Consistently rational and composed, standing with quiet dignity"
+    
+    - id: "tiresias"
+      name: "Tiresias"
+      description_block: |
+        characters:
+          - appearance: "Frail elderly man over seventy, gaunt and weak body worn by age, long sparse white hair and scraggly beard, cloudy or scarred blind eyes with otherworldly expression"
+            clothing: "Simple rough robe to ankles, probably old unbleached chiton of coarse weave, undyed broken white or pale gray fabric"
+            posture: "Leaning heavily on gnarled wooden staff, guided by young boy, moving slowly"
+    
+    - id: "messenger_corinth"
+      name: "Corinthian Messenger"
+      description_block: |
+        characters:
+          - appearance: "Sturdy weathered man in his sixties, hardened by outdoor life, tanned and tough skin, short gray hair and rough beard"
+            clothing: "Practical knee-length exomis tunic fastened on one shoulder leaving other arm free, made of rough homemade wool, simple leather sandals"
+            posture: "Honest straightforward bearing, initially confident in delivering what he believes is good news"
+    
+    - id: "old_servant"
+      name: "Old Servant of Laius"
+      description_block: |
+        characters:
+          - appearance: "Bent and frail man in his seventies, hunched by age and hard life, sparse gray hair, clean-shaven or stubbled, visibly terrified when confronted with authority"
+            clothing: "Torn patched chiton of coarsest fabric, poverty and low status immediately visible, faded earth tones, stained and worn"
+            posture: "Cowering and evasive, eyes avoiding direct contact, trembling with fear and long-hidden guilt"
+    
+    - id: "chorus_elders"
+      name: "Theban Elders"
+      description_block: |
+        characters:
+          - appearance: "Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray or white hair and beards signifying elder status"
+            clothing: "Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors like dark gray or deep blue"
+            posture: "Moving and reacting as unified group, faces serving as emotional barometer of the drama"
+
+  locations:
+    - id: "theban_palace"
+      name: "Palace of the Labdacids in Thebes"
+      description_block: |
+        setting:
+          location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+        mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+        atmosphere: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone with faded royal frescoes of lions and griffins"
+    
+    - id: "theban_courtyard"
+      name: "Palace Courtyard"
+      description_block: |
+        setting:
+          location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+        mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+        atmosphere: "Public space showing signs of city's plague-induced decay, harsh sunlight casting sharp shadows"
+    
+    - id: "delphi_sanctuary"
+      name: "Oracle at Delphi"
+      description_block: |
+        setting:
+          location: "Sacred sanctuary on steep slopes of Mount Parnassus in central Greece, holy site where divine and mortal worlds meet"
+        mainElements: "Doric temple of Apollo with columns, Sacred Way winding upward past treasury buildings, mountain peaks towering overhead"
+        atmosphere: "Awe-inspiring sacred space with thin mountain air, dramatic light and shadow emphasizing scale of mountains against small human figures"
+    
+    - id: "crossroads"
+      name: "The Fatal Crossroads"
+      description_block: |
+        setting:
+          location: "Remote intersection where three roads meet in rocky hill country of Boeotia, Greece - desolate place of irreversible choice"
+        mainElements: "Simple fork of dusty roads with no monuments, perhaps single gnarled olive tree as silent witness, stony ground with limestone outcroppings"
+        atmosphere: "Harsh merciless sun, isolated and empty landscape, symbolic place of fateful decisions"
+    
+    - id: "mount_cithaeron"
+      name: "Mount Cithaeron"
+      description_block: |
+        setting:
+          location: "Rocky limestone mountain range separating Boeotia from Attica in Greece, wilderness far from civilization"
+        mainElements: "Steep inhospitable slopes covered with rough scrubland, wild herbs, scattered pine trees, place for shepherds and wild animals"
+        atmosphere: "Primitive nature distant from cities, constant wind, sense of isolation and vulnerability where human attempts to control fate yield to wilderness"
+
+  items:
+    - id: "royal_scepter"
+      name: "Royal Scepter"
+      description_block: |
+        details: "Long staff topped with royal emblem, possibly lion's head, symbol of Oedipus's kingship and authority, made of polished wood with gold ornamentation"
+    
+    - id: "golden_diadem"
+      name: "Golden Diadem"
+      description_block: |
+        details: "Simple but heavy gold circlet worn by Oedipus as crown, plain design emphasizing solidity and weight of royal authority"
+    
+    - id: "fibulae_brooches"
+      name: "Jocasta's Golden Fibulae"
+      description_block: |
+        details: "Ornate golden brooches used to fasten Jocasta's peplos at the shoulders, possibly spiral or rosette designs, sharp pins that become instruments of tragic fate"
+    
+    - id: "supplicant_branches"
+      name: "Olive Branches with Wool"
+      description_block: |
+        details: "Olive branches wrapped with white wool carried by suppliants, traditional symbols of supplication and desperate pleading to the gods and rulers"
+    
+    - id: "shepherd_staff"
+      name: "Shepherd's Staff"
+      description_block: |
+        details: "Simple gnarled wooden staff used by shepherds for support and guiding flocks, humble tool of pastoral life"

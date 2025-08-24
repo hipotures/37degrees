@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1962, autumn evening
+    location: Hidden basement meeting space in Japanese Occupied San Francisco showing clandestine resistance organization
+    weather: Cool autumn evening with overcast sky
+  characters:
+  - appearance: Tall, broad-shouldered man in his 40s with dark complexion, black curly hair, violet-brown eyes behind glasses,
+      features surgically altered to hide Jewish heritage
+    clothing: Expensive custom-tailored suits made from finest English wool, perfectly cut to emphasize his imposing height
+      and build
+    position: Seated at makeshift table surrounded by underground resistance members
+    action: Carefully reviewing secret documents while maintaining alert watchful posture
+  scene:
+    mainElements: Underground meeting space showing autumn themes of preparation and gathering resources for survival, resistance
+      networks like trees storing energy for winter endurance, accumulated intelligence materials representing months of careful
+      organization
+    details: Dim lighting from single hanging bulb casting dramatic shadows, papers and maps spread across wooden table, radio
+      equipment hidden under canvas tarp, stored supplies arranged along basement walls, autumn leaves visible through high
+      basement window, condensation on pipes showing seasonal temperature change, participants' faces showing determined resolve
+      mixed with autumn melancholy, no text or letters visible
+    background: Concrete basement walls bearing moisture stains, narrow stairs leading to concealed entrance, muffled sounds
+      of street life above suggesting normalcy hiding rebellion below
+    atmosphere: Tense preparation and gathering of strength for coming trials, autumn's harvest energy channeled into resistance
+      organization, sense of time running short as political winter approaches
+  composition:
+    cameraAngle: Medium shot around table with low lighting creating dramatic shadows
+    focus: Central figure reviewing documents with resistance members in background shadows
+    depth: 'Foreground: documents and maps on table, middle: meeting participants, background: basement environment and hidden
+      entrance'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

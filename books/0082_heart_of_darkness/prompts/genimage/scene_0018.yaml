@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, afternoon
+    location: The same drawing-room.
+    weather: The room is growing darker as night falls.
+  characters:
+  - appearance: Charles Marlow.
+    clothing: A dark, formal suit.
+    position: Standing before the Intended.
+    action: He tells her the lie, that Kurtz's last word was her name. As he speaks, his own shadow seems to detach from him
+      and recoil in horror.
+  - appearance: Kurtz's Intended.
+    clothing: Mourning clothes.
+    position: Looking up at Marlow, her face filled with a rapturous, tearful gratitude.
+    action: She accepts the lie completely, as it confirms her idealized vision of the man she loved.
+  scene:
+    mainElements: Marlow's decision to lie to the Intended. A moment of moral compromise that saves her from the horror, but
+      taints Marlow forever.
+    details: As Marlow speaks the lie, the room seems to plunge into an even deeper darkness. The ghostly image of Kurtz in
+      the fireplace seems to nod in grim approval. The shadows in the room writhe and twist, and for a moment, the entire
+      room seems to become the dark, oppressive jungle. no text or letters visible
+    background: The room is almost completely dark now, the furniture barely visible.
+    atmosphere: A scene of profound moral ambiguity. Marlow's lie is both an act of compassion and an act of corruption, a
+      final surrender to the darkness. no text or letters visible
+  composition:
+    cameraAngle: A close-up on Marlow's face as he tells the lie.
+    focus: The subtle expression of self-loathing and despair in Marlow's eyes as he speaks the words.
+    depth: A shallow depth of field, with the Intended's grateful face and the approving ghost of Kurtz blurred in the background.
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

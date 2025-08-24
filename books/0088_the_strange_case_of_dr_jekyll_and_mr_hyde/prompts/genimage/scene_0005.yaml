@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1880s late evening, private moments of self-reflection
+    location: Jekyll's bedroom mirror, seen as window to heroic destiny
+    weather: Still indoor night, single candle creating dramatic lighting
+  characters:
+  - appearance: Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face
+      with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples
+    clothing: White nightshirt and dark dressing gown, informal attire revealing authentic self
+    position: Standing before bedroom mirror, seeing himself as visionary pioneer
+    action: Gazing into reflection with sense of noble purpose, touching face with reverent appreciation of destiny
+  scene:
+    mainElements: Bedroom mirror becomes portal to heroic self-image - reflection shows not just physical features but noble
+      soul of scientific pioneer, candlelight creates dramatic chiaroscuro emphasizing dignity of mission
+    details: Mirror reflects Jekyll's perception of himself as enlightened explorer of human nature - every line of face speaks
+      wisdom, eyes burn with passion for revolutionary discovery, posture suggests bearing of one chosen for great scientific
+      breakthrough
+    background: Bedroom furnishings fade into shadows, leaving only essential elements of self-contemplation, mirror frame
+      becomes border between ordinary world and realm of extraordinary possibility
+    atmosphere: Exhilarating sense of scientific destiny and moral purpose, dramatic lighting casting heroic shadows, feeling
+      of standing on threshold of breakthrough that will benefit all humanity, no text or letters visible
+  composition:
+    cameraAngle: Close-up of Jekyll's reflection as he sees himself - noble, pioneering, destined for greatness
+    focus: Jekyll's heroic self-image, emphasizing perceived nobility of his experimental goals
+    depth: Foreground shows idealized reflection, middle ground captures intimate moment of self-recognition, background suggests
+      vast potential of scientific discovery
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Trantor underground levels showing forgotten districts and urban decay"
+  setting:
+    time: "Galactic Standard Era 12000s, dim maintenance period"
+    location: "abandoned lower levels of Trantor beneath official city, forgotten districts from earlier Imperial periods"
+    weather: "stagnant underground atmosphere with failing environmental controls"
+  characters:
+    - appearance: "forgotten Imperial citizens in various states of poverty, maintenance workers, outcasts from official society, diverse ages showing long-term underground survival"
+      clothing: "worn and patched clothing showing improvised repairs, practical gear adapted for underground living, makeshift protective equipment"
+      position: "navigating through abandoned infrastructure, scavenging useful materials, maintaining hidden communities"
+      action: "repairing failing systems with improvised tools, trading salvaged goods, maintaining underground settlements, avoiding official attention"
+  scene:
+    mainElements: "abandoned Imperial architecture showing advanced decay, failed infrastructure systems, improvised communities in forgotten spaces, evidence of earlier Imperial glory now neglected"
+    details: "corroded metal surfaces with rust and structural damage, broken automated systems cannibalized for parts, improvised lighting systems using salvaged components, water leaks and environmental system failures, graffiti and markings showing underground cultural development, hidden passages connecting abandoned districts"
+    background: "endless underground tunnels extending beyond sight, multiple levels of forgotten infrastructure, occasional glimpses of functional upper city through damaged ceiling sections"
+    atmosphere: "Imperial decay and abandonment beneath official grandeur, forgotten populations surviving through improvisation, evidence of systemic failure in maintaining vast urban infrastructure"
+  composition:
+    cameraAngle: "low angle showing oppressive overhead infrastructure and human persistence"
+    focus: "contrast between Imperial ambition and actual maintenance reality"
+    depth: "foreground survival activities, middle ground abandoned infrastructure, background underground urban maze"

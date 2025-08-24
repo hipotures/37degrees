@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Near future, daytime
+    location: The Ludovico Medical Facility.
+    weather: The room is windowless.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. He is writhing in agony on the floor.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      Wears a white hospital gown.
+    position: In the cinema-like room.
+    action: He is being forced to listen to Beethoven's 9th Symphony, which is now
+      associated with the nausea and terror of the Ludovico Technique.
+  - appearance: A cold, clinical-looking man with a severe expression. He is clean-shaven
+      and has short, neat hair. Stands with a rigid, authoritarian posture.
+    clothing: Wears a white lab coat.
+    position: Observing Alex with a look of triumph.
+    action: He is demonstrating the success of the treatment to a group of government
+      officials.
+  scene:
+    mainElements: The unintended consequence of the Ludovico Technique. Alex's love
+      for classical music, his one redeeming quality, has been turned into a source
+      of torment.
+    details: The room is filled with the glorious, transcendent music of Beethoven,
+      but for Alex, it is a sound of pure horror. The musical notes are visualized
+      as sharp, jagged shapes that are physically attacking him. The bust of Beethoven
+      in his memory is cracking and crumbling.
+    background: A group of government officials are watching the demonstration, their
+      faces a mixture of awe and revulsion.
+    atmosphere: A scene of profound tragedy and artistic desecration. The most beautiful
+      art is being used as a tool of torture. Alex's soul is being destroyed.
+  composition:
+    cameraAngle: A high angle shot, looking down on Alex as he writhes on the floor,
+      emphasizing his helplessness and agony.
+    focus: The visualized, jagged musical notes that are attacking Alex.
+    depth: 'Foreground: Alex. Middle ground: Dr. Brodsky. Background: The government
+      officials.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

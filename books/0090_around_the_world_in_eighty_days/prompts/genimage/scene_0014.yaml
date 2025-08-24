@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: November 1872, morning
+    location: Hong Kong British colonial outpost showing imperial symbols and administrative power
+    weather: Tropical morning with bright clear sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Imposing colonial government building with Union Jack flying proudly, British imperial symbols and heraldic
+      elements integrated into tropical architecture, ceremonial and administrative elements showing colonial authority
+    details: Large Union Jack flag flying from flagpole atop government house, royal coat of arms carved into stone pediment
+      above main entrance, British lion and unicorn heraldic symbols incorporated into building decoration, colonial administrative
+      offices with venetian blinds and wide verandas adapted to tropical climate, official notices and proclamations posted
+      in English and Chinese languages, British military insignia and regimental colors displayed, statue or bust of Queen
+      Victoria representing imperial authority, formal gardens with European landscaping principles adapted to tropical plants
+    background: Hong Kong harbor with British naval vessels and merchant ships, mountainous terrain of Hong Kong island, Chinese
+      junks showing local maritime culture alongside British shipping
+    atmosphere: Imperial confidence and administrative authority, cultural dominance expressed through symbols and architecture,
+      tension between British control and Chinese local culture
+  composition:
+    cameraAngle: Formal frontal view emphasizing governmental authority and imperial symbolism
+    focus: Union Jack flag and government building as symbols of British colonial power
+    depth: Imperial symbols and architectural details in foreground, colonial buildings in middle distance, harbor and mountains
+      providing strategic context
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Counting House - Seven Years Apart"
+  setting:
+    time: "1836 and 1843, late December afternoons"
+    location: "Cramped London business office in commercial district, Victorian era with grimy brick buildings, narrow cobblestone streets"
+    weather: "Cold winter days with frost on windows, gray overcast sky"
+  characters:
+    - appearance: "Middle-aged thin man in 40s with kind eyes, prematurely aged by hardship, gentle face showing patience and goodness"
+      clothing: "Threadbare dark suit, worn white shirt, thin white scarf wrapped around neck for warmth, patched but clean garments"
+      position: "Seated at same small desk in both time periods"
+      action: "Writing in ledgers with numb fingers, warming hands over single candle, embracing family members with tender affection"
+  scene:
+    mainElements: "Split composition showing same office space seven years apart - left side 1836 with two desks occupied, right side 1843 with only one clerk remaining, same massive wooden desk covered in ledgers"
+    details: "Temporal overlay reveals accumulated wear - ink stains deeper, wood more weathered, Bob's white scarf more frayed, single candle flame smaller, coal fire reduced to mere embers, same iron safe but more tarnished, ledger stack grown taller with years of entries, no text or letters visible"
+    background: "Windows show seasonal consistency but building wear, same narrow cobblestone street with slight changes in stonework, gas lamps newly installed by 1843, other businesses closed and shuttered"
+    atmosphere: "Growing coldness and isolation over seven years passage, deepening shadows cast by increasingly inadequate lighting, sound of fewer footsteps, echoing loneliness filling expanded silence"
+  composition:
+    cameraAngle: "Wide establishing shot from office entrance showing temporal split"
+    focus: "Center desk where time's passage most clearly marked through accumulated details"
+    depth: "Foreground shows immediate workspace changes, middle ground reveals office deterioration, background displays street evolution over seven years"

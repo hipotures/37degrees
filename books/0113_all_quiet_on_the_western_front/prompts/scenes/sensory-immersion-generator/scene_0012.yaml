@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Wild flowers in full bloom with bees hovering in abandoned garden"
+  setting:
+    time: "1917 late spring afternoon, peak flowering season"
+    location: "overgrown garden of destroyed French farmhouse, nature reclaiming cultivated space, flowers blooming despite abandonment"
+    weather: "warm sunny day perfect for flower blooming, gentle breeze moving petals"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "kneeling among flower beds, helmet removed and set aside"
+      action: "watching bees move between flowers, observing natural life continuing despite war destruction around garden"
+  scene:
+    mainElements: "wildflowers blooming in riot of colors throughout abandoned garden, bees hovering and moving between blossoms in visible flight patterns, soldier kneeling peacefully among flowers, ruins of farmhouse providing backdrop"
+    details: "bees creating visible movement patterns between flowers showing their foraging routes, pollen visible on bee bodies and floating in air around blossoms, flowers in various stages of bloom from tight buds to fully opened petals, bee flight paths creating dynamic lines through garden space, flower petals releasing visible pollen clouds when disturbed by bee activity, garden overgrown but still showing original cultivation patterns, bee wings catching sunlight during hovering moments, flowers swaying gently in breeze creating wave-like motion through garden, no text or letters visible"
+    background: "destroyed farmhouse walls with flowering vines growing through broken windows, garden extending toward damaged agricultural fields, evidence of cultivation mixed with war damage"
+    atmosphere: "natural life persisting despite human conflict, beauty and productivity continuing in abandoned spaces, peaceful contrast between creation and destruction"
+  composition:
+    cameraAngle: "low angle from garden level showing flowers and bee activity with soldier among blooms"
+    focus: "bees in motion between colorful flower heads with visible pollen transfer"
+    depth: "foreground shows detailed flower and bee activity, middle ground features kneeling soldier, background reveals ruined farmhouse and overgrown fields"

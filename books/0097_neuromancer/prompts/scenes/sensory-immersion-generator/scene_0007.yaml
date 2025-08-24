@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Corporate security alarm creating ripples in puddle water"
+  setting:
+    time: "2030s, night during infiltration operation"
+    location: "exterior plaza of massive corporate arcology, rain-soaked courtyard with geometric water features"
+    weather: "light rain continuing to fall, creating fresh puddles on reflective surfaces"
+  characters:
+    - appearance: "tall athletic woman in late twenties, pale skin stretched over lean muscle, dark hair cropped short, surgically implanted mirrored lenses covering entire eye sockets like permanent sunglasses reflecting world back at observer, four-centimeter retractable scalpel blades hidden beneath fingernails"
+      clothing: "form-fitting black leather garments designed for combat mobility, reinforced synthetic fabric suit with hidden pockets for weapons, soft-soled boots for silent movement, everything in matte black"
+      position: "crouched beside large puddle, frozen in motion"
+      action: "remaining perfectly still as invisible security alarm creates concentric ripples expanding across water surface, body tensed for immediate escape"
+  scene:
+    mainElements: "large puddle of rainwater reflecting building lights above, concentric ripples spreading outward from center without visible cause, corporate tower rising behind with geometric patterns of illuminated windows"
+    details: "perfect circular ripples expanding across puddle surface in regular intervals, water surface disturbed by sound waves from building security system, raindrops creating smaller secondary ripples, mirrored lenses reflecting ripple patterns, building lights fragmented by water motion, no text or letters visible"
+    background: "massive corporate arcology extending upward beyond frame, geometric plaza with modern architecture, other reflective surfaces showing similar vibration patterns"
+    atmosphere: "tension of invisible alarm system made visible through water disturbance, technological surveillance revealed through natural element, silent threat communicated through ripple patterns"
+  composition:
+    cameraAngle: "low angle shot focusing on puddle surface with figure beside it"
+    focus: "concentric ripples in puddle water making invisible sound waves visible"
+    depth: "extreme foreground showing detailed ripple patterns, middle ground featuring crouched figure, background revealing towering corporate structure"

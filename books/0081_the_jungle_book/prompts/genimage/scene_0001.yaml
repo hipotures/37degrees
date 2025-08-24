@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, evening
+    location: The Seeonee (modern Seoni) hills region in Madhya Pradesh, central India. A varied landscape of rocky hills,
+      deep dry ravines (nullahs), dense bamboo thickets, and open plains. Key trees include the Mohwa tree with its waxy flowers
+      and wild fig trees.
+    weather: A hot, still evening, the air filled with the sounds of the jungle settling down for the night.
+  characters: No characters present in this scene
+  scene:
+    mainElements: A wide, establishing shot of the Seeonee hills. The landscape is rugged and ancient, with rocky outcrops
+      and dense jungle stretching to the horizon.
+    details: The setting sun casts long shadows across the valleys. The Waingunga river glints in the distance. The air is
+      thick with the scent of damp earth and decaying leaves. no text or letters visible
+    background: The sky is a deep orange and purple, with the first stars beginning to appear.
+    atmosphere: Majestic and ancient, a world governed by its own laws, beautiful but unforgiving. no text or letters visible
+  composition:
+    cameraAngle: High-angle wide shot, looking down on the jungle canopy.
+    focus: The vast, untamed expanse of the jungle landscape.
+    depth: 'Foreground: the silhouette of a rocky outcrop. Middle ground: the dense jungle canopy. Background: the winding
+      Waingunga river and the distant horizon.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

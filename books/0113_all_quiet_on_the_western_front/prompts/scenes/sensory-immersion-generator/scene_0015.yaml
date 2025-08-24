@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Smoke tendrils before fire becomes visible rising from hidden sources"
+  setting:
+    time: "1917 winter evening, just before twilight"
+    location: "quiet sector of front line trenches, early warning system through smoke detection, hidden enemy positions"
+    weather: "still cold air allowing smoke to rise straight up, no wind to disperse early smoke signals"
+  characters:
+    - appearance: "40 lat, zgarbione opadające ramiona sugerujące człowieka przyzwyczajonego do ciężkiej pracy, niebieskie oczy, twarz z ziemi poorana zmarszczkami ogorzała od wiatru i słońca surowa i prosta, biedny cienki wąsik, niezwykły nos"
+      clothing: "znoszony brudny mundur niemieckiego żołnierza Feldgrau, jako szewc z zawodu prawdopodobnie najlepiej dbał o swoje buty w warunkach frontowych"
+      position: "standing alert in observation position, scanning horizon for early warning signs"
+      action: "pointing toward thin smoke tendrils rising in distance, alerting others to potential danger before flames become visible"
+  scene:
+    mainElements: "thin wisps of smoke rising from hidden positions across battlefield, soldier acting as early warning observer, smoke patterns revealing hidden activity before flames appear, winter landscape making smoke more visible against gray sky"
+    details: "barely visible smoke tendrils rising straight up in still air indicating hidden fires or cooking activity, smoke appearing as thin gray lines against winter sky before any flames become visible, different smoke patterns suggesting various sources like cooking fires versus burning equipment, smoke density and color indicating fuel types and fire intensity before visual confirmation, observer using smoke signs to detect enemy movement and positions, smoke tendrils disappearing and reappearing as fires are controlled or extinguished, early smoke signals providing tactical intelligence about hidden activities, winter air making smoke more concentrated and visible, no text or letters visible"
+    background: "battlefield landscape with hidden positions revealed only through smoke traces, distant trenches and positions invisible except for telltale smoke signs, winter sky providing contrast for smoke detection"
+    atmosphere: "heightened alertness and survival instincts, early warning systems based on natural observation, smoke serving as communication medium before danger becomes obvious"
+  composition:
+    cameraAngle: "wide shot showing soldier pointing toward distant smoke tendrils across battlefield horizon"
+    focus: "thin smoke lines rising vertically from hidden positions in distance"
+    depth: "foreground shows alert soldier in observation stance, middle ground features battlefield terrain, background reveals barely visible smoke tendrils against sky"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Procession"
+  setting:
+    time: "Late 19th Century, daytime"
+    location: "The Inner Station."
+    weather: "Oppressive heat."
+  characters:
+    - appearance: "Mr. Kurtz, a skeletal figure, ravaged by disease."
+      clothing: "Minimal, ragged clothing."
+      position: "Being carried on a stretcher by a group of African warriors."
+      action: "He is weak, but his eyes burn with a feverish intensity. He raises a thin, skeletal arm and speaks, his voice a powerful, hypnotic boom that seems to come from the earth itself."
+    - appearance: "A group of African warriors."
+      clothing: "Tribal war paint and adornments."
+      position: "Carrying Kurtz's stretcher."
+      action: "They move with a ritualistic solemnity, their faces a mixture of fear and adoration."
+    - appearance: "A proud, beautiful African woman."
+      clothing: "Ornate, barbaric jewelry."
+      position: "Walking beside the stretcher."
+      action: "She looks on with an expression of fierce, possessive pride. She is Kurtz's queen, the embodiment of the savage power he has embraced."
+  scene:
+    mainElements: "The first appearance of Kurtz. He is a fallen god, a king of a nightmare kingdom."
+    details: "The scene is a bizarre, pagan procession. The air is thick with the smell of woodsmoke and unwashed bodies. The sound of a drum beats a slow, hypnotic rhythm. The shadows cast by the procession are long and distorted, like monstrous puppets. no text or letters visible"
+    background: "The dark, oppressive jungle."
+    atmosphere: "A scene of primitive, terrifying power and debased majesty. The line between god and monster, civilization and savagery, has been completely erased. no text or letters visible"
+  composition:
+    cameraAngle: "Low-angle shot, looking up at Kurtz on his stretcher, making him seem powerful and imposing despite his physical weakness."
+    focus: "Kurtz's burning, hypnotic eyes."
+    depth: "Foreground: the adoring, fearful faces of the warriors. Middle ground: Kurtz on his stretcher. Background: the proud, silent figure of his African mistress."

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Pristine Streets and Smiling Uniformed Citizens"
+  setting:
+    time: "Near future, pleasant morning with soft natural light"
+    location: "Clean residential district in Gilead territory with tree-lined streets"
+    weather: "Perfect weather with gentle sunshine and no clouds"
+  characters:
+    - appearance: "Several citizens in their caste uniforms appearing content and peaceful in their designated roles"
+      clothing: "Perfect uniforms - blue Wives tending gardens, brown Aunts supervising, green Marthas carrying baskets"
+      position: "Positioned throughout the street scene engaged in approved activities"
+      action: "Performing idealized daily tasks with apparent satisfaction and calm efficiency"
+  scene:
+    mainElements: "Immaculately clean streets with no litter or imperfections, citizens going about organized daily routines, well-maintained gardens and public spaces"
+    details: "Every surface is spotless and well-maintained, paint is fresh, gardens are perfectly manicured with approved plants and flowers. Citizens move with purposeful calm, their interactions appear cordial and controlled. Technology serves everyone equally with clean energy systems and efficient transportation visible but unobtrusive."
+    background: "Uniform housing architecture suggesting planned community development, public amenities designed for collective use, subtle security features integrated into the pleasant environment"
+    atmosphere: "Surface-level perfection and harmony that suggests everything functions smoothly under Gilead's system, creating an unsettling sense of too-perfect order"
+  composition:
+    cameraAngle: "Street-level view showing the idealized community from a pedestrian perspective"
+    focus: "The clean, organized street scene with citizens engaged in approved activities"
+    depth: "Street activities in foreground, residential buildings in middle ground, clear sky suggesting unlimited promise in background"

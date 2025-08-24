@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Generational Feast - Victorian to Future Banquets"
+  setting:
+    time: "Overlapping temporalities from 1895 to 802,701"
+    location: "Same great hall space across vast temporal span"
+    weather: "Interior lighting evolving from candlelight to electric to unknown future illumination"
+  characters:
+    - appearance: "Triple temporal overlay - Victorian dinner guests in 1895 formal attire, Eloi in future tunics, ghostly suggestion of intervening generations"
+      clothing: "1895 layer shows formal evening dress, future layer shows simple colored tunics, middle layers suggest fashion evolution across centuries"
+      position: "Identical seated positions around same table space across temporal layers"
+      action: "Communal dining ritual repeated across generations - formal Victorian ceremony, casual Eloi fruit sharing, implied continuity of human gathering"
+  scene:
+    mainElements: "Great hall showing same communal dining space across enormous time span, with architectural evolution from Victorian grandeur to ruined palace to simple future gathering place"
+    details: "Table settings evolve from fine china and crystal to simple wooden bowls and natural materials. Food transforms from elaborate Victorian courses to abundant exotic fruits. Lighting shifts from warm candlelight to harsh electric to soft future luminescence. Architectural details weather and change - carved wood becomes worn stone becomes organic growing structures"
+    background: "Same windows show different views - Victorian London to garden wilderness to unknowable future landscape, walls accumulate and lose decoration across time"
+    atmosphere: "Continuity of human fellowship across time, dining as eternal human ritual, generational echo in same space, comfort of repeated tradition despite revolutionary change, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot encompassing full dining hall with temporal layers visible"
+    focus: "Central dining table showing clear temporal progression of communal meals"
+    depth: "Table settings sharp in foreground, seated figures in middle ground, evolving architecture and windows in background"

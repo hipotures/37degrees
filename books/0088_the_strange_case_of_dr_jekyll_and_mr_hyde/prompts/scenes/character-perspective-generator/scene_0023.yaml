@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Jekyll's Household Staff vs Outside World"
+  setting:
+    time: "1880s evening, during final crisis at Jekyll's house"
+    location: "Jekyll's house showing simultaneous insider and outsider perspectives"
+    weather: "Indoor tension contrasting with normal evening outside"
+  characters:
+    - appearance: "Middle-aged man 50-60 years old, neat dignified appearance befitting head servant, face showing loyalty but twisted with terror"
+      clothing: "Formal butler's attire - black tailcoat, white shirt with bow tie"
+      position: "Standing with other household staff in service corridor"
+      action: "Whispering desperately with other servants, sharing knowledge of household secrets"
+    - appearance: "Multiple Victorian-era neighbors and curious onlookers"
+      clothing: "Evening dress of respectable neighborhood residents"
+      position: "Gathered outside house, observing from street"
+      action: "Speculating about disturbances, maintaining respectful distance while expressing curiosity"
+  scene:
+    mainElements: "House becomes boundary between two different realities - inside shows servants' intimate knowledge of crisis, outside shows neighborhood's ignorant speculation, building facade serving as barrier between truth and appearance"
+    details: "Interior reveals household staff united by dangerous knowledge - servants huddled together sharing fearful whispers, evidence of crisis visible in private areas, familiar routines disrupted by emergency conditions"
+    background: "Exterior shows normal residential street where neighbors maintain polite distance, gas lighting illuminating respectable facades, other houses suggesting continuation of normal life"
+    atmosphere: "Stark contrast between intimate household terror and external neighborhood curiosity, warm light inside revealing crisis while street maintains normal evening atmosphere, two realities separated by architecture, no text or letters visible"
+  composition:
+    cameraAngle: "Split screen showing simultaneous inside and outside perspectives of same crisis"
+    focus: "Contrasting interpretations of same events by insiders versus outsiders"
+    depth: "Multiple reality planes showing intimate knowledge versus distant speculation about same situation"

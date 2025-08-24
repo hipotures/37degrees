@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: December 1872, afternoon
+    location: Private garden in London showing Victorian landscape design and domestic tranquility
+    weather: Mild winter afternoon with gentle sunlight filtering through bare tree branches
+  characters: No characters present in this scene
+  scene:
+    mainElements: Beautifully designed Victorian garden showing harmony between human planning and natural elements, formal
+      garden design with winter plants and architectural features, peaceful domestic retreat from urban industrial world
+    details: Formal garden paths with geometric brick or gravel layouts, winter flower beds with carefully planned seasonal
+      plants, ornamental trees pruned and shaped according to Victorian gardening principles, garden architectural elements
+      including ornate iron benches and decorative urns, small greenhouse or conservatory with glass panels, garden walls
+      or hedges providing privacy and structure, fountain or water feature as centerpiece, seasonal plants showing winter
+      beauty including evergreens and dormant rose bushes, garden tools and equipment showing careful maintenance
+    background: Victorian house facade visible showing domestic architecture, London urban environment beyond garden walls,
+      chimneys and rooftops suggesting broader city context
+    atmosphere: Peaceful domestic harmony and Victorian ideals of beauty, sense of order and careful planning creating beauty,
+      refuge from industrial urban environment
+  composition:
+    cameraAngle: Medium perspective showing garden layout and relationship to domestic architecture
+    focus: Central garden feature such as fountain or ornamental tree as symbol of Victorian domestic beauty
+    depth: Garden details and pathways in foreground, landscaped areas extending through middle distance, house and urban
+      context providing backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

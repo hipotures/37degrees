@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1860 to 1895, consistent afternoon light
+    location: Same portrait position in Victorian gentleman's study
+    weather: Steady afternoon sunlight through tall window
+  characters:
+  - appearance: British gentleman, 38-40 years old, average height, intellectual build, pale complexion with tendency to flush
+      when excited, sharp grey eyes that gleam with intelligence, dark hair with first touches of grey at temples
+    clothing: Formal black evening dress (frock coat, white waistcoat, white bow tie) for dinner scenes, or practical dark
+      tweed three-piece suit with high starched collar for laboratory work, smoking jacket for home comfort
+    position: Identical pose in leather armchair, slight forward lean showing intellectual engagement
+    action: Multiple transparent layers showing same person aging from university student to established scientist, same confident
+      posture maintained across decades
+  scene:
+    mainElements: Temporal portrait showing single individual's progression from earnest young scholar to distinguished middle-aged
+      inventor, identical pose and lighting emphasizing character consistency despite physical aging
+    details: Hair transitions from full dark brown to distinguished gray at temples, face moves from smooth youth to character
+      lines of experience, same intelligent eyes grow deeper with wisdom. Clothing evolves from simple student garb to fine
+      gentleman's attire. Chair leather shows wear patterns from years of use
+    background: Same study with books accumulating on shelves, scientific awards and honors appearing on walls, desk cluttered
+      with increasingly complex projects
+    atmosphere: Intellectual development across lifetime, consistency of character despite physical change, wisdom earned
+      through dedicated study and experience, no text or letters visible
+  composition:
+    cameraAngle: Medium portrait shot at seated eye level
+    focus: Central figure showing temporal layering of same person across decades
+    depth: Subject sharp in foreground, chair and immediate study details in middle ground, bookshelves soft in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

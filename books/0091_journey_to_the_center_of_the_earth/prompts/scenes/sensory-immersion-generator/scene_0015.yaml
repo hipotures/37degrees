@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Warning Smoke Before Underground Explosion"
+  setting:
+    time: "1863, deep underground"
+    location: "Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces"
+    weather: "Increasingly volatile atmosphere with dangerous chemical buildup"
+  characters:
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+  scene:
+    mainElements: "Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits, cathedral-like caverns with towering stone formations"
+    details: "Thin tendrils of acrid smoke beginning to seep from explosive charges placed in rock wall, barely visible chemical vapors suggesting volatile gunpowder and explosive cotton, nostrils flaring with alarm at detecting dangerous chemical signatures, bodies instinctively pulling back from smoke source showing recognition of threat, clothing and equipment being gathered hastily in preparation for retreat, lamp flame flickering differently in changing atmospheric chemistry, increasing tension visible through defensive posturing and alert expressions, no text or letters visible"
+    background: "Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and ancient geological time"
+    atmosphere: "Olfactory warning of impending danger, chemical scents triggering survival instincts and urgent need for retreat"
+  composition:
+    cameraAngle: "Medium shot showing alert reactions to smoke detection"
+    focus: "Flaring nostrils and smoke tendrils indicating chemical warning"
+    depth: "Foreground emphasizes human alarm reactions, middle ground shows smoke sources, background suggests explosive placement"

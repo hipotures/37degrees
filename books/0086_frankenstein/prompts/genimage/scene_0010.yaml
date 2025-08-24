@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1780s, moonlit night
+    location: Forest pool reflecting moonlight like natural mirror
+    weather: Clear still night with full moon overhead
+  characters:
+  - appearance: Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing
+      superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous
+      flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white
+      teeth, visible surgical scars and stitching marks across body where body parts were joined together
+    clothing: Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory
+      clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark
+      cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel
+    posture: Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands
+      with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or
+      threatening stance of rage
+    action: Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human
+      families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship
+  scene:
+    mainElements: Creature kneeling beside forest pool, moonlight revealing his reflection in still water, surrounding trees
+      creating natural cathedral of solitude
+    details: Creature seeing himself not as monster but as tragic figure worthy of sympathy, moonlight transforming his fearsome
+      features into marks of noble suffering, reflection showing being capable of profound thought and feeling despite hideous
+      exterior, forest pool becoming mirror of self-examination where creature recognizes his own worth despite world's judgment,
+      scars and stitches appearing as badges of unique creation rather than deformity, eyes revealing depths of intelligence
+      and emotion that humans refuse to acknowledge, no text or letters visible
+    background: Ancient forest providing sanctuary where creature can contemplate his nature without human interference
+    atmosphere: Moment of self-recognition and tragic dignity, creature understanding himself as protagonist of his own story
+      despite world's determination to cast him as villain
+  composition:
+    cameraAngle: Creature's own perspective looking down at reflection that reveals his true noble nature
+    focus: Moonlit reflection showing being of worth and intelligence rather than mere monster
+    depth: Foreground shows creature's contemplative pose, middle ground captures meaningful reflection, background suggests
+      vast world that fails to understand his value
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

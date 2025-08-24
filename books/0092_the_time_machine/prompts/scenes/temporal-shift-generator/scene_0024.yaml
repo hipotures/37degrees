@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Social Revolution Patterns - Class Struggle Eternal Return"
+  setting:
+    time: "Multiple revolutionary periods showing repeated social upheaval patterns"
+    location: "Same public square across different centuries of social change"
+    weather: "Revolutionary weather - storms accompanying social upheaval across time"
+  characters:
+    - appearance: "Crowds from different revolutionary periods - ancient slave revolts, medieval peasant uprisings, industrial worker strikes, future unknown social movements - all occupying same demonstration space"
+      clothing: "Revolutionary attire across centuries - simple worker clothes through different eras, showing consistent patterns of oppressed versus oppressor dress"
+      position: "Same crowd positions and formation patterns repeated across historical uprisings"
+      action: "Identical revolutionary activities echoing through time - speeches, protests, resistance movements following same patterns across centuries"
+  scene:
+    mainElements: "Public square serving as eternal stage for social revolution - same architectural spaces hosting different centuries of popular uprising, platform structures serving speakers across time periods"
+    details: "Revolutionary symbols evolve while underlying patterns remain constant - raised fists, banners, crowd formations identical across vastly different historical contexts. Architecture shows damage and repair from repeated uprisings - stones replaced, buildings rebuilt, same spaces contested across centuries"
+    background: "Authority structures responding identically across time - same defensive positions, same suppression tactics, suggesting eternal conflict patterns"
+    atmosphere: "Cyclical nature of social change, human patterns transcending technological development, eternal struggle between classes regardless of specific historical context, hope and tragedy repeating endlessly, no text or letters visible"
+  composition:
+    cameraAngle: "Elevated view showing crowd patterns and architectural consistency"
+    focus: "Central platform area where revolutionary activities concentrate across time"
+    depth: "Revolutionary crowds in foreground, consistent architecture in middle ground, repeating authority responses in background"

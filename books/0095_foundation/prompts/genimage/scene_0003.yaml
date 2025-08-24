@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, morning
+    location: exclusive Imperial District natural preserve within metallic planet-city, one hundred square miles of authentic
+      soil and vegetation under open sky
+    weather: natural weather patterns with authentic cloud formations and sunlight
+  characters: No characters present in this scene
+  scene:
+    mainElements: real trees and gardens, natural pathways, authentic stone buildings, clear sky visible above - stark contrast
+      to metal-covered world
+    details: Genuine grass, flowering plants, and mature trees growing in actual soil, natural stone architecture resembling
+      ancient Earth styles, meandering paths through landscaped gardens, crystal-clear streams and ponds, authentic bird songs
+      and natural sounds, distant metallic city walls visible at horizon marking preserve boundaries
+    background: towering metal walls of surrounding cityscape creating artificial horizon, occasional glimpses of urban sprawl
+      beyond natural preserve, controlled atmospheric dome maintaining isolated ecosystem
+    atmosphere: isolated paradise emphasizing Emperor's separation from forty-five billion subjects, ultimate symbol of power
+      and privilege
+  composition:
+    cameraAngle: eye-level perspective through natural landscape showing contrast
+    focus: natural elements emphasizing organic beauty against artificial world
+    depth: foreground natural details, middle ground garden landscapes, background metallic city walls
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

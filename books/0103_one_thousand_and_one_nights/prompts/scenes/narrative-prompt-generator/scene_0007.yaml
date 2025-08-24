@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sister's Innocent Plea in Garden Courtyard"
+  setting:
+    time: "Early evening, Sasanian Persian Empire"
+    location: "Private family courtyard with fountain and flowering plants in minister's residence"
+    weather: "Calm evening with gentle breeze and approaching sunset"
+  characters:
+    - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+      clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+      position: "Standing beside fountain explaining plan with calm determination"
+      action: "Speaking earnestly with measured gestures, maintaining composed demeanor despite gravity of situation"
+    - appearance: "Young woman aged 17 years with delicate features resembling her older sister, innocent expression with wide trusting eyes, graceful but more youthful bearing"
+      clothing: "Elegant but simpler robes appropriate for younger daughter of noble house, lighter jewelry, hair arranged in youthful style"
+      position: "Sitting on marble edge of fountain listening with growing concern"
+      action: "Responding with worried questions while agreeing to support her sister's dangerous plan"
+  scene:
+    mainElements: "Small private courtyard with central marble fountain, flowering jasmine and rose bushes, stone benches and pathways, ornate doorways leading to family quarters"
+    details: "Clear water flowing from fountain carved with delicate patterns, scattered rose petals on water surface, evening shadows growing longer across courtyard, oil lamps being lit by servants in background, fragrant flowers perfuming air, birds settling in trees for night, no text or letters visible"
+    background: "Domestic architecture of wealthy Persian household, servants discretely moving through adjacent areas, evening sky beginning to show first stars"
+    atmosphere: "Intimate family moment before great sacrifice, tension between domestic tranquility and approaching danger, scent of evening flowers, sounds of fountain masking serious conversation"
+  composition:
+    cameraAngle: "Medium shot showing both sisters in conversation"
+    focus: "Two figures beside fountain representing family bonds and shared destiny"
+    depth: "Fountain and seating in foreground, sisters in middle ground, household architecture in background"

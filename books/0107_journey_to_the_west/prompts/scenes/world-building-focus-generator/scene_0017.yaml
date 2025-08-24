@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Criminal Underground Networks and Dangerous Trading"
+  setting:
+    time: "Late night hours when illicit activities flourish in hidden places"
+    location: "Underground markets and hidden chambers beneath major cities along the pilgrimage route"
+    weather: "Damp underground conditions with poor air circulation and flickering artificial light"
+  characters:
+    - appearance: "Shadowy figures engaged in questionable trading activities, hooded merchants dealing in forbidden goods, desperate individuals seeking illegal solutions"
+      clothing: "Dark concealing robes and practical clothing suitable for avoiding detection, hidden weapons and protective gear"
+      position: "Huddled in small groups around illegal trading posts, posted as lookouts at tunnel entrances"
+      action: "Conducting secretive negotiations, exchanging forbidden items, maintaining vigilant watch for authorities"
+  scene:
+    mainElements: "Hidden market stalls selling prohibited items and services, secret meeting chambers for planning illegal activities, storage areas containing contraband goods, escape routes connecting to city sewers and abandoned buildings"
+    details: "Criminal infrastructure showing society's dark underbelly with black market goods including stolen magical items, forged travel documents, illegal potions and medicines, weapons banned by imperial decree, information about avoiding law enforcement, services for those fleeing justice"
+    background: "Network of underground tunnels connecting various criminal enterprises, hidden entrances to legitimate businesses above, safe houses for fugitives and criminals"
+    atmosphere: "Constant tension and paranoia about discovery, whispered conversations and coded communications, air heavy with smoke and desperation"
+  composition:
+    cameraAngle: "Underground perspective emphasizing the hidden and dangerous nature of these activities"
+    focus: "The criminal networks that operate in society's shadows"
+    depth: "Foreground shows specific illegal activities and their participants, middle ground reveals organization of criminal networks, background suggests extensive underground criminal society"

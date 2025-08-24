@@ -1,0 +1,110 @@
+canon:
+  characters:
+    - id: "old_faust"
+      name: "Heinrich Faust (Scholar)"
+      description_block: |
+        characters:
+          - appearance: "Aging scholar in his fifties or sixties, wychudzony and przygarbiony from years spent over books. Long, grey or white unkempt hair and beard. Face marked by wrinkles of worry and frustration with prominent cheekbones. Eyes tired but burning with intellectual fire and despair."
+            clothing: "Heavy, dark brown or black worn academic toga, possibly with velvet collar or fur trim, worn over simple doublet. Robe is neglected, possibly stained with chemicals from alchemical experiments."
+            posture: "Moves slowly with difficulty, gestures are nervous and full of impatience. Hunched shoulders from years of study."
+    - id: "young_faust"
+      name: "Heinrich Faust (Rejuvenated)"
+      description_block: |
+        characters:
+          - appearance: "Tall, handsome man around 25-30 years old with athletic build and energetic movements. Dark, wavy hair, smooth-shaven face with noble but proud features. Eyes burning with passion and newfound vitality."
+            clothing: "Fashionable 16th-century nobleman's attire: fitted burgundy or deep green velvet doublet with ornate slashes on sleeves showing white shirt beneath, tight hose, short cloak, elegant boots, hat with feather."
+            posture: "Moves with energy and confidence, gestures express full range of passion from desire to anger and despair."
+    - id: "mephistopheles"
+      name: "Mephistopheles"
+      description_block: |
+        characters:
+          - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+            clothing: "Master of disguise - appears as large black poodle with burning eyes, traveling scholar in dark modest robes, or iconic nobleman in scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather."
+            posture: "Moves with nonchalant elegance but predatory swiftness. Gestures are precise, often theatrical and mocking. Face is mask of cynicism and intellectual superiority, perpetual cynical smile."
+    - id: "margarete_gretchen"
+      name: "Margarete (Gretchen)"
+      description_block: |
+        characters:
+          - appearance: "Very young girl around 14-15 years old, petite and slender with delicate build. Fair blonde hair braided in two simple plaits, large innocent blue eyes. Face with regular, delicate features expressing simplicity, piety and deep emotion."
+            clothing: "Modest dress of simple townswoman: plain wool or linen dress in single color like blue or grey with fitted bodice and wide skirt, clean white apron over dress, white chemise underneath visible at neckline, simple cross on neck."
+            posture: "Initially moves with modesty and downcast eyes, gestures are restrained. As love develops becomes more open, but in tragic scenes movements become chaotic, expression shows extreme suffering."
+    - id: "wagner"
+      name: "Wagner"
+      description_block: |
+        characters:
+          - appearance: "Man around 30-40 years old, embodiment of pedantic academic. In contrast to disheveled Faust, Wagner is neat and precise. May wear glasses. Rather average, expressionless face. Physically and intellectually 'smaller' than Faust."
+            clothing: "Always impeccably dressed in academic toga, clean and pressed, representing order and limitation in contrast to Faust's passionate disorder."
+            posture: "Pedantic posture, stiff movements. Always carries book or scroll. Serves as visual contrast to disorderly, passionate Faust."
+    - id: "valentine"
+      name: "Valentine"
+      description_block: |
+        characters:
+          - appearance: "Young man in early twenties, strong, broad-shouldered with military bearing. Simple, honest but stern face expressing pride and impetuosity."
+            clothing: "16th-century soldier's attire: leather jerkin worn over doublet, pludry (wide puffy pants), high boots. May wear metal breastplate or ruff collar. Rapier at side."
+            posture: "Represents conventional patriarchal order. Posture should express pride and impulsiveness, military discipline and family honor."
+    - id: "martha"
+      name: "Martha Schwerdtlein"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged widow around 40-50 years old, energetic, somewhat stocky. Lively expression, prone to gossip and affectation. Worldly woman seeking new husband."
+            clothing: "Widow's attire but with certain elements suggesting desire to attract attention like colorful trim or excess jewelry betraying her pragmatic desire to remarry."
+            posture: "Comic character with exaggerated gestures. Energetic and talkative, provides contrast to modest and restrained Margarete."
+
+  locations:
+    - id: "faust_study"
+      name: "Faust's Gothic Study"
+      description_block: |
+        setting:
+          location: "High-vaulted, cramped Gothic chamber in 16th-century German university town. Pointed stone arches and walls oppress the scholar figure, symbolizing limitations of medieval scholasticism. Large pointed-arch window with stained glass casts colored light into room."
+        mainElements: "Space cluttered to limits with dusty leather-bound books and parchment scrolls piled on floor, shelves, and massive oak desk. Scientific and alchemical instruments: glass retorts, alembics, armillary spheres, mysterious maps of macrocosm and zodiac signs scattered throughout."
+        atmosphere: "Oppressive, stuffy, permeated with smell of old paper, wax and alchemical reagents. Almost absolute silence broken only by rustling of turned pages and Faust's sighs. Thick layer of dust and cobwebs in corners."
+    - id: "auerbach_cellar"
+      name: "Auerbach's Wine Cellar in Leipzig"
+      description_block: |
+        setting:
+          location: "Underground, historical wine cellar in Leipzig with low barrel-vaulted ceilings of rough stone. Simple interior equipped with heavy, crude wooden tables and benches. Murals on walls depicting local legend of Faust flying out on wine barrel."
+        mainElements: "Wine barrels, rough wooden tables sticky with spilled wine, flickering torches and lanterns casting orange light on faces of drinkers. Earthen colors dominate: browns of wood, greys of stone, reds of spilled wine."
+        atmosphere: "Loud, bawdy and chaotic. Air thick with smoke, smell of cheap wine, beer, sweat and food. Everywhere sounds of drunken singing, shouting, laughter and fighting. First test of Mephistopheles to tempt Faust with base, sensual pleasures."
+    - id: "witch_kitchen"
+      name: "Witch's Kitchen"
+      description_block: |
+        setting:
+          location: "Surrealistic, chaotic space that breaks laws of physics. Cave or hut with strange proportions where magic transforms reality itself. Large cauldron bubbles over fire in center while monkey-like creatures serve as attendants."
+        mainElements: "Magical cauldron bubbling with supernatural fire, magic mirror hanging on wall, ape-like creatures serving as household staff mixing cauldron and tending fire while playing with large ball. Psychedelic, unnatural lighting with green or violet flames."
+        atmosphere: "Grotesque and disturbing, hallucinogenic quality. Strange vapors and smells fill air. Sound of cauldron bubbling and animal squeaks. Place of magical transformation where Faust drinks elixir and regains youth."
+    - id: "margarete_room"
+      name: "Margarete's Chamber"
+      description_block: |
+        setting:
+          location: "Small, modest but extremely clean and orderly room in 16th-century German townhouse. Wooden walls or whitewashed plaster, simple but well-maintained furnishings representing domestic order and innocence."
+        mainElements: "Simple furnishings: bed with white bedding, leather armchair, wooden wardrobe for clothes, spinning wheel. Small altar or crucifix on wall. Everything in its place showing industriousness and propriety of owner."
+        atmosphere: "Quiet, peaceful, smelling of clean bedding, perhaps lavender or dried herbs. Mood of piety and simplicity. Sanctuary of Margarete's innocence that becomes defiled when Faust and Mephistopheles bring jewelry casket inside."
+    - id: "harz_mountains"
+      name: "Harz Mountains - Brocken Peak"
+      description_block: |
+        setting:
+          location: "Wild, primeval nature of Harz Mountains in Germany. Steep, rocky forest slopes leading to bare, windswept peak of Brocken mountain. Harsh and threatening landscape representing untamed natural forces."
+        mainElements: "Hundreds of flickering bonfires dotting landscape, will-o'-wisps moving between twisted trees, rocky outcroppings with fantastic shapes. Eerie red moon casting ghostly light over scene of witches' sabbath."
+        atmosphere: "Sensual, orgiastic chaos with howling wind, creaking and cracking forests, hooting owls. Wild, untamed energy where boundaries between human, animal and demonic blur. Place where Mephistopheles brings Faust to distract from Margarete's fate."
+
+  items:
+    - id: "pact_contract"
+      name: "Devil's Pact"
+      description_block: |
+        details: "Parchment contract written in Faust's own blood, crimson drop hissing and smoking as it touches paper. Document binding Faust's soul to Mephistopheles in exchange for knowledge and experience. Physical manifestation of spiritual transaction."
+    - id: "jewel_casket" 
+      name: "Margarete's Jewelry Box"
+      description_block: |
+        details: "Ornate wooden casket filled with precious jewelry - pearl necklaces, ruby earrings, golden bracelets. Represents material temptation and corruption of innocence. Contrast between wealth of jewelry and modesty of Margarete's simple room symbolizes invasion of sin into pure world."
+    - id: "spinning_wheel"
+      name: "Margarete's Spinning Wheel"  
+      description_block: |
+        details: "Traditional wooden spinning wheel representing domestic virtue, industriousness and feminine piety. Symbol of ordered, traditional life that becomes disrupted by Faust's passion. Represents the simple, honest work that defines Margarete's innocent world."
+    - id: "poison_vial"
+      name: "Faust's Poison Vial"
+      description_block: |
+        details: "Small glass vial containing deadly poison that Faust considers drinking in his despair. Crystal clear glass containing dark liquid that promises escape from intellectual frustration. Represents ultimate despair and desire for escape from limitations of human condition."
+    - id: "human_skull"
+      name: "Scholar's Skull"
+      description_block: |
+        details: "Human skull sitting on Faust's desk among books and instruments, classic vanitas symbol reminding of mortality and futility of purely intellectual pursuits. Weathered bone yellowed with age, empty eye sockets staring at scholar's futile efforts."

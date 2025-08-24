@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Genly's View of Estraven - Suspicious Ally"
+  setting:
+    time: "1491 Ekumen calendar, evening, indoor lighting from hearth and oil lamps"
+    location: "Private dining room in Karhidish communal dwelling, intimate space with central fireplace and traditional furnishings"
+    weather: "Interior, warm from heating fire"
+  characters:
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves, but garments sit differently due to his height and build"
+      position: "Seated across small dining table from his host"
+      action: "Eating unfamiliar Gethenian food while trying to read his companion's intentions, studying facial expressions and gestures for signs of deception"
+    - appearance: "Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion"
+      clothing: "Elegant Karhidish formal wear - heavy green leather tunic decorated with gold, wide silver chain necklace, white shirt, thick pants, long sleeveless hieb tunika belted at waist"
+      position: "Seated at dining table, positioned in flickering firelight"
+      action: "Speaking in measured diplomatic tones while eating, making subtle gestures and maintaining composed expression that reveals nothing definitive"
+  scene:
+    mainElements: "Small private dining area with central stone hearth radiating warmth and orange light, simple wooden table set with Gethenian dishes and beverages, traditional heavy wooden chairs and tapestries"
+    details: "Firelight casting dancing shadows across faces making expressions difficult to read, unfamiliar food items and eating implements suggesting cultural barriers, warm orange glow contrasting with cold stone architecture beyond, steam rising from hot beverages, no text or letters visible"
+    background: "Stone walls softened by hanging textiles, glimpses of communal corridors beyond the private space, sounds of other residents moving through dwelling"
+    atmosphere: "Intimate yet tense environment where diplomatic courtesy masks mutual uncertainty - warm physical setting contrasts with psychological distance and suspicion about hidden motives"
+  composition:
+    cameraAngle: "Close intimate angle across dining table, emphasizing face-to-face interaction"
+    focus: "Contrast between surface politeness and underlying mistrust, firelight revealing and concealing emotional truth"
+    depth: "Foreground: table with food and hands, middle: two faces in firelight, background: domestic architecture suggesting larger community"

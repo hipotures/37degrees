@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Overwhelming Storm Sensory Assault on Raft"
+  setting:
+    time: "1863, underground storm"
+    location: "Vast underground ocean within gigantic cavern system, prehistoric marine environment lit by electrical phenomena"
+    weather: "Violent electrical storm with supernatural sensory overload"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+  scene:
+    mainElements: "Endless expanse of dark water stretching to invisible horizons, sandy beaches littered with fossilized bones and shells, towering mushroom forest nearby"
+    details: "Primitive vessel constructed from semi-petrified tree trunks found on underground shore, simple mast rigged with improvised sail, representing human ingenuity in prehistoric environment. Stroboscopic lightning creating disorienting visual effects, bodies thrashed by hurricane winds experiencing extreme physical sensations, clothing and hair whipping violently showing force intensity, salt spray creating taste sensations while soaking exposed skin, electrical charges creating tingling sensations visible through defensive postures, deafening noise visualized through extreme motion blur and chaotic positioning, sensory overload shown through overwhelmed facial expressions and protective gestures, no text or letters visible"
+    background: "Unearthly illumination from electrical aurora on cavern ceiling, profound silence broken by lapping waves, sense of primordial world untouched by surface time"
+    atmosphere: "Complete sensory overload combining visual chaos, physical battering, taste of prehistoric storm, electrical sensations, and overwhelming sound represented through maximum visual intensity"
+  composition:
+    cameraAngle: "Dynamic diagonal shot emphasizing chaos and sensory overload"
+    focus: "Multiple competing sensory elements creating overwhelming composition"
+    depth: "Foreground shows immediate physical chaos, middle ground captures storm effects, background dissolves into electrical violence"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Protective embrace in zero gravity with artificial rain"
+  setting:
+    time: "2030s, during station maintenance cycle creating artificial weather"
+    location: "protected alcove in Zion cluster during environmental system testing, artificial precipitation for plant irrigation"
+    weather: "artificial rain system creating gentle water droplets in zero gravity environment"
+  characters:
+    - appearance: "rastafarianin community member with protective bearing, strong arms and gentle expression, face showing concern and care for others"
+      clothing: "comfortable work clothes suitable for space environment, fabric showing personal modifications and repairs, practical garments allowing free movement"
+      position: "floating in zero gravity, arms wrapped around smaller figure in protective embrace"
+      action: "sheltering companion from artificial rain while holding position near aromatic plant growing systems"
+    - appearance: "younger community member seeking comfort, relaxed posture showing trust in protector, peaceful expression suggesting safety"
+      clothing: "simple garments appropriate for community living, personal touches showing individual identity"
+      position: "nestled within protective embrace, face turned toward growing plants"
+      action: "breathing deeply while sheltered, experiencing multi-sensory comfort of protection, plant scents, and gentle artificial rain"
+  scene:
+    mainElements: "two figures floating in protective embrace, artificial rain droplets moving in complex zero gravity patterns, nearby hydroponic plants creating natural scents, soft lighting creating intimate atmosphere"
+    details: "water droplets floating in spherical shapes due to zero gravity, plant systems releasing aromatic compounds into air, protective positioning showing physical comfort, gentle lighting creating warm atmosphere, rain droplets catching light creating prismatic effects, fabric of clothing responding to moisture and movement, no text or letters visible"
+    background: "Zion cluster habitat with extensive plant growing systems, other community members visible in distance, curved habitat structure visible through transparent sections"
+    atmosphere: "multi-sensory sanctuary combining physical comfort, natural scents, tactile warmth of embrace, gentle sound of artificial rain, and spiritual peace of community care"
+  composition:
+    cameraAngle: "medium shot showing embracing figures with environmental context"
+    focus: "protective embrace combined with artificial rain and plant aromatics creating synesthetic comfort experience"
+    depth: "foreground showing detailed rain droplet patterns, middle ground featuring embracing figures, background revealing community habitat with growing systems"

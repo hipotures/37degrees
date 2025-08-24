@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, night
+    location: The beach, during the storm.
+    weather: The storm is at its peak.
+  characters:
+  - appearance: A small, slight boy with a pointed chin and a mop of coarse black
+      hair that falls over his face. He has bright, intense eyes. Often solitary and
+      withdrawn, with a gentle and observant demeanor. Can be seen walking with a
+      quiet, purposeful gait.
+    clothing: Wears simple, tattered shorts, often barefoot.
+    position: Crawling out of the jungle, trying to tell the other boys the truth
+      about the beast.
+    action: He is mistaken for the beast and is being torn apart by the frenzied mob
+      of boys.
+  - appearance: Tall, thin, and bony, with red hair and a freckled, angular face.
+      His eyes are light blue and often narrowed in concentration or anger. Aggressive
+      and predatory, often crouching or leaning forward, brandishing a spear.
+    clothing: Initially wears a black choir uniform with a silver badge, later strips
+      down to just a tattered pair of shorts, his body painted with clay and charcoal.
+    position: Leading the attack on Simon.
+    action: His face is a mask of pure, ecstatic savagery.
+  scene:
+    mainElements: In the midst of their frenzied, ritualistic dance, the boys mistake
+      Simon for the beast and murder him. This is the point of no return.
+    details: The scene is a horrifying, surreal ballet of violence. The boys are a
+      single, monstrous entity, their individual forms blurred and indistinct in the
+      driving rain and flashing lightning. Simon's body is not just being beaten;
+      it is being absorbed into the chaos of the storm. As he dies, his body seems
+      to dissolve into a swarm of phosphorescent creatures, which are then washed
+      out to sea. A strange, ethereal light ascends from his body into the stormy
+      sky.
+    background: The raging sea and the dark jungle.
+    atmosphere: A scene of ultimate horror and tragedy. The one boy who understood
+      the truth has been destroyed by the very evil he tried to expose. There is a
+      sense of a dark ritual being completed, and a terrible, profane sacrifice being
+      made.
+  composition:
+    cameraAngle: A high, detached angle, looking down on the scene as if from the
+      point of view of the storm itself. The shot is cold and unforgiving.
+    focus: The ethereal, phosphorescent light that rises from Simon's body as he dies.
+    depth: 'Foreground: The frenzied mob of boys. Middle ground: Simon''s body being
+      consumed by the storm. Background: The violent sea.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

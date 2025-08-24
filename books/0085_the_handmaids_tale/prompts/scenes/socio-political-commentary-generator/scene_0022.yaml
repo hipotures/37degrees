@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Society as Chessboard - Strategic Human Control"
+  setting:
+    time: "Near future, stark lighting creating geometric shadows"
+    location: "Large architectural space designed with checkered floor pattern resembling giant chessboard"
+    weather: "Indoor setting with dramatic overhead lighting creating chess-like shadows"
+  characters:
+    - appearance: "Citizens positioned as chess pieces according to their caste hierarchy, with movement restricted to chess-like patterns"
+      clothing: "Caste uniforms corresponding to chess piece types - black-suited Commanders as kings, blue Wives as queens, red Handmaids as pawns"
+      position: "Arranged on checkered floor pattern in positions corresponding to chess piece hierarchy and movement rules"
+      action: "Moving only in patterns allowed by their chess piece type, with pawns having most restricted movement and higher castes having more freedom"
+    - appearance: "Authority figures positioned as chess players making strategic moves"
+      clothing: "Elite uniforms suggesting they are the players controlling the human chess pieces"
+      position: "Elevated above the human chessboard, positioned as the strategic minds controlling the game"
+      action: "Making strategic decisions that determine the movement and fate of the human chess pieces"
+  scene:
+    mainElements: "Giant checkered floor pattern with humans positioned and moving according to chess rules, creating visual metaphor of society as strategic game controlled by elite players"
+    details: "The chessboard metaphor emphasizes strategic manipulation where individual humans serve as game pieces in larger political strategy. Movement patterns are restricted by caste rules similar to chess piece limitations. The game structure shows how totalitarian systems treat people as strategic resources rather than autonomous individuals."
+    background: "Architectural elements reinforcing the chess metaphor with geometric patterns, strategic viewing positions, and game-like organization of space"
+    atmosphere: "Cold strategic calculation where human lives are reduced to game pieces in elite power struggles, emphasizing the dehumanizing nature of totalitarian control"
+  composition:
+    cameraAngle: "Overhead view showing the chessboard pattern and strategic positioning of human pieces"
+    focus: "The checkered pattern and strategic arrangement of human chess pieces dominates the frame"
+    depth: "Human chess pieces arranged on checkered floor in foreground and middle ground, controlling players elevated in background"

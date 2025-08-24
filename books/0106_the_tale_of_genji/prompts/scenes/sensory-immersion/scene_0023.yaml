@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Festival Powder Explosion"
+  setting:
+    time: "Late 10th century Japan, midday during vibrant court celebration"
+    location: "Imperial Palace Heian-kyō, ceremonial courtyard during seasonal festival with dancing and music"
+    weather: "Perfect clear day with bright sunlight illuminating airborne particles"
+  characters:
+    - appearance: "Multiple Japanese court dancers and musicians in festive attire, faces painted with traditional designs, hair adorned with seasonal flowers"
+      clothing: "Colorful festival robes with flowing sleeves and sashes, lighter fabrics that move dramatically with dance, bright seasonal colors"
+      position: "Dancing in formation across courtyard, musicians seated with traditional instruments, powder being thrown in celebration"
+      action: "Throwing colored powders into air during dance climax, playing drums with visible ground vibration, moving in complex choreographed patterns"
+  scene:
+    mainElements: "Traditional Japanese stringed instrument made from paulownia wood with natural finish, thirteen silk strings stretched over movable bridges, long rectangular resonating body, played with ivory plectra"
+    details: "Colored powders create explosive clouds of pink, yellow, and blue particles suspended in bright sunlight, drum rhythms cause ground vibration visible in dust movement and fabric flutter, food vendor steam mixes with powder clouds creating layered aromatic effects, festival lanterns sway with air currents from dancing movement, silk banners flutter creating additional sound and visual rhythm, sweat and powder combine on dancers creating glistening skin effects, bare feet on stone create percussion echoing drum beats, aromatic food smoke mingles with powder creating complex scent visual, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Complete sensory overload celebration combining visual powder explosions, rhythmic ground vibration, aromatic food steam, tactile powder on skin, festival sounds made visible"
+  composition:
+    cameraAngle: "Dynamic wide shot capturing explosive powder clouds and energetic movement"
+    focus: "Airborne powder particles, ground vibration effects, and multi-sensory festival chaos"
+    depth: "Explosive powder clouds in immediate foreground, dancing figures in middle ground, festival crowd and palace extending into distant background"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: The Company's Outer Station in the Congo.
+    weather: Oppressively hot and humid.
+  characters:
+  - appearance: A man with an immaculate, starched white collar and cuffs.
+    clothing: Pristine white suit, a vision of European order.
+    position: Sitting at a perfectly ordered desk in a small, tidy hut.
+    action: He is making entries in a ledger with a meticulous, almost religious devotion. He is completely oblivious to the
+      chaos and suffering outside his door.
+  scene:
+    mainElements: The surreal vision of the Chief Accountant, an island of pristine order in a sea of chaos and death.
+    details: A fly buzzes around the accountant's head, but it never lands on him, as if repelled by his aura of sterile perfection.
+      The ink in his pen is a deep, blood red. The numbers in his ledger seem to squirm and rearrange themselves when not
+      looked at directly. no text or letters visible
+    background: Through the open door of the hut, the 'grove of death' is visible, a blurry, hellish landscape.
+    atmosphere: A sense of profound, unsettling dissonance. The accountant's order is not a refuge from the chaos, but a symptom
+      of its madness. A sterile, bureaucratic horror. no text or letters visible
+  composition:
+    cameraAngle: A tight, claustrophobic shot, focusing on the accountant at his desk.
+    focus: The stark, almost blinding whiteness of the accountant's collar against the backdrop of the dark, chaotic jungle
+      outside.
+    depth: 'Foreground: the ledger with its squirming, blood-red numbers. Middle ground: the accountant. Background: the view
+      of the suffering in the grove of death.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

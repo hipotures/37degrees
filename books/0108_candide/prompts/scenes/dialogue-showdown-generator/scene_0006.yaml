@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Preacher's False Charity"
+  setting:
+    time: "Mid-18th century, cold afternoon"
+    location: "Narrow cobbled street in Dutch city, before Protestant church"
+    weather: "Gray drizzle, damp cold air"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Ragged clothes, soaked from rain, obviously hungry and desperate"
+      position: "Standing in street before church, hand extended in supplication"
+      action: "Reaches out with trembling hand for help, face showing mixture of hope and growing desperation as charity is denied"
+    - appearance: "Middle-aged Protestant minister, severe austere features, cold calculating eyes"
+      clothing: "Black Protestant clerical robes, white collar, dark hat protecting from rain"
+      position: "Standing on church steps above Candide, looking down with moral superiority"
+      action: "Raises hand in rejection, mouth twisted in righteous condemnation, body language radiating false piety and hypocrisy"
+  scene:
+    mainElements: "Austere Protestant church with simple stone facade, narrow Dutch street with characteristic stepped-gable houses, canal visible in distance"
+    details: "Preacher's position on church steps emphasizes moral and social superiority over supplicant below. Rain creates reflective puddles showing distorted images. Church architecture deliberately severe and unwelcoming. Candide's outstretched hand contrasts with preacher's rejecting gesture."
+    background: "Tall narrow brick houses with characteristic stepped gables, few Dutch citizens hurrying past under protection of umbrellas, canal water dark and murky"
+    atmosphere: "Cold rejection masquerading as religious virtue. Gray palette emphasizing moral bleakness. Sharp contrast between Christian preaching and un-Christian behavior. Damp oppressive environment reflecting spiritual coldness."
+  composition:
+    cameraAngle: "Low angle emphasizing preacher's position of power and Candide's vulnerability"
+    focus: "The contrast between Candide's pleading gesture and the preacher's dismissive rejection"  
+    depth: "Foreground shows the moral confrontation, middle ground the unwelcoming church, background the indifferent Dutch society"

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, dawn
+    location: The edge of the jungle.
+    weather: A cool, misty morning.
+  characters:
+  - appearance: A young man of about 17 years old.
+    clothing: Wears a simple loincloth.
+    position: Standing with his back to the jungle.
+    action: Tears are streaming down his face as he says his final goodbyes to his jungle family.
+  - appearance: A large black panther and a large sloth bear.
+    clothing: None
+    position: At the edge of the jungle, watching him go.
+    action: Their faces are filled with a mixture of sadness and pride. They know that this is the right path for him.
+  - appearance: Four gray wolves.
+    clothing: None
+    position: On a hill overlooking the scene.
+    action: They lift their heads and let out a final, mournful howl of farewell.
+  scene:
+    mainElements: Mowgli's final farewell to the jungle. A scene of love, loss, and acceptance.
+    details: The mist swirls around the figures of the animals, making them seem like ghosts from a dream. The sound of the
+      wolves' howl echoes across the plains. Mowgli does not look back. no text or letters visible
+    background: The rising sun, and the path leading to the man-village.
+    atmosphere: A scene of profound sadness and love. The final, painful severing of the ties that have bound Mowgli to the
+      jungle for his entire life. no text or letters visible
+  composition:
+    cameraAngle: Eye-level shot, focusing on the tear-streaked face of Mowgli.
+    focus: The deep, emotional pain of the farewell, a pain that is shared by both man and beast.
+    depth: 'Foreground: Mowgli. Middle ground: Bagheera and Baloo. Background: the four wolves on the hill.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

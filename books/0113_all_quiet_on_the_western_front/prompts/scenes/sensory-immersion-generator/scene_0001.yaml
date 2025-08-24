@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Frost forming on broken window while hands press against glass"
+  setting:
+    time: "1917 winter dawn, early morning"
+    location: "abandoned German farmhouse behind Western Front lines, shattered windows facing eastward toward distant artillery"
+    weather: "bitter frost coating everything, breath visible in freezing air"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "standing close to broken window frame, palms pressed flat against remaining glass panes"
+      action: "pressing both hands against cold glass, watching frost crystals form around fingertips, shoulders hunched against cold penetrating through holes in uniform"
+  scene:
+    mainElements: "shattered farmhouse window with jagged glass edges, frost crystals spreading like spider webs across remaining panes, young soldier's breath creating steam clouds, abandoned room with broken furniture"
+    details: "temperature contrast visible through condensation patterns, glass surface so cold it burns skin on contact, ice forming intricate patterns where warm breath meets frozen air, soldier's fingertips leaving temporary warmth impressions that quickly fade to white frost, broken window frame allowing freezing wind to cut through room, scattered glass shards on floor reflecting morning light like scattered diamonds, no text or letters visible"
+    background: "desolate winter landscape through window, distant smoke columns from artillery positions, bare trees skeletal against gray sky"
+    atmosphere: "crushing cold made tangible through visual elements, isolation and longing for warmth, contrast between human need for comfort and war's harsh deprivation"
+  composition:
+    cameraAngle: "medium shot from inside room, showing soldier against window with winter landscape beyond"
+    focus: "hands pressed against glass with frost patterns radiating outward from contact points"
+    depth: "foreground shows detailed frost formation on glass, middle ground features soldier's figure, background reveals bleak winter battlefield landscape"

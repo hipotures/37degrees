@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Young William's Innocent World - Child's Garden Paradise"
+  setting:
+    time: "1780s, afternoon"
+    location: "Gardens of Frankenstein villa where William plays alone"
+    weather: "Perfect spring day with flowers blooming everywhere"
+  characters:
+    - appearance: "Young child approximately 6-8 years old with fair complexion resembling family features, bright innocent eyes full of wonder and trust, small stature making adult world appear enormous"
+      clothing: "Child's clothing of late 18th century including short jacket, knee-length breeches, white stockings, small leather shoes, miniature cravat, clothing showing signs of active play outdoors"
+      posture: "Energetic childish movements, running and skipping with natural joy, stopping to examine interesting objects with total absorption"
+      action: "Playing with toys in garden, chasing butterflies, examining flowers with microscopic attention, speaking to imaginary companions"
+  scene:
+    mainElements: "Garden appearing magical and infinite through child's eyes, flowers towering like trees, butterflies appearing large as birds, garden paths stretching like highways to adventure"
+    details: "Every flower petal appearing precious as jewels, garden statues seeming like friendly giants, fountain spray creating rainbows that seem painted just for William, birds singing personal concerts, trees appearing tall as mountains offering endless climbing adventures, shadows creating mysterious caves for exploration, garden gates opening to worlds of unlimited possibility, no text or letters visible"
+    background: "Villa appearing like fairy tale castle, lake beyond looking like ocean full of sea monsters and treasure islands"
+    atmosphere: "Pure innocent wonder where every moment brings new discoveries, world appearing designed specifically for child's happiness and exploration, complete trust in safety and love"
+  composition:
+    cameraAngle: "Low angle from William's height making everything appear monumentally large and wondrous"
+    focus: "Single butterfly or flower appearing as natural miracle deserving complete attention"
+    depth: "Foreground shows child's intense focus on small wonders, middle ground captures magical garden landscape, background suggests infinite world of childhood imagination"

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 2015, midday
+    location: Rocky surface of Mercury planet under blazing solar radiation
+    weather: Extreme heat with no atmosphere, deadly solar radiation
+  characters:
+  - appearance: Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne
+      wąsy, spokojny i skoncentrowany wyraz twarzy
+    clothing: Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych
+      warunkach - masywny, biały skafander ochronny
+    position: Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym
+    action: Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny
+  - appearance: Robot o pełnym gracji, opływowym ciele z lśniącą, metalową powierzchnią. Zaprojektowany do szybkiego poruszania
+      się
+    clothing: Brak ubioru - polerowana metalowa konstrukcja
+    position: Zatacza się w kółko wokół źródła selenu lub porusza się chaotycznie
+    action: Bełkocze fragmenty operetek, zachowuje się jak pijany, krąży w niezrozumiałych wzorcach
+  scene:
+    mainElements: Harsh Mercury landscape with jagged rocks and extreme shadows, temperature readings on helmet display climbing
+      dangerously high
+    details: Speedy robot moving in erratic patterns near selenium pool, Powell's suit beginning to smoke from heat exposure,
+      communication static from base growing urgent
+    background: Barren, cratered surface of Mercury with massive sun dominating horizon, underground base entrance visible
+      in distance
+    atmosphere: Life-or-death tension and desperate calculation. Human versus machine logic, survival hanging on psychological
+      manipulation of robot programming
+  composition:
+    cameraAngle: Wide shot emphasizing the hostile environment and isolation
+    focus: Powell's determined advance toward the malfunctioning robot despite mortal danger
+    depth: Foreground shows human courage, middle ground the erratic robot behavior, background the unforgiving planetary
+      environment
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

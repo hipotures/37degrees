@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Soldiers rocking gently suggesting mother's lullaby through motion"
+  setting:
+    time: "1917 late night, quiet hours between battles"
+    location: "dugout shelter in trench system, cramped underground space with wooden supports, soldiers seeking comfort in darkness"
+    weather: "cold night above ground, shelter providing protection from elements"
+  characters:
+    - appearance: "19 lat kopacz torfu z zawodu, bardzo duży facet o ogromnej sile fizycznej z wielkimi łapami"
+      clothing: "standardowy mundur żołnierza niemieckiego Feldgrau"
+      position: "sitting against wooden support beam, gently rocking back and forth"
+      action: "unconsciously rocking in slow rhythm while holding small personal item, movement suggesting maternal comfort through repetitive soothing motion"
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "lying nearby, watching companion's rocking motion"
+      action: "observing comforting rocking movement, beginning to synchronize his own breathing with rhythm, finding peace in shared motion"
+  scene:
+    mainElements: "underground dugout with wooden support beams, soldiers seeking comfort through repetitive rocking motion, dim candlelight creating gentle shadows, personal items suggesting home memories, peaceful rhythm contrasting with war chaos above"
+    details: "gentle rocking motion creating rhythmic shadows on dugout walls suggesting lullaby through movement pattern, soldiers unconsciously synchronizing movements creating visual harmony, small personal items held during rocking suggesting maternal connections and childhood comfort, candle flame moving slightly with air currents from rocking motion, wooden beams creaking softly with weight shifts suggesting musical rhythm, rocking creating hypnotic visual pattern of repeated movement, soldiers' faces showing rare peace and vulnerability, motion suggesting remembered maternal comfort through physical memory, no text or letters visible"
+    background: "dugout walls reinforced with wooden planks, military equipment stored along walls, entrance showing dark night above, underground shelter providing womb-like protection"
+    atmosphere: "maternal comfort recreated through rocking motion, soldiers finding psychological peace through physical rhythm, childhood memories accessed through repetitive movement, synesthetic experience connecting motion with remembered sound and comfort"
+  composition:
+    cameraAngle: "intimate close shot showing rocking soldiers with gentle shadows and candlelight"
+    focus: "rhythmic rocking motion and synchronized breathing patterns between soldiers"
+    depth: "foreground shows detailed rocking movement and facial expressions, middle ground features dugout space, background suggests protective underground shelter"

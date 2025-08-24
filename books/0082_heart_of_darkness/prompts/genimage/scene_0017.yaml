@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, afternoon
+    location: A dimly lit, opulent drawing-room in the European city.
+    weather: It is dusk, and the room is filled with deep shadows.
+  characters:
+  - appearance: Charles Marlow, looking older and more somber.
+    clothing: A dark, formal suit.
+    position: Standing before a fireplace.
+    action: He is speaking to Kurtz's Intended, his face a mask of weary sorrow.
+  - appearance: A beautiful, pale woman dressed in black.
+    clothing: Mourning clothes.
+    position: Sitting in a high-backed chair.
+    action: She is listening to Marlow with an expression of pure, unshakeable faith in her dead fiancé.
+  scene:
+    mainElements: Marlow's meeting with Kurtz's Intended. A confrontation between the brutal reality of Kurtz's life and the
+      idealized memory of him.
+    details: The room is filled with heavy, dark furniture. The fireplace is cold and dark, like a tomb. As the Intended speaks
+      of Kurtz's greatness, the shadows in the room seem to deepen and writhe, and the ghostly, skeletal face of Kurtz appears
+      in the dark space of the fireplace behind her. no text or letters visible
+    background: A grand piano, its keys like a row of teeth in the gloom.
+    atmosphere: A scene of profound, tragic irony. The Intended's pure, unshakeable faith is a form of darkness as profound
+      as Kurtz's own. The air is thick with unspoken truths and the weight of Marlow's lie. no text or letters visible
+  composition:
+    cameraAngle: A two-shot, showing Marlow and the Intended in profile.
+    focus: The ghostly, skeletal face of Kurtz that appears in the fireplace between them, a visual representation of the
+      terrible truth that Marlow is concealing.
+    depth: 'Foreground: Marlow and the Intended. Background: the fireplace with the ghostly image of Kurtz.'
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

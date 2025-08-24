@@ -1,0 +1,62 @@
+canon:
+  characters:
+    - id: "marlow"
+      name: "Charles Marlow"
+      description_block: |
+        characters:
+          - name: "Charles Marlow"
+            age: "32 during his Congo journey, older while narrating on the Nellie"
+            appearance: "A seasoned British sailor. Sunken cheeks, a yellow complexion from his time in the tropics. Ascetic in appearance, with a straightforward, observant gaze. Often sits in a meditative, Buddha-like pose while narrating."
+            clothing: "While narrating on the Nellie, likely wearing standard late Victorian sailor's attire. In the Congo, practical, durable, but worn-out European clothes, showing the strain of the environment."
+            posture: "Reflective and still while narrating. In the Congo, he is energetic and focused, driven by a need to keep his steamboat functioning, which he sees as a way to preserve his sanity."
+    - id: "kurtz"
+      name: "Mr. Kurtz"
+      description_block: |
+        characters:
+          - name: "Mr. Kurtz"
+            age: "Appears to be in his late 30s or early 40s"
+            appearance: "Described as a shadow of a man, ravaged by disease. Extremely tall and thin, a living skeleton. His head is bald, like an ivory ball. His most powerful feature is his voice, which is deep and resonant, captivating all who hear it. His eyes are expressive, showing immense intelligence and profound despair."
+            clothing: "Likely wears ragged and minimal clothing, having adapted to the jungle environment and his role as a demigod to the local tribe."
+            posture: "When seen, he is carried on a stretcher, weak and physically broken. However, he possesses an intense, almost demonic energy, especially when speaking."
+  locations:
+    - id: "nellie_yacht"
+      name: "The Nellie Yacht on the Thames"
+      description_block: |
+        setting:
+          location: "A cruising yawl named the Nellie, anchored at the mouth of the River Thames, near London, England."
+        mainElements: "The deck of a small, comfortable yacht. The scene is tranquil and civilized, with the lights of London visible in the distance. The sun is setting, casting a serene but somber glow."
+        atmosphere: "A place of reflection and storytelling. The calm, civilized setting provides a stark contrast to the chaotic and brutal events of the story being told. An atmosphere of melancholic contemplation."
+    - id: "company_station"
+      name: "The Company's Outer Station"
+      description_block: |
+        setting:
+          location: "The first station of the Belgian trading company on the coast of the Congo."
+        mainElements: "A scene of decay and pointless activity. Rusty machinery, abandoned equipment, and a grove of trees where sick African workers are left to die (the 'grove of death'). The Chief Accountant maintains a bizarrely pristine appearance in the midst of the chaos."
+        atmosphere: "A place of shocking inefficiency, neglect, and casual brutality. The air is heavy with the sense of death and the absurdity of the colonial enterprise."
+    - id: "central_station"
+      name: "The Central Station"
+      description_block: |
+        setting:
+          location: "A key trading post further up the Congo River."
+        mainElements: "A collection of dilapidated buildings. Marlow's steamboat is sunk in the river nearby. The station is populated by lazy, greedy agents ('pilgrims') who do nothing but plot against each other and wait for ivory."
+        atmosphere: "An atmosphere of moral decay, paranoia, and indolence. A place of backbiting intrigue and hollow intentions, where nothing of substance is accomplished."
+    - id: "inner_station"
+      name: "Kurtz's Inner Station"
+      description_block: |
+        setting:
+          location: "The deepest point of the company's territory in the heart of the Congo, run by Mr. Kurtz."
+        mainElements: "A simple hut surrounded by a fence. A macabre and shocking detail is that the fence posts are topped with the severed heads of 'rebels', facing the station. The station is surrounded by a vast, oppressive jungle."
+        atmosphere: "The epicenter of the horror. A place of absolute power and moral annihilation. The atmosphere is a mixture of a cult-like worship of Kurtz and savage brutality. The wilderness itself feels like a living, breathing entity."
+  items:
+    - id: "steamboat"
+      name: "The Steamboat"
+      description_block: |
+        details: "A small, rickety, two-bit steamboat. It is constantly breaking down and requires extensive repairs. For Marlow, the boat and the work required to keep it running becomes a focus point, a way to maintain sanity amidst the surrounding chaos."
+    - id: "ivory"
+      name: "Ivory"
+      description_block: |
+        details: "The primary object of desire and greed in the story. It is a symbol of the wealth that can be extracted from the jungle, and the moral corruption it causes. It is often described in ghostly, pale terms, a stark contrast to the darkness of the jungle."
+    - id: "kurtz_report"
+      name: "Kurtz's Report"
+      description_block: |
+        details: "A 17-page report written by Kurtz for the 'International Society for the Suppression of Savage Customs'. It is filled with eloquent, idealistic prose about civilizing the natives, but ends with a chilling, handwritten scrawl: 'Exterminate all the brutes!'"

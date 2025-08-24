@@ -1,0 +1,166 @@
+canon:
+  characters:
+    - id: "anne_frank"
+      name: "Anne Frank"
+      description_block: |
+        characters:
+          - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+            clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+            posture: "Energetic żywiołowa posture, ożywiona gestykulacja, szybkie ruchy"
+    
+    - id: "otto_frank"
+      name: "Otto Frank (Pim)"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged mężczyzna wiek 53-55 lat, wysoki szczupły, pociągła łagodna twarz, inteligentne spojrzenie, przerzedzone ciemne włosy, okulary w cienkich oprawkach"
+            clothing: "Schludny garnitur lub marynarka i krawat, biała koszula, zachowuje godność mimo warunków"
+            posture: "Opanowany rozważny sposób poruszania się, wyprostowana postawa"
+    
+    - id: "edith_frank" 
+      name: "Edith Frank-Holländer"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged kobieta wiek 42-44 lata, elegancka powściągliwa, ciemne starannie upięte włosy, regularne rysy, w oczach smutek i napięcie"
+            clothing: "Skromne ciemne sukienki, klasyczny styl lat 40."
+            posture: "Wyprostowana postawa, ale widoczne zmęczenie i stres"
+    
+    - id: "margot_frank"
+      name: "Margot Frank" 
+      description_block: |
+        characters:
+          - appearance: "Teenage dziewczyna wiek 16-18 lat, wyższa od Anny smukła sylwetka, ciemne gładkie włosy, często nosi okulary, poważna spokojna twarz"
+            clothing: "Skromne schludne ubrania, proste bluzki i spódnice"
+            posture: "Spokojna powściągliwa, rzadko gestykuluje"
+            
+    - id: "hermann_van_pels"
+      name: "Hermann van Pels"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged mężczyzna wiek 44-46 lat, prawdopodobnie postawny, nałogowy palacz, często trzyma papierosa"
+            clothing: "Garnitur, często rozpięta koszula"
+            posture: "Porywczy, zmienna mimika od żartobliwego uśmiechu po gniewny grymas"
+    
+    - id: "auguste_van_pels"
+      name: "Auguste van Pels"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged kobieta wiek 41-43 lata, prawdopodobnie pełniejsza figura, dba o wygląd nawet w ukryciu"
+            clothing: "Ubrania które mają wyglądać na eleganckie, nawet jeśli znoszone"
+            posture: "Teatralne przesadzone gesty, ekspresyjna mimika"
+    
+    - id: "peter_van_pels"
+      name: "Peter van Pels"
+      description_block: |
+        characters:
+          - appearance: "Teenage chłopak wiek 15-18 lat, wysoki szczupły, początkowo niezdarny skulony, ciemne kręcone włosy, nieśmiałe spojrzenie"
+            clothing: "Proste robocze ubrania, kombinezon"
+            posture: "Z czasem postawa staje się pewniejsza pod wpływem Anny"
+    
+    - id: "fritz_pfeffer"
+      name: "Fritz Pfeffer (Albert Dussel)"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged mężczyzna wiek 53-55 lat, nosi okulary, surowe rysy, starannie zaczesane włosy"
+            clothing: "Schludny formalny ubiór, koszula spodnie"
+            posture: "Precyzyjne oszczędne ruchy, pedantyczny"
+    
+    - id: "miep_gies"
+      name: "Miep Gies"
+      description_block: |
+        characters:
+          - appearance: "Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz"
+            clothing: "Prosty strój pracującej kobiety z lat 40., sukienka płaszcz"
+            posture: "Energiczne pewne ruchy"
+    
+    - id: "bep_voskuijl"
+      name: "Bep Voskuijl"
+      description_block: |
+        characters:
+          - appearance: "Young kobieta wiek 23-25 lat, drobna szczupła, młoda nieśmiała twarz"
+            clothing: "Skromna sukienka lub bluzka i spódnica"
+            posture: "Cicha nieśmiała, ostrożne ruchy"
+
+  locations:
+    - id: "secret_annex_entrance"
+      name: "Secret Annex Entrance"
+      description_block: |
+        setting:
+          location: "Amsterdam office building, Prinsengracht 263, hidden entrance behind rotating bookshelf on stair landing, 1940s Holland under German occupation"
+        mainElements: "Ciężka obrotowa szafa na książki z ciemnego drewna wypełniona szarymi segregatorami i księgami rachunkowymi, wąskie schody biurowe"
+        atmosphere: "Tajemnicza granica między dwoma światami, skrzypiący mechanizm obrotowy, półmrok, napięcie"
+    
+    - id: "anne_peter_room"
+      name: "Anne and Peter's Room"
+      description_block: |
+        setting:
+          location: "Secret Annex second floor, very small cramped bedroom shared by Anne and Fritz Pfeffer, Amsterdam 1942-1944"
+        mainElements: "Bardzo mały ciasny pokój, małe drewniane biurko, ściany oklejone kolorowymi zdjęciami gwiazd filmowych i pocztówkami"
+        atmosphere: "Klaustrofobiczna przestrzeń, walka o minimalną prywatność, kontrast między szarością a kolorowymi marzeniami"
+    
+    - id: "frank_family_room"
+      name: "Frank Family Room"  
+      description_block: |
+        setting:
+          location: "Secret Annex largest room, bedroom and living space for Otto, Edith and Margot Frank, Amsterdam 1942-1944"
+        mainElements: "Ciemne drewniane meble, ołówkowe kreski na framudze drzwi mierzące wzrost dziewczynek, mapa Europy na ścianie"
+        atmosphere: "Centrum życia rodzinnego, względny porządek, ale narastające napięcia"
+    
+    - id: "van_pels_common_room"
+      name: "Van Pels Common Room"
+      description_block: |
+        setting:
+          location: "Secret Annex second floor, multifunctional room serving as kitchen, dining room, living room and bedroom for Hermann and Auguste van Pels, Amsterdam 1942-1944"  
+        mainElements: "Duży stół gdzie wszyscy spożywają posiłki, radio jedyne okno na świat, piec kuchenny"
+        atmosphere: "Serce społeczne Oficyny, zapachy gotowania, dym papierosowy, miejsce wspólnych posiłków i kłótni"
+    
+    - id: "secret_annex_attic"
+      name: "Secret Annex Attic"
+      description_block: |
+        setting:
+          location: "Secret Annex top floor attic under roof with wooden ceiling beams, storage space, Amsterdam 1942-1944"
+        mainElements: "Ciemna przestrzeń pod dachem, widoczne belki stropowe, beczki i worki z jedzeniem, jedno niezamalowane okno z widokiem na kasztanowiec"
+        atmosphere: "Jedyne miejsce kontaktu z naturą, azyl dla zadumy i intymności, smugi światła w kurzu"
+    
+    - id: "amsterdam_streets_1940s"
+      name: "Amsterdam Streets 1940s"
+      description_block: |
+        setting:
+          location: "Amsterdam city streets during German occupation 1940-1944, narrow canal-side houses, cobblestone streets, Netherlands"
+        mainElements: "Wysokie wąskie kamienice z cegły nad kanałami, brukowane ulice, charakterystyczna architektura holenderska"
+        atmosphere: "Miasto pod okupacją, napięcie w powietrzu, kontrast między normalnym życiem a ukrytym terrorem"
+
+  items:
+    - id: "anne_diary_checkered"
+      name: "Anne's Checkered Diary"
+      description_block: |
+        details: "Notatnik w twardej oprawie, charakterystyczna drobna kratka w kolorach czerwonym i białym, format zbliżony do A5, mały metalowy zameczek z kłódką i kluczykiem"
+    
+    - id: "yellow_star_badge"
+      name: "Yellow Star of David"
+      description_block: |
+        details: "Żółta sześcioramienna Gwiazda Dawida z czarnym napisem Jood, symbol prześladowań noszony na lewej piersi przez wszystkich Żydów powyżej 6 roku życia"
+    
+    - id: "radio_1940s"
+      name: "1940s Radio"
+      description_block: |
+        details: "Duże drewniane radio z podświetlaną skalą, centralne miejsce w pokoju van Pelsów, jedyne źródło wiadomości ze świata zewnętrznego"
+    
+    - id: "europe_map"
+      name: "Map of Europe"
+      description_block: |
+        details: "Mapa Europy wisząca na ścianie w pokoju Franków, na której Otto zaznacza postępy aliantów, symbol nadziei na wyzwolenie"
+    
+    - id: "movie_star_photos"
+      name: "Movie Star Photographs"
+      description_block: |
+        details: "Kolorowe zdjęcia i pocztówki gwiazd filmowych między innymi Deanna Durbin Ginger Rogers, członkowie rodzin królewskich, reprodukcje dzieł sztuki oklejające ściany pokoju Anny"
+    
+    - id: "fountain_pen"
+      name: "Fountain Pen"
+      description_block: |
+        details: "Wieczne pióro którym Anne pisała dziennik, symbol jej literackich ambicji i aktu oporu przez pisanie"
+    
+    - id: "chestnut_tree"  
+      name: "Chestnut Tree"
+      description_block: |
+        details: "Stary kasztanowiec rosnący na podwórzu widoczny z okna strychu, jedyny kontakt z naturą, symbol wolności cyklu życia i niezłomnej nadziei"

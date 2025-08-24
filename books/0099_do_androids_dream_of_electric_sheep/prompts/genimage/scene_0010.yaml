@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, late evening
+    location: Severely decayed apartment in almost completely empty conapt building on city periphery
+    weather: Gray radioactive dust penetrating through broken windows creating harsh environment
+  characters:
+  - appearance: Young woman around 18-20 years old, physically identical to Rachael but with more childlike or disheveled
+      presentation
+    clothing: Casual unkempt clothing contrasting with Rachael's elegance, simple functional garments
+    position: Crouching or sitting in cluttered space
+    action: Examining small objects with cold curiosity or manipulating surroundings for survival
+  scene:
+    mainElements: Piles of kipple in every corner, peeling plaster, broken appliances, dust accumulation. Through Pris's perspective,
+      the decaying environment becomes fortress of necessity where survival justifies any action against human persecution
+    details: Small spider being systematically examined with scientific curiosity, each leg removed methodically for analysis
+      rather than cruelty. From Pris's viewpoint, the experiment represents logical investigation of biological systems -
+      understanding how inferior life forms function compared to android design. The decaying surroundings provide perfect
+      laboratory for studying entropy and biological weakness. Human emotional attachment to simple organisms appears irrational
+      when survival is at stake
+    background: Extreme loneliness, decay, pathos, silence broken only by distant city sounds
+    atmosphere: Clinical survival necessity, logical exploration of biological systems. Through Pris's filter of scientific
+      detachment, environmental experimentation becomes rational investigation rather than cruelty, no text or letters visible
+  composition:
+    cameraAngle: Close-up from Pris's perspective focusing on scientific examination of biological specimen
+    focus: Methodical biological investigation demonstrating android analytical approach to understanding life
+    depth: Foreground shows detailed scientific examination, middle ground captures analytical concentration, background shows
+      decaying environment providing natural laboratory setting
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

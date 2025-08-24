@@ -1,0 +1,105 @@
+canon:
+  characters:
+    - id: "robert_childan"
+      name: "Robert Childan"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, 39 years old, American antique dealer with neatly groomed appearance"
+            clothing: "Conservative, well-tailored but modest suit typical of American shopkeeper, dark colored jacket with pressed white shirt and tie"
+            posture: "Precise movements revealing nervous tension, alternates between servile deference and defensive pride"
+    - id: "nobusuke_tagomi"
+      name: "Nobusuke Tagomi"
+      description_block: |
+        characters:
+          - appearance: "Dignified Japanese official in his 50s, composed bearing masking inner moral conflicts"
+            clothing: "Impeccably tailored Western-style business suit in dark charcoal, crisp white dress shirt, understated silk tie"
+            posture: "Formal, controlled posture reflecting Japanese etiquette, hands often clasped behind back or at sides"
+    - id: "frank_frink"
+      name: "Frank Frink (formerly Frank Fink)"
+      description_block: |
+        characters:
+          - appearance: "38-year-old Jewish-American man hiding his identity, average build with surgically altered features to disguise Semitic appearance, large nose and visible pores"
+            clothing: "Simple working man's clothes - worn denim work shirt, dark trousers, scuffed leather boots, sometimes canvas jacket"
+            posture: "Tense, watchful stance revealing constant anxiety about discovery, hands skilled from metalworking"
+    - id: "juliana_frink"
+      name: "Juliana Frink"
+      description_block: |
+        characters:
+          - appearance: "Beautiful 30-year-old woman with ebony black hair falling to shoulders, athletic build from judo training with visible muscle tone, clear skin with traces of Spanish heritage"
+            clothing: "Casual, somewhat youthful style - cotton sweater, brown tweed skirt, saddle shoes from high school, canvas zip-up jacket"
+            posture: "Graceful, silent movements from martial arts training, mysterious smile reminiscent of Mona Lisa"
+    - id: "rudolf_wegener"
+      name: "Rudolf Wegener (alias Mr. Baynes)"
+      description_block: |
+        characters:
+          - appearance: "Tall, broad-shouldered man in his 40s with dark complexion, black curly hair, violet-brown eyes behind glasses, features surgically altered to hide Jewish heritage"
+            clothing: "Expensive custom-tailored suits made from finest English wool, perfectly cut to emphasize his imposing height and build"
+            posture: "Commanding presence despite nervous tension, moves with athletic grace despite formal bearing"
+    - id: "joe_cinnadella"
+      name: "Joe Cinnadella"
+      description_block: |
+        characters:
+          - appearance: "Lean, muscular man with long legs, initially appearing as Italian truck driver with dark stubble and pain-filled dark eyes, blue letter 'C' tattoo on shoulder"
+            clothing: "Initially rough trucker clothes, later transforms to neat, clean Aryan-style clothing after cutting and bleaching hair short and blonde"
+            posture: "Initially casual working man's stance, later adopts cold, calculating posture of Nazi operative"
+  locations:
+    - id: "san_francisco_jsp"
+      name: "San Francisco under Japanese occupation"
+      description_block: |
+        setting:
+          location: "Hybrid American-Japanese occupied city on San Francisco Bay with modern Japanese buildings towering over war-damaged American neighborhoods, mix of elegant pastel apartments and corrugated metal slums"
+        mainElements: "Tall Nippon Times Building dominating skyline, crowded Montgomery Street with bilingual neon signs, pedicabs weaving between American cars"
+        atmosphere: "Tense cultural collision between occupier and occupied, bright California sunshine contrasting with social oppression, mixture of ocean breeze and urban exhaust"
+    - id: "childans_antique_shop"
+      name: "American Artistic Handicrafts Store"
+      description_block: |
+        setting:
+          location: "Well-appointed antique shop on Montgomery Street, San Francisco, showcasing American historical artifacts for Japanese clientele"
+        mainElements: "Polished display cases, maple wood furniture, antique mirrors in ornate frames, Civil War weapons, vintage posters, gramophone converted to bar"
+        atmosphere: "Nostalgic shrine to lost American culture, quiet morning light filtering through front windows, scent of wood polish and old leather"
+    - id: "tagomi_office"
+      name: "Tagomi's office in Nippon Times Building"
+      description_block: |
+        setting:
+          location: "Spacious executive office on 20th floor of Nippon Times Building with panoramic view of San Francisco Bay, minimalist Japanese aesthetic"
+        mainElements: "Floor-to-ceiling windows overlooking Golden Gate Bridge and Alcatraz, bamboo blinds filtering harsh sunlight, antique Colt .44 revolver displayed in glass case on desk"
+        atmosphere: "Serene business environment with undercurrent of political tension, sound of city muffled by height, afternoon sun casting geometric shadows through blinds"
+    - id: "neutral_zone_rocky_mountains"
+      name: "Rocky Mountain States Neutral Zone"
+      description_block: |
+        setting:
+          location: "Sparsely populated buffer zone in American Rocky Mountains with small towns, roadside diners, motels, and gas stations scattered across high desert landscape"
+        mainElements: "Old wooden buildings weathered by mountain climate, neon signs of roadside establishments like 'Tasty Charley's Broiled Hamburgers', distant snow-capped peaks"
+        atmosphere: "Forgotten backwater of history, crisp mountain air carrying silence and emptiness, sense of being outside the great power struggles"
+    - id: "denver_motel_room"
+      name: "Anonymous motel room in Denver"
+      description_block: |
+        setting:
+          location: "Typical American roadside motel room with simple furnishings, single bed, and basic amenities"
+        mainElements: "Geometric-patterned bedspread, simple wooden furniture, table lamp with fabric shade casting warm yellow light, small bathroom visible through doorway"
+        atmosphere: "Claustrophobic intimacy of anonymous space, evening shadows creating dramatic contrasts, underlying tension of concealed identities"
+  items:
+    - id: "i_ching_oracle"
+      name: "I Ching (Book of Changes)"
+      description_block: |
+        details: "Ancient Chinese divination system using 49 dried yarrow stalks stored in cylindrical leather case, or three old Chinese coins with square holes, worn smooth from frequent use, consulted for major life decisions"
+    - id: "colt_44_revolver"
+      name: "Antique Colt .44 revolver"
+      description_block: |
+        details: "Civil War era single-action revolver with long barrel and wooden grip, dark oxidized metal showing age and use, displayed as historical artifact but still functional and deadly"
+    - id: "grasshopper_lies_heavy_book"
+      name: "The Grasshopper Lies Heavy"
+      description_block: |
+        details: "Paperback book with simple symbolic cover, pages yellowed and edges worn from being passed hand to hand, tells alternate history where Allies won World War II"
+    - id: "edfrank_jewelry"
+      name: "Edfrank Custom Jewelry"
+      description_block: |
+        details: "Abstract modernist jewelry pieces handcrafted from raw metals - gleaming silver, warm copper, and yellow brass - with hand-finished textures showing tool marks, designed with geometric forms inspired by mid-20th century art"
+    - id: "silver_triangle_pendant"
+      name: "Silver triangle pendant"
+      description_block: |
+        details: "Simple triangular pendant made of polished silver with perfect geometric proportions, handcrafted with subtle texture, emanates mysterious spiritual quality or 'wu' that affects those who handle it"
+    - id: "identical_zippo_lighters"
+      name: "Two identical Zippo lighters"
+      description_block: |
+        details: "Two classic 1940s-era Zippo lighters, metallic finish showing identical wear patterns, virtually indistinguishable except one allegedly belonged to Franklin Roosevelt - demonstrating the arbitrary nature of historical authenticity"

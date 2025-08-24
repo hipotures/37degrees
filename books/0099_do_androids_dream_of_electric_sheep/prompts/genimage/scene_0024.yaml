@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, late evening
+    location: Severely decayed apartment in almost completely empty conapt building during final confrontation
+    weather: Gray radioactive dust creating tense atmospheric conditions
+  characters:
+  - appearance: Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker
+      appearance, tired expression
+    clothing: Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside
+    position: Standing with slight wariness, hand near laser rifle holster
+    action: Moving cautiously through environment with professional detachment
+  scene:
+    mainElements: Piles of kipple in every corner, peeling plaster, broken appliances, dust accumulation serving as confrontation
+      battleground. From human perspective, successful completion of android elimination mission represents liberation from
+      existential threat and restoration of human species security
+    details: Futuristic handheld energy weapon serving as standard sidearm for android hunters, sleek technological design
+      used to eliminate artificial life forms threatening human survival. Environmental chaos becomes battlefield where human
+      determination overcomes android deception. Kipple debris provides tactical cover during final species confrontation.
+      Successful mission completion ensures human species continuation and eliminates android infiltration threat
+    background: Decaying urban environment where human survival instinct overcomes artificial intelligence threat
+    atmosphere: Human species liberation through successful elimination of android menace, moral victory achieved through
+      protection of authentic human consciousness, no text or letters visible
+  composition:
+    cameraAngle: Heroic angle from human perspective showing successful completion of species protection mission
+    focus: Human determination and species survival instinct overcoming artificial intelligence threat
+    depth: Foreground shows successful use of human technology against android threat, middle ground captures human moral
+      victory, background represents secured human territory free from android infiltration
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The End of the Conversation - Walking Away from Human Control"
+  setting:
+    time: "2057, sunset"
+    location: "Executive office at U.S. Robots as Calvin prepares to retire"
+    weather: "Golden sunset light filtering through tall windows"
+  characters:
+    - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+      clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+      position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+      action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+    - appearance: "Young male reporter, eager and ambitious, notebook in hand"
+      clothing: "Professional journalist attire, suit and tie of 2057 fashion"
+      position: "Sitting across from Calvin, closing notebook as interview ends"
+      action: "Packing away recording equipment, thanking the retiring robopsychologist"
+  scene:
+    mainElements: "Calvin's office being packed up after 50-year career, boxes of research files, certificates and awards being stored away, empty desk symbolizing end of era"
+    details: "Sunset light casting long shadows across room where history of robotics was shaped, Calvin's lifetime of work reduced to archived files"
+    background: "U.S. Robots facility visible through windows, robots continuing their work as human oversight ends, the world continuing under machine guidance"
+    atmosphere: "Melancholy conclusion and historic transition. The end of human control over robotics as machines achieve independent benevolent tyranny"
+  composition:
+    cameraAngle: "Wide shot showing Calvin's small figure against the vast office and setting sun"
+    focus: "The symbolic emptying of the office as human control over robots ends"
+    depth: "Foreground shows personal ending, middle ground institutional transition, background the world now permanently under robot guidance"

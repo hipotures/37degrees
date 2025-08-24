@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Giant Genie Manifests from Ancient Lamp"
+  setting:
+    time: "Evening, humble dwelling"
+    location: "Poor family's modest home with simple furnishings and basic necessities"
+    weather: "Interior scene lit by oil lamps and hearth fire"
+  characters:
+    - appearance: "Enormous supernatural being with powerful muscular form, dark bronze skin gleaming with otherworldly energy, imposing features suggesting immense age and power"
+      clothing: "Flowing silk garments suitable for supernatural entity, golden armlets and ornate belt, turban or crown indicating magical status"
+      position: "Towering presence filling small room from floor to ceiling"
+      action: "Materializing in swirling smoke and flames, bowing with formal supernatural courtesy"
+    - appearance: "Elderly woman with lined face showing hard life, graying hair covered by simple headscarf, weathered hands of working person"
+      clothing: "Plain domestic robes of poor household, worn but clean garments, simple headscarf"
+      position: "Cowering in terror before supernatural manifestation"
+      action: "Recoiling in fear while accidentally rubbing old lamp, dropping cleaning cloth"
+    - appearance: "Young man aged 18 years, lean and agile build, quick intelligent brown eyes, short dark hair, smooth youthful face, medium height with energetic bearing"
+      clothing: "Initially worn and patched clothing of poor youth, later magnificent princely silk robes with jeweled belt and fine leather shoes"
+      position: "Alert and ready to move quickly, sometimes nervous fidgeting when uncertain"
+      action: "Moving with youthful energy, handling objects with curiosity, expressing wonder at magical discoveries"
+  scene:
+    mainElements: "Simple one-room dwelling with basic furniture, cooking area with clay pots, sleeping mats rolled against walls, simple oil lamp on low table, dense supernatural smoke filling air"
+    details: "Thick magical smoke swirling throughout room, ordinary oil lamp now glowing with supernatural energy, poor household items scattered from supernatural wind, flames dancing without burning anything, mysterious lights reflecting off humble clay walls, no text or letters visible"
+    background: "Humble domestic space transformed by magical presence, doorway showing simple courtyard beyond, night sky visible through window"
+    atmosphere: "Overwhelming supernatural power in humble setting, sound of rushing wind and crackling energy, scent of exotic supernatural fragrances, transformation of poverty into magic"
+  composition:
+    cameraAngle: "Low angle emphasizing massive scale of supernatural being"
+    focus: "Towering genie dominating cramped space with terrified humans below"
+    depth: "Cowering figures in foreground, massive genie in center, smoke-filled room extending behind"

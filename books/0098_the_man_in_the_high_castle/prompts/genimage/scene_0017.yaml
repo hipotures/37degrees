@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1962, late evening
+    location: Denver motel corridor during critical confrontation between opposing forces
+    weather: Clear mountain evening with crisp air
+  characters:
+  - appearance: Beautiful 30-year-old woman with ebony black hair falling to shoulders, athletic build from judo training
+      with visible muscle tone, clear skin with traces of Spanish heritage
+    clothing: Casual, somewhat youthful style - cotton sweater, brown tweed skirt, saddle shoes from high school, canvas zip-up
+      jacket
+    position: Mid-motion in martial arts defensive stance, frozen at moment of recognition of danger
+    action: Suspended in time at instant of realizing companion's true Nazi identity, body beginning defensive movement
+  scene:
+    mainElements: Time distortion showing critical moment of realization frozen while background world continues normal pace,
+      martial arts movement suspended mid-execution, threat recognition crystallized in single instant
+    details: Motel corridor with flickering fluorescent light frozen mid-flicker, carpet fibers compressed under foot showing
+      movement direction, door handle turned halfway revealing escape attempt, shadows cast at impossible angles showing multiple
+      light sources, dust particles suspended in air, fabric of clothing showing wind resistance patterns, no text or letters
+      visible
+    background: Motel exterior showing normal evening activity - cars passing on highway, normal lighting patterns, people
+      moving at regular speed while foreground action remains suspended
+    atmosphere: Suspended moment of deadly recognition, time dilated during life-threatening realization, contrast between
+      frozen crisis and continuing normal world, psychological time expansion during extreme danger
+  composition:
+    cameraAngle: Low dynamic angle emphasizing frozen movement with normal background
+    focus: Central figure suspended mid-defensive movement with time distortion effects
+    depth: 'Foreground: frozen motion details, middle: suspended figure and immediate threat, background: normal-speed motel
+      environment'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

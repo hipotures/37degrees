@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Artillery shells creating ripples in puddles like visible music waves"
+  setting:
+    time: "1917 spring morning, first light of dawn"
+    location: "front line trench system during artillery bombardment, multiple puddles formed by overnight rain collecting in trench bottom"
+    weather: "morning after rain, puddles reflecting gray sky, intermittent drizzle continuing"
+  characters:
+    - appearance: "40 lat, zgarbione opadające ramiona sugerujące człowieka przyzwyczajonego do ciężkiej pracy, niebieskie oczy, twarz z ziemi poorana zmarszczkami ogorzała od wiatru i słońca surowa i prosta, biedny cienki wąsik, niezwykły nos"
+      clothing: "znoszony brudny mundur niemieckiego żołnierza Feldgrau, jako szewc z zawodu prawdopodobnie najlepiej dbał o swoje buty w warunkach frontowych"
+      position: "crouched low in trench, watching puddles intently while shells explode overhead"
+      action: "observing concentric ripple patterns in puddle water, timing his movements between shell impacts by reading water surface disturbances"
+  scene:
+    mainElements: "series of water puddles along trench floor acting as natural drums, each shell explosion creating unique ripple patterns, soldier using water movements to gauge distance and timing of incoming artillery"
+    details: "concentric circles expanding outward from puddle centers with each distant explosion, overlapping wave patterns creating complex interference designs, larger ripples indicating closer shell impacts, smaller tremors showing far artillery, water surface acting like visual metronome for bombardment rhythm, dirt particles dancing on water surface with each vibration, puddle edges creating different wave reflection patterns, muddy water showing ripples more clearly than clean water would, no text or letters visible"
+    background: "trench walls vibrating with shell impacts, distant explosions visible as flashes beyond trench rim, other soldiers also watching ground and water for timing cues"
+    atmosphere: "sound made visible through water physics, survival depending on reading visual rhythm of bombardment, natural elements serving as early warning system"
+  composition:
+    cameraAngle: "low angle focusing on puddle surface with soldier's concerned face reflected in water"
+    focus: "expanding ripple patterns in puddle with perfect concentric circles"
+    depth: "foreground shows detailed water ripple patterns, middle ground features crouched soldier, background reveals trench walls and distant explosions"

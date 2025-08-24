@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: All historical periods existing as transparent overlays
+    location: Single grand ballroom showing temporal memory layers
+    weather: Interior space with lighting from all eras combined
+  characters:
+  - appearance: Ghostly transparent figures from different eras - Victorian dancers, medieval court, ancient ceremonies, future
+      beings - all occupying same space simultaneously
+    clothing: Overlapping costume periods - medieval robes, Victorian gowns, modern dress, future unknown garments, all visible
+      as temporal layers
+    position: Multiple temporal occupancy of same space - different eras performing their characteristic activities simultaneously
+    action: Layered activities from all periods - medieval feast, Victorian ball, modern reception, future gathering, all
+      occurring together as transparent overlays
+  scene:
+    mainElements: Grand ballroom serving as temporal crossroads where all historical periods exist simultaneously as ghostly
+      transparent layers. Each era maintains its characteristic activities while sharing the same physical space
+    details: Architectural elements from all periods visible together - stone medieval walls through Victorian wallpaper through
+      modern fixtures through organic future growths. Lighting combines torches with candles with electric bulbs with future
+      illumination. Furniture overlaps across centuries - medieval benches through Victorian chairs through modern seating
+      through future forms
+    background: Windows show all exterior views simultaneously - medieval countryside, Victorian city, modern landscape, future
+      garden world, creating impossible but beautiful temporal panorama
+    atmosphere: Time as layered memory rather than linear progression, all moments existing eternally in same space, hauntingly
+      beautiful collision of all human eras, sense of eternal return and continuity, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot showing full ballroom with all temporal layers
+    focus: Central dance floor where temporal figures from all eras overlap most dramatically
+    depth: Multiple transparent figure layers in foreground, overlapping furniture and architecture in middle ground, impossible
+      window views in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Journey into Exile and Wisdom"
+  setting:
+    time: "Ancient Bronze Age Greece, midday"
+    location: "Rocky limestone mountain range separating Boeotia from Attica in Greece, wilderness far from civilization"
+    weather: "Clear bright day with constant mountain wind"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Small figure walking away along mountain path, supported by staff and guide"
+      action: "Moving slowly but deliberately away from camera toward distant mountains, accepting exile with dignity"
+  scene:
+    mainElements: "Steep inhospitable slopes covered with rough scrubland, wild herbs, scattered pine trees, place for shepherds and wild animals"
+    details: "Simple gnarled wooden staff used for support, humble tool replacing royal scepter. Figure diminishing against vast landscape. Royal garments beginning to fade into distance. Path leading toward unknown future. Mountain wilderness representing return to primitive honesty after civilized lies. Wind constant and cleansing. No text or letters visible"
+    background: "Primitive nature distant from cities, rocky peaks extending to horizon, suggesting journey without end"
+    atmosphere: "Final emotional note - acceptance and transformation, contemplative figure in transformed landscape, lasting feeling of profound change"
+  composition:
+    cameraAngle: "Wide shot showing small figure against vast mountain landscape"
+    focus: "The journey toward unknown future and spiritual transformation in wilderness"
+    depth: "Foreground shows rocky path, middle ground captures diminishing figure, background shows endless mountains suggesting eternal journey toward wisdom"

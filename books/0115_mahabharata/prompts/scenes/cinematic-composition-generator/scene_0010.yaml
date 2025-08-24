@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Two-shot - Krishna and Arjuna Dynamic"
+  setting:
+    time: "1000-800 BCE, dawn"
+    location: "Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for great army chariot maneuvers"
+    weather: "Clear dawn with morning light"
+  characters:
+    - appearance: "Male, 30 years old, boskie ciało o ciemnoniebieskiej karnacji jak nowa chmura deszczowa, czarne kręcone włosy ozdobione pawim piórem, postawa trzykrotnie zgięta tribhanga"
+      clothing: "Jaskrawożółte jedwabie lśniące jak błyskawica"
+      position: "Standing as charioteer holding reins, positioned to face questioning warrior"
+      action: "Czarujący enigmatyczny uśmiech boga-woźnicy boskiego intryganta"
+    - appearance: "Male, 25-30 years old, wysoki o szerokiej klatce piersiowej i długich potężnych ramionach, ciemna śniada karnacja, czarne kręcone włosy, oczy kolor polerowanej miedzi"
+      clothing: "Battle armor with bow case, ready for combat but hesitant"
+      position: "Standing in war chariot facing away from battle, looking toward divine companion"
+      action: "Chód pełen gracji i mocy jak rozgniewany słoń, oburęczny łucznik"
+  scene:
+    mainElements: "War chariot positioned between two vast armies, wide open battlefield under morning sky, horses stamping nervously, weapons gleaming in dawn light"
+    details: "Magnificent war chariot drawn by four celestial white horses, banner depicting god Hanuman, symbol of divine help and righteous cause with Hanuman's presence ensuring victory"
+    background: "Two massive armies arrayed for battle extending to horizons, banners and standards identifying different kingdoms, morning mist beginning to clear"
+    atmosphere: "Pivotal moment of spiritual crisis before devastating war, sounds of armies preparing weapons armor clanking horses snorting, tension before cosmic battle"
+  composition:
+    cameraAngle: "Two-shot showing relationship between divine guide and conflicted warrior"
+    focus: "Spiritual counseling moment between god and devotee at war's threshold"
+    depth: "Foreground chariot and divine-mortal pair, middle ground no-man's land, background vast opposing armies, no text or letters visible"

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Gilead's Propaganda Monument - Symbols of Divine Order"
+  setting:
+    time: "Near future, late afternoon with golden light"
+    location: "Central square of former American city now under Gilead theocratic regime"
+    weather: "Clear sky with dramatic lighting casting long shadows"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Massive bronze or stone monument depicting biblical figures of fertility and divine order, with Rachel and Leah at the center surrounded by children and symbols of harvest abundance"
+    details: "The monument towers over the square, featuring carved inscriptions in biblical script reading blessed be the fruit and other Gilead slogans. Clean geometric lines and imposing scale designed to dwarf human observers. Fresh flowers and offerings placed at the base by citizens. The monument's style blends classical religious imagery with totalitarian brutalism."
+    background: "Ordered cityscape with uniform government buildings in clean architectural style, wide boulevards designed for mass gatherings and parades, digital screens visible on distant buildings"
+    atmosphere: "Overwhelming sense of imposed order and state-sanctioned spirituality, the monument's scale creating visual intimidation while its religious imagery suggests divine endorsement of the regime"
+  composition:
+    cameraAngle: "Low angle shot emphasizing the monument's intimidating height"
+    focus: "The towering monument dominates the frame with human scale suggested by tiny figures or objects at its base"
+    depth: "Monument in foreground filling most of frame, organized city architecture in middle ground, clear sky in background creating stark contrast"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1880s late afternoon, golden hour socializing time
+    location: Elegant London club dining room, seen as stage for professional performance
+    weather: Indoor warmth with daylight filtering through tall windows
+  characters:
+  - appearance: Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face
+      with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples
+    clothing: Impeccable dark frock coat, white shirt with stiff collar, dark silk waistcoat, dark trousers
+    position: Standing among fellow professionals, maintaining perfect gentleman's posture
+    action: Engaging in refined conversation with controlled gestures, playing his respected role flawlessly
+  - appearance: Lean tall gentleman around 50 years old, austere face that never brightens with smile, clean-shaven, thinning
+      dark hair neatly combed
+    clothing: Conservative dark suit befitting respectable lawyer, black or gray formal attire
+    position: Standing with measured lawyer's bearing
+    action: Engaged in serious conversation with restrained gestures
+  scene:
+    mainElements: Dining room transforms into elaborate stage set - crystal chandeliers casting flattering light on assembled
+      gentlemen, polished surfaces reflecting careful social choreography
+    details: Every conversation appears as performance piece - measured gestures, appropriate laughter, careful selection
+      of topics, waiters moving like stage hands maintaining the illusion, fine china and silverware as props in respectability
+      theater
+    background: Other club members appear as fellow actors in grand performance of Victorian propriety, each playing assigned
+      role in social hierarchy
+    atmosphere: Theatrical warmth of belonging to exclusive society, golden lighting suggesting everything glows with approval
+      and acceptance, sense of playing crucial role in respected social order, no text or letters visible
+  composition:
+    cameraAngle: Wide shot positioning Jekyll as central performer on social stage
+    focus: Emphasis on Jekyll's masterful navigation of social expectations and public image
+    depth: Foreground shows Jekyll's confident performance, middle ground captures attentive audience of peers, background
+      suggests vast network of social connections
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

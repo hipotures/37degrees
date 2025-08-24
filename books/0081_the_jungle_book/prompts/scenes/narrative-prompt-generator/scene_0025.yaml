@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Master of Two Worlds"
+  setting:
+    time: "19th Century India, several years later, daytime"
+    location: "A government forest reserve."
+    weather: "A bright, sunny day."
+  characters:
+    - appearance: "A young man in his early 20s, dressed as a forest ranger."
+      clothing: "A simple, practical uniform of a British colonial forest ranger."
+      position: "Leaning against a tree, looking out over the forest."
+      action: "He is at peace, a man who has found his place in the world. He is no longer torn between two worlds, but is the master of both."
+    - appearance: "A gray wolf."
+      clothing: "None"
+      position: "Sitting at his feet, looking up at him with devotion."
+      action: "This is one of his wolf brothers, still his loyal companion."
+  scene:
+    mainElements: "The final image of Mowgli, a man who has successfully integrated his two identities."
+    details: "The forest is a well-managed, orderly version of the jungle. The scene is one of peace and harmony. Mowgli's uniform is a symbol of his new life, but the presence of his wolf brother shows that he has not forgotten his past. no text or letters visible"
+    background: "The peaceful, sun-dappled forest."
+    atmosphere: "A sense of peace, harmony, and resolution. The conflicts of the past have been resolved, and Mowgli has found his true identity. no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot, capturing the quiet companionship between Mowgli and the wolf."
+    focus: "The look of peace and contentment on Mowgli's face."
+    depth: "Foreground: Mowgli and the wolf. Background: the orderly forest."

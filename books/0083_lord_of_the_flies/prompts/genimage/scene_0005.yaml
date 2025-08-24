@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: By a small pool of fresh water in the jungle.
+    weather: Dappled sunlight filters through the canopy.
+  characters:
+  - appearance: Tall, thin, and bony, with red hair and a freckled, angular face.
+      His eyes are light blue and often narrowed in concentration or anger. Aggressive
+      and predatory, often crouching or leaning forward, brandishing a spear.
+    clothing: Initially wears a black choir uniform with a silver badge, later strips
+      down to just a tattered pair of shorts, his body painted with clay and charcoal.
+    position: Kneeling by the pool of water.
+    action: He has just finished painting his face with charcoal and colored clay.
+      He is staring at his reflection, but he doesn't see himself. He sees a stranger,
+      a hunter, a savage.
+  scene:
+    mainElements: Jack's transformation into a hunter is complete with the creation
+      of the mask. This is a pivotal moment where he sheds his identity and embraces
+      his primal instincts.
+    details: The reflection of Jack's painted face in the water is subtly distorted.
+      The colors are unnaturally vibrant, and the lines of the mask seem to writhe
+      and shift. The water ripples, not from any breeze, but as if the reflection
+      itself is trying to break free. The painted eyes of the mask seem to blink.
+    background: The lush, green jungle. The sounds of the jungle are muted, as if
+      holding their breath.
+    atmosphere: A deeply unsettling scene of self-alienation. Jack is both fascinated
+      and liberated by the monstrous face staring back at him. This is the birth of
+      the savage.
+  composition:
+    cameraAngle: Close-up on Jack's face, with his distorted reflection filling the
+      frame.
+    focus: The distorted, writhing reflection in the water.
+    depth: 'Foreground: Jack''s painted face. Middle ground: The pool of water. Background:
+      The jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

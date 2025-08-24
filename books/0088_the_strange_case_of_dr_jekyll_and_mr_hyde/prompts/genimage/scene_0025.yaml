@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1880s dawn, first light following night of revelations
+    location: London awakening to new day, viewed from multiple perspectives across city
+    weather: Clear dawn light revealing universal human condition
+  characters:
+  - appearance: Multiple Victorian-era Londoners from all social classes beginning new day
+    clothing: Various attire reflecting different social positions - from working-class to aristocratic
+    position: Throughout London, each beginning daily routine despite previous night's revelations
+    action: Carrying out universal human activities - awakening, preparing for day, continuing life despite crisis
+  scene:
+    mainElements: London dawn revealing universal human experience - sun rising over Thames affecting all equally, morning
+      light touching rich and poor neighborhoods alike, city awakening with shared rhythm of human life
+    details: Dawn light exposing universal human elements - workers beginning daily labor, professionals preparing for duties,
+      families sharing breakfast, children playing, elderly sitting in morning light, all participating in eternal human patterns
+    background: Victorian London architecture serving as backdrop for universal human drama, Thames flowing with eternal rhythm,
+      city infrastructure supporting universal human needs regardless of individual crises
+    atmosphere: Dawn light providing universal illumination transcending individual perspectives, shared human experience
+      of beginning new day, collective participation in eternal cycle of life continuing despite personal tragedies, no text
+      or letters visible
+  composition:
+    cameraAngle: Expansive dawn view encompassing multiple social perspectives united by shared human experience
+    focus: Universal human experience of survival and continuation transcending individual crisis
+    depth: Multiple social layers showing dawn affecting all equally - from river level through residential areas to professional
+      districts, all sharing same morning light
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

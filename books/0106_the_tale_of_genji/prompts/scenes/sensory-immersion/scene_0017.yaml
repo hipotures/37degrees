@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ripe Fruit Cascade"
+  setting:
+    time: "Late 10th century Japan, late summer during fruit harvest"
+    location: "Imperial Palace Heian-kyō, private garden area with fruit trees"
+    weather: "Warm humid summer day perfect for fruit ripening"
+  characters:
+    - appearance: "Japanese imperial consort in her teens to thirties, bears striking resemblance to deceased Kiri-Tsubo, pale aristocratic features with powdered white face, blackened teeth, redrawn high eyebrows, long straight black hair"
+      clothing: "Imperial quality twelve-layer robes befitting emperor's consort, often incorporating wisteria motifs in subtle purples and whites, garments of highest silk quality with court-appropriate seasonal colors"
+      position: "Standing beneath heavily laden persimmon tree, reaching toward perfect orange fruit"
+      action: "Selecting ripest persimmons from tree, juice running down fingers as fruit splits from perfect ripeness, tasting fruit with visible pleasure"
+  scene:
+    mainElements: "Ancient fruit trees heavy with ripe persimmons, wooden collection baskets, silk cloths for cleaning hands"
+    details: "Perfectly ripe persimmons glow like orange lanterns in dappled sunlight, fruit so ripe that sweet juice runs down fingers in golden streams, skin bursts at gentle touch revealing glossy interior flesh, juice drops sparkle in afternoon light before falling to ground, fruit surfaces show perfect gradient from deep orange to lighter yellow, sticky sweet residue coats fingers and palms, silk cleaning cloths show fruit stains in sunset colors, ground beneath tree littered with fallen fruit attracting industrious insects, no text or letters visible"
+    background: "Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white gravel, multiple wooden pavilions connected by covered corridors"
+    atmosphere: "Peak ripeness and natural abundance, sweetness made visible through flowing fruit juices, harvest perfection in aristocratic garden setting"
+  composition:
+    cameraAngle: "Medium shot capturing fruit selection and juice flow details"
+    focus: "Fruit juice streams and the visual evidence of perfect ripeness and sweetness"
+    depth: "Dripping fruit and juice details in foreground, figure among laden branches in middle ground, palace garden extending in background"

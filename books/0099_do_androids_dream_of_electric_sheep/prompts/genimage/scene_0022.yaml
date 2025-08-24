@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: January 2021, evening
+    location: Multiple connected apartments throughout post-apocalyptic San Francisco during collective television viewing
+    weather: Gray radioactive dust filtering through windows as unified urban experience
+  characters:
+  - appearance: Young woman around 18-20 years old, physically identical to Rachael but with more childlike or disheveled
+      presentation
+    clothing: Casual unkempt clothing contrasting with Rachael's elegance, simple functional garments
+    position: Crouching or sitting in cluttered space
+    action: Examining small objects with cold curiosity or manipulating surroundings
+  - appearance: Young man in his 20s, thin build, nervous uncertain movements, marginalized appearance reflecting his status
+      as 'special'
+    clothing: Simple work clothing, worn and mismatched garments
+    position: Seated or standing with hesitant posture in debris-filled surroundings
+    action: Carefully tending to empathy box or showing concern for others
+  scene:
+    mainElements: Television screens throughout city simultaneously broadcasting Buster Friendly's revelation about Mercerism
+      being fraudulent entertainment created by actor Al Jarry on studio set. Collective viewing experience shared across
+      isolated apartments - mass disillusionment spreading through connected population
+    details: Multiple television screens showing identical broadcast - grainy black and white footage revealing elderly actor
+      on cheap studio set climbing artificial rocky slope. Revelation spreads across city as collective realization replaces
+      individual faith. Studio lighting reveals artificial nature of spiritual experience. Cheap scenery exposes commercial
+      production behind religious mystery. Simultaneous viewing creates shared loss of faith across entire urban population
+    background: Individual apartments connected through broadcast media creating collective experience of spiritual disillusionment
+    atmosphere: Mass revelation destroying collective faith, shared disillusionment spreading through population via broadcast
+      media, simultaneous loss of spiritual community, no text or letters visible
+  composition:
+    cameraAngle: Multiple television screens showing same revelation broadcast to different viewers across city
+    focus: Broadcast revelation creating collective disillusionment experience across separated viewing audience
+    depth: 'Multiple viewing depths: individual television screens in foreground, diverse viewer reactions in middle ground,
+      collective urban disillusionment spreading across entire cityscape'
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

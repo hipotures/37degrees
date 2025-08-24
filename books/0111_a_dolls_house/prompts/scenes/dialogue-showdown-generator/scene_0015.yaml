@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The New Power Dynamic - Kristine Commands"
+  setting:
+    time: "1879, Boxing Day late evening"  
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła build"
+      clothing: "Skromna prosta suknia podróżna, czysta ale znoszona pozbawiona modnych ozdób, świadcząca o ubóstwie and status kobiety pracującej"
+      position: "Standing taller, positioned higher in frame, looking down with authority"
+      action: "Speaking with firm conviction, making decisions that will affect everyone's fate"
+    - appearance: "Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca zgorzknienie but also troskę about los swoich dzieci"
+      clothing: "Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną sytuację finansową"
+      position: "Lower in frame, looking up at her with mixture of surprise and hope"
+      action: "Listening with growing amazement as she offers him redemption and partnership"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The comfortable bourgeois setting witnesses this complete reversal - the desperate man who held all the threatening cards is now looking up hopefully at the woman who seemed powerless. The room's elegant furnishings frame this moment of psychological transformation."
+    background: "The formal interior contrasts with the raw human drama unfolding"
+    atmosphere: "Powerful reversal as the previously weak become strong. Hope begins to emerge from desperation through human connection."
+  composition:
+    cameraAngle: "Low angle shot emphasizing Kristine's new position of authority"
+    focus: "The reversed power dynamic - she dominates the frame while he looks up hopefully"
+    depth: "Foreground: Kristine in position of command. Middle ground: The space between them representing their reconnection. Background: The elegant room witnessing this human transformation."

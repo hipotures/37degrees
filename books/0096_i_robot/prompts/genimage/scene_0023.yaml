@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 2032, evening during political rally
+    location: Public campaign platform in New York City
+    weather: Overcast with threatening storm, artificial lighting on stage
+  characters:
+  - appearance: Mężczyzna w średnim wieku (45-50 lat), o opanowanej postawie i pełen godności. Jego wygląd musi być idealnie
+      ludzki - trudny do odczytania
+    clothing: Eleganckie, dobrze skrojone garnitury w ciemnych kolorach, białe koszule i krawaty - typowy strój wysokiej rangi
+      polityka
+    position: Stoi na podium przemawiając lub siedzi przy biurku w pozycji władczej
+    action: Przemawia spokojnie do tłumu, prowadzi negocjacje polityczne lub wykonuje precyzyjne ruchy podczas konfrontacji
+  - appearance: Aggressive provocateur with working-class appearance and confrontational demeanor
+    clothing: Blue-collar work clothes, flannel shirt, worn boots
+    position: Fallen backward on stage platform after being struck
+    action: Reeling from unexpected punch, touching face in shock and pain
+  scene:
+    mainElements: Byerley's fist still extended after delivering decisive blow, provocateur sprawled on platform, crowd frozen
+      in shocked silence
+    details: Blood on provocateur's lip proving human injury, Byerley's knuckles showing impact, cameras capturing the moment
+      that will define his career
+    background: Political rally with banners and flags, crowd of voters witnessing the ultimate proof of humanity through
+      violence
+    atmosphere: Explosive moment of truth delivered through physical force. The public spectacle transforms accusation into
+      vindication through human capacity for violence
+  composition:
+    cameraAngle: Medium shot capturing both the striker and victim in decisive moment
+    focus: Byerley's fist and its human consequences, proving robot cannot harm humans
+    depth: Foreground shows violent proof of humanity, middle ground the shocked crowd, background the democratic process
+      being decided through force
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

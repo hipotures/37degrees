@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: January 2021, afternoon
+    location: Covered rooftop pasture area on top of residential building under gray sunless sky
+    weather: Soft gray light creating dreamlike atmosphere
+  characters:
+  - appearance: Small figure approaching artificial animals with wonder rather than adult cynicism
+    clothing: Simple protective clothing appropriately sized for youth
+    position: Kneeling beside electric sheep with trusting openness
+    action: Petting artificial animal with genuine affection unburdened by adult knowledge of deception
+  scene:
+    mainElements: Fenced enclosure for animals, control panels hidden in synthetic animal wool, neighboring rooftops visible.
+      Through innocent perspective, the rooftop becomes magical farm where wonderful creatures live, electric animals appear
+      perfectly real and loveable
+    details: Hyperrealistic sheep replica with too-regular movements, hidden control panel concealed in synthetic wool, mechanical
+      precision in grazing motions. From child viewpoint, mechanical movements seem charmingly predictable rather than artificial
+      - animals that behave properly unlike chaotic real creatures. Hidden control panel remains unnoticed, preserving wonder.
+      Synthetic wool feels perfectly real to trusting touch. Every detail reinforces belief in genuine life rather than revealing
+      deception
+    background: Open space contrasting with claustrophobic interiors, hope and wonder replacing adult shame and status anxiety
+    atmosphere: Pure joy in connection with artificial life, innocence preserving magic that adults have lost. Electric sheep
+      represents perfect companion rather than expensive status symbol, no text or letters visible
+  composition:
+    cameraAngle: Child's eye level creating intimate connection with artificial animals
+    focus: Loving interaction between innocent observer and electric creature emphasizing emotional truth over technical reality
+    depth: Foreground shows gentle contact with artificial animal, middle ground captures wonder and trust, background shows
+      magical rooftop world free from adult complications
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

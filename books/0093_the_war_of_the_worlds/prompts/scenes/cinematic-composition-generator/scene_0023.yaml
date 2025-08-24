@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Shadow frame - narrator in dark doorway seeing dead London in bright sunlight"
+  setting:
+    time: "1897, after Martian collapse, during narrator's exploration of silent London"
+    location: "Same London streets now empty and devastated, buildings damaged by Martian weapons, thick coating of black dust from Black Smoke, eerie silence replacing urban bustle, red weed growing over ruins and waterways"
+    weather: "Bright harsh sunlight illuminating devastated cityscape, creating stark shadows"
+  characters:
+    - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+      clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+      position: "Silhouetted in dark doorway looking out at devastated London street"
+      action: "Emerging from shelter to witness extent of civilization's collapse and alien withdrawal"
+  scene:
+    mainElements: "Stark contrast between dark interior space and bright sunlight illuminating dead city beyond"
+    details: "Narrator's figure silhouetted in doorway creating frame of shadow, beyond lies London transformed - abandoned vehicles and possessions scattered in streets, broken windows like empty eye sockets, collapsed sections of buildings, Thames River choked with crimson Martian vegetation, unnatural stillness"
+    background: "Dead London streets stretching into distance, proud imperial architecture reduced to ruins, evidence of complete civilizational collapse"
+    atmosphere: "Tomb-like silence broken only by wind through ruins, oppressive sense of death and abandonment, unnatural red vegetation creating alien transformation of familiar cityscape, complete reversal of former confidence"
+  composition:
+    cameraAngle: "Shadow frame with narrator in dark foreground silhouetted against bright devastated cityscape"
+    focus: "Contrast between dark human figure and bright empty city showing scale of civilizational collapse, no text or letters visible"
+    depth: "Foreground shows narrator silhouetted in dark doorway, middle ground transitions from shadow to harsh sunlight, background reveals full extent of London's devastation stretching to horizon"

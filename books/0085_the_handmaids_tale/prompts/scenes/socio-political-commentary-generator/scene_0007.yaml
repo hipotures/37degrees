@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Guards on Every Corner - Visible Military Control"
+  setting:
+    time: "Near future, bright midday with harsh direct sunlight"
+    location: "Major street intersection in Gilead urban center with checkpoint station"
+    weather: "Clear day with strong sunlight creating sharp shadows and high contrast"
+  characters:
+    - appearance: "Multiple armed Guards in military uniforms, young men with disciplined bearing and alert expressions"
+      clothing: "Standard Guardian military uniforms with boots, caps, and visible weapons including rifles and sidearms"
+      position: "Stationed at strategic positions around the intersection - some standing at attention, others patrolling in pairs"
+      action: "Maintaining vigilant watch over passing citizens, checking identification documents, communicating through radio equipment"
+    - appearance: "Citizens passing through the checkpoint area, their movements careful and deferential"
+      clothing: "Various caste uniforms showing proper deference to authority"
+      position: "Moving through designated pathways under Guard supervision"
+      action: "Presenting identification when requested, keeping eyes lowered, moving efficiently without dawdling"
+  scene:
+    mainElements: "Permanent checkpoint station with barriers, document inspection points, and communication equipment allowing Guards to control civilian movement"
+    details: "The checkpoint features metal barriers channeling pedestrian traffic into controlled lanes, digital screens displaying current security alerts and citizen reminders. Guards carry modern weapons and communication devices. Official postings show regulations and prohibited items. The setup efficiently processes civilians while maintaining complete military control."
+    background: "Urban architecture designed to accommodate security checkpoints, with clear sight lines and limited escape routes, official buildings visible showing state presence"
+    atmosphere: "Militarized civilian space where ordinary daily life occurs under direct armed supervision, normalizing the presence of force in everyday activities"
+  composition:
+    cameraAngle: "Street-level view showing the checkpoint from a citizen's approach perspective"
+    focus: "The armed Guards and their checkpoint equipment dominating the intersection"
+    depth: "Checkpoint barriers and Guards in foreground, controlled civilian movement in middle ground, supervised urban space extending into background"

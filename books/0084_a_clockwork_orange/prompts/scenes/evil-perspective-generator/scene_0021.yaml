@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Yin and Yang of Alex and the Writer"
+  setting:
+    time: "N/A"
+    location: "A symbolic, abstract landscape."
+    weather: "N/A"
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. He is depicted in a stylized, graphic manner, forming one half of a yin and yang symbol with the writer.
+      position: "In a circular composition."
+      action: "He is locked in a perpetual struggle with the writer, each one defining the other."
+    - id: "f_alexander"
+      name: "F. Alexander"
+      description_block: |
+        A middle-aged writer with a thoughtful, intellectual face. He wears glasses and has graying hair. Dresses in comfortable, academic-style clothing. He is depicted in a stylized, graphic manner, forming the other half of a yin and yang symbol with Alex.
+      position: "In a circular composition."
+      action: "He is locked in a perpetual struggle with Alex, each one defining the other."
+  scene:
+    mainElements: "A visual representation of the symbiotic relationship between Alex and the writer. They are two sides of the same coin, violence and intellect, chaos and order. Neither can exist without the other."
+    details: "The two figures are depicted in a stylized, graphic manner, their bodies forming the two halves of a yin and yang symbol. The background is a neutral grey, emphasizing the balance between the two opposing forces."
+    background: "N/A"
+    atmosphere: "A scene of philosophical balance and interdependence. The scene suggests that good and evil are not separate entities, but two aspects of a single, unified whole."
+  composition:
+    cameraAngle: "A straight-on, symmetrical shot that emphasizes the balance and harmony of the composition."
+    focus: "The point where the two figures meet, the line that both separates and joins them."
+    depth: "The scene is flat and two-dimensional, like a graphic design."

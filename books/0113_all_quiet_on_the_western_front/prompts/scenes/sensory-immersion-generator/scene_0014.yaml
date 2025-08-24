@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Old books with dust particles floating in library light beams"
+  setting:
+    time: "1917 autumn afternoon, golden hour light"
+    location: "damaged library in French chateau behind lines, shell damage creating new windows, ancient books scattered but some shelves intact"
+    weather: "clear afternoon with strong angled sunlight streaming through shell holes"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "sitting on floor among scattered books, back against damaged bookshelf"
+      action: "gently opening old leather-bound volume, releasing cloud of dust particles into sunbeam, pages crumbling slightly at edges from age and moisture"
+  scene:
+    mainElements: "damaged library with books scattered across floor and remaining on tilted shelves, strong sunbeams streaming through shell holes creating visible light columns, dust particles floating in suspended animation throughout light beams, soldier carefully handling ancient books"
+    details: "dust particles released from old book pages floating in dense clouds through sunbeams, leather book bindings cracked and aged releasing fine dust when handled, pages yellowed and brittle creating paper dust when turned, sunlight illuminating thousands of floating particles creating visible atmosphere, different book sizes and conditions showing varying dust patterns when opened, library damage creating unexpected light sources for dust visibility, dust settling slowly in still air showing absence of ventilation, ancient knowledge mixed with war debris, no text or letters visible"
+    background: "elegant library architecture damaged by shells, ornate bookcases tilted and broken, classical learning environment disrupted by modern warfare"
+    atmosphere: "knowledge and learning surviving in damaged form, dust representing age and abandonment of intellectual pursuits during war, peaceful scholarly environment contrasting with military destruction"
+  composition:
+    cameraAngle: "medium shot showing soldier with open book and surrounding dust-filled light beams"
+    focus: "dust particles streaming from book pages into golden sunbeam columns"
+    depth: "foreground shows detailed book handling and dust release, middle ground features seated soldier, background reveals damaged library architecture and floating dust throughout space"

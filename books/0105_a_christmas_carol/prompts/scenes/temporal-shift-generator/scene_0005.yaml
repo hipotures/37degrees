@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Ledger's Life Cycle"
+  setting:
+    time: "1790s to 1843, spanning entire business career"
+    location: "Cramped London business office in commercial district, Victorian era with grimy brick buildings, narrow cobblestone streets"
+    weather: "Seasonal cycles compressed into single moment"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Single ledger book transforming through decades of use - pristine leather binding aging to cracked and worn cover, fresh white pages becoming yellowed and ink-stained, careful handwriting evolving from youthful script to elderly scratch"
+    details: "Temporal layers showing ledger evolution - binding corners worn through handling, gold lettering faded to illegible traces, spine cracked at identical stress points from repeated opening, pages filled chronologically with entries, ink quality changing from rich black to faded brown, blotting paper stains accumulated, ribbon bookmarks frayed and replaced multiple times, metal clasps tarnished from bright brass to dull bronze, water stains from roof leaks over years, dust accumulation in unused margins, no text or letters visible"
+    background: "Desk surface showing wear patterns from ledger placement, ink bottle rings marking different positions over time, quill pen collection showing seasonal replacements, office furniture aging around permanent ledger position"
+    atmosphere: "Weight of accumulated years and transactions, musty smell of old paper and leather, silence of completed business, dust motes floating in pale afternoon light, sense of life's work contained within binding"
+  composition:
+    cameraAngle: "Close-up overhead shot revealing ledger's temporal transformation"
+    focus: "Open ledger showing progression from blank pages to completely filled volumes"
+    depth: "Foreground shows intricate page details, middle ground reveals binding deterioration, background displays desk aging around ledger's position"

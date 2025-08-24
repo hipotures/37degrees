@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Garden of Jeweled Trees"
+  setting:
+    time: "Timeless magical environment underground"
+    location: "Magical subterranean garden chamber accessed through hidden desert entrance"
+    weather: "Interior magical space with supernatural illumination"
+  characters:
+    - appearance: "Young man aged 18 years, lean and agile build, quick intelligent brown eyes, short dark hair, smooth youthful face, medium height with energetic bearing"
+      clothing: "Initially worn and patched clothing of poor youth, later magnificent princely silk robes with jeweled belt and fine leather shoes"
+      position: "Alert and ready to move quickly, sometimes nervous fidgeting when uncertain"
+      action: "Moving with youthful energy, handling objects with curiosity, expressing wonder at magical discoveries"
+  scene:
+    mainElements: "Stone steps descending into ornate underground garden, trees bearing fruit of precious gems instead of normal fruit, central platform with simple oil lamp, jeweled surfaces reflecting magical light"
+    details: "Trees with branches heavy with ruby apples and emerald pears, diamond fruits sparkling like stars, sapphire plums hanging from golden branches, simple clay oil lamp sitting on marble pedestal, stone pathways between magical trees, carved pillars supporting chamber roof, no text or letters visible"
+    background: "Vaulted stone ceiling decorated with mystical symbols, passages leading deeper underground, mysterious glowing light source"
+    atmosphere: "Enchanted and dangerous, supernatural glow from gem-fruits, absolute silence except for footsteps, air of ancient magic and deadly traps, beauty hiding mortal peril"
+  composition:
+    cameraAngle: "Wide shot revealing magical garden in full splendor"
+    focus: "Young figure dwarfed by magical environment showing wonder and temptation"
+    depth: "Jeweled trees in foreground, figure approaching lamp in center, mysterious passages in background"

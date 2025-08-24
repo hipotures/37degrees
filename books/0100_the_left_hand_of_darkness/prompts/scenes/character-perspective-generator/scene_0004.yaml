@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Genly's Perception of Gethenian Crowds - Alien Others"
+  setting:
+    time: "1491 Ekumen calendar, midday, natural overcast lighting"
+    location: "Busy marketplace district in Erhenrang capital of Karhide, stone-built commercial area with narrow streets and vendor stalls"
+    weather: "Overcast cool day typical of Gethenian spring"
+  characters:
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves, but garments sit differently due to his height and build"
+      position: "Walking through crowded marketplace, towering above surrounding people"
+      action: "Moving through crowd while studying faces and behaviors, feeling simultaneously curious and alienated by incomprehensible social dynamics"
+    - appearance: "Multiple Gethenian citizens of various ages, stocky compact builds with thick clothing and heavy features typical of cold-climate adaptation"
+      clothing: "Traditional Karhidish daily wear - layered tunics, thick pants, practical winter accessories in earth tones and family colors"
+      position: "Filling marketplace area, clustered around vendor stalls and moving through commercial districts"
+      action: "Conducting daily business, bargaining with merchants, socializing in ways that seem mysterious and potentially threatening to the outsider observer"
+  scene:
+    mainElements: "Bustling stone marketplace with numerous vendor stalls selling food and goods, crowds of Gethenian citizens moving in patterns that seem chaotic to outsider perspective, stone architecture creating acoustic amplification"
+    details: "Faces that appear expressionless or animal-like to cultural outsider unable to read subtle Gethenian emotional displays, unfamiliar foods and trade goods, cacophony of voices speaking in familiar language but with incomprehensible social subtexts, steam rising from food vendors, no text or letters visible"
+    background: "Ancient stone buildings creating canyon-like commercial district, narrow alleys leading to unknown areas, glimpses of family hearth-symbols and territorial markers"
+    atmosphere: "Social alienation manifesting as perceived hostility - familiar activities appear threatening when filtered through cultural incomprehension, every interaction seems laden with hidden meaning and potential danger"
+  composition:
+    cameraAngle: "Eye level from outsider's elevated perspective looking down on crowd"
+    focus: "Isolation within community - single tall figure surrounded by sea of shorter people who seem to form exclusive social units"
+    depth: "Foreground: immediate crowd interactions, middle: wider marketplace activity, background: stone cityscape suggesting vast unknowable social complexity"

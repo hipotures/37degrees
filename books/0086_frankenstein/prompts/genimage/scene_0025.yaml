@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Beyond temporal existence - eternal moment containing all time
+    location: Cosmic space transcending physical geography
+    weather: Light and darkness existing simultaneously in eternal balance
+  characters:
+  - appearance: Victor and creature merged into universal symbols of creator and creation, individual features dissolved into
+      archetypal forms representing eternal human struggle with forbidden knowledge
+    clothing: Garments transformed into symbolic representations - creator robed in authority and creator's creation wrapped
+      in consequence of transgression
+    posture: Poses transcending individual gesture to become eternal tableau of ambition meeting its inevitable result
+    action: Actions become cosmic forces - the eternal act of creation facing eternal consequence of hubris
+  scene:
+    mainElements: Cosmic arena where individual tragedy becomes universal truth about human ambition and natural law, Arctic
+      ice transformed into crystalline structure containing all knowledge and all consequence
+    details: Ice formations becoming geometric patterns representing mathematical precision of natural law, aurora creating
+      cosmic cathedral where individual story transforms into universal warning, Victor and creature becoming points of light
+      in constellation representing eternal relationship between ambition and consequence, scientific apparatus from laboratory
+      appearing as stellar formations showing how human tools become cosmic forces, books of knowledge floating like planets
+      in space representing wisdom and ignorance orbiting each other eternally, graves of victims becoming stars in darkness
+      representing innocent lives lost to ambition, Arctic wasteland expanding to encompass universe while remaining intimate
+      space of final confrontation, all elements of story visible simultaneously as cosmic pattern, no text or letters visible
+    background: Universe itself serving as final stage where human drama reveals cosmic truths about creation, responsibility,
+      and consequence
+    atmosphere: Individual tragedy transcending personal story to become universal meditation on science, ethics, and human
+      nature, eternal moment where all questions raised by story exist in perfect balance without resolution
+  composition:
+    cameraAngle: Universal perspective revealing cosmic significance of individual human choices
+    focus: Eternal relationship between creator and creation representing fundamental forces of existence
+    depth: All levels of reality from individual psychology to cosmic law visible simultaneously in perfect unity showing
+      how personal transgression affects universal order
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

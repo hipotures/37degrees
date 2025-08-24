@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: N/A
+    location: A symbolic, abstract landscape.
+    weather: N/A
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      He is shown as a dynamic, energetic force that is shattering the columns of
+      a stagnant, decaying society.
+    position: In the center of the composition.
+    action: His actions, though destructive, are shown to be a catalyst for social
+      and political change.
+  scene:
+    mainElements: A visual argument for the idea that evil can be a necessary force
+      for progress. Alex, in his own twisted way, is a revolutionary figure who exposes
+      the hypocrisy and corruption of the state.
+    details: The scene depicts a stagnant, decaying society, represented by a series
+      of crumbling, classical columns. Alex is shown as a dynamic, energetic force
+      that is shattering these columns, and from the rubble, new, vibrant life is
+      beginning to grow.
+    background: A dark, stormy sky that is beginning to clear.
+    atmosphere: A scene of creative destruction and revolutionary change. The scene
+      is not an endorsement of Alex's violence, but rather a philosophical exploration
+      of the idea that sometimes, things need to be broken before they can be rebuilt.
+  composition:
+    cameraAngle: A low angle shot, looking up at Alex, making him appear as a powerful,
+      transformative force.
+    focus: The new life that is growing from the rubble of the old society.
+    depth: 'Foreground: The crumbling columns. Middle ground: Alex. Background: The
+      clearing sky.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

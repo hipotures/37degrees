@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Wezwanie - Margot's Call-Up Notice"
+  setting:
+    time: "July 5, 1942, afternoon"
+    location: "Frank family apartment, living room, Amsterdam"
+    weather: "Harsh afternoon sunlight creating dramatic shadows"
+  characters:
+    - appearance: "Teenage dziewczyna wiek 16-18 lat, wyższa od Anny smukła sylwetka, ciemne gładkie włosy, często nosi okulary, poważna spokojna twarz, now showing fear"
+      clothing: "Skromne schludne ubrania, proste bluzki i spódnice"
+      position: "Standing frozen while holding official document"
+      action: "Reading deportation notice with growing horror"
+    - appearance: "Middle-aged kobieta wiek 42-44 lata, elegancka powściągliwa, ciemne starannie upięte włosy, regularne rysy, w oczach smutek i napięcie"
+      clothing: "Skromne ciemne sukienki, klasyczny styl lat 40."
+      position: "Behind Margot, hands reaching toward her daughter"
+      action: "Reacting with shock and terror to the deportation order"
+  scene:
+    mainElements: "Moment of receiving Nazi deportation notice, official document in teenager's trembling hands"
+    details: "Official Nazi document with stamps and German text, Żółta sześcioramienna Gwiazda Dawida z czarnym napisem Jood visible on clothing, family photographs on walls showing happier times, shadows falling across the room like prison bars"
+    background: "Comfortable Amsterdam apartment now feeling like a trap"
+    atmosphere: "Terror and disbelief, the moment normal life ends forever, harsh lighting suggesting the cruel intrusion of Nazi bureaucracy"
+  composition:
+    cameraAngle: "Close-up on Margot's hands holding the dreaded document"
+    focus: "The official deportation notice as harbinger of doom"
+    depth: "Foreground: document in sharp focus, middle: Margot's frightened face, background: family apartment about to be abandoned"

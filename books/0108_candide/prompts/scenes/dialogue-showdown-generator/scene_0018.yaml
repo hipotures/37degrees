@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Scholar's Cynical Truth"
+  setting:
+    time: "Mid-18th century, evening"
+    location: "Ship's deck during voyage from South America to Europe"
+    weather: "Calm seas, sunset painting sky in somber colors"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Wealthy gentleman's attire, now less pristine from travel"
+      position: "Leaning against ship's rail, staring out at endless ocean"
+      action: "Listens with growing recognition to companion's dark philosophy, face showing he can no longer deny the truth of pessimistic worldview"
+    - appearance: "Around 60+ years old, lean build with intelligent face lined with wrinkles. Gray thinning hair, dark penetrating eyes expressing cynicism and resignation"
+      clothing: "Worn but clean dark scholar's coat showing former better position"
+      position: "Standing beside ship's rail, hands clasped behind back in scholarly posture"
+      action: "Speaks with calm, methodical precision about human evil and cosmic indifference, voice devoid of passion but filled with bitter knowledge"
+  scene:
+    mainElements: "Ship's deck with rigging and sails above, endless ocean stretching to horizon, other passengers visible in background going about their business"
+    details: "Sunset creates blood-red light on water, symbolically appropriate for discussion of world's cruelty. Candide's posture shows weight of accumulated disillusionment. Martin's composed delivery makes his pessimism more convincing than emotional ranting would."
+    background: "Ship's masts and rigging against darkening sky, other vessels barely visible on horizon, seabirds following ship, waves creating hypnotic rhythm"
+    atmosphere: "Philosophical dialogue against backdrop of vast indifferent ocean. Sunset colors suggest world ending rather than romantic beauty. Steady ship movement emphasizes journey from innocence toward harsh wisdom. Colors of red sunset, gray ocean, dark silhouettes."
+  composition:
+    cameraAngle: "Medium shot capturing both figures against ocean backdrop"
+    focus: "Martin's calm delivery of pessimistic philosophy and Candide's reluctant recognition of its truth"
+    depth: "Foreground shows the philosophical conversation, middle ground the ship's deck and other passengers, background the vast indifferent ocean"

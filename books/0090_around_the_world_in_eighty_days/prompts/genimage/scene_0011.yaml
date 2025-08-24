@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: October 1872, morning
+    location: Bombay native quarter showing bustling marketplace with colonial and local elements
+    weather: Bright tropical sunlight creating strong shadows between market stalls
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vibrant marketplace with colorful fabric stalls, spice vendors displaying aromatic goods, traditional Indian
+      architecture mixed with colonial commercial elements, narrow streets packed with commercial activity
+    details: Silk and cotton fabrics in brilliant colors hanging from stall frames, brass vessels and copper pots reflecting
+      sunlight, pyramids of turmeric saffron and other spices creating colorful displays, traditional Indian sweets and foods
+      arranged on wooden platters, British manufactured goods including textiles and metal tools showing colonial trade, architectural
+      mix of traditional Indian carved wood and colonial brick construction, narrow lanes with overhead coverings creating
+      play of light and shadow, bullock carts and hand-pulled rickshaws providing transportation, temple bells and prayer
+      flags adding spiritual elements
+    background: Traditional Indian residential buildings with carved wooden balconies, distant colonial administrative buildings
+      showing dual urban character
+    atmosphere: Sensory overload of colors aromas and sounds showing vibrant Indian commercial culture, economic vitality
+      within colonial system, blend of traditional and modern commerce
+  composition:
+    cameraAngle: Street-level perspective moving through market lanes showing immersive environment
+    focus: Colorful spice and fabric displays as centerpieces of commercial vitality
+    depth: Market stalls and goods in immediate foreground, crowded lanes extending through middle distance, traditional architecture
+      creating backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: March 1897, afternoon during final manhunt
+    location: Victorian seaside town streets near English coast, multiple locations where hunting parties converge
+    weather: Clear afternoon providing good visibility for search
+  characters:
+  - appearance: Large group of working-class men armed with various tools and weapons
+    clothing: Work clothes, heavy boots, caps and jackets suitable for outdoor pursuit
+    position: Formed into organized search parties moving through streets
+    action: Carrying clubs, spades, and other makeshift weapons while systematically searching area
+  - appearance: Mix of townspeople including shopkeepers, laborers, and local authorities
+    clothing: Various Victorian garments reflecting different social classes united in common cause
+    position: Supporting main search effort from doorways and windows
+    action: Watching search progress while ready to join if invisible man discovered
+  scene:
+    mainElements: Organized manhunt with multiple search parties, improvised weapons and tools, systematic combing of streets
+      and buildings, community united in common purpose
+    details: Men calling out positions to coordinate search, weapons raised ready to strike at invisible target, determined
+      faces showing community resolve, every potential hiding place being examined
+    background: Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in
+      period dress
+    atmosphere: Community solidarity transformed into aggressive hunting force, civilization temporarily abandoned for primitive
+      mob justice, fear converted to determined action
+  composition:
+    cameraAngle: Wide shot showing scale of organized manhunt
+    focus: Collective transformation from fearful individuals to determined mob
+    depth: Foreground shows specific weapon details, middle ground captures mob organization, background reveals community-wide
+      participation, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1897, peaceful afternoon
+    location: Victorian middle-class villa in Maybury district near Woking Surrey, red brick two-story house with bay windows
+      and small front garden, typical comfortable suburban residence of professional class
+    weather: Mild summer afternoon with soft natural light
+  characters:
+  - appearance: Approximately 35 years old Victorian lady, average height and build, gentle refined features, dark hair styled
+      in period-appropriate updo with small decorative pins
+    clothing: Long modest Victorian dress in muted colors with high neckline and long sleeves, fitted bodice shaped by corset,
+      full skirt reaching floor, small domestic apron when at home, simple jewelry
+    position: Seated in comfortable drawing room, engaged in needlework or reading
+    action: Quietly occupied with domestic activities, embodying Victorian feminine ideals of grace and domesticity
+  scene:
+    mainElements: Well-appointed Victorian interior with high ceilings, ornate plaster moldings, heavy mahogany furniture,
+      bookcases lining walls, comfortable sitting room with fireplace, study with writing desk and astronomical telescope
+    details: Elegant drawing room with floral wallpaper, heavy brocade curtains, antimacassar doilies on furniture, family
+      photographs in silver frames, china tea service, comfortable upholstered furniture arranged around fireplace, Persian
+      carpet, potted plants in bay window
+    background: Sunlight streaming through lace curtains, view of small garden through window, family portraits on walls,
+      domestic order and comfort
+    atmosphere: Secure domestic environment representing Victorian middle-class comfort and order, warm gaslight illumination,
+      sense of established civilization and intellectual pursuit, sanctuary of normalcy. Perfect embodiment of peaceful home
+      life soon to be destroyed
+  composition:
+    cameraAngle: Medium wide shot through doorway creating natural frame around domestic scene
+    focus: Narrator's wife as symbol of Victorian domestic peace and stability, no text or letters visible
+    depth: Foreground shows doorframe framing the scene, middle ground centers on wife in comfortable domestic setting, background
+      reveals garden through window suggesting connection to outside world
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

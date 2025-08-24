@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1880s night, confrontational encounter in darkness
+    location: Shadowy street corner during first meeting with Utterson
+    weather: Cold night air, oppressive atmosphere of unwanted scrutiny
+  characters:
+  - appearance: Lean tall gentleman around 50 years old, austere face that never brightens with smile, clean-shaven, thinning
+      dark hair neatly combed
+    clothing: Conservative dark suit befitting respectable lawyer, black or gray formal attire
+    position: Standing in shadow attempting to maintain dignity while obviously disturbed
+    action: Speaking with forced politeness while betraying deep unease, stepping back involuntarily
+  - appearance: Small pale man appearing 30-35 years old, dwarfish build around 160-165 cm, unnaturally repulsive face with
+      indefinable deformity without specific malformation, dark unkempt hair, wiry hairy hands
+    clothing: Oversized clothes belonging to taller man - coat sleeves too long, shoulders too broad
+    position: Facing Utterson with aggressive defiance despite smaller stature
+    action: Snarling responses with contemptuous authority, enjoying effect of his presence
+  scene:
+    mainElements: Street encounter reveals Utterson as pathetic defender of false order - his height appears weak rather than
+      authoritative, his respectability becomes armor against uncomfortable truth
+    details: Every aspect of Utterson's manner exposes fundamental weakness beneath social polish - forced politeness reveals
+      fear, measured words betray desperate attempt to maintain control, legal authority crumbles when confronted with authentic
+      power
+    background: Dark street corner becomes arena where social pretense meets primal reality, gas lamp illuminates Utterson's
+      inadequacy, shadows embrace Hyde's natural authority
+    atmosphere: Savage satisfaction at exposing weakness in Jekyll's so-called protector, cold night air sharpening sense
+      of predatory advantage, contemptuous amusement at futile attempts to apply social rules, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing Hyde's psychological dominance despite physical disadvantage
+    focus: Utterson's visible discomfort and Hyde's contemptuous authority in their confrontation
+    depth: Foreground shows Hyde's aggressive confidence, middle ground captures Utterson's failing composure, background
+      suggests collapse of social order
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

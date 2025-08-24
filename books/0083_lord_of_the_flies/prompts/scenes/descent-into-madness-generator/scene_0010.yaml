@@ -1,0 +1,27 @@
+sceneDescription:
+  title: "The First Kill and the Offering to the Beast"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "A clearing in the jungle."
+    weather: "Hot, humid, and oppressive."
+  characters:
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+      position: "Standing over a dead sow, a bloody knife in his hand."
+      action: "He is laughing, a wild, ecstatic look on his face. The other hunters are dancing and chanting around the dead pig."
+  scene:
+    mainElements: "The hunters have successfully killed their first pig. The scene is a frenzied, ritualistic celebration of violence and bloodshed."
+    details: "The sow's head is severed and mounted on a sharpened stick, which is then jammed into the ground as an offering to the beast. The head is swarming with flies, and its eyes are half-closed in a grotesque grin. The blood from the pig seems to stain the very air, casting a reddish hue over the scene. The chanting of the boys is visualized as distorted, jagged symbols floating in the air."
+    background: "The dense, suffocating jungle. The other pigs have fled, but the sound of their squealing still echoes."
+    atmosphere: "A horrifying scene of ritual sacrifice and savage ecstasy. The boys have crossed a line, and there is no going back. The offering to the beast is an acknowledgment of the evil that is now in control."
+  composition:
+    cameraAngle: "A low, circling shot that captures the frenzy of the dance and the horror of the sacrifice."
+    focus: "The grotesque, fly-blown pig's head on a stick - the Lord of the Flies."
+    depth: "Foreground: The dancing, chanting hunters. Middle ground: Jack and the dead sow. Background: The Lord of the Flies and the jungle."

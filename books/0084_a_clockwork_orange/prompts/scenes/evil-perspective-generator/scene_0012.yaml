@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Political Pawns and the Game of Power"
+  setting:
+    time: "Near future, daytime"
+    location: "F. Alexander's house."
+    weather: "A grey, overcast day."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. He is clean and dressed in comfortable clothes provided by the writer. He is sitting in a chair, looking confused and disoriented.
+      position: "In the writer's study."
+      action: "He is being interviewed by a group of political dissidents who want to use him as a symbol of the government's tyranny."
+    - id: "f_alexander"
+      name: "F. Alexander"
+      description_block: |
+        A middle-aged writer with a thoughtful, intellectual face. He wears glasses and has graying hair. Dresses in comfortable, academic-style clothing, such as a tweed jacket and corduroy trousers. He is standing behind Alex, a look of grim satisfaction on his face.
+      position: "In his study."
+      action: "He is orchestrating the use of Alex as a political weapon."
+  scene:
+    mainElements: "Alex has become a pawn in a larger political game. He is no longer in control of his own story; it is being written for him by others."
+    details: "The room is filled with books and political pamphlets. The faces of the dissidents are sharp and intelligent, but also cold and calculating. They see Alex not as a person, but as a tool to be used for their own ends."
+    background: "The bleak, empty landscape outside the window."
+    atmosphere: "A scene of cynical manipulation. Alex is being used by both sides of the political spectrum, and he is too weak and confused to resist. He is a symbol, not a person."
+  composition:
+    cameraAngle: "A shot that frames Alex as a small, insignificant figure, surrounded by the powerful, imposing figures of the political dissidents."
+    focus: "The calculating expressions on the faces of the dissidents."
+    depth: "Foreground: The dissidents. Middle ground: Alex. Background: The writer's study."

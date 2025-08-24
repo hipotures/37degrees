@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Luxury and Misery in Single Frame"
+  setting:
+    time: "Near future, golden hour lighting creating dramatic contrast"
+    location: "Urban area where elite Commander residence directly overlooks poor working district"
+    weather: "Clear evening with warm light illuminating the mansion while poor areas remain in shadow"
+  characters:
+    - appearance: "Elegant Wife figure visible through mansion windows, workers with tired expressions in lower area"
+      clothing: "Wife in pristine blue dress with jewelry versus workers in stained, worn utility uniforms"
+      position: "Wife positioned in elevated mansion window, workers at ground level in industrial courtyard below"
+      action: "Wife engaged in leisure activity like arranging flowers while workers perform manual labor loading or unloading equipment"
+  scene:
+    mainElements: "Multi-story Victorian mansion with ornate architecture positioned directly above or adjacent to industrial work area with basic utilitarian structures"
+    details: "The mansion features elaborate decorative elements, well-maintained paint, crystal windows, manicured gardens, and luxury amenities. Below or adjacent, the work area shows bare concrete, metal equipment, storage facilities, and functional-only design. The visual juxtaposition makes the inequality impossible to ignore."
+    background: "More mansions visible in the elevated area while industrial and residential worker facilities stretch across the lower landscape"
+    atmosphere: "Grotesque inequality where extreme luxury exists in direct view of poverty and hard labor, emphasizing the regime's indifference to suffering"
+  composition:
+    cameraAngle: "Angled shot capturing both the elevated mansion and lower work area in clear relationship"
+    focus: "The sharp contrast between luxury mansion and industrial work space dominates the frame"
+    depth: "Mansion in upper portion of frame, work area in lower portion, creating clear vertical hierarchy of social classes"

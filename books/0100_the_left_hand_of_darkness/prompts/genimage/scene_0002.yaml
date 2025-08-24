@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, daytime, interior palace lighting
+    location: Stone throne room in royal palace of Erhenrang, Karhide capital on planet Gethen, massive stone architecture
+      with heavy shadows
+    weather: Interior space, cold stone environment
+  characters:
+  - appearance: Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians,
+      strong masculine physique with less body hair than natives, dark hair and eyes
+    clothing: Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves,
+      but garments sit differently due to his height and build
+    position: Standing before royal throne, maintaining formal diplomatic posture
+    action: Presenting his credentials and mission to the king, studying royal demeanor for signs of acceptance or threat,
+      feeling exposed and uncertain
+  - appearance: Middle-aged Gethenian ruler 50-60 years old, face lined with shadows expressing paranoia and inner torment,
+      later showing universal grief after personal loss
+    clothing: Simple white tunic, white shirt and pants, single gold ring as only symbol of royal authority, deliberately
+      minimal royal attire
+    position: Seated on simple stone throne, elevated above the audience chamber
+    action: Listening with increasing agitation, displaying erratic mood shifts between curiosity and suspicion, fingers nervously
+      working gold ring
+  scene:
+    mainElements: Stark stone throne room with minimal decoration, heavy shadows cast by narrow windows, simple throne carved
+      from single stone block, handful of courtiers arranged at careful distances
+    details: Cold stone floors and walls creating echo chamber effect, flickering torchlight creating moving shadows that
+      seem threatening to paranoid perspective, sparse furnishing emphasizing power through austerity, gold ring catching
+      light as only bright object in scene, no text or letters visible
+    background: Deep stone archways leading to hidden corridors, suggestions of watchers in shadows, heavy timber roof beams
+      overhead
+    atmosphere: Threatening institutional power filtered through outsider's growing anxiety - every shadow seems to hide danger,
+      every pause in conversation feels loaded with menace, formal protocol masking incomprehensible political undercurrents
+  composition:
+    cameraAngle: Low angle emphasizing power dynamic between throne and supplicant
+    focus: Psychological tension between diplomatic presentation and underlying fear of rejection or worse
+    depth: 'Foreground: nervous diplomat, middle: paranoid ruler on throne, background: shadowy courtiers and threatening
+      architectural spaces'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

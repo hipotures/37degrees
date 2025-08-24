@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Verdict of Quiet Acceptance"
+  setting:
+    time: "Mid-18th century, evening after wedding"
+    location: "Simple farmhouse interior, main room with table and chairs"
+    weather: "Quiet evening, oil lamps providing gentle light"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple clean shirt and trousers, clothes of working man"
+      position: "Seated at wooden table, hands folded, looking around at assembled group"
+      action: "Face shows quiet determination and mature acceptance rather than joy, expression of man who has chosen duty over desire"
+    - appearance: "Young woman now 25, thin and worn, ugly and quarrelsome, bloodshot eyes, withered neck, wrinkled cheeks, dark rough skin from work"
+      clothing: "Simple dress suitable for newly married farm woman, clean but plain"
+      position: "Seated beside Candide at table, legally his wife but emotionally distant"
+      action: "Looks around with calculating satisfaction at security achieved, no love but practical contentment with arrangement"
+    - appearance: "45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten nose, twisted mouth, black teeth"
+      clothing: "Simple farm clothes, clean but showing his physical ruin"
+      position: "Standing beside table, still gesturing as he speaks"
+      action: "Continues philosophical discourse about marriage as proof of optimism, unchanged by obvious lack of happiness in union"
+    - appearance: "Around 60+ years old, lean build with intelligent face lined with wrinkles. Gray thinning hair, dark penetrating eyes expressing cynicism and resignation"
+      clothing: "Simple farm attire, dignified despite circumstances"
+      position: "Seated across table, observing with cynical understanding"
+      action: "Watches the loveless marriage with knowing expression, recognizing it as further proof of life's disappointments"
+  scene:
+    mainElements: "Simple farmhouse interior with rough wooden table, basic chairs, oil lamps casting warm but plain light, practical furnishings"
+    details: "Wedding has obviously occurred but without joy or celebration. Group sits around table more like board meeting than family gathering. Candide's acceptance shows maturity but not happiness. Marriage certificate or similar document visible on table as legal proof rather than romantic symbol."
+    background: "Simple farm interior with practical necessities, view through window of darkening countryside, sounds of evening farm life"
+    atmosphere: "Quiet resignation and acceptance of practical arrangement over romantic ideal. Warm lamplight cannot disguise emotional coldness. Colors of brown wood, yellow lamplight, plain undyed fabrics. Marriage as social contract rather than emotional union."
+  composition:
+    cameraAngle: "Wide shot capturing the entire group around table in their new configuration"
+    focus: "Candide's face showing mature acceptance of reality rather than romantic satisfaction"
+    depth: "Foreground shows the immediate family group, middle ground the simple interior, background the practical farm life that awaits"

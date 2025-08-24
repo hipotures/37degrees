@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, night
+    location: The entire island.
+    weather: A violent, tropical thunderstorm is raging. The wind is howling, and
+      the rain is coming down in sheets.
+  characters:
+  - name: No characters present in this scene
+  scene:
+    mainElements: The island is being battered by a furious storm, a physical manifestation
+      of the turmoil and violence that has consumed the boys.
+    details: The lightning flashes are not normal. With each flash, the clouds are
+      illuminated from within, revealing monstrous, screaming faces. The thunder is
+      not just a rumble; it is a chorus of angry, guttural roars. The wind tears at
+      the trees, ripping them from the ground. The sea is a churning, chaotic maelstrom.
+    background: The dark, violent ocean.
+    atmosphere: A scene of apocalyptic fury. Nature itself seems to be enraged by
+      the events on the island. This is a world without reason, a world of pure, elemental
+      chaos.
+  composition:
+    cameraAngle: A series of rapid, disorienting cuts between different parts of the
+      island being destroyed by the storm.
+    focus: The monstrous faces that appear in the clouds with each flash of lightning.
+    depth: The scene is a chaotic jumble of wind, rain, and lightning. There is no
+      clear foreground, middle ground, or background.
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

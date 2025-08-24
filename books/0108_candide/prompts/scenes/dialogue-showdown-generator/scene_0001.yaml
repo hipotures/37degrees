@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Innocent Lesson Behind the Screen"
+  setting:
+    time: "Mid-18th century, sunny afternoon"
+    location: "Great hall of provincial Westphalian castle, behind ornate screen"
+    weather: "Bright sunlight streaming through small windows"
+  characters:
+    - appearance: "Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing"
+      clothing: "Elegant silk dress befitting baron's daughter, fitted bodice with square neckline, full skirt over panniers"
+      position: "Standing close behind decorative screen, looking toward young man with curiosity"
+      action: "Drops delicate white linen handkerchief deliberately, eyes sparkling with mischief and innocent flirtation"
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple relative's clothes: linen shirt, wool vest, brown trousers to knees, wool stockings"
+      position: "Bending down to retrieve fallen handkerchief, face close to hers"
+      action: "Lifts handkerchief with gentle reverence, their hands touch briefly as he returns it, leading to tentative innocent kiss"
+  scene:
+    mainElements: "Ornate wooden screen providing privacy from main hall, dust motes dancing in afternoon sunlight, heavy dark furniture visible beyond"
+    details: "The screen is carved with intricate patterns casting delicate shadows. Candide's expression shows wonder and nervousness. Cunegonde's face reflects bold curiosity mixed with aristocratic confidence. Their positioning suggests an intimate moment of discovery, bodies angled toward each other in the enclosed space."
+    background: "Through gaps in screen, glimpses of the great hall with single faded tapestry, dark oak paneling, and massive fireplace. Sounds of household activity distant and muffled"
+    atmosphere: "Tension of forbidden attraction mixed with youthful innocence. Warm golden light creates romantic ambiance, but underlying sense that this moment will have consequences. Sweet anticipation tinged with danger."
+  composition:
+    cameraAngle: "Medium close shot from slightly elevated angle, capturing both faces and upper bodies"
+    focus: "The moment their hands meet over the handkerchief, their faces inches apart"
+    depth: "Foreground shows the intimate exchange, middle ground the ornate screen details, background the blurred great hall beyond"

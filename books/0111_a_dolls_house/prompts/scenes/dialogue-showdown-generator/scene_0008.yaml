@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Blocking the Path - Krogstad's Return"
+  setting:
+    time: "1879, Christmas morning"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold bright winter morning"
+  characters:
+    - appearance: "Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca zgorzknienie but also troskę about los swoich dzieci"
+      clothing: "Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną sytuację finansową"
+      position: "Deliberately positioned between Nora and the door, blocking her escape route"
+      action: "Standing with arms slightly spread, using his body to control the space and prevent her from leaving"
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Trapped near the window, physically cornered by Krogstad's strategic positioning"
+      action: "Looking toward blocked doorway, realizing she cannot escape this conversation"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The room's layout becomes a strategic battlefield. Krogstad uses the furniture and doorway to control Nora's movement. The comfortable bourgeois space is transformed into a trap through his physical positioning."
+    background: "Christmas decorations mock the serious nature of their confrontation"
+    atmosphere: "Claustrophobic tension as physical space becomes a tool of psychological pressure. The hunter has cornered his prey."
+  composition:
+    cameraAngle: "Wide shot emphasizing spatial relationships and power dynamics"
+    focus: "Krogstad's strategic blocking position and Nora's trapped posture"
+    depth: "Foreground: Krogstad controlling the doorway. Middle ground: The room as battlefield. Background: Nora trapped against the far wall."

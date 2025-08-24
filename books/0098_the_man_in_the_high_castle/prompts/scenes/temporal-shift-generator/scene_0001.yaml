@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "San Francisco Store - Before and After Occupation"
+  setting:
+    time: "1962, morning light through windows"
+    location: "American Artistic Handicrafts store on Montgomery Street, Japanese Occupied San Francisco showing layers of time"
+    weather: "Clear California morning with bright sunlight"
+  characters:
+    - appearance: "Middle-aged man, 39 years old, American antique dealer with neatly groomed appearance"
+      clothing: "Conservative, well-tailored but modest suit typical of American shopkeeper, dark colored jacket with pressed white shirt and tie"
+      position: "Standing behind counter arranging items with careful precision"
+      action: "Polishing antique display case while glancing nervously at street through window"
+  scene:
+    mainElements: "Antique shop interior with ghostly overlays showing same space in 1947 pre-occupation when it was bustling American business versus current subdued atmosphere serving Japanese clientele"
+    details: "Display cases containing maple wood furniture, Civil War weapons, vintage American posters, gramophone converted to bar - some items showing fifteen years of handling by different cultures, prices written in both English and Japanese, morning mail scattered on floor, fresh yellow marigolds in vase contrasting with aged artifacts, no text or letters visible"
+    background: "Through storefront window, Montgomery Street shows pedicabs weaving between American cars, bilingual neon signs, modern Japanese Nippon Times Building towering over older American architecture"
+    atmosphere: "Nostalgic shrine to lost American culture with underlying tension of cultural occupation, bright morning light filtering through windows emphasizing time's passage through accumulated dust and wear patterns"
+  composition:
+    cameraAngle: "Medium shot from customer's perspective looking toward shop owner and window"
+    focus: "Shop owner's nervous movements while arranging displays, with time layers visible in peripheral vision"
+    depth: "Foreground: polished counter with antiques, middle: shop owner and displays, background: street scene through window showing occupation era changes"

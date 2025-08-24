@@ -1,0 +1,130 @@
+
+canon:
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+    - id: "jack"
+      name: "Jack"
+      description_block: |
+        characters:
+          - name: "Jack"
+            age: "12"
+            appearance: "Tall, thin, and bony, with red hair and a freckled, angular face. His eyes are light blue and often narrowed in concentration or anger."
+            clothing: "Initially wears a black choir uniform with a silver badge, later strips down to just a tattered pair of shorts, his body painted with clay and charcoal."
+            posture: "Aggressive and predatory, often crouching or leaning forward, brandishing a spear."
+    - id: "piggy"
+      name: "Piggy"
+      description_block: |
+        characters:
+          - name: "Piggy"
+            age: "12"
+            appearance: "A short, overweight boy with thinning hair. He is asthmatic and wears thick spectacles."
+            clothing: "Wears a greasy windbreaker, shorts, and scuffed shoes. His clothes are ill-fitting and rumpled."
+            posture: "Often hunched over, polishing his glasses, or holding his stomach. His movements are clumsy and hesitant."
+    - id: "simon"
+      name: "Simon"
+      description_block: |
+        characters:
+          - name: "Simon"
+            age: "around 9"
+            appearance: "A small, slight boy with a pointed chin and a mop of coarse black hair that falls over his face. He has bright, intense eyes."
+            clothing: "Wears simple, tattered shorts, often barefoot."
+            posture: "Often solitary and withdrawn, with a gentle and observant demeanor. Can be seen walking with a quiet, purposeful gait."
+    - id: "roger"
+      name: "Roger"
+      description_block: |
+        characters:
+          - name: "Roger"
+            age: "around 12"
+            appearance: "A dark, furtive boy with a brooding intensity. He has black hair and a sullen, closed-off expression."
+            clothing: "Wears tattered shorts, his body often camouflaged with paint later in the story."
+            posture: "Silent and watchful, often lurking in the background. His posture becomes more menacing and cruel as the story progresses."
+    - id: "samneric"
+      name: "Samneric"
+      description_block: |
+        characters:
+          - name: "Sam and Eric"
+            age: "around 10"
+            appearance: "Identical twins, stocky and energetic, with tousled fair hair. They are so alike they are treated as a single entity."
+            clothing: "Matching torn shorts and shirts, becoming more disheveled over time."
+            posture: "Move in unison, often finishing each other's sentences. Their expressions are usually cheerful but become increasingly fearful."
+    - id: "littluns"
+      name: "The Littluns"
+      description_block: |
+        characters:
+          - name: "The Littluns"
+            age: "6-8"
+            appearance: "A group of the youngest boys, of various shapes and sizes. They are often dirty, with tangled hair and runny noses."
+            clothing: "Remnants of school uniforms, now just rags."
+            posture: "Huddle together for comfort, often crying or playing aimlessly in the sand."
+  locations:
+    - id: "beach_lagoon"
+      name: "The Beach and Lagoon"
+      description_block: |
+        setting:
+          location: "A long, crescent-shaped beach of pinkish sand on a tropical island, fringed with palm trees. A calm, turquoise lagoon is protected from the open ocean by a coral reef."
+        mainElements: "Fallen palm trees, scattered coconuts, and the shimmering water of the lagoon. The jungle edge is a dark, dense wall of vegetation."
+        atmosphere: "Initially idyllic and peaceful, but becomes a place of tension and division."
+    - id: "platform"
+      name: "The Platform"
+      description_block: |
+        setting:
+          location: "A raised, triangular platform of pink rock on the beach, shaded by palm trees. It serves as the boys' assembly area."
+        mainElements: "A large, fallen log serves as the chief's seat. The conch is often placed here. The sea crashes against the rocks below."
+        atmosphere: "A place of order and democracy, but the site of many arguments and the eventual breakdown of civility."
+    - id: "jungle"
+      name: "The Jungle"
+      description_block: |
+        setting:
+          location: "A dense, dark, and humid tropical jungle covering the interior of the island."
+        mainElements: "Thick vines (creepers), massive trees with buttress roots, and a dense canopy that blocks out most of the sunlight. The air is thick with the smell of decay and the sound of insects."
+        atmosphere: "Mysterious, threatening, and claustrophobic. A place of hidden dangers and primal fears."
+    - id: "mountain"
+      name: "The Mountain"
+      description_block: |
+        setting:
+          location: "The highest point on the island, a rocky peak with a commanding view of the surrounding ocean."
+        mainElements: "A jumble of granite rocks and sparse vegetation. The signal fire is built here. Later, the dead parachutist is tangled in the rocks."
+        atmosphere: "A place of hope (the signal fire) that becomes a place of terror (the 'beast')."
+    - id: "castle_rock"
+      name: "Castle Rock"
+      description_block: |
+        setting:
+          location: "A steep, rocky outcrop at one end of the island, almost a separate islet, connected to the mainland by a narrow causeway."
+        mainElements: "A series of caves and ledges, with a sheer drop to the sea on three sides. A large boulder is precariously balanced at the top."
+        atmosphere: "A natural fortress, it becomes Jack's stronghold. It is a place of savagery, violence, and dictatorial rule."
+    - id: "simons_clearing"
+      name: "Simon's Clearing"
+      description_block: |
+        setting:
+          location: "A secluded, circular clearing deep within the jungle, enclosed by a curtain of vines and thick bushes."
+        mainElements: "The clearing is filled with fragrant flowers and butterflies. The light is soft and dappled. Later, the Lord of the Flies is placed in the center of this clearing."
+        atmosphere: "Initially a place of peace, solitude, and natural beauty, it is desecrated and becomes a site of profound evil and revelation."
+  items:
+    - id: "conch"
+      name: "The Conch"
+      description_block: |
+        details: "A large, cream-and-pink conch shell, about 18 inches long. It has a delicate, spiraled point and a smooth, polished interior. It is a powerful symbol of order and civilization."
+    - id: "piggys_glasses"
+      name: "Piggy's Glasses"
+      description_block: |
+        details: "Thick, round spectacles used for seeing and, crucially, for starting fires by focusing sunlight. They represent intellect, reason, and the fragility of civilization. One lens gets cracked, and eventually they are stolen."
+    - id: "signal_fire"
+      name: "The Signal Fire"
+      description_block: |
+        details: "A large, smoky fire of logs and green leaves, intended to be constantly burning on the mountain peak to attract passing ships. It represents the hope of rescue and the boys' connection to the civilized world."
+    - id: "lord_of_the_flies"
+      name: "The Lord of the Flies"
+      description_block: |
+        details: "The severed head of a sow, impaled on a sharpened stick and left as an offering to the 'beast'. It is swarming with flies, and its eyes are half-closed in a grotesque grin. It represents the savagery and evil that resides within the boys."
+    - id: "hunting_spears"
+      name: "Hunting Spears"
+      description_block: |
+        details: "Long, sharpened sticks, some with fire-hardened points, used for hunting pigs. They are initially tools for survival but become weapons of violence and symbols of savagery."

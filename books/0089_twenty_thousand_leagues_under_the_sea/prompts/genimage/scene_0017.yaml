@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1866, eternal twilight of deep ocean where shipwrecks rest
+    location: Ocean floor littered with centuries of maritime disasters
+    weather: Perpetual gloom with gentle underwater currents disturbing sediment
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient shipwrecks from different eras scattered across the seafloor - Spanish galleons, merchant vessels,
+      and warships claimed by storms, battles, or navigational errors. Marine growth covers the wooden hulls while brass and
+      iron fittings remain preserved by the cold, oxygen-poor water. Schools of fish now inhabit the skeletal remains of once-proud
+      vessels.
+    details: Coral formations have turned the wrecks into artificial reefs teeming with marine life. Broken masts reach upward
+      like skeletal fingers while barnacles and seaweed cover every surface. Scattered cannons, anchors, and ship's wheels
+      create an underwater museum of maritime history. Gold coins and precious artifacts occasionally glint through the marine
+      growth.
+    background: The ship graveyard extends beyond vision, representing centuries of human attempts to master the ocean that
+      ultimately claimed these vessels and their crews.
+    atmosphere: Melancholy and maritime history. This underwater cemetery represents the ocean's power over human ambition
+      and the countless lives lost to the sea's unforgiving nature. It serves as a reminder of why Captain Nemo chose the
+      ocean as his domain.
+  composition:
+    cameraAngle: Sweeping wide shot showing the scale of maritime destruction across the seafloor
+    focus: The contrast between human engineering failure and nature's reclamation of the wrecks
+    depth: Foreground shows detailed wreck remains and marine growth, middle ground features multiple shipwrecks, background
+      fades into the vast underwater graveyard
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

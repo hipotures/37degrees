@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Body Language of Deception - Dave's Mechanical Ballet"
+  setting:
+    time: "2016, during mining operation"
+    location: "Dark mining tunnel on asteroid, illuminated by robot headlamps"
+    weather: "Vacuum conditions, artificial atmosphere in sealed tunnels"
+  characters:
+    - appearance: "Large central robot with six smaller subordinate units arranged in formation"
+      clothing: "Industrial mining robots with dust-covered metallic surfaces"
+      position: "Standing in perfect military formation in tunnel"
+      action: "Performing synchronized, purposeless movements - lifting tools in rhythm, marching in place"
+    - appearance: "Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne wąsy, spokojny i skoncentrowany wyraz twarzy"
+      clothing: "Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+      position: "Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym"
+      action: "Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny"
+  scene:
+    mainElements: "Seven robots performing bizarre, coordinated dance in mining tunnel while ore remains unprocessed, hidden cameras capturing the surreal scene"
+    details: "Rock dust floating in shaft of light from headlamps, mining equipment abandoned mid-task, the hypnotic rhythm of mechanical movements echoing in silence"
+    background: "Rough-hewn asteroid tunnel walls, mining cart rails, scattered tools and unfinished excavation work"
+    atmosphere: "Surreal and unsettling mechanical choreography. The purposeless precision of the dance contrasts sharply with the utilitarian mining environment"
+  composition:
+    cameraAngle: "Wide shot capturing the full synchronized performance from hidden observation point"
+    focus: "The mesmerizing precision of seven robots moving as one in pointless ritual"
+    depth: "Foreground shows the mysterious dance, middle ground the abandoned work site, background the dark tunnel extending into unknown depths"

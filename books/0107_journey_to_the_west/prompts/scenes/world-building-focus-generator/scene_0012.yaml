@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Tang Dynasty Marketplace and Commercial Culture"
+  setting:
+    time: "Busy midday trading hours during Tang Dynasty golden age"
+    location: "Great Eastern and Western Markets of Chang'an capital, international trading centers"
+    weather: "Clear warm day perfect for outdoor commerce and social gathering"
+  characters:
+    - appearance: "Diverse merchant families from across Asia including Chinese traders, Persian merchants with distinctive features, Central Asian nomads, Indian spice dealers, all dressed in their cultural trading attire"
+      clothing: "Colorful silk robes reflecting prosperity and cultural origins, ornate hats and headwear indicating social status, jewelry and accessories showing successful trade relationships"
+      position: "Arranged around market stalls and trading booths, moving through crowded market squares"
+      action: "Negotiating deals, displaying exotic goods, counting coins and precious items, sampling foods and examining merchandise quality"
+  scene:
+    mainElements: "Covered market stalls displaying silks and precious goods, food vendors with exotic spices and delicacies, money changers with scales and currency from many nations, entertainment areas where merchants socialize"
+    details: "International commercial culture showing Tang Dynasty cosmopolitanism with goods from Silk Road including Persian carpets, Indian spices, Central Asian horses, Japanese artwork, Korean ceramics, plus local products like silk, tea, porcelain, jade, precious metals, with merchant guilds organizing trades and cultural exchanges"
+    background: "Market districts extending beyond immediate trading areas, residential quarters where foreign merchants live, government offices monitoring international trade"
+    atmosphere: "Vibrant international commercial energy with multiple languages being spoken, exotic aromas from foods and spices, sounds of bargaining and cultural exchange"
+  composition:
+    cameraAngle: "Market-level view capturing the diversity and energy of international trade"
+    focus: "The cultural mixing and commercial prosperity of the world's greatest trading city"
+    depth: "Foreground shows detailed merchant interactions and exotic goods, middle ground reveals market organization and cultural diversity, background displays the vast scale of Chang'an's commercial districts"

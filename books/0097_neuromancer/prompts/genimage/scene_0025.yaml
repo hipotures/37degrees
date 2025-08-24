@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: 2030s, quiet moment in private space
+    location: intimate room in safe house, furnished with mixture of salvaged comfort items and necessary technology
+    weather: controlled environment allowing complete relaxation
+  characters:
+  - appearance: tall athletic woman in late twenties, pale skin stretched over lean muscle, dark hair cropped short, surgically
+      implanted mirrored lenses covering entire eye sockets like permanent sunglasses reflecting world back at observer, four-centimeter
+      retractable scalpel blades hidden beneath fingernails
+    clothing: form-fitting black leather garments designed for combat mobility, reinforced synthetic fabric suit with hidden
+      pockets for weapons, soft-soled boots for silent movement, everything in matte black
+    position: seated in comfortable chair, relaxed posture suggesting rare moment of vulnerability
+    action: holding piece of familiar fabric close, texture triggering memory response, gentle rocking motion suggesting internalized
+      rhythm
+  - appearance: 24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet,
+      pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible
+      at temples
+    clothing: worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or
+      puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive
+      lifestyle
+    position: nearby, observing the rare moment of emotional openness
+    action: witnessing transformation from dangerous operative to person experiencing memory-triggered vulnerability
+  scene:
+    mainElements: intimate space with comfortable furniture, familiar fabric object being held, gentle lighting creating peaceful
+      atmosphere, technology present but subdued for privacy
+    details: fabric texture showing wear patterns suggesting repeated handling, gentle rocking motion creating rhythmic visual
+      pattern, lighting reflecting off mirrored lenses creating subtle emotional indicators, fabric fibers catching light
+      showing material quality, peaceful posture contrasting with usual combat readiness, no text or letters visible
+    background: private room with personal touches among technological necessities, security equipment powered down for rest,
+      comfortable environment allowing emotional expression
+    atmosphere: complete synesthetic memory experience combining tactile comfort of familiar fabric, visual softness of gentle
+      lighting, suggested scent memories from textile, rhythmic motion suggesting internalized lullaby, rare moment of complete
+      sensory and emotional integration
+  composition:
+    cameraAngle: intimate medium shot showing figure with fabric and observing companion
+    focus: fabric texture and gentle movement creating visual representation of complex sensory memory experience
+    depth: foreground showing detailed fabric texture and lighting effects, middle ground featuring figures in intimate moment,
+      background revealing peaceful private environment
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

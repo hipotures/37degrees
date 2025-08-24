@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Geneva Society's Fear - Crowd Psychology of Terror"
+  setting:
+    time: "1780s, evening during period of mysterious murders"
+    location: "Geneva marketplace where townspeople gather to discuss recent tragedies"
+    weather: "Gray evening with threatening clouds reflecting community mood"
+  characters:
+    - appearance: "Mixed crowd of Geneva citizens including merchants, laborers, housewives, elderly residents, all showing expressions of fear and suspicion"
+      clothing: "Various social classes represented through clothing from fine merchant attire to simple working garments, all showing signs of worry and sleeplessness"
+      posture: "Huddled groups for mutual comfort, nervous glances toward shadows, protective stances around family members"
+      action: "Whispering fearfully about recent murders, pointing suspiciously at strangers, demanding action from authorities against unknown threat"
+  scene:
+    mainElements: "Town square filled with frightened citizens forming groups to discuss mysterious deaths, collective fear creating atmosphere where reason gives way to superstition and scapegoating"
+    details: "Market stalls closed early due to fear of venturing out after dark, lanterns creating pools of nervous light in gathering dusk, townspeople clustering together for protection while discussing impossible murders requiring superhuman strength, mothers clutching children closer while fathers speak of organizing armed patrols, elderly residents sharing ancient stories of monsters and demons that younger generation previously dismissed, shopkeepers boarding windows early and carrying weapons for protection, religious symbols being displayed prominently as protection against unknown evil, collective whispers creating hum of community terror, suspicious glances toward any stranger or outsider who might be responsible, no text or letters visible"
+    background: "Geneva's normally peaceful streets now appearing threatening in evening shadows, prosperous city transformed by fear into place where neighbors suspect neighbors"
+    atmosphere: "Collective psychology of community under siege by unknown supernatural threat, reason abandoned in favor of fear and suspicion, crowd mentality seeking scapegoats for inexplicable events"
+  composition:
+    cameraAngle: "Crowd perspective showing how individual fears combine into collective hysteria"
+    focus: "Community's psychological transformation from security to terror through unexplained supernatural threat"
+    depth: "Foreground shows frightened faces seeking answers, middle ground captures nervous clustering for protection, background reveals familiar city made strange by fear"

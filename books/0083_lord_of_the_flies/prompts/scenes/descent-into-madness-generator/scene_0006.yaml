@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Beast from the Sea and the Warping Horizon"
+  setting:
+    time: "Mid-20th Century, night"
+    location: "A raised, triangular platform of pink rock on the beach, shaded by palm trees. It serves as the boys' assembly area."
+    weather: "A dark, moonless night. The only light comes from a single torch."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Trying to maintain order during a chaotic night assembly."
+      action: "Holding the conch, his face illuminated by the torchlight, looking stressed and uncertain."
+    - id: "littluns"
+      name: "The Littluns"
+      description_block: |
+        characters:
+          - name: "The Littluns"
+            age: "6-8"
+            appearance: "A group of the youngest boys, of various shapes and sizes. They are often dirty, with tangled hair and runny noses."
+            clothing: "Remnants of school uniforms, now just rags."
+            posture: "Huddle together for comfort, often crying or playing aimlessly in the sand."
+      position: "A littlun named Percival is crying and mumbling, unable to speak clearly."
+      action: "He is claiming the beast comes from the sea."
+  scene:
+    mainElements: "A nighttime assembly has descended into chaos and fear. The boys are terrified by the idea of a beast emerging from the ocean."
+    details: "As Percival speaks, the view of the sea behind him begins to visually warp. The horizon line bends and curves, and the dark water seems to bulge and swell, as if a massive, unseen creature is rising from the depths. The sound of the waves becomes a low, menacing growl."
+    background: "The vast, black expanse of the ocean under a starless sky. The jungle is a wall of impenetrable darkness."
+    atmosphere: "Panic and mass hysteria. The boys' fear is so palpable that it is starting to physically alter their perception of reality."
+  composition:
+    cameraAngle: "A disorienting Dutch angle, reflecting the chaos of the assembly."
+    focus: "The warping horizon of the sea, which seems to be physically manifesting the boys' fears."
+    depth: "Foreground: The terrified faces of the littluns. Middle ground: Ralph and the older boys arguing. Background: The unnatural, swelling ocean."

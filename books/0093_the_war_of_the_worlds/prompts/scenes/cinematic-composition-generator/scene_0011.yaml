@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "First-person view through narrator's eyes of approaching Martian fighting machine"
+  setting:
+    time: "1897, stormy night during narrator's return journey"
+    location: "Country road near Maybury with pine forest alongside, storm clouds overhead creating dramatic lighting conditions"
+    weather: "Violent thunderstorm with lightning illuminating scene in stroboscopic flashes"
+  characters:
+    - appearance: "View from narrator's perspective - hands visible gripping reins of horse-drawn cart"
+      clothing: "Dark sleeve cuffs and hands of Victorian gentleman visible in frame edges"
+      position: "Seated in driver's position of small cart, looking ahead at approaching terror"
+      action: "Witnessing first appearance of assembled Martian fighting machine through driver's point of view"
+  scene:
+    mainElements: "POV through narrator's eyes showing road ahead and terrifying first glimpse of operational tripod war machine"
+    details: "Towering three-legged walking machine about 30 meters tall, gleaming metallic body with articulated hood-like head section, flexible tentacle-like appendages beneath main body, rear basket for carrying captured humans, moves with fluid alien grace despite mechanical nature. Lightning illuminating metal surfaces in brilliant strobing flashes, creating nightmarish vision of technological terror"
+    background: "Pine forest thrashing in storm winds, dark storm clouds, rain-lashed countryside, cart horse rearing in terror"
+    atmosphere: "First direct encounter with alien war technology - overwhelming sense of human helplessness against superior alien engineering, primal terror at witnessing ultimate predator"
+  composition:
+    cameraAngle: "POV shot seeing exactly what narrator sees from cart driver's position"
+    focus: "Massive tripod fighting machine illuminated by lightning flashes, no text or letters visible"
+    depth: "Foreground shows narrator's hands and cart reins in frame, middle ground reveals terrified horse, background dominated by towering alien machine striding through forest"

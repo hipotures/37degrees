@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Message in Transit - Miep's Dangerous Journey"
+  setting:
+    time: "1943, winter afternoon"
+    location: "Amsterdam streets during Nazi occupation, cycling through checkpoints"
+    weather: "Cold winter day with threatening snow clouds"
+  characters:
+    - appearance: "Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz, but now showing strain and determination"
+      clothing: "Prosty strój pracującej kobiety z lat 40., sukienka płaszcz, winter coat and scarf"
+      position: "Cycling through Amsterdam streets with hidden supplies"
+      action: "Nervously pedaling past German patrol, concealing packages for Secret Annex"
+  scene:
+    mainElements: "Amsterdam streets under occupation, Nazi checkpoints, brave woman cycling with secret cargo"
+    details: "Concealed food packages, letters, and supplies hidden in bicycle baskets, German soldiers on patrol, Voor Joden verboden signs on buildings, the daily risk taken by helpers"
+    background: "Occupied Amsterdam with its mixture of normal life and military oppression"
+    atmosphere: "Tension and courage, ordinary woman becoming hero through daily acts of defiance"
+  composition:
+    cameraAngle: "Following shot of bicycle journey through dangerous streets"
+    focus: "Miep's determination and the precious cargo she carries"
+    depth: "Foreground: cyclist with supplies, middle: city streets, background: German patrols"

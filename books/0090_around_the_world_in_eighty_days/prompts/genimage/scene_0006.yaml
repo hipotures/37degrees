@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: October 1872, dawn
+    location: British India railway station showing revolutionary transportation technology
+    weather: Clear morning light with steam and smoke creating atmospheric effects
+  characters: No characters present in this scene
+  scene:
+    mainElements: Powerful steam locomotive with massive driving wheels and prominent smokestack, long composition of railway
+      carriages showing different classes of service, elaborate Victorian railway station architecture with iron and glass
+      roof structure
+    details: Locomotive featuring brass fittings and polished metalwork demonstrating British engineering excellence, steam
+      billowing dramatically from cylinder cocks and smokestack creating dynamic visual effects, railway tracks stretching
+      toward horizon showing network connecting vast distances, station platform with ornate ironwork and colonial architectural
+      details, telegraph wires running parallel to tracks enabling instant communication, water tower and coal depot showing
+      infrastructure supporting steam power, goods wagons loaded with colonial products and supplies, railway signals and
+      switching equipment demonstrating systematic control
+    background: Indian landscape stretching beyond railway infrastructure, distant mountains and plains showing vast territories
+      connected by rail
+    atmosphere: Revolutionary power of steam technology shrinking global distances, sense of mechanical precision and engineering
+      triumph, dramatic interplay of steam smoke and sunlight creating romantic industrial mood
+  composition:
+    cameraAngle: Low angle emphasizing power and scale of locomotive and railway infrastructure
+    focus: Steam locomotive as symbol of technological progress and imperial connectivity
+    depth: Locomotive and station details in foreground, railway tracks creating perspective lines, distant landscape showing
+      geographic conquest
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

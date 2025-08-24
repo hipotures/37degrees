@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Jekyll's Study Through His Eyes - Sanctuary of Respectability"
+  setting:
+    time: "1880s evening, warm lamplight hours"
+    location: "Jekyll's private study in his respectable London townhouse, viewed as personal sanctuary"
+    weather: "Clear indoor evening, fireplace warmth contrasting outside chill"
+  characters:
+    - appearance: "Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples"
+      clothing: "Elegant smoking jacket of deep burgundy velvet, white shirt with loosened collar, comfortable evening attire of successful gentleman"
+      position: "Seated in leather armchair beside glowing fireplace, completely at ease in his domain"
+      action: "Reading correspondence with satisfaction, occasionally glancing around room with proprietorial contentment"
+  scene:
+    mainElements: "Study appears as perfect gentleman's retreat - mahogany bookcases gleaming with scholarly achievement, oil paintings in gilt frames reflecting firelight, crystal decanter catching warm amber glow"
+    details: "Every object speaks of refined success and respectability - leather-bound medical journals, framed diplomas, expensive Persian carpet, ticking grandfather clock marking ordered passage of time, heavy velvet drapes ensuring privacy"
+    background: "Walls lined with certificates and accolades, shelves filled with respected medical texts, everything meticulously arranged to project image of distinguished physician"
+    atmosphere: "Absolute comfort and security of established reputation, warm golden light creating sense of sanctuary where social standing remains unquestionable, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from Jekyll's eye level, viewing room as extension of himself"
+    focus: "Centered on symbols of respectability and achievement that define his public identity"
+    depth: "Foreground shows personal comforts, middle ground reveals professional accomplishments, background suggests solid foundation of social standing"

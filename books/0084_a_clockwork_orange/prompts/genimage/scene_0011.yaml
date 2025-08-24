@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Near future, night
+    location: A modern, isolated house in the countryside.
+    weather: A cold, rainy night.
+  characters:
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. His cheap suit is torn and muddy. His face is bruised and bloody.
+      He is weak and shivering, barely able to stand.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+    position: Standing on the doorstep of F. Alexander's house.
+    action: He has collapsed, and is looking up at the writer with a pleading expression.
+  - appearance: A middle-aged writer with a thoughtful, intellectual face. He is looking
+      down at Alex with a mixture of pity and curiosity.
+    clothing: He wears glasses and has graying hair. Dresses in comfortable, academic-style
+      clothing, such as a tweed jacket and corduroy trousers.
+    position: Standing in the doorway of his house.
+    action: He does not recognize Alex as the man who ruined his life.
+  scene:
+    mainElements: A scene of intense dramatic irony. Alex, the victimizer, has sought
+      refuge with his own victim, who is now in a position of power over him.
+    details: The house is warm and inviting, a stark contrast to the cold, hostile
+      world outside. The writer's study is visible in the background, filled with
+      books and art. The scene is a reversal of the earlier home invasion, with Alex
+      now the one who is vulnerable and at the mercy of the homeowner.
+    background: The dark, rainy night.
+    atmosphere: A tense, unsettling scene. The audience knows the history between
+      these two characters, but they themselves do not. The scene is pregnant with
+      the possibility of a terrible revelation.
+  composition:
+    cameraAngle: A shot from inside the house, looking out at Alex on the doorstep.
+      This places the viewer in the position of the writer, sharing his perspective.
+    focus: The look of dawning recognition in the writer's eyes as he begins to realize
+      who his guest might be.
+    depth: 'Foreground: The writer. Middle ground: Alex. Background: The stormy night.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

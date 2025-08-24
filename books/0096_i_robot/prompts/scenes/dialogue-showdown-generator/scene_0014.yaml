@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Point of No Return - Gloria's Faith Vindicated"
+  setting:
+    time: "1998, afternoon"
+    location: "Assembly line floor at U.S. Robots manufacturing facility"
+    weather: "Industrial indoor environment with bright overhead lighting"
+  characters:
+    - appearance: "Ośmioletnia dziewczynka o energicznych ruchach i bardzo ekspresyjnej mimice. Po intensywnej zabawie ma potargane włosy"
+      clothing: "Prosta, letnia sukienka typowa dla dziecka z połowy XX wieku, czasem podarta po zabawie"
+      position: "Biegnie radośnie lub chowa się za drzewem podczas zabawy"
+      action: "Bawi się z robotem, śmieje się głośno lub płacze z tęsknoty za swoim mechanicznym przyjacielem"
+    - appearance: "Duży, masywny robot o korpusie złożonym z dwóch prostopadłościanów połączonych elastyczną 'szyją'. Metalowa powłoka lśni w słońcu, czerwone świecące oczy, brak ust"
+      clothing: "Brak ubioru - goła metalowa konstrukcja"
+      position: "Stoi nieruchomo podczas zabawy w chowanego lub biegnie z ogromną prędkością"
+      action: "Tyka miarowo podczas odliczania, ratuje dziecko lub słucha opowieści z uwagą"
+  scene:
+    mainElements: "Massive industrial tractor moving along assembly line track, Gloria running directly into its path in joyous recognition, horrified adults frozen in shock"
+    details: "Robbie's lightning-fast response breaking from work formation, his heavy metallic feet pounding concrete in characteristic rhythm, split-second rescue timing"
+    background: "Busy manufacturing floor with robots at work stations, assembly line machinery, elevated observation platform where family watches in horror"
+    atmosphere: "Heart-stopping moment proving the reality of robot-human bond. Industrial danger transforms into demonstration of protective love transcending the human-machine divide"
+  composition:
+    cameraAngle: "Dynamic tracking shot following the rescue action across factory floor"
+    focus: "The millisecond timing of robot sacrifice to save human child"
+    depth: "Foreground shows immediate danger, middle ground the heroic intervention, background the adults whose prejudices are being shattered"

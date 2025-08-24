@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Peripheral kingdom showing technological regression and social breakdown"
+  setting:
+    time: "Galactic Standard Era 12000s, period of Imperial decline"
+    location: "former Imperial colony world on galactic periphery, showing effects of Imperial withdrawal and local collapse"
+    weather: "uncontrolled natural weather with failing atmospheric management systems"
+  characters:
+    - appearance: "former Imperial citizens adapting to post-collapse conditions, local leaders attempting to maintain order, various ages showing effects of technological regression"
+      clothing: "mixture of deteriorating Imperial-style clothing and locally-made replacements, improvised protective gear, symbols of former Imperial authority now modified for local use"
+      position: "struggling to maintain failing infrastructure, organizing local defense and governance, scavenging Imperial technological remnants"
+      action: "attempting repairs with insufficient knowledge, adapting Imperial equipment for simpler purposes, establishing local authority structures replacing Imperial administration"
+  scene:
+    mainElements: "deteriorating Imperial infrastructure beyond local maintenance capability, improvised solutions using available materials, evidence of social and technological regression, abandoned Imperial facilities"
+    details: "Imperial buildings showing structural failure and improvised repairs, technological equipment functioning partially or repurposed for simpler uses, local markets trading Imperial artifacts as valuable commodities, defensive preparations using primitive weapons alongside failing Imperial technology, religious or quasi-religious reverence for Imperial technological remnants"
+    background: "landscape showing abandoned Imperial development projects, natural environment reclaiming artificial structures, distant signs of other struggling settlements"
+    atmosphere: "post-Imperial decline and local adaptation, loss of technological capability leading to social regression, transformation of Imperial subjects into independent but struggling communities"
+  composition:
+    cameraAngle: "wide perspective showing relationship between failing Imperial legacy and local adaptation"
+    focus: "technological and social regression in post-Imperial periphery"
+    depth: "foreground local survival activities, middle ground failing Imperial infrastructure, background abandoned Imperial projects"

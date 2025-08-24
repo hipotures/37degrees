@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: February 1897, late evening in private moments
+    location: Small upstairs chamber at Coach and Horses Inn, stranger alone with his reflection
+    weather: Clear night with frost forming on windows
+  characters:
+  - appearance: Completely concealed figure wrapped entirely in white bandages from head to toe, only pink artificial nose
+      visible, large blue-tinted spectacles with side shields covering eye area
+    clothing: Long thick dark overcoat, soft felt hat with wide brim, heavy leather gloves, all garments designed to completely
+      hide body shape and form
+    position: Standing before small mirror, one gloved hand raised toward reflection
+    action: Staring at bandaged reflection while slowly removing one glove to reveal empty space beneath
+  scene:
+    mainElements: Small looking glass reflecting bandaged figure, single candle providing flickering illumination, shadows
+      dancing across walls, moment of private revelation
+    details: Mirror showing grotesque reflection of artificial features, candlelight revealing hollow spaces where hand should
+      be, bandages casting strange shadows, scientific apparatus looming in background
+    background: Collection of glass bottles, beakers, and chemical vessels of various sizes, some containing colorful liquids,
+      measuring instruments, heating apparatus, scientific glassware typical of 1890s chemistry laboratory, arranged in chaotic
+      profusion
+    atmosphere: Profound isolation mixed with terrible self-awareness, monster confronting his own monstrosity, scientific
+      triumph become personal horror
+  composition:
+    cameraAngle: Medium shot showing both Griffin and his reflection
+    focus: Contrast between disguised exterior and invisible reality beneath
+    depth: Foreground shows mirror reflection, middle ground captures Griffin's contemplation, background reveals laboratory
+      chaos, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

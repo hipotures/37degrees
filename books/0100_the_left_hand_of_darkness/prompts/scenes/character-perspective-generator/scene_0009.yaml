@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Estraven's View from Exile - Loyal Sacrifice"
+  setting:
+    time: "1491 Ekumen calendar, winter evening, natural and artificial lighting mixed"
+    location: "Simple rented room in Orgoreyn border town, modest accommodations for political exile"
+    weather: "Cold winter night requiring heating, snow visible outside windows"
+  characters:
+    - appearance: "Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion"
+      clothing: "Simple traveler's clothing without royal insignia, practical winter garments suitable for exile rather than court ceremony"
+      position: "Seated at small table writing in personal journal by lamplight"
+      action: "Recording observations about political situation while planning rescue mission for foreign ally, balancing personal safety against loyalty to larger cause"
+  scene:
+    mainElements: "Modest rented room with basic furniture, oil lamp providing warm writing light, journal and writing materials, view through window showing snow-covered foreign landscape"
+    details: "Simple accommodations reflecting fall from political power but maintained dignity, writing materials suggesting continued intellectual engagement with political crisis, warm lamplight contrasting with cold exile conditions, personal belongings arranged with care despite temporary circumstances, no text or letters visible"
+    background: "Foreign cityscape beyond window representing exile from homeland, shadows suggesting isolation but also contemplative privacy, distant sounds of Orgoreyn community going about normal life"
+    atmosphere: "Noble sacrifice interpreted as necessary loyalty - exile and loss of position justified as price for serving greater good, solitude enabling clear thinking about complex political situation"
+  composition:
+    cameraAngle: "Intimate angle emphasizing solitary contemplation and continued dignity despite exile"
+    focus: "Contrast between personal loss and unwavering commitment to larger cause transcending national boundaries"
+    depth: "Foreground: writing materials and lamp, middle: figure in contemplation, background: foreign landscape representing necessary sacrifice for higher loyalty"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Storm Warning Smoke"
+  setting:
+    time: "Late 10th century Japan, late afternoon before approaching storm"
+    location: "Remote fishing village on Japan's western coast, simple thatched-roof dwelling among salt-makers and fishermen"
+    weather: "Dark storm clouds gathering over ocean, wind increasing with electrical tension in air"
+  characters:
+    - appearance: "Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes, long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build"
+      clothing: "Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions"
+      position: "Standing outside crude hut, looking toward ocean and approaching storm"
+      action: "Noticing thin smoke tendrils rising from various sources, observing warning signs of approaching danger, preparing to seek shelter"
+  scene:
+    mainElements: "Crude wooden hut with rough timber construction, storm-battered pine trees, dark churning ocean waves, rocky coastline, simple fishing boats, salt evaporation pans"
+    details: "Thin smoke tendrils rise from fishing village cooking fires, creating visible warning patterns in wind currents, smoke streams bend and twist with changing air pressure, distant lightning creates momentary illumination of smoke clouds, salt fires show different colored smoke from wood fires, smoke dissipates rapidly in strong winds suggesting storm's power, pine trees show smoke-like movement as branches whip in wind, dark clouds mirror smoke patterns on larger scale, no text or letters visible"
+    background: "Wild windswept coastal landscape with dark storm clouds, churning ocean, weather-beaten vegetation"
+    atmosphere: "Atmospheric tension preceding natural disaster, smoke serving as visual warning system, primitive environment where weather signs mean survival"
+  composition:
+    cameraAngle: "Wide shot showing smoke patterns against storm sky"
+    focus: "Smoke tendril movement patterns revealing wind changes and approaching storm"
+    depth: "Rising smoke details in foreground, standing figure in middle ground, storm clouds and turbulent ocean in background"

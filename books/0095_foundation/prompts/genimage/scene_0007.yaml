@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Galactic Standard Era 12000s, working hours
+    location: Foundation technology workshop on Terminus, compact research and development facility
+    weather: controlled indoor environment with natural light from skylights
+  characters:
+  - appearance: Foundation scientists and engineers in 20s to 40s, focused and innovative bearing, practical but intellectual
+      demeanor
+    clothing: simple work clothes without Imperial formality, practical lab coats, safety equipment, tool belts with miniaturized
+      instruments
+    position: working at compact workstations, testing devices, collaborating on technical problems
+    action: assembling miniaturized atomic devices, testing personal shields, calibrating compact energy weapons, demonstrating
+      technological innovations
+  scene:
+    mainElements: compact efficient workstations, miniaturized atomic technology, personal force shields, small but powerful
+      energy devices, modular testing equipment
+    details: atomic devices elegant and compact contrasting with bulky Imperial equivalents, visible atomic symbols and energy
+      indicators, representing technological superiority through efficiency rather than size
+    background: organized workshop with efficient use of space, windows showing Terminus landscape, storage for rare materials
+      and components, technical diagrams and mathematical formulas on walls
+    atmosphere: innovative efficiency contrasting with Imperial bulk, practical approach to advanced technology, sense of
+      scientific progress through intelligent design rather than brute force
+  composition:
+    cameraAngle: eye-level perspective showing human scale of advanced technology
+    focus: demonstration of miniaturized atomic technology superiority
+    depth: foreground detailed device work, middle ground workshop activity, background Foundation facilities
+visualElements:
+  colorPalette:
+    primary:
+    - neon blue
+    - metallic gray
+    - glowing cyan
+    - steel silver
+    secondary:
+    - amber light
+    - deep space black
+    - violet sky
+    background: futuristic skyline or starfield
+    usageNotes: Cool tones dominate with pops of vibrant neon lighting
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: painterly sketches painted over
+    weight: n/a (lines hidden by painting)
+    color: n/a
+    texture: smooth digital, hard edges on tech
+    edgeTreatment: sharp silhouettes, atmospheric fade
+  lighting:
+    type: dramatic cinematic lighting
+    direction: multiple sources (city lights, backlights)
+    intensity: high contrast (bright neon vs deep shadow)
+    shadows:
+      style: long shadows, diffused by haze
+      color: cool blue or purple
+      opacity: deep
+    highlights: lens flares, neon glows on surfaces
+  rendering:
+    technique: digital painting with some photobash
+    texture: smooth with textured brushes for atmosphere
+    detailLevel: high in focal points (tech details), looser elsewhere
+    finish: polished, cinematic look
+  perspective: dynamic perspective (wide-angle vistas or low-angle hero shots)
+  mood:
+    overall: epic, futuristic, adventurous
+    emotion: awe, excitement, curiosity
+    tempo: dynamic, energetic
+    keywords:
+    - futuristic
+    - epic
+    - cinematic
+    - detailed
+    - atmospheric
+  stylePrecedents:
+  - Syd Mead (futurist designer)
+  - Blade Runner concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

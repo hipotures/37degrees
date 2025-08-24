@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1866, afternoon with carefully controlled lighting to preserve artworks
+    location: Museum gallery within Nautilus salon showcasing cultural treasures
+    weather: Perfect climate control protecting priceless artifacts from humidity and temperature fluctuations
+  characters: No characters present in this scene
+  scene:
+    mainElements: Wielki majestatyczny instrument wbudowany w ścianę salonu z ciemnego polerowanego drewna i rzędami metalowych
+      piszczałek. Art gallery featuring paintings by Renaissance masters including works attributed to Raphael, Leonardo da
+      Vinci, Titian, and Veronese hanging between displays of exotic weapons and cultural artifacts. Rare specimens of marine
+      fauna displayed in custom cases alongside artistic treasures from different civilizations.
+    details: The collection represents cultural achievements from around the world, suggesting Captain Nemo's appreciation
+      for human civilization despite his rejection of contemporary society. Paintings are protected by special glass that
+      filters harmful light. Exotic weapons from various cultures are displayed as both artistic objects and historical artifacts.
+      The museum demonstrates that while Nemo has abandoned surface world politics, he preserves its greatest cultural achievements.
+    background: Additional galleries extend throughout the submarine, housing one of the world's most valuable private collections
+      in an underwater sanctuary.
+    atmosphere: Cultural preservation and intellectual refinement. This space represents humanity's greatest artistic achievements
+      preserved in an underwater sanctuary, suggesting that while Nemo rejects contemporary civilization, he values human
+      cultural heritage.
+  composition:
+    cameraAngle: Medium wide shot emphasizing the scale and quality of the art collection
+    focus: The juxtaposition of Renaissance masterpieces with exotic artifacts in an underwater setting
+    depth: Foreground shows detailed artwork and artifact displays, middle ground features the organ and central gallery space,
+      background reveals additional collection areas
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

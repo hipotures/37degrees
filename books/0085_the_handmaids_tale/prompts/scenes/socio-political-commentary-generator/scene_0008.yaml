@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elite District Versus Poor Quarters - Visual Inequality"
+  setting:
+    time: "Near future, afternoon with clear division between light and shadow"
+    location: "Border area between wealthy elite district and lower-class residential zone in Gilead territory"
+    weather: "Bright sunshine illuminating the elite side while clouds cast shadows over the poor area"
+  characters:
+    - appearance: "Well-dressed elite figures in pristine uniforms visible in the wealthy district, poor workers in worn clothing in the background"
+      clothing: "Elite: perfect blue Wife uniforms and black Commander suits versus workers in faded, patched utility garments"
+      position: "Clear physical separation with elite figures in the bright, well-maintained foreground area"
+      action: "Elite moving leisurely through beautiful spaces while workers labor in background industrial areas"
+  scene:
+    mainElements: "Stark visual contrast between luxurious elite housing with manicured gardens and deteriorating working-class tenements with industrial facilities"
+    details: "The elite district features mansion-like homes with perfect landscaping, clean streets, decorative elements, and recreational facilities. The poor quarter shows cramped housing, industrial smoke stacks, unpaved areas, and utilitarian architecture. A clear physical barrier or transition zone separates the two areas. The contrast is deliberately dramatic and impossible to miss."
+    background: "Industrial facilities and worker housing extending into the distance on one side, while manicured elite residential areas stretch in the opposite direction"
+    atmosphere: "Sharp inequality made visually obvious through architectural and environmental design, creating clear hierarchy between social classes"
+  composition:
+    cameraAngle: "Wide shot capturing both districts in a single frame to show the dramatic contrast"
+    focus: "The stark boundary line between wealth and poverty dominates the center of the composition"
+    depth: "Elite luxury in foreground, transition boundary in middle ground, poor working areas in background creating layers of social stratification"

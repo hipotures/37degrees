@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1962, workshop afternoon
+    location: Small metalworking workshop in Japanese Occupied San Francisco showing accumulation of craftsmanship over years
+    weather: Overcast day with diffused natural light
+  characters:
+  - appearance: 38-year-old Jewish-American man hiding his identity, average build with surgically altered features to disguise
+      Semitic appearance, large nose and visible pores
+    clothing: Simple working man's clothes - worn denim work shirt, dark trousers, scuffed leather boots, sometimes canvas
+      jacket
+    position: Seated at workbench with hands positioned over jewelry project
+    action: Carefully shaping silver with precise movements learned through years of metalwork
+  scene:
+    mainElements: Hands showing temporal evolution from young apprentice to master craftsman, ghostly overlay of same hands
+      at different ages working identical motions, workshop tools showing wear patterns from years of use
+    details: Silver triangle pendant taking shape under skilled fingers, workbench scarred by countless projects, tools arranged
+      with practiced efficiency, metal shavings accumulated in grooves, torch flame casting dancing shadows, partially completed
+      jewelry pieces showing progression of artistic development over time, no text or letters visible
+    background: Workshop walls bearing stains and marks from years of metalwork, small window providing natural light, shelves
+      lined with materials and completed pieces representing timeline of artistic growth
+    atmosphere: Quiet concentration of master craftsman, time's passage visible in every tool and surface, transformation
+      from survival necessity to artistic expression evident in work quality evolution
+  composition:
+    cameraAngle: Close-up on hands and workpiece with slight tilt upward to face
+    focus: Skilled hands manipulating silver with temporal echo showing progression of expertise
+    depth: 'Foreground: hands and silver triangle, middle: immediate workspace and tools, background: workshop environment
+      showing accumulated history'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

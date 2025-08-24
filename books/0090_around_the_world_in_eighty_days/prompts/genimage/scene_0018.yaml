@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: December 1872, late afternoon
+    location: Remote Great Plains territory far from railroad and settlements, showing untouched American wilderness
+    weather: Cold winter day with snow and wind creating harsh conditions
+  characters: No characters present in this scene
+  scene:
+    mainElements: Vast snow-covered prairie extending endlessly in all directions, occasional buffalo herds moving across
+      landscape, Native American territories and encampments showing indigenous presence before American expansion
+    details: Deep snow drifts shaped by prairie winds creating rolling white landscape, dark buffalo moving in large herds
+      across snowy plains, traditional Native American tepees arranged in winter encampment with smoke rising from fires,
+      buffalo trails and paths worn through snow, scattered antelope and other prairie wildlife, distant storm clouds suggesting
+      harsh weather approaching, frozen streams and water sources, wind-bent grass and prairie plants showing through snow,
+      eagle or hawk circling overhead
+    background: Horizon line where snow-covered prairie meets gray winter sky, distant mountains barely visible, sense of
+      infinite space and wilderness
+    atmosphere: Raw untamed nature before European-American settlement, harsh beauty of winter plains, sense of indigenous
+      peoples' traditional relationship with land
+  composition:
+    cameraAngle: Low perspective emphasizing vast scale of prairie landscape and sky
+    focus: Buffalo herd as symbol of American wilderness and indigenous way of life
+    depth: Snow patterns and wildlife in foreground, rolling prairie extending through middle distance, infinite horizon emphasizing
+      wilderness scale
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

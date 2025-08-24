@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Panoramic View of Hell's Funnel Structure"
+  setting:
+    time: "Eternal infernal time, perpetual twilight of underworld"
+    location: "Vast underground cavern system beneath Earth's surface, organized as inverted cone descending toward center"
+    weather: "Stagnant infernal atmosphere with no natural weather patterns"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Immense funnel-shaped underground realm carved into living rock, nine distinct circular levels descending like amphitheater toward distant center point, each level with different architectural features and landscapes"
+    details: "Upper levels show relatively open spaces with rivers and forests, middle levels contain walled cities with towers and fortifications, lower levels feature increasingly harsh rocky terrain with ice formations at bottom. Stone bridges span between sections. Rivers of various types flow through levels - dark water, boiling blood, frozen streams. Each circular level has different architectural styles from classical to medieval. Ancient ruins and contemporary medieval structures intermixed throughout."
+    background: "Distant walls of the great funnel disappearing into darkness, occasional glimpses of surface world through cracks above, deepest pit shrouded in mysterious shadows"
+    atmosphere: "Overwhelming sense of vast underground architecture, decreasing light and increasing oppression toward depths, echo of distant sounds across enormous spaces, eternal and unchanging"
+  composition:
+    cameraAngle: "Wide panoramic view from upper rim looking down into the funnel structure"
+    focus: "The geometric organization of nine descending circles, each with distinct characteristics and architectural features"
+    depth: "Foreground shows detailed upper levels, middle ground reveals progression of circles, background fades into mysterious darkness of deepest pit"

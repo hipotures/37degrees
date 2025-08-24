@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rough bark texture against smooth interface cables"
+  setting:
+    time: "2030s, afternoon in artificial park environment"
+    location: "landscaped area within Freeside orbital station, artificial forest simulation with real vegetation"
+    weather: "controlled climate with perfect temperature regulation, gentle air circulation"
+  characters:
+    - appearance: "24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet, pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible at temples"
+      clothing: "worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive lifestyle"
+      position: "seated against massive tree trunk, back pressed against textured bark surface"
+      action: "running fingertips along neural interface cables while palm feels rough bark texture, creating tactile contrast between organic and synthetic materials"
+  scene:
+    mainElements: "ancient tree with deeply grooved bark patterns, sophisticated neural interface cables coiled nearby, artificial sunlight filtering through leaves above"
+    details: "rough bark texture showing deep ridges and smooth valleys, sleek neural cables with mirror-smooth surfaces reflecting filtered light, fingertips simultaneously touching both surfaces creating sensory contrast, bark particles catching on skin while cables slip smoothly beneath touch, no text or letters visible"
+    background: "artificial forest canopy with precisely engineered lighting, other trees creating natural maze, distant curve of station interior visible through branches"
+    atmosphere: "peaceful sanctuary combining natural textures with advanced technology, contrast between organic irregularity and manufactured perfection, meditation on boundary between natural and artificial worlds"
+  composition:
+    cameraAngle: "close-up shot focusing on hands touching contrasting surfaces"
+    focus: "tactile interaction between rough bark and smooth cables, emphasizing texture differences"
+    depth: "extreme foreground showing detailed surface textures, middle ground revealing figure against tree, background showing artificial forest environment"

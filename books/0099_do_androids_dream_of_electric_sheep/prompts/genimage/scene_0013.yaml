@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: January 2021, evening
+    location: Spacious but sterile conapt apartment interior with 1960s aesthetic showing signs of neglect
+    weather: Indoor environment with memories of better times
+  characters:
+  - appearance: Elderly figure with weathered features carrying weight of decades, eyes holding accumulated wisdom and loss
+    clothing: Simple home clothing layered with protective elements from different eras
+    position: Seated in comfortable chair surrounded by remnants of fuller life
+    action: Observing present reality through filter of accumulated experience and fading memories
+  scene:
+    mainElements: Penfield mood organ console beside bed, functional furniture, artificial lighting, stale cigarette scent.
+      Through elder perspective, present apartment overlaps with memories of past abundance - rooms echo with vanished laughter,
+      furniture recalls gatherings now impossible
+    details: Bedside console with 1960s retro-futuristic design featuring control knobs, numeric keypad for emotion selection,
+      possibly glowing vacuum tubes or small display screen. From elder viewpoint, mood organ represents technological regression
+      from era when authentic emotions came naturally. Current sparse furnishing contrasts with remembered abundance when
+      families filled rooms. Stale cigarette scent triggers memories of social gatherings before isolation became normal.
+      Every object carries historical weight of better times
+    background: Emotional coldness, suppressed despair, tension between inhabitants, but elder sees temporary phase in longer
+      human story
+    atmosphere: Present overlapping with past, young faces echoing ancestors, wisdom drawn from experience of cycles. Through
+      elder filter of historical perspective, current crisis appears as another passage rather than permanent ending, no text
+      or letters visible
+  composition:
+    cameraAngle: Seated perspective showing present reality layered with transparent memories of past
+    focus: Current sparse environment overlaid with ghostly echoes of more populated, hopeful times
+    depth: Foreground shows current simple furnishing, middle ground blends present with past memories, background suggests
+      continuity of human experience across time
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

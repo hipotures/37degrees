@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, evening, artificial interior lighting
+    location: Modern bureaucratic capital of Orgoreyn republic on planet Gethen, geometric ordered architecture with wide
+      open spaces
+    weather: Interior space, sterile controlled environment
+  characters:
+  - appearance: Several middle-aged Orgoreyn bureaucrats, compact Gethenian builds, faces showing practiced diplomatic expressions
+      masking calculating intelligence
+    clothing: Formal republican administrative uniforms, clean geometric designs representing efficient modern government
+    position: Seated around conference table in positions of collective authority
+    action: Conducting diplomatic reception while privately assessing foreign visitor's value as political asset against Karhidish
+      rivals
+  - appearance: Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians,
+      strong masculine physique with less body hair than natives, dark hair and eyes
+    clothing: Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves,
+      but garments sit differently due to his height and build
+    position: Seated at conference table as honored guest
+    action: Presenting his interstellar mission while appearing grateful for warm reception after Karhidish rejection
+  scene:
+    mainElements: Modern conference room with clean geometric furniture, efficient artificial lighting eliminating shadows,
+      administrative documents and maps suggesting organized planning, sterile architectural environment
+    details: Foreign visitor's obvious relief at rational reception providing leverage for manipulation, advanced technology
+      he represents offering potential military and economic advantages, his naive trust in republican hospitality making
+      him perfect asset, uniform lighting revealing everything while concealing nothing, no text or letters visible
+    background: Modern administrative architecture suggesting efficient governance, glimpses of organized filing systems and
+      communication networks, windows showing orderly cityscape under republican control
+    atmosphere: Calculated hospitality masking exploitation - warm reception and rational discourse serve as tools for extracting
+      valuable intelligence and gaining strategic advantage over traditional Karhidish rivals
+  composition:
+    cameraAngle: Elevated perspective emphasizing collective authority of republican officials
+    focus: Contrast between genuine diplomatic enthusiasm and underlying bureaucratic manipulation of naive visitor
+    depth: 'Foreground: calculating officials, middle: trusting foreign visitor, background: efficient administrative machinery
+      ready to exploit opportunity'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

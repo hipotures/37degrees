@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Courtroom Testimony - Multiple Witnesses Report Different Truths"
+  setting:
+    time: "1780s, daytime during Justine's trial"
+    location: "Geneva courthouse during proceedings against innocent servant"
+    weather: "Clear day contrasting with darkness of false justice"
+  characters:
+    - appearance: "Young woman aged approximately 18-22 years described as extremely pretty with naturally attractive features, honest sincere expression reflecting good character, face capable of exceptional beauty when marked by sorrow, wholesome appearance of trusted family servant"
+      clothing: "Simple practical clothing appropriate to household servant including plain dark colored dress with white apron, modest white cap covering hair, sturdy shoes for daily work, during trial wearing black mourning dress showing her distress"
+      posture: "Humble respectful bearing appropriate to servant role, natural dignity despite lower social position, increasingly dejected posture as false accusation destroys her reputation"
+      action: "Performing household duties with cheerful efficiency, caring tenderly for young William, standing trial with quiet dignity despite false charges, or facing execution as innocent victim of circumstantial evidence"
+    - appearance: "Multiple townspeople of various ages and social classes, each showing different expressions of certainty about contradictory testimony"
+      clothing: "Mix of Geneva social classes from wealthy merchants to working townspeople, formal court attire showing respect for legal proceedings"
+      posture: "Various witnesses standing to give sworn testimony, each convinced of truth of their conflicting accounts"
+      action: "Providing testimony that collectively creates impossible picture of events no single person could have witnessed"
+  scene:
+    mainElements: "Formal courthouse with witness stand where multiple people provide conflicting accounts of William's death, legal proceedings revealing how truth becomes distorted through fear and prejudice"
+    details: "Wooden witness stand where townspeople swear to contradictory accounts, some claiming to have seen Justine in locations impossible for one person to visit, others reporting sightings of mysterious giant figure dismissed by court as hysteria, judge's bench where legal authority ignores supernatural evidence in favor of convenient human scapegoat, jury box filled with citizens eager to blame familiar servant rather than face impossible truth, Small oval-shaped locket containing hand-painted miniature portrait of beautiful woman with gentle expression, crafted from precious metal and worn on chain, representing lost maternal love and domestic happiness, becomes evidence in false murder accusation presented as damning proof, courtroom gallery showing Geneva society demanding justice against wrong person, no text or letters visible"
+    background: "Formal courtroom representing civilization's attempt to impose order on chaos through legal process that fails to address supernatural reality"
+    atmosphere: "Multiple conflicting truths creating legal fiction that satisfies human need for explanation while ignoring actual supernatural perpetrator, justice system failing innocent victim"
+  composition:
+    cameraAngle: "Courtroom perspective showing how multiple viewpoints create false collective truth"
+    focus: "Witness testimonies that contradict each other while condemning innocent person"
+    depth: "Foreground shows witnesses providing conflicting accounts, middle ground captures Justine's dignified suffering, background reveals legal system's failure to protect truth"

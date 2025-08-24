@@ -1,0 +1,115 @@
+canon:
+  characters:
+    - id: "nora_helmer"
+      name: "Nora Helmer"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+            clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+            posture: "Light energetic movements, quick nervous gestures, moves around pokój with żywy krok, occasionally执行small secretive actions like chowajing small objects"
+
+    - id: "nora_costume"
+      name: "Nora in Tarantella Costume"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 28-30 years, drobna szczupła build, rozpuszczone włosy cascading around shoulders, twarz showing desperacja and internal panika"
+            clothing: "Barwna wielowarstwowa neapolitańska rybaczka costume with krótka spódnica, gorset, biała bluzka, and duży czarny szal for dancing, ludowy włoski style"
+            posture: "Gwałtowne nieskładne movements, ciało expressing desperacja through taniec, wirujące actions with czarny szal"
+
+    - id: "nora_final"
+      name: "Nora Final Transformation"  
+      description_block: |
+        characters:
+          - appearance: "Woman aged 28-30 years, drobna szczupła build, composed and zdecydowana expression, opanowana postawa"
+            clothing: "Prosta ciemna suknia podróżna in szary or brązowy color, skromna pozbawiona ozdób, praktyczna for travel"
+            posture: "Wyprostowana postawa, opanowane spokojne movements, zdecydowane gesty, sits prosto and looks bezpośrednio at others"
+
+    - id: "torvald_helmer"
+      name: "Torvald Helmer"
+      description_block: |
+        characters:
+          - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+            clothing: "Nienaganny elegancki garnitur or marynarka, aksamitna kurtka do palenia at home, formalny wieczorowy frak for evening events, zawsze nienagannie ubrany"
+            posture: "Sztywna wyprostowana posture expressing poczucie własnej ważności, często stoi while others sit, władcze gesty, opanowane celowe movements"
+
+    - id: "dr_rank"
+      name: "Dr Rank"  
+      description_block: |
+        characters:
+          - appearance: "Man aged 40-50 years, naznaczony śmiertelną chorobą, blada twarz, lekko przygarbiona postawa suggesting chroniczne zmęczenie and ból, oczy showing inteligencja cynizm and ironiczny dystans"
+            clothing: "Elegancki but być może nieco znoszony garnitur dżentelmena, ciemny stonowany strój reflecting pesymistyczne nastawienie"
+            posture: "Zmęczona postawa może być lekko przygarbiona, movements suggesting illness but maintained dignity"
+
+    - id: "kristine_linde"
+      name: "Kristine Linde (Pani Linde)"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła build"
+            clothing: "Skromna prosta suknia podróżna, czysta ale znoszona pozbawiona modnych ozdób, świadcząca o ubóstwie and status kobiety pracującej"
+            posture: "Celowe praktyczne movements, porusza się w sposób rozsądny and twardo stąpający po ziemi"
+
+    - id: "nils_krogstad"
+      name: "Nils Krogstad"
+      description_block: |
+        characters:
+          - appearance: "Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca zgorzknienie but also troskę about los swoich dzieci"
+            clothing: "Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną sytuację finansową"
+            posture: "Zaniedbana napięta postatura, movements showing desperacja and social degradation"
+
+  locations:
+    - id: "helmer_salon"
+      name: "Salon in Helmer Apartment"
+      description_block: |
+        setting:
+          location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+        mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+        atmosphere: "Initially przytulny świąteczny and pełny beztroski, evolving into klaustrofobiczna duszna pułapka, osvětlenie from zimowe światło z okna and ciepły migotliwy blask from piec creating contrasts"
+
+    - id: "helmer_salon_christmas" 
+      name: "Christmas Salon"
+      description_block: |
+        setting:
+          location: "Same mieszczański salon in Christiania during Boże Narodzenie period, decorated for święta"
+        mainElements: "Same elegant mieszczański interior now with świąteczne dekoracje, choinka initially piękna and zielona later ogołocona with wypalone świeczki on potargane gałązki"
+        atmosphere: "Initially świąteczna radosna atmosphere full of nadzieja, later atmosphere of narastające poczucie klaustrofobii and rozpadu iluzji"
+
+  items:
+    - id: "choinka"
+      name: "Christmas Tree"
+      description_block: |
+        details: "Initially piękna zielona choinka symbolizing nadzieja and radość świąt, later becomes ogołocona potargana with wypalone świeczki, visual representation of psychological rozkład and rozpadu małżeństwa"
+
+    - id: "makaroniki"  
+      name: "Macaroons"
+      description_block: |
+        details: "Małe migdałowe ciasteczka in papierowa torebka, symbol of drobny dziecinny bunt against Torvald's autorytet, sign of Nora's first próba samostanowienia and practice in oszustwo"
+
+    - id: "list_krogstada"
+      name: "Krogstad's Letter"
+      description_block: |
+        details: "Biała koperta containing demaskujący list from Krogstad, fizyczny nośnik prawdy that wdziera się into dom Helmerów and niszczy jego fasadę, object of największy strach for Nora"
+
+    - id: "weksel" 
+      name: "Promissory Note"
+      description_block: |
+        details: "Stary pożółkły papier z podpisami, fizyczny dowód przestępstwa and Nora's ofiary, dokument showing fałszerstwo with ojciec's podpis datowany na trzy dni po jego śmierci"
+
+    - id: "skrzynka_listow"
+      name: "Letter Box"
+      description_block: |
+        details: "Zamknięta na klucz skrzynka na listy, symbol tajemnic and Torvald's kontrola nad przepływem informacji, zawiera listy from Krogstad and later Rank"
+
+    - id: "klucz_skrzynki"
+      name: "Letter Box Key"  
+      description_block: |
+        details: "Mały metalowy przedmiot, symbol władzy and kontroli Torvalda, instrument of his dominacja over information flow in dom"
+
+    - id: "wizytowka_rank"
+      name: "Dr Rank's Visiting Card"
+      description_block: |
+        details: "Wizytówka z czarnym krzyżem, wizualny sygnał of Rank's nadchodzącej śmierci and ostateczne pożegnanie, symbol mortality entering the dom"
+
+    - id: "torba_podrozna"
+      name: "Travel Bag"  
+      description_block: |
+        details: "Prosta skromna torba podróżna belonging to Nora, symbol of jej nowego życia, niezależności and niepewnej przyszłości, represents her choice to leave"

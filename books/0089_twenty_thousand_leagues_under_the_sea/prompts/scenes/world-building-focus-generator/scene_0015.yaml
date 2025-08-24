@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Captain Nemo's austere private cabin reflecting his inner solitude"
+  setting:
+    time: "1866, late night with minimal lighting"
+    location: "Private quarters of Captain Nemo deep within Nautilus submarine"
+    weather: "Quiet submarine environment during deep underwater travel"
+  characters:
+    - appearance: "Dojrzały mężczyzna w wieku około 45 lat, wysoki o dumnej i wyniosłej postawie zdradzającej arystokratyczne pochodzenie. Blada cera, szerokie czoło, prosty nos i czysto narysowane usta. Niebieskie oczy osadzone nieco szerzej niż przeciętnie, dające mu niezwykle szerokie pole widzenia. Spojrzenie bystre, pewne siebie, spokojne, ale potrafiące w jednej chwili stać się lodowate i groźne. Ciemne włosy i broda nadające mu tajemniczy wygląd. Niezwykle delikatne i smukłe dłonie kontrastujące z jego rolą dowódcy"
+      clothing: "Simple sleeping garments showing his human vulnerability beneath the commanding exterior"
+      position: "Sitting at his simple work desk, gazing at a portrait on the wall"
+      action: "Contemplating the portrait of a woman and two children - his lost family"
+  scene:
+    mainElements: "Surowa i ascetyczna cela przypominająca celę klasztorną z prostym żelaznym łóżkiem, stołem roboczym, kilkoma przyborami toaletowymi i zestawem skomplikowanych instrumentów nawigacyjnych. The stark contrast between the luxury of the public areas and the austere simplicity of the captain's private space reveals his inner character."
+    details: "Pomieszczenie jest skąpo oświetlone, panuje w nim półmrok. Ta przestrzeń odzwierciedla wewnętrzny świat Nemo: jego dyscyplinę, samotność i skrywany ból. To miejsce pracy i żałoby, a nie odpoczynku. Navigation instruments include chronometer, sextant, barometer, and thermometer - the tools of his exile and wandering."
+    background: "The cabin walls are bare except for the single portrait that represents his motivation for abandoning the surface world."
+    atmosphere: "Solitude, discipline, and hidden grief. This space reveals the human cost of Captain Nemo's underwater exile and the personal tragedy that drives his hatred of surface civilization."
+  composition:
+    cameraAngle: "Intimate close shot emphasizing the contrast between luxury and austerity"
+    focus: "The captain in his moment of private vulnerability, showing the man behind the mysterious commander"
+    depth: "Foreground shows personal effects and navigation instruments, middle ground features the character, background reveals the portrait that haunts his existence"

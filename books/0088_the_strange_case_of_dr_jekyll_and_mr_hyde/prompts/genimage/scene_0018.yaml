@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1880s night, October evening during street confrontation
+    location: Street corner showing incident from multiple observational positions
+    weather: Clear night with moonlight providing natural illumination
+  characters:
+  - appearance: Elderly distinguished gentleman around 70 years old, beautiful aged features, white hair, emanating innocence
+      and old-world courtesy
+    clothing: Elegant dark overcoat, top hat, white gloves, refined evening attire
+    position: Standing in center of street during polite inquiry
+    action: Speaking courteously, maintaining gentleman's bearing
+  - appearance: Small pale man appearing 30-35 years old, dwarfish build around 160-165 cm, unnaturally repulsive face with
+      indefinable deformity without specific malformation, dark unkempt hair, wiry hairy hands
+    clothing: Oversized clothes belonging to taller man - coat sleeves too long, shoulders too broad
+    position: Facing elderly gentleman, initially listening then becoming agitated
+    action: Initially standing still, then moving with sudden violent energy
+  scene:
+    mainElements: Street intersection with clear sight lines from multiple directions - corner building providing elevated
+      observation point, lamppost illuminating central area, cobblestone surface showing physical positions
+    details: Scene visible from different physical angles - ground level showing participant perspectives, first floor window
+      revealing overhead view, opposite corner providing lateral observation, each position showing different aspects of same
+      event
+    background: Victorian street architecture providing multiple observation points, gas lighting creating different visibility
+      conditions from various angles, building facades offering different vantage points
+    atmosphere: Objective documentation of physical event from multiple positions, natural lighting conditions varying by
+      observation angle, neutral recording of spatial relationships, no text or letters visible
+  composition:
+    cameraAngle: Multiple simultaneous viewpoints showing same event from different physical positions
+    focus: Spatial relationships and physical actions documented from various angles
+    depth: Multiple depth planes showing event from ground level, elevated position, and lateral views simultaneously
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

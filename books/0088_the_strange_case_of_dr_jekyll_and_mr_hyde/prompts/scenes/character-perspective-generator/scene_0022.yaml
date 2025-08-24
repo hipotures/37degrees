@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Professional Community Response - Medical and Legal Colleagues React"
+  setting:
+    time: "1880s day, emergency consultation among professional colleagues"
+    location: "Private club meeting room where Jekyll's professional circle gathers"
+    weather: "Indoor atmosphere heavy with concern and professional consultation"
+  characters:
+    - appearance: "Multiple Victorian gentlemen - doctors, lawyers, and academics in professional attire"
+      clothing: "Formal professional dress - dark suits, waistcoats, representing respectable society"
+      position: "Seated around table in serious consultation, some standing by fireplace"
+      action: "Speaking in hushed professional tones, examining documents, expressing collective concern"
+    - appearance: "Lean tall gentleman around 50 years old, austere face that never brightens with smile, clean-shaven, thinning dark hair neatly combed"
+      clothing: "Conservative dark suit befitting respectable lawyer"
+      position: "Standing near fireplace addressing gathered colleagues"
+      action: "Speaking with measured professional concern, maintaining discretion while seeking guidance"
+  scene:
+    mainElements: "Professional meeting space becomes forum for collective professional response - leather chairs arranged for serious discussion, professional documents scattered on table, fireplace providing warm gathering point"
+    details: "Room shows evidence of professional consultation - medical journals opened for reference, legal documents spread for examination, brandy glasses showing extended serious discussion, professional atmosphere of shared responsibility"
+    background: "Club furnishings representing established professional community, portraits of distinguished predecessors, bookcases containing professional knowledge, solid institutional atmosphere"
+    atmosphere: "Collective professional concern transcending individual interests, warm firelight suggesting fellowship in crisis, shared sense of responsibility for maintaining professional standards, no text or letters visible"
+  composition:
+    cameraAngle: "Group shot capturing collective professional consultation and shared concern"
+    focus: "Professional community's collective response to crisis threatening their established order"
+    depth: "Foreground shows immediate professional consultation, middle ground captures gathering of colleagues, background suggests institutional stability being challenged"

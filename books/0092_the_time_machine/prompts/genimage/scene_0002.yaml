@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1895 to distant future, golden hour transition
+    location: Victorian gentleman's house in Richmond, London, same exterior view
+    weather: Transitioning from clear evening to overgrown abandonment
+  characters: No characters present in this scene
+  scene:
+    mainElements: Temporal overlay showing same stately Victorian house facade across centuries - pristine manicured property
+      dissolving into ivy-covered ruins. Well-maintained garden becomes wild overgrowth, manicured hedges transform into tangled
+      wilderness
+    details: Fresh paint and clean windows fade to peeling shutters and broken glass, iron gate shifts from polished black
+      to rust-streaked brown, stone steps worn smooth by countless footsteps, chimney crumbles from sharp edges to weathered
+      brick. Garden path transitions from neat gravel to moss-covered stones, ornate lamp posts lean at angles, their glass
+      broken
+    background: Neighboring houses similarly decay, street cobblestones crack and sprout weeds, mature oak trees grow larger
+      while buildings diminish around them
+    atmosphere: Melancholy of civilization's impermanence, natural reclamation of human constructions, beauty in decay as
+      nature transforms architecture into romantic ruins, no text or letters visible
+  composition:
+    cameraAngle: Wide establishing shot from street level, showing full facade
+    focus: Central entrance doorway showing transition from elegant welcome to overgrown mystery
+    depth: Street level in foreground, house facade in middle ground, sky and distant buildings in background showing temporal
+      changes
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

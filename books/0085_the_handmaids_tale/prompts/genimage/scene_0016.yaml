@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Near future, harsh fluorescent lighting creating institutional atmosphere
+    location: Red Center training facility converted from former high school gymnasium
+    weather: Indoor setting with artificial lighting and no natural light sources
+  characters:
+  - appearance: Multiple women in red Handmaid uniforms sitting in rows of military-style cots serving as makeshift classroom
+      seating
+    clothing: Standard red Handmaid dress with white winged bonnet that restricts peripheral vision, identical to all other
+      Handmaids
+    position: Seated in precise rows facing authority figure, maintaining perfect posture and attention
+    action: Listening intently to indoctrination lecture, some taking notes, all displaying required attentiveness
+  - appearance: Aunt Lydia figure at front of room delivering ideological instruction
+    clothing: Standard brown Aunt dress representing state educational authority
+    position: Standing at makeshift podium or elevated position commanding attention
+    action: Leading indoctrination session with electric cattle prod visible as symbol of authority
+  scene:
+    mainElements: Converted gymnasium with military cots arranged as classroom seating, basketball hoops still visible but
+      nets removed, creating visual reminder of lost freedom
+    details: Educational materials focus exclusively on religious doctrine and state ideology. Banners display slogans like
+      Blessed be the Fruit and Under His Eye. The room combines institutional efficiency with religious symbolism. Women absorb
+      prescribed worldview through repetitive instruction and fear-based compliance.
+    background: Gymnasium architecture with high ceilings and institutional fixtures repurposed for mass indoctrination, guards
+      visible at entrances
+    atmosphere: Systematic brainwashing disguised as education, where critical thinking is replaced with prescribed ideology
+      through fear and repetition
+  composition:
+    cameraAngle: Wide shot showing the institutional scale of the indoctrination process
+    focus: The mass of women receiving ideological instruction dominates the frame
+    depth: Rows of seated women in foreground and middle ground, authority figure and institutional architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

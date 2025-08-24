@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "First Power Play - Torvald's Pet Names"
+  setting:
+    time: "1879, Christmas Eve afternoon"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold Norwegian winter outside"
+  characters:
+    - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+      clothing: "Nienaganny elegancki garnitur or marynarka, aksamitna kurtka do palenia at home, formalny wieczorowy frak for evening events, zawsze nienagannie ubrany"
+      position: "Standing dominantly in center of room, towering over his wife"
+      action: "Gesturing condescendingly while speaking, patting Nora's cheek in patronizing manner"
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Lower in frame, looking up at Torvald submissively"
+      action: "Playing role of charming child-wife, accepting his condescension with forced smile"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "Christmas packages visible in background. The comfortable bourgeois setting frames this first glimpse of the power dynamic between husband and wife. Torvald's position suggests authority while Nora's lower positioning shows her supposed inferiority."
+    background: "Elegant mieszczański interior with Christmas decorations, doors leading to Torvald's private study visible"
+    atmosphere: "Surface warmth of Christmas celebration masking the underlying inequality. The scene establishes the false dynamic of their relationship - his condescending authority, her performed submission."
+  composition:
+    cameraAngle: "Low angle emphasizing Torvald's dominance over Nora"
+    focus: "The height difference between them, Torvald's condescending gesture of patting her cheek"
+    depth: "Foreground: Torvald dominating the frame. Middle ground: Nora looking small and submissive. Background: The comfortable but confining interior of their home."

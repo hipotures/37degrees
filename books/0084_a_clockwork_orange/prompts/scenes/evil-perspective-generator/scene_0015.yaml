@@ -1,0 +1,22 @@
+sceneDescription:
+  title: "The Final Scene and the Cycle of Violence"
+  setting:
+    time: "Near future, night"
+    location: "A dark alley."
+    weather: "A cold, dark night."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white boiler suit, a black bowler hat, and black boots. He often carries a cane. He is leading a new gang of droogs.
+      position: "In a dark alley."
+      action: "He is about to commit an act of violence, a look of ecstatic pleasure on his face."
+  scene:
+    mainElements: "The story has come full circle. Alex is back where he started, a violent predator ready to inflict pain and suffering on the world."
+    details: "The scene is a mirror image of the opening scenes of the story. Alex is once again the leader of a gang of droogs, and he is once again about to engage in an act of 'ultra-violence'. The only difference is that now, he has the full support of the state."
+    background: "The dark, menacing city."
+    atmosphere: "A chilling and deeply pessimistic final scene. The cycle of violence is unbroken. Nothing has been learned, and nothing has changed. The story ends with the triumph of evil."
+  composition:
+    cameraAngle: "A low angle shot, looking up at Alex, making him appear as a demonic figure of pure, unadulterated evil."
+    focus: "The look of ecstatic pleasure on Alex's face."
+    depth: "Foreground: Alex. Middle ground: His new droogs. Background: The dark alley."

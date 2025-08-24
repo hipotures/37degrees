@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fruit juice running down fingers in hydroponic garden"
+  setting:
+    time: "2030s, harvest time in growing facility"
+    location: "hydroponic fruit cultivation area in Zion cluster, where fresh produce grows in zero gravity"
+    weather: "warm humid air optimal for fruit ripening"
+  characters:
+    - appearance: "rastafarianin gardener with peaceful expression, hands stained from agricultural work, body showing signs of healthy living and physical activity"
+      clothing: "work clothes suitable for gardening, fabric showing stains from plant matter and fruit handling, comfortable garments allowing free movement"
+      position: "floating near fruiting plants, anchored by grip on growing support"
+      action: "holding freshly picked fruit, allowing natural juices to run down fingers and drip into growing medium below"
+  scene:
+    mainElements: "ripe fruit with skin broken from picking, clear juice flowing down hand and fingers, hydroponic growing systems with healthy plants, other fruits in various stages of ripeness"
+    details: "fruit juice creating wet trails down skin surface, drops falling in slow motion due to zero gravity, liquid catching artificial light and creating prismatic effects, sticky residue on fingers showing natural sugar content, fruit flesh visible through broken skin, no text or letters visible"
+    background: "extensive hydroponic gardens with various fruits and vegetables, community members working in agricultural areas, curved habitat structure visible through growing systems"
+    atmosphere: "celebration of natural abundance in artificial environment, sensory richness of fresh produce contrasting with high-tech growing systems, community self-sufficiency through agricultural knowledge"
+  composition:
+    cameraAngle: "close-up shot showing fruit juice flowing down hand with growing environment behind"
+    focus: "juice flow and sticky residue suggesting natural sweetness through visual evidence"
+    depth: "extreme foreground showing detailed juice patterns on skin, middle ground featuring fresh fruit and plants, background revealing hydroponic garden systems"

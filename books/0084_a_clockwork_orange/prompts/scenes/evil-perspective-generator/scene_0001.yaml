@@ -1,0 +1,40 @@
+sceneDescription:
+  title: "The Korova Milk Bar and the White-Clad Youths"
+  setting:
+    time: "Near future, evening"
+    location: "A futuristic, sterile-looking bar with white walls and furniture."
+    weather: "Night outside."
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye. Wears a white boiler suit, a black bowler hat, and black boots. He often carries a cane. Confident and arrogant, with a swaggering walk.
+      position: "Seated in a white armchair, a glass of milk-plus in his hand."
+      action: "Observing the other patrons with a look of contemptuous boredom."
+    - id: "dim"
+      name: "Dim"
+      description_block: |
+        A slow-witted, brutish young man with a vacant expression. Wears a white boiler suit and black boots. Slouches and follows Alex's lead, often with a confused look on his face.
+      position: "Seated near Alex."
+      action: "Staring blankly into space."
+    - id: "georgie"
+      name: "Georgie"
+      description_block: |
+        A cunning and ambitious young man with a sharp, fox-like face. Wears a white boiler suit and black boots. Often stands with his arms crossed, observing and calculating.
+      position: "Leaning against a wall, watching Alex."
+      action: "A hint of resentment in his eyes."
+    - id: "pete"
+      name: "Pete"
+      description_block: |
+        A quiet and reserved young man. Wears a white boiler suit and black boots. Tends to stay in the background, often looking uncomfortable.
+      position: "Sitting slightly apart from the others."
+      action: "Looking nervous and uncomfortable."
+  scene:
+    mainElements: "The Korova Milk Bar is a sterile, unsettling place. The four droogs, dressed in their signature white outfits, are the only splash of humanity in the otherwise lifeless room."
+    details: "The white, mannequin-like figures that serve as furniture are arranged in provocative poses. The milk-plus they are drinking is a milky white, served in tall glasses. The lighting is harsh and clinical."
+    background: "Other patrons, all dressed in a similar futuristic style, are scattered around the bar. They are all quiet and subdued."
+    atmosphere: "A sense of decadent boredom and barely suppressed violence. The air is thick with unspoken tensions and the promise of chaos."
+  composition:
+    cameraAngle: "A wide shot that captures the entire bar, emphasizing the sterility of the environment and the alienation of the characters."
+    focus: "The four droogs, a tight-knit group that is clearly separate from the rest of the patrons."
+    depth: "Foreground: A mannequin-table. Middle ground: Alex and his droogs. Background: The other patrons."

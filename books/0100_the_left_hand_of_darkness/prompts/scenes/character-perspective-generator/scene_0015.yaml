@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Servant's View of Palace Politics - Hidden Labor"
+  setting:
+    time: "1491 Ekumen calendar, early morning, artificial interior lighting mixed with dawn light"
+    location: "Service corridors and kitchen areas in royal palace of Erhenrang, Karhide capital, working spaces hidden from ceremonial areas"
+    weather: "Interior spaces, cold stone environment requiring heating"
+  characters:
+    - appearance: "Middle-aged Gethenian palace servant, weathered hands and face showing lifetime of manual labor, alert eyes that notice everything while remaining invisible to power"
+      clothing: "Simple practical work clothes in neutral colors, worn but clean garments suitable for invisible service, layers for warmth during early morning duties"
+      position: "Moving through service corridors carrying supplies for palace operations"
+      action: "Observing political tensions and power struggles while performing invisible maintenance tasks, noticing details and conversations that nobles assume servants cannot understand"
+    - appearance: "Palace nobles and officials visible through doorways and during brief encounters, focused on political business"
+      clothing: "Rich formal attire contrasting sharply with servant's practical garments"
+      position: "Occupying main palace spaces during political meetings"
+      action: "Conducting political business while largely ignoring servant presence, inadvertently revealing secrets and tensions"
+  scene:
+    mainElements: "Hidden service corridors running parallel to main palace spaces, kitchen areas with hearths and work surfaces, storage rooms for supplies, glimpses through doorways into formal political areas"
+    details: "Political tensions visible through overheard conversations and observed interactions, evidence of palace resource allocation revealing financial and political priorities, servants' work enabling ceremonial functions while remaining unacknowledged, contrast between functional and decorative architecture, no text or letters visible"
+    background: "Ancient stone palace infrastructure showing working machinery of power, service entrances and hidden passages, dawn light beginning to illuminate formal spaces while work areas remain in shadow"
+    atmosphere: "Invisible labor enabling visible power - servant perspective reveals mechanical operation of political system and hidden costs of ceremonial authority"
+  composition:
+    cameraAngle: "From working level looking toward formal power spaces, emphasizing separation between service and ceremony"
+    focus: "Contrast between essential invisible work and visible political performance, emphasis on servant's detailed knowledge unrecognized by nobles"
+    depth: "Foreground: servant with work materials, middle: service infrastructure, background: glimpses of formal political spaces"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Creature Judges Humans as Prejudiced - Rejection and Violence"
+  setting:
+    time: "1780s, spring morning"
+    location: "Village outskirts where creature attempts to approach humans"
+    weather: "Bright sunny morning contrasting with human cruelty"
+  characters:
+    - appearance: "Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white teeth, visible surgical scars and stitching marks across body where body parts were joined together"
+      clothing: "Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel"
+      posture: "Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or threatening stance of rage"
+      action: "Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship"
+  scene:
+    mainElements: "Creature approaching village with outstretched hands in peaceful gesture, villagers fleeing in panic and throwing stones, children screaming and hiding behind adults, peaceful scene transformed into chaos"
+    details: "Creature's gentle intentions completely misunderstood by terrified villagers, beautiful morning sun highlighting humanity's ugly prejudice and fear, flowers and trees serving as silent witnesses to injustice, creature's confused expression showing innocent bewilderment at reception, villagers appearing as mindless mob driven by superficial judgments, stones and clubs raised against being whose only crime is appearance, contrast between creature's nobility of purpose and humans' baseness of response, no text or letters visible"
+    background: "Charming village that should represent civilization's best becoming scene of primitive mob violence"
+    atmosphere: "Heartbreaking education in human nature's capacity for cruelty based on appearance alone, creature's faith in humanity beginning to crack under weight of universal rejection"
+  composition:
+    cameraAngle: "Creature's wounded perspective showing humans as they truly are - cruel and prejudiced"
+    focus: "Villagers' faces twisted with unreasoning fear and hatred contrasting with creature's extended peaceful gesture"
+    depth: "Foreground shows creature's attempted kindness, middle ground captures human cruelty in action, background suggests beautiful world marred by human failings"

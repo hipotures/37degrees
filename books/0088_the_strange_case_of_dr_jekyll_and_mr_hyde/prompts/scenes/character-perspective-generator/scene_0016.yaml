@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Documentary View - Jekyll's Laboratory Without Emotional Filter"
+  setting:
+    time: "1880s afternoon, clear daylight revealing objective truth"
+    location: "Jekyll's laboratory viewed without psychological interpretation"
+    weather: "Natural daylight through dirty glass dome, no atmospheric enhancement"
+  characters:
+    - appearance: "Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples"
+      clothing: "Practical work attire - rolled sleeves, stained apron, clothes showing actual laboratory use"
+      position: "Standing at work table among chemical apparatus"
+      action: "Mixing chemicals in glass vessels, measuring substances with scientific precision"
+  scene:
+    mainElements: "Laboratory appears as functional workspace - standard Victorian scientific equipment, glass vessels containing chemical solutions, work surfaces stained from repeated experiments, storage shelves with labeled bottles"
+    details: "Room shows evidence of extensive chemical work - burn marks on tables, chemical stains on surfaces, apparatus arranged for practical use rather than display, notebooks with detailed experimental records, measuring scales and graduated cylinders"
+    background: "Two-story building structure showing architectural function, windows positioned for natural light during work hours, storage areas for chemical supplies, connecting door to main house"
+    atmosphere: "Neutral workspace atmosphere without mystery or menace, natural lighting revealing actual conditions, simple functionality of scientific research facility, no text or letters visible"
+  composition:
+    cameraAngle: "Straight documentary shot without dramatic angles or emotional emphasis"
+    focus: "Actual laboratory equipment and working conditions without interpretation"
+    depth: "Foreground shows chemical apparatus in use, middle ground reveals functional workspace organization, background suggests practical building structure"

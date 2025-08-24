@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, mid-morning as sun climbs and fog begins to dissipate
+    location: Valley floor looking up toward castle on precipice as morning mist clears
+    weather: Heavy fog beginning to lift and thin as morning sun gains strength
+  characters: No characters present in this scene
+  scene:
+    mainElements: Thick white fog partially concealing massive castle structure on cliff edge. Castle towers and battlements
+      emerging from mist like ghostly apparitions. Lower portions still shrouded while upper towers catch sunlight above fog
+      line
+    details: Wispy fog tendrils clinging to castle walls and towers, creating mysterious veiling effect. Stone masonry visible
+      through gaps in mist showing ancient construction. Broken battlements and crumbling sections becoming visible as fog
+      thins. Massive scale of fortress becomes apparent as more structure emerges. Pine trees on lower slopes still wrapped
+      in fog blanket
+    background: Deep valley floor still completely fog-filled, hiding landscape details. Mountain peaks visible above fog
+      line in distance. Sky clearing to reveal blue color above dissipating mist
+    atmosphere: Mystery and revelation as ancient stronghold emerges from concealment. Sense of something awakening or being
+      unveiled. Otherworldly quality as solid stone appears to materialize from white void. Transition from obscurity to clarity
+      as day progresses. No text or letters visible
+  composition:
+    cameraAngle: Low angle looking up from valley floor toward castle on cliff
+    focus: Castle towers emerging from fog with emphasis on partially revealed architecture
+    depth: Foreground fog-filled valley, middle ground castle emerging from mist, background clear mountain peaks and sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

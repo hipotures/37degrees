@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Leopold Bloom Sees Martin Cunningham as Noble Guide"
+  setting:
+    time: "1904 late morning, 11:15 AM, gray Dublin light"
+    location: "Glasnevin Cemetery pathways among Victorian monuments and Celtic crosses, Dublin"
+    weather: "Gentle Irish mist creating soft, reverent atmosphere"
+  characters:
+    - appearance: "38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face, dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage"
+      clothing: "Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers, black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status"
+      position: "Walking respectfully behind Martin Cunningham on gravel cemetery path, observing with admiration"
+      action: "Following Martin's lead through cemetery grounds, mentally noting his friend's dignity and wisdom, touching potato talisman while contemplating human mortality and friendship"
+    - appearance: "Martin Cunningham, distinguished middle-aged man with natural authority and kindness, bearing suggesting both worldly wisdom and spiritual depth"
+      clothing: "Impeccable black funeral attire reflecting his role as respected community member and funeral guide"
+      position: "Leading funeral procession with practiced dignity along cemetery pathways toward burial site"
+      action: "Guiding mourners with quiet authority and compassion, gesturing toward significant monuments with reverent knowledge, embodying ideal of masculine dignity in face of death"
+  scene:
+    mainElements: "Victorian cemetery transformed through Leopold's admiring perspective into sacred landscape where Martin appears as noble guide through valley of death, gravel pathways becoming pilgrimage routes, elaborate monuments serving as stations of remembrance"
+    details: "Through Leopold's respectful vision, Martin's every gesture radiates wisdom and compassion - his measured pace suggesting reverence for the dead, authoritative pointing toward O'Connell's tomb displaying deep knowledge of Irish history, respectful removal of hat showing proper funeral protocol, steady voice providing comfort to grieving mourners, funeral procession following his lead like disciples following teacher, cemetery grounds appearing as vast library of human stories written in stone, Celtic crosses reaching toward heaven like prayers made visible, marble angels seeming to approve of Martin's dignity, gravel crunching beneath feet creating rhythm of remembrance"
+    background: "Leopold's admiring consciousness transforms cemetery into cathedral of memory - towering monuments suggesting eternal human aspiration, neat pathways indicating order even in death, distant chapel providing spiritual anchor"
+    atmosphere: "Profound respect and admiration filtering through Leopold's grateful heart, recognition of true gentleman's character in times of sorrow, sense of privilege in witnessing authentic nobility, masculine friendship transcending religious and social differences, Irish morning mist transformed into blessing upon sacred ground, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from behind Leopold, capturing his respectful observation of Martin's natural leadership"
+    focus: "Martin's dignified bearing as he guides the funeral procession, seen through Leopold's admiring eyes"
+    depth: "Foreground shows Leopold's respectful following presence, middle ground frames Martin in his role as noble guide, background reveals cemetery's sacred landscape extending beyond immediate group"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Victor's Vision of Glory - University Ambitions"
+  setting:
+    time: "1780s, evening"
+    location: "Victor's student quarters in Ingolstadt University, Bavaria"
+    weather: "Cold autumn night with frost forming on window panes"
+  characters:
+    - appearance: "Young man aged approximately 19-28 years, originally healthy build but becomes increasingly pale and gaunt through obsession and psychological torment, with eyes that grow wild and haunted in appearance, facial features showing progressive physical deterioration from guilt and sleeplessness"
+      clothing: "Well-tailored late 18th century gentleman's attire including dark wool frock coat with high collar, fitted waistcoat, white linen shirt with high neckline secured by white cravat, knee-length breeches or long trousers, leather boots, in Arctic scenes heavy fur-lined coat and boots for extreme cold protection"
+      posture: "Initially confident and energetic bearing, progressively becoming nervous and agitated with frequent restless movement, shoulders often hunched from psychological burden, hands trembling during periods of extreme distress"
+      action: "Conducting scientific experiments with intense concentration, fleeing in panic and horror, pursuing his creation across vast distances, writing feverishly in notebooks, or lying weakened by illness and exhaustion"
+  scene:
+    mainElements: "Cramped student chamber with slanted ceiling, wooden desk covered with modern scientific texts on anatomy and chemistry, single candle casting flickering light creating dramatic shadows on walls, frost-covered window overlooking university courtyard"
+    details: "Medical textbooks showing detailed anatomical illustrations, chemical apparatus including glass retorts and metal instruments, Victor's excited face illuminated by candlelight as he envisions future discoveries, shadows dancing on stone walls making room feel larger and more significant than reality, brass instruments gleaming in warm light, papers scattered with notes on galvanic experiments, no text or letters visible"
+    background: "Medieval university architecture visible through window, other student quarters with scattered lights, church spires rising against starry sky"
+    atmosphere: "Intoxicating sense of being chosen for greatness, isolation transformed into splendid solitude for genius, ordinary student room appearing as sacred temple of learning where history will be made"
+  composition:
+    cameraAngle: "Low angle shot from Victor's perspective, making ceiling appear cathedral-like"
+    focus: "Scientific instruments appearing to hold keys to ultimate knowledge and immortal fame"
+    depth: "Foreground shows glowing apparatus, middle ground captures Victor's inspired expression, background suggests vast universe of possibility opening before him"

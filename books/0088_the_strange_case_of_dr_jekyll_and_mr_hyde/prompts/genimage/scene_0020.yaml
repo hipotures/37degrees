@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1880s, multiple time periods showing progression of events
+    location: Jekyll's study and laboratory showing changes over extended period
+    weather: Various lighting conditions showing passage of time
+  characters:
+  - appearance: Distinguished gentleman around 50 years old, tall and well-built frame around 185-190 cm, clean-shaven face
+      with regular features and slight hint of cleverness in expression, dark hair with dignified silver streaks at temples
+    clothing: Various states of dress showing temporal progression - formal to casual to disheveled
+    position: Different positions throughout same spaces across time
+    action: Activities showing gradual change from normal routine to obsessive behavior
+  scene:
+    mainElements: Same spaces showing cumulative changes over time - furniture moved repeatedly, equipment usage patterns,
+      wear on surfaces, accumulation of materials
+    details: Physical evidence of temporal progression - chemical stains spreading over time, furniture showing increasing
+      wear, books and papers accumulating, gradual changes in room organization
+    background: Architecture remaining constant while usage patterns change, lighting conditions varying with different times
+      of day and seasons, gradual accumulation of evidence
+    atmosphere: Objective documentation of temporal changes without interpretation, natural progression of physical conditions,
+      neutral recording of accumulated evidence over time, no text or letters visible
+  composition:
+    cameraAngle: Fixed documentary position showing same spaces across multiple time periods
+    focus: Cumulative changes and evidence patterns developing over extended time
+    depth: Multiple temporal layers showing progression from initial to final conditions in same spaces
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

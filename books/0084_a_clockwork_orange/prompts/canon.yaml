@@ -1,0 +1,119 @@
+
+canon:
+  characters:
+    - id: "alex"
+      name: "Alex"
+      description_block: |
+        characters:
+          - name: "Alex"
+            age: "15"
+            appearance: "A young man with a handsome, youthful face, often with a cold, sneering expression. He has short, dark hair and wears one fake eyelash on his right eye."
+            clothing: "Wears a white boiler suit, a black bowler hat, and black boots. He often carries a cane."
+            posture: "Confident and arrogant, with a swaggering walk."
+    - id: "dim"
+      name: "Dim"
+      description_block: |
+        characters:
+          - name: "Dim"
+            age: "around 16"
+            appearance: "A slow-witted, brutish young man with a vacant expression."
+            clothing: "Wears a white boiler suit and black boots."
+            posture: "Slouches and follows Alex's lead, often with a confused look on his face."
+    - id: "georgie"
+      name: "Georgie"
+      description_block: |
+        characters:
+          - name: "Georgie"
+            age: "around 16"
+            appearance: "A cunning and ambitious young man with a sharp, fox-like face."
+            clothing: "Wears a white boiler suit and black boots."
+            posture: "Often stands with his arms crossed, observing and calculating."
+    - id: "pete"
+      name: "Pete"
+      description_block: |
+        characters:
+          - name: "Pete"
+            age: "around 16"
+            appearance: "A quiet and reserved young man."
+            clothing: "Wears a white boiler suit and black boots."
+            posture: "Tends to stay in the background, often looking uncomfortable."
+    - id: "f_alexander"
+      name: "F. Alexander"
+      description_block: |
+        characters:
+          - name: "F. Alexander"
+            age: "50s"
+            appearance: "A middle-aged writer with a thoughtful, intellectual face. He wears glasses and has graying hair."
+            clothing: "Dresses in comfortable, academic-style clothing, such as a tweed jacket and corduroy trousers."
+            posture: "Often seen sitting at his desk, surrounded by books."
+    - id: "dr_brodsky"
+      name: "Dr. Brodsky"
+      description_block: |
+        characters:
+          - name: "Dr. Brodsky"
+            age: "40s"
+            appearance: "A cold, clinical-looking man with a severe expression. He is clean-shaven and has short, neat hair."
+            clothing: "Wears a white lab coat."
+            posture: "Stands with a rigid, authoritarian posture."
+    - id: "tramp"
+      name: "The Tramp"
+      description_block: |
+        characters:
+          - name: "The Tramp"
+            age: "60s"
+            appearance: "An old, disheveled man with a long, dirty beard and rheumy eyes."
+            clothing: "Wears ragged, filthy clothing."
+            posture: "Hunched over and frail, often muttering to himself."
+  locations:
+    - id: "korova_milk_bar"
+      name: "The Korova Milk Bar"
+      description_block: |
+        setting:
+          location: "A futuristic, sterile-looking bar with white walls and furniture."
+        mainElements: "The bar is decorated with white, mannequin-like figures in suggestive poses, which also serve as tables and dispensers for the milk-plus."
+        atmosphere: "A strange, unsettling, and decadent atmosphere."
+    - id: "alexs_flat"
+      name: "Alex's Flat"
+      description_block: |
+        setting:
+          location: "A small, messy flat in a large, brutalist apartment block."
+        mainElements: "The walls are covered with posters of classical composers, particularly Beethoven. A large, powerful stereo system is a prominent feature of the room."
+        atmosphere: "A chaotic and claustrophobic space, reflecting Alex's internal world."
+    - id: "f_alexanders_home"
+      name: "F. Alexander's Home"
+      description_block: |
+        setting:
+          location: "A modern, isolated house in the countryside."
+        mainElements: "The house is filled with books and art. A large window looks out onto a bleak, empty landscape."
+        atmosphere: "A quiet, intellectual retreat that is invaded by violence."
+    - id: "prison"
+      name: "The Prison"
+      description_block: |
+        setting:
+          location: "A stark, oppressive prison with long, echoing corridors and small, bare cells."
+        mainElements: "The prison is characterized by its cold, concrete walls, iron bars, and the constant sound of clanging doors."
+        atmosphere: "A dehumanizing and soul-crushing environment."
+    - id: "ludovico_facility"
+      name: "The Ludovico Medical Facility"
+      description_block: |
+        setting:
+          location: "A sterile, white medical facility."
+        mainElements: "The main feature is a small cinema-like room where patients are strapped to a chair and forced to watch films. A large screen dominates the room."
+        atmosphere: "A cold, clinical, and terrifying place of psychological torture."
+  items:
+    - id: "milk_plus"
+      name: "Milk-Plus"
+      description_block: |
+        details: "A glass of milk laced with drugs, served in the Korova Milk Bar. The milk is white and opaque."
+    - id: "alexs_cane"
+      name: "Alex's Cane"
+      description_block: |
+        details: "A black cane with a silver handle, which conceals a long, sharp blade."
+    - id: "beethoven_bust"
+      name: "The Bust of Beethoven"
+      description_block: |
+        details: "A white, plaster bust of Ludwig van Beethoven, which Alex keeps in his room. It is a symbol of his love for classical music."
+    - id: "fake_eyelashes"
+      name: "Fake Eyelashes"
+      description_block: |
+        details: "A single, long, black fake eyelash worn on Alex's right eye, a signature part of his look."

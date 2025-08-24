@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, daytime
+    location: The plains bordering the man-village.
+    weather: A hot, sunny day.
+  characters:
+  - appearance: A boy of about 11 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled hair.
+      Wears a simple loincloth.
+    clothing: Wears a simple loincloth.
+    position: Lying lazily on the back of a large water buffalo.
+    action: Watching over the village herd. He is bored with the slow pace of human life, but is patiently learning their
+      ways.
+  - appearance: A herd of water buffaloes.
+    clothing: None
+    position: Grazing peacefully on the plains.
+    action: The buffaloes are a slow, lumbering mass of black hides and curved horns.
+  scene:
+    mainElements: Mowgli's new life as a shepherd boy in the man-village. A scene of calm before the storm.
+    details: The plains are wide and open, a stark contrast to the dense jungle. The village can be seen in the distance.
+      Mowgli seems out of place, a wild thing in a domesticated world. no text or letters visible
+    background: The jungle, a dark line on the horizon, seems to be watching him.
+    atmosphere: A sense of peace and tranquility, but also of underlying tension. Mowgli is living between two worlds, belonging
+      to neither. no text or letters visible
+  composition:
+    cameraAngle: Wide shot, showing Mowgli and the herd of buffaloes on the vast plain.
+    focus: Mowgli, looking back towards the distant jungle, a look of longing on his face.
+    depth: 'Foreground: the grazing buffaloes. Middle ground: Mowgli on his buffalo. Background: the man-village and the jungle.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

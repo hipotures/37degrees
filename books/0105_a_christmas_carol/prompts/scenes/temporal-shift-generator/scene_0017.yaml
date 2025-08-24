@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Suspended Christmas Carol - Tim's Blessing"
+  setting:
+    time: "Christmas Day 1843 - moment of blessing frozen"
+    location: "Modest four-room dwelling in working-class London neighborhood, clean but cramped quarters showing pride despite poverty"
+    weather: "Snowy Christmas afternoon with supernatural stillness"
+  characters:
+    - appearance: "Small frail boy around 8 years old with pale complexion, bright intelligent eyes, thin limbs, cheerful expression despite physical weakness"
+      clothing: "Simple patched shirt, small woolen vest, knee breeches, worn stockings, wrapped in family shawl for warmth"
+      position: "Raising small cup in blessing gesture, mouth open speaking sacred words"
+      action: "Using crutch for walking, singing carols with pure voice, blessing others with innocent wisdom, being carried by father's shoulders"
+    - appearance: "Kind woman in 40s with work-worn hands, caring eyes, graying hair neatly arranged, thin but dignified bearing"
+      clothing: "Twice-turned dress adorned with ribbons for festivity, simple white apron, modest cap, making best of limited wardrobe"
+      position: "Frozen in moment of maternal pride watching son's blessing"
+      action: "Preparing modest feast with great care, sewing by firelight, embracing children with fierce maternal love"
+  scene:
+    mainElements: "Tim's Christmas blessing suspended in time while world continues - his raised cup and spoken words captured mid-utterance, family frozen in reverent attention, while fire crackles normally and snow continues falling outside"
+    details: "Sacred moment crystallized - Tim's blessing words hanging as visible breath in cold air, family faces captured in expressions of love and reverence, Christmas dinner steam still rising from plates, candle flames continuing to flicker while human motion paused, small dining room holding sacred silence around blessing, Christmas pudding still settling while family remains motionless, firelight continuing to dance across frozen faces, no text or letters visible"
+    background: "Home continuing normal time - fire consuming wood naturally, snow accumulating on windows, church bells ringing in distance, clock ticking while family blessing moment suspended"
+    atmosphere: "Sacred reverence made tangible through temporal suspension, weight of innocent blessing given supernatural significance, normal domestic sounds continuing while spiritual moment held eternal, light quality intensified around Tim's blessing gesture"
+  composition:
+    cameraAngle: "Low angle emphasizing Tim's blessing gesture from family perspective"
+    focus: "Tim's raised cup and speaking mouth as center of temporal suspension"
+    depth: "Foreground shows family frozen in reverent attention, middle ground centers on Tim's blessing moment, background displays continuing domestic life"

@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, night
+    location: The shelters on the beach.
+    weather: The storm has passed, but the air is still and heavy.
+  characters:
+  - appearance: A short, overweight boy with thinning hair. He is asthmatic and wears
+      thick spectacles. Often hunched over, polishing his glasses, or holding his
+      stomach. His movements are clumsy and hesitant.
+    clothing: Wears a greasy windbreaker, shorts, and scuffed shoes. His clothes are
+      ill-fitting and rumpled.
+    position: Lying in a shelter, terrified.
+    action: He has just been attacked by Jack's tribe, and they have stolen his glasses.
+  - appearance: A fair-haired boy, tall for his age, with a confident and athletic
+      build. His face is open and freckled, with a natural leader's charisma. Stands
+      tall and assertive, often holding the conch, but gradually shows more tension
+      and weariness.
+    clothing: Wears the tattered remains of a grey school shirt and shorts, becoming
+      progressively more worn and dirty.
+    position: Trying to comfort Piggy.
+    action: He is helpless to do anything.
+  scene:
+    mainElements: The theft of Piggy's glasses is the theft of the last vestige of
+      reason and intellect on the island. Without them, the world becomes a terrifying,
+      incomprehensible place for Piggy.
+    details: The scene is shot from Piggy's point of view. The world is a blurry,
+      distorted mess of shapes and colors. The faces of the other boys are indistinct,
+      monstrous smudges. The familiar surroundings of the beach have become a threatening,
+      alien landscape. The sounds of the night are amplified and distorted, and the
+      darkness is filled with menacing, shifting shadows.
+    background: The dark, blurry shapes of the jungle and the sea.
+    atmosphere: A scene of complete vulnerability and terror. Piggy is now physically
+      blind, a reflection of the boys' collective moral and intellectual blindness.
+      The world has become a meaningless chaos.
+  composition:
+    cameraAngle: A first-person point of view shot from Piggy's perspective.
+    focus: The entire scene is out of focus, a blurry, terrifying nightmare.
+    depth: There is no depth to the scene, just a flat, incomprehensible mess of color
+      and shape.
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

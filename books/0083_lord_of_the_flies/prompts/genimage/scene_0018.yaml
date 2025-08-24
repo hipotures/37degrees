@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, night
+    location: A cave at Castle Rock.
+    weather: The only light comes from a single, flickering torch.
+  characters:
+  - appearance: Identical twins, stocky and energetic, with tousled fair hair. They
+      are so alike they are treated as a single entity. Move in unison, often finishing
+      each other's sentences. Their expressions are usually cheerful but become increasingly
+      fearful.
+    clothing: Matching torn shorts and shirts, becoming more disheveled over time.
+    position: Tied to a post in the center of the cave.
+    action: They are being tortured and interrogated by Jack and his tribe.
+  - appearance: Tall, thin, and bony, with red hair and a freckled, angular face.
+      His eyes are light blue and often narrowed in concentration or anger. Aggressive
+      and predatory, often crouching or leaning forward, brandishing a spear.
+    clothing: Initially wears a black choir uniform with a silver badge, later strips
+      down to just a tattered pair of shorts, his body painted with clay and charcoal.
+    position: Leaning over the twins, his face a demonic mask in the torchlight.
+    action: He is demanding to know where Ralph is hiding.
+  scene:
+    mainElements: The capture and torture of Samneric. Their individual identities
+      are being erased as they are forced to become part of Jack's tribe.
+    details: The faces of the torturers are not just painted; they seem to warp and
+      shift in the flickering torchlight, their features melting and reforming into
+      demonic masks. The shadows on the cave walls dance and writhe, forming monstrous
+      shapes. The twins' reflections in a pool of water on the cave floor show them
+      already wearing the paint of Jack's tribe, even though they haven't been painted
+      yet.
+    background: The dark, claustrophobic cave. The sound of the sea echoes from outside.
+    atmosphere: A nightmarish scene of torture and psychological manipulation. The
+      twins are being broken, their wills and identities being forcibly erased and
+      replaced.
+  composition:
+    cameraAngle: A claustrophobic, close-up shot that focuses on the terrified faces
+      of the twins and the demonic, shifting faces of their torturers.
+    focus: The twins' reflection in the water, which shows their future selves as
+      members of Jack's tribe.
+    depth: 'Foreground: The demonic faces of the torturers. Middle ground: The terrified
+      twins. Background: The writhing shadows on the cave walls.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

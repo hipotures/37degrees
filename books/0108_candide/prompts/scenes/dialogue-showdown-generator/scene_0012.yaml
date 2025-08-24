@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "The Sword of Sudden Violence"
+  setting:
+    time: "Mid-18th century, same evening moments later"
+    location: "Same luxurious interior of Lisbon house, same private chamber"
+    weather: "Calm evening, candlelight flickering with tension"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple clean shirt and trousers, now spattered with fresh blood"
+      position: "Standing over fallen body, sword dripping blood, face showing shock at own violence"
+      action: "Stares in horror at bloody sword in his hand, then at second approaching figure with desperate determination"
+    - appearance: "Wealthy Jewish banker, well-dressed middle-aged man now lying motionless"
+      clothing: "Rich merchant's attire, fine fabrics now stained with blood"
+      position: "Fallen on Persian carpet, clearly dead from sword thrust"
+      action: "Lies motionless in expanding pool of blood, victim of jealous rage"
+    - appearance: "High-ranking Catholic Inquisition official, imposing figure in religious authority"
+      clothing: "Black clerical robes, religious symbols, expression of outrage at discovering scene"
+      position: "Just entering room, freezing at sight of violence and lovers embracing"
+      action: "Mouth opens in shock and moral indignation, hand reaching for religious symbol as he recognizes the transgression"
+    - appearance: "Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing"
+      clothing: "Elegant dress, now disheveled from emotional reunion"
+      position: "Pressed against wall, watching violence with mixture of fear and calculating pragmatism"
+      action: "Eyes dart between dead lover and arriving Inquisitor, already calculating survival strategies"
+  scene:
+    mainElements: "Luxurious room now scene of sudden violence, Persian carpet stained with blood, overturned furniture from struggle, candlelight casting dramatic shadows"
+    details: "Candide's innocence shattered by necessity of violence. Blood spreads across expensive carpet showing contamination of civilized space. Cunegonde's face reveals she has survived by adapting to violent world. Inquisitor's shock at discovering his shared mistress."
+    background: "Rich interior now disheveled, religious paintings seeming to judge the scene, window showing Lisbon's fires providing appropriate backdrop to indoor violence"
+    atmosphere: "Sudden transformation from romantic reunion to brutal necessity. Candlelight now emphasizes blood and shadows rather than romance. Civilized space corrupted by primitive violence. Colors of red blood, black clerical robes, gold candlelight."
+  composition:
+    cameraAngle: "Medium wide shot capturing all figures and the violent tableau"
+    focus: "Candide's shocked face holding bloody sword, with dead body and arriving Inquisitor creating triangle of violence"
+    depth: "Foreground shows the immediate violence, middle ground the shocked participants, background the luxurious setting corrupted by blood"

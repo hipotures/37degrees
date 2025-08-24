@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient pre-Imperial ruins showing galactic civilization cycles"
+  setting:
+    time: "Galactic Standard Era 12000s, archaeological site from pre-Imperial period"
+    location: "ancient ruins on established Imperial world, remnants of previous galactic civilization from before current Empire"
+    weather: "natural atmospheric conditions with archaeological site partially exposed to elements"
+  characters:
+    - appearance: "Imperial archaeologists and researchers in 30s to 60s, academic bearing with practical field experience"
+      clothing: "field research attire adapted for archaeological work, protective equipment for handling ancient materials, documentation tools and measuring devices"
+      position: "carefully excavating ancient structures, documenting architectural details, analyzing ancient artifacts"
+      action: "cataloging ancient technologies, comparing pre-Imperial achievements with current capabilities, studying evidence of cyclical galactic civilization"
+  scene:
+    mainElements: "monumental architecture from pre-Imperial galactic civilization, advanced construction techniques unknown to current Empire, artifacts suggesting technological capabilities different from Imperial methods"
+    details: "massive stone or metal construction using unknown architectural principles, artistic designs incorporating unfamiliar symbolic systems, technological artifacts showing different approach to energy and materials than Imperial science, evidence of advanced transportation and communication systems, inscriptions in ancient languages predating Imperial records"
+    background: "archaeological site extending beyond current excavation, landscape showing layers of different historical periods, Imperial facilities established for research purposes, natural environment reclaiming ancient structures"
+    atmosphere: "cyclical nature of galactic civilization showing current Empire as latest in series of rises and falls, humbling evidence of previous advanced civilizations, archaeological mystery suggesting patterns of development and decline repeating through galactic history"
+  composition:
+    cameraAngle: "elevated perspective showing relationship between ancient ruins and current Imperial research"
+    focus: "evidence of cyclical galactic civilization and recurring patterns of rise and decline"
+    depth: "foreground archaeological details, middle ground research activities, background ancient architectural monuments"

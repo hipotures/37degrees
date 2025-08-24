@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Earth Splitting Open"
+  setting:
+    time: "Mid-18th century, morning of November 1st, 1755"
+    location: "Lisbon harbor, Portuguese capital, moments before great earthquake"
+    weather: "Clear morning suddenly turning ominous, sky darkening"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Now clean sailor's clothes from ship journey"
+      position: "On ship deck, thrown against railing as vessel lurches violently"
+      action: "Grips ship's rail desperately, face showing terror as earth moves beneath the harbor, watching city begin to collapse"
+    - appearance: "Around 50 years old, dignified man with honest, kind face befitting Dutch merchant and peaceful religious sect member"
+      clothing: "Simple but orderly dark bourgeois attire, now torn from ship's violent movement"
+      position: "Falling into churning harbor water as ship breaks apart"
+      action: "Reaches out desperately toward brutal sailor he had been trying to save, face showing Christ-like compassion even as he drowns"
+    - appearance: "Rough brutal sailor, scarred face showing lifetime of violence and cruelty"
+      clothing: "Torn sailor's garments, soaked from giant waves"
+      position: "Safe on piece of ship wreckage, watching James drown"
+      action: "Makes no effort to save his rescuer, instead focuses on his own survival with callous indifference"
+  scene:
+    mainElements: "Portuguese harbor with stone quays cracking and collapsing, ships tossed like toys by massive waves, city of Lisbon visible in background with buildings falling like dominoes"
+    details: "Earth literally splits open revealing chasms, massive tsunami wave approaches from sea, ship's mast snaps like twig. James reaches toward ungrateful sailor who ignores him. Candide watches in horror as goodness is literally swallowed by chaos."
+    background: "Lisbon's stone buildings pancaking in sequence, church towers toppling, fires beginning to spread through wreckage, people screaming and running through streets"
+    atmosphere: "Absolute apocalyptic chaos and destruction. Natural disaster revealing both human nobility (James) and callousness (sailor). Colors shift from morning blue to earthquake brown and gray, then fire orange. Sound of cracking stone, rushing water, human screams."
+  composition:
+    cameraAngle: "Wide dramatic shot capturing both the natural disaster and human drama"
+    focus: "James drowning while trying to save the brutal sailor who ignores his sacrifice"
+    depth: "Foreground shows the moral drama on sinking ship, middle ground the harbor destruction, background the city's collapse"

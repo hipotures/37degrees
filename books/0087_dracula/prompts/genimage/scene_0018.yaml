@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, deep night with full moon overhead
+    location: Castle Dracula's inner courtyard bathed in bright moonlight
+    weather: Clear night with bright full moon casting strong shadows
+  characters: No characters present in this scene
+  scene:
+    mainElements: Stone castle courtyard flooded with brilliant silver moonlight creating stark black shadows from battlements,
+      arches, and architectural details. Ancient well at center casting circular shadow. High walls creating geometric shadow
+      patterns
+    details: Moonlight bright enough to show individual stone textures and mortar lines. Sharp-edged shadows creating dramatic
+      contrast between silver-lit areas and deep black shade. Stone surfaces appearing almost luminescent in intense moonlight.
+      Iron well chain and fittings clearly visible in bright lunar illumination
+    background: Castle walls and towers silhouetted against star-filled night sky. Full moon visible overhead casting everything
+      in monochromatic silver and black
+    atmosphere: Supernatural quality of brilliant moonlight making night almost bright as day. Eerie beauty of lunar illumination
+      on ancient stone. Stark geometric patterns of light and shadow creating dramatic visual composition. Otherworldly silence
+      and stillness of deep night. No text or letters visible
+  composition:
+    cameraAngle: Ground level view across moonlit courtyard toward shadowed walls
+    focus: Dramatic moonlight and shadow patterns with emphasis on stark contrast
+    depth: Foreground moonlit flagstones, middle ground courtyard well and shadows, background castle walls against night
+      sky
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Monumentalne ruiny starożytnej architektury w stylu toskańskim - the lost Atlantis"
+  setting:
+    time: "1866, eternal night of ocean depths illuminated by volcanic fire"
+    location: "Zatopione miasto na dnie Oceanu Atlantyckiego oświetlone przez podwodny wulkan"
+    weather: "Underwater volcanic activity creating dramatic lighting and heat"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Monumentalne ruiny starożytnej architektury w stylu toskańskim z kolumnami świątyniami i budynkami pokrytymi porostami morskimi. Ancient civilization remnants including massive stone columns, temple structures, and architectural fragments that suggest a once-great city now claimed by the ocean. The ruins represent humanity's forgotten history and lost civilizations."
+    details: "Ciemne skały kontrastujące z czerwienią i pomarańczem lawy wulkanicznej oraz zielenią porostów. Pulsujące czerwonawe światło podwodnego wulkanu tworzy dramatyczne oświetlenie. Stone carvings and architectural details remain visible despite millennia underwater. Marine growth has transformed the ancient structures into artificial reefs supporting diverse sea life."
+    background: "The ruined city extends beyond vision, suggesting a civilization of considerable scope and advancement that has been lost to time and ocean."
+    atmosphere: "Majestat, tajemnica, melancholia i groza. This represents the ultimate fate of human civilizations - that even the greatest achievements can be claimed by natural forces and forgotten by history. The ruins serve as a memento mori for all human ambition."
+  composition:
+    cameraAngle: "Sweeping dramatic shot emphasizing the scale and majesty of the lost civilization"
+    focus: "The contrast between ancient human achievement and the ocean's power to reclaim it"
+    depth: "Foreground shows detailed architectural remnants and marine growth, middle ground features the major temple structures, background extends to the vast ruined cityscape"

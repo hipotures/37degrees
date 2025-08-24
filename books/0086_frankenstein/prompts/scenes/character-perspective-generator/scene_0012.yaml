@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Child's Terror - World Becomes Threatening"
+  setting:
+    time: "1780s, evening"
+    location: "Forest path near Geneva where William encounters the creature"
+    weather: "Growing dusk with shadows lengthening ominously"
+  characters:
+    - appearance: "Young child approximately 6-8 years old with fair complexion resembling family features, bright innocent eyes now wide with terror, small stature making creature appear impossibly gigantic"
+      clothing: "Child's clothing now disheveled from running, small jacket torn, white stockings muddied, shoes scuffed from frantic escape attempts"
+      posture: "Cowering posture of frightened child, trying to make himself invisible, trembling with pure terror"
+      action: "Backing away from approaching monster, crying out for parents and safety"
+    - appearance: "Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white teeth, visible surgical scars and stitching marks across body where body parts were joined together"
+      clothing: "Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel"
+      posture: "Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or threatening stance of rage"
+      action: "Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship"
+  scene:
+    mainElements: "Forest path becoming nightmare landscape through child's terrified eyes, creature appearing as giant demon from darkest fairy tales, familiar trees transformed into threatening monsters"
+    details: "Every shadow containing potential monsters, trees appearing to reach down with grasping branches, creature's massive form blocking out sky like approaching storm, child's safe world collapsing into chaos and fear, familiar forest becoming maze of terror with no escape, creature's eyes glowing like demonic fires, sounds of approaching footsteps like thunder, no text or letters visible"
+    background: "Once-friendly forest now appearing as dark enchanted woods where children are devoured by monsters"
+    atmosphere: "Complete breakdown of childhood security, world revealed as place of genuine danger where monsters are real and parents cannot protect innocence"
+  composition:
+    cameraAngle: "Child's terrified upward perspective making creature appear like mountain of nightmare"
+    focus: "Creature's frightening approach filling entire field of vision like approaching doom"
+    depth: "Foreground shows child's desperate attempt at escape, middle ground captures creature's overwhelming presence, background suggests darkness swallowing safe familiar world"

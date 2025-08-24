@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Before the Final Descent"
+  setting:
+    time: "Ancient Bronze Age Greece, deepest night"
+    location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+    weather: "Storm at its worst - howling wind, driving rain, lightning creating nightmare landscape"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing at threshold of palace doors, silhouetted against dark interior"
+      action: "Pausing at precipice between past and future, hand on door frame, body language showing terrible resolve"
+  scene:
+    mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+    details: "Figure silhouetted in doorway like specter between worlds. Storm creating chaos around still figure. Palace doors framing him like entrance to underworld. Royal garments whipping in wind but figure unnaturally still. Lightning illuminating scene intermittently, creating strobe effect. Water streaming down palace walls like tears of gods. No text or letters visible"
+    background: "Two-story stone facade with large central wooden doors flanked by smaller doors, ancient stones black with rain, lightning revealing glimpses of carved lions and griffins"
+    atmosphere: "Moment before final resolution, held breath feeling, terrible calm before ultimate action, darkness before dawn"
+  composition:
+    cameraAngle: "Wide shot showing small figure dwarfed by massive palace and raging storm"
+    focus: "The solitary figure at threshold of fate, emphasized by doorway framing and storm chaos"
+    depth: "Foreground shows storm-lashed courtyard, middle ground captures figure in doorway, background shows palace interior darkness"

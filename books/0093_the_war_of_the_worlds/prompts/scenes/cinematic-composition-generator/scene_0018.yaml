@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "High angle view showing narrator and curate trapped in ruined house"
+  setting:
+    time: "1897, during prolonged imprisonment in destroyed building"
+    location: "Partially collapsed Victorian house in Sheen district, damaged by Martian cylinder landing, basement scullery and pantry areas still intact but filled with rubble, small triangular opening in ruined wall providing view of Martian crater"
+    weather: "Variable light filtering through debris and small opening over days of confinement"
+  characters:
+    - appearance: "35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest mustache typical of Victorian professional class"
+      clothing: "Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors"
+      position: "Crouched in confined space, maintaining vigilant watch over curate's behavior"
+      action: "Rationing scarce food supplies while monitoring unstable companion and alien activity outside"
+    - appearance: "30-35 year old Anglican clergyman with weak physical bearing, pale complexion, fair almost flaxen curly hair on low forehead, large pale blue vacant eyes, receded chin, thin white hands, slender fragile frame, nervous movements"
+      clothing: "Black clerical suit or cassock with characteristic white clerical collar, black leather shoes, clothing becomes increasingly disheveled and dirty during crisis"
+      position: "Huddled in corner of confined space, showing signs of mental deterioration"
+      action: "Gradually descending into madness and selfish desperation, becoming dangerous to their survival"
+  scene:
+    mainElements: "Two men trapped in claustrophobic underground space, showing vulnerability and desperation from above"
+    details: "Cramped underground space with broken crockery, stored food supplies, dusty confined air, pile of building debris, narrow window opening facing Martian excavation site. Men reduced to primitive survival conditions, civilized veneer stripped away by extreme circumstances"
+    background: "Debris and rubble from collapsed house, small opening showing alien activity outside, domestic order completely destroyed"
+    atmosphere: "Claustrophobic prison-like confinement, stale air and dampness, constant tension from nearby alien presence, psychological pressure of close quarters with unstable companion, fear of discovery"
+  composition:
+    cameraAngle: "High angle looking down making subjects appear vulnerable and trapped"
+    focus: "Two human figures trapped in confined space showing their reduced circumstances and psychological pressure, no text or letters visible"
+    depth: "Foreground shows debris and structural damage from above, middle ground captures both men in their cramped prison, background reveals extent of destruction and confinement"

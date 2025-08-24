@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Bees hovering over hydroponic flowers in space habitat"
+  setting:
+    time: "2030s, artificial day cycle in orbital facility"
+    location: "hydroponic garden section of Zion cluster, carefully maintained growing area in zero gravity"
+    weather: "controlled atmosphere with perfect temperature and humidity for plant growth"
+  characters:
+    - appearance: "rastafarianin gardener tending to plants, gentle movements showing respect for growing things, peaceful expression reflecting spiritual connection to nature"
+      clothing: "work clothes stained with plant matter, comfortable fabrics suitable for gardening tasks, personal modifications showing creative touches"
+      position: "floating near flowering plants, anchored by grip on growing support structure"
+      action: "watching small bees navigate between colorful blossoms, maintaining careful distance to avoid disturbing pollination process"
+  scene:
+    mainElements: "flowering plants growing in hydroponic systems, small bees moving in complex flight patterns between blossoms, artificial lighting creating optimal growing conditions, water droplets from irrigation system"
+    details: "bees creating visible flight paths between flowers showing pollination activity, flower petals in various stages of bloom indicating growth cycles, moisture beads on plant leaves suggesting healthy growing conditions, pollen visible on bee bodies during flower visits, plant roots visible through transparent growing containers, no text or letters visible"
+    background: "extensive hydroponic systems with various plants at different growth stages, curved habitat walls showing agricultural areas, other community members tending distant gardens"
+    atmosphere: "peaceful cultivation environment where nature thrives in artificial setting, symbiotic relationship between human care and natural growth processes, sensory richness suggested by diversity of flowering plants"
+  composition:
+    cameraAngle: "medium shot showing bees, flowers, and observing gardener in single frame"
+    focus: "bee flight patterns and flower interaction suggesting rich floral scents through visual activity"
+    depth: "foreground showing detailed bee and flower interaction, middle ground featuring observing gardener, background revealing extensive hydroponic systems"

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Shattering of the Ideal"
+  setting:
+    time: "Mid-18th century, afternoon"
+    location: "Modest house and yard by Sea of Marmara, Turkish countryside"
+    weather: "Bright clear afternoon, harsh sunlight revealing truth"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Simple work clothes, practical attire for farm life"
+      position: "Standing frozen in courtyard, staring in shock at woman by washing tub"
+      action: "Face shows complete devastation as romantic ideal crumbles, hand reaches out tentatively then pulls back in horror and disappointment"
+    - appearance: "Young woman now 25, thin and worn, ugly and quarrelsome, bloodshot eyes, withered neck, wrinkled cheeks, dark rough skin from work"
+      clothing: "Plain working dress, servant's simple attire, hair covered with practical kerchief"
+      position: "Bent over wooden washing tub, scrubbing clothes with rough hands"
+      action: "Looks up from washing with irritation at interruption, face showing no recognition of past beauty, expression sour and unwelcoming"
+    - appearance: "70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with intelligence and resilience"
+      clothing: "Plain dark servant's dress"  
+      position: "Standing beside washing area, pointing toward Cunegonde"
+      action: "Watches with knowing expression as Candide confronts reality, face shows mixture of pity and 'I told you so' satisfaction"
+  scene:
+    mainElements: "Simple farmhouse with practical wooden furniture, yard with washing tub and work area, clothes hanging on lines, Sea of Marmara visible in background"
+    details: "Harsh afternoon light reveals every detail of Cunegonde's physical decline. Wooden washing tub and rough soap emphasize life of labor. Candide's shock is total - years of questing for idealized love end in confrontation with ordinary reality. Old Woman's knowing look shows she expected this."
+    background: "Turkish countryside with olive trees, view of sea, Constantinople visible as distant haze, other farm buildings, practical rural setting"
+    atmosphere: "Brutal revelation destroying final romantic illusion. Clear light shows truth without mercy. Colors of brown earth, gray washing water, faded work clothes. End of quest revealing quest's object was illusion."
+  composition:
+    cameraAngle: "Medium shot capturing Candide's shock, Cunegonde's transformation, and Old Woman's knowing presence"
+    focus: "The devastating contrast between Candide's expectations and reality of Cunegonde's appearance and attitude"
+    depth: "Foreground shows the immediate shock of recognition, middle ground the humble farm setting, background the ordinary countryside representing acceptance of reality"

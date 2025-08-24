@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Council Rock Overlook"
+  setting:
+    time: "19th Century India, night"
+    location: "Council Rock, a hilltop in the Seeonee jungle, covered with bare rocks and boulders."
+    weather: "A clear night under a full moon."
+  characters:
+    - appearance: "A young boy, around 7 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled hair. Wears a simple loincloth made of woven leaves or animal hide."
+      clothing: "Wears a simple loincloth made of woven leaves or animal hide."
+      position: "Sitting at the feet of Akela on the main rock."
+      action: "Watching the proceedings of the wolf pack with a sense of belonging. He is now part of the pack, and it is his family."
+    - appearance: "A 'great, gray Lone Wolf' who leads the pack through strength and cunning."
+      clothing: "None"
+      position: "Seated majestically on the large rock, with Mowgli at his feet."
+      action: "Leading the pack with a calm and confident authority. His presence commands respect."
+  scene:
+    mainElements: "A scene showing the established relationship between Mowgli and the wolf pack. He is no longer an outsider, but an accepted member."
+    details: "The pack is gathered, but the atmosphere is not one of tension, but of routine. Mowgli is comfortable and at ease among the wolves. The moonlight illuminates the scene, creating a sense of peace and order. no text or letters visible"
+    background: "The dark jungle stretches out below the hill."
+    atmosphere: "A sense of belonging, order, and family. Mowgli has found his place in the world. no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot, focusing on Mowgli and Akela on the main rock."
+    focus: "The easy familiarity and bond between the boy and the old wolf."
+    depth: "Foreground: the heads of some of the wolves in the pack. Middle ground: Mowgli and Akela. Background: the moonlit jungle."

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: March 1897, late afternoon during final confrontation
+    location: Victorian seaside town streets near English coast where invisible man is cornered
+    weather: Bright afternoon sunlight making violence starkly visible
+  characters:
+  - appearance: Crowd of townspeople with mixed expressions of triumph, horror, and uncertainty
+    clothing: Various Victorian garments now disheveled from violent struggle
+    position: Surrounding scene of final confrontation in loose circle
+    action: Some celebrating victory, others recoiling from violence, all staring at same central point with different emotional
+      responses
+  scene:
+    mainElements: Central focus where invisible man has been cornered, crowd showing simultaneous reactions of triumph and
+      horror, same event interpreted differently by different groups
+    details: Some faces showing satisfaction at justice served, others displaying shock at brutal violence, working-class
+      participants viewing as necessary action while middle-class observers show distress
+    background: Cobblestone streets, Victorian brick buildings, shop fronts with large windows, lampposts, pedestrians in
+      period dress
+    atmosphere: Single violent event creating multiple simultaneous emotional responses, community divided between satisfaction
+      and horror, victory tainted by brutality
+  composition:
+    cameraAngle: Medium shot showing varied crowd reactions to same event
+    focus: Different interpretations of same violent conclusion
+    depth: Foreground shows contrasting facial expressions, middle ground captures crowd dynamics, background provides social
+      context, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

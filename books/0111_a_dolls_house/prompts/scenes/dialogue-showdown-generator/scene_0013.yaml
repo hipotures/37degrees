@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Wild Tarantella - Dancing on the Edge"
+  setting:
+    time: "1879, Boxing Day evening"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Night falling, lamp-lit interior"
+  characters:
+    - appearance: "Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła build"
+      clothing: "Barwna wielowarstwowa neapolitańska rybaczka costume with krótka spódnica, gorset, biała bluzka, and duży czarny szal for dancing, ludowy włoski style"
+      position: "Center of room, spinning wildly, hair partially loose from pins"
+      action: "Gwałtowne nieskładne movements, ciało expressing desperacja through taniec, wirujące actions with czarny szal, dancing with increasing frenzy"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The elegant salon is transformed into a stage for desperate performance. The tarantella becomes a frenzied attempt to expel poison - both literally (according to legend) and metaphorically (her lies and fear). Her costume's bright colors flash through the room as she spins out of control."
+    background: "Dramatic shadows cast by lamp light, creating chiaroscuro effect that emphasizes her psychological state"
+    atmosphere: "Fevered desperation masked as entertainment. The dance becomes a physical manifestation of her internal chaos and panic."
+  composition:
+    cameraAngle: "Dynamic shots following her spinning movement, creating sense of disorientation"
+    focus: "Nora's wild spinning form, the black shawl creating dramatic shapes in motion"
+    depth: "Foreground: Nora's frenzied dance filling the frame. Middle ground: The room spinning around her. Background: Shadows and light creating dramatic patterns."

@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, night
+    location: An abandoned, ruined city deep in the heart of the jungle, now inhabited by the Bandar-log (Monkey-People).
+    weather: A still, moonlit night.
+  characters:
+  - appearance: A young boy, around 7 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled
+      hair. Wears a simple loincloth made of woven leaves or animal hide.
+    clothing: Wears a simple loincloth made of woven leaves or animal hide.
+    position: Held captive in a roofless, marble pavilion.
+    action: Watching the chaotic antics of the monkeys with a mixture of contempt and fear. He is a prisoner in a city of
+      fools.
+  - appearance: A chaotic, chattering mass of monkeys (langurs).
+    clothing: None
+    position: Swarming over the ruins of the city.
+    action: Engaged in pointless, chaotic activity - pretending to be human, fighting over nothing, and making a great deal
+      of noise. They are a picture of a society without law or memory.
+  scene:
+    mainElements: Mowgli's imprisonment in the Cold Lairs. The scene establishes the character of the Bandar-log and the nature
+      of their city.
+    details: The ruins are eerily beautiful in the moonlight. A 'great palace without a roof' stands on a hill, with courtyards
+      of cracked marble. Moonlight streams through ornate marble latticework, casting shadows like 'black velvet embroidery.'
+      no text or letters visible
+    background: The dark, silent jungle surrounds the noisy, chaotic city.
+    atmosphere: Eerily beautiful in its decay. A place of death, forgetfulness, and anarchy. The senseless noise of the monkeys
+      contrasts with the silent majesty of the ruins. no text or letters visible
+  composition:
+    cameraAngle: Wide shot, showing the scale of the ruined city and the chaos of the monkeys within it.
+    focus: The lonely figure of Mowgli, a captive in the midst of the chaos.
+    depth: 'Foreground: the swarming monkeys. Middle ground: Mowgli in his marble prison. Background: the ruined palace and
+      the jungle beyond.'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

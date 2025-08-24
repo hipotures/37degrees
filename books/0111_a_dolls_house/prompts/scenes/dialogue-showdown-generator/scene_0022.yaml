@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Eyes of Awakening - Nora's Realization"
+  setting:
+    time: "1879, Boxing Day late night after the ball"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Cold winter night"
+  characters:
+    - appearance: "Woman aged 28-30 years, composed and zdecydowana expression, opanowana postawa"
+      clothing: "Still in her Barwna wielowarstwowa neapolitańska rybaczka costume with krótka spódnica, gorset, biała bluzka, and duży czarny szal for dancing, ludowy włoski style, but now looking costume-like and false"
+      position: "Standing perfectly still, facing Torvald's rage with newfound clarity"
+      action: "Eyes showing profound realization - seeing her husband clearly for the first time, expression shifting from shock to understanding to quiet determination"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "Her bright costume now looks grotesque in this moment of truth, emphasizing how she has been playing a role. The comfortable salon frames her moment of awakening as she sees her marriage and her husband with complete clarity for the first time."
+    background: "The bourgeois interior witnesses her psychological transformation"
+    atmosphere: "Profound stillness as illusions fall away. Her awakening is quiet but revolutionary - she is seeing the truth of her situation with devastating clarity."
+  composition:
+    cameraAngle: "Extreme close-up on Nora's eyes showing the moment of realization"
+    focus: "The profound change in her expression as illusions dissolve and truth becomes visible"
+    depth: "Foreground: Nora's awakening consciousness. Middle ground: The space between her and her raging husband. Background: The comfortable lies of their domestic life."

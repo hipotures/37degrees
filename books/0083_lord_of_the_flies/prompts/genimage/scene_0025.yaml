@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: A naval cruiser, looking back at the island.
+    weather: The sky is clear, but a column of smoke is rising from the island.
+  characters:
+  - name: No characters present in this scene
+  scene:
+    mainElements: The final, terrifying image of the island. The evil that was unleashed
+      there has left its mark on the world.
+    details: From the distance of the naval cruiser, the smoke rising from the burning
+      island forms the shape of a monstrous, demonic face. It is the face of the beast,
+      the Lord of the Flies, a permanent scar on the landscape. The face is subtle
+      at first, but once seen, it cannot be unseen. It is a final, terrifying reminder
+      of the darkness that lies within the human heart.
+    background: The calm, blue ocean. The naval cruiser is sailing away, back towards
+      the world of civilization.
+    atmosphere: 'A deeply unsettling and ambiguous final scene. The boys have been
+      rescued, but the evil remains. The world of civilization is sailing away, but
+      it is taking the darkness with it. The final image is a question: has anything
+      really been resolved?'
+  composition:
+    cameraAngle: A long, wide shot from the deck of the naval cruiser, looking back
+      at the island.
+    focus: The demonic face that is forming in the column of smoke.
+    depth: 'Foreground: The railing of the naval cruiser. Middle ground: The ocean.
+      Background: The burning island and the smoke-face.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

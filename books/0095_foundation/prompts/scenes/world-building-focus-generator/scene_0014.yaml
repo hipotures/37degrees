@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Foundation scientific symbols and equations displayed in research center"
+  setting:
+    time: "Galactic Standard Era 12000s, research working hours"
+    location: "Foundation research center on Terminus, walls displaying scientific knowledge and mathematical principles"
+    weather: "controlled research environment with optimal lighting for detailed work"
+  characters:
+    - appearance: "Foundation researchers and mathematicians in 20s to 50s, intellectual bearing combined with practical frontier attitude, diverse backgrounds from various academic fields"
+      clothing: "simple work attire suitable for research activities, practical lab coats with useful pockets, minimal ornamentation emphasizing function over status"
+      position: "studying wall displays of mathematical formulas, collaborating on theoretical problems, reviewing scientific data"
+      action: "analyzing psychohistorical equations, discussing theoretical implications, updating mathematical models, teaching younger researchers"
+  scene:
+    mainElements: "extensive wall displays of mathematical equations and scientific principles, research workstations with analytical equipment, collaborative spaces for theoretical discussion, symbols representing advancement of human knowledge"
+    details: "complex psychohistorical equations covering wall surfaces, atomic and nuclear symbols integrated with mathematical formulas, research notes and theoretical diagrams showing work in progress, simple but effective furniture designed for long intellectual work sessions, reference materials and scientific instruments reflecting serious academic pursuit"
+    background: "research facility extending through multiple connected rooms, windows showing Terminus landscape, library areas with accumulated scientific knowledge, communication equipment linking to other research centers"
+    atmosphere: "intellectual pursuit replacing Imperial ceremony, scientific method as foundation of cultural identity, practical application of advanced knowledge for human benefit, collaborative scholarship transcending individual authority"
+  composition:
+    cameraAngle: "eye-level perspective showing relationship between researchers and mathematical knowledge"
+    focus: "scientific symbols and intellectual culture of Foundation society"
+    depth: "foreground detailed equations and symbols, middle ground researcher activities, background scientific infrastructure"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Near future, bright classroom lighting with institutional atmosphere
+    location: Educational facility or training center for children in Gilead territory
+    weather: Indoor setting with clean, controlled artificial lighting
+  characters:
+  - appearance: Young children in identical uniforms performing synchronized movements under adult supervision
+    clothing: Simple matching outfits appropriate for their age and future caste assignment, all perfectly identical
+    position: Arranged in orderly rows facing an instructor or authority figure
+    action: Practicing identical gestures, poses, or ritual movements in perfect synchronization
+  - appearance: Adult instructor in Aunt uniform directing the children's activities
+    clothing: Standard brown Aunt dress representing state educational authority
+    position: Standing at front of room directing the synchronized activities
+    action: Leading the children through prescribed movements and monitoring their conformity
+  scene:
+    mainElements: Classroom designed for indoctrination rather than education, with children learning state-approved behaviors
+      and responses through repetitive practice
+    details: Children perform identical movements like raising hands, bowing heads, or reciting gestures in perfect unison.
+      Educational materials show only approved content - religious imagery, state symbols, caste role models. No creative
+      or individual expression is visible. The room is designed for conformity with identical desks arranged in perfect rows.
+    background: Institutional educational architecture with standardized furniture, approved posters showing proper behavior,
+      and observation windows for supervision
+    atmosphere: Systematic programming of young minds to eliminate individual thought and replace it with state-approved conformity
+  composition:
+    cameraAngle: Classroom view showing the mass of children performing identical actions
+    focus: The synchronized movements of multiple children dominates the frame
+    depth: Children in synchronized formation in foreground and middle ground, institutional classroom architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

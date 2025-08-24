@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "World of Giants Through Childlike Wonder"
+  setting:
+    time: "January 2021, morning"
+    location: "Post-nuclear war San Francisco with decaying brutalist conapt buildings under permanently gray radioactive dust-filled sky"
+    weather: "Gray radioactive dust creating mysterious filtered light"
+  characters:
+    - appearance: "Small figure dwarfed by enormous adult environment, wide eyes reflecting wonder and fear"
+      clothing: "Oversized protective clothing against radiation, too large for small frame"
+      position: "Looking upward at towering world designed for giants"
+      action: "Navigating environment where everything appears magnified and threatening"
+  scene:
+    mainElements: "Towering half-abandoned residential complexes, empty streets covered in kipple debris, dim diffused sunlight through dust clouds. Through child perspective, buildings become mountains reaching impossible heights, streets transform into vast canyons between concrete cliffs"
+    details: "Every architectural element looms overhead like natural formations - doorways become cave entrances, windows transform into watchful eyes in cliff faces, abandoned vehicles appear as giant sleeping beasts. Kipple debris creates mysterious landscape of strange artifacts and hidden treasures. Adult protective equipment hangs loose and awkward, emphasizing vulnerability in hostile environment. The gray dust makes everything appear magical and otherworldly rather than merely polluted"
+    background: "Overwhelming grayness with entropy, melancholia and abandonment transformed into mystical landscape of wonder and danger"
+    atmosphere: "World appearing larger, more magical and frightening than adult perspective. Every shadow holds potential monsters, every sound suggests hidden giants, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from child's eye level making everything appear gigantic and imposing"
+    focus: "Towering architectural elements creating sense of overwhelming scale and mysterious grandeur"
+    depth: "Foreground shows small vulnerable figure in oversized world, middle ground captures imposing environmental features, background extends into mysterious distances beyond child comprehension"

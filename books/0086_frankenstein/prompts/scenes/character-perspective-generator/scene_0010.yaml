@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Creature's Mirror Moment - Self as Tragic Hero"
+  setting:
+    time: "1780s, moonlit night"
+    location: "Forest pool reflecting moonlight like natural mirror"
+    weather: "Clear still night with full moon overhead"
+  characters:
+    - appearance: "Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white teeth, visible surgical scars and stitching marks across body where body parts were joined together"
+      clothing: "Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel"
+      posture: "Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or threatening stance of rage"
+      action: "Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship"
+  scene:
+    mainElements: "Creature kneeling beside forest pool, moonlight revealing his reflection in still water, surrounding trees creating natural cathedral of solitude"
+    details: "Creature seeing himself not as monster but as tragic figure worthy of sympathy, moonlight transforming his fearsome features into marks of noble suffering, reflection showing being capable of profound thought and feeling despite hideous exterior, forest pool becoming mirror of self-examination where creature recognizes his own worth despite world's judgment, scars and stitches appearing as badges of unique creation rather than deformity, eyes revealing depths of intelligence and emotion that humans refuse to acknowledge, no text or letters visible"
+    background: "Ancient forest providing sanctuary where creature can contemplate his nature without human interference"
+    atmosphere: "Moment of self-recognition and tragic dignity, creature understanding himself as protagonist of his own story despite world's determination to cast him as villain"
+  composition:
+    cameraAngle: "Creature's own perspective looking down at reflection that reveals his true noble nature"
+    focus: "Moonlit reflection showing being of worth and intelligence rather than mere monster"
+    depth: "Foreground shows creature's contemplative pose, middle ground captures meaningful reflection, background suggests vast world that fails to understand his value"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Cyclops Cave of Ancient Terror"
+  setting:
+    time: "Night, remote island cave"
+    location: "Large natural cave dwelling of monstrous giant with evidence of cannibalistic habits"
+    weather: "Interior cave lit by massive bonfire with smoke filtering through cave openings"
+  characters:
+    - appearance: "Enormous humanoid creature with single eye in center of forehead, massive muscular build covered in coarse hair, fearsome teeth and claws, primitive but intelligent features"
+      clothing: "Animal skins and crude garments befitting primitive giant, bone ornaments indicating cannibalistic nature"
+      position: "Sprawled beside roaring fire in dominant position"
+      action: "Sleeping heavily after meal, massive chest rising and falling, occasionally stirring restlessly"
+    - appearance: "Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long white beard, face marked by adventure and wisdom, alert eyes scanning horizon"
+      clothing: "Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with purse"
+      position: "Confident stance of experienced sailor, hands often gesturing as if describing vast distances"
+      action: "Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully"
+  scene:
+    mainElements: "Large cave chamber with high rocky ceiling, massive bonfire casting dancing shadows, human bones and remains scattered around cave floor, primitive tools and weapons"
+    details: "Flickering flames revealing gruesome cave decorations, charred human bones near fire pit, crude stone tools and wooden clubs, animal hides covering cave floor, smoke rising through natural chimney in cave ceiling, iron cooking spits with disturbing evidence of cannibalism, no text or letters visible"
+    background: "Cave passages leading deeper underground, night sky visible through cave entrance, distant sound of ocean waves"
+    atmosphere: "Primal terror and cannibalistic horror, crackling fire casting menacing shadows, stench of burnt flesh and primitive dwelling, sense of being trapped with monstrous predator"
+  composition:
+    cameraAngle: "Low angle showing massive scale of sleeping giant"
+    focus: "Monstrous cyclops dominating cave with hidden human figures planning escape"
+    depth: "Fire and bones in foreground, sleeping giant in center, dark cave depths in background"

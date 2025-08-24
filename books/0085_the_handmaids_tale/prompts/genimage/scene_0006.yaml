@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Near future, overcast day with diffused gray light
+    location: Urban street corner in residential district of Gilead territory
+    weather: Cloudy sky creating even, shadowless illumination
+  characters:
+  - appearance: Few citizens visible in background, their body language showing subtle awareness of being monitored
+    clothing: Standard caste uniforms - red, blue, brown, and black - all perfectly maintained
+    position: Walking past the surveillance area with controlled, careful movements
+    action: Moving through the space with measured steps and neutral expressions, avoiding lingering or suspicious behavior
+  scene:
+    mainElements: Multiple surveillance cameras mounted at various heights and angles, creating overlapping fields of observation
+      throughout the street intersection
+    details: High-tech cameras with rotating mechanisms and zoom capabilities positioned on light poles, building corners,
+      and dedicated surveillance posts. Digital displays show rotating messages like Under His Eye and Blessed Be The Fruit.
+      The cameras feature the Eye of God symbol prominently displayed. Monitoring equipment is clean, new, and obviously well-maintained.
+    background: Urban infrastructure designed around surveillance needs with clear sight lines and minimal hiding spots, buildings
+      positioned to eliminate blind spots in camera coverage
+    atmosphere: Pervasive sense of being watched and monitored, the visible surveillance creating psychological pressure on
+      anyone moving through the space
+  composition:
+    cameraAngle: Eye-level view showing multiple surveillance devices from a citizen's perspective
+    focus: The various surveillance cameras and monitoring devices dominating the visual field
+    depth: Surveillance equipment in foreground and middle ground, monitored citizens moving in background under watchful
+      observation
+visualElements:
+  colorPalette:
+    primary:
+    - industrial gray
+    - pollution brown
+    - warning red
+    secondary:
+    - sickly yellow
+    - toxic green
+    - deep black
+    background: polluted skies, industrial wastelands, oppressive architecture
+    usageNotes: Muted, polluted colors suggesting environmental and social decay
+    saturation: low to medium (desaturated, lifeless)
+    contrast: high (harsh, oppressive contrasts)
+  lineArt:
+    style: harsh, angular lines suggesting oppression
+    weight: heavy, imposing
+    color: dark, oppressive outlines
+    texture: rough, industrial surfaces
+    edgeTreatment: sharp, threatening edges
+  lighting:
+    type: harsh artificial lighting or dim oppressive atmosphere
+    direction: overhead surveillance lighting or dim ambient
+    intensity: either blindingly harsh or oppressively dim
+    shadows:
+      style: deep, threatening shadows
+      color: black or dark gray
+      opacity: heavy, oppressive
+    highlights: harsh spotlights or warning lights
+  rendering:
+    technique: gritty, realistic with industrial textures
+    texture: rust, corrosion, pollution, decay
+    detailLevel: high (showing decay and oppression)
+    finish: matte, worn, deteriorated
+  perspective: low angles emphasizing oppressive scale
+  mood:
+    overall: oppressive, hopeless, threatening
+    emotion: fear, despair, resistance
+    tempo: heavy, oppressive
+    keywords:
+    - oppressive
+    - hopeless
+    - threatening
+    - decayed
+    - authoritarian
+  stylePrecedents:
+  - 1984 totalitarian imagery
+  - Mad Max post-apocalyptic world
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

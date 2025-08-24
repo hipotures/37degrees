@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Birthday Gift - Anne Receives Her Diary"
+  setting:
+    time: "June 12, 1942, morning"
+    location: "Frank family home, Merwedeplein Amsterdam, Netherlands during German occupation"
+    weather: "Bright summer morning light streaming through windows"
+  characters:
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+      position: "Sitting at breakfast table, reaching for wrapped presents"
+      action: "Opening birthday presents with excitement, focusing on the checkered diary"
+  scene:
+    mainElements: "Bright morning kitchen scene with birthday presents on table, young girl unwrapping gifts with family watching"
+    details: "Notatnik w twardej oprawie, charakterystyczna drobna kratka w kolorach czerwonym i białym, format zbliżony do A5, mały metalowy zameczek z kłódką i kluczykiem lies prominently among other gifts. Breakfast dishes, opened wrapping paper, family gathered around table"
+    background: "Comfortable Amsterdam apartment interior with large windows, family photographs on walls"
+    atmosphere: "Joy and normalcy of a thirteenth birthday celebration, unaware of coming darkness, last moment of carefree childhood"
+  composition:
+    cameraAngle: "Close-up on Anne's hands holding the diary for the first time"
+    focus: "The red and white checkered diary as the central object of future significance"
+    depth: "Foreground: Anne's hands and diary, middle: family faces watching, background: sunny apartment interior"

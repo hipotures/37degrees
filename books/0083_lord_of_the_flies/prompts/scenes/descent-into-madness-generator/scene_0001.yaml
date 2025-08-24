@@ -1,0 +1,38 @@
+sceneDescription:
+  title: "The Wreckage and the Beckoning Shell"
+  setting:
+    time: "Mid-20th Century, daytime"
+    location: "A long, crescent-shaped beach of pinkish sand on a tropical island, fringed with palm trees. A calm, turquoise lagoon is protected from the open ocean by a coral reef."
+    weather: "Hot, humid, with a clear blue sky."
+  characters:
+    - id: "ralph"
+      name: "Ralph"
+      description_block: |
+        characters:
+          - name: "Ralph"
+            age: "12"
+            appearance: "A fair-haired boy, tall for his age, with a confident and athletic build. His face is open and freckled, with a natural leader's charisma."
+            clothing: "Wears the tattered remains of a grey school shirt and shorts, becoming progressively more worn and dirty."
+            posture: "Stands tall and assertive, often holding the conch, but gradually shows more tension and weariness."
+      position: "Standing in the shallow water of the lagoon."
+      action: "Blowing into a large conch shell, producing a deep, resonant sound."
+    - id: "piggy"
+      name: "Piggy"
+      description_block: |
+        characters:
+          - name: "Piggy"
+            age: "12"
+            appearance: "A short, overweight boy with thinning hair. He is asthmatic and wears thick spectacles."
+            clothing: "Wears a greasy windbreaker, shorts, and scuffed shoes. His clothes are ill-fitting and rumpled."
+            posture: "Often hunched over, polishing his glasses, or holding his stomach. His movements are clumsy and hesitant."
+      position: "Standing on the beach near Ralph, looking on with a mixture of awe and anxiety."
+      action: "Watching Ralph, holding his breath."
+  scene:
+    mainElements: "The dominant element is the scar left by the crashed plane - a long, ugly gash of broken trees and churned earth that cuts through the jungle and onto the beach. In the foreground, Ralph is using the conch to call the other survivors."
+    details: "The conch shell is pristine, almost glowing, a stark contrast to the destruction of the plane scar. The sound wave from the conch is visualized as a subtle, shimmering distortion in the air. The shadows of the palm trees seem unnaturally long and sharp."
+    background: "The dense, dark jungle looms behind the beach. Far out in the lagoon, the coral reef is visible. The sky is empty of any sign of civilization."
+    atmosphere: "A strange mix of idyllic paradise and recent, violent trauma. There is a sense of hope and order being established, but the scar serves as a constant, unsettling reminder of the chaos that brought them here."
+  composition:
+    cameraAngle: "Low angle shot, looking up at Ralph to give him a heroic stature, but with the plane scar looming ominously in the background."
+    focus: "The gleaming conch shell in Ralph's hands, and the distorted air around it."
+    depth: "Foreground: Piggy watching. Middle ground: Ralph blowing the conch. Background: The plane scar and the jungle."

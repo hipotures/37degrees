@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, night, minimal artificial lighting
+    location: Interior of prison transport vehicle traveling through Orgoreyn wilderness toward labor camp
+    weather: Cold winter night, snow falling outside vehicle
+  characters:
+  - appearance: Twenty-seven prisoners of various ages and backgrounds, naked bodies pressed together for warmth, showing
+      effects of arrest and processing
+    clothing: No clothing, bodies arranged for maximum heat conservation according to survival instinct
+    position: Crowded together in metal cargo compartment, organized by physical needs for warmth rather than social hierarchy
+    action: Maintaining body heat through physical contact, protecting weakest members by placing them in center of group,
+      sharing breath and warmth as biological survival response
+  - appearance: Transport guards visible only briefly during loading and unloading, professional military bearing
+    clothing: Standard prison transport uniforms with winter protection
+    position: Separated from prisoners in heated driver compartment
+    action: Operating vehicle according to transport protocols without emotional engagement with cargo
+  scene:
+    mainElements: Unheated metal cargo compartment designed for efficient prisoner transport, minimal lighting revealing mechanical
+      interior, small ventilation openings, locked doors with external controls
+    details: Efficient transport system operating according to institutional specifications, human cargo arranged by physical
+      necessity rather than emotional relationship, mechanical sounds of vehicle operation, cold metal surfaces, condensation
+      from human breath, no text or letters visible
+    background: Winter landscape passing outside vehicle, distant lights of administrative facilities, snow accumulating on
+      vehicle exterior
+    atmosphere: Institutional efficiency operating independently of human suffering - transport system functioning according
+      to mechanical specifications while human cargo adapts through biological survival responses
+  composition:
+    cameraAngle: Neutral documentation angle showing complete transport system operation
+    focus: Contrast between mechanical efficiency of institutional system and biological adaptation of human cargo
+    depth: 'Foreground: human survival responses, middle: transport vehicle interior, background: administrative infrastructure
+      passing outside'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

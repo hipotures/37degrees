@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crowd Perspective - Collective Horror at Violent Scene"
+  setting:
+    time: "1880s night, immediate aftermath of street violence"
+    location: "London street where crowd gathers around scene of confrontation"
+    weather: "Cold night air heightening tension and collective shock"
+  characters:
+    - appearance: "Multiple Victorian-era bystanders of various social classes"
+      clothing: "Mix of working-class and middle-class evening attire, coats and shawls"
+      position: "Gathered in loose circle around central scene, maintaining cautious distance"
+      action: "Pointing, whispering, backing away in collective revulsion and fear"
+  scene:
+    mainElements: "Street scene becomes focal point for collective crowd psychology - gas lamp illuminating central area where violence occurred, cobblestones showing evidence of incident, crowd forming protective barrier around perimeter"
+    details: "Crowd behavior showing shared human response to violence - children being shielded behind adults, women covering faces with handkerchiefs, men removing hats in respect, collective intake of breath expressing shared horror"
+    background: "London street architecture providing gathering space for crowd, building facades with windows showing additional observers, lamplight creating theatrical stage for collective witness"
+    atmosphere: "Shared horror uniting diverse social classes in common human response, cold night air carrying collective whispers and gasps, universal recognition of evil witnessed together, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing collective crowd reaction from multiple social perspectives"
+    focus: "Shared human response to witnessing violence, transcending individual differences"
+    depth: "Foreground shows immediate crowd reaction, middle ground captures central scene, background reveals additional observers in windows and doorways"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "A Moment of Lucidity"
+  setting:
+    time: "Late 19th Century, a fleeting moment"
+    location: "A stark, white, empty room."
+    weather: "A single, harsh light from above."
+  characters:
+    - appearance: "Charles Marlow, as he is now, older and wearier."
+      clothing: "Simple, plain clothes."
+      position: "Sitting on a simple wooden chair in the center of the room."
+      action: "He is looking directly at the viewer, his face a mask of heartbreaking clarity. He is fully aware of the horror he has witnessed and the darkness that now resides within him."
+  scene:
+    mainElements: "A brief, shocking moment of pure, unadulterated reality. A break from the expressionistic chaos of the rest of the story."
+    details: "The room is completely empty, with no furniture or decorations. The walls are a stark, clinical white. The only object in the room is the chair Marlow is sitting on. The silence is absolute. This is the terrible, simple truth at the heart of the darkness. no text or letters visible"
+    background: "White, empty walls."
+    atmosphere: "A moment of heartbreaking tragedy. The clarity of the scene makes the horror of Marlow's situation even more profound. He is a man who has seen too much and can never go back. no text or letters visible"
+  composition:
+    cameraAngle: "A direct, eye-level shot, as if the viewer is standing directly in front of Marlow."
+    focus: "Marlow's eyes, which are filled with a terrible, lucid despair."
+    depth: "A flat, two-dimensional composition, emphasizing the stark, clinical nature of the scene."

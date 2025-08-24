@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1897, bright summer morning
+    location: Open heathland in Surrey England, sandy soil with scattered pine and birch groves, purple heather covering rolling
+      terrain, old sand-pits creating natural depressions in landscape, public common land on edge of Victorian suburbs near
+      Woking
+    weather: Clear sunny morning with gentle summer breeze
+  characters: No characters present in this scene
+  scene:
+    mainElements: Expansive heathland with clusters of pine trees, sandy patches between heather growth, natural amphitheater
+      of old sand workings, footpaths crossing common used by local residents
+    details: Rolling terrain covered in purple blooming heather, scattered groves of dark green pine and silver birch trees,
+      sandy excavations from old sand-pit workings creating natural depressions, well-worn public footpaths crisscrossing
+      the common, distant view of Victorian suburban houses on horizon
+    background: Woking's Victorian villas and church spires visible on distant horizon, railway line marked by telegraph poles,
+      peaceful English countryside extending beyond
+    atmosphere: Peaceful English countryside setting, warm summer air filled with buzzing insects and birdsong, sense of rural
+      tranquility near civilized suburbs that will be shattered by alien arrival. Perfect embodiment of Victorian England's
+      pastoral beauty and security
+  composition:
+    cameraAngle: Extreme wide shot from elevated position showing vast scale of heathland
+    focus: Central sand-pit depression where alien cylinder will soon land, framed by heather-covered slopes, no text or letters
+      visible
+    depth: Foreground shows detailed heather and sandy soil texture, middle ground reveals the fateful sand-pit crater-to-be,
+      background shows distant suburban civilization appearing small and vulnerable
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

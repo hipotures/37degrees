@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Discovery of the Encrypted Manuscript in the Study"
+  setting:
+    time: "1863, late afternoon"
+    location: "Professor Lidenbrock's study at Königstrasse 19 in Hamburg, German Confederation, scholarly sanctuary filled with geological specimens and scientific instruments"
+    weather: "Overcast spring day with filtered light through windows"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+  scene:
+    mainElements: "Gothic disorder of dark wooden shelves groaning under weight of books and scientific volumes, mineral specimens arranged on surfaces, brass instruments scattered across massive oak desk"
+    details: "Ancient yellowed parchment bearing runic inscriptions in dark ink, brittle with age, angular mysterious symbols arranged in cryptic pattern, key to underground passage. Professor's fingers trace rough texture of parchment surface while Axel recoils from brittle edges crumbling at slightest pressure, dust particles rising from disturbed manuscript creating visible trails in afternoon light, temperature contrast between warm human touch and cool ancient document, no text or letters visible"
+    background: "Intellectual intensity pervading cramped space, dust motes dancing in filtered gaslight, shadows cast by flickering flames creating mysterious ambiance around scientific treasures"
+    atmosphere: "Tactile discovery moment where touch reveals hidden knowledge, physical sensation of ancient secrets transmitted through fingertips, temperature and texture contrasts emphasizing age and fragility of archaeological find"
+  composition:
+    cameraAngle: "Close-up focusing on hands interacting with manuscript"
+    focus: "Fingertips making contact with parchment surface, showing texture and temperature differences"
+    depth: "Foreground shows detailed hand-manuscript interaction, middle ground captures facial reactions, background dissolves into scholarly clutter"

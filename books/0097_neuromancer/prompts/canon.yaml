@@ -1,0 +1,116 @@
+canon:
+  characters:
+    - id: "case"
+      name: "Henry Dorsett Case"
+      description_block: |
+        characters:
+          - appearance: "24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet, pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible at temples"
+            clothing: "worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive lifestyle"
+            position: "standing at console interface or seated in cramped hotel pod"
+            action: "connecting neural cables to interface sockets, fingers dancing across keyboard, eyes unfocused as consciousness enters cyberspace"
+
+    - id: "molly"
+      name: "Molly Millions"
+      description_block: |
+        characters:
+          - appearance: "tall athletic woman in late twenties, pale skin stretched over lean muscle, dark hair cropped short, surgically implanted mirrored lenses covering entire eye sockets like permanent sunglasses reflecting world back at observer, four-centimeter retractable scalpel blades hidden beneath fingernails"
+            clothing: "form-fitting black leather garments designed for combat mobility, reinforced synthetic fabric suit with hidden pockets for weapons, soft-soled boots for silent movement, everything in matte black"
+            position: "crouched in predatory stance or moving with fluid deadly grace"
+            action: "extending razor blades from fingertips, scanning environment through enhanced mirrored vision, moving through shadows with enhanced reflexes"
+
+    - id: "armitage"
+      name: "Armitage/Colonel Willis Corto"
+      description_block: |
+        characters:
+          - appearance: "man in late thirties with military bearing, handsome features that seem artificial like a mask, unnaturally calm expression, piercing blue eyes that appear inhuman, physically reconstructed after severe battlefield injuries, no visible scars but subtle wrongness suggesting extensive surgery"
+            clothing: "expensive conservative business suits in dark colors, crisp white shirts, understated ties, polished leather shoes, clothing as costume projecting corporate authority and control"
+            position: "standing at attention or seated behind desk in position of command"
+            action: "delivering precise instructions with military efficiency, maintaining emotionless facade that occasionally cracks under stress"
+
+    - id: "riviera"
+      name: "Peter Riviera"
+      description_block: |
+        characters:
+          - appearance: "androgynous figure appearing eternally youthful through extensive cosmetic surgery, artificially beautiful in disturbing way, pale skin, features perfected to unsettling symmetry, cold calculating eyes, slender build suggesting fragility that conceals cruelty"
+            clothing: "flamboyant performance attire including flowing fabrics in rich colors, artistic garments that suggest both beauty and decadence, clothing chosen for dramatic effect during holographic displays"
+            position: "posed theatrically as if on stage or positioned to maximize visual impact"
+            action: "projecting complex holographic illusions directly into minds of observers, creating grotesque beauty that shifts between attraction and revulsion"
+
+    - id: "3jane"
+      name: "Lady 3Jane Marie-France Tessier-Ashpool"
+      description_block: |
+        characters:
+          - appearance: "young woman in early twenties with aristocratic bearing, clone-perfect features showing signs of genetic optimization, pale translucent skin from artificial environment living, ice-cold beauty that suggests centuries of refined breeding, eyes holding ancient weariness despite youthful face"
+            clothing: "avant-garde garments mixing historical periods and futuristic design, rich fabrics in deep colors, unique pieces from private collections, clothing reflecting access to unlimited resources and contempt for conventional fashion"
+            position: "seated on elaborate furniture or standing amid priceless art collection"
+            action: "observing with detached interest, manipulating objects from personal collection, speaking with voice carrying weight of inherited power"
+
+  locations:
+    - id: "chiba_night_city"
+      name: "Chiba City Night District"
+      description_block: |
+        setting:
+          time: "near future 2030s, evening into night when neon signs illuminate streets"
+          location: "dense urban maze in Japanese port city, narrow alleys between towering buildings, vertical architecture reaching toward sky color of static television, Night City entertainment district with illegal clinics and gaming parlors"
+          weather: "cool damp air with frequent light rain, humidity mixing with electronic heat from signs and machinery"
+        mainElements: "chaotic multilevel streetscape with capsule hotels, noodle stalls sending steam into air, holographic advertisements in multiple languages, gaming arcades with electronic sound bleeding into streets, narrow passages between buildings"
+        details: "rain-slicked pavement reflecting neon colors, condensation on windows, exposed cables and pipes running up building walls, makeshift signs advertising illegal services, crowds of expatriates and locals moving through maze-like streets, no text or letters visible"
+        background: "massive corporate towers visible in distance, industrial port facilities, Tokyo sprawl extending to horizon, sky obscured by light pollution and smog making stars invisible"
+        atmosphere: "sensory overload environment filled with electronic music from arcades, sizzling sounds from food vendors, multiple languages in crowd chatter, air thick with ozone scent mixed with cooking odors and urban decay"
+
+    - id: "matrix_cyberspace"
+      name: "Matrix Cyberspace"
+      description_block: |
+        setting:
+          time: "timeless digital realm existing parallel to physical world"
+          location: "infinite three-dimensional grid of data visualization, abstract geometric landscape of pure information, consensual hallucination shared by networked minds"
+          weather: "no weather concepts applicable in data space"
+        mainElements: "vast dark void filled with bright geometric shapes representing data clusters, flowing lines of light indicating information transfer, crystalline structures housing corporate databases, spiral patterns marking military systems"
+        details: "green cubic forms representing bank data, scarlet pyramid structures housing energy corporations, flowing streams of light particles showing data movement, geometric ice formations serving as security barriers, no text or letters visible"
+        background: "infinite black space extending beyond perception, distant clusters of light indicating other data regions, horizon line of glowing information grid, geometric patterns suggesting underlying logical structure"
+        atmosphere: "silent digital environment where thought becomes movement, sensation of flying through mathematical space, perception of vast intelligence structures beyond human comprehension, ethereal realm where consciousness transcends physical limitations"
+
+    - id: "freeside_station"
+      name: "Freeside Orbital Station"
+      description_block: |
+        setting:
+          time: "near future 2030s in continuous artificial day-night cycle of space station"
+          location: "massive spindle-shaped orbital habitat rotating to generate artificial gravity, luxury resort destination for wealthy elite, sterile environment designed for comfort and excess"
+          weather: "perfectly controlled artificial atmosphere with no natural weather patterns"
+        mainElements: "curved corridors following interior surface of spinning cylinder, zero gravity central axis, landscaped parks with artificial sky, casino districts with elaborate gaming floors, luxury hotel suites"
+        details: "polished metallic surfaces, artificial gravity zones transitioning to weightless areas, viewing ports showing star field outside, elaborate fountains and gardens, pristine white walls with subtle lighting, no text or letters visible"
+        background: "curved horizon where floor becomes ceiling due to cylindrical structure, parks and buildings arranged on inner surface, central axis shaft running length of station, view of Earth through observation windows"
+        atmosphere: "quiet luxury with subdued conversations of wealthy patrons, soft electronic chimes from casino machines, whisper of air circulation systems, artificial perfection creating sense of isolation from natural world"
+
+    - id: "straylight_villa"
+      name: "Villa Straylight"
+      description_block: |
+        setting:
+          time: "near future 2030s in artificial environment with dimmed lighting suggesting eternal twilight"
+          location: "sprawling Gothic mansion built into end of Freeside station, labyrinthine structure designed to confuse and disorient, decadent aristocratic compound filled with priceless artifacts"
+          weather: "controlled climate with stagnant air suggesting enclosed decay"
+        mainElements: "maze-like corridors with organic curves resembling intestinal passages, hidden chambers containing cryogenic suspension units, galleries displaying centuries of collected art, central shaft connecting multiple levels"
+        details: "dark polished wood surfaces, rich tapestries in deep colors, sculptures and paintings from various historical periods, ornate furniture suggesting unlimited wealth, shadows concealing architectural details, no text or letters visible"
+        background: "curved walls following station structure, multiple levels connected by hidden passages, viewing areas looking into space, chambers equipped with life support systems for suspended family members"
+        atmosphere: "oppressive silence broken only by hum of life support machinery, air thick with sense of ancient secrets, feeling of being watched by unseen observers, Gothic grandeur mixed with high technology creating unsettling combination"
+
+  items:
+    - id: "ono_sendai_deck"
+      name: "Ono-Sendai Cyberspace Deck"
+      description_block: |
+        details: "sleek portable computing interface device approximately size of thick book, matte black casing with minimal external controls, neural connection ports for direct brain interface cables, status indicators showing system activity through subtle LED arrays, epitome of Japanese design philosophy emphasizing form following function"
+
+    - id: "fletcher_gun"
+      name: "Fletcher Flechette Pistol"
+      description_block: |
+        details: "advanced projectile weapon firing needle-like darts instead of bullets, compact frame designed for concealment, integrated toxin delivery system, precision targeting capability, weapon of choice for street samurai requiring silent elimination"
+
+    - id: "simstim_deck"
+      name: "Simstim Sensory Playback Device"
+      description_block: |
+        details: "neural interface device allowing user to experience recorded sensory input from another person, headband-style apparatus with electrodes contacting skull, enables sharing of all five senses plus emotional responses, popular entertainment medium and surveillance tool"
+
+    - id: "mirrored_lenses"
+      name: "Surgically Implanted Mirrored Lenses"
+      description_block: |
+        details: "permanently installed optical enhancement covering entire eye sockets, reflective silver surface providing enhanced vision capabilities while concealing user's emotions, surgical modification requiring complete replacement of natural eyes, ultimate barrier between inner self and outside world"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Terminus spaceport where Imperial and Foundation technologies meet"
+  setting:
+    time: "Galactic Standard Era 12000s, commercial operations period"
+    location: "Terminus spaceport serving as contact point between Imperial and Foundation civilizations"
+    weather: "controlled spaceport environment with atmospheric regulators"
+  characters:
+    - appearance: "mixed crews of Imperial officers and Foundation traders, various ages and builds, contrasting professional styles"
+      clothing: "Imperial personnel in formal military uniforms with traditional insignia, Foundation traders in practical commercial attire with modern equipment"
+      position: "supervising cargo transfers, conducting negotiations, operating different technological systems side by side"
+      action: "comparing different approaches to same problems, demonstrating technological contrasts, managing diplomatic and commercial exchanges"
+  scene:
+    mainElements: "massive Imperial vessels up to two miles long with ornate decorative architecture alongside compact efficient Foundation trading ships designed for small crews, contrasting technologies operating in same facility"
+    details: "colossal vessels up to two miles long, ornate decorative architecture with Imperial symbols, spacious but inefficient design requiring large crews, visible signs of age and makeshift repairs, bridges resembling throne rooms more than command centers next to compact efficient vessels designed for small crews, every surface covered with instruments, no wasted space, advanced but tactile technology with sharp displays and integrated systems"
+    background: "spaceport infrastructure accommodating both technological approaches, maintenance facilities showing different repair philosophies, administrative buildings managing complex diplomatic protocols"
+    atmosphere: "technological and cultural crossroads highlighting fundamental differences between Imperial tradition and Foundation innovation, tension between old grandeur and new efficiency"
+  composition:
+    cameraAngle: "wide perspective showing scale contrast between different vessels"
+    focus: "technological and cultural meeting point between civilizations"
+    depth: "foreground operational activities, middle ground vessel comparisons, background spaceport infrastructure"

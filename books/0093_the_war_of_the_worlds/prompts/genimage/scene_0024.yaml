@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1897, during discovery of dead Martians in disabled fighting machines
+    location: London street near Primrose Hill where tripod fighting machine stands motionless and abandoned
+    weather: Clear day with strong shadows cast by alien machine wreckage
+  characters:
+  - appearance: 35-40 year old English gentleman, medium height around 175cm, scholarly build with intelligent brown eyes
+      behind thin metal-rimmed reading glasses, receding dark brown hair neatly combed with side part, clean-shaven or modest
+      mustache typical of Victorian professional class
+    clothing: Dark three-piece wool or tweed suit appropriate for middle-class Victorian gentleman, white starched shirt with
+      high detachable collar, dark necktie, leather dress shoes, may wear smoking jacket or waistcoat indoors
+    position: Standing beneath motionless tripod fighting machine, looking up at silent alien technology
+    action: Realizing that Martian invaders have died from Earth bacteria, ending the invasion through invisible biological
+      warfare
+  scene:
+    mainElements: Narrator's face marked by shadows cast by structural elements of disabled alien fighting machine above
+    details: Towering three-legged walking machine about 30 meters tall, gleaming metallic body with articulated hood-like
+      head section, flexible tentacle-like appendages beneath main body, rear basket for carrying captured humans, moves with
+      fluid alien grace despite mechanical nature. Machine now silent and motionless, shadow patterns from its structure creating
+      bar-like shadows across narrator's face
+    background: London streets showing evidence of Martian occupation but now eerily quiet, abandoned alien technology becoming
+      monument to failed invasion
+    atmosphere: Realization dawning that invisible microscopic Earth life has defeated technologically superior aliens, irony
+      of bacteria succeeding where human weapons failed
+  composition:
+    cameraAngle: Shadow frame created by alien machine structure casting bar-like shadows across human face
+    focus: Narrator's face with shadow bars suggesting both imprisonment and liberation as invasion ends, no text or letters
+      visible
+    depth: Foreground shows narrator with shadowed face from alien structure, middle ground features base of disabled tripod,
+      background reveals empty London streets with abandoned alien machinery
+visualElements:
+  colorPalette:
+    primary:
+    - gunmetal gray
+    - army green
+    - sepia brown
+    secondary:
+    - oxidized brass
+    - crimson
+    - oil black
+    background: smoky gray skies or factory interior
+    usageNotes: Muted wartime tones with occasional red or brass accents; lots of gray and brown
+    saturation: low
+    contrast: medium (hazy atmosphere reduces contrast)
+  lineArt:
+    style: mechanical drafting meets comic outlines
+    weight: medium, technical
+    color: black or dark brown
+    texture: slightly rough, soot-stained
+    edgeTreatment: straight edges with rivet and bolt details
+  lighting:
+    type: dim, industrial lighting
+    direction: harsh spotlights or searchlights through smoke
+    intensity: low overall, bright in beams
+    shadows:
+      style: thick, smoke-diffused shadows
+      color: brown-black
+      opacity: heavy
+    highlights: dull metal gleam on machinery
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, smoke effects
+    detailLevel: high on machines and tech, moderate on backgrounds
+    finish: matte with oily sheen on metal
+  perspective: dramatic angles (low vantage of giant machines or aerial views)
+  mood:
+    overall: gritty, oppressive, retro-futuristic
+    emotion: tension, determination
+    tempo: tense, engine-pumping
+    keywords:
+    - gritty
+    - industrial
+    - retro
+    - warlike
+    - smoky
+  stylePrecedents:
+  - Sky Captain and the World of Tomorrow visuals
+  - Dieselpunk art community works
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

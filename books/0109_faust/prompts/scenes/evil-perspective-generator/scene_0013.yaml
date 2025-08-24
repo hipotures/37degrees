@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Catalyst of Violence - Honorable Men's Rage"
+  setting:
+    time: "16th century, dark night on narrow cobblestone street"
+    location: "Narrow medieval street with overhanging half-timbered houses, cobblestone pavement, shadows between buildings"
+    weather: "Clear but dark night, stars visible above street"
+  characters:
+    - appearance: "Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof."
+      clothing: "Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat with rooster feather"
+      position: "Standing at edge of duel, ready to intervene with magic when needed"
+      action: "Watching Valentine and Faust fight with intense interest, preparing to paralyze Valentine's sword arm at crucial moment"
+  scene:
+    mainElements: "Young man in early twenties, strong, broad-shouldered with military bearing. Simple, honest but stern face expressing pride and impetuosity. 16th-century soldier's attire: leather jerkin worn over doublet, pludry (wide puffy pants), high boots. May wear metal breastplate or ruff collar. Rapier at side. Fighting desperately against magically disadvantaged opponent"
+    details: "Mephistopheles observes how easily honor becomes murder when family shame is involved. Valentine's rage represents society's hypocritical moral structure - same system that created Margarete's innocence now demands her death for losing it. Demon sees this as perfect demonstration of human moral inconsistency: brother who loved sister enough to die for her now becomes agent of her destruction"
+    background: "Dark medieval street with houses leaning inward, creating claustrophobic fighting space. Windows beginning to open as neighbors investigate noise of combat"
+    atmosphere: "Calculated orchestration of tragedy masquerading as honorable combat. Mephistopheles ensures outcome while letting participants believe they're acting from noble motives"
+  composition:
+    cameraAngle: "From Mephistopheles' position showing his control over duel's outcome through magical intervention"
+    focus: "Valentine's desperate but doomed fighting stance as Mephistopheles prepares magical interference"
+    depth: "Foreground: Mephistopheles preparing to intervene. Middle ground: Sword fight between Valentine and Faust. Background: Medieval street with concerned neighbors watching"

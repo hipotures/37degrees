@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Anne's View - Mother as Antagonist"
+  setting:
+    time: "June 1943, afternoon"
+    location: "Secret Annex largest room, bedroom and living space for Otto, Edith and Margot Frank, Amsterdam 1942-1944"
+    weather: "Dim afternoon light, oppressive interior atmosphere"
+  characters:
+    - appearance: "Middle-aged kobieta wiek 42-44 lata, elegancka powściągliwa, ciemne starannie upięte włosy, regularne rysy, w oczach smutek i napięcie, exaggerated stern expression"
+      clothing: "Skromne ciemne sukienki, klasyczny styl lat 40."
+      position: "Standing over Anne with disapproving posture"
+      action: "Criticizing Anne with exaggerated harsh expressions"
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+      position: "Sitting defensively on bed"
+      action: "Looking up at mother with teenage defiance and hurt"
+  scene:
+    mainElements: "Ciemne drewniane meble, ołówkowe kreski na framudze drzwi mierzące wzrost dziewczynek, mapa Europy na ścianie viewed through Anne's hostile teenage perspective"
+    details: "Centrum życia rodzinnego, względny porządek, ale narastające napięcia emphasized and distorted by Anne's emotional state. Mother appears cold and unsympathetic, shadows falling harshly across her face"
+    background: "Family room that feels more like courtroom from Anne's viewpoint"
+    atmosphere: "Emotional battlefield of teenage rebellion against maternal authority, confined space intensifying conflict"
+  composition:
+    cameraAngle: "Low angle from Anne's position, making mother appear imposing"
+    focus: "The generational conflict filtered through teenage resentment"
+    depth: "Subjective perspective emphasizing Anne's feeling of being judged and misunderstood"

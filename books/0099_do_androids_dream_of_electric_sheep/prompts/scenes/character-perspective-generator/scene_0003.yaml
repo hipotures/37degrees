@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Police Briefing Through Deckard's Professional Detachment"
+  setting:
+    time: "January 2021, late morning"
+    location: "Police headquarters interior with bureaucratic institutional atmosphere"
+    weather: "Indoor environment isolated from gray exterior dust"
+  characters:
+    - appearance: "Average height man in his early 30s with round, smooth face without facial hair, unremarkable office worker appearance, tired expression"
+      clothing: "Dark functional coat, protective lead Ajax model Mountibank backpack against radioactive dust when outside"
+      position: "Standing with slight wariness, hand near laser rifle holster facing superior officer"
+      action: "Moving cautiously through environment with professional detachment while receiving dangerous assignment"
+  scene:
+    mainElements: "Sterile bureaucratic office space with official files, photographs of escaped androids, recording equipment. Through Deckard's perspective, the briefing room appears as mechanical theater where human lives are reduced to administrative tasks and bounty payments"
+    details: "Official documents with android photographs and profiles spread across desk, recording equipment showing attack on previous bounty hunter. From Deckard's viewpoint, the android faces in photos appear simultaneously human and alien - he sees potential threats rather than sentient beings. The high bounty amounts become focal point representing his path to social respectability through ownership of authentic animal. Sterile fluorescent lighting makes everything appear cold and institutional"
+    background: "Standard police office furniture arranged functionally, fluorescent ceiling lights, institutional beige and gray color scheme"
+    atmosphere: "Bureaucratic efficiency masking moral complexity, professional distance from ethical implications. Through Deckard's filter of job-focused pragmatism, moral questions become secondary to practical concerns about payment and status improvement, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from Deckard's perspective looking across desk at android files and superior officer"
+    focus: "Android photographs and bounty information representing both opportunity and moral compromise"
+    depth: "Foreground shows official documents with android faces, middle ground captures Deckard's calculating expression as he weighs financial opportunity, background shows institutional office setting emphasizing bureaucratic dehumanization"

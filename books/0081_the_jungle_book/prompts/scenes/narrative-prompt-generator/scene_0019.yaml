@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Red Dogs"
+  setting:
+    time: "19th Century India, daytime"
+    location: "The banks of the Waingunga river."
+    weather: "A hot, humid day."
+  characters:
+    - appearance: "A huge pack of dholes - wild, red dogs of the Deccan."
+      clothing: "None"
+      position: "Swarming along the riverbank."
+      action: "They are a terrifying, relentless force, their red fur matted with blood and dust. They are the embodiment of mindless destruction."
+    - appearance: "A boy of about 16 years old."
+      clothing: "Wears a simple loincloth."
+      position: "Standing on a rock in the middle of the river."
+      action: "Luring the red dogs into a trap. His face is a mask of fierce concentration."
+  scene:
+    mainElements: "The invasion of the dholes. A new, terrifying threat to the Seeonee jungle."
+    details: "The river is wide and sluggish. The red dogs are a blur of motion, a river of red fur and snapping jaws. The air is filled with their yapping and snarling. no text or letters visible"
+    background: "The dense jungle on the far side of the river."
+    atmosphere: "A scene of impending doom. The jungle is facing a threat that it cannot fight alone. no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot, capturing the scale of the dhole pack."
+    focus: "The contrast between the chaotic energy of the dogs and the calm, focused figure of Mowgli."
+    depth: "Foreground: the swarming dholes. Middle ground: Mowgli on his rock. Background: the jungle."

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Foundation defensive strategy showing intelligence over force"
+  setting:
+    time: "Galactic Standard Era 12000s, crisis response period"
+    location: "Foundation command center on Terminus during strategic defense planning"
+    weather: "controlled interior environment optimized for tactical planning"
+  characters:
+    - appearance: "Foundation leaders and technical specialists in 30s to 50s, practical bearing combining intellectual capability with decisive action, diverse backgrounds representing democratic leadership"
+      clothing: "practical work attire suitable for crisis management, functional clothing without ceremonial elements, personal equipment emphasizing efficiency and communication"
+      position: "gathered around compact command systems, collaborating on strategic analysis, coordinating defensive preparations"
+      action: "analyzing Imperial fleet movements, coordinating technological countermeasures, implementing strategic plans based on scientific analysis rather than traditional military doctrine"
+  scene:
+    mainElements: "compact efficient command center with advanced analytical capabilities, technological systems designed for intelligent rather than brute force response, strategic planning based on mathematical and scientific principles"
+    details: "compact efficient vessels designed for small crews, every surface covered with instruments, no wasted space, advanced but tactile technology with sharp displays and integrated systems, functional design prioritizing effectiveness over comfort used for strategic analysis and coordination, mathematical models showing strategic probability analysis, communication systems linking Foundation territories for coordinated response"
+    background: "Foundation facilities showing technological efficiency, windows revealing Terminus landscape and defensive preparations, communication links to Foundation settlements and allies"
+    atmosphere: "intelligent strategic response contrasting with Imperial brute force approach, confidence in scientific method and technological superiority, democratic leadership coordinating effective defense through innovation rather than traditional military power"
+  composition:
+    cameraAngle: "command center perspective showing collaborative strategic planning"
+    focus: "Foundation approach to conflict resolution through intelligence and technology rather than force"
+    depth: "foreground strategic planning activities, middle ground command center technology, background Foundation defensive preparations"

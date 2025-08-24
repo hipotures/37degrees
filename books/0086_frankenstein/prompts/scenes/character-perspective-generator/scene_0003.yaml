@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Victor Sees Elizabeth as Angel - Romantic Idealization"
+  setting:
+    time: "1780s, summer morning"
+    location: "Gardens of Frankenstein villa beside Lake Geneva, Switzerland"
+    weather: "Perfect summer morning with gentle breeze and golden sunlight"
+  characters:
+    - appearance: "Young woman aged approximately 17-27 years with ethereal beauty, slender graceful build, luminously fair complexion, hair of brightest golden color falling in natural waves, eyes of clear blue expressing gentle intelligence and deep affection, features of perfect symmetry embodying idealized feminine beauty"
+      clothing: "Elegant late 18th century women's fashion including high-waisted white or pale colored muslin gowns reaching to ankles, short puffy sleeves, square neckline, thin ribbon sash below breast, delicate shawl or short spencer jacket, simple ribbon hair ornaments, soft leather slippers"
+      posture: "Graceful upright bearing reflecting well-bred education, gentle movements expressing natural kindness, hands often clasped or extended in gesture of comfort and care"
+      action: "Reading quietly by window, tending to family members with loving care, walking through gardens, or expressing concern and devotion to Victor during his troubled periods"
+    - appearance: "Young man aged approximately 19-28 years, originally healthy build but becomes increasingly pale and gaunt through obsession and psychological torment, with eyes that grow wild and haunted in appearance, facial features showing progressive physical deterioration from guilt and sleeplessness"
+      clothing: "Well-tailored late 18th century gentleman's attire including dark wool frock coat with high collar, fitted waistcoat, white linen shirt with high neckline secured by white cravat, knee-length breeches or long trousers, leather boots, in Arctic scenes heavy fur-lined coat and boots for extreme cold protection"
+      posture: "Initially confident and energetic bearing, progressively becoming nervous and agitated with frequent restless movement, shoulders often hunched from psychological burden, hands trembling during periods of extreme distress"
+      action: "Conducting scientific experiments with intense concentration, fleeing in panic and horror, pursuing his creation across vast distances, writing feverishly in notebooks, or lying weakened by illness and exhaustion"
+  scene:
+    mainElements: "Elizabeth walking along garden path between blooming rose bushes, morning sunlight creating halo effect around her golden hair, Lake Geneva sparkling like jewels in background, Victor watching from villa terrace with adoring expression"
+    details: "Roses appearing more vibrant and perfect in Elizabeth's presence, butterflies and songbirds drawn to her natural goodness, her white muslin dress seeming to glow with inner light, every movement graceful as dancing, garden path appearing to be laid specially for her feet, mountain reflections in lake creating heavenly backdrop, gentle breeze stirring her hair like invisible blessing, no text or letters visible"
+    background: "Manicured gardens with perfectly maintained flowerbeds, marble statuary and fountains, distant Alps creating divine architectural frame"
+    atmosphere: "Pure romantic love transforming ordinary morning into sacred moment, Elizabeth appearing as earthly angel sent to redeem and inspire, Victor's perception filtering reality through lens of devoted worship"
+  composition:
+    cameraAngle: "Victor's adoring gaze from elevated terrace, creating sense of looking upon goddess"
+    focus: "Elizabeth bathed in golden light, appearing to be center of all beauty and goodness in world"
+    depth: "Foreground shows Victor's reverent observation, middle ground captures Elizabeth's radiant presence, background suggests paradise of domestic happiness awaiting their union"

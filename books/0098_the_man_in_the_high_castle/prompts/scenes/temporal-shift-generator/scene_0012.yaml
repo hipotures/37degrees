@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fishing Hole Legacy - Three Generations"
+  setting:
+    time: "1962, peaceful afternoon"
+    location: "Mountain stream in Rocky Mountain States Neutral Zone showing three generations fishing same sacred spot"
+    weather: "Clear mountain afternoon with gentle breeze"
+  characters:
+    - appearance: "38-year-old Jewish-American man hiding his identity, average build with surgically altered features to disguise Semitic appearance, large nose and visible pores"
+      clothing: "Simple working man's clothes - worn denim work shirt, dark trousers, scuffed leather boots, sometimes canvas jacket"
+      position: "Standing at riverbank with fishing rod, ghostly overlays showing father and grandfather in identical positions"
+      action: "Casting fishing line into same pool where father and grandfather taught him, continuing family tradition despite political upheaval"
+  scene:
+    mainElements: "Mountain stream showing temporal layers of three generations fishing identical spot, worn path to water's edge created by decades of family visits, large boulder serving as traditional fishing seat across generations"
+    details: "Clear mountain water flowing over familiar rocks, worn fishing path showing three generations of footsteps, family fishing rod passed down through decades, tackle box containing lures from different eras, large boulder polished smooth by generations of sitters, wildflowers growing in spots remembered across years, stream bank showing erosion patterns from decades of use, no text or letters visible"
+    background: "Rocky Mountain landscape unchanged across generations, pine trees grown taller over decades, same mountain peaks providing eternal backdrop for family tradition"
+    atmosphere: "Peaceful continuity of family tradition transcending political chaos, mountain solitude offering refuge from world's troubles, generational knowledge passed through shared silence and patience, timeless connection between man and nature"
+  composition:
+    cameraAngle: "Medium shot from across stream showing fisherman with generational overlays"
+    focus: "Current fisherman with ghostly echoes of father and grandfather in same pose"
+    depth: "Foreground: stream water and rocks, middle: fisherman on bank with temporal overlays, background: unchanged mountain landscape"

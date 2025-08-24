@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Walls Closing In"
+  setting:
+    time: "Ancient Bronze Age Greece, early night"
+    location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+    weather: "Storm breaking with first heavy raindrops, lightning illuminating scene intermittently"
+  characters:
+    - appearance: "Bent and frail man in his seventies, hunched by age and hard life, sparse gray hair, clean-shaven or stubbled, visibly terrified when confronted with authority"
+      clothing: "Torn patched chiton of coarsest fabric, poverty and low status immediately visible, faded earth tones, stained and worn"
+      position: "Cowering before palace steps, pressed back against courtyard wall"
+      action: "Trembling with fear and long-hidden guilt, eyes avoiding direct contact, protective posture with hands raised defensively"
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Looming over the cowering servant, advancing threateningly"
+      action: "Leaning forward with predatory intensity, eyes blazing with desperate need for answers, hands reaching toward the terrified man"
+  scene:
+    mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+    details: "Torn patched chiton contrasting sharply with royal purple and crimson. Old servant pressed against stone wall like trapped animal. Lightning flashes creating harsh shadows and highlighting terror on aged face. Rain beginning to darken the stones. Palace walls seeming to press closer like prison. No text or letters visible"
+    background: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone looking like tomb or prison in storm light"
+    atmosphere: "Predator and prey dynamic, truth being forced from terrified witness, walls of lies closing in"
+  composition:
+    cameraAngle: "Low angle emphasizing Oedipus's threatening dominance over cowering servant"
+    focus: "The power dynamic between royal interrogator and terrified witness"
+    depth: "Foreground shows servant's terrified details, middle ground captures space between hunter and prey, background shows looming palace walls"

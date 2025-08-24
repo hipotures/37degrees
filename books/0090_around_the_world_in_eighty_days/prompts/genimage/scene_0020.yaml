@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: October 1872, late afternoon
+    location: Deep Indian jungle containing ruins of ancient Hindu temple complex
+    weather: Filtered jungle light creating mysterious atmosphere through forest canopy
+  characters: No characters present in this scene
+  scene:
+    mainElements: Magnificent ancient stone temple partially reclaimed by jungle vegetation, elaborate carved architecture
+      showing sophisticated civilization predating British colonial presence, nature and human achievement in complex relationship
+    details: Ornate stone pillars with intricate carvings of deities and mythological scenes, temple walls featuring detailed
+      sculptural reliefs showing ancient Indian artistic achievement, tree roots growing through and around stone structures
+      creating dramatic integration of nature and architecture, fallen carved stones scattered around temple base, ancient
+      stone platforms and stairs leading to temple entrances, fig trees and banyan growing from temple crevices, filtered
+      sunlight illuminating carved details, moss and lichens covering stone surfaces, flowering vines draping over architectural
+      elements
+    background: Dense jungle canopy surrounding temple ruins, other partially visible temple structures suggesting larger
+      ancient complex, mysterious depths of forest beyond
+    atmosphere: Mystical sense of ancient Indian civilization's grandeur, nature's power to reclaim human achievements, spiritual
+      presence of forgotten religious practices
+  composition:
+    cameraAngle: Medium perspective showing temple architecture integrated with jungle growth
+    focus: Carved temple pillars or doorway as centerpiece showing ancient artistic achievement
+    depth: Detailed stone carvings in foreground, temple structure in middle ground, jungle vegetation creating mysterious
+      backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, spring afternoon, overcast day with intermittent sunlight
+    location: Stone-built capital city of Karhide on planet Gethen, massive monolithic architecture creating deep narrow street-canyons
+    weather: Cool spring day with drizzling rain, deceptive sunlight breaking through clouds giving light but no warmth
+  characters:
+  - appearance: Young Gethenian child approximately 8-10 years old, small compact build typical of youth, round face with
+      wide curious eyes, wearing warm layered clothing
+    clothing: Child-sized traditional Karhidish clothing in family colors, thick wool tunic and pants, small fur-lined cloak
+      and hat
+    position: Standing at front of crowd at child's eye level, barely able to see over adult legs
+    action: Craning neck to glimpse parade procession between towering adult figures, reaching up toward colorful banners,
+      reacting with wonder to ceremonial spectacle
+  - appearance: Adults towering overhead like giants, visible mostly as legs and torsos from child's low perspective
+    clothing: Traditional ceremonial dress creating forest of fabric and color above child's head
+    position: Surrounding child in dense crowd, inadvertently blocking view
+    action: Participating in adult ceremony while child experiences different magical version of same event
+  scene:
+    mainElements: Stone buildings rising like mountains beyond comprehension, colorful silk banners streaming overhead like
+      rainbow rivers in sky, adults forming living forest of legs and robes around small observer
+    details: Everything appears impossibly large and magical from ground level perspective, sounds echoing mysteriously off
+      stone walls, colors appearing more vivid and exciting, ceremonial music sounding like voices of giants, puddles reflecting
+      parade like magical pools, no text or letters visible
+    background: Ancient stone architecture appearing as fairy-tale castle walls reaching toward sky, narrow streets creating
+      magical canyons of adventure, glimpses of other children peeking between adult legs
+    atmosphere: Wonder and magical thinking transforming civic ceremony into fantastical adventure - ordinary political event
+      becomes story of giants and colored spirits dancing in stone canyon
+  composition:
+    cameraAngle: Very low angle from child's height looking up at towering adult world
+    focus: Contrast between mundane adult ceremony and magical child interpretation, emphasis on scale making everything appear
+      wonderous
+    depth: 'Foreground: small child reaching upward, middle: forest of adult legs and banners, background: magical stone castle-city
+      extending upward beyond sight'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

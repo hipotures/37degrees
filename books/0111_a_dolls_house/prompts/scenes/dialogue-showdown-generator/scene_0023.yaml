@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Final Blow - Words as Weapons"
+  setting:
+    time: "1879, Boxing Day very late night"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Deep winter night, almost dawn"
+  characters:
+    - appearance: "Woman aged 28-30 years, composed and zdecydowana expression, opanowana postawa"
+      clothing: "Prosta ciemna suknia podróżna in szary or brązowy color, skromna pozbawiona ozdób, praktyczna for travel"
+      position: "Sitting across from Torvald at the table, transformed into her authentic self"
+      action: "Speaking with calm devastating honesty, delivering truth like precise surgical cuts"
+    - appearance: "Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie, przystojna twarz with zaciętym nieco protekcjonalny expression"
+      clothing: "Evening clothes now rumpled and disheveled, his perfect appearance reflecting his crumbling world"
+      position: "Leaning back in shock, no longer commanding but defensive"
+      action: "Recoiling from her words, face showing the impact of each truth she speaks"
+  scene:
+    mainElements: "Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany"
+    details: "The table between them has become a battlefield where words are weapons. Her simple travel dress contrasts dramatically with the elegant room and his formal attire, showing her rejection of their world. Each word she speaks dismantles their entire life together."
+    background: "The elegant room seems to darken around them as their marriage dies"
+    atmosphere: "Devastating honesty delivered with surgical precision. The comfortable lies of their relationship are being systematically destroyed by truth."
+  composition:
+    cameraAngle: "Two-shot across the table emphasizing the battlefield between them"
+    focus: "The metaphorical wall crumbling between them as she speaks devastating truths"
+    depth: "Foreground: The table as battleground. Middle ground: The two opponents in their final confrontation. Background: The elegant room witnessing the death of their marriage."

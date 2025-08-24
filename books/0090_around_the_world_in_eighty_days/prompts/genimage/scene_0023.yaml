@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: December 1872, dawn
+    location: North Atlantic Ocean showing merchant steamship in distress during winter crossing
+    weather: Stormy seas with high waves and dangerous sailing conditions
+  characters: No characters present in this scene
+  scene:
+    mainElements: Steam merchant vessel showing signs of severe damage from Atlantic crossing, ship's wooden superstructure
+      being consumed for fuel, dramatic maritime crisis in hostile ocean environment
+    details: Steamship with parts of wooden deck structures and cabin fittings being dismantled and burned, smoke rising from
+      ship's funnels showing continued steam power, high waves washing over lower decks, exposed metal hull and ship framework
+      showing industrial construction, ship's boats secured alongside showing emergency preparations, damaged rigging and
+      broken masts indicating storm damage, coal bunkers visible showing fuel supply problems, ship's wheel and navigation
+      equipment showing maritime technology, debris floating in water around vessel
+    background: Stormy North Atlantic with high waves and threatening sky, distant horizon showing ocean's infinite scale,
+      storm clouds creating dramatic lighting
+    atmosphere: Desperate measures and human determination against natural forces, dramatic sacrifice of ship structure for
+      survival, tension between technology and nature's power
+  composition:
+    cameraAngle: Medium perspective from ocean level showing ship's distress against storm backdrop
+    focus: Ship's smokestack and burning wooden elements as symbol of resourcefulness and desperation
+    depth: Ship details in foreground showing maritime crisis, ocean waves in middle distance, storm sky creating threatening
+      ceiling
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

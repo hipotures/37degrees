@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Edith's Hidden Suffering - The Mother's Perspective"
+  setting:
+    time: "June 1943, late evening"
+    location: "Secret Annex largest room, bedroom and living space for Otto, Edith and Margot Frank, Amsterdam 1942-1944"
+    weather: "Dark night, single candle or lamp lighting"
+  characters:
+    - appearance: "Middle-aged kobieta wiek 42-44 lata, elegancka powściągliwa, ciemne starannie upięte włosy, regularne rysy, w oczach smutek i napięcie, now showing deep emotional pain"
+      clothing: "Skromne ciemne sukienki, klasyczny styl lat 40."
+      position: "Sitting alone on bed edge, head in hands"
+      action: "Weeping quietly, overwhelmed by loss and daughter's rejection"
+    - appearance: "Middle-aged mężczyzna wiek 53-55 lat, wysoki szczupły, pociągła łagodna twarz, inteligentne spojrzenie, przerzedzone ciemne włosy, okulary w cienkich oprawkach"
+      clothing: "Schludny garnitur lub marynarka i krawat, biała koszula, zachowuje godność mimo warunków"
+      position: "Sitting beside wife, arm around her shoulders"
+      action: "Comforting wife with gentle, understanding gesture"
+  scene:
+    mainElements: "Ciemne drewniane meble, ołówkowe kreski na framudze drzwi mierzące wzrost dziewczynek, mapa Europy na ścianie shown in softer, more sympathetic lighting"
+    details: "Centrum życia rodzinnego, względny porządek, ale narastające napięcia revealed as mother's desperate attempt to maintain dignity while losing everything, including her daughter's love"
+    background: "Same family room, but now emphasizing warmth and maternal sacrifice"
+    atmosphere: "Deep maternal grief and love misunderstood, the tragedy of family bonds strained by impossible circumstances"
+  composition:
+    cameraAngle: "Intimate medium shot emphasizing Edith's vulnerability and Otto's support"
+    focus: "The hidden emotional reality behind Anne's harsh judgments"
+    depth: "Soft lighting revealing the complexity absent from Anne's teenage perspective"

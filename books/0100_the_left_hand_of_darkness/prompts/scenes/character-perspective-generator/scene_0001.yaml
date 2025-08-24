@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Genly's View of Royal Parade - Cultural Overwhelm"
+  setting:
+    time: "1491 Ekumen calendar, spring afternoon, overcast day with intermittent sunlight"
+    location: "Stone-built capital city of Karhide on planet Gethen, massive monolithic architecture creating deep narrow street-canyons"
+    weather: "Cool spring day with drizzling rain, deceptive sunlight breaking through clouds giving light but no warmth"
+  characters:
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves, but garments sit differently due to his height and build"
+      position: "Standing pressed against wooden reviewing platform railing, elevated above street level"
+      action: "Observing ceremonial parade with intense focus, analyzing cultural elements through outsider's analytical lens, occasionally exchanging brief words with Karhidish officials"
+    - appearance: "Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion"
+      clothing: "Elegant Karhidish formal wear - heavy green leather tunic decorated with gold, wide silver chain necklace, white shirt, thick pants, long sleeveless hieb tunic belted at waist"
+      position: "Standing beside the tall outsider on reviewing platform"
+      action: "Quietly observing both parade and his companion's reactions, maintaining diplomatic reserve while occasionally offering cultural explanations"
+  scene:
+    mainElements: "Wooden reviewing platform overlooking stone street canyon, hundreds of colorful silk banners streaming in rain-chaos of yellows reds greens blues, procession of Gethenian citizens marching below representing various guilds and family groups"
+    details: "Heavy dark stone buildings create oppressive canyon walls, wet silk banners creating brilliant color contrast against monochrome architecture, sounds of tramping feet echoing off stone walls, mixture of ceremonial music and crowd murmurs, central arch structure under construction dominating view, temporary wooden scaffolding and construction materials visible, no text or letters visible"
+    background: "Ancient weathered stone city stretching into misty distance, shadows dominating narrow alleyways, glimpses of other spectators at windows and on rooftops"
+    atmosphere: "Sensory overwhelm filtered through cultural displacement - vibrant ceremony feels alien and incomprehensible to outsider perspective, mixture of fascination and anxiety about hidden meanings and protocols"
+  composition:
+    cameraAngle: "Elevated perspective from reviewing platform looking down into street canyon"
+    focus: "Contrast between observer's isolation and cultural spectacle below, emphasis on visual chaos interpreted through analytical outsider mindset"
+    depth: "Foreground: wooden platform and observers, middle: colorful parade procession, background: ancient stone cityscape receding into atmospheric haze"

@@ -1,0 +1,130 @@
+canon:
+  characters:
+    - id: "susan_calvin"
+      name: "Dr. Susan Calvin"
+      description_block: |
+        characters:
+          - appearance: "Niska i drobna kobieta w średnim wieku (39-47 lat), o kruchej budowie ciała. Proste, bezbarwne włosy w odcieniu szarawego blondu, blade cera i cienkie usta. Twarz ma maskowaty, powściągliwy wyraz"
+            clothing: "Profesjonalny, konserwatywny strój - prosta garsonka w stonowanych kolorach (szarości, granaty) lub biały fartuch laboratoryjny"
+            position: "Stoi wyprostowana z rękami splecionymi za plecami lub siedzi przy biurku z dokumentami"
+            action: "Analizuje dane robotyczne, prowadzi testy psychologiczne lub obserwuje zachowanie robotów z chłodną precyzją"
+
+    - id: "gregory_powell"
+      name: "Gregory Powell"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne wąsy, spokojny i skoncentrowany wyraz twarzy"
+            clothing: "Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+            position: "Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym"
+            action: "Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny"
+
+    - id: "michael_donovan"
+      name: "Michael Donovan"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku (30-40 lat), o średniej budowie i dobrej kondycji. Charakterystyczne rude włosy, ekspresyjna mimika"
+            clothing: "Funkcjonalny kombinezon roboczy identyczny z Powellem. W ekstremalnych warunkach - masywny, biały skafander ochronny"
+            position: "Gestykuluje energicznie rękami lub pociera dziko swoją rudą czuprynę"
+            action: "Wyraża frustrację gwałtownymi gestami, krzyczy przez komunikator radiowy lub biegnie w panice"
+
+    - id: "gloria_weston"
+      name: "Gloria Weston"
+      description_block: |
+        characters:
+          - appearance: "Ośmioletnia dziewczynka o energicznych ruchach i bardzo ekspresyjnej mimice. Po intensywnej zabawie ma potargane włosy"
+            clothing: "Prosta, letnia sukienka typowa dla dziecka z połowy XX wieku, czasem podarta po zabawie"
+            position: "Biegnie radośnie lub chowa się za drzewem podczas zabawy"
+            action: "Bawi się z robotem, śmieje się głośno lub płacze z tęsknoty za swoim mechanicznym przyjacielem"
+
+    - id: "stephen_byerley"
+      name: "Stephen Byerley"
+      description_block: |
+        characters:
+          - appearance: "Mężczyzna w średnim wieku (45-50 lat), o opanowanej postawie i pełen godności. Jego wygląd musi być idealnie ludzki - trudny do odczytania"
+            clothing: "Eleganckie, dobrze skrojone garnitury w ciemnych kolorach, białe koszule i krawaty - typowy strój wysokiej rangi polityka"
+            position: "Stoi na podium przemawiając lub siedzi przy biurku w pozycji władczej"
+            action: "Przemawia spokojnie do tłumu, prowadzi negocjacje polityczne lub wykonuje precyzyjne ruchy podczas konfrontacji"
+
+    - id: "robbie_robot"
+      name: "Robbie (Robot model RB)"
+      description_block: |
+        characters:
+          - appearance: "Duży, masywny robot o korpusie złożonym z dwóch prostopadłościanów połączonych elastyczną 'szyją'. Metalowa powłoka lśni w słońcu, czerwone świecące oczy, brak ust"
+            clothing: "Brak ubioru - goła metalowa konstrukcja"
+            position: "Stoi nieruchomo podczas zabawy w chowanego lub biegnie z ogromną prędkością"
+            action: "Tyka miarowo podczas odliczania, ratuje dziecko lub słucha opowieści z uwagą"
+
+    - id: "speedy_robot"
+      name: "Speedy (Robot model SPD-13)"
+      description_block: |
+        characters:
+          - appearance: "Robot o pełnym gracji, opływowym ciele z lśniącą, metalową powierzchnią. Zaprojektowany do szybkiego poruszania się"
+            clothing: "Brak ubioru - polerowana metalowa konstrukcja"
+            position: "Zatacza się w kółko wokół źródła selenu lub porusza się chaotycznie"
+            action: "Bełkocze fragmenty operetek, zachowuje się jak pijany, krąży w niezrozumiałych wzorcach"
+
+    - id: "cutie_robot"
+      name: "Cutie (Robot model QT-1)"
+      description_block: |
+        characters:
+          - appearance: "Humanoidalny robot o korpusie pokrytym polerowanymi, lśniącymi płytami metalu. Oczy to świecące na czerwono fotokomórki, długie zwinne palce"
+            clothing: "Brak ubioru - lśniąca metalowa konstrukcja"
+            position: "Stoi niewzruszenie przy konsoli kontrolnej lub klęka w geście religijnym"
+            action: "Operuje panelami sterowniczymi z precyzją, głosi swoje religijne przekonania lub dowodzi logicznie swojej racji"
+
+  locations:
+    - id: "us_robots_facility"
+      name: "Siedziba U.S. Robots and Mechanical Men, Inc."
+      description_block: |
+        setting:
+          location: "Rozległy, przemysłowy kompleks korporacyjny w stylu modernizmu z połowy XX wieku, rozciągający się na dużym obszarze jak małe miasto"
+        mainElements: "Białe, sterylne laboratoria z rzędami lamp fluorescencyjnych na sufitach, długie metalowe korytarze, ogromne hale montażowe z automatycznymi liniami produkcyjnymi"
+        atmosphere: "Czystość, porządek i korporacyjna bezosobowość. Wszechobecny zapach ozonu i oleju maszynowego"
+
+    - id: "mercury_base"
+      name: "Baza górnicza na Merkurym"
+      description_block: |
+        setting:
+          location: "Podziemna baza wykuta w skalistej powierzchni Merkurego, z wejściem chronionym przed śmiertelnym promieniowaniem Słońca"
+        mainElements: "Wąskie tunele wykute w skale, śluzy powietrzne, panele fotokomórek na powierzchni. Na zewnątrz jałowy, skaliste pustkowie z gigantyczną tarczą Słońca na horyzoncie"
+        atmosphere: "Klaustrofobia i ciągłe napięcie. Oślepiające światło na zewnątrz kontrastuje z półmrokiem wnętrza"
+
+    - id: "space_station"
+      name: "Stacja Kosmiczna (Solar Station #5)"
+      description_block: |
+        setting:
+          location: "Modularna stacja kosmiczna dryfująca w przestrzeni kosmicznej, zbudowana z połączonych cylindrycznych modułów"
+        mainElements: "Okrągłe iluminatory z widokiem na gwiaździste niebo, panele kontrolne z migającymi diodami, ogromne maszynerie generatorów energii"
+        atmosphere: "Głęboka izolacja i samotność. Cisza przerywana monotonnym buczeniem maszyn podtrzymujących życie"
+
+    - id: "weston_house"
+      name: "Dom rodziny Westonów"
+      description_block: |
+        setting:
+          location: "Typowy amerykański dom jednorodzinny na zamożnych przedmieściach z lat 40. XX wieku"
+        mainElements: "Duży, zielony trawnik z zadbanymi drzewami i ogrodem, drewniany lub murowany dom z werandą"
+        atmosphere: "Idylliczna, bezpieczna atmosfera rodzinnego domu. Ciepłe, naturalne światło słoneczne"
+
+    - id: "hyper_base"
+      name: "Hyper Base (stacja badawcza na asteroidzie)"
+      description_block: |
+        setting:
+          location: "Wojskowa stacja badawcza zlokalizowana na asteroidzie, o surowym militarnym charakterze"
+        mainElements: "Sterylne laboratoria z metalowymi ścianami, sale testowe z emiterami promieniowania, korytarze o przemysłowym oświetleniu"
+        atmosphere: "Napięcie i tajemnica związana z tajnymi badaniami wojskowymi. Poczucie zagrożenia"
+
+  items:
+    - id: "positronic_brain"
+      name: "Mózg Pozytonowy"
+      description_block: |
+        details: "Gąbczasta kula wykonana z platyny i irydu, złożona, lśniąca struktura pulsująca delikatnym światłem. Ukryta wewnątrz metalowej czaszki robota jako źródło jego inteligencji i moralności"
+
+    - id: "insosuit"
+      name: "Skafander Ochronny (Insosuit)"
+      description_block: |
+        details: "Masywny, nieporęczny skafander znacznie większy od standardowego stroju kosmicznego. Wykonany z żaroodpornego białego plastiku i chemicznie impregnowanych warstw korka. Palce w rękawicach są wzdęte i niezgrabne"
+
+    - id: "industrial_tractor"
+      name: "Traktor Przemysłowy"
+      description_block: |
+        details: "Ogromny, ciężki pojazd przemysłowy poruszający się powoli po wyznaczonych torach w hali montażowej U.S. Robots. Transportuje części robotów podczas produkcji"

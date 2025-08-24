@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Underground Daily Rhythm - Morlock Industrial Cycles"
+  setting:
+    time: "802,701 CE, day/night cycle from underground perspective"
+    location: "Vast subterranean cavern system beneath the garden world"
+    weather: "Artificial underground environment with no natural weather"
+  characters:
+    - appearance: "Hunched ape-like humanoids shorter than normal humans, pale white or half-bleached skin like preserved specimens, lank light-colored hair on head and back, large greyish-red or pinkish-grey eyes without eyelids that reflect light in darkness, pale beige faces, thin fingers, cold to touch"
+      clothing: "No clothing described in source material - appear to be unclothed"
+      position: "Working at vast machinery during day hours, resting in darkness during night surface periods"
+      action: "Daily industrial rhythm - tending machines while surface dwells in daylight, becoming active predators when surface sleeps in darkness"
+  scene:
+    mainElements: "Enormous dark cave with working machinery, metal ladders and handholds leading down vertical shafts, huge incomprehensible machines operating in darkness, tables and surfaces suggesting industrial workspace, ventilation shafts connecting to surface"
+    details: "Machinery shows different activity phases - day production cycles maintaining surface paradise, night preparation for hunting expeditions. Furnaces burn brighter during day work, equipment rests during night hunting hours. Steam and mechanical sounds provide industrial rhythm opposing surface natural cycles"
+    background: "Tunnel entrances show different uses - day maintenance access, night hunting exits, creating dual purpose infrastructure"
+    atmosphere: "Industrial rhythm opposing natural cycles, underground civilization synchronized but inverted to surface life, mechanical time versus organic time, darkness as opposite of surface light patterns, no text or letters visible"
+  composition:
+    cameraAngle: "Wide underground vista showing industrial activity cycles"
+    focus: "Central machinery showing different day/night operational states"
+    depth: "Working Morlocks in foreground, massive machinery in middle ground, tunnel systems in background"

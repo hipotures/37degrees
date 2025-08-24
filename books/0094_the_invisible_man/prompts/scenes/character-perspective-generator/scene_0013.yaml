@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Elder's Memory - Echoes of Past Mysteries"
+  setting:
+    time: "February 1897, evening by village crossroads"
+    location: "Ancient crossroads near Iping with old milestone and weathered signpost"
+    weather: "Misty evening with fog rolling in from downs"
+  characters:
+    - appearance: "Elderly village patriarch with white beard, deeply lined face showing decades of experience"
+      clothing: "Thick woolen coat with walking stick, cloth cap, traditional country garments"
+      position: "Standing at crossroads leaning heavily on walking stick, staring into mist"
+      action: "Gazing thoughtfully at empty path while remembering old stories of supernatural encounters"
+  scene:
+    mainElements: "Ancient stone milestone partially obscured by ivy, weathered wooden signpost pointing to distant villages, mist swirling around crossroads creating ethereal atmosphere"
+    details: "Old man's eyes reflecting memory of similar mysteries from decades past, mist forming shapes that might be figures from long-ago tales, walking stick planted firmly in earth as anchor against supernatural uncertainty"
+    background: "Rolling countryside disappearing into mist, distant lights from village homes, sense of ancient landscape holding many secrets"
+    atmosphere: "Wisdom of age recognizing patterns in supernatural events, understanding that current mystery echoes older tales, acceptance of forces beyond human comprehension"
+  composition:
+    cameraAngle: "Medium shot showing elder against misty crossroads"
+    focus: "Elder's contemplative expression overlapping past and present mysteries"
+    depth: "Foreground shows detailed weathered features, middle ground captures misty crossroads, background dissolves into atmospheric haze, no text or letters visible"

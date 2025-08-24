@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Thorns piercing through delicate uniform fabric in wire entanglement"
+  setting:
+    time: "1917 autumn dusk, fading light"
+    location: "No Man's Land between opposing trenches, massive barrier of barbed wire obstacles, shell holes and debris scattered across torn earth"
+    weather: "damp evening mist beginning to form, light rain making wire glisten"
+  characters:
+    - appearance: "19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz, brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie"
+      clothing: "znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna, wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny podarty i przesiąknięty zapachem frontu"
+      position: "caught in tangle of barbed wire, body twisted as he attempts to free uniform from thorns"
+      action: "carefully working to disentangle fabric from wire barbs, each movement causing new tears as sharp points catch and pierce cloth"
+  scene:
+    mainElements: "extensive barbed wire obstacles forming impenetrable barrier, soldier trapped in wire coils, uniform fabric snagged on multiple sharp points, torn earth and shell craters surrounding area"
+    details: "sharp wire barbs penetrating fabric fibers with surgical precision, cloth tearing in slow deliberate rips as soldier moves, metal thorns creating perfect puncture holes in wool weave, fabric threads hanging loose from each penetration point, wire tension creating spring-like resistance against movement, uniform gradually shredding piece by piece with each escape attempt, droplets of moisture making wire surfaces slippery and treacherous, no text or letters visible"
+    background: "endless maze of wire obstacles extending toward enemy lines, skeletal remains of trees wrapped in coiled wire, crater-scarred landscape fading into evening mist"
+    atmosphere: "sensation of being trapped and pierced made visual through fabric destruction, vulnerability and helplessness against mechanical obstacles, contrast between human flesh and industrial warfare tools"
+  composition:
+    cameraAngle: "medium shot showing soldier entangled in wire web with threatening barbs in sharp focus"
+    focus: "points where barbed wire pierces and tears uniform fabric"
+    depth: "foreground emphasizes sharp wire details and fabric damage, middle ground shows struggling soldier, background reveals extensive wire field obstacles"

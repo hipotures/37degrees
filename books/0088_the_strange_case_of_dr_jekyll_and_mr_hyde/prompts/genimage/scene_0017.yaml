@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1880s evening, standard urban conditions without dramatic enhancement
+    location: London streets showing actual physical conditions
+    weather: Typical London fog and dampness, meteorological phenomenon without symbolic meaning
+  characters:
+  - appearance: Small pale man appearing 30-35 years old, dwarfish build around 160-165 cm, unnaturally repulsive face with
+      indefinable deformity without specific malformation, dark unkempt hair, wiry hairy hands
+    clothing: Oversized clothes belonging to taller man - coat sleeves too long, shoulders too broad, creating grotesque ill-fitting
+      appearance
+    position: Walking along cobblestone street at normal pace
+    action: Moving through urban environment, navigating around other pedestrians
+  scene:
+    mainElements: Urban infrastructure of Victorian London - cobblestone streets with standard maintenance, gas lighting providing
+      illumination, brick buildings typical of period architecture
+    details: Street shows normal evening activity - pedestrians returning home from work, shopkeepers closing establishments,
+      hansom cabs providing transportation service, gas lamps lit at regular intervals
+    background: Row houses and commercial buildings showing typical London architecture, varying states of maintenance reflecting
+      economic conditions, normal wear patterns on cobblestone surfaces
+    atmosphere: Standard urban evening environment without mystery or menace, practical lighting for pedestrian safety, typical
+      sounds and activities of metropolitan area, no text or letters visible
+  composition:
+    cameraAngle: Neutral documentary perspective showing street conditions objectively
+    focus: Actual urban environment and infrastructure without emotional interpretation
+    depth: Foreground shows street surface and immediate surroundings, middle ground captures typical evening activity, background
+      reveals standard London architecture
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

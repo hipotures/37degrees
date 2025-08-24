@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Kingdom Celebrates in Palace Square"
+  setting:
+    time: "Noon, Sasanian Persian Empire"
+    location: "Grand palace square filled with celebrating citizens and decorated for royal festival"
+    weather: "Perfect clear day with brilliant sunshine and gentle breeze"
+  characters:
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Initially rigid and imperious, gradually softening to leaning forward attentively, shoulders relaxing over time"
+      action: "Listening intently to stories, facial expressions shifting from stone-faced to engaged, occasional questioning gestures"
+    - appearance: "Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender elegant build"
+      clothing: "Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments, perfumed with sandalwood, golden jewelry including delicate earrings and bracelet"
+      position: "Seated gracefully with erect spine, hands positioned expressively for storytelling, calm and dignified demeanor"
+      action: "Narrating with subtle hand gestures, maintaining steady eye contact, speaking with measured cadence"
+    - appearance: "Young woman aged 17 years with delicate features resembling her older sister, innocent expression with wide trusting eyes, graceful but more youthful bearing"
+      clothing: "Elegant but simpler robes appropriate for younger daughter of noble house, lighter jewelry, hair arranged in youthful style"
+      position: "Standing beside her sister as new queen"
+      action: "Smiling with joy and relief at happy ending"
+    - appearance: "Man aged 28 years, similar Persian features to his brother but bearing expression of deep sadness and distraction, well-built figure of royal warrior, neat appearance despite inner turmoil"
+      clothing: "Royal robes matching his brother, crown or ceremonial turban"
+      position: "Standing beside his new bride with renewed happiness"
+      action: "Celebrating redemption of both royal brothers"
+  scene:
+    mainElements: "Vast palace square packed with celebrating citizens, royal platform elevated for ceremony, silk banners and decorations throughout square, fountains flowing with rose water"
+    details: "Thousands of citizens throwing flower petals in air, musicians playing festive melodies, dancers performing in traditional dress, silk banners in brilliant colors streaming from palace walls, fountains decorated with floating flowers, tables laden with celebratory feast, children laughing and playing, doves released into clear sky, no text or letters visible"
+    background: "Palace architecture rising majestically behind square, distant mountains visible on horizon, clear blue sky with scattered white clouds, city extending beyond palace walls"
+    atmosphere: "Universal joy and celebration, kingdom reborn through wisdom and mercy, sounds of music and laughter echoing through square, scents of rose water and festive foods, sense of stories having power to transform reality"
+  composition:
+    cameraAngle: "High wide shot showing full scale of celebration"
+    focus: "Royal family on platform as symbols of redeemed kingdom"
+    depth: "Celebrating crowd in foreground, royal platform in middle ground, palace and sky in background"

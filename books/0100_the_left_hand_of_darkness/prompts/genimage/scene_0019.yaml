@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1491 Ekumen calendar, dusk, natural twilight lighting
+    location: Border region between Karhide and Orgoreyn on planet Gethen, disputed territory near frontier checkpoint
+    weather: Heavy snow falling during winter evening, creating poor visibility
+  characters:
+  - appearance: Compact Gethenian adult 40-50 years old, stocky build with subcutaneous fat layer for insulation, smooth heavy
+      dark hair set low on forehead, black eyes, round strong face often shadowed by thick eyebrows, dark complexion
+    clothing: Winter survival gear including skis and pack, practical clothing for desperate border crossing attempt
+    position: Skiing across open terrain toward border, visible against snow background
+    action: Making final desperate attempt to cross international boundary while being pursued by border guards from both
+      nations
+  - appearance: Border guards from both Karhide and Orgoreyn, professional military bearing, carrying weapons
+    clothing: Official border patrol uniforms with winter gear, national insignia visible
+    position: Positioned at border checkpoint and in pursuit formation
+    action: Responding to border violation according to standing orders, coordinating between national forces despite political
+      tensions
+  scene:
+    mainElements: Open snow-covered terrain providing clear sightlines for border surveillance, official border markers indicating
+      international boundary, guard positions from both nations, ski tracks showing desperate flight path
+    details: Multiple angle perspectives revealing complete tactical situation - overhead view showing border geography, ground
+      level showing pursuit action, guard tower perspective showing official response, individual ski tracks in snow creating
+      visible timeline of escape attempt, falling snow limiting visibility for all parties, no text or letters visible
+    background: Winter landscape extending across international boundary, distant lights from checkpoint facilities, communication
+      equipment connecting border stations
+    atmosphere: Tragic confrontation shown from multiple angles revealing inevitability of outcome - individual desperation
+      meeting institutional authority at precise moment of political boundary enforcement
+  composition:
+    cameraAngle: Multiple simultaneous angles including overhead tactical view, ground level pursuit perspective, and guard
+      station official viewpoint
+    focus: Complete situation revealing individual courage confronting institutional authority at international boundary
+    depth: 'Foreground: individual flight attempt, middle: pursuing guard forces, background: border infrastructure and winter
+      landscape'
+visualElements:
+  colorPalette:
+    primary:
+    - often uses complementary or "opposite" color pairs (e.g., red and cyan) to represent the two chiral forms
+    - one side might be in full color, the other in monochrome
+    secondary:
+    - neutral grays and off-whites for the background
+    background: a simple, divided background or a fractured, mirror-like surface
+    usageNotes: Color is used to create a conceptual and visual divide between the object and its "twin."
+    saturation: often a high contrast in saturation between the two sides
+    contrast: high
+  lineArt:
+    style: extremely precise, clean lines to make the subtle differences in the mirrored forms apparent
+    weight: thin and consistent
+    color: black or a single, clean color
+    texture: smooth, clinical
+    edgeTreatment: sharp, precise edges
+  lighting:
+    type: stark, clinical, or theatrical lighting
+    direction: the object and its mirror image are often lit from opposite directions, creating inverted shadows
+    intensity: high contrast
+    shadows:
+      style: hard, defined shadows that are also mirrored and inverted
+      color: black or a dark, solid color
+      opacity: solid
+    highlights: sharp, specular highlights that emphasize the different facings of the two forms
+  rendering:
+    technique: clean digital illustration, vector art, or 3D rendering
+    texture: perfectly smooth, unblemished surfaces to not distract from the form
+    detailLevel: high, as the subtle differences are key to the style
+    finish: matte or semi-gloss, clinical
+  perspective: a flat, head-on, almost diagrammatic perspective
+  mood:
+    overall: unsettling, intellectual, precise
+    emotion: unease, self-consciousness, a sense of being watched or duplicated
+    tempo: static, tense
+    keywords:
+    - uncanny
+    - precise
+    - dualistic
+    - unsettling
+    - intellectual
+  stylePrecedents:
+  - M.C. Escher's work on symmetry and reflection
+  - The Doppelgänger motif in literature and film
+  - Scientific diagrams of chiral molecules
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

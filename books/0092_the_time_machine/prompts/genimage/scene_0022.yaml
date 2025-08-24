@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 802,701 CE, day/night cycle from underground perspective
+    location: Vast subterranean cavern system beneath the garden world
+    weather: Artificial underground environment with no natural weather
+  characters:
+  - appearance: Hunched ape-like humanoids shorter than normal humans, pale white or half-bleached skin like preserved specimens,
+      lank light-colored hair on head and back, large greyish-red or pinkish-grey eyes without eyelids that reflect light
+      in darkness, pale beige faces, thin fingers, cold to touch
+    clothing: No clothing described in source material - appear to be unclothed
+    position: Working at vast machinery during day hours, resting in darkness during night surface periods
+    action: Daily industrial rhythm - tending machines while surface dwells in daylight, becoming active predators when surface
+      sleeps in darkness
+  scene:
+    mainElements: Enormous dark cave with working machinery, metal ladders and handholds leading down vertical shafts, huge
+      incomprehensible machines operating in darkness, tables and surfaces suggesting industrial workspace, ventilation shafts
+      connecting to surface
+    details: Machinery shows different activity phases - day production cycles maintaining surface paradise, night preparation
+      for hunting expeditions. Furnaces burn brighter during day work, equipment rests during night hunting hours. Steam and
+      mechanical sounds provide industrial rhythm opposing surface natural cycles
+    background: Tunnel entrances show different uses - day maintenance access, night hunting exits, creating dual purpose
+      infrastructure
+    atmosphere: Industrial rhythm opposing natural cycles, underground civilization synchronized but inverted to surface life,
+      mechanical time versus organic time, darkness as opposite of surface light patterns, no text or letters visible
+  composition:
+    cameraAngle: Wide underground vista showing industrial activity cycles
+    focus: Central machinery showing different day/night operational states
+    depth: Working Morlocks in foreground, massive machinery in middle ground, tunnel systems in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

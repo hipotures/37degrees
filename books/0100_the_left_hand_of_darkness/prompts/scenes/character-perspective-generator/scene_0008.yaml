@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Orgoreyn Officials' View of Genly - Useful Tool"
+  setting:
+    time: "1491 Ekumen calendar, evening, artificial interior lighting"
+    location: "Modern bureaucratic capital of Orgoreyn republic on planet Gethen, geometric ordered architecture with wide open spaces"
+    weather: "Interior space, sterile controlled environment"
+  characters:
+    - appearance: "Several middle-aged Orgoreyn bureaucrats, compact Gethenian builds, faces showing practiced diplomatic expressions masking calculating intelligence"
+      clothing: "Formal republican administrative uniforms, clean geometric designs representing efficient modern government"
+      position: "Seated around conference table in positions of collective authority"
+      action: "Conducting diplomatic reception while privately assessing foreign visitor's value as political asset against Karhidish rivals"
+    - appearance: "Dark-skinned man, approximately 30-35 years old, tall athletic build noticeably taller than local Gethenians, strong masculine physique with less body hair than natives, dark hair and eyes"
+      clothing: "Multi-layered winter clothing adapted from Gethenian style, heavy tunic, thick pants, fur-lined boots and gloves, but garments sit differently due to his height and build"
+      position: "Seated at conference table as honored guest"
+      action: "Presenting his interstellar mission while appearing grateful for warm reception after Karhidish rejection"
+  scene:
+    mainElements: "Modern conference room with clean geometric furniture, efficient artificial lighting eliminating shadows, administrative documents and maps suggesting organized planning, sterile architectural environment"
+    details: "Foreign visitor's obvious relief at rational reception providing leverage for manipulation, advanced technology he represents offering potential military and economic advantages, his naive trust in republican hospitality making him perfect asset, uniform lighting revealing everything while concealing nothing, no text or letters visible"
+    background: "Modern administrative architecture suggesting efficient governance, glimpses of organized filing systems and communication networks, windows showing orderly cityscape under republican control"
+    atmosphere: "Calculated hospitality masking exploitation - warm reception and rational discourse serve as tools for extracting valuable intelligence and gaining strategic advantage over traditional Karhidish rivals"
+  composition:
+    cameraAngle: "Elevated perspective emphasizing collective authority of republican officials"
+    focus: "Contrast between genuine diplomatic enthusiasm and underlying bureaucratic manipulation of naive visitor"
+    depth: "Foreground: calculating officials, middle: trusting foreign visitor, background: efficient administrative machinery ready to exploit opportunity"

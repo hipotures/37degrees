@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 2016, during crisis
+    location: Control room of asteroid mining station during emergency
+    weather: Vacuum of space, emergency lighting conditions
+  characters:
+  - appearance: Mężczyzna w średnim wieku (30-40 lat), o średniej budowie i dobrej kondycji. Charakterystyczne rude włosy,
+      ekspresyjna mimika
+    clothing: Funkcjonalny kombinezon roboczy identyczny z Powellem. W ekstremalnych warunkach - masywny, biały skafander
+      ochronny
+    position: Gestykuluje energicznie rękami lub pociera dziko swoją rudą czuprynę
+    action: Wyraża frustrację gwałtownymi gestami, krzyczy przez komunikator radiowy lub biegnie w panice
+  - appearance: Mężczyzna w średnim wieku (35-45 lat), o średniej budowie ciała i dobrej kondycji fizycznej. Charakterystyczne
+      wąsy, spokojny i skoncentrowany wyraz twarzy
+    clothing: Funkcjonalny kombinezon roboczy w kolorze khaki lub ciemnoniebieskim z naszywkami firmowymi. W ekstremalnych
+      warunkach - masywny, biały skafander ochronny
+    position: Stoi z rękami na biodrach lub pochyla się nad panelem kontrolnym
+    action: Szczypie lub pociąga za wąsy podczas głębokiego namysłu, analizuje problem techniczny
+  scene:
+    mainElements: Emergency control room with flashing red warning lights, oxygen level indicators dropping, communication
+      equipment crackling with static
+    details: Donovan wildly rubbing his red hair in frustration, Powell's calm analysis contrasting with partner's panic,
+      time pressure mounting as air supply dwindles
+    background: Asteroid mining facility in crisis mode, dark tunnels beyond control room, mining robots continuing their
+      mysterious dance while humans face death
+    atmosphere: Life-threatening emergency revealing character under pressure. Professional competence versus emotional breakdown
+      in confined space
+  composition:
+    cameraAngle: Medium shot capturing the contrast between calm and panic
+    focus: Donovan's animated distress as he realizes their desperate situation
+    depth: Foreground shows human drama, middle ground the technical crisis, background the deadly environment they cannot
+      escape
+visualElements:
+  colorPalette:
+    primary:
+    - atomic red
+    - turquoise
+    - chrome
+    - sunny yellow
+    secondary:
+    - mint green
+    - coral pink
+    - space blue
+    background: bright optimistic sky or atomic facility
+    usageNotes: Bright, optimistic colors of the atomic age
+    saturation: high
+    contrast: medium to high
+  lineArt:
+    style: sleek atomic age curves and angles
+    weight: bold, confident lines
+    color: black or chrome outlines
+    texture: smooth, manufactured
+    edgeTreatment: sharp angles meet smooth curves
+  lighting:
+    type: bright, optimistic lighting
+    direction: clear, well-lit environments
+    intensity: bright and cheerful
+    shadows:
+      style: minimal, stylized
+      color: cool blue shadows
+      opacity: light
+    highlights: chrome gleams, atomic glow
+  rendering:
+    technique: mid-century illustration style
+    texture: smooth surfaces, atomic motifs
+    detailLevel: moderate with atomic age details
+    finish: glossy, polished surfaces
+  perspective: architectural and product showcase angles
+  mood:
+    overall: optimistic, progressive, atomic-powered
+    emotion: confidence, progress, nuclear optimism
+    tempo: upbeat, forward-moving
+    keywords:
+    - optimistic
+    - atomic
+    - progressive
+    - confident
+    - futuristic
+  stylePrecedents:
+  - Fallout game series aesthetics
+  - 1950s World's Fair designs
+  - Googie architecture
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

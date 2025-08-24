@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 19th Century India, daytime
+    location: The high canopy of the Seeonee jungle.
+    weather: Bright and sunny.
+  characters:
+  - appearance: A young boy, around 7 years old. Slender, yet muscular and hardy build. Brown skin. Long, black, disheveled
+      hair. Wears a simple loincloth made of woven leaves or animal hide.
+    clothing: Wears a simple loincloth made of woven leaves or animal hide.
+    position: Being carried and swung through the trees by a group of monkeys.
+    action: A mixture of fear and excitement on his face as he is whisked through the treetops at a dizzying speed.
+  - appearance: A chaotic, chattering mass of monkeys (langurs).
+    clothing: None
+    position: Swinging from branch to branch, pulling Mowgli along with them.
+    action: Moving with a reckless, disorganized energy. They are the embodiment of anarchy and lawlessness.
+  scene:
+    mainElements: The kidnapping of Mowgli by the Bandar-log. A scene of chaotic movement and energy.
+    details: The jungle canopy is a blur of green and brown as Mowgli is carried through it. The monkeys are a chattering,
+      screeching horde. The sun flashes through the leaves, creating a strobe effect. no text or letters visible
+    background: The jungle floor is a distant, dizzying sight below.
+    atmosphere: Chaotic, dangerous, and exhilarating. The lawless energy of the Bandar-log is contrasted with the ordered
+      world Mowgli has known. no text or letters visible
+  composition:
+    cameraAngle: Dynamic, moving shot, as if the camera is swinging through the trees with Mowgli and the monkeys.
+    focus: Mowgli's face, capturing his conflicting emotions of terror and fascination.
+    depth: A dizzying sense of height and speed, with the jungle canopy and floor constantly shifting.
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

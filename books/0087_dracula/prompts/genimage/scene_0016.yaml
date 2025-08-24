@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Late 19th century, evening dinner hour with candles lit
+    location: Interior of elegant Victorian dining room with formal table setting
+    weather: Night with windows showing darkness outside
+  characters: No characters present in this scene
+  scene:
+    mainElements: Long mahogany dining table set for dinner with white linen, crystal glasses, and silver service. Multiple
+      candelabras providing warm, flickering illumination. Elegant Victorian furniture and wallpaper visible in candlelight
+    details: Candle flames creating dancing shadows on walls and ceiling. Crystal glasses and silver reflecting warm candlelight
+      with multiple tiny flame images. White table linen glowing softly in warm light. Ornate wallpaper patterns partially
+      visible in dim areas beyond direct light. Heavy curtains drawn over windows showing black night outside
+    background: Formal Victorian interior with suggestion of parlor or drawing room beyond. Portraits on walls barely visible
+      in shadow areas between candle pools
+    atmosphere: Intimate, warm domesticity of upper-class Victorian home. Cozy contrast between warm interior and cold night
+      outside. Sense of civilized comfort and refined living. Peaceful evening meal preparation with family gathering implied.
+      Candles creating magical, romantic ambiance. No text or letters visible
+  composition:
+    cameraAngle: Table level view across formal dining setting
+    focus: Candlelit dining table with emphasis on warm light effects and elegant appointments
+    depth: Foreground table settings and candles, middle ground dining furniture, background dim Victorian interior spaces
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - crimson red
+    secondary:
+    - rich purple
+    - forest green
+    - ivory white
+    background: gold backgrounds or architectural settings
+    usageNotes: Rich, jewel-like colors often with gold accents
+    saturation: high (rich medieval pigments)
+    contrast: medium to high (dramatic religious scenes)
+  lineArt:
+    style: linear, decorative outlines
+    weight: consistent, defining contours
+    color: dark outlines defining forms
+    texture: flat, decorative treatment
+    edgeTreatment: clean, defined edges
+  lighting:
+    type: symbolic rather than naturalistic lighting
+    direction: divine light from above
+    intensity: spiritual, not physical
+    shadows:
+      style: minimal, symbolic shadows
+      color: darker versions of base colors
+      opacity: subtle
+    highlights: gold leaf highlights, divine radiance
+  rendering:
+    technique: flat, decorative painting
+    texture: smooth with decorative patterns
+    detailLevel: high in decoration, simplified in form
+    finish: often matte with gold leaf accents
+  perspective: hierarchical perspective, not linear
+  mood:
+    overall: spiritual, majestic, transcendent
+    emotion: reverence, awe, devotion
+    tempo: solemn, timeless
+    keywords:
+    - spiritual
+    - majestic
+    - transcendent
+    - devotional
+    - hierarchical
+  stylePrecedents:
+  - Chartres Cathedral windows
+  - Gothic illuminated manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

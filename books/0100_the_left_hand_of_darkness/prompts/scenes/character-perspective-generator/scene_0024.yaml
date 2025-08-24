@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Split Reality - Starship Arrival as Liberation/Invasion"
+  setting:
+    time: "1497 Ekumen calendar, daytime, natural lighting with artificial light from spacecraft"
+    location: "Open landing area outside Erhenrang capital of Karhide, designated space for interstellar contact"
+    weather: "Clear cold day allowing good visibility for historic event"
+  characters:
+    - appearance: "Gethenian citizens representing various political viewpoints, compact builds typical of planet's inhabitants, faces showing mixed emotions"
+      clothing: "Mix of formal ceremonial dress and practical daily wear, some carrying family banners, others remaining deliberately inconspicuous"
+      position: "Gathered at safe distance from landing site, arranged in informal groups reflecting different political opinions"
+      action: "Witnessing historic first contact while interpreting event according to conflicting political perspectives - some seeing liberation and others seeing invasion"
+    - appearance: "Ekumen crew members emerging from spacecraft, representing various human worlds with different physical characteristics"
+      clothing: "Interstellar travel suits and formal diplomatic attire appropriate for historic first contact"
+      position: "Emerging from spacecraft and establishing formal diplomatic contact"
+      action: "Conducting official first contact protocols while being interpreted simultaneously as liberators and invaders"
+  scene:
+    mainElements: "Advanced interstellar spacecraft representing technological superiority, designated landing area prepared for diplomatic contact, Gethenian architecture providing cultural contrast, formal diplomatic reception arrangements"
+    details: "Same technological display interpreted as both beneficial advancement and threatening domination, advanced spacecraft appearing as salvation to some observers and menace to others, diplomatic protocols seen as respectful engagement or cultural invasion, formal arrangements suggesting both celebration and surrender, no text or letters visible"
+    background: "Karhidish capital architecture representing local culture potentially being transformed, distant crowds showing mixed public reaction, official reception area suggesting governmental cooperation"
+    atmosphere: "Historic moment interpreted simultaneously as liberation bringing advanced civilization and invasion threatening traditional culture - identical event containing both hope and fear depending on political perspective"
+  composition:
+    cameraAngle: "Split perspective showing same event interpreted as both welcome liberation and threatening invasion"
+    focus: "Contrast between technological advancement as benefit versus threat, diplomatic contact as opportunity versus domination"
+    depth: "Foreground: mixed crowd reactions, middle: historic contact ceremony, background: spacecraft representing unknown future possibilities"

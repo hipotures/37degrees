@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: December 1872, symbolic timeless moment
+    location: Earth viewed from space showing global connectivity achieved through Victorian technology
+    weather: Clear cosmic perspective with Earth's weather systems visible from space
+  characters: No characters present in this scene
+  scene:
+    mainElements: Earth as seen from cosmic perspective with visible traces of human global connectivity, steamship routes
+      and railway lines creating network across continents, symbolic representation of world shrunk by Victorian technology
+    details: Earth's blue oceans with white cloud formations showing natural beauty, continents clearly visible with geographic
+      features, symbolic representation of major steamship routes across Pacific Atlantic and Indian Oceans shown as gentle
+      lines connecting continents, railway networks visible as thin lines across major landmasses including transcontinental
+      routes, major cities glowing softly showing centers of civilization and commerce, telegraph cable routes connecting
+      continents under oceans, British Empire territories showing global reach, trade routes connecting Europe Asia Africa
+      and Americas
+    background: Cosmic space with stars showing Earth's place in universe, moon visible in distance, infinite space emphasizing
+      planet's unity
+    atmosphere: Wonder at human achievement in connecting global distances, sense of technological triumph making world smaller,
+      perspective on human unity despite cultural differences encountered in journey
+  composition:
+    cameraAngle: Cosmic perspective showing full Earth with emphasis on connectivity and global unity
+    focus: Earth as unified globe connected by human technology and commerce
+    depth: Earth filling frame in foreground showing continental detail, space and stars providing infinite cosmic context,
+      sense of achieved human reach across planetary distances
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Empty Throne Room Echoes"
+  setting:
+    time: "Ancient Bronze Age Greece, evening"
+    location: "Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean walls of irregular limestone blocks"
+    weather: "Approaching dusk with heavy gray sky, first hints of storm"
+  characters:
+    "No characters present in this scene"
+  scene:
+    mainElements: "Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps leading to entrance, paved courtyard with cracked stones and sprouting weeds"
+    details: "Empty courtyard where heated arguments just took place. Simple but heavy gold circlet left abandoned on palace steps where king departed in rage. Long staff topped with royal emblem leaning against palace wall, temporarily forgotten. Cracks in flagstones appearing deeper and more numerous. Weeds growing more prominently between stones. Palace doors standing half-open, revealing darkness within. No text or letters visible"
+    background: "Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone appearing more forbidding as light fades"
+    atmosphere: "Abandoned aftermath of conflict, emptiness where authority once stood firm, established patterns broken and disrupted"
+  composition:
+    cameraAngle: "Wide establishing shot of empty courtyard with abandoned royal symbols"
+    focus: "The absence of figures emphasizing the void left by conflict, abandoned symbols of power"
+    depth: "Foreground shows scattered royal regalia on steps, middle ground captures empty courtyard space, background shows darkening palace doors"

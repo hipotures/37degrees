@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: February 1897, afternoon during village chaos
+    location: Coach and Horses Inn parlor and surrounding area, scene of supernatural confrontation
+    weather: Bright afternoon creating stark visibility of impossible events
+  characters:
+  - appearance: Village constable with determined expression but growing confusion, robust middle-aged man
+    clothing: Dark blue police tunic with brass buttons, custodian helmet typical of Sussex constabulary, leather belt with
+      handcuffs
+    position: Center of parlor attempting to maintain order, arms outstretched trying to grasp invisible opponent
+    action: Wrestling with unseen force, attempting to apply handcuffs to empty air
+  - appearance: Middle-aged innkeeper woman with practical bearing, sturdy build suited to inn work, determined expression,
+      graying hair pulled back
+    clothing: Dark wool dress with white apron, practical working garments suited to inn management, small lace cap typical
+      of respectable innkeeper
+    position: Huddled with other villagers against wall
+    action: Backing away from mysterious disturbances in visible fear
+  scene:
+    mainElements: Constable grappling with invisible opponent, furniture moving without apparent cause, handcuffs clicking
+      shut on empty space, villagers witnessing breakdown of law and order
+    details: Police helmet knocked askew during struggle, brass buttons catching sunlight as constable spins, handcuffs hanging
+      in mid-air, villagers pointing in amazement and terror
+    background: Familiar inn transformed into battlefield between natural and supernatural, afternoon light making every impossible
+      detail visible
+    atmosphere: Authority rendered powerless against supernatural force, traditional law enforcement meeting impossible challenge,
+      community foundation shaken
+  composition:
+    cameraAngle: Medium shot emphasizing constable's futile struggle
+    focus: Contrast between solid authority figure and invisible adversary
+    depth: Foreground shows constable's determined but failing efforts, middle ground captures floating objects, background
+      reveals horrified witnesses, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - cyan
+    - magenta
+    - yellow
+    - black
+    secondary:
+    - neon green
+    - electric blue
+    - hot pink
+    background: digital noise patterns
+    usageNotes: RGB color separation, chromatic aberration
+    saturation: oversaturated in glitches
+    contrast: extreme, broken
+  lineArt:
+    style: fragmented, displaced
+    weight: varies, breaks apart
+    color: RGB separated
+    texture: digital corruption
+    edgeTreatment: jagged, pixelated
+  lighting:
+    type: broken digital light
+    direction: chaotic, multiple
+    intensity: flickering, unstable
+    shadows:
+      style: corrupted, displaced
+      color: inverted or shifted
+      opacity: glitched
+    highlights: blown out, data errors
+  rendering:
+    technique: digital manipulation
+    texture: compression artifacts, scan lines
+    detailLevel: corrupted data
+    finish: intentionally broken
+  perspective: warped, unstable
+  mood:
+    overall: chaotic, modern, rebellious
+    emotion: disruption, unease, energy
+    tempo: erratic, pulsing
+    keywords:
+    - chaotic
+    - digital
+    - rebellious
+    - unstable
+    - energetic
+  postProcessing:
+    effects:
+    - datamoshing
+    - pixel sorting
+    - RGB split
+    filters: compression artifacts
+    adjustments:
+      saturation: broken
+      contrast: extreme
+  stylePrecedents:
+  - Rosa Menkman glitch art theory and practice
+  - JODI (Joan Heemskerk and Dirk Paesmans) net.art movement
+  - Nam June Paik early video art experiments
+  - Databending and hex editing techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

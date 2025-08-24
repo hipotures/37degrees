@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1780s, early morning
+    location: Hills overlooking Lake Geneva and Frankenstein villa
+    weather: Clear dawn with mist rising from lake waters
+  characters:
+  - appearance: Gigantic humanoid figure standing approximately eight feet tall with proportionally massive build possessing
+      superhuman strength, thin yellowish translucent skin revealing underlying muscle structure and blood vessels, lustrous
+      flowing black hair, watery pale eyes set in colorless sockets, straight black lips contrasting sharply with pearl-white
+      teeth, visible surgical scars and stitching marks across body where body parts were joined together
+    clothing: Ill-fitting torn and patched garments scavenged from various sources, initially wearing Victor's laboratory
+      clothes stretched grotesquely over massive frame, later collection of mismatched rural clothing including worn dark
+      cloak, rough peasant shirt, tattered trousers, makeshift footwear, all showing signs of weathering and hard travel
+    posture: Moves with unnatural grace despite massive size, capable of superhuman agility across difficult terrain, stands
+      with commanding presence that inspires immediate terror, when emotional displays hunched shoulders of deep anguish or
+      threatening stance of rage
+    action: Moving with impossible speed across mountain slopes and ice fields, reading books by firelight, observing human
+      families from hiding, strangling victims with massive hands, or pleading eloquently for understanding and companionship
+  scene:
+    mainElements: Creature standing on mountain slope gazing down at peaceful Geneva below, family villa visible across sparkling
+      lake, early morning light making city appear like paradise on earth
+    details: Geneva appearing as promised land of acceptance and belonging, villa where creator lives seeming like castle
+      of dreams where reunion awaits, lake waters reflecting sunrise like pathway to salvation, distant figures of people
+      moving about their daily lives appearing as potential family members, church spires suggesting spiritual sanctuary,
+      gardens and terraces promising places of peace and welcome, creature's hopeful expression despite fearsome appearance,
+      no text or letters visible
+    background: Alpine peaks creating protective embrace around beautiful valley, peaceful countryside suggesting harmony
+      between nature and civilization
+    atmosphere: Desperate hope and longing for acceptance, Geneva transformed by creature's need into vision of homeland where
+      outcast might find belonging, innocent faith that creator's family will welcome their father's greatest achievement
+  composition:
+    cameraAngle: Creature's yearning gaze down toward Geneva, city appearing as destination of pilgrimage
+    focus: Frankenstein villa appearing as beacon of hope across shimmering water
+    depth: Foreground shows creature's massive form poised for descent, middle ground captures idealized vision of Geneva,
+      background suggests journey's end and hope fulfilled
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - charcoal gray
+    - blood red
+    secondary:
+    - deep purple
+    - midnight blue
+    - silver
+    background: stormy night sky or dim cathedral interior
+    usageNotes: Mostly desaturated dark tones with occasional rich accent colors (e.g., red stained glass)
+    saturation: low overall, with high-saturation accents
+    contrast: high (very dark shadows vs piercing light)
+  lineArt:
+    style: elaborate, fine gothic detailing
+    weight: varied (fine filigree to bold silhouettes)
+    color: black or very dark ink
+    texture: sharp, spiky architectural forms
+    edgeTreatment: crisp edges on structures, wispy edges on fog/mist
+  lighting:
+    type: dramatic high-contrast (moonlight, torchlight)
+    direction: side or backlighting to create silhouettes
+    intensity: intense in beams, deep darkness elsewhere
+    shadows:
+      style: heavy, ornate shadows (through rose windows or railing)
+      color: cold blue or purple tint
+      opacity: opaque
+    highlights: moon glows, candle flames highlighting details
+  rendering:
+    technique: digital or oil painting with rich texture
+    texture: weathered stone, mist, velvet drapery
+    detailLevel: high (architectural ornament, creature features)
+    finish: matte overall with glints on wet or metallic surfaces
+  perspective: dramatic angles (looking up at spires or down from heights to convey grandeur)
+  mood:
+    overall: dark, brooding, majestic
+    emotion: fear, awe, melancholy
+    tempo: slow, ominous
+    keywords:
+    - dark
+    - ornate
+    - haunting
+    - majestic
+    - mysterious
+  stylePrecedents:
+  - Gerald Brom (dark fantasy art)
+  - Castlevania game art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

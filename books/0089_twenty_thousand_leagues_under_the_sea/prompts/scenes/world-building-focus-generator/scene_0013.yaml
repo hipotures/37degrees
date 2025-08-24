@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Nautilus museum displaying art treasures and cultural artifacts from around the world"
+  setting:
+    time: "1866, afternoon with carefully controlled lighting to preserve artworks"
+    location: "Museum gallery within Nautilus salon showcasing cultural treasures"
+    weather: "Perfect climate control protecting priceless artifacts from humidity and temperature fluctuations"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Wielki majestatyczny instrument wbudowany w ścianę salonu z ciemnego polerowanego drewna i rzędami metalowych piszczałek. Art gallery featuring paintings by Renaissance masters including works attributed to Raphael, Leonardo da Vinci, Titian, and Veronese hanging between displays of exotic weapons and cultural artifacts. Rare specimens of marine fauna displayed in custom cases alongside artistic treasures from different civilizations."
+    details: "The collection represents cultural achievements from around the world, suggesting Captain Nemo's appreciation for human civilization despite his rejection of contemporary society. Paintings are protected by special glass that filters harmful light. Exotic weapons from various cultures are displayed as both artistic objects and historical artifacts. The museum demonstrates that while Nemo has abandoned surface world politics, he preserves its greatest cultural achievements."
+    background: "Additional galleries extend throughout the submarine, housing one of the world's most valuable private collections in an underwater sanctuary."
+    atmosphere: "Cultural preservation and intellectual refinement. This space represents humanity's greatest artistic achievements preserved in an underwater sanctuary, suggesting that while Nemo rejects contemporary civilization, he values human cultural heritage."
+  composition:
+    cameraAngle: "Medium wide shot emphasizing the scale and quality of the art collection"
+    focus: "The juxtaposition of Renaissance masterpieces with exotic artifacts in an underwater setting"
+    depth: "Foreground shows detailed artwork and artifact displays, middle ground features the organ and central gallery space, background reveals additional collection areas"

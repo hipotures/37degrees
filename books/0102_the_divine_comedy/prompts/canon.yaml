@@ -1,0 +1,90 @@
+canon:
+  characters:
+    - id: "dante_pilgrim"
+      name: "Dante the Pilgrim"
+      description_block: |
+        characters:
+          - appearance: "Man in mid-30s, average height, dark hair, Italian features, thoughtful expression with deep contemplative eyes"
+            clothing: "Dark brown medieval hooded cloak over simple dark tunic and brown leather boots, travel-worn garments"
+            posture: "Standing upright but slightly hesitant, hands often clasped or gesturing as he speaks"
+    
+    - id: "virgil_guide"
+      name: "Virgil the Guide" 
+      description_block: |
+        characters:
+          - appearance: "Elderly man in 60s, tall and dignified, Roman features with noble bearing, wise penetrating gaze, graying hair and beard"
+            clothing: "Classical Roman white toga with purple trim, leather sandals, carries himself with ancient authority"
+            posture: "Confident and guiding, often pointing or leading the way with authoritative gestures"
+    
+    - id: "beatrice_guide"
+      name: "Beatrice the Divine Guide"
+      description_block: |
+        characters:
+          - appearance: "Young woman in 20s, ethereal beauty, luminous pale skin, long flowing golden hair, radiant compassionate eyes"
+            clothing: "Flowing white and gold celestial robes that seem to shimmer with inner light, crown of stars or flowers"
+            posture: "Graceful and otherworldly, often with arms extended in welcome or blessing, floating slightly above ground"
+
+  locations:
+    - id: "dark_forest"
+      name: "Dark Forest of Error"
+      description_block: |
+        setting:
+          location: "Dense primordial forest in medieval Italy, ancient twisted trees blocking sunlight"
+        mainElements: "Massive gnarled oak and beech trees with intertwining branches forming natural archways, thick undergrowth"
+        atmosphere: "Oppressive darkness with filtered green light, sense of being lost and disoriented, mysterious and threatening"
+
+    - id: "hell_gates" 
+      name: "Gates of Hell"
+      description_block: |
+        setting:
+          location: "Massive stone entrance carved into mountainside, threshold between mortal world and underworld"
+        mainElements: "Towering dark stone archway with carved inscription above, iron-reinforced wooden doors"
+        atmosphere: "Foreboding and eternal, emanating sense of finality and despair, ancient weathered stone"
+
+    - id: "river_acheron"
+      name: "River Acheron"
+      description_block: |
+        setting:
+          location: "Dark infernal river forming boundary of Hell, flowing through rocky underworld landscape"
+        mainElements: "Wide dark waters with occasional ripples, rocky shores with scattered boulders, mist rising from surface"
+        atmosphere: "Grim and otherworldly, sound of flowing water echoing in cavernous space, perpetual twilight"
+
+    - id: "purgatory_mountain"
+      name: "Mount Purgatory"
+      description_block: |
+        setting:
+          location: "Massive conical mountain rising from ocean in southern hemisphere, seven terraced levels ascending to summit"
+        mainElements: "Rocky mountain with visible terraced paths winding upward, clouds surrounding peak, steep cliffsides"
+        atmosphere: "Hopeful yet challenging, sense of upward journey and spiritual ascent, natural beauty mixed with difficulty"
+
+    - id: "earthly_paradise"
+      name: "Earthly Paradise"
+      description_block: |
+        setting:
+          location: "Garden of Eden atop Mount Purgatory, pristine natural paradise with perfect climate"
+        mainElements: "Lush green meadows with exotic flowers, crystal-clear streams, ancient trees bearing fruit"
+        atmosphere: "Perfect peace and natural harmony, golden light filtering through leaves, gentle breeze and flowing water"
+
+    - id: "celestial_spheres"
+      name: "Celestial Spheres of Heaven"
+      description_block: |
+        setting:
+          location: "Cosmic realm of crystalline spheres surrounding Earth, each sphere representing celestial body"
+        mainElements: "Transparent crystalline spheres with brilliant points of light, geometric patterns of divine light"
+        atmosphere: "Overwhelming divine radiance, sense of infinite space and perfect harmony, celestial music"
+
+  items:
+    - id: "abandoned_ship"
+      name: "Charon's Ferry"
+      description_block: |
+        details: "Ancient wooden boat with weathered hull, single mast with tattered dark sail, used to transport souls across infernal rivers"
+
+    - id: "divine_light"
+      name: "Divine Light of Paradise"
+      description_block: |
+        details: "Brilliant white and golden light that increases in intensity approaching God, source of all illumination in Paradise"
+
+    - id: "purifying_flames"
+      name: "Purifying Flames of Purgatory"
+      description_block: |
+        details: "Cleansing fire that burns away sin without harming the purified soul, appears as translucent orange-gold flames"

@@ -1,0 +1,126 @@
+canon:
+  characters:
+    - id: "hari_seldon_elderly"
+      name: "Hari Seldon (Elderly)"
+      description_block: |
+        characters:
+          - appearance: "elderly man in 70s, thin and scholarly build, slightly stooped posture from years of academic work, intelligent penetrating eyes, weathered face showing lifetime of intellectual pursuits"
+            clothing: "conservative academic robes of Trantor University, well-tailored but functional dark fabric, subtle academic insignia, no imperial ostentation"
+            position: "seated in wheelchair or standing with support, commanding presence despite physical frailty"
+            action: "speaking with calm mathematical certainty, gesturing precisely to emphasize key points"
+
+    - id: "hari_seldon_hologram"
+      name: "Hari Seldon (Hologram)"
+      description_block: |
+        characters:
+          - appearance: "ethereal projection of elderly man, rendered in monochromatic blue light, slightly translucent, noble features visible through ghostly luminescence"
+            clothing: "simple academic robes visible through holographic rendering, wheelchair clearly defined in projection"
+            position: "seated in wheelchair within holographic field, upright and dignified despite physical limitations"
+            action: "delivering pre-recorded message with prophetic authority, eyes seeming to look directly at viewer"
+
+    - id: "gaal_dornick"
+      name: "Gaal Dornick"
+      description_block: |
+        characters:
+          - appearance: "young man in 20s, average build, scholarly appearance, wide eyes showing wonder and intelligence, clean-shaven provincial look"
+            clothing: "simple planet-made garments of natural-looking fibers, less refined cut than Trantorian fashion, practical travel clothes showing his outsider status"
+            position: "standing with slight uncertainty, body language showing awe and disorientation"
+            action: "observing surroundings with mathematical mind, taking notes or analyzing new information"
+
+    - id: "salvor_hardin"
+      name: "Salvor Hardin"
+      description_block: |
+        characters:
+          - appearance: "middle-aged man in 40s, solid and grounded build, expressive intelligent face, calculating or ironic expression, pragmatic politician's bearing"
+            clothing: "practical well-tailored suit suitable for frontier world leader, functional garments without imperial opulence, mayor's attire"
+            position: "seated confidently or standing with authority, relaxed but commanding posture"
+            action: "smoking cigar as signature prop, gesturing to emphasize political points, projecting calm confidence during crises"
+
+    - id: "hober_mallow"
+      name: "Hober Mallow"
+      description_block: |
+        characters:
+          - appearance: "man in 30s with brown skin, athletic and capable build, self-assured trader's demeanor, weathered features from space travel"
+            clothing: "practical trader's garments, durable leather-like jacket, sturdy boots, visible holstered blaster, clothes adapted for interstellar travel"
+            position: "standing with confident assertive posture, ready for action or negotiation"
+            action: "demonstrating technology or engaged in commercial negotiation, hands-on approach to problem-solving"
+
+  locations:
+    - id: "trantor_surface"
+      name: "Trantor Surface"
+      description_block: |
+        setting:
+          location: "artificial metallic cityscape covering entire planet surface, multi-level urban canyons stretching to horizon under controlled artificial sky"
+        mainElements: "towering metal structures in Deco-Brutalist architecture, layered transportation tubes, massive public spaces with artificial lighting"
+        atmosphere: "overwhelming scale creating sense of claustrophobia despite vastness, oppressive but majestic, dominated by cold metallic surfaces and synthetic illumination"
+
+    - id: "trantor_imperial_district"
+      name: "Trantor Imperial District"
+      description_block: |
+        setting:
+          location: "exclusive natural preserve within metallic planet-city, one hundred square miles of authentic soil and vegetation under open sky"
+        mainElements: "real trees and gardens, natural pathways, authentic stone buildings, clear sky visible above - stark contrast to metal-covered world"
+        atmosphere: "isolated paradise emphasizing Emperor's separation from forty-five billion subjects, ultimate symbol of power and privilege"
+
+    - id: "terminus_landscape"
+      name: "Terminus Landscape"
+      description_block: |
+        setting:
+          location: "rocky frontier planet on galactic rim, high water-to-land ratio with scattered archipelagos under star-sparse sky"
+        mainElements: "rugged stone islands, expansive ocean, minimal vegetation on rocky outcroppings, simple colonial architecture"
+        atmosphere: "remote and austere, emphasizing isolation from galactic center, natural palette contrasting with artificial Imperial worlds"
+
+    - id: "terminus_city_hall"
+      name: "Terminus City Hall"
+      description_block: |
+        setting:
+          location: "central government building in Terminus City, built on standard Imperial colonial grid pattern"
+        mainElements: "functional modular architecture in Utilitarian Frontier style, local stone construction, practical design without ornamentation"
+        atmosphere: "pragmatic and efficient, emphasizing function over form, represents Foundation's practical approach to governance"
+
+    - id: "vault_chamber"
+      name: "Seldon Vault Chamber"
+      description_block: |
+        setting:
+          location: "mysterious sealed chamber in Terminus City central square, smooth dark metal construction"
+        mainElements: "simple windowless structure with seamless walls, single entrance that opens automatically at predetermined times"
+        atmosphere: "cryptic and ominous, architectural style alien to utilitarian Terminus buildings, suggesting ancient or otherworldly origin"
+
+    - id: "anacreon_throne_room"
+      name: "Anacreon Throne Room"
+      description_block: |
+        setting:
+          location: "royal audience chamber in Anacreon palace, once-grand Imperial style now showing decay"
+        mainElements: "deteriorating grandeur with tarnished metal, faded tapestries, jury-rigged technology, oversized throne and ceremonial spaces"
+        atmosphere: "fallen majesty, barbaric imitation of Imperial magnificence, visible signs of technological regression and neglect"
+
+  items:
+    - id: "personal_force_shield"
+      name: "Personal Force Shield"
+      description_block: |
+        details: "invisible energy field surrounding user, becomes briefly visible when struck - shimmering transparent barrier with hexagonal energy patterns, different colors indicating origin: royal gold for Imperial models, practical white-blue for Foundation versions"
+
+    - id: "blaster_weapon"
+      name: "Blaster"
+      description_block: |
+        details: "solid metallic energy weapon with 1940s industrial design aesthetic, substantial weight and physical controls, Imperial versions larger and more ornate with engravings, Foundation models compact and utilitarian, coherent colored energy beam rather than laser point"
+
+    - id: "atomic_technology"
+      name: "Atomic Devices"
+      description_block: |
+        details: "miniaturized nuclear-powered gadgets, Foundation versions elegant and compact contrasting with bulky Imperial equivalents, visible atomic symbols and energy indicators, representing technological superiority through efficiency rather than size"
+
+    - id: "prime_radiant"
+      name: "Prime Radiant"
+      description_block: |
+        details: "crystalline multifaceted device or dark sphere opening like puzzle box, projects three-dimensional holographic matrix of glowing mathematical equations filling space around it, dynamic flowing calculations in black-white-red color scheme, mystical appearance representing psychohistory itself"
+
+    - id: "imperial_spaceship"
+      name: "Imperial Spaceship"
+      description_block: |
+        details: "colossal vessels up to two miles long, ornate decorative architecture with Imperial symbols, spacious but inefficient design requiring large crews, visible signs of age and makeshift repairs, bridges resembling throne rooms more than command centers"
+
+    - id: "foundation_trader_ship"
+      name: "Foundation Trading Ship"
+      description_block: |
+        details: "compact efficient vessels designed for small crews, every surface covered with instruments, no wasted space, advanced but tactile technology with sharp displays and integrated systems, functional design prioritizing effectiveness over comfort"

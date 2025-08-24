@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1962, quiet afternoon
+    location: Private study space showing the temporal journey of sacred oracle through decades of consultation
+    weather: Soft overcast light filtering through window
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient Chinese divination system showing temporal transformation from pristine new artifact to worn sacred
+      object, ghostly overlays revealing decades of consultation by desperate souls seeking guidance
+    details: Leather cylindrical case weathered from countless handlings, 49 dried yarrow stalks worn smooth at tips from
+      repeated casting, three old Chinese coins with square holes polished to dark gleam from frequent use, consultation cloth
+      bearing faint stains from years of ritual use, surrounding papers showing accumulated wisdom and interpretations, dust
+      motes dancing in afternoon light, no text or letters visible
+    background: Simple wooden table in quiet corner, shelves lined with books showing various stages of wear and consultation,
+      window providing soft natural illumination
+    atmosphere: Sacred reverence accumulated through decades of spiritual seeking, time's passage evident in every worn surface
+      and smooth edge, transformation from mere object to holy relic through sustained human faith and desperate consultation
+  composition:
+    cameraAngle: Close-up angled view of oracle components with shallow depth of field
+    focus: Worn yarrow stalks and coins showing temporal patina with ghostly overlays of pristine condition
+    depth: 'Foreground: oracle components in sharp detail, middle: consultation area and cloth, background: study environment
+      softly blurred'
+visualElements:
+  colorPalette:
+    primary:
+    - gold metallic
+    - deep black
+    - pearl white
+    secondary:
+    - silver chrome
+    - ruby red
+    - sapphire blue
+    background: luxurious art deco interiors or streamlined cityscapes
+    usageNotes: Rich, luxurious colors with metallic accents
+    saturation: high (rich, glamorous colors)
+    contrast: high (dramatic art deco contrasts)
+  lineArt:
+    style: precise geometric art deco patterns
+    weight: bold, confident lines
+    color: metallic gold or silver outlines
+    texture: smooth, polished metallic surfaces
+    edgeTreatment: sharp, precise geometric edges
+  lighting:
+    type: dramatic luxury lighting, spotlight effects
+    direction: theatrical lighting emphasizing glamour
+    intensity: bright highlights on metallic surfaces
+    shadows:
+      style: dramatic geometric shadows
+      color: deep blacks or rich dark colors
+      opacity: solid, dramatic
+    highlights: brilliant metallic reflections and luxury glints
+  rendering:
+    technique: precise art deco illustration with metallic finishes
+    texture: polished metals, smooth glass, luxurious fabrics
+    detailLevel: high (intricate art deco ornamentation)
+    finish: highly polished, reflective surfaces
+  perspective: dramatic angles emphasizing art deco grandeur
+  mood:
+    overall: luxurious, elegant, sophisticated
+    emotion: glamour, sophistication, refined power
+    tempo: stately, magnificent
+    keywords:
+    - luxurious
+    - elegant
+    - sophisticated
+    - glamorous
+    - refined
+  stylePrecedents:
+  - 1930s Art Deco architecture
+  - Streamline Moderne design
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

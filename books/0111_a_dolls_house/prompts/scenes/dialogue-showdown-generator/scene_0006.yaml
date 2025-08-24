@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Silent Desperation - Nora's Clenched Hands"
+  setting:
+    time: "1879, Christmas morning"
+    location: "Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie sufity, duże okno, kilkoro drzwi leading to other parts"
+    weather: "Bright Christmas morning, deceptively cheerful light"
+  characters:
+    - appearance: "Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with inner strength"
+      clothing: "Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material"
+      position: "Standing near window, back partially to room"
+      action: "Hands clenched tightly together behind her back, knuckles white with tension, staring out window with forced composure"
+  scene:
+    mainElements: "Same mieszczański salon in Christiania during Boże Narodzenie period, decorated for święta"
+    details: "Initially piękna zielona choinka symbolizing nadzieja and radość świąt, later becomes ogołocona potargana with wypalone świeczki, visual representation of psychological rozkład and rozpadu małżeństwa. The Christmas morning light streaming through windows contrasts with Nora's internal turmoil. Her white knuckles and rigid posture reveal the stress she's hiding."
+    background: "Christmas decorations and morning light create ironic backdrop for her growing desperation"
+    atmosphere: "The forced cheer of Christmas morning masks growing internal crisis. Surface normalcy hiding mounting tension."
+  composition:
+    cameraAngle: "Close-up on Nora's clenched hands behind her back"
+    focus: "The white knuckles and trembling fingers revealing her hidden emotional state"
+    depth: "Foreground: Nora's tense hands. Middle ground: Her rigid posture at window. Background: The cheerful Christmas room that no longer brings her comfort."

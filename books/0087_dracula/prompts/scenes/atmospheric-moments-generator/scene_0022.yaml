@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Blizzard Conditions Around Castle Walls"
+  setting:
+    time: "Late 19th century, winter during severe snowstorm"
+    location: "Castle Dracula exterior during extreme winter weather conditions"
+    weather: "Violent blizzard with heavy snow and strong winds creating whiteout conditions"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Castle walls and towers barely visible through driving snow and wind. Heavy snowfall creating near-whiteout conditions with only darkest stone surfaces showing through. Snow accumulating in drifts against walls and in sheltered corners"
+    details: "Snow blowing horizontally across castle walls creating streaming white patterns. Wind-carved snow drifts reaching partway up stone walls. Individual snowflakes visible in foreground while distant structures fade into white void. Icicles forming from battlements and window ledges where wind allows"
+    background: "Complete white void beyond castle with no visibility of distant mountains or landscape. Sky and ground merging into uniform white"
+    atmosphere: "Harsh, unforgiving power of winter weather isolating castle completely from outside world. Sense of being cut off from civilization by natural forces. Primitive struggle for survival in extreme conditions. Castle appearing even more forbidding and inaccessible in storm. Nature as hostile force. No text or letters visible"
+  composition:
+    cameraAngle: "Ground level view of castle partially obscured by blowing snow"
+    focus: "Extreme weather effects with emphasis on snow and wind patterns"
+    depth: "Foreground detailed snow and wind effects, middle ground partially visible castle walls, background complete whiteout conditions"

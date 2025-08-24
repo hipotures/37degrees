@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror Showing Different Reflections"
+  setting:
+    time: "2700 BCE ancient Mesopotamia, multiple times of day simultaneously"
+    location: "Mystical grove where time flows differently and perspectives change"
+    weather: "All weather conditions represented in different sections of scene"
+  characters:
+    - appearance: "Muscular build with shortened hair and beard, clean-shaven revealing human skin, upright human posture"
+      clothing: "Simple woolen kilt (kaunakes) bound with belt, basic civilized garments"
+      position: "Standing upright with loyal, grounded stance serving as moral compass"
+      action: "Fighting with bare hands or simple bronze axe, displaying fierce loyalty to Gilgamesh"
+  scene:
+    mainElements: "Large bronze mirror fragmented into seven pieces, each fragment reflecting different time of day and weather - dawn, noon, dusk, night, storm, calm, stars"
+    details: "Mirror fragments arranged in circular pattern on stone base, each piece showing distinct lighting conditions and sky states, fracture lines creating geometric patterns between reflections, bronze surface highly polished despite being broken, fragments reflecting simultaneously different atmospheric conditions"
+    background: "Mystical grove where time flows differently and perspectives change, ancient trees surrounding mirror arrangement, light appearing to come from multiple directions creating impossible lighting effects"
+    atmosphere: "Supernatural quality where normal rules of time and reflection don't apply, sense of multiple realities existing simultaneously, otherworldly lighting effects, no text or letters visible"
+  composition:
+    cameraAngle: "Overhead view showing circular arrangement of mirror fragments with different reflections"
+    focus: "Fragmented mirror as symbol of multiple perspectives and fractured identity"
+    depth: "Foreground shows detailed mirror fragments and their unique reflections, middle ground shows character observing the phenomenon, background shows grove with impossible lighting"

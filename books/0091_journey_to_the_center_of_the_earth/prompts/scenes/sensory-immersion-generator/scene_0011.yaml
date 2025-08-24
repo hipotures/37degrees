@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Sulfurous Volcanic Gases Rising from Depths"
+  setting:
+    time: "1863, deep underground"
+    location: "Deep volcanic passages within Earth's crust, labyrinthine tunnels carved by ancient geological forces"
+    weather: "Heavy underground atmosphere with mineral-laden vapors"
+  characters:
+    - appearance: "50-year-old German scientist, tall and lean with angular build, sharp facial features and prying eyes behind large round spectacles, energetic and impatient demeanor"
+      clothing: "Dark formal frock coat and fitted waistcoat for city wear, practical heavy wool traveling suit for expedition, sturdy leather boots, always carrying scientific instruments"
+      position: "Usually in dominant position, gesturing authoritatively or examining specimens with intense focus"
+      action: "Conducting scientific analysis, giving orders, or demonstrating restless intellectual energy through rapid movements"
+    - appearance: "Young man around 20-22 years old, lean student build initially appearing hesitant, transforms through journey into more confident bearing with weathered appearance"
+      clothing: "Student's modest jacket and trousers in Hamburg, practical travel clothing during expedition showing progressive wear and hardening from underground conditions"
+      position: "Often positioned as observer or follower, gradually asserting more independent stance as story progresses"
+      action: "Taking notes in journal, collecting mineral specimens, or displaying physical responses to dangers and wonders encountered"
+    - appearance: "Icelandic guide around 30-40 years old, powerfully built like Hercules with broad shoulders, weather-beaten Nordic features, long flowing red hair, stoic expression"
+      clothing: "Practical Icelandic hunter garments of thick wool and leather, worn but well-maintained jacket called treyja, sturdy breeches, leather boots, woolen cap"
+      position: "Usually positioned as steady presence in background or performing crucial physical tasks with methodical precision"
+      action: "Working with tools, leading through terrain, or demonstrating remarkable calm during crisis situations"
+  scene:
+    mainElements: "Crystalline walls of hardened lava reflecting artificial light, granite passages with mineral deposits, cathedral-like caverns with towering stone formations"
+    details: "Yellow sulfur vapors rising in visible plumes from fissures in volcanic floor, handkerchiefs pressed against noses and mouths in protective gesture, eyes watering with visible tears running down cheeks, clothing fabric pulling tight across faces as makeshift filters, heads turning away from concentrated vapor sources, visible particles of sulfur dust settling on dark clothing creating yellow-white coating, breathing becoming labored with chest movements showing effort, lamp flame flickering blue-green in chemical-heavy atmosphere, no text or letters visible"
+    background: "Oppressive darkness broken only by lamp illumination, echo of footsteps, sense of vast unexplored depths and ancient geological time"
+    atmosphere: "Chemical warning from Earth's interior, olfactory assault made visible through human defensive reactions and environmental evidence of toxic presence"
+  composition:
+    cameraAngle: "Medium shot showing protective gestures and vapor sources"
+    focus: "Covered faces and rising vapor plumes indicating chemical presence"
+    depth: "Foreground emphasizes protective reactions, middle ground shows vapor diffusion, background reveals vapor sources"

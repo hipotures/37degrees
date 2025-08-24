@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: October 1872, afternoon
+    location: Bombay India, European colonial district showing architectural grandeur under British rule
+    weather: Intense tropical sunlight with clear blue sky
+  characters: No characters present in this scene
+  scene:
+    mainElements: Monumental Victorian Gothic and neoclassical buildings constructed from local golden sandstone, massive
+      colonial administration structures designed to intimidate and impress, wide planned avenues contrasting with organic
+      native city nearby
+    details: University buildings and government offices featuring pointed Gothic arches and classical columns adapted for
+      tropical climate, buildings designed with deep verandas and high ceilings for air circulation, British architectural
+      symbols imposed on Indian landscape, Union Jack flags flying from official buildings, horse-drawn carriages and early
+      omnibuses moving along planned streets, elaborate fountains and gardens showing European landscaping principles, telegraph
+      poles connecting colonial administration to London, railway station architecture showing modern transport infrastructure
+    background: Native Bombay districts visible in distance with different architectural styles, harbor showing international
+      shipping, tropical vegetation adapted to colonial urban planning
+    atmosphere: Imperial confidence and architectural dominance expressing British power, blend of European order imposed
+      on exotic tropical setting, sense of administrative efficiency and cultural superiority
+  composition:
+    cameraAngle: Wide street-level view showcasing colonial architectural ensemble
+    focus: Major administrative building serving as centerpiece with colonial flags and symbols
+    depth: Architectural details in foreground, street perspective through middle ground, distant native city showing cultural
+      contrast
+visualElements:
+  colorPalette:
+    primary:
+    - warm oranges
+    - sky blues
+    - sunset reds
+    - palm greens
+    secondary:
+    - sand beige
+    - ocean turquoise
+    - golden yellow
+    background: gradient skies, solid color blocks
+    usageNotes: Limited palette, 3-5 colors maximum, screen-printed look
+    saturation: high
+    contrast: strong
+  lineArt:
+    style: clean, simplified
+    weight: bold, uniform
+    color: darker shade of base colors
+    texture: smooth, graphic
+    edgeTreatment: crisp, stylized
+  lighting:
+    type: idealized, perpetual golden hour
+    direction: dramatic side or back lighting
+    intensity: warm, inviting
+    shadows:
+      style: simplified, graphic
+      color: darker tone of base color
+      opacity: solid color blocks
+    highlights: bright, optimistic
+  rendering:
+    technique: flat color with minimal gradients
+    texture: slight paper texture
+    detailLevel: simplified, iconic elements only
+    finish: lithograph or screen print appearance
+  perspective: dramatic angles, heroic viewpoints
+  mood:
+    overall: adventurous, romantic, optimistic
+    emotion: wanderlust, excitement, nostalgia
+    tempo: dynamic yet timeless
+    keywords:
+    - adventurous
+    - romantic
+    - exotic
+    - inviting
+    - nostalgic
+  stylePrecedents:
+  - Roger Broders
+  - David Klein
+  - Art Deco posters
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

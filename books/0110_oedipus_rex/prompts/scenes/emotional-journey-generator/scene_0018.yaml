@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Truth Breaks Like Lightning"
+  setting:
+    time: "Ancient Bronze Age Greece, night"
+    location: "Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations are made"
+    weather: "Storm at full fury with driving rain and constant lightning illuminating the scene"
+  characters:
+    - appearance: "Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick curly hair, full well-groomed beard, authoritative bearing"
+      clothing: "Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian purple, gold trim on chiton edges"
+      position: "Standing in center of courtyard, arms spread wide in gesture of complete devastation"
+      action: "Face contorted in silent scream of realization, mouth open in voiceless agony, royal posture completely collapsed"
+  scene:
+    mainElements: "Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps leading up to palace entrance"
+    details: "Simple but heavy gold circlet fallen from head and lying in growing puddles on cracked stones. Long staff topped with royal emblem abandoned and rolling in wind. Rain soaking through royal garments, turning crimson himation dark as blood. Lightning creating stark white illumination alternating with complete darkness. Courtyard stones reflecting lightning like broken mirrors. No text or letters visible"
+    background: "Two-story stone facade with large central wooden doors flanked by smaller doors, ancient stones streaming with rain, appearing like weeping face"
+    atmosphere: "Peak moment of devastating realization, universe splitting apart with revelation, maximum emotional breaking point"
+  composition:
+    cameraAngle: "Dramatic close-up on Oedipus's face at moment of complete understanding and horror"
+    focus: "The precise moment when all illusions shatter and truth destroys everything"
+    depth: "Foreground shows rain-soaked royal regalia scattered on stones, middle ground captures his devastated figure, background shows palace weeping with rain"

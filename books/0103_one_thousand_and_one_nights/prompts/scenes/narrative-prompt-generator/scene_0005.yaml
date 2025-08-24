@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Royal Decree of Death in Throne Chamber"
+  setting:
+    time: "Evening, Sasanian Persian Empire"
+    location: "Royal throne chamber filled with court officials and guards, now transformed into place of terrible judgment"
+    weather: "Interior scene with flickering torchlight and oil lamps"
+  characters:
+    - appearance: "Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline, thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story"
+      clothing: "Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered silk garments even in private chambers"
+      position: "Seated rigidly on throne with expression of cold determination"
+      action: "Pronouncing death sentence with voice devoid of emotion, gesturing with royal authority"
+    - appearance: "Elderly man aged 55 years with lined face showing deep worry and grief, graying beard, dignified bearing of high court official"
+      clothing: "Black formal robes of chief minister with insignia of office, turban indicating high rank"
+      position: "Standing before throne in posture of respectful but horrified submission"
+      action: "Bowing while receiving terrible royal command, face showing internal anguish"
+  scene:
+    mainElements: "Grand throne room with massive stone columns, elevated throne platform, court officials and guards standing in rigid formation, weapons glinting in torchlight"
+    details: "Ornate Persian carvings on throne and columns, burning oil lamps creating dramatic shadows, silk banners hanging motionlessly, polished marble floors reflecting flickering flames, ceremonial weapons of guards visible, atmosphere of dread permeating once-joyful space, no text or letters visible"
+    background: "High vaulted ceiling disappearing into shadows, rows of silent courtiers and officials, armed guards standing at attention"
+    atmosphere: "Oppressive and terrifying, transformation of royal court into place of death, heavy silence broken only by king's cold pronouncements, scent of burning oil and fear"
+  composition:
+    cameraAngle: "Medium shot focusing on confrontation between king and minister"
+    focus: "King's rigid figure on throne with devastated minister before him"
+    depth: "Throne platform in center, minister in foreground, shadowy court in background"

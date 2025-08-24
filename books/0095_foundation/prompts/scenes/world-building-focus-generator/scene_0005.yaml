@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Terminus rocky archipelago showing frontier colonial settlement"
+  setting:
+    time: "Galactic Standard Era 12000s, afternoon"
+    location: "rocky frontier planet on galactic rim, high water-to-land ratio with scattered archipelagos under star-sparse sky"
+    weather: "natural temperate climate with ocean breezes, partly cloudy sky"
+  characters:
+    - appearance: "colonial settlers in 20s to 50s, practical builds adapted to frontier life, weathered features from outdoor work"
+      clothing: "simple functional garments made from local materials, work clothes suited for construction and resource gathering, basic tools and equipment"
+      position: "engaged in construction work, resource collection, community planning activities"
+      action: "building colonial infrastructure, surveying land, establishing foundation for permanent settlement"
+  scene:
+    mainElements: "rugged stone islands, expansive ocean, minimal vegetation on rocky outcroppings, simple colonial architecture"
+    details: "modular prefabricated structures being assembled into permanent buildings, natural stone being quarried and shaped for construction, basic infrastructure like power generation and water collection, small harbor for interstellar transport, primitive but efficient colonial technology"
+    background: "vast ocean extending to horizon with scattered island chains, star-sparse sky emphasizing galactic rim location, distant mountains on larger landmasses"
+    atmosphere: "remote and austere, emphasizing isolation from galactic center, natural palette contrasting with artificial Imperial worlds"
+  composition:
+    cameraAngle: "elevated perspective showing settlement relationship to natural landscape"
+    focus: "colonial development within challenging natural environment"
+    depth: "foreground construction activity, middle ground island geography, background ocean and sky"

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 2030s, early morning dawn
+    location: cramped capsule hotel room in Chiba City entertainment district, window facing urban canyon between buildings
+    weather: cold morning air creating heavy condensation, frost forming on interior glass surface
+  characters:
+  - appearance: 24-year-old console cowboy, tall and lean, gaunt and unhealthy-looking from substance abuse and poor diet,
+      pale drawn face with tired eyes showing strain of digital addiction, dark unkempt hair, neural interface sockets visible
+      at temples
+    clothing: worn utilitarian clothing including faded denim pants, threadbare synthetic shirts, scuffed leather jacket or
+      puffer coat for blending into Chiba street crowds, functional boots, everything wrinkled and neglected reflecting self-destructive
+      lifestyle
+    position: standing close to window, palm pressed against cold glass surface
+    action: pressing both hands flat against frost-covered window, fingers spread wide leaving clear handprint impressions
+      in condensation, breath creating vapor clouds that immediately freeze on glass
+  scene:
+    mainElements: small rectangular window completely covered in thick frost crystals, clear handprints melting through ice
+      layer revealing glimpses of neon-lit street below, radiator beneath window struggling against cold
+    details: ice crystals forming delicate patterns across glass surface like organic circuitry, handprint impressions showing
+      warm flesh contact melting frost into running water droplets, breath vapor instantly crystallizing on contact with glass,
+      cold air seeping through window frame, no text or letters visible
+    background: narrow urban canyon visible through cleared sections of window, distant neon signs creating colored light
+      patterns, concrete walls of opposing buildings, steam rising from street level food vendors
+    atmosphere: sharp contrast between body warmth and freezing glass surface, sensory shock of extreme temperature difference
+      transmitted through palm contact, isolation emphasized by barrier between warm human presence and cold exterior world
+  composition:
+    cameraAngle: close-up shot from inside room showing hands pressed against window
+    focus: handprints melting frost pattern, revealing texture contrast between smooth glass and crystalline ice formations
+    depth: foreground showing detailed frost patterns and handprints, middle ground revealing street lights through cleared
+      glass, background showing distant buildings and neon glow
+visualElements:
+  colorPalette:
+    primary:
+    - electric blue
+    - hot pink
+    - neon purple
+    - deep black
+    secondary:
+    - cyan
+    - amber
+    - metallic silver
+    background: dark urban night sky
+    usageNotes: Dark backgrounds with vivid neon accents and reflections on wet surfaces
+    saturation: high for neons, low for backgrounds
+    contrast: extreme
+  lineArt:
+    style: sharp architectural lines mixed with organic chaos
+    weight: varied, often defined by neon lights
+    color: neon outlines and black silhouettes
+    texture: gritty, industrial
+    edgeTreatment: crisp technology, rough urban decay
+  lighting:
+    type: dramatic neon and holographic lighting
+    direction: multiple sources from signs and displays
+    intensity: intense neon spots in dark environment
+    shadows:
+      style: deep, colored by neon reflections
+      color: purple, blue, or colored by nearby lights
+      opacity: heavy
+    highlights: neon glows, wet reflections
+  rendering:
+    technique: photorealistic with digital elements
+    texture: wet surfaces, rust, dirt, chrome, glass
+    detailLevel: high detail in technology, gritty textures
+    finish: glossy wet surfaces, matte dirt and grime
+  perspective: street level looking up or aerial city views
+  mood:
+    overall: dark, oppressive, technologically overwhelming
+    emotion: alienation, rebellion, anxiety
+    tempo: chaotic, pulsing
+    keywords:
+    - dystopian
+    - gritty
+    - neon-soaked
+    - claustrophobic
+    - rebellious
+  stylePrecedents:
+  - Blade Runner (1982)
+  - Neuromancer by William Gibson
+  - Akira
+  - Cyberpunk 2077
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

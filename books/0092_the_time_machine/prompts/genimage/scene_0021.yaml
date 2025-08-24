@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 802,701 CE, single day compressed showing all light transitions
+    location: White Sphinx monument showing daily light cycle
+    weather: Complete daily weather cycle from dawn mist to evening clarity
+  characters: No characters present in this scene
+  scene:
+    mainElements: Colossal figure carved from white stone, winged sphinx with wings spread horizontally as if hovering, weathered
+      marble with diseased leprous appearance, standing on massive bronze pedestal green with verdigris, face turned toward
+      observer with sightless eyes and slight smile, hidden bronze panels in base conceal entrance to Morlock world
+    details: Sphinx shows different character at each light phase - dawn reveals soft mystery, noon exposes harsh decay, sunset
+      creates dramatic shadows suggesting life, midnight makes it spectral and threatening. Bronze base reflects different
+      colors throughout day - dawn gold, noon green verdigris, sunset copper, night silver
+    background: Garden landscape cycles through daily activities - dawn stirring, noon abundance, evening settling, night
+      hiding. Sky shows complete color spectrum from dawn rose to noon blue to sunset orange to night stars
+    atmosphere: Timeless monument witnessing eternal daily cycles, sphinx as eternal guardian observing repetitive natural
+      rhythms, sense of permanence amid constant change, daily time as circular rather than linear, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing sphinx with changing light revealing different moods
+    focus: Central sphinx monument showing dramatic lighting variations
+    depth: Sphinx details sharp in foreground, garden environment in middle ground, cycling sky and light in background
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - sepia brown
+    - dark bronze
+    secondary:
+    - black iron
+    - antique gold
+    - parchment beige
+    background: aged parchment or smoky gray backdrop
+    usageNotes: Warm metallic tones with patina and soot accents
+    saturation: low to medium (antique muted quality)
+    contrast: medium
+  lineArt:
+    style: engraved ornate linework
+    weight: medium (with decorative flourishes)
+    color: dark brown or black
+    texture: slightly rough, etched lines
+    edgeTreatment: Victorian scrollwork and gear teeth details
+  lighting:
+    type: dramatic sepia glow
+    direction: soft spotlight or diffused through steam
+    intensity: moderate (dim, antique lighting)
+    shadows:
+      style: soft gear and gadget shadows
+      color: brown-gray
+      opacity: medium
+    highlights: warm glow on metal surfaces (gaslight effect)
+  rendering:
+    technique: textured digital painting with grunge overlays
+    texture: grime, rust, and scratches on surfaces
+    detailLevel: high (many gears, gauges, filigree)
+    finish: matte base with metallic gleams
+  perspective: mix of mechanical diagram elements and scenic views (e.g., cutaways)
+  mood:
+    overall: inventive, nostalgic, mechanical
+    emotion: wonder, industriousness
+    tempo: steady tick-tock
+    keywords:
+    - Victorian
+    - mechanical
+    - ornate
+    - nostalgic
+    - adventurous
+  stylePrecedents:
+  - Jules Verne illustration aesthetics
+  - classic steampunk concept art
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

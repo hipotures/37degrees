@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Harlequin"
+  setting:
+    time: "Late 19th Century, daytime"
+    location: "The riverbank at the Inner Station."
+    weather: "Oppressive heat."
+  characters:
+    - appearance: "A young Russian man with a boyish face and bright, feverish eyes."
+      clothing: "His clothes are a patchwork of different colored rags, giving him the appearance of a court jester or harlequin."
+      position: "Standing on the riverbank, waving enthusiastically at the steamboat."
+      action: "He is a vision of bizarre, cheerful madness in the midst of the horror. He is talking excitedly, but his words are a meaningless jumble of sounds."
+  scene:
+    mainElements: "The appearance of the Russian, a disciple of Kurtz. He is a symbol of the seductive power of Kurtz's madness."
+    details: "The colors of the Russian's clothes are unnaturally bright against the drab, green and brown backdrop of the jungle. He carries a tattered copy of a book on seamanship, which he clutches like a holy text. The air around him seems to shimmer and warp. no text or letters visible"
+    background: "The ominous, silent Inner Station."
+    atmosphere: "A sense of the surreal and the absurd. The Harlequin's cheerful insanity is almost more disturbing than the overt brutality of the station. no text or letters visible"
+  composition:
+    cameraAngle: "A disorienting, slightly wide-angle shot, emphasizing the bizarre appearance of the Russian."
+    focus: "The patchwork of bright, clashing colors of the Harlequin's clothes."
+    depth: "Foreground: the Harlequin. Middle ground: the river. Background: Marlow on the steamboat, looking on in disbelief."

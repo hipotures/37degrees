@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1880s evening, social gathering where outsider observes from periphery
+    location: Elegant London social event viewed from margins by excluded observer
+    weather: Indoor warmth of privileged gathering excluding outsider from comfort
+  characters:
+  - appearance: Working-class observer in simple clothing, standing at edge of respectable gathering
+    clothing: Plain working attire contrasting sharply with elegant evening dress of privileged
+    position: Positioned at periphery of social gathering, seeing what insiders cannot
+    action: Observing social interactions with clear outsider's vision, noticing tensions invisible to participants
+  scene:
+    mainElements: Social gathering reveals hidden tensions visible only from outside - forced conversations, artificial laughter,
+      careful positioning showing unspoken hierarchies and conflicts
+    details: Outsider perspective exposes what participants cannot see - Jekyll's strained performance, Utterson's protective
+      hovering, whispered conversations that stop when observed, subtle social choreography maintaining dangerous secrets
+    background: Elegant room becomes theater where everyone performs roles while outsider sees through performance, crystal
+      chandeliers illuminate social pretense, fine furnishings frame artificial interactions
+    atmosphere: Clarity of social exclusion providing unobstructed view of hidden truths, cold observation revealing warm
+      gathering as elaborate deception, understanding that comes from being unable to participate in collective self-deception,
+      no text or letters visible
+  composition:
+    cameraAngle: Wide shot from outsider's excluded position, seeing social gathering as artificial performance
+    focus: Hidden social tensions and dangerous secrets visible only to excluded observer
+    depth: Foreground shows outsider's clear observation, middle ground captures artificial social performance, background
+      suggests vast structure of social pretense
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

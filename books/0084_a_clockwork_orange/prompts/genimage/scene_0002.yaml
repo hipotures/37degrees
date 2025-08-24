@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Near future, night
+    location: Under a concrete viaduct.
+    weather: A cold, damp night.
+  characters:
+  - appearance: An old, disheveled man with a long, dirty beard and rheumy eyes. Hunched
+      over and frail, often muttering to himself.
+    clothing: Wears ragged, filthy clothing.
+    position: Huddled by a small fire, trying to keep warm.
+    action: Singing a sentimental song in a cracked, drunken voice.
+  - appearance: A young man with a handsome, youthful face, often with a cold, sneering
+      expression. Confident and arrogant, with a swaggering walk.
+    clothing: He has short, dark hair and wears one fake eyelash on his right eye.
+      Wears a white boiler suit, a black bowler hat, and black boots. He often carries
+      a cane.
+    position: Standing over the tramp, his shadow falling over him.
+    action: He is smiling, a cruel, predatory look in his eyes.
+  scene:
+    mainElements: The four droogs have cornered a helpless old tramp. The scene is
+      a study in power dynamics, the strong preying on the weak.
+    details: The tramp is a pathetic figure, a symbol of the society that Alex and
+      his droogs despise. The concrete walls of the viaduct are covered in graffiti.
+      The fire casts long, dancing shadows.
+    background: The dark, empty street. The distant lights of the city.
+    atmosphere: A scene of casual cruelty and menace. The droogs are not angry; they
+      are simply amusing themselves at the expense of a helpless victim.
+  composition:
+    cameraAngle: A low angle shot, looking up at Alex and his droogs, making them
+      appear powerful and menacing. The tramp is a small, insignificant figure below
+      them.
+    focus: The cruel smile on Alex's face.
+    depth: 'Foreground: The tramp. Middle ground: Alex and his droogs. Background:
+      The concrete viaduct.'
+visualElements:
+  colorPalette:
+    primary:
+    - hot pink
+    - electric blue
+    - bright yellow
+    secondary:
+    - orange
+    - green
+    - red
+    background: bold colored backgrounds or commercial settings
+    usageNotes: Bright, commercial colors like advertising
+    saturation: very high (bold, attention-grabbing)
+    contrast: high (bold commercial appeal)
+  lineArt:
+    style: bold, commercial-style outlines
+    weight: consistent, screen-print quality
+    color: black or bold color outlines
+    texture: flat, commercial printing quality
+    edgeTreatment: sharp, clean commercial edges
+  lighting:
+    type: flat, commercial lighting
+    direction: even, advertising-style lighting
+    intensity: bright, attention-grabbing
+    shadows:
+      style: simple, graphic shadows
+      color: solid colors
+      opacity: flat, commercial
+    highlights: bold, graphic highlights
+  rendering:
+    technique: screen printing or commercial reproduction
+    texture: flat, printed texture
+    detailLevel: simplified for mass reproduction
+    finish: flat, commercial print finish
+  perspective: simple, commercial perspective
+  mood:
+    overall: bold, commercial, ironic
+    emotion: celebration and critique of consumer culture
+    tempo: energetic, commercial
+    keywords:
+    - bold
+    - commercial
+    - ironic
+    - consumer-focused
+    - mass-produced
+  stylePrecedents:
+  - Andy Warhol soup cans
+  - Roy Lichtenstein comic strips
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

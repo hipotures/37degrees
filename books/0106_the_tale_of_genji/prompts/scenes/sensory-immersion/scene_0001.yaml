@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Winter Palace Windows"
+  setting:
+    time: "Late 10th century Japan, dawn in deep winter"
+    location: "Imperial Palace Heian-kyō during harsh winter season, interior of aristocratic quarters with large windows facing courtyard"
+    weather: "Severe frost covering all surfaces, ice crystals forming intricate patterns on wooden frames"
+  characters:
+    - appearance: "Japanese aristocrat in his teens with idealized beauty, very pale white skin, dark brown eyes, long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build"
+      clothing: "Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions"
+      position: "Standing close to frozen window, pressing both palms flat against ice-covered wooden lattice"
+      action: "Testing temperature through silk gloves, breath creating clouds of vapor, fingers tracing frost patterns while feeling intense cold penetrating through layers"
+  scene:
+    mainElements: "Wooden pavilion raised on pillars with natural cypress columns, formal ceremonial complex at heart of Heian-kyō capital, white gravel courtyards visible through windows now covered in deep snow"
+    details: "Ice crystals create delicate geometric patterns across window surfaces, steam rises from breath in frigid air, wooden frames creak with cold contraction, multiple layers of silk robes unable to prevent chill from penetrating, frost forms intricate mandalas where warm hands meet frozen wood, icicles hang like suspended tears from roof edges, no text or letters visible"
+    background: "Snow-covered palace grounds with white-blanketed pavilions, bare cherry tree branches etched against gray winter sky, distant mountains shrouded in storm clouds"
+    atmosphere: "Sharp bitter cold that makes every surface treacherous to touch, crystalline beauty of ice formations contrasting with human warmth, sense of winter's harsh embrace testing aristocratic comfort"
+  composition:
+    cameraAngle: "Medium shot focusing on interaction between warm hands and frozen surfaces"
+    focus: "Contrast between human warmth and winter's cold grip, visible breath and ice patterns"
+    depth: "Frozen window details in foreground, character's reaction in middle ground, snow-covered palace landscape in distant background"

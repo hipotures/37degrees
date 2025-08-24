@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Peter's Reality - Awkward and Lonely"
+  setting:
+    time: "April 1944, same spring evening"
+    location: "Secret Annex top floor attic under roof with wooden ceiling beams, storage space, Amsterdam 1942-1944"
+    weather: "Harsh realistic lighting showing attic's true nature"
+  characters:
+    - appearance: "Teenage chłopak wiek 15-18 lat, wysoki szczupły, początkowo niezdarny skulony, ciemne kręcone włosy, nieśmiałe spojrzenie, shown realistically"
+      clothing: "Proste robocze ubrania, kombinezon, worn and practical, not romantic"
+      position: "Uncomfortably shifting weight, avoiding eye contact"
+      action: "Struggling to find words, clearly overwhelmed by Anne's intensity"
+    - appearance: "Teenage girl, age 13-15, smukła szczupła budowa ciała, owalna twarz, duże ciemne wyraziste oczy, ciemnobrązowe falujące włosy do ramion, szeroki promienny uśmiech"
+      clothing: "1940s clothing, simple sukienki bluzki z kołnierzykiem swetry, ubrania stopniowo stają się za małe przez upływający czas"
+      position: "Leaning forward eagerly, not noticing his discomfort"
+      action: "Talking animatedly while Peter withdraws"
+  scene:
+    mainElements: "Ciemna przestrzeń pod dachem, widoczne belki stropowe, beczki i worki z jedzeniem, jedno niezamalowane okno z widokiem na kasztanowiec shown in realistic harsh light"
+    details: "Storage space filled with practical necessities, dust and shadows, Stary kasztanowiec rosnący na podwórzu looking ordinary through dirty window"
+    background: "Attic revealing itself as cramped storage space, not romantic retreat"
+    atmosphere: "Awkward teenage reality, Peter's social anxiety and Anne's overwhelming personality creating tension rather than romance"
+  composition:
+    cameraAngle: "Documentary realism, harsh lighting revealing unglamorous truth"
+    focus: "Peter's discomfort and the gap between Anne's fantasy and reality"
+    depth: "Sharp realistic focus showing the mundane nature of their hiding place"

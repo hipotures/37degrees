@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "London Streets - Winter to Summer Passage"
+  setting:
+    time: "December 1843 transforming to June 1843"
+    location: "Busy commercial thoroughfares of 1840s London with shop fronts, market stalls, and pedestrians hurrying through weather changes"
+    weather: "Supernatural seasonal transition from bitter winter to warm summer"
+  characters:
+    - appearance: "Various London pedestrians changing with seasons - winter bundled figures becoming summer-dressed walkers"
+      clothing: "Heavy winter coats and scarves transforming to light summer fabrics and sun bonnets"
+      position: "Walking along same street paths in different seasons"
+      action: "Hurrying through cold winter air becoming leisurely summer strolling"
+  scene:
+    mainElements: "Same London street experiencing impossible seasonal metamorphosis - frost-covered cobblestones melting into sun-warmed stones, bare winter trees sprouting green leaves, snow banks transforming to flower beds"
+    details: "Seasonal transformation overlay - icicles hanging from shop eaves dissolving into hanging flower baskets, frost patterns on windows clearing to reveal bright displays, gas lamps lit in winter darkness extinguishing in summer daylight, coal smoke from chimneys dissipating into clear blue sky, winter clothing changing to summer fabrics on same pedestrians, market stalls displaying winter root vegetables transforming to summer fruits, no text or letters visible"
+    background: "Same shop fronts and buildings showing seasonal adaptation - winter shutters opening to summer awnings, dark winter interiors brightening with summer light, church bells ringing across both seasons"
+    atmosphere: "Magical transformation from bitter cold to warm comfort, sounds shifting from winter wind to summer bird songs, scents changing from coal smoke to blooming flowers, light quality evolving from gray winter pallor to golden summer warmth"
+  composition:
+    cameraAngle: "Wide street-level view capturing entire seasonal transformation"
+    focus: "Central street area where seasonal change most dramatically visible"
+    depth: "Foreground shows immediate seasonal details, middle ground reveals shop transformations, background displays sky and light quality changes"

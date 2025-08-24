@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Epic battle between Nautilus and colossal sea monsters"
+  setting:
+    time: "1866, turbulent afternoon with storm conditions above and below water"
+    location: "Open Atlantic Ocean where massive creatures attack the submarine"
+    weather: "Underwater turbulence created by surface storm and creature movement"
+  characters:
+    - appearance: "Mężczyzna w wieku około 40 lat o imponującym wzroście przeszło sześć stóp angielskich (około 183 cm) i potężnej, silnej budowie ciała. Twarz ma poważny wyraz z dziwnie przenikliwym wejrzeniem - oczy wytrawnego myśliwego zdolne dostrzec najmniejszy ruch na horyzoncie. Ciemne, gęste włosy typowe dla Kanadyjczyka z Quebecu. Duże i silne dłonie stworzone do władania harpunem"
+      clothing: "Praktyczna, znoszona odzież marynarza lub wielorybnika - grube spodnie, wełniana koszula, buty z grubej skóry dostosowane do pracy w trudnych warunkach"
+      position: "On Nautilus upper deck fighting massive tentacles with harpoon"
+      action: "Porusza się z pewnością siebie i energią człowieka przyzwyczajonego do wysiłku fizycznego, engaging in desperate combat against giant sea creatures"
+  scene:
+    mainElements: "Nautilus under attack by colossal squid with tentacles spanning 20 meters, their massive sucker discs attempting to crush the submarine's hull. The battle represents the ocean's capacity to challenge even the most advanced technology. Długi ciężki harpun z ostrym stalowym grotem i drewnianym trzonkiem wyślizganym od wieloletniego użytku wielded against impossible odds."
+    details: "Tentacles thick as tree trunks wrap around the submarine while the crew fights with axes and harpoons. The creatures' bioluminescent displays create an otherworldly light show during the battle. Water churns with the struggle between human technology and primordial sea beasts. The deck becomes slippery with seawater and ink from the attacking creatures."
+    background: "The ocean surface shows storm conditions while the underwater battle creates additional turbulence and chaos."
+    atmosphere: "Desperate struggle and primal conflict. This battle represents the ultimate test of human technology and courage against the ocean's most powerful inhabitants. The scene demonstrates that even Nautilus cannot completely dominate the marine environment."
+  composition:
+    cameraAngle: "Dynamic action shot capturing the chaos and scale of the underwater battle"
+    focus: "The desperate fight between human crew and giant sea creatures on the submarine deck"
+    depth: "Foreground shows immediate combat action, middle ground features the submarine under attack, background reveals the turbulent ocean environment"

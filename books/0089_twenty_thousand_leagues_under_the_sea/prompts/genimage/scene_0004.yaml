@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1866, afternoon with natural light filtering through ocean water
+    location: Luksusowe centrum obserwacyjne i muzeum wewnątrz okrętu podwodnego Nautilus na głębokości oceanicznej
+    weather: Calm underwater environment with clear visibility through the salon windows
+  characters:
+  - appearance: Mężczyzna w wieku 40 lat o szczupłej, intelektualnej budowie ciała z wysokim czołem. Starannie przystrzyżona
+      broda i wąsy typowe dla akademików tamtej epoki. Oczy wyrażające inteligencję i nieustanną ciekawość. Twarz o rysach
+      intelektualisty odzwierciedlająca jego stany myślowe
+    clothing: Na Nautilusie otrzymuje ubrania z bisioru - lekką, wygodną tunikę i spodnie w stonowanych kolorach szarym lub
+      beżowym
+    position: Standing before the massive observation window, hands clasped behind his back in contemplation
+    action: Observing the underwater world through the crystal glass panels with scientific fascination and wonder
+  scene:
+    mainElements: Przestronne pomieszczenie o wymiarach 10x6x5 metrów z dwoma ogromnymi owalnymi oknami z kryształowego szkła
+      o grubości 21 centymetrów na bocznych ścianach otwierających panoramiczny widok na podwodny świat. Salon jest jednocześnie
+      muzeum i gabinetem osobliwości z obrazami starych mistrzów wiszącymi pomiędzy tarczami i egzotyczną bronią. Wzdłuż ścian
+      stoją gabloty z najrzadszymi okazami morskiej fauny. W centrum pomieszczenia znajduje się fontanna z wodą spływającą
+      do gigantycznej dwumetrowej muszli przydaczni olbrzymiej.
+    details: Ciemna nasycona paleta barw - heban i palisander mebli, głęboka czerwień wzorzystych tapiserii na ścianach, połysk
+      mosiężnych okuć i złoconych ram obrazów. Równomierne jasne chłodne światło elektryczne z sufitu nie rzucające ostrych
+      cieni. Through the massive windows, tropical fish swim past in schools of brilliant colors. The water outside shows
+      perfect clarity, revealing the infinite blue-green depths of the ocean. Coral formations and sea anemones are visible
+      in the distance, creating a living aquarium effect.
+    background: The ocean depths visible through the observation windows extend into blue infinity, with occasional marine
+      life passing by the windows.
+    atmosphere: Luksus, spokój, kontemplacja i tajemnica. This is humanity's first glimpse into a completely self-contained
+      underwater world where Victorian luxury meets impossible technology. The contrast between the civilized interior and
+      the wild ocean outside creates a sense of being in an impossible dream.
+  composition:
+    cameraAngle: Wide interior shot capturing both the elegant salon furnishings and the spectacular ocean view
+    focus: The massive observation windows showing the underwater world, with the character positioned to emphasize scale
+    depth: Foreground shows rich interior details and furnishings, middle ground features the character observing, background
+      reveals the vast underwater landscape through the windows
+visualElements:
+  colorPalette:
+    primary:
+    - brass
+    - copper
+    - dark bronze
+    - rich brown
+    secondary:
+    - deep burgundy
+    - forest green
+    - antique gold
+    background: Victorian interiors or industrial settings
+    usageNotes: Warm metallic tones with rich Victorian colors
+    saturation: medium
+    contrast: medium to high
+  lineArt:
+    style: intricate mechanical details
+    weight: varied, detailed linework
+    color: dark brown or black
+    texture: etched, engraved quality
+    edgeTreatment: ornate Victorian flourishes
+  lighting:
+    type: gaslight ambiance or workshop lighting
+    direction: warm directional light
+    intensity: moody, atmospheric
+    shadows:
+      style: deep Victorian shadows
+      color: warm brown
+      opacity: heavy
+    highlights: brass reflections, steam glow
+  rendering:
+    technique: detailed illustration or digital painting
+    texture: metal patina, leather, wood grain
+    detailLevel: very high (gears, pipes, rivets)
+    finish: aged metals, polished brass accents
+  perspective: often cutaway or exploded views
+  mood:
+    overall: adventurous, mysterious, mechanical
+    emotion: curiosity, invention, nostalgia
+    tempo: steady, mechanical rhythm
+    keywords:
+    - mechanical
+    - Victorian
+    - adventurous
+    - ornate
+    - industrial
+  stylePrecedents:
+  - Jules Verne illustrations
+  - The Wild Wild West
+  - Victorian engineering drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

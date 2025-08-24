@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Desert heat shimmer during data heist preparation"
+  setting:
+    time: "2030s, intense midday heat"
+    location: "abandoned data haven facility in Nevada desert outside corporate sprawl, concrete structure radiating stored heat"
+    weather: "extreme desert heat creating visible air distortion, no wind to provide relief"
+  characters:
+    - appearance: "tall athletic woman in late twenties, pale skin stretched over lean muscle, dark hair cropped short, surgically implanted mirrored lenses covering entire eye sockets like permanent sunglasses reflecting world back at observer, four-centimeter retractable scalpel blades hidden beneath fingernails"
+      clothing: "form-fitting black leather garments designed for combat mobility, reinforced synthetic fabric suit with hidden pockets for weapons, soft-soled boots for silent movement, everything in matte black"
+      position: "standing on scorching concrete platform, feet planted wide for balance"
+      action: "removing black leather jacket, fabric peeling away from sweat-dampened skin, droplets of perspiration evaporating instantly upon contact with superheated air"
+  scene:
+    mainElements: "vast concrete platform reflecting intense heat waves upward, abandoned satellite dishes creating geometric shadows, horizon line distorted by rising thermal currents"
+    details: "heat shimmer creating liquid-like distortion of distant landscape, concrete surface too hot to touch comfortably, leather jacket steaming as sweat evaporates from interior lining, mirrored lenses reflecting blazing sun and wavering air, no text or letters visible"
+    background: "endless desert extending to mountains visible through heat distortion, corporate arcology towers barely visible as distant specks on horizon, abandoned structures creating harsh angular shadows"
+    atmosphere: "overwhelming sensation of heat radiating from all surfaces, air itself becoming tangible through thermal distortion, feeling of isolation in hostile environment where technology must adapt to extreme conditions"
+  composition:
+    cameraAngle: "medium shot capturing figure against backdrop of shimmering desert heat"
+    focus: "heat distortion waves rising from concrete, creating visual representation of temperature extremes"
+    depth: "foreground showing detailed heat shimmer patterns, middle ground featuring figure removing heated clothing, background dissolving into thermal distortion"

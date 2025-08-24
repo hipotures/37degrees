@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Dutch Angle - Dice Game Moral Vertigo"
+  setting:
+    time: "1000-800 BCE, midday"
+    location: "Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth"
+    weather: "Oppressive indoor atmosphere"
+  characters:
+    - appearance: "Male, 60+ years old, być może odmienny wygląd z regionu Gandhary, chytry podstępny wyraz twarzy"
+      clothing: "Ciemne podstępne szaty"
+      position: "Leaning over gaming board with dice in hand"
+      action: "Trzyma kości do gry wykonane z kości słoniowej, magicznie mu podlegające"
+  scene:
+    mainElements: "Gaming board tilted at unnatural angle, dice frozen in mid-air at impossible trajectory, assembly hall architecture leaning precariously"
+    details: "Kości do gry wykonane z kości słoniowej lub według legendy z kości udowej ojca Śakuniego, symbol oszustwa i manipulacji magicznie upadają zgodnie z wolą rzucającego"
+    background: "Assembly hall tilted dramatically, courtiers and observers at diagonal angles, pillars and walls slanting unnaturally, architecture defying gravity"
+    atmosphere: "Complete moral universe turned upside down by corruption and deceit, sounds echoing strangely in tilted space, reality warped by evil"
+  composition:
+    cameraAngle: "Dutch angle tilted 35 degrees showing world turned upside down by cheating"
+    focus: "Corrupt uncle manipulating fate through cursed dice while moral order collapses"
+    depth: "Foreground tilted gaming board and magical dice, middle ground scheming figure, background diagonally slanted hall of justice perverted, no text or letters visible"

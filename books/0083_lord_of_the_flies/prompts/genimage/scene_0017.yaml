@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: Mid-20th Century, daytime
+    location: Castle Rock.
+    weather: Bright and sunny.
+  characters:
+  - appearance: A short, overweight boy with thinning hair. He is asthmatic and wears
+      thick spectacles. Often hunched over, polishing his glasses, or holding his
+      stomach. His movements are clumsy and hesitant.
+    clothing: Wears a greasy windbreaker, shorts, and scuffed shoes. His clothes are
+      ill-fitting and rumpled.
+    position: Standing on a ledge below Castle Rock, holding the conch.
+    action: He is making a final, desperate appeal to the boys' sense of reason.
+  - appearance: A dark, furtive boy with a brooding intensity. He has black hair and
+      a sullen, closed-off expression. Silent and watchful, often lurking in the background.
+      His posture becomes more menacing and cruel as the story progresses.
+    clothing: Wears tattered shorts, his body often camouflaged with paint later in
+      the story.
+    position: High above Piggy, on the top of Castle Rock.
+    action: He is straining to push a massive boulder over the edge. His face is contorted
+      with a sadistic glee.
+  scene:
+    mainElements: The murder of Piggy and the destruction of the conch. This is the
+      final triumph of savagery over civilization.
+    details: The scene is depicted in ultra-slow motion. As the boulder strikes Piggy,
+      he doesn't just fall; he shatters like glass. The conch, which he was holding,
+      explodes into a thousand tiny, glittering fragments. The sound of the impact
+      is not a dull thud, but a high-pitched, crystalline shattering that echoes across
+      the island.
+    background: The blue sea and the sky. The other boys watch in stunned silence.
+    atmosphere: A moment of shocking, brutal violence that is also strangely beautiful
+      and surreal. The death of Piggy is the death of intellect and reason. The shattering
+      of the conch is the shattering of the last symbol of order.
+  composition:
+    cameraAngle: A dramatic, multi-angle sequence that cuts between Roger pushing
+      the boulder, Piggy's terrified face, and the boulder falling in slow motion.
+    focus: The explosion of the conch into a cloud of glittering dust.
+    depth: 'Foreground: The shattering conch. Middle ground: Piggy''s body being struck
+      by the boulder. Background: The horrified faces of Ralph and the other boys.'
+visualElements:
+  colorPalette:
+    primary:
+    - bold red
+    - bright blue
+    - sunny yellow
+    secondary:
+    - black outlines
+    - muddy brown
+    - gray
+    background: plain canvas or paper
+    usageNotes: Clashing colors applied with minimal blending
+    saturation: high
+    contrast: high
+  lineArt:
+    style: childlike scrawls or crude outlines
+    weight: uneven, thick or scratchy
+    color: black, or same as fill in places
+    texture: rough, uneven strokes
+    edgeTreatment: jagged, irregular edges
+  lighting:
+    type: none realistic (flat or arbitrary color use)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none or abstract painted shadows
+      color: n/a
+      opacity: n/a
+    highlights: none or raw canvas showing
+  rendering:
+    technique: impulsive brushwork, crayon scribbles
+    texture: thick paint patches, visible strokes
+    detailLevel: low (primitive forms)
+    finish: matte, unrefined
+  perspective: naive perspective (distorted or flat)
+  mood:
+    overall: raw, honest, chaotic
+    emotion: intense emotion, innocence
+    tempo: frantic or simplistic
+    keywords:
+    - raw
+    - primitive
+    - unfiltered
+    - emotive
+    - chaotic
+  stylePrecedents:
+  - Jean Dubuffet
+  - Outsider art galleries
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Moment of Dawning Horror"
+  setting:
+    time: "Mid-18th century, early morning"
+    location: "Military barracks courtyard, muddy drill ground"
+    weather: "Cold dawn light, frost on ground"
+  characters:
+    - appearance: "Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond or light brown), blue or gray eyes, sincere open face reflecting honest character"
+      clothing: "Prussian military uniform: dark blue coat with red facings, white trousers, high gaiters, but worn awkwardly and uncomfortably"
+      position: "Seated on wooden stool, legs shackled with heavy iron chains, looking down in shocked disbelief"
+      action: "Stares at iron fetters around ankles with expression of complete bewilderment and growing terror, hands trembling as reality sets in"
+    - appearance: "Tall imposing soldier, exactly six feet in height, stern military bearing but wearing false smile"
+      clothing: "Immaculate Prussian military uniform: dark blue coat with red facings, white trousers, high gaiters, perfectly polished boots"
+      position: "Standing over shackled Candide, no longer pretending friendship"  
+      action: "Face now shows true cruel nature, cold satisfaction watching Candide's realization, hand holding key to chains mockingly"
+    - appearance: "Second tall soldier matching his companion, equally intimidating presence"
+      clothing: "Matching Prussian uniform in perfect condition, brass buttons gleaming"
+      position: "Behind Candide, blocking any possible escape"
+      action: "Arms crossed, watching with amusement as deception is fully revealed, slight sneer of contempt"
+  scene:
+    mainElements: "Muddy military courtyard surrounded by barracks buildings, other new recruits visible in background in similar predicament"
+    details: "Heavy iron shackles contrast starkly with Candide's delicate hands. His military uniform fits poorly, emphasizing his unsuitability for soldier life. Soldiers' faces now show their true predatory nature without pretense. Other chained recruits in background suggest this is routine military practice."
+    background: "Gray stone barracks, wooden training equipment, drill sergeants preparing for morning exercises. Smoke rising from military kitchen chimneys"
+    atmosphere: "Cold betrayal and crushing realization of powerlessness. Dawn light harsh and unforgiving, emphasizing the grim reality. Freedom illusion completely shattered. Colors muted grays and browns with harsh military blue and red."
+  composition:
+    cameraAngle: "Close-up shot focused on Candide's face and chained feet"
+    focus: "Candide's expression of shock and the heavy iron chains symbolizing his trapped state"
+    depth: "Foreground shows the psychological and physical imprisonment, middle ground the false soldiers, background other victims of same deception"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Late 19th Century, daytime
+    location: Kurtz's Inner Station.
+    weather: The heat is oppressive, the air is thick and still.
+  characters:
+  - appearance: Charles Marlow, 32.
+    clothing: Worn and stained sailor's clothes.
+    position: Standing on the deck of his steamboat, looking at the station through a pair of binoculars.
+    action: His face is a mask of dawning horror as he realizes what he is seeing.
+  scene:
+    mainElements: The first view of Kurtz's station. It is a scene of primitive squalor and shocking brutality.
+    details: The station is a collection of dilapidated huts. The main building has a fence around it, and the posts are topped
+      with severed human heads, dried and shrunken, their faces turned towards the house. The heads seem to be whispering
+      to each other. The ground is littered with bones and refuse. no text or letters visible
+    background: The jungle, which seems to be pressing in on the small clearing, ready to swallow it whole.
+    atmosphere: A sense of profound, stomach-churning horror. This is the heart of the darkness, a place where all pretense
+      of civilization has been stripped away. no text or letters visible
+  composition:
+    cameraAngle: A point-of-view shot through Marlow's binoculars.
+    focus: A slow pan along the fence posts, revealing the severed heads one by one.
+    depth: A flattened, telescopic view, which makes the horror seem both distant and intimately close.
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

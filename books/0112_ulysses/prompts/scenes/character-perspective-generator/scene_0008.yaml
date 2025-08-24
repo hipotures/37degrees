@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Stephen Dedalus Sees Martin Cunningham as Conventional Authority"
+  setting:
+    time: "1904 late morning, 11:20 AM, institutional gray light"
+    location: "Glasnevin Cemetery pathways among Victorian monuments, Dublin's national burial ground"
+    weather: "Overcast Irish morning with heavy clouds suggesting oppression"
+  characters:
+    - appearance: "22-year-old man of slender, almost frail build, hair standing up in disarray, intelligent and often brooding facial expression, poor eyesight due to broken glasses day before, pale complexion suggesting indoor scholarly life"
+      clothing: "Worn black mourning attire for his mother consisting of threadbare black frock coat with frayed cuff edges and shiny sleeves, black trousers, wide-brimmed Latin Quarter style hat, all clothing second-hand and showing poverty"
+      position: "Walking at distance from funeral procession, observing Martin's authority with intellectual skepticism"
+      action: "Watching Martin's funeral leadership with critical artist's eye, seeing social rituals as performance of hollow respectability, gripping ashplant as symbol of authentic solitary path"
+    - appearance: "Martin Cunningham, distinguished middle-aged man with natural authority and kindness, bearing suggesting both worldly wisdom and spiritual depth"
+      clothing: "Impeccable black funeral attire reflecting his role as respected community member and funeral guide"
+      position: "Leading funeral procession with practiced dignity, embodying conventional social leadership"
+      action: "Directing mourners with automatic authority, performing social role with unconscious confidence in established order"
+  scene:
+    mainElements: "Victorian cemetery transformed through Stephen's critical consciousness into theater of social performance, Martin appearing as actor playing role of wise authority, elaborate monuments representing dead weight of tradition"
+    details: "Through Stephen's unforgiving intellectual lens, Martin's leadership becomes hollow performance of social respectability - his measured authority appearing as unconscious submission to conventional wisdom, practiced funeral protocol revealing automatic obedience to established ritual, respected position suggesting acceptance of bourgeois values that Stephen rejects, guidance of mourners showing shepherd mentality that Stephen finds intellectually dishonest, Victorian monuments surrounding them appearing as tombstones of authentic thought, cemetery pathways representing well-worn tracks of conventional behavior"
+    background: "Stephen's critical perspective transforms cemetery into vast museum of dead traditions - towering monuments representing weight of past crushing present creativity, orderly burial ground suggesting civilization's attempt to organize even death"
+    atmosphere: "Intellectual rebellion filtering through Stephen's artistic consciousness, profound distrust of established authority and social ritual, sense of alienation from communal mourning and conventional wisdom, recognition of fundamental opposition between authentic artistic vision and respected social position, gray morning light exposing hollowness of traditional leadership, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from Stephen's position of critical distance, observing Martin's authority with intellectual detachment"
+    focus: "Stephen's expression of artistic skepticism as he watches Martin perform role of social leader"
+    depth: "Foreground shows Stephen isolated in his critical observation, middle ground frames Martin in his conventional authority, background reveals cemetery monuments representing dead tradition"
