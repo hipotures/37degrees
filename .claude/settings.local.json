@@ -1,4 +1,7 @@
 {
+  "env": {
+    "CLAUDE_PROJECT_DIR": "/home/xai/DEV/37degrees"
+  },
   "permissions": {
     "allow": [
       "mcp__ruv-swarm",
@@ -28,12 +31,15 @@
       "mcp__playwright-cdp__browser_press_key",
       "mcp__todoit__todo_add_item",
       "mcp__playwright-cdp__browser_navigate",
-      "mcp__playwright-cdp__browser_type"
+      "mcp__playwright-cdp__browser_type",
+      "Bash(grep:*)",
+      "Read(//home/xai/.claude/projects/-home-xai-DEV-37degrees/**)"
     ],
     "deny": [],
     "additionalDirectories": [
       "/tmp/playwright-mcp-files",
-      "/tmp/playwright-mcp-output/"
+      "/tmp/playwright-mcp-output/",
+      "/home/xai/.claude/projects/-home-xai-DEV-37degrees"
     ]
   },
   "enableAllProjectMcpServers": true,

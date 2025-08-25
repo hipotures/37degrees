@@ -1,0 +1,1 @@
+../agents/37d-au-reality-wisdom-checker.md

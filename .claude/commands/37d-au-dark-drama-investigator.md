@@ -1,0 +1,1 @@
+../agents/37d-au-dark-drama-investigator.md
