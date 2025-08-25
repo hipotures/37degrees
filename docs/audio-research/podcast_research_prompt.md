@@ -1,7 +1,7 @@
-# PROMPT DO RESEARCHU TREŚCI PODCASTU
-
+# PODCAST - WSTĘP
 ## UWAGA WSTĘPNA
 Ten research będzie wykorzystany do tworzenia materiałów audio - podcastu o książce. KLUCZOWE jest uwzględnienie informacji, które brzmią interesująco w narracji audio, angażują słuchaczy i dostarczają "wow moments" podczas słuchania.
+Grupa docelowa: 15-25 lat, język polski
 
 ## ⚠️ CONTENT WARNING - OBOWIĄZKOWA OCENA 
 
@@ -55,8 +55,8 @@ Na samym początku każdego researchu umieść sekcję oceny treści:
 ```
 
 ## Dane wejściowe
-title: "[title]"
-author: "[author]"
+title: "Les Misérables"
+author: "Victor Hugo"
 
 ## Zadanie główne
 Przeprowadź dogłębne badanie i zbierz materiały do stworzenia angażującego podcastu audio o wskazanej książce. Research musi dostarczyć treści, które:
