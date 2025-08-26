@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, evening during grand imperial reception
+    location: Imperial Palace Heian-kyō, main ceremonial hall during formal court gathering with hundreds of participants
+    weather: Clear evening with multiple lanterns and torches creating dramatic lighting
+  characters:
+  - appearance: Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes,
+      long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build
+    clothing: Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments
+      emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions
+    position: Standing at center of overwhelming sensory experience, surrounded by layers of court activity
+    action: Experiencing sensory overload from simultaneous visual, aromatic, tactile, and acoustic stimulation, maintaining
+      composure despite overwhelming input
+  scene:
+    mainElements: Massive ceremonial hall with hundreds of court participants, multiple musical performances, elaborate food
+      service, incense ceremonies, silk banner displays
+    details: Multiple incense burners create overlapping aromatic smoke clouds in different colors and densities, silk robes
+      of hundreds of courtiers create rainbow fabric movement, food service creates steam patterns from dozens of dishes,
+      musical instruments create visible sound vibration in hanging banners and floating particles, lantern light creates
+      dramatic shadows and illumination effects, ground vibration from ceremonial drums affects standing water and loose objects,
+      perfumed air becomes thick and visible through smoke and steam interaction, overwhelming visual patterns from geometric
+      textile designs and architectural details, no text or letters visible
+    background: Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white
+      gravel, multiple wooden pavilions connected by covered corridors
+    atmosphere: Maximum sensory experience where sight, sound, scent, taste, and touch combine into overwhelming but magnificent
+      court spectacle requiring aristocratic endurance
+  composition:
+    cameraAngle: Medium shot of central figure surrounded by sensory chaos but maintaining dignity
+    focus: Layered sensory effects creating almost overwhelming visual complexity while centering on composed figure
+    depth: Multiple sensory elements in layered foreground, central figure maintaining composure in middle ground, vast court
+      ceremony extending infinitely into background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

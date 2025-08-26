@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 16th century, evening after Easter walk
+    location: High-vaulted, cramped Gothic chamber in 16th-century German university town. Pointed stone arches and walls
+      oppress the scholar figure, symbolizing limitations of medieval scholasticism. Large pointed-arch window with stained
+      glass casts colored light into room.
+    weather: Night deepening outside, candlelight creating dancing shadows
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Modest dark robes of traveling scholar, but fabric seems to shift and change subtly in candlelight, suggesting
+      deeper deception
+    position: Leaning against bookshelf with casual elegance, one hand gesturing philosophically
+    action: Speaking with intellectual passion about his nature as force of negation, eyes gleaming with pride in his cosmic
+      role
+  scene:
+    mainElements: Philosophical dialogue in progress, Mephistopheles explaining his identity as 'part of that force which
+      always wills evil and always works good.' Books and instruments serve as props for cosmic discussion about nature of
+      existence
+    details: 'This is Mephistopheles'' moment of intellectual seduction - he presents himself not as mere tempter but as essential
+      cosmic principle. His argument reveals sophisticated understanding of dialectical necessity: without negation there
+      can be no affirmation, without chaos no order, without destruction no creation. He positions himself as unwitting servant
+      of divine plan, making rebellion seem like cooperation'
+    background: Gothic study with its religious symbolism becomes ironic backdrop for heretical philosophy. Stained glass
+      window now shows darkened religious scenes seeming to frown on theological discussion
+    atmosphere: Intellectual electricity of dangerous ideas being shared between kindred spirits. Air thick with concepts
+      that challenge fundamental assumptions about good and evil, creating intoxicating sense of forbidden knowledge
+  composition:
+    cameraAngle: Medium shot capturing both characters engaged in philosophical exchange, emphasizing equality of intellectual
+      discourse
+    focus: Mephistopheles' animated gestures and expression as he explains his cosmic role with evident pride
+    depth: 'Foreground: Philosophical gesture and expression. Middle ground: Both figures in animated discussion. Background:
+      Gothic architecture and religious imagery providing ironic commentary'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

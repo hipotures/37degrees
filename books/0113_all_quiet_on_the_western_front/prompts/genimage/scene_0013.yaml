@@ -1,0 +1,125 @@
+sceneDescription:
+  setting:
+    time: 1917 summer evening, sudden shower after hot day
+    location: cobblestone street in French village behind lines, stone buildings radiating stored heat, soldiers taking shelter
+      under archways
+    weather: sudden summer rainstorm hitting sun-heated stone surfaces, steam rising everywhere
+  characters:
+  - appearance: 19 lat, nosi pełną brodę przez co wygląda na starszego niż jest w rzeczywistości
+    clothing: standardowy mundur żołnierza niemieckiego Feldgrau
+    position: standing in doorway archway, watching rain hit hot cobblestones
+    action: observing steam patterns rising from heated stone as raindrops create instant evaporation on contact with hot
+      surfaces
+  scene:
+    mainElements: cobblestone street radiating heat absorbed during hot day, sudden rain creating steam clouds wherever water
+      meets hot stone, soldier watching natural steam display from shelter, medieval village architecture focusing heat and
+      creating steam channels
+    details: individual raindrops hitting hot cobblestones and instantly creating small steam puffs, stone surfaces so heated
+      that water evaporates immediately on contact creating continuous steam effect, rain patterns visible through steam formation
+      showing heaviest downpour areas, different stone types producing varying steam intensities, water pooling briefly in
+      cobblestone gaps before evaporating, steam clouds merging and rising in complex patterns following air currents between
+      buildings, rain cooling stone gradually reducing steam production over time, soldier's uniform staying dry while observing
+      nature's display, no text or letters visible
+    background: French village street with medieval stone architecture, buildings showing heat absorption and steam production,
+      other soldiers seeking shelter in various doorways and archways
+    atmosphere: natural elements creating dramatic display through temperature contrast, refreshing relief visible through
+      steam production, cleansing power of rain on war-heated environment
+  composition:
+    cameraAngle: medium shot from archway showing rain, steam, and cobblestone street perspective
+    focus: steam rising from hot cobblestones with rain drops creating instant evaporation
+    depth: foreground shows detailed steam formation on stone surface, middle ground features observing soldier, background
+      reveals village street disappearing in rain and steam
+visualElements:
+  colorPalette:
+    primary:
+    - '#DC143C'
+    - '#000000'
+    - '#FFFFFF'
+    - '#D4B896'
+    secondary:
+    - '#808080'
+    - '#2F4F4F'
+    - '#8B7355'
+    - '#FFD700'
+    background: solid color blocks, no gradients, paper texture acceptable
+    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text.
+      Beige mimics period poster paper. High contrast essential.
+    saturation: high for red, desaturated for neutrals
+    contrast: maximum, stark divisions
+  lineArt:
+    style: bold geometric contours, angular simplified forms, industrial precision
+    weight: extra thick (8-12px equivalent), uniform throughout
+    color: pure black (#000000) or reversed white on dark
+    texture: clean vector-like, no texture within lines
+    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
+  composition:
+    layout: dynamic diagonals, asymmetric balance, upward movement
+    hierarchy: single dominant element (usually figure), supporting geometric shapes
+    gridSystem: constructivist angular grid, often tilted 15-30 degrees
+    whitespace: used as active design element, not passive background
+  lighting:
+    type: flat graphic lighting, no realistic light sources
+    direction: implied upward illumination for heroic effect
+    intensity: uniform, poster-like flatness
+    shadows:
+      style: geometric drop shadows only if needed
+      color: pure black or darker tone of base
+      opacity: 100% solid, no transparency
+      offset: consistent 45-degree angle
+    highlights: none, or minimal white accents for emphasis
+  rendering:
+    technique: lithograph/screen print simulation, vector-style clarity
+    texture: optional subtle paper grain, otherwise completely flat
+    detailLevel: reduced to essential symbolic elements only
+    finish: matte poster finish, no glossy effects
+    printEffects: slight registration offset acceptable (authentic touch)
+  perspective:
+    type: forced perspective from low angle (worm's eye view)
+    vanishingPoints: often ignored for symbolic impact
+    distortion: acceptable for dramatic/heroic effect
+    depth: minimal, mostly flat with slight overlap for hierarchy
+  typography:
+    integration: typography AS design element, not added to design
+    style: bold sans-serif, constructed letterforms, custom geometric
+    weight: black or ultra-bold only
+    layout: diagonal placement common, integrated with imagery
+    effects: outlined, 3D extrusion, or drop shadow for impact
+    cyrillicInfluence: even in Latin text, angular construction
+    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  mood:
+    overall: heroic, revolutionary, urgent, triumphant
+    emotion: determination, collective strength, forward momentum, optimism
+    tempo: dynamic, march-like rhythm, visual percussion
+    energy: explosive, ascending, breakthrough
+    keywords:
+    - heroic triumph
+    - revolutionary fervor
+    - collective power
+    - industrial might
+    - forward progress
+    - monumental scale
+    - urgent action
+    - optimistic future
+  symbolism:
+    common: hammer/sickle, gear wheels, wheat, stars, raised fists
+    figures: workers, soldiers, peasants in heroic poses
+    abstract: lightning bolts, sunrise rays, diagonal shafts
+    architectural: factories, construction, modern buildings
+  stylePrecedents:
+  - Alexander Rodchenko (photomontage, diagonal compositions)
+  - El Lissitzky (Beat the Whites with the Red Wedge)
+  - Gustav Klutsis (dynamic photomontage)
+  - Dmitry Moor (classical propaganda posters)
+  - Vladimir Mayakovsky (ROSTA windows)
+  - Varvara Stepanova (textile and poster designs)
+  - Constructivist movement (1919-1934)
+  - Suprematist influence (geometric abstraction)
+  - Bauhaus poster design
+  - John Heartfield (political photomontage)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

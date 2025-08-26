@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, midday during Kamo Festival
+    location: Crowded streets of Heian-kyō during festival procession, intersection where multiple roads converge
+    weather: Hot sunny day creating heat shimmer above crowds
+  characters:
+  - appearance: Japanese aristocrat aged sixteen to twenty-two with beautiful but cold features, pale powdered face with standard
+      court makeup, long black hair, carries herself with proud distant demeanor
+    clothing: Formal court robes in conservative elegant colors, often featuring hollyhock aoi motifs in her garments, attire
+      reflects high status but emotional coldness
+    position: Inside elegant ox-drawn carriage attempting to navigate through festival crowds
+    action: Maintaining dignity despite chaos outside, hands gripping carriage interior as vehicle rocks and sways violently
+  - appearance: Japanese noblewoman in her twenties to forties with mature intimidating beauty, intense dark eyes that reveal
+      deep intelligence and passion, pale aristocratic features with court makeup, long black hair
+    clothing: Sophisticated court robes in darker more dramatic color combinations reflecting her complex nature, garments
+      show impeccable taste but hint at underlying intensity
+    position: In competing carriage being pushed and shoved by aggressive crowds
+    action: Experiencing violent motion as servants fight for position, maintaining fierce pride despite physical chaos
+  scene:
+    mainElements: Elegant wooden vehicle with curved roof lacquered in black, bamboo blinds covering windows for privacy,
+      ornate metal fittings, drawn by two white oxen with decorative harnesses, interior lined with silk cushions
+    details: Multiple ox-drawn carriages clash and compete for space, creating violent pushing and shoving, crowds surge in
+      all directions with explosive energy, festival banners whip frantically in motion blur, dust clouds rise from stamping
+      feet and struggling oxen, pottery and goods fly through air from overturned vendors, dogs flee in terror with ears flattened,
+      bamboo blinds shake and rattle violently, silk cushions compress and shift with each impact, carriage wheels create
+      grinding noise on stone, no text or letters visible
+    background: Crowded festival streets with wooden shops, paper lanterns, food vendors, temple processions, mountains of
+      people in colorful clothing
+    atmosphere: Complete sensory overload with explosive movement in every direction, violent competition for status played
+      out through carriage positioning, festival joy corrupted by aristocratic rivalry
+  composition:
+    cameraAngle: Dynamic angle capturing motion blur and explosive crowd energy
+    focus: Violent movement patterns, flying debris, and carriage collision chaos
+    depth: Flying objects and dust in immediate foreground, competing carriages in middle ground, seething crowd extending
+      into chaotic background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

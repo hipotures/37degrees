@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Official court session during divine business hours
+    location: Administrative halls and courtyards within heavenly palace complex where celestial bureaucracy conducts daily
+      governance
+    weather: Perfect eternal climate controlled by heavenly atmospheric management
+  characters:
+  - appearance: Various divine ministers and celestial officials in formal court attire, ageless beings with noble bearing,
+      mixture of human-like and more exotic divine forms
+    clothing: Elaborate ceremonial robes in colors indicating rank - deep blues for judicial officials, golden yellows for
+      administrative ministers, rich purples for military commanders
+    position: Arranged in formal hierarchical formations within audience halls and meeting chambers
+    action: Conducting official ceremonies, reviewing scrolls and documents, participating in formal discussions and decision-making
+      processes
+  scene:
+    mainElements: Grand audience halls with dragon-carved thrones and judicial benches, document storage areas with infinite
+      scroll libraries, ceremonial courtyards for official proclamations, administrative workspaces with celestial filing
+      systems
+    details: Divine bureaucratic infrastructure showing cosmic governance systems with official seals that create binding
+      cosmic law, communication networks connecting all realms, record-keeping systems that track universal karma, decision-making
+      chambers where cosmic policies are debated, ceremonial objects like jade tablets and golden proclamation scrolls
+    background: Multiple administrative complexes handling different aspects of universal governance, messenger systems connecting
+      to all realms, archive buildings containing records of all cosmic events
+    atmosphere: Serious governmental purpose mixed with ceremonial dignity, sounds of official proceedings and administrative
+      activity, air charged with the weight of cosmic responsibility
+  composition:
+    cameraAngle: Formal interior view showcasing the organization and ceremony of divine government
+    focus: The sophisticated administrative systems governing the cosmic order
+    depth: Foreground shows individual officials and their ceremonial duties, middle ground reveals organizational structure
+      of celestial bureaucracy, background suggests vast scope of universal administration
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

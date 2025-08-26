@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1904 early evening, 7:00 PM, ambiguous domestic light
+    location: 7 Eccles Street viewed by neighbors with opposing interpretations
+    weather: Evening light creating shadows that support multiple interpretations of domestic activities
+  characters:
+  - appearance: Various Eccles Street neighbors and passersby observing same household with fundamentally different interpretations
+    clothing: Standard neighborhood attire revealing different social positions and resulting interpretive biases
+    position: Multiple observers around same domestic scene developing entirely different understandings of household events
+    action: Identical domestic activities viewed simultaneously by different neighbors creating opposing narratives about
+      Bloom family life
+  scene:
+    mainElements: 7 Eccles Street Georgian house becoming contested site of interpretation where same domestic events generate
+      completely different neighborhood narratives and judgments
+    details: Through conflicting neighborhood consciousness, house becomes battleground of competing interpretations - Leopold
+      Bloom's careful domestic routines appearing as admirable husbandly devotion to sympathetic observers while others interpret
+      identical behavior as suspicious foreign activity, Molly's afternoon visitors seen by some as evidence of vibrant social
+      life while others view same activities as proof of improper conduct, household's modest prosperity appearing as honest
+      middle-class success to friendly neighbors while arousing suspicion of illegitimate wealth among hostile observers,
+      domestic sounds and activities processed as either normal family life or evidence of moral irregularity depending on
+      observer's prejudices
+    background: Split neighborhood perspective reveals same Georgian street as either respectable middle-class community or
+      site of social contamination - identical architectural setting supporting completely different social narratives
+    atmosphere: Profound division of neighborhood interpretation within same physical domestic space, evening light creating
+      domestic warmth for sympathetic observers while exposing suspicious activities for hostile witnesses, identical household
+      sounds processed as either comfortable family routines or evidence of moral corruption, house transformed into Rorschach
+      test revealing observers' social prejudices more than actual domestic reality, no text or letters visible
+  composition:
+    cameraAngle: Multiple viewpoints showing same domestic activities through opposing interpretive lenses
+    focus: Contrasting observer reactions showing how identical household events support completely different neighborhood
+      narratives
+    depth: Same Georgian house revealing different social realities based on observer's class position, religious background,
+      and cultural prejudices
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

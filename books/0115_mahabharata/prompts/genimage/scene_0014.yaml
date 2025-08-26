@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, late afternoon
+    location: Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for
+      great army chariot maneuvers
+    weather: Golden sunset light illuminating tragic scene
+  characters:
+  - appearance: Male, 80+ years old, czcigodny starzec z długimi białymi włosami i brodą, jasna karnacja Gauranga, sylwetka
+      i siła wojownika mimo wieku
+    clothing: Białe szaty i biały pancerz
+    position: Suspended above ground on bed of arrows, partially visible from behind
+    action: Surowa twarz naznaczona determinacją i tragicznym losem wynikającym z straszliwej przysięgi, trzyma łuk
+  scene:
+    mainElements: Bhishma's body pierced by hundreds of arrows so densely they suspend him above ground, symbol of his unbreakability
+      suffering and status as greatest warrior
+    details: Arrow shafts creating geometric pattern supporting body weight, white beard and hair contrasting with dark arrow
+      wood, peaceful expression despite piercing, blood drops not shown per content guidelines, no text or letters visible
+    background: Battlefield with fallen warriors paying respect, weapons lowered in honor, sunset light creating halo effect
+      around suspended form
+    atmosphere: Solemn reverence for greatest warrior's honorable defeat, sounds of battle stopping in respect, whispered
+      prayers and mantras
+  composition:
+    cameraAngle: Over-shoulder view showing Bhishma's perspective from his arrow bed
+    focus: View from dying patriarch looking down at respectful warriors below
+    depth: Foreground arrow bed and warrior's form, middle ground respectful soldiers, background battlefield at pause, no
+      text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 16th century, dawn breaking over prison
+    location: Stone dungeon with barred window, wet straw covering floor, heavy wooden door with iron lock
+    weather: First light of dawn penetrating through barred window
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat
+      with rooster feather
+    position: Standing at prison door with keys in hand, growing impatient as rescue attempt fails
+    action: Urging Faust to abandon Margarete and escape, calculating cost-benefit of continued investment in this soul
+  scene:
+    mainElements: Very young girl around 14-15 years old, petite and slender with delicate build. Fair blonde hair braided
+      in two simple plaits, large innocent blue eyes. Face with regular, delicate features expressing simplicity, piety and
+      deep emotion. Modest dress of simple townswoman now torn and dirty from imprisonment, sitting on straw in cell corner
+    details: Mephistopheles faces strategic decision - continue pursuing Faust's soul or cut losses and retreat. Margarete's
+      refusal to accept rescue demonstrates power of human moral choice that transcends his psychological manipulation. Her
+      preference for divine judgment over demonic salvation represents failure of his fundamental philosophy about human nature
+    background: Cold stone walls of dungeon, iron bars on small window, heavy wooden door, wet straw covering floor, dawn
+      light beginning to illuminate scene
+    atmosphere: Mephistopheles' frustration with unpredictable human moral behavior. His usual cynical confidence shaken by
+      encounter with genuine spiritual strength that resists logical persuasion
+  composition:
+    cameraAngle: Wide shot showing all three figures in dungeon - Margarete refusing, Faust pleading, Mephistopheles calculating
+    focus: Margarete's determined refusal contrasted with Mephistopheles' growing impatience and Faust's desperation
+    depth: 'Foreground: Margarete on straw refusing escape. Middle ground: Faust pleading desperately. Background: Mephistopheles
+      at door with keys, ready to abandon investment'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

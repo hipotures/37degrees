@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Evening, prosperous merchant's house
+    location: Main reception hall prepared for feast with low tables and silk cushions
+    weather: Interior scene warmly lit by multiple oil lamps and braziers
+  characters:
+  - appearance: Woman aged 25 years, quick and nimble build suited for household work, alert dark eyes showing intelligence
+      and determination, dark hair covered by simple headscarf, capable hands
+    clothing: Simple practical servant's dress in earth tones allowing freedom of movement, sturdy sandals, small belt pouch
+      for tools
+    position: Efficient and purposeful movement, ready stance showing vigilance
+    action: Moving stealthily when needed, performing tasks with focused attention, showing protective loyalty
+  - appearance: Man aged 40 years, powerful ruthless build, scarred face showing violent life, piercing calculating eyes,
+      unkempt dark beard, commanding presence
+    clothing: Dark leather traveling garments suitable for desert raids, large turban, heavy boots, multiple weapons visible
+    position: Dominant aggressive stance, scanning surroundings for threats
+    action: Commanding with harsh voice, moving with predatory caution, handling weapons expertly
+  scene:
+    mainElements: Elegant reception hall with Persian carpets covering floor, low dining tables arranged with feast, silk
+      cushions for seating, multiple oil lamps providing warm illumination
+    details: Ornate brass vessels filled with food and wine, silk tapestries hanging on walls, carved wooden screens decorating
+      room, gleaming dagger concealed in dancer's hand, feast dishes including roasted meats and exotic fruits, guests reclining
+      on cushions, incense burning in brass censers, no text or letters visible
+    background: Household servants watching from doorways, garden courtyard visible through open doors, domestic architecture
+      of prosperous home
+    atmosphere: Festive celebration masking deadly confrontation, music and laughter hiding tension, scents of exotic foods
+      and perfumes, moment of truth approaching through entertainment
+  composition:
+    cameraAngle: Medium shot capturing dramatic moment of performance and danger
+    focus: Dancing figure with concealed weapon as center of deadly entertainment
+    depth: Feast setting in foreground, dancing figure in center, watching guests in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

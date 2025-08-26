@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Centuries later, Faust Part II era, imperial court period
+    location: Magnificent imperial palace with marble columns, golden decorations, high vaulted ceilings, grand throne room
+    weather: Indoor palace environment, artificially lit by chandeliers
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Court dress appropriate to imperial setting - elegant black velvet with silver embellishments, maintaining his
+      signature sophistication while fitting court protocol
+    position: Standing near throne observing court proceedings, watching both Emperor and Faust
+    action: Observing with interested recognition how Faust now manipulates imperial court exactly as he himself had manipulated
+      human desires decades earlier
+  scene:
+    mainElements: Imperial court in session with Emperor on throne, courtiers in elaborate dress, Faust now presenting magical
+      solutions to kingdom's financial crisis through paper money creation
+    details: Mephistopheles recognizes with professional admiration how Faust has learned his lessons well - using illusion
+      and manipulation to gain power while presenting himself as savior. The student now mirrors the master's methods, creating
+      artificial value through psychological manipulation just as demon had created artificial experiences through magical
+      intervention
+    background: Opulent palace interior with marble, gold, tapestries, and artwork representing wealth and power that both
+      characters understand as ultimately illusory
+    atmosphere: Professional recognition between master manipulator and apt pupil. Mephistopheles sees Faust becoming demonic
+      without needing supernatural powers, using human systems of deception instead of magical ones
+  composition:
+    cameraAngle: Medium shot showing both Mephistopheles and Faust in court setting, emphasizing their parallel roles as manipulators
+    focus: Mephistopheles' appreciative observation of Faust's evolved manipulation techniques
+    depth: 'Foreground: Mephistopheles watching with approval. Middle ground: Faust demonstrating to Emperor. Background:
+      Elaborate court setting with impressed courtiers'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

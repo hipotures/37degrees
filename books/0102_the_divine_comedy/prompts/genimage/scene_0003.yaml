@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Dawn in southern hemisphere, golden morning light illuminating mountain
+    location: Isolated conical mountain rising from vast ocean in southern hemisphere, seven terraced levels ascending to
+      summit
+    weather: Clear morning sky with gentle sea breeze, perfect temperate climate
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive mountain island with perfect conical shape, seven distinct horizontal terraces carved into mountainside
+      creating stepped pyramid effect, each level with different vegetation and structures, summit crowned with lush garden
+    details: Rocky base emerging from ocean waves with natural harbor areas, stone pathways winding upward between levels.
+      Each terrace shows different landscape - lower levels more barren, middle levels with increasing vegetation, upper levels
+      verdant with trees and flowers. Ancient stone archways mark entrances to each level. Waterfalls cascade down mountainsides
+      between terraces. Summit garden shows glimpses of exotic trees and golden light filtering through foliage.
+    background: Endless ocean stretching to horizon in all directions, distant view of stars fading in dawn sky, no other
+      land masses visible
+    atmosphere: Sense of hope and spiritual ascension, natural beauty increasing toward summit, feeling of sacred space separate
+      from normal world, peaceful and welcoming yet challenging
+  composition:
+    cameraAngle: Maritime view from ship approach, showing full mountain profile from base to summit
+    focus: The seven-tiered structure of the mountain with clear delineation between levels and ascending path
+    depth: Foreground shows ocean waves and rocky base, middle ground displays the terraced mountainside, background shows
+      summit garden and sky
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

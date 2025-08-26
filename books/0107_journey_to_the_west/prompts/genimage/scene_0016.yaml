@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Eternal twilight hours when underworld bureaucracy operates at peak efficiency
+    location: Secondary administrative districts and prison complexes throughout the ten courts of hell
+    weather: Perpetual gloom with no natural light, only artificial illumination from torches and supernatural sources
+  characters:
+  - appearance: Lower-ranking demon clerks and prison guards with grotesque features, horned heads, spiked limbs, wearing
+      official underworld uniforms indicating their bureaucratic functions
+    clothing: Dark administrative robes marked with underworld insignia, iron badges of office, practical work clothing suitable
+      for harsh underworld conditions
+    position: Working at administrative desks, guarding prison entrances, patrolling between judicial complexes
+    action: Processing endless paperwork, maintaining prison security, escorting souls between different punishment areas
+  scene:
+    mainElements: Sprawling complexes of administrative buildings connected by underground tunnels, prison blocks housing
+      souls awaiting judgment, processing centers where karmic records are calculated, guard towers monitoring vast underworld
+      territories
+    details: Underworld administrative infrastructure showing the dark side of cosmic justice with filing systems containing
+      records of all earthly sins, calculation chambers determining appropriate punishments, transportation networks moving
+      souls between different court jurisdictions, communication systems connecting to earthly realm for monitoring living
+      beings' actions
+    background: Vast underground city extending beyond immediate administrative areas, mining operations extracting rare underworld
+      materials, industrial areas producing tools of punishment and containment
+    atmosphere: Oppressive bureaucratic efficiency mixed with supernatural dread, sounds of grinding administrative machinery
+      and distant cries, air thick with sulfur and decay
+  composition:
+    cameraAngle: Underground urban view showing the systematic organization of underworld society
+    focus: The dark administrative machinery that processes cosmic justice
+    depth: Foreground shows daily operations of underworld bureaucracy, middle ground reveals systematic organization of punishment
+      systems, background suggests vast underground civilization dedicated to managing afterlife justice
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

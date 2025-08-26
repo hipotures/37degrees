@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1904 late morning, 11:30 AM, nostalgic filtered light
+    location: Glasnevin Cemetery pathways among Victorian monuments and Irish historical graves
+    weather: Soft overcast morning with gentle light evoking memories
+  characters:
+  - appearance: Elderly Irish woman in her seventies, weathered face showing decades of history, silver hair carefully arranged,
+      eyes holding memories of many funerals
+    clothing: Traditional black mourning attire worn with dignity of long experience, well-maintained despite modest means,
+      small prayer book in gloved hands
+    position: Standing beside O'Connell's monument, touching weathered stone with familiar reverence
+    action: Moving slowly through cemetery she has visited for decades, seeing layers of memory and history in every monument,
+      recognizing graves of friends and family from many years
+  scene:
+    mainElements: Victorian cemetery transformed through elder's memory-rich consciousness into palimpsest of Irish history,
+      every monument carrying personal associations and generational stories, pathways worn by decades of her own footsteps
+    details: Through elder's layered perception, cemetery becomes living archive of personal and national memory - O'Connell's
+      tomb evoking both childhood stories of liberation struggle and adult understanding of political complexity, weathered
+      Celtic crosses reminding her of relatives buried decades ago, Victorian angels appearing as familiar guardians she has
+      known since girlhood, gravel pathways feeling familiar beneath feet that have walked them through many seasons of grief
+      and remembrance, newer graves contrasting with older monuments she remembers being carved, chapel bells echoing memories
+      of countless funeral masses, spring flowers on graves mixing with ghostly memory of winter wreaths from previous years
+    background: Elder's memory-soaked vision transforms cemetery into temporal landscape - distant hills suggesting continuity
+      across generations, Dublin beyond cemetery walls representing city that has changed dramatically during her lifetime
+    atmosphere: Profound temporal layering filtering through elder's historical consciousness, sense of cemetery as repository
+      of both personal and collective memory, gentle acceptance of mortality gained through decades of loss, recognition of
+      continuity connecting past and present, soft morning light transformed into nostalgic filter revealing multiple time
+      periods simultaneously, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from respectful eye level, capturing elder's dignified bearing among monuments she has known
+      for decades
+    focus: Elder's gentle touch on O'Connell's monument, her expression showing deep familiarity with place of memory
+    depth: Foreground shows elder in intimate communion with familiar monument, middle ground captures cemetery she has navigated
+      for decades, background suggests layers of historical time extending beyond present moment
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

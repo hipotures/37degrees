@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1790s through 1843, progression over five decades
+    location: Various London locations showing chain's symbolic growth
+    weather: Timeless quality with seasonal changes blurred together
+  characters:
+  - appearance: Young man in 20s with softer features, bright eyes full of hope, brown hair, smooth complexion, eager expression
+    clothing: Simple apprentice attire with white linen shirt, brown wool vest, knee-length breeches, white stockings, sturdy
+      work boots
+    position: Reaching for first small cashbox
+    action: Dancing at festivities, working with enthusiasm, reading by candlelight, or embracing loved ones with genuine
+      warmth
+  - appearance: Translucent elderly man with hollow eye sockets, gaunt face, wild gray hair, spectacles pushed up on forehead,
+      dropping jaw held by bandage
+    clothing: Same business attire as in life but ethereal and transparent, dark coat, waistcoat, all with ghostly quality
+    position: Bound and weighed down by heavy chain, floating slightly above ground, hunched from burden of metal links
+    action: Dragging massive chain of cashboxes and ledgers, gesturing dramatically with burdened arms, pointing with skeletal
+      finger while rattling links
+  scene:
+    mainElements: Temporal progression showing transformation of golden opportunities into spectral chains - starting with
+      single bright coin growing into massive metal chain forged from cash-boxes, keys, padlocks, ledger books, heavy purses
+    details: Sequential overlay showing chain link formation over decades - each business transaction adding new link, bright
+      gold gradually tarnishing to dark metal, small money purse evolving into massive steel cashboxes, delicate keys becoming
+      heavy padlocks, thin ledgers growing into bound volumes, chain weight increasing from barely noticeable to unbearably
+      heavy, no text or letters visible
+    background: London business district aging around chain's growth, same commercial buildings showing architectural wear,
+      gas lamps replacing oil lamps, fashion changes in people passing by
+    atmosphere: Progressive burden and regret, sound transforming from pleasant coin chiming to heavy metallic dragging, bright
+      opportunities dimming to spectral gloom, freedom of movement gradually restricted
+  composition:
+    cameraAngle: Low angle following chain's growth from ground level upward
+    focus: Chain links multiplying and growing heavier through temporal sequence
+    depth: Foreground shows immediate chain details, middle ground reveals accumulating burden, background displays decades
+      of London commercial evolution
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

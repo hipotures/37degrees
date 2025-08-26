@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, evening
+    location: Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean
+      walls of irregular limestone blocks
+    weather: Clear evening sky with last rays of sun creating golden warmth
+  characters:
+  - appearance: Sturdy weathered man in his sixties, hardened by outdoor life, tanned and tough skin, short gray hair and
+      rough beard
+    clothing: Practical knee-length exomis tunic fastened on one shoulder leaving other arm free, made of rough homemade wool,
+      simple leather sandals
+    position: Standing respectfully before palace steps, beaming with joy at delivering good news
+    action: Gesturing enthusiastically while speaking, face bright with honest pleasure at bringing what he believes is wonderful
+      news
+  - appearance: Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray
+      or white hair and beards signifying elder status
+    clothing: Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors
+      like dark gray or deep blue
+    position: Gathered around messenger, faces lifted with hope and renewed faith
+    action: Moving and reacting as unified group, faces serving as emotional barometer showing relief and growing celebration
+  scene:
+    mainElements: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance, paved courtyard with cracked stones and sprouting weeds
+    details: Simple leather sandals and practical clothing of honest messenger contrasting with formal robes of chorus. Faces
+      showing genuine joy and relief after long period of fear and uncertainty. Evening light creating warm atmosphere of
+      celebration. Even the weeds between stones seem less threatening in golden light. No text or letters visible
+    background: Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone appearing more benevolent
+      in evening warmth
+    atmosphere: Maximum hope and communal joy, belief that the worst fears have been proven false, collective celebration
+      of apparent salvation
+  composition:
+    cameraAngle: Wide shot showing messenger surrounded by joyful chorus with palace benevolently presiding
+    focus: The messenger as bearer of good tidings surrounded by community celebration
+    depth: Foreground shows closest chorus members with joyful faces, middle ground captures messenger delivering news, background
+      shows palace blessed by golden light
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

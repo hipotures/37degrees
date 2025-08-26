@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: Eerie moonlit night when supernatural disturbances are strongest
+    location: Abandoned temples and ruined cities along pilgrimage route, places where spiritual corruption has taken hold
+    weather: Unnatural fog and mist creating otherworldly atmosphere with occasional supernatural phenomena
+  characters: No characters present in this scene
+  scene:
+    mainElements: Collapsed temple buildings with broken Buddha statues, overgrown monastery courtyards where evil spirits
+      have taken residence, sacred pools turned black and stagnant, altars defiled by demonic presence
+    details: Spiritual contamination showing corruption of sacred spaces with holy texts torn and scattered, prayer wheels
+      broken and still, incense burners filled with ash and decay, temple bells cracked and silent, spiritual energy twisted
+      into malevolent force, protective symbols defaced or inverted
+    background: Multiple ruined complexes connected by broken pathways, distant glimpses of other abandoned sacred sites,
+      landscape scarred by spiritual warfare between good and evil
+    atmosphere: Oppressive supernatural presence and spiritual corruption, unnatural silence broken by disturbing sounds,
+      air thick with malevolent energy and decay
+  composition:
+    cameraAngle: Low angle view emphasizing the fallen grandeur and spiritual corruption
+    focus: The destruction of sacred spaces and triumph of evil over good
+    depth: Foreground shows detailed spiritual destruction and corruption, middle ground reveals extent of sacred site abandonment,
+      background suggests widespread spiritual warfare across the landscape
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

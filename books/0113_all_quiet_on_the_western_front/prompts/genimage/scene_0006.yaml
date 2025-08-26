@@ -1,0 +1,125 @@
+sceneDescription:
+  setting:
+    time: 1917 spring morning, first light of dawn
+    location: front line trench system during artillery bombardment, multiple puddles formed by overnight rain collecting
+      in trench bottom
+    weather: morning after rain, puddles reflecting gray sky, intermittent drizzle continuing
+  characters:
+  - appearance: 40 lat, zgarbione opadające ramiona sugerujące człowieka przyzwyczajonego do ciężkiej pracy, niebieskie oczy,
+      twarz z ziemi poorana zmarszczkami ogorzała od wiatru i słońca surowa i prosta, biedny cienki wąsik, niezwykły nos
+    clothing: znoszony brudny mundur niemieckiego żołnierza Feldgrau, jako szewc z zawodu prawdopodobnie najlepiej dbał o
+      swoje buty w warunkach frontowych
+    position: crouched low in trench, watching puddles intently while shells explode overhead
+    action: observing concentric ripple patterns in puddle water, timing his movements between shell impacts by reading water
+      surface disturbances
+  scene:
+    mainElements: series of water puddles along trench floor acting as natural drums, each shell explosion creating unique
+      ripple patterns, soldier using water movements to gauge distance and timing of incoming artillery
+    details: concentric circles expanding outward from puddle centers with each distant explosion, overlapping wave patterns
+      creating complex interference designs, larger ripples indicating closer shell impacts, smaller tremors showing far artillery,
+      water surface acting like visual metronome for bombardment rhythm, dirt particles dancing on water surface with each
+      vibration, puddle edges creating different wave reflection patterns, muddy water showing ripples more clearly than clean
+      water would, no text or letters visible
+    background: trench walls vibrating with shell impacts, distant explosions visible as flashes beyond trench rim, other
+      soldiers also watching ground and water for timing cues
+    atmosphere: sound made visible through water physics, survival depending on reading visual rhythm of bombardment, natural
+      elements serving as early warning system
+  composition:
+    cameraAngle: low angle focusing on puddle surface with soldier's concerned face reflected in water
+    focus: expanding ripple patterns in puddle with perfect concentric circles
+    depth: foreground shows detailed water ripple patterns, middle ground features crouched soldier, background reveals trench
+      walls and distant explosions
+visualElements:
+  colorPalette:
+    primary:
+    - '#DC143C'
+    - '#000000'
+    - '#FFFFFF'
+    - '#D4B896'
+    secondary:
+    - '#808080'
+    - '#2F4F4F'
+    - '#8B7355'
+    - '#FFD700'
+    background: solid color blocks, no gradients, paper texture acceptable
+    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text.
+      Beige mimics period poster paper. High contrast essential.
+    saturation: high for red, desaturated for neutrals
+    contrast: maximum, stark divisions
+  lineArt:
+    style: bold geometric contours, angular simplified forms, industrial precision
+    weight: extra thick (8-12px equivalent), uniform throughout
+    color: pure black (#000000) or reversed white on dark
+    texture: clean vector-like, no texture within lines
+    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
+  composition:
+    layout: dynamic diagonals, asymmetric balance, upward movement
+    hierarchy: single dominant element (usually figure), supporting geometric shapes
+    gridSystem: constructivist angular grid, often tilted 15-30 degrees
+    whitespace: used as active design element, not passive background
+  lighting:
+    type: flat graphic lighting, no realistic light sources
+    direction: implied upward illumination for heroic effect
+    intensity: uniform, poster-like flatness
+    shadows:
+      style: geometric drop shadows only if needed
+      color: pure black or darker tone of base
+      opacity: 100% solid, no transparency
+      offset: consistent 45-degree angle
+    highlights: none, or minimal white accents for emphasis
+  rendering:
+    technique: lithograph/screen print simulation, vector-style clarity
+    texture: optional subtle paper grain, otherwise completely flat
+    detailLevel: reduced to essential symbolic elements only
+    finish: matte poster finish, no glossy effects
+    printEffects: slight registration offset acceptable (authentic touch)
+  perspective:
+    type: forced perspective from low angle (worm's eye view)
+    vanishingPoints: often ignored for symbolic impact
+    distortion: acceptable for dramatic/heroic effect
+    depth: minimal, mostly flat with slight overlap for hierarchy
+  typography:
+    integration: typography AS design element, not added to design
+    style: bold sans-serif, constructed letterforms, custom geometric
+    weight: black or ultra-bold only
+    layout: diagonal placement common, integrated with imagery
+    effects: outlined, 3D extrusion, or drop shadow for impact
+    cyrillicInfluence: even in Latin text, angular construction
+    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  mood:
+    overall: heroic, revolutionary, urgent, triumphant
+    emotion: determination, collective strength, forward momentum, optimism
+    tempo: dynamic, march-like rhythm, visual percussion
+    energy: explosive, ascending, breakthrough
+    keywords:
+    - heroic triumph
+    - revolutionary fervor
+    - collective power
+    - industrial might
+    - forward progress
+    - monumental scale
+    - urgent action
+    - optimistic future
+  symbolism:
+    common: hammer/sickle, gear wheels, wheat, stars, raised fists
+    figures: workers, soldiers, peasants in heroic poses
+    abstract: lightning bolts, sunrise rays, diagonal shafts
+    architectural: factories, construction, modern buildings
+  stylePrecedents:
+  - Alexander Rodchenko (photomontage, diagonal compositions)
+  - El Lissitzky (Beat the Whites with the Red Wedge)
+  - Gustav Klutsis (dynamic photomontage)
+  - Dmitry Moor (classical propaganda posters)
+  - Vladimir Mayakovsky (ROSTA windows)
+  - Varvara Stepanova (textile and poster designs)
+  - Constructivist movement (1919-1934)
+  - Suprematist influence (geometric abstraction)
+  - Bauhaus poster design
+  - John Heartfield (political photomontage)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

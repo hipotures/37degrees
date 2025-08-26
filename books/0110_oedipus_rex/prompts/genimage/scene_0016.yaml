@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, dusk
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Storm approaching with heavy dark clouds, wind beginning to whip dust and debris
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Standing rigidly at center of courtyard, increasingly isolated
+    action: Clenching fists with visible trembling, face showing first cracks of doubt and fear beneath determination
+  - appearance: Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray
+      or white hair and beards signifying elder status
+    clothing: Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors
+      like dark gray or deep blue
+    position: Pressing closer around Oedipus in a tightening circle, faces filled with growing anxiety
+    action: Moving and reacting as unified group, faces serving as emotional barometer showing mounting tension and fear
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Wind whipping at royal garments making crimson himation billow ominously. Simple but heavy gold circlet seeming
+      to weigh down his head like burden rather than crown. Chorus members pressing closer creating claustrophobic feeling.
+      Cracks in courtyard stones appearing deeper and more numerous. Palace walls looming darker and more oppressive. No text
+      or letters visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, appearing fortress-like and
+      imprisoning in storm light
+    atmosphere: Mounting psychological pressure, isolation within crowd, environmental forces reflecting internal chaos
+  composition:
+    cameraAngle: Overhead shot showing Oedipus surrounded by closing circle of chorus members
+    focus: The claustrophobic pressure of figures closing in around increasingly isolated king
+    depth: Foreground shows chorus members from above, middle ground captures Oedipus at center of contracting circle, background
+      shows palace walls seeming to press inward
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Mythical primordial era, dawn of creation
+    location: Summit of Flower Fruit Mountain on Eastern Victory Divine Continent, towering peaks reaching into clouds with
+      ancient cypress and bamboo forests
+    weather: Perfect spring morning with golden sunlight and gentle mountain breezes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive magical stone formation 36 feet high positioned at mountain peak, surrounded by pristine wilderness
+      with crystal streams and exotic fruit trees bearing magical produce
+    details: Ancient stone has absorbed eons of celestial energy with nine holes and eight depressions representing cosmic
+      principles, surface smooth and weathered by countless seasons, scattered white cranes and phoenixes soaring in background
+      skies, mountain slopes covered in emerald bamboo groves and flowering trees that sparkle with morning dew
+    background: Endless mountain ranges stretching to horizon, other floating peaks visible through morning mist, waterfalls
+      cascading down distant cliffs creating rainbow sprays in sunlight
+    atmosphere: Divine tranquility and cosmic anticipation, air thick with magical potential and sweet floral fragrances,
+      sense of something momentous about to occur in this untouched paradise
+  composition:
+    cameraAngle: Orbital view from high above showing mountain's position in cosmic landscape
+    focus: The mystical stone formation that will birth the Monkey King
+    depth: Foreground shows stone details and immediate flora, middle ground reveals mountain's pristine ecosystem, background
+      displays the vast untouched continent stretching to infinity
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

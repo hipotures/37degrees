@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Timeless eternity, before earthly events unfold
+    location: Celestial realm filled with pure golden light and divine presence
+    weather: No earthly weather - ethereal atmosphere of divine radiance
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Appears in dignified but subtly mocking attire - dark robes that seem to absorb light rather than reflect it,
+      standing in stark contrast to the golden radiance surrounding him
+    position: Standing before throne of light with cynical bow, one hand behind back
+    action: Listening to divine proclamation with barely concealed amusement, head slightly tilted as if humoring a naive
+      child
+  scene:
+    mainElements: Mephistopheles stands in sea of golden light emanating from unseen divine presence, his dark form creating
+      deliberate shadow that disrupts heavenly harmony. No visible throne or angelic figures - only overwhelming light and
+      his singular dark presence
+    details: Light seems to bend around his form creating visual discord in perfect celestial harmony. His shadow stretches
+      unnaturally long behind him, suggesting depths of knowledge the light cannot illuminate. Faint smile plays at corners
+      of mouth as he contemplates the cosmic game about to unfold
+    background: Infinite expanse of pulsating golden radiance representing divine omnipresence, completely abstract and overwhelming
+      in its perfection
+    atmosphere: Tension between divine certainty and demonic skepticism. Mephistopheles sees this as intellectual chess match
+      while heaven views it as test of human nature. He knows what heaven cannot see - that corruption and nobility intertwine
+      in every soul
+  composition:
+    cameraAngle: Low angle emphasizing his commanding presence despite being in heaven's domain
+    focus: Centered on Mephistopheles' knowing expression and subtle body language suggesting secret knowledge
+    depth: 'Foreground: Mephistopheles in sharp focus. Middle ground: swirling divine light. Background: infinite golden radiance
+      representing divine realm'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

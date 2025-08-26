@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal infernal twilight, dim grey light filtering through twisted branches
+    location: Second ring of seventh circle of Hell, where human souls have become trees
+    weather: Stagnant air with no wind, oppressive atmosphere of underground forest
+  characters: No characters present in this scene
+  scene:
+    mainElements: Twisted thorny trees with human features barely visible in bark, medieval siege equipment overgrown with
+      supernatural vegetation, harpies nesting in branches, bleeding branches where souls have become part of the forest ecosystem
+    details: Ancient gnarled trees with bark that shows human faces in agony, branches that bleed when broken revealing their
+      human nature. Medieval military technology abandoned and being consumed by the forest - catapults with vines growing
+      through their frames, broken siege ladders serving as roosts for supernatural birds, iron weapons rusting and becoming
+      part of root systems. Harpies with women's faces and vulture bodies making nests from twigs that are actually human
+      fingers. Dark soil made rich by centuries of supernatural decay, thorny underbrush that catches and tears, paths that
+      seem to lead deeper into darkness.
+    background: Dense forest extending into murky distance, occasional glimpses of other infernal machinery being reclaimed
+      by supernatural nature
+    atmosphere: Unnatural fusion of human suffering, divine judgment, and perverted natural processes, sense of technology
+      and humanity being absorbed into eternal landscape of justice
+  composition:
+    cameraAngle: Ground level perspective looking through forest of human-trees with abandoned medieval technology
+    focus: The disturbing merger of human souls, supernatural nature, and decaying medieval military equipment
+    depth: Foreground shows detailed tree-bark faces and overgrown machinery, middle ground displays the supernatural forest
+      ecosystem, background fades into dark infernal wilderness
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

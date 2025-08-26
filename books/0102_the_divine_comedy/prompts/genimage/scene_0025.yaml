@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal divine time showing all temporal existence simultaneously
+    location: View of entire created universe from divine perspective, showing Earth in cosmic context
+    weather: Perfect divine light illuminating all creation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Complete view of created universe showing Earth as small point surrounded by celestial spheres, with Hell
+      below, Purgatory as distant island, Paradise as infinite light above, all existing simultaneously in divine vision
+    details: Earth appearing as small sphere surrounded by nine transparent crystalline celestial spheres, each containing
+      moving points of light representing planets and stars. Below Earth, hint of Hell's funnel structure visible as shadow
+      beneath surface. Distant Mount Purgatory visible as tiny cone rising from southern ocean. Above, infinite expanse of
+      divine light containing the rose-shaped amphitheater of Paradise, but now appearing as integral part of cosmic architecture.
+      All three spiritual realms visible as parts of one unified divine creation. Sacred geometric patterns connecting all
+      levels - spiral galaxies, perfect circles of celestial spheres, golden ratio proportions throughout.
+    background: Infinite divine light extending beyond visible creation, suggesting endless possibilities of divine love and
+      creativity
+    atmosphere: Ultimate understanding of divine architecture of creation, sense of perfect unity and meaning in apparent
+      complexity, overwhelming love as the force that moves sun and stars
+  composition:
+    cameraAngle: Divine omniscient perspective showing entire creation as unified whole
+    focus: The complete divine architecture showing how Hell, Earth, Purgatory and Paradise form one perfect creation
+    depth: Foreground shows detailed Earth and celestial spheres, middle ground displays relationship between all spiritual
+      realms, background extends into infinite divine creativity
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

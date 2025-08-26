@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, eternal moment of perfect understanding
+    location: Sacred chamber where friendship and eternal bonds are commemorated
+    weather: Timeless perfection with unchanging golden light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Two identical bronze mirrors positioned facing each other creating infinite reflection tunnel, each reflection
+      showing slightly different perspective of the same essential truth
+    details: Polished bronze mirrors mounted on stone pedestals at exact height and angle, infinite series of reflections
+      creating tunnel effect stretching beyond visual comprehension, each reflection maintaining perfect clarity despite distance,
+      subtle variations in each reflection showing different aspects of same image, golden light illuminating mirrors creating
+      warm reflection tunnel
+    background: Sacred chamber where friendship and eternal bonds are commemorated, stone walls carved with images of paired
+      figures in brotherly embrace, geometric floor patterns leading to mirror arrangement
+    atmosphere: Eternal bond transcending physical existence, infinite connection between souls, perfect harmony achieved
+      through mutual reflection and understanding, no text or letters visible
+  composition:
+    cameraAngle: Side angle showing both mirrors and infinite reflection tunnel between them
+    focus: Infinite reflection tunnel as symbol of eternal friendship transcending mortality
+    depth: Foreground shows mirror details and mounting, middle ground shows reflection tunnel formation, background shows
+      carved chamber walls celebrating partnership
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

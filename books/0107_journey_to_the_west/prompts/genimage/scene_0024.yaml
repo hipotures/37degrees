@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Peaceful golden hour in restored paradise showing successful healing of cosmic wounds
+    location: Buddhist Western Paradise at Vulture Peak, ultimate destination representing perfect spiritual achievement
+    weather: Perfect celestial climate with gentle breezes carrying lotus fragrances and divine light
+  characters:
+  - appearance: Enlightened beings in their perfected forms - buddhas radiating infinite compassion, bodhisattvas displaying
+      perfect wisdom, arhats showing complete spiritual achievement
+    clothing: Simple robes that seem to be made of pure light and compassion, no artificial adornments needed as their spiritual
+      achievement provides all necessary beauty
+    position: Arranged in natural harmony throughout perfect landscape, each being contributing to overall peace through their
+      mere presence
+    action: Existing in perfect enlightened state, teaching dharma through their example, maintaining universal harmony through
+      spiritual presence
+  scene:
+    mainElements: Golden monasteries and temples built into sacred mountain slopes, lotus ponds reflecting infinite light,
+      jeweled trees bearing dharma fruits that provide spiritual nourishment, countless stupas and prayer wheels maintaining
+      constant sacred energy
+    details: Spiritual paradise showing ultimate achievement of Buddhist ideals with teaching halls where wisdom flows freely,
+      meditation gardens where perfect peace prevails, libraries containing infinite spiritual knowledge, healing springs
+      that cure all suffering, bridges of pure light connecting all sacred areas
+    background: Sacred landscape extending infinitely with multiple levels of spiritual achievement, additional mountains
+      holding other pure lands, suggestion of infinite realms of perfect spiritual accomplishment
+    atmosphere: Perfect tranquility filled with divine five-colored radiance and sacred mists, air resonating with celestial
+      chanting and temple bells, fragrant with lotus blossoms and holy incense
+  composition:
+    cameraAngle: Contemplative view emphasizing the peace and spiritual perfection of ultimate enlightenment
+    focus: The perfect spiritual realm that represents the goal of all religious seeking
+    depth: Foreground shows individuals enjoying perfect spiritual peace, middle ground reveals systematic organization of
+      enlightened society, background suggests infinite realms of spiritual achievement
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Peak celebration time during cosmic festival bringing all realms together
+    location: Multi-dimensional festival ground connecting heavenly, earthly, and spiritual realms for grand celebration
+    weather: Perfect ceremonial conditions with divine light illuminating all three realms simultaneously
+  characters:
+  - appearance: Representatives from all realms of existence - divine beings radiating celestial light, earthly humans in
+      their finest ceremonial attire, reformed demons showing their rehabilitated status, spirits from various traditions
+    clothing: Ceremonial dress representing each realm's highest cultural achievements - heavenly beings in robes of living
+      light, humans in elaborate silk court dress, spirits in ethereal garments that shift with their emotional states
+    position: Arranged in cosmic harmony throughout multi-level festival grounds, each group contributing to universal celebration
+    action: Participating in unified ceremonies that bridge all realms, sharing cultural traditions and celebrating cosmic
+      unity
+  scene:
+    mainElements: Grand amphitheater spanning multiple dimensions where beings from all realms gather, performance stages
+      showcasing traditions from different worlds, ceremonial altars representing various spiritual paths, communal feast
+      areas where different beings share food and fellowship
+    details: Universal celebration showing harmony between all aspects of existence with cultural exchange programs displaying
+      each realm's unique contributions, technological demonstrations showing divine and earthly innovations, artistic performances
+      combining different dimensional aesthetics, ceremonies acknowledging shared spiritual heritage
+    background: Festival grounds extending across multiple dimensional planes, additional celebration sites visible in distance,
+      suggestion of universe-wide participation in cosmic harmony
+    atmosphere: Overwhelming joy and universal brotherhood, sounds of celebration from multiple dimensions harmonizing together,
+      air filled with combined fragrances from all realms creating perfect sensory experience
+  composition:
+    cameraAngle: Multi-dimensional view capturing the scope and diversity of universal celebration
+    focus: The successful integration and harmony of all cosmic communities
+    depth: Foreground shows detailed interactions between different types of beings, middle ground reveals systematic organization
+      of multi-realm celebration, background suggests cosmic scale of universal harmony
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

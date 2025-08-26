@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Eternal celestial time, pure divine illumination
+    location: Higher spheres of Paradise where divine light operates as living technology
+    weather: Perfect luminous atmosphere of pure divine energy
+  characters: No characters present in this scene
+  scene:
+    mainElements: Divine light functioning as advanced technology - beams of light serving as transportation pathways, geometric
+      patterns of light creating architectural structures, luminous energy flowing through crystalline conduits like divine
+      electricity
+    details: Streams of golden and white light flowing in precise geometric patterns, creating bridges, stairs, and platforms
+      that appear solid but are made entirely of concentrated divine energy. Light-based machinery with rotating wheels of
+      pure radiance, prisms that separate divine light into component spiritual energies each serving different functions.
+      Sacred geometry manifested as functional architecture - perfect circles, spirals, and polyhedrons of light serving as
+      divine mechanisms. No physical materials present, everything constructed from various intensities and colors of divine
+      light.
+    background: Infinite expanse of luminous space with complex geometric patterns of light extending to cosmic horizon, other
+      celestial mechanisms visible in distance
+    atmosphere: Sense of technology beyond human comprehension operating on principles of pure love and divine will, perfect
+      harmony between form and function, overwhelming beauty of divine engineering
+  composition:
+    cameraAngle: Perspective from within the light-machinery showing how divine energy creates functional systems
+    focus: The geometric patterns of light functioning as divine technology and infrastructure
+    depth: Foreground shows detailed light-mechanisms in operation, middle ground displays larger geometric systems, background
+      fades into infinite luminous space
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

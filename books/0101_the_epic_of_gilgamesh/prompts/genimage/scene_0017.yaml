@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, time of emotional turbulence
+    location: Vast sky above desert where inner turmoil manifests in weather patterns
+    weather: Supernatural storm with clouds forming meaningful shapes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive storm clouds arranged in perfect crown formation above desert landscape, lightning crackling between
+      cloud peaks like jewels in royal headpiece
+    details: Dark storm clouds sculpted into precise crown shape with clearly defined peaks and valleys, lightning bolts branching
+      between cloud formations creating illuminated crown details, rain falling only from crown formation while surrounding
+      sky remains clear, storm winds visible as swirling patterns within cloud structure
+    background: Desert landscape below showing contrast between earthly concerns and sky-bound royal symbols, distant mountains
+      and scattered vegetation, clear sky surrounding storm crown formation
+    atmosphere: Divine authority manifesting in natural phenomena, inner turmoil about leadership and responsibility made
+      visible in sky, awe-inspiring display of power beyond human control, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing massive scale of crown-shaped storm formation
+    focus: Storm crown as symbol of troubled leadership and divine authority in chaos
+    depth: Foreground shows desert landscape with human-scale reference, middle ground shows storm effects on ground, background
+      shows full crown formation in sky
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

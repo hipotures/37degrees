@@ -1,0 +1,74 @@
+sceneDescription:
+  setting:
+    time: Day of environmental reckoning when accumulated damage threatens all life
+    location: Regions where magical and technological activities have damaged natural harmony along pilgrimage routes
+    weather: Unnatural weather patterns caused by environmental disruption - acid rain, toxic winds, temperature extremes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Landscapes scarred by overuse of magical resources, rivers turned toxic from alchemical waste, forests dying
+      from spiritual pollution, agricultural lands rendered barren by excessive supernatural intervention
+    details: Environmental catastrophe showing consequences of irresponsible magical and technological development with poisoned
+      water sources that glow with unnatural colors, air made unbreathable by magical industrial processes, soil contaminated
+      with failed alchemical experiments, wildlife fleeing or transformed into unnatural forms by exposure to magical toxins
+    background: Devastated landscape extending across vast territories, multiple environmental crisis zones visible in distance,
+      suggestion of systemic ecological collapse threatening entire regions
+    atmosphere: Desperation and environmental doom, unnatural silence where normal life sounds should be, air heavy with toxic
+      substances and failed magical experiments
+  composition:
+    cameraAngle: Panoramic view emphasizing the scope and severity of environmental destruction
+    focus: The catastrophic results of irresponsible magical and technological development
+    depth: Foreground shows specific examples of environmental damage and pollution, middle ground reveals systematic ecological
+      destruction, background suggests widespread environmental crisis threatening entire civilizations
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

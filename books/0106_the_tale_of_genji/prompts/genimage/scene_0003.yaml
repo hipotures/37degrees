@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, spring afternoon
+    location: Aristocratic residential complex in Heian-kyō designed as idealized spring garden, near ancient cherry tree
+      with deeply textured bark
+    weather: Gentle spring breeze stirring silk fabrics and tree branches
+  characters:
+  - appearance: Japanese noblewoman aged ten to forty-three with remarkable beauty resembling Fujitsubo, very pale white powdered
+      face with blackened teeth, artificially drawn high eyebrows, magnificent floor-length straight black hair that gleams
+      like silk
+    clothing: Exquisite twelve-layer court robes jūnihitoe with perfectly harmonized color combinations, each ensemble demonstrates
+      flawless seasonal taste and refined aesthetic sensibility
+    position: Standing beside ancient cherry tree, one silk-gloved hand touching rough bark
+    action: Pressing delicate silk sleeve against deeply ridged tree bark, fingers exploring texture contrasts, fabric catching
+      on rough surface
+  scene:
+    mainElements: Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees,
+      plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream
+    details: Ancient cherry bark deeply grooved with centuries of growth patterns, silk fabric so smooth it reflects light
+      like water surface, dramatic texture contrast where soft material meets harsh wood, threads beginning to snag on rough
+      edges, fingertips detecting every ridge and valley through thin silk, bark's living warmth contrasting with fabric's
+      coolness, petals drifting down to rest on both surfaces, no text or letters visible
+    background: Harmonious beauty representing eternal spring, gentle sounds of water and birds, sweet fragrance of blossoms,
+      soft filtered light creating peaceful intimate mood
+    atmosphere: Tactile exploration revealing beauty in contrasts, delicate aristocratic refinement meeting ancient natural
+      textures, spring's renewal encouraging touch and discovery
+  composition:
+    cameraAngle: Close-up focusing on hand interaction with contrasting textures
+    focus: Detailed texture comparison between silk smoothness and bark roughness
+    depth: Hand and texture details in sharp foreground, character's reaction in middle ground, spring garden softly blurred
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

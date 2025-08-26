@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Christmas Eve across multiple years - 1840, 1841, 1842, 1843, 1844
+    location: Small London parish church with stone arches and wooden pews
+    weather: Consistent snowy Christmas Eve atmosphere across years
+  characters:
+  - appearance: Various churchgoers showing subtle aging but consistent Christmas Eve devotion
+    clothing: Best winter church attire evolving slightly across years but maintaining formal reverence
+    position: Occupying same pews each Christmas Eve
+    action: Participating in annual Christmas Eve service with consistent ritual behavior
+  scene:
+    mainElements: Church interior showing annual Christmas Eve repetition - same service structure, same altar arrangement,
+      same congregation positions, but subtle progression through multiple years of celebration
+    details: Annual cyclical return - altar candles burning in identical arrangement each year, same hymnal pages opened for
+      traditional carols, pew positions occupied by same families across years, Christmas wreath decorations replaced but
+      identical style, organ music following same annual repertoire, prayer book pages showing wear from repeated seasonal
+      use, collection plates following identical passing pattern, stained glass windows illuminated by consistent winter light
+      angle, church heating following same seasonal pattern, no text or letters visible
+    background: Church architecture maintaining sacred consistency - stone arches unchanged, wooden pews polished to same
+      gleam annually, religious artwork receiving same seasonal attention, memorial plaques accumulating slowly over years
+    atmosphere: Sacred annual renewal creating sense of eternal return, sounds of traditional Christmas Eve service repeated
+      with comforting consistency, scents of seasonal evergreen and candle wax returning annually, light quality identical
+      each Christmas Eve
+  composition:
+    cameraAngle: Wide shot from back of church showing congregation annual consistency
+    focus: Altar area maintaining identical Christmas Eve arrangement across years
+    depth: Foreground shows pew details repeating annually, middle ground reveals congregation consistency, background displays
+      altar seasonal preparation tradition
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

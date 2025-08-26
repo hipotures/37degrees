@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1879, Boxing Day late night
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Deep winter night
+  characters: No characters present in this scene
+  scene:
+    mainElements: Zamknięta na klucz skrzynka na listy, symbol tajemnic and Torvald's kontrola nad przepływem informacji,
+      zawiera listy from Krogstad and later Rank
+    details: Biała koperta containing demaskujący list from Krogstad, fizyczny nośnik prawdy that wdziera się into dom Helmerów
+      and niszczy jego fasadę, object of największy strach for Nora now rests inside the locked box. The letter waits like
+      a bomb, ticking toward inevitable explosion. Mały metalowy przedmiot, symbol władzy and kontroli Torvalda, instrument
+      of his dominacja over information flow in dom will soon unlock this destruction.
+    background: The silent, sleeping household unaware of the catastrophe waiting in this innocent-looking box
+    atmosphere: Ominous stillness. The letter represents the point of no return - once Torvald reads it, nothing will ever
+      be the same. The simple domestic object holds the power to destroy their entire world.
+  composition:
+    cameraAngle: Extreme close-up on the letter box with the white envelope visible through the slot
+    focus: The letter box as the nexus of fate, containing the words that will change everything
+    depth: 'Foreground: The letter box holding destruction. Middle ground: The quiet room about to be shattered. Background:
+      The sleeping household unaware of approaching doom.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

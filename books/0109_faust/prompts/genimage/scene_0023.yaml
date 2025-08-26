@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: After battle, in metaphysical space between realms
+    location: Abstract space where earthly and divine realms intersect, no longer bound by physical geography
+    weather: Ethereal atmosphere with shifting lights representing different spiritual states
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Battle-damaged court dress showing effects of divine encounter, but figure maintaining its essential dignity
+      despite defeat
+    position: Standing alone in metaphysical space, contemplating defeat and its implications
+    action: Reflecting on cosmic education just received, processing new understanding of his role in divine plan
+  scene:
+    mainElements: Solitary figure of Mephistopheles surrounded by shifting lights and shadows representing different aspects
+      of existence - divine, human, and demonic elements all coexisting in complex harmony
+    details: In defeat, Mephistopheles achieves deeper understanding of his cosmic function. His corruption of Faust ultimately
+      served divine purpose by forcing human soul to grow beyond comfortable stagnation into active engagement with existence.
+      His 'evil' provided necessary resistance that developed Faust's moral strength, just as physical exercise strengthens
+      muscle through opposition
+    background: Abstract metaphysical environment with geometric patterns of light suggesting mathematical harmony underlying
+      apparent chaos of existence
+    atmosphere: Philosophical acceptance and even admiration for superior cosmic design that incorporated his rebellion as
+      essential element. Mephistopheles recognizes himself as unwitting collaborator in divine education rather than successful
+      opponent
+  composition:
+    cameraAngle: Medium shot emphasizing solitary contemplation and philosophical reflection
+    focus: Mephistopheles' expression of grudging respect and intellectual appreciation for cosmic design that used his opposition
+      constructively
+    depth: 'Foreground: Mephistopheles in contemplative pose. Middle ground: Shifting patterns of light and shadow. Background:
+      Abstract representation of cosmic harmony incorporating opposition'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

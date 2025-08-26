@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, dawn to noon transition
+    location: Path from muddy battlefield to royal throne room, showing journey from defeat to triumph
+    weather: Weather clearing from stormy to bright sun
+  characters: No characters present in this scene
+  scene:
+    mainElements: 'Split scene showing same crown in two contexts: half buried in battlefield mud on left, gleaming on royal
+      throne on right, connected by flowing transition'
+    details: Left side shows crown tarnished and partially submerged in dark mud with battle debris around it, right side
+      shows same crown polished bright gold sitting majestically on carved throne, geometric patterns visible on crown surface,
+      throne decorated with lion motifs and precious stones
+    background: Left side shows abandoned battlefield with broken weapons and disturbed earth, right side shows magnificent
+      throne room with painted walls and ceremonial banners, transition area shows path between these contrasting worlds
+    atmosphere: Dramatic transformation from defeat to victory, from abandonment to honor, symbolic journey through adversity
+      to triumph, no text or letters visible
+  composition:
+    cameraAngle: Panoramic view showing both contexts with flowing connection between them
+    focus: Crown as central symbol transforming meaning through changed circumstances
+    depth: Foreground shows crown details in both contexts, middle ground shows contrasting environments, background shows
+      distant elements of battlefield and throne room
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

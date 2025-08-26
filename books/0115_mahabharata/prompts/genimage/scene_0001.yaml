@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, dawn
+    location: Banks of sacred river Ganges in northern India with wide flowing water and morning mists
+    weather: Clear dawn with gentle mists rising from river surface
+  characters:
+  - appearance: Male, 30-35 years old, noble king in hunting attire, strong build with royal bearing
+    clothing: Royal hunting garments in rich browns and golds, practical but ornate
+    position: Standing at river's edge facing the water
+    action: Approaching luminous female figure emerging from river mists
+  - appearance: Female, ageless divine beauty with otherworldly luminescence, tall graceful form
+    clothing: Flowing white robes that seem to move like water itself, adorned with river pearls
+    position: Emerging from river waters onto sandy bank
+    action: Walking toward king with serene divine expression
+  scene:
+    mainElements: Wide majestic Ganges river with gentle current, sandy riverbank, morning mist creating ethereal atmosphere,
+      distant palace visible on horizon
+    details: Sacred river reflects dawn sky, aquatic birds calling from reeds, footprints in wet sand, divine light emanating
+      from goddess figure, ripples where she emerged from water, no text or letters visible
+    background: Rolling northern Indian landscape with distant hills, sparse vegetation typical of river valley, clear morning
+      sky with first light
+    atmosphere: Mystical sacred atmosphere of divine encounter, sounds of flowing water and bird calls, scent of river and
+      morning air, sense of fate beginning
+  composition:
+    cameraAngle: Wide establishing shot from riverbank level showing vast scale of sacred river
+    focus: Divine meeting between mortal king and goddess emerging from holy waters
+    depth: Foreground wet sandy riverbank, middle ground two figures meeting, background vast flowing river extending to horizon,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

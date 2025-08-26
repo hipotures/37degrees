@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal celestial time, constant divine illumination
+    location: Rose-shaped amphitheater of Paradise where blessed souls participate in divine worship
+    weather: Perfect divine atmosphere of pure light and harmony
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive rose-shaped amphitheater formed entirely of divine light, with countless tiers of seats filled with
+      points of brilliant light representing blessed souls, central altar area radiating intense golden illumination
+    details: Geometric amphitheater structure made of crystalline light forming perfect rose pattern when viewed from above,
+      each 'petal' containing thousands of seats occupied by souls appearing as various intensities of white and golden light.
+      Divine altar at center consisting of pure geometric forms - circles, triangles, and spirals of brilliant white light.
+      Sacred music visible as patterns of colored light moving through the air. Angels appearing as wheels of fire with multiple
+      wings moving in complex geometric dances around the central altar. No physical materials present - everything constructed
+      from various grades of divine illumination.
+    background: Infinite space filled with divine light extending beyond the amphitheater, other celestial structures barely
+      visible in the limitless radiance
+    atmosphere: Perfect worship and adoration, sense of all creation united in praise of divine love, overwhelming joy and
+      peace, celestial harmony made visible
+  composition:
+    cameraAngle: Elevated perspective showing the rose structure and its relationship to infinite divine space
+    focus: The organized worship of blessed souls arranged in perfect geometric harmony
+    depth: Foreground shows detailed rose structure and light patterns, middle ground displays the complete amphitheater,
+      background dissolves into infinite divine radiance
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

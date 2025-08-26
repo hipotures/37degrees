@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1879, Christmas Eve afternoon
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Winter afternoon light growing dimmer
+  characters:
+  - appearance: Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with
+      inner strength
+    clothing: Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors
+      like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material
+    position: Leaning forward intensely, eyes bright with pride and secrecy
+    action: Speaking with passionate conviction, hands gesturing as she reveals her hidden strength and sacrifice
+  - appearance: Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła
+      build
+    clothing: Skromna prosta suknia podróżna, czysta ale znoszona pozbawiona modnych ozdób, świadcząca o ubóstwie and status
+      kobiety pracującej
+    position: Sitting back slightly, eyes widening in shock and concern
+    action: Listening with growing alarm as she realizes the dangerous implications of Nora's confession
+  scene:
+    mainElements: Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane
+      drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany
+    details: The comfortable salon setting contrasts with the dangerous secret being revealed. Afternoon light creates intimate
+      atmosphere for this confession that will change everything. Christmas packages nearby seem suddenly trivial compared
+      to this revelation of forgery and desperate love.
+    background: Elegant bourgeois interior with shadows beginning to lengthen, suggesting the darkness that will follow this
+      revelation
+    atmosphere: Intense intimacy of shared secrets, but with growing undertones of danger as the full implications become
+      clear. The safe domestic space feels suddenly fragile.
+  composition:
+    cameraAngle: Close two-shot emphasizing the intensity of the confession
+    focus: Nora's passionate pride in her sacrifice contrasted with Kristine's growing alarm
+    depth: 'Foreground: The two women locked in intense conversation. Middle ground: The comfortable furnishings that represent
+      the life Nora is risking. Background: Lengthening shadows suggesting approaching consequences.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

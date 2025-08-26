@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Clear bright midday with strong sunlight
+  characters:
+  - appearance: Male, 30-35 years old, smukła szczupła budowa ciała, duże oczy, wydatny nose, pure gold karnacja
+    clothing: Białe lub szafranowe jedwabie i lna ozdobione dyskretną złotą biżuterią, prosta korona symbolizująca prawość
+    position: Standing before massive wooden throne in great hall
+    action: Zawsze wyprostowana postawa pełna godności, porusza się powoli w sposób przemyślany
+  - appearance: Male, 30-35 years old, ogromny wzrost jak wyrośnięte drzewo sala, potężna muskularna budowa z długimi ramionami,
+      jasnozłota karnacja
+    clothing: Czerwone proste szaty niekrępujące ruchów, funkcjonalne i praktyczne
+    position: Beside brother near throne steps
+    action: Porusza się z ciężką niepowstrzymaną energią, gesty szerokie i zamaszyste
+  scene:
+    mainElements: Monumental wooden gates, high defensive ramparts, extensive courtyards, multi-story wooden pavilions with
+      carved columns and copper-gold roofed palace
+    details: Carved wooden pillars reaching toward high ceiling, royal banners hanging from rafters, courtiers in rich garments
+      lining hall walls, sunlight streaming through windows creating patterns on floor, no text or letters visible
+    background: Deep interior of royal palace with wooden architecture, guards stationed at intervals, ceremonial weapons
+      displayed on walls
+    atmosphere: Atmosphere of ancient established power filled with court intrigue, sounds of city bustle hammering of smiths
+      guards calling from walls music from palace chambers, scents of incense cooked food horses and dust
+  composition:
+    cameraAngle: Low angle shot emphasizing monumental scale of throne room and royal authority
+    focus: Two royal brothers positioned before throne representing dynastic succession
+    depth: Foreground ornate floor patterns, middle ground royal figures and throne, background vast hall with courtiers and
+      architecture, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, early morning with mist
+    location: Buddhist temple near Imperial Palace Heian-kyō, stone courtyard with large bronze bell and reflecting pools
+    weather: Morning mist rising from water, still air perfect for sound travel
+  characters:
+  - appearance: Japanese imperial consort in her teens to thirties, bears striking resemblance to deceased Kiri-Tsubo, pale
+      aristocratic features with powdered white face, blackened teeth, redrawn high eyebrows, long straight black hair
+    clothing: Imperial quality twelve-layer robes befitting emperor's consort, often incorporating wisteria motifs in subtle
+      purples and whites, garments of highest silk quality with court-appropriate seasonal colors
+    position: Kneeling in prayer position beside reflecting pool, perfectly still in meditation
+    action: Remaining motionless as temple bell sounds, eyes closed in spiritual contemplation, maintaining perfect composure
+  scene:
+    mainElements: Large bronze temple bell suspended from wooden frame, multiple stone reflecting pools around temple courtyard,
+      wooden temple buildings with curved roofs
+    details: Massive temple bell creates deep resonant tone that spreads through morning air, concentric ripples expand across
+      still water surfaces in perfect circles, mist particles seem to vibrate and dance with sound waves, lily pads on pond
+      bounce gently with water movement, stone surfaces reflect sound back creating echo patterns, prayer flags flutter slightly
+      from air movement, water droplets create secondary ripples when they fall from temple eaves, no text or letters visible
+    background: Buddhist temple complex with wooden buildings, curved roofs, stone pathways, ancient trees shrouded in morning
+      mist
+    atmosphere: Sacred sound creating visible patterns in water and mist, spiritual resonance made physical through rippling
+      effects, meditative peace disturbed and enhanced by bell's deep tone
+  composition:
+    cameraAngle: High angle showing ripple patterns spreading across water surface
+    focus: Concentric water ripples and particle movement patterns responding to sound waves
+    depth: Water ripple details in foreground, meditating figure reflected in water in middle ground, misty temple complex
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

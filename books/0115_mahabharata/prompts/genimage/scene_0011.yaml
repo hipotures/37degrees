@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, moment outside time
+    location: Vast flat alluvial plain in northern India known as Dharmakshetra sacred field of dharma, ideal terrain for
+      great army chariot maneuvers
+    weather: Reality transcended by divine revelation
+  characters: No characters present in this scene
+  scene:
+    mainElements: Cosmic vision showing universe within divine form, infinite heads arms and eyes emitting light of thousand
+      suns, galaxies and celestial bodies visible within divine mouth, all warriors of both armies being consumed by flames
+    details: Blinding divine radiance overwhelming mortal sight, multiple cosmic forms overlapping, time and space distorted,
+      future destruction of war visible within divine maw, stars planets galaxies swirling in cosmic dance, no text or letters
+      visible
+    background: Normal battlefield reality completely dissolved into cosmic vision, laws of physics suspended, infinite divine
+      form extending beyond perception
+    atmosphere: Terror and awe of ultimate divine revelation, sounds beyond mortal comprehension, cosmic music and silence
+      simultaneously, overwhelming presence of absolute reality
+  composition:
+    cameraAngle: POV shot showing exactly what Arjuna sees during cosmic revelation
+    focus: Overwhelming divine vision that reveals true nature of reality and destiny
+    depth: No conventional depth as cosmic vision transcends normal space, infinite regression of divine forms, no text or
+      letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

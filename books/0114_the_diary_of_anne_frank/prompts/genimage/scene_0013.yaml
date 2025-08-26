@@ -1,0 +1,71 @@
+sceneDescription:
+  setting:
+    time: 1942-1944, seasonal transitions
+    location: Secret Annex top floor attic under roof with wooden ceiling beams, storage space, Amsterdam 1942-1944
+    weather: All four seasons visible through changing light and tree conditions
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ciemna przestrzeń pod dachem, widoczne belki stropowe, beczki i worki z jedzeniem, jedno niezamalowane okno
+      z widokiem na kasztanowiec showing seasonal changes
+    details: Stary kasztanowiec rosnący na podwórzu widoczny z okna strychu, jedyny kontakt z naturą, symbol wolności cyklu
+      życia i niezłomnej nadziei changing from bare winter branches to spring buds to full summer foliage to autumn colors.
+      Light quality changing with seasons
+    background: Amsterdam rooftops and courtyard visible beyond the tree
+    atmosphere: Jedyne miejsce kontaktu z naturą, azyl dla zadumy i intymności, smugi światła w kurzu, passage of time marked
+      by natural cycles
+  composition:
+    cameraAngle: Time-lapse style montage showing seasonal changes through the attic window
+    focus: The chestnut tree as calendar and symbol of enduring life
+    depth: Window frame foreground, tree in middle distance, city background changing with seasons
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

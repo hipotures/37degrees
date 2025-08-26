@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal noon of earthly paradise, perfect golden light
+    location: Garden of Eden atop Mount Purgatory during sacred procession
+    weather: Perfect paradise climate with gentle divine breeze
+  characters: No characters present in this scene
+  scene:
+    mainElements: Magnificent religious procession with sacred symbols, mystical chariot drawn by griffin, seven golden candlesticks
+      creating path of light, books and scrolls of divine revelation displayed ceremonially
+    details: Seven towering golden candlesticks preceding procession, each blazing with flames of different colors creating
+      rainbow trail across sky. Sacred chariot with wheels of gold and silver, drawn by magnificent griffin with eagle head
+      and wings, lion body showing perfect union of divine and earthly natures. Twenty-four elders wearing white robes with
+      golden crowns, carrying scrolls representing books of Old Testament. Four mystical beasts with multiple wings and eyes
+      covering their bodies, each representing different aspects of divine revelation. Flowers scattered along processional
+      path by invisible hands, creating carpet of rose petals and lilies.
+    background: Perfect garden landscape with trees bearing golden fruit, crystal streams reflecting procession lights, distant
+      view of celestial spheres beginning to appear
+    atmosphere: Supreme divine revelation combining earthly paradise with heavenly glory, sense of ultimate sacred ceremony,
+      overwhelming beauty and spiritual significance
+  composition:
+    cameraAngle: Ceremonial perspective showing the full procession and its sacred symbols
+    focus: The divine procession that represents ultimate revelation of spiritual truth
+    depth: Foreground shows detailed ceremonial objects and mystical beings, middle ground displays the complete procession,
+      background shows paradise garden extending toward celestial realm
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

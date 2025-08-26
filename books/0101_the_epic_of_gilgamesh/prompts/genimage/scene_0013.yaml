@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, ethereal twilight
+    location: Mystical garden where natural and artificial elements merge in impossible ways
+    weather: Otherworldly atmosphere with no normal weather patterns
+  characters: No characters present in this scene
+  scene:
+    mainElements: Large red rose with thorns replaced by miniature bronze chains, flower blooming beautifully despite being
+      studded with metallic restraints
+    details: Rose petals deep red and perfectly formed showing natural beauty, tiny bronze chain links replacing natural thorns
+      along stem, chains intricately crafted with microscopic detail, some chain thorns catching light like metal jewelry,
+      rose stem strong green despite unusual thorns
+    background: Mystical garden where natural and artificial elements merge in impossible ways, other hybrid plants visible
+      in distance, stone pathways with geometric patterns
+    atmosphere: Surreal beauty combined with subtle menace, nature and civilization merged in impossible harmony, ethereal
+      lighting making metal chains gleam like jewelry, no text or letters visible
+  composition:
+    cameraAngle: Close-up angled view emphasizing the chain thorns against rose petals
+    focus: Rose with chain thorns as symbol of beauty protected by beautiful restraints
+    depth: Foreground shows detailed rose and chain thorns, middle ground shows stem and leaves, background shows mystical
+      garden setting
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

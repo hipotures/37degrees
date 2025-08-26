@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, early morning in palace kitchens
+    location: Imperial Palace Heian-kyō service areas, stone ovens and preparation rooms where court meals are made
+    weather: Cool morning air creating dramatic steam contrast
+  characters:
+  - appearance: Japanese kitchen servant in simple work clothing, practical cotton robes tied back for work, hair covered
+      with cloth, hands dusted with flour
+    clothing: Simple undyed cotton work robes, practical tabi socks, cloth head covering, flour-dusted apron
+    position: Removing freshly baked rice cakes and steamed buns from stone ovens
+    action: Lifting hot baked goods with wooden paddles, creating dramatic steam clouds, wiping sweat from forehead with flour-covered
+      hands
+  scene:
+    mainElements: Stone ovens built into palace kitchen walls, wooden work surfaces covered with flour, bamboo steaming baskets,
+      ceramic storage jars
+    details: Fresh baked rice cakes release dramatic steam clouds when exposed to cool morning air, flour particles dance
+      and swirl in steam currents like tiny snowflakes, vapor rises in distinct spiraling patterns from hot surfaces, bread
+      crusts create crackling sounds and visible moisture release, condensation forms on cool stone surfaces creating temporary
+      patterns, wooden paddles show flour residue and heat marks, steam creates temporary veils that reveal and conceal kitchen
+      activity, no text or letters visible
+    background: Imperial Palace kitchen complex with stone work surfaces, hanging copper pots, storage areas filled with ceramic
+      jars and bamboo baskets
+    atmosphere: Warm yeasty richness suggested by visible steam patterns, comfort and nourishment implied through thermal
+      visualization, humble kitchen artistry creating aromatic clouds
+  composition:
+    cameraAngle: Medium shot capturing steam patterns and flour particle movement
+    focus: Steam spiral patterns and flour dust interaction with thermal currents
+    depth: Steam details and flour particles in foreground, working figure in middle ground, kitchen equipment and storage
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

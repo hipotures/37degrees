@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1879, Boxing Day late evening
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Deep winter night
+  characters:
+  - appearance: Woman aged 28-30 years but wygląda na znacznie starszą, zmęczona poważna twarz pozbawiona beztroski, szczupła
+      build
+    clothing: Skromna prosta suknia podróżna, czysta ale znoszona pozbawiona modnych ozdób, świadcząca o ubóstwie and status
+      kobiety pracującej
+    position: Stepping out of lamplight into shadow, becoming the dominant figure
+    action: Moving with newfound authority, taking control of the conversation and situation
+  - appearance: Man aged 35-40 years, zaniedbanego wygląd suggesting społeczną degradację and desperację, twarz wyrażająca
+      zgorzknienie but also troskę about los swoich dzieci
+    clothing: Znoszony być może niedopasowany płaszcz or garnitur, odzwierciedlająca jego niższą pozycję w banku and trudną
+      sytuację finansową
+    position: Now in the light, looking uncertain and vulnerable
+    action: Listening with growing surprise as Kristine takes command of the situation
+  scene:
+    mainElements: Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane
+      drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany
+    details: The lighting creates dramatic reversal - Kristine steps into shadow to assume power while Krogstad is exposed
+      in the light, now vulnerable. The physical positioning mirrors the psychological shift in their relationship.
+    background: Deep shadows and pools of lamplight create chiaroscuro effect emphasizing the power reversal
+    atmosphere: Dramatic shift in psychological dynamics. The lighting literally illuminates the changing balance of power
+      between these two wounded people.
+  composition:
+    cameraAngle: Low angle emphasizing Kristine's new dominance as she steps into shadow
+    focus: The dramatic lighting that reverses their power positions
+    depth: 'Foreground: Kristine emerging from shadow with new authority. Middle ground: The shifting balance of power. Background:
+      Dramatic interplay of light and shadow throughout the room.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

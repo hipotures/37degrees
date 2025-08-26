@@ -1,0 +1,69 @@
+sceneDescription:
+  setting:
+    time: 1942-1944, continuous
+    location: Close examination of diary pages showing evolution of handwriting
+    weather: Soft archival lighting
+  characters: No characters present in this scene
+  scene:
+    mainElements: Multiple diary pages spread out showing the evolution of Anne's handwriting over two years
+    details: Early entries in careful, childish script contrasting with later mature, flowing handwriting. Wieczne pióro marks,
+      ink blots, corrections, words crossed out, margins filled with afterthoughts. Some entries written in pencil when ink
+      was scarce, others with different pen showing different moods and circumstances
+    background: Library or archive setting with proper document preservation lighting
+    atmosphere: Scientific reverence for historical documents, showing personal growth through changing handwriting
+  composition:
+    cameraAngle: Overhead view of multiple diary pages arranged chronologically
+    focus: The evolution visible in handwriting style from child to young woman
+    depth: All pages in focus showing comparative analysis of writing development
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

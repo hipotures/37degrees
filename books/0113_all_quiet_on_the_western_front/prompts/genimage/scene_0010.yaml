@@ -1,0 +1,124 @@
+sceneDescription:
+  setting:
+    time: 1918 spring morning, massive artillery barrage
+    location: No Man's Land during major offensive, multiple shell impacts creating overlapping explosions across scarred
+      battlefield
+    weather: clear morning transformed into chaos by artillery smoke and debris clouds
+  characters:
+  - appearance: 19 lat ślusarz z zawodu, bardzo chudy porównywany do konika polnego lub szczapy mimo że największy żarłok
+      w kompanii, ostre mysie rysy
+    clothing: standardowy mundur żołnierza niemieckiego Feldgrau
+    position: diving for cover in shell crater, body in mid-air leap
+    action: throwing himself into crater while debris rains down around him, covering head with arms while earth erupts in
+      all directions
+  scene:
+    mainElements: multiple artillery explosions creating overlapping chaos, debris clouds expanding in all directions, soldier
+      caught in desperate dive for safety, battlefield transformed into violent storm of earth and metal
+    details: explosive clouds expanding at different rates creating complex overlapping patterns, soil chunks and metal fragments
+      flying in chaotic trajectories, multiple explosions creating competing shock waves visible through debris movement,
+      dust and smoke clouds merging and separating in turbulent air currents, soldier's uniform and equipment buffeted by
+      pressure waves, earth geysers erupting at random intervals across battlefield, metal shrapnel glinting as it spins through
+      debris clouds, ground trembling visible through jumping objects and unstable debris piles, no text or letters visible
+    background: battlefield extending to horizon with continuous explosion pattern, smoke and dust obscuring distant features,
+      crater-scarred earth showing previous bombardment damage
+    atmosphere: overwhelming cacophony made visual through chaotic debris patterns, survival instincts triggering desperate
+      movement, mechanical violence of modern warfare displayed through explosive physics
+  composition:
+    cameraAngle: dynamic angle capturing soldier mid-dive with explosions erupting around him
+    focus: soldier's desperate leap with debris clouds and flying earth fragments
+    depth: foreground shows detailed debris and explosion effects, middle ground features diving soldier, background reveals
+      continuous battlefield explosions
+visualElements:
+  colorPalette:
+    primary:
+    - '#DC143C'
+    - '#000000'
+    - '#FFFFFF'
+    - '#D4B896'
+    secondary:
+    - '#808080'
+    - '#2F4F4F'
+    - '#8B7355'
+    - '#FFD700'
+    background: solid color blocks, no gradients, paper texture acceptable
+    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text.
+      Beige mimics period poster paper. High contrast essential.
+    saturation: high for red, desaturated for neutrals
+    contrast: maximum, stark divisions
+  lineArt:
+    style: bold geometric contours, angular simplified forms, industrial precision
+    weight: extra thick (8-12px equivalent), uniform throughout
+    color: pure black (#000000) or reversed white on dark
+    texture: clean vector-like, no texture within lines
+    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
+  composition:
+    layout: dynamic diagonals, asymmetric balance, upward movement
+    hierarchy: single dominant element (usually figure), supporting geometric shapes
+    gridSystem: constructivist angular grid, often tilted 15-30 degrees
+    whitespace: used as active design element, not passive background
+  lighting:
+    type: flat graphic lighting, no realistic light sources
+    direction: implied upward illumination for heroic effect
+    intensity: uniform, poster-like flatness
+    shadows:
+      style: geometric drop shadows only if needed
+      color: pure black or darker tone of base
+      opacity: 100% solid, no transparency
+      offset: consistent 45-degree angle
+    highlights: none, or minimal white accents for emphasis
+  rendering:
+    technique: lithograph/screen print simulation, vector-style clarity
+    texture: optional subtle paper grain, otherwise completely flat
+    detailLevel: reduced to essential symbolic elements only
+    finish: matte poster finish, no glossy effects
+    printEffects: slight registration offset acceptable (authentic touch)
+  perspective:
+    type: forced perspective from low angle (worm's eye view)
+    vanishingPoints: often ignored for symbolic impact
+    distortion: acceptable for dramatic/heroic effect
+    depth: minimal, mostly flat with slight overlap for hierarchy
+  typography:
+    integration: typography AS design element, not added to design
+    style: bold sans-serif, constructed letterforms, custom geometric
+    weight: black or ultra-bold only
+    layout: diagonal placement common, integrated with imagery
+    effects: outlined, 3D extrusion, or drop shadow for impact
+    cyrillicInfluence: even in Latin text, angular construction
+    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  mood:
+    overall: heroic, revolutionary, urgent, triumphant
+    emotion: determination, collective strength, forward momentum, optimism
+    tempo: dynamic, march-like rhythm, visual percussion
+    energy: explosive, ascending, breakthrough
+    keywords:
+    - heroic triumph
+    - revolutionary fervor
+    - collective power
+    - industrial might
+    - forward progress
+    - monumental scale
+    - urgent action
+    - optimistic future
+  symbolism:
+    common: hammer/sickle, gear wheels, wheat, stars, raised fists
+    figures: workers, soldiers, peasants in heroic poses
+    abstract: lightning bolts, sunrise rays, diagonal shafts
+    architectural: factories, construction, modern buildings
+  stylePrecedents:
+  - Alexander Rodchenko (photomontage, diagonal compositions)
+  - El Lissitzky (Beat the Whites with the Red Wedge)
+  - Gustav Klutsis (dynamic photomontage)
+  - Dmitry Moor (classical propaganda posters)
+  - Vladimir Mayakovsky (ROSTA windows)
+  - Varvara Stepanova (textile and poster designs)
+  - Constructivist movement (1919-1934)
+  - Suprematist influence (geometric abstraction)
+  - Bauhaus poster design
+  - John Heartfield (political photomontage)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

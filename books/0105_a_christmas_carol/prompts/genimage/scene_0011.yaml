@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1823, 1843, and 1863 - same Christmas evening hour
+    location: Modest four-room dwelling in working-class London neighborhood, clean but cramped quarters showing pride despite
+      poverty
+    weather: Same snowy Christmas evening across three decades
+  characters:
+  - appearance: Kind woman in 40s with work-worn hands, caring eyes, graying hair neatly arranged, thin but dignified bearing
+    clothing: Twice-turned dress adorned with ribbons for festivity, simple white apron, modest cap, making best of limited
+      wardrobe
+    position: Serving Christmas dinner at same table across generations
+    action: Preparing modest feast with great care, sewing by firelight, embracing children with fierce maternal love
+  - appearance: Middle-aged thin man in 40s with kind eyes, prematurely aged by hardship, gentle face showing patience and
+      goodness
+    clothing: Threadbare dark suit, worn white shirt, thin white scarf wrapped around neck for warmth, patched but clean garments
+    position: Seated at head of table in each generation
+    action: Writing in ledgers with numb fingers, warming hands over single candle, embracing family members with tender affection
+  - appearance: Small frail boy around 8 years old with pale complexion, bright intelligent eyes, thin limbs, cheerful expression
+      despite physical weakness
+    clothing: Simple patched shirt, small woolen vest, knee breeches, worn stockings, wrapped in family shawl for warmth
+    position: Supported by small wooden crutch, metal brace on leg, sitting carefully, leaning on family members for support
+    action: Using crutch for walking, singing carols with pure voice, blessing others with innocent wisdom, being carried
+      by father's shoulders
+  scene:
+    mainElements: Triple exposure showing same dining table across three Christmas generations - 1823 shows Bob as young father
+      with infant Tim, 1843 reveals middle-aged family with child Tim, 1863 displays elderly Bob with grown Tim bringing own
+      family
+    details: Generational continuity overlay - same wooden table worn smoother over decades, identical white tablecloth replaced
+      multiple times but same pattern, Christmas dinner evolving from single small goose to larger feast as circumstances
+      improve, same family Bible reading tradition maintained, candles in same positions but holders more tarnished, small
+      dining room furniture rearranged for growing then changing family size, Tim's crutch visible in corner becoming walking
+      stick then absent as health improves, modest Christmas pudding recipe passed down unchanged, no text or letters visible
+    background: Same four-room home showing forty years of subtle improvements - fresh paint applied over decades, small repairs
+      accumulated, window treatments updated but style consistent, religious prints on walls maintained
+    atmosphere: Eternal warmth and love transcending material poverty, voices of three generations overlapping in Christmas
+      blessings, scents of traditional recipes maintained across decades, light of same fireplace casting consistent warmth
+  composition:
+    cameraAngle: Medium shot from dining room doorway showing table across generations
+    focus: Central dining table serving as anchor point for generational continuity
+    depth: Foreground shows immediate table settings, middle ground reveals family interactions, background displays home
+      consistency over time
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

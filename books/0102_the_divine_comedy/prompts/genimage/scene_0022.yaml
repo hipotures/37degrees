@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Primordial time before human creation, the original cosmic conflict
+    location: Celestial battlefield showing the war between faithful and rebellious angels
+    weather: Cosmic storm with lightning of divine justice and darkness of rebellion
+  characters: No characters present in this scene
+  scene:
+    mainElements: Cosmic battlefield with opposing armies of angels, massive winged beings of light fighting against forces
+      of darkness, supernatural weapons of pure spiritual energy, landscape torn between divine light and infernal darkness
+    details: Vast armies of angels with six wings and multiple eyes, bearing shields of pure light and swords of divine fire,
+      arranged in perfect military formations following laws of sacred geometry. Opposing forces of rebellious angels with
+      wings turning dark, their radiance dimming as they choose pride over obedience. Cosmic battlefield spanning multiple
+      dimensions with no earthly landscape visible - only pure space filled with conflicting spiritual energies. Weapons made
+      of concentrated divine will and rebellious pride, creating explosions of light and darkness. Ancient fortress-like structures
+      of crystalline light being defended against assault.
+    background: Infinite cosmic space with stars and galaxies forming and dissolving in the aftermath of spiritual conflict,
+      throne of God visible as source of ultimate light
+    atmosphere: Ultimate cosmic conflict between good and evil, sense of choices that determine eternal destiny, overwhelming
+      scale of spiritual warfare affecting all creation
+  composition:
+    cameraAngle: Epic cosmic perspective showing the scale of spiritual warfare across multiple dimensions
+    focus: The primordial conflict that explains the existence of Hell and the nature of spiritual choice
+    depth: Foreground shows detailed angelic warriors and supernatural weapons, middle ground displays the vast battlefield,
+      background shows cosmic consequences extending to infinity
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

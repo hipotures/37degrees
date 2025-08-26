@@ -1,0 +1,126 @@
+sceneDescription:
+  setting:
+    time: 1917 winter morning, just after heavy snowfall
+    location: front line trench completely covered by fresh snow, white blanket transforming harsh military geometry into
+      soft curves
+    weather: heavy snow has just stopped falling, thick white layer covering everything, still air without wind
+  characters:
+  - appearance: 19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz,
+      brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie
+    clothing: znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna,
+      wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny
+      podarty i przesiąknięty zapachem frontu
+    position: standing motionless in snow-filled trench, completely still
+    action: moving with exaggerated care to avoid making any sound, each step creating soft compression in snow without breaking
+      silence
+  scene:
+    mainElements: trench system transformed by heavy snow into soft white corridors, soldier moving through pristine silence,
+      footprints creating only visual record of movement, snow-covered equipment and weapons losing their harsh military edges
+    details: thick snow absorbing all sound creating supernatural quiet, soldier's movements visible but completely silent,
+      breath creating only visual steam clouds without audible exhale, snow compressing under boots without any crackling
+      or crunching sounds, equipment muffled and padded by snow coating, even metal surfaces made silent by white blanket,
+      footprints appearing as gentle depressions without disturbing perfect silence, uniform darkened by snow moisture but
+      movement remaining soundless, no text or letters visible
+    background: entire trench network blanketed in undisturbed snow, enemy lines equally silent and muffled, landscape transformed
+      into peaceful winter scene despite military setting
+    atmosphere: absence of sound made visible through pristine snow environment, unnatural quiet in place of war's constant
+      noise, peace and stillness contrasting with underlying military tension
+  composition:
+    cameraAngle: medium shot following soldier through snow-filled trench corridor
+    focus: soldier's careful silent movement through white transformed landscape
+    depth: foreground shows detailed snow textures and silent footprints, middle ground features moving soldier, background
+      reveals snow-covered trench system extending into distance
+visualElements:
+  colorPalette:
+    primary:
+    - '#DC143C'
+    - '#000000'
+    - '#FFFFFF'
+    - '#D4B896'
+    secondary:
+    - '#808080'
+    - '#2F4F4F'
+    - '#8B7355'
+    - '#FFD700'
+    background: solid color blocks, no gradients, paper texture acceptable
+    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text.
+      Beige mimics period poster paper. High contrast essential.
+    saturation: high for red, desaturated for neutrals
+    contrast: maximum, stark divisions
+  lineArt:
+    style: bold geometric contours, angular simplified forms, industrial precision
+    weight: extra thick (8-12px equivalent), uniform throughout
+    color: pure black (#000000) or reversed white on dark
+    texture: clean vector-like, no texture within lines
+    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
+  composition:
+    layout: dynamic diagonals, asymmetric balance, upward movement
+    hierarchy: single dominant element (usually figure), supporting geometric shapes
+    gridSystem: constructivist angular grid, often tilted 15-30 degrees
+    whitespace: used as active design element, not passive background
+  lighting:
+    type: flat graphic lighting, no realistic light sources
+    direction: implied upward illumination for heroic effect
+    intensity: uniform, poster-like flatness
+    shadows:
+      style: geometric drop shadows only if needed
+      color: pure black or darker tone of base
+      opacity: 100% solid, no transparency
+      offset: consistent 45-degree angle
+    highlights: none, or minimal white accents for emphasis
+  rendering:
+    technique: lithograph/screen print simulation, vector-style clarity
+    texture: optional subtle paper grain, otherwise completely flat
+    detailLevel: reduced to essential symbolic elements only
+    finish: matte poster finish, no glossy effects
+    printEffects: slight registration offset acceptable (authentic touch)
+  perspective:
+    type: forced perspective from low angle (worm's eye view)
+    vanishingPoints: often ignored for symbolic impact
+    distortion: acceptable for dramatic/heroic effect
+    depth: minimal, mostly flat with slight overlap for hierarchy
+  typography:
+    integration: typography AS design element, not added to design
+    style: bold sans-serif, constructed letterforms, custom geometric
+    weight: black or ultra-bold only
+    layout: diagonal placement common, integrated with imagery
+    effects: outlined, 3D extrusion, or drop shadow for impact
+    cyrillicInfluence: even in Latin text, angular construction
+    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  mood:
+    overall: heroic, revolutionary, urgent, triumphant
+    emotion: determination, collective strength, forward momentum, optimism
+    tempo: dynamic, march-like rhythm, visual percussion
+    energy: explosive, ascending, breakthrough
+    keywords:
+    - heroic triumph
+    - revolutionary fervor
+    - collective power
+    - industrial might
+    - forward progress
+    - monumental scale
+    - urgent action
+    - optimistic future
+  symbolism:
+    common: hammer/sickle, gear wheels, wheat, stars, raised fists
+    figures: workers, soldiers, peasants in heroic poses
+    abstract: lightning bolts, sunrise rays, diagonal shafts
+    architectural: factories, construction, modern buildings
+  stylePrecedents:
+  - Alexander Rodchenko (photomontage, diagonal compositions)
+  - El Lissitzky (Beat the Whites with the Red Wedge)
+  - Gustav Klutsis (dynamic photomontage)
+  - Dmitry Moor (classical propaganda posters)
+  - Vladimir Mayakovsky (ROSTA windows)
+  - Varvara Stepanova (textile and poster designs)
+  - Constructivist movement (1919-1934)
+  - Suprematist influence (geometric abstraction)
+  - Bauhaus poster design
+  - John Heartfield (political photomontage)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

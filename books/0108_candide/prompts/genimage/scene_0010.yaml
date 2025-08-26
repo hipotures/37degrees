@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, days after Lisbon earthquake
+    location: Public square hastily cleared of earthquake rubble for auto-da-fé ceremony
+    weather: Clear sky providing harsh light for religious spectacle
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Stripped to waist, hands bound, standing in line of condemned
+    position: Among group of prisoners waiting for punishment, looking around with terror and disbelief
+    action: Face shows complete shock at religious brutality disguised as piety, fear mixed with moral outrage
+  - appearance: '45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten
+      nose, twisted mouth, black teeth'
+    clothing: Yellow sleeveless sanbenito garment painted with flames and devils, tall pointed paper cap (coroza)
+    position: Standing on execution platform with noose around neck
+    action: Even facing death, continues philosophical discourse about necessity of his execution in grand design
+  - appearance: High-ranking Inquisition official, severe austere features radiating fanatical authority
+    clothing: Black clerical robes of Inquisition, ceremonial cross, tall pointed hat
+    position: Elevated on ceremonial platform overlooking proceedings
+    action: Reads condemnation with cold religious fervor, completely unmoved by human suffering below
+  scene:
+    mainElements: Hastily erected wooden execution platform in earthquake-damaged square, rows of condemned in yellow sanbenitos
+      and pointed caps, crowd of spectators on balconies and in square
+    details: Pangloss wears humiliating religious costume but maintains scholarly dignity. Candide's naked back shows fresh
+      scourging wounds. Inquisition officials perform elaborate ritual while city still smolders from earthquake damage. Crowd
+      watches with mixture of fear and fascination.
+    background: Partially collapsed Portuguese buildings, some still smoldering from earthquake fires, makeshift repairs to
+      accommodate ceremony, religious banners hanging from damaged balconies
+    atmosphere: Organized religious cruelty following natural chaos. Bright harsh sunlight emphasizing brutal spectacle. Colors
+      of black inquisitor robes, yellow penitent garments, red blood. Ritualized violence masquerading as divine justice.
+  composition:
+    cameraAngle: Wide shot capturing both the ceremony's scale and individual suffering
+    focus: Contrast between elaborate religious pageantry and simple human terror of the condemned
+    depth: Foreground shows condemned prisoners, middle ground the ceremonial platform, background the damaged city and watching
+      crowd
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

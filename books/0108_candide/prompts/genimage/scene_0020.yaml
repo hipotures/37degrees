@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, late night
+    location: Candide's room in Venetian inn, single candle burning
+    weather: Quiet night, fog rolling in from canals
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Simple nightshirt, wealthy gentleman's clothes draped over chair
+    position: Seated at small writing table, holding letter over candle flame
+    action: Watches with grim determination as handwritten letter catches fire and burns, face showing painful acceptance
+      of lost dreams
+  scene:
+    mainElements: Simple inn room with single candle providing only light, letter burning in his hand, shadows dancing on
+      walls
+    details: Letter appears to be romantic correspondence, possibly to Cunegonde or about their lost love. Flame consumes
+      words that once held hope. His face shows resolve rather than mere despair - this is active choice to move beyond past.
+      Ashes fall onto table symbolizing death of romantic illusions.
+    background: Venetian inn room with simple furnishings, window showing misty canal at night, sounds of water lapping and
+      distant gondolier songs
+    atmosphere: Quiet moment of personal transformation and letting go. Candlelight creates intimate space for private ritual
+      of release. Colors of orange flame, black shadows, gray ash. Point of no return from past dreams to unknown future.
+  composition:
+    cameraAngle: Close-up shot emphasizing the burning letter and Candide's face illuminated by flame
+    focus: The moment of burning the letter as symbolic destruction of past hopes
+    depth: Foreground shows the immediate symbolic action, middle ground his contemplative figure, background the simple room
+      representing his reduced but honest circumstances
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

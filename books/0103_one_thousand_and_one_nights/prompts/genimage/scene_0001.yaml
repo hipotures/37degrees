@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Early morning, Sasanian Persian Empire
+    location: Royal palace gardens in ancient Persian capital with marble fountains and ornate pavilions
+    weather: Clear dawn light with gentle morning mist over manicured gardens
+  characters:
+  - appearance: Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline,
+      thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story
+    clothing: Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered
+      silk garments even in private chambers
+    position: Standing on marble terrace overlooking gardens, gazing at distant mountains
+    action: Contemplating the peaceful morning scene before palace life awakens, hands clasped behind back
+  scene:
+    mainElements: Vast Persian palace complex with tiered gardens, marble fountains flowing with clear water, exotic flowering
+      trees and manicured hedges, peacocks walking on pristine lawns, ornate pavilions with pointed arches
+    details: Dawn light illuminates intricate Persian architectural details including carved stone capitals, decorative tile
+      work in geometric patterns, brass vessels positioned near fountains, silk banners hanging motionlessly in still air,
+      no text or letters visible
+    background: Distant mountains silhouetted against rose-colored dawn sky, palace towers and minarets rising majestically,
+      terraced gardens extending toward horizon
+    atmosphere: Serene and majestic, representing the ordered peace of powerful empire before tragedy strikes, golden sunlight
+      beginning to warm stone surfaces, scent of jasmine and roses in still air
+  composition:
+    cameraAngle: Wide establishing shot from elevated perspective
+    focus: The king figure centered against vast palace landscape showing scale and grandeur
+    depth: Foreground shows detailed palace architecture, middle ground features king on terrace, background reveals endless
+      gardens and distant mountains
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

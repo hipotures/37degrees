@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Final day of Faust's life, late afternoon
+    location: Balcony of palace overlooking reclaimed lands and future settlements
+    weather: Clear day with strong sea breezes, sense of approaching storm
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Court dress now showing signs of wear and anticipation, still elegant but with subtle tensions suggesting approaching
+      crisis
+    position: Standing behind elderly, blind Faust as he delivers final monologue
+    action: Listening with growing tension as Faust approaches fatal words, calculating final strategies for claiming contracted
+      soul
+  scene:
+    mainElements: Elderly, blind Faust standing at balcony railing with arms outstretched, envisioning future generations
+      living on reclaimed land. Behind him, demonic servants (Lemures) dig his grave while pretending to continue construction
+      work
+    details: Mephistopheles faces ultimate test of his philosophy - if human nature is fundamentally selfish and corruptible,
+      why does Faust's final vision focus on others' welfare rather than his own satisfaction? The words 'Stay, moment, you
+      are so beautiful!' - which should signal victory - instead express altruistic joy rather than personal pleasure, suggesting
+      limits to demonic understanding of human motivation
+    background: Vast landscape of reclaimed land stretching to horizon, representing Faust's legacy and vision of future human
+      flourishing
+    atmosphere: Mounting tension as cosmic wager approaches resolution. Mephistopheles' confidence challenged by Faust's unexpected
+      evolution toward genuine altruism rather than sophisticated selfishness
+  composition:
+    cameraAngle: Over-shoulder shot from Mephistopheles' position, showing his view of Faust's final moment
+    focus: Faust's rapturous expression as he envisions future contrasted with Mephistopheles' tense calculation
+    depth: 'Foreground: Mephistopheles calculating desperately. Middle ground: Faust in transcendent moment. Background: Vast
+      landscape representing his altruistic vision'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

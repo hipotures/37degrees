@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1904 early morning, 8:00 AM, soft June light
+    location: Basement kitchen at 7 Eccles Street, Georgian terraced house, Dublin
+    weather: Clear morning with gentle sunshine filtering through small windows
+  characters:
+  - appearance: 38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face,
+      dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage
+    clothing: Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers,
+      black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status
+    position: Standing beside coal-burning stove, reaching toward cooking pan with careful movements
+    action: Preparing breakfast with ritual precision, occasionally glancing toward letters scattered on floor in hallway,
+      tending to sizzling pork kidney with domestic devotion
+  scene:
+    mainElements: Cozy basement kitchen transformed into warm sanctuary through Leopold's loving perspective, coal stove glowing
+      like hearth of home, simple wooden table becoming altar of daily sustenance, familiar domestic objects arranged with
+      sacred significance
+    details: From Leopold's empathetic viewpoint, every kitchen element radiates comfort and purpose - polished copper kettle
+      catching morning light like precious metal, white porcelain plates arranged in perfect harmony, breadbox standing like
+      treasure chest, butter dish gleaming with promise of nourishment, fresh milk jug symbolizing life's abundance, neat
+      tea caddy representing order in chaos, clean dish towel folded with care suggesting dignity in humble tasks, lemon-scented
+      soap bar nearby representing cleanliness and thoughtfulness for beloved wife
+    background: Through Leopold's appreciative eyes, kitchen walls seem to embrace him protectively, coal bin appears as reliable
+      provider, window frames morning sunshine like blessing, stone floor feels solid and dependable beneath feet, copper
+      pipes gleam with industrial beauty
+    atmosphere: Profound domestic peace filtered through Leopold's gentle, grateful consciousness, every scent and sound magnified
+      with emotional significance, kitchen transformed from mere functional space into temple of home life, warmth radiating
+      not just from stove but from Leopold's loving attention to domestic ritual, sense of quiet devotion and masculine tenderness
+      in private morning moment, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from slightly elevated position, capturing Leopold's full figure in his beloved domestic domain
+    focus: Leopold's careful, reverent handling of breakfast preparation, his face showing quiet satisfaction in domestic
+      routine
+    depth: Foreground shows glowing stove and sizzling pan, middle ground frames Leopold in his kitchen sanctuary, background
+      suggests protective walls of home embracing him
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

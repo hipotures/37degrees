@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, dawn of new understanding
+    location: Garden where wisdom grows from acceptance of limitation and loss
+    weather: Fresh morning with life-giving rain just ended, earth still damp
+  characters: No characters present in this scene
+  scene:
+    mainElements: Damaged and cracked seed pods split open with vigorous green shoots emerging from rich dark soil, showing
+      life arising from apparent destruction
+    details: Seed pods showing battle damage and weathering but still viable, bright green sprouts with strong stems pushing
+      up through earth, soil dark and rich with moisture and nutrients, dewdrops on new leaves catching morning light, root
+      systems visible through transparent earth showing strong foundation
+    background: Garden where wisdom grows from acceptance of limitation and loss, other plants in various stages of growth,
+      stone markers indicating significance of location
+    atmosphere: Hope and renewal emerging from seeming defeat, life's persistence despite damage and setback, wisdom found
+      in acceptance rather than resistance, no text or letters visible
+  composition:
+    cameraAngle: Ground level close-up showing dramatic emergence of life from damaged seeds
+    focus: Sprouting plants as symbol of growth through acceptance of mortality and limitation
+    depth: Foreground shows detailed seed pod and sprout emergence, middle ground shows surrounding garden soil, background
+      shows other growing plants in garden
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

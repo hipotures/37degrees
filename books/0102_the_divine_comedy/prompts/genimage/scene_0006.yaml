@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Eternal infernal time, dim reddish light of underworld
+    location: Fifth circle of Hell featuring advanced medieval engineering systems for punishment and containment
+    weather: Stagnant infernal atmosphere with acrid smoke and steam
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive stone-and-iron engineering works including drawbridge mechanisms, siege towers modified as permanent
+      structures, catapult systems repurposed as torture devices, complex system of stone channels directing rivers of boiling
+      blood
+    details: Medieval military technology adapted for eternal punishment - iron chains and pulleys controlling drawbridges
+      over boiling rivers, stone aqueducts with precise engineering directing flow of various infernal liquids, massive iron
+      cauldrons suspended over fires by complex counterweight systems. Blacksmith forges built into cavern walls with bellows
+      powered by flowing water. Stone-cutting machinery creating endless architectural modifications. Iron-reinforced wooden
+      wheels and gears operating grinding mechanisms. All technology appears to function without human operators, as if powered
+      by infernal energy.
+    background: Distant cavern walls showing more engineering works disappearing into smoky darkness, other levels of Hell
+      visible in background with their own technological systems
+    atmosphere: Combination of medieval ingenuity with supernatural eternal operation, sense of technology serving divine
+      justice, mechanical sounds echoing through caverns, no sign of wear or aging despite eternal operation
+  composition:
+    cameraAngle: Industrial perspective showcasing the scale and complexity of medieval engineering systems
+    focus: The intricate mechanical systems and their precise operation without human maintenance
+    depth: Foreground shows detailed mechanical components and stonework, middle ground displays complete engineering systems
+      in operation, background reveals extent of technological infrastructure
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

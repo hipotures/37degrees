@@ -1,0 +1,127 @@
+sceneDescription:
+  setting:
+    time: 1917 autumn afternoon, golden hour light
+    location: damaged library in French chateau behind lines, shell damage creating new windows, ancient books scattered but
+      some shelves intact
+    weather: clear afternoon with strong angled sunlight streaming through shell holes
+  characters:
+  - appearance: 19-20 years old, szczupła chłopięca budowa, wąskie ramiona, smukłe nogi, opalona twarz od przebywania na zewnątrz,
+      brak szczegółowych rysów twarzy czyniący go uniwersalną postacią reprezentującą całe pokolenie
+    clothing: znoszony mundur żołnierza niemieckiego Feldgrau (szarozielony), tunika i spodnie z grubego szorstkiego sukna,
+      wysokie podkute buty saperskie lub owijacze, charakterystyczny hełm stalowy Stahlhelm M1916, mundur coraz bardziej brudny
+      podarty i przesiąknięty zapachem frontu
+    position: sitting on floor among scattered books, back against damaged bookshelf
+    action: gently opening old leather-bound volume, releasing cloud of dust particles into sunbeam, pages crumbling slightly
+      at edges from age and moisture
+  scene:
+    mainElements: damaged library with books scattered across floor and remaining on tilted shelves, strong sunbeams streaming
+      through shell holes creating visible light columns, dust particles floating in suspended animation throughout light
+      beams, soldier carefully handling ancient books
+    details: dust particles released from old book pages floating in dense clouds through sunbeams, leather book bindings
+      cracked and aged releasing fine dust when handled, pages yellowed and brittle creating paper dust when turned, sunlight
+      illuminating thousands of floating particles creating visible atmosphere, different book sizes and conditions showing
+      varying dust patterns when opened, library damage creating unexpected light sources for dust visibility, dust settling
+      slowly in still air showing absence of ventilation, ancient knowledge mixed with war debris, no text or letters visible
+    background: elegant library architecture damaged by shells, ornate bookcases tilted and broken, classical learning environment
+      disrupted by modern warfare
+    atmosphere: knowledge and learning surviving in damaged form, dust representing age and abandonment of intellectual pursuits
+      during war, peaceful scholarly environment contrasting with military destruction
+  composition:
+    cameraAngle: medium shot showing soldier with open book and surrounding dust-filled light beams
+    focus: dust particles streaming from book pages into golden sunbeam columns
+    depth: foreground shows detailed book handling and dust release, middle ground features seated soldier, background reveals
+      damaged library architecture and floating dust throughout space
+visualElements:
+  colorPalette:
+    primary:
+    - '#DC143C'
+    - '#000000'
+    - '#FFFFFF'
+    - '#D4B896'
+    secondary:
+    - '#808080'
+    - '#2F4F4F'
+    - '#8B7355'
+    - '#FFD700'
+    background: solid color blocks, no gradients, paper texture acceptable
+    usageNotes: Maximum 3-4 colors per composition. Red as primary ideological color, black for strong contours and text.
+      Beige mimics period poster paper. High contrast essential.
+    saturation: high for red, desaturated for neutrals
+    contrast: maximum, stark divisions
+  lineArt:
+    style: bold geometric contours, angular simplified forms, industrial precision
+    weight: extra thick (8-12px equivalent), uniform throughout
+    color: pure black (#000000) or reversed white on dark
+    texture: clean vector-like, no texture within lines
+    edgeTreatment: sharp angles, decisive corners, no curves except in human forms
+  composition:
+    layout: dynamic diagonals, asymmetric balance, upward movement
+    hierarchy: single dominant element (usually figure), supporting geometric shapes
+    gridSystem: constructivist angular grid, often tilted 15-30 degrees
+    whitespace: used as active design element, not passive background
+  lighting:
+    type: flat graphic lighting, no realistic light sources
+    direction: implied upward illumination for heroic effect
+    intensity: uniform, poster-like flatness
+    shadows:
+      style: geometric drop shadows only if needed
+      color: pure black or darker tone of base
+      opacity: 100% solid, no transparency
+      offset: consistent 45-degree angle
+    highlights: none, or minimal white accents for emphasis
+  rendering:
+    technique: lithograph/screen print simulation, vector-style clarity
+    texture: optional subtle paper grain, otherwise completely flat
+    detailLevel: reduced to essential symbolic elements only
+    finish: matte poster finish, no glossy effects
+    printEffects: slight registration offset acceptable (authentic touch)
+  perspective:
+    type: forced perspective from low angle (worm's eye view)
+    vanishingPoints: often ignored for symbolic impact
+    distortion: acceptable for dramatic/heroic effect
+    depth: minimal, mostly flat with slight overlap for hierarchy
+  typography:
+    integration: typography AS design element, not added to design
+    style: bold sans-serif, constructed letterforms, custom geometric
+    weight: black or ultra-bold only
+    layout: diagonal placement common, integrated with imagery
+    effects: outlined, 3D extrusion, or drop shadow for impact
+    cyrillicInfluence: even in Latin text, angular construction
+    sizes: extreme contrast between sizes (huge headlines, tiny credits)
+  mood:
+    overall: heroic, revolutionary, urgent, triumphant
+    emotion: determination, collective strength, forward momentum, optimism
+    tempo: dynamic, march-like rhythm, visual percussion
+    energy: explosive, ascending, breakthrough
+    keywords:
+    - heroic triumph
+    - revolutionary fervor
+    - collective power
+    - industrial might
+    - forward progress
+    - monumental scale
+    - urgent action
+    - optimistic future
+  symbolism:
+    common: hammer/sickle, gear wheels, wheat, stars, raised fists
+    figures: workers, soldiers, peasants in heroic poses
+    abstract: lightning bolts, sunrise rays, diagonal shafts
+    architectural: factories, construction, modern buildings
+  stylePrecedents:
+  - Alexander Rodchenko (photomontage, diagonal compositions)
+  - El Lissitzky (Beat the Whites with the Red Wedge)
+  - Gustav Klutsis (dynamic photomontage)
+  - Dmitry Moor (classical propaganda posters)
+  - Vladimir Mayakovsky (ROSTA windows)
+  - Varvara Stepanova (textile and poster designs)
+  - Constructivist movement (1919-1934)
+  - Suprematist influence (geometric abstraction)
+  - Bauhaus poster design
+  - John Heartfield (political photomontage)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

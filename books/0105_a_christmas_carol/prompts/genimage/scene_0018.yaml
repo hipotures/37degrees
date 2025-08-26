@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1843 to 1900 - compressed time showing decades of neglect
+    location: London cemetery with weathered headstones and overgrown paths
+    weather: Seasons rapidly cycling through decades of exposure
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single gravestone experiencing accelerated aging - fresh carved letters rapidly weathering to illegible
+      marks, new marble surface cracking and staining, surrounding grave neat maintenance declining to wild overgrowth
+    details: Time-lapse decay progression - stone inscription eroding from sharp letters to worn impressions to complete illegibility,
+      marble surface transforming from pristine white to gray stained to moss-covered, iron cemetery gate rusting from black
+      paint to brown oxidation to structural weakness, surrounding graves showing similar accelerated aging, grass growing
+      from neat trimmed to waist-high weeds, flowers placed fresh wilting and decaying in fast motion, seasons cycling rapidly
+      showing multiple freeze-thaw weathering cycles, cemetery path cobblestones shifting and weeds growing between, no text
+      or letters visible
+    background: Cemetery infrastructure aging rapidly - other headstones tilting and falling, cemetery walls cracking and
+      ivy covering, trees growing from saplings to mature specimens, church steeple visible aging through multiple repair
+      cycles
+    atmosphere: Inexorable passage of time and human forgetting, sounds compressed from recent burial silence to wind through
+      overgrown weeds, scents evolving from fresh earth to decay to forest floor, light cycling through seasons showing decades
+      of sun and weather exposure
+  composition:
+    cameraAngle: Close-up on single gravestone showing detailed aging process
+    focus: Central headstone demonstrating complete decay progression
+    depth: Foreground shows immediate stone weathering details, middle ground reveals grave site overgrowth, background displays
+      cemetery-wide aging effects
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

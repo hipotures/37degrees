@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, deepest night
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Storm at its worst - howling wind, driving rain, lightning creating nightmare landscape
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Standing at threshold of palace doors, silhouetted against dark interior
+    action: Pausing at precipice between past and future, hand on door frame, body language showing terrible resolve
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Figure silhouetted in doorway like specter between worlds. Storm creating chaos around still figure. Palace doors
+      framing him like entrance to underworld. Royal garments whipping in wind but figure unnaturally still. Lightning illuminating
+      scene intermittently, creating strobe effect. Water streaming down palace walls like tears of gods. No text or letters
+      visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, ancient stones black with
+      rain, lightning revealing glimpses of carved lions and griffins
+    atmosphere: Moment before final resolution, held breath feeling, terrible calm before ultimate action, darkness before
+      dawn
+  composition:
+    cameraAngle: Wide shot showing small figure dwarfed by massive palace and raging storm
+    focus: The solitary figure at threshold of fate, emphasized by doorway framing and storm chaos
+    depth: Foreground shows storm-lashed courtyard, middle ground captures figure in doorway, background shows palace interior
+      darkness
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

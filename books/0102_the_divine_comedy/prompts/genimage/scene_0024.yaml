@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Eternal divine time beyond all temporal measurement
+    location: The Empyrean, highest heaven of pure divine light and perfect peace
+    weather: Perfect atmosphere of pure divine love manifested as light
+  characters: No characters present in this scene
+  scene:
+    mainElements: River of light flowing between banks of living flowers, each flower representing a blessed soul, light transforming
+      into rose-shaped amphitheater of infinite dimensions, pure white and golden radiance
+    details: River of liquid light flowing with perfect divine radiance, its banks lined with flowers that are actually blessed
+      souls appearing as various intensities of luminous color. Light-flowers opening and closing in rhythm with celestial
+      music, each petal showing a human face transfigured by divine love. River gradually transforming into circular lake,
+      then rising into rose-shaped amphitheater of infinite tiers, each seat occupied by point of brilliant light representing
+      perfected soul. Sacred geometry visible everywhere - perfect circles, spirals following golden ratio, crystalline structures
+      that refract divine light into all possible colors.
+    background: Infinite divine light extending beyond all boundaries, no darkness visible anywhere, sense of boundless space
+      filled completely with luminous love
+    atmosphere: Perfect peace and divine love, ultimate fulfillment of all spiritual longing, overwhelming joy and beauty
+      beyond human comprehension, complete harmony of all creation
+  composition:
+    cameraAngle: Divine perspective showing the transformation from river to rose, emphasizing infinite scale and perfect
+      geometry
+    focus: The ultimate divine architecture where perfect love creates perfect beauty and perfect peace
+    depth: Foreground shows detailed light-flowers and divine river, middle ground displays the transformation into rose structure,
+      background dissolves into infinite divine radiance
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

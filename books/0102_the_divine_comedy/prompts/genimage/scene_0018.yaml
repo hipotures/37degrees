@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 14th century dawn, first light illuminating oceanic wilderness
+    location: Vast southern ocean surrounding Mount Purgatory, unexplored wilderness waters
+    weather: Calm ocean with gentle swells, clear sky transitioning from night to dawn
+  characters: No characters present in this scene
+  scene:
+    mainElements: Endless ocean stretching to horizon in all directions, Mount Purgatory rising as sole landmark from waters,
+      occasional islands or rock formations in far distance, pristine uninhabited seascape
+    details: Crystal-clear ocean water revealing deep blue depths, gentle swells creating rhythmic wave patterns against mountain
+      base. Occasional seabirds unlike any earthly species, with brilliant white and gold plumage flying in perfect formations.
+      Distant rock formations appearing like natural cathedrals rising from water, covered with vegetation never touched by
+      human hands. Ocean surface reflecting both earthly sky and beginning glimpses of celestial light from higher spiritual
+      realms. No ships or human artifacts visible anywhere, sense of primordial creation.
+    background: Infinite ocean extending beyond all horizons, distant storm clouds on far horizon, occasional glimpses of
+      other mysterious land masses or spiritual phenomena
+    atmosphere: Pristine wilderness before human contact, sense of creation in its pure original state, peaceful isolation
+      and spiritual preparation, bridge between earthly and divine realms
+  composition:
+    cameraAngle: Maritime view from water level looking toward Mount Purgatory with endless ocean in all directions
+    focus: The pristine wilderness setting that surrounds the mountain of spiritual purification
+    depth: Foreground shows ocean surface detail and wave patterns, middle ground displays Mount Purgatory rising from waters,
+      background shows infinite oceanic horizon
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

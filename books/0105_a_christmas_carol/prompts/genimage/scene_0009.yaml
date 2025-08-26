@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: February to April 1843
+    location: London park and surrounding residential areas showing winter to spring transition
+    weather: Harsh winter freeze gradually warming to spring renewal
+  characters:
+  - appearance: Park visitors showing seasonal mood changes - winter bundled and hurried figures becoming relaxed spring walkers
+    clothing: Heavy winter coverings gradually shed for lighter spring garments
+    position: Walking along same park paths in different seasons
+    action: Hurrying through winter cold becoming leisurely spring wandering
+  scene:
+    mainElements: Park landscape showing nature's reawakening - snow-covered bare trees developing tiny green buds, frozen
+      pond ice melting to reveal flowing water, dormant flower beds showing first green shoots emerging
+    details: Seasonal awakening progression - tree branches brittle with ice becoming flexible with spring sap, park benches
+      snow-covered and abandoned becoming occupied by spring visitors, frozen fountain resuming water flow, winter bird absence
+      replaced by spring song, footpath snow tracks becoming muddy spring paths then dry walking routes, gas lamp posts showing
+      same positions but different usage times, playground equipment buried in snow becoming usable in spring, no text or
+      letters visible
+    background: Residential buildings showing spring preparation - winter-shuttered windows opening for spring air, chimney
+      smoke reducing as heating needs decrease, garden gates closed in winter opening to reveal spring preparation
+    atmosphere: Gradual awakening and renewal energy, sounds shifting from winter silence to spring activity, scents changing
+      from sharp winter air to earthy spring growth, light quality brightening from winter gray to spring clarity
+  composition:
+    cameraAngle: Low angle capturing tree canopy transition from bare to budding
+    focus: Central tree showing most dramatic seasonal transformation
+    depth: Foreground shows immediate ground-level changes, middle ground reveals vegetation awakening, background displays
+      building seasonal adaptations
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

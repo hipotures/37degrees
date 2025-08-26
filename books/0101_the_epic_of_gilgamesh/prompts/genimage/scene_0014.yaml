@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, impossible time where elements defy nature
+    location: Desert landscape where supernatural phenomena manifest opposing elements
+    weather: Paradoxical conditions with intense heat and frozen cold simultaneously
+  characters: No characters present in this scene
+  scene:
+    mainElements: Large ice crystals burning with blue flames in middle of desert sand, crystals maintaining frozen form while
+      flames dance from their surfaces
+    details: Perfect geometric ice crystals with sharp faceted surfaces, blue flames licking upward from crystal edges without
+      melting ice, desert sand beneath showing scorch marks but crystals remain solid, flame and ice creating steam that forms
+      unusual cloud patterns, light refracting through ice creating rainbow effects
+    background: Endless desert landscape under harsh sun, distant heat mirages, sand dunes shaped by wind, no vegetation or
+      water sources visible
+    atmosphere: Supernatural paradox defying natural laws, impossible beauty of opposing elements coexisting, otherworldly
+      phenomenon suggesting divine intervention, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing dramatic contrast between ice crystals and desert environment
+    focus: Burning ice crystals as symbol of impossible contradictions existing in harmony
+    depth: Foreground shows detailed ice crystal and flame structure, middle ground shows scorched sand area, background shows
+      vast desert under burning sun
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

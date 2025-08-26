@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 1879, Boxing Day morning after the ball
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Gray winter morning light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Same mieszczański salon in Christiania during Boże Narodzenie period, decorated for święta
+    details: Initially piękna zielona choinka symbolizing nadzieja and radość świąt, later becomes ogołocona potargana with
+      wypalone świeczki, visual representation of psychological rozkład and rozpadu małżeństwa. The once-beautiful tree now
+      stands stripped and burned, its scattered ornaments on the floor like broken dreams. The morning light reveals the destruction
+      of the previous night's festivities.
+    background: The comfortable bourgeois interior now shows signs of disorder and decay
+    atmosphere: Devastating aftermath of celebration. The Christmas joy has literally burned out, leaving only destruction
+      and the cold light of morning revealing what remains.
+  composition:
+    cameraAngle: Close-up on the destroyed Christmas tree with scattered ornaments
+    focus: The stripped, burned tree branches and fallen decorations representing the death of illusion
+    depth: 'Foreground: The destroyed tree as central symbol. Middle ground: Scattered ornaments and debris. Background: The
+      once-festive room now showing signs of decay and disillusion.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: All seasons simultaneously - timeless moment
+    location: Single London courtyard showing impossible seasonal simultaneity
+    weather: All four seasons coexisting in same space
+  characters: No characters present in this scene
+  scene:
+    mainElements: Miraculous courtyard displaying all seasons at once - single ancient oak tree with four distinct sections
+      showing spring buds, summer leaves, autumn colors, and bare winter branches, four-season garden beds surrounding tree
+      base
+    details: Impossible seasonal coexistence - northeast tree section covered in fresh snow with ice-encased branches, southeast
+      showing full green summer foliage with bird nests, southwest displaying golden autumn leaves falling, northwest revealing
+      spring blossoms and new growth, ground beneath showing footprint evidence from all seasons - winter boot prints in snow,
+      summer bare feet in grass, autumn shoe impressions in leaves, spring mud tracks, courtyard fountain flowing in summer/spring
+      quadrants while frozen in winter section, flower beds showing seasonal progression in single frame, no text or letters
+      visible
+    background: Surrounding buildings adapted to each seasonal quadrant - winter shutters closed, spring windows cracked open,
+      summer awnings extended, autumn preparations visible, chimneys smoking in winter section while dormant in summer area
+    atmosphere: Surreal temporal suspension where all seasons coexist, sounds layering winter wind with summer birds and autumn
+      rustling and spring rain, scents mixing snow crispness with flower blooms and leaf decay and fresh growth
+  composition:
+    cameraAngle: Overhead view revealing four-season pattern arrangement
+    focus: Central tree serving as seasonal compass with distinct quadrant characteristics
+    depth: Foreground shows seasonal ground details, middle ground reveals tree seasonal divisions, background displays building
+      seasonal adaptations
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

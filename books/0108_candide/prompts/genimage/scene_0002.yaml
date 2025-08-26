@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, sunny afternoon moments later
+    location: Great hall of Westphalian castle, behind ornate screen
+    weather: Bright afternoon light suddenly blocked by imposing figure
+  characters:
+  - appearance: Massive imposing man, baron's bearing, face twisted with aristocratic outrage and paternal fury
+    clothing: 'Elegant nobleman''s attire: embroidered justaucorps coat, silk waistcoat, knee breeches, white stockings, buckled
+      shoes'
+    position: Towering behind screen, having discovered the embrace, arm raised in preparation to strike
+    action: Eyes blazing with indignation, mouth open in thunderous rebuke, powerful leg drawing back for mighty kick
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: 'Simple relative''s clothes: linen shirt, wool vest, brown trousers to knees, wool stockings'
+    position: Frozen in moment of discovered intimacy, still close to Cunegonde
+    action: Expression shifts from romantic bliss to shock and terror, body instinctively pulling back but too late to escape
+      consequences
+  - appearance: Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing
+    clothing: Elegant silk dress befitting baron's daughter, fitted bodice with square neckline, full skirt over panniers
+    position: Pressed against screen, handkerchief still in hand
+    action: Face shows mixture of defiance and fear, chin slightly raised in aristocratic pride despite circumstances
+  scene:
+    mainElements: Ornate screen now provides no protection, baron's imposing bulk filling the space, afternoon light casting
+      dramatic shadows
+    details: Baron's face purple with rage, veins visible at temples. His massive frame dwarfs both young people. Cunegonde's
+      handkerchief flutters to ground forgotten. Candide's eyes wide with dawning realization of his transgression and powerlessness.
+    background: Great hall beyond shows servants scurrying away from confrontation, dark tapestry and oak paneling providing
+      somber backdrop to family drama
+    atmosphere: Explosive tension of authority confronting transgression. Bright sunlight now seems harsh and unforgiving.
+      Silence before the storm of violence and exile. Power dynamics clearly displayed through positioning and scale.
+  composition:
+    cameraAngle: Low angle shot emphasizing baron's dominance and threatening presence
+    focus: Baron's furious face and raised arm, with young couple cowering below
+    depth: Foreground dominated by baron's imposing figure, middle ground shows terrified couple, background hints at watching
+      servants and castle authority
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

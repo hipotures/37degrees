@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: April to July 1790s, same festive evening across seasons
+    location: Spacious merchant warehouse in Victorian London transformed into ballroom, with high ceiling beams and polished
+      wooden floors
+    weather: Spring evening rain becoming summer twilight warmth
+  characters:
+  - appearance: Young man in 20s with softer features, bright eyes full of hope, brown hair, smooth complexion, eager expression
+    clothing: Simple apprentice attire with white linen shirt, brown wool vest, knee-length breeches, white stockings, sturdy
+      work boots
+    position: Dancing in center of warehouse floor in both seasons
+    action: Dancing at festivities, working with enthusiasm, reading by candlelight, or embracing loved ones with genuine
+      warmth
+  scene:
+    mainElements: Same warehouse celebration showing seasonal progression - great blazing fire in hearth reducing to comfortable
+      summer warmth, spring flowers in vases becoming summer blooms, rain drumming on roof transforming to gentle summer breeze
+      through open windows
+    details: Seasonal celebration overlay - heavy spring cloaks hung on walls replaced by light summer shawls, hot mulled
+      wine cups changing to cool summer refreshments, bright spring candles supplemented by natural summer evening light,
+      musicians playing same fiddle tunes but windows opening from closed spring shutters to summer garden views, dancers
+      removing layers of spring clothing to reveal lighter summer dress, tables laden with feast foods changing from spring
+      lamb to summer fruits, no text or letters visible
+    background: Warehouse showing seasonal adaptation - closed spring windows opening to summer garden visibility, oil lamps
+      dimming as natural light increases, wooden floors reflecting different light qualities, ceiling beams showing same festive
+      decorations adapted for seasons
+    atmosphere: Continuous joy adapting to seasonal comfort, sounds of celebration mixing with seasonal weather changes, aromas
+      shifting from hearty spring feast to fresh summer abundance, warmth from fire becoming warmth from season
+  composition:
+    cameraAngle: Elevated view from gallery showing entire warehouse seasonal transformation
+    focus: Central dance area where seasonal changes most subtly integrated
+    depth: Foreground shows immediate celebration details, middle ground reveals seasonal adaptations, background displays
+      warehouse opening to different seasonal views
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

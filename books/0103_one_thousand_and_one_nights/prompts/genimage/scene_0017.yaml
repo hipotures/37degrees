@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Dawn, city outskirts
+    location: Open ground near royal city where magnificent palace has appeared overnight through supernatural means
+    weather: Clear morning with dramatic sunrise illuminating newly materialized architecture
+  characters:
+  - appearance: Young man aged 18 years, lean and agile build, quick intelligent brown eyes, short dark hair, smooth youthful
+      face, medium height with energetic bearing
+    clothing: Initially worn and patched clothing of poor youth, later magnificent princely silk robes with jeweled belt and
+      fine leather shoes
+    position: Alert and ready to move quickly, sometimes nervous fidgeting when uncertain
+    action: Moving with youthful energy, handling objects with curiosity, expressing wonder at magical discoveries
+  scene:
+    mainElements: Magnificent palace complex with soaring towers and domes, ornate gardens with fountains, marble terraces
+      and golden decorations, architecture surpassing existing royal buildings
+    details: Palace walls gleaming with precious stones and gold inlay, crystal windows reflecting dawn light, silk banners
+      fluttering from towers, marble fountains with crystal-clear water, exotic plants and flowering trees arranged in perfect
+      gardens, peacocks and rare birds in ornamental grounds, no text or letters visible
+    background: Existing royal city visible in distance appearing modest by comparison, sunrise sky painted in brilliant colors,
+      distant mountains silhouetted against dawn
+    atmosphere: Magical wonder and impossibility made manifest, sounds of fountains and exotic birds, perfume of supernatural
+      gardens, sense of dreams becoming reality through divine power
+  composition:
+    cameraAngle: Wide shot revealing full scale of magical architectural achievement
+    focus: Magnificent palace dominating landscape with human figure showing scale and wonder
+    depth: Palace gardens in foreground, palace complex in center, distant city and mountains in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

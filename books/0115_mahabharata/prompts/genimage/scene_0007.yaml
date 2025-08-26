@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Stifling oppressive heat
+  characters:
+  - appearance: Female, 20 years old, zgrabna budowa z talią jak ołtarz ofiarny, długie czarnoniebieskie kręcone włosy, duże
+      czarne oczy jak płatki lotosu, ciemna śniada karnacja
+    clothing: Single bloodstained garment due to menstruation, hair disheveled from being dragged
+    position: Center of assembly hall being dragged by hair
+    action: Ciało emanuje zapachem błękitnego lotosu, twarz wyrażająca szeroką gamę emocji od miłości przez gniew po determinację
+  scene:
+    mainElements: Close focus on face showing defiant dignity despite brutal humiliation, eyes blazing with righteous fury
+      and pain, tear forming but not falling
+    details: Single strand of hair across face, blood stain visible on torn fabric, jaw clenched in determination, nostrils
+      flaring with controlled rage, lotus scent contrasting with violence, no text or letters visible
+    background: Assembly hall completely out of focus, suggesting crowd of silent witnesses to atrocity
+    atmosphere: Intense emotional moment of feminine dignity confronting masculine brutality, sounds reduced to breathing
+      and heartbeat
+  composition:
+    cameraAngle: Extreme close-up on face with eyes slightly above center line
+    focus: Eyes and facial expression showing strength maintaining dignity under ultimate degradation
+    depth: Razor-sharp focus on eyes and expression, everything else in soft blur, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

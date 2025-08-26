@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1904 afternoon, 1:00 PM, soft indoor lighting
+    location: Interior of Davy Byrne's moral pub, respectable Dublin establishment
+    weather: Pleasant afternoon light filtering through pub windows
+  characters:
+  - appearance: 38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face,
+      dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage
+    clothing: Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers,
+      black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status
+    position: Seated at polished wooden bar counter, catching glimpse of himself in mirror behind bottles
+    action: Contemplating his reflection while eating gorgonzola sandwich, seeing himself as both outsider and seeker of human
+      connection, touching lemon soap in pocket while considering his place in Dublin society
+  scene:
+    mainElements: Respectable moral house public establishment seen through Leopold's self-aware consciousness, long curved
+      bar counter made of polished wood becoming altar of civilized refreshment, mirror reflection serving as window into
+      his complex identity
+    details: Through Leopold's introspective lens, pub details reflect his internal landscape - brass fittings and taps gleaming
+      like symbols of honest craftsmanship, bottles arranged on shelves creating backdrop for self-examination, high wooden
+      stools suggesting elevation above common concerns, clean swept floors indicating moral rectitude he aspires to, his
+      sandwich appearing as simple pleasure in complex world, burgundy wine providing warmth against afternoon shadows, mirror
+      showing not just physical appearance but glimpse of soul seeking acceptance, other patrons seeming like potential friends
+      rather than strangers, afternoon light through windows suggesting hope for understanding
+    background: Leopold's contemplative vision transforms pub into sanctuary of reflection - warm wooden walls suggesting
+      protective embrace, orderly interior representing civilization he values, quiet atmosphere providing space for honest
+      self-assessment
+    atmosphere: Quiet self-examination filtering through Leopold's honest consciousness, recognition of his own complexity
+      and contradictions, gentle melancholy mixed with hope for human connection, sense of Dublin pub as democratic space
+      where all souls can find momentary peace, afternoon light transformed into blessing upon solitary contemplation, no
+      text or letters visible
+  composition:
+    cameraAngle: Medium shot capturing Leopold's reflection in mirror along with his actual profile, showing dual perspective
+      of self-awareness
+    focus: Leopold's thoughtful expression as he contemplates both his reflection and his sandwich, moment of quiet self-recognition
+    depth: Foreground shows polished bar counter and simple meal, middle ground frames Leopold in moment of reflection, background
+      reveals mirror and bottles creating depth of self-examination
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 16th century, Sunday morning during church service
+    location: Interior of Gothic cathedral with high stone columns, stained glass windows, wooden pews filled with worshippers
+    weather: Filtered colored light through stained glass, cool stone interior
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Appears invisible or as incorporeal presence, only his voice audible to Margarete
+    position: Positioned near Margarete's pew, whispering in her ear while remaining unseen
+    action: Tormenting Margarete with whispered reminders of her sins while congregation sings hymns around them
+  scene:
+    mainElements: 'Very young girl around 14-15 years old, petite and slender with delicate build. Fair blonde hair braided
+      in two simple plaits, large innocent blue eyes. Face with regular, delicate features expressing simplicity, piety and
+      deep emotion. Modest dress of simple townswoman: plain wool or linen dress in single color like blue or grey with fitted
+      bodice and wide skirt, clean white apron over dress, white chemise underneath visible at neckline, simple cross on neck.
+      Surrounded by judgmental congregation'
+    details: Mephistopheles reveals church's true function as instrument of social control through psychological torture.
+      While congregation sings of divine mercy, he whispers reminders of Margarete's 'sins' - her mother's death, her pregnancy,
+      society's coming judgment. This demonstrates his understanding that religion often becomes tool of oppression rather
+      than liberation
+    background: Gothic cathedral with soaring arches, religious art on walls, altar with crucifix, wooden pews filled with
+      townspeople in Sunday dress
+    atmosphere: Sacred space transformed into torture chamber through psychological manipulation. Mephistopheles shows how
+      religious institutions can perpetuate suffering while preaching salvation
+  composition:
+    cameraAngle: Close-up on Margarete's anguished face with suggestion of invisible tormentor beside her
+    focus: Margarete's internal struggle between seeking divine comfort and experiencing demonic persecution
+    depth: 'Foreground: Margarete''s anguished expression. Middle ground: Church congregation singing hymns. Background: Gothic
+      cathedral architecture with religious symbols'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

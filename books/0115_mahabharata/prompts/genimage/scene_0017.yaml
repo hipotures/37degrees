@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Oppressive indoor atmosphere
+  characters:
+  - appearance: Male, 60+ years old, być może odmienny wygląd z regionu Gandhary, chytry podstępny wyraz twarzy
+    clothing: Ciemne podstępne szaty
+    position: Leaning over gaming board with dice in hand
+    action: Trzyma kości do gry wykonane z kości słoniowej, magicznie mu podlegające
+  scene:
+    mainElements: Gaming board tilted at unnatural angle, dice frozen in mid-air at impossible trajectory, assembly hall architecture
+      leaning precariously
+    details: Kości do gry wykonane z kości słoniowej lub według legendy z kości udowej ojca Śakuniego, symbol oszustwa i manipulacji
+      magicznie upadają zgodnie z wolą rzucającego
+    background: Assembly hall tilted dramatically, courtiers and observers at diagonal angles, pillars and walls slanting
+      unnaturally, architecture defying gravity
+    atmosphere: Complete moral universe turned upside down by corruption and deceit, sounds echoing strangely in tilted space,
+      reality warped by evil
+  composition:
+    cameraAngle: Dutch angle tilted 35 degrees showing world turned upside down by cheating
+    focus: Corrupt uncle manipulating fate through cursed dice while moral order collapses
+    depth: Foreground tilted gaming board and magical dice, middle ground scheming figure, background diagonally slanted hall
+      of justice perverted, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

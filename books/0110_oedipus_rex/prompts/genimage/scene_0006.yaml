@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, early afternoon
+    location: Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean
+      walls of irregular limestone blocks
+    weather: Storm clouds beginning to gather on horizon, casting intermittent shadows across the courtyard
+  characters:
+  - appearance: Frail elderly man over seventy, gaunt and weak body worn by age, long sparse white hair and scraggly beard,
+      cloudy or scarred blind eyes with otherworldly expression
+    clothing: Simple rough robe to ankles, probably old unbleached chiton of coarse weave, undyed broken white or pale gray
+      fabric
+    position: Leaning heavily on staff at edge of courtyard, guided by young boy
+    action: Moving slowly and deliberately toward the palace, head tilted as if listening to unseen voices
+  scene:
+    mainElements: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance, paved courtyard with cracked stones and sprouting weeds
+    details: Simple gnarled wooden staff used by shepherds for support and guiding flocks, humble tool of pastoral life. Dark
+      clouds creating moving shadows across the palace walls, making the faded frescoes of lions and griffins seem to shift
+      and move. Wind beginning to stir dust in the courtyard cracks. Young boy staying close to guide the blind prophet. No
+      text or letters visible
+    background: Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone now appearing more ominous
+      under changing light
+    atmosphere: First disruption of established order, subtle environmental shift suggesting supernatural forces gathering,
+      mood of unease beginning
+  composition:
+    cameraAngle: Low angle emphasizing the looming palace with storm clouds above
+    focus: Tiresias and his guide approaching, small figures against the massive architecture
+    depth: Foreground shows cracked courtyard stones, middle ground captures approaching figures, background shows palace
+      facade under gathering clouds
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

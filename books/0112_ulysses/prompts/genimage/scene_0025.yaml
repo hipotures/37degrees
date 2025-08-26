@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1904 early dawn, 5:00 AM, universal light
+    location: Dublin Bay and city viewed from elevated perspective at sunrise
+    weather: Clear dawn breaking over Dublin, light touching all equally
+  characters:
+  - appearance: Multiple Dublin inhabitants from all social levels, ages, and backgrounds united in experiencing same natural
+      phenomenon
+    clothing: Various attire representing different social positions, all equally touched by dawn light
+    position: Throughout Dublin city and surrounding areas, all experiencing same sunrise despite individual differences
+    action: Various morning activities unified by shared experience of natural light returning to city
+  scene:
+    mainElements: Dublin city and bay transformed into unified landscape where natural sunrise transcends all individual perspectives,
+      social divisions, and personal interpretations
+    details: Through universal dawn consciousness, Dublin becomes single organism experiencing shared renewal - sunrise light
+      touching Georgian terraces, working-class tenements, and coastal towers with equal golden illumination, Liffey river
+      reflecting light that belongs to no particular social class or individual viewpoint, church spires and chimney stacks
+      creating shared city skyline beneath impartial sky, early workers and late revelers equally blessed by returning light,
+      birds singing songs that transcend human divisions and interpretations, harbor waters carrying light that connects Dublin
+      to wider world beyond individual concerns, morning air breathed equally by rich and poor, native and foreigner, young
+      and old
+    background: Universal perspective reveals Dublin's unity beneath surface divisions - bay waters connecting city to Atlantic
+      Ocean and wider human community, surrounding hills providing eternal frame for temporary human activities
+    atmosphere: Transcendent natural beauty filtering through universal human consciousness, dawn light erasing temporary
+      boundaries of class, religion, nationality, and individual psychology, city transformed into single living entity breathing
+      with collective humanity, morning renewal affecting all inhabitants equally regardless of personal circumstances, Dublin
+      sunrise revealing fundamental human unity beneath surface social divisions, light creating shared experience that transcends
+      individual perspective and connects all consciousness, no text or letters visible
+  composition:
+    cameraAngle: Elevated wide shot capturing entire Dublin landscape in universal dawn light
+    focus: Sunrise light touching all parts of city equally, revealing unity beneath apparent divisions
+    depth: Comprehensive view showing Dublin's unity from bay to hills, connecting individual human stories to universal natural
+      phenomenon
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
