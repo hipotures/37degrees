@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, deep night during winter
+    location: Aristocratic residential complex in Heian-kyō designed as idealized spring garden, interior sleeping quarters
+      with thick wall hangings
+    weather: Bitter cold night with frost forming on windows
+  characters:
+  - appearance: Japanese noblewoman aged ten to forty-three with remarkable beauty resembling Fujitsubo, very pale white powdered
+      face with blackened teeth, artificially drawn high eyebrows, magnificent floor-length straight black hair that gleams
+      like silk
+    clothing: Exquisite twelve-layer court robes jūnihitoe with perfectly harmonized color combinations, each ensemble demonstrates
+      flawless seasonal taste and refined aesthetic sensibility
+    position: Lying beneath multiple layers of heavy silk bedding, body compressed by weight of fabrics
+    action: Experiencing pressure of twelve thick silk quilts layered for winter warmth, breathing shallow under heavy weight,
+      feeling secure despite compression
+  scene:
+    mainElements: Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees,
+      plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream
+    details: Multiple layers of silk bedding create substantial weight pressing down on body, breathing becomes measured and
+      deliberate under heavy fabrics, silk materials compress and warm from body heat, layers shift and settle with every
+      movement, weight provides comforting security against winter cold, thick textiles muffle outside sounds, warmth builds
+      gradually under multiple coverings, no text or letters visible
+    background: Harmonious beauty representing eternal spring, gentle sounds of water and birds, sweet fragrance of blossoms,
+      soft filtered light creating peaceful intimate mood
+    atmosphere: Protective cocoon of weighted warmth against bitter cold, luxury of heavy silk providing security and comfort,
+      physical pressure creating psychological safety
+  composition:
+    cameraAngle: Side view showing layers of bedding and slight compression of figure beneath
+    focus: Multiple textile layers and their weight effect on sleeping form
+    depth: Detailed fabric textures in foreground, compressed figure in middle ground, winter room interior in soft background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

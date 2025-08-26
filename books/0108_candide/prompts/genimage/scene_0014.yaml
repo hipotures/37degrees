@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, midday
+    location: Governor's residence courtyard in Buenos Aires, Spanish colonial architecture
+    weather: Harsh tropical sun creating sharp shadows
+  characters:
+  - appearance: Spanish colonial governor, middle-aged man with haughty aristocratic bearing and calculating eyes
+    clothing: 'Elaborate Spanish court dress adapted for colonies: embroidered silk coat, ceremonial sword, multiple medals
+      and decorations'
+    position: Standing on elevated stone platform overlooking courtyard, hand extended toward Cunegonde
+    action: Gazes at Cunegonde with predatory desire while speaking with false courtesy, completely ignoring Candide's presence
+  - appearance: Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing
+    clothing: Elegant dress befitting baron's daughter, fitted bodice with square neckline, full skirt over panniers
+    position: Standing in courtyard below governor, positioned between Candide and power
+    action: Curtseys with practiced grace while eyes calculate advantages, face showing mixture of feminine submission and
+      shrewd pragmatism
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Travel-worn gentleman's attire, dusty from journey
+    position: Standing lower in courtyard, clearly excluded from the power negotiation
+    action: Watches with growing alarm as Cunegonde responds favorably to governor's attention, fists clenched in helpless
+      frustration
+  - appearance: 70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with
+      intelligence and resilience
+    clothing: Plain dark servant's dress
+    position: Standing beside Cunegonde in advisory position
+    action: Whispers counsel in Cunegonde's ear, eyes showing approval of practical choice over romantic sentiment
+  scene:
+    mainElements: Spanish colonial courtyard with whitewashed walls, red tile roof, central fountain with lush tropical plants,
+      arched porticoes providing shade from intense sun
+    details: Governor's elevated position emphasizes power hierarchy. Cunegonde positioned as prize to be won. Candide relegated
+      to observer status. Old Woman's whispered advice shows survival trumps love. Sharp shadows divide courtyard into areas
+      of power and powerlessness.
+    background: Colonial architecture with heavy wooden doors, religious artwork, glimpses of Buenos Aires port city beyond
+      walls, servants moving discretely in background
+    atmosphere: Power negotiation disguised as courtship. Harsh tropical light emphasizing social divisions. Colors of white
+      colonial walls, red tiles, bright tropical greens, gold and blue of governor's elaborate costume. Smell of exotic flowers
+      and tropical heat.
+  composition:
+    cameraAngle: Medium wide shot emphasizing the power hierarchy through positioning
+    focus: Triangle of tension between governor's desire, Cunegonde's calculation, and Candide's exclusion
+    depth: Foreground shows Candide's powerlessness, middle ground Cunegonde's choice, background the governor's commanding
+      presence
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

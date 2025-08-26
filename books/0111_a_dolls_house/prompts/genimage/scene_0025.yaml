@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1879, Boxing Day dawn
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Dawn breaking, new day beginning
+  characters:
+  - appearance: Man aged 35-40 years, średni or wysoki wzrost, postawna budowa ciała suggesting dobrobyt and pewność siebie,
+      przystojna twarz with zaciętym nieco protekcjonalny expression
+    clothing: Evening attire rumpled and disordered, reflecting his destroyed status
+    position: Sitting alone at the table, staring at empty doorway
+    action: Whispering hopefully about miracles that will never come, completely alone in his ruined paradise
+  scene:
+    mainElements: Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane
+      drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany
+    details: The empty doorway dominates the scene where moments before Nora stood as a free woman. The comfortable salon
+      is now a mausoleum of their dead marriage. The elegant furnishings mock his solitude. Dawn light streams through windows,
+      illuminating his complete abandonment.
+    background: The bourgeois paradise that has become a prison of his own making
+    atmosphere: Devastating emptiness after the famous door slam heard around the world. The room echoes with silence and
+      the finality of her departure. His world has ended with that sound.
+  composition:
+    cameraAngle: Wide shot emphasizing the empty doorway and his profound isolation
+    focus: The empty space where Nora stood, now filled only with absence and the memory of the closing door
+    depth: 'Foreground: The empty doorway through which freedom has departed. Middle ground: Torvald''s isolated figure. Background:
+      The vast empty room that was once filled with illusions of happiness.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

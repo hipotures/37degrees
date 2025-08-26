@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, evening during formal imperial banquet
+    location: Imperial Palace Heian-kyō, grand ceremonial dining hall with formal court protocol
+    weather: Clear evening with lanterns illuminating formal gathering
+  characters:
+  - appearance: Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes,
+      long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build
+    clothing: Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments
+      emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions
+    position: Seated in place of honor at formal dining arrangement, surrounded by elaborate food presentation
+    action: Observing complex feast preparation, watching steam rise from multiple dishes, participating in ceremonial tasting
+      rituals
+  scene:
+    mainElements: Elegant wooden vehicle with curved roof lacquered in black, bamboo blinds covering windows for privacy,
+      ornate metal fittings, drawn by two white oxen with decorative harnesses, interior lined with silk cushions
+    details: Multiple dishes emit different colored steam patterns creating complex aromatic clouds, wine swirls in ceramic
+      cups catching lantern light in amber spirals, ground spices create fine powder clouds when sprinkled over dishes, hot
+      soup surfaces show convection patterns suggesting rich broth flavors, grilled fish skin glistens with oils reflecting
+      firelight, rice wine creates delicate bubbles indicating fermentation, steam from different dishes mingles creating
+      layered vapor effects, ceramic serving pieces show condensation from temperature contrasts, no text or letters visible
+    background: Formal ceremonial complex at heart of Heian-kyō capital in 10th century Japan, vast courtyards with white
+      gravel, multiple wooden pavilions connected by covered corridors
+    atmosphere: Culinary artistry at imperial level, complex flavor symphony suggested through visual steam and light effects,
+      ceremonial abundance demonstrating court refinement
+  composition:
+    cameraAngle: Wide shot showing elaborate feast spread with multiple steam and light effects
+    focus: Complex interplay of steam patterns, wine light effects, and spice powder movements
+    depth: Detailed food and drink presentations in foreground, honored guest in middle ground, formal court setting extending
+      into background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

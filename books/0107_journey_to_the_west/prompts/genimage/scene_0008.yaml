@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Eternal spring in the magical mountain paradise
+    location: Deep forest sections of Flower Fruit Mountain with ancient mystical vegetation
+    weather: Soft filtered sunlight through magical forest canopy with gentle breezes
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ancient trees with silver bark reaching impossible heights, flowers that glow with inner light changing
+      colors with seasons, fruit trees bearing gem-like produce that grants various magical properties
+    details: Mystical plant life displaying supernatural characteristics including bamboo that sings in the wind, lotus flowers
+      blooming in mid-air without water, vines that move of their own accord to help travelers, mushrooms that emit soft phosphorescent
+      light, grass that never dies and heals wounds when touched, trees whose leaves can cure any poison, flowers whose fragrance
+      induces peaceful dreams
+    background: Forest extending infinitely with no sign of human interference, natural clearings where sunbeams create cathedral-like
+      spaces, distant glimpses of magical creatures moving through pristine woodland
+    atmosphere: Pure natural magic and untouched wilderness, filled with gentle rustling of enchanted vegetation, sweet perfumes
+      of magical blossoms, sense of ancient wisdom residing in every growing thing
+  composition:
+    cameraAngle: Intimate forest interior view showcasing botanical diversity and magical properties
+    focus: The supernatural plant life that makes this mountain a true paradise
+    depth: Foreground examines individual magical plants and their unique properties, middle ground shows forest ecosystem
+      interactions, background suggests infinite pristine wilderness
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

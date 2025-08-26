@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1945, after Otto's return
+    location: Office or home workspace with documents spread on large table
+    weather: Bright daylight for document examination
+  characters:
+  - appearance: Middle-aged mężczyzna wiek 53-55 lat, wysoki szczupły, pociągła łagodna twarz, inteligentne spojrzenie, przerzedzone
+      ciemne włosy, okulary w cienkich oprawkach, now aged by grief
+    clothing: Schludny garnitur lub marynarka i krawat, biała koszula, zachowuje godność mimo warunków
+    position: Standing over table examining arranged documents
+    action: Studying his daughter's complete writings, organizing them chronologically
+  - appearance: Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz, supportive presence
+    clothing: Prosty strój pracującej kobiety z lat 40., sukienka płaszcz
+    position: Seated beside table with additional papers
+    action: Helping Otto understand the organization of Anne's writings
+  scene:
+    mainElements: Large table covered with all of Anne's writings - version A diary, version B manuscript, loose papers, letters
+    details: Notatnik w twardej oprawie, charakterystyczna drobna kratka w kolorach czerwonym i białym alongside loose manuscript
+      pages, Anne's revision work visible, the three versions of her story laid out like archaeological layers, some pages
+      damaged, others pristine
+    background: Study or office space with good lighting for document work
+    atmosphere: Archaeological reverence mixed with profound grief, the complete story of Anne's life and growth emerging
+      from scattered pieces
+  composition:
+    cameraAngle: Overhead shot showing the complete mosaic of Anne's writings
+    focus: The remarkable scope and evolution of Anne's literary work
+    depth: All documents in focus showing the full breadth of preserved material
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

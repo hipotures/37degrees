@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Stormy dusk in remote wilderness far from human settlement
+    location: Dangerous mountain passes and wild forests along the western pilgrimage route, territories controlled by demons
+      and wild spirits
+    weather: Threatening storm clouds and harsh winds making travel treacherous
+  characters: No characters present in this scene
+  scene:
+    mainElements: Treacherous mountain paths carved by centuries of erosion, dense forests where sunlight never penetrates
+      to ground level, abandoned watchtowers from failed attempts at territorial control, weather-beaten stone markers warning
+      of dangers ahead
+    details: Hostile wilderness showing nature's power over civilization with paths blocked by fallen trees and rockslides,
+      bridges destroyed by floods and never repaired, territorial markers left by dangerous creatures, evidence of failed
+      human settlements including ruined buildings and broken farming tools, wild vegetation reclaiming any human construction
+    background: Endless wilderness stretching to horizon with no signs of human habitation, storm fronts approaching across
+      vast empty landscapes, distant mountain peaks disappearing into threatening cloud cover
+    atmosphere: Overwhelming sense of isolation and natural danger, sounds of howling wind and distant thunder, air charged
+      with approaching storms and primitive natural forces
+  composition:
+    cameraAngle: Wilderness perspective emphasizing the vastness and danger of untamed nature
+    focus: The raw natural forces that challenge anyone attempting to cross these territories
+    depth: Foreground shows immediate threats from weather and terrain, middle ground reveals the scale of wilderness challenges,
+      background suggests endless dangerous territories beyond civilized control
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

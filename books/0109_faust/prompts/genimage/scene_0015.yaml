@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 16th century, Walpurgis Night (April 30th to May 1st), midnight
+    location: Wild, primeval nature of Harz Mountains in Germany. Steep, rocky forest slopes leading to bare, windswept peak
+      of Brocken mountain. Harsh and threatening landscape representing untamed natural forces.
+    weather: Stormy night with wild winds, eerie red moon casting ghostly light
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat
+      with rooster feather, but clothing seems more wild and disheveled in mountain winds
+    position: Moving through dancing crowd like master of ceremonies, directing festivities
+    action: Orchestrating witches' sabbath while monitoring Faust's participation, ensuring maximum distraction from Margarete's
+      fate
+  scene:
+    mainElements: Hundreds of flickering bonfires dotting landscape, will-o'-wisps moving between twisted trees, rocky outcroppings
+      with fantastic shapes. Eerie red moon casting ghostly light over scene of witches' sabbath. Naked witches and demons
+      dancing wildly around fires
+    details: From Mephistopheles' perspective, this represents sophisticated psychological warfare - while Margarete suffers
+      alone in prison, he immerses Faust in primitive, sensual chaos to prevent rescue attempt. The sabbath reveals his understanding
+      that humans can be distracted from moral obligations by appealing to their basest instincts
+    background: Sensual, orgiastic chaos with howling wind, creaking and cracking forests, hooting owls. Wild, untamed energy
+      where boundaries between human, animal and demonic blur. Place where Mephistopheles brings Faust to distract from Margarete's
+      fate.
+    atmosphere: Calculated orchestration of distraction masquerading as supernatural celebration. Mephistopheles operates
+      as event coordinator for hell's greatest party, keeping Faust entertained while tragedy unfolds elsewhere
+  composition:
+    cameraAngle: Wide shot showing massive scale of sabbath with Mephistopheles controlling festivities
+    focus: Mephistopheles directing wild celebration while Faust becomes lost in primitive revelry
+    depth: 'Foreground: Dancing figures around bonfires. Middle ground: Mephistopheles orchestrating and Faust participating.
+      Background: Mountain landscape with hundreds of fires and supernatural creatures'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

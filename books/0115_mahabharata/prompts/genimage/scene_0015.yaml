@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Magical new capital built by Pandavas on barren Khandawaprastha land with supernatural architecture transcending
+      physics
+    weather: Bright interior lighting from crystal surfaces
+  characters:
+  - appearance: Male, 30-35 years old, potężna muskularna atletyczna budowa, górna część ciała twarda jak diament
+    clothing: Krzykliwe bogate szaty w ciężkim pancerzu
+    position: Standing before crystal surface, reflection visible
+    action: Arogancka postawa potężnego wojownika mistrza maczugi
+  scene:
+    mainElements: Palace of illusion Majasabha built by demon architect Maya with crystal floors smooth as water surface,
+      jewel-encrusted walls, gold columns, impossible optical illusions and pools so still they appear solid
+    details: Duryodhana's reflection in crystal surface showing inner jealousy and rage, multiple reflections creating disorienting
+      effect, jealous expression multiplied in magical mirrors, crown askew with anger, fists clenched, no text or letters
+      visible
+    background: Impossible palace architecture with floating elements, crystal columns reaching impossible heights, optical
+      illusions making floors appear as water
+    atmosphere: Ethereal magical atmosphere mixing wonder admiration and subtle unease, sounds of water and subtle music,
+      silence interrupted by lotus scents and cool stone, contrasting sharply with earthy Hastinapura
+  composition:
+    cameraAngle: Mirror/reflection shot showing Duryodhana seeing himself consumed by envy
+    focus: Multiple reflections revealing inner psychological state of burning jealousy
+    depth: Foreground real figure, middle ground crystal reflection surface, background magical palace creating multiple mirror
+      effects, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

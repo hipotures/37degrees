@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1879, Christmas morning
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Bright winter morning light
+  characters:
+  - appearance: Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with
+      inner strength
+    clothing: Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors
+      like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material
+    position: Moving restlessly around room, unable to stay still
+    action: Constantly touching her throat, adjusting her hair, fidgeting with objects, movements becoming increasingly agitated
+      and bird-like
+  scene:
+    mainElements: Same mieszczański salon in Christiania during Boże Narodzenie period, decorated for święta
+    details: The comfortable Christmas setting now feels like a cage as Nora moves with increasingly nervous energy. Her restless
+      pacing and constant fidgeting with objects reveal her growing panic. Every sound makes her start, every door might bring
+      new threats.
+    background: Initially przytulny świąteczny and pełny beztroski, evolving into klaustrofobiczna duszna pułapka, osvětlenie
+      from zimowe światło z okna and ciepły migotliwy blask from piec creating contrasts
+    atmosphere: Surface Christmas normalcy increasingly unable to contain Nora's mounting anxiety. The room feels smaller,
+      more confining.
+  composition:
+    cameraAngle: Medium shot following Nora's restless movement through the room
+    focus: Her nervous gestures - touching throat, adjusting hair, fidgeting with hands
+    depth: 'Foreground: Nora''s agitated movements. Middle ground: Furniture and objects she nervously touches. Background:
+      The confining walls of her domestic prison.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

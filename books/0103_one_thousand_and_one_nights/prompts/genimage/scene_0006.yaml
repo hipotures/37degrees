@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late afternoon, Sasanian Persian Empire
+    location: Private library chamber in minister's residence filled with scrolls and manuscripts
+    weather: Interior scene with soft afternoon light filtering through latticed windows
+  characters:
+  - appearance: Woman aged 20 years, graceful and poised bearing, intelligent dark brown eyes reflecting wisdom and inner
+      strength, long dark brown hair worn loosely braided or flowing, regular noble features with serene expression, slender
+      elegant build
+    clothing: Multi-layered elegant silken robes in refined colors like deep blue or rich burgundy, lightweight linen undergarments,
+      perfumed with sandalwood, golden jewelry including delicate earrings and bracelet
+    position: Seated on silk cushions surrounded by open scrolls and books
+    action: Reading intently from ancient manuscript while taking notes, occasionally pausing to contemplate wisdom
+  scene:
+    mainElements: Chamber lined with wooden shelves containing rolled scrolls and bound volumes, low reading table with oil
+      lamps, silk cushions arranged for comfortable study, writing implements and parchment
+    details: Sunlight filtering through carved wooden window screens creating geometric patterns on walls, Arabic and Persian
+      calligraphy visible on open manuscripts, ink pots and reed pens on reading table, brass oil lamps providing warm light,
+      scattered books showing intensive study, no text or letters visible
+    background: Shelves extending to ceiling filled with scrolls tied with colored ribbons, carved wooden screens filtering
+      natural light, distant sounds of household activity
+    atmosphere: Scholarly contemplation and intellectual preparation, quiet concentration broken only by rustling parchment,
+      scent of ink and aged paper, sense of accumulated wisdom
+  composition:
+    cameraAngle: Medium shot capturing figure immersed in learning
+    focus: Scholar surrounded by texts representing knowledge as power
+    depth: Reading materials in foreground, seated figure in middle ground, library shelves in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

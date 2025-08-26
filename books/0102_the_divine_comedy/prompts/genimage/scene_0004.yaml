@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal celestial time, divine light beyond temporal measurement
+    location: Cosmic realm of nine transparent crystalline spheres concentrically arranged around Earth
+    weather: Perfect divine atmosphere with no earthly weather, only pure light
+  characters: No characters present in this scene
+  scene:
+    mainElements: Nine transparent crystalline spheres of increasing size arranged concentrically around central Earth, each
+      sphere containing brilliant points of light representing celestial bodies and blessed souls, geometric patterns of divine
+      illumination
+    details: Each sphere made of perfectly clear crystal-like material that refracts divine light into rainbow spectrums.
+      Points of light within spheres move in complex geometric patterns - some steady, some pulsing, some dancing in harmony.
+      Inner spheres show Moon, Mercury, Venus with silvery, golden, and pearl-like lights respectively. Outer spheres display
+      increasingly brilliant and complex light patterns. Beyond all spheres, infinite field of pure white light. Sacred geometry
+      visible in arrangement of light points within each sphere.
+    background: Infinite expanse of divine light beyond the outermost sphere, no darkness visible anywhere, sense of boundless
+      space filled with luminosity
+    atmosphere: Overwhelming sense of divine perfection and cosmic harmony, celestial music implied by geometric light patterns,
+      infinite peace and joy, transcendent beauty beyond earthly comprehension
+  composition:
+    cameraAngle: Perspective from within the celestial realm looking through multiple spheres toward Earth
+    focus: The nested arrangement of transparent spheres with their contained patterns of divine light
+    depth: Foreground shows nearest sphere with detailed light patterns, middle ground reveals progression of spheres, background
+      dissolves into infinite divine radiance
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

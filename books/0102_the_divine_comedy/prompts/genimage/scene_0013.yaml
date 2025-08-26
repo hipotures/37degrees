@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 14th century afternoon, golden light illuminating carved stonework
+    location: Third terrace of Mount Purgatory with elaborate stone carvings and religious artwork
+    weather: Perfect mountain weather with clear sky and gentle breeze
+  characters: No characters present in this scene
+  scene:
+    mainElements: Elaborate stone relief carvings covering terrace walls, religious sculptures and artwork, symbolic decorations
+      representing spiritual virtues, stone pavement with inlaid marble patterns
+    details: Magnificent stone relief carvings depicting scenes of humility and divine mercy, carved so perfectly they appear
+      to move and speak. White marble sculptures of angels with flowing robes, their faces showing divine compassion. Inlaid
+      marble floor patterns creating sacred geometric designs in various colored stones. Stone columns topped with capitals
+      carved with intertwining vines, flowers, and religious symbols. Religious frescos painted on interior walls of mountain
+      alcoves, showing brilliant colors that seem to glow with inner light. Carved Latin inscriptions praising divine virtues,
+      letters filled with gold leaf.
+    background: Mountain landscape with other terraces visible above and below, distant ocean view, celestial light beginning
+      to show in afternoon sky
+    atmosphere: Sacred beauty inspiring spiritual reflection, sense of divine artistry that surpasses human creation, peaceful
+      contemplation of religious truth through visual art
+  composition:
+    cameraAngle: Medium view showcasing the religious artwork and architectural details of the terrace
+    focus: The sacred art and symbolic elements that inspire spiritual purification
+    depth: Foreground shows detailed stone carvings and sculptures, middle ground displays terrace architecture, background
+      shows mountain landscape and distant views
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

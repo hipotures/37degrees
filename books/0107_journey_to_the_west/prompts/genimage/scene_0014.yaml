@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Formal ceremonial period in heavenly court
+    location: Treasury and ceremonial preparation chambers within heavenly palace
+    weather: Ethereal divine atmosphere perfect for displaying celestial magnificence
+  characters: No characters present in this scene
+  scene:
+    mainElements: Royal regalia befitting cosmic rulers including crowns made from condensed starlight, robes woven from phoenix
+      feathers and dragon scales, ceremonial weapons that command natural forces, jewelry crafted from crystallized divine
+      essence
+    details: Divine status symbols representing cosmic hierarchy with imperial seals that create binding universal law, scepters
+      controlling weather and seasons, mirrors revealing truth across all dimensions, ceremonial vessels containing elixirs
+      of immortality, thrones that elevate occupants above earthly concerns, banners displaying cosmic authority, ritual masks
+      for different divine functions
+    background: Ceremonial chambers prepared for various divine functions, storage areas containing regalia for different
+      cosmic occasions, preparation spaces where divine beings assume their formal roles
+    atmosphere: Overwhelming divine majesty and cosmic authority, air shimmering with concentrated divine power, sense of
+      ceremonies that shape universal order
+  composition:
+    cameraAngle: Formal display view showcasing the magnificence and power of celestial authority
+    focus: The material expressions of divine power and cosmic hierarchy
+    depth: Foreground examines individual pieces of celestial regalia and their symbolic meaning, middle ground shows ceremonial
+      preparation and organization, background suggests vast treasury of divine power objects
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

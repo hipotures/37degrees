@@ -6,7 +6,7 @@
 - `todoit` - zarządzanie listą zadań
 - `playwright-cdp` - automatyzacja przeglądarki
 - musi być podany katalog z książką, 
-  jeśli go nie ma, zakończz pracę, 
+  jeśli go nie ma, zakończ pracę, 
   jeśli jest, jego wartość ustaw w zmiennej [BOOK_FOLDER]
 
 > ⚠️ **UWAGA**: Błędy związane z dużymi odpowiedziami (>25000 tokens) należy ignorować
@@ -124,11 +124,18 @@ Jeśli operacja się nie udała, wróć do punktu 1 w tym kroku i ponów operacj
 mv "/tmp/playwright-mcp-output/[timestamp]/nazwa-pliku.txt" \
    "/home/xai/DEV/37degrees/books/0001_alice_in_wonderland/docs/review.txt"
 ```
-
-
 ---
 
-### Krok 7: Oznaczenie zadania jako ukończone
+### Krok 7: Zmień nazwę pliku
+Nazwę pliku należy zmienić na [BOOK_FOLDER]  (Przykładowo 0001_alice_in_wonderland - rozszerzeniem pliku nie nalezy się przejmować, bedzie zachowane aktualne))
+
+Są dwie możliwości zmiany nazwy pliku:
+ - Poprzez klikniecie w aktualną nazwę (zwyle jest to nazwa zawierająca wyrazy "streszczenie" i/lub "wizualizacja".
+   Po kliknieciu w nazwę należy ją zazanczyć Ctlr+a i wpisać nową
+albo
+ - Poprzez menu -> Plik (clik) -> Zmień nazwę (click). Stara nazwa będzie już zaznaczona, wystarczy wpisać nową.
+
+### Krok 8: Oznaczenie zadania jako ukończone
 
 Po pomyślnym zakończeniu całego procesu, gdy jesteś pewien, że plik review.txt zawiera
 odpowiednią treść (możesz odczytać pierwsze 10 linii, tam powinno być potwierdzenie poprawności,
@@ -150,12 +157,13 @@ todo_update_item_status(
 ---
 
 ### Krok 8: Czyszczenie środowiska
-> ⚠️ **UWAGA**: Błędy związane z dużymi odpowiedziami (>25000 tokens) należy ignorować
+> ⚠️ **UWAGA**: Błędy związane z dużymi odpowiedziami (>25000 tokens) należy ignorować. Nie zamykaj wszystkich tabów!
 
-1. Zamknij zakładkę Google Docs:
+
+1. Sprawdź, czy pozostała tylko jedna karta przeglądarki
+   mcp__playwright-cdp__browser_tab_list()
+2. Zamknij zakładki Google Docs (ma zostać otwarty pierwszy tab o id 0):
    mcp__playwright-cdp__browser_tab_close(log_limit=100)
-
-2. Sprawdź, czy pozostała tylko jedna karta przeglądarki
 
 ---
 

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 16th century, warm summer evening
+    location: Garden courtyard with flowering plants, stone pathways, and wooden benches, enclosed by walls of adjacent townhouses
+    weather: Perfect evening with soft golden light and mild temperature
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat
+      with rooster feather
+    position: Standing in background shadows, orchestrating scene while maintaining distance
+    action: Manipulating both couples' movements through garden like puppet master, ensuring romantic encounters while avoiding
+      detection
+  scene:
+    mainElements: Two parallel romantic scenes unfolding - Faust courting Margarete with flowers and gentle words, while Martha
+      flirts hopefully with her mysterious companion. Garden provides intimate setting with secluded pathways and flowering
+      alcoves
+    details: 'From Mephistopheles'' perspective, this represents perfect orchestration of human weakness: he simultaneously
+      exploits Martha''s loneliness to facilitate Faust''s seduction while studying both relationships for psychological insights.
+      He observes how love and lust intertwine, how noble emotions serve base purposes, how even innocent affection can be
+      weaponized'
+    background: Garden walls creating intimate enclosure, evening flowers releasing perfume, stone paths allowing discrete
+      movement between couples
+    atmosphere: Surface romance concealing calculated manipulation. Mephistopheles operates as invisible director of human
+      drama, understanding that people's desires make them predictable and therefore controllable
+  composition:
+    cameraAngle: Elevated perspective showing Mephistopheles' godlike view of human interactions he's orchestrating
+    focus: Two couples in romantic poses with Mephistopheles watching from shadows like puppet master
+    depth: 'Foreground: Romantic couples engaged in courtship. Middle ground: Garden pathways and flowers. Background: Mephistopheles
+      observing from shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

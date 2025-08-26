@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Late night, Arabian house
+    location: Kitchen and service area of prosperous merchant's house with cooking implements and storage
+    weather: Interior scene lit by oil lamps and dying cooking fire
+  characters:
+  - appearance: Woman aged 25 years, quick and nimble build suited for household work, alert dark eyes showing intelligence
+      and determination, dark hair covered by simple headscarf, capable hands
+    clothing: Simple practical servant's dress in earth tones allowing freedom of movement, sturdy sandals, small belt pouch
+      for tools
+    position: Efficient and purposeful movement, ready stance showing vigilance
+    action: Moving stealthily when needed, performing tasks with focused attention, showing protective loyalty
+  scene:
+    mainElements: Kitchen with large cooking hearth, wooden shelves lined with pottery and cooking vessels, storage jars for
+      oil and grain, work tables with kitchen implements
+    details: Large clay jars of various sizes arranged in kitchen, cooking fire glowing with hot coals, brass cooking pots
+      and ladles hanging from hooks, wooden cutting boards and sharp knives, oil lamps providing flickering light, stone mortar
+      and pestle, bags of spices and cooking ingredients, no text or letters visible
+    background: Doorway leading to main house, stairs to upper floors, courtyard visible through window, household sleeping
+      peacefully above
+    atmosphere: Tense preparation for danger, domestic space transformed into place of defense, household scents of cooking
+      and spices, quiet sounds of careful planning, loyalty overcoming fear
+  composition:
+    cameraAngle: Medium shot showing figure planning among kitchen implements
+    focus: Determined servant surrounded by domestic tools that will become weapons
+    depth: Kitchen implements in foreground, planning figure in center, darkened house in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

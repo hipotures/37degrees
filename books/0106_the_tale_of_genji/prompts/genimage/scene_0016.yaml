@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, warm summer afternoon
+    location: Aristocratic residential complex in Heian-kyō designed as idealized spring garden, outdoor tea service area
+    weather: Perfect clear summer day with golden afternoon light
+  characters:
+  - appearance: Japanese noblewoman aged ten to forty-three with remarkable beauty resembling Fujitsubo, very pale white powdered
+      face with blackened teeth, artificially drawn high eyebrows, magnificent floor-length straight black hair that gleams
+      like silk
+    clothing: Exquisite twelve-layer court robes jūnihitoe with perfectly harmonized color combinations, each ensemble demonstrates
+      flawless seasonal taste and refined aesthetic sensibility
+    position: Seated gracefully beside low serving table, preparing sweet treats for guests
+    action: Drizzling pure honey from wooden dipper over delicate rice cakes, watching golden streams create perfect spirals
+  scene:
+    mainElements: Traditional Japanese stringed instrument made from paulownia wood with natural finish, thirteen silk strings
+      stretched over movable bridges, long rectangular resonating body, played with ivory plectra
+    details: Pure golden honey flows in perfect liquid streams from wooden dipper, creating spiral patterns as it falls onto
+      white rice cakes, honey forms temporary pools that catch and reflect sunlight like liquid amber, drops create perfect
+      spherical shapes before impact, sweetness suggested by honey's golden transparency and viscous flow, sunlight transforms
+      honey into glowing streams of liquid gold, rice cake surfaces show honey soaking in gradually, wooden serving vessels
+      show honey residue creating amber patterns, no text or letters visible
+    background: Wooden pavilion raised on pillars with natural cypress columns, spring garden with blooming cherry trees,
+      plum blossoms, wisteria vines, curved bridge over pond with small island, meandering stream
+    atmosphere: Pure sweetness made visible through golden honey streams, luxurious abundance of perfect summer afternoon,
+      visual poetry of liquid gold in aristocratic setting
+  composition:
+    cameraAngle: Close-up capturing honey flow patterns and golden light effects
+    focus: Liquid honey streams and their interaction with light and receiving surfaces
+    depth: Honey stream details in sharp foreground, serving figure in middle ground, garden setting softly blurred in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

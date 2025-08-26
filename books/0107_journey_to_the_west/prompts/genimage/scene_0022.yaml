@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Crisis moment when fundamental forces of chaos challenge established cosmic balance
+    location: Boundary regions between ordered and chaotic realms where cosmic forces clash
+    weather: Supernatural storm conditions with reality-warping effects threatening dimensional stability
+  characters:
+  - appearance: Divine warriors and celestial defenders mobilized to protect cosmic order, beings of pure light energy wielding
+      weapons of concentrated righteousness
+    clothing: Battle armor forged from condensed starlight and divine righteousness, protective gear designed to withstand
+      exposure to pure chaos
+    position: Arranged in defensive formations protecting the boundaries of ordered reality
+    action: Engaging in cosmic scale defensive operations to preserve universal harmony and prevent chaos from overwhelming
+      ordered existence
+  scene:
+    mainElements: Battle lines drawn across dimensional boundaries where order meets chaos, defensive fortifications built
+      from crystallized divine law, strategic positions commanding views of both ordered and chaotic realms
+    details: Cosmic conflict showing ultimate spiritual warfare with reality itself at stake - weapons that maintain universal
+      laws, shields protecting fundamental constants of existence, communication networks coordinating defense across multiple
+      dimensions, healing stations for beings damaged by exposure to chaos
+    background: Vast cosmic battlefield extending across multiple dimensional planes, distant views of both perfect order
+      and pure chaos realms, suggestion of ultimate confrontation between fundamental forces of existence
+    atmosphere: Ultimate cosmic drama with fate of all existence at stake, sounds of reality-shaking conflict echoing across
+      dimensions, air charged with the fundamental forces that maintain or threaten universal existence
+  composition:
+    cameraAngle: Epic cosmic perspective showing the scale and importance of this fundamental conflict
+    focus: The defense of universal order against forces that would return everything to primordial chaos
+    depth: Foreground shows detailed defensive operations and cosmic warfare, middle ground reveals strategic organization
+      of universal defense, background suggests cosmic scope of conflict between order and chaos
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

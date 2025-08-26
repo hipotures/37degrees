@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, supernatural twilight when reality shifts
+    location: Mystical grove where shadows gain independent existence
+    weather: Otherworldly atmosphere with impossible lighting effects
+  characters:
+  - appearance: Same imposing physique but weathered by journey, face marked by grief with potential gray streaks in hair
+      and beard, eyes showing acceptance rather than arrogance
+    clothing: Simple rough animal hides, practical traveler's attire, no royal ornaments
+    position: Upright but humble posture, gesturing with open hands toward his achievements
+    action: Pointing proudly but peacefully at the walls of Uruk, speaking with quiet dignity
+  scene:
+    mainElements: Tree shadows on ground separating from their sources and taking three-dimensional form as dark animals -
+      shadow lions, shadow birds, shadow serpents
+    details: Tree shadows becoming autonomous creatures while maintaining dark silhouette appearance, shadow animals moving
+      independently of trees that cast them, creatures maintaining flat shadow-like appearance but gaining depth and substance,
+      original tree shadows remaining empty areas on ground, interaction between real light and impossible shadow creatures
+    background: Sacred grove within palace grounds where trees symbolize enduring legacy, other mature trees standing as witnesses,
+      stone markers indicating special significance of location, impossible lighting from multiple directions
+    atmosphere: Reality becoming fluid and symbolic, inner psychological states manifesting as external phenomena, boundary
+      between literal and metaphorical dissolving, no text or letters visible
+  composition:
+    cameraAngle: Side angle showing separation between shadows and their sources
+    focus: Moment of transformation where shadows become independent as symbol of inner life gaining external reality
+    depth: Foreground shows shadow creatures in detail, middle ground shows character observing transformation, background
+      shows trees and grove setting
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

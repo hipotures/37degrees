@@ -1,0 +1,75 @@
+sceneDescription:
+  setting:
+    time: Timeless heavenly realm during divine preparations
+    location: Heavenly armory and forge within celestial palace complex, workshop of divine weaponry
+    weather: Ethereal atmosphere with magical fires and celestial energy
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive forge furnaces burning with multi-colored celestial flames, anvils made of star-metal for crafting
+      divine weapons, racks displaying various magical armaments and celestial tools
+    details: Divine weapons gleaming with inner light including spears that control wind and rain, swords that can cut through
+      any material, armor that deflects both physical and magical attacks, magical mirrors that reveal truth, flying daggers
+      that never miss targets, shields that create protective barriers, celestial bows with arrows of pure energy, staffs
+      that command natural elements
+    background: Workshops extending into distance with other divine artisans' stations, storage areas containing rare materials
+      from across cosmos, testing grounds for weapon calibration
+    atmosphere: Intense creative energy mixed with divine power, sounds of celestial hammering and magical tempering, air
+      shimmering with weapon enchantments and forge heat
+  composition:
+    cameraAngle: Workshop interior view showcasing divine craftsmanship and magical technology
+    focus: The advanced magical weaponry and divine manufacturing capabilities
+    depth: Foreground displays individual weapons and their magical properties, middle ground shows forge operations and crafting
+      processes, background reveals the vast scale of celestial military preparation
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

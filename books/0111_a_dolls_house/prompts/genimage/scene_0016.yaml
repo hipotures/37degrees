@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1879, Boxing Day late night
+    location: Salon in mieszczańskie mieszkanie in Norwegian capital Christiania (Oslo) around 1879, single pokój with wysokie
+      sufity, duże okno, kilkoro drzwi leading to other parts
+    weather: Deep winter night, silence outside
+  characters:
+  - appearance: Woman aged 28-30 years, drobna and szczupła build, zgrabna movements suggesting delicateness contrasted with
+      inner strength
+    clothing: Modna suknia dzienna with turniura from 1870s, dopasowany stanik and bogato zdobiona spódnica in żywy colors
+      like niebieska or pastelowe shades, wysokiej jakości wełna or jedwab material
+    position: Sitting alone in chair, staring at empty chair across from her
+    action: Lost in deep contemplation, processing the day's revelations, hands folded in lap
+  scene:
+    mainElements: Gustownie urządzone one-room mieszczański interior with żeliwny piec as central point, ciemne polerowane
+      drewno meble, fortepian, okrągły stół with fotele, mała sofa, dwa wygodne fotele and fotel bujany
+    details: The room feels larger and emptier in her solitude. The empty chair across from her emphasizes her isolation and
+      the conversations that have changed everything. Dim lamplight creates pools of light and shadow, reflecting her internal
+      state of half-illuminated understanding.
+    background: Initially przytulny świąteczny and pełny beztroski, evolving into klaustrofobiczna duszna pułapka, osvětlenie
+      from zimowe światło z okna and ciepły migotliwy blask from piec creating contrasts
+    atmosphere: Profound solitude as she begins to understand the true nature of her life. The comfortable room feels hollow
+      now, unable to provide real comfort.
+  composition:
+    cameraAngle: Medium shot emphasizing her isolation in the large room
+    focus: Nora's solitary figure contemplating the empty chair representing absent relationships
+    depth: 'Foreground: Nora in solitary contemplation. Middle ground: The empty chair symbolizing isolation. Background:
+      The vast, suddenly hollow-feeling room.'
+visualElements:
+  colorPalette:
+    primary:
+    - muted golds
+    - deep greens
+    - burgundy
+    - peacock blue
+    secondary:
+    - ivory
+    - dusty rose
+    - sage green
+    background: aged paper or decorative patterns
+    usageNotes: Rich but muted tones with metallic accents
+    saturation: medium, sophisticated
+    contrast: elegant, balanced
+  lineArt:
+    style: flowing, sinuous curves
+    weight: varied, decorative
+    color: dark brown or black with gold accents
+    texture: smooth, refined
+    edgeTreatment: organic, plant-like curves
+  lighting:
+    type: decorative, non-realistic
+    direction: integrated into design
+    intensity: balanced throughout
+    shadows:
+      style: decorative, part of pattern
+      color: deeper tones of base colors
+      opacity: integrated
+    highlights: gold leaf effects
+  rendering:
+    technique: decorative illustration
+    texture: smooth with ornamental details
+    detailLevel: high in decoration, simplified figures
+    finish: refined, poster-like
+  perspective: flattened, decorative
+  mood:
+    overall: elegant, romantic, sophisticated
+    emotion: beauty, refinement, nostalgia
+    tempo: flowing, graceful
+    keywords:
+    - elegant
+    - decorative
+    - romantic
+    - ornate
+    - sophisticated
+  stylePrecedents:
+  - Alphonse Mucha
+  - Gustav Klimt
+  - Aubrey Beardsley
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

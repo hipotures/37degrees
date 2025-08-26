@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal twilight of Limbo, neither day nor night
+    location: First circle of Hell, a place of neither punishment nor bliss for virtuous pagans
+    weather: Perpetual twilight atmosphere with no weather, neither hot nor cold
+  characters: No characters present in this scene
+  scene:
+    mainElements: Magnificent castle with seven walls and seven gates, beautiful green meadows, a quiet stream, and noble
+      architecture representing the highest human achievement without Christian salvation
+    details: Seven concentric walls built of finest stone with perfect masonry, seven ornate gates made of precious metals
+      and decorated with classical reliefs. Interior showing green meadows with soft grass, clear streams flowing in geometric
+      patterns, groves of ancient trees providing gentle shade. Classical architecture combining Greek, Roman, and contemporary
+      medieval styles - marble columns with perfect proportions, stone benches arranged for philosophical discussion, carved
+      reliefs depicting scenes of wisdom and heroic virtue. Peaceful lighting that comes from no visible source, creating
+      perpetual golden hour illumination.
+    background: Gentle hills extending into misty distance, sense of vast peaceful landscape, no walls or barriers visible
+      beyond the castle
+    atmosphere: Melancholy peace, sense of noble souls existing in dignified suspension, beauty mixed with sadness for souls
+      who achieved earthly greatness but lack divine grace
+  composition:
+    cameraAngle: Elevated view showing the castle's seven walls and the beautiful landscape within
+    focus: The noble architecture and peaceful setting of virtuous souls awaiting divine judgment
+    depth: Foreground shows detailed castle walls and gates, middle ground displays interior meadows and classical buildings,
+      background fades into misty twilight landscape
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

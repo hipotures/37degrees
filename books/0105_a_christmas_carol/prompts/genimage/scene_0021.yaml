@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Multiple dawns and dusks across seasons and years
+    location: Same London street corner showing daily light cycles
+    weather: All seasons cycling through dawn and dusk progression
+  characters:
+  - appearance: Various London workers and residents showing consistency across time changes
+    clothing: Period-appropriate attire remaining constant despite daily and seasonal cycles
+    position: Appearing at same street positions during dawn and dusk hours
+    action: Following daily routines - morning departure and evening return patterns
+  scene:
+    mainElements: Single street location showing eternal dawn-dusk cycle - same buildings, same corner, same gas lamp, but
+      light cycling through countless daily progressions, human activity patterns repeating infinitely
+    details: Cyclical time progression - gas lamp lighting at dusk and extinguishing at dawn in endless repetition, shop shutters
+      opening each morning and closing each evening, same pedestrian walking patterns repeated daily, shadows rotating around
+      buildings following sun's eternal path, frost forming each night and melting each morning, church bells marking same
+      daily hours across seasons, street cleaning following identical schedule, market vendors setting up and packing away
+      in eternal rhythm, no text or letters visible
+    background: Urban landscape maintaining consistency despite time passage - same architectural features, same shop fronts,
+      same street layout, but showing subtle seasonal adaptations repeating annually
+    atmosphere: Meditative repetition of daily urban life, sounds cycling through daily pattern - morning awakening to evening
+      settling, scents following daily progression - fresh morning air to evening meal preparation, light quality cycling
+      through daily spectrum endless times
+  composition:
+    cameraAngle: Fixed position shot showing street corner through multiple dawn-dusk cycles
+    focus: Central gas lamp serving as temporal anchor for daily light cycles
+    depth: Foreground shows immediate daily detail repetitions, middle ground reveals pedestrian pattern consistency, background
+      displays seasonal adaptations within daily cycles
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE Mesopotamia, evening lamplight
+    location: Royal chamber in ancient palace of Uruk, private study with carved stone walls
+    weather: Calm evening with warm desert air
+  characters:
+  - appearance: Imposing height, perfect musculature of 2/3 divine being, long dark hair, intricately braided square beard
+      in Assyrian style, idealized physique described as terrifying like a great wild bull
+    clothing: Rich ceremonial robes decorated with fringes (kaunakes), golden jewelry, royal crown with divine symbols
+    position: Standing in dominant frontal pose, looking down at others with divine distance and contempt
+    action: Displaying cold, ritualistic authority with slow mechanical movements, showing no human empathy
+  scene:
+    mainElements: Large clay tablet covered in cuneiform writing rests on cedar wood table, oil lamps casting flickering shadows,
+      stone walls decorated with relief carvings
+    details: Tablet shows fresh wet clay recently pressed with reed stylus, cuneiform symbols forming royal decrees about
+      city construction, wooden table surface worn smooth from years of use, bronze oil lamps with steady flames creating
+      dancing shadows on stone walls
+    background: Relief carvings on walls depicting great building projects, shelves holding scrolls and smaller tablets, narrow
+      window opening showing evening sky
+    atmosphere: Atmosphere of absolute royal authority with warm lamplight contrasting cold stone walls, sense of ancient
+      power being recorded for eternity, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing the monumental scale of both king and tablet
+    focus: Clay tablet as primary symbol of recorded authority and eternal legacy
+    depth: Foreground shows tablet details, middle ground shows king's imposing figure, background shows carved walls depicting
+      royal achievements
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

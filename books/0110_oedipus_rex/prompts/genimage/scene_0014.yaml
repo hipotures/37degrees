@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, early evening
+    location: Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean
+      walls of irregular limestone blocks
+    weather: Heavy overcast sky, light failing rapidly, oppressive atmosphere
+  characters:
+  - appearance: Regal woman in early fifties with majestic dignity, dark hair intricately braided and arranged with subtle
+      gray streaks at temples, composed bearing with underlying tension
+    clothing: Doric peplos of heavy finely-woven wool in rich saffron color, ornate gold fibulae brooches at shoulders, deep
+      blue himation when worn, gold bracelets and necklace
+    position: Rushing toward Oedipus with arms outstretched, desperation breaking her royal composure
+    action: Grasping at his arms with desperate hands, face contorted with anguish, pleading with frantic gestures
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Turning away from her grasp, face set in stubborn determination
+    action: Pulling away from her desperate clutch, pushing her hands aside, jaw clenched in frustrated resolve
+  scene:
+    mainElements: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance, paved courtyard with cracked stones and sprouting weeds
+    details: Ornate golden brooches used to fasten Jocasta's peplos at the shoulders trembling as she shakes with desperation.
+      Her perfect royal hairstyle beginning to come undone. His royal regalia disheveled by her grasping hands. Physical separation
+      between them growing despite her attempts to hold him. Palace doors looming dark and forbidding. No text or letters
+      visible
+    background: Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone appearing prison-like
+      in failing light
+    atmosphere: Despair confronting stubborn determination, love trying to prevent destruction, tragic inevitability approaching
+  composition:
+    cameraAngle: Medium shot showing the physical and emotional struggle between them
+    focus: The contrast between her desperate pleading and his determined rejection
+    depth: Foreground shows their desperate physical interaction, middle ground captures their opposing body language, background
+      shows darkening palace
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

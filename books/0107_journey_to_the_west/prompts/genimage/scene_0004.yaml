@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Age of innocence, peaceful morning on Flower Fruit Mountain
+    location: Mountain slopes and clearings of Flower Fruit Mountain kingdom, natural paradise with terraced living areas
+    weather: Gentle spring morning with dappled sunlight through forest canopy
+  characters:
+  - appearance: Various monkey families and individuals in their natural forms, different ages from elderly patriarchs to
+      playful youngsters, golden and brown fur coloring
+    clothing: No artificial clothing, natural fur and simple leaf garments for some
+    position: Scattered throughout the scene in family groups and social clusters
+    action: Engaging in peaceful daily activities like grooming, fruit gathering, and social play
+  scene:
+    mainElements: Natural amphitheater of terraced stone platforms where monkey society conducts daily life, fruit trees heavy
+      with magical produce, crystal streams providing fresh water, simple stone furniture arranged in social gathering areas
+    details: Stone seats and tables naturally formed and smoothed by use, piles of colorful fruits and nuts stored in woven
+      grass baskets, young monkeys swinging from bamboo vines, elders teaching traditional skills, flowers and vines decorating
+      living spaces, clear pools for drinking and bathing
+    background: Dense forest canopy with ancient trees creating natural shelter, distant mountain peaks visible through gaps
+      in foliage, birdsong and natural forest sounds
+    atmosphere: Perfect harmony with nature and peaceful community life, filled with gentle chatter and laughter, sweet scents
+      of tropical fruits and flowering plants
+  composition:
+    cameraAngle: Community-level view showing social organization and natural lifestyle
+    focus: The harmonious balance between civilization and nature in monkey society
+    depth: Foreground captures individual family interactions, middle ground shows community organization, background reveals
+      the pristine forest environment supporting their paradise
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: Contemplative afternoon in sacred artistic spaces
+    location: Temple complexes and artistic workshops throughout the heavenly and earthly realms
+    weather: Soft diffused light perfect for appreciating artistic details and symbolic meaning
+  characters: No characters present in this scene
+  scene:
+    mainElements: Monumental Buddha statues carved from single blocks of jade and gold, temple walls covered in intricate
+      murals depicting dharma teachings, prayer wheels inscribed with countless mantras, lotus-shaped architectural elements
+      throughout sacred spaces
+    details: Buddhist artistic symbolism showing cosmic dharma representation with eight-spoked wheels representing Buddha's
+      teaching, thousand-petaled lotus flowers symbolizing enlightenment stages, stupas containing sacred relics, prayer flags
+      with sacred text fluttering in celestial breezes, mandala patterns carved into temple floors, bells and singing bowls
+      creating sacred harmonics, incense burners shaped like mythical creatures
+    background: Artistic complexes extending throughout sacred architecture, sculpture gardens with representations of Buddhist
+      cosmology, libraries containing illuminated manuscripts
+    atmosphere: Deep spiritual reverence and artistic inspiration, sounds of gentle chanting and temple bells, air fragrant
+      with sandalwood and lotus incense
+  composition:
+    cameraAngle: Contemplative view emphasizing the spiritual power and artistic beauty of sacred symbols
+    focus: The artistic expression of cosmic dharma and enlightenment teachings
+    depth: Foreground details individual symbolic elements and their spiritual meaning, middle ground shows integration of
+      art with sacred architecture, background reveals vast scope of Buddhist artistic tradition
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

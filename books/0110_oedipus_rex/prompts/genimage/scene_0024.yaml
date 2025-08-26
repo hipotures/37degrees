@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, late morning
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Bright sunlight contrasting with figure of darkness
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Supported between two figures, stumbling forward with unseeing eyes
+    action: Moving slowly with hands covering ruined eyes, supported by others, posture completely broken and humble
+  - appearance: Young children, daughters of royal family, innocent faces unmarked by understanding of tragedy
+    clothing: Simple children's chitones in pale colors, unadorned and pure
+    position: Standing close to their father, reaching up toward his face with gentle hands
+    action: Touching their father's face with innocent love, unafraid of his blindness or blood
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Royal garments now stained and disheveled, no longer symbols of power but reminders of fall. Blood-stained fabric
+      around eye area. Children's innocent hands providing only comfort. Bright sunlight making the contrast between light
+      and his darkness more stark. Palace steps he once commanded now beyond his sight. No text or letters visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, ancient stones witnessing
+      final transformation
+    atmosphere: Profound transformation complete, innocence touching guilt, love persisting through tragedy
+  composition:
+    cameraAngle: Close-up showing contrast between children's innocent hands and father's ruined face
+    focus: The touching moment between fallen king and innocent children who still love him
+    depth: Foreground shows detail of small hands on scarred face, middle ground captures intimate family moment, background
+      shows palace that witnessed his rise and fall
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

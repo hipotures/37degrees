@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1904 early evening, 6:00 PM, golden intellectual light
+    location: Interior of National Library reading room, Dublin's temple of learning
+    weather: Late afternoon light streaming through tall windows like divine illumination
+  characters:
+  - appearance: 22-year-old man of slender, almost frail build, hair standing up in disarray, intelligent and often brooding
+      facial expression, poor eyesight due to broken glasses day before, pale complexion suggesting indoor scholarly life
+    clothing: Worn black mourning attire for his mother consisting of threadbare black frock coat with frayed cuff edges and
+      shiny sleeves, black trousers, wide-brimmed Latin Quarter style hat, all clothing second-hand and showing poverty
+    position: Standing at center of reading room, delivering impromptu lecture on Shakespeare, surrounded by intellectual
+      audience
+    action: Expounding artistic theory with passionate conviction, seeing himself as prophet of new artistic consciousness,
+      gripping ashplant as staff of intellectual authority
+  scene:
+    mainElements: National Library reading room transformed through Stephen's elevated consciousness into cathedral of pure
+      thought, tall shelves of books becoming pillars of intellectual temple, scholarly atmosphere providing worthy setting
+      for artistic revelation
+    details: Through Stephen's self-aggrandizing artistic vision, library details become props in drama of intellectual martyrdom
+      - his threadbare clothing appearing as noble poverty chosen for art's sake, ashplant walking stick transformed into
+      prophet's staff, attentive audience suggesting recognition of his genius, books surrounding him representing tradition
+      he will transcend, afternoon light through windows providing divine illumination of artistic mission, reading tables
+      becoming altars of scholarship, silence of library emphasizing sacred nature of intellectual discourse, his passionate
+      gestures suggesting prophet delivering revelation
+    background: Stephen's self-heroizing perspective transforms library into stage for artistic destiny - towering bookshelves
+      representing accumulated human wisdom awaiting his synthesis, institutional architecture providing worthy frame for
+      his intellectual performance
+    atmosphere: Intellectual exaltation filtering through Stephen's artistic ego, sense of destiny and martyrdom for artistic
+      truth, profound conviction in his role as cultural savior, library transformed into temple of pure thought where authentic
+      genius can flourish, late afternoon light suggesting divine approval of artistic mission, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot emphasizing Stephen's prophetic bearing as he delivers his artistic revelation
+    focus: Stephen's passionate expression of artistic conviction, seeing himself as prophet of new consciousness
+    depth: Foreground shows Stephen in his moment of intellectual triumph, middle ground captures attentive scholarly audience,
+      background reveals library architecture providing cathedral setting for artistic revelation
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

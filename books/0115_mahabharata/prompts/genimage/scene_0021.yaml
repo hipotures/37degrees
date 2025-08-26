@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, late afternoon
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Harsh sunlight creating strong shadows
+  characters:
+  - appearance: Male, 80+ years old, niewidomy z zamkniętymi lub mlecznobiałymi oczami, potężna silna budowa zdolna kruszyć
+      żelazo
+    clothing: Bogate królewskie szaty
+    position: Seated on throne within architectural frame
+    action: Zazwyczaj na tronie bezradny mimo fizycznej siły
+  scene:
+    mainElements: King framed by massive stone doorway arch, throne positioned to emphasize imprisonment within royal duty,
+      architectural elements creating cage-like effect
+    details: Ornate doorway creating natural frame around blind king, shadows from arch creating bar-like patterns across
+      figure, rich throne contrasting with moral emptiness, royal regalia appearing as chains of duty, no text or letters
+      visible
+    background: Palace architecture visible through frame showing luxury that cannot compensate for moral blindness, courtiers
+      moving beyond frame suggesting isolation
+    atmosphere: Moral imprisonment despite physical luxury, sounds of court business muffled by architectural barriers, isolation
+      within power
+  composition:
+    cameraAngle: Medium shot through architectural frame emphasizing containment
+    focus: Blind king literally and figuratively imprisoned by royal duties and moral failures
+    depth: Foreground stone arch frame, middle ground enthroned figure, background palace architecture suggesting escape impossible,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

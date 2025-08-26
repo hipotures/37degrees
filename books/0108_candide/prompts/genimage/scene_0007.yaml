@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, late afternoon
+    location: Dark, brudny uliczka w holenderskim mieście, damp alleyway
+    weather: Light rain falling, creating puddles
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Now clean and well-dressed thanks to James's kindness
+    position: Bending down toward grotesque figure, face showing shock and disbelief
+    action: Recoils in horror at recognition, then leans closer with mixture of pity and amazement at teacher's condition
+  - appearance: '45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten
+      nose, twisted mouth, black teeth. Missing one eye and one ear after treatment'
+    clothing: Dirty rags, completely transformed from former academic dignity
+    position: Propped against damp alley wall, almost unrecognizable as human
+    action: Despite horrific physical state, gestures with same scholarly precision, explaining with academic detachment the
+      genealogy of his disease back to Columbus's companions
+  scene:
+    mainElements: Narrow Dutch alley with wet cobblestones, damp brick walls, refuse scattered about, architectural details
+      of typical Amsterdam back street
+    details: Pangloss's physical destruction is complete - every detail of his face shows syphilis ravages. Yet his manner
+      remains unchanged, discussing his condition with same philosophical enthusiasm he once showed for abstract theories.
+      Candide's clean appearance contrasts starkly with teacher's degradation.
+    background: Characteristic Dutch architecture with narrow houses, small windows, canal visible at alley's end, few passersby
+      avoiding the begging scene
+    atmosphere: Grotesque juxtaposition of intellectual persistence and physical ruin. Dark gray light of alley emphasizing
+      squalor. Smell of dampness and decay. Philosophy meeting brutal reality yet remaining stubbornly abstract.
+  composition:
+    cameraAngle: Medium close-up capturing both the horror of Pangloss's condition and his unchanged intellectual arrogance
+    focus: Contrast between Pangloss's ruined face and his animated gesturing as he philosophizes about his condition
+    depth: Foreground shows the philosophical discussion amid squalor, middle ground the narrow alley, background the indifferent
+      Dutch urban environment
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

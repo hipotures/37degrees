@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, night
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Storm at full fury with driving rain and constant lightning illuminating the scene
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Standing in center of courtyard, arms spread wide in gesture of complete devastation
+    action: Face contorted in silent scream of realization, mouth open in voiceless agony, royal posture completely collapsed
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Simple but heavy gold circlet fallen from head and lying in growing puddles on cracked stones. Long staff topped
+      with royal emblem abandoned and rolling in wind. Rain soaking through royal garments, turning crimson himation dark
+      as blood. Lightning creating stark white illumination alternating with complete darkness. Courtyard stones reflecting
+      lightning like broken mirrors. No text or letters visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, ancient stones streaming
+      with rain, appearing like weeping face
+    atmosphere: Peak moment of devastating realization, universe splitting apart with revelation, maximum emotional breaking
+      point
+  composition:
+    cameraAngle: Dramatic close-up on Oedipus's face at moment of complete understanding and horror
+    focus: The precise moment when all illusions shatter and truth destroys everything
+    depth: Foreground shows rain-soaked royal regalia scattered on stones, middle ground captures his devastated figure, background
+      shows palace weeping with rain
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

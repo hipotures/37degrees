@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late afternoon, Arabian desert
+    location: Remote desert landscape with rocky outcroppings and hidden cave entrance
+    weather: Hot desert day with harsh sunlight and heat shimmer
+  characters:
+  - appearance: Elderly man with cunning features and calculating eyes, long gray beard, mysterious bearing suggesting supernatural
+      knowledge
+    clothing: Dark traveling robes suitable for desert journey, pointed cap or turban, carrying staff or walking stick, amulets
+      visible
+    position: Approaching cave entrance with cautious but determined stride
+    action: Examining rocky cliff face searching for hidden entrance, muttering incantations
+  - appearance: Young man aged 18 years, lean and agile build, quick intelligent brown eyes, short dark hair, smooth youthful
+      face, medium height with energetic bearing
+    clothing: Initially worn and patched clothing of poor youth, later magnificent princely silk robes with jeweled belt and
+      fine leather shoes
+    position: Alert and ready to move quickly, sometimes nervous fidgeting when uncertain
+    action: Moving with youthful energy, handling objects with curiosity, expressing wonder at magical discoveries
+  scene:
+    mainElements: Barren desert landscape with sandstone cliffs and rocky formations, hidden cave entrance barely visible
+      in cliff face, scattered rocks and minimal vegetation
+    details: Heat waves rising from sun-baked rocks, sand dunes extending to horizon, sparse thorny bushes clinging to rocky
+      ground, shadows providing small relief from harsh sun, ancient weathered stone formations, no text or letters visible
+    background: Endless desert stretching to distant mountains, blue sky with no clouds, vultures circling overhead
+    atmosphere: Mysterious and foreboding, oppressive desert heat, sense of ancient secrets hidden in landscape, tension between
+      youth and age, supernatural danger lurking
+  composition:
+    cameraAngle: Medium shot emphasizing isolation in vast desert
+    focus: Two figures against imposing landscape showing human vulnerability
+    depth: Rocky cave area in foreground, figures in middle ground, infinite desert in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

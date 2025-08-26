@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, afternoon sunlight
+    location: Ancient Mesopotamian city-state Uruk in Sumer, between Tigris and Euphrates rivers, heart of early civilization
+    weather: Bright sunny day with harsh desert heat
+  characters: No characters present in this scene
+  scene:
+    mainElements: Heavy bronze chains lying on stone courtyard with large lock hanging open, one end secured to massive stone
+      pillar, other end free and coiled
+    details: Thick bronze chain links each as large as a man's fist, ancient patina covering metal surfaces, heavy lock crafted
+      with intricate geometric patterns now hanging open with key still inserted, stone pillar carved with royal symbols showing
+      wear from chains rubbing against it over years
+    background: Massive nine-kilometer defensive walls of fired brick gleaming copper-like in sunlight, crowned with battlements,
+      reinforced with regularly spaced towers, representing boundary between civilization's order and nature's chaos
+    atmosphere: Sense of recent liberation or abandonment, contrast between heavy restraint and sudden freedom, harsh sunlight
+      creating strong shadows, no text or letters visible
+  composition:
+    cameraAngle: Eye level focusing on the dramatic contrast between chains and open lock
+    focus: Open lock with key as symbol of freedom from bondage
+    depth: Foreground shows chain details and open lock, middle ground shows stone pillar and courtyard, background shows
+      defensive walls of Uruk
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

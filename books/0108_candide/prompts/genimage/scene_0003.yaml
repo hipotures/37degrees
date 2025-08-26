@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, cold winter morning
+    location: Public square in Waldberghofftrarbk-dikdorff, small German town near Westphalia
+    weather: Gray overcast sky, bitter wind, light snow beginning to fall
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Torn and dirty simple clothes from being expelled from castle, shivering without proper coat
+    position: Huddled on wooden bench near town square, clearly hungry and cold
+    action: Looks up with desperate hope as two soldiers approach, gratitude and relief evident in his expression
+  - appearance: Tall imposing soldier, exactly six feet in height, stern military bearing but wearing false smile
+    clothing: 'Immaculate Prussian military uniform: dark blue coat with red facings, white trousers, high gaiters, perfectly
+      polished boots'
+    position: Standing confidently before seated Candide, hand extended in false friendship
+    action: Broad insincere grin while extending invitation to dinner, eyes calculating and predatory despite friendly words
+  - appearance: Second tall soldier matching his companion, equally intimidating presence
+    clothing: Matching Prussian uniform in perfect condition, brass buttons gleaming
+    position: Flanking first soldier, blocking potential escape routes
+    action: Nodding agreement with companion's false kindness, hand resting meaningfully on sword hilt
+  scene:
+    mainElements: Simple German town square with half-timbered buildings, cobblestone ground, few civilians hurrying past
+      in cold weather
+    details: Soldiers' uniforms pristine and intimidating compared to Candide's ragged appearance. Their smiles don't reach
+      their calculating eyes. Snow begins collecting on Candide's shoulders. Town square mostly empty due to harsh weather,
+      emphasizing his isolation.
+    background: Gray stone church, wooden merchant stalls mostly closed due to cold, smoking chimneys from houses. Architecture
+      simple and practical, reflecting border town's modest prosperity
+    atmosphere: False warmth masking predatory intent. Bitter cold emphasizing Candide's vulnerability. Color palette dominated
+      by military blue and red against gray winter sky. Deceptive kindness hiding trap.
+  composition:
+    cameraAngle: Medium shot at eye level capturing the false friendliness of the encounter
+    focus: Contrast between soldiers' false smiles and Candide's grateful innocent expression
+    depth: Foreground shows the deceptive recruitment, middle ground the empty square, background the indifferent town architecture
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

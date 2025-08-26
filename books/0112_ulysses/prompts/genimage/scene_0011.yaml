@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1904 early morning, 8:30 AM, magical morning light
+    location: Base of Martello Tower looking up, Sandycove coastal area
+    weather: Bright morning with playful sunlight creating shadows and mystery
+  characters:
+  - appearance: Small child from nearby cottage, wide curious eyes, simple clothing, innocent wonder at large world
+    clothing: Simple working-class child's outfit, sturdy boots for coastal walking, weather-worn but clean
+    position: Standing far below tower, neck craned back to see enormous stone structure above
+    action: Gazing up at tower with mixture of awe and slight fear, imagining stories about the giant castle and its mysterious
+      inhabitants
+  scene:
+    mainElements: Martello Tower transformed through child's imagination into massive fairytale castle of enormous proportions,
+      circular stone walls appearing impossibly tall and thick like giant's fortress, narrow windows becoming mysterious eyes
+      watching from great height
+    details: Through child's wondering eyes, tower becomes magical structure - stone walls appearing thick as castle ramparts
+      built by giants, circular shape suggesting enchanted roundness of fairytale architecture, height seeming to touch clouds
+      like beanstalk tower, narrow windows appearing as mysterious dark eyes watching from impossible distance above, iron
+      door looking massive and forbidding like entrance to giant's lair, coastal rocks around base becoming scattered boulders
+      thrown by ancient giants, morning shadows creating mysterious patterns that could hide treasures or dangers, seagulls
+      circling tower appearing as guardian spirits of castle, sound of waves suggesting mysterious voices
+    background: Child's perspective transforms coastal landscape into enchanted realm - Dublin Bay stretching to horizon like
+      endless magical ocean, distant hills appearing as sleeping giants, other buildings seeming tiny compared to tower's
+      majesty
+    atmosphere: Pure childhood wonder filtering through innocent imagination, sense of world filled with magic and possibility,
+      tower transformed from military structure into fairytale castle where anything could happen, morning light creating
+      sense of adventure and discovery, mixture of awe and delicious fear appropriate to encountering giants' domain, no text
+      or letters visible
+  composition:
+    cameraAngle: Extreme low angle from child's height, emphasizing tower's impossible scale and magical presence
+    focus: Child's expression of pure wonder and slight apprehension as they contemplate the giant's castle above
+    depth: Foreground shows child tiny against massive stone base, middle ground captures tower's overwhelming scale, background
+      suggests endless magical possibilities of coastal landscape
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

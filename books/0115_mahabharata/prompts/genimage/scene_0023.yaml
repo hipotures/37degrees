@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, night
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Dark night with minimal torchlight
+  characters:
+  - appearance: Male, 30-35 years old, potężna muskularna atletyczna budowa, górna część ciała twarda jak diament
+    clothing: Dark robes for secretive meeting, rich but muted colors
+    position: Standing in torchlight surrounded by shadows
+    action: Arogancka postawa potężnego wojownika mistrza maczugi
+  - appearance: Male, 60+ years old, być może odmienny wygląd z regionu Gandhary, chytry podstępny wyraz twarzy
+    clothing: Ciemne podstępne szaty
+    position: Partially hidden in shadows, face lit by flickering torch
+    action: Postawa mistrza intrygi kusiciela
+  scene:
+    mainElements: Dark palace corridor with single torch creating dramatic shadows, conspirators meeting in secret, shadow
+      bars falling across faces like prison
+    details: Torch flame casting moving shadows across stone walls, shadow bars falling across conspiring figures like moral
+      imprisonment, whispered conversation in darkness, faces partially illuminated revealing scheming expressions, no text
+      or letters visible
+    background: Dark palace architecture with deep shadows, suggestion of hidden passages and secret meetings, minimal light
+      revealing only essential details
+    atmosphere: Sinister plotting in darkness, whispered conspiracies, sounds of footsteps echoing in stone corridors, atmosphere
+      of betrayal and moral corruption
+  composition:
+    cameraAngle: Medium shot with shadows creating frame bars across conspiring figures
+    focus: Conspiracy taking shape in darkness with shadow frames suggesting moral imprisonment
+    depth: Foreground torch and moving shadows, middle ground illuminated conspirators, background dark architecture hiding
+      other secrets, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

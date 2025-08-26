@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1820, 1845, and 1870 - same spring morning
+    location: Small London parish church with stone arches and wooden pews
+    weather: Bright spring morning with identical lighting across decades
+  characters:
+  - appearance: Young woman in early 20s with bright hopeful eyes, gentle smile, wearing traditional white dress
+    clothing: Simple white wedding gown appropriate to each era, modest veil, carrying same family flowers
+    position: Standing at altar in identical ceremony position
+    action: Taking marriage vows with same traditional words
+  - appearance: Young man in 20s with earnest expression, clean-shaven face, dressed in best formal attire
+    clothing: Wedding suit style appropriate to each decade but same formal black
+    position: Standing beside bride at altar
+    action: Exchanging rings and vows in traditional ceremony
+  scene:
+    mainElements: Triple temporal overlay showing three generations of family weddings in same church location - grandmother's
+      1820 ceremony, mother's 1845 wedding, daughter's 1870 celebration, identical altar position and ceremony structure
+    details: Wedding tradition continuity - same altar rail worn smoother by decades of ceremonies, identical prayer books
+      used across generations but pages more yellowed, church pews occupied by different generations of same families, wedding
+      flowers changing species but same arrangement style, ring ceremony identical across decades, organ music same hymns
+      but different organists, stained glass windows showing accumulated dust and cleaning cycles, altar candles same positioning
+      but different stages of burning, no text or letters visible
+    background: Church interior showing subtle decades of change - stone walls slightly more weathered, wooden fixtures darkened
+      by age, memorial plaques added over time, same religious artwork maintained
+    atmosphere: Sacred continuity of marriage tradition, echoing vows across generations in same acoustic space, scent of
+      different seasonal flowers but same ceremonial incense, light filtering through same windows at identical spring morning
+      angle
+  composition:
+    cameraAngle: Wide shot from back of church showing altar ceremonies across time
+    focus: Altar area where generational wedding traditions maintained
+    depth: Foreground shows pew details across decades, middle ground reveals altar ceremony continuity, background displays
+      church architectural aging
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

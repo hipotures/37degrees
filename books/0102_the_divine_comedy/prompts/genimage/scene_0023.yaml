@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Good Friday 33 AD, moment of Christ's death affecting all spiritual realms
+    location: Hell during cosmic earthquake that restructured underworld at moment of salvation
+    weather: Supernatural seismic activity reshaping spiritual geography
+  characters: No characters present in this scene
+  scene:
+    mainElements: Massive earthquake reshaping Hell's architecture, rocky walls cracking and reforming, bridges collapsing
+      and new passages opening, Limbo being emptied as righteous souls ascend
+    details: Ancient stone walls of Hell cracking along natural fault lines, massive rockfalls creating new landscapes and
+      blocking old passages. Stone bridges spanning infernal rivers collapsing into rubble, their medieval architecture unable
+      to withstand divine seismic forces. New chasms opening in rock floors, revealing deeper caverns previously hidden. Ancient
+      gates and barriers being shattered, their iron hinges torn from stone foundations. Underground rivers changing course
+      as their channels are blocked or diverted by fallen rock. Architectural elements from different historical periods -
+      classical, early Christian, medieval - all being simultaneously affected by cosmic earthquake.
+    background: Distant view showing extent of geological transformation throughout Hell's levels, occasional glimpses of
+      souls being lifted upward toward divine light
+    atmosphere: Cosmic significance of Christ's sacrifice affecting physical structure of spiritual realms, sense of divine
+      intervention reshaping eternal justice, hope entering realm of despair
+  composition:
+    cameraAngle: Seismic perspective showing the massive scale of geological transformation
+    focus: The physical reshaping of Hell's architecture at the moment of human salvation
+    depth: Foreground shows detailed rock formations and architectural collapse, middle ground displays broader geological
+      changes, background shows cosmic effects extending throughout spiritual realm
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

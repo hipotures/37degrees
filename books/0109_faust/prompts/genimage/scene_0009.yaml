@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 16th century, sunny afternoon in German university town
+    location: Cobblestone street outside Gothic church where Easter service has just concluded
+    weather: Bright spring sunshine, warm and inviting after winter
+  characters:
+  - appearance: Tall, lean figure with sharp aristocratic features. Pointed beard, ironically raised eyebrows, penetrating
+      dark eyes with intelligent, cynical gleam. Moves with predatory elegance, slight limp hinting at cloven hoof.
+    clothing: Scarlet red doublet with gold embellishments, black tight pants, short black cloak resembling bat wings, hat
+      with rooster feather
+    position: Standing in shadows between buildings, observing street scene with calculating gaze
+    action: Watching young Faust's crude attempt to approach Margarete with mixture of amusement and contempt
+  scene:
+    mainElements: Rejuvenated Faust attempting to offer his arm to modest young woman leaving church, her polite but firm
+      refusal, townspeople in Sunday best creating backdrop of respectable society
+    details: 'From Mephistopheles'' perspective, this scene reveals everything about human pretension: Faust, moments ago
+      a desperate scholar contemplating suicide, now acts the confident nobleman trying to seduce innocent girl. The irony
+      is perfect - man who spent lifetime seeking transcendent truth immediately pursues base physical desire when given youth
+      and power'
+    background: Gothic church facade with carved saints seeming to watch disapprovingly, half-timbered houses with overhanging
+      upper floors, townspeople in period dress observing social interactions
+    atmosphere: Surface respectability masking human appetites and social predation. Mephistopheles sees through veneer of
+      civilization to raw desires driving behavior
+  composition:
+    cameraAngle: From Mephistopheles' hidden position, showing his predatory observation of social interaction
+    focus: Contrast between Faust's attempted sophistication and Margarete's genuine modesty, with demon's cynical perspective
+      framing scene
+    depth: 'Foreground: Mephistopheles in shadows observing. Middle ground: Faust approaching Margarete on street. Background:
+      Church and townspeople representing social order'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

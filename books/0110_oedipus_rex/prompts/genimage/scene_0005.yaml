@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, midday
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: High sun casting short sharp shadows, intense heat on stone
+  characters:
+  - appearance: Leaner, more wiry man in his fifties, graying hair and beard neatly trimmed, intellectual strength rather
+      than physical, calm rational bearing
+    clothing: High-quality but modest linen chiton and wool himation in subdued earth tones - olive green, gray, or dark blue,
+      practical rather than luxurious
+    position: Standing respectfully at base of palace steps, maintaining proper distance from royal authority
+    action: Speaking with measured calm and logical gestures, presenting himself as reliable counselor
+  - appearance: Group of 12-15 respected elderly men aged 60-70, varying builds but all showing dignity of age, all with gray
+      or white hair and beards signifying elder status
+    clothing: Identical formal robes - dark himatia over simple chitones to give unified visual identity, somber uniform colors
+      like dark gray or deep blue
+    position: Arranged in respectful semi-circle around the courtyard
+    action: Moving and reacting as unified group, faces serving as emotional barometer of the drama
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Clear hierarchy visible in positioning - steps create levels of authority with royal family above, advisors and
+      chorus at ground level. Everyone maintaining proper social distances and respectful postures. Shadows of palace columns
+      creating geometric patterns across the scene. Simple leather sandals on practical men, gold ornamentation on royalty.
+      No text or letters visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, showing the seat of established
+      power
+    atmosphere: Stable social order with everyone knowing their place and role, respectful interaction between different levels
+      of society
+  composition:
+    cameraAngle: Wide establishing shot showing full courtyard and social arrangement
+    focus: The hierarchical arrangement of figures showing established social order
+    depth: Foreground shows chorus members, middle ground captures Creon and palace steps, background shows palace architecture
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE Mesopotamia, dawn light
+    location: Wild Mesopotamian steppes beyond city walls, endless grassland where wild creatures roam
+    weather: Clear morning with gentle wind in grass
+  characters:
+  - appearance: Body completely covered in thick matted hair, exceptionally long head hair flowing like uncut grain, wild
+      alert eyes unfamiliar with human gaze
+    clothing: Completely naked, natural state without any garments
+    position: Moving in animal-like manner, often on four limbs or low crouching run
+    action: Drinking water by lying on belly like gazelles, destroying hunter traps to protect animal companions
+  scene:
+    mainElements: Plain bronze mirror lying half-buried in sandy earth, its polished surface reflecting sky and clouds, steppe
+      grasses waving around it
+    details: Mirror surface shows perfect reflection of morning sky with wispy clouds, bronze metal dulled by exposure but
+      still functional, partially covered by fine desert sand and dried grass stems, no decorative elements just pure utilitarian
+      bronze disc
+    background: Endless steppe horizon with scattered acacia trees, tracks of various animals in soft earth, distant mountains
+      barely visible in morning haze
+    atmosphere: Peaceful natural world where civilization's objects seem foreign and out of place, sense of something valuable
+      abandoned in wilderness, no text or letters visible
+  composition:
+    cameraAngle: Ground level showing mirror from close perspective
+    focus: Bronze mirror as symbol of self-reflection and identity waiting to be discovered
+    depth: Foreground shows mirror details and immediate earth, middle ground shows character in natural habitat, background
+      shows vast open steppe
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

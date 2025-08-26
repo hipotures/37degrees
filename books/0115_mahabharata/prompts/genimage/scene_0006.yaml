@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Ancient capital of Kuru kingdom in northern India during Iron Age, fortified city with wooden gates earthen
+      ramparts and sprawling courtyards, early iron age architecture of wood mud brick and earth
+    weather: Oppressive heat with stifling atmosphere
+  characters:
+  - appearance: Male, 30-35 years old, smukła szczupła budowa ciała, duże oczy, wydatny nos, pure gold karnacja
+    clothing: Białe lub szafranowe jedwabie i lna ozdobione dyskretną złotą biżuterią, prosta korona symbolizująca prawość
+    position: Seated at gaming board in assembly hall
+    action: Spokojna opanowana mimika naznaczona wewnętrznym cierpieniem i poczuciem odpowiedzialności
+  scene:
+    mainElements: Gaming board with dice in center of ornate assembly hall, ivory gaming pieces scattered across surface,
+      tense court officials surrounding playing area
+    details: Sweat beading on forehead despite royal composure, hands trembling slightly over dice, gaming board carved with
+      intricate patterns, shadows cast by oil lamps, no text or letters visible
+    background: Blurred assembly hall with courtiers watching in horrified fascination, ornate pillars and royal tapestries
+      out of focus
+    atmosphere: Crushing moral weight and internal conflict, sounds muffled except for dice clicking, air thick with anticipation
+      and dread
+  composition:
+    cameraAngle: Extreme close-up on face showing micro-expressions of internal struggle
+    focus: Eyes and facial features revealing devastating moral collapse under pressure
+    depth: Sharp focus on eyes and expression, shallow depth with gaming board slightly blurred, background completely out
+      of focus, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

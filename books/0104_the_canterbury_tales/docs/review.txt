@@ -1,0 +1,990 @@
+﻿Kompleksowa Analiza Dzieła "Opowieści Kanterberyjskie" Geoffreya Chaucera na Potrzeby Adaptacji Wizualnej
+
+
+
+
+CZĘŚĆ I: WPROWADZENIE
+
+
+
+
+Informacje bibliograficzne
+
+
+
+
+Pełny tytuł i podtytuł
+
+
+Pełny, powszechnie przyjęty tytuł dzieła to The Canterbury Tales.1 W historii literatury nie utrwalił się żaden formalny podtytuł. Wczesne manuskrypty, takie jak słynny Rękopis Ellesmere, zawierają ilustracje przedstawiające każdego z pielgrzymów, co stanowi jedno z najwcześniejszych i najważniejszych źródeł dla wizualnej interpretacji postaci i będzie wielokrotnie przywoływane w niniejszym raporcie.
+
+
+Autor (krótka biografia w kontekście książki)
+
+
+Autorem dzieła jest Geoffrey Chaucer, urodzony około 1342/43 roku w Londynie, zmarły 25 października 1400 roku.1 Jego postać ma fundamentalne znaczenie dla zrozumienia
+Opowieści Kanterberyjskich, ponieważ nie był on poetą odizolowanym od świata, lecz człowiekiem głęboko osadzonym w strukturach politycznych, społecznych i ekonomicznych XIV-wiecznej Anglii. Jego kariera jako dworzanina, dyplomaty i urzędnika państwowego w służbie trzech kolejnych królów – Edwarda III, Ryszarda II i Henryka IV – zapewniła mu wyjątkowy wgląd we wszystkie warstwy społeczeństwa.1 Pochodził z zamożnej rodziny mieszczańskiej; jego ojciec był wpływowym londyńskim handlarzem winem, co sytuowało Chaucera w sercu rosnącej w siłę klasy średniej.1
+To właśnie to bogate, światowe doświadczenie stanowi bezpośrednie źródło dla żywych, realistycznych i często satyrycznych portretów pielgrzymów. Misje dyplomatyczne, które odbywał do Flandrii, Francji, a zwłaszcza do Włoch, pozwoliły mu zapoznać się z twórczością Dantego, Petrarki i Boccaccia. Dzieło tego ostatniego, Dekameron, z jego strukturą opowieści ramowej, jest uznawane za jedną z głównych inspiracji dla kompozycji Opowieści Kanterberyjskich.6 Chaucer nie tworzył w akademickiej próżni; pisał z perspektywy urzędu celnego, dworu królewskiego i gościńców Anglii, obserwując z bliska kupców, żołnierzy, prawników i duchownych, których później uwiecznił w swoim poemacie.
+
+
+Data pierwszego wydania
+
+
+Opowieści Kanterberyjskie powstawały etapami, w przybliżeniu między rokiem 1387 a śmiercią Chaucera w 1400.1 Dzieło pozostało niedokończone, co jest kluczowym faktem dla jego interpretacji.1 W epoce przed wynalezieniem druku utwór krążył w formie ręcznie kopiowanych manuskryptów. Najwcześniejsze i najważniejsze z nich, takie jak wspomniany Rękopis Ellesmere oraz Rękopis Hengwrt, pochodzą z początku XV wieku.2 Pierwsze wydania drukowane pojawiły się znacznie później; przełomowym momentem była edycja Williama Caxtona z połowy lat 70. XV wieku, która ugruntowała kanoniczną pozycję dzieła.5
+
+
+Gatunek literacki
+
+
+Dzieło należy do gatunku opowieści ramowej (frame narrative), w której nadrzędna historia – pielgrzymka do Canterbury – stanowi ramę dla serii 24 opowieści wierszem (oraz dwóch prozatorskich).1 Poszczególne opowieści reprezentują szerokie spektrum średniowiecznych gatunków literackich, co świadczy o mistrzostwie i wszechstronności Chaucera. Wśród nich znajdują się:
+* Romans rycerski: Gatunek opowiadający o miłości, honorze i przygodach rycerzy. Przykłady: Opowieść Rycerza, Opowieść Żony z Bath.7
+* Fabliau: Krótka, komiczna i często sprośna opowieść wierszowana, popularna w średniowiecznej Francji, zazwyczaj ośmieszająca ludzką chciwość i pożądliwość. Przykłady: Opowieść Młynarza, Opowieść Wójta.5
+* Kazanie (sermon) i exemplum: Opowieść ilustrująca morał, często wykorzystywana w kaznodziejstwie. Przykład: Opowieść Odpustnika.7
+* Bajka zwierzęca (beast fable): Alegoryczna opowieść, w której zwierzęta zachowują się jak ludzie, aby zilustrować ludzkie wady i cnoty. Przykład: Opowieść Kapelana Przeoryszy.11
+
+
+Przynależność do nurtu literackiego
+
+
+Dzieło jest kwintesencją literatury późnego średniowiecza i najważniejszym zabytkiem literatury średnioangielskiej (Middle English Literature).5 Decyzja Chaucera o pisaniu w języku narodowym (wernakularnym) – średnioangielskim – zamiast w bardziej prestiżowej łacinie (języku Kościoła) czy francuskim (języku dworu), była aktem o ogromnym znaczeniu. Przyczyniła się do nobilitacji języka angielskiego i ustanowienia go jako pełnoprawnego medium literackiego, zdolnego do wyrażania zarówno wzniosłych idei filozoficznych, jak i dosadnego humoru.6
+
+
+Okładka
+
+
+Współczesne pojęcie okładki nie ma zastosowania do oryginalnej formy dzieła. Wczesne wersje były luksusowymi, ręcznie iluminowanymi manuskryptami. Jak wspomniano, Rękopis Ellesmere (powstały ok. 1400-1410) jest wyjątkowy, ponieważ zawiera 23 miniatury przedstawiające pielgrzymów na koniach. Te wczesne ilustracje są nieocenionym źródłem wiedzy o tym, jak współcześni Chaucerowi wyobrażali sobie wygląd postaci, ich ubiór, status społeczny i typ konia, na którym podróżowali. Są one de facto pierwszą "adaptacją wizualną" dzieła i stanowią punkt odniesienia dla wszelkich późniejszych interpretacji graficznych.
+
+
+Kontekst powstania
+
+
+
+
+Okoliczności napisania książki
+
+
+Chaucer najprawdopodobniej tworzył Opowieści w późniejszym okresie swojego życia, być może po wycofaniu się z bardziej absorbujących obowiązków publicznych i zamieszkaniu w hrabstwie Kent.4 Dzieło stanowi syntezę jego życiowych obserwacji i doświadczeń. Pierwotny zamysł był niezwykle ambitny: każdy z około 30 pielgrzymów miał opowiedzieć po dwie historie w drodze do Canterbury i dwie w drodze powrotnej, co dałoby łącznie około 120 opowieści. Ostatecznie Chaucer zdołał ukończyć jedynie 24 z nich, a narracja urywa się, zanim pielgrzymi dotarli do celu.2 Ta niedokończona forma nadaje dziełu otwarty charakter, prowokując do nieustannych debat na temat ostatecznej intencji autora.
+
+
+Inspiracje autora
+
+
+Inspiracje Chaucera miały dwojaki charakter: literacki i osobisty. W sferze literackiej, oprócz wspomnianego Dekameronu Boccaccia, który dostarczył wzoru dla struktury ramowej, istotny wpływ wywarły francuskie fabliaux, stanowiące źródło dla opowieści komicznych, oraz pisma filozoficzne Boecjusza, zwłaszcza O pocieszeniu, jakie daje filozofia, którego echa pobrzmiewają w Opowieści Rycerza.5 Jednak kluczowa była inspiracja płynąca z życia. Codzienne interakcje z przedstawicielami różnych stanów w Londynie i na dworze królewskim dostarczyły mu materiału do stworzenia barwnej galerii postaci. Sama pielgrzymka była w XIV wieku zjawiskiem powszechnym i, co najważniejsze, egalitarnym – gromadziła ludzi ze wszystkich warstw społecznych, od rycerzy po oraczy. To czyniło ją idealnym pretekstem do zaprezentowania przekroju całego społeczeństwa.2
+
+
+Recepcja krytyczna i czytelnicza
+
+
+Dzieło zdobyło popularność niemal natychmiast po powstaniu. Świadczy o tym duża liczba zachowanych manuskryptów (ponad 80 spisanych przed 1500 rokiem), co dowodzi szerokiej cyrkulacji tekstu jeszcze przed erą druku.2 Wczesne pochwały płynęły od poetów takich jak John Lydgate, który widział w Chaucerze "ojca angielskiej poezji".13 Co ciekawe, sprośny charakter niektórych opowieści, jak
+Opowieść Młynarza, nie był głównym źródłem kontrowersji. Uznawano to raczej za mistrzowskie podniesienie "niskiego" gatunku do rangi sztuki. Znacznie bardziej dosadna i potencjalnie niebezpieczna była ostra satyra na duchowieństwo. W epoce Wielkiej Schizmy i rosnącej krytyki instytucji kościelnych, portrety chciwego Odpustnika, lubieżnego Kwestarza czy zepsutego Mnicha miały potężny ładunek krytyczny.13
+
+
+CZĘŚĆ II: TŁO I KONTEKST
+
+
+
+
+Miejsce akcji
+
+
+
+
+Dokładny opis lokalizacji
+
+
+Główna akcja Opowieści Kanterberyjskich rozgrywa się w południowo-wschodniej Anglii, na historycznym szlaku pielgrzymkowym o długości około 90 km, wiodącym z Londynu do Canterbury.2 Wątek ramowy obejmuje trzy kluczowe przestrzenie: punkt wyjścia, drogę oraz cel podróży.
+1. Southwark, Londyn: Dzielnica położona na południowym brzegu Tamizy, stanowiąca bramę do Londynu dla podróżnych z południa. To tutaj, w gospodzie "Pod Tabardem" (The Tabard Inn), spotykają się pielgrzymi.2
+2. Droga do Canterbury: Historyczny trakt znany jako Watling Street, jedna z najstarszych dróg w Brytanii, wytyczona jeszcze przez Rzymian.15 W czasach Chaucera była to główna arteria komunikacyjna regionu.
+3. Canterbury: Historyczne miasto w hrabstwie Kent, cel pielgrzymki. Centralnym punktem jest Katedra Kanterberyjska, a w niej – niegdyś bogato zdobiony – grobowiec św. Tomasza Becketa, arcybiskupa zamordowanego w 1170 roku.2
+Oprócz tego, każda z opowieści ma swoje własne, odrębne miejsce akcji, które jest kluczowe dla jej charakteru. Są to zarówno lokalizacje realistyczne, jak dom cieśli w Oksfordzie (Opowieść Młynarza), jak i mityczne oraz historyczne, takie jak starożytne Teby i Ateny (Opowieść Rycerza) czy legendarny dwór króla Artura (Opowieść Żony z Bath). Ta różnorodność miejsc akcji pozwala Chaucerowi na eksplorację odmiennych konwencji literackich i wizualnych.
+
+
+OPIS WIZUALNY MIEJSC (OBOWIĄZKOWY)
+
+
+
+
+Gospoda "Pod Tabardem" (The Tabard Inn), Southwark (ok. 1387)
+
+
+* Architektura: Na podstawie opisów historycznych i zachowanych przykładów podobnych budowli, jak The George Inn, gospoda "Pod Tabardem" była typową XIV-wieczną karczmą z galerią (galleried coaching inn).16 Był to duży, dwu- lub trzypiętrowy budynek o konstrukcji szachulcowej (ciężkie, ciemne dębowe belki tworzące szkielet, z przestrzeniami wypełnionymi plecionką i gliną, tzw.
+wattle and daub), zbudowany wokół centralnego, brukowanego dziedzińca.14 Na wyższych piętrach znajdowały się otwarte, drewniane galerie, z których wchodziło się do izb gościnnych (
+chambres). Parter mieścił główną salę biesiadną, kuchnię i mniejsze izby (parlours).14 Dach był prawdopodobnie kryty dachówką ceramiczną lub łupkiem.18 Chaucer podkreśla, że stajnie były "wyde" (przestronne), co wskazuje na duży, dobrze prosperujący kompleks, zdolny pomieścić konie licznych gości.14
+* Kolory dominujące w scenerii: Paleta barw była ograniczona do naturalnych materiałów: ciemny brąz starych belek dębowych, bielone ściany, czerwień cegły i dachówki, szarość kamienia i bruku. Wnętrza były ciemne, z dominacją brązów i szarości.
+* Oświetlenie: Wnętrze głównej sali oświetlało przede wszystkim ogromne palenisko, rzucające ciepłe, migotliwe, pomarańczowe światło na twarze gości. Dodatkowym źródłem światła były łojowe świece i małe, najczęściej nieoszklone okna, które na noc zamykano drewnianymi okiennicami.19 Atmosfera wizualna była pełna głębokich cieni i kontrastów, a powietrze gęste od dymu.
+* Atmosfera (dźwięki, zapachy, temperatura): Southwark w XIV wieku było dzielnicą rozrywki, leżącą poza ścisłą jurysdykcją władz Londynu. Pełno tu było karczm, zamtuzów i miejsc walk zwierząt.14 Gospoda "Pod Tabardem" tętniła życiem – była głośna, zatłoczona i chaotyczna. W powietrzu unosił się zapach dymu drzewnego, pieczonego mięsa, rozlanego piwa, końskiego potu z pobliskich stajni i niemytych ciał.14 Dźwięki to gwar rozmów, gromki śmiech, brzęk cynowych kufli, trzask ognia w kominie i rżenie koni z dziedzińca. Wewnątrz było gorąco i duszno.
+
+
+Droga z Londynu do Canterbury (Watling Street)
+
+
+   * Wygląd: Nie była to nowoczesna, utwardzona droga. Choć jej korzenie sięgały czasów rzymskich, w XIV wieku był to szeroki, bity trakt, w dużej mierze ziemny i żwirowy.15 Po deszczu zamieniał się w grzęzawisko pełne głębokich kolein. Po bokach drogi rozciągały się trawiaste pobocza. Szlak wiódł przez typowy dla Kentu krajobraz: mozaikę otwartych pól uprawnych, pastwisk, niewielkich lasów i zagajników (
+groves) oraz nielicznych wiosek i osad.21 Horyzont był otwarty, przerywany jedynie liniami drzew i wieżami kościołów.
+   * Wizualne markery: Podróż urozmaicały nieliczne karczmy i gospody, często z prostym, malowanym szyldem. Co jakiś czas pielgrzymi mijali chłopów pracujących w polu, pasterzy ze stadami owiec czy wozy kupieckie. Droga była niebezpieczna; podróż w grupie, jak czynią to pielgrzymi Chaucera, zapewniała ochronę przed rabusiami.2
+
+
+Katedra w Canterbury (ok. 1387)
+
+
+      * Architektura: Arcydzieło angielskiego gotyku.23 Z daleka widoczna była masywna, kamienna bryła z centralną wieżą. Styl architektoniczny charakteryzują strzeliste łuki, sklepienia krzyżowo-żebrowe, ogromne witraże i system łęków przyporowych (tzw.
+flying buttresses), które pozwalały na wzniesienie wysokich, ażurowych ścian.24 Wnętrze sprawiało wrażenie ogromnej, niemal nieskończonej przestrzeni. Kamienne kolumny, niczym pnie drzew, pięły się ku górze, tworząc wrażenie kamiennego lasu.
+      * Grobowiec św. Tomasza Becketa: Cel pielgrzymki znajdował się w Kaplicy Trójcy Świętej, we wschodniej części katedry. Była to niezwykle bogata konstrukcja, ociekająca złotem i wysadzana drogocennymi kamieniami, które lśniły w świetle świec i witraży. Był to olśniewający widok, zaprojektowany, by wzbudzać podziw i religijną ekstazę. (Grobowiec został zniszczony w XVI wieku podczas reformacji, więc jego wygląd opieramy na opisach z epoki).
+
+
+Czas akcji
+
+
+
+
+Konkretny okres historyczny
+
+
+Akcja ramowa dzieła toczy się w konkretnym czasie: pod koniec XIV wieku, najprawdopodobniej w latach 80..1 Jest to okres głębokich przemian społecznych, politycznych i religijnych, co znajduje bezpośrednie odzwierciedlenie w charakterystyce postaci i tematach opowieści. Czas trwania akcji ramowej to kilka dni – czas potrzebny na podróż z Londynu do Canterbury.
+
+
+WIZUALNE MARKERY EPOKI
+
+
+         * Stroje charakterystyczne dla okresu: Ubiór był najważniejszym wizualnym wyznacznikiem statusu społecznego, zawodu i charakteru postaci.25
+         * Arystokracja i rycerstwo (Rycerz, Giermek): Rycerz, jako weteran, nosi praktyczny, poplamiony kaftan z grubego płótna (gypon), który zakładał pod kolczugę (habergeon).25 Jego strój jest funkcjonalny, a nie paradny. W przeciwieństwie do niego, młody Giermek nosi modny, krótki strój, bogato haftowany w czerwone i białe kwiaty, co symbolizuje jego młodość, energię i dworskie aspiracje.27
+         * Duchowieństwo (Przeorysza, Mnich, Kwestarz): Postacie te noszą habity, ale często w wersji luksusowej, co jest wizualnym znakiem ich hipokryzji. Rękawy Mnicha są obszyte drogim futrem z popielic (grys), a jego kaptur spina złota, kunsztowna brosza w kształcie "węzła miłości".25 Przeorysza ma na sobie elegancki welon, koralowy różaniec i złotą broszę z miłosną dewizą.25
+         * Klasa średnia (Żona z Bath, Franklin, Kupiec): Żona z Bath słynie z doskonałej jakości chust na głowę, szkarłatnych pończoch (hose) i wielkiego kapelusza – wszystko to świadczy o jej zamożności i pewności siebie.25 Franklin, bogaty ziemianin, nosi przy pasie jedwabną, białą sakiewkę i sztylet.29 Kupiec ubrany jest w barwny, wielokolorowy płaszcz (
+motley), bobrowy kapelusz i eleganckie buty z klamrami.29
+         * Lud (Oracz, Młynarz): Oracz, brat Proboszcza, nosi prostą, zgrzebną tunikę (tabard smock), symbolizującą jego uczciwą, ciężką pracę.29 Młynarz ma na sobie niebiesko-biały płaszcz z kapturem.29
+            * Środki transportu: Wyłącznie konie. Jakość wierzchowca i uprzęży również świadczyła o statusie. Rycerz ma "dobre" konie, zapewne silne rumaki bojowe.28 Mnich posiada wiele pięknych koni, a jego uzda dzwoni przy każdym ruchu.30 Koń biednego Kleryka jest chudy jak "grabie" 29, a Oracz jedzie na starej kobyle.29
+            * Technologia i przedmioty codziennego użytku: Przedmioty codziennego użytku wykonane były głównie z drewna, gliny, cyny i żelaza. Meble w domach i gospodach były proste i funkcjonalne: stoły na kozłach, ławy, skrzynie do przechowywania.32 Broń to miecze, sztylety oraz, w przypadku Yeomana, długi łuk i strzały z pawimi piórami.29 Księgi były rzadkością – ręcznie przepisywane na pergaminie manuskrypty. Oddanie Kleryka książkom, kosztem jedzenia i ubrania, podkreśla jego ubóstwo i pasję do nauki.19
+
+
+Kontekst historyczny
+
+
+Opowieści Kanterberyjskie powstały w burzliwym okresie historii Anglii, a echa wielkich wydarzeń historycznych są w nich wyraźnie słyszalne.
+            * Czarna Śmierć (1348-49 i późniejsze epidemie): Dżuma, która zabiła od jednej trzeciej do połowy populacji Europy, spowodowała ogromne wstrząsy społeczne i ekonomiczne.34 Brak rąk do pracy doprowadził do wzrostu płac, osłabienia systemu feudalnego i zwiększenia mobilności społecznej.35 To z tego fermentu wyłania się nowa, zamożna klasa średnia, tak barwnie reprezentowana wśród pielgrzymów.
+            * Wojna Stuletnia (1337-1453): Długotrwały konflikt z Francją stanowi tło dla kariery wojskowej Rycerza i Giermka. Doświadczenia wojenne kształtowały mentalność epoki, w której przemoc i pobożność często szły w parze.36
+            * Powstanie Chłopskie (1381): Wielki bunt przeciwko podatkom i poddaństwu, który wstrząsnął Anglią. Choć stłumione, powstanie to ujawniło głębokie napięcia klasowe.34 Obecność w grupie pielgrzymów zarówno przedstawicieli ziemiaństwa (Franklin, Wójt), jak i prostego ludu (Oracz, Młynarz) odzwierciedla te konflikty.
+            * Wielka Schizma Zachodnia (od 1378): Kryzys w Kościele katolickim, z dwoma (a później trzema) konkurującymi papieżami, podważył autorytet duchowieństwa i nasilił nastroje antyklerykalne.36 Powszechna była świadomość korupcji, handlu odpustami i moralnego upadku kleru, co stanowi główne źródło dla bezlitosnej satyry Chaucera na postacie Odpustnika, Kleryka z Oksfordu, Kwestarza i Mnicha.
+
+
+Kontekst społeczny
+
+
+
+
+Struktura społeczna przedstawiona w książce
+
+
+Średniowieczne społeczeństwo było teoretycznie uporządkowane według modelu trzech stanów, który Chaucer wykorzystuje jako ramę dla swojej galerii postaci:
+            1. Ci, którzy się modlą (Duchowieństwo, Stan Pierwszy): Reprezentowani przez Przeoryszę, Mnicha, Kwestarza, Proboszcza, Woźnego Sądowego i Odpustnika.
+            2. Ci, którzy walczą (Szlachta, Stan Drugi): Reprezentowani przez Rycerza i jego syna, Giermka.
+            3. Ci, którzy pracują (Lud, Stan Trzeci): Najliczniejsza i najbardziej zróżnicowana grupa, obejmująca postacie od zamożnego ziemianina (Franklin) i kupców (Kupiec, Cechmistrze), przez rzemieślników (Żona z Bath, Młynarz), po uczciwego rolnika (Oracz).
+Geniusz Chaucera polega na ukazaniu, jak ta sztywna, idealistyczna struktura rozpadała się w rzeczywistości XIV wieku.7 Skutki Czarnej Śmierci wzmocniły pozycję ludzi pracy i doprowadziły do powstania nowej, bogatej klasy miejskiej, która nie mieściła się w starych schematach. To właśnie napięcie między starym porządkiem feudalnym (uosabianym przez Rycerza) a nowym światem handlu i pieniądza (Kupiec), a także ukryta wrogość między różnymi grupami społecznymi (np. Młynarzem a Wójtem), stanowią siłę napędową dynamiki grupy i wielu opowieści.
+W tym kontekście wyłania się kluczowe dla adaptacji wizualnej zrozumienie, że Chaucer nie tylko opisuje ubrania swoich postaci, ale używa ich jako wizualnego języka społecznego przewrotu. Tradycyjne powiązanie bogatego stroju z wysokim urodzeniem jest celowo zaburzone. Postacie duchowne, które ślubowały ubóstwo, noszą luksusowe materiały i biżuterię, co wizualnie demaskuje korupcję Pierwszego Stanu. Z drugiej strony, prawdziwie szlachetny Rycerz nosi zniszczony i poplamiony strój bojowy, a jego cnota manifestuje się właśnie poprzez brak ostentacji. Nowobogaccy Cechmistrze obnoszą się ze swoimi zdobionymi srebrem nożami, co jest wizualnym znakiem rosnącej w siłę klasy, która rzuca wyzwanie staremu porządkowi. Dla każdej adaptacji oznacza to, że kostiumografia nie jest jedynie kwestią historycznej dokładności, ale fundamentalnym narzędziem narracyjnym. Wizualny kontrast między oczekiwanym wyglądem postaci (zgodnym z jej stanem) a jej rzeczywistym ubiorem jest źródłem satyry i kluczem do zrozumienia jej charakteru.
+
+
+CZĘŚĆ III: BOHATEROWIE
+
+
+Poniższa sekcja przedstawia szczegółowe charakterystyki pielgrzymów opisanych w "Prologu Generalnym", ze szczególnym uwzględnieniem informacji niezbędnych do stworzenia ich wizerunków wizualnych. Zgodnie z wymogiem, w przypadku braku konkretnych danych w tekście źródłowym, zostanie to wyraźnie zaznaczone.
+
+
+Protagoniści
+
+
+Choć dzieło ma charakter zespołowy, kilka postaci wysuwa się na pierwszy plan jako siły napędowe narracji i główni nosiciele tematów. Są to: Rycerz, Młynarz, Żona z Bath i Odpustnik. Kluczową postacią opowieści ramowej jest również Narrator (alter ego Chaucera).
+
+
+Narrator (Chaucer Pielgrzym)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Można przyjąć, że jest w wieku samego autora w czasie pisania dzieła, czyli około 45-55 lat.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. W jednym z późniejszych tekstów Chaucer opisuje siebie jako postać korpulentną, co może być wskazówką.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Przedstawia się jako osoba nieco naiwna, spostrzegawcza, ale powstrzymująca się od otwartego osądu. Obiecuje wiernie powtórzyć opowieści i opisać pielgrzymów takimi, jakimi ich widział, co stanowi jego alibi dla przedstawiania kontrowersyjnych treści.9
+            * Typowy ubiór: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie strój typowy dla zamożnego mieszczanina lub urzędnika dworskiego: wełniana tunika, płaszcz, być może skórzane buty.
+            * Sposób poruszania się, gesty, mimika: Spokojny, obserwujący. Więcej słucha niż mówi, jego twarz wyraża ciekawość i uprzejme zainteresowanie.
+            * Uwagi dla adaptacji: Kluczową decyzją reżyserską jest sposób wizualizacji Narratora i jego perspektywy. Czy widzimy świat jego oczami (subiektywnie), czy też kamera pokazuje nam to, czego on zdaje się nie dostrzegać (obiektywna ironia)? Na przykład, gdy Narrator z aprobatą mówi o Mnichu: "I rzekłem, że mniemanie jego słuszne" 30, kamera może pokazać Mnicha w sposób karykaturalny, podkreślając jego obżarstwo i próżność, tworząc wizualny dysonans z naiwną narracją.
+
+
+Rycerz (The Knight)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Szacowany na 50-60 lat. Jest weteranem licznych kampanii wojennych, od Litwy po Aleksandrię, co sugeruje długą karierę wojskową.26
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Należy założyć, że jest to mężczyzna o silnej, zahartowanej w boju budowie.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Twarz powinna być ogorzała od słońca i wiatru, z licznymi zmarszczkami, odzwierciedlająca trudy życia żołnierza.
+            * Charakterystyczne cechy: Jego postać definiuje skromność i godność. Jest ucieleśnieniem ideałów rycerskich: prawdy, honoru, hojności i kurtuazji.26
+            * Typowy ubiór: Nosi gypon (krótki, dopasowany kaftan) z fustianu (grubej, mocnej tkaniny lniano-bawełnianej).28 Kaftan jest "bismotered with his habergeon", czyli poplamiony i pociemniały od noszonej na nim kolczugi.28 To kluczowy detal wizualny: jego strój jest praktyczny, nie ozdobny. Kolorystyka jest stonowana, w odcieniach beżu, brązu lub szarości. Przybył na pielgrzymkę prosto z wyprawy wojennej, nie zmieniając nawet stroju, co podkreśla jego pobożność i brak próżności.25
+            * Sposób poruszania się, gesty, mimika: Porusza się z cichą powagą i autorytetem doświadczonego dowódcy. Jego gesty są oszczędne, a wyraz twarzy spokojny i zamyślony.
+            * Koń: Posiada "dobre konie", ale sam "nie jest strojny" (nat gay).28 Sugeruje to, że jego wierzchowce to silne, zadbane konie bojowe, a nie paradne ogiery. Uprząż jest z dobrej jakości skóry, ale prosta i funkcjonalna, bez zbędnych ozdób.
+
+
+Giermek (The Squire)
+
+
+            * Wiek: Około 20 lat.29
+            * Wzrost i budowa ciała: Średniego wzrostu, zwinny i silny ("wonderly delivere, and of greet strengthe").29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma kręcone włosy ("with lokkes crulle as they were leyd in presse").29 BRAK OPISU KOLORU WŁOSÓW I OCZU. Twarz młodzieńcza, pełna energii.
+            * Charakterystyczne cechy: Jest synem Rycerza. Zakochany, pełen życia, aspirujący do bycia rycerzem, ale na razie bardziej zainteresowany miłością, muzyką i poezją.
+            * Typowy ubiór: Nosi modną, krótką tunikę z szerokimi rękawami. Jego strój jest haftowany w kolorowe kwiaty, "wszystek w kwiecia łan, biały i czerwony" (al ful of fresshe floures, whyte and reede), co przypomina łąkę.29 Ubiór jest jasny, barwny i ma na celu zrobienie wrażenia na damach.
+            * Sposób poruszania się, gesty, mimika: Pełen energii i młodzieńczej werwy. Porusza się z gracją, śpiewa, gra na flecie.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie zwinny i elegancki koń, pasujący do młodego dworzanina.
+
+
+Yeoman (The Yeoman)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie między 25 a 40 rokiem życia, w pełni sił.
+            * Wzrost i budowa ciała: Mocnej, krzepkiej budowy.29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma krótko ostrzyżone włosy ("a not-heed hadde he"). Jego twarz jest opalona na brązowo, "jak orzech" (his visage was broun).29
+            * Charakterystyczne cechy: Jest sługą Rycerza i Giermka, leśnikiem i łucznikiem. Jego wygląd świadczy o życiu spędzonym na świeżym powietrzu.
+            * Typowy ubiór: Ubrany jest w płaszcz i kaptur w kolorze zielonym. Przy pasie nosi kołczan pełen strzał z pawimi piórami, lśniących i ostrych. Na ramieniu ma potężny długi łuk. Na piersi nosi srebrny medalion ze św. Krzysztofem, patronem podróżnych.26 Nosi też miecz, puklerz (małą tarczę) i ostry sztylet. Jego strój jest w pełni funkcjonalny, ale zadbany, co świadczy o dumie z profesji.
+            * Sposób poruszania się, gesty, mimika: Porusza się pewnie i cicho, jak człowiek lasu. Jego ruchy są sprawne i celowe.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie solidny, wytrzymały koń, zdolny do poruszania się w trudnym terenie.
+
+
+Przeorysza (The Prioress, Madame Eglentyne)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie w średnim wieku, około 35-45 lat.
+            * Wzrost i budowa ciała: Opisana jako "nie chudziną, wierzajcie" (nat undergrowe), co sugeruje, że jest dobrze zbudowana, być może nieco pulchna.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma szare oczy (eyen greye as glas), małe, czerwone usta (hir mouth ful smal, and therto softe and reed) i pięknie ukształtowany nos. Jej czoło jest szerokie i gładkie, co w tamtych czasach uważano za oznakę piękna.29
+            * Charakterystyczne cechy: Stara się naśladować dworskie maniery. Mówi po francusku (choć z angielskim akcentem), je niezwykle schludnie, jest sentymentalna i płacze na widok myszy w pułapce. Jej dewiza to "Amor vincit omnia" (Miłość wszystko zwycięża), co jest dwuznaczne w kontekście zakonnicy.
+            * Typowy ubiór: Nosi nienagannie skrojony i czysty habit. Jej welon jest starannie ułożony (ful semely hir wimpel pinched). Na ramieniu nosi różaniec z korala z zielonymi paciorkami, na którym wisi złota brosza z literą "A" i wspomnianą dewizą.25 Jej strój, choć formalnie zakonny, jest elegancki i zdradza przywiązanie do światowych dóbr.
+            * Sposób poruszania się, gesty, mimika: Jej ruchy są wystudiowane i pełne gracji. Uśmiecha się "prosto i niewinnie" (ful simple and coy).
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Mnich (The Monk)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie w średnim wieku, 40-50 lat, na stanowisku przeora.
+            * Wzrost i budowa ciała: Jest "panem tłustym, w dobrym stanie" (a lord ful fat and in good point), co wskazuje na korpulentną, dobrze odżywioną sylwetkę.30
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Jest łysy, a jego głowa lśni "jakby ze szkła" (his heed was balled, that shoon as any glas). Jego twarz również jest lśniąca, jakby była naoliwiona. Ma wyłupiaste, ruchliwe oczy, które błyszczą "jak piec pod kotłem" (his eyen stepe, and rollynge in his heed).30
+            * Charakterystyczne cechy: Kocha polowania i dobre jedzenie (jego ulubione danie to pieczony łabędź). Lekceważy reguły zakonne dotyczące ubóstwa i klauzury. Jest głośny i jowialny.
+            * Typowy ubiór: Nosi drogie, luksusowe ubrania. Rękawy jego habitu są obszyte najlepszym w kraju futrem z popielic (grys). Pod brodą spina kaptur kunsztowną, złotą szpilą w kształcie "węzła miłości".25 Nosi elastyczne, drogie buty z miękkiej skóry.
+            * Sposób poruszania się, gesty, mimika: Porusza się energicznie, jeździ konno z pasją. Jego mimika jest żywa, a oczy nieustannie w ruchu.
+            * Koń: Posiada wiele pięknych koni w stajni. Ten, na którym jedzie, jest brązowy jak jagoda (broun as is a berye) i w doskonałej kondycji. Jego uzda jest bogato zdobiona i dzwoni głośno, "jak dzwon w kaplicy".30
+
+
+Kwestarz (The Friar, Huberd)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie 30-40 lat, w pełni sił.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie dobrze zbudowany, silny.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma białą szyję (his nekke whit was as the flour-de-lys), co było uważane za znak rozwiązłości. Oczy mu "błyszczały jak gwiazdy w mroźną noc" (his eyen twinkled in his heed aryght, As doon the sterres in the frosty nyght).
+            * Charakterystyczne cechy: Jowialny, wesoły, ale i chciwy i rozpustny. Za pieniądze udziela łatwego rozgrzeszenia, aranżuje małżeństwa dla dziewcząt, które sam uwiódł. Zna wszystkie tawerny w mieście, ale unika biedaków i trędowatych. Śpiewa i gra na harfie. Sepleni, by jego mowa brzmiała słodziej.
+            * Typowy ubiór: Jego habit nie jest znoszony jak u biednego uczonego, ale wygląda jak strój "mistrza albo papieża" (he was lyk a maister or a pope). Wykonany jest z drogiej, podwójnej wełny.
+            * Sposób poruszania się, gesty, mimika: Pełen swobody i uroku. Jego gesty są uwodzicielskie, a twarz zawsze uśmiechnięta.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Kupiec (The Merchant)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Wiek średni, 35-50 lat.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma rozwidloną brodę (a forked berd).29
+            * Charakterystyczne cechy: Mówi w sposób uroczysty i poważny, zawsze podkreślając swoje zyski. Sprawia wrażenie niezwykle bogatego i kompetentnego, choć Narrator sugeruje, że w rzeczywistości jest zadłużony.
+            * Typowy ubiór: Ubrany jest w wielobarwny strój (in mottelee). Na głowie nosi bobrowy kapelusz z Flandrii. Jego buty są eleganckie, z pięknymi klamrami (his bootes clasped faire and fetisly).29
+            * Sposób poruszania się, gesty, mimika: Siedzi wysoko na koniu, sprawiając wrażenie ważnej osobistości. Jego postawa jest pełna godności i powagi.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Z pewnością dobry, zadbany koń, odpowiedni dla zamożnego kupca.
+
+
+Kleryk z Oksfordu (The Clerk)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie 20-30 lat, wieczny student.
+            * Wzrost i budowa ciała: Jest bardzo chudy, a jego koń jest równie chudy jak on sam ("as lene was his hors as is a rake, And he nas nat right fat").29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma "wydrążony" i poważny wygląd (hollow and sober look).29
+            * Charakterystyczne cechy: Ubogi student filozofii, który wszystkie pieniądze wydaje na książki. Jest małomówny, ale gdy się odzywa, jego słowa są pełne mądrości i moralności.
+            * Typowy ubiór: Jego płaszcz jest znoszony i przetarty (ful thredbare was his overeste courtepy).29 Jego wygląd świadczy o skrajnym ubóstwie i całkowitym braku zainteresowania sprawami materialnymi.
+            * Sposób poruszania się, gesty, mimika: Spokojny, powściągliwy, pogrążony w myślach.
+            * Koń: Bardzo chudy, niemal szkielet, co jest wizualnym odzwierciedleniem ubóstwa jego właściciela.
+
+
+Prawnik (The Sergeant of the Law)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Doświadczony, w wieku 40-60 lat.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Sprawia wrażenie niezwykle zapracowanego i mądrego, choć Narrator sugeruje, że jest to poza. Zna na pamięć wszystkie prawa i precedensy od czasów Wilhelma Zdobywcy. Jest bogaty i kupuje ziemię.
+            * Typowy ubiór: Nosi prosty, wielobarwny płaszcz (a medlee cote) przepasany jedwabnym pasem w prążki.29
+            * Sposób poruszania się, gesty, mimika: Pełen godności, rozważny.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Franklin (The Franklin)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Starszy, zamożny ziemianin, prawdopodobnie po 50-tce.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma białą jak stokrotka brodę (whit as is a dayesye). Jego cera jest sangwiniczna, rumiana (sanguin).29
+            * Charakterystyczne cechy: Jest uosobieniem epikurejczyka – kocha dobre jedzenie, wino i gościnność. Jego dom jest zawsze otwarty, a stół suto zastawiony. Był szeryfem i posłem do parlamentu.
+            * Typowy ubiór: Nosi przy pasie sztylet i jedwabną, białą sakiewkę.29 Jego strój jest bogaty, ale nie ostentacyjny, odpowiedni dla zamożnego ziemianina.
+            * Sposób poruszania się, gesty, mimika: Wesoły, jowialny, o rubasznej twarzy.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Cechmistrze (The Guildsmen)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Wiek produkcyjny, 30-50 lat.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Grupa pięciu rzemieślników (Pasamonik, Cieśla, Tkacz, Farbiarz, Gobeliniarz), reprezentujących nową, zamożną klasę miejską. Są dumni ze swojego statusu i mają ambicje polityczne. Ich żony pragną być tytułowane "madame".
+            * Typowy ubiór: Wszyscy są ubrani w jednakowe, reprezentacyjne stroje cechowe. Ich ubrania są nowe i eleganckie (fressh and newe). Ich noże nie są zdobione mosiądzem, lecz srebrem.29 To wizualny dowód ich bogactwa i statusu.
+            * Sposób poruszania się, gesty, mimika: Poruszają się i zachowują jak radni miejscy, z poczuciem własnej ważności.
+            * Konie: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Kucharz (The Cook)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Jest doskonałym kucharzem, potrafi przyrządzić każde danie. Jego mankamentem jest ropiejący wrzód na goleni (a mormal hadde he on his shyne), który, jak zauważa Narrator, przypomina kolorem jego najlepszy budyń blancmange.29
+            * Typowy ubiór: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie prosty strój roboczy, być może z fartuchem.
+            * Sposób poruszania się, gesty, mimika: Zna się na swoim fachu, pewny siebie w kuchni.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Żeglarz (The Shipman)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Doświadczony marynarz, 40-50 lat.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Twarz ogorzała od słońca (al broun). Nosi brodę.29
+            * Charakterystyczne cechy: Pochodzi z Dartmouth. Jest znakomitym żeglarzem, ale człowiekiem bezwzględnym – nie bierze jeńców (każe im iść po desce do wody) i podkrada wino z ładunku, który przewozi.
+            * Typowy ubiór: Nosi prostą, wełnianą tunikę do kolan. Na szyi, na sznurku pod ubraniem, ma zawieszony sztylet.29
+            * Sposób poruszania się, gesty, mimika: Niepewnie czuje się na koniu (he rood upon a rouncy, as he kouthe). Na lądzie porusza się zapewne kołyszącym krokiem marynarza.
+            * Koń: Jedzie na "rouncy" – koniu roboczym, być może pożyczonym od rolnika, co podkreśla jego dyskomfort na lądzie.29
+
+
+Medyk (The Doctor of Physic)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Doświadczony, w średnim wieku.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Znakomity lekarz, biegły w medycynie i astrologii. Jest w zmowie z aptekarzami, by przepisywać pacjentom drogie leki. Kocha złoto ponad wszystko. Jest umiarkowany w diecie i nie czyta Biblii.
+            * Typowy ubiór: Ubrany jest w szaty w kolorze krwistoczerwonym i niebieskim (in sangwin and in pers), podszyte taftą i jedwabiem.27 Jego strój jest drogi i świadczy o bogactwie.
+            * Sposób poruszania się, gesty, mimika: Mówi uczenie i z autorytetem.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Żona z Bath (The Wife of Bath)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Biorąc pod uwagę pięć małżeństw i bogate doświadczenie, prawdopodobnie ma około 40 lat.
+            * Wzrost i budowa ciała: Ma "biodra szerokie" (hypes large), co sugeruje krzepką, pełną i pewną siebie sylwetkę.31
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Jej twarz jest "śmiała... piękna i rumiana" (boold... and fair, and reed of hewe). Jest "gat-tothed" (ma szeroką przerwę między przednimi zębami), co w fizjonomice średniowiecznej było oznaką zmysłowości i śmiałości.31
+            * Charakterystyczne cechy: Jest "nieco głucha" (somdel deef).25 Jest ekspertką od miłości i małżeństwa, odbyła liczne pielgrzymki (trzy razy do Jerozolimy).
+            * Typowy ubiór: Ubrana jest ekstrawagancko. Jej chusty na głowę są z najcieńszego lnu i ważą dziesięć funtów. Nosi pończochy w kolorze "szkarłatnej czerwieni" (fyn scarlet reed), a jej buty są miękkie i nowe. Na głowie ma wielki kapelusz, "szeroki jak puklerz albo tarcza", a pod nim misternie ułożony czepiec (wimple).31 Czerwień jej stroju symbolizuje jej namiętną naturę.27
+            * Sposób poruszania się, gesty, mimika: Siedzi pewnie na swoim "amblerze" (koniu o spokojnym chodzie). Jest głośna, lubi się śmiać i rozmawiać.
+            * Koń: "Ambler", czyli koń wierzchowy o spokojnym, wygodnym chodzie, odpowiedni dla zamożnej kobiety.
+
+
+Proboszcz (The Parson)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Jest ideałem duchownego. Biedny materialnie, ale bogaty w święte myśli i czyny. Najpierw sam postępuje dobrze, a potem naucza swoją parafię. Jest pracowity, cierpliwy i hojny.
+            * Typowy ubiór: Bardzo ubogi, bez żadnych ozdób. Stanowi wizualny kontrast dla bogato odzianych, zepsutych duchownych.29
+            * Sposób poruszania się, gesty, mimika: Spokojny, pełen pokory i powagi.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Oracz (The Plowman)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Brat Proboszcza, jest ideałem człowieka pracy. Uczciwy, dobry, żyje w pokoju i miłości z Bogiem i sąsiadami. Ciężko pracuje i płaci dziesięcinę.
+            * Typowy ubiór: Nosi prostą, zgrzebną tunikę bez rękawów (a tabard).29 Jego strój jest ubogi i funkcjonalny.
+            * Sposób poruszania się, gesty, mimika: Prosty, szczery, bezpretensjonalny.
+            * Koń: Jedzie na starej kobyle.29
+
+
+Młynarz (The Miller, Robin)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie 30-40 lat.
+            * Wzrost i budowa ciała: Jest niezwykle silny i krzepki, "wielki w mięśniach i kościach" (ful byg... of brawn, and eek of bones). Potrafi wyważyć drzwi z zawiasów, uderzając w nie głową.29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma szeroką, rudą brodę, "jak łopata albo rydel" (his berd as any sowe or fox was reed, And therto brood, as though it were a spade). Na czubku nosa ma brodawkę, z której wyrasta kępka rudych włosów.25
+            * Charakterystyczne cechy: Głośny, prostacki, pijany. Opowiada sprośne historie. Jest nieuczciwy – kradnie zboże klientom. Gra na dudach.
+            * Typowy ubiór: Nosi biały płaszcz z niebieskim kapturem. Przy boku ma miecz i puklerz.29
+            * Sposób poruszania się, gesty, mimika: Porusza się z hałaśliwą pewnością siebie. Jego gesty są zamaszyste.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie mocny, roboczy koń.
+
+
+Szafarz (The Manciple)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Charakterystyczne cechy: Jest zarządcą zaopatrzenia w szkole prawniczej. Chociaż jest niepiśmienny, jest sprytniejszy od wszystkich uczonych prawników, dla których pracuje, i oszukuje ich na rachunkach.
+            * Typowy ubiór: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Sposób poruszania się, gesty, mimika: Dyskretny, bystry, zawsze obserwujący.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Wójt (The Reeve)
+
+
+            * Wiek: Starszy mężczyzna.29
+            * Wzrost i budowa ciała: Jest bardzo chudy, a jego łydki są cienkie jak kije (ful longe were his legges and ful lene, Ylyk a staf, ther was no calf ysene).29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma krótko przystrzyżoną brodę i włosy, ostrzyżone nad uszami jak u księdza.
+            * Charakterystyczne cechy: Jest zarządcą majątku ziemskiego. Jest cholerykiem, łatwo wpada w gniew. Jest niezwykle skrupulatny i nikt nie jest w stanie go oszukać, ale on sam okrada swojego pana. Z zawodu jest również cieślą, co jest powodem jego konfliktu z Młynarzem.
+            * Typowy ubiór: Nosi długi, niebieski płaszcz. Przy boku ma zardzewiałe ostrze.29
+            * Sposób poruszania się, gesty, mimika: Zrzędliwy, podejrzliwy. Jedzie na końcu pochodu pielgrzymów, z dala od innych.
+            * Koń: Dobry ogier (a ful good stot), jabłkowity (pomely grey).
+
+
+Woźny Sądowy (The Summoner)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma ognistoczerwoną twarz, pokrytą pryszczami i wrzodami (a fyr-reed cherubynnes face, For saucefleem he was, with eyen narwe). Ma rzadką brodę i czarne, parchate brwi. Jego wygląd przeraża dzieci.29
+            * Charakterystyczne cechy: Pracuje dla sądu kościelnego, wzywając grzeszników przed jego oblicze. Jest rozpustny, skorumpowany i wiecznie pijany. Kocha czosnek, cebulę i mocne wino. Za łapówkę pozwala grzesznikom unikać kary. Zna tylko kilka łacińskich zwrotów, które powtarza, gdy jest pijany.
+            * Typowy ubiór: Nosi na głowie wieniec z kwiatów.29
+            * Sposób poruszania się, gesty, mimika: Głośny, odpychający, o nieprzyjemnej mimice.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Odpustnik (The Pardoner)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma rzadkie, długie włosy, żółte jak wosk i proste jak len (his heer as yelow as wex, But smothe it heeng as dooth a strike of flex). Nie nosi kaptura, by pokazać swoje włosy. Ma wyłupiaste oczy jak zając. Jego głos jest cienki, jak u kozy. Nie ma brody i Narrator sugeruje, że jest "wałachem albo kobyłą" (a geldyng or a mare), co wskazuje na jego eunuchowatość lub homoseksualizm.38
+            * Charakterystyczne cechy: Przybył prosto z Rzymu. Jest najbardziej zdeprawowaną postacią w grupie. Sprzedaje fałszywe odpusty i relikwie (m.in. kości świni wmawiając, że to szczątki świętych, oraz kawałek płótna, który ma być welonem Matki Boskiej). Jest doskonałym mówcą i potrafi wzbudzić w ludziach poczucie winy, by wyłudzić od nich pieniądze.
+            * Typowy ubiór: Nosi małą czapkę, na której ma naszytą Weronikę (chustę z wizerunkiem Chrystusa). Jego torba (sakwa) leży na kolanach, pełna odpustów i fałszywych relikwii.29
+            * Sposób poruszania się, gesty, mimika: Jego ruchy mogą być nieco zniewieściałe. Ma przeszywające spojrzenie i potrafi być niezwykle przekonujący.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+Gospodarz (The Host, Harry Bailly)
+
+
+            * Wiek: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+            * Wzrost i budowa ciała: Jest postawnym mężczyzną (a large man he was), być może z lekką nadwagą.29
+            * Kolor i styl włosów, kolor oczu, kształt twarzy: Ma wyraziste, błyszczące oczy (with eyen stepe).29
+            * Charakterystyczne cechy: Właściciel gospody "Pod Tabardem". Jest wesoły, bezpośredni i charyzmatyczny. To on proponuje konkurs na najlepszą opowieść i zostaje jego sędzią oraz przewodnikiem pielgrzymki.
+            * Typowy ubiór: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH. Prawdopodobnie strój zamożnego oberżysty.
+            * Sposób poruszania się, gesty, mimika: Pewny siebie, głośny, o otwartej i przyjaznej mimice.
+            * Koń: BRAK OPISU WIZUALNEGO W ŹRÓDŁACH.
+
+
+CZĘŚĆ IV: FABUŁA
+
+
+
+
+Ekspozycja: Opowieść Ramowa
+
+
+Narracja rozpoczyna się od słynnego opisu wiosny. Gdy kwiecień swoimi "słodkimi deszczami" ożywia ziemię, a ptaki zaczynają śpiewać, ludzie w Anglii odczuwają pragnienie wyruszenia na pielgrzymkę. Najpopularniejszym celem jest Canterbury, by oddać cześć "świętemu, błogosławionemu męczennikowi", Tomaszowi Becketowi.5 Właśnie w tym czasie Narrator zatrzymuje się w gospodzie "Pod Tabardem" w Southwark, przygotowując się do własnej podróży.
+
+
+WIZUALIZACJA SCENY OTWIERAJĄCEJ
+
+
+            * Miejsce i czas: Główna sala gospody "Pod Tabardem", wieczór w połowie kwietnia. Jest to przestronne, choć niskie pomieszczenie z ciężkimi, dębowymi belkami pod sufitem. Centralnym punktem jest ogromne, otwarte palenisko, w którym trzaska ogień, rzucając ciepłe, pomarańczowe światło na całe wnętrze i tworząc grę cieni na ścianach. Powietrze jest gęste od dymu, który częściowo uchodzi przez otwór w dachu. Na podłodze leżą zdeptane sitowie i słoma.
+            * Obecne postacie i ich pozycje: Do gospody przybywa 29 pielgrzymów, tworząc barwny i hałaśliwy tłum.14 Są rozproszeni po sali, siedzą na długich ławach przy stołach na kozłach. Grupa jest wizualnym mikrokosmosem społeczeństwa: widać surową, poplamioną tunikę Rycerza obok jaskrawej czerwieni pończoch Żony z Bath; elegancki, czarno-biały habit Przeoryszy kontrastuje z niebiesko-białym płaszczem rubasznego Młynarza. Piją z cynowych i drewnianych kufli, jedzą proste potrawy podawane na drewnianych talerzach lub kromkach chleba (tzw.
+trenchers). Narrator siedzi nieco na uboczu, bacznie obserwując każdego z nowo przybyłych.
+            * Ważne przedmioty i rekwizyty: Cynowe kufle, drewniane misy, noże, sakiewki przy pasach, trzaskający ogień w palenisku, łojowe świece dające skąpe światło.
+            * Dynamika i ruch: Panuje gwar i ożywienie. Gospodarz, Harry Bailly – postawny mężczyzna o donośnym głosie – krąży między stołami, witając gości, żartując, dbając o to, by nikomu nie zabrakło piwa i wina. Po kolacji staje na środku sali, ucisza gwar i z charyzmą proponuje konkurs na najlepszą opowieść. Jego głos jest pewny i przekonujący. Pielgrzymi reagują z entuzjazmem – widać uśmiechy, skinienia głową, Młynarz być może uderza kuflem w stół. Umowa zostaje przypieczętowana toastem.
+
+
+Rozwinięcie akcji: Opowieści i Łączniki
+
+
+Rozwinięcie akcji stanowi seria 24 opowieści, przeplatanych "łącznikami" (links) – krótkimi scenami dialogowymi między pielgrzymami, które rozgrywają się na drodze do Canterbury. Te łączniki są kluczowe, ponieważ rozwijają relacje między postaciami, podsycają konflikty i motywują wybór kolejnych opowieści.
+
+
+Fragment 1: Od Romansu do Fabliau
+
+
+Pielgrzymka rozpoczyna się następnego ranka. Pielgrzymi ciągną losy, by ustalić kolejność opowiadania. Pierwszy los przypada Rycerzowi.
+               * Opowieść Rycerza (The Knight's Tale):
+               * Streszczenie: Romans rycerski osadzony w starożytnej Grecji. Dwaj kuzyni z Teb, Palamon i Arcite, zostają uwięzieni w ateńskiej wieży. Z okna celi obaj zakochują się w pięknej Emelye, siostrze żony księcia Tezeusza. Ich miłość przeradza się w rywalizację. Arcite zostaje zwolniony, ale wygnany, wraca jednak w przebraniu. Palamon ucieka z więzienia. Spotykają się i walczą na śmierć i życie o Emelye. Tezeusz odkrywa ich i, zamiast skazać na śmierć, organizuje wielki turniej. Arcite wygrywa turniej, ale tuż po zwycięstwie, zrzucony z konia przez boską interwencję, umiera.40 Po latach żałoby Palamon poślubia Emelye.
+               * OPIS WIZUALNY KLUCZOWEJ SCENY (Turniej w Atenach):
+               * Gdzie: Ogromny, nowo zbudowany amfiteatr w Atenach. Arena jest okrągła, otoczona trybunami z białego marmuru. Na trzech stronach świata stoją trzy świątynie: na wschodzie, nad bramą, świątynia Wenus, wykonana z alabastru i korala, ozdobiona rzeźbami przedstawiającymi sceny miłosne i jej atrybuty (gołębie, wróble). Na zachodzie świątynia Marsa, ze stali, ponura i groźna, z malowidłami przedstawiającymi wojnę, zniszczenie i śmierć. Na północy świątynia Diany, bogini czystości, z wizerunkami scen łowieckich i opowieści o dziewicach.
+               * Kto: Na arenie stoją dwie stuosobowe armie. Jednej przewodzi Palamon, drugiej Arcite. Obaj są w lśniących, bogato zdobionych zbrojach. Na trybunach zasiada Tezeusz ze swoją żoną Hippolitą i piękną Emelye, ubraną w zieloną szatę myśliwską. Tłum Ateńczyków wypełnia amfiteatr.
+               * Pora/Pogoda: Słoneczny dzień. Światło odbija się od marmuru i zbroi.
+               * Dynamika: Dźwięk trąb rozpoczyna turniej. Dwie armie zderzają się na środku areny w chaosie stali, kurzu i okrzyków. Walka jest zacięta, ale honorowa – celem jest wzięcie przeciwnika do niewoli, a nie zabicie go.
+Po zakończeniu opowieści Rycerza, która spotyka się z powszechnym podziwem, Gospodarz prosi Mnicha o następną historię. W tym momencie dochodzi do pierwszego konfliktu.
+               * Interwencja Młynarza: Pijany Młynarz głośno protestuje, domagając się prawa do opowiadania. Twierdzi, że jego historia "odpłaci" (quite) opowieści Rycerza.40 Mimo sprzeciwu Gospodarza i Wójta, Młynarz dopina swego.
+               * Opowieść Młynarza (The Miller's Tale):
+               * Streszczenie: Sprośne fabliau o starym, zazdrosnym cieśli z Oksfordu, Johnie, jego młodej i pięknej żonie Alisoun oraz dwóch zalotnikach: sprytnym studencie Nicholasie i zniewieściałym kleryku Absolonie. Nicholas wmawia Johnowi, że nadchodzi drugi Potop, i każe mu spędzić noc w zawieszonej pod dachem balii, by się uratować. Sam spędza tę noc z Alisoun. Absolon, który również pragnie Alisoun, przychodzi pod okno prosić o pocałunek. Alisoun wystawia mu przez okno nagie pośladki. Upokorzony Absolon wraca z rozgrzanym lemieszem od pługa. Tym razem Nicholas, chcąc zażartować, wystawia swoje pośladki i głośno pierdzi. Absolon przypieka go rozgrzanym żelazem. Nicholas krzyczy "Wody!", co budzi Johna, który myśląc, że to potop, przecina linę i spada, łamiąc rękę.40
+               * OPIS WIZUALNY KLUCZOWEJ SCENY (Klimaks w sypialni):
+               * Gdzie: Sypialnia na parterze w domu cieśli w Oksfordzie. Pomieszczenie jest małe, ciemne, oświetlone jedynie smugą księżycowego światła wpadającą przez małe, otwierane okienko (shot-window).42 Pod sufitem, w głębokim cieniu, wiszą trzy balie. W jednej z nich chrapie głośno John.
+               * Kto: W łóżku leżą nadzy Nicholas i Alisoun. Na zewnątrz, w mroku ulicy, stoi Absolon. Jest ubrany w swoje najlepsze, modne szaty, a w ręku trzyma rozżarzony do czerwoności lemiesz, który rzuca pomarańczowy blask na jego wściekłą twarz.
+               * Emocje i dynamika: Scena jest pełna kontrastów: cisza nocy przerywana chrapaniem, szeptami i nagłymi okrzykami. Twarz Absolona zmienia się z nadziei (pierwsza prośba o pocałunek) w upokorzenie, a następnie w furię. Twarze Nicholasa i Alisoun wyrażają rozbawienie i złośliwość. Punktem kulminacyjnym jest oślepiający błysk i syk, gdy gorące żelazo dotyka ciała Nicholasa, jego wrzask bólu, paniczny okrzyk "Wody!", a następnie ogłuszający huk spadającej balii i trzask łamanej kości. Scena kończy się chaosem, gdy sąsiedzi wbiegają do środka, zastając komiczną i absurdalną scenę.
+Opowieść Młynarza wywołuje śmiech większości pielgrzymów, ale doprowadza do wściekłości Wójta, który z zawodu jest cieślą i odbiera historię osobiście. Postanawia "odpłacić" Młynarzowi, opowiadając historię o nieuczciwym młynarzu.
+               * Opowieść Wójta (The Reeve's Tale):
+               * Streszczenie: Opowieść o pyszałkowatym i nieuczciwym młynarzu Symkinie, który okrada studentów z Cambridge, Johna i Alayna, przybyłych, by zmielić zboże. Studenci postanawiają się zemścić. W nocy, gdy wszyscy śpią w jednej izbie, Alayn sypia z córką młynarza, a John, po sprytnym manewrze z kołyską, z jego żoną. Dochodzi do komicznej bijatyki w ciemności, a studenci uciekają, odzyskawszy skradzione zboże.40
+
+
+Fragment 5: Małżeństwo i Władza
+
+
+Po kilku innych opowieściach, głos zabiera jedna z najbardziej wyrazistych postaci.
+               * Prolog i Opowieść Żony z Bath (The Wife of Bath's Prologue and Tale):
+               * Streszczenie Prologu: Żona z Bath, Alisoun, wygłasza długą, autobiograficzną przemowę, w której broni instytucji małżeństwa (sama miała pięciu mężów) i dowodzi, opierając się na własnym doświadczeniu, że kobiety powinny mieć władzę (maistrie lub sovereignty) nad mężami.
+               * Streszczenie Opowieści: W czasach króla Artura młody rycerz gwałci dziewicę. Zostaje skazany na śmierć, ale królowa Ginewra daje mu szansę: ocali życie, jeśli w ciągu roku dowie się, czego najbardziej pragną kobiety. Po długich i bezowocnych poszukiwaniach spotyka starą, odrażającą wiedźmę, która obiecuje mu zdradzić odpowiedź w zamian za spełnienie jej pierwszej prośby. Rycerz zgadza się. Odpowiedź brzmi: kobiety pragną władzy nad swoimi mężami. Odpowiedź zostaje uznana za prawidłową, a wiedźma żąda, by rycerz ją poślubił. Zmuszony, zgadza się. W noc poślubną, gdy rycerz z odrazą odwraca się od niej, stara kobieta wygłasza mowę o prawdziwym szlachectwie, które płynie z czynów, a nie z urodzenia. Daje mu wybór: może mieć ją starą i brzydką, ale wierną, albo młodą i piękną, ale niewierną. Rycerz oddaje decyzję w jej ręce, dając jej tym samym upragnioną "władzę". W nagrodę przemienia się w piękną i wierną żonę.43
+               * OPIS WIZUALNY KLUCZOWEJ SCENY (Transformacja w sypialni):
+               * Gdzie: Komnata sypialniana w zamku, noc. Pomieszczenie jest skromnie umeblowane, centralnym punktem jest wielkie łoże z baldachimem i ciężkimi, aksamitnymi zasłonami. Jedynym źródłem światła jest kilka świec, rzucających długie, drżące cienie.
+               * Kto: W łożu leży młody Rycerz, odwrócony plecami do swojej nowej żony. Jego twarz wyraża wstręt i rozpacz. Obok niego siedzi stara kobieta. Jest pomarszczona, bezzębna, o ziemistej cerze i rzadkich, siwych włosach. Ubrana jest w prostą, nocną koszulę.
+               * Emocje i dynamika: Scena jest początkowo statyczna i pełna napięcia. Głos starej kobiety jest spokojny i mądry, kontrastuje z jej odpychającym wyglądem. Gdy rycerz oddaje jej decyzję, jej twarz łagodnieje. Transformacja nie jest nagłym efektem specjalnym, ale płynną, magiczną przemianą. Światło świec może na chwilę przygasnąć, a gdy znów się rozjaśnia, w miejscu starej kobiety leży olśniewająco piękna, młoda dziewczyna o długich, jasnych włosach i promiennej cerze. Zaskoczenie i niedowierzanie na twarzy rycerza zmieniają się w zachwyt i miłość. Para obejmuje się, a scena kończy się w atmosferze szczęścia i spełnienia.
+
+
+Fragment 6: Chciwość i Śmierć
+
+
+               * Prolog i Opowieść Odpustnika (The Pardoner's Prologue and Tale):
+               * Streszczenie Prologu: Odpustnik, zanim zacznie swoją opowieść, wygłasza przed pielgrzymami swoje typowe kazanie. Z szokującą szczerością przyznaje, że jest oszustem. Jego jedynym celem jest zdobycie pieniędzy, a jego dewiza to Radix malorum est Cupiditas (Chciwość jest korzeniem wszelkiego zła). Opisuje, jak za pomocą fałszywych relikwii i płomiennych kazań wyłudza pieniądze od biednych wieśniaków.
+               * Streszczenie Opowieści: We Flandrii trzech młodych hulaków pije w tawernie. Gdy słyszą dzwon pogrzebowy, dowiadują się, że ich przyjaciel został zabity przez "złodzieja imieniem Śmierć", który grasuje w okolicy (aluzja do epidemii dżumy). Pijani, postanawiają odnaleźć i zabić Śmierć. Po drodze spotykają tajemniczego starca, który tęskni za śmiercią, ale ta go omija. Obrażony przez hulaków, wskazuje im drogę, mówiąc, że znajdą Śmierć pod pobliskim dębem. Młodzieńcy biegną na miejsce i zamiast Śmierci znajdują osiem buszli złotych monet. Zapominają o swoim celu i postanawiają zabrać skarb. Wysyłają najmłodszego do miasta po wino i chleb. Pod jego nieobecność dwaj pozostali spiskują, by go zabić i podzielić złoto na pół. Tymczasem najmłodszy, również owładnięty chciwością, kupuje truciznę i zatruwa dwie z trzech butelek wina, by zagarnąć całe złoto dla siebie. Gdy wraca, zostaje zabity przez kompanów. Ci, świętując, piją zatrute wino i umierają w męczarniach. W ten sposób wszyscy trzej znaleźli Śmierć.10
+
+
+Punkt kulminacyjny
+
+
+Ponieważ dzieło jest niedokończone, nie posiada jednego, nadrzędnego punktu kulminacyjnego. Każda opowieść ma własną strukturę i własny klimaks.
+               * Klimaks Opowieści Młynarza: Moment, w którym Absolon przypieka Nicholasa, ten krzyczy "Wody!", a John spada z dachu, co prowadzi do publicznego zdemaskowania całej intrygi.41
+               * Klimaks Opowieści Odpustnika: Moment, w którym dwaj pozostali przy życiu hulacy sięgają po zatrute butelki wina. Widz wie, co zaraz nastąpi. To chwila, w której ich chciwość ostatecznie przypieczętowuje ich los.
+
+
+PEŁNA WIZUALIZACJA SCENY KULMINACYJNEJ (Śmierć hulaków w Opowieści Odpustnika)
+
+
+               * Gdzie: Zagajnik, u podnóża wielkiego, starego dębu. Ziemia wokół drzewa jest rozkopana. Leży na niej ogromna sterta złotych florenów, lśniących w popołudniowym słońcu. Obok skarbu leży martwe ciało najmłodszego hulaki, z ranami kłutymi od sztyletów.
+               * Kto: Dwaj pozostali przy życiu hulacy. Są ubrani w proste, nieco zniszczone stroje. Ich twarze są brudne od potu i ziemi, ale maluje się na nich triumf i chciwa radość.
+               * Pora/Pogoda: Późne popołudnie, słońce chyli się ku zachodowi, rzucając długie cienie przez drzewa. Światło jest złociste, co potęguje blask monet.
+               * Ważne przedmioty: Sterta złotych monet. Trzy butelki wina i bochenki chleba przyniesione z miasta. Dwa zakrwawione sztylety.
+               * Emocje i dynamika: Po zabójstwie kompana, dwaj mężczyźni są podnieceni. Jeden z nich mówi: "Teraz napijmy się i zabawmy, a jutro pogrzebiemy jego ciało". Śmieją się, klepią po plecach. Ich ruchy są pewne i aroganckie. Jeden z nich sięga po butelkę wina, pociąga duży łyk i podaje drugiemu. Drugi robi to samo. Przez chwilę na ich twarzach widać satysfakcję. Potem pierwszy marszczy brwi, na jego twarzy pojawia się wyraz bólu i zdziwienia. Chwyta się za gardło. Drugi patrzy na niego zdezorientowany, ale po chwili sam czuje skurcz. Ich twarze wykrzywiają się w agonii. Rzucają się na ziemię, wijąc się w konwulsjach, ich triumfalne okrzyki zamieniają się w charczenie. Umierają obok ciała swojej ofiary i skarbu, o który walczyli. Ostatnie ujęcie pokazuje trzy martwe ciała, rozrzucone wokół lśniącego, nietkniętego złota.
+
+
+Rozwiązanie
+
+
+Opowieść ramowa nie ma rozwiązania. Tekst urywa się po Opowieści Gospodarza, nie docierając do Canterbury. Zakończenie dzieła stanowi długa, prozaiczna rozprawa Proboszcza o siedmiu grzechach głównych i pokucie, a po niej następuje "Odwołanie" Chaucera (Chaucer's Retraction), w którym autor prosi o przebaczenie za te części swojej twórczości, które mogą prowadzić do grzechu, i dziękuje Bogu za te, które niosą naukę moralną.45
+
+
+OPIS WIZUALNY SCENY KOŃCOWEJ (spekulatywny)
+
+
+               * Miejsce i czas: Droga do Canterbury. Zbliża się wieczór, słońce jest nisko nad horyzontem, malując niebo na pomarańczowo i fioletowo. Pielgrzymi jadą wolno, zmęczeni po całym dniu podróży.
+               * Obecne postacie: Cała grupa. Hałaśliwy gwar ucichł. Wszyscy słuchają w milczeniu głosu Proboszcza, który jedzie na czele grupy. Jego twarz jest poważna i pełna żarliwości.
+               * Dynamika: Kamera powoli przesuwa się po twarzach pielgrzymów. Niektóre są zamyślone (Rycerz), inne znudzone (Żona z Bath), jeszcze inne obojętne. Głos Proboszcza jest spokojny, ale stanowczy. Gdy jego kazanie dobiega końca, jego głos płynnie przechodzi w głos Narratora (Chaucera), który wygłasza swoje "Odwołanie". Kamera skupia się na twarzy Narratora – jest ona pełna refleksji i być może lekkiej ironii. Ostatnie ujęcie to szeroki plan: sylwetki pielgrzymów na koniach, oddalające się w stronę zachodzącego słońca. Ich podróż pozostaje niedokończona, a cel wciąż jest przed nimi.
+
+
+CZĘŚĆ V: TEMATY I MOTYWY
+
+
+
+
+Główne tematy
+
+
+Opowieści Kanterberyjskie to dzieło niezwykle bogate tematycznie, poruszające kluczowe kwestie późnośredniowiecznego świata, które w dużej mierze zachowują uniwersalny charakter.
+               * Satyra społeczna i krytyka stanów: Najważniejszym tematem dzieła jest satyryczny portret społeczeństwa angielskiego. Chaucer, posługując się postaciami pielgrzymów jako reprezentantami poszczególnych klas i zawodów, demaskuje przepaść między społecznymi ideałami a ludzką rzeczywistością.46 Idealny rycerz, pobożny duchowny, uczciwy rzemieślnik – te wzorce są konfrontowane z postaciami pełnymi wad: próżności, chciwości, lenistwa i lubieżności. Humor i ironia służą Chaucerowi jako narzędzia do krytyki społecznych patologii, bez popadania w moralizatorski ton.
+               * Korupcja i hipokryzja Kościoła: Jest to najostrzejszy i najbardziej konsekwentnie rozwijany wątek krytyczny w całym dziele. Postacie takie jak Odpustnik, Woźny Sądowy, Kwestarz i Mnich uosabiają wszystkie grzechy, przed którymi Kościół oficjalnie przestrzegał: chciwość, symonię, rozpustę i obłudę.27 Odpustnik otwarcie przyznaje, że jego jedynym celem jest zysk, a nie zbawienie dusz. Kwestarz wykorzystuje swoją pozycję do szantażu i wyłudzeń. Ich postawy są celowo skontrastowane z postacią ubogiego, ale prawdziwie pobożnego Proboszcza, który stanowi ucieleśnienie chrześcijańskiego ideału.
+               * Kwestia małżeństwa i relacji damsko-męskich: Dzieło stanowi swoistą debatę na temat natury miłości, małżeństwa i roli kobiety w społeczeństwie. Różne opowieści prezentują skrajnie odmienne modele tych relacji. Opowieść Rycerza przedstawia wyidealizowany, dworski model miłości, w której kobieta jest biernym obiektem rywalizacji mężczyzn. Prolog i Opowieść Żony z Bath to rewolucyjny manifest kobiecej niezależności i pragnienia "władzy" (sovereignty) w związku.43 Z kolei
+Opowieść Franklina proponuje bardziej nowoczesny model małżeństwa opartego na wzajemnym szacunku, zaufaniu i "hojności" (gentillesse).47
+               * Rywalizacja i "odpłacanie" (Quiting): Struktura konkursu na najlepszą opowieść wprowadza motyw rywalizacji, który napędza narrację.46 Co więcej, poszczególne opowieści często stanowią bezpośrednią odpowiedź lub "odpłatę" za poprzednią. Pijany Młynarz przerywa porządek, by swoją sprośną historią "odpłacić" wzniosłemu romansowi Rycerza.48 Wójt, urażony opowieścią Młynarza o głupim cieśli, rewanżuje mu się historią o oszukanym młynarzu.45 Ten mechanizm tworzy dynamiczny dialog między pielgrzymami i ich światopoglądami.
+
+
+Motywy literackie
+
+
+                  * Pielgrzymka: Podróż do Canterbury jest centralnym motywem, który pełni funkcję zarówno dosłowną, jak i symboliczną. Dosłownie, jest to popularna w średniowieczu forma praktyki religijnej, która pozwala na zgromadzenie w jednym miejscu przedstawicieli różnych stanów.46 Symbolicznie, pielgrzymka jest metaforą ludzkiego życia – podróży przez doczesny świat w poszukiwaniu duchowego celu i zbawienia.
+                  * Wiosna i odrodzenie: Dzieło rozpoczyna się od barwnego opisu kwietnia, pory roku symbolizującej odrodzenie natury po zimowej martwocie.5 Ten motyw ma podwójne znaczenie: z jednej strony symbolizuje duchowe odrodzenie, które jest celem pielgrzymki, z drugiej zaś – bardziej przyziemne – odrodzenie sił witalnych, pożądania i płodności, co zapowiada wiele z bardziej cielesnych tematów opowieści.
+                  * Fizjonomika i wygląd zewnętrzny: W średniowieczu wierzono, że wygląd zewnętrzny człowieka odzwierciedla jego charakter. Chaucer świadomie wykorzystuje ten motyw. Ruda broda Młynarza i brodawka na nosie wskazują na jego choleryczny i prostacki temperament.25 Przerwa między zębami Żony z Bath jest znakiem jej zmysłowości i skłonności do podróży.31 Z kolei odrażający, pokryty wrzodami wygląd Woźnego Sądowego jest wizualnym odzwierciedleniem jego moralnego zepsucia.29
+                  * Ubiór jako symbol: Jak szczegółowo omówiono w Części II, ubiór jest jednym z najważniejszych motywów wizualnych i symbolicznych. Jest on nie tylko wyznacznikiem statusu społecznego, ale także narzędziem charakteryzacji i satyry. Poplamiony strój Rycerza symbolizuje jego autentyczność i oddanie rzemiosłu wojennemu, podczas gdy luksusowe szaty Mnicha i Kwestarza symbolizują ich hipokryzję i światowe przywiązania.25
+
+
+Problematyka moralna
+
+
+                  * Dylematy etyczne: Wiele opowieści stawia bohaterów (i czytelników) przed skomplikowanymi dylematami moralnymi. W Opowieści Franklina Dorigen musi wybierać między wiernością mężowi a dotrzymaniem pochopnie złożonej obietnicy. W Opowieści Kleryka cnota posłuszeństwa żony jest testowana w sposób okrutny i niemal nieludzki. Chaucer nie daje łatwych odpowiedzi, pokazując, że zasady moralne często wchodzą ze sobą w konflikt w konfrontacji z rzeczywistością.
+                  * Krytyka społeczna: Dzieło jest przenikliwą krytyką społeczeństwa, które odchodzi od swoich ideałów. Chaucer krytykuje nie tylko zepsucie kleru, ale także chciwość nowej klasy kupieckiej, próżność dworzan (Giermek) i brutalność prostego ludu (Młynarz). Jednocześnie, poprzez postacie Proboszcza i Oracza, przedstawia wizję społeczeństwa opartego na chrześcijańskich wartościach pracy, pokory i miłosierdzia.
+
+
+CZĘŚĆ VI: STYL I TECHNIKA
+
+
+
+
+Język i styl
+
+
+Opowieści Kanterberyjskie są dziełem przełomowym pod względem językowym i stylistycznym. Chaucer, pisząc w języku średnioangielskim, dowiódł, że język narodowy jest w stanie wyrazić całe spektrum ludzkich doświadczeń, od teologicznych rozważań po dosadne żarty.6
+                  * Charakterystyka języka narracji: Język poematu jest niezwykle zróżnicowany. Chaucer mistrzowsko dopasowuje styl, ton i słownictwo do osobowości każdego z opowiadających. Opowieść Rycerza jest napisana w stylu wysokim, pełnym retorycznych ozdobników i dworskiej elegancji. Opowieść Młynarza posługuje się prostym, dosadnym językiem, pełnym kolokwializmów i wulgaryzmów. Z kolei Opowieść Proboszcza to proza teologiczna, naśladująca styl traktatu moralnego.
+                  * Dialogi: Dialogi, zwłaszcza w łącznikach między opowieściami, są niezwykle żywe i realistyczne. Oddają naturalny rytm mowy, a także indywidualne cechy postaci – pijaństwo Młynarza, zrzędliwość Wójta czy elokwencję Odpustnika.
+                  * Środki stylistyczne: Chaucer wykorzystuje pełen arsenał środków stylistycznych. Kluczową rolę odgrywa ironia, która często polega na kontraście między tym, co mówi Narrator, a tym, co czytelnik może wywnioskować z opisu. Stosuje również liczne aluzje do Biblii, mitologii klasycznej i dzieł filozoficznych, co świadczy o jego erudycji.
+                  * Wersyfikacja: Większość opowieści jest napisana wierszem, głównie w pentametrze jambicznym (dziesięciozgłoskowiec o akcentach na parzystych sylabach), najczęściej w formie parzyście rymowanych dwuwierszy (dystychów).6 Chaucer jest uważany za tego, który wprowadził tę formę do literatury angielskiej i uczynił ją dominującym metrum na kolejne stulecia.
+
+
+Techniki narracyjne
+
+
+                  * Typ narratora: Mamy do czynienia z podwójną perspektywą narracyjną. Głównym narratorem jest Chaucer-Pielgrzym, który jest uczestnikiem wydarzeń i opowiada o nich z własnej, subiektywnej perspektywy.9 Jest to narrator pierwszoosobowy, który często podkreśla swoją rzekomą naiwność i brak kompetencji, co jest chwytem ironicznym. Wewnątrz tej ramy, każda z opowieści ma swojego własnego narratora – jednego z pielgrzymów – który opowiada historię z perspektywy trzecioosobowej (najczęściej) lub pierwszoosobowej.
+                  * Opowieść ramowa (Frame Narrative): Jest to kluczowa technika kompozycyjna dzieła. Pozwala ona na zestawienie wielu różnych głosów, perspektyw i gatunków literackich w ramach jednej, spójnej struktury.8 Rama nie jest tylko pretekstem – interakcje między pielgrzymami w "łącznikach" aktywnie wpływają na treść i kolejność opowieści.
+                  * Techniki budowania napięcia: Chaucer buduje napięcie zarówno wewnątrz poszczególnych opowieści (np. poprzez zapowiedź tragedii w Opowieści Rycerza czy stopniowe odkrywanie spisku w Opowieści Odpustnika), jak i w opowieści ramowej, poprzez rosnące konflikty między pielgrzymami (np. między Młynarzem a Wójtem, czy Kwestarzem a Woźnym Sądowym).
+
+
+Struktura kompozycyjna
+
+
+                  * Podział na części: Dzieło w zachowanych manuskryptach jest podzielone na dziesięć "Fragmentów". Kolejność tych fragmentów jest przedmiotem debaty naukowej, ponieważ Chaucer nie pozostawił ostatecznej wersji.4 Wewnątrz fragmentów znajdują się poszczególne opowieści, często poprzedzone prologiem danego opowiadacza.
+                  * Rytm narracji: Rytm jest bardzo zróżnicowany. Długie, refleksyjne opisy (jak opis świątyń w Opowieści Rycerza) przeplatają się z dynamicznymi scenami akcji (walka w turnieju, pościg za lisem w Opowieści Kapelana Przeoryszy). Proporcje między opisem, dialogiem a akcją są starannie dobrane w zależności od gatunku i charakteru opowieści.
+
+
+CZĘŚĆ VII: ZNACZENIE I INTERPRETACJE
+
+
+
+
+Interpretacje krytyczne
+
+
+Recepcja Opowieści Kanterberyjskich na przestrzeni wieków była niezwykle bogata i zróżnicowana, odzwierciedlając zmieniające się priorytety krytyki literackiej.
+                  * Wczesna recepcja (XV-XVIII w.): Bezpośrednio po śmierci Chaucera, poeci tacy jak John Lydgate i Thomas Hoccleve czcili go jako "ojca angielskiej poezji" i mistrza języka.13 Skupiano się na jego roli w ugruntowaniu wernakularu jako języka literackiego oraz na moralnym wymiarze jego dzieł. Sprośne opowieści były często postrzegane jako humorystyczne przestrogi, a nie jako powód do zgorszenia.
+                  * Krytyka XIX-wieczna: W epoce romantyzmu i wiktoriańskiej doceniano Chaucera za jego żywe portrety postaci i barwny obraz średniowiecznej Anglii. Jednak krytycy często mieli problem z "wulgarnością" niektórych opowieści, próbując ją cenzurować lub tłumaczyć jako wyraz rubaszności minionej epoki.
+                  * Krytyka XX-wieczna i współczesna: XX wiek przyniósł rewolucję w badaniach nad Chaucerem. Krytycy formalistyczni analizowali złożoną strukturę dzieła, ironię i wielogłosowość. Badania historyczne pozwoliły na głębsze osadzenie Opowieści w kontekście społecznym i politycznym XIV wieku. Współczesne nurty interpretacyjne, takie jak feminizm, marksizm czy postkolonializm, otworzyły nowe perspektywy odczytania dzieła. Analizuje się kwestie władzy, ról płciowych (zwłaszcza w kontekście postaci Żony z Bath), konflikty klasowe i reprezentację "inności".45 Niedokończony charakter dzieła jest postrzegany nie jako wada, ale jako cecha świadcząca o jego otwartości na interpretacje.45
+
+
+Znaczenie kulturowe
+
+
+                  * Wpływ na literaturę: Wpływ Chaucera na literaturę angielską jest nie do przecenienia. Ustanowił on pentametr jambiczny jako podstawowe metrum angielskiej poezji, które dominowało aż do XX wieku. Jego umiejętność tworzenia złożonych, psychologicznie wiarygodnych postaci stała się wzorcem dla późniejszych pisarzy, w tym dla Szekspira. Opowieści Kanterberyjskie są uznawane za jeden z kamieni węgielnych kanonu literatury zachodniej.
+                  * Adaptacje: Dzieło było wielokrotnie adaptowane na potrzeby teatru, filmu i innych mediów. Do najbardziej znanych należą:
+                  * Film: Kontrowersyjny film Piera Paolo Pasoliniego Opowieści kanterberyjskie (1972), który podkreślał cielesny i groteskowy wymiar niektórych opowieści, często dodając sceny, których nie ma w oryginale.49
+                  * Teatr: Musicale, sztuki teatralne i adaptacje sceniczne, które często skupiają się na komicznym potencjale interakcji między pielgrzymami.
+                  * Literatura: Liczne modernizacje i retellingi, które próbują przenieść ducha opowieści Chaucera we współczesne realia.
+
+
+Aktualność przesłania
+
+
+Mimo upływu ponad 600 lat, Opowieści Kanterberyjskie wciąż rezonują ze współczesnym czytelnikiem.
+                  * Uniwersalne wartości: Dzieło porusza ponadczasowe tematy, takie jak miłość, zdrada, chciwość, hipokryzja, poszukiwanie sensu życia i natura ludzka. Dylematy moralne, przed którymi stają bohaterowie, są wciąż aktualne.
+                  * Znaczenie dla współczesnego czytelnika: Dla współczesnego odbiorcy Opowieści są fascynującym oknem na odległy, a jednak w wielu aspektach znajomy świat. Krytyka korupcji władzy (zarówno świeckiej, jak i kościelnej), debata na temat ról płciowych i napięcia między różnymi grupami społecznymi to problemy, które wciąż są obecne w naszym społeczeństwie.
+                  * Lekcje moralne: Choć Chaucer unika prostego moralizatorstwa, jego dzieło jest głęboko zakorzenione w etyce chrześcijańskiej. Opowieści takie jak Opowieść Odpustnika czy Opowieść Proboszcza wprost przekazują moralne nauki o zgubnych skutkach grzechu i wartości cnoty. Jednak największą lekcją płynącą z dzieła jest akceptacja ludzkiej niedoskonałości i złożoności, przedstawiona z humorem, empatią i niezwykłą przenikliwością.
+
+
+CZĘŚĆ VIII: OPISY WIZUALNE DLA ADAPTACJI
+
+
+Ta sekcja stanowi skondensowany katalog kluczowych informacji wizualnych, zaprojektowany jako praktyczne narzędzie dla zespołu produkcyjnego.
+
+
+Katalog postaci z opisami wizualnymi
+
+
+Poniższa tabela syntetyzuje informacje o wyglądzie pielgrzymów, umożliwiając szybkie porównanie i zapewniając spójność wizualną w procesie castingu, kostiumografii i charakteryzacji.
+Tabela 1: Matryca Wizualna Pielgrzymów
+Pielgrzym
+	Klasa/Zawód
+	Szacowany Wiek
+	Budowa Ciała
+	Twarz i Włosy
+	Główny Ubiór i Kolory
+	Kluczowe Rekwizyty/Akcesoria
+	Koń
+	Rycerz
+	Szlachta/Żołnierz
+	50-60
+	Krzepka, zahartowana
+	Ogorzała twarz, BRAK DANYCH
+	Poplamiony kaftan z fustianu (beż/brąz)
+	Miecz
+	Dobry koń bojowy
+	Giermek
+	Szlachta/Aspirant
+	ok. 20
+	Zwinna, silna
+	Kręcone włosy
+	Krótka tunika haftowana w kwiaty (czerwień/biel)
+	Flet
+	Elegancki wierzchowiec
+	Yeoman
+	Lud/Sługa
+	25-40
+	Krzepka
+	Opalona twarz, krótkie włosy
+	Zielony płaszcz i kaptur
+	Długi łuk, strzały z pawich piór, medalion św. Krzysztofa
+	Wytrzymały koń
+	Przeorysza
+	Duchowieństwo
+	35-45
+	Dobrze zbudowana, pulchna
+	Szare oczy, szerokie czoło
+	Elegancki, czarny habit, biały welon
+	Koralowy różaniec, złota brosza "Amor vincit omnia"
+	BRAK DANYCH
+	Mnich
+	Duchowieństwo
+	40-50
+	Tłusty, korpulentny
+	Łysy, lśniąca twarz, wyłupiaste oczy
+	Habit z rękawami obszytymi futrem (brąz/szary)
+	Złota szpila "węzeł miłości", psy gończe
+	Brązowy, zadbany wierzchowiec
+	Żona z Bath
+	Mieszczaństwo/Rzemieślnik
+	ok. 40
+	Krzepka, szerokie biodra
+	Rumiana twarz, przerwa między zębami
+	Szkarłatne pończochy, wielki kapelusz, drogie chusty
+	Ostre ostrogi
+	"Ambler" (koń o spokojnym chodzie)
+	Młynarz
+	Lud/Rzemieślnik
+	30-40
+	Bardzo silny, barczysty
+	Ruda, szeroka broda, brodawka na nosie
+	Biały płaszcz, niebieski kaptur
+	Dudy, miecz i puklerz
+	Mocny, roboczy koń
+	Woźny Sąd.
+	Duchowieństwo (obsługa)
+	BRAK DANYCH
+	BRAK DANYCH
+	Czerwona, pokryta wrzodami twarz, rzadka broda
+	BRAK DANYCH
+	Wieniec z kwiatów
+	BRAK DANYCH
+	Odpustnik
+	Duchowieństwo (obsługa)
+	BRAK DANYCH
+	Zniewieściała
+	Długie, rzadkie, żółte włosy, bez brody, wyłupiaste oczy
+	Mała czapka z Weroniką
+	Sakwa z fałszywymi relikwiami (kości, płótno)
+	BRAK DANYCH
+	Proboszcz
+	Duchowieństwo
+	BRAK DANYCH
+	BRAK DANYCH
+	BRAK DANYCH
+	Ubogi, prosty strój
+	Laska pasterska
+	BRAK DANYCH
+	Oracz
+	Lud/Rolnik
+	BRAK DANYCH
+	BRAK DANYCH
+	BRAK DANYCH
+	Prosta, zgrzebna tunika (tabard)
+	BRAK DANYCH
+	Stara kobyła
+	
+
+Katalog lokacji
+
+
+Poniższa tabela zawiera kluczowe informacje dla scenografów, reżyserów i artystów koncepcyjnych, definiując wizualny charakter najważniejszych miejsc akcji.
+Tabela 2: Katalog Wizualny Lokacji
+Lokacja
+	Styl Architektoniczny/Typ
+	Dominujące Materiały i Paleta
+	Oświetlenie i Atmosfera
+	Kluczowe Meble/Cechy
+	Gospoda "Pod Tabardem"
+	XIV w. karczma z galerią
+	Konstrukcja szachulcowa, drewno, glina, dachówka. Paleta: ciemne brązy, biel, ziemiste kolory.
+	Ciemne, zadymione, oświetlone ogniem. Atmosfera: głośna, chaotyczna, ludyczna.
+	Długie stoły na kozłach, ławy, ogromne palenisko, otwarty dziedziniec, galerie.
+	Droga do Canterbury
+	Średniowieczny trakt
+	Ziemia, żwir, błoto, trawa. Paleta: brązy, zielenie, szarości.
+	Naturalne, zmienne (słońce, deszcz). Atmosfera: otwarta przestrzeń, poczucie podróży i niebezpieczeństwa.
+	Koleiny, przydrożne zagajniki, nieliczne wioski w oddali.
+	Katedra w Canterbury
+	Angielski gotyk
+	Kamień, witraże, złoto. Paleta: szarość kamienia, wielobarwne światło witraży.
+	Mroczne, rozproszone, kolorowe światło. Atmosfera: wzniosła, majestatyczna, sakralna.
+	Wysokie sklepienia żebrowe, strzeliste łuki, kamienne kolumny, bogato zdobiony grobowiec (historycznie).
+	Dom Cieśli (Op. Młynarza)
+	XIV w. dom rzemieślnika
+	Konstrukcja szachulcowa, drewno, glina. Paleta: brązy, biel, szarości.
+	Ciemne, oświetlone świecą lub księżycem. Atmosfera: ciasna, klaustrofobiczna, pełna napięcia.
+	Małe okienko, łóżko, balie wiszące pod sufitem, proste meble.
+	Amfiteatr w Atenach (Op. Rycerza)
+	Mityczna architektura klasyczna
+	Biały marmur, stal, alabaster, koral. Paleta: biel, szarość, czerwień, złoto.
+	Jasne, słoneczne światło. Atmosfera: epicka, ceremonialna, pełna napięcia.
+	Arena, trybuny, trzy bogato zdobione świątynie (Wenus, Marsa, Diany).
+	
+
+Kluczowe sceny do wizualizacji
+
+
+Lista 12 najważniejszych scen, które posiadają największy potencjał wizualny i narracyjny:
+                  1. Zgromadzenie w gospodzie "Pod Tabardem": Przedstawienie całej barwnej kompanii w chaotycznej, oświetlonej ogniem sali.
+                  2. Początek pielgrzymki: Pochód konny opuszczający Southwark o wschodzie słońca.
+                  3. Turniej w Atenach (Opowieść Rycerza): Epicka scena starcia dwóch armii w marmurowym amfiteatrze.
+                  4. Palamon i Arcite widzą Emelye: Kontrast między mrokiem więziennej wieży a jasnym, ukwieconym ogrodem.
+                  5. Klimaks Opowieści Młynarza: Komediowy chaos z pocałunkami, rozżarzonym lemieszem i spadającą balią w ciemnej sypialni.
+                  6. Poszukiwania rycerza (Opowieść Żony z Bath): Montaż podróży rycerza przez różnorodne krajobrazy Anglii i spotkań z kobietami.
+                  7. Transformacja starej wiedźmy: Magiczna przemiana odrażającej staruchy w piękną kobietę w komnacie oświetlonej świecami.
+                  8. Hulacy znajdują złoto (Opowieść Odpustnika): Trzech mężczyzn w leśnym zagajniku, ich twarze zmieniające się od brawury do chciwości na widok lśniącego skarbu.
+                  9. Śmierć hulaków: Ponury obraz trzech ciał leżących wokół nietkniętego złota i zatrutego wina.
+                  10. Chanticleer i lis (Opowieść Kapelana Przeoryszy): Scena w wiejskim obejściu; kontrast między pysznym, kolorowym kogutem a chytrym, rudym lisem.
+                  11. Pogoń za lisem: Chaotyczny pościg wieśniaczek, psów i innych zwierząt za lisem uciekającym z kogutem w pysku.
+                  12. Znikające skały (Opowieść Franklina): Iluzjonistyczna scena na wybrzeżu Bretanii, gdzie czarne, groźne skały znikają pod wpływem magicznej, wysokiej fali.
+
+
+Przedmioty i symbole wizualne
+
+
+                  * Fałszywe relikwie Odpustnika: Słoik ze "świńskimi kośćmi", kawałek starego płótna (rzekomy welon Maryi), znoszona rękawica. Muszą wyglądać tandetnie i nieprzekonująco, co kontrastuje z wiarą, jaką w nie pokładają prości ludzie.
+                  * Szkarłatne pończochy Żony z Bath: Jaskrawy, niemal szokujący akcent kolorystyczny, symbolizujący jej pasję, bogactwo i wyzywającą naturę.
+                  * Strzały Yeomana: Z pawimi piórami, lśniące i zadbane. Symbol dumy z rzemiosła i profesjonalizmu.
+                  * Złota szpila Mnicha: Kunsztownie wykonany "węzeł miłości". Symbol jego światowości, próżności i odrzucenia ślubów zakonnych.
+                  * Złoto w Opowieści Odpustnika: Osiem buszli złotych florenów. Powinny lśnić w słońcu, hipnotyzując hulaków i widza, symbolizując śmiertelną pokusę chciwości.
+                  * Rozżarzony lemiesz: Ciężkie, żelazne ostrze pługa, rozgrzane do czerwoności. Symbol brutalnej, komicznej i bolesnej zemsty.
+                  * Księgi Kleryka: Kilka oprawionych w skórę, zniszczonych od częstego użytku manuskryptów. W świecie, gdzie książki są rzadkością, symbolizują one jego jedyną miłość i bogactwo – wiedzę.
+________________
+
+
+ŹRÓDŁA
+
+
+1
+Cytowane prace
+                  1. The Canterbury Tales | Summary, Characters, & Facts - Britannica, otwierano: sierpnia 23, 2025, https://www.britannica.com/topic/The-Canterbury-Tales
+                  2. The Canterbury Tales - Simple English Wikipedia, the free encyclopedia, otwierano: sierpnia 23, 2025, https://simple.wikipedia.org/wiki/The_Canterbury_Tales
+                  3. Geoffrey Chaucer | Biography, Poems, Canterbury Tales, & Facts | Britannica, otwierano: sierpnia 23, 2025, https://www.britannica.com/biography/Geoffrey-Chaucer
+                  4. Geoffrey Chaucer - Canterbury Tale, Books & Poems, otwierano: sierpnia 23, 2025, https://www.biography.com/authors-writers/geoffrey-chaucer
+                  5. The Canterbury Tales - World History Encyclopedia, otwierano: sierpnia 23, 2025, https://www.worldhistory.org/Canterbury_Tales/
+                  6. Geoffrey Chaucer: The Canterbury Tales – An Open Companion to Early British Literature, otwierano: sierpnia 23, 2025, https://pressbooks.pub/earlybritishlit/chapter/geoffrey-chaucer-the-canterbury-tales/
+                  7. The Canterbury Tales: a Guide in 9 Literary Elements - literature...no trouble, otwierano: sierpnia 23, 2025, https://www.literature-no-trouble.com/the-canterbury-tales-a-guide-in-9-literary-elements/
+                  8. www.sparknotes.com, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/genre/#:~:text=Geoffrey%20Chaucer's%20The%20Canterbury%20Tales,much%20plot%20of%20its%20own.
+                  9. Narrative: The General Prologue To The Canterbury Tales As Frame | PDF - Scribd, otwierano: sierpnia 23, 2025, https://www.scribd.com/document/484356998/The-General-Prologue-to-The-Canterbury-T-docx
+                  10. The Canterbury Tales Introduction & Prologue to the Pardoner's Tale & The Pardoner's Tale Summary & Analysis | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/section11/
+                  11. Canterbury Tales: The Nun's Priest's Tale – An Open Companion to Early British Literature, otwierano: sierpnia 23, 2025, https://pressbooks.pub/earlybritishlit/chapter/canterbury-tales-the-nuns-priests-tale/
+                  12. The Canterbury Tales is conceived | EBSCO Research Starters, otwierano: sierpnia 23, 2025, https://www.ebsco.com/research-starters/literature-and-writing/canterbury-tales-conceived
+                  13. How did the public respond to "The Canterbury Tales" at the time it was written? - Reddit, otwierano: sierpnia 23, 2025, https://www.reddit.com/r/AskLiteraryStudies/comments/391ggu/how_did_the_public_respond_to_the_canterbury/
+                  14. The Tabard - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_Tabard
+                  15. Watling Street - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Watling_Street
+                  16. Lost London – The Tabard Inn, otwierano: sierpnia 23, 2025, https://exploring-london.com/2016/04/15/lost-london-the-tabard-inn/
+                  17. Researching the History of Pubs, Inns and Hotels in Britain, otwierano: sierpnia 23, 2025, https://www.buildinghistory.org/buildings/inns.shtml
+                  18. The Medieval House: Parts of the House and Different Styles, otwierano: sierpnia 23, 2025, https://medievalbritain.com/type/medieval-life/architecture/the-medieval-house-parts-of-a-house-of-the-middle-ages-and-different-styles/
+                  19. 25 Things from Everyday Life in the Middle Ages - Medievalists.net, otwierano: sierpnia 23, 2025, https://www.medievalists.net/2022/05/things-everyday-life-middle-ages/
+                  20. The Tabard Inn - Exploring London, otwierano: sierpnia 23, 2025, https://exploring-london.com/tag/the-tabard-inn/
+                  21. History - Old Kent Road, otwierano: sierpnia 23, 2025, https://oldkentroad.org.uk/history/
+                  22. Canterbury-Becket Way - British Pilgrimage Trust, otwierano: sierpnia 23, 2025, https://www.britishpilgrimage.org/portfolio/pilgrims-way-to-canterbury
+                  23. medievallondon.ace.fordham.edu, otwierano: sierpnia 23, 2025, https://medievallondon.ace.fordham.edu/exhibits/show/medieval-london-sites/southwarkcathedral#:~:text=With%20the%20help%20of%20the,this%20original%20medieval%20gothic%20architecture.
+                  24. Southwark Cathedral | Cal Poly Architecture in London - WordPress.com, otwierano: sierpnia 23, 2025, https://cplondonarchitecture.wordpress.com/2012/07/17/southwark-cathedral/
+                  25. Symbols in The Canterbury Tales: Clothes & Language - Custom-Writing.org, otwierano: sierpnia 23, 2025, https://custom-writing.org/blog/symbols-in-the-canterbury-tales-clothes-language
+                  26. The Significance of Clothing in The Canterbury Tales: General Prologue - Bartleby.com, otwierano: sierpnia 23, 2025, https://www.bartleby.com/essay/The-Significance-of-Clothing-in-The-Canterbury-F3CM2Z5ZTJ
+                  27. Clothing and Appearance Symbol in The Canterbury Tales | LitCharts, otwierano: sierpnia 23, 2025, https://www.litcharts.com/lit/the-canterbury-tales/symbols/clothing-and-appearance#:~:text=Clothing%20and%20Appearance%20Symbol%20Analysis&text=What%20the%20pilgrims%20wear%20is,talk%2C%20he%20walks%20the%20walk.
+                  28. Chaucerian ekphrasis: Power, place and image in the Knight's Tale, otwierano: sierpnia 23, 2025, https://commons.emich.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1142&context=honors
+                  29. KEY***The Canterbury Tales Pilgrim Chart (from the “Prologue ..., otwierano: sierpnia 23, 2025, https://iblog.dearbornschools.org/tylerm/wp-content/uploads/sites/590/2016/01/Canterbury-Tales-Character-Chart.pdf
+                  30. 1.1 General Prologue | Harvard's Geoffrey Chaucer Website, otwierano: sierpnia 23, 2025, https://chaucer.fas.harvard.edu/pages/general-prologue-0
+                  31. Chaucer's Portraits: The Wife of Bath & Clerk – British Literature to 1800, otwierano: sierpnia 23, 2025, https://ohiostate.pressbooks.pub/engl2201/chapter/a-prologue-to-the-general-prologue/
+                  32. Furnishings of Medieval English Peasant Houses | PDF | Furniture | Bed - Scribd, otwierano: sierpnia 23, 2025, https://www.scribd.com/document/222309384/Furnishings-of-Medieval-English-Peasant-Houses
+                  33. Furniture - Middle Ages | Britannica, otwierano: sierpnia 23, 2025, https://www.britannica.com/technology/furniture/Middle-Ages
+                  34. An Introduction to Medieval England (1066–1485) - English Heritage, otwierano: sierpnia 23, 2025, https://www.english-heritage.org.uk/learn/story-of-england/medieval/
+                  35. Society, economy and the law in fourteenth-century England | Faculty of History, otwierano: sierpnia 23, 2025, https://www.history.ox.ac.uk/society-economy-and-law-fourteenth-century-england
+                  36. 14th century timeline of British History, otwierano: sierpnia 23, 2025, https://intriguing-history.com/time-and-place-2/14th-century-1300-1399/
+                  37. The Wife of Bath Character Analysis in The Canterbury Tales - LitCharts, otwierano: sierpnia 23, 2025, https://www.litcharts.com/lit/the-canterbury-tales/characters/the-wife-of-bath
+                  38. The Pardoner's Tale: A guide for AQA LITB 3 at Slough Grammar School - WordPress.com, otwierano: sierpnia 23, 2025, https://jwpblog.files.wordpress.com/2012/07/pardoner.pdf
+                  39. The Pardoner's Tale - The Open Access Companion to the Canterbury Tales, otwierano: sierpnia 23, 2025, https://opencanterburytales.dsl.lsu.edu/pardt1/
+                  40. The Canterbury Tales: Full Book Summary | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/summary/
+                  41. The Canterbury Tales Prologue to the Miller's Tale & The Miller's Tale Summary & Analysis | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/section7/
+                  42. The Canterbury Tales: The Miller's Tale Setting - Shmoop, otwierano: sierpnia 23, 2025, https://www.shmoop.com/study-guides/millers-tale/setting.html
+                  43. The Canterbury Tales The Wife of Bath's Tale Summary & Analysis | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/section10/
+                  44. Canterbury Tales: The Pardoner's Prologue and Tale – An Open Companion to Early British Literature - Pressbooks.pub, otwierano: sierpnia 23, 2025, https://pressbooks.pub/earlybritishlit/chapter/the-pardoners-prologue-and-tale/
+                  45. The Canterbury Tales: Full Book Analysis - SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/plot-analysis/
+                  46. Themes in The Canterbury Tales to Know for Chaucer - Fiveable, otwierano: sierpnia 23, 2025, https://library.fiveable.me/lists/themes-in-the-canterbury-tales
+                  47. The Franklin's Tale - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_Franklin%27s_Tale
+                  48. The Miller's Tale and the Art of Solaas (Chapter 5) - The Cambridge Companion to The Canterbury Tales, otwierano: sierpnia 23, 2025, https://www.cambridge.org/core/books/cambridge-companion-to-the-canterbury-tales/millers-tale-and-the-art-of-solaas/5CF7E557B8D3021C94A3B339999992D8
+                  49. The Canterbury Tales (film) - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_Canterbury_Tales_(film)
+                  50. The Canterbury tales of Geoffrey Chaucer - Internet Archive, otwierano: sierpnia 23, 2025, https://archive.org/details/canterburytaleso00chauuoft
+                  51. www.sparknotes.com, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/plot-analysis/#:~:text=In%20The%20Canterbury%20Tales%2C%20a,upheavals%20of%20late%20medieval%20England.
+                  52. The Canterbury Tales Summary and Study Guide | SuperSummary, otwierano: sierpnia 23, 2025, https://www.supersummary.com/the-canterbury-tales/summary/
+                  53. 5 the canterbury tales - themes,motifs,symbols | PPTX - SlideShare, otwierano: sierpnia 23, 2025, https://www.slideshare.net/slideshow/5-the-canterbury-tales-themesmotifssymbols/54925425
+                  54. Adaptations - Global Chaucers, otwierano: sierpnia 23, 2025, https://globalchaucers.com/category/adaptations/
+                  55. Jargon - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Jargon
+                  56. Oxford Guides to Chaucer: The Canterbury Tales (Paperback) - Harvard Book Store, otwierano: sierpnia 23, 2025, https://www.harvard.com/book/9780198878780
+                  57. The Canterbury Tales - Harvard's Geoffrey Chaucer Website, otwierano: sierpnia 23, 2025, https://chaucer.fas.harvard.edu/pages/literary-works
+                  58. The George Inn, Southwark - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_George_Inn,_Southwark
+                  59. Public Houses of Medieval Southwark | London Before the Fire - QMUL History Blogs, otwierano: sierpnia 23, 2025, https://blogs.history.qmul.ac.uk/beforethefire/2017/04/05/public-houses-of-medieval-southwark/
+                  60. THE GEORGE INN, Non Civil Parish - 1378357 | Historic England, otwierano: sierpnia 23, 2025, https://historicengland.org.uk/listing/the-list/list-entry/1378357
+                  61. Watling Street through Kent - Roman Era Names, otwierano: sierpnia 23, 2025, http://www.romaneranames.uk/essays/watling.pdf
+                  62. English medieval clothing - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/English_medieval_clothing
+                  63. 1300–1400 in European fashion - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/1300%E2%80%931400_in_European_fashion
+                  64. Clothes in Medieval England - World History Encyclopedia, otwierano: sierpnia 23, 2025, https://www.worldhistory.org/article/1248/clothes-in-medieval-england/
+                  65. What Did People Wear in Medieval England? | History Hit, otwierano: sierpnia 23, 2025, https://www.historyhit.com/what-did-people-wear-in-medieval-england/
+                  66. 9 Everyday Objects from the Middle Ages - History.com, otwierano: sierpnia 23, 2025, https://www.history.com/articles/everyday-objects-middle-ages
+                  67. Ekphrasis In The Knight's Tale - 1401 Words | Cram, otwierano: sierpnia 23, 2025, https://www.cram.com/essay/Ekphrasis-In-The-Knights-Tale-Analysis/PCP5L4D3QU
+                  68. The Canterbury Tales The Knight's Tale: Parts 1 & 2 Summary & Analysis | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/section5/
+                  69. A Knight's Tale Movie Review | History | High Point University, otwierano: sierpnia 23, 2025, https://www.highpoint.edu/history/2020/10/27/a-knights-tale-movie-review/
+                  70. Miller's tale waxes philosophic - The University of Chicago Magazine, otwierano: sierpnia 23, 2025, https://magazine.uchicago.edu/0502/investigations/miller.shtml
+                  71. The Miller's Tale - The Open Access Companion to the Canterbury Tales, otwierano: sierpnia 23, 2025, https://opencanterburytales.dsl.lsu.edu/milt1/
+                  72. The Wife of Bath's Tale - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_Wife_of_Bath%27s_Tale
+                  73. Unveiling The Wife of Bath's Tale - Number Analytics, otwierano: sierpnia 23, 2025, https://www.numberanalytics.com/blog/the-wife-of-bath-tale-ultimate-guide
+                  74. Figurative Language - The Pardoner's Tale, otwierano: sierpnia 23, 2025, https://lepardonerstale.weebly.com/figurative-language.html
+                  75. english lit: 'the pardoner's tale' Flashcards - Quizlet, otwierano: sierpnia 23, 2025, https://quizlet.com/gb/143410062/english-lit-the-pardoners-tale-flash-cards/
+                  76. Houses of the Oxford Region - Oxoniensia, otwierano: sierpnia 23, 2025, https://www.oxoniensia.org/volumes/1960/pantin.pdf
+                  77. Furniture and woodwork in Tudor England: native practices, methods, materials and context, otwierano: sierpnia 23, 2025, https://www.npg.org.uk/collections/research/programmes/making-art-in-tudor-britain/workshops/workshop-2-abstract-4
+                  78. Early English furniture & woodwork - Survivor Library, otwierano: sierpnia 23, 2025, https://www.survivorlibrary.com/library/early_english_furniture_&_woodwork_vol_2_1922.pdf
+                  79. STRAW, STICKS AND BRICKS: A Historic Buildings Educational Pack - John Moore Museum, otwierano: sierpnia 23, 2025, https://www.johnmooremuseum.org/wp-content/uploads/2021/03/Straw-sticks-and-bricks.pdf
+                  80. The Construction of Medieval and Tudor Houses in London - Department of Architecture |, otwierano: sierpnia 23, 2025, https://www.arct.cam.ac.uk/system/files/documents/article1_6.pdf
+                  81. Medieval Furniture, otwierano: sierpnia 23, 2025, https://visualelbolson.wordpress.com/wp-content/uploads/2015/04/furniture_class.pdf
+                  82. King Arthur: fable, fact and fiction - Medieval manuscripts blog, otwierano: sierpnia 23, 2025, https://blogs.bl.uk/digitisedmanuscripts/2019/09/king-arthur-fable-fact-and-fiction.html
+                  83. Arthurian Imagination in Eighteenth- and Nineteenth-Century British Art - MMU e-space, otwierano: sierpnia 23, 2025, https://e-space.mmu.ac.uk/628337/3/Lindfield_2016.6.pdf
+                  84. Arthurian Legends and Their Impact on Medieval Culture - TheCollector, otwierano: sierpnia 23, 2025, https://www.thecollector.com/arthurian-legends-medieval/
+                  85. King Arthur - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/King_Arthur
+                  86. In Search of the Round Table: Arthurian Wall Paintings | DailyArt Magazine, otwierano: sierpnia 23, 2025, https://www.dailyartmagazine.com/in-search-of-the-round-table-arthurian-wall-paintings/
+                  87. 87 King arthur in art Images: PICRYL - Public Domain Media Search Engine Public Domain Search - Collections, otwierano: sierpnia 23, 2025, https://jenikirbyhistory.getarchive.net/topics/king+arthur+in+art
+                  88. Tavern Interior - Ostade, Adriaen van. Museo Nacional Thyssen-Bornemisza, otwierano: sierpnia 23, 2025, https://www.museothyssen.org/en/collection/artists/ostade-adriaen-van/tavern-interior
+                  89. Tavern Interior Willem Linnig - Parish of St Helier, otwierano: sierpnia 23, 2025, https://sthelier.je/wp-content/uploads/sites/14/2024/12/Tavern-Interior.pdf
+                  90. Early Netherlandish painting - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Early_Netherlandish_painting
+                  91. Tavern - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Tavern
+                  92. Category:Tavern interiors in Flemish genre paintings - Wikimedia Commons, otwierano: sierpnia 23, 2025, https://commons.wikimedia.org/wiki/Category:Tavern_interiors_in_Flemish_genre_paintings
+                  93. Medieval Tavern Painting - Pinterest, otwierano: sierpnia 23, 2025, https://www.pinterest.com/ideas/medieval-tavern-painting/930720303835/
+                  94. The Nun's Priest's Tale - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/The_Nun%27s_Priest%27s_Tale
+                  95. The Nun's Priest's Tale, otwierano: sierpnia 23, 2025, http://englishiva1011.pbworks.com/f/NUNSTALE.PDF
+                  96. The Canterbury Tales Prologue to the Nun's Priest's Tale, the Nun's Priest's Tale, & Epilogue to the Nun's Priest's Tale Summary & Analysis | SparkNotes, otwierano: sierpnia 23, 2025, https://www.sparknotes.com/lit/the-canterbury-tales/section12/
+                  97. The Canterbury Tales Full Text - The Nun's Priest's Tale - Owl Eyes, otwierano: sierpnia 23, 2025, https://www.owleyes.org/text/canterbury-tales/read/the-nuns-priests-tale
+                  98. The Nun's Priest's Tale by Geoffrey Chaucer | EBSCO Research Starters, otwierano: sierpnia 23, 2025, https://www.ebsco.com/research-starters/literature-and-writing/nuns-priests-tale-geoffrey-chaucer
+                  99. Collins Article - “'Rokkes Blake': Metonymy, Metaphor and Metaphysics in The Franklin's Tale - This Rough Magic, otwierano: sierpnia 23, 2025, http://www.thisroughmagic.org/collins%20article.html
+                  100. The Uses of Enchantment in The Franklin's Tale - OpenEdition Journals, otwierano: sierpnia 23, 2025, https://journals.openedition.org/episteme/216
+                  101. The Franklin's Tale (Manicheva) - Spatial Humanities, otwierano: sierpnia 23, 2025, https://spatial-humanities.library.utoronto.ca/neatline/show/the-franklins-tale-manicheva
+                  102. 5.2 The Franklin's Prologue and Tale | Harvard's Geoffrey Chaucer Website, otwierano: sierpnia 23, 2025, https://chaucer.fas.harvard.edu/pages/franklins-prologue-and-tale
+                  103. The Franklin's Fantasy, otwierano: sierpnia 23, 2025, https://people.bu.edu/bobl/franklin.htm
+                  104. Medieval Merchant's House - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Medieval_Merchant%27s_House
+                  105. Peasant homes in medieval England - Wikipedia, otwierano: sierpnia 23, 2025, https://en.wikipedia.org/wiki/Peasant_homes_in_medieval_England
+                  106. Home Sweet Home: Medieval Housing Throughout The Ages, otwierano: sierpnia 23, 2025, https://medievalreporter.com/medieval-housing/
+                  107. Houses in late middle ages : r/history - Reddit, otwierano: sierpnia 23, 2025, https://www.reddit.com/r/history/comments/c8lodk/houses_in_late_middle_ages/
+                  108. Furnishings of medieval English peasant houses: investment, consumption and life style, otwierano: sierpnia 23, 2025, https://www.medievalists.net/2011/03/furnishings-of-medieval-english-peasant-houses-investment-consumption-and-life-style/
+                  109. The Magic of the Medieval Garden - Les Delices, otwierano: sierpnia 23, 2025, https://lesdelices.org/medieval-garden/
+                  110. Heavenly Delights in Medieval Gardens, otwierano: sierpnia 23, 2025, https://www.medieval.eu/medieval-gardens-offer-heavenly-delights/
+                  111. Boundaries: Medieval Women in Medieval Gardens. - English Historical Fiction Authors, otwierano: sierpnia 23, 2025, https://englishhistoryauthors.blogspot.com/2011/10/boundaries-medieval-women-in-medieval.html
+                  112. Medieval English Gardens- The Paradise or Love Garden - Carol McGrath Writer, otwierano: sierpnia 23, 2025, https://carolcmcgrath.co.uk/medieval-english-gardens-the-paradise-or-love-garden/
+                  113. Medieval gardens - Carolyn Hughes, otwierano: sierpnia 23, 2025, https://carolynhughesauthor.com/2019/12/19/medieval-gardens/
+                  114. Romance of the Rose - and Gardens - Gardenvisit.com, otwierano: sierpnia 23, 2025, https://www.gardenvisit.com/history_theory/library_online_ebooks/ml_gothein_history_garden_art_design/romance_rose_gardens
+                  115. The Miller's Prologue and Tale - Analysis in The Miller's | PDF | Humour | Love - Scribd, otwierano: sierpnia 23, 2025, https://www.scribd.com/document/20905790/The-Miller-s-Prologue-and-Tale-Analysis-in-the-Miller-s
+                  116. The Miller's Tale Answer Guide - ScholarWorks@BGSU, otwierano: sierpnia 23, 2025, https://scholarworks.bgsu.edu/cgi/viewcontent.cgi?filename=11&article=1663&context=honorsprojects&type=additional
+                  117. 'The Miller's Tale' by Geoffrey Chaucer: summary, themes & main characters! | Narrator: Barbara Njau - YouTube, otwierano: sierpnia 23, 2025, https://www.youtube.com/watch?v=CgDf1WiUnoc
+                  118. The Pardoner's Tale Flashcards - Quizlet, otwierano: sierpnia 23, 2025, https://quizlet.com/221823651/the-pardoners-tale-flash-cards/
+                  119. The Canterbury Tales: The Pardoner's Tale Plot Analysis - Shmoop, otwierano: sierpnia 23, 2025, https://www.shmoop.com/study-guides/pardoners-tale/plot-analysis.html
+                  120. Knight's Tale Plot Diagram: Storyboard That Lesson Plan, otwierano: sierpnia 23, 2025, https://www.storyboardthat.com/lesson-plans/the-canterbury-tales-by-geoffrey-chaucer/plot-diagram
+                  121. A Scene from 'The Wife of Bath's Tale' (from Geoffrey Chaucer's, 'Canterbury Tales') (recto); Falstaff in the Laundry Basket mocked by Five Women (?) (verso) 486148, otwierano: sierpnia 23, 2025, https://www.nationaltrustcollections.org.uk/object/486148
+                  122. The Wife of Bath's Tale - animated - YouTube, otwierano: sierpnia 23, 2025, https://www.youtube.com/watch?v=e3cvOm7qStk
+                  123. The Wife of Bath's Tale - Poem Summary - YouTube, otwierano: sierpnia 23, 2025, https://m.youtube.com/watch?v=tz9IAWZSRag&pp=ugMICgJqYRABGAE%3D
+                  124. The Franklin's Tale by Geoffrey Chaucer | EBSCO Research Starters, otwierano: sierpnia 23, 2025, https://www.ebsco.com/research-starters/literature-and-writing/franklins-tale-geoffrey-chaucer
+                  125. “Artes That Been Curious”: Questions of Magic and Morality in Chaucer's “The Franklin's Tale” - BYU ScholarsArchive, otwierano: sierpnia 23, 2025, https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1003&context=criterion
+                  126. Chaucer's “Nun's Priest's Tale,” VII.3218 - Names: A Journal of Onomastics, otwierano: sierpnia 23, 2025, https://ans-names.pitt.edu/ans/article/view/1205

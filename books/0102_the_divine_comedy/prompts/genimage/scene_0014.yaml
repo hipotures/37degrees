@@ -1,0 +1,78 @@
+sceneDescription:
+  setting:
+    time: 14th century late afternoon, banners moving in evening breeze
+    location: Florentine political center with guild halls displaying heraldic banners and civic symbols
+    weather: Clear evening with golden sunset light illuminating fabric banners
+  characters: No characters present in this scene
+  scene:
+    mainElements: Large heraldic banners hanging from guild hall windows, carved stone coats of arms on building facades,
+      civic symbols representing different political factions, ceremonial flagpoles with municipal standards
+    details: Silk banners displaying complex heraldic designs - Florentine red lily on white field, various guild symbols
+      including wool merchants' fleece, bankers' money bags, judges' scales of justice. Stone carved emblems on building corners
+      showing family crests of prominent citizens. Municipal banners with Guelph party symbols, Papal keys, and Holy Roman
+      Empire eagles. Wooden flagpoles with iron fittings supporting large ceremonial standards. Carved stone lions representing
+      civic authority, decorative shields mounted on wooden panels, painted coat of arms on wooden shop signs.
+    background: Medieval city skyline with tower houses, church spires, and defensive walls, distant hills of Tuscan countryside
+    atmosphere: Political complexity and civic pride of medieval Italian city-states, visual representation of competing loyalties
+      between Pope and Emperor, guild-based social organization
+  composition:
+    cameraAngle: Street level view looking up at guild halls and their heraldic displays
+    focus: The political and social symbols that define medieval Florentine civic identity
+    depth: Foreground shows detailed heraldic designs and stone carvings, middle ground displays building facades with banners,
+      background shows urban landscape and countryside
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

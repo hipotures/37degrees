@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1904 entire day compressed, 8:00 AM to 2:00 AM, temporal documentation
+    location: Multiple Dublin locations showing objective passage of time across single day
+    weather: Weather progression throughout day documented without interpretation
+  characters:
+  - appearance: Various Dublin residents moving through ordinary daily routines without dramatic interpretation
+    clothing: Standard 1904 clothing showing wear and practical changes throughout day
+    position: Multiple figures throughout Dublin conducting routine activities across temporal progression
+    action: Ordinary daily activities compressed into time-lapse revealing actual patterns versus remembered impressions
+  scene:
+    mainElements: Dublin June 16, 1904 documented as compressed temporal sequence revealing objective daily patterns distinct
+      from subjective character memories and interpretations
+    details: Time-lapse documentation reveals actual day's progression - morning activities beginning with routine domestic
+      tasks and commercial preparations, midday showing peak business and social interactions, afternoon revealing regular
+      patterns of work, leisure, and domestic maintenance, evening documenting transition from public to private activities,
+      night showing actual patterns of sleep and domestic routine, weather changes throughout day affecting activities in
+      practical rather than symbolic ways, transportation patterns showing efficient movement rather than meaningful journeys,
+      commercial transactions revealing economic rather than emotional exchanges
+    background: Temporal compression reveals Dublin's actual daily operational patterns - street activity levels changing
+      according to practical schedules, building usage showing functional rather than symbolic purposes, neighborhood interactions
+      following social rather than psychological patterns
+    atmosphere: Objective temporal documentation without psychological interpretation, natural light changes throughout day
+      recorded as environmental factors affecting visibility and activity, sound patterns documented as urban environmental
+      variations, temperature changes affecting practical clothing and activity choices, time passage revealing routine patterns
+      rather than meaningful development, no text or letters visible
+  composition:
+    cameraAngle: Time-lapse documentation presenting day's actual progression without dramatic emphasis or symbolic interpretation
+    focus: Temporal patterns and routine activities revealed through compressed real-time observation
+    depth: Comprehensive daily documentation showing simultaneous activities across multiple Dublin locations throughout single
+      day
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

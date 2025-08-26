@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Eternal infernal time, perpetual twilight of underworld
+    location: Vast underground cavern system beneath Earth's surface, organized as inverted cone descending toward center
+    weather: Stagnant infernal atmosphere with no natural weather patterns
+  characters: No characters present in this scene
+  scene:
+    mainElements: Immense funnel-shaped underground realm carved into living rock, nine distinct circular levels descending
+      like amphitheater toward distant center point, each level with different architectural features and landscapes
+    details: Upper levels show relatively open spaces with rivers and forests, middle levels contain walled cities with towers
+      and fortifications, lower levels feature increasingly harsh rocky terrain with ice formations at bottom. Stone bridges
+      span between sections. Rivers of various types flow through levels - dark water, boiling blood, frozen streams. Each
+      circular level has different architectural styles from classical to medieval. Ancient ruins and contemporary medieval
+      structures intermixed throughout.
+    background: Distant walls of the great funnel disappearing into darkness, occasional glimpses of surface world through
+      cracks above, deepest pit shrouded in mysterious shadows
+    atmosphere: Overwhelming sense of vast underground architecture, decreasing light and increasing oppression toward depths,
+      echo of distant sounds across enormous spaces, eternal and unchanging
+  composition:
+    cameraAngle: Wide panoramic view from upper rim looking down into the funnel structure
+    focus: The geometric organization of nine descending circles, each with distinct characteristics and architectural features
+    depth: Foreground shows detailed upper levels, middle ground reveals progression of circles, background fades into mysterious
+      darkness of deepest pit
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

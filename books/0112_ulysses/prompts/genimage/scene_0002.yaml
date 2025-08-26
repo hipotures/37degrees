@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1904 mid-morning, 8:45 AM, brightening sunshine
+    location: Dlugacz's butcher shop interior, Dublin city street
+    weather: Pleasant June morning with warming sunlight on cobblestones
+  characters:
+  - appearance: 38-year-old man of above-average height (176.5 cm), full build but not overweight, pale intellectual face,
+      dark hair, dark eyes, neat waxed mustache, Jewish features suggesting Hungarian-Jewish heritage
+    clothing: Complete black mourning suit consisting of black three-piece surdout (frock coat), waistcoat, and trousers,
+      black necktie, black Plasto's bowler hat, well-maintained but showing signs of wear indicating modest financial status
+    position: Standing near butcher counter, observing young servant woman with gentle, protective interest
+    action: Watching neighbor's servant with fatherly concern while purchasing pork kidney, touching potato talisman in pocket
+      for comfort, engaging with butcher in friendly neighborhood interaction
+  scene:
+    mainElements: Bustling butcher shop seen through Leopold's humanitarian lens, every person appearing as individual worthy
+      of dignity and concern, wooden counter and hanging meats transformed from commercial space into community gathering
+      place where human stories unfold
+    details: Through Leopold's empathetic perception, shop details become deeply human - fresh sawdust on floor suggesting
+      cleanliness and care, hanging sausages appearing as honest craftsmanship rather than mere commerce, brass scales representing
+      fairness in transactions, young woman's movements observed with protective rather than predatory interest, her basket
+      seeming heavy with burdens beyond groceries, butcher's apron showing dignity of honest labor, cash register gleaming
+      with promise of fair exchange, window displaying neighborhood bounty, morning customers appearing as fellow travelers
+      in life's journey rather than strangers
+    background: Leopold's kind vision transforms shop surroundings into warm community space - sunlit windows suggesting hope
+      and openness, street sounds beyond indicating vibrant neighborhood life, building walls seeming protective rather than
+      confining
+    atmosphere: Profound human warmth filtering through Leopold's compassionate consciousness, every interaction charged with
+      potential for kindness and understanding, sense of neighborhood as extended family where each person matters, gentle
+      masculinity that protects rather than dominates, quiet wisdom that observes without judging, Dublin morning transformed
+      from routine commerce into celebration of human dignity, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from Leopold's eye level, showing his warm perspective on morning neighborhood life
+    focus: Leopold's gentle, thoughtful expression as he observes the servant woman with paternal concern
+    depth: Foreground shows butcher counter with fresh goods, middle ground frames Leopold in his role as caring community
+      member, background suggests larger Dublin neighborhood extending beyond shop walls
+visualElements:
+  colorPalette:
+    primary:
+    - ochre brown
+    - gray
+    - muted green
+    secondary:
+    - beige
+    - black
+    - white
+    background: neutral, fragmented geometric backgrounds
+    usageNotes: Limited, muted palette focusing on form over color
+    saturation: low (muted, analytical approach)
+    contrast: medium (tonal variations)
+  lineArt:
+    style: geometric lines defining fragmented planes
+    weight: consistent, structural lines
+    color: dark outlines defining geometric forms
+    texture: flat, geometric treatment
+    edgeTreatment: sharp, angular edges
+  lighting:
+    type: analytical lighting showing multiple angles
+    direction: multiple light sources simultaneously
+    intensity: consistent, analytical
+    shadows:
+      style: geometric, faceted shadows
+      color: darker tones of base colors
+      opacity: solid, geometric
+    highlights: geometric light planes
+  rendering:
+    technique: analytical deconstruction of forms
+    texture: flat planes with subtle modeling
+    detailLevel: high analytical detail in geometric breakdown
+    finish: matte, analytical surface
+  perspective: multiple perspectives simultaneously
+  mood:
+    overall: intellectual, analytical, revolutionary
+    emotion: intellectual exploration, formal innovation
+    tempo: static, contemplative
+    keywords:
+    - intellectual
+    - analytical
+    - revolutionary
+    - geometric
+    - deconstructed
+  stylePrecedents:
+  - Pablo Picasso Les Demoiselles d'Avignon
+  - Georges Braque analytical cubism
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

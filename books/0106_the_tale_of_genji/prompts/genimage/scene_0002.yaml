@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late 10th century Japan, scorching summer midday
+    location: Suma coastal village during intense summer heat, sandy areas near salt evaporation pans creating desert-like
+      conditions
+    weather: Blazing sun creating heat waves rising from sand, no clouds in pale sky
+  characters:
+  - appearance: Japanese aristocrat in his twenties to fifties with idealized beauty, very pale white skin, dark brown eyes,
+      long lustrous black hair styled in court fashion beneath ceremonial cap, slender elegant build
+    clothing: Finest multilayered silk court robes in seasonal colors, either formal sokutai or casual kariginu style, garments
+      emit subtle expensive fragrance, fabrics show perfect color coordination following kasane no irome traditions
+    position: Walking barefoot across burning hot sand, robes lifted slightly to avoid dragging
+    action: Feet sinking deep into scorching sand with each step, sweat visible on face, fanning self with court fan while
+      squinting against blazing heat
+  scene:
+    mainElements: Remote fishing village on Japan's western coast, simple thatched-roof dwelling among salt-makers and fishermen,
+      wild windswept landscape by turbulent sea
+    details: Sand so hot it burns through silk tabi socks, heat waves creating shimmering mirages above ground, footprints
+      fill with flowing sand, sweat stains darkening silk garments despite their quality, salt crystals glitter like diamonds
+      in blinding sunlight, court fan provides minimal relief against overwhelming temperature, shadows offer precious cool
+      refuge, no text or letters visible
+    background: Crude wooden hut with rough timber construction, storm-battered pine trees, dark churning ocean waves, rocky
+      coastline, simple fishing boats, salt evaporation pans
+    atmosphere: Oppressive heat that penetrates every layer of clothing, merciless sun testing aristocratic endurance, beauty
+      of crystalline salt formations contrasting with physical discomfort
+  composition:
+    cameraAngle: Low angle emphasizing heat rising from sand and character's struggle
+    focus: Burning sand texture, visible heat waves, and physical reaction to extreme temperature
+    depth: Hot sand details in foreground, struggling character in middle ground, shimmering coastal landscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#E60012'
+    - '#006400'
+    - '#000000'
+    - '#FFD700'
+    secondary:
+    - '#FFA500'
+    - '#4169E1'
+    - '#9370DB'
+    background: washi paper texture
+    usageNotes: Limited color palette, flat areas
+    saturation: vibrant but controlled
+    contrast: strong outlines
+  lineArt:
+    style: bold contours
+    weight: strong, uniform outlines
+    color: black ink
+    texture: wood grain visible
+    edgeTreatment: slightly blurred
+  perspective:
+    type: flattened space
+    vanishingPoints: none
+    distortion: intentional flattening
+    depth: layered with size only
+  rendering:
+    technique: woodblock printing simulation
+    texture: paper grain, ink bleed
+    detailLevel: moderate, symbolic
+    finish: matte, uncoated
+  mood:
+    overall: elegant, transient, poetic
+    emotion: wistfulness, beauty, impermanence
+    tempo: calm, measured
+    keywords:
+    - elegant
+    - transient
+    - poetic
+    - stylized
+    - traditional
+  stylePrecedents:
+  - Hokusai's "Great Wave"
+  - Utamaro's bijin-ga
+  - Hiroshige's landscape prints
+  - Sharaku's actor portraits
+  - Edo period illustrations
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, late morning
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Bright sunlight with palace providing patches of shade
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Standing beside Jocasta on the palace steps, turned slightly toward her
+    action: Speaking confidently while gesturing toward the city, showing protective concern for his queen and people
+  - appearance: Regal woman in early fifties with majestic dignity, dark hair intricately braided and arranged with subtle
+      gray streaks at temples, composed bearing with underlying tension
+    clothing: Doric peplos of heavy finely-woven wool in rich saffron color, ornate gold fibulae brooches at shoulders, deep
+      blue himation when worn, gold bracelets and necklace
+    position: Standing gracefully beside Oedipus on palace steps, maintaining royal composure
+    action: Listening with calm attention, occasionally nodding, hands clasped in dignified pose
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Ornate golden brooches used to fasten Jocasta's peplos at the shoulders, possibly spiral or rosette designs,
+      sharp pins that become instruments of tragic fate. Royal couple positioned as unified front of authority and partnership.
+      Afternoon light creating warm glow on their rich garments. Palace doors partially open behind them. No text or letters
+      visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance
+    atmosphere: Marital harmony and shared royal responsibility, established partnership facing challenges together with confidence
+  composition:
+    cameraAngle: Medium-wide shot showing both figures on palace steps
+    focus: The royal couple as unified pair, emphasizing their partnership and shared authority
+    depth: Foreground shows empty courtyard stones, middle ground captures the royal couple on steps, background shows palace
+      facade
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

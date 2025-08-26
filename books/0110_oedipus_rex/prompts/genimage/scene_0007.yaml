@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, mid-afternoon
+    location: Paved courtyard before palace steps in ancient Thebes, open space where crowds gather and royal proclamations
+      are made
+    weather: Intermittent cloud cover creating shifting patterns of light and shadow
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Standing rigidly at top of palace steps, posture slightly more tense than before
+    action: Listening with growing impatience, hands beginning to clench slightly, jaw set in determination
+  - appearance: Frail elderly man over seventy, gaunt and weak body worn by age, long sparse white hair and scraggly beard,
+      cloudy or scarred blind eyes with otherworldly expression
+    clothing: Simple rough robe to ankles, probably old unbleached chiton of coarse weave, undyed broken white or pale gray
+      fabric
+    position: Standing before the palace steps, supported by staff and guide
+    action: Speaking with terrible certainty, head raised toward heaven despite blind eyes
+  scene:
+    mainElements: Stone-paved area with cracked flagstones, weeds growing between stones, altar to Apollo to one side, steps
+      leading up to palace entrance
+    details: Simple gnarled wooden staff used by shepherds for support and guiding flocks, humble tool of pastoral life. Shadows
+      from passing clouds creating moving patterns across both figures, making the scene appear unstable and shifting. Distance
+      between the two men emphasizing conflict between physical and spiritual authority. Palace walls appearing darker under
+      cloud cover. No text or letters visible
+    background: Two-story stone facade with large central wooden doors flanked by smaller doors, now seeming more fortress-like
+      than welcoming
+    atmosphere: Growing tension and unease, established order beginning to face supernatural challenge, shadows suggesting
+      hidden truths
+  composition:
+    cameraAngle: Medium shot showing both figures with palace steps between them
+    focus: The confrontation between royal authority above and prophetic truth below
+    depth: Foreground shows Tiresias with staff, middle ground captures palace steps, background shows darkening facade
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

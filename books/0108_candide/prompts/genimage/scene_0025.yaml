@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, late afternoon golden hour
+    location: Farm vegetable garden overlooking Sea of Marmara, Turkish countryside
+    weather: Perfect farming weather, golden sunset light making everything peaceful
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Simple work shirt and trousers, sleeves rolled up, hands dirty from honest labor
+    position: Standing among vegetable rows, holding garden hoe, addressing the group
+    action: Speaks with quiet authority about work while holding farming tool, face shows peace and purpose found through
+      labor
+  - appearance: 30-40 years old mixed-race Peruvian, sturdy agile build, dark hair and eyes, tanned complexion. Face shows
+      intelligence, resourcefulness and calm
+    clothing: Practical farm work clothes, leather apron
+    position: Working among vegetables, tending to plants
+    action: Tends garden with skilled hands, showing satisfaction in productive work, occasional smile at Candide's wisdom
+  - appearance: Young woman now 25, thin and worn, ugly and quarrelsome, bloodshot eyes, withered neck, wrinkled cheeks, dark
+      rough skin from work
+    clothing: Practical work dress with apron, sleeves pushed up for kitchen work
+    position: Standing near farmhouse with baked goods, flour on hands
+    action: Has found purpose in baking and domestic work, face shows contentment in useful skill rather than beauty
+  - appearance: 70+ years old, hunched posture, face mapped with deep wrinkles from suffering but eyes still burning with
+      intelligence and resilience
+    clothing: Simple work dress with rolled sleeves
+    position: Seated in shade but actively mending clothes
+    action: Works steadily on practical task, face showing satisfaction in being useful despite age
+  - appearance: '45-55 years old, thin and hunched, severely disfigured by syphilis: covered in sores, sunken eyes, eaten
+      nose, twisted mouth, black teeth'
+    clothing: Simple work clothes, finally appropriate to his circumstances
+    position: Standing at garden edge, beginning to speak philosophically
+    action: Opens mouth to begin philosophical discourse but stops as Candide raises hand, finally accepting need for action
+      over theory
+  scene:
+    mainElements: Well-tended vegetable garden with neat rows of growing plants, simple farm buildings, Sea of Marmara providing
+      beautiful backdrop
+    details: Everyone engaged in useful productive work. Tools in various hands showing different skills - hoe, needle, mixing
+      bowl, pruning shears. Garden flourishing under their care. Pangloss finally silenced by practical wisdom. Setting sun
+      creating golden light over honest labor.
+    background: Turkish countryside with olive groves, sea view with distant mountains, small farm buildings showing self-sufficiency,
+      other farms visible as part of larger agricultural community
+    atmosphere: Final peace achieved through work rather than philosophy. Golden hour light emphasizing harvest time and fulfillment.
+      Colors of green growing plants, brown earth, golden sunset, natural undyed work clothes. Sound of wind in leaves, distant
+      sea, satisfaction of completed labor.
+  composition:
+    cameraAngle: Wide establishing shot pulling back to show entire farm and group in context of larger world
+    focus: Candide speaking final wisdom while entire group engaged in productive work
+    depth: Foreground shows the immediate working community, middle ground their flourishing garden, background the vast beautiful
+      world they have chosen to engage with practically rather than theoretically
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

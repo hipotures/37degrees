@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Afternoon, high above ocean
+    location: Vast ocean expanse viewed from incredible height while carried by gigantic bird
+    weather: Clear sky with brilliant sunlight and ocean winds at high altitude
+  characters:
+  - appearance: Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long
+      white beard, face marked by adventure and wisdom, alert eyes scanning horizon
+    clothing: Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with
+      purse
+    position: Confident stance of experienced sailor, hands often gesturing as if describing vast distances
+    action: Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully
+  scene:
+    mainElements: Enormous bird with wings spanning incredible distances, vast ocean stretching to horizon in all directions,
+      tiny islands visible far below, massive bird claws grasping large piece of meat
+    details: Giant feathers each larger than ship sails, powerful wing beats creating thunderous sounds, ocean appearing as
+      blue mirror far below, white clouds at same altitude as flight, wind rushing past with tremendous force, bird's head
+      and beak visible ahead with piercing eagle eyes, no text or letters visible
+    background: Infinite ocean meeting sky at distant horizon, occasional islands appearing as small dark spots, other sea
+      birds appearing tiny by comparison, sun creating brilliant reflections on water
+    atmosphere: Exhilarating terror of impossible flight, sound of massive wings beating air, sensation of flying faster than
+      storm winds, human insignificance in face of natural power, freedom and mortal danger combined
+  composition:
+    cameraAngle: Aerial view emphasizing vast scale and height of flight
+    focus: Human figure carried by gigantic bird showing ultimate adventure
+    depth: Giant bird and rider in center, ocean expanse below, infinite sky above
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

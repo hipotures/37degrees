@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1820s, 1840s, 1860s - same evening writing hour
+    location: Small London home study with writing desk positioned by window
+    weather: Consistent lamplight evening across four decades
+  characters:
+  - appearance: Middle-aged clerk with careful handwriting posture, wearing period-appropriate work clothes
+    clothing: Simple shirt and waistcoat, ink-stained fingers, spectacles for close work
+    position: Seated at same writing desk across different decades
+    action: Carefully composing written correspondence using era-appropriate methods
+  scene:
+    mainElements: Sequential writing technology evolution - 1820s shows quill pen and inkwell correspondence, 1840s reveals
+      steel pen and blotting paper method, 1860s displays early fountain pen innovation, same desk accommodating different
+      writing implements
+    details: Communication technology progression - handwriting style evolving from ornate quill flourishes to practical steel
+      pen efficiency to fountain pen consistency, ink quality improving from home-mixed to manufactured, paper changing from
+      handmade texture to machine-produced smoothness, sealing methods evolving from wax stamps to gummed envelopes, desk
+      accessories updating from sand shakers to blotting paper to ink reservoirs, lighting progressing from single candle
+      to oil lamp to early gas fixture, spectacles design improving over decades, no text or letters visible
+    background: Home study showing gradual modernization - same wooden desk surface worn by decades of writing, window treatments
+      updated but position unchanged, bookshelves accumulating new volumes, wall decorations reflecting changing tastes
+    atmosphere: Dedicated correspondence tradition maintained across technological advancement, sound evolving from quill
+      scratching to steel pen precision to fountain pen smoothness, scent changing from wax and pounce to manufactured ink,
+      consistent evening light but improving quality
+  composition:
+    cameraAngle: Close-up shot focusing on writing implements and hand positions
+    focus: Desk surface showing evolution of writing technology
+    depth: Foreground shows immediate writing implement details, middle ground reveals desk organization changes, background
+      displays study modernization over decades
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

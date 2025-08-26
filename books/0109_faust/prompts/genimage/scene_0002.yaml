@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 16th century, late night before Easter
+    location: High-vaulted, cramped Gothic chamber in 16th-century German university town. Pointed stone arches and walls
+      oppress the scholar figure, symbolizing limitations of medieval scholasticism. Large pointed-arch window with stained
+      glass casts colored light into room.
+    weather: Cold night air seeping through stone walls
+  characters:
+  - appearance: Large black poodle with burning red eyes that seem to hold ancient intelligence, form slightly larger than
+      natural dog proportions
+    clothing: Natural black fur that seems to absorb light, creating moving shadows
+    position: Sitting in corner of study, watching intently from shadows
+    action: Observing Faust's desperation with patient calculation, occasionally moving closer as if drawn by the scholar's
+      anguish
+  scene:
+    mainElements: 'Space cluttered to limits with dusty leather-bound books and parchment scrolls piled on floor, shelves,
+      and massive oak desk. Scientific and alchemical instruments: glass retortas, alembics, armillary spheres, mysterious
+      maps of macrocosm and zodiac signs scattered throughout.'
+    details: From poodle's perspective, the room represents perfect trap - knowledge without wisdom, learning without experience,
+      theory without practice. Faust hunches over books like prisoner in cell of his own making. Single candle flame flickers
+      dangerously close to extinguishing, symbol of dying hope
+    background: Gothic arches stretch upward like ribcage of dead beast, stained glass window shows religious scenes that
+      mock scholar's loss of faith
+    atmosphere: Oppressive, stuffy, permeated with smell of old paper, wax and alchemical reagents. Almost absolute silence
+      broken only by rustling of turned pages and Faust's sighs. Thick layer of dust and cobwebs in corners. Perfect breeding
+      ground for desperation
+  composition:
+    cameraAngle: From poodle's low perspective, looking up at towering bookshelves and bent scholar
+    focus: Contrast between organic, living presence of disguised demon and lifeless accumulation of dead knowledge
+    depth: 'Foreground: Alert poodle with glowing eyes. Middle ground: Faust surrounded by books and instruments. Background:
+      Gothic architecture emphasizing confinement'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blues
+    - stormy grays
+    - fiery reds and oranges (sunsets)
+    secondary:
+    - earthy browns
+    - forest greens
+    - golden light
+    background: dramatic skies, powerful mountains, stormy seas
+    usageNotes: A contrasting color palette that emphasizes the drama of the scene.
+    saturation: medium to high
+    contrast: high, dramatic
+  lineArt:
+    style: expressive, painterly, often indistinct
+    weight: dynamic, varied
+    color: integrated with the color patch
+    texture: visible brushstrokes, impasto
+    edgeTreatment: soft, atmospheric edges
+  lighting:
+    type: dramatic, theatrical, often from an unseen source
+    direction: diagonal, breaking through clouds, moonlight
+    intensity: strong contrasts of light and shadow
+    shadows:
+      style: deep, vast, building a mood of mystery
+      color: dark browns, blues, violets
+      opacity: heavy, blurred
+    highlights: intense, often on the central point of the composition
+  rendering:
+    technique: oil painting, free brushstrokes
+    texture: distinct paint texture, impastos
+    detailLevel: varied - from detailed figures to sketchy backgrounds
+    finish: painterly, expressive
+  perspective: deep atmospheric perspective, often with a monumental foreground
+  mood:
+    overall: dramatic, emotional, sublime
+    emotion: terror, awe, melancholy, longing, heroism
+    tempo: dynamic, turbulent
+    keywords:
+    - emotional
+    - sublime
+    - dramatic
+    - mysterious
+    - powerful
+  stylePrecedents:
+  - Caspar David Friedrich
+  - J.M.W. Turner
+  - Théodore Géricault
+  - Francisco Goya
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

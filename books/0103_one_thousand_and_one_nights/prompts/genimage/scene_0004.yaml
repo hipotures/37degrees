@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: Midday, remote coastline
+    location: Desolate rocky seashore with crashing waves and barren landscape under harsh sun
+    weather: Bright clear day with strong ocean winds and brilliant sunlight
+  characters:
+  - appearance: Enormous supernatural being of terrifying proportions, dark skin gleaming like polished stone, powerful muscular
+      form towering above human scale, fearsome face with piercing eyes
+    clothing: Minimal garments befitting a supernatural entity, possibly flowing silk sash or ornate belt emphasizing his
+      immense size
+    position: Rising from ocean waters with water cascading from massive form
+    action: Emerging from sea depths carrying large glass container on head, moving with ponderous supernatural power
+  - appearance: Man aged 32 years, tall and athletic build of experienced warrior, sharp Persian features with defined jawline,
+      thick dark hair and well-groomed beard, intense dark eyes that evolve from cold fury to warmth throughout story
+    clothing: Royal Persian brocade robes with gold threading and precious stones, ceremonial turban or crown, richly embroidered
+      silk garments even in private chambers
+    position: Standing frozen on rocky shore appearing tiny beside supernatural being
+    action: Staring in absolute terror and amazement at the gigantic creature
+  - appearance: Man aged 28 years, similar Persian features to his brother but bearing expression of deep sadness and distraction,
+      well-built figure of royal warrior, neat appearance despite inner turmoil
+    clothing: Traveling robes of royal quality but showing dust of long journey, ornate belt with royal insignia
+    position: Crouched behind rocks in fear beside his brother
+    action: Cowering in terror while witnessing supernatural manifestation
+  scene:
+    mainElements: Vast ocean with enormous waves crashing against black rocks, desolate coastline with scattered boulders,
+      demon carrying large transparent glass container sealed with multiple locks
+    details: Water streaming from demon's massive body, glass container glinting in sunlight with mysterious contents, steam
+      or mist rising from supernatural being, seawater foaming white against dark rocks, no vegetation in harsh landscape,
+      no text or letters visible
+    background: Endless ocean horizon meeting clear blue sky, distant barren hills, wheeling seabirds disturbed by supernatural
+      event
+    atmosphere: Overwhelming supernatural terror, sound of crashing waves mixed with otherworldly presence, salt spray in
+      air, sense of human insignificance before cosmic power
+  composition:
+    cameraAngle: Low angle emphasizing massive scale of supernatural being
+    focus: Towering demon dominating frame with tiny human figures for scale
+    depth: Cowering humans in foreground, massive demon in middle ground, infinite ocean in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

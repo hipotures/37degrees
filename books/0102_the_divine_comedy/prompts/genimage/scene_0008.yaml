@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Eternal spring morning, golden light of perpetual dawn
+    location: Garden of Eden atop Mount Purgatory, pristine natural paradise with perfect climate
+    weather: Perfect temperate climate with gentle warm breeze
+  characters: No characters present in this scene
+  scene:
+    mainElements: Lush green meadows with exotic flowers, crystal-clear streams, ancient trees bearing fruit
+    details: Trees of unknown species bearing golden fruit that glows with inner light, flowers in colors that don't exist
+      in earthly spectrum - translucent petals that seem to contain starlight, grass that appears to be made of emerald silk
+      yet feels natural underfoot. Streams of crystal-clear water flowing in perfect geometric patterns, creating natural
+      fountains and cascades. Ancient trees with bark that has silver highlights and leaves that chime softly in the breeze.
+      Fruit trees bearing different types of perfect fruit on the same branches. Flowering vines that spiral around tree trunks
+      in mathematical precision.
+    background: Perfect blue sky with no clouds, distant view of celestial spheres beginning to appear in daylight, sense
+      of infinite garden extending beyond view
+    atmosphere: Perfect natural harmony, sense of nature before the Fall, overwhelming beauty and peace, feeling that every
+      plant exists in its ideal form
+  composition:
+    cameraAngle: Garden level view walking through the paradise, slightly elevated to show the landscape patterns
+    focus: The supernatural beauty and perfection of unfallen nature
+    depth: Foreground shows detailed exotic plants and flowing water, middle ground displays groves and meadows, background
+      shows endless garden extending to celestial horizon
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

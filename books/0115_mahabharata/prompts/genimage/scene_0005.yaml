@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, midday
+    location: Grand tournament arena in kingdom of Panchala with massive circular amphitheater accommodating hundreds of royal
+      spectators
+    weather: Bright clear midday with intense sunlight
+  characters:
+  - appearance: Female, 20 years old, zgrabna budowa z talią jak ołtarz ofiarny, długie czarnoniebieskie kręcone włosy, duże
+      czarne oczy jak płatki lotosu, ciemna śniada karnacja
+    clothing: Bogate jedwabne sari ozdobione bogatą biżuterią jako królowa
+    position: Standing on elevated central platform holding victory garland
+    action: Ciało emanuje zapachem błękitnego lotosu, twarz wyrażająca szeroką gamę emocji od miłości przez gniew po determinację
+  - appearance: Male, 25-30 years old, disguised as brahmin in simple robes, tall athletic build partially concealed
+    clothing: Plain brahmin robes and sacred thread, humble appearance masking royal identity
+    position: Among contestants near rotating fish target mechanism
+    action: Drawing bow with perfect concentration and skill
+  scene:
+    mainElements: Circular amphitheater filled with competing kings and princes, complex rotating target mechanism with metal
+      fish suspended above water basin, elevated royal viewing platforms, massive crowd
+    details: Failed arrows scattered around target area, broken bows discarded by unsuccessful competitors, rotating machinery
+      creating flashing reflections in water, royal banners fluttering, no text or letters visible
+    background: Tiered seating filled with nobility from across kingdoms, palace architecture visible beyond arena walls,
+      guards positioned at intervals
+    atmosphere: Tense competitive excitement with thousands watching, sounds of crowd murmur machinery creaking arrows whistling,
+      anticipation thick in air
+  composition:
+    cameraAngle: Extreme wide master shot showing entire tournament geography with all players positioned
+    focus: Complete arena scene revealing scale of competition and moment before decisive shot
+    depth: Foreground target mechanism and water, middle ground contestants and princess, background vast amphitheater with
+      royal spectators, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

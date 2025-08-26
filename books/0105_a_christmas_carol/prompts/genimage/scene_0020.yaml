@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1843 and contemporary era overlapping
+    location: Busy commercial thoroughfares of 1840s London with shop fronts, market stalls, and pedestrians hurrying through
+      winter weather
+    weather: Victorian winter fog mixing with modern clear air
+  characters:
+  - appearance: Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt
+      cheeks marked by inner coldness
+    clothing: Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting
+      his frugal nature
+    position: Walking through temporally bleeding street scene
+    action: Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving
+      expression
+  scene:
+    mainElements: Victorian London street with modern elements bleeding through - gas lamps coexisting with electric lighting,
+      cobblestones showing through modern pavement, horse-drawn carriages sharing space with automobiles, period costumes
+      mixing with contemporary clothing
+    details: Temporal bleeding effects - shop windows displaying both Victorian goods and modern products simultaneously,
+      architectural styles overlapping with same buildings showing original and renovated states, street sounds mixing period
+      horse hooves with modern traffic, gas lamp posts with electric fixtures coexisting, period business signs overlaid with
+      modern equivalents, Victorian pedestrians walking alongside contemporary figures, building materials showing both original
+      brick and modern renovation, street surface revealing cobblestones beneath modern paving, no text or letters visible
+    background: London skyline showing temporal overlap - church spires standing alongside modern buildings, Thames showing
+      period sailing ships with modern vessels, bridge architecture displaying multiple construction eras simultaneously
+    atmosphere: Surreal temporal coexistence creating dreamlike quality, sounds layering period acoustics with modern urban
+      noise, scents mixing coal smoke with automobile exhaust, light quality blending gaslight yellow with electric brightness
+  composition:
+    cameraAngle: Wide street view capturing full temporal bleeding effect
+    focus: Central thoroughfare where Victorian and modern elements most dramatically intersect
+    depth: Foreground shows immediate temporal overlay details, middle ground reveals street activity from multiple eras,
+      background displays skyline temporal coexistence
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

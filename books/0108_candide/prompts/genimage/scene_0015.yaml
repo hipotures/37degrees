@@ -1,0 +1,96 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, afternoon
+    location: Commander's quarters in Jesuit mission, Paraguay
+    weather: Tropical afternoon heat, oppressive humidity
+  characters:
+  - appearance: 17 years old initially, handsome young aristocrat with haughty bearing and contemptuous facial expression,
+      worthy of his father in every way
+    clothing: Black Jesuit commander habit, but worn with aristocratic bearing that transforms religious garment into symbol
+      of power
+    position: Seated behind large wooden desk in position of authority, leaning back with inherited arrogance
+    action: Face transforms from initial joy at reunion to cold fury when hearing of marriage proposal, hand moves instinctively
+      toward sword despite religious robes
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Travel-stained clothes from jungle journey
+    position: Standing before desk as supplicant, hands extended in pleading gesture
+    action: Speaks with passionate sincerity about his love and right to marry Cunegonde, face showing growing frustration
+      at aristocratic rejection
+  - appearance: 30-40 years old mixed-race Peruvian, sturdy agile build, dark hair and eyes, tanned complexion. Face shows
+      intelligence, resourcefulness and calm
+    clothing: 'Practical traveling attire: leather trousers, strong boots, simple shirt suitable for difficult terrain'
+    position: Standing near door, alert for danger
+    action: Hand rests on weapon hilt, eyes dart between arguing men, ready to act when negotiation fails
+  scene:
+    mainElements: Jesuit commander's quarters with stone walls, simple wooden furniture, religious artwork mixed with military
+      maps, window overlooking perfectly ordered mission plaza
+    details: Baron's son wears religious habit but maintains aristocratic superiority. Candide's honest appeal meets wall
+      of inherited prejudice. Cacambo's tension shows he anticipates violence. Religious setting contradicts unchristian pride.
+      Sharp contrast between Christian teachings and aristocratic arrogance.
+    background: View through window shows ideal geometric layout of Jesuit reduction with indigenous people working under
+      strict supervision, church dominating central plaza
+    atmosphere: Religious authority corrupted by aristocratic pride. Tropical heat adding to tension. Confrontation between
+      different value systems - merit versus birthright. Colors of black clerical robes, brown stone walls, green jungle visible
+      through windows.
+  composition:
+    cameraAngle: Medium shot across the desk emphasizing the confrontation between old aristocratic values and new merit-based
+      ideas
+    focus: The baron's son's contemptuous expression contrasted with Candide's sincere pleading
+    depth: Foreground shows the immediate confrontation, middle ground the religious/military setting, background the ordered
+      mission representing attempted control over chaos
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

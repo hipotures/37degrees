@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: November 1942, evening
+    location: Office space below Secret Annex, after business hours
+    weather: Cold autumn evening, minimal lighting for secrecy
+  characters:
+  - appearance: Young kobieta wiek 33-35 lat, średniego wzrostu energiczna, pogodna uśmiechnięta twarz
+    clothing: Prosty strój pracującej kobiety z lat 40., sukienka płaszcz
+    position: Standing near desk with supplies
+    action: Organizing food and supplies for the hidden families
+  - appearance: Young kobieta wiek 23-25 lat, drobna szczupła, młoda nieśmiała twarz
+    clothing: Skromna sukienka lub bluzka i spódnica
+    position: Sitting at desk with notebooks
+    action: Writing lists and checking supplies
+  scene:
+    mainElements: Office space converted to supply depot and coordination center for helping hidden refugees
+    details: Food packages, letters to carry upstairs, money for black market purchases, forged identification papers, careful
+      lists of needs and supplies, the dangerous infrastructure of rescue
+    background: Normal office environment used for extraordinary humanitarian purpose
+    atmosphere: Quiet courage and determination, the hidden heroes risking everything to save eight lives
+  composition:
+    cameraAngle: Medium shot showing the helpers' clandestine organization
+    focus: The systematic effort required to keep the hidden families alive
+    depth: 'Foreground: supplies and documents, middle: helpers working, background: darkened office'
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

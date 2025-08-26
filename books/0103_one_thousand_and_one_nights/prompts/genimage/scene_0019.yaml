@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Deep night, merchant's house courtyard
+    location: Private family courtyard with large clay oil jars positioned throughout space
+    weather: Clear night with stars visible, cool air carrying scents of jasmine
+  characters:
+  - appearance: Woman aged 25 years, quick and nimble build suited for household work, alert dark eyes showing intelligence
+      and determination, dark hair covered by simple headscarf, capable hands
+    clothing: Simple practical servant's dress in earth tones allowing freedom of movement, sturdy sandals, small belt pouch
+      for tools
+    position: Efficient and purposeful movement, ready stance showing vigilance
+    action: Moving stealthily when needed, performing tasks with focused attention, showing protective loyalty
+  scene:
+    mainElements: Domestic courtyard transformed into battlefield, thirty-seven large clay oil jars arranged in organized
+      pattern, small oil lamp providing minimal light, large cauldron with boiling oil
+    details: Steam rising from cauldron of superheated oil, small flame from oil lamp casting moving shadows, clay jars large
+      enough to conceal human forms, stone courtyard floor, fountain silenced to avoid noise, oil bubbling ominously in large
+      vessel, no text or letters visible
+    background: Sleeping household above in darkened rooms, courtyard walls providing privacy, night sky with scattered stars,
+      jasmine vines climbing walls
+    atmosphere: Deadly domestic warfare, tension of life-and-death confrontation, sounds of bubbling oil and stealthy footsteps,
+      protective loyalty overcoming terror, transformation of home into fortress
+  composition:
+    cameraAngle: Low angle emphasizing stealth and danger in darkness
+    focus: Determined figure moving among jars with deadly purpose
+    depth: Oil jars in foreground, figure with cauldron in center, darkened house in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

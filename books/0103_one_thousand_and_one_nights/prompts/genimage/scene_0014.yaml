@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Dawn, remote ocean island
+    location: Remote tropical island in Indian Ocean with extraordinary natural phenomena and magical creatures
+    weather: Clear morning with gentle ocean breeze and brilliant tropical sunlight
+  characters:
+  - appearance: Man aged 45 years, sturdy weathered build of seasoned traveler, sun-darkened skin from ocean voyages, long
+      white beard, face marked by adventure and wisdom, alert eyes scanning horizon
+    clothing: Rich merchant's robes of fine fabric indicating wealth, large ornate turban, traveling cloak, leather belt with
+      purse
+    position: Confident stance of experienced sailor, hands often gesturing as if describing vast distances
+    action: Recounting adventures with animated gestures, pointing toward imagined horizons, stroking beard thoughtfully
+  scene:
+    mainElements: Sandy beaches with unusual colored sand, dense jungle vegetation, strange rock formations, pristine freshwater
+      springs, exotic birds and unknown creatures
+    details: Enormous white dome-shaped object sitting on beach like polished marble building, tropical birds with brilliant
+      plumage in surrounding palm trees, crystal-clear lagoon reflecting morning sky, exotic flowers in impossible colors
+      growing near shoreline, giant footprints in sand suggesting massive creature, no text or letters visible
+    background: Endless ocean horizon, distant storm clouds, other mysterious islands visible as dark shapes, massive bird
+      shadow passing overhead
+    atmosphere: Sense of wonder and hidden danger, sounds of unfamiliar bird calls and mysterious rustling, scents of unknown
+      tropical flowers, brilliant colors under intense sun, feeling of discovery and peril
+  composition:
+    cameraAngle: Wide shot emphasizing scale of mysterious white dome
+    focus: Human figure dwarfed by enormous mysterious object representing natural wonder
+    depth: Beach and lagoon in foreground, figure and giant egg in middle ground, ocean and sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

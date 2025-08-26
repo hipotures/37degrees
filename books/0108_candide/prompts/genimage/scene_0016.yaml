@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Mid-18th century, evening
+    location: 'Two separate locations: Candide in ship''s cabin, Cunegonde in governor''s mansion'
+    weather: Calm evening, both spaces lit by candlelight
+  characters:
+  - appearance: Young man approximately 25-30 years old, around 175cm height, proportional healthy build. Fair hair (blond
+      or light brown), blue or gray eyes, sincere open face reflecting honest character
+    clothing: Simple shirt and trousers, travel worn
+    position: Seated alone at small table in ship's cabin, staring at empty chair across from him
+    action: Sits in contemplative solitude, hand tracing pattern on table where she might have sat, face reflecting deep melancholy
+      and loss
+  - appearance: Young woman approximately 17 years old, full Rubenesque figure, healthy rosy complexion, fresh and appealing
+    clothing: Elegant dress befitting baron's daughter, fitted bodice with square neckline, full skirt over panniers
+    position: Standing at window of luxurious mansion room, looking out toward harbor
+    action: Gazes toward sea where Candide's ship departed, face showing complex mixture of regret, pragmatic acceptance,
+      and suppressed emotion
+  scene:
+    mainElements: Split composition showing two separate spaces of isolation - ship's simple cabin versus mansion's luxury
+    details: Empty chair in Candide's cabin symbolizes her absence. Cunegonde's window frames her like a painting, suggesting
+      she has become object rather than person. Both figures process recent separation differently - his romantic melancholy
+      versus her practical resignation.
+    background: Ship's cabin shows rough wooden walls, simple furnishings, porthole showing endless ocean. Mansion shows rich
+      fabrics, fine furniture, view of Buenos Aires and harbor beyond
+    atmosphere: Parallel solitudes showing different responses to loss. Candide's space emphasizes emotional emptiness. Cunegonde's
+      emphasizes material comfort bought at emotional cost. Candlelight in both spaces creates intimate but lonely mood.
+  composition:
+    cameraAngle: Split screen or parallel composition showing both characters in their separate spaces
+    focus: The contrast between Candide's emotional processing and Cunegonde's pragmatic adaptation
+    depth: Each space shows foreground figure in contemplation, middle ground their immediate environment, background their
+      larger circumstances (sea vs city)
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

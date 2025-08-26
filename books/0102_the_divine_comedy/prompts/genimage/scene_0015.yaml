@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal infernal twilight, dim reddish light of underworld
+    location: Sixth circle of Hell showing walled city with distinct districts for different social classes
+    weather: Stagnant infernal atmosphere with heat rising from burning tombs
+  characters: No characters present in this scene
+  scene:
+    mainElements: Walled infernal city with iron gates, massive stone tombs serving as houses for different social ranks,
+      burning sepulchers arranged in hierarchical urban planning, towers and battlements of dark stone
+    details: Massive city walls built from dark iron-stained stone with crenellated battlements, iron gates with complex locking
+      mechanisms guarded by supernatural beings. Urban layout showing clear social stratification - larger ornate tombs with
+      carved decorations for nobility and church leaders, medium-sized stone sarcophagi for merchants and professionals, smaller
+      plain sepulchers for common citizens. Burning flames emerging from tombs creating different intensities of light based
+      on social rank. Street layout following medieval urban planning principles but adapted for eternal punishment. Iron
+      and stone construction throughout with no wood or organic materials.
+    background: Distant infernal landscape showing other circles of Hell, cavern walls disappearing into darkness, occasional
+      glimpse of other architectural structures
+    atmosphere: Eternal urban punishment reflecting earthly social hierarchies, sense of divine justice applied to social
+      inequality, combination of medieval civic planning with supernatural eternal consequences
+  composition:
+    cameraAngle: Elevated view showing the urban layout and social stratification of the infernal city
+    focus: The hierarchical organization of eternal punishment based on earthly social status
+    depth: Foreground shows detailed tomb architecture and burning flames, middle ground displays city layout and walls, background
+      shows broader infernal landscape
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

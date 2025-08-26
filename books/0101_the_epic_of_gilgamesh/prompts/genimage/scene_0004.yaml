@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, morning light
+    location: Edge of cultivated land near ancient city walls, boundary between wilderness and civilization
+    weather: Fresh morning with dew still visible on plants
+  characters: No characters present in this scene
+  scene:
+    mainElements: Large dried seed pod split open beside tiny green sprout emerging from rich dark earth, both representing
+      different stages of life potential
+    details: Weathered brown seed pod cracked and empty showing where life once emerged, delicate green sprout with first
+      pair of leaves reaching toward morning sun, dark fertile soil rich with moisture and organic matter, dewdrops clinging
+      to young leaves catching early light
+    background: Massive nine-kilometer defensive walls of fired brick gleaming copper-like in sunlight, crowned with battlements,
+      reinforced with regularly spaced towers, representing boundary between civilization's order and nature's chaos
+    atmosphere: Hope and renewal contrasted with completion and ending, cycle of life continuing despite human constructions,
+      peaceful morning light suggesting new beginnings, no text or letters visible
+  composition:
+    cameraAngle: Close ground level view emphasizing intimate detail of seed and sprout
+    focus: Sprout emerging from earth as symbol of life's persistence and renewal
+    depth: Foreground shows detailed view of seed pod and sprout, middle ground shows tilled earth extending toward walls,
+      background shows massive city fortifications
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

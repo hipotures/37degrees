@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, deep night
+    location: Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean
+      walls of irregular limestone blocks
+    weather: Storm continuing with heavy rain, wind howling around palace walls
+  characters:
+  - appearance: Powerful, athletic man in late thirties with muscular build inspired by Greek classical sculpture, dark thick
+      curly hair, full well-groomed beard, authoritative bearing
+    clothing: Fine pleated linen chiton to the knees, heavy wool himation draped over one shoulder in deep crimson or Tyrian
+      purple, gold trim on chiton edges
+    position: Collapsed on palace steps, crumpled like broken doll
+    action: Body convulsed with sobs, hands covering face, once-powerful frame shaking with complete emotional breakdown
+  scene:
+    mainElements: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance, paved courtyard with cracked stones and sprouting weeds
+    details: Royal garments completely soaked and clinging to collapsed form. Himation dragging in puddles, no longer symbol
+      of authority but shroud of defeat. Hair plastered to head by rain. Palace steps streaming with water like tears. Central
+      doors standing open, darkness beyond like gaping wound. Storm washing away all pretense and ceremony. No text or letters
+      visible
+    background: Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone appearing like monument
+      to fallen greatness
+    atmosphere: Complete emotional collapse, all strength and authority dissolved, profound vulnerability exposed by storm
+  composition:
+    cameraAngle: High angle looking down at collapsed figure on palace steps
+    focus: The complete physical and emotional breakdown of once-mighty king
+    depth: Foreground shows water streaming down steps, middle ground captures broken figure, background shows palace doors
+      opening onto darkness
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

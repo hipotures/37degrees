@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Busy midday trading hours during Tang Dynasty golden age
+    location: Great Eastern and Western Markets of Chang'an capital, international trading centers
+    weather: Clear warm day perfect for outdoor commerce and social gathering
+  characters:
+  - appearance: Diverse merchant families from across Asia including Chinese traders, Persian merchants with distinctive features,
+      Central Asian nomads, Indian spice dealers, all dressed in their cultural trading attire
+    clothing: Colorful silk robes reflecting prosperity and cultural origins, ornate hats and headwear indicating social status,
+      jewelry and accessories showing successful trade relationships
+    position: Arranged around market stalls and trading booths, moving through crowded market squares
+    action: Negotiating deals, displaying exotic goods, counting coins and precious items, sampling foods and examining merchandise
+      quality
+  scene:
+    mainElements: Covered market stalls displaying silks and precious goods, food vendors with exotic spices and delicacies,
+      money changers with scales and currency from many nations, entertainment areas where merchants socialize
+    details: International commercial culture showing Tang Dynasty cosmopolitanism with goods from Silk Road including Persian
+      carpets, Indian spices, Central Asian horses, Japanese artwork, Korean ceramics, plus local products like silk, tea,
+      porcelain, jade, precious metals, with merchant guilds organizing trades and cultural exchanges
+    background: Market districts extending beyond immediate trading areas, residential quarters where foreign merchants live,
+      government offices monitoring international trade
+    atmosphere: Vibrant international commercial energy with multiple languages being spoken, exotic aromas from foods and
+      spices, sounds of bargaining and cultural exchange
+  composition:
+    cameraAngle: Market-level view capturing the diversity and energy of international trade
+    focus: The cultural mixing and commercial prosperity of the world's greatest trading city
+    depth: Foreground shows detailed merchant interactions and exotic goods, middle ground reveals market organization and
+      cultural diversity, background displays the vast scale of Chang'an's commercial districts
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

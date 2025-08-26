@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Eternal infernal darkness, dim light from various supernatural sources
+    location: Eighth circle of Hell divided into ten concentric trenches containing different categories of fraud
+    weather: Oppressive infernal atmosphere with smoke, steam, and noxious vapors
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ten concentric circular trenches carved into rock, each containing different landscapes of corruption -
+      pitch-filled moats, rocky paths, burning tombs, frozen lakes, each specialized for different types of fraud and deception
+    details: First trench filled with boiling black pitch supervised by demons with hooks and claws, stone bridges spanning
+      between trenches with Gothic arch construction. Second trench showing flattering souls buried head-first in excrement,
+      their feet protruding and burning. Rocky landscapes with jagged stone formations creating natural amphitheaters of punishment.
+      Underground rivers of various substances - boiling pitch, ice-cold water, streams of liquid fire. Medieval architectural
+      elements repurposed for eternal justice - stone bridges, iron gates, carved channels directing flow of punishment. Supernatural
+      lighting from flames, glowing coals, and eerie phosphorescence.
+    background: Vast circular architecture disappearing into darkness, distant view of central pit of Hell, rocky cavern walls
+      extending upward toward distant surface
+    atmosphere: Ultimate corruption and fraud receiving precise divine justice, sense of systematic organization of punishment
+      matching medieval understanding of sin categories, oppressive darkness broken by supernatural light sources
+  composition:
+    cameraAngle: Wide panoramic view showing the circular organization of the ten trenches
+    focus: The systematic architecture of divine justice applied to fraud and corruption
+    depth: Foreground shows detailed punishment landscapes of nearest trenches, middle ground displays the complete circular
+      system, background fades into the darkness of deeper Hell
+visualElements:
+  colorPalette:
+    primary:
+    - gold
+    - royal blue
+    - deep red
+    - emerald green
+    secondary:
+    - black ink
+    - ivory parchment
+    - lapis blue
+    background: aged parchment or vellum
+    usageNotes: Rich pigments with metallic gold on a neutral parchment base
+    saturation: medium-high
+    contrast: medium (gold and colors vs parchment)
+  lineArt:
+    style: calligraphic scrollwork and outlines
+    weight: thin to medium (varied in decoration)
+    color: black or colored ink, plus gold accents
+    texture: smooth, flowing lines
+    edgeTreatment: decorative flourished ends
+  lighting:
+    type: flat (non-realistic illumination)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: none (flat illustration)
+      color: n/a
+      opacity: n/a
+    highlights: gold leaf shine catching light
+  rendering:
+    technique: hand-painted on vellum with egg tempera and gold leaf
+    texture: slight paper grain, raised gold leaf areas
+    detailLevel: very high (intricate borders and letters)
+    finish: matte for colors, reflective for gold
+  perspective: flat decorative layout (text and image on same plane)
+  mood:
+    overall: reverent, luxurious, scholarly
+    emotion: devotion, admiration
+    tempo: steady, deliberate
+    keywords:
+    - ornate
+    - sacred
+    - meticulous
+    - historic
+    - luxurious
+  stylePrecedents:
+  - Book of Kells
+  - Medieval European manuscripts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

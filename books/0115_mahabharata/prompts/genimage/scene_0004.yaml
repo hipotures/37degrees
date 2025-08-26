@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1000-800 BCE, evening
+    location: Palace in Varanawata built from highly flammable materials like lac resin straw and other combustible substances
+      as death trap for Pandavas
+    weather: Calm evening with no wind
+  characters:
+  - appearance: Female, middle-aged, noble bearing with concerned expression, protective maternal stance
+    clothing: Simple but elegant traveling robes in earth tones
+    position: Standing in palace chamber examining walls
+    action: Running fingers along wall surface feeling sticky resin texture
+  scene:
+    mainElements: Walls dripping with resin, furniture soaked in oil, hidden escape tunnel, deceptively comfortable appearance
+      masking deadly nature
+    details: Walls glistening with lac coating, furniture surfaces showing oil stains, pleasant chamber decorations hiding
+      sinister purpose, flickering oil lamps creating dangerous shadows, no text or letters visible
+    background: Comfortable palace interior with rich furnishings all treated with flammable substances, windows showing darkening
+      sky outside
+    atmosphere: Cozy deceptive lighting creating atmosphere of trap and false security, sounds of crackling fire scent of
+      lac and burning wood
+  composition:
+    cameraAngle: Medium shot showing architectural details that reveal hidden danger
+    focus: Mother figure discovering deadly nature of seemingly pleasant accommodations
+    depth: Foreground gleaming lac-coated surfaces, middle ground investigating figure, background comfortable but treacherous
+      interior, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

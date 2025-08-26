@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 2700 BCE ancient Mesopotamia, morning light
+    location: Palace courtyard where freedom and captivity exist side by side
+    weather: Clear bright morning with fresh air
+  characters: No characters present in this scene
+  scene:
+    mainElements: Ornate golden birdcage with door standing wide open, magnificent bird wings spread in flight just outside
+      cage opening, feathers catching morning light
+    details: Cage crafted from delicate gold wire in intricate geometric patterns typical of Mesopotamian art, door hanging
+      open on tiny hinges, bird wings showing detailed feather structure with iridescent colors, single feather floating in
+      air between cage and freedom, morning sun creating golden highlights on metal
+    background: Palace courtyard with stone pillars and geometric floor patterns, other palace inhabitants moving in distance,
+      walls decorated with bronze reliefs, gardens visible beyond courtyard
+    atmosphere: Moment of liberation captured in time, contrast between beautiful confinement and natural freedom, joy of
+      escape mixed with appreciation for craftsmanship, no text or letters visible
+  composition:
+    cameraAngle: Side view showing cage, open door, and wings in flight sequence
+    focus: Open cage door and spread wings as symbols of freedom overcoming beautiful captivity
+    depth: Foreground shows cage details and wing feathers, middle ground shows courtyard space, background shows palace architecture
+      and gardens
+visualElements:
+  colorPalette:
+    primary:
+    - ochre
+    - earth brown
+    - brick red
+    - muted turquoise
+    secondary:
+    - black
+    - white
+    - olive green
+    background: aged tan parchment
+    usageNotes: Natural pigment tones with high-contrast outlines
+    saturation: medium
+    contrast: high
+  lineArt:
+    style: bold black outlines for figures and symbols
+    weight: medium
+    color: black or dark brown
+    texture: solid, even strokes
+    edgeTreatment: sharp, angular forms
+  lighting:
+    type: flat (symbolic art)
+    direction: none
+    intensity: n/a
+    shadows:
+      style: none (flat color areas)
+      color: n/a
+      opacity: n/a
+    highlights: none
+  rendering:
+    technique: flat pigments on amate paper
+    texture: slightly rough, fibrous paper
+    detailLevel: moderate (stylized detail in patterns)
+    finish: matte, hand-drawn
+  perspective: flat, narrative panels
+  mood:
+    overall: ritualistic, ancient, symbolic
+    emotion: mystery, cultural pride
+    tempo: steady, formal
+    keywords:
+    - ancient
+    - symbolic
+    - ritual
+    - geometric
+    - earthy
+  stylePrecedents:
+  - Codex Borgia
+  - Aztec temple murals
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

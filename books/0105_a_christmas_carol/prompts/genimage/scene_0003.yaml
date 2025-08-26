@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1790s and 1843, same winter afternoon hour
+    location: Cramped London business office in commercial district, Victorian era with grimy brick buildings, narrow cobblestone
+      streets
+    weather: Similar cold winter weather fifty years apart
+  characters:
+  - appearance: Young man in 20s with softer features, bright eyes full of hope, brown hair, smooth complexion, eager expression
+    clothing: Simple apprentice attire with white linen shirt, brown wool vest, knee-length breeches, white stockings, sturdy
+      work boots
+    position: Standing in doorway, same exact spot as older self
+    action: Dancing at festivities, working with enthusiasm, reading by candlelight, or embracing loved ones with genuine
+      warmth
+  - appearance: Elderly man in 60s with sharp, angular features, pointed nose, thin lips, cold red eyes, white hair, gaunt
+      cheeks marked by inner coldness
+    clothing: Dark, worn business coat, black waistcoat, simple cravat, sturdy leather boots, minimal ornamentation reflecting
+      his frugal nature
+    position: Standing in same doorway fifty years later
+    action: Moving with calculated precision, examining ledgers, counting coins, or standing in doorways with disapproving
+      expression
+  scene:
+    mainElements: Double exposure showing young and old Scrooge occupying identical doorway position, same building entrance
+      aged fifty years, architectural details worn by decades of use
+    details: Door frame wood darkened and carved deeper by weather, brass fittings tarnished from bright to dull, stone threshold
+      worn smooth by countless footsteps, window panes replaced multiple times showing different glass clarity, paint layers
+      visible where chipped, building number faded but position unchanged, cobblestones settled into deeper grooves, no text
+      or letters visible
+    background: Street scene showing five decades of London evolution - same buildings aged, new gas lamps installed, fashion
+      changes in passersby, carriages replaced by newer models, shop signs weathered
+    atmosphere: Contrast between youthful energy and elderly isolation, same winter light falling through doorway but received
+      differently, sound of bustling street life versus echoing emptiness, temporal weight of accumulated years
+  composition:
+    cameraAngle: Eye level straight-on shot highlighting temporal superimposition
+    focus: Doorway frame serving as temporal anchor point between two eras
+    depth: Foreground shows door detail changes, middle ground reveals building aging, background displays street evolution
+      across fifty years
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

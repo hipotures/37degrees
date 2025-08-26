@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Bronze Age Greece, dusk
+    location: Exterior facade of royal palace in ancient Thebes, Bronze Age Greece - massive fortified structure with cyclopean
+      walls of irregular limestone blocks
+    weather: Darkness falling rapidly, first drops of approaching storm
+  characters:
+  - appearance: Regal woman in early fifties with majestic dignity, dark hair intricately braided and arranged with subtle
+      gray streaks at temples, composed bearing with underlying tension
+    clothing: Doric peplos of heavy finely-woven wool in rich saffron color, ornate gold fibulae brooches at shoulders, deep
+      blue himation when worn, gold bracelets and necklace
+    position: Fleeing up palace steps toward central doors, looking back once with anguished face
+    action: Running desperately toward palace entrance, royal composure completely shattered, one final backward glance of
+      anguish
+  scene:
+    mainElements: Two-story stone facade with large central wooden doors flanked by smaller doors, wide shallow stone steps
+      leading to entrance, paved courtyard with cracked stones and sprouting weeds
+    details: Ornate golden brooches used to fasten Jocasta's peplos at the shoulders gleaming briefly in last light before
+      she disappears into darkness. Her rich saffron peplos trailing behind her as she flees. Central palace doors yawning
+      open like a mouth ready to swallow her. Steps seeming to lead down into darkness rather than up to safety. Deep blue
+      himation billowing behind her in gathering wind. No text or letters visible
+    background: Ancient imposing sun-baked fortress of power concealing dark secrets, weathered stone now appearing as prison
+      or tomb in gathering darkness
+    atmosphere: Emotional whiplash between hope and despair, inevitable doom approaching, last moment before final catastrophe
+  composition:
+    cameraAngle: Low angle following Jocasta's flight up the steps toward dark palace doors
+    focus: Jocasta's desperate flight from truth into the darkness of the palace interior
+    depth: Foreground shows empty courtyard she's leaving behind, middle ground captures her figure on the steps, background
+      shows dark palace doors opening to receive her
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Midday, Sasanian Persian Empire
+    location: Private palace garden with marble fountain and secluded pavilions surrounded by lush vegetation
+    weather: Bright sunny day with clear skies and warm temperatures
+  characters:
+  - appearance: Man aged 28 years, similar Persian features to his brother but bearing expression of deep sadness and distraction,
+      well-built figure of royal warrior, neat appearance despite inner turmoil
+    clothing: Traveling robes of royal quality but showing dust of long journey, ornate belt with royal insignia
+    position: Hidden behind ornate window lattice observing scene below
+    action: Watching in shocked silence, face displaying mixture of horror and grim recognition
+  - appearance: Woman aged 25 years with elaborate royal dress and jewelry indicating high status, attractive features now
+      twisted by shameless behavior
+    clothing: Luxurious silk robes partially disarranged, golden jewelry and royal ornaments
+    position: Reclining by marble fountain with complete abandonment of royal dignity
+    action: Engaging in scandalous behavior with multiple companions in broad daylight
+  scene:
+    mainElements: Ornate Persian garden with central marble fountain carved with intricate designs, flowering trees providing
+      shade, stone pathways between planted beds, private pavilion with silk curtains
+    details: Crystal clear water flowing from fountain spouts, rose petals floating on water surface, scattered silk cushions
+      and royal garments on marble benches, golden vessels containing wine and delicacies, exotic birds in nearby trees, no
+      text or letters visible
+    background: Palace walls visible through garden foliage, distant mountain peaks beyond palace grounds, blue sky with few
+      white clouds
+    atmosphere: Beautiful garden setting corrupted by shameful scene, contrast between natural beauty and moral ugliness,
+      heavy perfume of flowers mixing with wine, disturbing juxtaposition of paradise and betrayal
+  composition:
+    cameraAngle: View from elevated window position showing observer's perspective
+    focus: The scandalous scene in garden with hidden observer's silhouette in foreground
+    depth: Window frame in extreme foreground, garden scene in middle ground, palace architecture in background
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
