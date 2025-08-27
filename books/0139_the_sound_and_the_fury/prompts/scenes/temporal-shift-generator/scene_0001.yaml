@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Parlor's Twin Epochs - Funeral and Wedding"
+  setting:
+    time: "1898 spring evening transforming into 1910 April afternoon"
+    location: "Formal front room of Compson mansion with high ceilings, used for important family events including grandmother's funeral and Caddy's wedding"
+    weather: "Indoor scene, flickering candlelight transitioning to harsh afternoon sunlight"
+  characters:
+    - appearance: "White female child age 6-12, generally described as beautiful and rebellious, fearless and often dirty, muddy bottom of undergarments from playing in stream, flowers in hair for wedding"
+      clothing: "Simple children's dresses often muddied from outdoor play, wedding dress with long flowing veil like shining wind"
+      position: "Active adventurous poses - climbing trees, sitting in muddy stream, exploring forbidden areas"
+      action: "Bold transgressive behavior - climbing pear tree to peek in windows, deliberately soiling dress, defying adult authority"
+  scene:
+    mainElements: "Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano, formal seating arrangement overlaid with the same room twelve years later with wedding flowers and ceremonial arrangements, two temporal layers visible simultaneously"
+    details: "Left half of room shows 1898 funeral setting with heavy black drapes, coffin surrounded by grieving relatives in Victorian mourning dress, closed casket draped with white lilies. Right half reveals same space in 1910 with wedding decorations, white ribbons, and celebration preparations. Central focus: same horsehair sofa where family members sat for both occasions, showing wear patterns accumulated over twelve years, wood grain darker, fabric more faded, dust motes dancing in identical afternoon light shaft no text or letters visible"
+    background: "Identical architectural elements - same crown molding, same window frames, same fireplace mantel - showing subtle aging signs like paint darkening, wood settling, minor repairs"
+    atmosphere: "Melancholy temporal overlap where joy and sorrow occupy same space, emphasizing how family rituals echo across generations in identical settings but with accumulated weight of years"
+  composition:
+    cameraAngle: "Medium wide shot from parlor doorway showing full room depth"
+    focus: "Central horsehair sofa serving as temporal anchor between two overlapping epochs"
+    depth: "Foreground: funeral mourners in black left side, wedding guests in celebration attire right side; middle ground: the unchanged sofa bearing witness to both events; background: identical room architecture showing twelve years of subtle aging"

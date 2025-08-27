@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Verdict - Philosopher's Obligation to Return"
+  setting:
+    time: "timeless allegorical realm"
+    location: "cave entrance where bright surface world meets underground darkness"
+    weather: "contrast between brilliant sunlight and cave shadows"
+  characters:
+    - appearance: "human figure with pale skin from underground confinement, now adapted to light, expression showing profound understanding"
+      clothing: "simple worn garments suitable for imprisonment, now illuminated by natural sunlight revealing their true colors"
+      position: "standing at threshold between light and darkness"
+      action: "looking back toward cave with mixture of compassion and dread, knowing he must return to help others"
+    - appearance: "human figure with pale skin from underground confinement, neck strained from forced position"
+      clothing: "simple worn garments suitable for imprisonment, chains around neck and legs"
+      position: "still immobilized in cave depths, unaware of enlightened companion above"
+      action: "continuing to watch shadows on wall in complete ignorance of reality above"
+  scene:
+    mainElements: "dramatic contrast between brilliant surface world and dark cave interior, steep passage connecting both realms"
+    details: "Sharp line dividing light from darkness at cave mouth, enlightened figure silhouetted against brightness while cave dwellers remain in shadow, visual metaphor for philosophical responsibility"
+    background: "two complete worlds - illuminated reality above and shadow theater below"
+    atmosphere: "tension between personal enlightenment and moral obligation to share truth with others"
+  composition:
+    cameraAngle: "shot emphasizing contrast between enlightened individual and imprisoned masses"
+    focus: "moment of moral decision between remaining in light or returning to help others"
+    depth: "enlightened figure at threshold in foreground, cave passage in middle ground, imprisoned others in background"

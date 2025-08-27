@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1920 dissolving into 1973, morning light transitioning through decades
+    location: same ornate mirror in Big House reflecting two generations fifty years apart
+    weather: gentle morning light filtered through lace curtains spanning five decades
+  characters:
+  - appearance: young woman aged eighteen, otherworldly beauty like porcelain doll, translucent pale skin with bluish tint,
+      bright yellow eyes, long flowing green hair color of old bronze, graceful movements like mythical sea creature
+    clothing: flowing white or pale ethereal dresses in light fabrics that emphasize her supernatural beauty
+    position: seated gracefully before ornate vanity mirror, ethereal pose of mythical beauty
+    action: embroidering fabrics with mythical beasts and magical creatures, moving with siren-like elegance
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: standing defiantly before same mirror but now reflecting revolutionary determination
+    action: reading revolutionary texts, writing manifestos, or engaged in passionate political discussions
+  scene:
+    mainElements: ornate antique mirror serves as temporal portal showing two green-haired women from same family bloodline
+      separated by five decades, reflecting transformation from ethereal beauty to earthly revolutionary, mirror surface ripples
+      between past and present
+    details: identical green hair color connects both figures across time while everything else demonstrates dramatic social
+      evolution - Rosa's mythical beauty tools replaced by Alba's political books and manifestos, delicate embroidery needles
+      transformed to urgent writing implements, no text or letters visible
+    background: same bedroom location but furnishings evolve from 1920s opulence to 1970s functional simplicity, wall decorations
+      shift from ornate frames to revolutionary posters
+    atmosphere: mystical continuity through genetic inheritance contrasted with revolutionary transformation of purpose, lighting
+      maintains warm intimacy while revealing generational change
+  composition:
+    cameraAngle: intimate close-up focused on mirror reflection showing temporal transition
+    focus: central emphasis on supernatural green hair inheritance spanning generations
+    depth: foreground shows mirror details, middle ground captures reflected figures across time, background reveals changing
+      room décor through decades
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

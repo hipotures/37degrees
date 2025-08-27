@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Manufacturing Consent"
+  setting:
+    time: "1911, evening"
+    location: "Village square in Weizhuang during political rally"
+    weather: "Torch-lit evening creating dramatic shadows and flickering light"
+  characters:
+    - appearance: "Political speaker on raised platform"
+      clothing: "Official robes with party insignia"
+      position: "Standing elevated above crowd with arms raised"
+      action: "Delivering passionate speech about loyalty and duty, gestures designed to inspire fervor"
+    - appearance: "Crowd of villagers with upturned faces"
+      clothing: "Simple work clothes, best garments for the occasion"
+      position: "Pressed together in tight formation below platform"
+      action: "Responding in unison to speaker's cues, raising fists and shouting slogans on command"
+  scene:
+    mainElements: "Wooden platform draped with official banners and symbols. Torches mounted on poles creating theatrical lighting. Crowd organized in military-style formation facing speaker"
+    details: "Official portraits displayed prominently, patriotic slogans written on banners, red flags creating visual unity. Speaker uses rhythmic gestures to control crowd responses"
+    background: "Guards positioned around perimeter, official observers taking notes on crowd enthusiasm, buildings decorated with political symbols"
+    atmosphere: "Emotional manipulation disguised as spontaneous political enthusiasm. Individual thought surrendered to group hysteria. The theatrical elements designed to overwhelm rational judgment and create artificial consensus"
+  composition:
+    cameraAngle: "View from within crowd showing both the manipulating speaker and the manipulated audience"
+    focus: "The speaker's commanding presence contrasted with the crowd's programmed responses"
+    depth: "Foreground captures individual faces showing varying degrees of genuine vs. forced enthusiasm, middle ground shows the speaker orchestrating responses, background reveals the official apparatus monitoring the event"

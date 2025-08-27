@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, morning in sacred temple
+    location: Interior of Juno's temple in Carthage with painted walls depicting Trojan War
+    weather: Bright morning light streaming through temple columns
+  characters:
+  - appearance: tall, powerfully built warrior with noble bearing
+    clothing: travel-worn tunic and cloak, no armor in sacred space
+    position: standing close to temple wall examining painted scenes
+    action: reaching toward painted images while tears flow down face recognizing scenes of personal tragedy
+  scene:
+    mainElements: Temple interior with soaring columns, walls covered in detailed murals showing Trojan War battles, bronze
+      altar and sacred furnishings
+    details: Detailed painted scenes showing Trojan warriors in combat, images of Troy burning, portraits of fallen heroes
+      and Greek victors, bronze doors gleaming with sacred light, marble floors reflecting colored light from paintings, ritual
+      implements and offerings to Juno
+    background: Temple architecture extending beyond visible walls, other worshippers and priests attending sacred duties,
+      Carthaginian city life visible through columned entrances
+    atmosphere: Sacred space containing personal history, overwhelming recognition of fame and tragedy, divine power preserving
+      mortal memory
+  composition:
+    cameraAngle: POV shot seeing exactly what character sees when examining murals up close
+    focus: Painted scenes of Trojan War with hand reaching toward familiar faces and battles from personal experience
+    depth: Detailed mural paintings in immediate foreground showing war scenes, temple architecture in middle distance, city
+      activity visible through columns in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

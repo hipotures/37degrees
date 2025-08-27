@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1513, military camp at dawn
+    location: Condottieri encampment showing professional soldiers motivated only by payment
+    weather: Cold morning with fog
+  characters:
+  - appearance: 44 year old man with harsh, weathered face of experienced soldier. Prominent, hooked nose and determined,
+      hardened gaze. Earthen complexion, signs of fatigue or discrete skin changes from syphilis ('French disease'). Wears
+      characteristic red flat cap (berretta).
+    clothing: Dark doublet typical of condottiere. In field, functional plate armor with family heraldic symbols.
+    position: Negotiating with multiple representatives from different city-states
+    action: Examining offers and calculating which employer provides best terms, showing no loyalty beyond profit
+  scene:
+    mainElements: Military camp organized around profit rather than patriotism. Multiple banners from different states showing
+      mercenaries' willingness to serve any master. Maps and battle plans being sold to highest bidder.
+    details: Contracts and payment ledgers more prominent than weapons. Soldiers changing heraldic symbols on uniforms based
+      on current employer. Evidence of recent betrayals - abandoned equipment from previous masters.
+    background: Professional military force that Machiavelli despised as root of Italian weakness. Armies motivated by money
+      rather than love of country.
+    atmosphere: Atmosphere of cynical professionalism where loyalty is commodity to be bought and sold. Military strength
+      undermined by mercenary self-interest.
+  composition:
+    cameraAngle: Medium shot focusing on negotiation and calculation
+    focus: Vitellozzo Vitelli as representative of corrupted military values
+    depth: Foreground shows contract negotiations, middle ground reveals mercenary camp, background displays multiple state
+      banners representing divided loyalties
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

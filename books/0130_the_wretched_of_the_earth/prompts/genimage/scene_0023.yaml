@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, symbolic representation
+    location: Circular prison structure representing total surveillance and control of colonial system
+    weather: Stark institutional lighting creating sharp contrasts
+  characters:
+  - appearance: Algerian colonial subjects in individual cells arranged around central watchtower
+    clothing: Uniform colonial subject attire, standardized clothing emphasizing loss of individuality
+    position: Isolated in individual cells, visible to central authority
+    action: Modifying behavior due to constant potential observation, self-censoring and conforming without direct coercion
+  - appearance: Single European colonial authority in central watchtower
+    clothing: Official colonial administrative uniform
+    position: Central observation point with view of all subjects
+    action: Observing and controlling through possibility of surveillance rather than constant watching
+  scene:
+    mainElements: Bentham's Panopticon prison as metaphor for colonial society, circular arrangement allowing total surveillance
+      with minimal guards
+    details: Central watchtower with dark windows making observation status unknown, individual cells arranged in circle around
+      center, subjects modifying behavior due to potential watching, mirrors and observation equipment amplifying surveillance
+      capability, colonial regulations posted in each cell
+    background: Circular prison architecture representing systematic nature of colonial control and psychological domination
+    atmosphere: Psychological control through potential observation, freedom eliminated through constant possibility of surveillance
+  composition:
+    cameraAngle: Aerial view showing circular panopticon structure and central control point
+    focus: Central watchtower dominating circular arrangement of controlled subjects
+    depth: Watchtower in center, cells arranged in concentric circles, architectural structure emphasizing total control
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

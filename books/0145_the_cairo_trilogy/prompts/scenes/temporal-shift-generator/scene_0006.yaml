@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Cairo spring awakening - 1917 to 1919 revolutionary blooming"
+  setting:
+    time: "Early spring 1917 to late spring 1919"
+    location: "Palace Walk street and surrounding Al-Jamaliyya district during revolutionary period"
+    weather: "Spring weather progression from budding to full revolutionary fervor"
+  characters:
+    - appearance: "20-year-old Egyptian law student, serious intelligent expression, idealistic bearing"
+      clothing: "Student's European-style suit with fez, carrying law books or pamphlets"
+      position: "Upright posture suggesting moral conviction and determination"
+      action: "Walking with increasing urgency and purpose from student to revolutionary activist"
+  scene:
+    mainElements: "Dense network of narrow winding alleys forming true labyrinth, multi-story stone and brick buildings with overhanging mashrabiya balconies nearly touching across street - transforming from quiet neighborhood to revolutionary epicenter"
+    details: "Spring progression: early 1917 shows quiet street life with normal commerce, vendors selling goods, children playing. 1919 revolutionary spring shows same streets filled with demonstrators, inflammatory pamphlets scattered (no readable text), green flags with crescent and cross symbols, crowds gathering with increasing political energy. Architecture unchanged but atmosphere completely transformed, no text or letters visible"
+    background: "Ghostly silhouettes of slender mosque minarets rising above rooftops remaining constant while street-level human activity intensifies toward revolution"
+    atmosphere: "Transformation from peaceful seasonal renewal to political awakening, sense of inevitable historical change building like natural spring force, temporal tension between personal and national awakening"
+  composition:
+    cameraAngle: "Wide street view showing crowd evolution and energy building"
+    focus: "Central figure moving through increasingly energized crowds over two-year period"
+    depth: "Foreground: growing crowds and political activity, middle ground: individual transformation, background: unchanging historic architecture witnessing change"

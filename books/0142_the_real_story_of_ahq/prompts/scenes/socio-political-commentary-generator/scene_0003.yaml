@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Ritual of Deference"
+  setting:
+    time: "1911, afternoon"
+    location: "Public drinking establishment in Weizhuang, center of male social interaction and gossip"
+    weather: "Overcast day with soft, diffused light"
+  characters:
+    - appearance: "Various villagers in simple cotton work clothes, heads lowered in deference"
+      clothing: "Indigo-dyed cotton garments, clean but humble"
+      position: "Arranged in careful semi-circle, maintaining respectful distance"
+      action: "Bowing in synchronized motion, some removing caps, all avoiding direct eye contact"
+    - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+      clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+      position: "Standing elevated on wooden platform outside tavern"
+      action: "Accepting homage with slight nod, hands clasped regally behind back"
+  scene:
+    mainElements: "Simple single-story building with open front facing street. Long wooden counter with large clay wine jars behind it. Rough wooden tables and benches. The ritual of respect plays out in this public space"
+    details: "Dust motes floating in afternoon light, worn wooden surfaces polished by countless hands, the careful choreography of social hierarchy made visible through body language and spatial positioning"
+    background: "Other villagers watching from doorways and windows, street vendors pausing their work to observe the ceremony of power"
+    atmosphere: "Suffocating social ritual where genuine human connection is replaced by performance of status. The apparent voluntary nature of respect masks its coercive foundation. Everyone knows their role in this theater of oppression"
+  composition:
+    cameraAngle: "Eye level capturing the full ritual of deference"
+    focus: "The contrast between the elevated authority figure and the bowing masses"
+    depth: "Foreground shows the bowing villagers, middle ground features the elevated landowner, background reveals the observing community"

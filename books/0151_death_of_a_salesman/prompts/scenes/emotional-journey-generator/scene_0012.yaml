@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Genuine Embrace - Moment of Authentic Connection"
+  setting:
+    time: "1949, evening"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "warm evening light inside house"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "sitting at kitchen table, arms extended in welcoming gesture"
+      action: "reaching toward son with open arms, face showing relief and genuine maternal love"
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "leaning toward mother from adjacent chair"
+      action: "accepting embrace with genuine emotion, tension leaving shoulders as he allows himself moment of vulnerability"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, moment of genuine family connection"
+    details: "Warm lamp light creating intimate circle around mother and son. Coffee cups and remnants of simple meal suggesting long conversation. Third chair pushed slightly back, giving space for this intimate moment between two family members."
+    background: "kitchen extending into softly lit living room area, stairs leading to upper floor, domestic appliances humming quietly, sense of home as refuge"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, rare moment of genuine connection breaking through family dysfunction"
+  composition:
+    cameraAngle: "close medium shot emphasizing intimate connection between mother and son"
+    focus: "genuine embrace and moment of authentic emotional connection, hands reaching and accepting comfort"
+    depth: "foreground shows intimate gesture of reaching and embracing, middle ground captures two figures finding moment of peace together, background reveals domestic setting providing sanctuary for family healing"

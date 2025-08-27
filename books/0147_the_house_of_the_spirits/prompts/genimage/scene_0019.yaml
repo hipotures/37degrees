@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1960-1970, ten years of political awakening compressed into accelerated sequence
+    location: rural and urban areas across unnamed South American country
+    weather: seasons blending together as political movement gains momentum
+  characters:
+  - appearance: man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders,
+      most distinctive feature is mutilated right hand missing three fingers from violent punishment
+    clothing: simple peasant work clothes - rough cotton shirts, patched trousers, sometimes traditional poncho, occasionally
+      disguises as priest or vagrant
+    position: moving rapidly between different venues as influence spreads
+    action: playing guitar and singing protest songs while political consciousness spreads at accelerated rate through audiences
+  scene:
+    mainElements: political awakening spreading like wildfire in accelerated time - Pedro Tercero's protest songs inspiring
+      rapid consciousness changes in listeners, small gatherings growing into massive demonstrations at supernatural speed,
+      revolutionary ideas spreading faster than normal time allows
+    details: accelerated political transformation showing power of music and ideas - audiences changing from passive listeners
+      to active revolutionaries in compressed time, protest signs and revolutionary symbols appearing rapidly across urban
+      and rural settings, Pedro Tercero's guitar music creating waves of political energy moving at accelerated speed, no
+      text or letters visible
+    background: landscapes transforming rapidly as political awareness spreads - rural haciendas becoming sites of peasant
+      organizing, urban universities turning into revolutionary centers, conservative strongholds challenged by accelerating
+      social change
+    atmosphere: electric energy of revolutionary consciousness spreading at supernatural speed, Pedro Tercero's music catalyzing
+      social transformation faster than historical time, compressed decade showing power of artistic resistance
+  composition:
+    cameraAngle: sweeping panoramic views showing rapid spread of political influence across geography
+    focus: central emphasis on Pedro Tercero's guitar music as catalyst for accelerated social change
+    depth: foreground shows detailed guitar playing, middle ground captures rapidly changing audiences, background reveals
+      accelerated political transformation of society
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

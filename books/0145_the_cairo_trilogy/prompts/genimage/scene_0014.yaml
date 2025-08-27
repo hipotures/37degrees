@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 'Vehicle progression: 1917, 1925, 1935, 1944'
+    location: Palace Walk street showing transportation evolution in narrow medieval Cairo
+    weather: Same dusty afternoon light revealing different transportation technologies
+  characters:
+  - appearance: 45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue
+      eyes, large prominent nose, commanding presence that fills space
+    clothing: Well-tailored European suit with waistcoat, white shirt, red felt fez (tarbush) with black tassel
+    position: Standing with authority and dignity, movements heavy and measured
+    action: Adapting to different transportation methods across decades - from walking to riding in automobiles
+  scene:
+    mainElements: Dense network of narrow winding alleys forming true labyrinth, multi-story stone and brick buildings with
+      overhanging mashrabiya balconies nearly touching across street - showing transportation evolution despite unchanged
+      medieval architecture
+    details: '1917: Horse-drawn carriages (hantour), donkey carts, hand-pulled vendors'' carts, people walking. 1925: First
+      automobiles appearing alongside traditional transport, early electric trams in wider streets. 1935: More automobiles,
+      fewer animal-drawn vehicles, improved street surfaces. 1944: Wartime vehicles, military trucks, reduced civilian transportation
+      due to rationing. Street surfaces show progressive improvement but architecture remains medieval, no text or letters
+      visible'
+    background: Same ancient stone buildings and mashrabiya-enclosed balconies providing unchanged architectural context for
+      evolving transportation technology
+    atmosphere: Temporal tension between medieval urban planning and modern transportation needs, sound evolution from animal
+      hooves to automobile engines, dust patterns changing from organic to mechanical
+  composition:
+    cameraAngle: Street-level view showing transportation mix evolution over decades
+    focus: Central vehicle evolution showing technological progression within constrained medieval space
+    depth: 'Foreground: evolving transportation technologies, middle ground: human adaptation to change, background: unchanging
+      historic architecture creating temporal contrast'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

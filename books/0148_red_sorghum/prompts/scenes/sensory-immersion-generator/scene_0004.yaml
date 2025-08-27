@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Weathered Hands Holding Newborn Softness"
+  setting:
+    time: "1924 spring, dawn"
+    location: "Main chamber of distillery house, Northeast Gaomi District"
+    weather: "Gentle spring morning with soft light filtering through windows"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Seated beside bed, cradling newborn infant"
+      action: "Calloused hands gently supporting tiny baby, feeling overwhelming softness"
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Resting on bed after childbirth"
+      action: "Watching with exhausted but tender expression"
+  scene:
+    mainElements: "Fortified complex interior with rammed earth walls, simple wooden furniture, traditional Chinese family living space with minimal but functional decor"
+    details: "Massive scarred hands contrasting with impossibly soft baby skin, callused fingers afraid to apply any pressure, roughened palms cradling delicate limbs, battle-hardened warrior transformed by gentleness, infant's silk-smooth skin against work-worn knuckles, textures of brutality and innocence meeting, morning light softening harsh masculine features, no text or letters visible"
+    background: "Simple wooden furniture, clay vessels, distillery equipment visible through doorway"
+    atmosphere: "Profound tenderness overcoming violence, physical gentleness conquering habitual roughness, transformation of warrior into protective father through touch"
+  composition:
+    cameraAngle: "Close-up focusing on hands and baby"
+    focus: "Dramatic contrast between weathered adult hands and smooth infant skin"
+    depth: "Immediate foreground shows hand-baby interaction, middle ground includes mother's face, background suggests domestic interior"

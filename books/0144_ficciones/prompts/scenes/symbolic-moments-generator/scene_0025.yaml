@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Circle That Contains All Stories"
+  setting:
+    time: "Eternal present containing all possible times"
+    location: "Circular library reading room that exists in all periods simultaneously"
+    weather: "Timeless illumination that is neither natural nor artificial"
+  characters:
+    - appearance: "Argentinian intellectual in his early 40s, medium height, slender build slightly stooped from years of reading, thin face with sharp intellectual features, dark penetrating eyes behind round wire-rimmed spectacles, dark hair neatly combed back"
+      clothing: "Conservative dark wool suit of 1940s Buenos Aires intellectual, crisp white shirt, subdued tie, well-maintained but not fashionable attire reflecting focus on ideas rather than appearance"
+      position: "Seated at circular table surrounded by all the books from every story"
+      action: "Opening final book that contains the story of reading this very book, completing infinite literary circle"
+  scene:
+    mainElements: "Perfect circular reading room contains every book from every story in Ficciones collection, yellow-bound encyclopedia of Tlön, identical volumes from Babel Library, gaucho chronicles, Chinese time theories, Irish revolutionary accounts, all stories converging in single space"
+    details: "Circle transforms from simple geometry into symbol of eternal return and infinite literature, every story leading back to act of reading stories, reader becoming character in story he is reading. Final book opens to reveal first page of Ficciones, suggesting all literature exists in eternal cycle of creation and consumption"
+    background: "Circular bookshelves extending upward beyond sight, containing every book that has been or could be written, soft eternal light emanating from books themselves, architecture suggesting both Babel Library and Buenos Aires municipal library"
+    atmosphere: "Serene completion of literary journey through return to beginning, gentle illumination suggesting divine presence in literature, perfect silence of space where all stories coexist, eternal moment where reading and writing become single act, no text or letters visible"
+  composition:
+    cameraAngle: "High angle shot from above showing circular symmetry of scene"
+    focus: "The open book that completes the infinite circle of stories"
+    depth: "Open final book in foreground, seated reader in middle ground, infinite circular library extending upward and outward into background representing all possible literature"

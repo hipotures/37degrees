@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1897 late afternoon, period of professional isolation
+    location: Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, 1890s fin de siècle period
+    weather: Overcast autumn day with thin drizzle
+  characters:
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Walking alone among crowds of Viennese bourgeoisie
+    action: Striding purposefully but with subtle defensive posture, observing others while feeling observed
+  scene:
+    mainElements: Vienna's grand Ringstrasse architecture perceived through Freud's lens of professional alienation and revolutionary
+      thinking, the imperial grandeur appearing as beautiful facade masking ignorance and resistance to new ideas
+    details: Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses,
+      gas street lamps, elegant shop windows, coffee house terraces. Fellow pedestrians appear as figures trapped in conventional
+      thinking, their faces seeming closed and judgmental. Medical colleagues in distance appear as silhouettes turning away.
+      The grand buildings loom like monuments to established authority that rejects his theories.
+    background: Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity
+      and emerging political anxieties, ordered facades concealing cultural nervousness
+    atmosphere: Sense of intellectual isolation amid bustling crowd, revolutionary thinker surrounded by conventional minds,
+      beautiful city feeling simultaneously inspiring and rejecting, weight of being misunderstood genius among the unenlightened
+      masses, no text or letters visible
+  composition:
+    cameraAngle: Eye level from Freud's perspective walking through crowd
+    focus: Freud's figure moving counter to crowd flow, isolated despite being surrounded by people
+    depth: 'Foreground: wet cobblestones reflecting gaslight, Middle: Freud''s determined figure amid indifferent crowd, Background:
+      magnificent imperial architecture appearing cold and unwelcoming'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

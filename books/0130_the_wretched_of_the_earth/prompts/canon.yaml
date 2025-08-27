@@ -1,0 +1,144 @@
+canon:
+  characters:
+    - id: "frantz_fanon"
+      name: "Frantz Fanon"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged Black man in his 30s, intense penetrating gaze, intellectual demeanor emanating revolutionary passion and authority"
+            clothing: "European dark suit or white medical coat, professional attire of a psychiatrist and theorist"
+            position: "Seated at desk writing or standing in clinical setting"
+            action: "Writing manuscripts, examining patients, or engaged in intense discussion with revolutionary colleagues"
+
+    - id: "colonized_peasant"
+      name: "Algerian Peasant (Fellah)"
+      description_block: |
+        characters:
+          - appearance: "Weather-beaten Algerian man in his 40s-50s, deep furrows on sun-scorched face, large calloused hands from agricultural work, dignified despite hardship"
+            clothing: "Traditional djellaba or gandoura, woolen burnous for protection, simple earth-toned garments"
+            position: "Working in fields or standing with farming tools"
+            action: "Tending crops with primitive tools, carrying harvest, or slowly transforming from passive endurance to revolutionary determination"
+
+    - id: "colonized_intellectual"
+      name: "Colonial Intellectual"
+      description_block: |
+        characters:
+          - appearance: "Educated Algerian man in his 30s, wearing European-style glasses, well-groomed appearance, conflicted expression showing internal alienation"
+            clothing: "Impeccably tailored European suit, white shirt, tie, attempting to mirror colonial elite dress"
+            position: "Sitting in library or café, holding books or papers"
+            action: "Reading European literature, engaged in philosophical debate, gradually awakening to revolutionary consciousness"
+
+    - id: "lumpenproletariat"
+      name: "Urban Outcast"
+      description_block: |
+        characters:
+          - appearance: "Gaunt desperate Algerian man in his 20s-30s, feverish unpredictable gaze, emaciated from urban poverty"
+            clothing: "Tattered mixture of European and traditional garments, worn-out shoes, clothing patched and dirty"
+            position: "In slum environments or city margins"
+            action: "Scavenging for survival, first to respond to revolutionary violence, moving with desperate energy"
+
+    - id: "french_colonial_officer"
+      name: "French Colonial Official"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+            clothing: "Khaki military uniform with beret, or elegant civilian suit typical of 1950s colonial administration"
+            position: "In government buildings, military posts, or patrolling colonial districts"
+            action: "Issuing orders, supervising patrols, maintaining colonial control through systematic oppression"
+
+    - id: "pied_noir_settler"
+      name: "European Settler"
+      description_block: |
+        characters:
+          - appearance: "European colonist in Algeria, well-dressed, displaying superiority and contempt toward local population"
+            clothing: "Fashionable 1950s European attire, quality fabrics, modern styling"
+            position: "In European quarter cafés, villas, or commercial establishments"
+            action: "Enjoying colonial privileges, socializing in segregated spaces, defending settler interests"
+
+    - id: "national_bourgeoisie"
+      name: "Post-Independence Elite"
+      description_block: |
+        characters:
+          - appearance: "Well-fed Algerian man in his 40s-50s showing signs of wealth, arrogant posture mimicking former colonial masters"
+            clothing: "Expensive Western business suit, luxury accessories like gold watch and signet ring"
+            position: "In former colonial villas, government offices, or exclusive clubs"
+            action: "Occupying positions of power, making deals with foreign interests, perpetuating neo-colonial dependency"
+
+  locations:
+    - id: "european_quarter"
+      name: "Colonial European District"
+      description_block: |
+        setting:
+          location: "French colonial district in Algeria with wide tree-lined boulevards, Haussmanian architecture mixed with neo-Moorish elements, clean illuminated streets"
+        mainElements: "Monumental colonial buildings, manicured parks, elegant shop windows, organized urban planning"
+        atmosphere: "Sterile orderliness masking underlying tension and control, geometric precision symbolizing colonial domination"
+
+    - id: "casbah"
+      name: "Algerian Casbah"
+      description_block: |
+        setting:
+          location: "Dense labyrinth of narrow winding streets in traditional Algerian quarter, organic architecture with houses pressing against each other"
+        mainElements: "Steep stone pathways, bustling souks with spice vendors, shadowy alleyways, traditional Arabic architecture"
+        atmosphere: "Crowded authentic life contrasting with colonial sterility, community warmth amid poverty and oppression"
+
+    - id: "blida_hospital"
+      name: "Blida-Joinville Psychiatric Hospital"
+      description_block: |
+        setting:
+          location: "French colonial psychiatric hospital in Algeria with sterile clinical interior contrasting peaceful exterior gardens"
+        mainElements: "Medical examination rooms, rows of hospital beds, barred windows, long empty corridors"
+        atmosphere: "Clinical detachment masking psychological trauma of colonial violence, place where colonial pathology becomes visible"
+
+    - id: "refugee_camp"
+      name: "Regroupment Camp"
+      description_block: |
+        setting:
+          location: "French-controlled detention camp for displaced Algerian civilians, rows of identical provisional barracks surrounded by barbed wire"
+        mainElements: "Wooden or metal barrack structures, guard towers, muddy pathways, barbed wire perimeter"
+        atmosphere: "Dehumanizing conditions of mass displacement, systematic destruction of traditional community life"
+
+    - id: "mountain_hideout"
+      name: "Atlas Mountain Guerrilla Base"
+      description_block: |
+        setting:
+          location: "Rocky mountainous terrain in Atlas Mountains of Algeria, natural cave or hidden valley serving as partisan stronghold"
+        mainElements: "Rugged stone formations, sparse vegetation, camouflaged shelters, strategic vantage points"
+        atmosphere: "Harsh natural environment fostering revolutionary resistance, landscape of liberation struggle"
+
+    - id: "government_palace"
+      name: "Colonial Administrative Palace"
+      description_block: |
+        setting:
+          location: "Imposing French colonial government building in Algeria, grand architecture symbolizing imperial power"
+        mainElements: "Massive stone columns, French flags, marble halls, imposing staircases, official portraits"
+        atmosphere: "Overwhelming display of colonial authority designed to intimidate and assert dominance over subject population"
+
+  items:
+    - id: "manuscript_pages"
+      name: "Revolutionary Writings"
+      description_block: |
+        details: "Handwritten manuscript pages of The Wretched of the Earth, ink on paper with crossed-out sections and marginal notes"
+
+    - id: "medical_instruments"
+      name: "Psychiatric Medical Tools"
+      description_block: |
+        details: "Stethoscope, medical files, psychiatric evaluation forms, clinical notes documenting psychological trauma of colonial violence"
+
+    - id: "algerian_flag"
+      name: "Flag of Algerian Independence"
+      description_block: |
+        details: "Green and white flag with red crescent and star, symbol of national liberation movement, secretly sewn and hidden during struggle"
+
+    - id: "french_flag"
+      name: "French Tricolor"
+      description_block: |
+        details: "Blue, white, and red French flag representing colonial authority, displayed prominently in government buildings"
+
+    - id: "farming_tools"
+      name: "Traditional Agricultural Implements"
+      description_block: |
+        details: "Simple wooden plow, hand scythe, woven baskets, primitive farming instruments representing peasant connection to land"
+
+    - id: "military_equipment"
+      name: "Colonial Military Gear"
+      description_block: |
+        details: "French military rifles, radio equipment, military jeeps, weapons representing systematic colonial violence"

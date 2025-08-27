@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations of Women's Wedding Preparations"
+  setting:
+    time: "1890, 1920, 1950 - three wedding mornings spanning sixty years"
+    location: "bridal preparation room in Big House, same vanity mirror across three generations"
+    weather: "consistent warm morning light through lace curtains, emphasizing continuity across decades"
+  characters:
+    - appearance: "elderly woman with dignified bearing, silver hair arranged in elaborate Victorian style, determined expression showing suffragette conviction, wearing mother-of-pearl wedding jewelry"
+      clothing: "elegant Victorian wedding gown with high collar, long sleeves, intricate beadwork, representing 1890s formal marriage traditions"
+      position: "seated at ornate vanity preparing for arranged marriage with formal dignity"
+      action: "adjusting pearl necklace while female relatives assist with complex dress fastening and veil arrangement"
+    - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+      clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+      position: "standing before same mirror but in simpler 1920s wedding attire"
+      action: "quietly accepting marriage preparations while distant expression suggests spiritual communication with unseen forces"
+    - appearance: "woman aged fifteen to fifty, practical appearance more earthbound than ethereal mother, sturdy build suited for physical work, determined expression often showing internal conflict"
+      clothing: "simple functional dresses, often work clothes stained with clay from pottery making, modest attire appropriate for artistic pursuits"
+      position: "reluctantly seated at vanity wearing hastily arranged 1950s wedding dress"
+      action: "submitting to forced marriage preparations with barely concealed resentment and longing for absent Pedro Tercero"
+  scene:
+    mainElements: "bridal preparation ritual spanning three generations - same ornate vanity mirror reflects three different wedding mornings, showing evolution of women's marriage expectations from Victorian duty through 1920s mysticism to 1950s rebellion, identical lace curtains and morning light emphasizing temporal continuity"
+    details: "wedding dress styles evolve dramatically - Victorian elaborate formal gown to Clara's simpler 1920s design to Blanca's practical 1950s dress chosen by father, jewelry and accessories show changing fashions and family fortunes, mirror reflects not just brides but surrounding female relatives across generations, no text or letters visible"
+    background: "bedroom décor updates subtly across decades but vanity mirror remains constant family heirloom, sounds of preparation vary from formal Victorian protocol to Clara's spiritual murmuring to Blanca's quiet resistance"
+    atmosphere: "generational progression from acceptance through mystical detachment to open rebellion, morning light consistently hopeful but brides' expressions show increasing resistance to patriarchal marriage arrangements"
+  composition:
+    cameraAngle: "intimate vanity mirror perspective showing three brides across time"
+    focus: "central emphasis on evolving women's attitudes toward arranged marriages"
+    depth: "foreground shows detailed mirror reflections, middle ground captures preparation rituals, background reveals changing feminine domestic spaces"

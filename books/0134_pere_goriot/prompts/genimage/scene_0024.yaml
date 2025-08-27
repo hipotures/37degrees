@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1820, winter afternoon
+    location: Père-Lachaise Cemetery during Goriot's burial
+    weather: Gray, cold afternoon with wind sweeping across cemetery
+  characters:
+  - appearance: Small group of genuine mourners contrasted with empty carriages bearing daughters' coats of arms
+    age: Mixed ages of sparse funeral attendees
+    clothing: Simple mourning attire for those present, implied luxury for those absent
+    posture: Mixed reactions showing both grief for abandoned father and recognition of released burden
+    position: Small cluster at graveside while ornate empty carriages wait at distance
+    action: Experiencing same funeral as either heartbreaking abandonment or inevitable conclusion
+  - appearance: Slender young man with refined bearing and natural elegance. Southern French features with fair complexion,
+      blue eyes, black hair. Handsome and charming with youthful energy and determination
+    age: 21-22 years old
+    hair: Black hair, well-groomed in fashionable style
+    clothing: Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes
+      fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools
+    posture: Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive
+      or thoughtful and torn by internal conflict
+    position: Standing alone at graveside while others depart
+    action: Interpreting funeral either as society's heartless abandonment or as natural end to destructive relationship
+  scene:
+    mainElements: Same funeral generates conflicting interpretations - either heartbreaking proof of society's cruelty or
+      inevitable conclusion to destructive family dynamics. Empty carriages represent either ultimate abandonment or appropriate
+      distance from toxic relationship.
+    details: Split perspective shows sparse attendance as either tragic isolation or justified disengagement, daughters' absence
+      as either heartless cruelty or healthy boundary-setting, burial as either society's failure or individual consequence.
+    background: Cemetery setting that appears either as sacred ground for abandoned saint or as appropriate resting place
+      for destructive obsession
+    atmosphere: Simultaneous mourning and relief, tragic abandonment and necessary conclusion, depending on interpretive framework
+  composition:
+    cameraAngle: Divided composition showing funeral from perspectives that reach opposite moral conclusions
+    focus: Same burial ceremony appearing as either social tragedy or individual consequence depending on viewer's interpretation
+    depth: Sparse mourners in foreground showing genuine but conflicted grief, simple grave in middle ground representing
+      either abandoned saint or finished obsession, Paris in background appearing as either heartless destroyer or neutral
+      stage, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

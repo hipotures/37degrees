@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Escape Gone Wrong - Tom Shot in the Leg"
+  setting:
+    time: "1840s Arkansas plantation, midnight"
+    location: "Plantation grounds between slave cabin and woods during escape attempt"
+    weather: "Clear, moonless night providing cover for escape"
+  characters:
+    - appearance: "13-14 year old white boy, average height and build. Clean, well-groomed appearance. Lively, intelligent face now showing pain and shock."
+      clothing: "Dark clothing for nighttime escape, now torn and bloodstained"
+      position: "Lying on ground clutching wounded leg"
+      action: "Grimacing in pain from gunshot wound while trying to continue elaborate escape"
+    - appearance: "35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family."
+      clothing: "Simple, practical slave clothing made from coarse, unbleached cloth, now with makeshift disguise elements added by Tom's plan"
+      position: "Kneeling beside wounded Tom despite opportunity for freedom"
+      action: "Choosing to help injured boy instead of completing his own escape to freedom"
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face showing urgent concern."
+      clothing: "Dark clothes for night escape"
+      position: "Crouched beside both Tom and Jim"
+      action: "Trying to organize escape while dealing with Tom's injury and pursuing farmers"
+  scene:
+    mainElements: "Dark plantation grounds with scattered farm buildings, distant shouts and lantern lights of pursuing farmers, three figures huddled together"
+    details: "Blood on ground from Tom's wound, abandoned rope and tools from elaborate escape plan, distant gunfire and shouting voices, lantern lights searching through darkness"
+    background: "Plantation buildings silhouetted against night sky, sounds of dogs barking and men organizing search, nearby woods offering potential escape"
+    atmosphere: "Planned adventure turning into dangerous reality, Jim's moral choice to help wounded enemy despite personal cost, chaos replacing elaborate schemes, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle showing urgency and danger of nighttime escape"
+    focus: "Jim's choice to stay and help Tom despite opportunity for freedom"
+    depth: "Three characters in foreground, pursuing farmers' lights in middle, dark woods and escape route in background"

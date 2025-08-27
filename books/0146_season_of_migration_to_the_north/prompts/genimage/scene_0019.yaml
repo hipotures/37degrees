@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1960s, various times
+    location: Village locations showing elements hidden from main characters' perspectives
+    weather: Variable conditions across different moments
+  characters:
+  - appearance: Young Sudanese woman around twenty years old with foreign-type beauty, attractive face with widely-set black
+      eyes mixing sadness with shyness
+    clothing: Traditional toub wrapped around body and head
+    position: In private moments when she believes herself unobserved
+    action: Revealing true emotional state through private gestures and expressions
+  scene:
+    mainElements: Private spaces where characters reveal authentic selves - behind houses, in courtyards during solitary moments,
+      near water sources during personal tasks
+    details: Neutral documentation reveals elements hidden from other characters - Hosna's private moments of despair when
+      she believes herself alone, her hands shaking while drawing water, tears she wipes away before joining social gatherings,
+      ways she flinches when certain men approach, defensive postures she adopts when discussing marriage proposals, private
+      prayers for escape or strength, no text or letters visible
+    background: Traditional village spaces that provide privacy - shadowed corners of courtyards, areas screened by date palms,
+      secluded paths to river
+    atmosphere: Documentary revelation of private emotional reality existing parallel to public social performance, showing
+      gap between public persona and private suffering
+  composition:
+    cameraAngle: Observational angles that capture unguarded moments
+    focus: Private authentic behavior that contradicts public appearances
+    depth: Hidden private moments in foreground, suggestion of public spaces where performance continues in background, no
+      text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: March 1919, critical instant during Egyptian revolution frozen while world moves
+    location: Wide street in central Cairo during mass demonstration against British occupation
+    weather: Bright midday sun illuminating suspended dramatic moment
+  characters:
+  - appearance: 20-year-old Egyptian law student, serious intelligent expression, idealistic bearing
+    clothing: Student's European-style suit with fez, carrying law books or pamphlets
+    position: Upright posture suggesting moral conviction and determination
+    action: Frozen mid-stride leading crowd, expression captured at moment of passionate conviction
+  scene:
+    mainElements: Massive crowd of Egyptian demonstrators frozen at climactic moment while British soldiers continue moving
+      in blurred motion around static protesters
+    details: 'Frozen elements: Green flags with crescent and cross symbols suspended in air, protesters'' faces locked in
+      passionate expressions, inflammatory pamphlets caught mid-scatter (no readable text), raised fists and determined stances.
+      Moving elements: British soldiers in blurred motion trying to control frozen crowd, dust swirling around static figures,
+      shadows shifting while people remain motionless, no text or letters visible'
+    background: Historic Cairo architecture providing solid backdrop for temporal distortion, minarets reaching skyward emphasizing
+      vertical stability against horizontal motion chaos
+    atmosphere: Surreal suspension of critical historical moment, tension between frozen passion and continuing oppression,
+      sense of time stopping at moment of maximum political intensity
+  composition:
+    cameraAngle: Dynamic angle showing contrast between frozen protesters and moving authorities
+    focus: Central frozen figure embodying suspended revolutionary moment surrounded by temporal motion
+    depth: 'Foreground: frozen passionate expressions, middle ground: suspended crowd energy, background: continuing authoritarian
+      response in blurred motion'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

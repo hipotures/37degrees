@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1897 afternoon when Freud's young children visit father's workspace
+    location: Freud's study at Berggasse 19, Vienna, viewed from child's low perspective
+    weather: Bright afternoon sunlight streaming through windows
+  characters:
+  - appearance: Young child approximately 8-10 years old with curious bright eyes and innocent expression
+    clothing: Victorian children's clothing - sailor suit for boy or pinafore dress for girl
+    position: Standing at edge of study doorway, peering into mysterious adult world
+    action: Gazing with wonder and slight apprehension at father's strange workspace
+  scene:
+    mainElements: Study transformed into enchanted cave of mysterious adult secrets, where father performs magical rituals
+      involving talking with invisible spirits and ancient treasures
+    details: Massive dark wooden desk surrounded by smaller tables creating fortress-like workspace, famous analytical couch
+      covered with Persian carpet, leather armchair positioned behind couch, floor-to-ceiling bookshelves filled with leather-bound
+      volumes. From child's perspective, desk appears like mountain fortress where giant father-wizard sits surrounded by
+      tiny magical creatures (ancient figurines). Books tower like castle walls reaching toward ceiling. The analytical couch
+      resembles magic carpet where people lie down and tell secrets to invisible listeners.
+    background: Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space,
+      gas lighting creating warm yellow pools of light among deep shadows
+    atmosphere: Sense of entering forbidden adult realm full of mysteries and magic, father appearing as powerful wizard who
+      can read minds and discover secrets, mixture of fascination and fear about grown-up world of invisible thoughts, no
+      text or letters visible
+  composition:
+    cameraAngle: Very low child's eye level looking up at towering adult furniture and mysterious objects
+    focus: Ancient figurines appearing as magical creatures watching from their high shelves
+    depth: 'Foreground: child''s small figure at threshold of magical realm, Middle: enormous desk-mountain with tiny treasure
+      guardians, Background: towering bookshelves disappearing into shadows like enchanted forest'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

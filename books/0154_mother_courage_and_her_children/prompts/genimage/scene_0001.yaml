@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1624 spring morning, early Thirty Years War
+    location: Empty muddy military road through war-torn Central European countryside during Thirty Years War
+    weather: Cold spring morning with overcast sky and cutting wind
+  characters:
+  - appearance: Two Swedish military recruiters in worn incomplete uniforms, gaunt and cold from winter campaign
+    clothing: Mixed civilian and military garments, faded Swedish army colors, weathered leather equipment, no standardized
+      uniform
+    position: Standing rigidly at attention on empty road, trying to project authority despite their miserable condition
+    action: Delivering propaganda speeches about military glory and order to empty landscape, waiting for recruits
+  scene:
+    mainElements: Wide desolate highway with deep wheel ruts and muddy tracks stretching to horizon, bare leafless twisted
+      trees, harsh windswept landscape
+    details: Military banners and recruitment notices attached to bare tree, official Swedish army insignia contrasting with
+      desperate reality of hungry cold soldiers, empty promises of glory displayed against desolate warzone backdrop
+    background: Endless muddy road disappearing into gray horizon, skeletal trees marking boundaries of civilization destroyed
+      by twelve years of warfare
+    atmosphere: Isolation, monotony of endless military campaigns, brutal exposure to elements, sense of nomadic existence
+      without permanent home
+  composition:
+    cameraAngle: Wide establishing shot showing smallness of human figures against vast empty landscape
+    focus: Contrast between official military propaganda and harsh reality of war-torn countryside
+    depth: Foreground shows recruiters with official banners, middle ground empty muddy road, background endless gray wasteland
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Revelation - Justice as Advantage of the Stronger"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+      clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+      position: "standing center stage with theatrical dominance"
+      action: "pointing accusingly while proclaiming cynical truth about power and law, voice dripping with contempt"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "seated calmly facing the storm"
+      action: "listening with intense concentration to this fundamental challenge to moral order"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Trasymach's gold jewelry glinting in lamplight as he gestures, shadows dancing on walls like demons unleashed, wine forgotten as audience grapples with shocking nihilistic revelation"
+    background: "other symposium guests pressed back against walls, some covering faces in horror at naked cynicism"
+    atmosphere: "electric shock of brutal realism shattering comfortable illusions about justice and morality"
+  composition:
+    cameraAngle: "medium shot emphasizing the stark opposition between cynical power and philosophical inquiry"
+    focus: "pointing finger and sneering expression delivering devastating critique of naive morality"
+    depth: "dominating sophist in foreground, steady philosopher in middle ground, recoiling audience in background"

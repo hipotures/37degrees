@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1925 winter, early morning
+    location: Kitchen area of distillery residence, Northeast Gaomi District
+    weather: Cold morning with frost on surfaces
+  characters:
+  - appearance: Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white
+      forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds,
+      large breasts and wide hips indicating maternal strength
+    clothing: Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon
+      at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)
+    position: Kneeling beside scattered coffee grounds on floor
+    action: Carefully gathering spilled coffee grounds with cupped hands
+  scene:
+    mainElements: Traditional Chinese kitchen with evidence of accident during beverage preparation
+    details: Dark coffee grounds creating irregular patterns on wooden floor, bitter powder scattered in wide arc suggesting
+      sudden spill, grounds clinging to clothing and skin, dark residue staining wood grain permanently, small ceramic grinding
+      bowl overturned nearby, coffee powder creating dusty particles in morning light, woman's expression showing disappointment
+      at waste, precious imported coffee beans crushed and lost, dark brown stains contrasting with light wooden surfaces,
+      no text or letters visible
+    background: Simple kitchen interior with traditional cooking equipment and ceramic vessels
+    atmosphere: Domestic accident and loss of precious resources, bitterness of waste in times of scarcity, careful conservation
+      of valuable imported goods
+  composition:
+    cameraAngle: Low angle showing scattered grounds and gathering action
+    focus: Detailed view of spilled coffee grounds and careful collection
+    depth: Foreground shows ground detail, middle ground includes kneeling figure, background suggests kitchen interior
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

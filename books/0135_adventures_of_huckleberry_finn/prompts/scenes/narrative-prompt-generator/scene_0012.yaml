@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Moral Crisis - Lying to Slave Catchers"
+  setting:
+    time: "1840s Mississippi River, misty night"
+    location: "Small canoe on Mississippi River approaching slave-hunting boat"
+    weather: "Dense river fog with poor visibility"
+  characters:
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+      clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim."
+      position: "Sitting in small canoe, paddling toward lantern light of approaching boat"
+      action: "Face showing inner torment and moral struggle as he approaches moment of decision"
+  scene:
+    mainElements: "Small wooden canoe on fog-shrouded river, distant lantern light from slave-catchers' boat, raft with Jim barely visible in background mist"
+    details: "Single paddle in Huck's hands, swirling fog reducing visibility, oil lantern creating circle of yellow light ahead, water lapping against canoe sides"
+    background: "Dense fog concealing riverbanks and raft, only sounds of water and distant voices calling through mist"
+    atmosphere: "Moment of crucial moral decision, fog representing moral confusion, isolation emphasizing weight of individual choice, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on Huck's face showing internal struggle"
+    focus: "Huck's anguished expression as he wrestles with conscience versus friendship"
+    depth: "Huck in canoe in foreground, approaching lantern light in middle, fog-hidden raft in background"

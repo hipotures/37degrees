@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chaotic Senate Hearing with Overlapping Motion"
+  setting:
+    time: "June 4, 1963, morning"
+    location: "U.S. Senate hearing chamber during Rachel Carson's testimony, Washington D.C."
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent, penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness"
+      clothing: "Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author, clothing style appropriate to early 1960s America"
+      position: "Seated at witness table facing panel of senators"
+      action: "Calmly testifying while surrounded by chaotic media attention and political theater"
+  scene:
+    mainElements: "Senate hearing chamber filled with chaotic overlapping motion - camera flashes creating explosive bursts of light, reporters scribbling frantically, lobbyists gesturing intensely, senators shuffling papers, all movement converging on single calm figure of Rachel Carson at witness table"
+    details: "Multiple camera flashes firing simultaneously creating strobing light effects, reporters' hands moving in blur of note-taking activity, lobbyists leaning forward in urgent whispered conversations, senators' heads turning between papers and witness, microphones capturing overlapping sounds of democratic process, motion blur effects from rapid movement contrasting with Carson's steady composure, papers flying and hands gesturing in political theater"
+    background: "Formal government hearing room in Washington D.C., imposing chamber with dark wooden paneling, raised platform for senators, witness table below, representing confrontation between truth and power"
+    atmosphere: "Democratic cacophony surrounding single voice of scientific truth, overwhelming sensory chaos of political process, media frenzy creating visual and auditory overload, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot capturing full chaos of hearing room activity"
+    focus: "Contrast between calm Carson and chaotic political environment surrounding her"
+    depth: "Complex layered composition with multiple planes of activity, foreground shows media chaos, middle ground emphasizes Carson's testimony, background reveals formal government setting"

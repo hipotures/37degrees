@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1940, dawn
+    location: Mediterranean coastline near Algiers visible from small stone cell window in French colonial prison
+    weather: Clear morning with Mediterranean sunrise affecting entire landscape and all inhabitants
+  characters: No characters present in this scene
+  scene:
+    mainElements: Mediterranean sunrise viewed through prison cell window, same sun that has risen over this landscape for
+      millennia, affecting all inhabitants regardless of race, class, or personal circumstances
+    details: Dawn light gradually illuminating Mediterranean landscape, same golden light touching prison walls, city buildings,
+      beaches, colonial mansions, Arab quarters, and asylum buildings simultaneously. Natural phenomenon transcending human
+      divisions and individual dramas.
+    background: Vast Mediterranean landscape with Algiers cityscape, mountains, and sea all receiving same dawn light, natural
+      world continuing its cycles regardless of human conflicts
+    atmosphere: Universal natural phenomenon that affects all life equally, transcending individual perspectives and social
+      divisions, eternal cycle connecting all experiences under same sun
+  composition:
+    cameraAngle: Wide landscape shot showing dawn light affecting entire Mediterranean region equally
+    focus: Rising sun illuminating landscape that contains all the story's locations and communities
+    depth: Foreground shows prison window frame, middle ground shows Mediterranean landscape receiving dawn light, background
+      shows vast natural world transcending human drama, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1792, bright morning light
+    location: Progressive boys' school classroom in Georgian England with maps, globes, and scientific instruments
+    weather: Clear spring morning with fresh air and optimism
+  characters:
+  - appearance: Young boys aged 10-16 in neat school uniforms, representing the next generation being trained in reason and
+      natural philosophy
+    clothing: Simple wool jackets and knee breeches in dark colors, white linen shirts - practical clothing for serious learning
+    position: Seated at wooden desks with good posture, facing forward toward teacher and educational materials
+    action: Studying maps of the world, learning about natural rights, practicing mathematics and scientific observation
+  - appearance: Male teacher in his 30s with intelligent bearing, representing enlightened pedagogical methods
+    clothing: Dark academic gown over simple cloth suit, white neck cloth - attire of scholarly authority
+    position: Standing at front of classroom beside large world map and astronomical instruments
+    action: Explaining principles of natural philosophy while pointing to educational materials
+  scene:
+    mainElements: Well-equipped classroom with world maps showing British Empire, globes for geography, telescopes and other
+      scientific instruments, shelves of books on natural philosophy
+    details: Chalk boards with mathematical equations and diagrams of planetary motion. Students' slates show careful notes
+      about reason and natural law. Botanical specimens and mineral samples for empirical study. Everything suggests preparation
+      for rational civic participation
+    background: Tall windows show verdant school grounds with other buildings, suggesting comprehensive educational institution
+      dedicated to developing young minds
+    atmosphere: Atmosphere of intellectual promise and preparation for enlightened leadership, suggesting these young males
+      are being equipped with reason to govern themselves and society
+  composition:
+    cameraAngle: Three-quarter view showing both teacher and students engaged in learning process
+    focus: The educational interaction and abundance of learning materials representing investment in rational male development
+    depth: Foreground shows students at work, middle ground shows teacher and educational materials, background suggests broader
+      institutional commitment to male intellectual development
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

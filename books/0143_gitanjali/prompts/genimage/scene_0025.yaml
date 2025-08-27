@@ -1,0 +1,104 @@
+sceneDescription:
+  setting:
+    time: 1910, evening in family courtyard during childhood memory vision
+    location: Simple family home courtyard, rural Bengal, British Colonial India
+    weather: Gentle evening with soft breeze carrying familiar scents
+  characters:
+  - appearance: Elderly village woman representing eternal maternal figure, weathered hands showing lifetime of care
+    clothing: Simple white cotton sari suggesting purity and maternal devotion
+    position: Seated holding grown protagonist as if he were still a child
+    action: Embracing while creating complete sensory memory experience of maternal love
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Nestled in maternal embrace despite his adult size, becoming child-like in maternal presence
+    action: Experiencing complete sensory memory of maternal love - perfume scent, fabric softness, hummed lullaby rhythm,
+      nurturing warmth
+  scene:
+    mainElements: Maternal embrace triggering complete sensory memory experience where every sense recalls childhood comfort
+      - jasmine perfume scent, soft cotton fabric texture, gentle humming rhythm suggesting lullaby, warmth of human contact
+      creating ultimate sensory memory
+    details: Maternal figure holds protagonist in embrace that transcends physical size limitations while her presence triggers
+      overwhelming sensory memory cascade. Her simple white sari fabric shows extreme softness through the way it drapes and
+      moves, suggesting years of washing and wearing that created ultimate textile comfort. Subtle jasmine perfume creates
+      visible aromatic particles floating around embrace while evening breeze carries scent in gentle patterns. Her gentle
+      humming becomes visible through subtle body movement and fabric vibration creating rhythmic patterns that suggest unheard
+      lullaby melody. Skin-to-skin contact shows temperature warmth transfer while maternal hands show ultimate gentleness
+      through their careful positioning. Protagonist's expression shows complete sensory regression to childhood state despite
+      adult body, face relaxing into innocent vulnerability. Evening light creates golden glow around maternal embrace while
+      shadows suggest protective enclosure. Nearby domestic elements - simple clay vessels, cooking area, household items
+      - create familiar sensory environment supporting memory experience. Fabric textures show contrast between worn softness
+      of maternal clothing and rougher texture of protagonist's spiritual garments. No text or letters visible.
+    background: Simple family courtyard representing eternal maternal environment where all comfort and security originate
+      through complete sensory nurturing
+    atmosphere: Ultimate sensory memory where maternal love becomes complete five-sense experience combining touch comfort,
+      aromatic security, visual protection, rhythmic sound comfort, and implied nourishment taste creating perfect sensory
+      unity
+  composition:
+    cameraAngle: Intimate close-up showing maternal embrace with focus on sensory comfort elements - fabric texture, aromatic
+      particles, gentle movement
+    focus: Complete sensory comfort experience - soft fabrics, gentle fragrance, rhythmic movement, warming contact - representing
+      ultimate sensory memory
+    depth: 'Foreground: detailed sensory comfort elements - fabric, aromatic particles, gentle touch. Middle: maternal embrace
+      creating complete security. Background: familiar domestic environment supporting sensory memory'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

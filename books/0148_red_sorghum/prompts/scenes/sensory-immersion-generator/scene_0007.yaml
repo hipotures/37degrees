@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Gunfire Echoing Through Sorghum Waves"
+  setting:
+    time: "1939 early morning, battle at bridge"
+    location: "Sorghum fields near Black River bridge during Japanese attack"
+    weather: "Misty dawn with fog limiting visibility"
+  characters:
+    - appearance: "Fifteen-year-old youth with relatively small build, black hair, dark eyes, youthful face mixing features of both parents Yu Zhan'ao and Dai Fenglian"
+      clothing: "Simple peasant clothing consisting of tunic and trousers, partisan outfit similar to father's unit when fighting"
+      position: "Crouched in sorghum field with rifle ready"
+      action: "Flinching from invisible gunshot sounds, body tensed for combat"
+  scene:
+    mainElements: "Vast rolling fields of red sorghum creating natural battlefield, strategic position near bridge crossing"
+    details: "Sorghum stalks bending away from sound waves, birds suddenly taking flight from invisible noise, young fighter's hair blown back by sound pressure, clothing rippling from acoustic force, fog dispersing in patterns suggesting sound travel, leaves shaking without wind, water surface creating expanding circles from distant explosions, fighter's mouth open in silent reaction, no text or letters visible"
+    background: "Bridge structure partially visible through morning mist, river creating natural barrier"
+    atmosphere: "Invisible violence made visible through environmental response, war's chaos expressed through natural world's reaction, sound as destructive force"
+  composition:
+    cameraAngle: "Medium shot showing figure responding to invisible sounds"
+    focus: "Physical reaction to unseen gunfire and environmental disturbance"
+    depth: "Foreground shows responsive fighter, middle ground reveals disturbed vegetation, background suggests combat zone"

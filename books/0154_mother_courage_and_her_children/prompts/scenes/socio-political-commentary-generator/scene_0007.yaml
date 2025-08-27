@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Control Mechanisms - Desertion Prevention"
+  setting:
+    time: "1628 autumn, military control systems fully operational"
+    location: "Military checkpoint with guards and barriers controlling soldier movement"
+    weather: "Cold autumn rain emphasizing harsh control measures"
+  characters:
+    - appearance: "Military police and checkpoint guards enforcing movement restrictions"
+      clothing: "Specialized military police uniforms with authority markings, weapons for enforcement"
+      position: "Standing at barriers and checkpoints preventing unauthorized movement"
+      action: "Checking identification papers, preventing desertion, enforcing military discipline through physical control"
+  scene:
+    mainElements: "Checkpoint barriers and guard posts controlling access to and from military areas"
+    details: "Written passes required for movement, soldiers lined up for inspection, punishment examples displayed publicly, desertion notices posted warning of execution, physical barriers preventing escape from military service"
+    background: "System of checkpoints and barriers extending control throughout military territory, preventing civilian contact"
+    atmosphere: "Oppression and limitation of freedom, soldiers treated as property rather than volunteers, military service as imprisonment rather than patriotic duty"
+  composition:
+    cameraAngle: "Medium shot showing barriers and control points restricting human freedom"
+    focus: "Physical systems of control revealing oppressive nature of military authority"
+    depth: "Foreground shows individual soldiers being checked, middle ground control barriers, background extensive system of military control"

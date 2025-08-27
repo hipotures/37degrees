@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Conformity Training - Children Learning Military Obedience"
+  setting:
+    time: "1631 spring, next generation being prepared for military service"
+    location: "Military school or training facility preparing children for war service"
+    weather: "Bright spring morning contrasting with dark educational content"
+  characters:
+    - appearance: "Children aged 8-15 being trained in military discipline and obedience"
+      clothing: "Simple uniform clothing designed to eliminate individual expression and create conformity"
+      position: "Standing in rigid formation learning military discipline and unquestioning obedience"
+      action: "Practicing military salutes marching and responding to authority without question or individual thought"
+    - appearance: "Military instructors indoctrinating children with war ideology"
+      clothing: "Military uniforms with teaching insignia for youth indoctrination"
+      position: "Standing in authority positions directing children's ideological training"
+      action: "Teaching children to accept military authority, suppress individual thought, and prepare for war service"
+  scene:
+    mainElements: "Educational facility designed to eliminate individual thinking and create military conformity"
+    details: "Children learning identical gestures and responses, individual creativity suppressed in favor of military discipline, young minds shaped for unquestioning military service, education replaced with indoctrination"
+    background: "Educational system designed to prepare next generation for military service and elimination of individual thought"
+    atmosphere: "Childhood innocence destroyed by military indoctrination, education converted to propaganda, individual development sacrificed for military conformity"
+  composition:
+    cameraAngle: "Medium shot showing children's loss of individuality through military training"
+    focus: "Indoctrination of children eliminating individual thought and preparing for military service"
+    depth: "Foreground shows individual children losing identity, middle ground conformity training, background systematic indoctrination"

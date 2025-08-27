@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Guards on Every Corner - Physical Control of Public Space"
+  setting:
+    time: "1760s, night"
+    location: "Residential quarter of Paris with military patrols enforcing order and royal authority"
+    weather: "Dark night with flickering torchlight creating pools of harsh illumination and deep shadows"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Pressed against building walls, trying to avoid confrontation with armed guards"
+      action: "Moving carefully through streets, showing papers when challenged, demonstrating visible fear and submission to armed authority"
+  scene:
+    mainElements: "Heavily armed guards in military uniform standing at street intersections, mounted patrols moving through narrow streets, checkpoints controlling movement"
+    details: "Guards carry muskets with bayonets fixed, wear royal insignia displaying ultimate authority. Torches create harsh contrasts between light and shadow. Citizens must produce identification documents on demand. Windows are shuttered as residents avoid drawing attention"
+    background: "Barracks and guard posts visible at regular intervals, weapon caches, detention facilities for those who violate regulations"
+    atmosphere: "Fear and intimidation pervading public space, freedom of movement restricted by military force, citizens reduced to subjects under armed occupation"
+  composition:
+    cameraAngle: "Ground level showing confrontation between armed authority and vulnerable citizens"
+    focus: "Guard checkpoint where citizen must present papers for inspection and approval"
+    depth: "Foreground shows details of weapons and official documents, middle ground displays confrontation, background extends into maze of controlled streets"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1513, strategic overview
+    location: Bird's eye view of Italian peninsula showing political fragmentation
+    weather: Clear visibility revealing entire strategic situation
+  characters: No characters present in this scene
+  scene:
+    mainElements: 'Parchment map showing Italian peninsula divided into numerous colored fragments representing competing
+      political entities: republics like Florence and Venice, duchies like Milan and Ferrara, Kingdom of Naples, Papal States.
+      Foreign armies represented by miniature figures. Symbol of political fragmentation and foreign domination.'
+    details: Chess pieces representing different political powers positioned across Italian landscape. Foreign armies (French,
+      Spanish, German) as outside players manipulating Italian pieces. Native Italian rulers reduced to pawns in larger game
+      controlled by foreign powers.
+    background: Strategic view showing how political fragmentation makes unified defense impossible, enabling foreign domination.
+    atmosphere: Visual summary of Machiavelli's central argument - Italy's political division enables foreign conquest and
+      internal weakness. Ultimate symbol of book's political message.
+  composition:
+    cameraAngle: High overhead shot showing complete strategic situation
+    focus: Italy as chessboard where foreign powers play game using Italian rulers as pieces
+    depth: Foreground shows detailed political divisions, middle ground reveals foreign armies positioning, background displays
+      unified foreign nations threatening fragmented Italy
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

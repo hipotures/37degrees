@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Three Generations at Combray Church Altar"
+  setting:
+    time: "1860s grandmother's wedding overlaid with 1890s mother's memorial service overlaid with 1920s narrator's solitary prayer"
+    location: "Interior of Saint-Hilaire Church, Combray, before main altar with stained glass windows"
+    weather: "Three periods of soft afternoon light filtering through same medieval stained glass"
+  characters:
+    - appearance: "Three generations of family women: grandmother as young bride aged 20, mother as grieving daughter aged 40, narrator as middle-aged man aged 50, all in same sacred space"
+      clothing: "Grandmother: white wedding dress with long veil and orange blossoms, mother: black mourning dress with veil, narrator: dark formal suit with mourning armband"
+      position: "Same position before altar: grandmother kneeling in bridal joy, mother kneeling in grief, narrator standing in contemplation"
+      action: "Grandmother receiving wedding vows with radiant hope, mother praying for deceased grandmother's soul, narrator seeking artistic inspiration through spiritual connection"
+  scene:
+    mainElements: "Church interior showing temporal continuity through generations. Same Gothic arches, identical altar, unchanging stained glass windows depicting saints. Wooden pews worn smooth by centuries of prayer."
+    details: "Wedding flowers becoming funeral flowers becoming solitary candles. Same prayer book passed through generations, pages yellow with age. Identical stone floor worn into slight depression by countless kneeling figures."
+    background: "Stained glass windows casting same colored light patterns across decades. Stone columns unchanged but showing slight weathering. Church acoustics carrying same reverberant quality for prayers, vows, and grief."
+    atmosphere: "Sacred continuity where individual temporal moments connect through shared spiritual space. Family tradition transcending individual mortality through ritual repetition, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from nave showing three generational figures transparently overlaid before altar"
+    focus: "Altar as eternal center connecting three moments of family spiritual life"
+    depth: "Foreground shows kneeling/standing figures across time, middle ground captures altar constancy, background reveals stained glass eternal light"

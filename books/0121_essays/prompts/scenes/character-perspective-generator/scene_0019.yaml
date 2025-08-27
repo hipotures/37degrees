@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Hidden Elements Behind Religious Violence"
+  setting:
+    time: "1572, during religious conflict"
+    location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+    weather: "Clear daylight revealing details normally hidden"
+  characters:
+    - appearance: "Various figures engaged in religious conflict, some hidden behind buildings or trees"
+      clothing: "Mixed religious and civilian attire showing complex loyalties beyond simple faction divisions"
+      position: "Some visible in main conflict, others concealed or fleeing, revealing full scope of situation"
+      action: "Complex range of activities beyond simple religious warfare - looting, settling personal scores, protecting family"
+  scene:
+    mainElements: "Complete view revealing economic and personal motivations hidden behind religious rhetoric"
+    details: "Main conflict in village square conceals secondary activities - individuals settling personal debts under cover of religious war, merchants protecting valuable goods regardless of religious affiliation, families of both faiths fleeing together when violence escalates beyond control, abandoned religious banners revealing opportunistic rather than devotional motivations, empty houses being looted by figures from both sides, local officials negotiating private truces while public conflict continues, no text or letters visible"
+    background: "Countryside showing mixed evidence of genuine religious conviction and opportunistic violence exploiting ideological cover"
+    atmosphere: "Complex reality where personal, economic and political motivations operate alongside and often override religious convictions"
+  composition:
+    cameraAngle: "Elevated perspective revealing activities and motivations hidden from ground-level participants"
+    focus: "Full scope of conflict showing economic and personal factors beyond religious ideology"
+    depth: "Foreground shows visible conflict, middle ground captures hidden activities, background reveals broader social complexity, no text or letters visible"

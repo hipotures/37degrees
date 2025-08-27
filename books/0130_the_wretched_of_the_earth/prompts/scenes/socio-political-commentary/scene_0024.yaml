@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Mirror of Colonial Violence"
+  setting:
+    time: "1950s Algeria, symbolic moment of revelation"
+    location: "French colonial psychiatric hospital in Algeria with sterile clinical interior contrasting peaceful exterior gardens"
+    weather: "Harsh clinical lighting revealing hidden truths"
+  characters:
+    - appearance: "Middle-aged Black man in his 30s, intense penetrating gaze, intellectual demeanor emanating revolutionary passion and authority"
+      clothing: "European dark suit or white medical coat, professional attire of a psychiatrist and theorist"
+      position: "Standing before large mirror showing dual reflection"
+      action: "Examining reflection that reveals both colonized patient and colonial doctor, understanding psychological violence of system"
+    - appearance: "Multiple figures representing both colonial victims and perpetrators reflected in mirror"
+      clothing: "Various colonial period attire showing both oppressed and oppressors"
+      position: "Emerging from mirror reflection"
+      action: "Revealing how colonial system creates psychological trauma in both colonized and colonizer"
+  scene:
+    mainElements: "Large mirror reflecting the dual nature of colonial psychological violence, showing how system damages both oppressor and oppressed"
+    details: "Fanon's reflection showing him simultaneously as psychiatric doctor treating colonial trauma and as colonized subject experiencing it, mirror fragments revealing multiple faces of colonial violence, medical files documenting psychological damage, broken glass reflecting fragmented colonial identities"
+    background: "Sterile clinical environment of Blida hospital where colonial psychiatric pathology becomes visible"
+    atmosphere: "Clinical revelation of colonial system's total psychological violence, mirror as metaphor for understanding systemic trauma"
+  composition:
+    cameraAngle: "Direct frontal view of mirror with multiple reflected truths"
+    focus: "Mirror reflection revealing dual nature of colonial psychological damage"
+    depth: "Fanon figure in foreground, mirror reflection in middle ground, clinical setting revealing colonial pathology in background"

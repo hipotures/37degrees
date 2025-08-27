@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Offering Bread - Sacred Kitchen Dawn"
+  setting:
+    time: "1910, early morning during bread making"
+    location: "Simple village kitchen with clay oven, rural Bengal, British colonial India"
+    weather: "Cool morning air with steam rising from warm baked bread"
+  characters:
+    - appearance: "Village woman in her 40s with flour-dusted hands and traditional kitchen attire"
+      clothing: "Simple cotton sari with end wrapped over head, flour marks on fabric"
+      position: "Kneeling beside clay oven removing fresh-baked bread"
+      action: "Lifting warm bread loaves while steam curls upward in visible spirals"
+    - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+      clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+      position: "Standing in doorway breathing deeply with eyes closed in appreciation"
+      action: "Inhaling with visible expansion of chest while steam patterns swirl toward his face"
+  scene:
+    mainElements: "Fresh bread aroma made visible through steam curls rising from warm loaves while flour particles dance in morning light creating olfactory pathway from kitchen to doorway"
+    details: "Steam rises from cooling bread in perfect spiraling patterns carrying visual suggestion of warm grain aroma through morning air. Flour particles float visibly in light beams streaming through kitchen window, creating dusty pathways that seem to guide scent molecules toward protagonist's appreciative face. Woman's hands show flour residue while bread crusts glow golden in morning light suggesting warmth and richness. Protagonist's deep breathing creates visible chest expansion while his serene expression shows olfactory appreciation. Steam patterns follow air currents toward doorway where protagonist stands. Small clay vessels contain grain and spices with particles visible in air around them. Bread surfaces show texture that suggests crusty exterior hiding soft interior. Kitchen fire embers still glow creating additional warmth sources. No text or letters visible."
+    background: "Traditional Bengali kitchen with clay vessels and utensils arranged around central cooking area creating aromatic environment"
+    atmosphere: "Sacred domestic moment where bread's life-giving aroma creates visible connection between nourishment and spiritual appreciation"
+  composition:
+    cameraAngle: "Medium shot following steam trails from bread toward protagonist's appreciative face"
+    focus: "Steam patterns and flour particles that visually suggest warm bread aroma traveling through space"
+    depth: "Foreground: rising steam from bread. Middle: flour-dusted kitchen activity. Background: protagonist receiving aromatic blessing"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Censorship - The Silence of Suppressed Knowledge"
+  setting:
+    time: "1760s, dawn"
+    location: "Public library and bookshop in Paris showing effects of state censorship and intellectual suppression"
+    weather: "Grey morning light revealing emptiness and destruction of knowledge"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Standing before empty bookshelves, searching desperately for forbidden knowledge"
+      action: "Speaking in whispers, looking nervously over shoulders, secretly passing hidden books between trusted individuals"
+  scene:
+    mainElements: "Empty library shelves with gaps where banned books once stood, painted-over murals where controversial art was covered, official notices listing prohibited texts"
+    details: "White paint still wet over covered frescoes, dust outlines showing where books were removed, locked cases containing only approved government texts. Citizens communicate through coded gestures and whispered conversations"
+    background: "Government censors with black lists checking remaining books, fires where confiscated texts are burned, spy holes in walls for monitoring conversations"
+    atmosphere: "Intellectual suffocation through systematic suppression of ideas, fear preventing open discussion, knowledge controlled by state power to maintain ignorance"
+  composition:
+    cameraAngle: "Wide shot emphasizing emptiness and absence of forbidden knowledge"
+    focus: "Empty bookshelf with citizen reaching toward gap where banned book once stood"
+    depth: "Foreground shows detailed evidence of censorship, middle ground displays searching citizens, background reveals systematic surveillance and control"

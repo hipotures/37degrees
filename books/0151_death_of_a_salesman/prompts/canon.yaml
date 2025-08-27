@@ -1,0 +1,197 @@
+canon:
+  characters:
+    - id: "willy_loman"
+      name: "Willy Loman"
+      description_block: |
+        characters:
+          - appearance: "63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation"
+            clothing: "worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing signs of constant travel, suit wrinkled from carrying heavy sample cases"
+            posture: "hunched shoulders, walks with heavy gait as if carrying enormous burden, often gestures expressively when speaking about dreams and aspirations"
+
+    - id: "linda_loman"
+      name: "Linda Loman"  
+      description_block: |
+        characters:
+          - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+            clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+            posture: "moves carefully and attentively, often reaches toward others in protective or comforting gestures, stands with quiet dignity despite weariness"
+
+    - id: "biff_loman"
+      name: "Biff Loman"
+      description_block: |
+        characters:
+          - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+            clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+            posture: "moves with natural athletic grace but carries tension in shoulders, often stands with arms crossed defensively, alternates between confident and deflated bearing"
+
+    - id: "happy_loman"
+      name: "Happy Loman"
+      description_block: |
+        characters:
+          - appearance: "32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner emptiness, well-groomed appearance, practiced charming smile"
+            clothing: "slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project image of success"
+            posture: "stands with chest out and confident bearing, gestures smoothly, maintains appearance of self-assurance even when alone"
+
+    - id: "charley"
+      name: "Charley"
+      description_block: |
+        characters:
+          - appearance: "approximately 60 years old, large and solidly built man, calm steady face with kind eyes, speaks slowly and deliberately, expression of practical wisdom"
+            clothing: "simple well-made dark suit, plain tie, practical black shoes, clothing solid and unpretentious"
+            posture: "moves with unhurried confidence, sits comfortably, gestures minimally but meaningfully"
+
+    - id: "bernard"
+      name: "Bernard"
+      description_block: |
+        characters:
+          - appearance: "approximately 35 years old, medium build man who has grown from thin scholarly youth into confident professional, intelligent eyes behind glasses, composed and successful bearing"
+            clothing: "well-tailored lawyer's suit, quality dress shirt, professional tie, leather briefcase, clothing reflecting earned success"
+            posture: "stands with quiet confidence, moves efficiently, gestures precisely when speaking"
+
+    - id: "ben_loman"
+      name: "Ben Loman"
+      description_block: |
+        characters:
+          - appearance: "appears as memory and hallucination, tall imposing figure representing mythical success, weathered face with determined expression, aura of adventure and wealth"
+            clothing: "light colored tropical suit suitable for African climate, panama hat, expensive leather boots, gold watch chain, clothing suggesting exotic travels and prosperity"
+            posture: "stands with commanding presence, gestures broadly, moves with purpose and authority"
+
+    - id: "howard_wagner"
+      name: "Howard Wagner"
+      description_block: |
+        characters:
+          - appearance: "approximately 35 years old, slim modern businessman, well-groomed with dismissive expression, represents new generation of impersonal corporate leadership"
+            clothing: "crisp modern business suit, fashionable tie, polished dress shoes, everything neat and expensive"
+            posture: "sits behind desk with casual authority, fidgets with modern technology, gestures impatiently"
+
+    - id: "the_woman"
+      name: "The Woman"
+      description_block: |
+        characters:
+          - appearance: "appears in flashback memories, attractive woman in her 30s, confident and flirtatious, represents Willy's guilt and betrayal"
+            clothing: "stylish 1940s dress or business attire, fashionable but not revealing, stockings and heels"
+            posture: "moves with confident charm, laughs frequently, poses attractively"
+
+  locations:
+    - id: "loman_house_exterior"
+      name: "Loman House Exterior"
+      description_block: |
+        setting:
+          location: "small fragile-looking wooden house in Brooklyn, New York, surrounded by towering angular apartment buildings that cast oppressive shadows, feeling of being trapped and enclosed"
+        mainElements: "modest two-story frame house with weathered siding, small front yard with struggling plants, apartment towers looming on all sides like walls of a canyon"
+        atmosphere: "claustrophobic and oppressive, orange glow from city lights creates harsh illumination while blue light from sky provides only faint relief, sense of urban pressure closing in"
+
+    - id: "loman_kitchen"
+      name: "Loman Kitchen"
+      description_block: |
+        setting:
+          location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+        mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs"
+        atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict"
+
+    - id: "loman_master_bedroom"
+      name: "Willy and Linda's Bedroom"
+      description_block: |
+        setting:
+          location: "modest bedroom on raised platform in Loman house, sparse furnishings reflecting financial constraints and practical needs"
+        mainElements: "brass bed dominating space, simple wooden chair, small dresser with mirror, single window providing limited natural light"
+        atmosphere: "intimate but strained space where private fears and tensions surface, soft lighting emphasizing vulnerability"
+
+    - id: "boys_bedroom"
+      name: "Sons' Bedroom"
+      description_block: |
+        setting:
+          location: "upstairs bedroom where adult sons still sleep in childhood space, emphasizing their failure to fully mature and move forward"
+        mainElements: "two single beds close together, slanted ceiling with dormer window, sparse furnishings, remnants of adolescence mixed with adult presence"
+        atmosphere: "cramped space representing stunted growth and unfulfilled potential, shadows emphasizing limitation"
+
+    - id: "loman_backyard"
+      name: "Loman Backyard"
+      description_block: |
+        setting:
+          location: "small yard behind Loman house, surrounded by towering apartment buildings, soil poor and shaded, representing failed dreams of growth and prosperity"
+        mainElements: "small patches of bare earth where grass struggles to grow, makeshift garden area, clotheslines, area overshadowed by surrounding buildings"
+        atmosphere: "enclosed and stifled outdoor space where natural growth is nearly impossible, symbolic of crushed dreams and limited possibilities"
+
+    - id: "howards_office"
+      name: "Howard Wagner's Office"
+      description_block: |
+        setting:
+          location: "modern corporate office in Manhattan business district, representing impersonal new world of business efficiency over human relationships"
+        mainElements: "sleek desk with modern wire recording machine, leather executive chair, clean lines and minimal decoration, large windows overlooking city"
+        atmosphere: "cold and impersonal environment emphasizing technological progress and corporate indifference, bright fluorescent lighting creating sterile mood"
+
+    - id: "restaurant"
+      name: "Frank's Chop House Restaurant"  
+      description_block: |
+        setting:
+          location: "upscale Manhattan restaurant with red walls and intimate lighting, scene of confrontation and family breakdown"
+        mainElements: "tables with white tablecloths, leather banquettes, bar area, elegant but somewhat gaudy décor typical of 1940s dining establishments"
+        atmosphere: "sophisticated social setting that becomes scene of humiliation and abandonment, warm intimate lighting contrasting with emotional coldness"
+
+    - id: "boston_hotel_room"
+      name: "Boston Hotel Room"
+      description_block: |
+        setting:
+          location: "anonymous hotel room in Boston, sterile commercial space representing betrayal and moral compromise"
+        mainElements: "standard hotel bed, simple wooden chair, small dresser, single window, door leading to unseen hallway"
+        atmosphere: "impersonal and tawdry setting for adultery and family destruction, harsh single light source creating stark shadows"
+
+    - id: "cemetery"
+      name: "Cemetery"
+      description_block: |
+        setting:
+          location: "sparse cemetery setting with freshly dug grave, open sky above emphasizing final solitude and the gap between dreams and reality"
+        mainElements: "simple graveside with fresh earth, minimal headstone, few mourners standing at distance, bare trees or simple landscape"
+        atmosphere: "somber and final setting emphasizing isolation and failure, natural daylight providing honest but harsh illumination"
+
+  items:
+    - id: "sample_cases"
+      name: "Willy's Sample Cases"
+      description_block: |
+        details: "two large worn leather suitcases with metal corners and leather handles darkened by years of grip, containing product samples for sales calls, cases show scratches and wear from constant travel, heavy burden both literal and symbolic"
+
+    - id: "stockings"
+      name: "Silk Stockings"
+      description_block: |
+        details: "women's silk stockings, some with careful darning and mending representing Linda's frugality, others new representing Willy's gifts to his mistress, symbol of betrayal and family financial struggle"
+
+    - id: "rubber_hose"
+      name: "Rubber Gas Hose"
+      description_block: |
+        details: "short length of rubber tubing with metal fitting designed to connect to gas appliance, found hidden in basement, stark physical evidence of suicide attempt, represents desperation and final option"
+
+    - id: "seeds"
+      name: "Garden Seeds"
+      description_block: |
+        details: "small paper packets of vegetable seeds with simple printed labels, representing final desperate attempt to plant something lasting and meaningful, symbols of hope and growth in hostile environment"
+
+    - id: "wire_recorder"
+      name: "Wire Recording Machine"
+      description_block: |
+        details: "1940s technology marvel - rectangular device with spools of thin wire, microphone attachment, representing modern business efficiency and technological progress that leaves old-fashioned salesmen behind"
+
+    - id: "football"
+      name: "Biff's Football"
+      description_block: |
+        details: "leather American football with University of Virginia markings, worn from use but treasured as symbol of past athletic glory and lost potential, represents peak of family dreams now faded"
+
+    - id: "fountain_pen"
+      name: "Bill Oliver's Fountain Pen"
+      description_block: |
+        details: "expensive gold fountain pen with elegant design, symbol of business success and status that Biff impulsively steals, represents unattainable success and moral compromise"
+
+    - id: "flute"
+      name: "Father's Flute"
+      description_block: |
+        details: "simple wooden flute representing Willy's father who was craftsman and maker of musical instruments, symbol of artistic creation and authentic work with hands, represents path not taken"
+
+    - id: "red_chevrolet"
+      name: "Red Chevrolet (Memory)"
+      description_block: |
+        details: "bright red 1928 Chevrolet convertible appearing in flashback memories, polished and gleaming, representing peak of American prosperity and Willy's best days, symbol of freedom and success"
+
+    - id: "studebaker"
+      name: "Willy's Current Car"
+      description_block: |
+        details: "late 1940s Studebaker sedan in dark color, showing wear and mechanical problems, represents Willy's current declining fortunes and unreliable progress toward goals"

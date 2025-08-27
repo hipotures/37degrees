@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1840s Arkansas plantation, evening
+    location: Small wooden cabin used as prison for Jim
+    weather: Warm evening with golden sunset light
+  characters:
+  - appearance: 35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark
+      skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family. Strong, work-hardened
+      hands.
+    clothing: Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched
+      and worn. Clothing purely utilitarian without any ornaments.
+    position: Sitting on rough wooden bench in small cabin, chain around ankle
+    action: Gazing through small barred window with patient dignity, thinking of wife and children far away
+  scene:
+    mainElements: Small, cramped wooden cabin with single barred window, heavy wooden door with outside lock, simple furniture
+    details: Iron chain securing Jim's ankle to floor beam, wooden water bucket, tin plate for meals, straw pallet for sleeping,
+      shaft of evening sunlight through barred window
+    background: View through window showing cotton fields and main plantation house in distance, sound of evening activities
+      on farm
+    atmosphere: Patient suffering of dignified man unjustly imprisoned, longing for family and freedom, moral strength contrasted
+      with physical bondage, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from cabin doorway showing Jim's imprisonment
+    focus: Jim's noble bearing despite chains and confinement
+    depth: Jim in cabin interior in foreground, barred window in middle, plantation grounds visible outside in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

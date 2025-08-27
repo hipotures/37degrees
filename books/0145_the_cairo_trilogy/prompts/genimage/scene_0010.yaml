@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: All four seasons simultaneously visible across 27-year span
+    location: Small open courtyard (hosh) of traditional Cairene house providing light and ventilation
+    weather: Spring rain, summer heat, autumn winds, winter chill all present in different quadrants
+  characters:
+  - appearance: 8-10 year old Egyptian boy, thin reed-like build, large head with prominent forehead, small deep-set eyes,
+      large nose, physically unattractive but intellectually curious
+    clothing: Traditional child's galabija
+    position: Energetic and lively movements, often in motion
+    action: 'Spring quadrant: planting seeds with childhood wonder'
+  - appearance: 17-20 year old Egyptian student, thin build, large head with prominent forehead, small deep-set eyes, large
+      nose, intellectual but melancholic expression
+    clothing: Student's European-style suit, somewhat old-fashioned
+    position: More reserved and contemplative posture, often lost in thought
+    action: 'Summer quadrant: reading under mature plant growth'
+  - appearance: 28-37 year old Egyptian teacher and writer, thin build, large head with prominent forehead, small deep-set
+      eyes, large nose, face showing melancholy and intellectual concentration
+    clothing: Conservative European-style suit, possibly with glasses
+    position: Thoughtful, reserved posture reflecting inner struggles
+    action: 'Autumn quadrant: watching leaves fall with philosophical resignation'
+  scene:
+    mainElements: Central courtyard showing four distinct seasonal states simultaneously - spring budding, summer abundance,
+      autumn decay, winter dormancy
+    details: 'Spring corner: fresh seedlings emerging, bright morning light, hopeful energy. Summer section: full foliage,
+      intense noon sun, abundant growth. Autumn area: falling leaves, golden afternoon light, harvest completion. Winter zone:
+      bare branches, dim evening light, dormant earth. Same stone architecture throughout but showing progressive weathering,
+      no text or letters visible'
+    background: Multi-story traditional Islamic house walls enclosing courtyard, showing different lighting conditions and
+      seasonal effects on same architectural elements
+    atmosphere: Temporal completeness showing full cycle of hope, fulfillment, decline, and renewal, philosophical meditation
+      on life's seasons compressed into single eternal moment
+  composition:
+    cameraAngle: Overhead view showing complete courtyard with four seasonal quadrants
+    focus: Central point where all seasons meet, symbolizing temporal intersection
+    depth: 'Foreground: seasonal details in each quadrant, middle ground: human figures at different life stages, background:
+      unchanging architecture witnessing all seasons'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

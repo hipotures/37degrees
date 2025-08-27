@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Opening Salvo - Kefalos Defines Traditional Justice"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "very elderly man with white hair and beard, weathered face showing wisdom and contentment of age"
+      clothing: "fine woolen himation befitting wealthy metojk, ceremonial wreath on head from recent sacrifice"
+      position: "seated regally on cushioned chair, leaning forward slightly"
+      action: "speaking with conviction about justice as paying debts, finger raised to emphasize traditional wisdom"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "reclining on klinai couch opposite Kefalos"
+      action: "listening intently with penetrating gaze, already formulating counter-argument about returning weapons to madman"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Flickering lamp flames creating dramatic shadows on faces during debate, wine cups reflecting light, ceremonial objects from sacrifice still visible, tension building despite civilized setting"
+    background: "other guests beginning to gather and listen to emerging philosophical discussion"
+    atmosphere: "civilized tension as traditional wisdom meets philosophical scrutiny, warm lamplight intensifying facial expressions"
+  composition:
+    cameraAngle: "close-up alternating between two speakers showing facial expressions"
+    focus: "Kefalos's confident expression while stating traditional definition of justice"
+    depth: "speaker's face in sharp focus foreground, listener in middle ground, gathering audience in soft background"

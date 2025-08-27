@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: December gala evening transitioning to March afternoon rehearsal
+    location: Opéra Garnier main auditorium, central Paris cultural district
+    weather: Winter night crystalline cold becoming mild spring afternoon with diffused light
+  characters:
+  - appearance: 'Opera audience: winter showing full aristocratic society in formal attire, spring showing only scattered
+      musicians and cleaning staff'
+    clothing: 'Winter: elaborate evening gowns, tiaras, tailcoats, white gloves, spring: simple rehearsal clothes, work uniforms'
+    position: 'Winter: filling all boxes and orchestra seats in hierarchical arrangement, spring: few figures scattered in
+      vast empty space'
+    action: 'Winter: animated social performance between acts, spring: quiet technical preparation and maintenance work'
+  scene:
+    mainElements: Magnificent opera house showing seasonal contrast between social spectacle and artistic work. Red velvet
+      seats transform from occupied glory to empty potential. Stage shifts from performance to rehearsal setup.
+    details: 'Winter: crystal chandeliers blazing, jewelry sparkling, programs rustling, champagne glasses glinting. Spring:
+      dust motes in afternoon light, sheet music on stands, cleaning cloth over gilt details.'
+    background: Ornate ceiling frescoes unchanged but lighting shifts from theatrical evening drama to practical afternoon
+      work. Box seats empty with covers protecting upholstery.
+    atmosphere: Cultural theater's dual nature revealed through seasonal emptiness - social display versus artistic creation.
+      True art existing beyond society's seasonal performances, no text or letters visible
+  composition:
+    cameraAngle: High angle from upper gallery showing full auditorium transformation
+    focus: Vast auditorium space demonstrating contrast between social occupation and artistic emptiness
+    depth: Foreground shows box seat details, middle ground captures orchestra level changes, background reveals stage transformation
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

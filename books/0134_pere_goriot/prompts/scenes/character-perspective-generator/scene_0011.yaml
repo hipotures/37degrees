@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boarding House Through Innocent Eyes"
+  setting:
+    time: "1819, morning"
+    location: "Vauquer boarding house dining room seen from child-like perspective"
+    weather: "Pale winter morning light through tall dirty windows"
+  characters:
+    - appearance: "Victorine Taillefer"
+      age: "19 years old approximately"
+      appearance: "Pale, slender young woman with sad, gentle eyes. Modest, unremarkable appearance that radiates innocence and melancholy"
+      hair: "Simple, modest styling"
+      clothing: "Very simple, poor, modest dresses in dark colors reflecting her status as disinherited daughter"
+      posture: "Quiet, subdued bearing. Often seen with downcast eyes, doing needlework or reading prayer book. Embodies virtue and innocence in corrupt boarding house environment"
+      position: "Seated quietly at table edge, trying to remain invisible"
+      action: "Observing the adults around her with innocent confusion and growing sadness"
+  scene:
+    mainElements: "Through Victorine's innocent perspective, the boarding house residents appear as mysterious giants engaged in incomprehensible adult dramas. The dining table seems vast like a ship deck where storms of emotion rage beyond her understanding. Every harsh word and cruel gesture appears magnified and frightening."
+    details: "From Victorine's naive viewpoint, the residents' cruelty toward Goriot appears monstrous and inexplicable - why do they mock the kind old man? Vautrin's presence feels threatening in ways she cannot name. The adult world's casual corruption appears as dark magic she cannot comprehend but instinctively fears."
+    background: "Boarding house furniture appearing larger and more imposing, shadows deeper and more threatening from child-like perspective"
+    atmosphere: "Confusion and fear mixed with innocent desire to understand adult mysteries. The air feels heavy with tensions and cruelties beyond young comprehension"
+  composition:
+    cameraAngle: "Low angle from Victorine's diminished perspective, making adults appear towering and overwhelming"
+    focus: "Victorine's innocent confusion as she tries to understand the adult world's casual cruelty"
+    depth: "Victorine's small, vulnerable figure in foreground, looming adult figures engaged in mysterious conflicts in middle ground, boarding house appearing as vast and threatening adult domain, no text or letters visible"

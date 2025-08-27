@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1920 to 1940, dawn light transforming to harsh midday sun
+    location: rural hacienda estate in South American countryside, spanning twenty years of transformation
+    weather: morning mist giving way to blazing afternoon heat, emphasizing temporal progression
+  characters:
+  - appearance: man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates
+      others, strong jawline, determined dark eyes
+    clothing: simple worn mining work clothes, rough brown cotton shirt, patched dark trousers, heavy leather boots
+    position: standing amid ruins surveying devastation with determined expression
+    action: surveying his domain with fierce determination and barely contained ambition
+  - appearance: man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and
+      anger, graying hair, stern dark eyes that command respect and fear
+    clothing: impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding
+      boots, wool vest, white cotton shirt
+    position: standing before transformed prosperous estate with absolute authority
+    action: gesturing with authority while giving orders or sitting in judgment
+  scene:
+    mainElements: temporal split showing identical location transformed - left side displays collapsed main house filled with
+      debris, overgrown fields, crumbling peasant huts, right side reveals solid stone patron's house, neat vineyard rows,
+      clean worker dwellings, functional school building
+    details: dramatic before-after comparison emphasizes time's power to transform landscape through human will and brutal
+      effort, same geographic features visible but completely altered by decades of forced development, no text or letters
+      visible
+    background: distant mountains remain constant while foreground shows complete environmental transformation from wilderness
+      decay to agricultural order
+    atmosphere: stark contrast between hopeless desolation of abandoned estate and harsh prosperity of restored hacienda,
+      lighting shifts from soft melancholy mist to unforgiving clarity of absolute power
+  composition:
+    cameraAngle: elevated perspective showing full scope of estate transformation
+    focus: central emphasis on Esteban's evolution from desperate young man to powerful landowner
+    depth: foreground displays detailed architectural changes, middle ground frames human transformation, background maintains
+      geographic continuity across time
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Fanatic's Tower Seen as Fortress of Doubt"
+  setting:
+    time: "1571, stormy afternoon"
+    location: "Round stone tower at family castle in Aquitaine region of France, countryside on border between Périgord and Bordelais"
+    weather: "Dark storm clouds gathering, wind whipping around tower"
+  characters:
+    - appearance: "Religious zealot in 40s with wild eyes burning with certainty, gaunt face marked by fanaticism"
+      clothing: "Dark religious robes or militant Protestant garb, carrying religious symbols or weapons"
+      position: "Standing outside tower looking up with suspicion and anger"
+      action: "Pointing accusingly at tower, rallying others against the dangerous skeptic within"
+  scene:
+    mainElements: "Tower appearing as threatening fortress of dangerous ideas, stone walls seeming impenetrable barrier against religious truth"
+    details: "Storm winds whip religious banners and clothing, tower looms ominously against dark sky, windows appear as watching eyes hiding dangerous thoughts, stone construction seems designed to keep faith out rather than wisdom in, surrounding landscape appears corrupted by proximity to skeptical philosophy, scattered religious pamphlets blow in wind suggesting ideological warfare, no text or letters visible"
+    background: "Countryside transformed into battleground between faith and doubt, other buildings appearing more godly and welcoming in contrast"
+    atmosphere: "Menacing presence of intellectual doubt threatening religious certainty, tower as symbol of dangerous questioning that undermines absolute faith, storm reflecting spiritual conflict"
+  composition:
+    cameraAngle: "Low angle from zealot's perspective, making tower appear more threatening and imposing"
+    focus: "Tower as forbidding fortress of skepticism, emphasizing its threat to religious orthodoxy"
+    depth: "Foreground shows zealot's pointing gesture, middle ground captures threatening tower, background shows storm-darkened landscape, no text or letters visible"

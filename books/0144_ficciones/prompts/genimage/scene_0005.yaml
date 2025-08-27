@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1940s Argentina, twilight hour
+    location: Remote country store and tavern on endless Argentine pampas plains, isolated outpost in grassland
+    weather: Clear evening with first stars appearing, gentle wind across prairie grass
+  characters:
+  - appearance: Middle-aged librarian 40-50 years, pale complexion typical of city intellectual, medium build slightly soft
+      from sedentary life, wearing spectacles, weakened and gaunt after recent illness
+    clothing: 'City gentleman''s attire: wool suit and overcoat unsuitable for countryside, formal shoes, clothing marking
+      him as outsider in rural setting'
+    position: Standing frozen in tavern doorway, staring down at knife embedded in earthen floor
+    action: Hesitating at threshold between civilization and primitive honor code, hand trembling
+  - appearance: Very old man, small and dried like desert earth, dark weathered face deeply lined, existing outside time in
+      eternal quality, embodiment of mythical South
+    clothing: 'Traditional worn gaucho attire: loose bombachas pants, high leather boots, woolen poncho with geometric patterns,
+      wide-brimmed hat, leather belt with silver buckle and sheathed knife'
+    position: Sitting in corner shadows of tavern, watching with ancient eyes
+    action: Having thrown the knife, now waiting with fatalistic patience for destiny to unfold
+  scene:
+    mainElements: Long straight-bladed facón knife stands upright in packed earth floor, sharp steel gleaming in oil lamp
+      light, handle of bone and dark leather still vibrating slightly from impact, blade perfectly vertical as if marking
+      sacred boundary between worlds
+    details: Knife represents choice between comfortable urban life and authentic violent death according to ancient gaucho
+      code. Weapon appears both tool and totem, its presence transforming humble tavern into arena of honor. Oil lamp flame
+      flickers, casting dancing shadows that make blade seem alive with ancestral spirits
+    background: Simple tavern interior with white adobe walls blackened by smoke, wooden bar counter, rough tables and stools,
+      iron-barred window showing endless pampas, guitar leaning silent in corner
+    atmosphere: Fatalistic tension and inevitable violence hanging in smoky air, weight of ancient traditions demanding blood
+      sacrifice, moment of truth where man must choose his authentic nature, no text or letters visible
+  composition:
+    cameraAngle: Low angle shot from floor level looking up at knife with figures on either side
+    focus: The upright knife blade gleaming in lamplight as symbol of inescapable destiny
+    depth: Embedded knife in immediate foreground, hesitant city man in middle ground, ancient gaucho watching from background
+      shadows
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1820, winter night
+    location: Goriot's attic room with witnesses gathering around deathbed
+    weather: Bitter cold winter night with wind howling around building
+  characters:
+  - appearance: Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale,
+      worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive
+      facial expression that shows his simple, honest nature.
+    age: 69 years old
+    hair: Originally powdered daily by barber, now thin and unkempt grey hair
+    clothing: Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts,
+      broken shoes - each piece reflecting his progressive financial decline
+    posture: Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated
+      slouch. In final scenes, spasmatic movements as he clutches golden locket to chest
+    position: Dying on bed in attic room
+    action: Experiencing final moments while different observers interpret his death differently
+  - appearance: Two medical students maintaining vigil at deathbed, exhausted from caring for dying man
+    age: Young men in early twenties
+    clothing: Simple student clothes, rumpled from sleepless nights of care
+    posture: Weary but compassionate, showing genuine grief for dying man
+    position: Beside deathbed as only witnesses to lonely death
+    action: Interpreting death as tragedy of destroyed love and family bonds
+  scene:
+    mainElements: Split perspective shows same death interpreted as both tragic defeat and liberating victory. Observers see
+      either destruction of pure love by heartless children or release of naive man from destructive illusions. Death appears
+      simultaneously as ultimate sacrifice and final awakening.
+    details: Divided interpretation reveals same events supporting opposite conclusions - Goriot's final words seen either
+      as proof of eternal love or recognition of wasted life, his daughters' absence interpreted as either ultimate cruelty
+      or natural consequence of his own destructive indulgence.
+    background: Miserable attic room that appears either as shrine to sacrificial love or as prison of self-destructive delusion
+    atmosphere: Conflicted interpretation creating simultaneous sense of tragedy and liberation, sacred sacrifice and inevitable
+      consequence
+  composition:
+    cameraAngle: Split composition showing same scene from perspectives that reach opposite conclusions
+    focus: Single death generating completely different interpretations depending on viewer's philosophical perspective
+    depth: Dying figure in center foreground, conflicting interpretations radiating outward in middle ground, same physical
+      setting appearing as either holy shrine or tragic prison, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

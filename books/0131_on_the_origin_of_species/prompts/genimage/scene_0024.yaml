@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Multiple geological periods showing repeated evolutionary patterns, various prehistoric lighting
+    location: Same geographical location across geological time showing different ecosystems
+    weather: Changing climate conditions from tropical to ice age to temperate across geological time
+  characters: No human characters present in this scene
+  scene:
+    mainElements: Evolutionary patterns repeating across different species and time periods in same geographical location
+    details: 'Landscape showing multiple geological eras simultaneously: ancient tropical swamp with early amphibians becoming
+      grassland with early mammals becoming ice age environment with adapted cold-weather species becoming modern temperate
+      ecosystem, same environmental pressures creating similar adaptations in different species across time periods, predator-prey
+      relationships evolving similar solutions repeatedly, camouflage patterns echoing across unrelated species, body shapes
+      converging for similar ecological niches, migration patterns following same geographical features across millions of
+      years, fossil layers visible showing progression and repetition of evolutionary solutions, no text or letters visible
+      in geological strata'
+    background: Geological formations showing deep time through rock layers, climate indicators changing through ice cores
+      and sediment patterns, same land masses in different positions and climates
+    atmosphere: Deep time perspective showing evolutionary patterns transcending individual species, natural selection as
+      consistent force across geological ages
+  composition:
+    cameraAngle: Aerial view showing landscape across multiple geological periods
+    focus: Repeated evolutionary patterns as evidence of natural selection consistency
+    depth: 'Foreground: current ecosystem, middle: overlapping geological periods, background: deep time geological context'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

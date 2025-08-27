@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Chessboard of Human Pawns"
+  setting:
+    time: "1950s Algeria, symbolic timeless setting"
+    location: "Giant chessboard overlay on map of Algeria, abstract representation of colonial strategy"
+    weather: "Dramatic lighting emphasizing symbolic elements"
+  characters:
+    - appearance: "Algerian people represented as chess pawns, small human figures arranged in strategic positions"
+      clothing: "Simple traditional and modern Algerian dress, reduced to uniform pawn-like appearance"
+      position: "Arranged as chess pieces across giant board"
+      action: "Moving only as directed by unseen players, constrained by rules of colonial game"
+    - appearance: "European colonial authorities represented as chess kings, queens, and powerful pieces"
+      clothing: "Elaborate uniforms and formal dress indicating superior chess piece status"
+      position: "Commanding strategic positions on board"
+      action: "Controlling movement and fate of human pawns through strategic manipulation"
+  scene:
+    mainElements: "Colonial society visualized as chess game where Algerian people serve as expendable pawns controlled by European pieces"
+    details: "Giant chessboard pattern overlaid on Algerian territory, human figures constrained to chess square movements, colonial authorities able to sacrifice pawns for strategic advantage, economic resources as chess board squares, revolutionary movements as attempts to break chess game rules"
+    background: "Stylized map of Algeria serving as chess board surface, colonial symbols marking key strategic squares"
+    atmosphere: "Human lives reduced to strategic game elements, colonial system revealed as calculated manipulation of human resources"
+  composition:
+    cameraAngle: "Elevated overhead view showing entire chess game strategy"
+    focus: "Chess piece hierarchy with human pawns at mercy of powerful colonial pieces"
+    depth: "Chess board pattern filling frame, human pawn figures in middle ground, controlling pieces in strategic positions"

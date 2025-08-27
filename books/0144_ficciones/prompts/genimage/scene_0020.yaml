@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1940s Buenos Aires, afternoon with strong sunlight
+    location: University library reading room with tall windows casting long shadows
+    weather: Bright sunny afternoon creating dramatic light and shadow patterns
+  characters:
+  - appearance: Middle-aged librarian 40-50 years, pale complexion typical of city intellectual, medium build slightly soft
+      from sedentary life, wearing spectacles, weakened and gaunt after recent illness
+    clothing: 'City gentleman''s attire: wool suit and overcoat unsuitable for countryside, formal shoes, clothing marking
+      him as outsider in rural setting'
+    position: Sitting at reading table with book open, watching his own shadow on wall
+    action: Observing how his shadow appears to be reading different book than one in his hands
+  scene:
+    mainElements: Library shadow on wall shows clear silhouette of man reading book, but shadow appears to show different
+      story than actual book in man's hands, shadow-reader exists independently from physical reader, dark silhouette becoming
+      more real than person casting it
+    details: Shadow transforms from simple absence of light into independent existence with separate destiny, dark shape on
+      wall telling story of authentic life while physical body lives false existence. Shadow-reader appears to be reading
+      gaucho adventure while real reader holds European literature, suggesting true nature emerging through shadows
+    background: Traditional library with tall wooden shelves, reading tables with green-shaded lamps, afternoon sunlight streaming
+      through tall windows, other readers at distant tables creating more shadows
+    atmosphere: Growing awareness of split between public and authentic self, strong sunlight creating crisp shadow definitions,
+      library quiet emphasizing internal drama, moment when shadow-life becomes more appealing than actual life, no text or
+      letters visible
+  composition:
+    cameraAngle: Side shot showing both reader and his shadow on wall simultaneously
+    focus: The shadow on wall that appears to be living different story than its caster
+    depth: Reading man in foreground, his shadow prominently displayed on wall in middle ground, library interior fading into
+      soft background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

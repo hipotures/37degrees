@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1840s Mississippi River, stormy night
+    location: Partially submerged wreck of steamboat on Mississippi River sandbar
+    weather: Violent thunderstorm with lightning and heavy rain
+  characters:
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+      Freckled face with boyish but wary expression.
+    clothing: Worn, oversized clothes likely from charity now soaked with rain. Loose, patched pants held up by single suspender.
+      Simple, torn shirt in faded colors. Always barefoot.
+    position: Crouched inside dark steamboat cabin, peering around corner
+    action: Listening in terror to murderers' conversation while trying to remain hidden
+  - appearance: 35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark
+      skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family.
+    clothing: Simple, practical slave clothing made from coarse, unbleached cloth now dripping wet. Plain cotton shirt and
+      pants, often patched and worn.
+    position: Waiting anxiously on raft tied to wreck
+    action: Watching for Huck's return while trying to keep raft steady in storm
+  scene:
+    mainElements: Tilted steamboat cabin with broken furniture floating in knee-deep water, flickering lantern light revealing
+      three men arguing violently
+    details: Splintered wooden beams and twisted metal, waterlogged carpets and overturned chairs, broken windows with rain
+      pouring through, oil lantern casting eerie shadows
+    background: Lightning illuminating storm-tossed river through broken windows, sound of thunder mixing with angry voices
+    atmosphere: Deadly peril and criminal violence, claustrophobic terror aboard sinking vessel, nature's fury matching human
+      brutality, no text or letters visible
+  composition:
+    cameraAngle: Low angle from Huck's hiding position showing tilted cabin interior
+    focus: Huck's terrified face lit by intermittent lightning while dangerous men argue nearby
+    depth: Huck hiding in foreground, murderers in cabin middle, stormy river visible through windows in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

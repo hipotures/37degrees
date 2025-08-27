@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mass Uniformity in Colonial Society"
+  setting:
+    time: "1950s Algeria, evening"
+    location: "Public square during colonial celebration, organized gathering of citizens"
+    weather: "Evening light with artificial illumination"
+  characters:
+    - appearance: "Multiple identical figures representing assimilated colonial subjects, same height, same posture, same expressions"
+      clothing: "Identical European-style clothing, standardized colonial subject dress, uniform colors and cuts"
+      position: "Standing in perfect grid formation"
+      action: "Applauding in unison, turning heads simultaneously, displaying synchronized enthusiasm for colonial celebration"
+  scene:
+    mainElements: "Crowd of people dressed identically, moving in perfect synchronization, individuality completely suppressed by colonial conformity"
+    details: "Hundreds of figures in identical dress, same facial expressions of forced enthusiasm, synchronized clapping rhythm, uniform head movements following official speeches, identical posture and gestures, no variation in individual expression, colonial officials reviewing mass conformity with satisfaction"
+    background: "Colonial architecture creating ordered backdrop for mass uniformity, French flags and colonial symbols reinforcing message"
+    atmosphere: "Complete loss of individual identity, humanity reduced to interchangeable units in colonial system"
+  composition:
+    cameraAngle: "Wide shot emphasizing scale of uniformity across entire crowd"
+    focus: "Repetitive human patterns showing loss of individuality"
+    depth: "Uniform crowd filling entire frame, colonial symbols creating authoritative background"

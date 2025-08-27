@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1925 autumn, late afternoon
+    location: Village celebration ground near distillery, Northeast Gaomi District
+    weather: Perfect autumn day with golden sunlight and gentle breeze
+  characters:
+  - appearance: Multiple villagers of various ages celebrating harvest, men women and children in festival mood
+    clothing: Festive clothing, best available garments for annual celebration
+    position: Gathered in large group around celebration area
+    action: Participating in harvest festival with music, food, and celebration
+  scene:
+    mainElements: Large community harvest festival with overwhelming sensory abundance, traditional Chinese village celebration
+    details: Colored fabric banners flowing in breeze suggesting sound of wind, multiple food vendors with rising steam suggesting
+      cooking scents and tastes, musicians with instruments in dynamic playing positions suggesting rhythmic music, children
+      running creating dust clouds suggesting movement and laughter, festival drummers with ground vibrating under feet suggesting
+      bass sounds, lanterns swaying creating moving light patterns, overlapping conversations visible through animated gestures,
+      food preparation showing complex layered flavors through steam patterns, fabric textures ranging from silk to rough
+      cotton suggesting touch variety, celebration abundance overwhelming all senses simultaneously, no text or letters visible
+    background: Village buildings decorated for festival, traditional architecture creating celebration framework
+    atmosphere: Complete sensory overload from festival abundance, community joy expressed through overwhelming multi-sensory
+      experience, traditional culture celebration engaging all human senses
+  composition:
+    cameraAngle: Wide shot capturing overwhelming festival activity
+    focus: Multiple sensory elements competing for attention across entire frame
+    depth: All planes filled with sensory activity, foreground through background in celebratory motion
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

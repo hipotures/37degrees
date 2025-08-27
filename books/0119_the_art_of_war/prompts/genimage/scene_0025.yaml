@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, sunset marking end of successful campaign and beginning of new era
+    location: Hilltop overlooking both Wu homeland and newly integrated Chu territories, symbolic vantage point
+    weather: Perfect sunset with golden light illuminating peaceful landscape
+  characters:
+  - appearance: Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years
+      of military training, sharp intelligent dark eyes, high cheekbones
+    clothing: Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft
+      leather boots, occasionally wears light bronze scale armor when in military settings
+    position: Standing within circle formed by all symbolic elements from campaign journey
+    action: Completing symbolic circle as campaign ends where it began, with wisdom instead of uncertainty
+  scene:
+    mainElements: All symbolic elements from campaign arranged in perfect circle - bamboo scrolls, bronze compass, reforged
+      chains, sprouted seeds, mirror surfaces - creating complete cycle representing eternal nature of strategic wisdom
+    details: Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with
+      black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case now shows complete tactical
+      wisdom gained through experience, positioned at circle's eastern point representing beginning and dawn. Ceremonial military
+      command fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by
+      generals to signal troop movements during battle rests at western point representing conclusion and sunset. All other
+      symbolic elements occupy remaining cardinal positions, creating mandala of strategic wisdom
+    background: Panoramic view showing both Wu homeland and integrated Chu territories, peaceful landscape unified under wise
+      governance, distant cities showing prosperity rather than destruction
+    atmosphere: Profound satisfaction of wisdom earned through experience, gentle evening breeze carrying scents of peace
+      and prosperity, sense of completion that enables new beginning, eternal cycle of learning and teaching continuing, no
+      text or letters visible to viewer
+  composition:
+    cameraAngle: Elevated view showing complete symbolic circle with strategist at center and unified landscape beyond
+    focus: Circular arrangement of all campaign symbols representing complete cycle of strategic wisdom development
+    depth: Foreground shows detailed symbolic circle arrangement, middle ground captures strategist within completed wisdom
+      mandala, background reveals unified peaceful territories extending to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

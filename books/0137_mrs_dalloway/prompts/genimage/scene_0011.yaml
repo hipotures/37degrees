@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: June 1923, late afternoon around 5:00 PM
+    location: London streets viewed from upper deck of double-decker omnibus
+    weather: Evening light creating golden urban landscape
+  characters:
+  - appearance: 17-year-old girl with quiet dark oriental beauty contrasting with her fair-haired parents, pale complexion,
+      great composure for her age
+    clothing: Simple modest clothing, prefers countryside to parties and fashionable society
+    position: Seated on upper deck of omnibus, leaning forward with excitement
+    action: Characteristic movement of escape such as jumping onto omnibus
+  scene:
+    mainElements: London streetscape viewed from elevated omnibus perspective, buildings appearing at new angles
+    details: Through Elizabeth's teenage perspective, city transforms into adventure playground, buildings appearing like
+      toy houses from elevated view, people becoming fascinating specimens moving in patterns below, rooftops revealing secret
+      urban geography unknown from street level, wind creating sense of flight and freedom, omnibus becoming magic carpet
+      carrying her away from suffocating adult expectations, no text or letters visible
+    background: London rooftops stretching to horizon, Thames glimpsed between buildings, church spires and chimneys creating
+      urban forest
+    atmosphere: Exhilarating sense of escape and discovery, teenage psychological filter making ordinary bus journey into
+      adventure, height providing literal and metaphorical perspective above adult world's constraints
+  composition:
+    cameraAngle: From Elizabeth's elevated position on omnibus, looking down at street life with wonder
+    focus: Elizabeth's excited face and the newly revealed city landscape spread below
+    depth: Bus interior in foreground, Elizabeth's figure in middle ground, vast London panorama in background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

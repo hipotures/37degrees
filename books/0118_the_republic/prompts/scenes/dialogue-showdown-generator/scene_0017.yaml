@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Separate Chambers - Adejmantos Contemplates Moral Consequences"  
+  setting:
+    time: "375 BCE, late evening"
+    location: "different part of Kefalos house, another room overlooking courtyard"
+    weather: "cool night air"
+  characters:
+    - appearance: "slightly older than Glaukon, noble bearing, serious demeanor, well-groomed appearance"
+      clothing: "aristocratic dress with subtle elegance, quality fabrics in muted colors"
+      position: "standing at window looking out over moonlit Piraeus"
+      action: "hands clasped behind back while pondering implications of evening's discussion for moral education"
+  scene:
+    mainElements: "simple guest chamber with basic furnishings, window opening onto courtyard and port beyond, oil lamp providing soft illumination"
+    details: "View through window showing Piraeus harbor with ships' masts silhouetted against starry sky, scrolls or writing materials suggesting scholarly pursuits"
+    background: "distant glow from Piraeus port activity, faint sounds of harbor work continuing through night"
+    atmosphere: "thoughtful solitude allowing deep reflection on moral questions raised but unresolved"
+  composition:
+    cameraAngle: "shot from behind figure looking out window toward harbor and wider world"
+    focus: "contemplative stance showing serious engagement with philosophical problems"
+    depth: "silhouetted figure in foreground, window view in middle ground, harbor lights in background"

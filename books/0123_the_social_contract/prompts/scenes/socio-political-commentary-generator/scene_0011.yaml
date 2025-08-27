@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Human Cogs - Workers as Machine Components"
+  setting:
+    time: "1760s, before dawn"
+    location: "Large textile workshop in Paris where workers perform repetitive tasks under strict supervision"
+    weather: "Pre-dawn darkness with artificial illumination from oil lamps creating harsh shadows"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Arranged at identical workstations in perfect rows like mechanical components"
+      action: "Moving in synchronized rhythm like parts of great machine, performing identical gestures with expressionless faces, no individual creativity visible"
+  scene:
+    mainElements: "Massive mechanical loom dominating space, workers moving in perfect unison, overseer with timepiece controlling tempo of production"
+    details: "Giant gear wheels and pulleys overhead reduce human workers to interchangeable parts. Clock pendulum sets exact rhythm of labor. Workers' faces show no emotion or individual personality - they have become extensions of machinery"
+    background: "Steam-powered mechanisms, supervisors with production quotas, finished goods stacked with mathematical precision"
+    atmosphere: "Dehumanization of labor through industrial control, individual identity sacrificed to mechanical efficiency, human creativity crushed by systematic organization"
+  composition:
+    cameraAngle: "High angle showing workers as components within larger mechanical system"
+    focus: "Central gear mechanism with human workers integrated as moving parts"
+    depth: "Foreground shows mechanical details of industrial apparatus, middle ground displays synchronized human labor, background extends to administrative oversight"

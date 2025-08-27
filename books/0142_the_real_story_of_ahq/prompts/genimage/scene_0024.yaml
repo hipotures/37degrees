@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1911, night
+    location: Official government building in county town, formal interrogation room
+    weather: Interior lighting from flickering oil lamps creating ominous shadows
+  characters:
+  - appearance: Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin
+      queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny
+      ringworm scars on scalp that turn scarlet red when angry or humiliated
+    clothing: White vest made of foreign cloth with black characters worn by condemned prisoner. Associated with mourning
+      and death. Terrifies Ah Q who sees it as funeral garment
+    position: Kneeling on stone floor before official's desk
+    action: Trembling hand holding ink brush, attempting to draw signature circle but creating crooked, imperfect shape on
+      death warrant
+  - appearance: Government magistrate in formal robes
+    clothing: Elaborate official garments with rank insignia
+    position: Seated behind elevated desk on judicial platform
+    action: Watching with cold indifference as condemned man signs his own execution order
+  scene:
+    mainElements: Large formal hall with high ceiling and stone floor creating echo. Raised platform for magistrate behind
+      massive wooden desk. Sparsely furnished emphasizing official authority. Single document on desk represents death sentence
+    details: Imperfect circular mark drawn by Ah Q's trembling hand with ink brush on legal document. Represents his illiteracy
+      and sealed fate. Symbol of flawed life and cyclical nature of Chinese history. Ink blots and shaky lines showing fear
+      and ignorance
+    background: Dark shadows cast by flickering oil lamps at night, stone walls suggesting prison-like environment, official
+      seals and imperial symbols reinforcing state power
+    atmosphere: Bureaucratic machinery of death operating with cold efficiency. Individual human worth reduced to signature
+      on official document. The crooked circle becomes perfect metaphor for flawed life in flawed system, cyclical oppression
+      that continues regardless of revolution
+  composition:
+    cameraAngle: Close-up on the trembling hand drawing imperfect circle, with imposing official presence looming above
+    focus: The crooked circle as ultimate symbol of broken life in broken system
+    depth: Foreground captures the imperfect signature sealing fate, middle ground shows the powerless condemned man, background
+      reveals the impassive machinery of official execution
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

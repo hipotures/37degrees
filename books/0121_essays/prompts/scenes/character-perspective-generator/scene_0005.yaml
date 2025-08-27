@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Philosopher's Reflection as Seeker of Truth"
+  setting:
+    time: "1580s, dawn light in tower"
+    location: "Top floor circular room of Montaigne's tower in French countryside castle"
+    weather: "Clear dawn with first light entering windows"
+  characters:
+    - appearance: "Man in his 40s-50s with intelligent, contemplative eyes, high slightly receding forehead, carefully trimmed beard and mustache, calm expression showing depth of thought and observer's distance"
+      clothing: "Simple morning robe, disheveled from night of contemplation, golden chain partially visible"
+      position: "Standing before polished metal mirror examining his own face"
+      action: "Studying his reflection with philosophical intensity, touching his beard thoughtfully, eyes searching for truth in his own features"
+  scene:
+    mainElements: "Circular library with morning light revealing the philosopher in moment of self-examination, surrounded by books representing all human knowledge"
+    details: "Polished metal mirror reflects tired face marked by years of contemplation, dawn light creates dramatic shadows across philosophical features, scattered manuscript pages show evidence of night's writing, books on shelves catch early light creating texture of accumulated wisdom, mirror's surface shows both physical reality and depth of introspection, reflection appears slightly distorted suggesting impossibility of perfect self-knowledge, no text or letters visible"
+    background: "Walls of books extending upward, carved ceiling beams with philosophical inscriptions barely visible in growing light"
+    atmosphere: "Moment of honest self-confrontation, dawn representing new understanding, solitude enabling truthful examination without social masks, sense of philosopher truly seeing himself for first time"
+  composition:
+    cameraAngle: "Over shoulder view showing both philosopher and his reflection simultaneously"
+    focus: "The meeting point between real face and reflected image, emphasizing theme of self-knowledge"
+    depth: "Foreground shows mirror surface, middle ground captures philosopher's examination, background reveals library of accumulated wisdom, no text or letters visible"

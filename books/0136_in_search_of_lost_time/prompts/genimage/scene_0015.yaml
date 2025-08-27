@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1880s, 1900s, 1920s evening gatherings overlapping in same space
+    location: Grand ballroom in aristocratic mansion, polished parquet floor with crystal chandeliers
+    weather: Consistent elegant evening ambiance across all three temporal layers
+  characters:
+  - appearance: 'Three generations of society figures: 1880s couples in elaborate Second Empire fashion, 1900s Belle Époque
+      elegance, 1920s post-war simplicity, all translucent and overlapping'
+    clothing: '1880s: massive crinolines and military uniforms, 1900s: S-curve silhouettes and tailcoats, 1920s: dropped-waist
+      dresses and dinner jackets'
+    position: All three periods dancing in same ballroom space, ghostly figures weaving through each other
+    action: '1880s: formal quadrilles and ceremonial dances, 1900s: waltzing and sophisticated conversation, 1920s: jazz-influenced
+      dancing and modern freedom'
+  scene:
+    mainElements: Magnificent ballroom showing architectural permanence while hosting temporal dance of social evolution.
+      Crystal chandeliers identical but lighting technology changing from gas to electric.
+    details: Parquet floor showing accumulated wear patterns from decades of dancing. Same mirrors reflecting different fashions
+      and social customs. Orchestra alcove hosting different musical styles across periods.
+    background: Tall windows revealing changing Paris streetscape across decades. Same velvet curtains but fabrics replaced
+      while maintaining identical color and pattern. Wall portraits observing social evolution.
+    atmosphere: Social continuity and change made visible through overlapping temporal celebrations. Aristocratic culture's
+      adaptation and persistence through historical transformation, no text or letters visible
+  composition:
+    cameraAngle: High angle from mezzanine gallery showing full ballroom with temporal overlap visible
+    focus: Central dance floor as temporal stage for social evolution across generations
+    depth: Multiple depth layers with different periods occupying foreground, middle ground, and background simultaneously
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

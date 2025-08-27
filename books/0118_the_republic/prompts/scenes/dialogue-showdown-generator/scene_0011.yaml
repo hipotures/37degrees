@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Trasymach Explodes Into the Scene - The Beast Unleashed"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+      clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+      position: "bursting through doorway with violent energy"
+      action: "gesticulating wildly while denouncing previous arguments as childish nonsense, voice booming with authority"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "turning calmly from defeated opponent toward new threat"
+      action: "maintaining composed demeanor while assessing this more dangerous philosophical adversary"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Trasymach's dramatic entrance disrupting civilized atmosphere like wild animal in domestic space, his rich robes contrasting with simple furnishings, wine cups rattling from his forceful movements"
+    background: "other guests recoiling from sudden violent energy, symposium civility shattered by aggressive intrusion"
+    atmosphere: "civilized philosophical discussion exploding into intellectual warfare as cynical realism confronts idealistic inquiry"
+  composition:
+    cameraAngle: "dynamic shot capturing violent motion and energy disrupting static scene"
+    focus: "overwhelming physical and intellectual presence dominating previously intimate gathering"
+    depth: "explosive entrance in foreground, startled philosopher in middle ground, scattered audience in background"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Magistrate's Court as Temple of False Justice"
+  setting:
+    time: "1563, formal court session"
+    location: "Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority"
+    weather: "Harsh midday light creating stark shadows"
+  characters:
+    - appearance: "Stern magistrate in 50s with cold calculating eyes, rigid posture showing absolute moral certainty"
+      clothing: "Elaborate judicial robes with symbols of royal authority, expensive materials showing corruption of office"
+      position: "Elevated on judge's bench looking down at proceedings with superiority"
+      action: "Pronouncing harsh sentences without mercy, dismissing pleas for compassion as weakness"
+  scene:
+    mainElements: "Courthouse appearing as theater of cruelty where justice serves power rather than truth, formal proceedings masking arbitrary authority"
+    details: "Harsh light creates dramatic shadows emphasizing moral darkness, expensive judicial furnishings suggest corruption, legal documents appear as instruments of oppression rather than justice, accused figures cower in shadow while judge basks in bright light of authority, carved stone details appear menacing rather than noble, royal symbols dominate as reminders of earthly power over divine mercy, no text or letters visible"
+    background: "Stone architecture emphasizing weight of institutional authority crushing individual human dignity"
+    atmosphere: "Cold institutional power corrupting natural human compassion, justice transformed into theater of cruelty, absolute certainty enabling merciless judgment"
+  composition:
+    cameraAngle: "Low angle emphasizing judge's elevated position and authority over vulnerable accused"
+    focus: "Judge's cold expression and powerful gestures, showing absolute certainty enabling cruelty"
+    depth: "Foreground shows cowering accused, middle ground captures commanding judge, background reveals oppressive architecture, no text or letters visible"

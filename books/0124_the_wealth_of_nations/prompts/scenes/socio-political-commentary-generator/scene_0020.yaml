@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Systematic Suppression of Free Trade"
+  setting:
+    time: "1776, harsh enforcement action"
+    location: "Thames River docks in 18th-century London, forest of ship masts and warehouse buildings"
+    weather: "Gray overcast day with oppressive atmosphere"
+  characters:
+    - appearance: "Customs officers and government enforcers in official uniform with brass buttons and tricorn hats"
+      clothing: "Navy blue wool uniforms with brass fittings, white crossbelts, official insignia of customs service"
+      position: "aggressively confronting merchant traders attempting to conduct business"
+      action: "confiscating goods, tearing up trade documents, arresting merchants for attempting free exchange"
+    - appearance: "Merchant traders and ship captains showing distress and frustration"
+      clothing: "Business coats and sea-going attire, showing respectability before harassment"
+      position: "hands raised defensively while officials destroy their livelihood"
+      action: "watching helplessly as goods are confiscated and papers destroyed"
+  scene:
+    mainElements: "Multi-story brick warehouses with hoisting equipment, ocean-going sailing ships anchored in river, smaller barges and lighters transferring cargo, cobblestone wharves lined with barrels and crates"
+    details: "Officials systematically destroy commercial documents and confiscate goods from merchants attempting free trade. Trade materials are piled up and destroyed, representing suppression of natural commercial activity. Merchants appear distressed as their legitimate business is treated as criminal activity"
+    background: "Cacophony of maritime commerce with shouting stevedores, creaking rigging, heavy smells of tar, salt water, exotic spices and colonial goods"
+    atmosphere: "Systematic violence against natural commerce, legitimate trade treated as criminal activity, government force suppressing economic freedom"
+  composition:
+    cameraAngle: "Wide shot showing scope of enforcement action against commerce"
+    focus: "Officials destroying trade documents while merchants watch helplessly"
+    depth: "Confiscated goods and destroyed papers in foreground, enforcement action in middle ground, port commerce disrupted in background"

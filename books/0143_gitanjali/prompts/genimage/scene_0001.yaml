@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1910, early dawn before sunrise
+    location: Muddy bank of river Padma in rural Bengal, British colonial India
+    weather: Cool morning with thick white mist hovering over water surface
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Sitting cross-legged on wet riverbank clay, feet pressed against cool earth
+    action: Hands cupped around bamboo flute feeling its warm smoothness while dew condenses on fingertips
+  scene:
+    mainElements: River mist creating veils between water and sky while protagonist experiences temperature contrast between
+      warm bamboo instrument and cold morning moisture settling on skin creating visible droplets
+    details: Protagonist's bare feet sink slightly into soft riverbank mud, toes feeling earth's coolness seeping through
+      while his palms warm the bamboo flute. Dew forms perfect spheres on fabric of his simple robes, each droplet catching
+      first hints of golden light. Mist touches exposed skin like ghostly fingers, making arm hairs glisten with moisture.
+      The bamboo surface shows wood grain texture as fingers trace its natural ridges. Steam barely visible rises from his
+      warm breath meeting cold air. No text or letters visible.
+    background: Broad Padma river surface disappears into white mist, distant shore invisible, creating sensation of infinite
+      space bounded only by temperature gradients
+    atmosphere: Sacred morning silence where only tactile sensations define reality - cold mist against warm skin, smooth
+      bamboo against calloused hands, soft earth beneath bare feet
+  composition:
+    cameraAngle: Low angle showing protagonist from ground level, emphasizing his connection to earth
+    focus: Close-up on hands holding flute with visible temperature effects - warm palms, cold dew droplets
+    depth: 'Foreground: tactile details of mud, hands, instrument. Middle: protagonist''s contemplative form. Background:
+      dissolving mist boundaries'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

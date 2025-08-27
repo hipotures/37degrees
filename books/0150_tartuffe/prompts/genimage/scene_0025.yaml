@@ -1,0 +1,114 @@
+sceneDescription:
+  setting:
+    time: 1660s France, late morning
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: brilliant sunny morning with golden light flooding through windows celebrating renewal
+  characters:
+  - appearance: wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular
+      face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing
+    clothing: expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath,
+      white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles
+    position: standing in center of room with arms extended in blessing over young couple
+    action: giving paternal blessing to marriage of Mariane and Valère with tears of joy, having learned wisdom through suffering
+  - appearance: delicate young woman aged eighteen, petite slender build, heart-shaped face with large innocent eyes, pale
+      complexion, blonde hair arranged in simple girlish curls with blue silk ribbons
+    clothing: modest but fine pale blue silk dress with higher neckline, white lace collar and cuffs, simple silver cross
+      on ribbon, soft leather shoes, carries small embroidered handkerchief
+    position: standing beside her beloved with face radiant with happiness
+    action: holding Valère's hand while receiving father's blessing, tears of joy replacing earlier tears of despair
+  - appearance: handsome young gentleman aged twenty-two, elegant bearing with fashionable dress, intelligent face now glowing
+      with joy and relief
+    clothing: well-tailored indigo silk justaucorps with gold buttons, cream silk waistcoat, pristine white linen shirt with
+      lace cravat, matching breeches, white silk stockings, polished shoes with jeweled buckles
+    position: standing beside Mariane with protective arm around her waist
+    action: accepting Orgon's blessing with gratitude while promising to cherish and protect his daughter
+  - appearance: elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive
+      dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments
+    clothing: fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with
+      silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan
+    position: standing with stepson Damis who has returned home forgiven
+    action: smiling with relief and joy as family harmony is restored, fan folded peacefully as threats have passed
+  - appearance: impetuous young man aged twenty, athletic build, angular face with strong jaw, thick dark hair under fashionable
+      shorter periwig, eyes that flash with anger or indignation
+    clothing: fashionable burgundy velvet justaucorps worn with youthful casualness, white linen shirt partially unlaced,
+      buff-colored leather sword belt with ornate rapier, riding boots instead of court shoes
+    position: standing beside stepmother with hand no longer on sword hilt
+    action: accepting father's forgiveness with manly embrace while promise to control his impulsive nature
+  - appearance: distinguished gentleman in his late forties, tall lean build, thoughtful oval face with intelligent eyes,
+      neatly groomed appearance, wearing fashionable auburn periwig with careful curls
+    clothing: well-tailored steel blue silk justaucorps with silver embroidery, ivory silk waistcoat, white linen shirt with
+      fine lace cravat, matching silk breeches, white silk stockings, polished shoes with decorative buckles
+    position: standing apart slightly with expression of philosophical satisfaction
+    action: observing family reunion with quiet pleasure as voice of reason finally vindicated by events
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, furniture
+      restored to proper arrangement symbolizing return of domestic order
+    details: golden morning light streaming through windows like benediction on restored family, religious artifacts returned
+      to proper modest prominence, expensive furnishings once again serving happiness instead of deception
+    background: doorways no longer threatening but welcoming, family portraits smiling down on vindicated descendants, flowers
+      arranged fresh and beautiful symbolizing renewal
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord replaced by joy, forgiveness, wisdom gained through
+      suffering, and hope for future built on truth rather than deception
+  composition:
+    cameraAngle: celebratory wide shot encompassing entire restored family in harmonious arrangement
+    focus: Orgon's transformation from fanatic to wise father blessing true love while family gathers in joy around him
+    depth: foreground showing young love triumphant, middle ground revealing family harmony restored, background suggesting
+      bright future built on wisdom earned through trial
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

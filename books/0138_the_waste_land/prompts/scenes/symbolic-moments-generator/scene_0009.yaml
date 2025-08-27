@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Book in Library and Flames"
+  setting:
+    time: "1922, day and night simultaneously"
+    location: "Split scene showing both grand library and street fire, representing dual contexts of knowledge"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Single leather-bound book exists in two places at once - pristinely shelved in elegant library on left, burning in street fire on right"
+    details: "In the library setting, the book stands perfectly preserved among countless volumes, its leather binding rich brown, gold lettering crisp and readable, spine uncracked and pages pristine white, representing preserved knowledge and culture. Simultaneously, the identical book burns in a street fire among debris, its pages curling and blackening, words disappearing in smoke and flame, binding cracking from heat, representing the destruction of civilization and learning. Both versions are equally real and present."
+    background: "Left side shows mahogany shelves extending upward filled with volumes, reading lamp casting warm light; right side shows urban street with rubble and smoke rising against dark sky"
+    atmosphere: "Profound meditation on the dual nature of knowledge - its potential for preservation and its vulnerability to destruction, tension between civilization and chaos, no text or letters visible"
+  composition:
+    cameraAngle: "Split screen composition with sharp vertical division down center"
+    focus: "The same book existing in preservation and destruction simultaneously"
+    depth: "Book in both states occupying foreground, library shelves and street debris extending into respective backgrounds"

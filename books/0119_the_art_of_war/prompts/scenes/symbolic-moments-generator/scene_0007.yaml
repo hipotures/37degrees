@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chains Reforged as Bonds of Unity"
+  setting:
+    time: "506 BCE, midday sun at maximum intensity"
+    location: "Blacksmith forge area within Wu military camp, temporary but well-equipped workshop for equipment maintenance"
+    weather: "Clear hot day with intense sun beating down on forge flames"
+  characters:
+    - appearance: "Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes with determined expression, graying hair at temples"
+      clothing: "Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt, wears small jade pendant indicating court rank"
+      position: "Standing beside forge watching metalwork transformation process"
+      action: "Observing as broken chain links are heated and reformed into connecting elements for military equipment"
+  scene:
+    mainElements: "Iron chain links glow red-hot in forge fire, being reshaped by hammer blows into connecting rings for armor and harnesses, transformation from symbols of bondage into tools of protection and unity"
+    details: "Broken iron shackles now heated to glowing orange in coal forge, blacksmith's hammer reshaping individual links into useful military hardware - bridle rings, armor connections, tent anchoring points. Small jade pendant indicating court rank catches forge light, creating connection between refined court life and practical military necessity. Bellows worker maintains intense heat, sparks flying with each hammer strike"
+    background: "Military blacksmith's temporary workshop with anvil, coal forge, water quenching tub, various iron tools hanging from wooden frame, tent walls providing shelter"
+    atmosphere: "Intense heat and purposeful activity, rhythm of hammer strikes on hot metal, hissing of quenched iron, smoky air filled with sparks, transformation of painful past into useful future, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Medium angle focusing on forge work while showing advisor's contemplative observation"
+    focus: "Glowing chain links being hammered into new shapes, capturing moment of transformation"
+    depth: "Foreground emphasizes hot metalwork and flying sparks, middle ground shows advisor witnessing change, background reveals busy military workshop environment"

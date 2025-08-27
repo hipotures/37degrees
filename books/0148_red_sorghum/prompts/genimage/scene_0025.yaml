@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1970s autumn, late afternoon
+    location: Family cemetery hill overlooking transformed sorghum fields, Northeast Gaomi District
+    weather: Golden autumn afternoon with nostalgic lighting
+  characters:
+  - appearance: Adult narrator, middle-aged man visiting family graves, face showing mixture of memory and loss
+    clothing: Modern 1970s clothing contrasting with traditional rural setting
+    position: Standing before family graves on small hillock
+    action: Remembering childhood sensory memories while observing changed landscape
+  scene:
+    mainElements: Small hillock cemetery overlooking fields transformed from wild red sorghum to ordered green hybrid crops
+    details: Gentle breeze carrying mixed scents from modern agricultural fields, sunlight creating golden nostalgic glow
+      suggesting warmth of memory, distant sound of modern farming equipment suggesting changed world, clothing fabric moving
+      in wind suggesting touch connection to past, traditional grave markers contrasting with modern field management, old
+      red sorghum memories overlaying current green hybrid reality, sensory memory more vivid than current perception, nostalgic
+      atmosphere combining all remembered sensory elements into single overwhelming memory experience, complete sensory memory
+      triggered by returning to ancestral place, no text or letters visible
+    background: Transformed landscape with ordered rows of hybrid green sorghum replacing wild red varieties, modern agricultural
+      management visible
+    atmosphere: Complete sensory memory synthesis triggered by landscape return, past and present sensory experiences layered
+      together, nostalgic recognition of lost sensory world, memory as ultimate synesthetic experience combining all senses
+      across time
+  composition:
+    cameraAngle: Wide contemplative shot emphasizing landscape transformation and memory
+    focus: Contemplating figure with contrasting past and present landscape elements
+    depth: Foreground shows cemetery and remembering figure, middle ground reveals transformed fields, background suggests
+      changed world extending to horizon
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

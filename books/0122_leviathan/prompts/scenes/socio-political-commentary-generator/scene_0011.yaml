@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Human Cogs - Workers as Machine Parts"
+  setting:
+    time: "1651, industrial work hour morning"
+    location: "Royal armory or large-scale manufacturing workshop, London, showing mechanized labor"
+    weather: "Interior workshop with smoky artificial lighting"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Large workshop where individual workers perform identical repetitive tasks with machine-like precision, their movements synchronized like clockwork, faces showing mechanical concentration rather than human expression"
+    details: "Workers operating in perfect rhythm, each performing identical motions, wearing similar leather aprons and work clothes, tools and materials arranged with geometric precision. Clumsy smoke-belching firearms being manufactured in assembly-line fashion. Simple clay pipes visible but unused during work hours."
+    background: "Industrial workshop interior with heavy wooden beams, organized tool racks, supervisor positions monitoring productivity, windows providing minimal natural light"
+    atmosphere: "Dehumanization of labor through mechanization, rhythmic sounds of synchronized work, loss of individual identity in collective productivity"
+  composition:
+    cameraAngle: "High angle showing the geometric patterns formed by synchronized workers"
+    focus: "The transformation of humans into mechanical components of production"
+    depth: "Foreground shows detailed individual worker motions, middle reveals the overall geometric work pattern, background displays supervisory control"

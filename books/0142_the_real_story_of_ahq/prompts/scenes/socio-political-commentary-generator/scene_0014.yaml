@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Choreography of Servitude"
+  setting:
+    time: "1911, afternoon"
+    location: "Main street of Weizhuang village during official procession"
+    weather: "Clear day with strong sunlight creating stark shadows"
+  characters:
+    - appearance: "Entire village population arranged in formation, men, women, and children in separate groups"
+      clothing: "Best available clothes, cleaned and pressed for the occasion, but still showing their humble station"
+      position: "Kneeling in precise rows along street, maintaining perfect spacing and alignment"
+      action: "Performing synchronized bowing motions toward passing official, movements coordinated like choreographed dance"
+    - appearance: "Government official in palanquin"
+      clothing: "Elaborate official robes with rank insignia"
+      position: "Seated in elevated sedan chair carried by bearers"
+      action: "Acknowledging the homage with barely perceptible nod while maintaining expression of bored superiority"
+  scene:
+    mainElements: "Entire street transformed into theater of subservience. Villagers arranged in geometric patterns, creating visual spectacle of mass submission. Decorative banners and official symbols creating imperial atmosphere"
+    details: "Every villager knows their exact position and role, children coached to bow at precise angle, elderly supported to maintain required posture. The choreography is perfect, suggesting extensive rehearsal"
+    background: "Buildings decorated with imperial symbols, guards positioned at intervals, official entourage following prescribed ceremonial order"
+    atmosphere: "Human dignity sacrificed to create spectacle of power. The elaborate nature of the ceremony reveals how much energy society devotes to maintaining artificial hierarchy. Individual worth measured only by submission to authority"
+  composition:
+    cameraAngle: "Elevated view showing the full scope of organized submission"
+    focus: "The geometric patterns formed by kneeling villagers creating visual metaphor for social organization"
+    depth: "Foreground captures individual faces showing strain of maintaining position, middle ground reveals the patterns of mass submission, background shows the elevated official receiving homage"

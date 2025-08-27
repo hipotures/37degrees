@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Bharata's Anguish - Brother's Shoulders of Grief"
+  setting:
+    time: "Treta Yuga ancient era, somber afternoon after discovering exile truth"
+    location: "Mountain Chitrakuta where exiled princes have established forest dwelling, rocky terrain with hermitage overlooking valleys"
+    weather: "Overcast sky reflecting emotional weight of family reunion"
+  characters:
+    - appearance: "Young prince younger than Rama, noble features similar to his royal brothers, face gaunt and marked by sadness and guilt from living like hermit"
+      clothing: "Simple tree bark clothing as ascetic during fourteen-year self-imposed exile from palace"
+      position: "Seated in frame from behind, shoulders visible showing burden of guilt"
+      action: "Pleading with brother to return to throne, shoulders slumped with grief and guilt"
+    - appearance: "Tall athletic man in his twenties, broad chest and long muscular arms reaching to his knees, noble facial features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like rain clouds or blue lotus"
+      clothing: "Simple rough tree bark garments (valkala), hair in ascetic's knot (jata) on top of head"
+      position: "Visible in background facing Bharata with compassionate but firm expression"
+      action: "Refusing to break father's word despite Bharata's desperate pleas"
+  scene:
+    mainElements: "Over-the-shoulder shot from behind Bharata looking toward Rama, showing the emotional distance between brothers despite physical proximity. Bharata's shoulders showing burden of guilt and grief, Rama visible in background maintaining dignified but sorrowful refusal"
+    details: "Bharata's ascetic clothing showing his self-imposed penance, thin frame from hermit lifestyle, shoulders conveying emotional weight of family tragedy, simple forest hermitage showing their exile conditions, other followers and courtiers visible in background witnessing this painful family reunion"
+    background: "Mountain landscape of Chitrakuta with hermitage buildings, forest setting of exile, courtiers and followers maintaining respectful distance during brothers' emotional meeting"
+    atmosphere: "Heavy emotional weight of family duty versus love, tragic irony of righteous brothers separated by dharmic obligations, sorrowful but dignified tone of honor over happiness"
+  composition:
+    cameraAngle: "Over-the-shoulder shot from behind Bharata toward Rama"
+    focus: "Rama in middle distance with clear expression, Bharata's shoulders in foreground"
+    depth: "Bharata's shoulders in foreground, Rama's figure in middle ground, mountain hermitage setting in background, no text or letters visible"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, afternoon several weeks after violence
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Oppressive heat continuing, stifling indoor atmosphere
+  characters:
+  - appearance: Man middle-aged, professional bearing and gentle demeanor
+    clothing: Dark professional suit appropriate for medical authority figure
+    position: Approaching disturbed woman with careful, non-threatening manner
+    action: Speaking in calm, professional tones to establish trust with mentally fragile patient
+  - appearance: Woman middle-aged, stern professional appearance
+    clothing: Simple, tailored medical uniform suggesting institutional authority
+    position: Standing ready to assist if patient becomes difficult
+    action: Observing patient's behavior while prepared for potential resistance
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Elegant but inexpensive clothing attempting to maintain facade of refinement
+    position: Sitting rigidly, attempting to maintain dignity despite mental crisis
+    action: Responding to professional kindness with fragile trust and desperate hope
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Medical professionals bringing institutional authority to chaotic domestic space. Woman's brief moment of clarity
+      and hope in response to professional kindness. Contrast between gentle medical approach and previous masculine brutality.
+      Family watching with mixed relief and guilt. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Professional intervention providing brief respite from family chaos. Fragile moment of human dignity being
+      restored through gentle treatment. Hope for healing despite extensive psychological damage
+  composition:
+    cameraAngle: Medium shot showing professional intervention in domestic chaos
+    focus: Gentle medical authority offering dignity to damaged woman
+    depth: 'Foreground: professional figures offering help; middle ground: fragile patient responding; background: family
+      guilt and relief'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

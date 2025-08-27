@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Guermantes Salon - Belle Époque Glory to Post-War Emptiness"
+  setting:
+    time: "1900 evening gala overlaid with 1920 afternoon abandonment"
+    location: "Aristocratic salon in Hôtel de Guermantes, Faubourg Saint-Germain district Paris"
+    weather: "Clear evening in past becoming overcast afternoon in present"
+  characters:
+    - appearance: "Duchess Oriane de Guermantes: tall, statuesque blonde at age 35 overlapped with same woman aged 55, azure eyes dimmed"
+      clothing: "1900: dazzling white ball gown with diadem and pearl necklace, 1920: simple black day dress and widow's weeds"
+      position: "Same position by marble fireplace, once receiving admirers, now standing alone in shadows"
+      action: "Past self gracefully gesturing with fan while entertaining guests, present self touching faded photograph on mantelpiece"
+  scene:
+    mainElements: "Opulent salon showing aristocratic decline. Louis XIV furniture remains but silk wall coverings have faded. Crystal chandeliers hang dark, some bulbs missing. Priceless paintings still present but frames showing wear."
+    details: "Gold leaf peeling from ornate moldings. Persian carpets threadbare in walking paths. Fresh flowers of 1900 replaced by dried arrangements in 1920. Wine stains barely visible on marble surfaces. Dust covers on some furniture."
+    background: "Through tall windows, same courtyard view but with overgrown ivy. Carriages of 1900 replaced by single automobile in 1920. Garden shows neglected topiary returning to natural growth."
+    atmosphere: "Melancholic grandeur where Belle Époque magnificence fades into post-war austerity. Imperial glory humbled by time and war, aristocratic world's twilight made visible, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot from salon entrance showing full temporal transformation"
+    focus: "Duchess as central figure embodying aristocracy's decline from splendor to solitude"
+    depth: "Foreground shows furniture transformation, middle ground captures dual-time duchess figure, background reveals changed courtyard through windows"

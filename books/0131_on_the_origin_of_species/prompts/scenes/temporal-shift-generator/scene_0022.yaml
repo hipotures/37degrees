@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Evening Study Ritual Across Decades"
+  setting:
+    time: "Same evening hour from 1845 to 1880, consistent twilight"
+    location: "Ground floor study room in Down House, Kent countryside residence, with large windows overlooking garden"
+    weather: "Consistent evening twilight with seasonal variations cycling through"
+  characters:
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "At desk in evening lamplight across all time periods"
+      action: "Middle-aged Darwin lighting oil lamp and settling into evening study routine"
+    - appearance: "Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture, completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins"
+      clothing: "Comfortable elderly gentleman's dress: loose black woolen coat, thick gray shawl around shoulders, soft felt hat, heavy walking boots, woolen mittens in cold weather"
+      position: "Same desk position in later decades"
+      action: "Elderly Darwin in same evening ritual, now with gas lighting replacing oil lamps"
+  scene:
+    mainElements: "Massive wooden desk cluttered with papers and specimens, floor-to-ceiling bookshelves filled with scientific volumes, microscope and magnifying glasses, specimen jars and dried plants, leather armchair on wheels, fireplace with family portraits above mantel"
+    details: "Evening study ritual showing technological progression: oil lamp giving way to gas fixture providing same warm light for reading, leather-bound books accumulating on shelves over decades, specimen collection expanding in systematic arrangement, writing implements evolving from quill to steel pen, correspondence files growing thicker, fireplace providing consistent warmth across all time periods, family portraits on mantel showing aging relatives, same evening light through windows connecting all periods, no text or letters visible on book spines or papers"
+    background: "Garden view through windows showing same twilight hour across seasons and years, experimental plots visible in consistent evening light"
+    atmosphere: "Scholarly sanctuary with warm lamplight, scent of old paper and preserved specimens, quiet concentration broken only by garden sounds through windows"
+  composition:
+    cameraAngle: "Medium shot from fireplace showing desk area in evening light"
+    focus: "The consistent evening study ritual across technological and personal changes"
+    depth: "Foreground: lamp and reading materials, middle: Darwin at desk across time, background: garden in consistent twilight"

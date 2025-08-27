@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Religious Wars as Necessary Purification"
+  setting:
+    time: "1572, day of religious violence"
+    location: "Rural France in Aquitaine region during 1570s religious conflicts between Catholics and Protestant Huguenots"
+    weather: "Clear bright day suggesting divine approval"
+  characters:
+    - appearance: "Religious leader in commanding robes, face showing righteous determination, eyes bright with holy certainty"
+      clothing: "Elaborate religious vestments or militant Protestant armor, symbols of divine authority prominently displayed"
+      position: "Standing elevated above crowd, arms raised in blessing or command"
+      action: "Blessing the violence as holy work, directing followers toward righteous destruction of heretics"
+  scene:
+    mainElements: "Battlefield appearing as sacred ground where divine will is enacted through human instruments of justice"
+    details: "Bright sunlight suggests divine approval of violent actions, religious banners flutter triumphantly in wind, faces of followers show ecstatic certainty in their righteous cause, burning buildings appear as purifying flames rather than destruction, bodies of enemies seem like necessary sacrifices for greater truth, landscape itself appears blessed by removal of heretical contamination, no text or letters visible"
+    background: "French countryside transformed into sacred battlefield where God's will is enacted through necessary violence"
+    atmosphere: "Ecstatic certainty that violence serves divine purpose, absolute faith enabling merciless action, sense of cosmic battle between absolute good and evil"
+  composition:
+    cameraAngle: "Elevated view from religious leader's perspective, showing divinely ordained authority over necessary violence"
+    focus: "Religious leader as instrument of divine will, surrounded by symbols of holy authority"
+    depth: "Foreground shows religious symbols, middle ground captures commanding leader, background reveals sanctified battlefield, no text or letters visible"

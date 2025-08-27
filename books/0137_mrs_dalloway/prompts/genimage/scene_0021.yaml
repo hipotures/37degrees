@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 1923, evening around 9:00 PM
+    location: Clarissa's Westminster drawing room transformed for party with doors removed
+    weather: Evening light from windows mixing with interior lamps and candles
+  characters:
+  - appearance: Mixed gathering of London society including politicians, aristocrats, intellectuals, all in evening dress
+    clothing: Formal evening wear - men in dark suits or evening dress, women in 1920s evening gowns with period jewelry
+    position: Circulating through opened drawing room space in social clusters
+    action: Collective social behavior - conversation, laughter, drinks, social positioning
+  scene:
+    mainElements: Drawing room with doors removed creating flow between rooms, party guests moving in social formations, Clarissa
+      circulating as hostess
+    details: Through collective party consciousness, room becomes stage for social performance, multiple simultaneous conversations
+      creating layered soundscape, guests evaluating each other's dress and social position, shared awareness of social hierarchy
+      and political connections, collective recognition of Prime Minister's arrival creating ripple of excitement, group psychology
+      of party atmosphere creating temporary community, no text or letters visible
+    background: Elegant party space illuminated by lamps and candles, flowers arranged throughout rooms, sounds of social
+      gathering and background music
+    atmosphere: Collective social energy of London society gathering, shared psychological experience of party atmosphere
+      bringing diverse individuals into temporary unity through social ritual
+  composition:
+    cameraAngle: Moving through party crowd showing collective social behavior and group dynamics
+    focus: Social interactions and group formations revealing collective party consciousness
+    depth: Immediate party conversations in foreground, broader social circulation in middle ground, elegant party space and
+      atmosphere in background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

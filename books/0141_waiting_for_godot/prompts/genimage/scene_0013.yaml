@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Mid-20th century, evening
+    location: Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions.
+      Road surface of packed, dusty earth shows no signs of recent travel.
+    weather: Cool evening air with fading daylight
+  characters:
+  - appearance: Man around 60 years old, powerfully built and well-fed with a commanding, booming voice. Face is ruddy, expressing
+      arrogance and self-satisfaction. Radiates energy and dominance.
+    clothing: Dressed like a wealthy landowner - elegant coat, waistcoat, fashionable hat. Carries a whip as symbol of his
+      power, elegant pipe, and pocket watch.
+    position: Moves with sweeping, dominant gestures, commands the entire space
+    action: Striding confidently across the stage, cracking his whip, eating chicken and drinking wine while forcing Lucky
+      to perform degrading acts
+  scene:
+    mainElements: Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried
+      nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other
+      feature breaking the horizontal emptiness.
+    details: Pozzo enters with theatrical grandeur, backlit by the setting sun which creates dramatic chiaroscuro lighting.
+      Half his face is in shadow while the other half catches the dying light, emphasizing his dual nature as both gentleman
+      and tyrant. He cracks his whip with authority, completely dominating the space that moments before belonged to Vladimir
+      and Estragon.
+    background: The setting sun behind him creates a halo effect that mocks divine authority while casting long shadows across
+      the barren landscape.
+    atmosphere: The stagnant atmosphere is shattered by Pozzo's overwhelming presence and energy, introducing violence and
+      domination into the passive world.
+  composition:
+    cameraAngle: Low-angle shot with dramatic backlighting
+    focus: Pozzo's commanding silhouette against the setting sun
+    depth: 'Foreground: empty ground; Middle ground: Pozzo''s imposing figure; Background: setting sun creating dramatic lighting'
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

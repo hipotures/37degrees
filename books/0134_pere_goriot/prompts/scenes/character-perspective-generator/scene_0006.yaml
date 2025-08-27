@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Boarding House Through Criminal's Eyes"
+  setting:
+    time: "1819, early morning"
+    location: "Vauquer boarding house dining room and garden, seen through calculating predator's gaze"
+    weather: "Misty morning creating perfect atmosphere for secrets"
+  characters:
+    - appearance: "Vautrin"
+      age: "40 years old"  
+      appearance: "Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent gaze that can be 'terrible' and seems to see through people completely"
+      hair: "True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part of his masquerade"
+      clothing: "Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house"
+      posture: "Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder"
+      position: "Standing strategically positioned to observe all residents while appearing casual"
+      action: "Surveying the boarding house inhabitants like chess pieces to be manipulated"
+  scene:
+    mainElements: "Through Vautrin's predatory perspective, the boarding house appears as hunting ground filled with prey and opportunities. Every resident represents potential profit or tool for his schemes. The shabby surroundings provide perfect camouflage for his criminal operations, while the desperate inhabitants offer ideal targets for manipulation."
+    details: "From Vautrin's calculating viewpoint, he sees past every resident's facade - Goriot's weakness for his daughters, Rastignac's burning ambition, Victorine's inheritance potential. The pensionnat's social hierarchy appears as power structure to exploit. His keen criminal intelligence assesses each person's vulnerabilities and potential usefulness."
+    background: "Neglected garden and shabby boarding house interior, but through criminal eyes it appears as perfect base of operations hidden in plain sight"
+    atmosphere: "Charged with predatory intelligence and hidden menace. The air seems to vibrate with unspoken threats and calculated schemes"
+  composition:
+    cameraAngle: "Low angle showing Vautrin's dominating presence and psychological superiority over his environment"
+    focus: "Vautrin's penetrating gaze as he surveys his domain and potential victims with cold calculation"
+    depth: "Vautrin's commanding figure in foreground radiating controlled menace, residents scattered through middle ground appearing as unwitting prey, background shows boarding house as his carefully chosen hunting ground, no text or letters visible"

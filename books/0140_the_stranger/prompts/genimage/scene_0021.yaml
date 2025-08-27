@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: French colonial justice building in Algiers with high-ceilinged formal courtroom packed with spectators
+    weather: Hot afternoon with stifling air in overcrowded courtroom
+  characters:
+  - appearance: Mixed crowd of colonial society - European settlers, local officials, curious onlookers, press representatives
+    clothing: Various period-appropriate clothing showing different social classes and occupations
+    position: Packed tightly in public gallery, craning necks to see proceedings
+    action: Collective attention focused on legal drama, murmuring reactions to testimony
+  scene:
+    mainElements: Crowded courtroom from collective perspective showing trial as public entertainment, shared experience of
+      colonial justice system, multiple viewpoints merging into group consciousness
+    details: Gallery packed with spectators treating trial as dramatic performance, fans waving in stifling heat, collective
+      gasps and murmurs at key testimony, press representatives taking notes, social elite attending as entertainment. Shared
+      experience of legal theater.
+    background: Formal courtroom architecture hosting public spectacle, afternoon heat creating uncomfortable conditions for
+      mass audience
+    atmosphere: Trial as collective social ritual where community gathers to witness justice performance, shared participation
+      in colonial legal drama
+  composition:
+    cameraAngle: Wide shot from within crowd showing collective viewing experience of trial
+    focus: Shared attention of crowd focused on legal proceedings as community event
+    depth: Foreground shows packed spectators in gallery, middle ground shows legal proceedings as performance, background
+      shows formal courtroom architecture, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1960s, late night
+    location: Interior of narrator's house during private conversation, multiple viewing angles
+    weather: Still night air, cool pre-dawn temperature
+  characters:
+  - appearance: Handsome Sudanese man around fifty years old, noble broad forehead, wide-set eyebrows forming crescents over
+      eyes, sharply defined nose with hair growing from nostrils, thick graying hair, head in perfect proportion to neck and
+      shoulders
+    clothing: Simple farmer's djellaba in earth tones
+    position: Seated facing narrator in intimate conversation setting
+    action: Speaking in measured tones while revealing personal history
+  - appearance: Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven
+      face showing traces of internal struggle
+    clothing: Simple nightclothes, djellaba loosened for comfort
+    position: Seated listening intently, leaning forward with growing fascination
+    action: Absorbing shocking revelations with mixture of horror and recognition
+  scene:
+    mainElements: Two men seated close together, single oil lamp between them, simple room furnishings, shadows cast by flame
+    details: Scene viewed from multiple angles reveals different aspects - from behind narrator shows his rigid posture as
+      he absorbs shocking story, from side angle shows both faces illuminated by flickering flame creating dramatic contrasts,
+      from above shows their intimate positioning suggesting confession and corrupted mentorship, from corner shows how isolated
+      they are in sleeping household, no text or letters visible
+    background: Simple clay walls, doorway to family courtyard, window showing star-filled night sky
+    atmosphere: Neutral documentation of pivotal conversation moment showing physical positioning and environmental factors
+      without emotional interpretation, two men engaged in intense private communication during silent night hours
+  composition:
+    cameraAngle: Multiple viewing angles showing same conversation from different perspectives
+    focus: Various angles revealing different aspects of the same intimate confession scene
+    depth: Different foreground elements depending on angle - sometimes narrator, sometimes Mustafa, sometimes oil lamp, consistent
+      background of simple room, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

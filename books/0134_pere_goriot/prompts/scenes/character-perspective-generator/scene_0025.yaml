@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Paris at Dusk: Universal Challenge Transcending Individual Perspective"
+  setting:
+    time: "1820, February evening at dusk"
+    location: "Père-Lachaise Cemetery highest point with panoramic view over Paris"
+    weather: "Clear winter evening with city lights beginning to twinkle as darkness approaches"
+  characters:
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Standing alone at cemetery's highest point, silhouetted against evening sky"
+      action: "Issuing his famous challenge to Paris while representing universal human ambition confronting eternal city"
+  scene:
+    mainElements: "Universal moment transcending individual perspective - eternal confrontation between human ambition and urban civilization. Paris appears as timeless challenge that has faced countless ambitious youth across generations, while Rastignac represents archetypal young man daring to challenge overwhelming odds."
+    details: "Scene achieves universality by showing elements that transcend specific time and character - city lights twinkling like stars suggesting eternal human dreams, cemetery representing universal mortality, young figure representing eternal youth challenging overwhelming but conquerable obstacles."
+    background: "Expansive view of entire city creating sense of infinite possibility and infinite danger that speaks to universal human experience"
+    atmosphere: "Moment of pure human determination facing eternal challenges that transcend individual circumstances, touching universal themes of ambition, mortality, and the eternal struggle between individual will and social force"
+  composition:
+    cameraAngle: "Epic wide shot capturing both individual human figure and vast cityscape, emphasizing universal scale of confrontation"
+    focus: "Balance between individual human determination and eternal urban challenge, creating moment that transcends specific story to touch universal themes"
+    depth: "Single human figure in foreground representing universal ambition, vast city in middle ground representing eternal challenge, infinite sky in background suggesting limitless possibilities and ultimate mortality, no text or letters visible"

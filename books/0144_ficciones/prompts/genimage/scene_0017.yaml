@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Eternal noon in landscape of pure reason
+    location: Vast desert where sand grains are geometric crystals and dunes follow mathematical patterns
+    weather: Blazing sun that illuminates without warmth, light of pure logic
+  characters:
+  - appearance: Tall imposing figure matching Lönnrot in height, dark mirror image of the detective, intense eyes burning
+      with hatred and cunning intelligence, possibly reddish hair suggesting his name
+    clothing: Well-tailored gangster suit with red accent (tie, pocket square, or lapel pin), expensive but menacing appearance,
+      dark colors with single red element
+    position: Standing on crystalline dune, arms spread wide in gesture of triumph
+    action: Surveying perfect geometric landscape of his creation, trap made manifest as beautiful mathematical reality
+  scene:
+    mainElements: Desert composed entirely of perfect geometric crystals instead of sand, each grain a tiny prism reflecting
+      light in calculated patterns, dunes arranged in mathematical spirals and golden ratios, landscape of pure logic made
+      physical, every surface reflecting light according to optical laws
+    details: Desert transforms from natural formation into manifestation of mathematical thought, crystalline sand creating
+      rainbow prismatic effects as light refracts through millions of geometric shapes. Beauty of perfect logic becomes hostile
+      environment where human emotion cannot survive. Geometric patterns hypnotize while threatening to trap viewer in crystal
+      maze
+    background: Infinite crystalline desert stretching to horizon, geometric mountains in distance following fractal patterns,
+      sky like polished mirror reflecting mathematical perfection, no organic life visible
+    atmosphere: Cold beauty of pure logic, prismatic light creating spectacular but inhuman display, silence of space where
+      emotion has been calculated away, triumph of reason over human warmth, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing figure against vast geometric landscape
+    focus: The crystalline desert dunes arranged in perfect mathematical patterns
+    depth: Prismatic sand in foreground, triumphant figure in middle ground, infinite geometric landscape extending to background
+      horizon
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

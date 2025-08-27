@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1911, midday
+    location: Border between wealthy compound district and poor workers' housing in Weizhuang village
+    weather: Harsh sunlight creating stark contrast between areas
+  characters:
+  - appearance: Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet
+      with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing
+    clothing: Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean,
+      well-tailored garments in subdued colors befitting scholarly-official class
+    position: Standing inside ornate compound gate, looking out with disdain
+    action: Surveying the poor district with expression of disgust and superiority
+  - appearance: Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin
+      queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny
+      ringworm scars on scalp that turn scarlet red when angry or humiliated
+    clothing: Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven
+      cloth typical of rural laborers
+    position: Standing in doorway of dilapidated hovel across the invisible boundary
+    action: Staring longingly at the wealth beyond his reach, hands clenched in frustration
+  scene:
+    mainElements: Dramatic visual division between two worlds - elegant compound with gardens and decorative elements on one
+      side, ramshackle hovels with cracked walls and makeshift repairs on the other
+    details: 'High brick walls topped with tiles separate the realms. On wealthy side: ornamental plants, painted woodwork,
+      stone lions. On poor side: patched walls, hanging laundry, muddy ground, scavenging animals'
+    background: The dividing line extends into distance, showing this is systematic segregation, not accident of geography
+    atmosphere: Geographic embodiment of social inequality. The proximity makes the inequality more cruel - the poor can see
+      what they can never have. The wall is both physical and metaphysical barrier
+  composition:
+    cameraAngle: Wide shot capturing both worlds in single frame to emphasize the stark divide
+    focus: The invisible but absolute boundary line between wealth and poverty, with representatives of each class on their
+      respective sides
+    depth: Foreground shows the poor district and its inhabitant, middle ground captures the dividing barrier, background
+      reveals the wealthy compound and its master
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

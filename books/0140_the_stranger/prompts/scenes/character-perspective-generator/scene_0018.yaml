@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Behind-the-Scenes View of Trial Preparation"
+  setting:
+    time: "1940, morning"
+    location: "Lawyers' preparation room adjacent to French colonial courthouse"
+    weather: "Bright morning with natural light through windows"
+  characters:
+    - appearance: "Niski, pulchny, dość młody, z włosami zaczesanymi do tyłu... w ciemnym garniturze"
+      clothing: "Ciemny garnitur, ze stójką i dziwacznym, pasiastym krawatem"
+      position: "Seated at desk reviewing papers"
+      action: "Preparing legal strategy while expressing frustration about client's unhelpful attitude"
+  scene:
+    mainElements: "Legal preparation room showing actual work of constructing trial narrative, papers scattered with case notes, lawyer's genuine frustration with uncooperative defendant"
+    details: "Case files revealing systematic approach to building defense, lawyer's notes showing attempts to create sympathetic narrative from difficult facts, coffee cups and cigarette ash showing long hours of preparation. Window showing courthouse where performance will occur."
+    background: "Professional legal environment with law books, filing cabinets, typewriter for preparing documents, sounds of courthouse business beginning"
+    atmosphere: "Behind-the-scenes reality of legal system as professional theater requiring preparation and performance, showing gap between legal process and truth"
+  composition:
+    cameraAngle: "Objective view from side showing lawyer's preparation work and frustration"
+    focus: "Lawyer's actual working process and genuine professional concerns about difficult case"
+    depth: "Foreground shows scattered case documents and preparation materials, middle ground shows lawyer's working posture, background shows courthouse window and legal environment, no text or letters visible"

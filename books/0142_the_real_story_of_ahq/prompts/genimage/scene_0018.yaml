@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1911, night
+    location: Hidden corner behind village temple where secret meeting occurs
+    weather: Dark night with minimal moonlight, creating secretive atmosphere
+  characters:
+  - appearance: Young village rebel with determined expression
+    clothing: Dark clothing to blend with shadows
+    position: Crouched by temple wall, brush in hand
+    action: Painting forbidden revolutionary symbol on wall while constantly glancing over shoulder for guards
+  - appearance: Lookout figure barely visible in shadows
+    clothing: Black clothing, nearly invisible
+    position: Hidden near corner, watching for authorities
+    action: Keeping watch while partner completes dangerous act of defiance
+  scene:
+    mainElements: Ancient temple wall serving as canvas for forbidden political symbol. Revolutionary character partially
+      painted, brush strokes visible in wet paint. Temple architecture providing cover for clandestine activity
+    details: Revolutionary symbol painted in white paint against dark stone wall, dripping slightly as paint is still wet.
+      Brush and paint pot hidden in shadows. Ancient religious carvings on temple wall creating ironic contrast
+    background: Temple courtyard empty and dark, traditional architecture casting deep shadows. Distant village lights suggesting
+      normal life continuing while rebellion is planned
+    atmosphere: Dangerous courage in face of oppression. Small acts of defiance that risk everything. Hope struggling against
+      despair, individual conscience asserting itself against collective submission
+  composition:
+    cameraAngle: Close-up showing both the rebellious act and the fear of discovery
+    focus: The forbidden symbol being painted as act of resistance against authority
+    depth: Foreground captures the detail of forbidden symbol taking shape, middle ground shows the rebel risking everything,
+      background reveals the dangerous context where discovery means death
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: June 1923, early afternoon around 1:00 PM
+    location: Large public park in central London with carefully arranged nature
+    weather: Bright sunny afternoon appearing supernatural and threatening through psychosis
+  characters:
+  - appearance: 30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear
+      that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame
+    clothing: Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male
+      characters, clothing reflecting his psychological isolation
+    position: Sitting rigidly on park bench, staring at trees and sky
+    action: Speaking to invisible Evans, seeing trees as conscious beings communicating secret messages
+  scene:
+    mainElements: Large public park in central London with wide tree-lined avenues, geometrically arranged flower beds, fountains,
+      nature carefully arranged by human design
+    details: Through Septimus's psychotic perception, trees become living conscious entities with faces in bark, leaves whispering
+      secrets in unknown language, flowers blazing with supernatural colors, Evans's ghost materializing among branches, birds
+      carrying messages from dead, shadows forming prophetic patterns, fountains speaking in tongues, park benches becoming
+      thrones of judgment, no text or letters visible
+    background: Neatly trimmed lawns transforming into mystical carpet, colorful flower displays becoming magical symbols,
+      old spreading trees housing spirits of war dead
+    atmosphere: Peaceful meditative pastoral setting transformed into supernatural revelation space, nature appearing as living
+      conscious force trying to communicate divine truths, psychological filter of schizophrenia making reality prophetic
+      and terrifying
+  composition:
+    cameraAngle: From Septimus's seated position, trees towering overhead like ancient gods
+    focus: Tree faces and supernatural manifestations visible only to him, reality distorted by hallucination
+    depth: Immediate foreground shows his hands clutching bench, middle ground captures talking trees, background dissolves
+      into mystical landscape
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Montaigne's Tower as Sanctuary of Solitude"
+  setting:
+    time: "1571, late afternoon"
+    location: "Round stone tower at family castle in Aquitaine region of France, countryside on border between Périgord and Bordelais"
+    weather: "Golden autumn light filtering through tower windows"
+  characters:
+    - appearance: "Man in his 40s-50s with intelligent, contemplative eyes, high slightly receding forehead, carefully trimmed beard and mustache, calm expression showing depth of thought and observer's distance"
+      clothing: "French nobleman's attire - fitted doublet with triangular breastplate cutout, puffy short breeches (pludry), silk stockings, stiff ruff collar around neck, golden chain of Order of Saint Michael across chest"
+      position: "Standing at tower window gazing outward at landscape"
+      action: "Thoughtful poses - hand supporting chin while contemplating, walking slowly with hands clasped behind back, seated at writing desk with quill pen, gazing through tower window with distant perspective"
+  scene:
+    mainElements: "Sacred space of knowledge, overwhelming richness of intellectual tradition, silent except for rustling pages. Top floor circular room with walls completely covered with bookshelves containing over thousand volumes of Greek and Latin classics"
+    details: "Warm golden light cascades through stone windows onto worn wooden floors, leather-bound volumes create organic texture on walls, scattered papers with handwritten notes cover writing desk, goose quill pen rests beside ceramic inkwell, philosophical atmosphere of refuge from chaotic world. 57 Latin and Greek philosophical sentences carved into oak ceiling beams of library, including famous 'Que sais-je?' (What do I know?), quotations from Bible, Horace, Lucretius, Seneka, no text or letters visible"
+    background: "Stone walls of medieval tower, French countryside visible through windows, shelves extending upward creating sense of infinite knowledge"
+    atmosphere: "Peaceful sanctuary where thought becomes sacred, intellectual refuge from violent religious wars outside, contemplative solitude embracing the thinker like protective embrace"
+  composition:
+    cameraAngle: "Slightly elevated view from within library looking toward window"
+    focus: "Montaigne's silhouette against afternoon light, creating sense of philosophical contemplation"
+    depth: "Foreground shows books and writing materials, middle ground captures the thinker, background reveals expansive countryside through tower window, no text or letters visible"

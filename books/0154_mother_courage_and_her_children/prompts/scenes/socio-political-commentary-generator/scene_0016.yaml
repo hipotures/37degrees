@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Indoctrination Session - Mass Ideology Training"
+  setting:
+    time: "1633 spring, systematic ideological indoctrination at full operation"
+    location: "Large assembly hall or outdoor gathering area for mass ideological training"
+    weather: "Controlled environment designed to focus attention on ideological messaging"
+  characters:
+    - appearance: "Protestant pastor of mature age, face initially expressing piety later showing fear and resignation"
+      clothing: "Initially black clerical robes giving him authority and distinction, later simple worn civilian clothing of a woodcutter"
+      position: "Standing in positions of religious authority or later doing manual labor"
+      action: "Initially preaching and providing spiritual guidance, later chopping wood and adapting to brutal wartime realities"
+    - appearance: "Mass of soldiers and civilians receiving ideological instruction"
+      clothing: "Mixed military and civilian clothes showing diverse population under single ideological system"
+      position: "Seated or standing in organized rows receiving systematic indoctrination"
+      action: "Listening passively to ideological instruction, absorbing propaganda without critical thought, accepting official interpretation of reality"
+  scene:
+    mainElements: "Large gathering space designed for mass ideological instruction and propaganda dissemination"
+    details: "Religious or political speakers delivering official ideology to mass audience, propaganda materials displayed prominently, audience trained to accept information without questioning, critical thinking discouraged through group pressure"
+    background: "Institutional system for controlling population thoughts and beliefs through systematic propaganda"
+    atmosphere: "Mass indoctrination disguised as education or religion, individual critical thinking suppressed through group pressure and authority"
+  composition:
+    cameraAngle: "Wide shot showing mass audience receiving systematic ideological indoctrination"
+    focus: "Systematic control of population thinking through mass propaganda and ideological instruction"
+    depth: "Foreground shows individual audience members, middle ground mass indoctrination, background institutional propaganda system"

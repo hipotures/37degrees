@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Dawn and dusk of same day showing cyclical continuity
+    location: Parisian sidewalk café with morning opening and evening closing
+    weather: Cool morning mist becoming warm evening golden light
+  characters:
+  - appearance: 'Same elderly café proprietor at dawn and dusk: morning showing fresh energy, evening revealing accumulated
+      fatigue'
+    clothing: White apron and cap consistent but showing day's accumulation of stains and wear
+    position: 'Morning: unlocking café doors with energetic movement, evening: cleaning same doors with tired but satisfied
+      gestures'
+    action: 'Dawn: arranging chairs and tables with hopeful precision, dusk: stacking chairs and wiping tables with completion''s
+      satisfaction'
+  scene:
+    mainElements: 'Same café terrace showing daily transformation: empty morning potential becoming evening''s satisfied exhaustion.
+      Tables set becoming tables cleared. Fresh flowers wilting by day''s end.'
+    details: 'Morning: newspapers crisp and folded, coffee cups gleaming clean, ashtrays empty, street freshly swept. Evening:
+      newspapers crumpled and abandoned, cups showing coffee stains, ashtrays full, street littered with day''s debris.'
+    background: 'Same Paris street showing daily rhythm: morning commuters rushing past becoming evening strollers meandering
+      home. Shop windows going from closed to open to closed again.'
+    atmosphere: Daily life's cyclical nature where each day represents complete human rhythm of hope, activity, and rest.
+      Urban routine's comfort and continuity, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from across street showing complete café transformation across daily cycle
+    focus: Café proprietor as embodiment of daily rhythm, consistent human presence through temporal cycle
+    depth: Foreground shows street activity changes, middle ground captures café daily transformation, background reveals
+      neighborhood rhythm
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

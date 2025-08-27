@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Friendship Seen as Dangerous Intellectual Conspiracy"
+  setting:
+    time: "1563, afternoon observation"
+    location: "Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority"
+    weather: "Suspicious atmosphere with observers watching"
+  characters:
+    - appearance: "Two men in magistrate robes engaged in intense private conversation, appearing secretive to observer"
+      clothing: "Formal judicial attire that seems to hide rather than reveal their true intentions"
+      position: "Huddled together in corner of courthouse, speaking in whispers"
+      action: "Exchanging dangerous ideas that threaten established order, plotting intellectual rebellion"
+    - appearance: "Suspicious courtier in elaborate dress, narrowed eyes showing mistrust of intellectual friendship"
+      clothing: "Rich court attire showing loyalty to established power, religious symbols prominently displayed"
+      position: "Watching from distance with growing alarm"
+      action: "Spying on the dangerous friendship, preparing to report subversive activities"
+  scene:
+    mainElements: "Courthouse transformed into den of intellectual conspiracy where friendship enables dangerous thinking"
+    details: "Shadows seem to hide seditious conversation, whispered words appear threatening to social order, legal documents scattered around suggest plots against established authority, architectural details create sense of surveillance and suspicion, formal setting cannot contain dangerous intimacy of philosophical friendship, observer's position emphasizes paranoia about intellectual bonds, no text or letters visible"
+    background: "Formal courthouse architecture appearing to harbor subversive activities threatening religious and political order"
+    atmosphere: "Paranoid suspicion of intellectual intimacy as threat to established certainties, friendship seen as conspiracy against absolute truth"
+  composition:
+    cameraAngle: "Surveillance angle from suspicious observer's position, emphasizing secrecy and threat"
+    focus: "Intimate conversation appearing conspiratorial and threatening to established order"
+    depth: "Foreground shows suspicious observer, middle ground captures 'dangerous' friendship, background reveals formal institutional setting, no text or letters visible"

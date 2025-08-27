@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Rain Washing Over - Catharsis and Cleansing Release"
+  setting:
+    time: "1949, dawn breaking after storm"
+    location: "small yard behind Loman house, surrounded by towering apartment buildings, soil poor and shaded, representing failed dreams of growth and prosperity"
+    weather: "gentle rain falling after violent storm, first light of dawn breaking through clouds"
+  characters:
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "standing in center of yard, face turned upward"
+      action: "letting gentle rain fall on his face, arms relaxed at sides, expression of exhausted peace after emotional storm"
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "standing in doorway between house and yard"
+      action: "watching son with mixture of relief and continued concern, one hand on door frame for support"
+  scene:
+    mainElements: "small patches of bare earth where grass struggles to grow, makeshift garden area, clotheslines, area overshadowed by surrounding buildings, gentle rain creating cleansing atmosphere"
+    details: "Gentle rain washing over everything after violent emotional storm. Fresh morning light beginning to filter between apartment buildings. Ground showing evidence of recent planting attempt. Sense of cleansing and new beginning despite unchanged circumstances."
+    background: "towering apartment buildings softened by morning mist and gentle rain, urban environment still present but less oppressive in dawn light"
+    atmosphere: "enclosed and stifled outdoor space where natural growth is nearly impossible, symbolic of crushed dreams and limited possibilities, but rain and dawn bringing sense of cleansing and possibility of renewal"
+  composition:
+    cameraAngle: "medium shot emphasizing cleansing rain and first light of new day"
+    focus: "figure accepting rain as cleansing force, finding moment of peace after emotional chaos"
+    depth: "foreground shows rain-washed yard and evidence of attempts at growth, middle ground captures figure in moment of cathartic release, background reveals urban environment softened by weather and changing light"

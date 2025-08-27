@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Sorghum Wine Blessing Ceremony"
+  setting:
+    time: "1924 spring, morning"
+    location: "Central courtyard of distillery during wine consecration ceremony, Northeast Gaomi District"
+    weather: "Clear spring morning with gentle warming sunlight"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Standing beside large ceremonial wine vat"
+      action: "Participating in ritual wine blessing, observing golden liquid"
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Standing opposite the ceremonial vat"
+      action: "Observing wine surface patterns and color changes"
+  scene:
+    mainElements: "Large earthenware vessel used for ceremonial wine blessing, sacred ritual combining multiple sensory elements"
+    details: "Golden wine surface reflecting sunlight like liquid mirror, subtle ripples suggesting gentle movement and sound, steam rising from fermented liquid suggesting warmth and complex scents, ceremonial atmosphere visible through careful postures and concentrated expressions, wine color shifting from gold to amber in changing light, ceramic vessel surface showing condensation suggesting temperature, traditional ritual objects creating sacred space, sunlight creating prisms through liquid surface, peaceful concentrated expressions suggesting spiritual connection, no text or letters visible"
+    background: "Fortified distillery courtyard with traditional architecture creating sacred ceremonial space"
+    atmosphere: "Spiritual synthesis combining visual beauty, implied scent, suggested taste, warmth, and ceremonial sound, sacred transformation of agricultural product into spiritual substance, community blessing ritual"
+  composition:
+    cameraAngle: "Medium shot capturing ritual participants and sacred wine vessel"
+    focus: "Golden wine surface and concentrated ceremonial expressions"
+    depth: "Foreground shows wine vessel detail, middle ground includes ritual participants, background provides ceremonial courtyard setting"

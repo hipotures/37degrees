@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Multi-story residential building in European quarter of French colonial Algiers, Algeria
+    weather: Bright morning with harsh sunlight in building entrance
+  characters:
+  - appearance: Young woman aged 20-25 years, tanned Mediterranean complexion, bright eyes, frequently smiling expression
+    clothing: Light summer dress typical of 1930s fashion, reaching mid-calf, or one-piece swimming costume
+    position: Standing with relaxed, natural posture, often in motion or preparing to move
+    action: Laughing genuinely while gesturing with hands, comfortable with physical contact
+  scene:
+    mainElements: Building entrance with Raymond observing Marie leaving Meursault's apartment, harsh morning sunlight creating
+      dramatic shadows, stone steps and hallway
+    details: Marie's carefree laughter echoing in hallway, her obvious comfort with physical intimacy threatening Raymond's
+      masculine alliance with Meursault, morning light revealing her natural beauty and vitality. Building entrance showing
+      contrast between her joy and building's modest surroundings.
+    background: Worn stone steps, other apartment doors, sounds of morning street activity beginning, city awakening to another
+      day
+    atmosphere: Raymond's suspicious observation of Marie's influence over his new ally, morning light creating harsh contrasts
+      between shadow and brightness
+  composition:
+    cameraAngle: Medium shot from Raymond's hidden perspective watching Marie with suspicion
+    focus: Marie's joyful demeanor which Raymond interprets as potential manipulation of Meursault
+    depth: Foreground shows Raymond partially concealed in shadow, middle ground shows Marie in bright morning light, background
+      shows building hallway and entrance, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

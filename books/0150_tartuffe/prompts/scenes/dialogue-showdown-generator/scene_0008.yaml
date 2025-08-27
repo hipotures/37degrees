@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Predator's First Advance - Mask Beginning to Slip"
+  setting:
+    time: "1660s France, afternoon"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "warm afternoon with soft golden light through windows"
+  characters:
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "seated on edge of chair leaning forward toward Elmire, gradually moving closer during conversation"
+      action: "initially speaking with hands clasped in prayer position, then allowing his gaze to linger on her beauty while voice becomes lower and more intimate"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "seated on sofa maintaining proper distance but alert to his advancing behavior"
+      action: "listening politely while using fan to create subtle barrier, eyes showing increasing wariness as his religious talk takes disturbing personal turn"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, comfortable seating arranged for intimate conversation"
+    details: "afternoon sunlight creating warm intimate atmosphere that contrasts ominously with predatory undertones, religious artifacts on walls seeming to mock the corruption of spiritual language for carnal purposes"
+    background: "closed doors suggesting private conversation away from household observers, luxury furnishings creating elegant setting now tainted by manipulation"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, growing sense of danger as spiritual guidance transforms into sexual pursuit"
+  composition:
+    cameraAngle: "medium close shot emphasizing the psychological tension between the two speakers"
+    focus: "Tartuffe's gradually revealed predatory nature contrasted with Elmire's growing awareness of danger beneath religious facade"
+    depth: "foreground showing intimate conversation turning threatening, middle ground revealing luxury that attracts corruption, background suggesting isolation from potential help"

@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, evening
+    location: Radio broadcast station with colonial subjects listening to official programming
+    weather: Interior evening lighting with glowing radio equipment
+  characters:
+  - appearance: Algerian families gathered around radio sets, faces illuminated by equipment glow
+    clothing: Simple home clothing, families in domestic settings
+    position: Sitting close to radio speakers in small groups
+    action: Listening intently to broadcast, absorbing official colonial narrative, nodding along with approved messages
+  - appearance: European radio announcer visible through studio window
+    clothing: Professional broadcaster attire of 1950s
+    position: Behind microphone in broadcast booth
+    action: Reading official colonial news and propaganda to listening audience
+  scene:
+    mainElements: Multiple radio listening groups receiving synchronized colonial messaging, identical programming reaching
+      all households simultaneously
+    details: Radio sets in homes, cafés, and public spaces all tuned to same colonial broadcast, people's expressions reflecting
+      absorption of official narrative, children learning from adult reactions, propaganda messages about French civilization
+      and Algerian gratitude, synchronized timing ensuring uniform message delivery
+    background: Various domestic and public spaces connected by shared colonial broadcast programming
+    atmosphere: Information control reaching into private spaces, minds shaped by coordinated media messaging
+  composition:
+    cameraAngle: Split composition showing broadcast source and multiple listening groups
+    focus: Radio equipment connecting central authority with dispersed colonial subjects
+    depth: Radio sets in foreground, listening groups in middle ground, broadcast studio in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

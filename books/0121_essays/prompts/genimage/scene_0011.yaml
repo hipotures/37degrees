@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1575, afternoon discovery
+    location: Top floor circular room of Montaigne's tower in French countryside castle
+    weather: Warm afternoon light streaming through windows
+  characters:
+  - appearance: Young child of 6-8 years with wide curious eyes, small stature making everything appear enormous
+    clothing: Simple 16th century child's clothing, practical garments for exploring
+    position: Standing in center of circular library, head tilted back to see ceiling
+    action: Spinning slowly while gazing upward at towering walls of books, reaching toward volumes far above head
+  scene:
+    mainElements: Library transformed into magical cave of infinite knowledge where books reach toward heaven like living
+      walls
+    details: Books tower impossibly high from child's perspective, leather bindings appear as dragon scales in afternoon light,
+      carved ceiling beams seem like wooden sky holding up universe of wisdom, scattered papers flutter like magical creatures
+      in warm air currents, adult furniture looms like monuments from ancient civilization, dust motes dance like fairy sprites
+      in sunbeams, writing desk appears as altar for mysterious adult ceremonies, no text or letters visible
+    background: Circular walls creating magical enclosed world where knowledge lives as living presence
+    atmosphere: Sense of wonder and magic, books as living creatures rather than static objects, library as enchanted forest
+      of knowledge awaiting exploration
+  composition:
+    cameraAngle: Low angle from child's eye level, emphasizing enormity and magic of adult intellectual world
+    focus: Child's upward gaze capturing sense of infinite wonder and possibility
+    depth: Foreground shows child's small figure, middle ground captures towering books, background reveals magical ceiling
+      reaching toward sky, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

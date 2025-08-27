@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1910, busy midday market hour
+    location: Village marketplace (haat) under large Banyan tree, rural Bengal, British colonial India
+    weather: Hot afternoon with dust being kicked up by movement
+  characters:
+  - appearance: Various villagers of different ages moving through marketplace in overlapping motion
+    clothing: Traditional Bengali village clothing - dhoti for men, sari for women, in various colors
+    position: Multiple figures creating layers of simultaneous movement throughout marketplace
+    action: Trading, bargaining, moving with animated gestures creating visual cacophony through overlapping motion patterns
+  scene:
+    mainElements: Tętniąca życiem, chaotyczna otwarta przestrzeń often in shadow of great Banyan tree where sound becomes
+      visible through overlapping motion blur, dust clouds from stamping feet, and multiple simultaneous activities creating
+      visual noise
+    details: Market vendors' mouths captured mid-shout with faces showing strain of calling over noise while dust clouds rise
+      from multiple stamping feet creating visible sound disturbance patterns in air. Tethered goats and chickens add motion
+      blur with frightened movements, ears flattened against heads showing acoustic pressure. Pottery towers tremble visibly
+      with each heavy footstep, ceramic surfaces reflecting multiple light sources creating visual confusion. Fabric banners
+      and awnings flap frantically in different rhythms from crowd movement rather than wind. Overlapping hand gestures create
+      blur patterns as multiple bargaining conversations happen simultaneously. Dogs cower under carts with visible stress
+      postures. Spilled grain bounces and scatters with each loud sound impact. People lean forward with mouths open, straining
+      to hear over din. No text or letters visible clearly due to motion.
+    background: Banyan tree's massive trunk and roots creating natural amphitheater that visually contains and amplifies marketplace's
+      chaotic energy
+    atmosphere: Overwhelming sensory chaos where every surface vibrates with sound energy made visible through dust, motion,
+      and animal reactions to acoustic pressure
+  composition:
+    cameraAngle: Dynamic angle showing multiple layers of simultaneous movement and dust disturbance
+    focus: Overlapping motion blur patterns that visualize sound waves and crowd noise through movement
+    depth: 'Foreground: detailed motion blur and dust effects. Middle: multiple animated figures. Background: Banyan tree
+      containing acoustic chaos'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

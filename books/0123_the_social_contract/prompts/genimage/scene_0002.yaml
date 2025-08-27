@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1760s, afternoon
+    location: Public square in Paris displaying state propaganda and monuments to royal glory
+    weather: Bright sunshine illuminating marble monuments and bronze statues
+  characters:
+  - appearance: Person aged 25-60 with smooth powdered face showing haughty or bored expression. Posture is stiff and studied
+      according to court etiquette requirements. Represents corruption of Ancien Régime
+    clothing: Extravagant Rococo-style dress - man in bright silk justaucorps coat, lace shirt, knee-length culottes, silk
+      stockings, powdered wig. Woman in enormous panniers-supported gown with tightly laced corset and elaborate coiffure.
+      Clothing is uncomfortable and restricting but displays status
+    position: Walking in orderly procession through square, maintaining perfect formations
+    action: Moving in synchronized groups, pointing admiringly at royal monuments, displaying choreographed enthusiasm for
+      state symbols
+  scene:
+    mainElements: Towering bronze statue of king on horseback trampling enemies underfoot, marble obelisk inscribed with royal
+      victories, ornate fountains celebrating dynasty
+    details: Fresh flowers arranged in royal symbols, newly painted buildings showing no signs of decay, clean cobblestones
+      without mud or refuse. Everything appears perfectly maintained and harmonious. Banners with royal emblems flutter in
+      gentle breeze
+    background: Uniform architecture of government buildings, symmetrical tree-lined avenues, distant view of palace spires
+    atmosphere: Artificial perfection designed to demonstrate state's benevolent power, theatrical harmony masking underlying
+      tensions, orchestrated display of contentment
+  composition:
+    cameraAngle: High angle revealing the geometric perfection and artificial order of the scene
+    focus: Monumental royal statue dominating the square while citizens perform scripted admiration
+    depth: Foreground shows perfectly groomed citizens, middle ground displays towering monuments, background stretches to
+      palace representing source of power
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

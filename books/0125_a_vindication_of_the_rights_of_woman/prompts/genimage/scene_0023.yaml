@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1792, dramatic lighting emphasizing the strategic nature of social manipulation
+    location: Giant chessboard representing society where women serve as game pieces rather than players
+    weather: Stark lighting that emphasizes the black and white nature of power relationships
+  characters:
+  - appearance: Women dressed as chess pieces - primarily pawns but also queens, bishops representing different feminine roles
+      in male power games
+    clothing: Period dress modified to suggest chess pieces, with women representing different social functions in masculine
+      strategy
+    position: Positioned on chessboard squares according to their social utility rather than personal choice
+    action: Being moved by invisible hands according to strategic logic that serves male interests rather than feminine autonomy
+  - appearance: Suggestion of male chess players through shadows or giant hands moving the pieces
+    clothing: Dark, powerful figures whose authority is shown through their manipulation of the human chess pieces
+    position: Above or beside the chessboard in positions of strategic control
+    action: Moving women across the board as part of larger games involving property, inheritance, political alliance
+  scene:
+    mainElements: Enormous chessboard with women positioned as pieces in games played by male strategists
+    details: Chess notation showing women's movements determined by male strategy. Some women as pawns (expendable), others
+      as queens (powerful but still controlled). Board squares representing different social positions and economic functions
+    background: Strategic environment emphasizing how women's lives are planned and executed according to male logic rather
+      than feminine choice
+    atmosphere: Atmosphere of strategic manipulation where women's destinies are determined by games they cannot control or
+      even understand
+  composition:
+    cameraAngle: High angle shot showing the chessboard layout and strategic positioning of women as game pieces
+    focus: The metaphor of women as strategic assets in male games rather than autonomous agents of their own destinies
+    depth: Foreground shows individual women as chess pieces, middle ground reveals board strategy, background suggests larger
+      game being played
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

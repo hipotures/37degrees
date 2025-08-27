@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Library Reading Room with Hushed Atmosphere"
+  setting:
+    time: "1962 afternoon"
+    location: "University library research room where Rachel Carson conducts scientific investigation"
+    weather: "Indoor controlled environment"
+  characters:
+    - appearance: "Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent, penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness"
+      clothing: "Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author, clothing style appropriate to early 1960s America"
+      position: "Seated at large wooden research table surrounded by scientific journals and reports"
+      action: "Carefully reviewing pesticide research documents, taking detailed notes in complete silence"
+  scene:
+    mainElements: "Vast library reading room where even shadows seem hushed, Rachel Carson working in profound silence among towering stacks of scientific literature, dust motes floating undisturbed in afternoon light streaming through tall windows"
+    details: "Massive wooden reading tables polished to mirror finish reflecting afternoon light, high ceilings creating natural sound dampening, rows of scientific journals and chemical research reports stacked in precise order, Rachel Carson's careful note-taking creating only whispered paper sounds, dust particles suspended motionless in light beams, heavy curtains and carpeting absorbing any potential sound, complete academic silence allowing deep concentration on environmental research"
+    background: "Traditional university library architecture with floor-to-ceiling bookshelves, tall windows providing natural lighting, formal academic atmosphere supporting serious scientific research"
+    atmosphere: "Sacred quiet of scholarly investigation, concentrated intellectual work in search of environmental truth, hushed reverence for knowledge and scientific discovery, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing researcher within context of silent library environment"
+    focus: "Rachel Carson's concentrated work amid profound library silence"
+    depth: "Foreground emphasizes research materials, middle ground shows Carson at work, background reveals expansive quiet library space"

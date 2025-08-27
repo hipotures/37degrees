@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1949, morning
+    location: modern corporate office in Manhattan business district, representing impersonal new world of business efficiency
+      over human relationships
+    weather: harsh morning light streaming through office windows
+  characters:
+  - appearance: 63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked
+      by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation
+    clothing: worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing
+      signs of constant travel, suit wrinkled from carrying heavy sample cases
+    position: sitting in small chair across from large desk, appearing diminished and overwhelmed
+    action: leaning forward desperately, hands clasped together in pleading gesture, trying to make personal connection
+  - appearance: approximately 35 years old, slim modern businessman, well-groomed with dismissive expression, represents new
+      generation of impersonal corporate leadership
+    clothing: crisp modern business suit, fashionable tie, polished dress shoes, everything neat and expensive
+    position: sitting behind imposing desk in executive chair
+    action: ignoring desperate employee while playing with modern wire recording machine, showing complete indifference to
+      human appeal
+  scene:
+    mainElements: sleek desk with modern wire recording machine, leather executive chair, clean lines and minimal decoration,
+      large windows overlooking city, stark power imbalance in seating arrangement
+    details: 1940s technology marvel - rectangular device with spools of thin wire, microphone attachment, representing modern
+      business efficiency and technological progress that leaves old-fashioned salesmen behind. Large desk creating physical
+      barrier between powerful employer and desperate employee.
+    background: large office windows showing urban canyon of skyscrapers, modern corporate environment emphasizing scale and
+      impersonality of big business
+    atmosphere: cold and impersonal environment emphasizing technological progress and corporate indifference, bright fluorescent
+      lighting creating sterile mood, crushing bureaucratic power over individual human needs
+  composition:
+    cameraAngle: low angle emphasizing power imbalance and corporate intimidation
+    focus: desperate employee dwarfed by imposing office environment and indifferent executive
+    depth: foreground shows recording device representing technological replacement of human relationships, middle ground
+      captures power struggle between old and new business models, background reveals urban corporate landscape that consumes
+      individual workers
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

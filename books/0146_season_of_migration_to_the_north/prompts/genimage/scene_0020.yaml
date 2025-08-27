@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1960s, compressed time showing sequence of events
+    location: Village locations showing objective progression of tragic circumstances
+    weather: Seasonal changes showing passage of time
+  characters:
+  - appearance: Various village characters showing real changes over time period
+    clothing: Traditional garments showing seasonal variations and wear patterns
+    position: Moving through predictable daily routines across weeks and months
+    action: Engaging in normal activities while larger tragedy develops
+  scene:
+    mainElements: Village life continuing in normal patterns while individual crisis builds - agricultural cycles, social
+      gatherings, family routines
+    details: Time-compressed documentation shows how tragedy develops through accumulation of small decisions and social pressures
+      - meetings where Hosna's fate is discussed without her presence, gradual building of social pressure for unwanted marriage,
+      narrator's repeated absences to Khartoum creating power vacuum, community's collective failure to recognize or address
+      one member's desperate situation, no text or letters visible
+    background: Nile continuing its eternal flow, seasons changing, agricultural work proceeding, life maintaining surface
+      normalcy
+    atmosphere: Neutral documentation of how individual tragedy develops within continuing community life, showing disconnect
+      between personal crisis and social continuity, time passage revealing pattern of collective responsibility and failure
+  composition:
+    cameraAngle: Time-lapse perspective showing progression and patterns over extended period
+    focus: Objective sequence of decisions and events leading to inevitable conclusion
+    depth: Individual moments of decision in foreground, community patterns in middle ground, eternal natural cycles in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

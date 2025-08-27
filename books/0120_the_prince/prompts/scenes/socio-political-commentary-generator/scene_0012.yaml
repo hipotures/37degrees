@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mercenary Loyalty - Professional Violence Without Honor"
+  setting:
+    time: "1513, military camp at dawn"
+    location: "Condottieri encampment showing professional soldiers motivated only by payment"
+    weather: "Cold morning with fog"
+  characters:
+    - appearance: "44 year old man with harsh, weathered face of experienced soldier. Prominent, hooked nose and determined, hardened gaze. Earthen complexion, signs of fatigue or discrete skin changes from syphilis ('French disease'). Wears characteristic red flat cap (berretta)."
+      clothing: "Dark doublet typical of condottiere. In field, functional plate armor with family heraldic symbols."
+      position: "Negotiating with multiple representatives from different city-states"
+      action: "Examining offers and calculating which employer provides best terms, showing no loyalty beyond profit"
+  scene:
+    mainElements: "Military camp organized around profit rather than patriotism. Multiple banners from different states showing mercenaries' willingness to serve any master. Maps and battle plans being sold to highest bidder."
+    details: "Contracts and payment ledgers more prominent than weapons. Soldiers changing heraldic symbols on uniforms based on current employer. Evidence of recent betrayals - abandoned equipment from previous masters."
+    background: "Professional military force that Machiavelli despised as root of Italian weakness. Armies motivated by money rather than love of country."
+    atmosphere: "Atmosphere of cynical professionalism where loyalty is commodity to be bought and sold. Military strength undermined by mercenary self-interest."
+  composition:
+    cameraAngle: "Medium shot focusing on negotiation and calculation"
+    focus: "Vitellozzo Vitelli as representative of corrupted military values"
+    depth: "Foreground shows contract negotiations, middle ground reveals mercenary camp, background displays multiple state banners representing divided loyalties"

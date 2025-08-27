@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: French colonial justice building in Algiers with high-ceilinged formal courtroom
+    weather: Hot afternoon with sunlight streaming through tall windows
+  characters:
+  - appearance: Wysoki, chudy mężczyzna... nosi pince-nez (okulary na nosie)
+    clothing: Czerwona toga sędziowska
+    position: Standing elevated behind bench like throne
+    action: Making theatrical gestures and speaking in booming formal voice
+  scene:
+    mainElements: Courtroom appearing as magical theater from child's perspective, with prosecutor in red robes like sorcerer,
+      elevated judge like king on throne
+    details: Prosecutor's red robes appearing to flow like magical garments, his pince-nez glasses glinting like mystical
+      artifacts, papers rustling like ancient scrolls, formal wigs and robes making all lawyers appear as wizards performing
+      ritual ceremony. High ceiling appearing cathedral-like and infinite.
+    background: Tall windows casting colored light patterns like stained glass, gallery filled with mysterious adult faces
+      all watching the magical performance
+    atmosphere: Adult world of justice transformed into enchanted theater where robed figures cast spells with words, incomprehensible
+      but mesmerizing ritual
+  composition:
+    cameraAngle: Very low angle from child's perspective looking up at towering legal figures
+    focus: Prosecutor in flowing red robes appearing as powerful magical figure casting judgment spells
+    depth: Foreground shows massive wooden furniture appearing enormous, middle ground shows robed legal figures like sorcerers,
+      background shows cathedral-high ceiling, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

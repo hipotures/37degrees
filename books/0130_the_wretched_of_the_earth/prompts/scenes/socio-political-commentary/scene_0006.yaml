@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surveillance Network Revealed"
+  setting:
+    time: "1950s Algeria, evening"
+    location: "French colonial district in Algeria with wide tree-lined boulevards, Haussmanian architecture mixed with neo-Moorish elements, clean illuminated streets"
+    weather: "Twilight with street lamps beginning to illuminate"
+  characters:
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Khaki military uniform with beret"
+      position: "Standing at street corner checkpoint"
+      action: "Monitoring pedestrian movement, checking identification papers, maintaining surveillance"
+  scene:
+    mainElements: "Network of surveillance cameras mounted on lamp posts, guard towers at street intersections, checkpoint barriers controlling movement"
+    details: "Multiple security cameras with rotating mechanisms, soldiers positioned at regular intervals, identification checkpoint with document verification station, loudspeakers mounted on buildings for announcements, searchlights sweeping streets, barbed wire barriers funneling pedestrian traffic"
+    background: "European quarter buildings now revealed as surveillance infrastructure, watching eyes of authority"
+    atmosphere: "Oppressive control system hidden beneath facade of civilized order, omnipresent monitoring creating tension"
+  composition:
+    cameraAngle: "High angle revealing surveillance network layout"
+    focus: "Multiple surveillance points creating web of control, human subjects under constant observation"
+    depth: "Checkpoint in foreground, street surveillance in middle ground, monitoring infrastructure extending into background"

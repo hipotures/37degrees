@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1930s, 1950s, 1970s - three eras of political demonstration in same location
+    location: main plaza in capital city, traditional gathering place for political expression
+    weather: similar autumn light across three decades emphasizing historical repetition
+  characters:
+  - appearance: elderly woman with dignified bearing, silver hair arranged in elaborate Victorian style, determined expression
+      showing suffragette conviction, wearing mother-of-pearl wedding jewelry
+    clothing: 1930s suffragette attire - practical walking suit, banner sash, comfortable shoes for marching
+    position: leading women's rights demonstration with dignity and determination
+    action: carrying suffragette banners while marching for women's voting rights and social justice
+  - appearance: man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders,
+      most distinctive feature is mutilated right hand missing three fingers from violent punishment
+    clothing: 1950s worker's clothing - clean union shirt, pressed trousers, representing organized labor movement
+    position: addressing crowd of agricultural workers demanding fair wages and rights
+    action: speaking passionately about peasant rights while raising mutilated hand as symbol of landlord brutality
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: participating in revolutionary student demonstration against military dictatorship
+    action: running from police while clutching revolutionary pamphlets, hair streaming behind as she flees tear gas
+  scene:
+    mainElements: plaza serving as eternal stage for political resistance across generations - same cobblestones witnessing
+      suffragette marches, labor organizing, and revolutionary protests, architecture remaining constant while political causes
+      evolve, demonstrating cyclical nature of social struggle
+    details: protest artifacts spanning decades - suffragette banners replaced by union signs replaced by revolutionary graffiti,
+      demonstration styles evolving from orderly marches to passionate rallies to chaotic resistance, police response escalating
+      from formal arrest to violent suppression, no text or letters visible
+    background: plaza architecture consistent across decades but surrounding political context completely transformed - government
+      buildings showing increasing militarization, monuments to past struggles erected then defaced, public spaces becoming
+      battlegrounds
+    atmosphere: eternal struggle for justice manifesting across generations, same plaza energy channeled into different causes,
+      historical repetition showing persistent human drive for social change
+  composition:
+    cameraAngle: elevated plaza view showing three generations of political resistance
+    focus: central emphasis on cyclical nature of social struggle across time
+    depth: foreground shows detailed protest artifacts across eras, middle ground captures three generations of activists,
+      background reveals consistent plaza architecture
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

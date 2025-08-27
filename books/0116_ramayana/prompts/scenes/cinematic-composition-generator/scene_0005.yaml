@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Forest Exile Begins - The Royal Gate of Departure" 
+  setting:
+    time: "Treta Yuga ancient era, somber overcast afternoon"
+    location: "Main gate and royal avenue of Ayodhya, massive ornate city gates with crowds gathered along broad tree-lined streets, royal pathway leading from palace to forest exile"
+    weather: "Cloudy day with subdued light reflecting the city's grief and mourning"
+  characters:
+    - appearance: "Tall athletic man in his twenties, broad chest and long muscular arms reaching to his knees, noble facial features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like rain clouds or blue lotus"
+      clothing: "Simple rough tree bark garments (valkala) replacing royal silks, hair in ascetic's knot (jata) on top of head"
+      position: "Walking through city gates with wife and brother, not looking back"
+      action: "Leading exile procession with calm dignity despite city's grief"
+    - appearance: "Young woman aged eighteen to twenty, ideally proportioned with slender waist and graceful build, golden complexion like molten gold, long thick black hair in single braid, large dark lotus-shaped eyes, red lips like bimba fruit"
+      clothing: "Simple ochre-colored sari replacing royal garments, modest appearance of ascetic wife"
+      position: "Walking beside Rama with determined step"
+      action: "Following husband into exile with unwavering loyalty"
+    - appearance: "Man in his twenties, tall athletic build similar to Rama with noble features and lotus-shaped eyes, light golden complexion (gaura) contrasting with Rama's dark skin"
+      clothing: "Tree bark garments (valkala) identical to Rama's ascetic dress, always carries bow and arrows"
+      position: "Following protectively behind Rama and Sita"
+      action: "Alert guardian stance ready to defend, maintaining vigilant watch"
+  scene:
+    mainElements: "Master shot showing entire geography of momentous departure scene. Massive weeping crowds lining royal avenue reaching desperately toward the exiled royals, royal chariot waiting beyond gates to carry them to forest, palace visible in background showing source of their lost royal life"
+    details: "Thousands of citizens with outstretched arms pleading for them to stay, flower petals scattered on ground from cancelled coronation preparations, royal guards maintaining order through their own tears, abandoned celebration decorations creating tragic contrast"
+    background: "Ayodhya's golden spires and palace complex showing what is being left behind, forest path visible in distance showing destination of exile"
+    atmosphere: "Grief-stricken atmosphere of citywide mourning, subdued lighting matching collective sorrow, dignified tragedy of noble sacrifice for higher duty"
+  composition:
+    cameraAngle: "Master shot from elevated position showing complete scene geography"
+    focus: "Three exiled figures moving through gates as emotional center, surrounded by weeping crowds"
+    depth: "Foreground shows immediate crowd reaching toward exiles, middle ground features gate passage and royal family, background reveals both lost palace and forest destination, no text or letters visible"

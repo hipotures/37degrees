@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Palace Walk bedroom - 1917 versus 1944 - authority's rise and fall"
+  setting:
+    time: "Split time: 1917 evening and 1944 evening"
+    location: "Master bedroom of traditional Cairene house on Palace Walk street in Al-Jamaliyya district, historic Cairo"
+    weather: "Clear evening both periods"
+  characters:
+    - appearance: "45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue eyes, large prominent nose, commanding presence that fills space"
+      clothing: "At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt fez (tarbush) with black tassel"
+      position: "Standing with authority and dignity, movements heavy and measured"
+      action: "1917: Standing powerfully in center of room, 1944: Lying frail on ground floor bed, authority diminished"
+  scene:
+    mainElements: "Same bedroom shown in temporal split - left side 1917 with patriarch in prime commanding from upper floor master bedroom, right side 1944 with aged patriarch confined to ground floor sickroom"
+    details: "1917 side: massive brass bed with mosiężne zdobienia, Persian Shiraz carpet with rich multicolored patterns, brass trays gleaming, oil lamps providing warm flickering light, dark polished wooden walking stick standing proudly. 1944 side: simple ground floor bed, faded carpet, tarnished brass, dim lighting, walking stick leaning unused against wall, accumulated dust of years, no text or letters visible"
+    background: "Upper floor bedroom architecture versus ground floor converted bedroom, same stone walls showing different states of maintenance and wear"
+    atmosphere: "Powerful contrast between peak authority and declined power, temporal weight of 27 years compressed into single frame, sense of inevitable aging and mortality"
+  composition:
+    cameraAngle: "Wide split-screen view showing temporal transformation"
+    focus: "Central patriarch figure in both time periods showing dramatic change"
+    depth: "Foreground: patriarch in different states, middle ground: room furnishings in various conditions, background: architectural elements showing time's passage"

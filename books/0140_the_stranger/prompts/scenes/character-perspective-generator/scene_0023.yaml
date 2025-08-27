@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Split Reality - European vs Arab Perspective of Violence"
+  setting:
+    time: "1940, early afternoon"
+    location: "Isolated Mediterranean coastline with rocky outcroppings near coastal village in French colonial Algeria"
+    weather: "Intensely hot with oppressive Mediterranean heat affecting all participants"
+  characters:
+    - appearance: "Mixed group showing European colonists and Arab locals experiencing same event with different interpretations"
+      clothing: "Europeans in lighter clothing, Arabs in work clothes, both groups affected by heat"
+      position: "Two distinct groups viewing same beach confrontation from different social positions"
+      action: "Same violent event interpreted as justified self-defense by Europeans, unprovoked murder by Arab community"
+  scene:
+    mainElements: "Single violent event viewed simultaneously by two communities with completely different interpretations based on colonial social positions"
+    details: "European observers seeing justified response to Arab aggression, Arab witnesses seeing unprovoked colonial violence against worker, same physical actions interpreted through opposing cultural lenses. Heat affecting all participants equally while creating different emotional responses."
+    background: "Beach landscape providing neutral setting for event interpreted differently by opposing communities, colonial social divisions invisible but determining reactions"
+    atmosphere: "Same reality split into opposing narratives based on colonial social positions, showing how perspective shapes interpretation of identical events"
+  composition:
+    cameraAngle: "Split screen or double exposure showing same event from two opposing community viewpoints"
+    focus: "Identical violent event interpreted as either justified or criminal depending on observer's social position"
+    depth: "Foreground shows same physical actions, middle ground shows opposing community interpretations, background shows neutral landscape hosting conflicting realities, no text or letters visible"

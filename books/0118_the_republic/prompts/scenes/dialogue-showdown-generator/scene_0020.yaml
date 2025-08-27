@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Point of No Return - Three Waves Acknowledged"
+  setting:
+    time: "375 BCE, deep night"
+    location: "andron of Kefalos house, now completely transformed into philosophical workshop"
+    weather: "still night air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "standing with arms spread acknowledging magnitude of undertaking"
+      action: "declaring he will face three waves of criticism about women guardians, family abolition, and philosopher kings"
+    - appearance: "handsome aristocratic young man, athletic build from military service, intelligent eyes"
+      clothing: "refined himation and chiton indicating high social status, polished bronze accessories"
+      position: "leaning forward with excited anticipation"
+      action: "recognizing this as moment when philosophical discussion becomes revolutionary political theory"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Torn papyrus or scattered scrolls suggesting previous conventional wisdom being discarded, oil flames seeming to burn brighter as radical ideas emerge"
+    background: "deep night outside with only most dedicated participants remaining for dangerous philosophical territory"
+    atmosphere: "electric sense of crossing threshold into territory that will challenge every conventional assumption"
+  composition:
+    cameraAngle: "dramatic shot emphasizing gesture of accepting seemingly impossible challenge"
+    focus: "moment of commitment to philosophical revolution that will reshape understanding of justice"
+    depth: "committed philosopher in foreground, eager student in middle ground, empty spaces left by departed conventional wisdom in background"

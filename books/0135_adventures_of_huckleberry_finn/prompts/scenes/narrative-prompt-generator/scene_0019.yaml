@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Huck's Ultimate Moral Decision - Tearing the Letter"
+  setting:
+    time: "1840s Mississippi River region, late afternoon"
+    location: "Secluded riverbank where Huck sits alone to think"
+    weather: "Clear afternoon with warm sunlight filtering through trees"
+  characters:
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+      clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim."
+      position: "Sitting on fallen log beside river, holding letter in trembling hands"
+      action: "Slowly, deliberately tearing letter to Miss Watson into small pieces with grim determination"
+  scene:
+    mainElements: "Peaceful riverbank setting with fallen log for seat, gentle current lapping at muddy shore, torn pieces of paper floating on water"
+    details: "Handwritten letter visible being destroyed, single piece of paper being methodically ripped apart, white fragments scattering on dark river water"
+    background: "Wide Mississippi River flowing past, distant wooded shores, late afternoon sun creating golden light on water surface"
+    atmosphere: "Moment of profound moral choice, individual conscience triumphing over social conditioning, peaceful nature witnessing human spiritual victory, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up on Huck's hands and face as he makes crucial decision"
+    focus: "Huck's expression of moral resolve as he destroys letter that would betray his friend"
+    depth: "Huck and torn letter in foreground, riverbank in middle, flowing river carrying away paper fragments in background"

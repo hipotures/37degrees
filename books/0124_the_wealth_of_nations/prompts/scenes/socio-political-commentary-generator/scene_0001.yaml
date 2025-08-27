@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Facade of Mercantile Order"
+  setting:
+    time: "1776, midday bright sunlight"
+    location: "Impressive government building in London with classical Georgian architecture"
+    weather: "Clear bright day with strong shadows"
+  characters:
+    - appearance: "50-year-old civil servant, thin austere build, stern expressionless face showing bureaucratic authority, graying hair"
+      clothing: "modest black wool suit somewhat worn at elbows, white shirt, simple black shoes, practical clerk's attire"
+      position: "standing proudly before large map of British Empire on wall"
+      action: "pointing to colonial territories with official bearing, displaying imperial control"
+  scene:
+    mainElements: "Ornate government office with towering ceilings, massive desk covered with official documents and royal seals, large detailed map of British colonial empire with trade routes marked in gold, imposing portraits of monarchs"
+    details: "Wall map shows extensive British territories colored in red, with shipping lanes connecting colonies to motherland. Desk displays leather-bound trade regulations, customs documents with official wax seals, inkwell with quill pens. Sunlight streams through tall Georgian windows onto polished wooden floors, creating atmosphere of official authority and imperial pride"
+    background: "Georgian governmental architecture with classical columns, other clerks visible through doorways working at similar desks, suggesting vast bureaucratic machinery"
+    atmosphere: "Imposing institutional authority projecting stability and control, sense of ordered imperial management, quiet efficiency masking underlying economic tensions"
+  composition:
+    cameraAngle: "Low angle emphasizing grandeur of institutional setting"
+    focus: "Government official gesturing toward empire map, displaying confidence in mercantile system"
+    depth: "Foreground shows detailed official documents, middle ground captures official at map, background reveals institutional architecture and other bureaucrats"

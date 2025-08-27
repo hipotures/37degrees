@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1920 and 1973 bleeding together, past and present occupying same space
+    location: capital city streets where past and present intersect
+    weather: 1920s gentle sunshine blending with 1970s tear gas and smoke
+  characters:
+  - appearance: young woman aged eighteen, otherworldly beauty like porcelain doll, translucent pale skin with bluish tint,
+      bright yellow eyes, long flowing green hair color of old bronze, graceful movements like mythical sea creature
+    clothing: flowing white or pale ethereal dresses in light fabrics that emphasize her supernatural beauty
+    position: walking serenely through chaotic 1970s street scene as ghostly presence
+    action: moving with ethereal grace while political violence swirls around her translucent figure
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: running through same street while military vehicles pursue demonstrators
+    action: fleeing political violence while Rosa's ghost walks calmly through same dangerous space
+  scene:
+    mainElements: temporal bleeding where peaceful 1920s coexists with violent 1970s - Rosa's ethereal beauty moving untouched
+      through modern political chaos, horse carriages sharing streets with military tanks, past innocence overlapping with
+      present terror
+    details: double exposure effect shows two time periods simultaneously - 1920s cobblestones visible beneath 1970s asphalt,
+      peaceful shops from Rosa's era appearing as ghostly overlays on boarded storefronts, Rosa's green hair flowing in supernatural
+      contrast to Alba's identical hair color in mortal danger, no text or letters visible
+    background: architectural elements from both eras visible simultaneously - colonial buildings showing bullet damage from
+      military coup, gas lamps flickering beside electric streetlights, political graffiti appearing on walls that Rosa sees
+      as clean
+    atmosphere: supernatural juxtaposition of family innocence with political violence, Rosa's immortal beauty contrasting
+      with Alba's mortal terror, past and present revealing cyclical nature of family tragedy
+  composition:
+    cameraAngle: street-level double exposure showing temporal bleeding effect
+    focus: central emphasis on two green-haired women from different eras sharing same dangerous space
+    depth: foreground shows detailed temporal overlap, middle ground captures contrasting figures across time, background
+      reveals architectural elements from both periods
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

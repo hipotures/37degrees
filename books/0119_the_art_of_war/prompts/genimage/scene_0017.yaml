@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, during intense emotional moment of victory preparation
+    location: Emotional landscape representing Wu Zixu's internal turmoil, abstract storm environment
+    weather: Impossible weather combining multiple storm types simultaneously
+  characters:
+  - appearance: Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes
+      with determined expression, graying hair at temples
+    clothing: Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt,
+      wears small jade pendant indicating court rank
+    position: Standing at center of swirling emotional tempest made visible
+    action: Weathering storm representing conflict between personal revenge and service to state
+  scene:
+    mainElements: Visible emotional storm with winds carrying memories - broken family artifacts, Wu court symbols, Chu royal
+      insignia - all swirling together in supernatural weather pattern
+    details: Small jade pendant indicating court rank glows with steady light despite chaotic winds, representing constant
+      loyalty amid emotional turbulence. Storm winds carry fragments of past life - pieces of Chu court robes, family writing
+      brushes, Wu military banners - creating visible representation of conflicted allegiances. Lightning illuminates scattered
+      memories while thunder represents emotional impact of betrayal and loss
+    background: Abstract landscape where emotional states become visible weather patterns, impossible geography mixing elements
+      from different kingdoms and time periods
+    atmosphere: Intense internal conflict made external and visible, sound of multiple winds carrying different emotional
+      tones, sense of powerful forces competing for dominance in single soul, no text or letters visible to viewer
+  composition:
+    cameraAngle: Central view with advisor as calm center surrounded by emotional storm activity
+    focus: Swirling memories and loyalties made visible as storm elements, with steady figure maintaining center
+    depth: Foreground shows detailed storm debris representing memories, middle ground captures advisor's determination, background
+      reveals vast emotional landscape
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Historical Repetition - Protests in Same Square Across Centuries"
+  setting:
+    time: "Multiple historical periods overlapping: 1789 Revolution, 1848 uprising, 1871 Commune, 1894 Dreyfus protests"
+    location: "Public square in central Paris showing accumulated historical demonstrations"
+    weather: "Different seasons and times across historical periods but maintaining dramatic lighting"
+  characters:
+    - appearance: "Crowds from different centuries overlapping: 18th-century revolutionaries, 19th-century bourgeois protesters, fin-de-siècle intellectuals, all translucent and layered"
+      clothing: "Revolutionary sans-culottes, bourgeois formal wear, intellectual bohemian attire, showing fashion evolution across political movements"
+      position: "Different historical crowds occupying same square space, ghostly overlap showing protest patterns"
+      action: "Various protest gestures across centuries: raised fists, waving banners, passionate speeches, all overlapping in same public space"
+  scene:
+    mainElements: "Public square architecture showing historical continuity while hosting different political movements. Same cobblestones, same buildings, different historical energies overlapping."
+    details: "Historical banners and signs from different periods translucent and overlapping. Cobblestones worn smooth by centuries of demonstrations. Building facades showing bullet holes and repair from different conflicts."
+    background: "Surrounding Parisian architecture consistent across historical periods. Same church and civic buildings witnessing repeated human political drama. Windows showing faces observing from same positions."
+    atmosphere: "Human political passion's cyclical nature where same public spaces host repeated struggles across generations. History's patterns made visible through spatial continuity, no text or letters visible"
+  composition:
+    cameraAngle: "Elevated angle from building showing full square with multiple historical periods overlapping"
+    focus: "Square itself as historical stage accommodating repeated human political drama"
+    depth: "Multiple historical layers occupying all depths equally with transparent overlay technique"

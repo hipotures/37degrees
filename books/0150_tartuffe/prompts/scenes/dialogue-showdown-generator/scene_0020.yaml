@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Ultimate Insult - Mockery of the Deceived Husband"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "dramatic evening with candlelight creating stark shadows"
+  characters:
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "leaning over Elmire with complete confidence in his dominance"
+      action: "speaking contemptuously about her husband's blindness while attempting final assault on her virtue, laughing at how easily he can manipulate his benefactor"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "pressed back against sofa arm with nowhere left to retreat"
+      action: "listening in horror as he mocks her husband while using fan defensively against his advancing hands, eyes wide with terror"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive rectangular oak dining table where insulted husband finally reaches breaking point"
+    details: "harsh candlelight exposing Tartuffe's sneering contempt and Elmire's terror, heavy table cloth beneath which husband's rage finally explodes into action, religious artifacts witnessing ultimate blasphemy of false saint"
+    background: "doorways that seemed to offer escape now blocked by predator's confidence, family portraits watching final moment before domestic order explodes"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, explosive moment when insult to husband's intelligence finally breaks through his fanatical delusion"
+  composition:
+    cameraAngle: "tight shot emphasizing the final insult and impending explosion"
+    focus: "Tartuffe's contemptuous mockery of deceived husband proving to be fatal miscalculation as hidden witness reaches limit of endurance"
+    depth: "foreground showing assault on wife and husband's dignity, middle ground revealing table about to erupt with furious patriarch, background suggesting domestic order about to be restored through violence"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crossroads of Mercy and Justice"
+  setting:
+    time: "506 BCE, late afternoon before final assault on Chu capital"
+    location: "Stone crossroads outside fortified capital city of Chu state, ancient marker stones indicating direction to multiple destinations"
+    weather: "Clear but tense atmosphere with gathering dusk shadows"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Standing at intersection of three roads, weighing options represented by different paths"
+      action: "Contemplating choice between three approaches to victory - force, negotiation, or siege"
+  scene:
+    mainElements: "Ancient stone crossroads with three paths leading in different directions: one toward heavily fortified city gates, one around city walls to siege positions, one toward diplomatic meeting ground, each path representing different strategic philosophy"
+    details: "Three distinct road surfaces show different approaches - rutted military road marked by heavy equipment leads directly toward city gates suggesting frontal assault, smooth diplomatic path curves toward neutral meeting ground outside walls, rough siege road circles toward strategic positions. Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case rests on central marker stone, suggesting wisdom guides choice between paths"
+    background: "Fortified capital city of Chu state in central China, surrounded by high earthen walls with wooden palisades, multiple defensive gates, located in fertile river valley, visible in distance showing defensive strength"
+    atmosphere: "Crucial decision point with weight of consequences, late afternoon light creating long shadows down each path, dust stirred by approaching army, sense of irreversible choice about to be made, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Elevated view showing all three path options with strategist positioned at decision point"
+    focus: "Three diverging roads representing different approaches to same objective, with decision-maker at center"
+    depth: "Foreground shows detailed crossroads with path differences, middle ground captures strategist weighing options, background reveals target city and strategic context"

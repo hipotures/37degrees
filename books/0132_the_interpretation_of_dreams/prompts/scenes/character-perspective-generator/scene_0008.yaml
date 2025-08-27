@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Emma Eckstein Through Medical Colleague's Eyes"  
+  setting:
+    time: "1895 spring after surgical disaster"
+    location: "Treatment room connected to study at Berggasse 19, Vienna, scene of medical malpractice"
+    weather: "Somber overcast afternoon"
+  characters:
+    - appearance: "Woman around 30 years old, intelligent and attractive face with serious expression, dark hair arranged in elaborate updo typical of 1890s, after February 1895 shows visible disfigurement with collapsed left side of face"
+      clothing: "Elegant but modest bourgeois dress with high collar, long sleeves with puffy shoulders, dark colors, long skirt to floor"
+      position: "Seated in chair facing away from analyst or lying on analytical couch"
+      action: "Speaking hesitantly while touching handkerchief to face, or resisting examination"
+    - appearance: "Traditional medical colleagues observing with professional concern"
+      clothing: "Conservative medical attire of established Vienna physicians"
+      position: "Standing at professional distance, maintaining proper medical decorum"
+      action: "Examining evidence of surgical complications with growing alarm"
+  scene:
+    mainElements: "Emma viewed through lens of medical establishment as victim of dangerous experimental procedures, her disfigurement serving as warning against departure from proven medical methods"
+    details: "The famous analytical couch covered entirely with thick patterned Persian rug and plush cushions, matching carpet hung on wall behind couch, analyst's leather chair positioned out of patient's sight, glass display cases containing ancient artifacts. Patient appears as casualty of medical hubris, her damaged face evidence of what happens when doctors abandon scientific rigor. Her continued psychological treatment seems like further victimization rather than healing."
+    background: "Intimate sacred space for revealing secrets, warm Oriental textiles creating cave-like environment, afternoon light filtered through heavy curtains, air thick with tobacco smoke and ceramic humidifier moisture"
+    atmosphere: "Professional horror at colleague's reckless endangerment of patient welfare, Emma representing medical ethics violated, concern that psychological speculation has led to physical harm, duty to protect patients from experimental procedures, no text or letters visible"
+  composition:
+    cameraAngle: "Concerned medical colleagues' perspective emphasizing patient vulnerability"
+    focus: "Emma's disfigured face as evidence of medical malpractice and departure from established standards"
+    depth: "Foreground: traditional medical instruments representing proper practice, Middle: damaged patient requiring protection, Background: questionable analytical setup suggesting continued risk"

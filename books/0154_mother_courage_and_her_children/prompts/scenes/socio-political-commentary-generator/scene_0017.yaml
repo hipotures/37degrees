@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Media Control - Military Propaganda Broadcasting"
+  setting:
+    time: "1633 summer, mass media propaganda system fully operational"
+    location: "Military communication center broadcasting official propaganda to widespread audience"
+    weather: "Clear summer day allowing maximum propaganda broadcast range"
+  characters:
+    - appearance: "Military propaganda specialists creating and broadcasting official information"
+      clothing: "Military uniforms with communication insignia for information control duties"
+      position: "Standing at broadcasting equipment controlling information flow to population"
+      action: "Creating and broadcasting official propaganda, controlling information access, ensuring population receives only approved messaging"
+    - appearance: "Civilian population receiving limited controlled information through official channels"
+      clothing: "Simple civilian clothes showing dependence on official information sources"
+      position: "Gathered around information sources receiving official propaganda as only available information"
+      action: "Listening to official broadcasts without access to alternative information sources, accepting propaganda as objective truth"
+  scene:
+    mainElements: "Communication equipment and broadcasting systems controlling population access to information"
+    details: "Official propaganda being broadcast while alternative information sources suppressed, population dependent on military authorities for all information, news filtered and controlled to support military objectives"
+    background: "Information control system ensuring population receives only approved messaging supporting military authority"
+    atmosphere: "Information control disguised as news service, population manipulated through selective information access, truth sacrificed for military propaganda"
+  composition:
+    cameraAngle: "Medium shot showing information control system and population manipulation"
+    focus: "Control of information as tool for population manipulation and military authority maintenance"
+    depth: "Foreground shows propaganda creation, middle ground broadcast system, background controlled population receiving limited information"

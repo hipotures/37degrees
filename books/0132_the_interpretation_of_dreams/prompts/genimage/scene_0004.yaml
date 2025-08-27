@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1897 evening at Viennese medical society gathering
+    location: Traditional Viennese coffeehouse interior, late 19th century Habsburg Vienna, intellectual gathering place
+    weather: Cold winter evening outside
+  characters:
+  - appearance: Older man around 53 years old, patriarchal appearance with graying full beard and hair, gentler features than
+      Freud, emanates calm authority and established position
+    clothing: Conservative dark suit typical of Viennese medical professor, white shirt, formal vest with watch chain
+    position: Standing with hands clasped behind back or seated in consultation
+    action: Speaking with measured authority or examining patient documents
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Seated at marble table, slightly apart from main group
+    action: Observing colleagues with mixture of frustration and intellectual superiority
+  scene:
+    mainElements: Medical colleagues viewed through Freud's perspective of revolutionary isolation, their conservative attitudes
+      appearing as willful blindness to psychological truth he has discovered
+    details: High ornate ceilings, marble-topped tables, red plush banquettes, enormous mirrors, newspaper racks, waiters
+      in black tailcoats, clouds of tobacco smoke. Breuer appears as father figure who has abandoned him, glowing with lost
+      mentorship but shadowed by conservative limitations. Other colleagues seem frozen in outdated thinking, their faces
+      appearing closed to new ideas, their conversations echoing with empty conventional wisdom.
+    background: Intellectual ferment and animated discussion, clinking of coffee cups and newspaper rustling, warm gaslight
+      creating intimate pools of conversation among scholars and artists
+    atmosphere: Sense of being lone visionary among the intellectually timid, colleagues appearing as obstacles to scientific
+      progress rather than allies, revolutionary truth-teller surrounded by comfortable conformists who prefer ignorance to
+      disturbing discoveries, no text or letters visible
+  composition:
+    cameraAngle: Freud's isolated perspective from corner table looking across coffeehouse
+    focus: Breuer's figure highlighted as symbol of lost scientific partnership and conservative resistance
+    depth: 'Foreground: Freud''s solitary coffee cup and scattered papers, Middle: animated colleagues in comfortable discussion
+      groups, Background: mirror reflections multiplying conservative faces into endless repetition'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

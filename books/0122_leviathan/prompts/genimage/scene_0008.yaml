@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1651, contrasting afternoon light
+    location: Split scene showing wealthy Westminster district versus common London neighborhoods
+    weather: Bright sunlight on wealthy area, shadow covering poor district
+  characters:
+  - appearance: Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority,
+      stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard
+    clothing: Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather
+      boots, crown of heavy gold or iron symbolizing weighty authority
+    position: Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which
+      the state revolves
+    action: One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without
+      personal emotion
+  - appearance: Man around 35 years old, 175cm tall, lean and sinewy build from deprivation but still strong, weathered face
+      with sharp cheekbones and prominent forehead, disheveled brown shoulder-length hair, rough untrimmed beard
+    clothing: Worn leather jerkin over coarse linen shirt, wool breeches patched and faded, damaged leather boots, all in
+      earth tones - browns, grays, muted greens for survival camouflage
+    position: Crouched defensively or moving cautiously, constantly alert and ready to fight or flee
+    action: Eyes constantly scanning surroundings, hand on crude knife, body language of perpetual mistrust and fear
+  scene:
+    mainElements: Sharp visual divide between opulent palace district with clean streets and marble buildings versus cramped
+      common quarters with narrow muddy alleys and timber-framed tenements
+    details: 'Left side shows luxury: marble facades, ornate gardens, well-dressed courtiers, abundance of goods. Right side
+      shows common life: crowded streets, simple clothing, modest dwellings. Large two-handed ceremonial sword visible in
+      wealthy district as symbol of power. Simple clay pipes and basic pewter items visible in common area.'
+    background: Architectural contrast between baroque palace architecture and Tudor worker housing, different lighting quality
+      emphasizing social division
+    atmosphere: Stark inequality highlighted by lighting and architectural differences, sense of two separate worlds within
+      the same state system
+  composition:
+    cameraAngle: Wide shot capturing both social levels in single frame
+    focus: The dramatic contrast between wealth and poverty under unified state authority
+    depth: Foreground shows common people's daily life, middle displays the social divide, background reveals elite privilege
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

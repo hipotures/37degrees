@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Parisian Streets Through Provincial Eyes"
+  setting:
+    time: "1819, afternoon"
+    location: "Streets of Paris during Bourbon Restoration, before Haussmann's renovation, narrow winding cobblestone streets"
+    weather: "Typical Parisian dampness with puddles reflecting gray sky"
+  characters:
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Walking through Parisian streets with wide-eyed wonder"
+      action: "Observing the city with mixture of fascination and determination to conquer it"
+  scene:
+    mainElements: "Through Rastignac's provincial perspective, Paris appears as a magical yet treacherous landscape. The narrow streets seem like veins leading to the heart of power and wealth. Every elegant carriage represents dreams within reach, every well-dressed pedestrian a model to emulate or surpass."
+    details: "From Rastignac's viewpoint, the mud-filled streets appear as obstacles to navigate carefully to avoid soiling his modest clothes. Luxury carriages passing by seem to move in slow motion as he studies their occupants with intense curiosity. Shop windows display treasures that fuel his ambitions, while the contrast between rich and poor districts appears as a map of his intended journey upward."
+    background: "Dirty cobblestones with sewers without mud or water, grass growing against walls of narrow buildings, distant glimpses of elegant districts glowing like promised lands"
+    atmosphere: "Electric with possibility and dangerous beauty. The city pulses with opportunities and threats, appearing both magnificent and intimidating to ambitious provincial eyes"
+  composition:
+    cameraAngle: "Following behind Rastignac at slight elevation, showing his determined stride and the city spreading before him"
+    focus: "Rastignac's figure in center with Paris stretching ahead like a vast game board waiting to be conquered"
+    depth: "Rastignac in foreground with confident stride, middle ground shows the maze of Parisian streets as his battlefield, background reveals distant spires and rooftops as his ultimate destination, no text or letters visible"

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, formal lesson hour
+    location: State academy for civic education, London, designed for ideological instruction
+    weather: Controlled interior lighting creating formal academic atmosphere
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Formal classroom with instructor at podium teaching principles of state obedience, students taking identical
+      notes, official portraits of the Sovereign prominently displayed, textbooks containing approved political doctrine
+    details: Students with expressions of absorbed concentration, all writing identical notes in synchronized fashion, official
+      state texts open to same pages, instructor pointing to diagrams of proper civic behavior. Large parchment scrolls with
+      state laws and regulations posted prominently. Heavy solid crown symbols integrated into educational diagrams and charts.
+    background: Academic interior with formal wooden furnishing, state symbols carved into architectural details, windows
+      arranged to provide serious scholarly lighting
+    atmosphere: Intellectual manipulation presented as education, sounds of synchronized note-taking, systematic replacement
+      of critical thinking with approved doctrine
+  composition:
+    cameraAngle: Medium shot showing both instructor's authority and student absorption
+    focus: The systematic transmission of state ideology through formal education
+    depth: Foreground shows students receiving instruction, middle displays educational authority, background reveals institutional
+      control environment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1875 grandfather fishing, 1900 father fishing, 1928 son's absence
+    location: Shallow flowing water with muddy banks, surrounding trees and vegetation, stones for sitting or playing where
+      family members sought solitude across generations
+    weather: Gentle afternoon light consistent across fifty years of fishing tradition
+  characters:
+  - appearance: Middle-aged white male lawyer and alcoholic, intellectual appearance but showing signs of physical and moral
+      decay
+    clothing: Once-elegant lawyer's suit now rumpled and disheveled, suggesting fallen gentleman status
+    position: Often holding drink, posture suggesting both intelligence and dissolution
+    action: Eloquent cynical conversation punctuated by drinking, philosophical discussions undermined by alcohol
+  scene:
+    mainElements: Shallow flowing water with muddy banks, surrounding trees and vegetation, stones for sitting or playing
+      serving as generational fishing location across five decades
+    details: 'Triple generational fishing scene at same creek location: background layer shows 1875 grandfather figure as
+      dignified patriarch casting line into stream, well-dressed in formal fishing attire, surrounded by signs of prosperity
+      and order; middle layer depicts 1900 father figure, already showing signs of alcohol dependency, fishing with less precision,
+      clothing disheveled, philosophical contemplation mixed with cynicism; foreground shows 1928 empty fishing spot with
+      abandoned tackle, unused stone seat, no family member continuing tradition - broken generational chain no text or letters
+      visible'
+    background: Creek environment showing five decades of change - trees grown larger, bank erosion patterns evolved, stone
+      arrangements shifted, but fishing location maintaining its appeal across generations
+    atmosphere: Melancholy meditation on broken family traditions where generational activities cease due to death, dysfunction,
+      and family disintegration
+  composition:
+    cameraAngle: Wide shot along creek bank showing full fishing location across three generations
+    focus: Traditional fishing spot showing presence across two generations then absence in third
+    depth: 'Foreground: empty 1928 fishing location with abandoned equipment; middle ground: 1900 declining father fishing
+      alone; background: 1875 grandfather establishing family tradition'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

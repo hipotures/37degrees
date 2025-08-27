@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Mid-20th century, night
+    location: Same desolate country road in undefined rural landscape, now under cold white moonlight
+    weather: Cool night air under pale moon
+  characters:
+  - appearance: Man around 50-60 years old, taller and more slender than his companion, with thinning gray hair somewhat tidily
+      combed. Face is elongated with sharp, intellectual features and restless eyes that frequently gaze toward the horizon.
+      Expression constantly shifts between hope, irritation, and deep melancholy.
+    clothing: Worn dark suit and black bowler hat, dirty and torn but maintained in better condition than his companion's
+      attire. Keeps trying to straighten his hat and clothing. Pockets stuffed with food scraps like carrots or radishes.
+    position: Standing upright with nervous, restless posture, frequently pacing back and forth like a caged animal
+    action: Pacing anxiously, gesticulating broadly with his hands to emphasize arguments, constantly fiddling with his bowler
+      hat - removing it, looking inside, dusting it off, replacing it
+  - appearance: Man around 50-60 years old, shorter and stockier than his companion, with disheveled dirty hair. Face is more
+      rounded, possibly swollen, bearing traces of beatings he mentions. Expression often apathetic or confused, occasionally
+      animated by childish enthusiasm or anger. Eyes usually directed downward at his aching feet.
+    clothing: Worn dark suit and bowler hat in much worse condition than Vladimir's - more torn and dirty. Struggles constantly
+      with tight, painful boots that torment him.
+    position: Often sitting on the low mound, hunched over. When standing, moves slowly and awkwardly, frequently limping
+    action: Wrestling with his boots in painful struggle, massaging his feet, holding his stomach, prone to sudden sleeping
+      as escape from reality
+  scene:
+    mainElements: Bare tree (or tree with few leaves in Act II) casts sharp, graphic shadow on ground. Low mound barely visible
+      in moonlight. Road disappears into darkness in both directions.
+    details: Wide shot of Vladimir and Estragon standing motionless under the cold moonlight after agreeing to leave. The
+      final stage direction - 'They do not move' - becomes the play's ultimate statement. Two dark silhouettes frozen in eternal
+      stasis against the pale road, trapped forever in their cycle of waiting.
+    background: The road stretches endlessly in both directions, disappearing into darkness that offers no real escape or
+      destination.
+    atmosphere: Cold, pale moonlight creates almost surreal, ghostly atmosphere. Sharp contrast between light and shadow emphasizes
+      isolation and otherworldliness of the scene.
+  composition:
+    cameraAngle: Wide shot emphasizing their smallness in the vast landscape
+    focus: The two motionless figures as eternal symbols of human waiting
+    depth: 'Foreground: the moonlit road; Middle ground: two stationary silhouettes; Background: infinite darkness stretching
+      in all directions'
+visualElements:
+  colorPalette:
+    primary:
+    - chaotic mixed colors
+    - newspaper grays
+    - random color combinations
+    secondary:
+    - found material colors
+    - arbitrary color choices
+    - clashing combinations
+    background: collaged materials, newsprint, random textures
+    usageNotes: No systematic color theory, random and found colors
+    saturation: varies wildly (found materials)
+    contrast: random, often jarring
+  lineArt:
+    style: cut edges, torn materials, random marks
+    weight: varies by source material
+    color: mixed from various sources
+    texture: rough cut edges, found materials
+    edgeTreatment: raw cut edges, torn paper
+  lighting:
+    type: inconsistent, from multiple sources
+    direction: random, no unified lighting
+    intensity: varies by source material
+    shadows:
+      style: drop shadows from layered materials
+      color: arbitrary
+      opacity: varies
+    highlights: random reflections from found materials
+  rendering:
+    technique: collage, assemblage, found object combination
+    texture: mixed textures from various sources
+    detailLevel: varies by element (some detailed, some crude)
+    finish: raw, unfinished appearance
+  perspective: no unified perspective, chaotic viewpoints
+  mood:
+    overall: chaotic, rebellious, absurd
+    emotion: rejection, rebellion, nonsense
+    tempo: chaotic, unpredictable
+    keywords:
+    - chaotic
+    - rebellious
+    - absurd
+    - anti-traditional
+    - nonsensical
+  stylePrecedents:
+  - Marcel Duchamp readymades
+  - Hannah Höch photomontages
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

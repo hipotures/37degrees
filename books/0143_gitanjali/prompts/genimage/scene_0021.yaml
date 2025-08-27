@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1910, twilight in village courtyard
+    location: Family courtyard with central fire pit, rural Bengal, British Colonial India
+    weather: Cool evening with still air perfect for fire warmth and aromatic appreciation
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Seated close to crackling fire with simple clay cup in hands
+    action: Warming hands around fire while steam rises from hot drink creating multi-sensory comfort experience
+  scene:
+    mainElements: Crackling wood fire providing warmth, light, and aromatic smoke while protagonist holds steaming clay cup
+      containing hot drink, with nearby fragrant pine branches adding to sensory symphony
+    details: Wood fire creates visible warmth through heat shimmer patterns while crackling sounds become visible through
+      jumping sparks and wood movement. Pine branches near fire release aromatic smoke particles that rise in visible spirals
+      carrying forest scent through evening air. Protagonist's Prosty, gliniany dzban w jego rękach contains hot liquid that
+      creates steam patterns rising between his fingers while heat transfers through clay creating visible temperature comfort.
+      Fire's golden glow illuminates his serene face while dancing flames create rhythmic light patterns suggesting unheard
+      lullaby melody. His breath creates small vapor clouds in cool evening air showing temperature contrast. Clay cup shows
+      heat stains where hot liquid has warmed ceramic creating visible evidence of internal warmth. Nearby firewood shows
+      different burning stages with aromatic smoke indicating various wood types. Fabric of his robes shows gentle movement
+      from fire's warm air currents. Glowing embers create tiny light points like earthbound stars. No text or letters visible.
+    background: Village courtyard setting where evening fire creates intimate sanctuary combining multiple sensory comfort
+      elements
+    atmosphere: Perfect synthesis of comfort sensations - fire warmth on skin, aromatic pine smoke, hot drink's internal warmth,
+      and rhythmic flame patterns creating complete sensory embrace
+  composition:
+    cameraAngle: Medium shot showing fire warmth, steam from cup, and aromatic smoke creating multi-sensory comfort environment
+    focus: Multiple comfort elements - fire heat, drink steam, aromatic smoke - combining in single sensory experience
+    depth: 'Foreground: detailed fire flames and cup steam. Middle: protagonist experiencing multi-sensory comfort. Background:
+      pine branches providing aromatic enhancement'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

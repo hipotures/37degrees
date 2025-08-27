@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Son Flees into Foggy Night"
+  setting:
+    time: "August 1912, evening, around 8:00 PM"
+    location: "Front entrance and veranda of Monte Cristo Cottage, New London, Connecticut, August 1912"
+    weather: "Impenetrable fog obscuring everything beyond few feet, complete white-out conditions"
+  characters:
+    - appearance: "23-year-old man several inches taller than Jamie but thin and wiry. Plainly in bad health, much thinner than should be. Dark brown hair sun-bleached to reddish at ends, brushed straight back from high forehead. More like mother than father with her long, narrow Irish face dominated by her large dark eyes. Mouth has same hypersensitivity. Profile recalls father. Despite suntan, skin has sickly yellow pallor and cheeks are sunken. Hands remarkably similar to mother's with same exceptionally long fingers and similar nervousness."
+      clothing: "Most casually dressed of family: shirt, collar and tie but no coat, with old flannel trousers and brown canvas shoes. Attire reflects artistic, nonconformist nature and status as invalid not required to fully observe formal conventions."
+      position: "Standing at edge of veranda, one foot on step leading into fog"
+      action: "Hesitating between safety of porch and dangerous escape into fog, torn between staying and fleeing"
+  scene:
+    mainElements: "Single-story wooden veranda running across front and north side of building. Small single-story tower with pyramidal roof on north side behind veranda. Gable end of main roof faces street creating classical pediment appearance. House painted grey with green trim."
+    details: "Porch light creating small circle of visibility against wall of white fog, steps disappearing into nothingness after first few feet, young man silhouetted against house lights, fog so thick it seems solid and impenetrable"
+    background: "House windows glowing behind him showing family tragedy continuing inside, complete isolation from outside world, fog creating surreal dreamscape"
+    atmosphere: "Desperate desire to escape unbearable family situation contrasted with dangerous fog that could hide him from world or lead him astray, perfect metaphor for drug-like escape from reality, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing figure caught between house light and fog darkness"
+    focus: "Young man torn between family loyalty and desperate need to escape"
+    depth: "Foreground porch and house light, middle ground hesitating figure, background impenetrable fog wall"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Celebration Feast Steam Mingling Above Tables"
+  setting:
+    time: "1924 autumn, evening"
+    location: "Main courtyard of distillery prepared for harvest celebration, Northeast Gaomi District"
+    weather: "Cool autumn evening perfect for outdoor feast"
+  characters:
+    - appearance: "Multiple villagers and workers of various ages, representing distillery community in celebration"
+      clothing: "Festival clothing, best available garments for harvest celebration"
+      position: "Gathered around multiple low tables arranged in courtyard"
+      action: "Preparing to share community feast, observing rising steam from dishes"
+  scene:
+    mainElements: "Community harvest celebration with abundant food preparation, traditional Chinese feast setting"
+    details: "Steam rising from multiple hot dishes creating overlapping vapor patterns, different steam densities suggesting variety of foods, aromatic vapors swirling together in evening air, ceramic dishes with condensation forming on surfaces, wooden serving vessels with heat radiating upward, faces illuminated by warm steam glow, complex layer of mingled food aromas made visible through steam patterns, celebration abundance suggested through multiple steaming dishes, communal sharing atmosphere visible through steam convergence, no text or letters visible"
+    background: "Distillery courtyard decorated for festival, traditional architecture creating celebration backdrop"
+    atmosphere: "Community abundance and shared prosperity, complex flavors suggested through mingling steam patterns, harvest celebration and gratitude made tangible"
+  composition:
+    cameraAngle: "Wide shot capturing multiple steam sources and community gathering"
+    focus: "Overlapping steam patterns and community feast preparation"
+    depth: "Foreground shows steam detail, middle ground reveals feast tables, background includes celebrating community"

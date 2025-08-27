@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Endless Circle - Town Square Eternal Return"
+  setting:
+    time: "Daily circular traffic patterns from 1890 through 1928 showing eternal return"
+    location: "Circular town square in small Mississippi town with Confederate monument at center, surrounded by shop fronts including general merchandise store and telegraph office"
+    weather: "Full day cycle from dawn through sunset showing eternal daily repetition"
+  characters:
+    - appearance: "Black male teenager, grandson of Dilsey, youthful energetic appearance"
+      clothing: "Simple worn work clothes appropriate for servant family member"
+      position: "Actively caring for Benjy, leading him around property"
+      action: "Searching for lost quarter for circus ticket, playing with Benjy, driving horse-drawn buggy"
+    - appearance: "Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless"
+      clothing: "Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit his large frame"
+      position: "Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements"
+      action: "Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed"
+  scene:
+    mainElements: "Round plaza layout, tall white stone pedestal with Confederate soldier statue at center, surrounding commercial building facades, showing eternal circular traffic patterns"
+    details: "Multiple exposure showing daily circular traffic around Confederate monument across four decades: morning, noon, and evening patterns overlapping with various time periods - horse-drawn vehicles 1890s-1900s, early automobiles 1910s-1920s, mature car traffic 1920s. Central focus on final scene: buggy driven by young caretaker with passenger experiencing profound distress when normal clockwise pattern is disrupted, showing how disruption of established order causes chaos for those who depend on routine constancy no text or letters visible"
+    background: "Same monument and surrounding commercial buildings showing architectural evolution while central Confederate statue remains unchanged temporal anchor"
+    atmosphere: "Hypnotic visualization of social ritual where daily circular movement around monument represents Southern society's eternal return to same patterns and values"
+  composition:
+    cameraAngle: "High overhead shot showing circular traffic patterns around central monument"
+    focus: "Confederate monument as eternal center around which traffic flows in endless daily cycles"
+    depth: "Foreground: varying traffic patterns from horse to automobile; middle ground: unchanging monument representing fixed past; background: evolving commercial architecture reflecting regional development"

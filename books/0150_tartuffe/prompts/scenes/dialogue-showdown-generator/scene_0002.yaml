@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Orgon's Obsession Revealed - The Blind Patriarch"
+  setting:
+    time: "1660s France, late morning"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "clear autumn day with natural light filling the room"
+  characters:
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "seated in high-backed chair positioned centrally, leaning forward with intense focus"
+      action: "speaking with rapturous expression whenever Tartuffe's name is mentioned, hands gesturing adoringly, completely ignoring concerns about his wife's health"
+    - appearance: "sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with bright alert eyes, practical manner, brown hair completely concealed under white linen cap"
+      clothing: "plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments"
+      position: "standing beside chair in servant's position but with confident bearing"
+      action: "delivering report on household matters with increasingly obvious irony, rolling eyes at Orgon's obsessive responses"
+    - appearance: "distinguished gentleman in his late forties, tall lean build, thoughtful oval face with intelligent eyes, neatly groomed appearance, wearing fashionable auburn periwig with careful curls"
+      clothing: "well-tailored steel blue silk justaucorps with silver embroidery, ivory silk waistcoat, white linen shirt with fine lace cravat, matching silk breeches, white silk stockings, polished shoes with decorative buckles"
+      position: "standing near window observing the conversation with growing concern"
+      action: "watching Orgon with expression of rational dismay, occasionally shaking head at his brother-in-law's fanatical responses"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, comfortable seating arranged for intimate conversation"
+    details: "afternoon sunbeams highlight dust motes in air, carved wooden furniture shows signs of wealth and status, religious paintings newly prominent on walls since Tartuffe's arrival, fresh flowers in vase on side table wilting from neglect"
+    background: "family portraits watching down from walls like silent judges, doorways leading to private quarters where sick wife presumably rests unattended"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, growing sense of a household master completely divorced from reality"
+  composition:
+    cameraAngle: "medium shot focusing on character reactions and dialogue exchange"
+    focus: "Orgon's transported expression contrasted with Dorine's practical skepticism and Cléante's rational concern"
+    depth: "foreground capturing intimate domestic conversation, middle ground showing luxury furnishings, background suggesting neglected family responsibilities"

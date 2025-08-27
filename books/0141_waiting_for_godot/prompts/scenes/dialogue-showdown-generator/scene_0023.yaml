@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Final Blow - Time's Cruel Victory"
+  setting:
+    time: "Mid-20th century, next evening"
+    location: "Same desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Same man as Act I but now blind, his movements uncertain as he stumbles and falls. Face expresses fear and helplessness where once was arrogance."
+      clothing: "Same elegant attire as Act I but now dirty and disheveled after falling"
+      position: "Stumbling, falling, dependent on the short rope connecting him to Lucky"
+      action: "Struggling to stand after falling, crying out in panic and pain, completely dependent on his former slave"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "Close-up on Pozzo's face as he delivers his devastating speech about time: 'They give birth astride of a grave, the light gleams an instant, then it's night once more.' His blind eyes stare sightlessly ahead as he speaks the play's most nihilistic truth - that time is not progress but decay, not hope but inevitable death."
+    background: "The tree's few new leaves provide cruel irony - nature's false promise of renewal in a world where humans only deteriorate."
+    atmosphere: "The ultimate expression of existential despair, delivered by a man who has lost everything including his sight and illusions."
+  composition:
+    cameraAngle: "Close-up on Pozzo's blind, truth-telling face"
+    focus: "The blind eyes that now see the ultimate truth about existence"
+    depth: "Foreground: Pozzo's face speaking harsh truth; Background: the mocking promise of spring leaves"

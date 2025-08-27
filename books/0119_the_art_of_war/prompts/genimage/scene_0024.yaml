@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, evening after successful integration of conquered territory
+    location: Private chamber within conquered Chu palace, now serving as Wu administrative center
+    weather: Calm evening with peaceful atmosphere of successful conclusion
+  characters:
+  - appearance: Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat
+      training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache
+    clothing: Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves
+      with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist
+    position: Seated before polished bronze mirror that now shows multiple perspectives simultaneously
+    action: Contemplating reflections that reveal past decisions, present reality, and future possibilities
+  scene:
+    mainElements: Polished bronze mirror surface divided into sections, each reflecting different aspects of the campaign
+      - past planning, present victory, future responsibilities - all visible simultaneously in single surface
+    details: Bronze mirror shows incredible craftsmanship with surface polished to impossible clarity, reflecting multiple
+      time periods and perspectives within single viewing surface. Ceremonial bronze sword with straight double-edged blade
+      approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol
+      of military authority appears in reflection showing different aspects - ceremonial function, tactical tool, symbol of
+      authority - all visible simultaneously
+    background: Simple private chamber with minimal furnishing, contrast to elaborate throne rooms, emphasizing personal reflection
+      rather than public display
+    atmosphere: Contemplative wisdom gained through experience, soft evening light creating perfect conditions for reflection,
+      sense of complete understanding achieved through successful campaign, integration of all lessons learned, no text or
+      letters visible to viewer
+  composition:
+    cameraAngle: Close view of mirror surface showing multiple simultaneous reflections with contemplating figure
+    focus: Bronze mirror revealing past, present, and future perspectives in single surface, representing complete strategic
+      understanding
+    depth: Foreground emphasizes mirror reflections and their complexity, middle ground shows king in peaceful contemplation,
+      background suggests simple wisdom environment
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

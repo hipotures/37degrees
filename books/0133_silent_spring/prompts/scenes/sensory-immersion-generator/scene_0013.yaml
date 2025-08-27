@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rachel Carson's Research Study with Scientific Books"
+  setting:
+    time: "1962 evening"
+    location: "Rachel Carson's home study filled with research materials and scientific literature"
+    weather: "Indoor controlled environment, quiet evening"
+  characters:
+    - appearance: "Woman in her mid-50s, medium height with delicate but determined build, oval-shaped face with intelligent, penetrating gaze behind reading glasses, wearing carefully arranged dark wig concealing hair loss from illness"
+      clothing: "Conservative dark business suit or modest dress, professional appearance befitting respected scientist and author, clothing style appropriate to early 1960s America"
+      position: "Seated at wooden desk surrounded by stacks of research materials"
+      action: "Reading scientific journals late into evening, occasionally touching pages and taking notes"
+  scene:
+    mainElements: "Rachel Carson's personal study filled with towers of scientific books, research papers, and journals, dust particles floating in lamplight suggesting aged paper and accumulated knowledge, Carson deeply absorbed in environmental research"
+    details: "Tall stacks of scientific publications creating maze of research materials, dust motes dancing in warm desk lamp light suggesting old paper and leather book bindings, Carson's careful page-turning indicating reverent handling of scientific knowledge, reading glasses reflecting lamplight, pen and inkwell suggesting traditional scholarship methods, evening shadows creating intimate research atmosphere"
+    background: "Personal home study with wooden bookshelves extending floor to ceiling, comfortable reading chair, personal mementos from scientific career, window showing evening darkness outside"
+    atmosphere: "Scholarly dedication and intellectual pursuit, nostalgic atmosphere of traditional academic research, sense of accumulated wisdom and scientific memory, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing Carson within context of research materials"
+    focus: "Relationship between researcher and accumulated scientific knowledge"
+    depth: "Foreground emphasizes books and papers, middle ground shows Carson at work, background reveals broader study environment"

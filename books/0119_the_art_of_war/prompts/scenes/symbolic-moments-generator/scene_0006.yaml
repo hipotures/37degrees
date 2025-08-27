@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Compass Points to War"
+  setting:
+    time: "506 BCE, dawn breaking over military camp"
+    location: "Wu army encampment on march route toward Chu territory, temporary tents and supplies arranged in strategic formation"
+    weather: "Clear dawn with morning mist rising from river valley"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Crouched beside campaign table covered with maps and military instruments"
+      action: "Using transformed compass as military planning tool, no longer mere navigation device"
+  scene:
+    mainElements: "Bronze compass now bears scratched tactical markings around its edges, transformed from simple navigation tool into strategic planning instrument, pointing toward enemy territory rather than merely north"
+    details: "Bronze compass shows new wear patterns and deliberate modifications - small notches carved around rim marking degrees and tactical angles, surface polished from heavy use. Ceremonial military command fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by generals to signal troop movements during battle positioned nearby alongside military planning materials. Leather map case and bronze measuring instruments scattered on wooden campaign table"
+    background: "Military tents in orderly formation, banners marking unit positions, soldiers preparing morning equipment, smoke rising from cooking fires"
+    atmosphere: "Focused military preparation with sense of purpose and direction, morning light revealing well-organized camp, sounds of army awakening to march, scent of wood smoke and leather equipment, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Close view emphasizing compass modifications and its integration into military planning"
+    focus: "Transformed compass with tactical markings and the strategic planning process"
+    depth: "Foreground shows compass detail and markings, middle ground captures strategist using it for planning, background reveals organized military camp ready for campaign"

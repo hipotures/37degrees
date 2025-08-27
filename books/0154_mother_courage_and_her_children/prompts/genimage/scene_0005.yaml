@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1626 spring, apex of military authority
+    location: Interior command tent representing ultimate military power and decision-making
+    weather: Controlled indoor environment isolated from battlefield reality
+  characters:
+  - appearance: High-ranking Swedish general in full dress uniform representing ultimate military authority
+    clothing: Elaborate military uniform with gold braiding, ceremonial sword, insignia of high rank, polished leather boots
+    position: Seated at command table surrounded by maps and strategic materials
+    action: Making strategic decisions that affect thousands of lives, studying military maps, issuing commands to subordinates
+  scene:
+    mainElements: Luxurious military tent with maps tables chairs and evidence of command authority separated from common
+      soldiers' conditions
+    details: Strategic military maps showing troop movements and territorial control, dispatches from other theaters of war,
+      fine furniture contrasting with soldiers' conditions, servant staff maintaining officer comfort, expensive wine and
+      food while soldiers starve
+    background: Command infrastructure supporting decision-making apparatus, communication networks reaching across Europe,
+      bureaucracy of military administration
+    atmosphere: Insulated privilege and decision-making power, comfort contrasting sharply with battlefield conditions, authority
+      exercised without experiencing consequences
+  composition:
+    cameraAngle: Low angle shot emphasizing power and authority of command structure
+    focus: Concentration of military power and decision-making isolated from battlefield reality
+    depth: Foreground shows general with maps, middle ground command furniture and luxury, background suggestion of vast military
+      apparatus
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

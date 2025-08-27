@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Puppet Theater - Society as Performance Where Women Dance to Male Scripts"
+  setting:
+    time: "1792, theatrical lighting suggesting artificial performance rather than authentic life"
+    location: "Grand theater or ballroom transformed into metaphorical puppet stage showing social manipulation"
+    weather: "Artificial indoor lighting emphasizing the manufactured nature of social roles"
+  characters:
+    - appearance: "Women dressed as elaborate marionettes with visible strings connecting them to unseen controllers"
+      clothing: "Beautiful but restrictive period dress modified to show puppet strings and artificial nature"
+      position: "Positioned as dancing puppets moving in patterns determined by their controllers"
+      action: "Performing prescribed feminine behaviors with mechanical precision, their movements controlled by invisible puppet masters"
+    - appearance: "Suggestion of male puppet masters through shadows or partial visibility, representing social control"
+      clothing: "Dark controlling figures whose power is evident through their manipulation of the feminine puppets"
+      position: "Above or behind the puppet stage, in positions of control and manipulation"
+      action: "Pulling strings that control women's movements, words, and behaviors in social performance"
+  scene:
+    mainElements: "Theatrical space transformed into giant puppet theater where women perform roles scripted by male-dominated society"
+    details: "Visible puppet strings connecting women to controllers. Stage machinery showing artificial nature of gender performance. Scripts and cue cards showing prescribed feminine responses. Audience of approving males watching the performance"
+    background: "Ornate theater setting emphasizing the artificial, performed nature of feminine social roles"
+    atmosphere: "Atmosphere of beautiful but sinister control, showing how women's seemingly free choices are actually manipulated performances"
+  composition:
+    cameraAngle: "Wide theatrical shot showing both the puppet performance and the controlling apparatus"
+    focus: "The metaphor of women as beautiful puppets dancing to scripts written by male-dominated society"
+    depth: "Foreground shows puppet performance, middle ground reveals controlling mechanisms, background suggests theater audience approving the show"

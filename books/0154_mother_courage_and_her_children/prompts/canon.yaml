@@ -1,0 +1,144 @@
+canon:
+  characters:
+    - id: "mother_courage"
+      name: "Anna Fierling (Mother Courage)"
+      description_block: |
+        characters:
+          - appearance: "Woman aged 40-52, medium height, stocky robust build with wiry resilient frame, weather-beaten face deeply lined with wrinkles, sharp calculating eyes, graying hair practically pinned up often hidden under headscarf"
+            clothing: "Multi-layered worn peasant clothing in earth tones, thick brown wool skirt, linen shirt, fitted bodice, work apron, heavy cloak or shawl, patched and stained but functional garments"
+            position: "Standing beside or pulling the covered wagon, hands often counting coins or handling merchandise"
+            action: "Conducting business transactions, counting money, negotiating prices, or maintaining her wagon and goods"
+    
+    - id: "eilif"
+      name: "Eilif Noyocki"
+      description_block: |
+        characters:
+          - appearance: "Strong well-built young man aged 20-32, tall with broad chest and solid leg muscles, bold impetuous face expressing arrogance and bravado"
+            clothing: "Initially simple peasant clothes, later mercenary outfit with leather jerkin, breeches and tall boots, progressively better quality garments from war spoils"
+            position: "Standing in confident aggressive stance or performing violent demonstrations"
+            action: "Displaying martial prowess, performing wild war dance with knife, or engaging in brutal military actions"
+    
+    - id: "schweizerkas"
+      name: "Schweizerkas (Swiss Cheese) Feyos"
+      description_block: |
+        characters:
+          - appearance: "Young man aged 18-21, medium build less physically imposing than his brother, honest straightforward face with naive expression"
+            clothing: "Simple peasant clothing, later plain military uniform as regimental paymaster with distinguishing colored jacket or sash"
+            position: "Standing calmly with composed posture or carefully handling the heavy metal regimental cashbox"
+            action: "Performing honest administrative duties, counting regimental funds, or attempting to hide the military cashbox"
+    
+    - id: "kattrin"
+      name: "Kattrin Haupt"
+      description_block: |
+        characters:
+          - appearance: "Mute young woman aged 16-28, disfiguring scar above eye from scene 6 onwards, expressive eyes and gestures compensating for inability to speak"
+            clothing: "Simplest most modest garments in the family, plain dark dress, work apron, headscarf, occasionally trying on Yvette's flashy red boots"
+            position: "Often positioned near the wagon or children, communicating through gestures and facial expressions"
+            action: "Caring for children, performing domestic tasks, or in final scene drumming desperately from rooftop to warn the sleeping city"
+    
+    - id: "cook"
+      name: "Peter Lamb (The Cook)"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man around 40-52, cynical worldly face, opportunistic Dutch camp follower who smokes clay pipe"
+            clothing: "Practical civilian clothes in military camp, worn but once showing hints of former elegance, later ragged and impoverished"
+            position: "Standing near field kitchen or cooking area, often with pipe in hand"
+            action: "Preparing meals, smoking pipe, conducting pragmatic negotiations, or making opportunistic proposals"
+    
+    - id: "chaplain"
+      name: "The Protestant Chaplain"
+      description_block: |
+        characters:
+          - appearance: "Protestant pastor of mature age, face initially expressing piety later showing fear and resignation"
+            clothing: "Initially black clerical robes giving him authority and distinction, later simple worn civilian clothing of a woodcutter"
+            position: "Standing in positions of religious authority or later doing manual labor"
+            action: "Initially preaching and providing spiritual guidance, later chopping wood and adapting to brutal wartime realities"
+    
+    - id: "yvette"
+      name: "Yvette Pottier"
+      description_block: |
+        characters:
+          - appearance: "Young attractive woman aged 21-26, initially provocative and appealing, later hardened and heavily powdered wealthy widow"
+            clothing: "Initially flashy provocative dress with red high-heeled boots and feathered hat, later expensive aristocratic widow's gown"
+            position: "Standing in seductive poses or later displaying newfound wealth and status"
+            action: "Initially plying her trade as camp follower prostitute, later returning as wealthy widow making business transactions"
+
+  locations:
+    - id: "military_road"
+      name: "Military Road/Highway"
+      description_block: |
+        setting:
+          location: "Empty muddy military road through war-torn Central European countryside during Thirty Years War"
+        mainElements: "Wide desolate highway with deep wheel ruts and muddy tracks stretching to horizon, bare leafless twisted trees, harsh windswept landscape"
+        atmosphere: "Isolation, monotony of endless military campaigns, brutal exposure to elements, sense of nomadic existence without permanent home"
+    
+    - id: "military_camp"
+      name: "Military Camp"
+      description_block: |
+        setting:
+          location: "Chaotic Swedish or Catholic army encampment with canvas tents wooden barracks supply wagons and artillery pieces"
+        mainElements: "Scattered heavy canvas tents, rough wooden structures, makeshift cooking fires, fortifications of earth and wood, clotheslines with laundry, weapons stacked against wagons"
+        atmosphere: "Constant movement noise and tension, smell of smoke sweat and cooked food, organized chaos of military life, provisional temporary feeling of wartime existence"
+    
+    - id: "destroyed_village"
+      name: "Destroyed Village"
+      description_block: |
+        setting:
+          location: "Ruined peasant village with half-timbered houses showing fire damage, collapsed roofs and charred beams"
+        mainElements: "Ruins of timber-framed peasant cottages with clay and straw infill, destroyed church tower in background, debris scattered ground"
+        atmosphere: "Horror suffering and destruction, smell of ashes and smoke, silence broken by groans of wounded, visual testimony to war's brutality"
+    
+    - id: "tavern_tent"
+      name: "Military Tavern Tent"
+      description_block: |
+        setting:
+          location: "Interior of large military tavern tent supported by wooden poles with simple tables benches barrels and supply crates"
+        mainElements: "Canvas walls and ceiling, crude wooden furniture made from barrels and planks, shelves with bottles and vessels, soldiers' gear scattered about"
+        atmosphere: "Drinking carousing and moral dissolution, loud music laughter and arguments, smoky from fires and oil lamps, claustrophobic interior space"
+    
+    - id: "parsonage"
+      name: "Country Parsonage"
+      description_block: |
+        setting:
+          location: "Solid stone or plastered parsonage building contrasting with surrounding poverty, snow-covered road leading to substantial wooden doors"
+        mainElements: "Well-built ecclesiastical residence with thick walls and sturdy construction, heavy wooden door representing inaccessible better world"
+        atmosphere: "Cold hunger and desperation, but also moment of choice and dignity, white snow emphasizing starkness of winter survival"
+    
+    - id: "peasant_farmstead"
+      name: "Peasant Farmstead"
+      description_block: |
+        setting:
+          location: "Simple wooden or half-timbered farmhouse with attached barn featuring steep thatched or shingled roof, well or trough nearby"
+        mainElements: "Basic rural architecture with ladder to barn roof, Mother Courage's wagon standing in farmyard, natural wood construction"
+        atmosphere: "Night scene filled with fear and tension, dawn scene with grief emptiness and resignation, rural setting as backdrop for final tragedy"
+
+  items:
+    - id: "courage_wagon"
+      name: "Mother Courage's Wagon"
+      description_block: |
+        details: "Large four-wheeled wooden merchant wagon covered with canvas canopy, filled with military supplies and household goods for sale to soldiers, serves as both shop and home for the family, represents both livelihood and curse that leads to children's deaths"
+    
+    - id: "military_drum"
+      name: "Military Drum"
+      description_block: |
+        details: "Large military marching drum with wooden body and stretched leather drumhead, used by Kattrin in climactic scene to warn sleeping city of approaching Catholic attack, symbol of heroic self-sacrifice and maternal protection of children she'll never have"
+    
+    - id: "leather_money_pouch"
+      name: "Mother Courage's Money Pouch"
+      description_block: |
+        details: "Large worn leather money bag or pouch carried on belt or across shoulder, containing coins from military trades, visual symbol of her business priorities and capitalist mentality that ultimately destroys her family"
+    
+    - id: "regimental_cashbox"
+      name: "Regimental Cashbox"
+      description_block: |
+        details: "Heavy metal military cashbox containing regimental payroll funds, responsibility of Schweizerkas as regimental paymaster, symbol of his fatal honesty when he tries to hide it rather than surrender to enemy forces"
+    
+    - id: "yvettes_red_boots"
+      name: "Yvette's Red Boots"
+      description_block: |
+        details: "Flashy red high-heeled boots worn by camp prostitute Yvette, tried on by mute Kattrin as symbol of her suppressed desires for normal femininity marriage and motherhood, represent everything war has denied her"
+    
+    - id: "military_knife"
+      name: "Military Knife"
+      description_block: |
+        details: "Sharp military knife or dagger used by Eilif in his brutal war dance demonstration, represents his transformation from farm boy to violent soldier, symbol of courage corrupted into murderous aggression"

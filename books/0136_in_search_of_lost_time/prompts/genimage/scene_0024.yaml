@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 'Multiple war periods overlapping: medieval battles, Napoleonic campaigns, Franco-Prussian War, World War I'
+    location: French countryside valley showing accumulated military history
+    weather: 'Different seasons of conflict: spring medieval charge, summer Napoleonic march, autumn 1870 retreat, winter
+      1917 trenches'
+  characters:
+  - appearance: 'Soldiers from different centuries transparently overlapping: medieval knights, Napoleonic infantry, 1870
+      cavalry, WWI infantry'
+    clothing: 'Military evolution: chain mail and surcoats, Napoleonic blue uniforms, 1870 red trousers, WWI horizon blue,
+      all overlapping'
+    position: Different military formations in same valley space, ghostly historical armies sharing terrain
+    action: 'Various combat postures across centuries: knights charging, infantry marching, cavalry retreating, soldiers in
+      trenches'
+  scene:
+    mainElements: 'Valley terrain showing accumulated warfare evidence: medieval earthworks, Napoleonic cannon positions,
+      1870 battlefield markers, WWI trench systems all overlapping.'
+    details: 'Weapons from different periods scattered and overlapping: swords, muskets, rifles, artillery shells. Military
+      equipment evolution visible through transparent historical layers.'
+    background: Valley hills showing strategic importance across centuries. Same river crossing, same high ground, same natural
+      advantages exploited by different armies. Village rebuilt multiple times.
+    atmosphere: War's eternal recurrence in strategic locations where geography determines repeated human conflict. Military
+      necessity transcending historical periods through terrain advantage, no text or letters visible
+  composition:
+    cameraAngle: High panoramic view showing full valley with multiple military periods overlapping
+    focus: Valley terrain as eternal military stage accommodating centuries of warfare
+    depth: Multiple historical military layers occupying strategic positions throughout valley geography
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

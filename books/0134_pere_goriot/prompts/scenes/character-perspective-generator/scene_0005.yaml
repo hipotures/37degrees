@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mirror of Ambition and Self-Doubt"
+  setting:
+    time: "1819, evening"
+    location: "Rastignac's modest room in Vauquer boarding house"
+    weather: "Cold winter night with frost on windows"
+  characters:
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Standing before small cracked mirror, studying his reflection with critical intensity"
+      action: "Examining himself with mixture of determination and doubt after his first social defeat"
+  scene:
+    mainElements: "Through Rastignac's introspective eyes, his modest room appears as both prison and launching pad. The cracked mirror reflects not just his physical appearance but his fractured confidence after the day's humiliation. Yet in the flickering candlelight, he also sees potential for transformation and conquest."
+    details: "From Rastignac's analytical perspective, every detail of his appearance becomes strategic - his provincial clothes appear as obstacles to overcome, his natural good looks as weapons to sharpen. The mirror shows both his current humble state and visions of his future elegant self. Letters from family represent both guilt and motivation."
+    background: "Modest boarding house room with worn furniture, single candle creating dramatic shadows, small window showing frost patterns like maps of future conquest"
+    atmosphere: "Intense self-examination mixed with renewed determination. The room pulses with internal conflict between doubt and ambition, shame and resolve"
+  composition:
+    cameraAngle: "Over Rastignac's shoulder looking into mirror, showing both his face and reflection simultaneously"
+    focus: "The cracked mirror as central element showing both current reality and future dreams reflected in Rastignac's determined expression"
+    depth: "Rastignac's contemplative figure in foreground, cracked mirror reflecting his internal division in middle ground, modest room fading into shadows of past he's determined to escape, no text or letters visible"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Raymond's Apartment as Command Center"
+  setting:
+    time: "1940, night"
+    location: "Raymond's apartment in European quarter of French colonial Algiers"
+    weather: "Hot night with little breeze through open windows"
+  characters:
+    - appearance: "Short man around 30 years old, broad shoulders, boxer's broken nose, well-built muscular frame"
+      clothing: "Well-fitted, slightly flashy clothing such as double-breasted jacket, pressed trousers, polished shoes"
+      position: "Standing with confident, assertive posture, chest slightly puffed out"
+      action: "Making emphatic gestures with hands, speaking with animated expressions"
+  scene:
+    mainElements: "Better furnished apartment than Meursault's, showing Raymond's higher income, table with writing materials for revenge letter, electric lighting illuminating planning session"
+    details: "Writing paper and pen arranged on table, Raymond pacing while dictating letter content, furnished with nicer furniture suggesting successful business dealings, electric lamp casting focused light on writing area. Bottle of wine and glasses showing hospitality."
+    background: "Window open to street sounds, better quality furnishings than neighboring apartments, radio playing softly, evidence of comfortable lifestyle"
+    atmosphere: "Strategic planning session with Raymond feeling in control of situation, warm lighting creating intimate masculine space for plotting revenge"
+  composition:
+    cameraAngle: "Wide shot from Raymond's perspective showing his domain and Meursault as willing participant"
+    focus: "Table with letter-writing materials and Meursault seated as cooperative scribe"
+    depth: "Foreground shows Raymond's gesturing figure, middle ground shows table with writing materials and Meursault writing, background shows well-appointed apartment interior, no text or letters visible"

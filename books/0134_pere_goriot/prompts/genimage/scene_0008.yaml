@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1819, afternoon
+    location: Vauquer boarding house corridor outside Goriot's room
+    weather: Gray afternoon light filtering through dirty windows
+  characters:
+  - appearance: Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent
+      gaze that can be 'terrible' and seems to see through people completely
+    age: 40 years old
+    hair: True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part
+      of his masquerade
+    clothing: Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house
+    posture: Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly
+      assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder
+    position: Standing in corridor, listening to Goriot's pathetic devotion with mixture of contempt and calculation
+    action: Observing Goriot's weakness with cold analysis of how it can be exploited
+  - appearance: Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale,
+      worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive
+      facial expression that shows his simple, honest nature.
+    age: 69 years old
+    hair: Originally powdered daily by barber, now thin and unkempt grey hair
+    clothing: Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts,
+      broken shoes - each piece reflecting his progressive financial decline
+    posture: Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated
+      slouch. In final scenes, spasmatic movements as he clutches golden locket to chest
+    position: In his room, visible through doorway, surrounded by sold possessions
+    action: Speaking tenderly of his daughters while counting remaining coins for their expenses
+  scene:
+    mainElements: Through Vautrin's ruthless perspective, Goriot's paternal love appears as spectacular weakness ripe for
+      exploitation. The old man's devotion represents everything Vautrin despises about society's false sentimentality, yet
+      also presents perfect leverage for manipulation.
+    details: From Vautrin's calculating viewpoint, every aspect of Goriot's sacrifice appears as strategic opportunity - the
+      old man's blindness to his daughters' cruelty, his willingness to impoverish himself, his desperate need for their approval.
+      Vautrin sees not touching paternal love but exploitable pathology.
+    background: Shabby corridor and Goriot's increasingly bare room, stripped of valuables sold for daughters' benefit
+    atmosphere: Cold analytical assessment mixed with predatory satisfaction. The air seems charged with Vautrin's contempt
+      for human weakness and excitement at discovering useful tools
+  composition:
+    cameraAngle: From Vautrin's position showing both his calculating expression and Goriot's pathetic devotion simultaneously
+    focus: The stark contrast between Vautrin's cold manipulation and Goriot's genuine but destructive love
+    depth: Vautrin's predatory analysis in sharp foreground, Goriot's tragic sacrifice visible in middle ground, background
+      shows the physical evidence of progressive exploitation, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

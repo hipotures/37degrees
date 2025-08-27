@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1960s, days after the tragedy
+    location: Village gathering area where community processes the event through traditional discussion
+    weather: Overcast sky reflecting somber community mood
+  characters:
+  - appearance: Elder village men and women in positions of moral authority, faces showing stern judgment
+    clothing: Traditional formal garments appropriate for serious community discussion
+    position: Seated in traditional circle formation for moral deliberation
+    action: Speaking with authority about proper behavior and social consequences
+  - appearance: Younger villagers including women positioned respectfully at edges of gathering
+    clothing: Traditional garments worn with subdued colors appropriate for mourning period
+    position: Listening from periphery, some nodding agreement, others showing conflicted expressions
+    action: Absorbing community judgment while privately processing individual reactions
+  scene:
+    mainElements: Traditional council formation with elders in center, community arranged by age and status, formal discussion
+      of moral issues
+    details: Community engaging in collective moral judgment - elders condemning Hosna's violence while explaining necessity
+      of arranged marriage, traditional voices reinforcing social order that led to tragedy, younger voices mostly silent
+      but faces showing internal conflict between respect for tradition and recognition of injustice, discussion revealing
+      how community protects itself through moral interpretation that preserves existing power structures, no text or letters
+      visible
+    background: Traditional village setting now serving as courtroom for posthumous judgment, familiar spaces charged with
+      moral authority
+    atmosphere: Community attempting to restore moral order through collective condemnation of victim while avoiding examination
+      of systemic failures, traditional authority asserting itself to maintain social stability despite obvious injustice
+  composition:
+    cameraAngle: Circle formation showing traditional hierarchy and community judgment process
+    focus: Elder faces delivering moral judgment with younger faces showing mixed reactions
+    depth: Authority figures in center foreground, broader community arranged in traditional pattern in middle ground, village
+      setting reinforcing social order in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,192 @@
+canon:
+  characters:
+    - id: "benjy_compson"
+      name: "Benjamin 'Benjy' Compson"
+      description_block: |
+        characters:
+          - appearance: "Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless"
+            clothing: "Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit his large frame"
+            position: "Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements"
+            action: "Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed"
+
+    - id: "quentin_compson"
+      name: "Quentin Compson"
+      description_block: |
+        characters:
+          - appearance: "Slender, unimposing white male age 20, lean build suggesting physical weakness from fights with stronger men, sensitive intellectual features, neurotically intense expression, often described in relation to his shadow"
+            clothing: "Harvard student attire from 1910 - formal suit jacket, white collared shirt, necktie, well-dressed appearance maintained even on day of death"
+            position: "Methodical, ritualistic movements especially when arranging personal effects, often walking with measured pace"
+            action: "Obsessively checking pocket watch, cleaning clothing, organizing belongings with precise methodical motions"
+
+    - id: "jason_compson_iv"
+      name: "Jason Compson IV"
+      description_block: |
+        characters:
+          - appearance: "White male age 34, as child was fat and slow with puffy eyes, as adult shows tension and bitterness in facial features, frequently suffers from severe headaches shown through muscle tension, temple rubbing, and eye squinting"
+            clothing: "Practical store clerk attire - simple somewhat worn business suit or shirt and trousers, uninterested in fashion or appearance"
+            position: "Quick nervous purposeful movements, always hurrying, running in and out of buildings"
+            action: "Sharp impatient gestures, reckless driving, chasing after people with hostile intent"
+
+    - id: "caddy_compson_child"
+      name: "Candace 'Caddy' Compson (Child)"
+      description_block: |
+        characters:
+          - appearance: "White female child age 6-12, generally described as beautiful and rebellious, fearless and often dirty, muddy bottom of undergarments from playing in stream, flowers in hair for wedding"
+            clothing: "Simple children's dresses often muddied from outdoor play, wedding dress with long flowing veil like shining wind"
+            position: "Active adventurous poses - climbing trees, sitting in muddy stream, exploring forbidden areas"
+            action: "Bold transgressive behavior - climbing pear tree to peek in windows, deliberately soiling dress, defying adult authority"
+
+    - id: "caddy_compson_teen"
+      name: "Candace 'Caddy' Compson (Teenager)"
+      description_block: |
+        characters:
+          - appearance: "White female teenager age 16-18, beautiful and rebellious, no longer has natural tree scent but wears perfume which distresses family"
+            clothing: "Period appropriate teenage dresses from early 1900s, begins wearing perfume and more mature styling"
+            position: "Increasingly independent posture, meeting with young men, showing signs of romantic involvement"
+            action: "Kissing boys, staying out late, behaviors that alarm her brothers and threaten family honor"
+
+    - id: "dilsey_gibson"
+      name: "Dilsey Gibson"
+      description_block: |
+        characters:
+          - appearance: "Elderly black female, once large woman now her skeleton rises loosely draped in skin without padding that stretches tight again over nearly swollen abdomen, face is countless and sunken, moves slowly but surely, described as indomitable skeleton and ruin or landmark of family"
+            clothing: "Daily wear: simple blue percale dress; Easter attire: royal but worn outfit consisting of maroon velvet cape with lining of faded anonymous fur, purple silk dress, stiff black straw hat perched on turban, dirty white elbow-length gloves"
+            position: "Steady deliberate movements showing dignity despite age, stands as moral backbone of household"
+            action: "Practical household tasks, caring for family members with patient endurance, maintaining order and moral strength"
+
+    - id: "mrs_compson"
+      name: "Mrs. Caroline Bascomb Compson"
+      description_block: |
+        characters:
+          - appearance: "Elderly white female, pale and frail sickly appearance befitting chronic invalid, always appears weak and complaining"
+            clothing: "Always wrapped in shawls or quilted dressing gown, clothing suggests permanent invalidism"
+            position: "Reclining in bed or chair, posture of chronic illness and self-pity"
+            action: "Constant complaining with whining voice, self-centered demands for attention and sympathy"
+
+    - id: "mr_compson"
+      name: "Mr. Jason Compson III"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged white male lawyer and alcoholic, intellectual appearance but showing signs of physical and moral decay"
+            clothing: "Once-elegant lawyer's suit now rumpled and disheveled, suggesting fallen gentleman status"
+            position: "Often holding drink, posture suggesting both intelligence and dissolution"
+            action: "Eloquent cynical conversation punctuated by drinking, philosophical discussions undermined by alcohol"
+
+    - id: "miss_quentin"
+      name: "Miss Quentin (Caddy's daughter)"
+      description_block: |
+        characters:
+          - appearance: "White female age 17, possesses wild beauty inherited from mother, gaping red lips, excessive makeup application, defiant hostile expression toward surroundings"
+            clothing: "Provocative 1920s flapper-style clothing - short skirts and revealing outfits that scandalize Jason, uses cheap cosmetics"
+            position: "Rebellious stance, often positioned as if ready to flee or fight"
+            action: "Visual rebellion through dress and makeup, smoking cigarettes, meeting with circus performer boyfriend"
+
+    - id: "luster_gibson"
+      name: "Luster Gibson"
+      description_block: |
+        characters:
+          - appearance: "Black male teenager, grandson of Dilsey, youthful energetic appearance"
+            clothing: "Simple worn work clothes appropriate for servant family member"
+            position: "Actively caring for Benjy, leading him around property"
+            action: "Searching for lost quarter for circus ticket, playing with Benjy, driving horse-drawn buggy"
+
+  locations:
+    - id: "compson_house_exterior"
+      name: "Compson House Exterior"
+      description_block: |
+        setting:
+          location: "Large two-story white wooden mansion in Greek Revival style with four-column tetrastyle portico in Jefferson, Mississippi, once grand but now showing severe decay with peeling paint and overall air of faded magnificence"
+        mainElements: "Imposing square house structure, four prominent columns supporting front portico, five-window facade arrangement, four-slope roof, white painted wood siding now weathered and peeling"
+        atmosphere: "Decay, lost grandeur, oppression, the weight of former glory now reduced to ruins"
+
+    - id: "compson_house_parlor"
+      name: "Compson House Parlor/Salon"
+      description_block: |
+        setting:
+          location: "Formal front room of Compson mansion with high ceilings, used for important family events including grandmother's funeral and Caddy's wedding"
+        mainElements: "Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano, formal seating arrangement"
+        atmosphere: "Stuffy, funeral-like, claustrophobic, darkness with blocked sunlight creating perpetual gloom"
+
+    - id: "compson_kitchen"
+      name: "Compson House Kitchen"
+      description_block: |
+        setting:
+          location: "Heart of Compson household, Dilsey's domain representing warmth and order in contrast to rest of house"
+        mainElements: "Large wood-burning stove, simple wooden table, basic functional furniture, scents of cooked food"
+        atmosphere: "Warmth, order, activity, the only living space in otherwise dead house"
+
+    - id: "jefferson_town_square"
+      name: "Jefferson Town Square"
+      description_block: |
+        setting:
+          location: "Circular town square in small Mississippi town with Confederate monument at center, surrounded by shop fronts including general merchandise store and telegraph office"
+        mainElements: "Round plaza layout, tall white stone pedestal with Confederate soldier statue at center, surrounding commercial building facades, likely unpaved or poorly bricked streets"
+        atmosphere: "Stagnation, ritual attachment to past, imprisonment in Southern tradition and Lost Cause mythology"
+
+    - id: "harvard_dormitory_room"
+      name: "Quentin's Harvard Dormitory Room"
+      description_block: |
+        setting:
+          location: "Austere academic student room at Harvard University in Cambridge, Massachusetts with view of campus"
+        mainElements: "Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory furnishings"
+        atmosphere: "Claustrophobic, obsessive tension, overwhelming shadows and sense of impending doom"
+
+    - id: "charles_river_bridge"
+      name: "Bridge over Charles River"
+      description_block: |
+        setting:
+          location: "Old stone bridge construction (Anderson Bridge or predecessor Great Bridge) spanning Charles River in Cambridge with city sounds in distance"
+        mainElements: "Gray stone masonry bridge structure, dark flowing water below, urban environment beyond"
+        atmosphere: "Melancholy, cold finality, ultimate destination for Quentin's despair"
+
+    - id: "compson_grounds"
+      name: "Compson Property Grounds"
+      description_block: |
+        setting:
+          location: "Once mile-square estate now reduced to house, vegetable garden, and servants' quarters, with overgrown neglected landscape"
+        mainElements: "Deteriorated property boundaries, overgrown vegetation, porch swing, pear tree growing against wall near Jason's window, nearby stream, ruined fence separating from sold pasture"
+        atmosphere: "Abandonment, territorial loss, shrinking world reflecting family's declining fortunes"
+
+    - id: "stream_on_property"
+      name: "Stream on Compson Property"
+      description_block: |
+        setting:
+          location: "Shallow muddy creek running through Compson grounds where children played and Caddy deliberately muddied her undergarments"
+        mainElements: "Shallow flowing water with muddy banks, surrounding trees and vegetation, stones for sitting or playing"
+        atmosphere: "Lost innocence, childhood memory, site of first transgression and rebellion"
+
+  items:
+    - id: "grandfather_watch"
+      name: "Quentin's Grandfather's Pocket Watch"
+      description_block: |
+        details: "Gold pocket watch inherited from grandfather with broken crystal face and hands removed by Quentin, but internal mechanism continues relentless ticking, represents oppressive nature of linear time and family legacy"
+
+    - id: "pressing_irons"
+      name: "Quentin's Pressing Irons"
+      description_block: |
+        details: "Two heavy black old-fashioned flatirons purchased by Quentin to serve as weights for drowning, representing both literal physical burden and metaphorical weight of despair"
+
+    - id: "benjy_narcissus"
+      name: "Benjy's Broken Narcissus"
+      description_block: |
+        details: "Single often-wilted or broken narcissus flower that Benjy holds in his hand, symbolizing his fragile innocence and natural beauty he cannot articulate"
+
+    - id: "caddy_perfume_bottle"
+      name: "Caddy's Perfume"
+      description_block: |
+        details: "Small glass bottle containing artificial fragrance that replaces Caddy's natural tree scent, representing loss of innocence and introduction of adult sexuality"
+
+    - id: "jason_money_box"
+      name: "Jason's Metal Cash Box"
+      description_block: |
+        details: "Simple metal strongbox where Jason hoards stolen money from Caddy's support payments, represents his greed, pettiness, and emotional emptiness"
+
+    - id: "dilsey_easter_outfit"
+      name: "Dilsey's Royal Easter Ensemble"
+      description_block: |
+        details: "Combination of royal colors (maroon velvet cape, purple silk dress) with signs of wear (faded fur lining, soiled white gloves), symbolizing dignity and spiritual greatness requiring no material wealth"
+
+    - id: "red_necktie"
+      name: "Red Necktie of Circus Performer"
+      description_block: |
+        details: "Bright vulgar red tie worn by Miss Quentin's circus performer lover, representing modern liberated but dangerous world she escapes to"

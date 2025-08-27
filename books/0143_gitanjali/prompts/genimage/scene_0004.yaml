@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1910, late morning under harsh sun
+    location: Stone quarry field near village in rural Bengal, British colonial India
+    weather: Blazing sun with no cloud cover creating intense heat
+  characters:
+  - appearance: Mężczyzna około 30-35 lat o potężnej, muskularnej budowie wynikającej z ciężkiej pracy fizycznej. Nagi tors,
+      skóra ciemna i spalona słońcem. Twarz poorana zmarszczkami i często zroszona potem, ma wyraz stoickiego spokoju i godności.
+      Dłonie wielkie i stwardniałe od pracy.
+    clothing: Proste, zniszczone, poplamione ziemią dhoti. Całe ciało i strój pokryte świętym pyłem pracy.
+    position: Crouched beside massive stone block, one calloused hand pressed against smooth rock surface
+    action: Other hand tenderly cradling newborn infant while stone dust covers both rough worker's skin and baby's impossibly
+      soft flesh
+  - appearance: Newborn infant with perfectly smooth, unmarked skin glowing in harsh sunlight
+    clothing: Simple white cloth swaddling
+    position: Nestled in worker's arms creating ultimate textural contrast
+    action: Sleeping peacefully against rough, dust-covered chest
+  scene:
+    mainElements: Extreme textural juxtaposition where stone-hardened hands and baby-soft skin meet while rock dust settles
+      on both creating visible texture gradients from roughest to smoothest surfaces
+    details: Stony quarry worker's hands show decades of contact with rough stone - calloused palms thick as leather, fingertips
+      filed smooth by constant abrasion, knuckles scarred by sharp rock edges. Against this ultimate roughness rests newborn's
+      skin so soft it seems luminous, unmarked by any texture except gentle downy hair catching golden light. Stone dust settles
+      on both surfaces showing how differently texture absorbs particles - rough skin holds dust in deep creases while smooth
+      baby skin lets particles roll off like water drops. Massive stone block shows chisel marks and natural grain creating
+      landscape of surface textures. Worker's cloth wrapping is worn thin and rough from washing in river stones. No text
+      or letters visible.
+    background: Quarry field scattered with stone blocks of varying surface textures from rough-hewn to polished smooth
+    atmosphere: Sacred moment where life's textural journey from smoothness to roughness becomes visually manifest through
+      divine contrast of aging and innocence
+  composition:
+    cameraAngle: Close-up at chest level emphasizing hand and skin texture contrasts
+    focus: Tactile relationship between weathered stone-worker hands and pristine infant skin
+    depth: 'Foreground: detailed hand and skin textures. Middle: worker and child embrace. Background: quarry stones with
+      various surface treatments'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, early morning muster before battle
+    location: Wu army formation ground near Han River crossing, flat marshland suitable for troop assembly
+    weather: Dawn breaking through river mist, visibility improving with sunrise
+  characters:
+  - appearance: Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years
+      of military training, sharp intelligent dark eyes, high cheekbones
+    clothing: Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft
+      leather boots, occasionally wears light bronze scale armor when in military settings
+    position: Standing on small rise overlooking assembled troops
+    action: Observing transformation of scattered individual soldiers into organized military forest
+  scene:
+    mainElements: Thousands of bronze spear points catch first morning light like countless seedlings grown into mature forest,
+      individual soldiers transformed from scattered seeds into unified military formation
+    details: Large silk banner in deep red color with golden embroidered emblem, mounted on tall wooden pole with bronze spearpoint,
+      used to identify military units and signal commands during battle formations positioned at center of formation. Bronze
+      spear points gleam in dawn light, creating visual pattern resembling dense forest canopy when viewed from elevation.
+      Individual soldiers now part of larger organism, their weapons forming geometric patterns across the field
+    background: Strategic river crossing point on Han River in central China, wide muddy river with gentle current, essential
+      passage between Wu and Chu territories, surrounded by flat countryside visible in distance
+    atmosphere: Tense military anticipation with morning mist rising from water surface, sound of flowing water and creaking
+      leather from army equipment, sense of individual growth becoming collective power, distant sound of enemy preparations
+      across river, no text or letters visible to viewer
+  composition:
+    cameraAngle: Elevated view showing transformation from individual elements to unified mass formation
+    focus: Pattern of spear points creating forest-like visual effect in morning light
+    depth: Foreground shows detailed spear point arrangement, middle ground reveals strategist observing transformation, background
+      shows river crossing and enemy territory beyond
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

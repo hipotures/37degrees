@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Father and Son United by Destiny"
+  setting:
+    time: "Mythical era around XII century BCE during escape from burning Troy"
+    location: "Trojan residential district with family home under attack by Greek forces"
+    weather: "Clear night transformed into apocalypse by massive fires throughout city"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "hastily donned armor over civilian tunic, helmet secured for escape"
+      position: "carrying elderly father on shoulders while leading small child by hand"
+      action: "moving through smoke-filled streets while protecting three generations of family"
+    - appearance: "small child initially, developing into athletic young warrior"
+      clothing: "simple Trojan child's garments, clinging to father's guidance"
+      position: "walking beside father while gripping adult hand for security"
+      action: "struggling to match pace of desperate escape while staying close to family"
+  scene:
+    mainElements: "Trojan residential architecture burning around fleeing family, narrow streets filled with smoke and debris, abandoned possessions scattered in panic"
+    details: "Sacred Penates household god figurines clutched in elderly father's arms, flames reflecting off armor and building stones, household treasures abandoned in flight, other refugees visible in background, Greek soldiers pursuing in distance"
+    background: "Troy's skyline completely engulfed in flames with massive smoke columns, citadel and major buildings collapsing, sounds of final battle echoing through burning city"
+    atmosphere: "Sacred duty transcending personal survival, three generations united in crisis, civilization's end driving family bonds stronger than destruction"
+  composition:
+    cameraAngle: "Two-shot dynamics showing relationship between generations united in crisis"
+    focus: "Multi-generational family group as symbol of continuity surviving civilizational collapse"
+    depth: "Family figures prominently in foreground showing emotional connections, burning city streets in active middle ground, blazing Troy skyline in dramatic background, no text or letters visible"

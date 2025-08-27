@@ -1,0 +1,150 @@
+canon:
+  characters:
+    - id: "narrator"
+      name: "The Narrator"
+      description_block: |
+        characters:
+          - appearance: "Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven face showing traces of internal struggle"
+            clothing: "In village: clean white traditional djellaba with matching turban. In Khartoum: modest Western-style business suit with white shirt"
+            position: "Standing with contemplative posture, often looking toward distance or studying objects intently"
+            action: "Observing surroundings with analytical gaze, occasionally touching forehead in moments of deep thought"
+
+    - id: "mustafa_saeed"
+      name: "Mustafa Sa'eed"
+      description_block: |
+        characters:
+          - appearance: "Handsome Sudanese man around fifty years old, noble broad forehead, wide-set eyebrows forming crescents over eyes, sharply defined nose with hair growing from nostrils, thick graying hair, head in perfect proportion to neck and shoulders"
+            clothing: "Simple farmer's djellaba in earth tones when in village. In London flashbacks: impeccably tailored 1920s British gentleman's suit with waistcoat and pocket watch chain"
+            position: "Upright bearing with mysterious demeanor, often standing with hands clasped behind back"
+            action: "Speaking with enigmatic smile as if conversing with himself, occasionally displaying ice-cold gaze when agitated"
+
+    - id: "hosna_bint_mahmoud"
+      name: "Hosna bint Mahmoud"
+      description_block: |
+        characters:
+          - appearance: "Young Sudanese woman around twenty years old with foreign-type beauty, attractive face with widely-set black eyes mixing sadness with shyness, naturally dark red lips, strong white even teeth, noble bearing"
+            clothing: "Traditional toub wrapped around body and head, notably without henna decoration on hands and feet unlike other village women"
+            position: "Standing with dignified posture despite inner turmoil, often positioned slightly apart from village gatherings"
+            action: "Moving with quiet grace but underlying tension, hands occasionally clenched at sides, eyes reflecting determination mixed with fear"
+
+    - id: "grandfather_hajj_ahmed"
+      name: "Hajj Ahmed (Grandfather)"
+      description_block: |
+        characters:
+          - appearance: "Elderly Sudanese man nearly ninety years old, deeply wrinkled face weathered by desert sun, bright alert eyes, frail but resilient build, white beard"
+            clothing: "Simple clean white djellaba and traditional white turban, modest sandals"
+            position: "Seated cross-legged on mat or standing with slight stoop but dignified bearing"
+            action: "Constantly fingering prayer beads, speaking with gentle wisdom, radiating calm presence"
+
+    - id: "mahjoub"
+      name: "Mahjoub"
+      description_block: |
+        characters:
+          - appearance: "Sudanese man around thirty years old, narrator's childhood friend, practical and grounded demeanor, confident bearing"
+            clothing: "Practical working djellaba suitable for agricultural work, sometimes with tools at waist"
+            position: "Standing with feet planted firmly, gesturing toward village projects or fields"
+            action: "Speaking with pragmatic authority about village affairs, hands moving to illustrate agricultural improvements"
+
+    - id: "wad_rayyes"
+      name: "Wad Rayyes"
+      description_block: |
+        characters:
+          - appearance: "Sudanese man around seventy years old, handsome and vain despite age, known womanizer with predatory bearing"
+            clothing: "Elegant djellaba reflecting his status as man with multiple wives, well-groomed appearance"
+            position: "Standing with arrogant posture, chest out, displaying dominance"
+            action: "Moving with calculated charm and underlying menace, eyes appraising women possessively"
+
+    - id: "bint_majzoub"
+      name: "Bint Majzoub"
+      description_block: |
+        characters:
+          - appearance: "Elderly Sudanese woman in her eighties, direct and unconventional bearing, weathered face showing strength and independence"
+            clothing: "Traditional toub but worn with less convention, sometimes loosely draped"
+            position: "Standing or sitting with bold posture that breaks social conventions"
+            action: "Speaking bluntly while drinking or smoking, gesturing without typical feminine restraint"
+
+    - id: "jean_morris"
+      name: "Jean Morris"
+      description_block: |
+        characters:
+          - appearance: "British woman in her twenties or thirties, described through Mustafa's conflicted perspective as having complex beauty marked by inner struggle"
+            clothing: "1920s British fashion - tailored dress or blouse and skirt, period-appropriate stockings and shoes"
+            position: "Standing with defiant posture, often in confrontational stance"
+            action: "Moving with determined resistance, eyes blazing with challenge and refusal to submit"
+
+  locations:
+    - id: "wad_hamid_village"
+      name: "Village of Wad Hamid"
+      description_block: |
+        setting:
+          location: "Traditional Sudanese village beside bend of Nile River in Northern Province, single-story rectangular clay houses with flat roofs in bayt jalus style, wooden doors and window frames"
+        mainElements: "Earth-toned buildings seeming to grow from ground, date palm groves along riverbank, irrigation channels, old water wheels being replaced by metal pumps"
+        atmosphere: "Timeless agricultural community with hot dry air, sounds of water wheels groaning, cattle lowing, donkeys braying, dogs barking, axes chopping wood"
+
+    - id: "nile_riverbank"
+      name: "Banks of the Nile River"
+      description_block: |
+        setting:
+          location: "Wide slow-flowing Nile River with muddy brown waters, banks lined with date palms and green vegetation, flat cultivated fields extending to desert"
+        mainElements: "Sacred river reflecting vast violet-indigo sky at sunset, great crimson sun appearing to ignite horizon, small boats and occasional steamers"
+        atmosphere: "Life-giving waters with eternal flow, symbol of continuity and fertility, capable of both sustaining and destroying life"
+
+    - id: "mustafa_london_apartment"
+      name: "Mustafa's London Apartment"
+      description_block: |
+        setting:
+          location: "Theatrical recreation of Oriental fantasy in 1920s London dwelling, designed to fulfill European exotic fantasies"
+        mainElements: "Walls covered with exotic fabrics, floors with ornate carpets, ivory and ebony figurines, ostrich feathers, paintings of palm forests and boats on Nile"
+        atmosphere: "Seductive but artificial environment filled with sandalwood and incense fragrance, small flickering lights creating mysterious ambiance"
+
+    - id: "mustafa_secret_room"
+      name: "Mustafa's Secret Room in Sudan"
+      description_block: |
+        setting:
+          location: "Square locked room inside clay house in Sudan, completely Western interior contrasting with traditional exterior"
+        mainElements: "Walls lined floor to ceiling with English-language books, genuine English fireplace with all accessories, photographs of English lovers, mirror reflecting visitor's face"
+        atmosphere: "Silent sterile intellectual space, shrine to Western culture built in heart of Sudan, filled with dust and old paper scent, completely disconnected from sensual world outside"
+
+    - id: "grandfather_house_interior"
+      name: "Interior of Traditional Sudanese Home"
+      description_block: |
+        setting:
+          location: "Simple clay dwelling interior with basic furnishing reflecting traditional Sudanese lifestyle"
+        mainElements: "Red straw mats on floor, minimal furniture, small glasses for mint tea on wooden trays, oil lamps for lighting"
+        atmosphere: "Warm family gathering space with golden afternoon light entering through doorway, peaceful domestic environment filled with sounds of quiet conversation"
+
+  items:
+    - id: "prayer_beads"
+      name: "Grandfather's Prayer Beads"
+      description_block: |
+        details: "Traditional Islamic prayer beads (misbaha) worn smooth from constant use, wooden or stone beads on strong cord, held constantly in weathered hands"
+
+    - id: "english_fireplace"
+      name: "English Fireplace in Sudan"
+      description_block: |
+        details: "Genuine English fireplace with complete accessories absurdly placed in Sudanese clay house, polished brass fittings, carved wooden mantel, representing cultural transplant"
+
+    - id: "oil_lamp"
+      name: "Traditional Oil Lamp"
+      description_block: |
+        details: "Simple brass or ceramic oil lamp with wick, providing flickering warm light in village homes, casting dancing shadows on walls"
+
+    - id: "date_palm"
+      name: "Date Palm Tree"
+      description_block: |
+        details: "Tall date palm with characteristic feathered fronds, symbol of deep roots and stability, bearing clusters of dates, anchored firmly in Sudanese soil"
+
+    - id: "red_straw_mat"
+      name: "Red Straw Mat"
+      description_block: |
+        details: "Traditional woven straw floor mat in red color, used for seating and prayer, becomes tragic witness to violence when stained with blood"
+
+    - id: "english_books"
+      name: "English Literature Collection"
+      description_block: |
+        details: "Extensive library of English-language books with leather bindings, none in Arabic, representing Western knowledge and cultural displacement"
+
+    - id: "mirror"
+      name: "Reflecting Mirror"
+      description_block: |
+        details: "Plain wall mirror in ornate frame reflecting viewer's face, becomes symbolic of identity confusion when narrator sees Mustafa's features in his own reflection"

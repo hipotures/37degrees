@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1819, night
+    location: Vautrin's room in boarding house, private sanctuary of hidden identity
+    weather: Dark winter night with wind howling outside
+  characters:
+  - appearance: Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent
+      gaze that can be 'terrible' and seems to see through people completely
+    age: 40 years old
+    hair: True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part
+      of his masquerade
+    clothing: Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house
+    posture: Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly
+      assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder
+    position: Standing before mirror with wig removed, revealing true red hair and criminal brand
+    action: Seeing himself as heroic rebel against hypocritical society, not as common criminal
+  scene:
+    mainElements: Through Vautrin's self-justifying perspective, his reflection appears noble and truthful while society beyond
+      his window appears corrupt and false. He sees his criminal activities as honest rebellion against universal dishonesty,
+      his violence as authentic response to systemic oppression.
+    details: From Vautrin's self-righteous viewpoint, every element of his criminal identity appears justified - his convict
+      brand as badge of honor from unjust system, his false identity as necessary protection from hypocritical persecution,
+      his violent schemes as logical responses to society's structural violence.
+    background: Private room with removed disguises and hidden weapons, representing his authentic criminal self freed from
+      social masquerading
+    atmosphere: Charged with righteous rebellion and noble criminality. The air pulses with conviction that his evil is more
+      honest than society's disguised corruption
+  composition:
+    cameraAngle: Direct view of Vautrin's reflection showing both his true appearance and his self-perceived heroic bearing
+    focus: Vautrin's unmasked face revealing both criminal reality and self-justified nobility of his rebellion
+    depth: Vautrin's authentic criminal self in foreground accepting his true nature, mirror reflecting his self-perceived
+      heroism in middle ground, dark room hiding weapons and plans representing his war against society, no text or letters
+      visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

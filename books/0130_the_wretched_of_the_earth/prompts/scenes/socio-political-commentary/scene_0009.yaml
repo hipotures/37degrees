@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Elite Privilege vs Mass Deprivation"
+  setting:
+    time: "1950s Algeria, evening"
+    location: "Luxury European villa overlooking impoverished Algerian settlement below"
+    weather: "Golden sunset highlighting contrast"
+  characters:
+    - appearance: "European colonist in Algeria, well-dressed, displaying superiority and contempt toward local population"
+      clothing: "Fashionable 1950s European attire, quality fabrics, modern styling"
+      position: "On villa terrace with cocktail glass"
+      action: "Entertaining guests at poolside party, oblivious to suffering visible below"
+    - appearance: "Weather-beaten Algerian man in his 40s-50s, deep furrows on sun-scorched face, large calloused hands from agricultural work, dignified despite hardship"
+      clothing: "Traditional djellaba or gandoura, woolen burnous for protection, simple earth-toned garments"
+      position: "In settlement below, carrying water containers"
+      action: "Walking long distance to communal water source, bearing burden of survival necessities"
+  scene:
+    mainElements: "Elevated European villa with swimming pool, manicured gardens, terrace party contrasted with sprawling settlement of makeshift housing below"
+    details: "Villa features: crystal swimming pool, elegant outdoor furniture, string lights, uniformed servants, luxury cars in driveway. Settlement below: corrugated metal roofs, dirt paths, outdoor cooking fires, children playing in dust, women carrying water jugs, overcrowded living conditions"
+    background: "Dramatic elevation difference emphasizing social hierarchy, sunset sky connecting both worlds under same heaven"
+    atmosphere: "Stark juxtaposition of colonial privilege and indigenous deprivation, geographic proximity highlighting moral distance"
+  composition:
+    cameraAngle: "Elevated perspective showing both levels simultaneously"
+    focus: "Terrace party above and settlement life below, connecting wealthy leisure with survival struggle"
+    depth: "Villa terrace in upper foreground, settlement in lower middle ground, horizon line dividing privilege from poverty"

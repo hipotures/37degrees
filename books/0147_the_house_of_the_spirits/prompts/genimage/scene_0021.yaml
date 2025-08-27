@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1925-1965, forty years of sunrise and sunset rituals
+    location: Big House rooftop garden where Clara communes with spirits
+    weather: consistent dawn and dusk lighting showing eternal cycle of spiritual practice
+  characters:
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: seated in meditation posture facing both sunrise and sunset simultaneously
+    action: writing in notebooks while communicating with invisible spirits, practicing daily rituals that connect earthly
+      and spiritual realms
+  scene:
+    mainElements: rooftop garden showing Clara's daily spiritual practice across four decades - same meditation spot used
+      for morning and evening communion with spirits, plants and flowers growing and changing with seasons while Clara's ritual
+      remains constant, spiritual continuity transcending temporal change
+    details: garden evolution around consistent spiritual practice - young plants growing into mature trees providing shade
+      for aging Clara, simple bird cages expanding into elaborate aviary, meditation cushions wearing thin from decades of
+      daily use, notebooks accumulating in stacks around sacred space, no text or letters visible
+    background: city skyline changing across decades visible from rooftop - new buildings rising and old structures demolishing
+      while Clara's spiritual practice remains constant, political banners and signs appearing in distant streets during election
+      years
+    atmosphere: eternal quality of daily spiritual discipline transcending temporal change, Clara's communion with invisible
+      realm providing stability amid earthly chaos, dawn and dusk light emphasizing cyclical nature of spiritual practice
+  composition:
+    cameraAngle: elevated rooftop perspective showing Clara's spiritual consistency across time
+    focus: central emphasis on daily ritual as anchor point amid changing world
+    depth: foreground shows detailed garden evolution, middle ground captures Clara across decades, background reveals changing
+      cityscape
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

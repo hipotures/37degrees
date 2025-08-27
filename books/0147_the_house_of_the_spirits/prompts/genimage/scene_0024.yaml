@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1920s, 1940s, 1970s - three periods of conflict in same rural location
+    location: Tres Marías valley serving as site of different types of warfare
+    weather: autumn mist consistent across decades, emphasizing eternal nature of human conflict
+  characters:
+  - appearance: man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates
+      others, strong jawline, determined dark eyes
+    clothing: simple worn mining work clothes, rough brown cotton shirt, patched dark trousers, heavy leather boots
+    position: surveying battlefield aftermath of peasant rebellion in 1920s
+    action: standing victorious over defeated workers with ruthless satisfaction, establishing dominance through violence
+  - appearance: man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and
+      anger, graying hair, stern dark eyes that command respect and fear
+    clothing: impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding
+      boots, wool vest, white cotton shirt
+    position: defending estate against organized labor uprising in 1940s
+    action: commanding private security forces while peasants advance with agricultural tools as weapons
+  - appearance: man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders,
+      most distinctive feature is mutilated right hand missing three fingers from violent punishment
+    clothing: simple peasant work clothes - rough cotton shirts, patched trousers, sometimes traditional poncho, occasionally
+      disguises as priest or vagrant
+    position: leading peasant takeover of estate during 1970s socialist reforms
+    action: raising guitar above head in victory while agricultural workers claim their land rights
+  scene:
+    mainElements: valley serving as eternal battlefield for class struggle - same geographic location witnessing different
+      phases of conflict between landowners and peasants, terrain marked by decades of violence, demonstrating cyclical nature
+      of social warfare
+    details: battlefield evolution across conflicts - makeshift weapons evolving from farm tools to organized resistance equipment,
+      casualty locations marked by crosses and memorials accumulating across decades, landscape scarred by repeated violence,
+      victory and defeat alternating between same social forces, no text or letters visible
+    background: Andes mountains providing constant backdrop while foreground shows shifting power dynamics, estate buildings
+      damaged and rebuilt multiple times, agricultural fields alternately productive and devastated by conflict
+    atmosphere: eternal cycle of violence and revenge playing out across generations, same valley witnessing repeated struggles
+      between oppressor and oppressed, geographic determinism of conflict location
+  composition:
+    cameraAngle: elevated valley perspective showing battlefield across multiple time periods
+    focus: central emphasis on cyclical nature of class warfare in same location
+    depth: foreground shows detailed battle artifacts across eras, middle ground captures opposing forces through time, background
+      reveals consistent geographic setting
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

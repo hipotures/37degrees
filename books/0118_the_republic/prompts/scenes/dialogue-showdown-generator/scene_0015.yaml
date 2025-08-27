@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The New Power Dynamic - Trasymach Humiliated"
+  setting:
+    time: "375 BCE, late evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+      clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+      position: "now positioned lower in frame, seated heavily with defeated posture"
+      action: "face flushed with embarrassed silence, formerly dominant presence diminished by logical defeat"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "elevated by moral authority though physically unchanged"
+      action: "having systematically dismantled cynical arguments about wisdom, goodness, and happiness"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Trasymach's gold jewelry now seeming tarnished in lamplight, the great sophist's famous blush visible on his cheeks, wine cups abandoned during intellectual combat"
+    background: "audience members leaning forward in amazement at seeing the mighty sophist reduced to silence"
+    atmosphere: "dramatic reversal of power as philosophical method triumphs over cynical rhetoric and intellectual bullying"
+  composition:
+    cameraAngle: "composition where previously dominant character is now positioned in weakness"
+    focus: "role reversal showing that true authority comes from wisdom rather than force"
+    depth: "humbled sophist in foreground, victorious philosopher in middle ground, astonished witnesses in background"

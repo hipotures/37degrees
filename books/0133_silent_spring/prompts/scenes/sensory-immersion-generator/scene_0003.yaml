@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Rough Tree Bark Against Smooth Chemical Residue"
+  setting:
+    time: "1962 spring, late morning"
+    location: "Elm tree on Midwestern university campus showing effects of DDT treatment for Dutch elm disease"
+    weather: "Mild spring day with filtered sunlight"
+  characters:
+    - appearance: "Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting dedication to scientific truth over corporate interests"
+      clothing: "White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating scientific profession"
+      position: "Standing beside massive elm tree, hand touching bark surface"
+      action: "Examining texture contrast between natural bark roughness and artificial chemical coating"
+  scene:
+    mainElements: "Massive elm tree trunk showing dramatic textural contrast between deeply grooved natural bark and smooth, artificial chemical residue coating, researcher's fingers tracing boundary between rough organic surface and slick pesticide film"
+    details: "Deep furrows and ridges of mature elm bark creating complex natural texture, glossy chemical coating creating unnaturally smooth patches where DDT treatment has dried, stark visual and tactile contrast between organic roughness and artificial smoothness, researcher's fingertips detecting difference between natural tree surface and chemical residue, small sections where coating has begun peeling away revealing bark beneath"
+    background: "Prestigious university grounds in American Midwest, expansive green lawns beneath towering elm trees, red brick academic buildings covered with ivy, representing centers of learning and scientific inquiry"
+    atmosphere: "Disturbing contrast between natural organic complexity and artificial chemical simplification, sense of environmental intervention masquerading as protection, scientific investigation revealing hidden environmental modification, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up macro view emphasizing textural contrasts"
+    focus: "Hand contact showing difference between rough bark and smooth chemical coating"
+    depth: "Extreme foreground shows detailed bark texture, middle ground reveals researcher examination, background suggests campus environment"

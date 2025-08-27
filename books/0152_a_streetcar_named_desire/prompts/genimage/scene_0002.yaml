@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, early evening in May
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Humid indoor heat, stifling apartment air
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Elegant but inexpensive clothing attempting to maintain facade of refinement. White suit with fluffy bodice,
+      pearl necklace and earrings, white gloves and hat for arrival. Often wears flowing feminine fabrics in soft colors,
+      red or scarlet satin robes at home, tattered white evening gown with rhinestone tiara in climactic scenes
+    position: Standing in center of cramped kitchen, arms extended toward younger woman
+    action: Embracing sister with desperate relief and affection, surveying apartment with barely concealed dismay
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple, practical home clothing - cotton dresses, skirts, blouses without pretensions to elegance. Modest, functional
+      attire reflecting acceptance of working-class life
+    position: Moving forward to embrace sister, hands reaching out welcomingly
+    action: Greeting sister with joy and concern, noticing her nervous state and attempting to comfort
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Harsh electric light casting sharp shadows. Cramped space emphasizing contrast between sisters' life circumstances.
+      Window showing view to neighboring apartments. Basic kitchen appliances and minimal furnishings revealing economic struggles.
+      No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Emotional warmth of reunion tempered by underlying tension and disappointment. Sisters' different paths in
+      life becoming immediately apparent through their contrasting appearances and reactions to living space
+  composition:
+    cameraAngle: Medium shot emphasizing emotional connection while showing environmental constraints
+    focus: Sisters' embrace and contrasting expressions - joy mixed with concern and disappointment
+    depth: 'Foreground: embracing women; middle ground: cramped apartment furniture; background: doorway leading to bedroom
+      through portières'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

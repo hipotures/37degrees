@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1898 spring evening transforming into 1910 April afternoon
+    location: Formal front room of Compson mansion with high ceilings, used for important family events including grandmother's
+      funeral and Caddy's wedding
+    weather: Indoor scene, flickering candlelight transitioning to harsh afternoon sunlight
+  characters:
+  - appearance: White female child age 6-12, generally described as beautiful and rebellious, fearless and often dirty, muddy
+      bottom of undergarments from playing in stream, flowers in hair for wedding
+    clothing: Simple children's dresses often muddied from outdoor play, wedding dress with long flowing veil like shining
+      wind
+    position: Active adventurous poses - climbing trees, sitting in muddy stream, exploring forbidden areas
+    action: Bold transgressive behavior - climbing pear tree to peek in windows, deliberately soiling dress, defying adult
+      authority
+  scene:
+    mainElements: Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano,
+      formal seating arrangement overlaid with the same room twelve years later with wedding flowers and ceremonial arrangements,
+      two temporal layers visible simultaneously
+    details: 'Left half of room shows 1898 funeral setting with heavy black drapes, coffin surrounded by grieving relatives
+      in Victorian mourning dress, closed casket draped with white lilies. Right half reveals same space in 1910 with wedding
+      decorations, white ribbons, and celebration preparations. Central focus: same horsehair sofa where family members sat
+      for both occasions, showing wear patterns accumulated over twelve years, wood grain darker, fabric more faded, dust
+      motes dancing in identical afternoon light shaft no text or letters visible'
+    background: Identical architectural elements - same crown molding, same window frames, same fireplace mantel - showing
+      subtle aging signs like paint darkening, wood settling, minor repairs
+    atmosphere: Melancholy temporal overlap where joy and sorrow occupy same space, emphasizing how family rituals echo across
+      generations in identical settings but with accumulated weight of years
+  composition:
+    cameraAngle: Medium wide shot from parlor doorway showing full room depth
+    focus: Central horsehair sofa serving as temporal anchor between two overlapping epochs
+    depth: 'Foreground: funeral mourners in black left side, wedding guests in celebration attire right side; middle ground:
+      the unchanged sofa bearing witness to both events; background: identical room architecture showing twelve years of subtle
+      aging'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Key That Opens All Doors"
+  setting:
+    time: "1916 England, final moment of wartime espionage mission"
+    location: "Chinese pavilion in English countryside with rain-washed garden visible through windows"
+    weather: "Rain stopping as clouds part, first sunlight breaking through"
+  characters:
+    - appearance: "Chinese professor working as German spy, medium height, discrete build, intelligent controlled face hiding inner tension, dark alert eyes, appearance designed not to attract attention"
+      clothing: "Dark simple suit appropriate for blending into English crowd, plain overcoat and hat, clothing marking him as foreigner trying to appear invisible"
+      position: "Standing with smoking revolver in hand, having just fulfilled mission"
+      action: "Speaking name 'Albert' aloud as artillery barrage begins in distance, key word finally delivered"
+    - appearance: "Elderly English sinologist, very tall with sharp features, gray eyes and silver beard, face showing timeless almost immortal quality, intellectual bearing of lifetime scholar"
+      clothing: "Comfortable scholar's attire: silk Chinese robe or tweed jacket, appropriate for Oriental studies enthusiast"
+      position: "Fallen among scattered papers and books, ultimate sacrifice for knowledge"
+      action: "Dying with expression of understanding rather than pain, final moment of scholarly illumination"
+  scene:
+    mainElements: "Single word 'Albert' hangs in air like golden key, name becoming ammunition that travels across continents to German artillery, spoken syllable transforming from simple identifier into instrument of war, word both meaningless sound and cosmic significance"
+    details: "Name transforms from personal identifier into universal key unlocking chain of military actions, single word carrying power to redirect artillery and change course of war. Albert's name becomes his monument, death giving meaning to lifetime of scholarship by providing final piece of temporal puzzle"
+    background: "Chinese pavilion with scattered books about time theory, gramophone still playing, Ming vase broken on floor, garden visible through windows where rain has stopped and sun breaks through clouds"
+    atmosphere: "Tragic fulfillment of purpose through violence, name echoing in silence after gunshot, moment when personal sacrifice achieves historical significance, sunlight suggesting redemption through knowledge, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both figures with emphasis on spoken word in space between"
+    focus: "The moment when spoken name becomes key that unlocks distant destruction"
+    depth: "Fallen scholar in foreground, standing spy in middle ground, sunlit garden through windows in background suggesting hope beyond tragedy"

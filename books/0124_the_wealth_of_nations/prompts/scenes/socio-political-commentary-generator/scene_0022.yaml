@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Invisible Hand Versus Control"
+  setting:
+    time: "1776, metaphorical moment of economic truth"
+    location: "Busy urban marketplace like Covent Garden surrounded by Georgian brick buildings"
+    weather: "Natural sunlight breaking through artificial restrictions"
+  characters:
+    - appearance: "Merchants, workers, and citizens engaging in voluntary exchange without official oversight"
+      clothing: "Natural working and business attire showing authentic economic activity"
+      position: "freely arranging themselves in patterns of mutual benefit"
+      action: "conducting voluntary exchanges that spontaneously create beneficial outcomes for all participants"
+  scene:
+    mainElements: "Wooden stalls and tables displaying goods, horse-drawn carts and wagons, crowds of people from all social classes, variety of merchandise from food to manufactured goods"
+    details: "Market participants engage in free voluntary exchange creating spontaneous order without central direction. Individual self-interested actions combine to produce beneficial outcomes for entire community. Natural economic patterns emerge organically from human interaction rather than government control"
+    background: "Lively commercial bustle with vendors calling wares, haggling voices, mixture of urban smells from food, animals, and human activity"
+    atmosphere: "Natural economic harmony emerging from voluntary exchange, spontaneous order creating prosperity without central control, human cooperation achieving beneficial results through free interaction"
+  composition:
+    cameraAngle: "Medium wide shot showing natural patterns of voluntary exchange"
+    focus: "Spontaneous economic cooperation producing beneficial results without central direction"
+    depth: "Individual transactions in foreground, broader market patterns in middle ground, natural economic order extending to background"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1840s Mississippi River, early evening
+    location: Makeshift raft floating down Mississippi River between Missouri and Illinois shores
+    weather: Clear evening with gentle river breeze
+  characters:
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+      Freckled face with boyish but wary expression.
+    clothing: Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn
+      shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim.
+    position: Sitting cross-legged on front of raft, handling steering oar
+    action: Guiding raft with long oar while talking companionably with Jim
+  - appearance: 35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark
+      skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family. Strong, work-hardened
+      hands.
+    clothing: Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched
+      and worn. Clothing purely utilitarian without any ornaments.
+    position: Tending small fire in clay fireplace inside canvas wigwam
+    action: Cooking fish for evening meal, glancing up frequently at Huck with protective, fatherly concern
+  scene:
+    mainElements: Platform of lashed logs with steering oar, canvas shelter, fire area, supplies stored underneath wigwam.
+      Simple but functional river home
+    details: Long wooden oar used to guide raft down river, canvas wigwam shelter in center with clay fireplace inside, fishing
+      lines trailing in water, bundles of supplies tied down securely
+    background: Wide Mississippi River stretching between wooded shores, evening sky reflecting on water, distant smoke from
+      riverside settlements
+    atmosphere: Peace and freedom on flowing river, natural equality between companions, escape from land-based social constraints,
+      home and sanctuary on water, no text or letters visible
+  composition:
+    cameraAngle: Low angle from water level showing raft against evening sky
+    focus: Companionable interaction between Huck and Jim as equals on their floating home
+    depth: Raft and characters in foreground, river surface in middle, distant shores and sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

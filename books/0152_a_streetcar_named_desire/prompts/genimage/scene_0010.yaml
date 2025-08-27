@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, very late night after violence
+    location: Working-class street in New Orleans French Quarter, between L&N railroad tracks and Mississippi River. Two-story
+      corner building with weathered white wooden frame turned gray, rickety external stairs, galleries with ornate gables
+    weather: Humid night air, oppressive heat even outdoors
+  characters:
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Disheveled, torn colorful shirt from violence, partially unbuttoned
+    position: Kneeling on street pavement, face turned upward in desperate appeal
+    action: Crying out in anguish and desire, arms stretched toward upper gallery in primal need
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple nightgown, hair disheveled from violence and sleep
+    position: Slowly descending external wooden stairs in trance-like state
+    action: Moving toward violent partner with inexorable attraction despite recent abuse
+  scene:
+    mainElements: Cosmopolitan, racially mixed neighborhood with raffish charm. Street life spills onto sidewalks, verandas,
+      and stairways. Nearby bar with blue piano music, railroad tracks, river warehouses
+    details: Dark street lit by single streetlamp creating dramatic shadows. Man's desperate posture showing complete emotional
+      vulnerability. Woman's slow descent like sleepwalker drawn by irresistible force. Neighbors watching from windows and
+      doorways. Steam rising from manholes. No text or letters visible
+    background: Mix of vitality and decay, humid heat, sounds of blue piano, train whistles, street vendors calling, smells
+      of coffee, bananas, and mustiness from river
+    atmosphere: Primal sexual magnetism overriding logic and safety. Destructive passion proving stronger than self-preservation.
+      Tragic beauty of doomed love cycle
+  composition:
+    cameraAngle: Dramatic low angle emphasizing man's supplication and woman's descent
+    focus: Magnetic pull between abuser and victim in cycle of violence and passion
+    depth: 'Foreground: kneeling figure; middle ground: descending woman on stairs; background: dark street with watching
+      neighbors'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

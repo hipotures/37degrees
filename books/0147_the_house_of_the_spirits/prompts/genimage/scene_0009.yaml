@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1960 through 1974, winter twilight spanning fourteen years
+    location: Clara's bedroom in Big House, same intimate space across multiple temporal phases
+    weather: consistent winter light filtering through lace curtains, emphasizing interior transformation
+  characters:
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: resting peacefully in bed surrounded by notebooks and spiritual artifacts
+    action: writing final entries in notebooks while communicating with invisible spirits preparing for transition
+  - appearance: man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face
+      deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom
+    clothing: elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline
+    position: standing reverently in doorway of sealed shrine room, then later seated at writing desk with Alba
+    action: first preserving room as untouched memorial, later collaborating in writing family history
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: seated beside elderly Esteban at writing desk brought into Clara's former bedroom
+    action: writing collaborative family memoir while surrounded by Clara's preserved notebooks and spiritual artifacts
+  scene:
+    mainElements: bedroom evolution through three distinct phases - Clara's living space with spiritual energy, sealed shrine
+      maintained by grieving Esteban, final transformation into collaborative writing sanctuary where past and present converge
+      through shared storytelling
+    details: room accumulates temporal layers - Clara's notebooks initially scattered on bedside table, later arranged as
+      sacred relics, finally opened and studied for family history project, furniture covers added then removed, dust settling
+      then cleared for new purpose, no text or letters visible
+    background: same intimate bedroom furnishings but emotional atmosphere transforms from mystical life to mournful death
+      to redemptive reconciliation, light quality changes from warm life to dim preservation to renewed purpose
+    atmosphere: sacred progression from spiritual sanctuary to grief memorial to healing collaboration, Clara's presence evolving
+      from physical to ghostly to inspirational guide for family reconciliation
+  composition:
+    cameraAngle: intimate interior view emphasizing room's emotional transformation across time
+    focus: central attention on Clara's enduring influence through physical and spiritual presence
+    depth: foreground shows detailed personal artifacts across phases, middle ground captures changing human occupancy, background
+      reveals room's consistent spiritual significance
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

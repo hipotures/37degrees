@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, afternoon
+    location: Rural road between Marengo asylum and village cemetery in French colonial Algeria
+    weather: Blazing hot afternoon with merciless Mediterranean sun
+  characters:
+  - appearance: Very elderly man over 80 years, deeply wrinkled face, drooping ears, blackheads on skin
+    clothing: Formal but slightly comical funeral attire including felt hat and creased trousers
+    position: Walking slowly with difficulty, often falling behind group
+    action: Weeping openly while struggling to keep pace, wiping tears and sweat from face
+  scene:
+    mainElements: Funeral procession viewed from low child's perspective, making all adult mourners appear as towering dark
+      figures against blazing sky
+    details: Black-clad mourners appearing as giant shadows moving across burning landscape, Thomas Pérez struggling like
+      wounded giant, coffin carried by enormous men, dust clouds rising from their feet. Child's eye level showing legs and
+      lower bodies, faces high above and out of focus.
+    background: Vast Mediterranean landscape appearing enormous from child's viewpoint, buildings looking like mountain ranges,
+      cemetery gates looming like castle entrance
+    atmosphere: Overwhelming sense of adult world as place of incomprehensible rituals and giant emotions, blazing heat making
+      procession seem like march through hell
+  composition:
+    cameraAngle: Very low angle from child's height looking up at towering adult mourners
+    focus: Thomas Pérez's struggling figure appearing enormous and tragic from below
+    depth: Foreground shows dusty ground and adult feet, middle ground shows lower bodies of mourners, background shows towering
+      sky and distant landscape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1911, afternoon
+    location: Village square in Weizhuang during public punishment
+    weather: Harsh afternoon sun creating stark, unforgiving light
+  characters:
+  - appearance: Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style
+      but wears fake braided queue poorly attached. Represents failed modernization
+    clothing: Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village
+      attire. Clothes mark him as pretentious outsider
+    position: Standing over kneeling victim with raised weapon
+    action: Delivering systematic beating with bamboo stick, movements cold and methodical
+  - appearance: Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin
+      queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny
+      ringworm scars on scalp that turn scarlet red when angry or humiliated
+    clothing: Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven
+      cloth typical of rural laborers
+    position: Kneeling on ground, cowering from blows
+    action: Hunched over protecting head with arms, scarred scalp now scarlet red from humiliation and pain
+  scene:
+    mainElements: Public square transformed into theater of violence. Wooden platform or cleared area where punishment is
+      administered. Official symbols visible to legitimize the brutality
+    details: Thin bamboo cane carried by False Foreign Devil as weapon for beating people. Makes sharp cracking sound when
+      used. Symbol of his borrowed, pretentious authority and casual violence. Dust kicked up by struggle
+    background: Crowd of villagers watching in silence, children held close by parents, some faces showing fear while others
+      display cruel satisfaction
+    atmosphere: State-sanctioned violence as public spectacle. System that channels individual sadism into official punishment.
+      Crowd's mixed reactions show how brutality corrupts both perpetrator and witnesses
+  composition:
+    cameraAngle: Eye level capturing both the violence and the crowd's reaction
+    focus: The moment of impact showing the abuse of power and its human cost
+    depth: Foreground captures the victim's suffering, middle ground shows the perpetrator's calculated cruelty, background
+      reveals the community complicit in official violence
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

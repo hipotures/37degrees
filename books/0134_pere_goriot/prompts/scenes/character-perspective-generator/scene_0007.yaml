@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Aristocratic Salon Through Rebel's Eyes"
+  setting:
+    time: "1819, evening"
+    location: "Refined grey-pink salon in aristocratic palace, observed by one who sees through its pretenses"
+    weather: "Clear evening with artificial warmth of hundreds of candles"
+  characters:
+    - appearance: "Vautrin"
+      age: "40 years old"  
+      appearance: "Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent gaze that can be 'terrible' and seems to see through people completely"
+      hair: "True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part of his masquerade"
+      clothing: "Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house"
+      posture: "Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder"
+      position: "Standing invisibly in shadows, observing the aristocratic performance with contemptuous understanding"
+      action: "Watching the social theater with eyes that see the criminal foundation beneath elegant surface"
+  scene:
+    mainElements: "Through Vautrin's cynical perspective, the elegant salon appears as elaborate theater of hypocrisy. The aristocrats' refinement masks the same greed and corruption he knows from criminal underworld. Their elegant gestures and refined conversations are merely prettier versions of the lies and manipulations he practices openly."
+    details: "From Vautrin's rebellious viewpoint, every aristocratic detail reveals deeper corruption - the inherited wealth built on exploitation, the refined manners hiding ruthless self-interest, the elegant clothes purchased with others' suffering. He sees the salon's beauty as cosmetic decoration over fundamental rottenness."
+    background: "Luxurious salon with all its refined elements appearing as elaborate stage set designed to conceal moral bankruptcy"
+    atmosphere: "Bitter recognition of systemic corruption disguised as civilization. The air feels thick with unveiled hypocrisy and the stench of beautiful lies"
+  composition:
+    cameraAngle: "From Vautrin's hidden position in shadows, looking out at the exposed aristocratic performance"
+    focus: "The contrast between surface elegance and underlying corruption that only Vautrin's experienced criminal eye can fully perceive"
+    depth: "Vautrin's shadowed figure in foreground seeing truth, aristocrats performing their refined deceptions in bright middle ground, salon's elegant facade stretched thin over moral emptiness in background, no text or letters visible"

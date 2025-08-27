@@ -1,0 +1,213 @@
+canon:
+  characters:
+    - id: "jean_joachim_goriot"
+      name: "Jean Joachim Goriot (Father Goriot)"
+      description_block: |
+        characters:
+          - name: "Jean Joachim Goriot"
+            age: "69 years old"
+            appearance: "Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale, worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive facial expression that shows his simple, honest nature."
+            hair: "Originally powdered daily by barber, now thin and unkempt grey hair"
+            clothing: "Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts, broken shoes - each piece reflecting his progressive financial decline"
+            posture: "Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated slouch. In final scenes, spasmatic movements as he clutches golden locket to chest"
+
+    - id: "eugene_rastignac"
+      name: "Eugène de Rastignac"
+      description_block: |
+        characters:
+          - name: "Eugène de Rastignac"
+            age: "21-22 years old"
+            appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+            hair: "Black hair, well-groomed in fashionable style"
+            clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+            posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+
+    - id: "vautrin_collin"
+      name: "Vautrin (Jacques Collin, 'Death-Cheater')"
+      description_block: |
+        characters:
+          - name: "Vautrin"
+            age: "40 years old"  
+            appearance: "Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent gaze that can be 'terrible' and seems to see through people completely"
+            hair: "True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part of his masquerade"
+            clothing: "Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house"
+            posture: "Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder"
+
+    - id: "delphine_nucingen"  
+      name: "Delphine de Nucingen"
+      description_block: |
+        characters:
+          - name: "Delphine de Nucingen"
+            age: "20-25 years old approximately"
+            appearance: "Beautiful blonde with sensual, provocative beauty rather than aristocratic elegance. Always dressed in ostentatiously luxurious clothing following latest fashions to display her husband's wealth"
+            hair: "Golden blonde hair styled fashionably"
+            clothing: "Constantly wears newest, most expensive fashions with costly jewelry, fans, and accessories - living mannequin of her banker husband's fortune"
+            posture: "Graceful movements that blend genuine warmth with calculated charm. Her smile often masks unhappiness and longing for true acceptance and love"
+
+    - id: "anastasie_restaud"
+      name: "Anastasie de Restaud" 
+      description_block: |
+        characters:
+          - name: "Anastasie de Restaud"
+            age: "25-28 years old approximately"
+            appearance: "Dazzlingly beautiful brunette with magnificent figure and 'supple waist'. Her style is more restrained and aristocratic than her sister's, but equally expensive"
+            hair: "Dark brown hair styled in aristocratic fashion"
+            clothing: "Aristocratic elegance - restrained but costly garments that display refined taste and social position. Owns ancestral jewelry which she sells for her lover's debts"
+            posture: "More haughty and cruel toward Goriot than her sister. Carries herself with aristocratic pride and disdain. Openly ashamed of her father's common origins"
+
+    - id: "viscountess_beauseant"
+      name: "Viscountess de Beauséant"
+      description_block: |
+        characters:
+          - name: "Viscountess de Beauséant"  
+            age: "30-35 years old approximately"
+            appearance: "Statuesque beauty with cold, aristocratic features. Embodiment of elegance and dignity. Maintains impeccable appearance even during personal tragedy"
+            hair: "Styled in perfect aristocratic fashion"
+            clothing: "Impeccably refined garments characterized by luxurious simplicity. At her farewell ball, wears simple white dress without jewelry, emphasizing her dignity and inner strength"
+            posture: "Formal, restrained bearing with rigid etiquette. Every word and gesture calculated and meaningful. Maintains composure even when publicly betrayed by lover"
+
+    - id: "madame_vauquer"
+      name: "Madame Vauquer"
+      description_block: |
+        characters:
+          - name: "Madame Vauquer"
+            age: "50 years old approximately"
+            appearance: "Plump woman with stale complexion. Face with 'parrot-beak nose' and expression of greed in her eyes. Physically repulsive appearance matching her boarding house's atmosphere"  
+            hair: "Wears faded cap or bonnet"
+            clothing: "Slovenly, cheap, often stained clothing reflecting her miserly nature"
+            posture: "Carries herself with possessive authority over her domain. Always has keys to pantry attached to her belt - symbol of her controlling, avaricious nature"
+
+    - id: "victorine_taillefer"
+      name: "Victorine Taillefer"
+      description_block: |
+        characters:
+          - name: "Victorine Taillefer"
+            age: "19 years old approximately"
+            appearance: "Pale, slender young woman with sad, gentle eyes. Modest, unremarkable appearance that radiates innocence and melancholy"
+            hair: "Simple, modest styling"
+            clothing: "Very simple, poor, modest dresses in dark colors reflecting her status as disinherited daughter"
+            posture: "Quiet, subdued bearing. Often seen with downcast eyes, doing needlework or reading prayer book. Embodies virtue and innocence in corrupt boarding house environment"
+
+  locations:
+    - id: "vauquer_boarding_house"
+      name: "Vauquer Boarding House (Rue Neuve-Sainte-Geneviève)"
+      description_block: |
+        setting:
+          location: "Three-story boarding house with attic in poor district on border of Latin Quarter and Saint-Marcel suburb, 1819 Paris under Bourbon Restoration"
+        mainElements: "Grim building with repulsive dirty yellow painted facade that appears neglected and depressing. Small neglected garden equally run-down. Vertical structure mirrors social hierarchy - finest apartments on first floor for wealthy tenants, progressively worse rooms up to wretched attic garrets for poorest residents"
+        atmosphere: "Suffocating, claustrophobic environment filled with characteristic 'boarding house smell' - disgusting mixture of staleness, cooking odors, dampness and grime. Dimly lit by weak oil lamps casting flickering shadows. Sticky surfaces covered in dust and grease throughout"
+
+    - id: "vauquer_dining_room"
+      name: "Vauquer Boarding House Dining Room"
+      description_block: |
+        setting:
+          location: "Ground floor dining room of Vauquer boarding house, 1819 Paris"
+        mainElements: "Long dining table covered with stained, spotted tablecloth. Old furniture once perhaps elegant, now covered with cracked lacquer and worn, stained upholstery. Everything sticky with accumulated dust and grime"
+        atmosphere: "Dominant colors of dirty yellows, faded browns, grays and greasy grime. Poorly lit by scanty daylight through dirty windows, evening illumination by weak, flickering oil lamps. Heavy with stench and oppressive silence broken only by creaking floorboards and muffled conversations"
+
+    - id: "beauseant_salon"
+      name: "Salon of Viscountess de Beauséant (Faubourg Saint-Germain)"
+      description_block: |
+        setting:
+          location: "Refined grey-pink salon in aristocratic palace in most exclusive district of 1819 Paris under Bourbon Restoration"
+        mainElements: "Imposing residence with great staircases full of flowers, white with gilded railings and red carpet. Interior rooms described as 'marvels of refinement' with every detail showing hereditary wealth and refined taste. Perfect harmony, cleanliness and order throughout"
+        atmosphere: "Subtle, elegant color palette of cool pastels, whites, gold accents and discreet color touches. Bright, spacious rooms with tall windows admitting abundant natural light. Evening scenes illuminated by hundreds of candles in crystal chandeliers. Formal, restrained atmosphere with delicate scent of expensive perfumes and fresh flowers"
+
+    - id: "restaud_mansion"
+      name: "Restaud Mansion (Rue du Helder, Faubourg Saint-Honoré)"
+      description_block: |
+        setting:
+          location: "Elegant palace in prestigious district of 1819 Paris, home of Count and Anastasie de Restaud"
+        mainElements: "Courtyard where purebred horse snorts harnessed to luxurious cabriolet - visual symbol of wealth and nonchalance. Refined interiors with certain artistic disorder suggesting passion rather than rigid etiquette rules the household"
+        atmosphere: "Luxurious but less formal than pure aristocratic salon. Blend of old nobility attempting to maintain status through alliance with new wealth. Tension between aristocratic pretensions and financial pressures"
+
+    - id: "nucingen_house" 
+      name: "Nucingen House (Rue Saint-Lazare, Chaussée-d'Antin)"
+      description_block: |
+        setting:
+          location: "Residence of Baron de Nucingen in new wealthy banking district of 1819 Paris"
+        mainElements: "Modern, luxurious residence reflecting new financial power. Tastefully furnished apartment rented by Goriot for secret meetings between Delphine and Rastignac - their love nest equipped with luxury and good taste"
+        atmosphere: "Represents new financial elite's power. Clean, modern luxury without aristocratic heritage. Cozy, intimate spaces for romantic encounters contrasting with formal public areas"
+
+    - id: "goriot_attic_room"
+      name: "Goriot's Attic Room (Vauquer Boarding House)" 
+      description_block: |
+        setting:
+          location: "Miserable, damp room in attic of Vauquer boarding house, 1819 winter Paris"
+        mainElements: "Small room with sloping ceiling. Damp walls with peeling plaster and water stains. Tiny window admits little light. Simple iron bed, broken chair, small table. Small fireplace with few logs giving more smoke than heat"
+        atmosphere: "Piercing cold and stuffiness. Dominant grays, browns, and damp stains on walls. Lit only by flickering single candle casting long, trembling shadows. Smell of dampness and illness. Silence broken by coughing and dying man's delirium. Complete isolation and abandonment"
+
+    - id: "pere_lachaise_cemetery"
+      name: "Père-Lachaise Cemetery"
+      description_block: |
+        setting:
+          location: "Expansive cemetery on hill in eastern Paris, 1819, with panoramic view over entire city"
+        mainElements: "Highest point of cemetery with pathways and rich vegetation. Open grave for the poor with simple, unplaned coffin. Stone mausoleums and tombstones in background. At foot of cemetery hill, two empty carriages bearing Goriot daughters' coats of arms"  
+        atmosphere: "Late winter afternoon with setting sun casting long shadows. Gray sky and cold weather, possibly snow falling, emphasizing isolation. As dusk falls, city lights below begin twinkling, creating glittering, tempting ocean. Wind, cawing crows, sound of earth striking coffin. Silence and solitude of final confrontation between individual and city"
+
+    - id: "paris_streets_1819"
+      name: "Paris Streets 1819"
+      description_block: |
+        setting:
+          location: "Streets of Paris during Bourbon Restoration, before Haussmann's renovation, 1819"
+        mainElements: "Narrow, winding, dark streets especially in older districts, lacking sidewalks. Mud and filth everywhere due to inadequate drainage system. Striking contrast between wealthy districts with new elegant buildings and neglected, crumbling structures in poor areas"  
+        atmosphere: "Dry cobblestones, sewers without mud or water, grass growing against walls. Unpleasant odors throughout. Streets dirty and muddy, difficult and unpleasant for pedestrian traffic. Visual reflection of social divisions between wealth and poverty"
+
+    - id: "opera_theater_1819"
+      name: "Paris Opera Theater 1819"
+      description_block: |
+        setting:
+          location: "Opera house in 1819 Paris, before construction of Palais Garnier"
+        mainElements: "Small, private box upholstered in red velvet providing intimate world for observing both stage and audience. Ball rooms glittering with candles and gilding. Gaming casino filled with smoke and tension"
+        atmosphere: "Gaslight in theaters was novelty making huge impression. Public spaces for social display, networking, and observing society's games. Mix of refined culture and underlying commercial and romantic calculations"
+
+  items:
+    - id: "goriot_locket"
+      name: "Goriot's Golden Locket"
+      description_block: |
+        details: "Small golden locket containing locks of hair from both daughters, woven into chain. Only treasure remaining to Goriot, symbol of his destructive, fetishistic love that reduced living people to memorial objects. He clutches it spasmatically to his chest during final agony, last physical connection to daughters who abandoned him"
+
+    - id: "vautrin_wig"
+      name: "Vautrin's Black Wig"
+      description_block: |
+        details: "Carefully fitted black wig concealing Vautrin's true red hair. Essential element of his masquerade at boarding house. When it falls during arrest, reveals his true diabolical nature and criminal identity. Symbol of false identity and mask worn to hide criminal past"
+
+    - id: "convict_brand"
+      name: "Convict Brand (T.F.)"
+      description_block: |
+        details: "Letters T.F. (Travaux Forcés - forced labor) burned into Vautrin's shoulder - permanent mark of escaped galley slave. Hidden under clothing as part of his false identity. When revealed by police chief, it exposes his true criminal nature and destroys his boarding house masquerade"
+
+    - id: "silver_service"
+      name: "Goriot's Silver Service"
+      description_block: |
+        details: "Set of elegant silver dishes and utensils, last remnant of Goriot's former wealth. He sells pieces one by one to provide money for daughters' expenses. Each disappearing element visually symbolizes his progressive financial ruin and sacrifice for ungrateful children"
+
+    - id: "promissory_notes"  
+      name: "Financial Promissory Notes"
+      description_block: |
+        details: "Various bills of exchange, IOUs and financial documents that appear throughout novel. Symbols of money's omnipresence and debts that entangle characters. Physical manifestations of financial obligations that drive plot and destroy relationships"
+
+    - id: "rastignac_watch"
+      name: "Rastignac's Watch"
+      description_block: |  
+        details: "Elegant pocket watch given to Rastignac by Delphine, symbol of their relationship and his entry into high society. Later pawned to pay for Goriot's medical care, representing his last gesture of genuine compassion and moral choice"
+
+    - id: "beauseant_farewell_letter"
+      name: "Letter from Beauséant's Lover"
+      description_block: |
+        details: "Letter from Viscountess de Beauséant's lover publicly abandoning her for another woman. She burns it publicly at her farewell ball, symbolic act of maintaining dignity in face of public humiliation and end of era of aristocratic values"
+
+    - id: "family_letters"
+      name: "Rastignac's Family Letters"  
+      description_block: |
+        details: "Letters from Rastignac's impoverished family in provincial France, containing small amounts of money scraped together through sacrifice. Represent his connection to honest values and family love, contrasting with corrupt Parisian relationships"
+
+    - id: "luxury_carriages"
+      name: "Luxury Horse-drawn Carriages"
+      description_block: |
+        details: "Various elegant carriages (cabriolets, closed coaches) belonging to wealthy characters. Key symbols of social status - owning private carriage means belonging to elite and avoiding physical and moral 'mud' of Parisian streets. Rastignac's desire for carriage represents symbolic wish to avoid moral contamination"
+
+    - id: "gaming_chips"
+      name: "Casino Gaming Chips"
+      description_block: |
+        details: "Gambling tokens from casino where Rastignac wins seven thousand francs for Delphine at roulette. Represent risk, chance, and desperate attempts to solve financial problems through luck rather than honest work. Symbol of society where everything becomes gamble for money and status"

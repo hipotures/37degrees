@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1819, morning
+    location: Vauquer boarding house dining room during collective shock of exposure
+    weather: Cold morning light revealing brutal reality to multiple witnesses
+  characters:
+  - appearance: Multiple faces showing simultaneous shock, fear, and recognition as community illusion shatters
+    age: Various ages experiencing collective revelation
+    clothing: Various states of dress as residents experience sudden awakening to hidden dangers
+    posture: Collective recoil and protective positioning as group realizes they have been living with criminal
+    position: Scattered around dining room in various states of shock and defensive positioning
+    action: Experiencing simultaneous revelation that their familiar world contains hidden predators
+  - appearance: Powerfully built, broad-shouldered man emanating physical strength and brutal energy. Penetrating, intelligent
+      gaze that can be 'terrible' and seems to see through people completely
+    age: 40 years old
+    hair: True hair is red (associated with devilish nature and deceit), hidden under carefully fitted black wig that is part
+      of his masquerade
+    clothing: Neat but unremarkable clothes of former merchant - part of his camouflage to blend in at boarding house
+    posture: Moves with predator's confidence. Sweeping, expressive gestures. Can be charming and paternal, but face can instantly
+      assume expression of icy ruthlessness. Bears hidden brand of escaped convict (T.F. letters) burned into shoulder
+    position: Center of room being arrested, transformed from familiar resident to dangerous criminal
+    action: Revealing his true nature as wig falls and convict brand is exposed
+  scene:
+    mainElements: Collective perspective shows entire community experiencing simultaneous shock as comfortable illusions shatter.
+      Every resident processes revelation that familiar, even likeable neighbor was dangerous predator living among them undetected.
+    details: Group consciousness reveals shared experience of betrayed trust - their familiar morning routine transformed
+      into scene from nightmare, comfortable boarding house exposed as criminal's hunting ground, neighborly relationships
+      revealed as predator's camouflage.
+    background: Familiar dining room transformed into crime scene where community's collective security is violently shattered
+    atmosphere: Shared shock and collective realization that safety was always illusion, familiar world contained hidden dangers
+      they never suspected
+  composition:
+    cameraAngle: Wide angle capturing entire community's simultaneous reaction to shared revelation
+    focus: Collective shock as entire group processes same devastating realization simultaneously
+    depth: Multiple residents in foreground showing varied but unified shock, Vautrin's exposure in middle ground revealing
+      community's shared danger, familiar space in background now appearing as place of deception, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

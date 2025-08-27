@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "huckleberry_finn"
+      name: "Huckleberry 'Huck' Finn"
+      description_block: |
+        characters:
+          - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+            clothing: "Worn, oversized clothes likely from charity. Loose, patched pants held up by single suspender. Simple, torn shirt in faded colors. Always barefoot. Battered straw hat with frayed wide brim."
+            posture: "Moves quietly and naturally like someone raised in wilderness. Relaxed, informal posture rejecting civilized stiffness."
+
+    - id: "jim"
+      name: "Jim"
+      description_block: |
+        characters:
+          - appearance: "35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark skin, short curly black hair. Gentle, often worried expression on face showing deep concern for family. Strong, work-hardened hands."
+            clothing: "Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched and worn. Clothing purely utilitarian without any ornaments."
+            posture: "Moves with dignity and strength despite slave status. Shows fatherly authority and protective stance, especially around Huck."
+
+    - id: "tom_sawyer"
+      name: "Tom Sawyer"
+      description_block: |
+        characters:
+          - appearance: "13-14 year old white boy, average height and build. Clean, well-groomed appearance. Lively, intelligent face showing confidence and mischief. Neatly combed hair contrasting with Huck's wild locks."
+            clothing: "Clean, well-fitted middle-class boy's clothing. Proper jacket, pants, and boots. Always presentably dressed as befits respectable family status."
+            posture: "Confident, often theatrical movements. Tends to strike dramatic poses imitating adventure book heroes."
+
+    - id: "pap_finn"
+      name: "Pap Finn"
+      description_block: |
+        characters:
+          - appearance: "Around 50 years old, gaunt but wiry man. Stooped posture from hard living. Long, greasy black hair and beard partially concealing face. Corpse-like pale skin with unhealthy 'fish-belly' whiteness. Bloodshot eyes peering from behind tangled hair."
+            clothing: "Filthy rags and tatters. Disintegrating boots with toes showing through. Old, dented black hat. All clothing dirty and falling apart."
+            posture: "Hunched, often unsteady from alcohol. Aggressive, threatening stance when angry."
+
+    - id: "duke"
+      name: "The Duke"
+      description_block: |
+        characters:
+          - appearance: "Around 30 years old, lean and agile man. Sharp, cunning face with quick, darting eyes. Clean-shaven or small mustache. Energetic, nervous movements."
+            clothing: "Worn but pretentious clothing meant to suggest respectability. Old frock coat, battered top hat, scuffed shoes. Clothing shows past better times but now shabby."
+            posture: "Quick, restless movements. Often theatrical gestures when performing cons."
+
+    - id: "king"
+      name: "The King/Dauphin"
+      description_block: |
+        characters:
+          - appearance: "Around 70 years old, heavyset man with protruding belly. Balding head with gray side whiskers. Face capable of false piety or righteous indignation as needed for schemes."
+            clothing: "Old, worn blue frock coat. Damaged white beaver hat. Dirty shirt. All clothing once formal but now shabby and stained."
+            posture: "Ponderous, deliberate movements. Assumes dignified bearing when playing royal role."
+
+    - id: "colonel_grangerford"
+      name: "Colonel Grangerford"
+      description_block: |
+        characters:
+          - appearance: "Around 60 years old, tall and imposing man with military bearing. Gray hair and beard. Stern, proud facial features. Penetrating gaze showing authority and family pride."
+            clothing: "Immaculate white linen suit, perfectly clean and pressed. Represents Southern plantation owner's status and refinement."
+            posture: "Erect, commanding military posture. Moves with authority and dignity befitting plantation patriarch."
+
+    - id: "widow_douglas"
+      name: "Widow Douglas"
+      description_block: |
+        characters:
+          - appearance: "50-60 year old woman with kind but stern facial features. Matronly figure. Face shows both gentleness and firm resolve regarding proper behavior."
+            clothing: "Dark, modest but well-made dress appropriate for respectable widow. White cap or bonnet on head. Dress shows middle-class respectability."
+            posture: "Proper, upright posture reflecting civilized deportment she tries to instill in Huck."
+
+  locations:
+    - id: "st_petersburg"
+      name: "St. Petersburg, Missouri"
+      description_block: |
+        setting:
+          location: "Small Mississippi River town in Missouri, 1840s. Two-story houses built of brick and wood in simple Federal and Greek Revival styles. Main street leading down to river docks with muddy, unpaved roads."
+        mainElements: "River port with wooden docks, steamboat landing, simple commercial buildings. White-painted houses with front porches and columns. Church steeples visible above treeline."
+        atmosphere: "Sleepy, orderly small town with southern influences. Hot, dusty summers with oppressive social expectations of respectability."
+
+    - id: "pap_cabin"
+      name: "Pap Finn's Cabin"
+      description_block: |
+        setting:
+          location: "Primitive one-room log cabin in Illinois woods across Mississippi River from St. Petersburg. Built hastily from rough, round logs with gaps chinked with moss and mud."
+        mainElements: "Single room with clay chimney, tiny window, heavy wooden door. Packed dirt floor, broken furniture, empty whiskey bottles scattered about."
+        atmosphere: "Dark, claustrophobic, and threatening. Represents poverty, violence, and imprisonment. Smoke and stale alcohol smell."
+
+    - id: "jackson_island"
+      name: "Jackson's Island"
+      description_block: |
+        setting:
+          location: "Uninhabited wooded island in Mississippi River near St. Petersburg. Dense forest of oak and maple trees, sandy beaches, limestone caves for shelter."
+        mainElements: "Large cave serving as natural shelter, clearings for campfires, fresh water springs, abundant wildlife for hunting and fishing."
+        atmosphere: "Natural paradise offering freedom and escape from civilization. Peaceful, idyllic setting where natural law prevails over social rules."
+
+    - id: "the_raft"
+      name: "Huck and Jim's Raft"
+      description_block: |
+        setting:
+          location: "Makeshift raft constructed from pine logs, 12 by 16 feet, floating on Mississippi River. Canvas wigwam shelter in center with clay fireplace."
+        mainElements: "Platform of lashed logs with steering oar, canvas shelter, fire area, supplies stored underneath wigwam. Simple but functional river home."
+        atmosphere: "True freedom and equality. Only place where Huck and Jim can be themselves without social constraints. Home and sanctuary on the water."
+
+    - id: "grangerford_house"
+      name: "Grangerford Plantation House"
+      description_block: |
+        setting:
+          location: "Large whitewashed double log house in Kentucky, representing Southern plantation wealth. Two-story structure with connecting dogtrot breezeway, surrounded by shade trees and outbuildings."
+        mainElements: "Spacious parlor with fancy furniture, carpets, painted fruit, broken clock, and family portraits. Wide covered galleries and separate buildings for slaves."
+        atmosphere: "Surface elegance and hospitality masking violent family feud. Represents Southern aristocratic pretensions built on slavery and honor code violence."
+
+  items:
+    - id: "treasure_money"
+      name: "Huck's Treasure Money"
+      description_block: |
+        details: "Six thousand dollars in gold coins from treasure found with Tom Sawyer. Stored in bank under Judge Thatcher's management, earning interest. Represents both opportunity and corruption's source."
+
+    - id: "raft_steering_oar"
+      name: "Raft Steering Oar"
+      description_block: |
+        details: "Long wooden oar used to guide raft down Mississippi River. Essential tool for navigation and survival. Symbolizes self-determination and freedom of movement."
+
+    - id: "jims_hair_ball"
+      name: "Jim's Hair Ball"
+      description_block: |
+        details: "Large hair ball from ox stomach used by Jim for fortune telling. Traditional folk magic object representing alternative wisdom systems outside white society's control."
+
+    - id: "letter_to_miss_watson"
+      name: "Letter to Miss Watson"
+      description_block: |
+        details: "Handwritten letter by Huck informing Miss Watson of Jim's location. Paper and ink representing moral choice between societal law and personal conscience. Torn and discarded in crucial moral decision."
+
+    - id: "hucks_rifle"
+      name: "Huck's Rifle"
+      description_block: |
+        details: "Single-shot hunting rifle typical of 1840s frontier. Used for hunting game and self-defense. Represents both survival necessity and potential violence in uncivilized world."

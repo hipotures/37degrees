@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Servant's Hidden Knowledge of Master's Humanity"  
+  setting:
+    time: "1575, early morning routine"
+    location: "Small square room connected to circular library in Montaigne's tower, French castle"
+    weather: "Quiet dawn before household awakens"
+  characters:
+    - appearance: "Middle-aged castle servant in 40s with intelligent eyes, weathered hands from work, observant expression"
+      clothing: "Simple servant's clothing, practical garments for castle maintenance work"
+      position: "Quietly entering study to clean fireplace and arrange papers"
+      action: "Moving carefully through master's private space, observing intimate details others never see"
+    - appearance: "Master philosopher asleep in chair beside dying fire, face relaxed and vulnerable"
+      clothing: "Simple nightrobe, golden chain set aside, appearing human rather than scholarly"
+      position: "Slumped in chair where he fell asleep while writing, unguarded and peaceful"
+      action: "Sleeping deeply with manuscript pages scattered around feet, snoring softly"
+  scene:
+    mainElements: "Private intimate space revealing master's humanity hidden from public philosophical persona"
+    details: "Dying embers cast gentle light on sleeping figure showing vulnerability rather than wisdom, scattered manuscript pages reveal personal struggles with ideas rather than polished thoughts, empty wine cup suggests human need for comfort during difficult contemplation, servant's gentle movements show protective care for master's privacy, philosophical inscriptions on ceiling seem to watch over sleeping thinker, servant notices small human details others ignore - crumbs from late meal, ink stains on fingers, worry lines on sleeping face, no text or letters visible"
+    background: "Scholarly atmosphere transformed by servant's perspective into space where human needs supersede intellectual pursuits"
+    atmosphere: "Protective intimacy of servant who knows master's private humanity, gentle recognition of universal human frailty beneath social roles"
+  composition:
+    cameraAngle: "Servant's caring perspective showing both respect and intimate knowledge of master's humanity"
+    focus: "Contrast between public philosophical persona and private human vulnerability"
+    depth: "Foreground shows servant's careful movements, middle ground captures sleeping philosopher, background reveals scholarly setting humanized, no text or letters visible"

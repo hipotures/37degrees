@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stone Foundation Building and Crumbling Simultaneously"
+  setting:
+    time: "Construction and decay overlapping in same moment, all lighting conditions"
+    location: "Down House stone foundation and basement, Kent countryside"
+    weather: "Dry construction day overlaid with wet decay conditions"
+  characters:
+    - appearance: "Victorian-era stonemasons and builders in work clothes"
+      clothing: "Rough work shirts, leather aprons, sturdy boots, caps"
+      position: "Building foundation stones overlaid with modern archaeologists examining ruins"
+      action: "Laying foundation stones overlapping with measuring and documenting deteriorated remains"
+  scene:
+    mainElements: "Stone foundation showing simultaneous construction and archaeological excavation of same structure"
+    details: "Foundation stones being precisely laid by skilled masons overlaid with same stones weathered, cracked, and partially buried, mortar fresh and white becoming aged and crumbling, construction tools overlapping with archaeological equipment, foundation trenches being dug overlaid with excavation revealing buried remains, wooden scaffolding aging and rotting in compressed time, building materials fresh and orderly becoming scattered archaeological artifacts, no text or letters visible on stones or tools"
+    background: "Down House structure rising above foundation overlaid with ruins and grown-over landscape, mature trees replacing construction staging areas"
+    atmosphere: "Simultaneous creation and entropy, human construction efforts overlaid with inexorable natural reclamation, circular nature of building and decay"
+  composition:
+    cameraAngle: "Low angle from foundation level showing construction and ruins simultaneously"
+    focus: "The foundation stones as symbols of human permanence and impermanence"
+    depth: "Foreground: detailed stonework in both states, middle: workers across time, background: building in various states of completion and decay"

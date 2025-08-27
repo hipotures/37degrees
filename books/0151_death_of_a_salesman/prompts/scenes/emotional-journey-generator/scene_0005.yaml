@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Morning Ritual - Family Dynamics in Quiet Tension"
+  setting:
+    time: "1949, morning"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "morning light filtering through windows"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "standing at old refrigerator, reaching inside"
+      action: "preparing simple breakfast while glancing worriedly toward stairs where family sleeps"
+    - appearance: "32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner emptiness, well-groomed appearance, practiced charming smile"
+      clothing: "slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project image of success"
+      position: "sitting at table with coffee cup"
+      action: "reading newspaper while occasionally looking toward stairs, maintaining facade of normalcy"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, morning domestic routine with undercurrent of family tension"
+    details: "Coffee cups and simple breakfast items on worn table. Newspaper showing outside world of business and success. Morning light creating natural illumination but not quite dispelling shadows of family worry. Third chair waiting for absent family member."
+    background: "kitchen extending toward living room entrance, stairs ascending to where troubled father sleeps, cabinets showing wear from years of family meals"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, morning routine masking deeper concerns about family stability"
+  composition:
+    cameraAngle: "wide shot showing full kitchen space with multiple family members in daily routine"
+    focus: "woman's careful attention to domestic duties while maintaining awareness of family's emotional state"
+    depth: "foreground shows breakfast preparations, middle ground captures two family members in morning ritual, background reveals staircase and extended home where other family members remain absent"

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1840s Arkansas, afternoon
+    location: Silas Phelps's cotton plantation farmyard
+    weather: Hot, sunny afternoon with intense heat
+  characters:
+  - appearance: 13-14 year old white boy, average height and build. Clean, well-groomed appearance. Lively, intelligent face
+      showing confidence and mischief. Neatly combed hair contrasting with Huck's wild locks.
+    clothing: Clean, well-fitted middle-class boy's clothing. Proper jacket, pants, and boots. Always presentably dressed
+      as befits respectable family status.
+    position: Standing in farmyard enthusiastically gesturing
+    action: Explaining elaborate, romantic rescue plan with theatrical excitement and complete disregard for Jim's suffering
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+    clothing: Borrowed clean clothes for visiting, trying to maintain respectable appearance
+    position: Standing beside Tom, looking increasingly frustrated
+    action: Listening with growing exasperation to unnecessarily complex rescue schemes
+  scene:
+    mainElements: Typical small cotton plantation with main house, outbuildings, slave quarters, and fields stretching to
+      horizon
+    details: Small wooden cabin where Jim is imprisoned, cotton plants in nearby fields, farm equipment, chicken coop, well
+      with rope and bucket, split-rail fences
+    background: White-painted farmhouse with front porch, wooden outbuildings, Arkansas countryside with cotton fields under
+      blazing sun
+    atmosphere: Return of romantic adventure fantasy disrupting real moral progress, Tom's book-learned schemes trivializing
+      serious human freedom, no text or letters visible
+  composition:
+    cameraAngle: Medium shot showing both boys in context of plantation setting
+    focus: Contrast between Tom's enthusiastic scheming and Huck's practical frustration
+    depth: Boys in farmyard in foreground, farm buildings in middle, cotton fields and sky in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Human Cogs - Dehumanization of Labor"
+  setting:
+    time: "1513, pre-dawn labor hours"
+    location: "Workshops and construction sites where laborers work in mechanized patterns"
+    weather: "Cold morning mist"
+  characters:
+    - appearance: "Workers of various ages, faces showing exhaustion and resignation"
+      clothing: "Identical work garments, practical but worn, showing signs of repetitive labor"
+      position: "Arranged in assembly-line formation performing synchronized tasks"
+      action: "Moving in mechanical patterns, their individual humanity lost in collective labor rhythm"
+  scene:
+    mainElements: "Workshop organized like machine with human components. Workers moving in synchronized patterns dictated by efficiency rather than human comfort. Overseers timing and measuring output."
+    details: "Tools and materials arranged to force specific movement patterns. Workers' faces showing blank expressions of exhaustion. Productivity charts and quotas posted on walls. Evidence of punishment for those who break rhythm."
+    background: "Factory-like environment where humans serve machinery and systems rather than being served by them."
+    atmosphere: "Dehumanizing environment where individual worth measured only by productive output. Human dignity sacrificed to systemic efficiency."
+  composition:
+    cameraAngle: "Wide shot showing repetitive patterns of human labor"
+    focus: "Workers as interchangeable parts in larger machine of state power"
+    depth: "Foreground shows individual worker details, middle ground reveals synchronized patterns, background displays overseers and control systems"

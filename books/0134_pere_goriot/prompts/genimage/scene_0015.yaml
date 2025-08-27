@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1819, early morning
+    location: Vauquer boarding house kitchen and corridors before residents wake
+    weather: Pre-dawn darkness with first hints of gray morning light
+  characters:
+  - appearance: Faithful servant from pensjonat, hardworking man who maintains boarding house operations
+    age: Adult working man, exact age unspecified
+    hair: Working man's simple styling
+    clothing: Practical working clothes suitable for manual labor
+    posture: Efficient movements of experienced domestic worker
+    position: Moving through boarding house performing invisible labor that keeps establishment functioning
+    action: Preparing for day while observing residents' private moments and hidden truths
+  scene:
+    mainElements: Through the servant's insider perspective, the boarding house appears as complex mechanism requiring constant
+      maintenance. He sees the reality behind every resident's facade - Goriot's true poverty, Vautrin's suspicious activities,
+      Rastignac's financial struggles, the residents' petty cruelties and desperate schemes.
+    details: From Christophe's working perspective, every aspect of boarding house life appears as labor to be managed - cleaning
+      up after residents' dramas, serving meals while overhearing secrets, maintaining facades while knowing ugly truths.
+      His position allows him to witness what others try to hide.
+    background: Kitchen and service areas where real work happens, contrasting with residents' performed dramas in public
+      spaces
+    atmosphere: Quiet efficiency mixed with insider knowledge of hidden realities. The air feels charged with secrets witnessed
+      and truths observed from service's invisible position
+  composition:
+    cameraAngle: From servant's working level perspective, showing both his essential labor and his unique view of residents'
+      hidden truths
+    focus: The contrast between visible performances and invisible realities that only service workers witness
+    depth: Servant's efficient labor in foreground keeping establishment functioning, residents' private moments visible in
+      middle ground, boarding house machinery of survival operating in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

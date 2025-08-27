@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1792, dim afternoon light filtered through restricted library windows
+    location: Library section designated for women's use, showing severely limited intellectual resources
+    weather: Overcast day with poor light, suggesting limitation and restriction of enlightenment
+  characters:
+  - appearance: Young woman in her 20s with intelligent eyes showing frustration at limited intellectual resources
+    clothing: Simple but neat dress appropriate for library use, suggesting serious intent to learn rather than social display
+    position: Standing before nearly empty bookshelf designated for feminine reading
+    action: Reaching toward sparse collection of approved women's literature while casting longing glances toward richer sections
+      forbidden to her
+  scene:
+    mainElements: Library interior with dramatic contrast between full shelves in men's section and nearly empty shelves in
+      women's area
+    details: Women's section contains only novels, religious texts, and household manuals while men's area displays philosophy,
+      science, politics, and classical literature. Physical barriers or signs indicating restricted access. Books literally
+      locked away from women's reach
+    background: Full bookshelves visible but forbidden, representing vast knowledge denied to women
+    atmosphere: Atmosphere of intellectual starvation and systematic denial of knowledge, showing how society deliberately
+      keeps women ignorant while claiming they lack natural capacity for learning
+  composition:
+    cameraAngle: Medium shot emphasizing the contrast between abundant forbidden knowledge and scarce permitted reading
+    focus: The systematic intellectual deprivation of women despite their obvious hunger for knowledge
+    depth: Foreground shows limited women's collection, middle ground shows frustrated reader, background shows abundant forbidden
+      knowledge
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

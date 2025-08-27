@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: Timeless moment representing economic truth
+    location: Symbolic representation of ideal economic system in natural harmony
+    weather: Perfect natural lighting suggesting harmony and truth
+  characters:
+  - appearance: Citizens of all classes participating freely in natural economic system without coercion
+    clothing: Clothing showing individual choice and prosperity rather than uniformity or poverty
+    position: arranged in natural patterns of cooperation and mutual benefit
+    action: engaging in voluntary exchange that benefits all participants while preserving individual freedom
+  scene:
+    mainElements: Harmonious economic system where voluntary exchange creates universal prosperity, natural cooperation replacing
+      artificial control, individual freedom coexisting with social benefit
+    details: Perfect balance between individual liberty and social welfare achieved through natural economic law. People engage
+      in voluntary exchange creating mutual benefit without central direction. Prosperity emerges naturally from free cooperation
+      rather than government control
+    background: Ideal economic landscape showing natural harmony between agriculture, manufacturing, and trade, all functioning
+      in voluntary cooperation
+    atmosphere: Ultimate vision of economic justice through natural liberty, perfect balance of individual freedom and social
+      benefit, harmony achieved through understanding rather than control
+  composition:
+    cameraAngle: Elevated view showing harmonious economic system in full scope
+    focus: Perfect balance of individual liberty creating universal prosperity through voluntary cooperation
+    depth: Individual freedom in foreground, social cooperation in middle ground, natural economic harmony extending infinitely
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

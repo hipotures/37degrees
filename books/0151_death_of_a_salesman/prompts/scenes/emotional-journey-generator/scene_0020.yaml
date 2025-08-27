@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Storm at Worst - Maximum Emotional Tension Before Dawn"
+  setting:
+    time: "1949, pre-dawn darkness"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "darkest hour before dawn, storm winds rattling windows"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "simple nightgown and worn robe, practical slippers, appearance of someone woken from sleep by family crisis"
+      position: "standing at kitchen window, pressed against glass"
+      action: "staring out into darkness searching for missing family member, hands pressed flat against cold window"
+    - appearance: "32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner emptiness, well-groomed appearance, practiced charming smile"
+      clothing: "hastily thrown on shirt and trousers, disheveled appearance showing he was awakened suddenly"
+      position: "pacing back and forth across kitchen"
+      action: "running hands through hair repeatedly, checking clock on wall, stopping to listen for sounds of return"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, family vigil for missing member"
+    details: "Clock on wall showing very late hour. Window offering view of empty yard and surrounding buildings. Coffee pot forgotten on stove from hours of waiting. Two chairs pulled back from table suggesting other family members have given up waiting."
+    background: "kitchen extending into darkened living room, stairs leading to upper floor, domestic space filled with anxiety and dread"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, maximum anxiety and fear as family waits through darkest hour"
+  composition:
+    cameraAngle: "medium shot capturing both figures in their separate anxieties"
+    focus: "two family members dealing with crisis in different ways - one watching, one pacing, both consumed with worry"
+    depth: "foreground shows kitchen table with evidence of long vigil, middle ground captures two figures at peak of anxiety and fear, background reveals domestic space transformed into scene of family crisis"

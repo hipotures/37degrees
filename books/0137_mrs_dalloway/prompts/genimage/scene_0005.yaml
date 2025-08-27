@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: June 1923, afternoon around 3:00 PM
+    location: Small attic bedroom in Georgian terraced house, Westminster district, private sanctuary
+    weather: Afternoon sunlight slanting through narrow window
+  characters:
+  - appearance: 52-year-old woman, slender and filigranous build with delicate frame, sharp aristocratic facial features with
+      prominent hooked nose like bird's beak, very white hair from illness, small face with bright intelligent eyes, moves
+      with natural grace and elegance
+    clothing: Simple elegant day dress in light color, cloche hat and gloves for morning walk, evening dress in shimmering
+      green silk in mermaid style for party, well-dressed but not ostentatious according to modest spending habits
+    position: Standing before small mirror in bedroom, studying her reflection
+    action: Examining herself with mixture of self-doubt and self-acceptance, preparing mentally for evening party
+  scene:
+    mainElements: Small room on upper floor of Westminster house, sparse almost monastic appearance
+    details: Through Clarissa's introspective gaze, mirror becomes portal to self-examination, reflection showing both her
+      social mask and vulnerable inner self, afternoon light revealing every line and shadow on her face, room's simplicity
+      emphasizing her need for privacy and authenticity, furniture appearing as silent witnesses to her internal struggles,
+      window framing her isolation within busy city, no text or letters visible
+    background: Narrow single bed, simple furniture, austere white and grey color palette, window showing Westminster rooftops
+      and distant sky
+    atmosphere: Quiet intimate solitary sanctuary, psychological space of honest self-confrontation, afternoon light creating
+      mood of contemplation and acceptance, sense of being suspended between public performance and private truth
+  composition:
+    cameraAngle: Close-up from mirror's perspective, showing Clarissa's face with intimate psychological detail
+    focus: Her reflection in mirror, capturing both the social hostess and the vulnerable woman behind the facade
+    depth: Mirror reflection in immediate foreground, her actual figure in middle ground, sparse room details in background
+      suggesting psychological isolation
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

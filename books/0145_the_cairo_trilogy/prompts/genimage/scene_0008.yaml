@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Autumn 1917 celebration to autumn 1944 diminished gathering
+    location: Main reception room of Al-Jawad family house during traditional feast
+    weather: Cool autumn evening both periods
+  characters:
+  - appearance: 40-year-old Egyptian woman, medium height, slender delicate build, chestnut hair hidden under brown headscarf,
+      small dreamy eyes, elongated face with delicate features, small thin nose, distinctive black mole on cheek
+    clothing: 'Simple long domestic dress, brown headscarf covering hair completely, when outside: black enveloping cloak
+      (milaja) and face veil'
+    position: Moving quietly and gracefully, gestures restrained and modest
+    action: '1917: Serving abundant feast to full family, 1944: Sitting quietly with few remaining members'
+  scene:
+    mainElements: Interior of traditional Cairene middle-class house organized around small open courtyard (hosh) providing
+      light and ventilation, serving as setting for family meals across generations
+    details: '1917: Persian Shiraz carpet with rich multicolored patterns covered with abundant feast, brass trays gleaming
+      with multiple dishes, oil lamps providing warm flickering light, full family gathered around low table. 1944: Same carpet
+      now faded and worn, fewer dishes on tarnished brass, electric lighting harsh compared to oil lamps, empty spaces where
+      family members once sat, no text or letters visible'
+    background: Whitewashed walls contrasting with dark massive wooden furniture, same architectural elements showing 27 years
+      of accumulated wear and reduced maintenance
+    atmosphere: Transformation from celebration abundance to wartime scarcity, temporal weight of family losses evident in
+      empty spaces, shift from warm community gathering to sparse survival meal
+  composition:
+    cameraAngle: Wide view of room showing contrast in occupancy and abundance
+    focus: Empty spaces where family members once gathered, emphasized by remaining solitary figures
+    depth: 'Foreground: feast remains versus simple meal, middle ground: populated versus sparse seating, background: same
+      architecture showing accumulated age'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

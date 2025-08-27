@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1820, late evening
+    location: Grand ballroom in Faubourg Saint-Germain during viscountess's farewell ball
+    weather: Clear winter night with hundreds of candles creating artificial warmth
+  characters:
+  - appearance: Magnificently dressed crowd in evening finery, jewels, and formal attire displaying wealth and status
+    age: Various ages of aristocratic and wealthy elite
+    clothing: Elaborate ball gowns and formal evening wear representing pinnacle of fashion and luxury
+    posture: Elegant dancing, socializing, and celebration while remaining unaware of tragedy unfolding simultaneously
+    position: Filling ballroom in swirling patterns of dance and social interaction
+    action: Celebrating and dancing in magnificent spectacle while individual tragedy occurs elsewhere
+  - appearance: Statuesque beauty with cold, aristocratic features. Embodiment of elegance and dignity. Maintains impeccable
+      appearance even during personal tragedy
+    age: 30-35 years old approximately
+    hair: Styled in perfect aristocratic fashion
+    clothing: Impeccably refined garments characterized by luxurious simplicity. At her farewell ball, wears simple white
+      dress without jewelry, emphasizing her dignity and inner strength
+    posture: Formal, restrained bearing with rigid etiquette. Every word and gesture calculated and meaningful. Maintains
+      composure even when publicly betrayed by lover
+    position: Moving through crowd maintaining perfect composure despite private anguish
+    action: Performing final social duties while hiding personal devastation
+  scene:
+    mainElements: Crowd perspective shows magnificent celebration proceeding with complete unawareness of individual suffering.
+      Society's grand spectacle continues its beautiful patterns while personal tragedies unfold invisibly within the collective
+      celebration.
+    details: Collective viewpoint reveals how individual pain disappears within group celebration - viscountess's private
+      heartbreak invisible to dancing crowd, Goriot's death agony occurring simultaneously but unknown to revelers, society's
+      beautiful surface concealing multiple hidden tragedies.
+    background: Magnificent ballroom with crystal chandeliers and gleaming decorations creating backdrop for social performance
+    atmosphere: Glittering celebration mixed with underlying tragedy, showing how collective joy can coexist with individual
+      suffering
+  composition:
+    cameraAngle: Elevated view of entire ballroom showing both crowd celebration and individual isolation within collective
+      event
+    focus: Contrast between collective celebration and hidden individual suffering occurring simultaneously
+    depth: Celebrating crowd filling foreground and middle ground in magnificent spectacle, isolated tragic figures barely
+      visible within collective joy, ballroom's grandeur providing stage for both triumph and defeat, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

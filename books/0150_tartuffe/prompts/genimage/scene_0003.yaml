@@ -1,0 +1,101 @@
+sceneDescription:
+  setting:
+    time: 1660s France, afternoon
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: overcast afternoon with muted light through windows
+  characters:
+  - appearance: wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular
+      face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing
+    clothing: expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath,
+      white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles
+    position: standing dominantly in center of room, towering over his seated daughter
+    action: delivering paternal decree with absolute authority, gesturing emphatically to emphasize his unquestionable power
+      over her future
+  - appearance: delicate young woman aged eighteen, petite slender build, heart-shaped face with large innocent eyes, pale
+      complexion, blonde hair arranged in simple girlish curls with blue silk ribbons
+    clothing: modest but fine pale blue silk dress with higher neckline, white lace collar and cuffs, simple silver cross
+      on ribbon, soft leather shoes, carries small embroidered handkerchief
+    position: seated in smaller chair looking tiny and vulnerable beneath father's imposing presence
+    action: staring down at folded hands in lap, occasionally raising tear-filled eyes to father's face, clutching handkerchief
+      with white knuckles
+  - appearance: sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with
+      bright alert eyes, practical manner, brown hair completely concealed under white linen cap
+    clothing: plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering
+      all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments
+    position: positioned strategically near doorway ready to intervene despite social boundaries
+    action: listening intently with mounting indignation, hands clenched into fists at sides, preparing to break protocol
+      to defend helpless girl
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, formal
+      seating arrangement emphasizing patriarchal hierarchy
+    details: late afternoon shadows growing longer across room, formal family portraits seeming to witness domestic tyranny,
+      expensive furnishings creating oppressive atmosphere of privilege without compassion, writing desk with legal documents
+      visible in corner
+    background: heavy curtains partially drawn creating somber lighting, religious artifacts newly prominent since Tartuffe's
+      influence, closed doors suggesting isolation from potential allies
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, suffocating sense of absolute paternal power crushing
+      individual will
+  composition:
+    cameraAngle: low angle emphasizing Orgon's dominance over vulnerable daughter
+    focus: contrast between Orgon's inflexible authority and Mariane's helpless submission with Dorine's rebellious energy
+      in background
+    depth: foreground dominated by father-daughter power dynamic, middle ground showing luxury turned oppressive, background
+      suggesting escape routes now blocked by tyranny
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

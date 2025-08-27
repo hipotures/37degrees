@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Daily Ritual - Morning and Evening in Same Café"
+  setting:
+    time: "Dawn and dusk of same day showing cyclical continuity"
+    location: "Parisian sidewalk café with morning opening and evening closing"
+    weather: "Cool morning mist becoming warm evening golden light"
+  characters:
+    - appearance: "Same elderly café proprietor at dawn and dusk: morning showing fresh energy, evening revealing accumulated fatigue"
+      clothing: "White apron and cap consistent but showing day's accumulation of stains and wear"
+      position: "Morning: unlocking café doors with energetic movement, evening: cleaning same doors with tired but satisfied gestures"
+      action: "Dawn: arranging chairs and tables with hopeful precision, dusk: stacking chairs and wiping tables with completion's satisfaction"
+  scene:
+    mainElements: "Same café terrace showing daily transformation: empty morning potential becoming evening's satisfied exhaustion. Tables set becoming tables cleared. Fresh flowers wilting by day's end."
+    details: "Morning: newspapers crisp and folded, coffee cups gleaming clean, ashtrays empty, street freshly swept. Evening: newspapers crumpled and abandoned, cups showing coffee stains, ashtrays full, street littered with day's debris."
+    background: "Same Paris street showing daily rhythm: morning commuters rushing past becoming evening strollers meandering home. Shop windows going from closed to open to closed again."
+    atmosphere: "Daily life's cyclical nature where each day represents complete human rhythm of hope, activity, and rest. Urban routine's comfort and continuity, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from across street showing complete café transformation across daily cycle"
+    focus: "Café proprietor as embodiment of daily rhythm, consistent human presence through temporal cycle"
+    depth: "Foreground shows street activity changes, middle ground captures café daily transformation, background reveals neighborhood rhythm"

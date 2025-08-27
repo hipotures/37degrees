@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Eternal present, conceptual space
+    location: Symbolic representation showing European courthouse beside Brazilian Tupinambá village
+    weather: Neutral lighting allowing equal examination of both cultures
+  characters:
+  - appearance: European magistrates in formal judicial robes representing civilized justice and legal order
+    clothing: Elaborate judicial attire with symbols of royal authority, expensive materials showing cultural refinement
+    position: Standing in formal courthouse setting, elevated above common people
+    action: Administering complex legal procedures, maintaining social hierarchies, punishing moral transgressions
+  - appearance: Tupinambá warriors and community members living in harmony with natural law
+    clothing: Bright red feather cape made entirely from bright red feathers of Guara bird (scarlet ibis), worn by Tupinambá
+      warriors during important rituals, symbol of natural beauty and harmony with environment
+    position: Gathered in circular community arrangement showing equality and consensus
+    action: Making decisions through communal discussion, resolving conflicts through ritual combat, living according to natural
+      cycles
+  scene:
+    mainElements: Parallel presentation of European legal civilization contrasted with Tupinambá natural wisdom
+    details: European side shows complex institutional architecture, written laws, hierarchical authority, punishment mechanisms,
+      separation from nature, accumulated wealth and power structures; Tupinambá side shows circular communal longhouses,
+      oral tradition, consensual decision-making, ritual resolution of conflicts, integration with natural environment, shared
+      resources and egalitarian relationships, no text or letters visible
+    background: Split landscape showing civilized European city contrasted with natural Brazilian rainforest environment
+    atmosphere: Simultaneous presentation of European institutional complexity versus Tupinambá natural simplicity, questioning
+      which represents true wisdom
+  composition:
+    cameraAngle: Parallel framing allowing equal examination of both cultural approaches to justice and social organization
+    focus: Contrast between institutional civilization and natural wisdom, questioning assumptions about progress
+    depth: Foreground shows cultural practices, middle ground captures social organization, background reveals environmental
+      relationship, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Winter Hearth Synthesis of Comfort"
+  setting:
+    time: "1924 winter, evening"
+    location: "Main living chamber of distillery residence, Northeast Gaomi District"
+    weather: "Cold winter night with frost forming outside"
+  characters:
+    - appearance: "Well-built woman approximately 162cm tall weighing 59kg, milky complexion with rosy cheeks and snow-white forehead, thick lustrous black hair arranged in traditional bun, dark sparkling eyes compared to bright moon among clouds, large breasts and wide hips indicating maternal strength"
+      clothing: "Richly embroidered red silk wedding dress with red veil (wedding); green silk pants with dark red silk ribbon at ankle (daily as maiden); practical but good quality tunics and pants or simple qipao (as distillery owner)"
+      position: "Seated on heated kang platform near brazier"
+      action: "Warming hands over glowing coals, observing flame patterns"
+    - appearance: "Fifteen-year-old youth with relatively small build, black hair, dark eyes, youthful face mixing features of both parents Yu Zhan'ao and Dai Fenglian"
+      clothing: "Simple peasant clothing consisting of tunic and trousers, partisan outfit similar to father's unit when fighting"
+      position: "Sitting nearby on warm platform"
+      action: "Drinking from steaming ceramic cup, watching fire dance"
+  scene:
+    mainElements: "Traditional Chinese heated interior with kang platform and brazier providing comprehensive comfort"
+    details: "Crackling fire logs with visible flame movement suggesting sound, warm orange glow illuminating faces suggesting heat sensation, steam rising from ceramic cups suggesting warmth and flavor, soft fabric textures suggesting touch comfort, pine branch arrangements nearby suggesting forest scent, rhythmic flame dance suggesting musical rhythm, warm platform radiating heat through bodies, comfortable relaxed postures suggesting complete sensory satisfaction, cozy domestic atmosphere combining all comfort elements, no text or letters visible"
+    background: "Traditional interior with heated kang platform, ceramic vessels, and winter protection elements"
+    atmosphere: "Complete sensory comfort synthesis, winter protection made warm and nurturing, family bond strengthened through shared sensory pleasure, multi-sensory domestic peace"
+  composition:
+    cameraAngle: "Medium shot capturing intimate family warmth"
+    focus: "Fire glow, steam patterns, and relaxed comfortable figures"
+    depth: "Foreground shows fire detail, middle ground includes warming figures, background suggests protected interior space"

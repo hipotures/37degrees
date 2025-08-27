@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crowd's Collective View of Trial Spectacle"
+  setting:
+    time: "1940, afternoon"
+    location: "French colonial justice building in Algiers with high-ceilinged formal courtroom packed with spectators"
+    weather: "Hot afternoon with stifling air in overcrowded courtroom"
+  characters:
+    - appearance: "Mixed crowd of colonial society - European settlers, local officials, curious onlookers, press representatives"
+      clothing: "Various period-appropriate clothing showing different social classes and occupations"
+      position: "Packed tightly in public gallery, craning necks to see proceedings"
+      action: "Collective attention focused on legal drama, murmuring reactions to testimony"
+  scene:
+    mainElements: "Crowded courtroom from collective perspective showing trial as public entertainment, shared experience of colonial justice system, multiple viewpoints merging into group consciousness"
+    details: "Gallery packed with spectators treating trial as dramatic performance, fans waving in stifling heat, collective gasps and murmurs at key testimony, press representatives taking notes, social elite attending as entertainment. Shared experience of legal theater."
+    background: "Formal courtroom architecture hosting public spectacle, afternoon heat creating uncomfortable conditions for mass audience"
+    atmosphere: "Trial as collective social ritual where community gathers to witness justice performance, shared participation in colonial legal drama"
+  composition:
+    cameraAngle: "Wide shot from within crowd showing collective viewing experience of trial"
+    focus: "Shared attention of crowd focused on legal proceedings as community event"
+    depth: "Foreground shows packed spectators in gallery, middle ground shows legal proceedings as performance, background shows formal courtroom architecture, no text or letters visible"

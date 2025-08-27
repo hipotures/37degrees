@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy Sorghum Wine Pressing Down"
+  setting:
+    time: "1924 autumn, evening"
+    location: "Wine storage cellar beneath Shan distillery, Northeast Gaomi District"
+    weather: "Cool underground environment, insulated from surface weather"
+  characters:
+    - appearance: "Elderly man over 50 years old with face lined with deep wrinkles from hard labor, weathered hands bearing calluses from decades of physical work, appearance of experienced hardworking peasant who has spent lifetime in fields and distillery"
+      clothing: "Rough work clothes made from coarse thick canvas cloth, simple practical garments suited for heavy labor in distillery"
+      position: "Bent over large clay wine vats, shoulders bearing weight"
+      action: "Struggling under massive ceramic vessel filled with fermenting sorghum wine"
+  scene:
+    mainElements: "Large earthenware vessels used in distillery for fermentation and aging of sorghum wine, represents cycle of life, fermentation, transformation of raw material into life-giving spirit, traditional ceramic craftsmanship in earth tones"
+    details: "Enormous clay vessels weighing down wooden supports, worker's back curved under invisible pressure of responsibility, muscles straining against ceramic weight, thick liquid inside vats adding gravitational pull, sweat forming from physical exertion, wooden beams creaking under distributed load, earthy smell of fermentation adding sensory weight, thick atmosphere pressing down like blanket, no text or letters visible"
+    background: "Underground stone walls, rows of massive ceramic vessels, primitive distillation equipment"
+    atmosphere: "Physical weight of tradition and craftsmanship, pressure of responsibility for community's spiritual sustenance, gravity of preserving ancient techniques"
+  composition:
+    cameraAngle: "Low angle emphasizing weight and burden"
+    focus: "Curved spine and strained muscles showing physical pressure"
+    depth: "Foreground shows laboring figure, middle ground reveals heavy vessels, background suggests underground chamber depth"

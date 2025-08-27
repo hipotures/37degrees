@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1760s, night
+    location: Dark alley in Paris where citizen secretly paints symbol of resistance on wall
+    weather: Dark night providing cover for clandestine act of defiance against royal authority
+  characters:
+  - appearance: Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public
+      affairs. Posture shows transformation from individual to member of political body
+    clothing: All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without
+      ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality
+    position: Crouched against wall in shadows, working quickly to avoid detection by authorities
+    action: Painting forbidden symbol on wall with trembling hands, constantly looking over shoulder for approaching guards,
+      demonstrating first act of conscious rebellion
+  scene:
+    mainElements: Partially completed symbol of resistance appearing on stone wall, paint bucket and brush hidden in shadows,
+      distant torchlight of approaching patrol
+    details: Symbol represents ideas forbidden by state - perhaps broken chain, scales of justice, or simple word 'Freedom'.
+      Painter works in fear but with determination. Paint is still wet and vulnerable to discovery
+    background: Network of surveillance and patrol routes making resistance extremely dangerous, other walls showing evidence
+      of previous symbols painted over by authorities
+    atmosphere: Courage required for first act of resistance, danger of expressing forbidden ideas, small beginning of organized
+      opposition to tyranny
+  composition:
+    cameraAngle: Low angle emphasizing danger and courage of clandestine resistance activity
+    focus: Hand painting forbidden symbol while shadowy figure watches for danger
+    depth: Foreground shows detail of resistance symbol being created, middle ground displays fearful painter, background
+      reveals approaching threat of discovery
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

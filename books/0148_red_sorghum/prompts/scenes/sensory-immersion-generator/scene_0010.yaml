@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Battle Chaos in Multiple Overlapping Motions"
+  setting:
+    time: "1939 morning, ambush at bridge"
+    location: "Bridge crossing and surrounding sorghum fields during partisan attack"
+    weather: "Clear morning with excellent visibility for battle"
+  characters:
+    - appearance: "Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms"
+      clothing: "Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)"
+      position: "Leading charge from sorghum field toward bridge"
+      action: "Running with rifle raised, shouting orders amid chaotic battle"
+  scene:
+    mainElements: "Simple wooden or stone bridge becoming center of violent confrontation, multiple combatants in overlapping action"
+    details: "Multiple layers of motion blur suggesting cacophonous action, dust clouds from running feet, clothing and hair in dynamic movement, overlapping figures creating visual chaos, weapons pointing in all directions, explosive smoke creating irregular patterns, debris flying through air in multiple trajectories, faces frozen in mid-shout, bodies caught in various stages of combat motion, everything in simultaneous chaotic movement, no text or letters visible"
+    background: "Bridge structure partially obscured by combat smoke, sorghum fields providing tactical cover"
+    atmosphere: "Complete sensory overload made visible, war's chaos expressed through overlapping movement and visual confusion, cacophony of battle translated to visual noise"
+  composition:
+    cameraAngle: "Dynamic angle capturing multiple simultaneous actions"
+    focus: "Overlapping motion blur and chaotic multiple focal points"
+    depth: "All depth planes filled with simultaneous action, foreground through background in constant motion"

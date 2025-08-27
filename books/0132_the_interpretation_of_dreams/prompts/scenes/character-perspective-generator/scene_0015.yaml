@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Household Servant's Hidden Perspective" 
+  setting:
+    time: "1897 early morning during daily cleaning routine"
+    location: "Freud's study at Berggasse 19, Vienna, seen through working-class outsider's eyes"
+    weather: "Early morning light just beginning to illuminate room"
+  characters:
+    - appearance: "Middle-aged working woman with calloused hands and practical dress, observant eyes that notice everything while appearing invisible"
+      clothing: "Simple dark dress with apron, hair covered with plain cap, worn but clean work clothes"
+      position: "Moving quietly through study while dusting and organizing, careful not to disturb important papers"
+      action: "Cleaning around mysterious objects while observing wealthy family's strange habits with practical curiosity"
+  scene:
+    mainElements: "Study viewed as workplace of wealthy man with peculiar obsession for collecting old objects and talking to troubled rich ladies about their dreams"
+    details: "Massive dark wooden desk surrounded by smaller tables creating fortress-like workspace, famous analytical couch covered with Persian carpet, leather armchair positioned behind couch, floor-to-ceiling bookshelves filled with leather-bound volumes. Servant notices cigar ash scattered everywhere requiring daily cleaning, expensive ancient objects that must be dusted carefully, strange couch arrangement that suggests intimate conversations she's not supposed to understand. She observes emotional residue left in room - tissues, worried pacing patterns, tension in furniture arrangement."
+    background: "Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space, gas lighting creating warm yellow pools of light among deep shadows"
+    atmosphere: "Practical understanding of wealthy family's emotional dramas from perspective of someone who cleans up aftermath, servant's invisible presence allowing observation of private struggles, working-class common sense recognizing universal human suffering beneath bourgeois complications, no text or letters visible"
+  composition:
+    cameraAngle: "Servant's peripheral vision while working, noticing details others ignore"
+    focus: "Physical evidence of emotional sessions - scattered papers, tearstains, disturbed furniture"
+    depth: "Foreground: servant's practical hands cleaning up evidence of wealthy people's problems, Middle: mysterious analytical setup she maintains without understanding, Background: expensive objects representing world of privilege she services"

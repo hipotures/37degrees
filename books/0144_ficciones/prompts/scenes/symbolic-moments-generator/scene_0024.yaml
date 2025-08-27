@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Duel That Completes History"
+  setting:
+    time: "1940s Argentina, sunset on endless pampas"
+    location: "Vast grassland plain stretching to all horizons, no trees or buildings visible"
+    weather: "Clear evening with red sunset painting sky and grassland"
+  characters:
+    - appearance: "Legendary gaucho in his mature years, tall and lean with weathered face marked by sun and wind, long graying hair and mustache, eyes calm but alert, embodiment of mythical Argentina"
+      clothing: "Traditional worn gaucho attire: loose bombachas pants, high leather boots, woolen poncho with geometric patterns, wide-brimmed hat, leather belt with silver buckle"
+      position: "Standing in fighting stance with knife drawn, silhouetted against red sunset"
+      action: "Engaging in final duel that will complete cycle of violence and legend"
+    - appearance: "Mature black man, strong and sturdy build, face showing patience and determination, quiet dignity mixed with resolve for justice"
+      clothing: "Simple rural clothing of pampas worker"
+      position: "Facing legendary opponent across small circle of honor"
+      action: "Preparing to avenge brother's death in ritual combat that transcends personal vengeance"
+  scene:
+    mainElements: "Two curved knives catch last light of sunset, blades reflecting red sky like mirrors of destiny, circular space between fighters becomes arena where personal history meets mythical legend, infinite grassland serves as witness to completion of epic cycle"
+    details: "Duel transforms from personal vengeance into completion of mythical narrative, two men becoming final actors in story larger than themselves. Knives represent not just weapons but instruments of destiny completing pattern begun years earlier. Sunset provides theatrical lighting for myth reaching conclusion"
+    background: "Endless pampas grassland stretching to horizon in all directions, no trees or human structures visible, sky painted red and gold by dramatic sunset, landscape of pure myth"
+    atmosphere: "Fatalistic completion of legend through ritual violence, sunset colors making scene painterly and eternal, silence of vast space emphasizing significance of personal combat, myth and history converging in single moment, no text or letters visible"
+  composition:
+    cameraAngle: "Wide shot showing two figures against vast landscape and dramatic sky"
+    focus: "The ritual combat completing cycle of gaucho legend against infinite pampas"
+    depth: "Dueling figures in middle ground, endless grassland in middle distance, dramatic sunset sky dominating background"

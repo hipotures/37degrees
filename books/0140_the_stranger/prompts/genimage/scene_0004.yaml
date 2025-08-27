@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Mediterranean coastal beach in French colonial Algiers, Algeria
+    weather: Bright sunny morning with gentle sea breeze
+  characters:
+  - appearance: Young woman aged 20-25 years, tanned Mediterranean complexion, bright eyes, frequently smiling expression
+    clothing: Light summer dress typical of 1930s fashion, reaching mid-calf, or one-piece swimming costume
+    position: Standing with relaxed, natural posture, often in motion or preparing to move
+    action: Laughing genuinely while gesturing with hands, comfortable with physical contact
+  scene:
+    mainElements: Golden beach sand, crystal-clear Mediterranean water, Marie moving gracefully in swimming costume, other
+      beachgoers in background enjoying morning sun
+    details: Water droplets catching sunlight on Marie's tanned skin, her genuine laughter creating infectious joy, beach
+      umbrellas and changing facilities, seagulls overhead, gentle waves lapping at shore. Other swimmers and sunbathers creating
+      lively beach atmosphere.
+    background: Algiers cityscape visible across bay, white colonial buildings gleaming in morning light, boats in harbor,
+      palm trees along beachfront promenade
+    atmosphere: Pure physical pleasure and spontaneous joy, warm morning sunlight enhancing natural beauty, sense of life
+      and vitality through Marie's presence
+  composition:
+    cameraAngle: Eye-level view from Meursault's perspective watching Marie in water
+    focus: Marie's animated face and graceful movements in sparkling Mediterranean water
+    depth: Foreground shows sandy beach edge, middle ground shows Marie in shallow water laughing and moving, background shows
+      broader beach scene with other bathers, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

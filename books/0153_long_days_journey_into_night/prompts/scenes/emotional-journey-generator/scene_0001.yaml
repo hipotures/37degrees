@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Morning Hope in Cottage Garden"
+  setting:
+    time: "August 1912, early morning, 8:30 AM"
+    location: "Two-story wooden frame house in New London, Connecticut, summer 1912, with view of Thames River and Long Island Sound. Victorian Stick and Queen Anne architectural style with clapboard siding."
+    weather: "Clear, bright morning sunlight with no fog, gentle breeze"
+  characters:
+    - appearance: "65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure. Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably handsome."
+      clothing: "Worn grey ready-made sack suit with non-shining black shoes. Often wears shirt without collar with thick white neckerchief loosely tied around neck. Everything deliberately worn to limits of usefulness but not picturesquely shabby."
+      position: "Standing on wooden veranda, looking out toward water with contentment"
+      action: "Breathing deeply of morning air, one hand resting on veranda railing"
+    - appearance: "54-year-old woman of medium height with young, graceful figure that is somewhat plump but shows no signs of middle-aged spread. Thick, pure white hair arranged with pedantic care. Distinctly Irish-type face that must have been extremely pretty and still is striking. Thin, pale face with clearly-marked bone structure contrasting with healthy figure. Long straight nose, wide mouth with full, sensitive lips. Uses no rouge or makeup. Very large and beautiful dark brown eyes that appear black, with black eyebrows and long, curled lashes."
+      clothing: "Dressed simply but with sense of what becomes her. Long ankle-length dress with raised waistline typical of 1912 fashion, in muted colors like dove grey or powder blue that emphasize her delicacy and withdrawal."
+      position: "Beside him on veranda, closer to house entrance"
+      action: "Smoothing her dress with careful movements, smiling genuinely at the peaceful morning"
+  scene:
+    mainElements: "Single-story wooden veranda running across front and north side of building. Small single-story tower with pyramidal roof on north side behind veranda. Gable end of main roof faces street creating classical pediment appearance. House painted grey with green trim, surrounded by garden vegetation."
+    details: "Standard deck of playing cards used by James for solitary card games, representing his isolation and attempt to pass time while avoiding painful family interactions. Cards become scattered on table during late-night drinking scenes. Flowering garden bushes frame the veranda, birds singing in nearby trees, peaceful domestic atmosphere with no signs of the gathering storm to come"
+    background: "Thames River visible in distance, Connecticut countryside rolling toward water, other summer cottages dotting the landscape"
+    atmosphere: "Atmosphere of domestic tranquility and renewed hope, warm golden sunlight creating sense of optimism and fresh beginnings, no text or letters visible"
+  composition:
+    cameraAngle: "Wide establishing shot from garden level looking up at veranda"
+    focus: "Couple on veranda representing calm before storm"
+    depth: "Foreground garden flowers, middle ground house and couple, background river and distant hills"

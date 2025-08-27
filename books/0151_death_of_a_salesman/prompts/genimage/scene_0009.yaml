@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1949, late evening
+    location: upstairs bedroom where adult sons still sleep in childhood space, emphasizing their failure to fully mature
+      and move forward
+    weather: night darkness outside small window
+  characters:
+  - appearance: 34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal
+      conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness
+    clothing: work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple
+      dark suit that seems uncomfortable on him
+    position: sitting on edge of bed, hunched forward
+    action: hands clenched into fists resting on knees, jaw tight with suppressed anger and disappointment
+  - appearance: 32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner
+      emptiness, well-groomed appearance, practiced charming smile
+    clothing: slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project
+      image of success
+    position: standing by small window, one hand pressed against glass
+    action: staring out at city lights, other hand gripping window frame with white knuckles
+  scene:
+    mainElements: two single beds close together, slanted ceiling with dormer window, sparse furnishings, remnants of adolescence
+      mixed with adult presence, tension filling cramped space
+    details: Dormer window showing distant city lights representing world of success beyond their reach. Clothes draped over
+      chair suggesting temporary nature of their residence. Space feels charged with barely contained frustration and failed
+      dreams.
+    background: slanted ceiling creating sense of oppression, small window providing limited view of outside world, shadows
+      emphasizing confinement and limited options
+    atmosphere: cramped space representing stunted growth and unfulfilled potential, shadows emphasizing limitation, late
+      night tension between brothers sharing disappointment and rage
+  composition:
+    cameraAngle: low angle from floor, emphasizing cramped space and figures tensed with frustration
+    focus: clenched fists and white knuckles revealing physical manifestation of emotional pressure
+    depth: foreground shows worn floor and scattered belongings, middle ground captures two figures in different poses of
+      barely controlled anger, background reveals confining ceiling and small window to unreachable world
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

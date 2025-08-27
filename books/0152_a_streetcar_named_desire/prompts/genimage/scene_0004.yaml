@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, evening in May
+    location: Small apartment bathroom adjacent to main living area
+    weather: Stifling humidity, oppressive indoor heat
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Having removed white jacket and gloves, now in white blouse and skirt, appearance becoming less pristine
+    position: Sitting on edge of bathtub, head in hands momentarily before reaching for bottle
+    action: Taking furtive drink from whiskey bottle, attempting to steady nerves and compose herself, dabbing face with damp
+      cloth
+  scene:
+    mainElements: Small bathroom with basic fixtures, mirror reflecting harsh overhead light, whiskey bottle hidden behind
+      towels, steam beginning to rise from hot water tap
+    details: Woman's first retreat to private space for emotional refuge. Mirror showing her strain more clearly in harsh
+      light. Bottle of whiskey secretively consumed to calm nerves. Hot water running to mask sounds. Steam fogging mirror
+      slightly, providing metaphorical barrier between reality and self-image. No text or letters visible
+    background: Cramped bathroom serving as only private sanctuary in apartment, sounds of men's voices filtering through
+      thin walls
+    atmosphere: Desperate need for privacy and self-medication. Beginning of pattern of alcohol as escape from brutal reality.
+      Steam and heat adding to sense of pressure building. Momentary respite before returning to hostile environment
+  composition:
+    cameraAngle: Close-up emphasizing vulnerability and desperation
+    focus: Woman's face showing strain and the secretive drinking gesture
+    depth: 'Foreground: woman with bottle; middle ground: bathroom fixtures and mirror; background: steam obscuring harsh
+      reality'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

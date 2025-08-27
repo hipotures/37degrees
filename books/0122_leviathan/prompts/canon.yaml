@@ -1,0 +1,110 @@
+canon:
+  characters:
+    - id: "human_in_state_of_nature"
+      name: "Human in State of Nature"
+      description_block: |
+        characters:
+          - appearance: "Man around 35 years old, 175cm tall, lean and sinewy build from deprivation but still strong, weathered face with sharp cheekbones and prominent forehead, disheveled brown shoulder-length hair, rough untrimmed beard"
+            clothing: "Worn leather jerkin over coarse linen shirt, wool breeches patched and faded, damaged leather boots, all in earth tones - browns, grays, muted greens for survival camouflage"
+            position: "Crouched defensively or moving cautiously, constantly alert and ready to fight or flee"
+            action: "Eyes constantly scanning surroundings, hand on crude knife, body language of perpetual mistrust and fear"
+
+    - id: "sovereign_leviathan"
+      name: "The Sovereign (Leviathan)"
+      description_block: |
+        characters:
+          - appearance: "Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority, stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard"
+            clothing: "Royal black or deep crimson velvet doublet with satin underneath, immaculate wide lace collar, high-quality leather boots, crown of heavy gold or iron symbolizing weighty authority"
+            position: "Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which the state revolves"
+            action: "One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without personal emotion"
+
+    - id: "subject_merchant"
+      name: "Subject - Merchant"
+      description_block: |
+        characters:
+          - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+            clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+            position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+            action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+
+    - id: "subject_soldier"
+      name: "Subject - Soldier"
+      description_block: |
+        characters:
+          - appearance: "Man around 25 years old, 180cm tall, muscular from military training, disciplined face with short-cropped hair"
+            clothing: "Leather jerkin with steel breastplate and helmet, practical military attire"
+            position: "Standing at attention with weapon at ready, facing toward Sovereign"
+            action: "Holding musket or pike, gaze directed to commander, expression of trained discipline and loyalty"
+
+    - id: "subversive_teacher"
+      name: "Subversive Teacher (Agent of Kingdom of Darkness)"
+      description_block: |
+        characters:
+          - appearance: "Man around 60 years old, 175cm tall, gaunt build, face twisted with fanatic passion or shrouded in conspiratorial cunning"
+            clothing: "Rich Catholic vestments, academic scholar robes, or austere Puritan black - representing authority separate from Sovereign"
+            position: "Standing in defiant pose or lurking in shadows, representing challenge to unified authority"
+            action: "Holding religious text or philosophical manuscript, preaching or whispering seditious doctrines"
+
+  locations:
+    - id: "state_of_nature_wasteland"
+      name: "State of Nature - Wasteland"
+      description_block: |
+        setting:
+          location: "War-torn English countryside during Civil War period, muddy fields with ruined farmhouses and broken stone walls, dense threatening forests"
+        mainElements: "Damaged cottages with shattered windows, abandoned plows rusting in fields, overturned carts, broken pikes scattered on battlefields"
+        atmosphere: "Cold damp air thick with smoke and decay, overcast leaden sky with persistent drizzle, sounds of distant dogs barking and musket shots echoing"
+
+    - id: "sovereigns_court"
+      name: "Sovereign's Court"
+      description_block: |
+        setting:
+          location: "Great hall in English baroque palace, massive stone floors with geometric patterns, high vaulted ceilings with royal heraldry"
+        mainElements: "Imposing throne on raised dais, state tapestries depicting royal authority, tall windows casting dramatic shadows across the chamber"
+        atmosphere: "Formal cold silence broken only by echoing footsteps, air heavy with authority and submission, golden light filtering through colored glass"
+
+    - id: "london_street"
+      name: "17th Century London Street" 
+      description_block: |
+        setting:
+          location: "Narrow unpaved London street between Tudor timber-framed buildings leaning toward each other, muddy cobblestones"
+        mainElements: "Merchant stalls, sedan chairs carried by bearers, horses and carts creating congestion, smoke rising from chimneys"
+        atmosphere: "Cacophonous noise of vendors shouting and wheels creaking, air thick with smoke and waste odors, chaotic energy of urban commerce"
+
+    - id: "subjects_home"
+      name: "Subject's Domestic Space"
+      description_block: |
+        setting:
+          location: "Comfortable merchant's parlor with oak wood paneling, leaded glass windows, solid furniture representing prosperity and order"
+        mainElements: "Heavy oak table with pewter dishes, large fireplace providing warmth, family Bible prominently displayed"
+        atmosphere: "Warm firelight creating sense of security and peace, quiet domestic contentment protected by Sovereign's authority"
+
+  items:
+    - id: "sword_of_justice"
+      name: "Sword of Justice"
+      description_block: |
+        details: "Large two-handed 17th century ceremonial sword with steel blade, ornate hilt bearing state heraldry, symbolizing Sovereign's power to enforce law and order"
+
+    - id: "pastoral_staff"
+      name: "Pastoral Staff"
+      description_block: |
+        details: "Bishop's crosier made of dark iron or steel rather than gold, matching the sword to show unified secular and religious authority under Sovereign control"
+
+    - id: "social_contract_document"
+      name: "Social Contract Document"
+      description_block: |
+        details: "Large parchment scroll with wax seals and signatures, representing the agreement by which individuals surrender rights to create the artificial body of the state"
+
+    - id: "crown_of_authority"
+      name: "Crown of Authority"
+      description_block: |
+        details: "Heavy solid gold or iron crown band without delicate gems, emphasizing weighty responsibility and absolute power rather than decorative luxury"
+
+    - id: "musket_of_war"
+      name: "Matchlock Musket"
+      description_block: |
+        details: "Clumsy smoke-belching 17th century firearm with wooden stock and metal barrel, representing brutal technology of civil war"
+
+    - id: "clay_pipe"
+      name: "Clay Tobacco Pipe"
+      description_block: |
+        details: "Simple white clay smoking pipe, ubiquitous everyday object representing common pleasures of peaceful civilian life"

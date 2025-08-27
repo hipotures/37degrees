@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Children Learning Conformity - Rote Indoctrination"
+  setting:
+    time: "1651, morning lesson hour"
+    location: "State-controlled school in London, classroom designed for uniform instruction"
+    weather: "Bright interior lighting emphasizing order and discipline"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Classroom with children seated in perfect rows, all making identical gestures of obedience, reciting lessons in unison, teacher demonstrating proper state-approved behavior"
+    details: "Children in uniform simple clothing, all sitting with identical posture, hands positioned the same way, reciting from identical texts. Official state portraits on walls, lessons focused on obedience and loyalty. Large parchment scrolls with state regulations visible on teaching walls. Heavy solid crown symbols incorporated into educational materials."
+    background: "Orderly classroom with geometric desk arrangement, official educational materials, windows providing controlled lighting, state symbols prominently displayed"
+    atmosphere: "Systematic elimination of independent thought, monotone sounds of collective recitation, childhood innocence channeled into state compliance"
+  composition:
+    cameraAngle: "High angle showing the geometric arrangement of uniformed children"
+    focus: "The systematic indoctrination of young minds into state conformity"
+    depth: "Foreground shows individual children's identical expressions, middle displays classroom uniformity, background reveals official educational control"

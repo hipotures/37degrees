@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Falling Glass - Quentin's Shattered Time"
+  setting:
+    time: "June 2, 1910 critical moment suspended while world continues around Quentin"
+    location: "Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory furnishings at moment of timepiece destruction"
+    weather: "Indoor afternoon light with dust motes and glass shards frozen mid-fall"
+  characters:
+    - appearance: "Slender, unimposing white male age 20, lean build suggesting physical weakness from fights with stronger men, sensitive intellectual features, neurotically intense expression, often described in relation to his shadow"
+      clothing: "Harvard student attire from 1910 - formal suit jacket, white collared shirt, necktie, well-dressed appearance maintained even on day of death"
+      position: "Methodical, ritualistic movements especially when arranging personal effects, often walking with measured pace"
+      action: "Obsessively checking pocket watch, cleaning clothing, organizing belongings with precise methodical motions"
+  scene:
+    mainElements: "Simple desk and chair, dresser with grandfather's pocket watch prominently placed, packed trunk, basic dormitory furnishings with time frozen at moment of watch crystal destruction"
+    details: "Suspended moment of watch crystal shattering: glass fragments frozen mid-air in perfect spherical explosion pattern, each shard reflecting different memory or fear, watch hands visible in broken crystal still pointing to specific time, student's hand caught in downward striking motion, face showing desperate determination, shadows cast by afternoon light motionless, dust particles suspended around destruction moment, sound waves visible as crystalline formations in air no text or letters visible"
+    background: "Dormitory room continuing normal temporal flow - clock on wall still ticking, papers rustling in breeze, sounds from hallway indicating world proceeds while personal time shatters"
+    atmosphere: "Powerful visualization of psychological breaking point where individual time perception fractures while mechanical time continues relentlessly"
+  composition:
+    cameraAngle: "Close-up macro shot focusing on exploding watch crystal with suspended glass shards"
+    focus: "Shattered watch crystal with glass fragments frozen in moment of destruction"
+    depth: "Foreground: suspended glass shards reflecting memories; middle ground: hand caught in destructive motion; background: room continuing normal time flow"

@@ -1,0 +1,92 @@
+sceneDescription:
+  setting:
+    time: 1910, evening during jasmine blooming season
+    location: Garden courtyard of rural Bengal home with jasmine vines, British colonial India
+    weather: Still evening air perfect for carrying floral fragrances
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem in widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Sitting in meditation beneath blooming jasmine vine
+    action: Offering single white jasmine flower while bees hover in visible aromatic currents around blossoms
+  scene:
+    mainElements: Jasmine flowers in full bloom with bees creating visible flight patterns that trace aromatic currents while
+      evening air carries floral fragrance made visible through hovering insects and floating pollen
+    details: White jasmine blossoms cover vine in overwhelming abundance while individual flowers show perfect star shapes
+      catching golden evening light. Bees hover in distinct patterns around flowers, their flight paths creating visible map
+      of aromatic zones as they follow scent trails through air. Protagonist holds Pojedynczy, skromny kwiat (biały jaśmin)
+      w otwartych, złożonych w geście ofiarnym dłoniach while pollen particles drift in visible clouds around blooming vine.
+      Evening light catches suspended pollen creating golden dust clouds that seem to carry fragrance visually. His serene
+      expression shows deep appreciation for natural perfume while butterflies add to insect activity drawn by flower scents.
+      Jasmine petals occasionally fall creating small aromatic showers. Nearby flowering herbs add to garden's aromatic complexity
+      with their own bee visitors. No text or letters visible.
+    background: Bengali garden with multiple flowering plants creating layered aromatic environment enhanced by evening's
+      still air
+    atmosphere: Sacred evening where nature's perfume becomes visible offering to divine through insect activity and floating
+      aromatic particles
+  composition:
+    cameraAngle: Close-up showing jasmine flowers with bee flight patterns indicating aromatic zones
+    focus: Bee movement patterns and pollen clouds that visualize jasmine fragrance dispersing through evening air
+    depth: 'Foreground: detailed jasmine blooms with visiting bees. Middle: protagonist making floral offering. Background:
+      aromatic garden extending into evening shadows'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Troy's Final Hour - Palace Under Siege"
+  setting:
+    time: "Mythical era around XII century BCE, deep night illuminated by fires"
+    location: "Royal palace courtyard in Troy during final assault, architectural complex with Eastern influences"
+    weather: "Clear night made apocalyptic by massive fires consuming the city"
+  characters:
+    - appearance: "elderly, frail patriarch with divine authority"
+      clothing: "simple robes of Trojan elder, ornate royal vestments now torn and bloodied"
+      position: "standing at altar in palace courtyard with arms raised in supplication"
+      action: "attempting final desperate prayer to gods while donning ancient armor with trembling hands"
+  scene:
+    mainElements: "Trojan palace with distinctive Eastern architectural elements under attack, massive stone walls breached and crumbling, ornate columns supporting porticos, sacred altar in courtyard center"
+    details: "Greek warriors pouring through broken gates with bronze weapons gleaming, palace treasures scattered and trampled, royal tapestries burning, marble columns cracked from battering rams, golden ornaments reflecting firelight, abandoned weapons and shields"
+    background: "Troy's skyline engulfed in flames with smoke columns reaching night sky, other burning buildings visible through archways, distant sounds of battle and destruction"
+    atmosphere: "Sacred space violated by brutal warfare, divine order collapsing into chaos, majesty of ancient civilization meeting violent end"
+  composition:
+    cameraAngle: "Wide architectural shot showing palace complex from courtyard perspective with dramatic upward angle"
+    focus: "Central altar with elderly king attempting final ritual while architecture crumbles around him"
+    depth: "Altar and figures in sharp foreground focus, collapsing palace architecture in middle ground, burning cityscape beyond walls in background, no text or letters visible"

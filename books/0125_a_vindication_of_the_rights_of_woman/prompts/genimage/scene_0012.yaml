@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1792, harsh morning light revealing industrial nature of feminine education
+    location: Girls' boarding school classroom arranged like factory production line
+    weather: Cold, clinical daylight that emphasizes institutional processing rather than nurturing education
+  characters:
+  - appearance: Rows of young girls aged 8-16 in identical uniforms being processed through standardized feminine training
+    clothing: Uniform dresses and caps that eliminate individuality and emphasize conformity to feminine ideal
+    position: Seated in rigid rows at identical desks, arranged for maximum efficiency in processing
+    action: Performing identical motions - embroidery stitches, curtsying practice, reciting feminine maxims in unison
+  - appearance: Female teachers acting as supervisors in feminine production process
+    clothing: Severe dress emphasizing their role as enforcers of feminine conformity rather than educators
+    position: Stationed at intervals to monitor and correct deviations from feminine standards
+    action: Inspecting girls' work for conformity, correcting posture and behavior, enforcing standardized feminine performance
+  scene:
+    mainElements: Classroom organized like industrial production line with stations for different aspects of feminine training
+      - deportment, needlework, simple music, domestic skills
+    details: Emphasis on uniformity and repetition rather than individual development. Quality control stations where girls'
+      feminine performance is measured against standards. Production charts showing progress in accomplishments rather than
+      intellectual growth
+    background: Institutional architecture emphasizing efficiency and control rather than nurturing or intellectual development
+    atmosphere: Atmosphere of industrial production applied to human development, showing how girls are manufactured into
+      artificial women rather than educated as thinking beings
+  composition:
+    cameraAngle: Wide shot showing the factory-like organization of feminine education
+    focus: The systematic production of artificial femininity through institutional processing
+    depth: Foreground shows individual girls being processed, middle ground shows supervisory control, background suggests
+      the institutional machinery of feminine production
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

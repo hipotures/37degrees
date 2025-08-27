@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Objective Reality of Vienna Streets"
+  setting:
+    time: "1897 midday with clear neutral lighting"
+    location: "Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, documented without emotional interpretation"
+    weather: "Clear day with even lighting showing actual urban conditions"
+  characters:
+    - appearance: "Mixed population of Vienna citizens representing various social classes and occupations"
+      clothing: "Period-appropriate clothing showing actual fashion and economic status without romanticizing"
+      position: "Moving through city conducting ordinary daily business"
+      action: "Normal urban activities - shopping, commuting, conducting business, socializing"
+  scene:
+    mainElements: "Ringstrasse area documented as major urban development project of 1860s-1880s, showing actual architectural styles and traffic patterns typical of European capital city"
+    details: "Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses, gas street lamps, elegant shop windows, coffee house terraces. Streets show normal wear patterns from heavy traffic. Building facades display mixture of architectural styles popular during construction period. Commercial activity includes typical shops, restaurants, professional offices. Pedestrian traffic moves at normal urban pace with standard social interactions."
+    background: "Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity and emerging political anxieties, ordered facades concealing cultural nervousness"
+    atmosphere: "Standard European capital city environment showing typical mixture of commercial activity, residential life, and institutional functions without mystical or threatening interpretation, no text or letters visible"
+  composition:
+    cameraAngle: "Neutral street-level perspective showing accurate proportions and normal urban activity"
+    focus: "Even documentation of architectural details and typical daily traffic patterns"
+    depth: "Foreground: normal pedestrian and vehicle traffic, Middle: standard commercial and residential buildings, Background: typical urban horizon with institutional buildings"

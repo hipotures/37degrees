@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: August 1912, past midnight, around 12:45 AM
+    location: Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling
+      raised to impressive height of over 11 feet creating illusion of spaciousness and elegance.
+    weather: Fog creating complete white isolation around house
+  characters:
+  - appearance: 23-year-old man several inches taller than Jamie but thin and wiry. Plainly in bad health, much thinner than
+      should be. Dark brown hair sun-bleached to reddish at ends, brushed straight back from high forehead. More like mother
+      than father with her long, narrow Irish face dominated by her large dark eyes. Mouth has same hypersensitivity. Profile
+      recalls father. Despite suntan, skin has sickly yellow pallor and cheeks are sunken. Hands remarkably similar to mother's
+      with same exceptionally long fingers and similar nervousness.
+    clothing: 'Most casually dressed of family: shirt, collar and tie but no coat, with old flannel trousers and brown canvas
+      shoes. Attire reflects artistic, nonconformist nature and status as invalid not required to fully observe formal conventions.'
+    position: Leaning back in chair, eyes looking beyond room boundaries
+    action: Speaking with lyrical passion about mystical experiences at sea, temporarily transcending physical illness
+  - appearance: 65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style
+      posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure.
+      Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably
+      handsome.
+    clothing: In old brown bathrobe, formal day clothes abandoned for night wear
+    position: Sitting quietly, watching son with new respect
+    action: Listening to son's poetic vision with growing understanding of his artistic nature
+  scene:
+    mainElements: Green glass-shaded reading lamp standing on central table, connected by cord to chandelier above. Creates
+      intimate but claustrophobic circle of light where most important confrontations occur. Books and papers scattered nearby
+      suggesting son's literary interests and artistic pursuits.
+    details: Young man's face illuminated with inner light as he describes transcendent moments, temporary transformation
+      from sickly invalid to inspired poet, father witnessing son's artistic soul for first time, whisky enabling spiritual
+      honesty alongside emotional confession
+    background: Portrait of Shakespeare hangs over sons' bookshelf. Two distinct bookcases - smaller one with contemporary
+      'subversive' authors (Balzac, Zola, Nietzsche, Ibsen, Swinburne) read by sons, larger one with 'respectable sets' of
+      classics favored by James
+    atmosphere: Moment of spiritual transcendence cutting through family tragedy, poetry and art providing temporary escape
+      from physical and emotional pain, son finding voice and identity through artistic expression, no text or letters visible
+  composition:
+    cameraAngle: Medium shot emphasizing son's inspired expression and father's respectful attention
+    focus: Young artist discovering and expressing his poetic voice despite illness
+    depth: Foreground son's animated face speaking of transcendence, middle ground father's newfound respect, background books
+      representing literary inheritance
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

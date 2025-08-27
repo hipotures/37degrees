@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1651, symbolic representation of state control
+    location: Metaphorical space representing relationship between state and citizens
+    weather: Surreal lighting emphasizing allegorical nature
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  - appearance: Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority,
+      stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard
+    clothing: Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather
+      boots, crown of heavy gold or iron symbolizing weighty authority
+    position: Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which
+      the state revolves
+    action: One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without
+      personal emotion
+  scene:
+    mainElements: Citizens depicted as marionette puppets with visible strings extending upward to unseen puppeteer hands,
+      moving in synchronized fashion, expressions showing awareness of their controlled state
+    details: Visible puppet strings attached to limbs and heads, citizens performing identical gestures as if controlled,
+      strings extending upward toward state authority figures. Large parchment scrolls with social contract language visible
+      as backdrop. Heavy solid crown symbols repeated in puppet master's regalia.
+    background: Theatrical or allegorical space suggesting puppet theater, state symbols integrated into controlling mechanisms,
+      architecture emphasizing hierarchical control
+    atmosphere: Disturbing awareness of manipulation, mechanical sounds of coordinated movement, loss of human agency presented
+      as social order
+  composition:
+    cameraAngle: High angle showing the puppet strings and their control mechanism
+    focus: The metaphor of citizens as controlled puppets of state authority
+    depth: Foreground shows puppet-citizens in detail, middle displays controlling strings, background reveals the puppeteer
+      authority
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

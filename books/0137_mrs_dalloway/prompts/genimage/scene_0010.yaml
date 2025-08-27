@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: June 1923, late afternoon around 4:00 PM
+    location: Regent's Park path, walking alone after emotional encounter with Clarissa
+    weather: Late afternoon golden sunlight creating romantic atmosphere
+  characters:
+  - appearance: 53-year-old man, slightly asymmetrical face that is thinner and more weathered than in youth, restless energy
+      despite age, well-dressed but less formal than establishment figures
+    clothing: Plaid suit with soft collar suggesting colonial informality, less rigid than London conventions
+    position: Walking alone through park with theatrical stride
+    action: Dramatic solitary walk, gesturing with penknife, imagining himself as tragic romantic figure
+  scene:
+    mainElements: Large public park in central London with wide tree-lined avenues, geometrically arranged flower beds, fountains,
+      nature carefully arranged by human design
+    details: Through Peter's self-romanticizing lens, park becomes stage for his personal drama, trees forming audience for
+      his tragic performance, shadows creating dramatic chiaroscuro lighting, his reflection in fountain water showing idealized
+      younger self, penknife gleaming like sword of romantic adventure, other parkgoers fading into background chorus, afternoon
+      light creating golden aura around his figure, no text or letters visible
+    background: Neatly trimmed lawns becoming theatrical backdrop, colorful flower displays like stage decorations, old spreading
+      trees forming natural proscenium arch
+    atmosphere: Peaceful park transformed into romantic theater, Peter's psychological filter of self-drama making ordinary
+      walk into heroic journey, narcissistic perspective casting him as protagonist of grand love story
+  composition:
+    cameraAngle: Heroic low angle from Peter's self-aggrandizing perspective, showing him as romantic figure against sky
+    focus: Peter as dramatic central figure, everything else soft-focused to emphasize his imagined importance
+    depth: His commanding figure in foreground, park path stretching dramatically behind him, distant parkgoers reduced to
+      insignificant background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

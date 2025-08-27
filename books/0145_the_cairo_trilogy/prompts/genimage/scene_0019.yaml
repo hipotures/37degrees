@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 'Temporal overlay: original 1890s construction with 1940s deterioration'
+    location: Al-Jawad family house showing simultaneous building and aging process
+    weather: Construction dust and aging dust mingling in same air
+  characters:
+  - appearance: Construction workers from 1890s and maintenance workers from 1940s existing simultaneously
+    clothing: Period-appropriate work attire from both eras overlapping
+    position: Some building up while others repair decay
+    action: Simultaneous construction and restoration activities showing building's full temporal life
+  scene:
+    mainElements: Multi-story traditional Islamic house built of stone and brick, organized around small open courtyard (hosh)
+      showing simultaneous construction and aging processes
+    details: 'Overlapped activities: Fresh stone being laid while aged stone crumbles, new wooden mashrabiya being carved
+      while old screens need repair, original brass fittings being installed while tarnished metal requires polishing. Paint
+      applied fresh while walls show decades of accumulated wear. Construction tools from both eras working simultaneously
+      on same structure, no text or letters visible'
+    background: Courtyard space showing both original architectural vision and decades of lived-in wear, temporal compression
+      of building's complete lifecycle
+    atmosphere: Philosophical meditation on construction and decay as simultaneous processes, temporal acceleration showing
+      building's birth and aging as continuous cycle rather than linear progression
+  composition:
+    cameraAngle: Wide architectural view showing construction and decay activities simultaneously
+    focus: Central courtyard where building and aging processes intersect temporally
+    depth: 'Foreground: tools and materials from both time periods, middle ground: workers from different eras, background:
+      architecture in various states of completion and wear'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

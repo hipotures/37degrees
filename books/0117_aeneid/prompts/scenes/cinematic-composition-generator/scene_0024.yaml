@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Silhouettes Against Carthaginian Flames"
+  setting:
+    time: "Mythical era around XII century BCE, dawn of tragic departure"
+    location: "Carthaginian harbor with royal palace burning in background"
+    weather: "Clear dawn with tragic fire creating dramatic backlighting"
+  characters:
+    - appearance: "exceptionally beautiful young widow, tall with statuesque bearing"
+      clothing: "royal robes now torn and bloodied from self-inflicted wounds"
+      position: "collapsed on funeral pyre with flames beginning to consume offering"
+      action: "dying from sword wound while divine messenger approaches to release soul"
+    - appearance: "divine messenger with rainbow wings"
+      clothing: "supernatural radiance trailing thousand colors across sky"
+      position: "descending from clouds toward tragic scene below"
+      action: "approaching to cut lock of hair releasing soul while leaving colorful trail"
+  scene:
+    mainElements: "Funeral pyre blazing in palace courtyard, royal architecture silhouetted against flames, divine intervention visible in sky above"
+    details: "Massive pyre built with lovers' possessions burning together, palace courtyard architecture creating dramatic silhouettes, rainbow colors streaming from divine wings, Trojan sword gleaming in firelight, royal purple and gold visible in flames"
+    background: "Carthaginian city architecture silhouetted against dawn sky, harbor with departing ships barely visible in distance, Mediterranean horizon under morning light"
+    atmosphere: "Tragic waste of royal potential, divine mercy ending mortal suffering, love transformed into destructive passion consuming imperial dreams"
+  composition:
+    cameraAngle: "Shadow frames using firelight and dawn to create silhouettes against bright background"
+    focus: "Tragic queen silhouetted against flames while divine intervention streams colors across sky"
+    depth: "Silhouetted figures and pyre in dramatic foreground, palace architecture in middle distance, dawn sky and divine colors in bright background frame, no text or letters visible"

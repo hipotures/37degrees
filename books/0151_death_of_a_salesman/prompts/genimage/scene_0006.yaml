@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1949, late afternoon
+    location: small yard behind Loman house, surrounded by towering apartment buildings, soil poor and shaded, representing
+      failed dreams of growth and prosperity
+    weather: overcast afternoon with dark clouds gathering, wind beginning to stir
+  characters:
+  - appearance: 63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked
+      by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation
+    clothing: worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing
+      signs of constant travel, suit wrinkled from carrying heavy sample cases
+    position: standing in center of small yard, looking up at surrounding buildings
+    action: gripping small paper packets of vegetable seeds, staring at barren patches of earth where nothing grows
+  scene:
+    mainElements: small patches of bare earth where grass struggles to grow, makeshift garden area, clotheslines, area overshadowed
+      by surrounding buildings, man contemplating impossible cultivation
+    details: small paper packets of vegetable seeds with simple printed labels, representing final desperate attempt to plant
+      something lasting and meaningful, symbols of hope and growth in hostile environment. Barren soil showing repeated failure
+      of attempts to grow anything substantial. Clotheslines with modest family laundry flapping in rising wind.
+    background: towering apartment buildings on all sides creating walls that block sunlight, windows of neighboring buildings
+      like watching eyes, urban canyon effect intensified by gathering storm
+    atmosphere: enclosed and stifled outdoor space where natural growth is nearly impossible, symbolic of crushed dreams and
+      limited possibilities, gathering storm clouds reflecting internal emotional turmoil
+  composition:
+    cameraAngle: high angle looking down into enclosed yard, emphasizing trapped feeling and urban canyon effect
+    focus: solitary figure holding seeds while contemplating impossible task of growing anything in hostile environment
+    depth: foreground shows barren soil and struggling plants, middle ground centers on man with seeds, background reveals
+      oppressive wall of apartment buildings blocking natural light and growth
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

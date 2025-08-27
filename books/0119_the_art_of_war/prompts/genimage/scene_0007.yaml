@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 506 BCE, midday sun at maximum intensity
+    location: Blacksmith forge area within Wu military camp, temporary but well-equipped workshop for equipment maintenance
+    weather: Clear hot day with intense sun beating down on forge flames
+  characters:
+  - appearance: Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes
+      with determined expression, graying hair at temples
+    clothing: Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt,
+      wears small jade pendant indicating court rank
+    position: Standing beside forge watching metalwork transformation process
+    action: Observing as broken chain links are heated and reformed into connecting elements for military equipment
+  scene:
+    mainElements: Iron chain links glow red-hot in forge fire, being reshaped by hammer blows into connecting rings for armor
+      and harnesses, transformation from symbols of bondage into tools of protection and unity
+    details: Broken iron shackles now heated to glowing orange in coal forge, blacksmith's hammer reshaping individual links
+      into useful military hardware - bridle rings, armor connections, tent anchoring points. Small jade pendant indicating
+      court rank catches forge light, creating connection between refined court life and practical military necessity. Bellows
+      worker maintains intense heat, sparks flying with each hammer strike
+    background: Military blacksmith's temporary workshop with anvil, coal forge, water quenching tub, various iron tools hanging
+      from wooden frame, tent walls providing shelter
+    atmosphere: Intense heat and purposeful activity, rhythm of hammer strikes on hot metal, hissing of quenched iron, smoky
+      air filled with sparks, transformation of painful past into useful future, no text or letters visible to viewer
+  composition:
+    cameraAngle: Medium angle focusing on forge work while showing advisor's contemplative observation
+    focus: Glowing chain links being hammered into new shapes, capturing moment of transformation
+    depth: Foreground emphasizes hot metalwork and flying sparks, middle ground shows advisor witnessing change, background
+      reveals busy military workshop environment
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    secondary:
+    - gray ink wash
+    - white paper
+    - red seal stamp
+    background: white or off-white rice paper
+    usageNotes: Monochrome with occasional red artist seal; relies on black-to-gray gradients of ink
+    saturation: none (monochrome)
+    contrast: high (black ink vs white paper)
+  lineArt:
+    style: bold yet fluid brush strokes
+    weight: varied with brush pressure
+    color: black (fading to gray in wash)
+    texture: bleeding edges on absorbent paper
+    edgeTreatment: soft where ink bleeds, crisp on quick strokes
+  lighting:
+    type: n/a (no representational lighting)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: suggested by ink shading
+      color: gray ink
+      opacity: varied by wash
+    highlights: paper left blank for highlights
+  rendering:
+    technique: brush and ink on paper (traditional sumi-e)
+    texture: subtle paper grain, pooled ink gradients
+    detailLevel: minimal (suggestive forms, negative space)
+    finish: matte, natural media
+  perspective: panoramic or bird's-eye (scroll painting style)
+  mood:
+    overall: serene, contemplative, natural
+    emotion: tranquility, balance, introspection
+    tempo: calm, flowing
+    keywords:
+    - minimalist
+    - serene
+    - fluid
+    - natural
+    - traditional
+  stylePrecedents:
+  - Chinese landscape scrolls
+  - Sesshū Tōyō (sumi-e master)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

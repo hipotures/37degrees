@@ -1,0 +1,148 @@
+canon:
+  characters:
+    - id: "borges_narrator"
+      name: "Borges (Narrator)"
+      description_block: |
+        characters:
+          - appearance: "Argentinian intellectual in his early 40s, medium height, slender build slightly stooped from years of reading, thin face with sharp intellectual features, dark penetrating eyes behind round wire-rimmed spectacles, dark hair neatly combed back"
+            clothing: "Conservative dark wool suit of 1940s Buenos Aires intellectual, crisp white shirt, subdued tie, well-maintained but not fashionable attire reflecting focus on ideas rather than appearance"
+            position: "Usually seated at desk surrounded by books or standing in libraries examining volumes"
+            action: "Reading intently, taking notes with fountain pen, or engaged in scholarly discussion with colleagues"
+
+    - id: "magician_dreamer"
+      name: "The Dreamer/Magician"
+      description_block: |
+        characters:
+          - appearance: "Ageless figure appearing 50-60 years old, lean ascetic build, weathered face from sun and hardship, long gray hair and beard unkempt from solitude, eyes of extraordinary intensity focused inward, deeply lined skin"
+            clothing: "Simple worn gray cloth tunic or loincloth, barefoot, garments weathered by elements and time, no ornamentation or jewelry"
+            position: "Standing among ancient stone ruins or lying prone in meditation beside carved stone tiger"
+            action: "Deep in trance-like sleep, eyes closed in concentration of divine creation, slowly breathing in rhythm with cosmic forces"
+
+    - id: "dreamed_son"
+      name: "The Dreamed Son"
+      description_block: |
+        characters:
+          - appearance: "Young man 18-20 years old, perfect physical proportions as imagined by dreamer, harmonious facial features, idealized younger version of the magician, flawless skin, noble bearing"
+            clothing: "Initially unclothed in dream realm, later simple white or saffron acolyte robes of temple servant"
+            position: "Standing in temple doorway or walking through sacred chambers"
+            action: "Moving with divine grace, performing ritual gestures taught by creator, eyes reflecting innocence of newly awakened consciousness"
+
+    - id: "old_librarian"
+      name: "The Babel Librarian"
+      description_block: |
+        characters:
+          - appearance: "Elderly man in final years, stooped and emaciated from endless wandering, deeply wrinkled face, long unkempt gray hair and beard, eyes weak and tired from reading, skeletal frame"
+            clothing: "Worn gray-brown monk-like robe, frayed and stained from years of use, no other possessions or adornments"
+            position: "Shuffling through hexagonal galleries or hunched over writing at small desk"
+            action: "Slowly examining book spines, carefully turning fragile pages, or writing his final testament with trembling hands"
+
+    - id: "detective_lonnrot"
+      name: "Erik Lönnrot"
+      description_block: |
+        characters:
+          - appearance: "Experienced detective in his 40s, tall lean build, ascetic face with sharp angular features, cold penetrating eyes, thin lips, intellectual bearing suggesting pure reason incarnate"
+            clothing: "Impeccable 1940s detective attire: dark charcoal suit, pressed white shirt, narrow tie, black trench coat, fedora hat, polished leather shoes"
+            position: "Standing over crime scene studying evidence or seated at desk drawing geometric patterns on city map"
+            action: "Examining clues with magnifying glass, making precise notes, or tracing logical deductions with compass on paper"
+
+    - id: "red_scharlach"
+      name: "Red Scharlach"
+      description_block: |
+        characters:
+          - appearance: "Tall imposing figure matching Lönnrot in height, dark mirror image of the detective, intense eyes burning with hatred and cunning intelligence, possibly reddish hair suggesting his name"
+            clothing: "Well-tailored gangster suit with red accent (tie, pocket square, or lapel pin), expensive but menacing appearance, dark colors with single red element"
+            position: "Standing in shadows of villa staircase or seated in chair like throne"
+            action: "Waiting patiently for victim to arrive, checking pistol, or explaining elaborate revenge scheme with cold satisfaction"
+
+    - id: "juan_dahlmann"
+      name: "Juan Dahlmann"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged librarian 40-50 years, pale complexion typical of city intellectual, medium build slightly soft from sedentary life, wearing spectacles, weakened and gaunt after recent illness"
+            clothing: "City gentleman's attire: wool suit and overcoat unsuitable for countryside, formal shoes, clothing marking him as outsider in rural setting"
+            position: "Sitting in train compartment reading or standing uncomfortable and out of place in country store"
+            action: "Reading book while traveling, hesitantly accepting thrown knife, or facing inevitable confrontation with resigned dignity"
+
+    - id: "old_gaucho"
+      name: "The Ancient Gaucho"
+      description_block: |
+        characters:
+          - appearance: "Very old man, small and dried like desert earth, dark weathered face deeply lined, existing outside time in eternal quality, embodiment of mythical South"
+            clothing: "Traditional worn gaucho attire: loose bombachas pants, high leather boots, woolen poncho with geometric patterns, wide-brimmed hat, leather belt with silver buckle and sheathed knife"
+            position: "Sitting in corner of country store or standing in vast pampas landscape"
+            action: "Throwing knife to floor in ritual challenge, playing guitar, or observing scene with ancient wisdom and fatalistic acceptance"
+
+  locations:
+    - id: "biblioteca_babel"
+      name: "The Library of Babel"
+      description_block: |
+        setting:
+          location: "Infinite geometrical structure composed of identical hexagonal galleries connected by narrow corridors and spiral staircases, eternal universe of books containing all possible knowledge"
+        mainElements: "Each hexagon contains twenty shelves (five per wall) filled with identical books, central ventilation shaft with low balustrade, two spherical lamps providing inadequate eternal light, spiral staircases descending into abyss and ascending to infinity"
+        atmosphere: "Cold austere illumination creating harsh shadows, overwhelming sense of mathematical infinity, claustrophobic despair mixed with intellectual awe, echoing silence broken only by whispered footsteps and turning pages"
+
+    - id: "circular_ruins"
+      name: "The Circular Stone Ruins"
+      description_block: |
+        setting:
+          location: "Ancient circular temple ruins in dense malarial jungle beside muddy river, remnants of pre-Columbian civilization reclaimed by tropical forest"
+        mainElements: "Central circular plaza with stone tiger or horse statue, crumbling walls covered in moss and vines, stone steps leading from river bank, carved ritual platforms, altar stones worn smooth by centuries"
+        atmosphere: "Primeval mystery and sacred power, humid jungle air thick with insects and bird cries, misty dawn light filtering through canopy, sense of timeless ritual and divine presence"
+
+    - id: "triste_le_roy_villa"
+      name: "Villa Triste-le-Roy"
+      description_block: |
+        setting:
+          location: "Abandoned symmetrical villa in Buenos Aires suburbs, architectural nightmare of maniacal repetitions and unnecessary symmetries, built according to obsessive geometric principles"
+        mainElements: "Double staircases mirror each other, duplicated balconies, two-faced Hermes statues, opposing mirrors creating infinite reflections, rhomboid windows casting colored light (yellow, red, green), empty dust-covered rooms arranged in perfect symmetry"
+        atmosphere: "Surreal architectural madness, moonlight creating geometric shadow patterns, colored window light creating unreal illumination, sense of trap and inevitable doom approaching"
+
+    - id: "pampas_pulperia"
+      name: "Pampas Country Store"
+      description_block: |
+        setting:
+          location: "Simple one-story adobe building serving as rural store and tavern on endless Argentine plains, isolated outpost of civilization in vast grassland"
+        mainElements: "Primitive wooden bar counter, packed earth floor, whitewashed walls blackened by smoke, simple wooden stools and tables, shelves with basic supplies, iron-barred window, guitar leaning in corner"
+        atmosphere: "Twilight melancholy and fatalistic waiting, warm yellow light from oil lamp contrasting with gathering darkness, smell of dust and tobacco, eternal patience of rural life, sense of inevitable violence"
+
+    - id: "buenos_aires_library"
+      name: "Buenos Aires Municipal Library"
+      description_block: |
+        setting:
+          location: "Traditional library in Buenos Aires city center during 1940s, refuge of civilization and European culture in South American capital"
+        mainElements: "Tall wooden shelves filled with leather-bound volumes, reading tables with green-shaded lamps, card catalogs in wooden cabinets, large windows with heavy curtains, portraits of authors and scholars on walls"
+        atmosphere: "Scholarly quiet and intellectual sanctuary, golden lamplight on wood and leather, dust motes floating in afternoon sunbeams, sense of European erudition transplanted to New World"
+
+    - id: "chinese_pavilion"
+      name: "Stephen Albert's Chinese Pavilion"
+      description_block: |
+        setting:
+          location: "Traditional Chinese-style pavilion in English countryside estate, study of sinologist scholar surrounded by Oriental garden with winding paths"
+        mainElements: "Lacquered furniture in black and gold, Chinese porcelain in red and blue, paper lanterns providing soft illumination, walls lined with books in multiple languages, Ming dynasty vase, gramophone, maze-like garden paths visible through windows"
+        atmosphere: "Tranquil scholarly meditation mixed with growing tension, warm lantern light creating intimate atmosphere, rain pattering on roof and windows, sense of East meeting West, wisdom and impending tragedy"
+
+  items:
+    - id: "tlon_compass"
+      name: "The Tlön Compass"
+      description_block: |
+        details: "Small concave metallic compass of unearthly design, blue magnetic needle trembling and pointing to unknown directions, letters on dial belong to one of Tlön's alphabets, object impossibly heavy for its size, surface with subtle alien geometric patterns"
+
+    - id: "infinite_books"
+      name: "Books of Babel"
+      description_block: |
+        details: "Identical volumes in uniform format, each containing exactly 410 pages with same number of lines and characters per page, vast majority filled with random letter combinations, extremely rare volumes containing fragments of sense or meaning, all possible books that could ever be written exist somewhere in infinite collection"
+
+    - id: "gaucho_knife"
+      name: "Facón (Gaucho Knife)"
+      description_block: |
+        details: "Long straight blade of Argentine gaucho, sharp steel edge, handle made of bone or dark hardwood wrapped in leather, worn but well-maintained, traditional tool of work and weapon of honor, symbol of ancient code and inevitable violence"
+
+    - id: "city_map"
+      name: "Buenos Aires Map with Geometric Markings"
+      description_block: |
+        details: "Detailed city map from Baedeker guidebook, marked with red ink in geometric patterns forming perfect rhombus, compass and ruler marks showing mathematical precision, intersection points circled in red, evidence of detective's logical deduction process"
+
+    - id: "book_thousand_nights"
+      name: "The Thousand and One Nights"
+      description_block: |
+        details: "Leather-bound volume of Burton's translation, well-worn pages yellowed with age, symbol of Eastern wisdom and infinite storytelling, book within book containing endless stories, represents escape from mundane reality into realm of imagination"

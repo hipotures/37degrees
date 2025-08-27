@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1922, afternoon
+    location: London financial district office, sparse interior with single desk and window overlooking Thames
+    weather: Overcast sky casting grey light through window
+  characters:
+  - appearance: Middle-aged office clerk, tired expression, thinning hair, pale complexion from indoor work
+    clothing: Standard three-piece wool suit in dark grey, white shirt with detachable collar, simple necktie
+    position: Standing at window looking out
+    action: Holding brass compass while staring at river below with expression of confusion and loss
+  scene:
+    mainElements: Antique brass pocket compass held in clerk's palm, its needle spinning wildly without settling on any direction,
+      while desk calendar shows torn and scattered pages
+    details: The compass needle spins continuously, never finding true north, while its brass case is tarnished and dented
+      from years of use. Scattered calendar pages on the floor show different months and years mixed together - some from
+      1914, others from 1922, suggesting time itself has lost meaning. Ink from the torn pages has run together, creating
+      abstract patterns resembling maps of unknown territories.
+    background: Thames River visible through window with industrial smokestacks releasing dark smoke into grey sky
+    atmosphere: Profound disorientation and loss of direction in modern urban existence, where traditional guidance systems
+      have failed, no text or letters visible
+  composition:
+    cameraAngle: Medium shot from side showing clerk's profile and compass in his outstretched hand
+    focus: The wildly spinning compass needle as symbol of lost guidance and direction
+    depth: Spinning compass in foreground, clerk's contemplative figure in middle ground, smoky Thames and cityscape in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

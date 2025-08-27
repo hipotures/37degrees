@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1960s, late afternoon
+    location: Traditional Sudanese village beside bend of Nile River in Northern Province, single-story rectangular clay houses
+      with flat roofs in bayt jalus style, wooden doors and window frames
+    weather: Hot dry desert air, golden light of approaching sunset
+  characters:
+  - appearance: Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven
+      face showing traces of internal struggle
+    clothing: Clean white traditional djellaba with matching turban
+    position: Standing in village center, arms slightly spread, taking in familiar sights
+    action: Breathing deeply with visible relief, eyes moving lovingly across childhood landmarks, slight smile of recognition
+  scene:
+    mainElements: Earth-toned buildings seeming to grow from ground, date palm groves along riverbank, irrigation channels,
+      old water wheels being replaced by metal pumps
+    details: Through narrator's emotional filter, every familiar corner glows with warm memory - the well where he drew water
+      as child appears like sacred shrine, grandmother's house seems smaller but infinitely precious, village paths worn smooth
+      by generations of bare feet, donkeys and goats moving lazily in heat. Each building carries personal history, every
+      shadow holds childhood games, palm trees stand like old friends welcoming him home, no text or letters visible
+    background: Wide slow-flowing Nile River with muddy brown waters, banks lined with date palms and green vegetation, flat
+      cultivated fields extending to desert
+    atmosphere: Overwhelming sense of belonging and peace, narrator seeing village as sanctuary from complex outside world,
+      golden light making everything appear blessed and eternal, timeless agricultural community with sounds of water wheels
+      groaning, cattle lowing
+  composition:
+    cameraAngle: Eye level from narrator's perspective, slight wide angle to encompass beloved homeland
+    focus: Narrator's face showing deep emotional connection, with village spreading behind him
+    depth: Narrator in foreground with arms open to embrace everything, village buildings in middle ground bathed in golden
+      light, Nile and date palms in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

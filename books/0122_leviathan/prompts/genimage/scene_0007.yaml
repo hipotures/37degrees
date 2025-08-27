@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, midday public announcement time
+    location: Central London square with official proclamation posts and town crier platforms
+    weather: Overcast day with dramatic lighting
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Large wooden announcement boards displaying official proclamations, town crier on raised platform reading
+      state decrees, citizens gathered in silent attention, guards ensuring compliance
+    details: Multiple official notices with state seals posted prominently, citizens maintaining respectful distance while
+      listening, armed guards monitoring crowd reactions. Large parchment scrolls with wax seals representing official communications.
+      Heavy solid gold or iron crown symbols visible on all official documents.
+    background: Tudor buildings with consistent architectural features, church spire indicating religious authority under
+      state control, organized urban layout
+    atmosphere: Formal communication of state authority, citizens showing respectful attention, underlying tension about compliance
+      requirements
+  composition:
+    cameraAngle: Medium shot showing both the announcement platform and citizen response
+    focus: The official proclamation system as means of state communication and control
+    depth: Foreground shows citizen reactions, middle displays announcement platform, background reveals controlled urban
+      environment
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1513, midnight secrecy
+    location: Modest room in rural house in Sant'Andrea in Percussina, south of Florence. Simple chamber in family estate
+      where Machiavelli lives in political exile.
+    weather: Dark night with single candle illumination
+  characters:
+  - appearance: 44 year old lean man with high forehead, receding hair, thin lips, and penetrating, intelligent gaze reflecting
+      years of political experience and observation.
+    clothing: Simple, coarse rural clothing, dirty with mud and dust during day. In evening study, symbolic 'royal and courtly
+      robes' representing intellectual transformation.
+    position: Seated at simple wooden desk with books and manuscripts
+    action: Writing dangerous truths about power that cannot be spoken publicly
+  scene:
+    mainElements: Stone floor, whitewashed walls. Simple wooden desk and chair. Bookshelves full of books - only luxury in
+      room. Single candle or oil lamp providing illumination during evening work sessions.
+    details: Modest leather-bound manuscript, simple binding contrasting with luxury of Medici palace. Written on thick, handmade
+      paper with cream, uneven tone. Printed in classic Renaissance font - antique or italic creating dense text blocks. Symbol
+      of knowledge, strategy, and desperate attempt to regain political favor.
+    background: Place of intellectual asylum and desperate work. Contrast between poverty of surroundings and richness of
+      thought. Evening transformation from daytime rural drudgery to nighttime scholarly communion with ancient minds.
+    atmosphere: Dangerous knowledge being preserved despite political persecution. Truth-telling as act of rebellion against
+      official lies.
+  composition:
+    cameraAngle: Close-up on manuscript creation as act of resistance
+    focus: Writing truth as form of political rebellion
+    depth: Foreground shows detailed manuscript work, middle ground reveals Machiavelli's concentration, background displays
+      humble surroundings concealing profound insights
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

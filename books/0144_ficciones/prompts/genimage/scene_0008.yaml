@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1939 Prague, moment before execution
+    location: Nazi execution courtyard in Prague fortress, surrounded by ancient stone walls
+    weather: Gray morning with light rain falling
+  characters:
+  - appearance: Jewish intellectual in his 40s, medium build with scholarly bearing, wearing simple prison garments, face
+      showing mixture of fear and intellectual concentration
+    clothing: Plain gray prison uniform, worn leather shoes, no personal effects or jewelry
+    position: Standing against execution wall, facing firing squad but eyes fixed on clock tower
+    action: Watching clock face intently as time freezes at moment of divine intervention
+  scene:
+    mainElements: Large medieval clock tower dominates courtyard, clock face showing hands frozen at exact moment of supposed
+      death, rain droplets suspended motionless in air like crystal beads, single raindrop on prisoner's cheek stopped in
+      time, world become perfect still photograph
+    details: Clock transforms from time-keeper to symbol of divine mercy, its stopped hands marking boundary between mortal
+      time and eternal consciousness. Frozen rain creates crystalline sculpture of moment, each suspended drop catching light
+      like diamonds. Clock face becomes mandala of stopped time where one second expands to contain entire year of creative
+      work
+    background: Medieval fortress courtyard with high stone walls, execution squad with rifles raised, Nazi officers waiting,
+      cobblestone ground reflecting gray sky
+    atmosphere: Sacred suspension of natural law, divine intervention made manifest through stopped time, profound silence
+      of world holding its breath, miracle hidden within tragic moment, no text or letters visible
+  composition:
+    cameraAngle: Medium shot focusing on prisoner with clock tower prominent above
+    focus: The stopped clock face with suspended raindrops creating magical realism
+    depth: Prisoner's intense gaze in foreground, frozen clock and suspended rain in middle ground, motionless execution scene
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

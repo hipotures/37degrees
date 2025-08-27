@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, very late night in September
+    location: Small bedroom adjoining kitchen, separated only by portières, central bed dominates cramped space
+    weather: Stifling heat, oppressive nighttime humidity
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Tattered white evening gown with rhinestone tiara in climactic scenes
+    position: Backed against bedroom wall, holding broken bottle as final weapon
+    action: Making desperate last stand with glass weapon against advancing predator
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Bright silk pajamas during climactic scene
+    position: Advancing methodically toward cornered victim, cutting off escape routes
+    action: Stalking prey with predatory patience, closing in for final attack
+  scene:
+    mainElements: Bottle of whiskey secretively consumed to calm nerves and escape reality. Later broken and used as weapon
+      against Stanley
+    details: Shattered whiskey bottle creating jagged glass weapon. Woman's once-elegant gown now torn and stained showing
+      complete degradation. Tiara catching harsh light creating mockery of former dignity. Man's silk pajamas highlighting
+      predatory sexuality. No escape route visible in cramped bedroom space. No text or letters visible
+    background: Double bed, Blanche's trunk with scattered belongings, dresser with perfumes and powder, wardrobe
+    atmosphere: Ultimate moment of truth and confrontation. Prey making final desperate stand before inevitable defeat. Predatory
+      masculine power preparing for total domination. All pretense and civilization stripped away
+  composition:
+    cameraAngle: Dramatic confrontation shot emphasizing power imbalance
+    focus: Broken weapon against overwhelming masculine force
+    depth: 'Foreground: advancing predator; middle ground: desperate final defense; background: bedroom trap with no escape'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

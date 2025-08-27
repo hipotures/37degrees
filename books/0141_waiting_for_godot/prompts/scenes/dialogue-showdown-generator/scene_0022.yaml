@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Act II - The Blind Pozzo's Fall"
+  setting:
+    time: "Mid-20th century, next evening"
+    location: "Same desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Same man as Act I but now blind, his movements uncertain as he stumbles and falls. Face expresses fear and helplessness where once was arrogance."
+      clothing: "Same elegant attire as Act I but now dirty and disheveled after falling"
+      position: "Stumbling, falling, dependent on the short rope connecting him to Lucky"
+      action: "Struggling to stand after falling, crying out in panic and pain, completely dependent on his former slave"
+    - appearance: "Age indeterminate but appears old and exhausted by life. Physically broken, posture hunched under weight of baggage he carries. Long, probably gray hair falls across his face. Visible painful wound on neck from the rope. Most of the time his face lacks expression, eyes empty and absent, comes alive only during his monologue when his face contorts with effort and eyes flash with madness."
+      clothing: "Servant's or porter's attire, possibly some form of livery, but dirty and torn. Wears a battered bowler hat."
+      position: "Bent double under the weight of luggage, connected to Pozzo by a rope around his neck"
+      action: "Carrying heavy bags, suitcase, folding stool, and picnic basket for Pozzo, performing degrading acts on command, delivering chaotic intellectual monologue when hat is placed on his head"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "High-angle shot looking down at the fallen Pozzo and Lucky entangled on the ground. Same thick rope but now much shorter, creating new intimate dependency between blind Pozzo and his guide Lucky. Symbolizes reversal of power dynamic. The mighty have literally fallen, creating a pathetic heap of humanity on the barren earth."
+    background: "The tree with its mysterious four or five new leaves stands witness to this reversal of fortune."
+    atmosphere: "The arbitrary cruelty of time and fate has reduced the powerful to helplessness, showing the ultimate equality of human suffering."
+  composition:
+    cameraAngle: "High-angle shot looking down at the fallen figures"
+    focus: "The pathetic entanglement of former master and slave"
+    depth: "Foreground: the fallen, entangled bodies; Middle ground: disturbed earth; Background: the witnessing tree"

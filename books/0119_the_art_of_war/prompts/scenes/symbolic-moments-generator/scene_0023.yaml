@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Broken Chains Forge New Unity"
+  setting:
+    time: "506 BCE, afternoon celebration of successful campaign conclusion"
+    location: "Central courtyard of conquered Chu palace, now serving as meeting place for Wu leadership and Chu civilians"
+    weather: "Pleasant afternoon with gentle breeze carrying scents of peace"
+  characters:
+    - appearance: "Middle-aged Chinese military strategist around 40-45 years old, average height, lean muscular build from years of military training, sharp intelligent dark eyes, high cheekbones"
+      clothing: "Simple brown wool tunic with wide sleeves cinched at waist with leather belt, practical dark trousers, soft leather boots, occasionally wears light bronze scale armor when in military settings"
+      position: "Standing beside forge where old chains are being reforged into ceremonial unity symbols"
+      action: "Overseeing transformation of symbols of division into emblems of integration"
+  scene:
+    mainElements: "Iron chains previously symbolizing bondage and oppression now melted down and reforged into linking rings connecting Wu and Chu ceremonial elements, former symbols of separation becoming tools of unity"
+    details: "Broken iron shackles from campaign's beginning have been heated and reshaped into decorative linking elements connecting Wu and Chu ceremonial objects - bronze vessels, silk banners, court insignia - creating physical bonds between former enemies. Large silk banner in deep red color with golden embroidered emblem, mounted on tall wooden pole with bronze spearpoint, used to identify military units and signal commands during battle formations now stands beside Chu royal standards, connected by new iron links forged from old chains"
+    background: "Chu palace courtyard with mixed Wu and Chu officials working together, integration of architectural styles and cultural symbols, peaceful conclusion to military campaign"
+    atmosphere: "Harmonious integration replacing conquest domination, sound of hammer on anvil creating unity rather than weapons, afternoon light illuminating cooperative work, sense of transformation rather than mere victory, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Wide view showing forge work with ceremonial objects being connected by reforged chains"
+    focus: "Chains being transformed from symbols of oppression into tools of connection and integration"
+    depth: "Foreground shows detailed metalwork and chain transformation, middle ground captures strategist overseeing integration, background reveals successful cultural blending"

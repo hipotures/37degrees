@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Aftermath of violence with new life arriving"
+  setting:
+    time: "Late 1940s, early morning after violence"
+    location: "Working-class street in New Orleans French Quarter, between L&N railroad tracks and Mississippi River. Two-story corner building with weathered white wooden frame turned gray, rickety external stairs, galleries with ornate gables"
+    weather: "Cool dawn air bringing slight relief from oppressive heat"
+  characters:
+    - appearance: "Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through most scenes. Soft, caring facial features"
+      clothing: "Hospital gown partially covered by robe, exhausted from childbirth"
+      position: "Being helped up stairs by neighbor, weak from recent ordeal"
+      action: "Returning from hospital with newborn child, unaware of night's violence"
+    - appearance: "Woman 25-35 years old, described as straightforward and rough. Physically open and relaxed posture, loud direct voice"
+      clothing: "Simple housedress and apron, practical helping attire"
+      position: "Supporting younger woman up external stairs"
+      action: "Assisting new mother while glancing nervously toward apartment"
+  scene:
+    mainElements: "Cosmopolitan, racially mixed neighborhood with raffish charm. Street life spills onto sidewalks, verandas, and stairways. Nearby bar with blue piano music, railroad tracks, river warehouses"
+    details: "Dawn light revealing previous night's destruction through windows. New mother oblivious to apartment chaos, focused only on newborn. Neighbor's worried expressions suggesting knowledge of violence. Baby crying innocently amid aftermath of brutality. Steam rising from streets as new day begins. No text or letters visible"
+    background: "Mix of vitality and decay, humid heat, sounds of blue piano, train whistles, street vendors calling, smells of coffee, bananas, and mustiness from river"
+    atmosphere: "Innocent new life emerging into world contaminated by violence. Hope and destruction existing simultaneously. Circle of life continuing despite human cruelty"
+  composition:
+    cameraAngle: "Wide shot showing return to scene of destruction"
+    focus: "New mother with baby contrasted against damaged environment"
+    depth: "Foreground: innocent mother and child; middle ground: supportive neighbor; background: apartment hiding secrets of violence"

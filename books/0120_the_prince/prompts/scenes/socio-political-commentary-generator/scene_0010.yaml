@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Censorship and Silenced Voices"
+  setting:
+    time: "1513, dim afternoon light"
+    location: "City library and scribal workshops showing effects of intellectual control"
+    weather: "Overcast sky creating subdued, oppressive atmosphere"
+  characters:
+    - appearance: "Scholars and scribes working under supervision"
+      clothing: "Simple academic robes, ink-stained from careful work"
+      position: "Seated at writing desks with official monitors nearby"
+      action: "Carefully editing texts, removing dangerous passages, replacing forbidden ideas with approved alternatives"
+    - appearance: "Official censors and supervisors"
+      clothing: "Formal governmental or clerical attire indicating authority"
+      position: "Standing over workers, examining their output"
+      action: "Reviewing manuscripts for dangerous content, marking passages for removal"
+  scene:
+    mainElements: "Library shelves with visible gaps where books have been removed. Scribal workshops with piles of banned manuscripts awaiting destruction. Official lists of prohibited ideas and authors."
+    details: "Crossed-out text in manuscripts, burned book piles outside windows, scholars whispering furtively when supervisors aren't listening. Official seals on approved texts contrasted with unmarked dangerous volumes being hidden."
+    background: "Previously rich intellectual environment now controlled and diminished. Empty shelves, reduced activity, atmosphere of intellectual fear."
+    atmosphere: "Suppression of dangerous knowledge and ideas. Truth controlled by those in power, intellectual freedom sacrificed to political stability."
+  composition:
+    cameraAngle: "Medium shot showing both censors and censored working in same space"
+    focus: "Process of intellectual control and manipulation of truth"
+    depth: "Foreground shows detailed censorship work, middle ground reveals supervised scholars, background displays depleted library shelves"

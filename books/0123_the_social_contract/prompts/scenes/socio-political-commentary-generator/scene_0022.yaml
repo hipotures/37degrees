@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Chess Game of Power - Citizens as Pieces on Board"
+  setting:
+    time: "1760s, strategic moment of decision"
+    location: "Allegorical representation of society as giant chessboard with citizens as playing pieces"
+    weather: "Dramatic lighting emphasizing strategic positioning and power relationships"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Standing on squares of giant chessboard as pawns and other pieces in elaborate game of power"
+      action: "Being moved across board by unseen players, sacrificed for strategic advantage, having no control over their own movements or fate in larger game"
+  scene:
+    mainElements: "Massive chessboard with citizens as playing pieces, invisible hands moving figures according to strategic calculations, some pieces being sacrificed for advantage"
+    details: "Citizens dressed as different chess pieces - most as expendable pawns, few as more powerful pieces. Giant hands reach down from above to move human pieces. Some figures are removed from board representing elimination from society"
+    background: "Game extends beyond visible frame suggesting vast scale of power manipulation, scoreboards tracking victories and losses measured in human lives"
+    atmosphere: "Human lives reduced to strategic calculations, individuals sacrificed for abstract political objectives, power exercised through manipulation of masses treated as expendable resources"
+  composition:
+    cameraAngle: "Overhead view showing strategic positioning and manipulation of human pieces"
+    focus: "Giant hand moving citizen-pawn across chessboard while other human pieces await their turn"
+    depth: "Foreground shows detail of individual human chess pieces, middle ground displays strategic board position, background suggests vast scope of power game"

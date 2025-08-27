@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1890s horse-drawn carriage era transitioning to 1910s automobile age
+    location: Courtyard of Hôtel de Guermantes, aristocratic district Paris
+    weather: Same evening departure preparations across both technological periods
+  characters:
+  - appearance: 'Baron de Charlus: middle-aged aristocrat with commanding presence, showing subtle aging across technological
+      transition'
+    clothing: 'Both periods: impeccable dark formal wear with slight eccentric touches, opera cape and top hat consistent'
+    position: Same position descending front steps to awaiting transport, identical departure gesture
+    action: '1890s: accepting coachman''s assistance into elegant carriage, 1910s: independently entering modern automobile
+      with driver'
+  scene:
+    mainElements: 'Same stone courtyard with different vehicles: ornate horse-drawn carriage with two fine horses versus early
+      luxury automobile with chauffeur. Courtyard architecture unchanged but showing technological adaptation.'
+    details: '1890s: leather harnesses gleaming, carriage lamps lit, horses snorting in evening air, straw scattered on cobblestones.
+      1910s: automobile headlamps illuminating stone walls, engine sound echoing, oil stains replacing organic traces.'
+    background: Hôtel facade showing installation of electric lighting replacing gas lamps. Same wrought-iron gates but with
+      different patterns of wear from new traffic. Servants adapting from stable work to mechanical maintenance.
+    atmosphere: Aristocratic adaptation to technological progress while maintaining social privilege. Traditional elegance
+      accommodating modern convenience without losing essential character, no text or letters visible
+  composition:
+    cameraAngle: Wide shot from courtyard entrance showing full scene of transport evolution
+    focus: Central courtyard space demonstrating technological transformation while maintaining social continuity
+    depth: Foreground shows cobblestone changes, middle ground captures transport evolution, background reveals architectural
+      adaptation to new era
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

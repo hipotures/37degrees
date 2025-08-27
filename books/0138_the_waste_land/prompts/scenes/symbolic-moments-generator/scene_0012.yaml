@@ -1,0 +1,19 @@
+sceneDescription:
+  title: "The Cage with Wings"
+  setting:
+    time: "1922, dawn"
+    location: "Improved public house interior in mock-Tudor style typical of 1920s London, clean simple design departing from Victorian gin palace excess"
+  characters:
+    - appearance: "Working-class woman exactly 31 years old but appearing much older, worn face and body showing effects of poverty and multiple pregnancies, characteristic missing and damaged teeth, expression of resignation and exhaustion"
+      clothing: "Simple worn dress typical of working-class women in early 1920s, made of cotton or cheap fabric, functional and unadorned"
+      position: "Standing in pub among other working-class women"
+      action: "Being discussed by friends who gossip about her health and appearance with mixture of concern and judgment"
+  scene:
+    mainElements: "Ornate brass birdcage sits on bar counter, its door standing wide open, but delicate white bird wings are woven into the cage bars themselves"
+    details: "The birdcage is beautiful and ornate, with intricate metalwork and decorative scrolls, yet it represents confinement and limitation. The door swings freely, suggesting escape is possible, yet the bird wings - real feathered wings, white and pristine - are somehow grown into or trapped within the cage bars themselves, making flight impossible even with the door open. The wings flutter occasionally, showing life and desire for freedom, but remain bound to their prison."
+    background: "Wooden bar counter, simple tables and chairs, electric lighting creating warm but harsh illumination"
+    atmosphere: "Gossipy but joyless social interaction, cigarette smoke filling air, underlying desperation masked by forced community, cruel irony of freedom offered but made impossible, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up view of the cage showing the trapped wings in detail"
+    focus: "The contradiction between open door and trapped wings"
+    depth: "Birdcage with imprisoned wings in foreground, Lil and gossiping women in middle ground, pub interior in background"

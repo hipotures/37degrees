@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "Monument to Authority"
+  setting:
+    time: "1911, morning"
+    location: "Traditional Chinese courtyard house (siheyuan) of wealthy Chao clan, center of power in Weizhuang village"
+    weather: "Bright morning light emphasizing architectural grandeur"
+  characters: "No characters present in this scene"
+  scene:
+    mainElements: "Imposing vermillion red gate of traditional Chinese compound, flanked by stone lions and ornate carvings. High grey brick walls topped with curved tiles stretch in both directions, creating fortress-like barrier"
+    details: "Intricate door gods painted on gate panels, brass door knockers polished to gleaming, stone threshold worn smooth by generations of visitors. Red paper with auspicious characters pasted beside entrance. Heavy wooden doors reinforced with iron studs stand closed and forbidding"
+    background: "Glimpse of inner courtyard through partially open gate shows stone paving, ornamental plants in ceramic pots, and shadowy doorways leading to inner chambers"
+    atmosphere: "Overwhelming sense of power, tradition, and exclusivity. The architecture itself communicates social hierarchy and warns common people of their place. The red color symbolizes imperial authority while the closed gates suggest secrecy and inaccessibility"
+  composition:
+    cameraAngle: "Low angle looking up at the imposing gate structure"
+    focus: "The massive red gate as symbol of institutional power and social barriers"
+    depth: "Foreground emphasizes the threshold and gate details, middle ground shows the gate's full height and grandeur, background hints at the mysterious compound interior"

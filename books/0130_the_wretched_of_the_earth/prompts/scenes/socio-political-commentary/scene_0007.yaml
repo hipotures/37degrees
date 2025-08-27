@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Armed Patrols in Urban Streets"
+  setting:
+    time: "1950s Algeria, early morning"
+    location: "Dense labyrinth of narrow winding streets in traditional Algerian quarter, organic architecture with houses pressing against each other"
+    weather: "Harsh morning light creating deep shadows"
+  characters:
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Khaki military uniform with beret"
+      position: "Leading armed patrol through narrow streets"
+      action: "Moving cautiously with weapon ready, scanning doorways and windows for threats"
+    - appearance: "Weather-beaten Algerian man in his 40s-50s, deep furrows on sun-scorched face, large calloused hands from agricultural work, dignified despite hardship"
+      clothing: "Traditional djellaba or gandoura, woolen burnous for protection, simple earth-toned garments"
+      position: "Pressed against wall as patrol passes"
+      action: "Avoiding eye contact with soldiers, waiting tensely for patrol to move on"
+  scene:
+    mainElements: "French military patrol moving through traditional Algerian neighborhood, soldiers with automatic weapons scanning for resistance"
+    details: "Armed soldiers in combat gear moving single-file through narrow alleyways, radio equipment crackling with communications, military jeep unable to navigate tight streets parked at entrance, residents closing shutters and doors, children pulled inside by mothers, tension thick in morning air"
+    background: "Steep stone pathways, bustling souks with spice vendors, shadowy alleyways, traditional Arabic architecture"
+    atmosphere: "Crowded authentic life contrasting with colonial sterility, community warmth amid poverty and oppression"
+  composition:
+    cameraAngle: "Street level showing confrontation between military force and civilian population"
+    focus: "Armed patrol dominating narrow space, civilians retreating from military presence"
+    depth: "Soldiers in foreground, cowering residents in middle ground, traditional architecture creating confined background"

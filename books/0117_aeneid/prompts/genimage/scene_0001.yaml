@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, late afternoon turning to storm darkness
+    location: Mediterranean Sea south of Sicily during violent supernatural tempest
+    weather: Catastrophic storm with mountainous waves, lightning, and hurricane winds unleashed by gods
+  characters:
+  - appearance: tall, powerfully built warrior with noble bearing
+    clothing: Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunic with longer sleeves
+      in Eastern style
+    position: standing on deck of flagship gripping rigging
+    action: desperately holding ship's rail as vessel is battered by divine storm, face showing terror and despair
+  scene:
+    mainElements: Trojan fleet of ships with bronze-reinforced hulls scattered across churning Mediterranean, massive supernatural
+      storm clouds dominating sky, ships appearing tiny against mountainous waves
+    details: Lightning illuminates terrified faces of sailors, broken oars floating in foam, one vessel being swallowed by
+      whirlpool while others struggle against hurricane winds, black pitch-sealed hulls reflecting fire from sky, torn square
+      sails whipping in gale
+    background: Dark storm clouds blotting out sun, Sicily's coastline barely visible through sheets of rain, supernatural
+      darkness suggesting divine wrath
+    atmosphere: Overwhelming divine power crushing mortal ambitions, chaos of natural forces beyond human control, terror
+      and helplessness before supernatural storm
+  composition:
+    cameraAngle: Extreme wide establishing shot from elevated position showing vast scale
+    focus: Tiny Trojan ships struggling against overwhelming forces of nature and divine wrath
+    depth: Storm clouds dominating sky in background, huge waves in middle distance, ships appearing insignificant in foreground
+      waters, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

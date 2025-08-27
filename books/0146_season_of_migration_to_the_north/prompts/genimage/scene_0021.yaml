@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1960s, early morning after the tragedy
+    location: Traditional Sudanese village center where news spreads rapidly through community
+    weather: Dawn light revealing new reality, cool morning air
+  characters:
+  - appearance: Multiple village residents of various ages and relationships, faces showing shock and disbelief
+    clothing: Traditional garments hurriedly worn, some still in sleeping clothes, others dressed for morning tasks
+    position: Gathering in spontaneous groups, clustering around those bringing news
+    action: Exchanging information with hushed voices, gesturing toward scene of tragedy, comforting each other
+  scene:
+    mainElements: Village center becoming focal point for community grief, small groups forming and reforming as news spreads,
+      traditional morning activities suspended
+    details: Collective community response to shocking news - women covering faces in traditional gestures of mourning, men
+      speaking in low urgent tones about details and implications, children sensing adult distress without understanding cause,
+      elderly shaking heads with recognition of familiar pattern of tragedy, morning routines abandoned as community struggles
+      to process violent disruption of their peaceful order, no text or letters visible
+    background: Traditional village houses now appearing different in light of tragedy, path leading toward scene of violence,
+      Nile continuing to flow indifferently
+    atmosphere: Shared community shock creating temporary unity in face of tragedy, familiar village transformed by collective
+      knowledge of violence, morning light revealing changed world where assumed safety has been shattered
+  composition:
+    cameraAngle: Wide angle showing multiple groups and community response patterns
+    focus: Various faces and gestures showing different aspects of collective grief and shock
+    depth: Multiple conversation groups in foreground and middle ground, village setting now charged with new meaning in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

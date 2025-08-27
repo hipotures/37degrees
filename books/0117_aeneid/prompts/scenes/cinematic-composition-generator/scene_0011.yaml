@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Aeneas Views Trojan War Murals"
+  setting:
+    time: "Mythical era around XII century BCE, morning in sacred temple"
+    location: "Interior of Juno's temple in Carthage with painted walls depicting Trojan War"
+    weather: "Bright morning light streaming through temple columns"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "travel-worn tunic and cloak, no armor in sacred space"
+      position: "standing close to temple wall examining painted scenes"
+      action: "reaching toward painted images while tears flow down face recognizing scenes of personal tragedy"
+  scene:
+    mainElements: "Temple interior with soaring columns, walls covered in detailed murals showing Trojan War battles, bronze altar and sacred furnishings"
+    details: "Detailed painted scenes showing Trojan warriors in combat, images of Troy burning, portraits of fallen heroes and Greek victors, bronze doors gleaming with sacred light, marble floors reflecting colored light from paintings, ritual implements and offerings to Juno"
+    background: "Temple architecture extending beyond visible walls, other worshippers and priests attending sacred duties, Carthaginian city life visible through columned entrances"
+    atmosphere: "Sacred space containing personal history, overwhelming recognition of fame and tragedy, divine power preserving mortal memory"
+  composition:
+    cameraAngle: "POV shot seeing exactly what character sees when examining murals up close"
+    focus: "Painted scenes of Trojan War with hand reaching toward familiar faces and battles from personal experience"
+    depth: "Detailed mural paintings in immediate foreground showing war scenes, temple architecture in middle distance, city activity visible through columns in background, no text or letters visible"

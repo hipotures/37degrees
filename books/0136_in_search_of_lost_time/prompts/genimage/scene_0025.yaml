@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 'Geological and human time compressed: centuries of tree growth with human civilizations rising and falling'
+    location: Ancient oak tree location showing accumulated human history across vast timescale
+    weather: All seasons cycling rapidly across centuries while tree endures
+  characters:
+  - appearance: 'Tiny human figures from different historical periods: medieval peasants, Renaissance scholars, Enlightenment
+      philosophers, modern artists, all dwarfed by massive tree'
+    clothing: 'Historical costume evolution across centuries: medieval robes, Renaissance doublets, 18th-century wigs, modern
+      suits'
+    position: Small human figures appearing and disappearing around eternal tree base across centuries
+    action: 'Human activities across time: medieval prayers, Renaissance study, Enlightenment debate, modern contemplation,
+      all occurring around same tree'
+  scene:
+    mainElements: 'Massive ancient oak dominating scene, trunk showing centuries of growth rings visible. Human constructions
+      appearing and disappearing: medieval chapel, Renaissance manor, Enlightenment garden, modern house.'
+    details: Tree bark showing centuries of carved initials from different periods. Root system expanding across centuries.
+      Seasonal changes cycling rapidly while tree growth continues slowly.
+    background: 'Landscape showing geological time versus human time: mountains unchanged while human settlements rise and
+      fall. Stars wheeling overhead showing cosmic scale.'
+    atmosphere: Ultimate temporal perspective where human history becomes brief moment in natural time. Individual mortality
+      and cultural change set against cosmic continuity and natural permanence, no text or letters visible
+  composition:
+    cameraAngle: Low angle emphasizing tree's massive scale with tiny human figures for temporal perspective
+    focus: Ancient oak as temporal monument transcending all human cultural change
+    depth: Foreground shows human scale detail, middle ground dominated by tree, background suggests cosmic scale
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

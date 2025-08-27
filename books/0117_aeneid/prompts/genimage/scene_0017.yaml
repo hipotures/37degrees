@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, deceptive moment of false peace
+    location: Trojan main gates with massive defensive walls showing architectural complexity
+    weather: Deceptively calm day masking approaching catastrophe
+  characters:
+  - appearance: Trojan citizens of various ages celebrating apparent Greek withdrawal
+    clothing: festive garments and ceremonial dress showing relief from siege
+    position: crowding around massive wooden construction with mixture of celebration and unease
+    action: pulling gigantic wooden horse through city gates while some express doubt and others celebrate
+  scene:
+    mainElements: Gigantic wooden horse construction towering over city gates, massive Trojan defensive walls showing decade
+      of siege damage, crowds of citizens celebrating end of war
+    details: Wooden horse crafted from massive fir beams appearing as religious offering, hidden wheels and rope systems for
+      moving enormous weight, Trojan gates opened wide for first time in years, celebration banners and festival decorations,
+      abandoned Greek camps visible beyond walls
+    background: Troy's architecture showing siege damage but still magnificent, defensive walls and towers, Mediterranean
+      landscape beyond showing Greek ships departing
+    atmosphere: False security masking impending disaster, celebration built on deception, doom approaching in disguise of
+      victory
+  composition:
+    cameraAngle: Extreme Dutch angle making wooden horse appear monumentally threatening and unstable
+    focus: Massive wooden horse dominating composition while tilted perspective suggests hidden danger
+    depth: Enormous wooden horse in threatening foreground, celebrating crowds in middle distance, tilted cityscape suggesting
+      impending doom in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

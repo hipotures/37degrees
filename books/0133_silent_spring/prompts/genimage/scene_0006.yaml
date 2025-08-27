@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1962 spring, Sunday morning
+    location: Town square with church bell tower, small puddle reflecting sound vibrations before chemical treatments begin
+    weather: Clear spring morning with still air perfect for sound transmission
+  characters:
+  - appearance: Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism,
+      age varying by scene context
+    clothing: Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business
+      attire, children in simple play clothes
+    position: Walking near church, pausing to observe water disturbance
+    action: Noticing how bell sounds create visible patterns in standing water
+  scene:
+    mainElements: Church bells high in tower creating powerful sound waves visible as concentric ripples spreading across
+      surface of small puddle, each bell tone generating distinct ripple pattern, sound vibrations made visible through water
+      disturbance
+    details: Clear water in shallow puddle acting as natural sound visualizer, ripples radiating outward from center with
+      each bell strike, overlapping wave patterns creating interference designs, dust particles on water surface dancing with
+      sound vibrations, church tower casting shadow over plaza, traditional American church architecture symbolizing community
+      faith and stability
+    background: Archetypal small American town in heartland, white clapboard houses with front porches, red gambrel-roofed
+      barns, manicured gardens, tree-lined streets representing American dream of harmony with nature
+    atmosphere: Peaceful Sunday morning harmony between human community and natural sound phenomena, celebration of acoustic
+      environment before chemical intervention destroys natural soundscape, no text or letters visible
+  composition:
+    cameraAngle: Low angle focusing on puddle surface with church tower visible above
+    focus: Water ripple patterns created by bell sound vibrations
+    depth: Immediate foreground shows detailed ripple patterns, middle ground includes church architecture, background suggests
+      broader community context
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

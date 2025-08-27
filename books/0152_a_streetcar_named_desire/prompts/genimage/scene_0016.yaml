@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, hot summer day in August
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Oppressive heat wave, suffocating humidity
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Light summer dress increasingly wilted from heat and stress
+    position: Trapped in corner of room, back against wall defensively
+    action: Growing increasingly agitated and defensive as questions become more pointed and threatening
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Work clothes, deliberately casual stance while delivering devastating information
+    position: Standing in dominant position, controlling conversation and space
+    action: Methodically sharing damaging information with calculated cruelty, watching victim's growing panic
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Sweltering heat making tension unbearable. Woman's makeup beginning to run from perspiration and stress. Paper
+      lantern providing inadequate protection from harsh interrogation. No escape routes visible in cramped quarters. Man's
+      predatory satisfaction growing with each revelation. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Crushing psychological pressure building. Walls closing in metaphorically and literally. Hunter stalking wounded
+      prey with methodical precision. Mounting panic and desperation
+  composition:
+    cameraAngle: Claustrophobic framing emphasizing entrapment
+    focus: Growing panic in victim's face as information warfare intensifies
+    depth: 'Foreground: threatening interrogator; middle ground: trapped victim; background: inescapable cramped environment'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

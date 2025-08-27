@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Society as Chessboard - Strategic Human Pieces"
+  setting:
+    time: "1651, metaphorical representation of political strategy"
+    location: "Allegorical chessboard representing society as strategic game"
+    weather: "Dramatic lighting emphasizing strategic positioning"
+  characters:
+    - appearance: "Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority, stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard"
+      clothing: "Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather boots, crown of heavy gold or iron symbolizing weighty authority"
+      position: "Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which the state revolves"
+      action: "One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without personal emotion"
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Giant chessboard with human figures as chess pieces, different social classes representing different piece types, Sovereign as king piece commanding the board, citizens positioned according to their social function"
+    details: "Humans standing on chessboard squares representing different social roles - merchants as bishops, soldiers as knights, workers as pawns, elite as royalty. Large two-handed ceremonial sword held by king piece. Heavy solid crown worn by sovereign chess piece. Simple clay pipes visible with pawn pieces."
+    background: "Massive chessboard extending to horizon, geometric patterns emphasizing strategic positioning, elevated viewpoint suggesting divine or state perspective on society"
+    atmosphere: "Society as strategic game rather than human community, calculated positioning of human resources, individual lives subordinated to larger political strategy"
+  composition:
+    cameraAngle: "High bird's eye view showing the complete chessboard society"
+    focus: "The reduction of human society to strategic game pieces under state control"
+    depth: "Foreground shows individual human chess pieces, middle displays board organization, background suggests infinite strategic possibilities"

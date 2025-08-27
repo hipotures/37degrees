@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Three Generations Reading at Same Fireside"
+  setting:
+    time: "1845, 1865, 1885 layered in same winter evening"
+    location: "Down House drawing room with fireplace, Kent countryside residence"
+    weather: "Cold winter evening with frost patterns on windows"
+  characters:
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "In favorite armchair beside fireplace in middle temporal layer"
+      action: "Reading scientific journal to young children seated at his feet"
+    - appearance: "Gentle English lady in her forties to fifties, average height 165cm, matronly figure softened by childbearing, light brown hair graying at temples and pinned in neat Victorian chignon, warm brown eyes with kind expression, pleasant round face with gentle smile"
+      clothing: "Modest Victorian lady's dress: dark blue or brown woolen day dress with high neckline, white lace collar, small cameo brooch, white cotton apron when in kitchen, delicate shawl over shoulders, simple black boots"
+      position: "On sofa with needlework across all three time periods"
+      action: "Emma aging from young mother to elderly grandmother, always with handiwork, watching children become parents become grandparents"
+    - appearance: "Darwin family children growing from young to adult to elderly across temporal layers"
+      clothing: "Period-appropriate children's clothing evolving to adult Victorian dress to elderly attire"
+      position: "Children on floor becoming adults in chairs becoming elderly visitors"
+      action: "Listening to grandfather's stories becoming parents reading to own children becoming grandparents sharing Darwin family memories"
+  scene:
+    mainElements: "Drawing room with fireplace, comfortable armchairs, family photographs and portraits, bookcases, piano, and reading tables"
+    details: "Same furniture aging across generations: leather chairs developing wear patterns, carpet showing paths worn by decades of family use, family portraits accumulating on mantelpiece, books changing from adventure stories to scientific works to family histories, children's toys evolving from wooden blocks to more sophisticated games, piano music changing from simple exercises to accomplished performances, firelight consistently warm across all time periods, no text or letters visible"
+    background: "Windows showing same winter garden view with oak trees growing taller, family cemetery plot visible in distance with increasing monuments"
+    atmosphere: "Multigenerational family warmth and continuity, passing of knowledge and values through Darwin family lineage, scientific curiosity inherited across generations"
+  composition:
+    cameraAngle: "Medium shot from room entrance showing family gathered around fireplace"
+    focus: "The hearth as center of family continuity across decades"
+    depth: "Foreground: children at different ages, middle: parents in chairs, background: portraits and family history on walls"

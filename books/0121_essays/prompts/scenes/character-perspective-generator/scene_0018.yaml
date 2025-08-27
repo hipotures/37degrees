@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Multiple Angles on Courthouse Friendship"
+  setting:
+    time: "1563, afternoon legal session"
+    location: "Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority"
+    weather: "Standard afternoon lighting from tall windows"
+  characters:
+    - appearance: "Two magistrates in formal robes engaged in professional consultation about legal case"
+      clothing: "Standard judicial attire appropriate for parliament members, properly maintained and formal"
+      position: "Standing beside case documents, reviewing legal precedents together"
+      action: "Discussing technical legal matters with professional collegiality, sharing expertise on complex case"
+  scene:
+    mainElements: "Routine professional consultation between legal colleagues during normal courthouse operations"
+    details: "Legal documents spread systematically on oak table showing case details requiring expert consultation, courthouse architecture provides standard formal setting for judicial work, afternoon light from tall windows illuminates legal texts requiring careful reading, both magistrates maintain appropriate professional distance while sharing expertise, other court personnel continue normal activities in background, stone floor shows wear patterns from decades of legal proceedings, no text or letters visible"
+    background: "Standard courthouse operations continuing around professional consultation, architectural elements serving practical judicial functions"
+    atmosphere: "Normal professional environment where legal expertise is shared routinely between qualified colleagues"
+  composition:
+    cameraAngle: "Multiple viewpoints showing normal professional interaction from various courthouse positions"
+    focus: "Professional collegiality in standard legal consultation without emotional interpretation"
+    depth: "Foreground shows legal documents, middle ground captures professional consultation, background reveals normal courthouse operations, no text or letters visible"

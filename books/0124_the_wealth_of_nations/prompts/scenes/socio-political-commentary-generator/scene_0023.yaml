@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Breaking Chains of Economic Restriction"
+  setting:
+    time: "1776, moment of economic liberation"
+    location: "Symbolic space showing transition from controlled to free economy"
+    weather: "Dawn light representing new economic understanding"
+  characters:
+    - appearance: "55-year-old Scottish philosopher, medium build, thin scholarly frame, pociągła twarz with high forehead and thoughtful expression, heavy drooping eyelids giving contemplative look"
+      clothing: "dark wool Georgian suit consisting of frock coat, long waistcoat, and breeches in charcoal gray, white linen shirt with simple white cravat, black leather shoes with silver buckles"
+      position: "seated at writing desk or walking in contemplation with scholarly bearing"
+      action: "writing with determined expression, his ideas represented as light breaking through darkness of economic restriction"
+    - appearance: "Various citizens representing different economic classes breaking free from artificial constraints"
+      clothing: "Clothing showing transition from uniform restriction to individual choice"
+      position: "moving from controlled formations into natural patterns of cooperation"
+      action: "casting off symbolic chains and restrictions, embracing natural economic freedom"
+  scene:
+    mainElements: "Floor-to-ceiling bookshelves filled with leather-bound volumes, large mahogany writing desk positioned near sash window, marble fireplace with brass fittings, standing globe in corner"
+    details: "Philosopher's writing creates metaphorical light dissolving artificial economic restrictions. Citizens break free from systematic controls and begin forming natural patterns of cooperation and exchange. Chains and barriers crumble as natural economic liberty emerges"
+    background: "Quiet scholarly environment with ticking clock, scent of old paper and leather bindings, warm candlelight mixing with natural daylight from window"
+    atmosphere: "Intellectual breakthrough creating economic liberation, artificial restrictions dissolving through understanding of natural economic law, hope emerging from systematic analysis"
+  composition:
+    cameraAngle: "Dynamic shot showing transition from restriction to freedom"
+    focus: "Philosopher writing liberating ideas while restrictions dissolve around him"
+    depth: "Writing and enlightenment in foreground, dissolving restrictions in middle ground, emerging economic freedom in background"

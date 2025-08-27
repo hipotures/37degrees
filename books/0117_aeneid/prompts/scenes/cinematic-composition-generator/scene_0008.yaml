@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Turnus Embraces War Fury"
+  setting:
+    time: "Mythical era around XII century BCE, dramatic moment before battle"
+    location: "Italian military camp with warrior king preparing for combat"
+    weather: "Clear day with tension building before storm"
+  characters:
+    - appearance: "handsome young warrior described as second Achilles"
+      clothing: "Italian king's armor with distinctive helmet crowned by high plume with fire-breathing chimera"
+      position: "standing in military tent surrounded by weapons and armor"
+      action: "gripping sword hilt while war-fury transforms noble features into mask of divine rage"
+  scene:
+    mainElements: "Military command tent with weapons displayed on stands, armor being fitted by attendants, tactical maps spread on campaign table"
+    details: "Ornate Italian armor with decorative metalwork, chimera helmet breathing supernatural fire, trophies from previous victories, war standards and banners, bronze weapons reflecting tent fire, leather war-belt of defeated enemy displayed prominently"
+    background: "Italian army camp with soldiers preparing for battle, cooking fires and weapon maintenance, rolling hills of Latium beyond tent walls"
+    atmosphere: "Divine war-fury consuming human reason, noble warrior transformed into instrument of destruction, honor becoming deadly obsession"
+  composition:
+    cameraAngle: "Medium shot showing body language and immediate military environment"
+    focus: "Warrior king's transformation from human nobility to divine fury, with war-belt trophy as symbolic element"
+    depth: "Figure and immediate tent interior in sharp focus, military camp activities in softer middle ground, Italian countryside in distant background, no text or letters visible"

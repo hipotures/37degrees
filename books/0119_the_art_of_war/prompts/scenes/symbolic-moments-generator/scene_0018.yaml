@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Stairs to Nowhere and Everywhere"
+  setting:
+    time: "506 BCE, moment of philosophical contemplation about victory's meaning"
+    location: "Abstract architectural space representing futility and possibility of ambition"
+    weather: "Impossible lighting with multiple sun positions creating complex shadows"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+      position: "Climbing impossible staircase that leads both upward and downward simultaneously"
+      action: "Ascending stairs that represent ambition's circular nature and endless pursuit of higher achievement"
+  scene:
+    mainElements: "Stone staircase extends infinitely upward while also somehow leading back to starting point, demonstrating how pursuit of power can be both progressive and cyclical, meaningful and futile"
+    details: "Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority reflects impossible lighting from multiple sun positions, blade showing different aspects simultaneously. Stone steps are identical but lead to different destinations depending on climber's perspective and intention, each step both ascent and descent"
+    background: "Abstract architectural space with impossible geometry, stairs extending beyond visual limits while somehow returning to origin point, suggesting infinite possibility and eternal limitation simultaneously"
+    atmosphere: "Philosophical contemplation of achievement's paradoxes, echoing footsteps that sound both ascending and descending, sense of movement without progress and progress without destination, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Impossible perspective showing stairs leading both up and down from same viewpoint"
+    focus: "Stone staircase demonstrating philosophical paradox of ambition and achievement through visual impossibility"
+    depth: "Foreground shows detailed step construction, middle ground captures king's determined climbing, background reveals infinite architectural continuation"

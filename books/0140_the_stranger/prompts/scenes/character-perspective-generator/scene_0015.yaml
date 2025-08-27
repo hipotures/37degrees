@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Céleste's Outsider View of Hidden Tensions"
+  setting:
+    time: "1940, afternoon"
+    location: "Small neighborhood restaurant in European quarter of French colonial Algiers"
+    weather: "Hot afternoon with customers seeking shade indoors"
+  characters:
+    - appearance: "Middle-aged man 45-55 years, portly build with prominent belly, thick white mustache"
+      clothing: "White restaurant apron over simple shirt and dark trousers, sleeves rolled up"
+      position: "Standing behind restaurant counter or at table, wiping hands on apron"
+      action: "Serving food with friendly gestures, stroking mustache while talking"
+  scene:
+    mainElements: "Restaurant interior during busy lunch service, Céleste observing subtle tensions between different customer groups while maintaining friendly service"
+    details: "Céleste's experienced eye noticing how European customers avoid sitting near Arab workers, unspoken social hierarchies playing out over shared meals, his diplomatic navigation of colonial social tensions while serving everyone equally. Kitchen aromas masking underlying social discomfort."
+    background: "Mixed clientele representing different levels of colonial society, afternoon light through windows revealing social dynamics invisible to participants"
+    atmosphere: "Working-class wisdom recognizing social undercurrents that educated people ignore, practical understanding of how ordinary people navigate complex colonial relationships"
+  composition:
+    cameraAngle: "Medium wide shot from Céleste's position behind counter observing entire restaurant dynamics"
+    focus: "Subtle social tensions between different groups of customers eating in same space"
+    depth: "Foreground shows Céleste's observant face and serving gestures, middle ground shows mixed clientele with invisible barriers, background shows restaurant interior hosting complex social dynamics, no text or letters visible"

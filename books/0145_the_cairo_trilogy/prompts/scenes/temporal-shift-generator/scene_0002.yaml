@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mashrabiya window view - decades of Cairo street transformation"
+  setting:
+    time: "Temporal overlay: 1917, 1924, 1935, and 1944"
+    location: "View through intricately carved wooden lattice screen (mashrabiya) on Palace Walk street in Al-Jamaliyya district, historic Cairo"
+    weather: "Same afternoon light filtering through all periods"
+  characters:
+    - appearance: "40-year-old Egyptian woman, medium height, slender delicate build, chestnut hair hidden under brown headscarf, small dreamy eyes, elongated face with delicate features, small thin nose, distinctive black mole on cheek"
+      clothing: "Simple long domestic dress, brown headscarf covering hair completely, when outside: black enveloping cloak (milaja) and face veil"
+      position: "Moving quietly and gracefully, gestures restrained and modest"
+      action: "Peering through same mashrabiya geometric patterns across all time periods, hands touching wood worn smooth by decades of use"
+  scene:
+    mainElements: "Masterfully carved wooden lattice screen (mashrabiya) allowing observation while maintaining privacy, geometric patterns filtering sunlight, same viewing angle through decades showing street evolution below"
+    details: "Mashrabiya wood showing progressive aging - 1917: fresh carved details sharp, 1924: slight weathering, 1935: more worn edges, 1944: significantly aged wood with some repairs. Street view transforms: horse-drawn carts to automobiles, traditional dress to modern clothing, British colonial presence to wartime activity, no text or letters visible"
+    background: "Palace Walk street architecture remaining constant while transportation and human activity evolve dramatically over 27 years"
+    atmosphere: "Filtered daylight creating moving geometric shadow patterns consistent across decades, sense of watching history pass while remaining imprisoned behind same screen, temporal continuity within restricted female perspective"
+  composition:
+    cameraAngle: "View from behind mashrabiya looking through lattice to street"
+    focus: "Hands touching weathered wood frame with street transformation visible beyond"
+    depth: "Foreground: intricate carved screen details, middle ground: woman's silhouette observing, background: evolving street scene across multiple decades"

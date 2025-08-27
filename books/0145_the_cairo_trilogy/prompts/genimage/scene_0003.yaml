@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 'Triple exposure: 1917 child, 1924 student, 1944 teacher'
+    location: Study corner of traditional Cairene house on Palace Walk, Al-Jamaliyya district
+    weather: Same afternoon sunlight through small window across all periods
+  characters:
+  - appearance: 8-10 year old Egyptian boy, thin reed-like build, large head with prominent forehead, small deep-set eyes,
+      large nose, physically unattractive but intellectually curious
+    clothing: Traditional child's galabija
+    position: Energetic and lively movements, often in motion
+    action: '1917: Eagerly writing with bright curiosity'
+  - appearance: 17-20 year old Egyptian student, thin build, large head with prominent forehead, small deep-set eyes, large
+      nose, intellectual but melancholic expression
+    clothing: Student's European-style suit, somewhat old-fashioned
+    position: More reserved and contemplative posture, often lost in thought
+    action: '1924: Reading philosophy books with romantic idealism'
+  - appearance: 28-37 year old Egyptian teacher and writer, thin build, large head with prominent forehead, small deep-set
+      eyes, large nose, face showing melancholy and intellectual concentration
+    clothing: Conservative European-style suit, possibly with glasses
+    position: Thoughtful, reserved posture reflecting inner struggles
+    action: '1944: Writing with weary resignation and existential emptiness'
+  scene:
+    mainElements: Same wooden desk and chair showing wear progression, identical window casting same light, books accumulating
+      and changing over decades
+    details: 'Desk surface: 1917 simple child''s slate and basic books, 1924 romantic poetry and philosophy texts, 1944 cynical
+      essays and empty bottles hidden in drawer. Physical aging: wood worn smooth by elbows, ink stains accumulated, chair
+      seat depression deeper, window glass more weathered, no text or letters visible'
+    background: Same stone wall with progressive aging, same architectural elements showing temporal passage through material
+      wear
+    atmosphere: Identical afternoon light revealing progressive disillusionment, sense of intellectual promise unfulfilled,
+      temporal weight of unrealized dreams
+  composition:
+    cameraAngle: Side view showing three overlapping temporal positions at same desk
+    focus: Hands on desk surface in three different life stages showing evolution from hope to despair
+    depth: 'Foreground: desk surface with changing materials, middle ground: figure transformations, background: unchanging
+      architecture with accumulated wear'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

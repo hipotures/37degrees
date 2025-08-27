@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Ancient Greece, supernatural twilight realm between worlds
+    location: Temple or sacred space where natural and supernatural realms intersect
+    weather: Supernatural lighting with unnatural shadows and ethereal illumination
+  characters:
+  - appearance: Ancient chthonic vengeance deities before transformation, appearance designed to inspire horror and disgust,
+      described by Pythia as black and hideous wingless beings that snore with disgusting discharge oozing from their eyes,
+      later tradition and art often show them as winged female-shaped demons with serpents woven into hair and blood-dripping
+      eyes, aged beyond measure representing primordial forces
+    clothing: Black tattered robes befitting underworld origins
+    position: Multiple figures emerging from shadow frames created by architectural elements and supernatural darkness
+    action: Embodiment of old inexorable blood revenge law especially within family, their relentless pursuit of Orestes is
+      driving force of Eumenides and materialization of his tormenting guilt
+  scene:
+    mainElements: Supernatural beings emerging from shadow frames created by temple architecture, darkness forming natural
+      frame elements around threatening figures, torchlight creating moving shadow boundaries
+    details: Shadow frames shifting and moving with supernatural energy, figures partially obscured by darkness creating menacing
+      partial visibility, serpents in hair catching occasional light, eyes glowing with supernatural malevolence, tattered
+      robes flowing with unnatural movement
+    background: Temple or sacred architecture providing structural frame elements, supernatural darkness extending beyond
+      normal physical boundaries, otherworldly lighting effects suggesting intersection of mortal and divine realms
+    atmosphere: Supernatural terror and ancient divine justice, primordial forces of vengeance manifesting in physical realm,
+      shadow frames emphasizing otherworldly nature of beings, sense of inescapable pursuit and cosmic judgment
+  composition:
+    cameraAngle: Shadow frames created by lighting and architecture containing supernatural threats
+    focus: Multiple threatening figures framed by shifting shadows emphasizing supernatural menace
+    depth: Foreground shows shadow frame elements and architectural details, middle ground captures emerging supernatural
+      beings, background extends into otherworldly darkness suggesting infinite pursuit, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

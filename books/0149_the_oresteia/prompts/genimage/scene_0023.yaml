@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, night after the murders
+    location: Palace entrance with doors opened to reveal interior scene of violence
+    weather: Night darkness pierced only by interior torchlight and flames
+  characters:
+  - appearance: Mature woman aged 40-50 years, tall with imposing royal posture, powerful build suggesting inner strength,
+      ciemne dark hair with streaks of gray misternie intricately arranged in complex royal hairstyle with gold nets or diadems,
+      dark penetrating intelligent eyes that rarely reveal emotions, strong angular facial features with pronounced jawline
+      and full often pressed lips, face like controlled mask hiding decade of revenge planning, surowa majestic beauty rather
+      than delicate
+    clothing: Blood-stained royal robes from recent violence, disheveled but still maintaining regal bearing, gold jewelry
+      catching torchlight
+    position: Silhouetted figure framed in bright doorway, surrounded by darkness with light behind creating dramatic outline
+    action: Queen who has just completed her revenge, standing triumphant over bodies of victims, shadowed figure revealed
+      in moment of terrible victory
+  scene:
+    mainElements: Palace doorway creating frame of light around dark silhouette, interior torchlight and hearth fire providing
+      dramatic backlighting, shadows creating frame effect around triumphant murderer
+    details: Torchlight from interior creating powerful silhouette effect, shadows casting frame around figure, bloodstained
+      axe visible in silhouette, interior space showing evidence of violent struggle, dancing flames creating moving frame
+      elements
+    background: Palace interior with evidence of recent murders, torchlight revealing glimpses of bodies and bloodstained
+      surfaces, central hearth fire providing atmospheric lighting and shadow effects
+    atmosphere: Terrible triumph of completed revenge, dramatic revelation of hidden murderess, shadows and light creating
+      supernatural atmosphere, moment of truth where hidden nature is finally revealed in stark silhouette
+  composition:
+    cameraAngle: Shadow framing with figure surrounded by darkness and dramatic backlighting
+    focus: Silhouetted figure surrounded by shadow frame emphasizing dramatic revelation moment
+    depth: Foreground shows dark shadows creating frame effect, middle ground captures dramatically lit silhouette, background
+      reveals brightly lit interior scene of violence, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

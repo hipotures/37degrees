@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, late night secret activity
+    location: Dark alley or hidden corner in London, away from state surveillance
+    weather: Misty night with minimal lighting
+  characters:
+  - appearance: Man around 35 years old, 175cm tall, lean and sinewy build from deprivation but still strong, weathered face
+      with sharp cheekbones and prominent forehead, disheveled brown shoulder-length hair, rough untrimmed beard
+    clothing: Worn leather jerkin over coarse linen shirt, wool breeches patched and faded, damaged leather boots, all in
+      earth tones - browns, grays, muted greens for survival camouflage
+    position: Crouched defensively or moving cautiously, constantly alert and ready to fight or flee
+    action: Eyes constantly scanning surroundings, hand on crude knife, body language of perpetual mistrust and fear
+  scene:
+    mainElements: Small forbidden symbol painted hastily on brick wall, person looking around nervously after creating it,
+      evidence of quick secretive work, contrast between tiny act of defiance and overwhelming state power
+    details: Crude symbol representing resistance or alternative authority painted with makeshift materials, person with nervous
+      expression checking for guards, simple tools for quick escape. Simple clay pipe dropped in haste during urgent work.
+      Paint still wet suggesting immediate danger of discovery.
+    background: Dark urban alley with Tudor architecture, distant sounds of patrol guards, minimal lighting creating shadows
+      for concealment, state symbols visible on nearby official buildings
+    atmosphere: Dangerous secrecy and fear of discovery, muffled sounds of covert activity, tiny hope of resistance against
+      overwhelming oppression
+  composition:
+    cameraAngle: Low angle emphasizing the danger and secrecy of the forbidden act
+    focus: The contrast between small act of rebellion and vast state power
+    depth: Foreground shows forbidden symbol and nervous actor, middle displays dangerous alley environment, background suggests
+      looming state authority
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

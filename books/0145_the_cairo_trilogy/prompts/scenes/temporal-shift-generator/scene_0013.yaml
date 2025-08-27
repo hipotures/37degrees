@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Communication evolution in same corner - letters to newspapers to radio"
+  setting:
+    time: "Technological progression: 1917, 1927, 1937, 1944"
+    location: "Study corner of Cairene house showing evolution of information access"
+    weather: "Consistent afternoon reading light through window across all periods"
+  characters:
+    - appearance: "17-20 year old Egyptian student, thin build, large head with prominent forehead, small deep-set eyes, large nose, intellectual but melancholic expression"
+      clothing: "Student's European-style suit, somewhat old-fashioned"
+      position: "More reserved and contemplative posture, often lost in thought"
+      action: "Engaging with different communication technologies across time periods"
+  scene:
+    mainElements: "Same corner workspace showing technological evolution from handwritten letters to mass media consumption, representing changing access to information and political ideas"
+    details: "1917: Handwritten letters, ink well, simple oil lamp, personal correspondence. 1927: Newspapers spreading across table, telegraph messages, improved lighting. 1937: Early radio with large speaker horn, newspapers from multiple sources, electric lighting. 1944: Modern radio, wartime bulletins, magazines, electric reading lamp. Same wooden desk showing progressive wear from decades of intellectual activity, no text or letters visible"
+    background: "Same stone walls and window providing consistent light, same architectural framework housing evolving technology and information access"
+    atmosphere: "Temporal acceleration of information flow, evolution from personal to mass communication, sense of world expanding beyond domestic boundaries through technology"
+  composition:
+    cameraAngle: "Close view showing hands interacting with different communication technologies"
+    focus: "Central workspace demonstrating technological progression while maintaining consistent intellectual purpose"
+    depth: "Foreground: evolving communication devices and materials, middle ground: consistent human engagement with information, background: unchanging architectural framework"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Narrator's Family Reunion - Faces Filled with Love"
+  setting:
+    time: "1960s, evening"
+    location: "Simple clay dwelling interior with basic furnishing reflecting traditional Sudanese lifestyle"
+    weather: "Cool evening air entering through open doorway"
+  characters:
+    - appearance: "Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven face showing traces of internal struggle"
+      clothing: "Clean white traditional djellaba with matching turban"
+      position: "Seated cross-legged on red straw mat surrounded by family members"
+      action: "Receiving embraces and touches from family, face radiant with joy and belonging"
+    - appearance: "Elderly Sudanese man nearly ninety years old, deeply wrinkled face weathered by desert sun, bright alert eyes, frail but resilient build, white beard"
+      clothing: "Simple clean white djellaba and traditional white turban, modest sandals"
+      position: "Seated cross-legged on mat facing narrator with warm smile"
+      action: "Constantly fingering prayer beads, speaking with gentle wisdom, radiating calm presence"
+  scene:
+    mainElements: "Red straw mats on floor, minimal furniture, small glasses for mint tea on wooden trays, oil lamps for lighting"
+    details: "Through narrator's perspective of overwhelming gratitude, every family member appears haloed in warm light - mother's weathered hands seem precious as they pour tea, father's aged face radiates protective love, siblings cluster close like guardian spirits. Simple brass oil lamp casting dancing golden shadows makes humble interior feel like palace, mint tea glasses catching firelight like jewels, grandfather's prayer beads clicking rhythmically like heartbeat of family continuity, no text or letters visible"
+    background: "Traditional woven textiles on walls, cooking pots in corner, doorway showing evening sky"
+    atmosphere: "Narrator experiencing pure emotional sanctuary, family love appearing as visible golden glow, peaceful domestic environment filled with sounds of quiet loving conversation, sense that this simple gathering contains all meaning in world"
+  composition:
+    cameraAngle: "Low angle emphasizing narrator's sense of being enveloped and protected"
+    focus: "Narrator's face showing profound emotional relief surrounded by loving family"
+    depth: "Family members in intimate circle in foreground, oil lamp's warm glow illuminating faces in middle ground, doorway to village night in background, no text or letters visible"

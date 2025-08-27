@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Mustafa Sees London in Memory - Battlefield of Revenge"
+  setting:
+    time: "1920s London, evening"
+    location: "Theatrical recreation of Oriental fantasy in 1920s London dwelling, designed to fulfill European exotic fantasies"
+    weather: "Cold London evening, fog visible through windows"
+  characters:
+    - appearance: "Handsome Sudanese man in his twenties, sharp features, intense calculating eyes, impeccably groomed"
+      clothing: "Impeccably tailored 1920s British gentleman's suit with waistcoat and pocket watch chain"
+      position: "Standing confidently in center of apartment, arms spread in ownership"
+      action: "Surveying his carefully constructed theater of seduction with predatory satisfaction"
+    - appearance: "British woman in her twenties or thirties, described through Mustafa's conflicted perspective as having complex beauty marked by inner struggle"
+      clothing: "1920s British fashion - tailored dress or blouse and skirt, period-appropriate stockings and shoes"
+      position: "Seated nervously on Oriental cushions, appearing captivated yet wary"
+      action: "Gazing at Mustafa with mixture of fascination and growing unease"
+  scene:
+    mainElements: "Walls covered with exotic fabrics, floors with ornate carpets, ivory and ebony figurines, ostrich feathers, paintings of palm forests and boats on Nile"
+    details: "Through Mustafa's perspective of calculated revenge, apartment appears as brilliant war machine - every exotic object carefully chosen to trigger European fantasies about mysterious Africa, each Oriental element designed to make white women feel they are touching forbidden continent through his body. Sandalwood and incense create intoxicating atmosphere while small flickering lights cast seductive shadows, turning mundane London room into theater for psychological conquest and racial revenge, no text or letters visible"
+    background: "London fog pressing against windows, gaslight from street lamps, suggestion of cold urban landscape outside"
+    atmosphere: "Mustafa experiencing triumph of successful manipulation, apartment serving as carefully constructed trap for colonial guilt and exotic desire, evening gathering becoming stage for cultural and sexual warfare rather than genuine intimacy"
+  composition:
+    cameraAngle: "Mustafa's commanding perspective, looking down at his orchestrated seduction scene"
+    focus: "Mustafa's satisfied expression as he surveys his psychological battlefield"
+    depth: "Mustafa in commanding position in foreground, seduced woman and exotic decor in middle ground, cold London night visible through windows in background, no text or letters visible"

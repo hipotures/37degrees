@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Compass of Command"
+  setting:
+    time: "506 BCE, afternoon light in palace courtyard"
+    location: "Private royal garden courtyard within Wu palace complex, surrounded by covered walkways with upturned ceramic tile roofs, ancient Chinese architectural style"
+    weather: "Partly cloudy with shifting shadows from moving clouds"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+      position: "Standing beside ornamental pond, looking down at simple object in his palm"
+      action: "Examining a plain bronze compass with growing recognition of its potential significance"
+  scene:
+    mainElements: "Ordinary bronze navigation compass rests in royal palm, its needle pointing steadily north despite being in mundane garden setting, water lily petals scattered on pond surface around reflection of compass"
+    details: "Ceremonial military command fan made from white crane feathers bound with gold thread, ebony handle carved with tactical symbols, used by generals to signal troop movements during battle placed on nearby stone bench. Compass shows simple construction with bronze casing and magnetized iron needle, unmarked by royal ornamentation despite being held by king"
+    background: "Central stone pavilion surrounded by carefully manicured gardens with pine trees, flowering peonies in season, ornamental pond with stone bridge, gravel paths between planted areas"
+    atmosphere: "Moment of quiet realization as king recognizes tool's strategic value, gentle sound of water flowing from pond fountain, afternoon light creating ripples on water surface that mirror compass movements, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Close-up focusing on compass in royal hand with pond reflection visible below"
+    focus: "Bronze compass needle and the king's contemplative expression as understanding dawns"
+    depth: "Foreground shows compass details and royal hand, middle ground captures king's face showing recognition, background reveals peaceful garden setting before military transformation"

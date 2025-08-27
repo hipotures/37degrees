@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1651, industrial work hour morning
+    location: Royal armory or large-scale manufacturing workshop, London, showing mechanized labor
+    weather: Interior workshop with smoky artificial lighting
+  characters:
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Large workshop where individual workers perform identical repetitive tasks with machine-like precision,
+      their movements synchronized like clockwork, faces showing mechanical concentration rather than human expression
+    details: Workers operating in perfect rhythm, each performing identical motions, wearing similar leather aprons and work
+      clothes, tools and materials arranged with geometric precision. Clumsy smoke-belching firearms being manufactured in
+      assembly-line fashion. Simple clay pipes visible but unused during work hours.
+    background: Industrial workshop interior with heavy wooden beams, organized tool racks, supervisor positions monitoring
+      productivity, windows providing minimal natural light
+    atmosphere: Dehumanization of labor through mechanization, rhythmic sounds of synchronized work, loss of individual identity
+      in collective productivity
+  composition:
+    cameraAngle: High angle showing the geometric patterns formed by synchronized workers
+    focus: The transformation of humans into mechanical components of production
+    depth: Foreground shows detailed individual worker motions, middle reveals the overall geometric work pattern, background
+      displays supervisory control
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

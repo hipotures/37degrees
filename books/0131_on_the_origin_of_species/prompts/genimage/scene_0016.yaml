@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Single frozen moment with time streams of scientific thought flowing around it, eternal afternoon
+    location: Down House orchard, Kent countryside, beneath mature apple tree
+    weather: Perfect still afternoon with golden light suspended in time
+  characters:
+  - appearance: British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown
+      hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression
+      showing years of thought
+    clothing: 'Scholarly gentleman''s attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black
+      cravat, comfortable loose-fitting trousers, leather house slippers'
+    position: Standing beneath tree with hand reaching up toward falling apple, moment suspended
+    action: Darwin frozen in moment of reaching for apple while streams of scientific concepts flow around him as visible
+      energy
+  scene:
+    mainElements: Single red apple suspended in mid-fall with time frozen, scientific concepts flowing as visible streams
+      of light and imagery around static scene
+    details: 'Apple captured in precise moment between tree and ground, Darwin''s hand extended but not yet touching fruit,
+      surrounding air filled with flowing visual representations of evolutionary concepts: branching tree diagrams, fossil
+      forms, breeding variations, geographic distributions, all moving in slow streams while central moment remains perfectly
+      still, golden afternoon light creating eternal illumination, leaves frozen mid-flutter, shadows sharp and motionless,
+      no text or letters visible in concept streams'
+    background: Down House garden frozen in perfect afternoon light, greenhouse visible with tropical plants suspended in
+      growth, experimental plots showing plants at various stages of development all simultaneously frozen
+    atmosphere: Mystical suspension of time allowing contemplation of scientific breakthrough moment, visualization of abstract
+      thought processes surrounding moment of insight
+  composition:
+    cameraAngle: Medium shot showing Darwin and apple with flowing concepts around them
+    focus: The suspended apple as symbol of scientific discovery moment
+    depth: 'Foreground: reaching hand and apple, middle: Darwin in contemplation, background: flowing streams of evolutionary
+      concepts'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

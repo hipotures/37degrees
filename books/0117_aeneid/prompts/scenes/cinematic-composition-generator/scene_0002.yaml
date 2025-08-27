@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Carthage Rising - Imperial Construction in North Africa"
+  setting:
+    time: "Mythical era around XII century BCE, bright morning sunlight"
+    location: "Phoenician city of Carthage in North Africa on Mediterranean coast, bustling construction site of new imperial capital"
+    weather: "Clear, brilliant North African sunshine with gentle Mediterranean breeze"
+  characters:
+    - appearance: "exceptionally beautiful young widow, tall with statuesque bearing"
+      clothing: "luxurious Phoenician royal robes in purple and gold, gold fibula clasping purple cloak, golden jewelry"
+      position: "standing on elevated platform overseeing construction"
+      action: "gesturing commandingly toward building projects while architects present plans"
+  scene:
+    mainElements: "Active quarries with workers cutting stone, masons shaping blocks and laying foundations, magnificent temple of Juno with bronze steps and doors, luxurious royal palace under construction"
+    details: "Phoenician workers hauling dressed stones up ramps, bronze gleaming on temple doors, purple banners marking royal presence, Mediterranean harbor visible with trading ships, smoke rising from metalworking forges, detailed architectural plans being consulted"
+    background: "Mediterranean coastline stretching to horizon, partially completed city walls, organized street grid being laid out, mountains of North Africa in distant haze"
+    atmosphere: "Energy, ambition and civilized order of great empire in birth, optimistic sense of progress and divine favor, bustling prosperity of international trade"
+  composition:
+    cameraAngle: "Wide architectural shot from elevated position showing city scope and organization"
+    focus: "Massive construction project with Queen Dido as central commanding figure directing imperial vision"
+    depth: "Royal platform and figures in foreground, active construction in middle ground, Mediterranean horizon in background, no text or letters visible"

@@ -1,0 +1,98 @@
+sceneDescription:
+  setting:
+    time: 1819, late afternoon
+    location: Refined grey-pink salon in aristocratic palace in most exclusive district of 1819 Paris under Bourbon Restoration
+    weather: Clear winter afternoon light filtering through tall windows
+  characters:
+  - appearance: Slender young man with refined bearing and natural elegance. Southern French features with fair complexion,
+      blue eyes, black hair. Handsome and charming with youthful energy and determination
+    age: 21-22 years old
+    hair: Black hair, well-groomed in fashionable style
+    clothing: Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes
+      fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools
+    posture: Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive
+      or thoughtful and torn by internal conflict
+    position: Standing nervously at edge of elegant salon, overwhelmed by sophistication
+    action: Taking in every detail of aristocratic luxury with hungry, studying eyes
+  - appearance: Statuesque beauty with cold, aristocratic features. Embodiment of elegance and dignity. Maintains impeccable
+      appearance even during personal tragedy
+    age: 30-35 years old approximately
+    hair: Styled in perfect aristocratic fashion
+    clothing: Impeccably refined garments characterized by luxurious simplicity. At her farewell ball, wears simple white
+      dress without jewelry, emphasizing her dignity and inner strength
+    posture: Formal, restrained bearing with rigid etiquette. Every word and gesture calculated and meaningful. Maintains
+      composure even when publicly betrayed by lover
+    position: Seated gracefully in center of salon, appearing almost divine in her perfection
+    action: Speaking with measured authority while assessing her young cousin
+  scene:
+    mainElements: Through Rastignac's awestruck perspective, the salon appears as a temple of refinement. Every detail seems
+      to glow with aristocratic perfection - the viscountess appears almost ethereal in her elegance. The furniture seems
+      too precious to touch, the very air refined beyond his provincial understanding.
+    details: From Rastignac's naive viewpoint, the subtle color palette of cool pastels, whites and gold accents appears like
+      heaven itself. The crystal chandeliers seem to cast divine light, while the viscountess's every gesture appears choreographed
+      by centuries of breeding. Even her voice seems to come from a different, superior world.
+    background: Tall windows with abundant natural light, perfect harmony and order throughout salon, fresh flowers and refined
+      antiques creating atmosphere of inherited perfection
+    atmosphere: Overwhelming refinement and beauty that simultaneously inspires and intimidates. The salon feels like sacred
+      space where only the worthy may enter, yet also like a stage where grand performances unfold
+  composition:
+    cameraAngle: Low angle from Rastignac's awed perspective, looking up at the viscountess as if at a goddess
+    focus: Viscountess de Beauséant as luminous central figure with Rastignac appearing small and awestruck in comparison
+    depth: Rastignac in foreground appearing overwhelmed, viscountess in radiant middle ground, background shows salon's perfect
+      harmony extending into infinity of aristocratic privilege, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

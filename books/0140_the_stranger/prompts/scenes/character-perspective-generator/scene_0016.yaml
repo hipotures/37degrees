@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Documentary View of Mortuary Reality"
+  setting:
+    time: "1940, evening"
+    location: "Whitewashed mortuary room in rural institutional facility 80 kilometers from Algiers in French colonial Algeria"
+    weather: "Still evening with institutional air conditioning"
+  characters:
+    - appearance: "Man in 64 years, ładne, bladoniebieskie oczy i czerwonawa cera"
+      clothing: "Prosty strój roboczy"
+      position: "Sitting calmly at table drinking coffee"
+      action: "Speaking matter-of-factly about death while smoking cigarette, showing no special reverence"
+  scene:
+    mainElements: "Institutional mortuary room without emotional filter, showing actual size of space, practical arrangements for death processing, functional lighting and furniture"
+    details: "Standard institutional furniture arranged for efficiency, coffee service and cigarettes showing normalcy of death in caretaker's routine, electric lighting revealing room's true dimensions and sterile functionality. Simple wooden coffin as standard funeral equipment, not sacred object."
+    background: "Whitewashed walls showing age and institutional wear, practical windows for ventilation, sounds of rural facility operating normally despite death"
+    atmosphere: "Death as routine institutional process rather than sacred mystery, practical approach to mortality without emotional drama or false solemnity"
+  composition:
+    cameraAngle: "Straight-on documentary perspective showing room and situation without emotional interpretation"
+    focus: "Caretaker's matter-of-fact interaction with coffee and cigarettes in presence of death"
+    depth: "Foreground shows institutional furniture and practical arrangements, middle ground shows caretaker's casual behavior, background shows actual room dimensions and institutional reality, no text or letters visible"

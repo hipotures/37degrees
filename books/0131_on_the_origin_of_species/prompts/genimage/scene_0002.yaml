@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1831 young explorer to 1880s established naturalist, sunset golden hour
+    location: HMS Beagle wooden ship deck transforming to Royal Society meeting hall London, England
+    weather: Ocean spray and wind becoming still indoor air with gas lamp warmth
+  characters:
+  - appearance: British gentleman in his early twenties, 183cm tall, athletic build, straight dark brown hair combed to side,
+      clean-shaven with sharp intelligent features, bright blue-gray eyes showing curiosity and enthusiasm
+    clothing: 'Practical explorer attire: cream cotton shirt with rolled sleeves, brown wool vest, dark trousers, sturdy leather
+      boots, wide-brimmed canvas hat for sun protection'
+    position: Standing at ship's rail overlaid with distinguished elderly figure at podium
+    action: Young Darwin collecting specimens at sea rail transforms to elderly Darwin receiving scientific honors, same determined
+      expression decades apart
+  - appearance: Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture,
+      completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire
+      lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins
+    clothing: 'Comfortable elderly gentleman''s dress: loose black woolen coat, thick gray shawl around shoulders, soft felt
+      hat, heavy walking boots, woolen mittens in cold weather'
+    position: Same physical space as younger self, standing before assembled colleagues
+    action: Receiving acclaim for revolutionary scientific work, holding manuscript that began as ship's journal
+  scene:
+    mainElements: Wooden ship deck with rope rigging transforming into ornate Victorian meeting hall with gaslight chandeliers
+      and portraits of great scientists on walls
+    details: Ship's wooden planks become polished marble floors, rope rigging transforms to crystal chandeliers, specimen
+      collection nets evolve into framed scientific diagrams, captain's instruments become ceremonial awards, ocean horizon
+      shifts to grand windows overlooking London, same golden light connecting ship's sunset to hall's gaslight warmth, no
+      text or letters visible
+    background: Endless ocean with seabirds becoming cityscape of Victorian London with church spires and smoking chimneys
+    atmosphere: Adventure and discovery of youth maturing into recognition and scholarly achievement, golden light suggesting
+      continuity of purpose across decades
+  composition:
+    cameraAngle: Wide establishing shot showing full transformation
+    focus: Darwin figure as constant element bridging two time periods and locations
+    depth: 'Foreground: awards and honors, middle: transforming architecture, background: ocean becoming city'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1590s, late in Montaigne's life
+    location: Judicial courthouse in prosperous merchant city of Bordeaux, southwestern France under royal authority
+    weather: Soft afternoon light fading with age
+  characters:
+  - appearance: Elderly man in 60s with lined face showing decades of experience, eyes clouded with memory and loss
+    clothing: Simple scholar's robes, less formal than in youth, showing retreat from worldly concerns
+    position: Standing in courthouse where friendship once bloomed, now alone among shadows
+    action: Reaching toward empty air where friend once stood, speaking to ghostly presence only he can see
+  scene:
+    mainElements: Present courthouse overlaid with phantom images from past, empty spaces filled with echoes of vanished friendship
+    details: Current architecture appears faded and ghostly while memories glow with golden light, young faces of past selves
+      appear translucent in same spaces now occupied by older solitary figure, ghostly second figure gestures in animated
+      conversation that exists only in memory, courthouse furnishings seem both present and past simultaneously, afternoon
+      light appears both current dim reality and brilliant memory, past laughter echoes in empty halls, no text or letters
+      visible
+    background: Stone architecture serving as screen for projection of vanished past, walls holding echoes of profound friendship
+    atmosphere: Bittersweet overlay of memory and present loneliness, past friendship more real than current solitude, sense
+      of time as transparent layers revealing all moments simultaneously
+  composition:
+    cameraAngle: Perspective shifting between present elderly figure and ghostly memory of younger selves
+    focus: Layering of past and present, showing how memory transforms empty space into theater of vanished intimacy
+    depth: Foreground shows present elderly figure, middle ground captures ghostly memory scenes, background reveals timeless
+      architecture, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - black ink
+    - paper white
+    secondary:
+    - gray (created by line density)
+    background: white or cream paper
+    usageNotes: Monochromatic, using only black ink on white paper
+    saturation: none (black and white only)
+    contrast: very high (black ink on white paper)
+  lineArt:
+    style: precise pen lines, crosshatching, stippling
+    weight: consistent pen width, varied density
+    color: black ink
+    texture: clean ink lines on paper
+    edgeTreatment: sharp, precise ink edges
+  lighting:
+    type: created through line density and crosshatching
+    direction: indicated by line direction and density
+    intensity: shown through varying line techniques
+    shadows:
+      style: dense crosshatching or solid ink areas
+      color: black ink
+      opacity: solid black
+    highlights: white paper showing through
+  rendering:
+    technique: traditional pen and ink techniques
+    texture: paper texture showing through ink
+    detailLevel: high (precise line control allows fine detail)
+    finish: matte ink on paper
+  perspective: traditional linear perspective
+  mood:
+    overall: precise, classic, detailed
+    emotion: craftsmanship, concentration, timeless
+    tempo: deliberate, careful
+    keywords:
+    - precise
+    - classic
+    - detailed
+    - timeless
+    - meticulous
+  stylePrecedents:
+  - Aubrey Beardsley illustrations
+  - architectural technical drawings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

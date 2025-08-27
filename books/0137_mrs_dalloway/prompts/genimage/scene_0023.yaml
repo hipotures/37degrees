@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 1923, early evening around 6:15 PM
+    location: Street outside Septimus's lodging, showing same event through opposing interpretations
+    weather: Evening light creating ambiguous shadows suitable for multiple interpretations
+  characters:
+  - appearance: Mixed crowd of street witnesses, medical authorities, police, neighbors
+    clothing: Various 1920s street clothing, official uniforms of authority figures
+    position: Gathered around scene of tragedy with different emotional responses
+    action: Some viewing as senseless tragedy, others recognizing as act of resistance
+  scene:
+    mainElements: Street scene with crowd gathered around site of Septimus's death, official authorities taking control
+    details: 'Same event interpreted as victory and defeat simultaneously: medical authorities seeing mental health failure
+      requiring institutional control, Rezia experiencing devastating personal loss, neighbors viewing as neighborhood scandal,
+      some witnesses recognizing act of spiritual resistance against oppressive forces, Clarissa later understanding as heroic
+      preservation of soul''s integrity, conflicting narratives creating multiple simultaneous realities, no text or letters
+      visible'
+    background: London street architecture witnessing conflicting interpretations of same tragic event, building windows showing
+      various neighbor reactions
+    atmosphere: Single event generating multiple contradictory meanings, different groups interpreting same facts through
+      opposing worldviews creating split reality of liberation versus catastrophe
+  composition:
+    cameraAngle: Split screen or overlapping perspectives showing same scene interpreted as both triumph and tragedy
+    focus: Central tragic event generating completely opposite interpretations from different observers
+    depth: Immediate tragedy scene in foreground, diverse interpretive responses in middle ground, London setting representing
+      broader social context in background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

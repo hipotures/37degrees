@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 'Technological progression: 1917, 1927, 1937, 1944'
+    location: Study corner of Cairene house showing evolution of information access
+    weather: Consistent afternoon reading light through window across all periods
+  characters:
+  - appearance: 17-20 year old Egyptian student, thin build, large head with prominent forehead, small deep-set eyes, large
+      nose, intellectual but melancholic expression
+    clothing: Student's European-style suit, somewhat old-fashioned
+    position: More reserved and contemplative posture, often lost in thought
+    action: Engaging with different communication technologies across time periods
+  scene:
+    mainElements: Same corner workspace showing technological evolution from handwritten letters to mass media consumption,
+      representing changing access to information and political ideas
+    details: '1917: Handwritten letters, ink well, simple oil lamp, personal correspondence. 1927: Newspapers spreading across
+      table, telegraph messages, improved lighting. 1937: Early radio with large speaker horn, newspapers from multiple sources,
+      electric lighting. 1944: Modern radio, wartime bulletins, magazines, electric reading lamp. Same wooden desk showing
+      progressive wear from decades of intellectual activity, no text or letters visible'
+    background: Same stone walls and window providing consistent light, same architectural framework housing evolving technology
+      and information access
+    atmosphere: Temporal acceleration of information flow, evolution from personal to mass communication, sense of world expanding
+      beyond domestic boundaries through technology
+  composition:
+    cameraAngle: Close view showing hands interacting with different communication technologies
+    focus: Central workspace demonstrating technological progression while maintaining consistent intellectual purpose
+    depth: 'Foreground: evolving communication devices and materials, middle ground: consistent human engagement with information,
+      background: unchanging architectural framework'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

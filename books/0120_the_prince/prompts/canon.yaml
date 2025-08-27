@@ -1,0 +1,108 @@
+canon:
+  characters:
+    - id: "ideal_prince"
+      name: "The Prince (Archetypal Ruler)"
+      description_block: |
+        characters:
+          - appearance: "30-40 year old man in prime of physical and mental strength. Above average height with athletic, powerful build. Dark, penetrating eyes with calculating, watchful gaze. Sharp, intelligent facial features with pronounced jawline. Dark, medium-length hair carefully styled. Well-maintained trimmed beard. Expression remains impassive mask of control and composure."
+            clothing: "Dark, rich doublet of velvet or brocade in black or deep red symbolizing gravity and authority. In field, gleaming functional Milanese plate armor. During public ceremonies, magnificent and dazzling attire designed to inspire awe and respect from populace."
+            posture: "Moves with confidence and authority. Gestures economical and purposeful. Rarely displays emotions, face remains calm even in moments of greatest tension."
+    
+    - id: "cesare_borgia"
+      name: "Cesare Borgia"
+      description_block: |
+        characters:
+          - appearance: "25-28 year old man, tall and powerfully built. Dark brown wavy hair to shoulders with carefully trimmed beard and mustache. Dark, intense, intelligent eyes. Long, aristocratic face with prominent straight nose and strongly defined jawline. Contemporary sources describe him as 'most handsome man in Italy'."
+            clothing: "Known for luxury and magnificent clothing. Rich, dark velvets with possible red accents subtly referencing papal connections. In battle, finest, richly decorated Milanese parade armor serving both protection and status manifestation."
+            posture: "Moves with arrogance and confidence of man aware of his strength and origins. Capable of being secretive and taciturn, then suddenly becoming talkative and boastful. Unpredictable and dangerous man of extremes."
+    
+    - id: "vitellozzo_vitelli"
+      name: "Vitellozzo Vitelli"
+      description_block: |
+        characters:
+          - appearance: "44 year old man with harsh, weathered face of experienced soldier. Prominent, hooked nose and determined, hardened gaze. Earthen complexion, signs of fatigue or discrete skin changes from syphilis ('French disease'). Wears characteristic red flat cap (berretta)."
+            clothing: "Dark doublet typical of condottiere. In field, functional plate armor with family heraldic symbols."
+            posture: "Bearing of professional military commander, movements reflecting years of warfare and command experience."
+    
+    - id: "oliverotto_da_fermo"
+      name: "Oliverotto da Fermo"
+      description_block: |
+        characters:
+          - appearance: "27 year old young man, physically strong. Face expressing arrogance and cruelty. Bold, impudent gaze of someone who gained power through brutality."
+            clothing: "Ostentatious, richly decorated armor more flashy than old aristocracy would wear, designed to manifest newly acquired wealth and status."
+            posture: "Movements reflect impulsive, hot-headed nature and youthful arrogance of new ruler."
+    
+    - id: "lorenzo_medici"
+      name: "Lorenzo de' Medici"
+      description_block: |
+        characters:
+          - appearance: "21 year old young man with aristocratic, delicate features representing powerful Medici family. Face shows youth but also weight of responsibility as ruler."
+            clothing: "Finest quality Florentine garments of silk and brocade following latest fashion trends."
+            posture: "Bearing befitting young powerful ruler, perhaps with uncertainty about his position in dangerous political landscape."
+    
+    - id: "niccolo_machiavelli"
+      name: "Niccolò Machiavelli"
+      description_block: |
+        characters:
+          - appearance: "44 year old lean man with high forehead, receding hair, thin lips, and penetrating, intelligent gaze reflecting years of political experience and observation."
+            clothing: "Simple, coarse rural clothing, dirty with mud and dust during day. In evening study, symbolic 'royal and courtly robes' representing intellectual transformation."
+            posture: "Movements reflect fallen political figure who maintains dignity and intellectual authority despite circumstances."
+
+  locations:
+    - id: "florence_palace"
+      name: "Florentine Palace (Palazzo Pitti/Vecchio)"
+      description_block: |
+        setting:
+          location: "Interior of massive fortress-like palace in Renaissance Florence, capital of Tuscan Republic. Palatial chamber built from rusticated local stone blocks (pietra forte) creating impression of strength and inaccessibility."
+        mainElements: "Square, symmetrical floor plan with central courtyard (cortile) surrounded by classical arcades on columns. Monumental, architecturally-formed furniture including heavy carved chests (cassoni), simple sturdy chairs (sedia). Walls adorned with tapestries depicting mythological or historical scenes."
+        atmosphere: "Mixture of artistic refinement and constant political tension. Air filled with scents of oil paints, wet plaster from artists' workshops, beeswax from candles, dust of old books. Sounds of church bells, horse hooves on stone pavement, hushed conversations about politics and business in loggias and piazzas."
+    
+    - id: "vatican_rome"
+      name: "Vatican Palace, Rome"
+      description_block: |
+        setting:
+          location: "Papal apartments within Vatican complex in Rome, center of Catholic Church and secular papal power. Labyrinth of courtyards, corridors and apartments constantly expanded and decorated by greatest artists of the era."
+        mainElements: "Massive construction site of new St. Peter's Basilica with Bramante's design inspired by imperial Roman buildings. Interior chambers gleaming with gold mosaics, polished marble, vivid colors of Raphael's frescoes in Papal Apartments and Michelangelo's Sistine Chapel ceiling."
+        atmosphere: "Center of immense wealth, spiritual and secular power, intrigue. Air thick with incense scent, melted candle wax, construction dust. Sounds mixing Gregorian chant from chapels, stonemason hammers, whispered conspiracies of cardinals in richly decorated halls."
+    
+    - id: "romagna_fortress"
+      name: "Romanian Fortress (Cesena, Senigallia)"
+      description_block: |
+        setting:
+          location: "Fortified cities in Romagna region of Italian peninsula dominated by military strongholds (rocca). Massive square fortress with four powerful round corner towers like Rocca Roveresca in Senigallia, designed to withstand artillery fire."
+        mainElements: "Thick walls of brick or stone with narrow arrow slits and battlements. Surrounded by deep moat. Sparse interior furnishings with simple wooden tables, stools, soldiers' bunks. Weapons everywhere: pikes leaning against walls, arquebuses, helmets. Central parade ground (piazza d'armi)."
+        atmosphere: "War-marked landscape where violence and pragmatism dominate. Air filled with smoke from campfires, moist earth, horses. Silence broken by marching soldiers, creaking leather harnesses, distant hammer strikes in forge."
+    
+    - id: "machiavelli_study"
+      name: "Machiavelli's Study in Sant'Andrea"
+      description_block: |
+        setting:
+          location: "Modest room in rural house in Sant'Andrea in Percussina, south of Florence. Simple chamber in family estate where Machiavelli lives in political exile."
+        mainElements: "Stone floor, whitewashed walls. Simple wooden desk and chair. Bookshelves full of books - only luxury in room. Single candle or oil lamp providing illumination during evening work sessions."
+        atmosphere: "Place of intellectual asylum and desperate work. Contrast between poverty of surroundings and richness of thought. Evening transformation from daytime rural drudgery to nighttime scholarly communion with ancient minds."
+
+  items:
+    - id: "prince_manuscript"
+      name: "The Prince Manuscript"
+      description_block: |
+        details: "Modest leather-bound manuscript, simple binding contrasting with luxury of Medici palace. Written on thick, handmade paper with cream, uneven tone. Printed in classic Renaissance font - antique or italic creating dense text blocks. Symbol of knowledge, strategy, and desperate attempt to regain political favor."
+    
+    - id: "milanese_armor"
+      name: "Milanese Plate Armor"
+      description_block: |
+        details: "Complete plate armor in Milanese style characterized by smooth, rounded surfaces designed to deflect blows. Gleaming steel with possible decorative etching, gilding, and embossed ancient motifs like lion heads or mythological scenes. Represents functional military strength and social status."
+    
+    - id: "garrote_weapon"
+      name: "Execution Garrote"
+      description_block: |
+        details: "Simple, brutal murder instrument used in Senigallia consisting of rope noose and iron rod. Symbol of ruthless effectiveness and calculated elimination of enemies without honor or ceremony."
+    
+    - id: "heraldic_symbols"
+      name: "Family Heraldic Symbols"
+      description_block: |
+        details: "Noble family coats of arms crucial for identifying factions and alliances: six balls of Medici family, Borgia bull, Orsini rose. Displayed on banners, clothing, armor, architecture as visual markers of power and loyalty."
+    
+    - id: "italy_political_map"
+      name: "Political Map of Italy"
+      description_block: |
+        details: "Parchment map showing Italian peninsula divided into numerous colored fragments representing competing political entities: republics like Florence and Venice, duchies like Milan and Ferrara, Kingdom of Naples, Papal States. Foreign armies represented by miniature figures. Symbol of political fragmentation and foreign domination."

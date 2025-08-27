@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Brutal confrontation destroys protective illusions forever"
+  setting:
+    time: "Late 1940s, late night in September"
+    location: "Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with fold-out bed for guests"
+    weather: "Hot, oppressive night air, stifling atmosphere"
+  characters:
+    - appearance: "Man 30-35 years old, tall and solidly built but moves awkwardly like dancing bear. More sensitive expression than other men, often shy and gentle"
+      clothing: "Dirty work clothes, unshaven appearance showing moral deterioration"
+      position: "Standing aggressively over seated woman, towering with masculine threat"
+      action: "Violently destroying woman's protective illusion, exposing her to cruel harsh light"
+    - appearance: "Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain and nervous, moves with moth-like nervousness and theatrical gestures"
+      clothing: "Evening dress now disheveled, appearance deteriorating under stress"
+      position: "Cowering in chair, hands raised to shield face from brutal illumination"
+      action: "Crying out in pain and terror as protective barrier is destroyed"
+  scene:
+    mainElements: "Inexpensive colored paper lantern that Blanche places over naked bulb to create softer, more romantic lighting and hide harsh reality"
+    details: "Paper lantern being violently torn away revealing harsh naked bulb. Woman's face exposed to merciless electric glare showing age, exhaustion, and despair. Torn paper fragments scattered like destroyed dreams. Previously gentle lighting now brutal and unforgiving. Man's satisfaction at destroying feminine protection. No text or letters visible"
+    background: "Single harsh bulb illuminating scene with green glass shade casting eerie glow, sounds of neighborhood nightlife filtering through windows"
+    atmosphere: "Complete destruction of illusion and protective barriers. Raw truth exposed in cruelest possible way. Masculine brutality triumphing over feminine survival mechanisms. Point of no return crossed"
+  composition:
+    cameraAngle: "Harsh close-up emphasizing brutal exposure to reality"
+    focus: "Woman's face in unforgiving light showing complete devastation"
+    depth: "Foreground: destroyed lantern fragments; middle ground: exposed, suffering woman; background: harsh light source triumphant"

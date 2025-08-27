@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1922, violet hour of twilight
+    location: Small single-room rented flat typical of lower middle-class London accommodation, combined bedroom and living
+      space
+  characters:
+  - appearance: Young working woman, tired and bored expression, plain features showing indifference and emotional emptiness,
+      hair disheveled from day's work
+    clothing: Simple practical dress of middle-class office worker, combinations and camisoles visible in modest one-room
+      flat
+    position: Standing at window looking out
+    action: Gazing at the symbolic object while gramophone plays mechanically in background
+  scene:
+    mainElements: Magnificent white angel wings are bound with heavy iron chains, yet the wings continue to beat slowly and
+      powerfully despite their restraints
+    details: The wings are enormous and beautiful, pure white feathers gleaming even in the dim light, each feather perfect
+      and pristine, suggesting divine or supernatural origin. Heavy black iron chains wrap around the wings at multiple points
+      - at the joints, across the span, binding them partially closed. Yet the wings move with slow, powerful beats, creating
+      wind that stirs papers and fabric in the room. The chains strain and creak with each movement but do not break, creating
+      a rhythmic sound like distant thunder or heartbeat.
+    background: Divan serving as both sofa and bed, window where undergarments dry, small table with remains of tinned food
+    atmosphere: Emptiness and resignation, functional poverty without warmth, yet presence of magnificent spiritual force
+      bound by material constraints, mechanical existence contrasted with divine aspiration, no text or letters visible
+  composition:
+    cameraAngle: Low angle view emphasizing the power and size of the chained wings
+    focus: The tension between wing movement and chain restraints
+    depth: Chained beating wings dominating foreground, typist at window in middle ground, sparse room details in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

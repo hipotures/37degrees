@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Death Telegram Through Meursault's Eyes"
+  setting:
+    time: "1940, afternoon"
+    location: "Modest apartment in European quarter of French colonial Algiers, Algeria"
+    weather: "Hot Mediterranean afternoon with harsh sunlight streaming through window"
+  characters:
+    - appearance: "Young man aged 25-30 years, European features, average build, distant expression in eyes"
+      clothing: "Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions"
+      position: "Sitting at simple wooden table near window"
+      action: "Holding small yellow telegram, reading with neutral expression, no visible emotional reaction"
+  scene:
+    mainElements: "Small cramped apartment with basic furniture, yellow telegram paper in hands, sunlight creating harsh geometric shadows on table and floor"
+    details: "Telegram text barely visible but official-looking, apartment sparsely furnished with single bed visible in background, simple chair and table, no decorative items. Dust motes floating in shaft of sunlight from window. Clock on wall showing afternoon hour. Small stack of unopened mail on table corner."
+    background: "Balcony door slightly open with sounds of street life below - tramways, vendors calling, general urban bustle of colonial Algiers"
+    atmosphere: "Detached, matter-of-fact mood contrasting with tragic content of message, harsh afternoon light creating stark shadows, sense of emotional disconnection from significant news"
+  composition:
+    cameraAngle: "Medium close-up from Meursault's perspective looking down at telegram"
+    focus: "Yellow telegram paper with official text, hands holding it steadily without trembling"
+    depth: "Foreground shows telegram and hands, middle ground shows simple table surface with other papers, background shows sparse apartment interior with harsh sunlight patterns, no text or letters visible"

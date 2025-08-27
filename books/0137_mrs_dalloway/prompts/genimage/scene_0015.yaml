@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 1923, afternoon around 3:30 PM
+    location: Exclusive gentlemen's club or high-end shopping district, London
+    weather: Refined afternoon light suitable for distinguished social activities
+  characters:
+  - appearance: Man around 50, perfectly groomed and dressed, representing court connections and social climbing
+    clothing: Impeccable formal attire, possibly with boutonniere, always almost too well-dressed
+    position: Moving through exclusive social spaces with practiced elegance
+    action: Making elaborate hat-removing gestures and obsequious conversation
+  scene:
+    mainElements: Exclusive social environment with perfectly dressed gentlemen, expensive furnishings, symbols of refined
+      taste and social status
+    details: Through Hugh's snobbish perspective, social space becomes theater for displaying superior breeding, every gesture
+      calculated for maximum social effect, other gentlemen evaluated by quality of tailoring and court connections, servants
+      appearing as naturally inferior beings, expensive objects representing proper appreciation of refinement, his own appearance
+      serving as standard of perfect grooming, social hierarchy appearing as natural and desirable order, no text or letters
+      visible
+    background: Luxurious club interior or expensive shop fronts representing high society consumption and social display
+    atmosphere: Suffocating attention to social form and hierarchy, Hugh's psychological filter of snobbery making ordinary
+      social interaction into performance of superiority and class distinction
+  composition:
+    cameraAngle: From Hugh's self-satisfied perspective, emphasizing social superiority and perfect grooming
+    focus: Symbols of social status and refinement that confirm his position in hierarchy
+    depth: Expensive social accessories in foreground, Hugh's perfect figure in middle ground, exclusive social environment
+      confirming his status in background
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

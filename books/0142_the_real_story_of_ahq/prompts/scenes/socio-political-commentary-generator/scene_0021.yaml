@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Puppet Masters"
+  setting:
+    time: "1911, evening"
+    location: "Traditional Chinese courtyard house (siheyuan) of wealthy Chao clan during private meeting"
+    weather: "Indoor candlelight creating dramatic shadows and mysterious atmosphere"
+  characters:
+    - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+      clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+      position: "Seated at head of table in ornate chair"
+      action: "Manipulating puppet strings attached to small wooden figures representing village officials and rebels"
+    - appearance: "Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style but wears fake braided queue poorly attached. Represents failed modernization"
+      clothing: "Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village attire. Clothes mark him as pretentious outsider"
+      position: "Standing beside table with ledger book"
+      action: "Recording names and payments, organizing the systematic corruption of revolutionary movement"
+  scene:
+    mainElements: "Dark, smoky interior with heavy traditional furniture. Table covered with puppet figures representing various village factions, strings leading to hands of puppet master. Maps and documents scattered around"
+    details: "Wooden marionettes dressed as officials, rebels, and common villagers. Silver coins stacked on table representing bribes and payments. Oil lamp casting flickering shadows on wall, creating puppet-show atmosphere"
+    background: "Ancestral portraits watching from walls, expensive furnishings showing wealth and power, closed doors ensuring privacy for conspiracy"
+    atmosphere: "Revelation of hidden control mechanisms. Revolution exposed as elaborate theater with wealthy elite pulling strings behind scenes. Democracy and rebellion both manipulated by same powerful interests"
+  composition:
+    cameraAngle: "Close-up on hands manipulating puppet strings with figures visible below"
+    focus: "The puppet strings as metaphor for hidden control of political movements"
+    depth: "Foreground shows the puppet figures representing controlled factions, middle ground captures the manipulating hands, background reveals the wealthy conspirators orchestrating the deception"

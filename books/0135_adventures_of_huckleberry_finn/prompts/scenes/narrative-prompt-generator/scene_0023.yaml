@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Truth Revealed - Jim Was Already Free"
+  setting:
+    time: "1840s Arkansas plantation, morning"
+    location: "Front porch of Phelps farmhouse"
+    weather: "Bright, clear morning after night's events"
+  characters:
+    - appearance: "13-14 year old white boy, average height and build. Clean, well-groomed appearance. Lively, intelligent face now showing embarrassment and defensive justification."
+      clothing: "Clean clothes with bandaged leg propped up on chair"
+      position: "Sitting in chair on porch with wounded leg elevated"
+      action: "Sheepishly explaining that Miss Watson had freed Jim in her will two months ago"
+    - appearance: "35-45 year old African American man, tall and powerfully built with muscular frame from physical labor. Dark skin, short curly black hair. Gentle, often worried expression now mixed with relief and dignity."
+      clothing: "Simple, practical slave clothing made from coarse, unbleached cloth. Plain cotton shirt and pants, often patched and worn. Clothing purely utilitarian without any ornaments."
+      position: "Standing on porch steps, no longer in chains"
+      action: "Receiving news of his legal freedom with quiet dignity and restrained joy"
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face showing mixture of relief and disgust at Tom's game."
+      clothing: "Rumpled clothes from night's adventure"
+      position: "Standing beside porch railing"
+      action: "Staring at Tom with dawning understanding of the cruel game that was played"
+  scene:
+    mainElements: "Simple farmhouse porch with wooden chairs, morning sunlight revealing aftermath of unnecessary adventure"
+    details: "Bandages and medical supplies for Tom's wound, coffee cups on porch rail, family members gathering to hear explanation, peaceful farm morning scene"
+    background: "Arkansas cotton plantation in morning light, outbuildings and fields stretching to horizon, normal farm activity resuming"
+    atmosphere: "Revelation of cruel futility of elaborate escape, Jim's dignity in face of systematic dehumanization, Tom's romantic adventure exposed as callous game, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot from farmyard showing all characters on porch"
+    focus: "Jim's quiet dignity contrasted with Tom's embarrassed justifications and Huck's moral awakening"
+    depth: "Characters on porch in foreground, farmyard activities in middle, peaceful countryside in background"

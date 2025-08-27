@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Divine Storm Overwhelming Trojan Fleet"
+  setting:
+    time: "Mythical era around XII century BCE, late afternoon turning to storm darkness"
+    location: "Mediterranean Sea south of Sicily during violent supernatural tempest"
+    weather: "Catastrophic storm with mountainous waves, lightning, and hurricane winds unleashed by gods"
+  characters:
+    - appearance: "tall, powerfully built warrior with noble bearing"
+      clothing: "Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunic with longer sleeves in Eastern style"
+      position: "standing on deck of flagship gripping rigging"
+      action: "desperately holding ship's rail as vessel is battered by divine storm, face showing terror and despair"
+  scene:
+    mainElements: "Trojan fleet of ships with bronze-reinforced hulls scattered across churning Mediterranean, massive supernatural storm clouds dominating sky, ships appearing tiny against mountainous waves"
+    details: "Lightning illuminates terrified faces of sailors, broken oars floating in foam, one vessel being swallowed by whirlpool while others struggle against hurricane winds, black pitch-sealed hulls reflecting fire from sky, torn square sails whipping in gale"
+    background: "Dark storm clouds blotting out sun, Sicily's coastline barely visible through sheets of rain, supernatural darkness suggesting divine wrath"
+    atmosphere: "Overwhelming divine power crushing mortal ambitions, chaos of natural forces beyond human control, terror and helplessness before supernatural storm"
+  composition:
+    cameraAngle: "Extreme wide establishing shot from elevated position showing vast scale"
+    focus: "Tiny Trojan ships struggling against overwhelming forces of nature and divine wrath"
+    depth: "Storm clouds dominating sky in background, huge waves in middle distance, ships appearing insignificant in foreground waters, no text or letters visible"

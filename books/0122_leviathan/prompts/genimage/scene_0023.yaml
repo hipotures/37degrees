@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1651, representing the ultimate surveillance state
+    location: Central tower overlooking circular arrangement of citizen dwellings
+    weather: Dramatic lighting emphasizing visibility and exposure
+  characters:
+  - appearance: Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority,
+      stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard
+    clothing: Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather
+      boots, crown of heavy gold or iron symbolizing weighty authority
+    position: Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which
+      the state revolves
+    action: One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without
+      personal emotion
+  - appearance: Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical
+      hair
+    clothing: Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary
+      supporter dress
+    position: Standing respectfully with slight bow toward Sovereign, hands clasped in deference
+    action: Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign
+  scene:
+    mainElements: Massive central watchtower with all-seeing observation capability, circular arrangement of citizen housing
+      all visible from center, perfect surveillance system allowing total monitoring of population
+    details: Tower with multiple observation levels and sight lines to all citizen areas, citizens visible in their daily
+      activities, architecture designed for maximum visibility and control. Large two-handed ceremonial sword prominently
+      displayed on tower. Heavy solid crown symbols integrated into tower architecture. Citizens holding simple clay pipes
+      while being observed.
+    background: Geometric arrangement of dwellings radiating from central tower, uniform architecture ensuring no privacy
+      from state observation, clear sight lines emphasizing total surveillance capability
+    atmosphere: Ultimate surveillance creating perfect social control, silence of total monitoring, citizens modified behavior
+      under constant observation
+  composition:
+    cameraAngle: High angle from tower showing complete surveillance coverage
+    focus: The architecture of total surveillance and social control
+    depth: Foreground shows tower observation point, middle displays surveilled citizen areas, background reveals the complete
+      panopticon system
+visualElements:
+  colorPalette:
+    primary:
+    - deep black
+    - warm gold
+    - rich brown
+    secondary:
+    - crimson red
+    - olive green
+    - ivory white
+    background: dramatic dark backgrounds with selective illumination
+    usageNotes: Rich, dark colors with dramatic light accents
+    saturation: medium to high (rich oil painting colors)
+    contrast: very high (extreme light-dark contrasts)
+  lineArt:
+    style: painterly edges defined by light and shadow
+    weight: varies with lighting conditions
+    color: defined by chiaroscuro rather than outlines
+    texture: oil painting brushwork
+    edgeTreatment: soft edges where light meets shadow
+  lighting:
+    type: dramatic directional lighting
+    direction: strong single light source
+    intensity: extreme contrasts between light and dark
+    shadows:
+      style: deep, dramatic shadows
+      color: rich browns and blacks
+      opacity: very opaque
+    highlights: brilliant illumination on key subjects
+  rendering:
+    technique: oil painting with rich impasto
+    texture: visible brushstrokes, oil paint texture
+    detailLevel: high in illuminated areas, lost in shadows
+    finish: rich oil paint finish
+  perspective: dramatic angles emphasizing emotional impact
+  mood:
+    overall: dramatic, emotional, theatrical
+    emotion: intensity, passion, drama
+    tempo: dynamic, powerful
+    keywords:
+    - dramatic
+    - emotional
+    - theatrical
+    - intense
+    - powerful
+  stylePrecedents:
+  - Caravaggio paintings
+  - Rembrandt portraits
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

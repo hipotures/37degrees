@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1911, morning
+    location: Village school courtyard in Weizhuang where children receive education
+    weather: Controlled indoor lighting from windows and oil lamps
+  characters:
+  - appearance: Rows of village children, ages 6-14, seated in identical positions
+    clothing: Simple matching school uniforms, hair styled identically according to regulations
+    position: Arranged in precise rows facing forward
+    action: Reciting classical texts in unison, bodies swaying to rhythm of memorization, eyes focused straight ahead without
+      individual expression
+  - appearance: School master in traditional scholarly robes
+    clothing: Long scholarly gown, scholarly cap indicating education
+    position: Standing at front with teaching rod in hand
+    action: Leading recitation with rhythmic gestures, striking rhythm on desk to maintain uniformity
+  scene:
+    mainElements: Classroom organized like military formation with identical desks, books, and posture. Educational materials
+      showing imperial texts and moral exhortations. Calligraphy scrolls with classical wisdom covering walls
+    details: Every child holds identical text at same angle, mouths moving in perfect synchronization, individual personality
+      suppressed in favor of collective conformity. Teaching rod ready to correct any deviation
+    background: Educational posters showing proper behavior and imperial loyalty, windows allowing minimal natural light to
+      emphasize controlled environment
+    atmosphere: Education as indoctrination machine designed to produce identical subjects rather than thinking individuals.
+      The rhythm of learning becomes hypnotic suppression of creativity and critical thought. Knowledge as tool of control
+      rather than liberation
+  composition:
+    cameraAngle: Perspective from rear of classroom showing the sea of identical students facing authority figure
+    focus: The uniformity of students contrasted with the singular authority of the teacher
+    depth: Foreground captures rows of conforming students, middle ground shows the controlling teacher figure, background
+      reveals the institutional framework designed to produce compliance
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

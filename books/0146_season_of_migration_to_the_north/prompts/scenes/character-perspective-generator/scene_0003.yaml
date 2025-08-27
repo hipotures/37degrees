@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Narrator Sees Mahjoub - Childhood Friend as Village Leader"
+  setting:
+    time: "1960s, morning"
+    location: "Village agricultural area near irrigation channels with view of Nile River"
+    weather: "Clear morning light, warm but not yet intense heat"
+  characters:
+    - appearance: "Sudanese man around thirty years old, narrator's childhood friend, practical and grounded demeanor, confident bearing"
+      clothing: "Practical working djellaba suitable for agricultural work, sometimes with tools at waist"
+      position: "Standing with feet planted firmly, gesturing toward village projects or fields"
+      action: "Speaking with pragmatic authority about village affairs, hands moving to illustrate agricultural improvements"
+    - appearance: "Sudanese man in his early thirties, average height and build, thoughtful dark eyes, serious expression, clean-shaven face showing traces of internal struggle"
+      clothing: "Clean white traditional djellaba with matching turban"
+      position: "Standing listening intently, slight smile of recognition and admiration"
+      action: "Observing with analytical gaze, occasionally nodding with respect for friend's practical wisdom"
+  scene:
+    mainElements: "Irrigation channels with flowing water, metal pumps replacing old water wheels, cultivated fields green with crops, date palms providing shade"
+    details: "Through narrator's admiring perspective, Mahjoub appears as ideal of productive village life - his gestures toward improved irrigation seem like conductor directing symphony of progress, his practical knowledge glowing with quiet heroism. Water flowing through channels catches sunlight like liquid silver, new metal pumps represent triumph of village initiative, green fields stretching toward Nile appear as testament to community cooperation, agricultural tools scattered around seem like instruments of peaceful victory, no text or letters visible"
+    background: "Wide slow-flowing Nile River with muddy brown waters, banks lined with date palms, other villagers working in distance"
+    atmosphere: "Narrator feeling deep respect for friend who remained and built something meaningful, sense that practical village leadership represents true wisdom, morning light making honest agricultural work appear noble and blessed"
+  composition:
+    cameraAngle: "Slightly low angle emphasizing Mahjoub's authority and narrator's respect"
+    focus: "Mahjoub's confident gestures toward agricultural improvements, with narrator listening attentively"
+    depth: "Mahjoub gesturing in foreground, irrigation works and green fields in middle ground, Nile and palms in background, no text or letters visible"

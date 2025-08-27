@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1792, imposing morning light emphasizing architectural grandeur
+    location: Prestigious boys' academy in classical architectural style with columns and impressive entrance
+    weather: Clear, bright day that highlights the majesty and authority of educational institution
+  characters:
+  - appearance: Young male students in academic dress walking with confident bearing toward their intellectual destiny
+    clothing: Dark academic gowns over quality clothing, suggesting serious commitment to learning and future leadership
+    position: Ascending steps toward main entrance, moving with sense of purpose and privilege
+    action: Carrying books and papers, discussing lessons, embodying promise of rational male education
+  scene:
+    mainElements: Imposing neoclassical building with tall columns, carved pediments showing allegorical figures of wisdom
+      and learning, wide stone steps leading to grand entrance
+    details: Carved inscriptions in Latin celebrating wisdom and virtue. Stone figures represent classical gods of learning.
+      Well-maintained grounds suggest institutional permanence and authority. Architecture deliberately evokes Greek temples,
+      positioning learning as sacred male privilege
+    background: Other impressive buildings of the academy complex, manicured grounds, glimpses of library windows and scientific
+      laboratories suggesting comprehensive male intellectual development
+    atmosphere: Atmosphere of institutional power and intellectual authority, suggesting this is where future leaders are
+      shaped and where the business of serious learning belongs to male domain
+  composition:
+    cameraAngle: Low angle shot emphasizing the imposing architecture and its dominance over the landscape
+    focus: The monumental building as symbol of male educational privilege and intellectual authority
+    depth: Foreground shows students approaching, middle ground shows impressive facade and entrance, background suggests
+      the extended institutional complex dedicated to male learning
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

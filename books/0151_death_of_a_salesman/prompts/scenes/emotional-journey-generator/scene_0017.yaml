@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Multiple Pressures - Crowds of Expectation Closing In"
+  setting:
+    time: "1949, evening"
+    location: "upscale Manhattan restaurant with red walls and intimate lighting, scene of confrontation and family breakdown"
+    weather: "evening indoors with artificial lighting"
+  characters:
+    - appearance: "63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation"
+      clothing: "worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing signs of constant travel, suit wrinkled from carrying heavy sample cases"
+      position: "sitting at restaurant table, surrounded by other diners"
+      action: "gesticulating frantically while speaking, sweat visible on forehead, eyes darting between sons and other patrons"
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "sitting across from agitated father, leaning back in chair"
+      action: "looking away from father's desperate performance, embarrassed by public scene"
+    - appearance: "32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner emptiness, well-groomed appearance, practiced charming smile"
+      clothing: "slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project image of success"
+      position: "sitting beside brother, glancing nervously at other tables"
+      action: "attempting to calm father while maintaining appearance of normalcy for other diners"
+  scene:
+    mainElements: "tables with white tablecloths, leather banquettes, bar area, elegant but somewhat gaudy décor typical of 1940s dining establishments, crowded with other patrons witnessing family crisis"
+    details: "Other restaurant patrons at surrounding tables beginning to notice family disturbance. Waiters hovering uncertainly. Expensive fountain pen with elegant design lying on table between father and sons."
+    background: "crowded restaurant full of successful business people and well-dressed diners, mirrors reflecting multiple angles of family breakdown, urban social scene witnessing private humiliation"
+    atmosphere: "sophisticated social setting that becomes scene of humiliation and abandonment, warm intimate lighting contrasting with emotional coldness, public space amplifying private family shame"
+  composition:
+    cameraAngle: "medium wide shot showing family surrounded by other diners and social pressure"
+    focus: "agitated father making scene in public while sons withdraw in embarrassment"
+    depth: "foreground shows restaurant table and family crisis, middle ground captures surrounding diners witnessing breakdown, background reveals sophisticated social environment that judges and excludes failing family"

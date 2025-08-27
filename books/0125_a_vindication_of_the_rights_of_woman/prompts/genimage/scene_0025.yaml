@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1792 transitioning to dawn light suggesting new era beginning
+    location: Future classroom where boys and girls learn together as equals, representing Wollstonecraft's revolutionary
+      educational vision
+    weather: Dawn light suggesting hope and new beginnings, though still uncertain
+  characters:
+  - appearance: Mixed group of children aged 7-12, boys and girls studying together without gender segregation or different
+      expectations
+    clothing: Simple, practical clothing suitable for active learning rather than gender display, emphasizing their equality
+      as students
+    position: Seated together at shared desks without segregation by sex, positioned as equal participants in learning
+    action: Engaged in same lessons - reading, mathematics, natural philosophy, geography - regardless of sex, showing equal
+      intellectual capacity
+  - appearance: Female teacher representing Wollstonecraft's ideal of rational woman as educator
+    clothing: Simple but dignified dress emphasizing competence and intelligence rather than decorative function
+    position: Leading classroom with authority based on knowledge rather than social role
+    action: Teaching boys and girls equally, encouraging questions and independent thinking from all students
+  scene:
+    mainElements: Progressive classroom with equal educational resources for all children, maps, books, scientific instruments
+      available to both sexes
+    details: Co-educational learning environment where children's minds are developed regardless of sex. Evidence of serious
+      intellectual work by both boys and girls. Atmosphere of intellectual equality and mutual respect
+    background: School building suggesting institutional commitment to equal education, with natural light suggesting hopeful
+      future
+    atmosphere: Atmosphere of hope and possibility mixed with uncertainty - showing Wollstonecraft's vision of educational
+      reform as potential path to liberation, but leaving question of whether society will embrace this change
+  composition:
+    cameraAngle: Wide shot showing the integrated classroom while emphasizing the tentative, hopeful nature of this vision
+    focus: The revolutionary possibility of educational equality and its potential to transform society
+    depth: Foreground shows children learning together equally, middle ground shows teacher facilitating equal development,
+      background suggests uncertain but hopeful future
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

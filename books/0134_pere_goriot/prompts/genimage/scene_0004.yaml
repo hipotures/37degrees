@@ -1,0 +1,100 @@
+sceneDescription:
+  setting:
+    time: 1819, early afternoon
+    location: Elegant palace at rue du Helder, Faubourg Saint-Honoré, home of Count and Anastasie de Restaud
+    weather: Bright but cold winter day
+  characters:
+  - appearance: Slender young man with refined bearing and natural elegance. Southern French features with fair complexion,
+      blue eyes, black hair. Handsome and charming with youthful energy and determination
+    age: 21-22 years old
+    hair: Black hair, well-groomed in fashionable style
+    clothing: Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes
+      fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools
+    posture: Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive
+      or thoughtful and torn by internal conflict
+    position: Standing frozen in doorway, face burning with embarrassment and shock
+    action: Experiencing his first brutal lesson in Parisian social hierarchy
+  - appearance: Dazzlingly beautiful brunette with magnificent figure and 'supple waist'. Her style is more restrained and
+      aristocratic than her sister's, but equally expensive
+    age: 25-28 years old approximately
+    hair: Dark brown hair styled in aristocratic fashion
+    clothing: Aristocratic elegance - restrained but costly garments that display refined taste and social position. Owns
+      ancestral jewelry which she sells for her lover's debts
+    posture: More haughty and cruel toward Goriot than her sister. Carries herself with aristocratic pride and disdain. Openly
+      ashamed of her father's common origins
+    position: Seated imperiously, transformed from charming hostess to ice-cold judge
+    action: Delivering cutting dismissal with aristocratic cruelty
+  scene:
+    mainElements: Through Rastignac's stunned perspective, the elegant salon suddenly transforms from welcoming paradise to
+      hostile courtroom. Anastasie's beautiful face appears to turn into marble mask of disdain. The luxurious furnishings
+      seem to close in around him like prison walls, while her lover's mocking presence looms threateningly.
+    details: From Rastignac's humiliated viewpoint, every detail of the room now appears hostile - the courtyard's elegant
+      horse and cabriolet mock his pedestrian status, the artistic disorder seems to exclude him completely. Anastasie's aristocratic
+      beauty becomes cold and unapproachable, while her transformation from gracious host to contemptuous judge feels like
+      physical blow.
+    background: Luxurious interior that moments ago seemed welcoming now appears forbidding and exclusive, with shadows seeming
+      to whisper of his social inadequacy
+    atmosphere: Crushing humiliation and burning shame. The air feels thick with social judgment and the bitter taste of first
+      defeat in his campaign to conquer Paris
+  composition:
+    cameraAngle: Close-up on Rastignac's face showing shock and humiliation, with Anastasie's cold dismissal filling the background
+    focus: Rastignac's burning face of shame and shock as central element, with the hostile transformation of the salon surrounding
+      him
+    depth: Rastignac's devastated expression in sharp foreground, Anastasie's cold aristocratic judgment in middle ground,
+      background shows elegant salon now appearing as hostile fortress, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

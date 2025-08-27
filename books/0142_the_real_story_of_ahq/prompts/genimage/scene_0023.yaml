@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1911, morning
+    location: View from watchtower overlooking entire Weizhuang village layout
+    weather: Clear morning light revealing complete village surveillance network
+  characters:
+  - appearance: Government observer in official uniform
+    clothing: Dark official robes with surveillance insignia
+    position: Standing in elevated watchtower with telescope and recording materials
+    action: Systematically observing and recording all village activities, making notes in official ledger
+  scene:
+    mainElements: Elevated circular tower providing complete view of village below. All streets, courtyards, and gathering
+      places visible from central observation point. Village layout designed to eliminate private spaces
+    details: Telescope and observation equipment, detailed maps marking all buildings and residents, recording books tracking
+      daily activities of villagers. No corner of village hidden from view
+    background: Complete village spread below showing geometric street layout designed for surveillance. Every building positioned
+      for maximum visibility, no hidden areas or private spaces
+    atmosphere: Perfect surveillance state where privacy impossible and all behavior monitored. Architecture itself becomes
+      tool of control. Villagers live knowing they are always watched, creating internalized self-censorship
+  composition:
+    cameraAngle: High angle from watchtower showing both the observer and the observed village below
+    focus: The all-seeing observer as embodiment of surveillance state, with complete village visible as object of control
+    depth: Foreground shows the surveillance apparatus and observer, middle ground captures the geometric precision of the
+      controlled village, background reveals the complete absence of private space or escape
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

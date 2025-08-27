@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Gilded Cage - Wealthy Woman's Beautiful Prison of Domestic Confinement"
+  setting:
+    time: "1792, afternoon light filtering through expensive but restrictive window treatments"
+    location: "Luxurious drawing room that serves as elegant prison for wealthy married woman"
+    weather: "Bright day outside that remains largely inaccessible to confined woman within"
+  characters:
+    - appearance: "Elegant woman in her 30s showing signs of intellectual starvation despite material abundance"
+      clothing: "Expensive silk gown and jewelry that mark her wealth but also her status as decorative possession"
+      position: "Seated in beautiful but confining space, positioned like valuable ornament rather than active agent"
+      action: "Staring longingly out window at world she cannot freely enter, hands idle despite her obvious intelligence"
+  scene:
+    mainElements: "Sumptuously decorated room with fine furniture, artwork, and luxury goods that constitute a beautiful but restrictive environment"
+    details: "Gold leaf, expensive fabrics, fine china, fresh flowers - all markers of wealth that also emphasize woman's role as decorative object. Books present but limited to approved feminine reading. Musical instrument present but for entertainment of others rather than self-expression"
+    background: "Windows showing active world beyond - men engaged in commerce, politics, intellectual life - while woman remains confined to domestic sphere"
+    atmosphere: "Atmosphere of beautiful but oppressive confinement, where material luxury cannot compensate for intellectual and social imprisonment"
+  composition:
+    cameraAngle: "Medium shot emphasizing both the luxury of confinement and the yearning for freedom beyond"
+    focus: "The contradiction between material comfort and intellectual/spiritual imprisonment"
+    depth: "Foreground shows luxurious prison, middle ground shows confined woman, background shows inaccessible world of freedom and activity"

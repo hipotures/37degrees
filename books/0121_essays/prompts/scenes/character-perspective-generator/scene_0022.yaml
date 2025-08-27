@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Collective Grief at Pandemic Loss"
+  setting:
+    time: "1580s, during plague outbreak"
+    location: "Rural France in Aquitaine region during disease epidemic"
+    weather: "Gray overcast sky reflecting communal mourning"
+  characters:
+    - appearance: "Entire community united in grief regardless of previous social or religious divisions"
+      clothing: "Mourning attire across all social classes, religious differences set aside in face of universal loss"
+      position: "Gathered around mass grave site, all maintaining respectful distance but sharing common sorrow"
+      action: "Collective mourning rituals, supporting grieving neighbors regardless of past conflicts, sharing resources for survival"
+  scene:
+    mainElements: "Entire population united by shared experience of loss and mortality, previous divisions rendered meaningless"
+    details: "Mass burial site where religious and social distinctions disappear before universal mortality, survivors from all backgrounds working together in practical tasks of communal survival, shared tears and embraces crossing previous social boundaries, abandoned partisan symbols as immediate survival takes precedence, collective silence broken only by shared prayers or laments, empty houses and shops showing scope of universal loss, no text or letters visible"
+    background: "Landscape marked by universal mortality, showing how death equalizes all human pretensions"
+    atmosphere: "Profound shared recognition of human fragility uniting community in face of universal mortality, temporary suspension of social divisions"
+  composition:
+    cameraAngle: "Wide view encompassing entire community joined in collective grief experience"
+    focus: "Universal human vulnerability creating temporary unity across all previous divisions"
+    depth: "Foreground shows individual mourners, middle ground captures collective grief, background reveals universally affected landscape, no text or letters visible"

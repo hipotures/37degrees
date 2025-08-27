@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1949, dinner time
+    location: central room of Loman house, practical working kitchen with worn furniture showing years of family life and
+      financial struggle
+    weather: evening indoor lighting against dark windows
+  characters:
+  - appearance: approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed
+      with deep worry, lines around eyes from years of concern, gentle but tired expression
+    clothing: modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing
+      clean but showing wear from careful mending
+    position: sitting at table in her usual place
+    action: serving food onto plates, pausing to glance at empty chair across from her with deep sadness
+  - appearance: 32 years old, tall and powerfully built man, conventionally handsome with confident demeanor masking inner
+      emptiness, well-groomed appearance, practiced charming smile
+    clothing: slightly flashy business suits in good condition, colorful ties, well-polished shoes, clothing chosen to project
+      image of success
+    position: sitting in his chair at table, looking uncomfortable
+    action: pushing food around on plate, avoiding looking at empty chair where father should be sitting
+  scene:
+    mainElements: wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen
+      living room, stairs leading to bedrooms upstairs, disrupted family dinner ritual
+    details: Third chair at table conspicuously empty, place setting prepared but unused. Simple dinner spread on worn plates
+      showing family's modest circumstances. Overhead light creating circle of illumination around incomplete family gathering.
+    background: kitchen cabinets and appliances in evening lighting, stairs leading to upper floor where absent family member
+      may be, doorway to darkened living room
+    atmosphere: heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows
+      of conflict, disrupted family rhythm creating sense of loss and abandonment
+  composition:
+    cameraAngle: medium shot across table, emphasizing empty third chair and incomplete family circle
+    focus: empty chair dominating composition, unused place setting highlighting absence that affects entire family dynamic
+    depth: foreground shows prepared meal and table settings, middle ground captures two remaining family members dealing
+      with absence, background reveals domestic space extending into shadows where missing person might appear
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

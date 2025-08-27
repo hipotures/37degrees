@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, afternoon
+    location: Palace courtyard with stone columns and shadows creating dramatic lighting
+    weather: Afternoon light creating long shadows and golden illumination
+  characters:
+  - appearance: Elderly man aged 65-75 years, white beard and deep facial wrinkles showing advanced age and accumulated wisdom,
+      stooped posture from years, eyes reflecting knowledge of palace's dark history
+    clothing: Simple but dignified robes befitting elder citizen, earth-toned woolen garments with modest bronze brooch, leather
+      sandals worn smooth with age
+    position: Medium shot showing waist-up framing, hands gripping stone column or table edge with white knuckles
+    action: Chorus elder representing community memory and moral voice, knows palace's cursed history but feels powerless
+      to prevent approaching tragedy
+  scene:
+    mainElements: Stone palace architecture providing geometric patterns of light and shadow, column bases and carved architectural
+      details creating vertical lines, elder figure positioned against textured stone background
+    details: Weathered hands with prominent veins gripping stone surface showing tension and fear, shoulders hunched with
+      burden of knowledge, facial expression mixing wisdom with helplessness, robes creating soft folds contrasting with hard
+      stone geometry
+    background: Palace courtyard architecture with columns and carved stone details, afternoon shadows creating dramatic patterns,
+      other chorus members suggested but blurred in background depth
+    atmosphere: Weight of communal memory and tragic knowledge, sense of helplessness before approaching disaster, dignity
+      of age confronting forces beyond mortal control, reverence mixed with dread
+  composition:
+    cameraAngle: Medium shot capturing body language and relationship to architectural environment
+    focus: Hand gesture and posture revealing internal emotional state and physical manifestation of fear
+    depth: Sharp focus on subject with stone architecture providing textural context, background columns and figures softly
+      focused to emphasize main character, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

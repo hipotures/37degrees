@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1910, afternoon in palace chamber
+    location: Ornate interior chamber of wealthy household in Bengal, British colonial India
+    weather: Still air inside richly decorated room
+  characters:
+  - appearance: Mały chłopiec około 7-8 lat o dużych, niewinnych, ale smutnych oczach. Drobna, dziecięca budowa. Ciemne, krótkie
+      włosy. Twarz wyraża zagubienie w swoim bogactwie.
+    clothing: Bogato zdobione, jedwabne szaty w jaskrawych kolorach, które są dla niego za duże i wyraźnie krępują mu ruchy.
+      Na szyi ciężkie, złote naszyjniki i girlandy z klejnotów, które krępują jego ruchy.
+    position: Standing stiffly in center of room, small hands touching ornate decorations
+    action: Reaching toward window where thorny rose branch presses against glass while heavy golden ornaments dig into delicate
+      skin
+  scene:
+    mainElements: Sharp texture contrast between soft silk robes and harsh metal jewelry cutting into child's tender skin
+      while thorny branches outside window represent forbidden roughness
+    details: Ciężkie, złote naszyjniki i girlandy z klejnotów press deep ridges into child's soft neck creating visible indentations
+      in pale skin. Silk fabric shows individual thread texture catching light while creating smooth surfaces against rougher
+      metal ornaments. Through window, rose thorns press sharp points against glass panes, their cruel spikes contrasting
+      with indoor luxury's false smoothness. Child's fingertips trace windowpane feeling cold glass barrier between soft interior
+      and harsh natural world outside. Heavy brocade fabrics create visible weight pulling down small shoulders. Golden chains
+      leave red marks where they press against tender flesh. No text or letters visible.
+    background: Luxurious chamber with heavy silk curtains and ornate furnishings creating sensory prison of excessive refinement
+    atmosphere: Oppressive richness where every surface is too smooth, too soft, creating sensory deprivation that makes natural
+      roughness seem like salvation
+  composition:
+    cameraAngle: Eye level with child showing weight of ornaments pulling down small frame
+    focus: Tactile contrast between smooth silk, cutting metal jewelry, and longed-for natural thorns beyond glass
+    depth: 'Foreground: ornate chamber details. Middle: burdened child figure. Background: natural thorns pressed against
+      window barrier'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

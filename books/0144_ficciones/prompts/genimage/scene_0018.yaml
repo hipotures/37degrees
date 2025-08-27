@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: Twilight between memory and forgetting
+    location: Vast ocean where waves are made of letters and words instead of water
+    weather: Perpetual twilight with no wind, only movement of textual tides
+  characters:
+  - appearance: Elderly man in final years, stooped and emaciated from endless wandering, deeply wrinkled face, long unkempt
+      gray hair and beard, eyes weak and tired from reading, skeletal frame
+    clothing: Worn gray-brown monk-like robe, frayed and stained from years of use, no other possessions or adornments
+    position: Standing on shore watching waves of letters crash and recede
+    action: Reaching toward wave of meaningful text before it dissolves back into random characters
+  scene:
+    mainElements: Ocean composed entirely of flowing letters and words instead of water, waves rising and falling as coherent
+      sentences before dissolving into meaningless character combinations, shore littered with fragments of broken words,
+      occasional perfect sentence visible before being swallowed by alphabetic tide
+    details: Ocean transforms from natural element into repository of all possible texts, waves occasionally forming perfect
+      literature before dissolving into chaos. Librarian recognizes fragments of great works mixed with infinite nonsense.
+      Water of language threatens to drown meaning in its very abundance
+    background: Infinite textual ocean stretching beyond horizon, sky made of faded manuscript pages, distant islands that
+      might be books or mirages, alphabet shore where letters wash up like shells
+    atmosphere: Melancholy of infinite knowledge forever out of reach, twilight suggesting end of reading age, gentle sound
+      of letters lapping shore like distant typewriters, beauty and tragedy of language itself, no text or letters visible
+  composition:
+    cameraAngle: Beach-level shot showing figure against ocean of text
+    focus: The waves of letters forming momentary meaning before dissolution
+    depth: Alphabetic shore in foreground, reaching figure in middle ground, infinite textual ocean extending to background
+      horizon
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

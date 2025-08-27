@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Vienna Through Child's Wonder-Filled Eyes"
+  setting:
+    time: "1898 morning during family outing to city center"
+    location: "Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, seen from child's height"
+    weather: "Sunny spring morning with dancing shadows"
+  characters:
+    - appearance: "Young child approximately 8-10 years old with curious bright eyes and innocent expression"
+      clothing: "Victorian children's clothing - sailor suit for boy or pinafore dress for girl, small hand holding parent's larger hand"
+      position: "Walking alongside adults but experiencing entirely different world at lower eye level"
+      action: "Pointing at fascinating details adults ignore while trying to keep up with grown-up stride"
+  scene:
+    mainElements: "Imperial Vienna transformed into giant playground where enormous horse-creatures carry people in magical boxes, and towering buildings reach toward clouds like fairytale castles inhabited by mysterious adults"
+    details: "Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses, gas street lamps, elegant shop windows, coffee house terraces. From child's perspective, horses appear as magnificent giants with thundering hooves and steaming breath. Carriages become royal coaches carrying important people to secret destinations. Building facades display endless fascinating details - carved faces, stone animals, colorful shop windows full of treasures. Adults' legs create moving forest of fabric and boots."
+    background: "Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity and emerging political anxieties, ordered facades concealing cultural nervousness"
+    atmosphere: "Pure wonder at vast magical adult world full of interesting creatures and mysterious rituals, every corner holding new discoveries and adventures, city as enormous playground designed for exploration and imagination, no text or letters visible"
+  composition:
+    cameraAngle: "Child's very low eye level making everything appear enormous and magical"
+    focus: "Massive horse hooves and carriage wheels creating exciting movement and adventure"
+    depth: "Foreground: child's small perspective amid giant adult legs, Middle: magnificent horse-creatures and magical vehicles, Background: towering castle-buildings disappearing into sky"

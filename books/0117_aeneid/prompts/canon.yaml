@@ -1,0 +1,198 @@
+canon:
+  characters:
+    - id: "aeneas"
+      name: "Eneasz (Aeneas)"
+      description_block: |
+        characters:
+          - name: "Eneasz"
+            age: "around 40 years old"
+            appearance: "tall, powerfully built warrior with noble bearing"
+            hair: "dark, short, curly hair with divine beauty"
+            eyes: "dark eyes radiating noble authority and divine grace"
+            face: "god-like features with noble, regular lines, often marked by weariness and gravity from bearing destiny's burden"
+            build: "muscular and strong, capable of carrying his father on his shoulders"
+            clothing: "Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunic with longer sleeves in Eastern style"
+            posture: "moves with confidence and composure of experienced commander, restrained gestures, marked by gravitas"
+
+    - id: "dido"
+      name: "Dydona (Dido)"
+      description_block: |
+        characters:
+          - name: "Dydona"
+            age: "around 30 years old"
+            appearance: "exceptionally beautiful young widow, tall with statuesque bearing"
+            hair: "golden, light-colored hair typically arranged in elaborate royal hairstyle with golden clasps"
+            eyes: "expressive eyes that evolve from confidence to passionate radiance to pale despair"
+            face: "unmatched beauty with royal charisma and authority, later marked by furor"
+            build: "tall, graceful, athletic like goddess Diana"
+            clothing: "luxurious Phoenician royal robes in purple and gold, gold fibula clasping purple cloak, golden jewelry"
+            posture: "initially moves with royal dignity and authority, later becomes violent and restless with inner chaos"
+
+    - id: "turnus"
+      name: "Turnus"
+      description_block: |
+        characters:
+          - name: "Turnus"
+            age: "20-25 years old"
+            appearance: "handsome young warrior described as second Achilles"
+            hair: "dark hair typical of Latin nobility"
+            eyes: "dark eyes dominated by pride, anger, and bold courage"
+            face: "extremely handsome youth with classical Latin features"
+            build: "powerfully built and physically capable, most dangerous opponent to Aeneas in Italy"
+            clothing: "Italian king's armor with distinctive helmet crowned by high plume with fire-breathing chimera"
+            posture: "moves with arrogance and violent energy, impulsive and reckless, embodies war fury"
+
+    - id: "anchises"
+      name: "Anchizes (Anchises)"
+      description_block: |
+        characters:
+          - name: "Anchizes"
+            age: "70+ years old"
+            appearance: "elderly, frail patriarch with divine authority in spirit form"
+            hair: "gray-white hair of advanced age"
+            eyes: "wise eyes, possibly blind or weakened by Jupiter's lightning"
+            face: "aged features marked by wisdom and paternal authority"
+            build: "thin, frail elderly man, lame or disabled from divine punishment"
+            clothing: "simple robes of Trojan elder, carrying Penates household gods"
+            posture: "physically weak but spiritually authoritative, especially as spirit in underworld"
+
+    - id: "ascanius"
+      name: "Askaniusz (Ascanius/Iulus)"
+      description_block: |
+        characters:
+          - name: "Askaniusz"
+            age: "7-10 years old initially, growing to late teens"
+            appearance: "handsome boy who matures into energetic young man during the epic"
+            hair: "dark hair like his father"
+            eyes: "youthful enthusiasm and growing determination"
+            face: "handsome features inherited from Aeneas"
+            build: "small child initially, developing into athletic young warrior"
+            clothing: "youthful Trojan garments, light armor in battle scenes"
+            posture: "energetic and eager, struggling to keep pace with adults initially, later confident young warrior"
+
+    - id: "latinus"
+      name: "Latynus (Latinus)"
+      description_block: |
+        characters:
+          - name: "Latynus"
+            age: "60+ years old"
+            appearance: "elderly king worn by years of peaceful rule"
+            hair: "gray hair of advanced age"
+            eyes: "weary eyes reflecting wisdom and exhaustion"
+            face: "aged features marked by gravity and weariness"
+            build: "elderly frame showing years of kingship"
+            clothing: "rustic royal garments, toga praetexta with purple stripe for ceremonies"
+            posture: "dignified but tired bearing, lacks strength to oppose war fury"
+
+    - id: "lavinia"
+      name: "Lawinia (Lavinia)"
+      description_block: |
+        characters:
+          - name: "Lawinia"
+            age: "16-18 years old"
+            appearance: "young maiden known for beautiful, intense blush"
+            hair: "typical of young Italian aristocrat"
+            eyes: "modest, downcast eyes of virgin maiden"
+            face: "beautiful blush described like purple dye on ivory or red roses mixed with white lilies"
+            build: "slender young woman in bloom of youth"
+            clothing: "garments of young Italian noblewoman"
+            posture: "silent and passive, embodying modesty and virginal beauty"
+
+    - id: "pallas"
+      name: "Pallas"
+      description_block: |
+        characters:
+          - name: "Pallas"
+            age: "17-19 years old"
+            appearance: "beautiful, brave youth with almost feminine beauty"
+            hair: "youthful hair of young warrior"
+            eyes: "bright eyes compared to morning star"
+            face: "beautiful features with smooth, hairless chest noted in text"
+            build: "athletic young warrior build"
+            clothing: "Arcadian armor that becomes Turnus's trophy"
+            posture: "eager and brave despite youth, tragic heroic bearing"
+
+    - id: "camilla"
+      name: "Kamilla (Camilla)"
+      description_block: |
+        characters:
+          - name: "Kamilla"
+            age: "20-25 years old"
+            appearance: "warrior queen who is simultaneously wild and beautiful"
+            hair: "adorned with golden clasps"
+            eyes: "fierce warrior's gaze"
+            face: "beautiful but fierce features of warrior maiden"
+            build: "athletic and incredibly swift, capable of running on grain stalks without bending them"
+            clothing: "purple cloak with golden hair clasp, but also carries shepherd's staff, bow and quiver"
+            posture: "moves with supernatural speed and wild grace of warrior huntress"
+
+  locations:
+    - id: "troy_burning"
+      name: "Burning Troy"
+      description_block: |
+        setting:
+          location: "Ancient citadel of Troy in northwestern Anatolia under siege, viewed from rooftop during final night of destruction"
+        mainElements: "Massive stone walls breached and crumbling, magnificent palaces with ornate columns and golden-roofed temples collapsing in ruins, wooden buildings consumed by flames"
+        architecture: "Trojan architectural style with distinctive Eastern influence, grand civic and religious buildings now destroyed"
+        colorPalette: "Dominant fiery reds and oranges from blazes, contrasting with deep black of night, gray smoke clouds, bronze reflections from armor and weapons"
+        lighting: "Harsh, dramatic firelight creating sharp shadows and deforming familiar building shapes"
+        atmosphere: "Cacophony of battle sounds, screams, clashing weapons, collapsing structures, and roaring flames; air thick with smoke and smell of destruction"
+
+    - id: "carthage"
+      name: "Carthage"
+      description_block: |
+        setting:
+          location: "Phoenician city of Carthage in North Africa on Mediterranean coast, bustling construction site of new imperial capital"
+        mainElements: "Active quarries with workers cutting stone, masons shaping blocks and laying foundations, magnificent temple of Juno with bronze steps and doors, luxurious royal palace"
+        architecture: "Phoenician style mixing Middle Eastern and Mediterranean influences, featuring impressive civic and religious buildings"
+        colorPalette: "Warm yellows and beiges of fresh-cut sandstone and North African earth, deep blue of Mediterranean sky and sea, royal purple and gold of palace"
+        lighting: "Bright, optimistic African sunlight during day; warm torchlight and oil lamps illuminating palace interiors at night"
+        atmosphere: "Sounds of construction and prosperous city life, representing energy, ambition and civilized order after chaotic sea wandering"
+
+    - id: "underworld"
+      name: "Underworld Realms"
+      description_block: |
+        setting:
+          location: "Subterranean realm of the dead accessed through volcanic caves at Cumae, divided into distinct zones of afterlife"
+        mainElements: "Dark entrance vestibule with personified monsters, murky river Acheron with crowds of wailing souls, misty Fields of Mourning, fiery fortress of Tartarus, sunny groves of Elysium"
+        architecture: "Natural cave formations leading to supernatural constructed afterlife realms with distinct characteristics for each zone"
+        colorPalette: "Monochromatic darkness and grays in entrance, sickly greens in mourning fields, fiery reds in Tartarus, ethereal golden light in Elysium"
+        lighting: "Generally dark and shadowy with mist, punctuated by supernatural fire and ethereal divine light in blessed regions"
+        atmosphere: "Terrifying yet awe-inspiring, filled with laments of unpunished souls, sounds of eternal torment, and divine peace in blessed areas"
+
+    - id: "latium"
+      name: "Latium Countryside"
+      description_block: |
+        setting:
+          location: "Rustic pastoral landscape of central Italy along Tiber River, future site of Rome with primitive settlements on hills"
+        mainElements: "Dense ancient forests, fertile fields, muddy yellow-brown Tiber River, simple fortified hill towns like Pallanteum on Palatine Hill"
+        architecture: "Primitive Italian settlements with high roofs and towers, much less developed than Carthage, simple rural fortifications"
+        colorPalette: "Earth greens and browns of Italian landscape, yellow-brown muddy color of Tiber River, natural woodland tones"
+        lighting: "Natural diffused sunlight filtering through forest canopy"
+        atmosphere: "Sense of ancient, untamed nature mixed with pastoral tranquility, later brutally interrupted by sounds of warfare"
+
+  items:
+    - id: "aeneas_shield"
+      name: "Shield of Aeneas"
+      description_block: |
+        details: "Magnificent divine shield forged by Vulcan, crafted from gold, silver and bronze with intricate multi-figured scenes depicting future Roman history including battle of Actium at center, indescribable masterwork of divine craftsmanship that gleams with supernatural radiance"
+
+    - id: "golden_bough"
+      name: "Golden Bough"
+      description_block: |
+        details: "Sacred branch of gold growing on single tree in dark forest, glowing with supernatural light as key to underworld passage, delicate but possessing immense divine power, must be plucked by hero destined for underworld journey"
+
+    - id: "wooden_horse"
+      name: "Wooden Horse of Troy"
+      description_block: |
+        details: "Gigantic construction built from fir beams, mountainous in size, hollow interior concealing Greek warriors, appearing as religious offering but engineered as military deception, crafted to inspire both wonder and unease"
+
+    - id: "pallas_belt"
+      name: "Belt of Pallas"
+      description_block: |
+        details: "Ornate wide war-belt made of leather and decorated with metal plates, worn as trophy by Turnus after killing young Arcadian warrior Pallas, becomes visual trigger for Aeneas's final fury in climactic scene"
+
+    - id: "penates"
+      name: "Penates Household Gods"
+      description_block: |
+        details: "Small stylized figurines of protective household deities from Troy, carried by Aeneas throughout journey as symbol of civilizational continuity and divine protection, representing connection between past and future"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Shadows Lengthening - Light Fading from Once-Bright Spaces"
+  setting:
+    time: "1949, late afternoon moving toward evening"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "afternoon light fading, shadows growing longer inside house"
+  characters:
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "standing at kitchen window, hand resting on window frame"
+      action: "gazing out with deep concern, watching for someone who should have returned home"
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "sitting at table, chair turned away from family gathering spot"
+      action: "staring at his hands, shoulders tense with barely contained frustration and disappointment"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, natural light fading as day ends"
+    details: "Window showing view of enclosed yard and surrounding buildings. Long shadows stretching across kitchen floor as afternoon light fades. Third chair at table remains empty, suggesting absent family member whose delayed return causes growing concern."
+    background: "kitchen extending toward darkening living room, stairs leading to upper floor, cabinets and appliances becoming silhouetted as natural light diminishes"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, growing darkness reflecting increasing family anxiety"
+  composition:
+    cameraAngle: "medium shot from corner of kitchen, capturing both worried figures and growing shadows"
+    focus: "woman's vigil at window and man's withdrawn posture, both showing effects of family stress through body language"
+    depth: "foreground shows lengthening shadows across floor, middle ground captures two family members in separate worlds of worry, background reveals growing darkness throughout house"

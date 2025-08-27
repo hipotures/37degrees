@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1923 late summer, evening
+    location: Sorghum field during massive thunderstorm, Northeast Gaomi District
+    weather: Violent thunderstorm with multiple extreme weather elements
+  characters:
+  - appearance: Strong, muscular, lean man with gorilla-like physique, approximately 180cm tall, dark sun-weathered complexion
+      with sharp facial features intensified by harsh life, numerous scars from fights and battles across his torso and arms
+    clothing: Simple rough peasant trousers, often shirtless showing muscled torso when working (young man); worn Zhongshan
+      suit mixed with civilian and military garments, leather belt with holster for Mauser pistol (as commander)
+    position: Standing in center of sorghum field during storm
+    action: Experiencing overwhelming storm with all senses engaged
+  scene:
+    mainElements: Vast sorghum field transformed by massive thunderstorm into complete sensory experience
+    details: Lightning illuminating sorghum stalks with dramatic stroboscopic light suggesting thunder sound, heavy rain visible
+      as diagonal lines suggesting water taste and touch, wind bending plants in waves suggesting rushing air sounds, mud
+      forming underfoot suggesting earth scent and slippery texture, clothing soaked and clinging suggesting temperature and
+      wetness, hair whipped by wind suggesting movement and force, storm charged atmosphere visible as electrical energy in
+      air, overwhelming natural power engaging sight sound touch scent simultaneously, figure's expression showing awe at
+      complete sensory immersion, storm as ultimate synesthetic experience, no text or letters visible
+    background: Vast sorghum field extending endlessly, dramatic storm sky with lightning patterns
+    atmosphere: Ultimate sensory overwhelming experience, nature's power engaging all human senses simultaneously, primitive
+      elemental connection transcending individual sensory categories
+  composition:
+    cameraAngle: Wide dramatic shot emphasizing storm's overwhelming scale
+    focus: Figure experiencing complete sensory storm immersion
+    depth: Foreground shows immediate storm effects, middle ground reveals storm-battered figure, background displays storm's
+      vast scale
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

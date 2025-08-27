@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Light and Shadow - The True Craftsman Argument"
+  setting:
+    time: "375 BCE, late evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "half-lit by flickering fireplace creating dramatic chiaroscuro effect"
+      action: "leaning forward across table with surgical precision, arguing that true rulers serve their subjects"
+    - appearance: "large imposing man from Chalcedon, powerful build, intense eyes, strong jaw, commanding presence"
+      clothing: "expensive sophist robes with rich colors and ornate patterns, gold jewelry displaying success"
+      position: "face cast in deep shadow except for sliver of light across smiling mouth"
+      action: "responding with shepherd analogy - pastors care for sheep only to eventually eat them"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Dramatic fireplace lighting creating flickering masks on both faces, shadows dancing between opponents like philosophical spirits in combat, oil lamps providing secondary illumination"
+    background: "other guests barely visible in gathering darkness, leaning forward to catch every word"
+    atmosphere: "theatrical lighting emphasizing duality between idealistic philosophy and cynical realism"
+  composition:
+    cameraAngle: "close-up shot emphasizing dramatic chiaroscuro lighting on both faces"
+    focus: "interplay of light and shadow revealing hidden aspects of each philosophical position"
+    depth: "half-lit faces in intimate foreground, table barrier in middle ground, shadowed audience in background"

@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1944 present with 1917-1920 photographic memories manifesting as living presence
+    location: Family reception room where old photographs display past glory while present continues
+    weather: Evening interior lighting revealing temporal bleeding between photograph and reality
+  characters:
+  - appearance: 28-37 year old Egyptian teacher and writer, thin build, large head with prominent forehead, small deep-set
+      eyes, large nose, face showing melancholy and intellectual concentration
+    clothing: Conservative European-style suit, possibly with glasses
+    position: Thoughtful, reserved posture reflecting inner struggles
+    action: Examining old family photographs while ghostly figures from images emerge into present space
+  - appearance: Ghostly transparent figures from family photographs
+    clothing: 1917-1920 period dress appearing translucent
+    position: Emerging from photograph frames into three-dimensional present space
+    action: Historical family members stepping out of photographs to interact with present reality
+  scene:
+    mainElements: Family reception room walls decorated with formal photographs from family's golden period, images beginning
+      to manifest as three-dimensional ghostly presence
+    details: 'Temporal bleeding: Black and white photograph figures gaining color and dimension as they step into present
+      room, old furniture from photographs appearing ghostlike alongside current worn furniture. 1917 family celebration emerging
+      from frame to occupy same space as 1944 solitary figure. Photographic poses becoming animated while maintaining their
+      formal composition. Frame boundaries dissolving between past and present, no text or letters visible'
+    background: Same Persian Shiraz carpet and whitewashed walls now hosting both photographic memories and present reality
+      simultaneously
+    atmosphere: Supernatural temporal bleeding where memory becomes physical presence, past glory haunting diminished present,
+      nostalgic power of photographs to resurrect lost time
+  composition:
+    cameraAngle: Wide view showing photographs expanding into three-dimensional space
+    focus: Central interaction between present figure and emerging photographic ghosts
+    depth: 'Foreground: present furniture and current figure, middle ground: emerging photographic figures, background: wall
+      photographs serving as temporal portals'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Septimus's window - multiple angles of tragic moment"
+  setting:
+    time: "June 1923, early evening around 6:00 PM"
+    location: "Modest rented room showing window scene from street level, interior, and neighboring building"
+    weather: "Late afternoon light creating dramatic shadows across multiple viewpoints"
+  characters:
+    - appearance: "30-year-old man, pale-faced with prominent hooked nose identical to Clarissa's, hazel eyes filled with fear that affects even strangers, tense hawk-like posture suggesting constant alertness for danger, thin nervous frame"
+      clothing: "Worn shabby overcoat even in warm June weather, brown shoes, neglected appearance contrasting with other male characters, clothing reflecting his psychological isolation"
+      position: "At window in moment before leap"
+      action: "Final decisive movement toward window as escape route"
+    - appearance: "24-year-old beautiful Italian woman, milliner from Milan, face marked by worry for Septimus, hands often busy with work"
+      clothing: "Simple modest clothing possibly with touch of Italian style reflecting her profession and origins"
+      position: "In room behind Septimus, paralyzed with terror"
+      action: "Reaching helplessly toward her husband in final moment"
+  scene:
+    mainElements: "Same tragic moment shown from multiple revealing angles: street pedestrian viewpoint, interior room perspective, neighboring window across street, doctor's viewpoint from doorway"
+    details: "Multi-angle revelation of tragedy: from street showing falling figure and crowd gathering, from room interior showing Rezia's horror and doctor's shock, from neighboring building showing urban context of private tragedy, from below showing impact with iron railings, each viewpoint revealing different aspect of same decisive moment, no text or letters visible"
+    background: "London street architecture from multiple angles, pedestrians becoming witnesses from street level, neighboring windows with faces appearing, urban setting framing private tragedy"
+    atmosphere: "Objective recording of tragic moment from multiple spatial positions, each angle revealing different aspect of same irreversible event"
+  composition:
+    cameraAngle: "Multiple simultaneous viewpoints of same tragic moment - interior room, street level, neighboring building, overhead"
+    focus: "Septimus in final moment as seen from different physical positions revealing complete spatial reality"
+    depth: "Each viewpoint provides different foreground, middle ground, background relationships to same central tragic event"

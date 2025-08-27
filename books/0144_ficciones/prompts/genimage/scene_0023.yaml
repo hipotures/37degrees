@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Timeless mythical era, dawn after night of revelation
+    location: Ancient temple built in another circular ruin, twin to the original
+    weather: Clear dawn with morning mist rising from river
+  characters:
+  - appearance: Young man 18-20 years old, perfect physical proportions as imagined by dreamer, harmonious facial features,
+      idealized younger version of the magician, flawless skin, noble bearing
+    clothing: Simple white or saffron acolyte robes of temple servant
+    position: Standing before stone altar, flames dancing harmlessly around his body
+    action: Walking through fire without burning, finally understanding his true nature as dreamed being
+  scene:
+    mainElements: Temple fire burns around dreamed son but does not consume him, flames revealing rather than destroying truth
+      of his nature, fire serving as baptism into knowledge of his dreamed existence, circular stone architecture echoing
+      original temple where he was created
+    details: Fire transforms from test to revelation, flames that should destroy instead illuminate truth that son shares
+      nature of his creator. Divine fire completes cycle of creation by showing dreamed being his true nature. Son's immunity
+      to fire proves his existence beyond normal physical laws
+    background: Circular temple ruins similar to creator's original sanctuary, river flowing past stone foundations, jungle
+      growth around ancient walls, morning light filtering through mist
+    atmosphere: Completion of cosmic cycle through inheritance of divine nature, dawn light mixing with sacred fire, recognition
+      scene between creator and creation across distance, acceptance of dreamed reality as valid existence, no text or letters
+      visible
+  composition:
+    cameraAngle: Medium shot showing figure surrounded by harmless flames
+    focus: The son walking through fire that reveals rather than destroys truth
+    depth: Sacred flames in foreground, enlightened son in middle ground, circular temple architecture creating structural
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,95 @@
+sceneDescription:
+  setting:
+    time: 1974, night hours when past and present merge through memory
+    location: Clara's bedroom in Big House, serving as portal between different time periods
+    weather: still night air allowing sounds and visions from multiple decades to overlap
+  characters:
+  - appearance: woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features
+      with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor
+    clothing: simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable
+      garments that don't restrict movement
+    position: appearing as translucent spiritual presence throughout room, simultaneously young and old
+    action: moving through space as ghostly guide, touching objects and triggering memories across decades
+  - appearance: young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green
+      hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion
+    clothing: 1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting
+      political consciousness
+    position: sitting on Clara's bed surrounded by notebooks spanning fifty years
+    action: reading family history while experiencing visions of past events overlapping with present moment
+  - appearance: man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face
+      deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom
+    clothing: elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline
+    position: seated in corner chair witnessing ghostly replay of family history
+    action: observing transparent figures from past moving through room in temporal layers, experiencing lifetime of memories
+      simultaneously
+  scene:
+    mainElements: bedroom becomes temporal nexus where all family history converges - multiple transparent figures from different
+      decades occupy same space simultaneously, furniture and objects show multiple time periods overlapping, Clara's spirit
+      orchestrating reunion of past and present
+    details: room contains layered temporal artifacts - notebooks from 1920s alongside political pamphlets from 1970s, Victorian
+      furniture coexisting with modern revolutionary materials, mirror reflecting faces from multiple generations simultaneously,
+      no text or letters visible
+    background: windows show multiple time periods overlapping - peaceful 1920s gardens blending with 1970s military patrols,
+      room architecture shifts between different decorating periods, sounds mix Clara's bird songs with Alba's political radio
+    atmosphere: mystical convergence of family timeline, spiritual energy allowing past and present to coexist, healing power
+      of complete memory integration, Clara's ghost facilitating understanding between generations
+  composition:
+    cameraAngle: ethereal interior view emphasizing supernatural temporal convergence
+    focus: central attention on Clara's spirit guiding family memory integration
+    depth: foreground shows layered temporal objects, middle ground captures multiple translucent figures across time, background
+      reveals shifting temporal environments
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

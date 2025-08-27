@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 1660s France, late afternoon
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: stormy afternoon with dramatic lighting through windows
+  characters:
+  - appearance: impetuous young man aged twenty, athletic build, angular face with strong jaw, thick dark hair under fashionable
+      shorter periwig, eyes that flash with anger or indignation
+    clothing: fashionable burgundy velvet justaucorps worn with youthful casualness, white linen shirt partially unlaced,
+      buff-colored leather sword belt with ornate rapier, riding boots instead of court shoes
+    position: bursting from concealment with violent energy, advancing on Tartuffe with murderous intent
+    action: pointing accusingly at Tartuffe while shouting denunciations, hand instinctively moving toward sword hilt, face
+      contorted with righteous fury
+  - appearance: man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair
+      under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire
+    clothing: plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather
+      shoes, large wooden rosary beads hanging from belt, carries small prayer book
+    position: recoiling from Elmire in shock at being discovered, quickly calculating new strategy
+    action: rising from chair with expression of surprise rapidly transforming into cunning calculation as he prepares counter-attack
+  - appearance: elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive
+      dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments
+    clothing: fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with
+      silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan
+    position: standing quickly and smoothing her dress, caught between relief at rescue and concern for consequences
+    action: attempting to calm Damis while straightening her appearance, fan held defensively as she tries to manage the explosive
+      situation
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, furniture
+      knocked askew by sudden violent confrontation
+    details: storm clouds outside creating dramatic lighting that matches emotional tempest inside, overturned chair marking
+      where Tartuffe had been sitting too close to Elmire, religious artifacts seeming to judge the exposure of sin
+    background: doorways through which other family members will soon arrive drawn by shouting, family portraits witnessing
+      domestic explosion, shadows dancing wildly in storm light
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, explosive revelation shattering careful deceptions
+      and unleashing violent confrontation
+  composition:
+    cameraAngle: dynamic wide shot capturing the violent energy of exposure and confrontation
+    focus: Damis's eruption of righteous anger demolishing Tartuffe's careful facade while Elmire tries to control dangerous
+      situation
+    depth: foreground dominated by physical confrontation, middle ground showing disrupted luxury, background suggesting storm
+      both literal and metaphorical
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

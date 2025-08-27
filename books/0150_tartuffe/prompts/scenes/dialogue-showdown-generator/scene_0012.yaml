@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Deed of Gift - Patrimony Surrendered to a Fraud"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "clear evening with candlelight beginning to dominate natural light"
+  characters:
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "seated at writing desk with document spread before him, quill pen in hand"
+      action: "signing deed of gift with dramatic flourishes while declaring his generosity to wronged saint, eyes shining with fanatic conviction"
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "standing beside Orgon's chair affecting humble reluctance"
+      action: "protesting weakly that he cannot accept such generosity while eyes gleam with triumph at acquiring entire estate through manipulation"
+    - appearance: "distinguished gentleman in his late forties, tall lean build, thoughtful oval face with intelligent eyes, neatly groomed appearance, wearing fashionable auburn periwig with careful curls"
+      clothing: "well-tailored steel blue silk justaucorps with silver embroidery, ivory silk waistcoat, white linen shirt with fine lace cravat, matching silk breeches, white silk stockings, polished shoes with decorative buckles"
+      position: "standing near doorway watching the transaction with horrified fascination"
+      action: "pressing hand to forehead in gesture of despair as he witnesses rational man's complete surrender to fanatical delusion"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, writing desk with legal documents, ink well, and quill pen, rolled parchment scrolls tied with red ribbon"
+    details: "candlelight flickering across legal documents that transfer generations of family wealth to con artist, wax seal and red ribbon ready to make fraud official, expensive furnishings soon to belong to false saint"
+    background: "luxury that will soon change ownership, family portraits of ancestors who built this wealth watching their descendant destroy their legacy"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, tragic sense of patrimony being squandered on elaborate deception"
+  composition:
+    cameraAngle: "close shot focusing on the document signing and the three men's contrasting reactions"
+    focus: "Orgon's pen stroke that destroys his family's future contrasted with Tartuffe's hidden glee and Cléante's rational horror"
+    depth: "foreground showing legal transfer of wealth, middle ground revealing luxury being signed away, background suggesting family legacy being betrayed"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Heavy Blanket of Chemical Fog Pressing Down"
+  setting:
+    time: "1962 early morning, dawn"
+    location: "Suburban neighborhood during municipal pesticide fogging operation, residential street lined with family homes"
+    weather: "Calm morning air allowing chemical fog to settle heavily"
+  characters:
+    - appearance: "Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism, age varying by scene context"
+      clothing: "Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business attire, children in simple play clothes"
+      position: "Standing on front porch, inadvertently experiencing chemical fog pressure"
+      action: "Stepping outside for morning routine, unaware of invisible chemical weight surrounding them"
+  scene:
+    mainElements: "Dense white chemical fog settling over suburban neighborhood like heavy invisible blanket, residents moving through pesticide cloud without realizing its toxic weight, fog creating oppressive atmosphere that seems to press down on everything beneath"
+    details: "Thick DDT fog dispersed from municipal truck creating visible white haze throughout neighborhood, chemical mist clinging to house surfaces and vegetation, residents' clothing becoming saturated with invisible pesticide residue, oppressive feeling of chemical atmosphere pressing against human skin, fog settling into low areas and remaining trapped in morning calm, children playing in contaminated air without understanding danger"
+    background: "Archetypal small American town in heartland, white clapboard houses with front porches, red gambrel-roofed barns, manicured gardens, tree-lined streets representing American dream of harmony with nature"
+    atmosphere: "False sense of municipal care and protection masking dangerous exposure, invisible chemical pressure surrounding unaware community, deceptive appearance of helpful public health measure, no text or letters visible"
+  composition:
+    cameraAngle: "Eye-level view showing human figures within chemical fog environment"
+    focus: "Interaction between residents and invisible chemical pressure surrounding them"
+    depth: "Foreground shows residents in fog, middle ground reveals neighborhood context, background suggests broader community exposure"

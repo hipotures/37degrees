@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Early 16th century, late afternoon
+    location: Fortified city walls and watchtowers of Italian city-state with view over surrounding territory
+    weather: Golden hour lighting casting long shadows
+  characters:
+  - appearance: Guards and sentries positioned at strategic points throughout fortifications
+    clothing: Military uniforms with heraldic symbols, functional armor and weapons
+    position: Posted at regular intervals along walls and towers
+    action: Maintaining vigilant watch over city and countryside, recording observations in ledgers
+  scene:
+    mainElements: Complex system of watchtowers connected by walls with clear sight lines. Signal fires and banner systems
+      for communication. Strategic positioning overlooking all approaches to city.
+    details: Written logs and records of citizen movement. Signal mirrors and fire beacons for long-distance communication.
+      Maps marking territories and boundaries. Weapons positioned for both external threats and internal control.
+    background: Countryside with villages and roads all visible from elevated positions. Other city-states visible in distance,
+      each with their own defensive systems.
+    atmosphere: Systematic observation and control of population and territory. Technology serving power maintenance rather
+      than citizen welfare.
+  composition:
+    cameraAngle: Dramatic high angle showing scope of surveillance network
+    focus: Interconnected system of observation points creating web of control
+    depth: Foreground shows detailed guard posts, middle ground reveals wall system, background displays territory under observation
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

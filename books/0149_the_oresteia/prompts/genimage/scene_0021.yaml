@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, early evening
+    location: Palace entrance with massive bronze-reinforced doors creating architectural frame
+    weather: Evening light creating dramatic contrast between exterior brightness and interior darkness
+  characters:
+  - appearance: Man in prime of life aged 45-50 years hardened by ten years of war, tall powerfully built warrior physique,
+      muscular body bearing traces of lengthy hardships with visible scars on hands or face, movements heavier than in youth,
+      dark thick hair and beard cut short in mycenaean warrior style, hair and beard streaked with gray showing age and experiences,
+      eyes with stern commanding gaze accustomed to evaluating battlefield and giving orders, sun-weathered face with sharp
+      almost statuesque features showing arrogance of victor and deep fatigue, hubris and masculine pride visible in bearing
+    clothing: Victorious commander's full regalia shining bronze armor over short linen chiton, bronze helmet removed upon
+      arrival, bronze greaves and leather sandals, bronze sword at side, after palace entry persuaded by Clytemnestra treads
+      on purple textiles act of divine hubris, final garment flowing perhaps white bathing robe that becomes deadly net in
+      Clytemnestra's hands
+    position: Silhouetted figure framed perfectly by massive doorway, stepping from light into darkness
+    action: King of men returning triumphant from ten-year Troy siege, war commander who sacrificed daughter Iphigenia for
+      favorable winds, expects glory and confirmation of power in Argos, brings Cassandra as war prize and concubine
+  scene:
+    mainElements: Massive bronze-reinforced palace doors creating perfect rectangular frame around entering figure, purple
+      textiles beneath feet creating pathway into darkness, interior shadows contrasting with exterior light
+    details: Bronze door fittings reflecting evening light, carved architectural details in doorframe, purple textiles creating
+      visual pathway from light to darkness, shadows of interior suggesting hidden dangers, threshold stones worn smooth by
+      generations
+    background: Palace interior extending into mysterious darkness, hints of central hearth and columns visible in deep shadows,
+      architectural depth suggesting labyrinthine interior spaces
+    atmosphere: Fatal threshold moment as victim enters trap, symbolic passage from light of victory into darkness of death,
+      architectural framing emphasizing inevitability and entrapment, dramatic irony of triumph becoming doom
+  composition:
+    cameraAngle: Natural frame using doorway to contain and emphasize subject
+    focus: Silhouetted figure framed by doorway architecture creating symbolic containment
+    depth: Foreground shows doorframe and threshold details, middle ground captures framed figure on purple path, background
+      extends into dark palace interior suggesting approaching fate, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

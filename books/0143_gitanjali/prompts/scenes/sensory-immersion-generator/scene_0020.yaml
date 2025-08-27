@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Feast of Flavors - Complex Sacred Banquet"
+  setting:
+    time: "1910, evening during village festival celebration"
+    location: "Community feast area under large Banyan tree, rural Bengal, British Colonial India"
+    weather: "Clear evening with no wind, perfect for carrying food aromas"
+  characters:
+    - appearance: "Multiple village feast preparers of various ages working with different dishes"
+      clothing: "Festival clothing - colorful sari for women, clean dhoti for men"
+      position: "Arranged around cooking fires preparing various dishes simultaneously"
+      action: "Creating multiple dishes with steam, spices, and cooking processes creating visual flavor complexity"
+    - appearance: "Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone, ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha."
+      clothing: "Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny. Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni związek z ziemią."
+      position: "Standing among feast preparation observing complex flavor symphony"
+      action: "Experiencing overwhelming sensory complexity of multiple cooking processes while appreciating community's offering"
+  scene:
+    mainElements: "Multiple cooking fires with different dishes creating layered steam patterns, spice clouds, and aromatic complexity while various food colors and textures suggest complete flavor spectrum from sweet to spicy to bitter"
+    details: "Feast preparation shows incredible variety - rice steaming creates white vapor clouds while curry spices create yellow turmeric dust and red chili powder particles visible in air. Sweet dishes show golden palm jaggery crystallization while bitter greens release dark green cooking liquids. Fermented foods show bubbling activity suggesting tangy, sour flavors. Different cooking vessels contain various colored contents - white rice, golden dal, red tomato-based curries, green vegetable preparations creating visual flavor palette. Steam from different pots mingles creating complex aromatic combinations visible as differently colored vapor patterns. Spice grinding creates particle clouds of various colors - yellow turmeric, red chili, brown coriander. Coconut grating creates white aromatic shavings. Oil heating shows different viscosities and colors suggesting varied cooking methods and flavor intensity. Festival participants show expressions of anticipation while sampling different dishes. No text or letters visible."
+    background: "Village feast setting with multiple cooking stations creating comprehensive aromatic environment under protective Banyan tree"
+    atmosphere: "Sacred community feast where complete flavor spectrum becomes visible through diverse cooking processes representing life's full sensory experience"
+  composition:
+    cameraAngle: "Wide shot showing multiple cooking processes with different colored steams and spice particles"
+    focus: "Overlapping aromatic clouds and varied food colors that visualize complete flavor complexity from multiple dishes"
+    depth: "Foreground: detailed spice particles and steam patterns. Middle: multiple cooking activities. Background: community gathering under Banyan tree"

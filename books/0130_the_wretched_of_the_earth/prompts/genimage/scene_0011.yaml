@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, dawn
+    location: Large colonial agricultural estate with mechanized farming operations
+    weather: Early morning mist over fields
+  characters:
+  - appearance: Weather-beaten Algerian man in his 40s-50s, deep furrows on sun-scorched face, large calloused hands from
+      agricultural work, dignified despite hardship
+    clothing: Simple work clothes, patched trousers, worn shirts, basic head covering
+    position: Moving in synchronized lines across fields
+    action: Harvesting crops with repetitive mechanical movements, bodies bent in identical postures, working without pause
+  scene:
+    mainElements: Rows of Algerian workers moving across vast agricultural fields like human machines, synchronized in their
+      labor, supervised by European overseers
+    details: Workers bent at identical angles, moving in perfect synchronization across crop rows, mechanical precision in
+      human movement, European supervisors on horseback with stopwatches timing work pace, quota boards marking daily targets,
+      workers' faces expressionless from exhaustion, tools moving in rhythmic unison
+    background: Endless agricultural fields stretching to horizon, colonial estate buildings in distance, geometric organization
+      of plantation agriculture
+    atmosphere: Dehumanization of labor through mechanistic organization, human beings reduced to cogs in colonial economic
+      machine
+  composition:
+    cameraAngle: Aerial view showing repetitive patterns of human labor
+    focus: Synchronized worker movement creating machine-like human patterns
+    depth: Working figures in geometric formation across entire frame, estate buildings as distant backdrop
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1924 autumn, evening
+    location: Wine storage cellar beneath Shan distillery, Northeast Gaomi District
+    weather: Cool underground environment, insulated from surface weather
+  characters:
+  - appearance: Elderly man over 50 years old with face lined with deep wrinkles from hard labor, weathered hands bearing
+      calluses from decades of physical work, appearance of experienced hardworking peasant who has spent lifetime in fields
+      and distillery
+    clothing: Rough work clothes made from coarse thick canvas cloth, simple practical garments suited for heavy labor in
+      distillery
+    position: Bent over large clay wine vats, shoulders bearing weight
+    action: Struggling under massive ceramic vessel filled with fermenting sorghum wine
+  scene:
+    mainElements: Large earthenware vessels used in distillery for fermentation and aging of sorghum wine, represents cycle
+      of life, fermentation, transformation of raw material into life-giving spirit, traditional ceramic craftsmanship in
+      earth tones
+    details: Enormous clay vessels weighing down wooden supports, worker's back curved under invisible pressure of responsibility,
+      muscles straining against ceramic weight, thick liquid inside vats adding gravitational pull, sweat forming from physical
+      exertion, wooden beams creaking under distributed load, earthy smell of fermentation adding sensory weight, thick atmosphere
+      pressing down like blanket, no text or letters visible
+    background: Underground stone walls, rows of massive ceramic vessels, primitive distillation equipment
+    atmosphere: Physical weight of tradition and craftsmanship, pressure of responsibility for community's spiritual sustenance,
+      gravity of preserving ancient techniques
+  composition:
+    cameraAngle: Low angle emphasizing weight and burden
+    focus: Curved spine and strained muscles showing physical pressure
+    depth: Foreground shows laboring figure, middle ground reveals heavy vessels, background suggests underground chamber
+      depth
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

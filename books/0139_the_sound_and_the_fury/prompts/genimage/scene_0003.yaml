@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1895 childhood overlapping with 1928 adulthood
+    location: Shallow flowing water with muddy banks, surrounding trees and vegetation, stones for sitting or playing
+    weather: Gentle spring day with dappled sunlight through trees consistent across thirty-three years
+  characters:
+  - appearance: Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless
+      form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and
+      drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive
+      feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless
+    clothing: Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit
+      his large frame
+    position: Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements
+    action: Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed
+  scene:
+    mainElements: 'Multiple exposure showing same creek location with temporal overlay: three-year-old Benjy''s small pudgy
+      hands reaching toward water surface superimposed with his thirty-three-year-old massive adult hands in identical gesture
+      at same spot'
+    details: 'Triple temporal exposure at stream edge: leftmost layer shows chubby toddler hands with smooth skin reaching
+      for minnows in shallow water; center layer reveals adolescent hands slightly larger and more defined but retaining innocence;
+      rightmost layer displays adult male hands, unnaturally large and pale, reaching toward same water with identical childlike
+      wonder. Stream bed shows accumulation of decades - more worn stones, deeper channel carved by years of flow, tree roots
+      more exposed, but child''s perspective remains unchanged. Same broken narcissus flower appears in all three temporal
+      layers no text or letters visible'
+    background: Identical tree canopy and creek environment showing natural aging - tree trunks thicker, some branches fallen,
+      new growth, seasonal debris accumulated over decades
+    atmosphere: Poignant temporal compression showing how mental disability freezes internal development while physical form
+      ages around eternal innocent mind
+  composition:
+    cameraAngle: Low angle close-up focused on hands reaching toward water
+    focus: Triple-exposed hands at different life stages making identical gesture toward stream
+    depth: 'Foreground: creek water surface reflecting multiple temporal layers of hands; middle ground: stream bank where
+      figure kneels unchanged through decades; background: aging natural environment witnessing eternal innocence'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Papal Propaganda - Divine Authority Manifest"
+  setting:
+    time: "Early 16th century, afternoon"
+    location: "Papal apartments within Vatican complex in Rome, center of Catholic Church and secular papal power. Labyrinth of courtyards, corridors and apartments constantly expanded and decorated by greatest artists of the era."
+    weather: "Bright Mediterranean sunlight"
+  characters:
+    - appearance: "Middle-aged papal figure in ceremonial robes, surrounded by cardinals and courtiers"
+      clothing: "Elaborate papal vestments with gold thread, jeweled mitre, sacred symbols"
+      position: "Elevated on throne-like chair, positioned above gathered officials"
+      action: "Blessing gathered officials while reviewing territorial conquest maps"
+  scene:
+    mainElements: "Massive construction site of new St. Peter's Basilica with Bramante's design inspired by imperial Roman buildings. Interior chambers gleaming with gold mosaics, polished marble, vivid colors of Raphael's frescoes in Papal Apartments and Michelangelo's Sistine Chapel ceiling."
+    details: "Sacred artifacts mixed with political maps and military plans. Papal bull documents with territorial claims. Miniature armies positioned on strategic boards. Religious symbols serving dual purpose as power markers."
+    background: "Center of immense wealth, spiritual and secular power, intrigue. Air thick with incense scent, melted candle wax, construction dust. Sounds mixing Gregorian chant from chapels, stonemason hammers, whispered conspiracies of cardinals in richly decorated halls."
+    atmosphere: "Overwhelming display of wealth and power masquerading as divine authority. Sacred and secular ambitions intertwined."
+  composition:
+    cameraAngle: "Low angle shot emphasizing papal elevation and authority"
+    focus: "Papal figure as fusion of spiritual and temporal power"
+    depth: "Foreground shows kneeling officials, middle ground centers on papal throne, background reveals frescoed walls depicting divine scenes alongside political victories"

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1949, late evening during rainstorm
+    location: small yard behind Loman house, surrounded by towering apartment buildings, soil poor and shaded, representing
+      failed dreams of growth and prosperity
+    weather: heavy rain falling, dark storm clouds, wind whipping through enclosed space
+  characters:
+  - appearance: 63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked
+      by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation
+    clothing: worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing
+      signs of constant travel, suit wrinkled from carrying heavy sample cases
+    position: kneeling in muddy yard, hunched over patches of bare earth
+    action: desperately trying to plant seeds in rain-soaked soil with bare hands, suit becoming soaked and muddy
+  scene:
+    mainElements: small patches of bare earth where grass struggles to grow, makeshift garden area, clotheslines, area overshadowed
+      by surrounding buildings, man working frantically in impossible conditions
+    details: small paper packets of vegetable seeds with simple printed labels, representing final desperate attempt to plant
+      something lasting and meaningful, symbols of hope and growth in hostile environment. Rain turning packets to pulp and
+      washing away seeds. Mud clinging to hands and knees of desperate gardener.
+    background: towering apartment buildings creating canyon walls, rain streaming down windows of neighboring buildings like
+      tears, urban environment completely hostile to natural growth
+    atmosphere: enclosed and stifled outdoor space where natural growth is nearly impossible, symbolic of crushed dreams and
+      limited possibilities, storm representing internal emotional chaos and desperation
+  composition:
+    cameraAngle: low angle from muddy ground, emphasizing man's desperate struggle against impossible odds
+    focus: rain-soaked figure clinging to last hope of growing something meaningful, hands covered in mud and determination
+    depth: foreground shows muddy soil and ruined seed packets, middle ground captures man's futile struggle against nature
+      and circumstance, background reveals oppressive urban canyon walls streaming with rain
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

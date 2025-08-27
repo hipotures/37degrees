@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: Late Bronze Age Mycenaean Greece, dawn breaking
+    location: Distant mountain peak visible from Argos palace, relay point in signal fire chain stretching from Troy to Greece
+    weather: Clear dawn sky transitioning from deep blue to golden light of sunrise
+  characters: No characters present in this scene
+  scene:
+    mainElements: Towering mountain peak silhouetted against dawn sky, massive bonfire blazing at summit sending thick column
+      of smoke skyward, rugged rocky terrain and pine forests on mountainsides
+    details: Orange and red flames leaping high from carefully constructed signal pyre, dense black smoke column visible for
+      miles, scattered pine trees on rocky slopes, eagles or vultures circling in thermal currents, morning mist clinging
+      to valleys below fire's bright beacon
+    background: Endless mountain ranges extending to horizon, valleys filled with morning mist, distant view toward Troy's
+      direction, clear sky gradually brightening with approaching dawn
+    atmosphere: Momentous historical significance as news travels across ancient world, triumph and finality of ten-year siege
+      ending, vast scale of communication network spanning continents, primitive yet effective technology connecting distant
+      lands
+  composition:
+    cameraAngle: Extreme wide shot emphasizing vast geographic scale and isolation
+    focus: Brilliant fire beacon as central point of attention against dark mountain silhouette
+    depth: Foreground shows near mountain slopes and pine forests, middle ground features blazing signal fire on peak, background
+      extends to infinite mountain ranges and dawn sky, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earth ochre
+    - ultramarine blue
+    - burnt sienna
+    secondary:
+    - white lime
+    - red oxide
+    - green earth
+    background: architectural wall surfaces or classical settings
+    usageNotes: Earth pigments and mineral colors suitable for lime plaster
+    saturation: medium (natural mineral pigments)
+    contrast: medium (soft transitions)
+  lineArt:
+    style: classical drawing integrated with painting
+    weight: consistent, classical proportions
+    color: earth tone outlines
+    texture: smooth plaster surface
+    edgeTreatment: soft, integrated edges
+  lighting:
+    type: classical modeling with soft transitions
+    direction: consistent classical light source
+    intensity: moderate, classical
+    shadows:
+      style: soft, classical modeling
+      color: earth tone shadows
+      opacity: subtle, integrated
+    highlights: soft, classical highlights
+  rendering:
+    technique: classical fresco buono on wet plaster
+    texture: smooth plaster with slight granularity
+    detailLevel: classical detail level
+    finish: completely matte, integrated with wall
+  perspective: classical linear perspective
+  mood:
+    overall: classical, permanent, architectural
+    emotion: grandeur, permanence, classical beauty
+    tempo: timeless, enduring
+    keywords:
+    - classical
+    - permanent
+    - architectural
+    - timeless
+    - monumental
+  stylePrecedents:
+  - Michelangelo Sistine Chapel
+  - Pompeii wall paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

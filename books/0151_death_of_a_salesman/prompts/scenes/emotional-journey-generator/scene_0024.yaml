@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Different Expressions - Changed Faces in Familiar Setting"
+  setting:
+    time: "1949, evening weeks later"
+    location: "central room of Loman house, practical working kitchen with worn furniture showing years of family life and financial struggle"
+    weather: "calm evening with natural light"
+  characters:
+    - appearance: "34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness"
+      clothing: "work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple dark suit that seems uncomfortable on him"
+      position: "sitting at kitchen table in father's former chair"
+      action: "reading official papers with serious concentration, taking on responsibilities previously avoided"
+    - appearance: "approximately 60 years old, slender woman with graying hair pulled back simply, face showing patience mixed with deep worry, lines around eyes from years of concern, gentle but tired expression"
+      clothing: "modest floral print housedress, simple apron when working, cardigan sweater, practical low-heeled shoes, clothing clean but showing wear from careful mending"
+      position: "standing at kitchen counter preparing simple meal"
+      action: "moving with more purpose and less anxiety than before, finding new strength in changed circumstances"
+  scene:
+    mainElements: "wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen living room, stairs leading to bedrooms upstairs, familiar space with subtle changes"
+    details: "Official documents on table suggesting insurance settlement or estate matters. Third chair pushed under table, no longer waiting for absent family member. Same kitchen but atmosphere fundamentally changed by loss and new responsibilities."
+    background: "kitchen extending to living room, stairs leading to upper floor, domestic appliances continuing normal functions, familiar setting with new emotional dynamic"
+    atmosphere: "heart of family life but tinged with tension and unspoken worries, warm domestic lighting mixed with shadows of conflict, different kind of calm reflecting permanent change rather than temporary peace"
+  composition:
+    cameraAngle: "medium shot showing familiar space with altered family dynamics"
+    focus: "two family members adapting to new roles and responsibilities in changed family structure"
+    depth: "foreground shows official papers and evidence of new responsibilities, middle ground captures family members with different expressions and energy, background reveals same domestic setting with fundamentally altered emotional atmosphere"

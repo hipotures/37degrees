@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Timeless allegory, stormy conditions
+    location: Riverbank during catastrophic flood representing uncontrollable forces
+    weather: Violent storm with destructive flooding
+  characters:
+  - appearance: Human figures representing those affected by fortune's power
+    clothing: Clothing torn and damaged by flood waters
+    position: Struggling against overwhelming natural forces
+    action: Some building defensive works, others being swept away by forces beyond their control
+  scene:
+    mainElements: Raging river destroying everything in its path, representing fortune's destructive power. Some areas protected
+      by previously built dikes and channels, others completely vulnerable to flood's devastation.
+    details: Visual contrast between areas protected by foresight (virtù) and those left defenseless. Human engineering attempting
+      to control natural forces with mixed success.
+    background: Landscape shaped by both destructive natural forces and human attempts to channel and control them.
+    atmosphere: Machiavelli's teaching that fortune can be partially controlled through preparation and virtù, but never completely
+      dominated.
+  composition:
+    cameraAngle: Wide shot showing scale of natural forces versus human agency
+    focus: Visual metaphor for relationship between fortune and human preparedness
+    depth: Foreground shows flood destruction, middle ground reveals human defensive efforts, background displays areas successfully
+      protected by advance planning
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

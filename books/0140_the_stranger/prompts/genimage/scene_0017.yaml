@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, early afternoon
+    location: Isolated Mediterranean coastline with rocky outcroppings near coastal village in French colonial Algeria
+    weather: Intensely hot with no breeze, oppressive Mediterranean heat
+  characters:
+  - appearance: Young man aged 20-30 years, face often in shadow or seen from distance, lean build
+    clothing: Blue worker's coveralls, simple clothing suitable for manual labor
+    position: Sitting or lying in shade of large rock, often motionless
+    action: Remaining still, occasionally reaching for knife, mostly observed from afar
+  scene:
+    mainElements: Neutral documentation of beach encounter without emotional interpretation, showing actual physical positions,
+      real distances between figures, objective lighting conditions
+    details: Arab man positioned in natural shade for practical relief from heat, knife as standard working tool for daily
+      tasks, actual rock formation providing logical shelter, measured distances between figures showing real spatial relationships.
+      No mystical or symbolic lighting effects.
+    background: Mediterranean coastline showing geological features without emotional significance, village buildings at realistic
+      distance, natural sound environment of waves and insects
+    atmosphere: Factual record of physical encounter between people in oppressive heat, documenting actual environmental conditions
+      affecting human behavior
+  composition:
+    cameraAngle: Neutral wide shot showing actual spatial relationships and environmental conditions
+    focus: Physical positions and environmental factors creating situation without emotional interpretation
+    depth: Foreground shows beach terrain with accurate scale, middle ground shows human figures at true distances, background
+      shows actual landscape proportions, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

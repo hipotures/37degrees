@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Justice vs Injustice - Same Verdict, Opposing Views"
+  setting:
+    time: "1940, late afternoon"
+    location: "French colonial justice building in Algiers with packed courtroom during verdict announcement"
+    weather: "Hot stuffy afternoon with tension building in overcrowded courtroom"
+  characters:
+    - appearance: "Divided courtroom audience representing different communities and interpretations of justice"
+      clothing: "Mixed formal attire showing social hierarchy and cultural divisions within colonial society"
+      position: "Separated by invisible social boundaries despite sharing same physical space"
+      action: "Reacting to same verdict with opposing emotions - satisfaction vs outrage, victory vs injustice"
+  scene:
+    mainElements: "Same legal verdict interpreted as triumph of justice by European colonists and as example of colonial injustice by Arab community and sympathizers"
+    details: "European observers nodding with satisfaction at guilty verdict, viewing it as proper punishment for criminal behavior, while Arab observers and some Europeans seeing same verdict as proof of colonial legal system's racism and inequality. Same judge, same words, opposing reactions."
+    background: "Colonial courthouse architecture representing legal system that serves different communities unequally, formal setting hosting fundamentally divided interpretations"
+    atmosphere: "Single moment of legal judgment creating opposing reactions based on community membership, showing how same system appears as justice to some and oppression to others"
+  composition:
+    cameraAngle: "Wide shot showing divided courtroom reactions to same verdict announcement"
+    focus: "Opposing community reactions to identical legal pronouncement showing split reality of colonial justice"
+    depth: "Foreground shows divided audience reactions, middle ground shows judge delivering verdict, background shows colonial courtroom architecture, no text or letters visible"

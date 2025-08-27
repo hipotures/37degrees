@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Eternal present containing all possible times
+    location: Circular library reading room that exists in all periods simultaneously
+    weather: Timeless illumination that is neither natural nor artificial
+  characters:
+  - appearance: Argentinian intellectual in his early 40s, medium height, slender build slightly stooped from years of reading,
+      thin face with sharp intellectual features, dark penetrating eyes behind round wire-rimmed spectacles, dark hair neatly
+      combed back
+    clothing: Conservative dark wool suit of 1940s Buenos Aires intellectual, crisp white shirt, subdued tie, well-maintained
+      but not fashionable attire reflecting focus on ideas rather than appearance
+    position: Seated at circular table surrounded by all the books from every story
+    action: Opening final book that contains the story of reading this very book, completing infinite literary circle
+  scene:
+    mainElements: Perfect circular reading room contains every book from every story in Ficciones collection, yellow-bound
+      encyclopedia of Tlön, identical volumes from Babel Library, gaucho chronicles, Chinese time theories, Irish revolutionary
+      accounts, all stories converging in single space
+    details: Circle transforms from simple geometry into symbol of eternal return and infinite literature, every story leading
+      back to act of reading stories, reader becoming character in story he is reading. Final book opens to reveal first page
+      of Ficciones, suggesting all literature exists in eternal cycle of creation and consumption
+    background: Circular bookshelves extending upward beyond sight, containing every book that has been or could be written,
+      soft eternal light emanating from books themselves, architecture suggesting both Babel Library and Buenos Aires municipal
+      library
+    atmosphere: Serene completion of literary journey through return to beginning, gentle illumination suggesting divine presence
+      in literature, perfect silence of space where all stories coexist, eternal moment where reading and writing become single
+      act, no text or letters visible
+  composition:
+    cameraAngle: High angle shot from above showing circular symmetry of scene
+    focus: The open book that completes the infinite circle of stories
+    depth: Open final book in foreground, seated reader in middle ground, infinite circular library extending upward and outward
+      into background representing all possible literature
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

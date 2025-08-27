@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Nervous Gestures - Doubt Creeps In"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "seated on edge of couch, posture less confident"
+      action: "nervously adjusting his himation and fidgeting with wine cup as Socratic method exposes flaws"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "leaning back slightly with knowing expression"
+      action: "maintaining steady gaze while systematically questioning how to identify true friends versus enemies"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Polemarch's hands trembling slightly while holding wine cup, lamplight revealing sweat on brow despite cool evening, other guests beginning to sense philosophical ground shifting"
+    background: "shadows seeming to grow longer as confidence in simple answers diminishes"
+    atmosphere: "growing unease as apparent certainties crumble under philosophical examination"
+  composition:
+    cameraAngle: "close-up on nervous gestures and averted gaze"
+    focus: "fidgeting hands and uncertain body language revealing internal doubt"
+    depth: "nervous details in sharp focus foreground, steady philosopher in middle ground, concerned observers in background"

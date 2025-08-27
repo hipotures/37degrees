@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1911, evening
+    location: Public drinking establishment in Weizhuang, center of male social interaction and gossip
+    weather: Dim twilight requiring oil lamp illumination
+  characters:
+  - appearance: Various villagers in work clothes, some drinking, others listening intently
+    clothing: Simple indigo-dyed cotton garments, showing wear from daily labor
+    position: Clustered around rough wooden tables in shadowy corners
+    action: Speaking in hushed tones, frequently glancing toward door and windows, cutting conversations short when footsteps
+      approach
+  - appearance: Tavern keeper with alert, watchful expression
+    clothing: Stained apron over simple shirt and pants
+    position: Behind counter, positioned to observe all conversations
+    action: Wiping cups while straining to overhear conversations, occasionally moving closer to specific groups
+  scene:
+    mainElements: Thick air from smoke, alcohol smell and sweat. Dim lighting from street entrance creates shadows in back.
+      Multiple oil lamps casting flickering light and dancing shadows
+    details: Ears turned toward conversations, meaningful glances exchanged between patrons, abrupt silence when strangers
+      enter. Paper talismans and official notices pasted on walls serve as reminders of authority even in this social space
+    background: Open front allows view of street where occasional official or constable passes by, causing visible tension
+      among drinkers
+    atmosphere: Paranoid social environment where friendship is dangerous and trust is luxury. Even in their gathering place,
+      villagers cannot escape the feeling of being monitored. Self-censorship has become so internalized it operates automatically
+  composition:
+    cameraAngle: Interior view capturing the web of suspicious glances and strained conversations
+    focus: The network of watching eyes - both the tavern keeper's surveillance and the patrons' mutual suspicion
+    depth: Foreground shows intimate conversations being monitored, middle ground captures the listening tavern keeper, background
+      reveals the exposed connection to the surveilled street
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

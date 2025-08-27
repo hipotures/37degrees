@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Youth's Dreams Through Elder's Memory"
+  setting:
+    time: "1819, afternoon"
+    location: "Vauquer boarding house salon, where past and present overlap"
+    weather: "Gray afternoon light filtering through memories and reality"
+  characters:
+    - appearance: "Madame Vauquer"
+      age: "50 years old approximately"
+      appearance: "Plump woman with stale complexion. Face with 'parrot-beak nose' and expression of greed in her eyes. Physically repulsive appearance matching her boarding house's atmosphere"  
+      hair: "Wears faded cap or bonnet"
+      clothing: "Slovenly, cheap, often stained clothing reflecting her miserly nature"
+      posture: "Carries herself with possessive authority over her domain. Always has keys to pantry attached to her belt - symbol of her controlling, avaricious nature"
+      position: "Standing at window watching Rastignac leave for his social adventures"
+      action: "Remembering her own youth and comparing it to current reality with bitter wisdom"
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Walking away from boarding house toward his ambitious pursuits"
+      action: "Striding confidently toward dreams that Vauquer knows are likely illusions"
+  scene:
+    mainElements: "Through Madame Vauquer's experienced eyes, Rastignac's youthful ambition appears both touching and doomed. She sees in his eager stride the ghost of her own younger self, full of dreams that Paris eventually crushed. Her middle-aged perspective overlays his present hopes with bitter knowledge of likely outcomes."
+    details: "From Madame Vauquer's weathered viewpoint, every detail of Rastignac's optimism appears tragically familiar - she remembers being young and beautiful herself, believing in love and success, only to end up managing shabby boarding house. She sees his fine clothes as costume, his confidence as performance that Paris will eventually strip away."
+    background: "Boarding house windows framing view of Paris that appears both promising and treacherous, past and present blending in elder's experienced vision"
+    atmosphere: "Melancholy wisdom mixed with bitter recognition. The air feels heavy with accumulated disappointments and the sad poetry of recurring human dreams"
+  composition:
+    cameraAngle: "From Madame Vauquer's window position, showing both her cynical observation and Rastignac's hopeful departure"
+    focus: "The bittersweet contrast between youthful dreams and elder's disillusioned wisdom"
+    depth: "Madame Vauquer's bitter wisdom in foreground watching life's repetitive patterns, Rastignac's hopeful figure in middle ground pursuing familiar dreams, Paris in background appearing as beautiful trap that snares each generation, no text or letters visible"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1840s Illinois, afternoon
+    location: Primitive one-room log cabin in Illinois woods across Mississippi River from St. Petersburg
+    weather: Hot, oppressive summer day
+  characters:
+  - appearance: 13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor
+      life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt.
+      Freckled face with boyish but wary expression.
+    clothing: Now dressed in his old ragged clothes again. Worn, oversized clothes likely from charity. Loose, patched pants
+      held up by single suspender. Simple, torn shirt in faded colors. Always barefoot.
+    position: Sitting against wall near tiny window, knees drawn up
+    action: Staring at locked door with mixture of fear and calculating thought, planning escape
+  - appearance: Around 50 years old, gaunt but wiry man. Stooped posture from hard living. Long, greasy black hair and beard
+      partially concealing face. Corpse-like pale skin with unhealthy 'fish-belly' whiteness. Bloodshot eyes peering from
+      behind tangled hair.
+    clothing: Filthy rags and tatters. Disintegrating boots with toes showing through. Old, dented black hat. All clothing
+      dirty and falling apart.
+    position: Passed out drunk on pile of dirty blankets in corner
+    action: Lying unconscious, mouth open, empty whiskey bottle fallen from his hand
+  scene:
+    mainElements: Single room with clay chimney, tiny window, heavy wooden door with outside lock. Packed dirt floor, broken
+      furniture, empty whiskey bottles scattered about
+    details: Rough, round logs with gaps chinked with moss and mud. Old rusty saw partly hidden under debris. Fishing lines
+      and hooks. Pile of fish bones. Battered tin plates and cups
+    background: Dense Illinois forest visible through cracks in walls, sound of wind in trees suggesting freedom beyond prison
+      walls
+    atmosphere: Claustrophobic terror and desperation, prison of poverty and violence, planning and hope for escape mixing
+      with immediate fear, no text or letters visible
+  composition:
+    cameraAngle: Low angle from Huck's position showing both his imprisonment and unconscious father
+    focus: Huck's alert, planning expression contrasted with Pap's drunken unconsciousness
+    depth: Huck against wall in foreground, cabin interior in middle, locked door and window in background
+visualElements:
+  colorPalette:
+    primary:
+    - black
+    - white
+    - gray
+    secondary:
+    - sepia tint
+    - light blue tint (optional)
+    background: light gray or simple hand-drawn background elements
+    usageNotes: Mostly monochrome; slight sepia or bluish cast optional for old film effect
+    saturation: none (monochrome) or very low
+    contrast: high (strong black ink vs white)
+  lineArt:
+    style: smooth rubber hose inking
+    weight: medium-thick, uniform
+    color: black
+    texture: clean, with minor wobbles (hand-drawn quality)
+    edgeTreatment: rounded, noodle-like curves
+  lighting:
+    type: flat (no realistic lighting, cel-style fills)
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: simple black shape shadows or none
+      color: black
+      opacity: solid
+    highlights: none (flat fills only)
+  rendering:
+    technique: hand-drawn cel animation style
+    texture: film grain, dust, and scratches
+    detailLevel: low (simple, iconic forms)
+    finish: matte ink, vintage film look
+  perspective: side-on or simple perspective (like early animation frames)
+  mood:
+    overall: playful, nostalgic, light-hearted
+    emotion: joy, silliness
+    tempo: bouncy, upbeat
+    keywords:
+    - nostalgic
+    - playful
+    - simple
+    - old-timey
+    - charming
+  stylePrecedents:
+  - Early Mickey Mouse cartoons
+  - Fleischer Studios animation
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Political Rally - Mass Indoctrination Through Spectacle"
+  setting:
+    time: "1513, dramatic evening"
+    location: "Large public gathering designed to overwhelm individual judgment"
+    weather: "Torchlight creating dramatic shadows and emotional atmosphere"
+  characters:
+    - appearance: "Political leader addressing massive crowd from elevated platform"
+      clothing: "Magnificent ceremonial robes designed to inspire awe and submission"
+      position: "Elevated above crowd, using height to emphasize authority"
+      action: "Delivering emotional speech designed to bypass rational thought and create emotional response"
+    - appearance: "Crowd of citizens caught up in collective enthusiasm"
+      clothing: "Various social classes unified by shared emotional experience"
+      position: "Packed together in mass formation"
+      action: "Responding emotionally to political theater, individual judgment overwhelmed by group psychology"
+  scene:
+    mainElements: "Carefully orchestrated political spectacle using architecture, lighting, and staging to manipulate crowd emotion. Banners, symbols, and pageantry creating overwhelming sensory experience."
+    details: "Strategic use of religious and patriotic symbols. Music and ritual creating emotional rather than rational response. Guards positioned to identify and suppress dissent."
+    background: "Architecture and staging designed to make individuals feel small and powerless while making state seem overwhelming and inevitable."
+    atmosphere: "Political manipulation through emotional spectacle. Individual reason sacrificed to collective hysteria."
+  composition:
+    cameraAngle: "Wide shot showing scale of political manipulation"
+    focus: "Mass psychology techniques used to control political opinion"
+    depth: "Foreground shows individual faces losing themselves in crowd emotion, middle ground reveals staged spectacle, background displays symbols of power"

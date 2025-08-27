@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Hateful Glance - Silent Resistance to Authority"
+  setting:
+    time: "1513, moment of surveillance"
+    location: "Public space where citizens interact with authority figures"
+    weather: "Harsh daylight revealing expressions clearly"
+  characters:
+    - appearance: "Common citizen showing barely controlled anger"
+      clothing: "Simple working clothes that cannot hide inner rebellion"
+      position: "Forced to show deference while harboring resentment"
+      action: "Giving authority figure look of pure hatred while maintaining outward compliance"
+    - appearance: "Authority figure representing state power"
+      clothing: "Official regalia indicating governmental authority"
+      position: "Expecting submission and respect from subjects"
+      action: "Demanding obedience while remaining unaware of citizen's true feelings"
+  scene:
+    mainElements: "Moment of psychological rebellion where true feelings break through required performance. Contrast between enforced submission and inner resistance."
+    details: "Eyes revealing hatred and contempt that voice cannot express. Body language showing tension between required deference and inner defiance. Witness to scene understanding dangerous nature of such expressions."
+    background: "Public space where private feelings must be hidden but occasionally break through social controls."
+    atmosphere: "Dangerous moment where citizen's true feelings toward authority threaten to overcome social controls. Internal rebellion against external compliance."
+  composition:
+    cameraAngle: "Close-up on facial expression showing inner resistance"
+    focus: "Moment when individual spirit rebels against systemic oppression"
+    depth: "Foreground shows hateful expression, middle ground reveals authority figure, background displays public space requiring performance of submission"

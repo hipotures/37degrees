@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "Darwin's Hands Through Decades of Discovery"
+  setting:
+    time: "1835 to 1875, overlapping time periods in morning light"
+    location: "Galapagos Islands volcanic shoreline transitioning to Down House garden study, Kent countryside"
+    weather: "Tropical equatorial sun becoming temperate English garden light"
+  characters:
+    - appearance: "British gentleman in his early twenties, 183cm tall, athletic build, straight dark brown hair combed to side, clean-shaven with sharp intelligent features, bright blue-gray eyes showing curiosity and enthusiasm"
+      clothing: "Practical explorer attire: cream cotton shirt with rolled sleeves, brown wool vest, dark trousers, sturdy leather boots, wide-brimmed canvas hat for sun protection"
+      position: "Kneeling on volcanic rock reaching for specimen"
+      action: "Young hands eagerly collecting finch specimens from Galapagos shoreline"
+    - appearance: "British scientist in his forties, 183cm tall, medium build slightly rounded with age, receding dark brown hair with balding crown, clean-shaven but contemplating beard, penetrating blue-gray eyes with deeper-set expression showing years of thought"
+      clothing: "Scholarly gentleman's attire: black wool surdut coat, dark gray waistcoat, white cotton shirt, simple black cravat, comfortable loose-fitting trousers, leather house slippers"
+      position: "Same kneeling position overlaid in garden setting"
+      action: "Middle-aged hands carefully arranging specimens in study, organizing decades of collected evidence"
+    - appearance: "Distinguished British naturalist in his sixties, 183cm tall but appearing shorter due to stooped posture, completely bald crown with silver-white hair fringe around ears and back, magnificent full white beard covering entire lower face, deep-set blue-gray eyes with wisdom and kindness, weathered hands with prominent veins"
+      clothing: "Comfortable elderly gentleman's dress: loose black woolen coat, thick gray shawl around shoulders, soft felt hat, heavy walking boots, woolen mittens in cold weather"
+      position: "Same gesture overlaid showing aged hands in identical reaching motion"
+      action: "Elderly spotted hands touching bark of mature oak tree that grew from seed collected decades ago"
+  scene:
+    mainElements: "Three sets of hands in identical gesture across time: young smooth hands on black volcanic rock, middle-aged hands with ink stains arranging specimen jars, elderly veined hands touching oak bark"
+    details: "Black Galapagos lava transforming to rich English soil, tropical cacti becoming temperate garden plants, finch specimens evolving to complete scientific collection, same reaching gesture showing progression of curiosity to knowledge to wisdom, hands showing calluses from fieldwork, ink stains from writing, arthritis from age, no text or letters visible"
+    background: "Pacific horizon with volcanic peaks becoming Kent countryside with church spires and rolling hills"
+    atmosphere: "Continuity of scientific passion across lifetime, same wonder and careful observation spanning decades, morning light connecting tropical discovery to English contemplation"
+  composition:
+    cameraAngle: "Close-up on hands with environments shifting around them"
+    focus: "The identical reaching gesture maintained across all three time periods"
+    depth: "Foreground: detailed hand studies, middle: specimens and tools, background: changing landscapes"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surveillance of Market Activities"
+  setting:
+    time: "1776, early morning watchful observation"
+    location: "Busy urban marketplace like Covent Garden surrounded by Georgian brick buildings"
+    weather: "Gray overcast morning with diffused light"
+  characters:
+    - appearance: "Uniformed market inspectors and constables positioned strategically throughout market, watchful expressions, official bearing"
+      clothing: "Official coats with brass buttons, staff badges of authority, tricorn hats, representing market regulation enforcement"
+      position: "stationed at key points throughout market, observing transactions with suspicious attention"
+      action: "watching merchants and customers, taking notes in small books, occasionally approaching vendors to inspect goods and papers"
+  scene:
+    mainElements: "Wooden stalls and tables displaying goods, horse-drawn carts and wagons, crowds of people from all social classes, variety of merchandise from food to manufactured goods"
+    details: "Market inspectors stand at regular intervals, each carrying official notebooks and measurement devices. They observe transactions closely, occasionally stopping vendors to check weights, measures, or licenses. Vendors appear nervous when officials approach. Some customers look over shoulders while conducting business, suggesting atmosphere of surveillance rather than free exchange"
+    background: "Lively commercial bustle with vendors calling wares, haggling voices, mixture of urban smells from food, animals, and human activity"
+    atmosphere: "Underlying tension beneath surface commerce, sense of being watched, merchants showing caution rather than enthusiasm, freedom of trade constrained by regulatory oversight"
+  composition:
+    cameraAngle: "Medium shot revealing multiple surveillance points"
+    focus: "Market inspector observing transaction with suspicious attention while vendor appears nervous"
+    depth: "Inspector in foreground taking notes, merchant-customer interaction in middle ground, other surveillance positions visible in background"

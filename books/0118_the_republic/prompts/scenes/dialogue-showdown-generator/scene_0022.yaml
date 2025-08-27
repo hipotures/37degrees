@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Eyes of Determination - The Ascent Begins"
+  setting:
+    time: "timeless allegorical realm"
+    location: "steep rocky passage leading from cave interior toward surface world"
+    weather: "still underground air giving way to fresh breezes"
+  characters:
+    - appearance: "human figure with pale skin from underground confinement, eyes squinting against bright light, expression of amazement and confusion"
+      clothing: "simple worn garments suitable for imprisonment but chains removed, clothing disheveled from struggle"
+      position: "climbing steep rocky path with difficulty"
+      action: "eyes showing mixture of fear and determination as unseen force drags him toward painful enlightenment"
+    - appearance: "shadowy figure of philosophical guide"
+      clothing: "simple robes suggesting wisdom and authority"
+      position: "leading the reluctant prisoner upward"
+      action: "firmly but compassionately compelling ascent despite prisoner's resistance and pain"
+  scene:
+    mainElements: "steep winding passage carved from living rock, increasing light from above, rough handholds and footing requiring struggle"
+    details: "Growing brightness causing physical pain to eyes adapted to darkness, loose stones and difficult terrain symbolizing intellectual struggle, echoes fading as surface approaches"
+    background: "cave entrance growing smaller behind them, first hints of natural light ahead"
+    atmosphere: "physical and psychological ordeal representing painful process of philosophical education"
+  composition:
+    cameraAngle: "low angle shot emphasizing difficulty and determination of upward climb"
+    focus: "eyes showing both resistance to and hunger for truth despite pain"
+    depth: "struggling climber in foreground, guiding figure in middle ground, growing light in background"

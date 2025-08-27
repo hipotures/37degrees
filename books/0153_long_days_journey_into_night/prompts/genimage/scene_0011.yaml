@@ -1,0 +1,107 @@
+sceneDescription:
+  setting:
+    time: August 1912, mid-afternoon, around 2:30 PM
+    location: Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling
+      raised to impressive height of over 11 feet creating illusion of spaciousness and elegance.
+    weather: Brief break in clouds allowing filtered sunlight to enter room
+  characters:
+  - appearance: 65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style
+      posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure.
+      Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably
+      handsome.
+    clothing: Worn grey ready-made sack suit with non-shining black shoes. Often wears shirt without collar with thick white
+      neckerchief loosely tied around neck. Everything deliberately worn to limits of usefulness but not picturesquely shabby.
+    position: Seated in oak rocker, leaning back with momentary relaxation
+    action: Genuinely laughing at family joke, face showing rare unguarded joy
+  - appearance: 33-year-old man about an inch taller than his father with same broad-shouldered build but appears shorter
+      and stockier due to lack of father's bearing and poise. Hair thinning with beginning of father's type of baldness. Face
+      still handsome despite signs of premature dissipation, resembling father but never as good-looking. Beautiful brown
+      eyes, color between father's lighter eyes and mother's darker ones. Prominent aquiline nose that with habitual expression
+      of cynicism gives face Mephistophelean look.
+    clothing: Old suit not as worn as father's, with collar and tie. Typical costume of Broadway habitué attempting to maintain
+      appearances of elegance undermined by general neglect.
+    position: Standing with animated gesture, mid-story
+    action: Telling humorous anecdote with theatrical flair, cynical mask temporarily dropped
+  - appearance: 23-year-old man several inches taller than Jamie but thin and wiry. Plainly in bad health, much thinner than
+      should be. Dark brown hair sun-bleached to reddish at ends, brushed straight back from high forehead. More like mother
+      than father with her long, narrow Irish face dominated by her large dark eyes. Mouth has same hypersensitivity. Profile
+      recalls father. Despite suntan, skin has sickly yellow pallor and cheeks are sunken. Hands remarkably similar to mother's
+      with same exceptionally long fingers and similar nervousness.
+    clothing: 'Most casually dressed of family: shirt, collar and tie but no coat, with old flannel trousers and brown canvas
+      shoes. Attire reflects artistic, nonconformist nature and status as invalid not required to fully observe formal conventions.'
+    position: Perched on edge of wicker chair, leaning forward with interest
+    action: Smiling despite exhaustion, temporarily forgetting his illness in family mirth
+  scene:
+    mainElements: 'Round table in center with four chairs: three wicker armchairs and one oak rocker belonging to James. Four-bulb
+      chandelier above table with cord to green glass reading lamp on table surface. Under walls: sofa, small wicker table,
+      oak desk. Two distinct bookcases - smaller one with contemporary ''subversive'' authors (Balzac, Zola, Nietzsche, Ibsen,
+      Swinburne) read by sons, larger one with ''respectable sets'' of classics (three Shakespeare sets, Dumas, Hugo) favored
+      by James.'
+    details: Brief shaft of sunlight illuminating the men's faces, creating momentary warmth in previously grey room, genuine
+      expressions of joy cutting through afternoon's growing tensions, shared laughter temporarily uniting three generations
+    background: 'Portrait of Shakespeare hangs over sons'' bookshelf. Three main exits: double doors left to rarely-used front
+      parlor, similar doors rear to dark back parlor leading to dining room, right side to front hall with entrance doors
+      and stairs to upper floor.'
+    atmosphere: Fleeting moment of authentic family connection and joy, brief respite from gathering storm, golden afternoon
+      light creating temporary warmth and unity among the men, no text or letters visible
+  composition:
+    cameraAngle: Medium group shot capturing all three men in moment of harmony
+    focus: Three generations sharing genuine laughter and connection
+    depth: Foreground youngest son's smile, middle ground animated storyteller, background father's rare unguarded laughter
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

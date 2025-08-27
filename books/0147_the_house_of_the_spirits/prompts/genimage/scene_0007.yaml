@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1925 spring dawn to 1950 summer noon, twenty-five years of agricultural cycles
+    location: vineyard slopes at Tres Marías estate, same terraced hillside across decades
+    weather: cool spring morning mist transitioning to blazing summer harvest heat
+  characters:
+  - appearance: man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates
+      others, strong jawline, determined dark eyes
+    clothing: simple worn mining work clothes, rough brown cotton shirt, patched dark trousers, heavy leather boots
+    position: standing among newly planted vineyard stakes, surveying bare hillside
+    action: planting first grapevines with determined movements, establishing agricultural foundation through manual labor
+  - appearance: man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and
+      anger, graying hair, stern dark eyes that command respect and fear
+    clothing: impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding
+      boots, wool vest, white cotton shirt
+    position: standing among mature heavily-laden grapevines during peak harvest season
+    action: overseeing peasant workers harvesting grapes, commanding operation with absolute authority
+  scene:
+    mainElements: vineyard evolution from barren hillside with wooden stakes to mature productive agricultural enterprise
+      - bare soil transformed to neat rows of heavy-bearing vines, simple stakes evolved into complex trellising systems,
+      hillside now bustling with harvest workers
+    details: agricultural timeline visible through vine maturation - young plantings struggling in poor soil developing into
+      robust grape clusters, primitive farming tools replaced by efficient harvest equipment, workers' clothing and techniques
+      showing technological advancement, no text or letters visible
+    background: distant Andes mountains remain constant while foreground shows complete transformation from experimental farming
+      to industrial agriculture, Tres Marías buildings evolve from simple structures to complex estate
+    atmosphere: progression from hopeful uncertainty of new planting to confident prosperity of established vineyard, spring
+      optimism maturing into summer abundance, Esteban's evolution from desperate planter to successful agricultural patriarch
+  composition:
+    cameraAngle: wide panoramic view emphasizing scope of agricultural transformation
+    focus: central attention on vineyard development representing time's power to transform landscape
+    depth: foreground shows detailed vine growth stages, middle ground captures Esteban's evolution, background maintains
+      geographic continuity
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

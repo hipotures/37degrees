@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1911, dawn following execution
+    location: Abandoned execution ground on outskirts of village where new life emerges
+    weather: Soft morning light filtering through mist, creating ethereal atmosphere
+  characters: No characters present in this scene
+  scene:
+    mainElements: Empty execution ground with weathered wooden platform and scattered debris from yesterday's violence. Most
+      significantly, small green shoots pushing through cracks in the stone paving where blood had soaked into earth
+    details: Tiny wildflowers and grass blades forcing their way through gaps in official stonework. Prison chains and execution
+      equipment abandoned and already beginning to rust. Morning dew on new growth catching sunlight
+    background: Village visible in distance continuing normal daily activities, seemingly unchanged by yesterday's violence.
+      Mist rising from fields suggesting the cycle of agricultural life continuing despite human tragedy
+    atmosphere: Ambiguous message about possibility of renewal. Nature's persistent life force challenging human systems of
+      death and oppression. Question remains whether this small hope can overcome institutional brutality or will be crushed
+      by next official action. The scene neither promises salvation nor declares defeat
+  composition:
+    cameraAngle: Low angle focusing on the small plants breaking through official stonework
+    focus: The delicate green shoots as fragile symbol of life persisting despite systematic oppression
+    depth: Foreground emphasizes the tiny plants pushing through stone, middle ground shows the abandoned execution apparatus,
+      background reveals the continuing village life seemingly unchanged by violence
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

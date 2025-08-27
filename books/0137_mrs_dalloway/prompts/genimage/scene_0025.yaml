@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: June 1923, midnight striking, ending the day
+    location: All of London simultaneously experiencing time's passage
+    weather: Clear night sky allowing sound to carry across entire city
+  characters:
+  - appearance: All London inhabitants from every social class and individual circumstance
+    clothing: Full range of 1920s clothing from evening dress to work clothes to nightwear
+    position: Scattered across London but united in hearing same temporal marker
+    action: Pausing in whatever individual activity to acknowledge time's passage
+  scene:
+    mainElements: London cityscape at midnight with Big Ben's chimes reaching every corner of the metropolis
+    details: 'Universal moment when all individual perspectives dissolve into shared temporal experience: clock chimes reaching
+      Clarissa at her party, reaching shift workers in factories, reaching night nurses in hospitals, reaching insomniacs
+      at windows, reaching lovers in beds, reaching police on patrol, sound waves physically connecting all consciousness
+      in single moment, time itself becoming character transcending individual stories, mechanical temporal rhythm underlying
+      all human drama, no text or letters visible'
+    background: London spread beneath night sky, Thames reflecting lights, city continuing its eternal rhythm beyond individual
+      lives and deaths
+    atmosphere: Transcendent moment when time itself becomes universal experience connecting all consciousness, Big Ben's
+      chimes creating rare moment of shared existence transcending class, character, and individual perspective
+  composition:
+    cameraAngle: Aerial view of entire London showing sound waves of Big Ben reaching all corners of city
+    focus: Clock tower as source of universal temporal experience affecting all London consciousness simultaneously
+    depth: Big Ben's tower in foreground as source of universal sound, spreading sound waves in middle ground, entire London
+      cityscape in background responding to shared temporal marker
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

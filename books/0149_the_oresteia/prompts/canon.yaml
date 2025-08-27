@@ -1,0 +1,142 @@
+canon:
+  characters:
+    - id: "clytemnestra"
+      name: "Clytemnestra"
+      description_block: |
+        characters:
+          - appearance: "Mature woman aged 40-50 years, tall with imposing royal posture, powerful build suggesting inner strength, ciemne dark hair with streaks of gray misternie intricately arranged in complex royal hairstyle with gold nets or diadems, dark penetrating intelligent eyes that rarely reveal emotions, strong angular facial features with pronounced jawline and full often pressed lips, face like controlled mask hiding decade of revenge planning, surowa majestic beauty rather than delicate"
+            clothing: "Richly decorated multilayered robes peplos over chiton in royal power colors deep purple crimson black with gold embroidery, made from finest materials, heavy gold jewelry necklaces bracelets earrings that chime with movement, attire always impeccable reflecting her control over herself and kingdom"
+            posture: "Moves slowly with dignity, every step calculated and deliberate, often stands motionless observing others which heightens impression she is always one step ahead, gestures economical but decisive, rare smile usually ironic, strength lies in stillness and penetrating gaze"
+            action: "Queen who ruled Argos for ten years during husband's absence, master manipulator using words as weapons, woman with masculine heart and mind according to chorus, both architect and executioner of revenge"
+
+    - id: "agamemnon"
+      name: "Agamemnon"
+      description_block: |
+        characters:
+          - appearance: "Man in prime of life aged 45-50 years hardened by ten years of war, tall powerfully built warrior physique, muscular body bearing traces of lengthy hardships with visible scars on hands or face, movements heavier than in youth, dark thick hair and beard cut short in mycenaean warrior style, hair and beard streaked with gray showing age and experiences, eyes with stern commanding gaze accustomed to evaluating battlefield and giving orders, sun-weathered face with sharp almost statuesque features showing arrogance of victor and deep fatigue, hubris and masculine pride visible in bearing"
+            clothing: "Victorious commander's full regalia shining bronze armor over short linen chiton, bronze helmet removed upon arrival, bronze greaves and leather sandals, bronze sword at side, after palace entry persuaded by Clytemnestra treads on purple textiles act of divine hubris, final garment flowing perhaps white bathing robe that becomes deadly net in Clytemnestra's hands"
+            posture: "Erect almost rigid bearing reflecting military habits and sense of own greatness, moves like ruler with confident dominating stride, gestures economical and authoritative, cold and distant toward wife, face rarely shows tenderness, dominated by pride and sense of superiority that yields to irritation and weakness when Clytemnestra skillfully manipulates him"
+            action: "King of men returning triumphant from ten-year Troy siege, war commander who sacrificed daughter Iphigenia for favorable winds, expects glory and confirmation of power in Argos, brings Cassandra as war prize and concubine"
+
+    - id: "orestes"
+      name: "Orestes"
+      description_block: |
+        characters:
+          - appearance: "Young man aged 20-22 years sent into exile as child now returned as adult, slim but athletic and agile build, lacks father's powerful frame, strength more in agility than mass, young body full of energy but posture hunched under weight of divine mission, long dark hair cut with knife at father's tomb symbolizing entry into manhood and vengeance duty, dark eyes full of youthful determination but also fear and inner conflict, often restless gaze as if seeking confirmation of action's righteousness, face retains boyish features but marked by gravity and suffering, characteristic feature is constant tension visible in posture and movements"
+            clothing: "In Libation Bearers disguised as Phocis traveler wearing simple short chiton leather sandals and traveler's cloak chlamys pinned at shoulder, functional attire devoid of ornaments, in Eumenides as temple suppliant wears simple perhaps torn and dirty robe while holding olive branch wrapped in wool symbol of asylum seeker"
+            posture: "Quick nervous movements, often looks around as if feeling pursued even before Furies appear, in scene with mother his hesitation visible in stopped movement and lowered sword, after crime body shaken by tremors and gestures become chaotic when trying to ward off invisible monsters"
+            action: "Son bound by Apollo's divine command to avenge father's murder, tragically torn between sacred duty to father and fundamental taboo against matricide, transforms from determined though hesitant avenger to tormented fugitive seeking purification"
+
+    - id: "elektra"
+      name: "Elektra"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 23-25 years, older than Orestes, appearance shows years of mourning and humiliation, neglected treated like slave in palace unlike mother, pale face marked by constant sorrow and smoldering hatred for mother, posture hunched but straightens in brother's presence with eyes showing fire of determination"
+            clothing: "Simple dark perhaps faded and worn mourning garments contrasting with court wealth, short hair cut in sign of mourning gesture that was part of Greek funeral rituals"
+            posture: "Usually hunched bearing but straightens when recognizing brother, guardian of murdered father's memory"
+            action: "Maintains vengeful desire through years, confirms Orestes in his mission through prayers and persuasion, recognizes brother at tomb through signs hair lock and footprints, embodiment of absolute patriarchal loyalty"
+
+    - id: "cassandra"
+      name: "Cassandra"
+      description_block: |
+        characters:
+          - appearance: "Young Trojan princess and Apollo priestess aged 20-25 years, brought to Argos as war captive and Agamemnon's concubine, tragic exotic beauty, medium height with chestnut hair described by Dares of Phrygia, appearance marked by suffering and gift of prophecy which is her curse, long disheveled hair symbolizing madness or divine inspiration in Greek art, eyes with wild absent gaze as if seeing things invisible to others, face shows pain of foreseeing her own death"
+            clothing: "Trojan garments perhaps more colorful and decorated than Greek women wear visually distinguishing her, Aeschylus mentions saffron robe possibly referencing color worn by maidens destined for sacrifice foreshadowing her fate"
+            posture: "Marked by prophetic gift burden, in ecstatic trance body convulses as if possessed, movements violent and uncontrolled, tears off priestly insignia and tramples them, finally walks toward palace with resignation and dignity knowing she goes to death"
+            action: "Voice of truth no one wishes to hear, her prophetic visions in ecstatic trance state reveal dark past of House of Atreus and foretell approaching slaughter with terrifying accuracy, embodies powerlessness of knowledge before inevitable fate"
+
+    - id: "aegisthus"
+      name: "Aegisthus"  
+      description_block: |
+        characters:
+          - appearance: "Man aged 45-50 years same age as Clytemnestra, Agamemnon's cousin and Clytemnestra's lover and throne usurper, unlike warrior Agamemnon presented as weaker more courtly figure, build not athletic, may be portrayed as man concerned with appearance dressed in rich soft garments contrasting with Agamemnon's harsh military attire, face may have features betraying cunning and cowardice"
+            clothing: "Rich courtly garments of soft materials, careful attention to appearance"
+            posture: "Less imposing than warrior king, more refined courtly bearing"
+            action: "Murder accomplice and tyranny embodiment after legitimate king's death, motivated by revenge for terrible crime committed by Agamemnon's father Atreus who served his father Thyestes his own children's flesh to eat"
+
+    - id: "furies_as_erinyes" 
+      name: "Furies as Erinyes"
+      description_block: |
+        characters:
+          - appearance: "Ancient chthonic vengeance deities before transformation, appearance designed to inspire horror and disgust, described by Pythia as black and hideous wingless beings that snore with disgusting discharge oozing from their eyes, later tradition and art often show them as winged female-shaped demons with serpents woven into hair and blood-dripping eyes, aged beyond measure representing primordial forces"
+            clothing: "Black tattered robes befitting underworld origins"
+            posture: "Menacing threatening bearing, relentless pursuit posture"
+            action: "Embodiment of old inexorable blood revenge law especially within family, their relentless pursuit of Orestes is driving force of Eumenides and materialization of his tormenting guilt"
+
+    - id: "furies_as_eumenides"
+      name: "Furies as Eumenides" 
+      description_block: |
+        characters:
+          - appearance: "Same ancient beings after transformation into Kindly Ones, radical change in appearance as they shed monstrous attributes, faces become dignified and wise rather than terrifying"
+            clothing: "Shed black tattered robes for solemn scarlet garments becoming venerable protective deities of Athens"
+            posture: "Previously hunched aggressive stances become upright and dignified, bearing now reflects wisdom and benevolent protection rather than vengeance"
+            action: "Transformed from relentless avengers into honored guardian deities ensuring prosperity and protection for Athens, represent integration of archaic vengeance forces into civilized legal order rather than their destruction"
+
+    - id: "apollo"
+      name: "Apollo"
+      description_block: |
+        characters:
+          - appearance: "Embodiment of classical male beauty ideal, eternally young handsome god always beardless with long often golden curly hair arranged or tied with laurel wreath, slender harmoniously built body emanating light tranquility and divine authority"
+            clothing: "Long white or golden chiton befitting god of light and order"
+            posture: "Bearing radiates divine confidence and authority, movements graceful and commanding"
+            action: "Represents new generation of Olympian gods whose power rests on order reason and patriarchal law, issues Orestes absolute command to avenge father then becomes his defender in trial, arguments for father's supremacy over mother crucial for Orestes' acquittal and establishing new moral order"
+
+    - id: "athena"
+      name: "Athena"
+      description_block: |
+        characters:
+          - appearance: "Majestic serious warrior-goddess, tall with stern but wise facial features, often described eyes as owl-like or bright with intelligent penetrating gaze"
+            clothing: "Full armor long peplos with breastplate and tall decorated helmet, carries long spear in one hand and round shield in other, wears aegis goatskin decorated with Medusa head on chest having power to turn enemies to stone"
+            posture: "Commands absolute respect through bearing, movements decisive and authoritative"
+            action: "Goddess of wisdom strategy and Athens' patron, intervenes to break endless vengeance cycle, introduces innovation of jury trial with human judges as method of resolving conflict, her action symbolizes triumph of civilization reason and civil order polis over chaos and blood law"
+
+  locations:
+    - id: "argos_palace"
+      name: "Palace of Atreus in Argos" 
+      description_block: |
+        setting:
+          location: "Mycenaean citadel palace on fortified hilltop in Argos Greece late Bronze Age, surrounded by massive Cyclopean walls built from gigantic irregularly hewn limestone blocks fitted without mortar suggesting superhuman force and archaic power, main gate is famous Lion Gate crowned with triangular relief showing two lions or griffins supporting central column symbol of royal power, palace heart is megaron great rectangular throne room preceded by open courtyard and two-column portico"
+        mainElements: "Central circular hearth in megaron surrounded by four wooden columns supporting roof with oculus smoke hole, stone or wooden throne positioned at right wall center allowing ruler to observe both hearth and entrance, complex maze of corridors smaller rooms workshops and storerooms"
+        atmosphere: "Oppressive space marked by crime history, heavy smoke scent from hearth cooked meat from sacrifices lamp oil and stale stone walls, sounds include echoing footsteps on stone floors fire crackling distant workshop noises and muffled servant whispers, cool interior temperature even on hot days, claustrophobic closed world of oikos house where family conflicts fester in isolation from outside world, space of private bloody revenge"
+
+    - id: "delphi_temple"
+      name: "Temple of Apollo at Delphi"
+      description_block: |
+        setting:
+          location: "Sacred Oracle site on Mount Parnassus southern slope overlooking valley in central Greece, most important oracle of Greek world, classical Doric temple built of limestone and covered with precious white Parian marble, surrounded by peristyle external colonnade of six columns on shorter sides fifteen on longer sides, building rests on three-step platform krepidoma"
+        mainElements: "Interior entrance through pronaos vestibule leading to cella main nave, deepest most inaccessible part contains adyton underground or sunken chamber where Pythia sat on tripod, temple heart houses omphalos conical stone considered navel of world symbolizing Delphi as cosmic center"
+        atmosphere: "Sacred space suffused with incense scent burned laurel leaves and pine wood, according to ancient accounts and modern geological studies light sweet-smelling gases ethylene methane may have escaped from earth crack under adyton inducing Pythia's trance, reverent solemn silence broken only by priests' whispers and Pythia's monotone chanting, space of divine law older and more universal than human conflicts"
+
+    - id: "athens_areopagus"  
+      name: "Areopagus Hill in Athens"
+      description_block: |
+        setting:
+          location: "Raw naked limestone hill rising approximately 115 meters northwest of Acropolis in Athens Greece, public civic space symbolizing birth of new order based on law and democracy, not building but rough limestone surface smoothed by thousands of feet and weather making it slippery and dangerous, steps cut into rock lead to summit"
+        mainElements: "Simple stone benches carved from rock for judges seating, central trial area marked by two unhewn rough boulders Stone of Outrage lithos Hybreos for accuser and Stone of Mercilessness lithos Anaideias for accused, no decorations or monumental constructions"
+        atmosphere: "Windy and open with panoramic view of Athens with Agora below and Acropolis in background, muffled city sounds market calls craftsmen voices human conversations, solemn serious and public atmosphere, no longer private family matter but entire community polis concern, stark simplicity emphasizes fundamental character of established law"
+
+  items:
+    - id: "purple_textiles"
+      name: "Purple Tapestries/Textiles"
+      description_block: |
+        details: "Long strips of precious fabric in deep purple color unnaturally intense against rough stone background visually resembling stream of fresh blood flowing into house interior, symbol of hubris as stepping on them equates Agamemnon to god drawing divine wrath, in gift economy context represents act of ostentatious waste of precious good symbolizing moral decay of Atreus house, ultimate manifestation as bloodied shroud-net that Clytemnestra uses to entangle defenseless Agamemnon in bath preventing his defense"
+
+    - id: "bronze_weapons"
+      name: "Bronze Age Weapons and Armor"
+      description_block: |
+        details: "Mycenaean bronze technology weapons including long straight swords designed for thrusting, shields with characteristic figure-eight or tower shape made of hide stretched on wooden frame, bronze armor with bronze plate breastplate and boar tusk helmet made of felt cap covered with rows of cut tusks, bronze greaves for leg protection, represents warrior aristocracy power and Late Bronze Age military technology"
+
+    - id: "royal_megaron_hearth"
+      name: "Central Palace Hearth"
+      description_block: |
+        details: "Large circular hearth positioned centrally in megaron main hall with decorated flooring, primary light source with flickering fire casting dancing shadows throughout throne room, smoke rises through oculus opening in roof, focal point of domestic and ceremonial palace life, represents heart of royal household and seat of power, creates dramatic interplay of light and shadow hiding secrets and dangers"
+
+    - id: "sacrificial_altar"
+      name: "Palace Sacrificial Altar"
+      description_block: |
+        details: "Stone altar in palace courtyard used for ritual animal sacrifices to gods, bloodstained surface from repeated offerings, essential element of royal religious duties, represents connection between earthly power and divine favor, place where sacred and profane intersect in ancient Greek religious practice"
+
+    - id: "oracle_tripod"
+      name: "Pythia's Sacred Tripod"
+      description_block: |
+        details: "Three-legged bronze seat positioned over earth crack in Delphi temple adyton chamber, sacred furniture where Pythia sits to receive Apollo's prophetic inspiration, positioned over geological fissure possibly releasing intoxicating vapors, represents direct connection between human and divine realms, seat of ultimate religious and political authority in Greek world"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Harvest Table's Emptiness - Abundance to Want"
+  setting:
+    time: "1890s autumn harvest season declining into 1920s economic hardship winter"
+    location: "Heart of Compson household, Dilsey's domain representing warmth and order in contrast to rest of house, centered on large wooden table"
+    weather: "Warm golden autumn light fading to harsh winter illumination showing seasonal and economic decline"
+  characters:
+    - appearance: "Elderly black female, once large woman now her skeleton rises loosely draped in skin without padding that stretches tight again over nearly swollen abdomen, face is countless and sunken, moves slowly but surely, described as indomitable skeleton and ruin or landmark of family"
+      clothing: "Daily wear: simple blue percale dress; Easter attire: royal but worn outfit consisting of maroon velvet cape with lining of faded anonymous fur, purple silk dress, stiff black straw hat perched on turban, dirty white elbow-length gloves"
+      position: "Steady deliberate movements showing dignity despite age, stands as moral backbone of household"
+      action: "Practical household tasks, caring for family members with patient endurance, maintaining order and moral strength"
+  scene:
+    mainElements: "Large wood-burning stove, simple wooden table, basic functional furniture, scents of cooked food showing temporal contrast between abundance and scarcity"
+    details: "Seasonal-economic transformation of kitchen table across thirty years: left side shows 1890s autumn abundance with harvest feast preparation - table laden with fresh vegetables, preserved fruits, roasted meats, multiple family members' place settings, steam rising from abundant pots, golden afternoon light streaming through clean windows. Right side reveals 1920s winter reality: same table nearly bare with simple meal for reduced family, fewer dishes, meager portions, woman working alone, harsh winter light through hazier windows, economic hardship evident in sparse food preparation no text or letters visible"
+    background: "Same kitchen architecture showing aging - wooden surfaces more worn, stove showing rust, windows less clear, but essential function maintained through economic decline"
+    atmosphere: "Stark visualization of how family fortune decline manifests in daily sustenance, contrasting seasonal abundance with year-round scarcity"
+  composition:
+    cameraAngle: "Medium shot across kitchen table showing temporal abundance contrast"
+    focus: "Wooden table surface showing transformation from feast preparation to meager meal planning"
+    depth: "Foreground: table surface displaying abundance versus scarcity; middle ground: figure maintaining dignity despite reduced circumstances; background: unchanging kitchen architecture witnessing economic decline"

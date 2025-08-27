@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Question Mark - Future of Economic Freedom"
+  setting:
+    time: "1776, looking toward uncertain future"
+    location: "Crossroads between old mercantile system and new possibilities of economic freedom"
+    weather: "Uncertain light with both shadows and promising rays"
+  characters:
+    - appearance: "Young citizens representing future generations, showing both hope and uncertainty"
+      clothing: "Clothing suggesting transition between old restrictions and new possibilities"
+      position: "standing at crossroads looking toward different possible futures"
+      action: "contemplating choice between continued restriction or embracing economic liberty"
+  scene:
+    mainElements: "Symbolic crossroads with paths leading to different economic futures, signs pointing toward mercantile control versus natural liberty, young people considering which direction to take"
+    details: "Crossroads shows clear choice between path of continued government control leading to familiar restrictions, and path of natural liberty leading to unknown but promising economic freedom. Small plant breaks through cobblestones, suggesting natural forces overcoming artificial barriers"
+    background: "Landscape showing both old restrictive institutions and new possibilities for economic development through freedom"
+    atmosphere: "Hopeful uncertainty about economic future, question whether humanity will choose natural liberty over familiar restrictions, optimism tempered by recognition of challenges ahead"
+  composition:
+    cameraAngle: "Medium shot emphasizing choice between alternative paths"
+    focus: "Young citizens contemplating future choice between restriction and freedom, with small plant symbolizing natural growth"
+    depth: "Decision point in foreground, alternative paths in middle ground, uncertain but promising future extending to background"

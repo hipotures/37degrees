@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1923 summer, afternoon
+    location: Village celebration area near distillery, Northeast Gaomi District
+    weather: Bright sunny afternoon perfect for outdoor festivities
+  characters:
+  - appearance: Group of traditional Chinese musicians, middle-aged men with weathered faces and calloused fingers from years
+      of playing instruments
+    clothing: Simple festival clothing, cotton tunics and loose pants in earth tones
+    position: Seated in semicircle around courtyard center
+    action: Playing traditional Chinese instruments with vigorous animated movements
+  scene:
+    mainElements: Fortified complex of rammed earth and brick buildings surrounding central courtyard, celebration space with
+      traditional Chinese wedding festivities
+    details: Musicians' bodies swaying rhythmically to invisible music, instruments held in dynamic positions suggesting sound,
+      dust particles dancing in air from vibrations, ripples spreading across water basins from sound waves, fabric banners
+      fluttering in rhythm, dogs with ears perked alertly, children covering ears, pottery trembling slightly on shelves,
+      facial expressions of intense musical concentration, no text or letters visible
+    background: Distillery buildings creating acoustic backdrop, wedding guests gathered in courtyard
+    atmosphere: Visual rhythm and movement suggesting celebratory music, community gathering brought together by shared sonic
+      experience, joy expressed through physical response
+  composition:
+    cameraAngle: Wide shot capturing group musical performance
+    focus: Dynamic body movements and environmental responses to sound
+    depth: Foreground shows musicians in action, middle ground reveals responsive crowd, background provides architectural
+      frame
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

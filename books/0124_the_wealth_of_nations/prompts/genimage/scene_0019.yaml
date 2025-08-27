@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1776, clandestine evening meeting
+    location: Dark wood-paneled walls, tall wooden filing cases filled with ledgers and documents, iron strongbox for valuables
+    weather: Candlelit interior with shadows for secrecy
+  characters:
+  - appearance: 50-year-old merchant trader, medium build slightly stooped from desk work, serious calculating expression,
+      wears spectacles in metal frames
+    clothing: respectable dark wool suit similar to entrepreneur but more stationary style, no riding boots, practical business
+      attire
+    position: seated at counting house desk bent over ledger books with quill pen in hand
+    action: secretly reading manuscript pages while other merchants listen with intense interest
+  - appearance: Several other merchants and educated citizens in middle-class dress
+    clothing: Respectable wool coats and business attire showing professional status
+    position: gathered around desk in small secretive group
+    action: listening to reading of forbidden economic theories, exchanging meaningful glances
+  scene:
+    mainElements: Dark wood-paneled walls, tall wooden filing cases filled with ledgers and documents, iron strongbox for
+      valuables
+    details: Merchant secretly reads from manuscript questioning mercantile restrictions, arguing for free trade and natural
+      liberty. Other businessmen listen intently, recognizing truth in ideas that contradict official policy. Papers are quickly
+      hidden when footsteps approach, suggesting dangerous nature of these ideas
+    background: Orderly business environment with sounds of scratching quills and rustling papers, smell of ink and sealing
+      wax, focused commercial activity
+    atmosphere: Clandestine spread of revolutionary economic ideas, merchants recognizing flaws in official system, intellectual
+      rebellion growing among business community
+  composition:
+    cameraAngle: Medium shot emphasizing secretive nature of meeting
+    focus: Merchant reading forbidden manuscript while others listen with intense interest
+    depth: Manuscript and reading in foreground, listening merchants in middle ground, secretive environment in background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

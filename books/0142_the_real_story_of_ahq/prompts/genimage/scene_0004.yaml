@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1911, late afternoon
+    location: Main street of Weizhuang village in rural Zhejiang Province, eastern China under Qing Dynasty
+    weather: Golden hour light casting long shadows
+  characters:
+  - appearance: Village constable in simple uniform, alert posture
+    clothing: Dark cotton jacket with official insignia, plain pants
+    position: Standing at street corner, observing pedestrians
+    action: Taking mental notes, occasionally nodding to acknowledge certain villagers while ignoring others
+  scene:
+    mainElements: Well-organized village street with clear sight lines, strategic positioning of official presence. Traditional
+      wooden signboards announce regulations and imperial edicts
+    details: Posted notices on walls written in classical Chinese, warning against various behaviors. Wooden bulletin board
+      displays official announcements. Clear demarcation between public and private spaces, with officials controlling access
+      points
+    background: Villagers moving with careful, measured steps, avoiding areas where they might attract attention. Children
+      kept close to parents, minimal spontaneous interaction
+    atmosphere: Subtle but pervasive surveillance creates climate of self-censorship. Order maintained not through overt force
+      but through constant awareness of being watched. The technology is simple but effective - human eyes and social pressure
+  composition:
+    cameraAngle: Wide shot showing the organized surveillance network
+    focus: The constable as node in system of social control, with regulated human traffic flowing around him
+    depth: Foreground captures the official observer, middle ground shows the controlled movement of villagers, background
+      reveals the architectural framework supporting this system
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

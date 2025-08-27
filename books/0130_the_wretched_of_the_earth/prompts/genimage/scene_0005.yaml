@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, late afternoon
+    location: Imposing French colonial government building in Algeria, grand architecture symbolizing imperial power
+    weather: Golden afternoon light casting long shadows
+  characters:
+  - appearance: Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying
+      fear of revolt
+    clothing: Elegant civilian suit typical of 1950s colonial administration
+    position: Standing on palace steps
+    action: Ascending grand staircase with briefcase, embodying colonial administrative power
+  scene:
+    mainElements: Massive stone columns, French flags, marble halls, imposing staircases, official portraits
+    details: Towering neoclassical facade with French tricolor flags flanking entrance, armed guards at attention, marble
+      lions on pedestals, brass plaques listing colonial achievements, manicured gardens with geometric patterns, official
+      government vehicles parked in courtyard
+    background: French colonial district extending beyond palace, European-style buildings creating backdrop of imperial control
+    atmosphere: Overwhelming display of colonial authority designed to intimidate and assert dominance over subject population
+  composition:
+    cameraAngle: Low angle emphasizing building's imposing scale and authority
+    focus: Government palace as monument to colonial power, human figure dwarfed by architecture
+    depth: Palace steps and entrance in foreground, building facade in middle ground, colonial district in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

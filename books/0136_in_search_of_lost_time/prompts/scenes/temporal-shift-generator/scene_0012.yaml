@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Swann Family Tea Ritual - Three Generations, Same Gesture"
+  setting:
+    time: "1870s Charles Swann as child, 1900s Swann serving his own family, 1920s Gilberte continuing tradition"
+    location: "Elegant bourgeois dining room with afternoon light through lace curtains"
+    weather: "Consistent soft afternoon light across all three periods"
+  characters:
+    - appearance: "Three generations showing family resemblance: child Charles aged 8 with dark hair and intelligent eyes, adult Charles aged 40 with mustache and monocle, young woman Gilberte aged 25 with reddish hair and black eyes"
+      clothing: "Child: sailor suit with brass buttons, adult: morning coat with cattleya boutonniere, woman: elegant afternoon dress with pearl necklace"
+      position: "Same chair at head of mahogany table, each generation performing identical pouring gesture"
+      action: "Child learning to pour tea from silver service with careful concentration, adult serving with practiced elegance, woman continuing ritual with unconscious grace"
+  scene:
+    mainElements: "Identical mahogany dining table with same silver tea service across generations. China pattern consistent but showing accumulated chips and wear. Lace curtains replaced but maintaining same afternoon light quality."
+    details: "Silver teapot gaining patina through decades of use. Same china pattern but pieces replaced over time. Table linen showing progression from fresh to carefully mended to replaced. Fresh flowers consistent across periods but species changing with seasons."
+    background: "Dining room showing accumulated family portraits on walls. Furniture arrangement consistent but pieces showing wear and careful maintenance. Window view of same garden through three stages of mature growth."
+    atmosphere: "Domestic continuity where refined bourgeois culture transmits through unconscious gesture repetition. Family identity maintained through ritual consistency despite temporal change, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot across table showing pouring gesture across three generations"
+    focus: "Tea service and pouring hands as central elements connecting family tradition"
+    depth: "Foreground shows table service details, middle ground captures generational figures, background reveals accumulated family history on walls"

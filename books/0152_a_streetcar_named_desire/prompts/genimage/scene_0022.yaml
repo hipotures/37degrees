@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, several weeks after violence
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Oppressive ongoing heat, stifling apartment air
+  characters:
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Elegant but inexpensive clothing attempting to maintain facade of refinement
+    position: Sitting rigidly in chair, staring at nothing with vacant expression
+    action: Speaking to invisible visitors about imaginary rescue, completely detached from reality
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple housedress, holding newborn baby
+    position: Standing nearby but maintaining distance from disturbed sister
+    action: Watching sister with growing fear and sadness, recognizing complete mental breakdown
+  scene:
+    mainElements: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling
+      with green glass shade over dining area. Portières instead of solid doors to bedroom
+    details: Woman's complete dissociation from present reality. Rigid posture suggesting catatonic state. Sister's grief
+      at witnessing mental collapse. Newborn baby representing life continuing despite tragedy. Apartment atmosphere thick
+      with unspoken trauma. No text or letters visible
+    background: Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker
+      games and domestic tension
+    atmosphere: Complete psychological withdrawal from unbearable reality. Family witnessing destruction of beloved member.
+      Tragedy of mind protecting itself through total disconnection
+  composition:
+    cameraAngle: Medium shot emphasizing isolation within family setting
+    focus: Complete disconnection between damaged woman and reality
+    depth: 'Foreground: catatonic figure in fantasy; middle ground: grieving family member; background: oppressive environment
+      that caused breakdown'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Sword Reflects Different Truths"
+  setting:
+    time: "506 BCE, noon with sun directly overhead"
+    location: "Riverside meditation spot away from main army camp, private moment before major battle"
+    weather: "Clear day with strong midday sun creating sharp shadows"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+      position: "Kneeling beside still water, holding sword blade angled to catch light"
+      action: "Examining sword's reflection while contemplating multiple perspectives on coming conflict"
+  scene:
+    mainElements: "Bronze ritual sword held at different angles shows varying reflections - sky, earth, water, enemy territory - each angle revealing different truth about the same weapon and situation"
+    details: "Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority reflects different images depending on angle: when horizontal shows sky clouds, when vertical shows earth below, when angled toward river shows flowing water, when pointed toward enemy territory shows distant Chu positions. Blade surface polished mirror-bright reveals these shifting perspectives"
+    background: "Broad river with muddy brown water reflecting sky, marshy banks with tall reeds, wooden posts marking shallow fording points, military supply wagons and equipment on riverbank distant but visible"
+    atmosphere: "Contemplative moment before decisive action, multiple truths existing simultaneously, sound of gently flowing river water, warm sun on shoulders, philosophical understanding through visual metaphor, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Close perspective showing sword blade capturing multiple simultaneous reflections"
+    focus: "Bronze sword surface acting as mirror revealing different aspects of reality depending on viewing angle"
+    depth: "Foreground emphasizes sword reflection details, middle ground shows contemplating king, background provides context of river crossing and approaching conflict"

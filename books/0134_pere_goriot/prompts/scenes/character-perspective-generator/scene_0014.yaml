@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Society's Patterns Through Weathered Eyes"
+  setting:
+    time: "1819, evening"  
+    location: "Vauquer boarding house dining room during dinner"
+    weather: "Cold winter evening with oil lamps casting familiar shadows"
+  characters:
+    - appearance: "Poiret and Panna Michonneau"
+      age: "Elderly, exact ages unknown"
+      appearance: "Two older permanent residents described almost caricaturally as dried-up, colorless figures resembling old dusty furniture. Their physical appearance reflects their internal emptiness and life's sterility"
+      hair: "Gray and thin, styled in outdated fashions"
+      clothing: "Faded, worn garments that seem to blend into boarding house furniture"
+      posture: "Mechanical movements, sitting like old automata, physically present but spiritually absent"
+      position: "Seated at their usual places at dining table, observing decades of similar scenes"
+      action: "Eating mechanically while witnessing the eternal human dramas play out again"
+  scene:
+    mainElements: "Through the elderly residents' accumulated perspective, every drama in the boarding house appears as familiar repetition of eternal patterns. They have witnessed countless young men like Rastignac arrive full of ambition, seen many fathers like Goriot sacrifice everything for ungrateful children, observed endless cycles of hope and disappointment."
+    details: "From the elders' experienced viewpoint, each current character appears as archetype they have seen before - ambitious youth, devoted parent, predatory manipulator, innocent victim. Their aged eyes see through to the skeleton of human nature beneath each personality's flesh."
+    background: "Dining room that has witnessed decades of similar human dramas, with shadows and furniture appearing as silent witnesses to recurring human folly"
+    atmosphere: "Weary recognition of humanity's repetitive patterns mixed with resignation to life's unchanging nature. The air feels thick with accumulated wisdom and tired acceptance"
+  composition:
+    cameraAngle: "From the seated perspective of elderly observers, showing both their tired witnessing and the familiar dramas unfolding"
+    focus: "The contrast between passionate current dramas and the elders' weary recognition of eternal patterns"
+    depth: "Elderly observers in foreground showing resignation to life's repetitions, current residents in middle ground enacting familiar human dramas, boarding house in background serving as theater for eternal human comedy, no text or letters visible"

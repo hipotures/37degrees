@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1792, morning light revealing sharp contrast between two educational environments
+    location: Split scene showing boys' academy and girls' finishing school side by side, emphasizing educational inequality
+    weather: Clear daylight that starkly illuminates the differences in educational provision
+  characters:
+  - appearance: Young men in academic setting engaged in serious intellectual work with books and scientific instruments
+    clothing: Academic robes and practical clothing suitable for rigorous study and intellectual development
+    position: Left side of frame, seated at desks with maps, globes, mathematical instruments, serious books
+    action: Studying advanced mathematics, natural philosophy, classical texts, preparing for leadership roles
+  - appearance: Young women in decorative setting focused on ornamental accomplishments rather than serious learning
+    clothing: Restrictive fashionable dress that limits physical movement and emphasizes decorative rather than functional
+      elements
+    position: Right side of frame, arranged around embroidery frames, musical instruments, and domestic instruction
+    action: Practicing needlework, simple musical pieces, dancing steps, preparing for ornamental roles
+  scene:
+    mainElements: Sharp visual division between two educational worlds - one equipped for intellectual development, other
+      designed for decorative accomplishments
+    details: Left side shows scientific instruments, world maps, serious books, writing materials for developing reason. Right
+      side shows embroidery hoops, simple sheet music, dancing instruction, preparations for domestic display. Same age students
+      receiving completely different preparation for life
+    background: Architectural differences emphasize disparity - serious academic buildings versus decorative domestic spaces
+    atmosphere: Atmosphere of systematic educational inequality, showing how society deliberately creates different intellectual
+      destinies based solely on sex
+  composition:
+    cameraAngle: Wide split-screen composition showing both educational environments simultaneously
+    focus: The stark contrast in educational resources and expectations between male and female students
+    depth: Foreground emphasizes the different tools and materials, middle ground shows the students at work, background suggests
+      the institutional systems that create these differences
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

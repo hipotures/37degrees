@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1949, evening
+    location: central room of Loman house, practical working kitchen with worn furniture showing years of family life and
+      financial struggle
+    weather: calm evening indoors
+  characters:
+  - appearance: approximately 60 years old, large and solidly built man, calm steady face with kind eyes, speaks slowly and
+      deliberately, expression of practical wisdom
+    clothing: simple well-made dark suit, plain tie, practical black shoes, clothing solid and unpretentious
+    position: sitting across from other man at kitchen table
+    action: dealing cards with patient, methodical movements, occasionally glancing with concern at his troubled friend
+  - appearance: 63-year-old man, medium height, stocky and weary-looking, shoulders stooped under invisible weight, face marked
+      by deep lines of exhaustion and worry, thinning gray hair, tired eyes that dart between hope and desperation
+    clothing: worn dark gray wool suit, white shirt with frayed collar, conservative dark tie, black leather shoes showing
+      signs of constant travel, suit wrinkled from carrying heavy sample cases
+    position: sitting at table, hunched forward over cards
+    action: holding cards with shaking hands, distracted and agitated despite friendly game
+  scene:
+    mainElements: wooden table with three chairs, old refrigerator, simple cabinets with chipped paint, entrance to unseen
+      living room, stairs leading to bedrooms upstairs, scene of simple male friendship in domestic setting
+    details: Playing cards spread on worn wooden table, lamplight creating warm circle of illumination. Third chair remains
+      empty. Simple ritual of card game offering momentary distraction from larger troubles. Worn surfaces of table and chairs
+      showing years of family use.
+    background: kitchen cabinets with worn paint showing years of use, refrigerator humming quietly, stairs leading to upper
+      floor, doorway to darkened living room
+    atmosphere: warm domestic space made temporarily peaceful by ritual of friendship, gentle lamp lighting emphasizing human
+      connection, underlying tension barely controlled by social politeness
+  composition:
+    cameraAngle: medium shot across table, showing both men engaged in card game ritual
+    focus: two hands holding cards, one steady and patient, other trembling with inner turmoil
+    depth: foreground shows cards and worn table surface, middle ground focuses on contrasting demeanor of two friends, background
+      reveals domestic kitchen extending into family home
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Rope Revealed - Symbol of Power"
+  setting:
+    time: "Mid-20th century, evening"
+    location: "Desolate country road in undefined rural landscape, completely empty and stretching to horizon in both directions. Road surface of packed, dusty earth shows no signs of recent travel."
+    weather: "Cool evening air with fading daylight"
+  characters:
+    - appearance: "Man around 60 years old, powerfully built and well-fed with a commanding, booming voice. Face is ruddy, expressing arrogance and self-satisfaction. Radiates energy and dominance."
+      clothing: "Dressed like a wealthy landowner - elegant coat, waistcoat, fashionable hat. Carries a whip as symbol of his power, elegant pipe, and pocket watch."
+      position: "Moves with sweeping, dominant gestures, commands the entire space"
+      action: "Striding confidently across the stage, cracking his whip, eating chicken and drinking wine while forcing Lucky to perform degrading acts"
+    - appearance: "Age indeterminate but appears old and exhausted by life. Physically broken, posture hunched under weight of baggage he carries. Long, probably gray hair falls across his face. Visible painful wound on neck from the rope. Most of the time his face lacks expression, eyes empty and absent, comes alive only during his monologue when his face contorts with effort and eyes flash with madness."
+      clothing: "Servant's or porter's attire, possibly some form of livery, but dirty and torn. Wears a battered bowler hat."
+      position: "Bent double under the weight of luggage, connected to Pozzo by a rope around his neck"
+      action: "Carrying heavy bags, suitcase, folding stool, and picnic basket for Pozzo, performing degrading acts on command, delivering chaotic intellectual monologue when hat is placed on his head"
+  scene:
+    mainElements: "Single bare tree stands in center of empty landscape - completely leafless in Act I like skeleton or dried nerve, with four or five pale leaves appearing mysteriously in Act II. Low earthen mound sits beside tree, only other feature breaking the horizontal emptiness."
+    details: "Close-up shot of the thick, rough rope connecting Pozzo and Lucky. In Act I the rope is long, allowing Pozzo to control Lucky from distance while emphasizing his dominance and Lucky's subjugation. The camera follows the rope from Lucky's wounded neck to Pozzo's confident grip, making visible the invisible chains of power and oppression."
+    background: "The contrast between the natural freedom of the open landscape and the artificial bondage of the rope creates visual tension."
+    atmosphere: "The introduction of this physical symbol of domination creates a new tension in the previously static environment."
+  composition:
+    cameraAngle: "Close-up following the rope"
+    focus: "The rope as symbol of power and connection between master and slave"
+    depth: "Foreground: the rope in sharp detail; Middle ground: connecting the two figures; Background: the free landscape they can't access"

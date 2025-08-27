@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: Geological epochs through human history to cosmic future showing vast temporal perspective
+    location: Same geographic location as Jefferson across geological time - from prehistoric landscape through human settlement
+      to cosmic future
+    weather: All climatic conditions across geological time showing Earth's environmental history
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single geographic location showing complete temporal scope from geological formation through human civilization
+      to cosmic future
+    details: 'Vast temporal compression showing same geographic coordinates across cosmic time: deepest layer reveals prehistoric
+      landscape with ancient forests, dinosaur era vegetation, ice age conditions; middle layer shows Native American settlements,
+      early European colonization, plantation era, Civil War period; surface layer depicts 1928 Jefferson with Compson house
+      and town square; transparent future layer suggests cosmic time with stars wheeling overhead, human civilization as brief
+      moment, geological processes continuing, sun aging, ultimate cosmic perspective where all human drama becomes infinitesimal
+      moment in vast temporal scope no text or letters visible'
+    background: Cosmic context showing stellar movements, planetary cycles, galactic rotation making human time periods insignificant
+      in universal temporal framework
+    atmosphere: Profound meditation on temporal scale where individual human tragedy and family decline become microscopic
+      moments within vast cosmic time, offering perspective on impermanence
+  composition:
+    cameraAngle: Extreme wide shot showing cosmic perspective from space down to specific geographic location
+    focus: Single geographic point showing complete temporal spectrum from geological time through human history to cosmic
+      future
+    depth: 'Foreground: specific 1928 Jefferson location; middle ground: expanding temporal layers showing human civilization;
+      background: cosmic time with stellar and galactic movements'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

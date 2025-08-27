@@ -1,0 +1,97 @@
+sceneDescription:
+  setting:
+    time: 1910, warm afternoon during honey harvest
+    location: Village courtyard with traditional beehive boxes, rural Bengal, British Colonial India
+    weather: Warm sunny afternoon with gentle breeze
+  characters:
+  - appearance: Village beekeeper, elderly man in simple white dhoti with smoke vessel for calming bees
+    clothing: White cotton dhoti and simple upper cloth, face partially covered with fabric
+    position: Carefully extracting honeycomb from traditional wooden hive box
+    action: Holding honeycomb as golden honey streams flow down creating visible sweetness
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Kneeling nearby watching honey extraction with reverent attention
+    action: Observing golden honey streams while cupping hands to receive this divine sweetness
+  scene:
+    mainElements: Fresh honeycomb releasing golden honey in thick, viscous streams that catch afternoon light creating visible
+      sweetness flowing downward like liquid sunlight
+    details: Rich golden honey flows in thick, unbroken streams from fresh honeycomb creating visible rivers of sweetness
+      that catch and refract afternoon sunlight. Honey's viscous consistency creates slow-motion cascade effects as streams
+      stretch and maintain perfect cylindrical shapes before breaking into droplets. Honeycomb shows perfect hexagonal pattern
+      with different cells containing varying honey colors from pale gold to deep amber indicating different floral sources
+      and sweetness concentrations. Protagonist's cupped hands receive honey streams that pool and overflow between fingers
+      creating additional golden cascades. Bees hover nearby drawn to sweetness with flight patterns indicating high sugar
+      content detection. Honey surfaces show perfect mirror reflection of sky and surrounding objects due to its clarity and
+      viscosity. Light passing through honey streams creates golden prism effects on ground below. Texture contrast between
+      rough honeycomb wax and smooth flowing honey creates visual appreciation for sweetness transformation. No text or letters
+      visible.
+    background: Traditional village beehive setup with flowering plants nearby that provided nectar sources for visible sweetness
+    atmosphere: Sacred harvest moment where nature's concentrated sweetness becomes visible offering of divine abundance and
+      life's essential pleasures
+  composition:
+    cameraAngle: Close-up following honey streams from honeycomb to cupped hands showing golden cascade
+    focus: Flowing honey streams that visualize concentrated sweetness through golden light and viscous movement
+    depth: 'Foreground: detailed honey streams and droplets. Middle: hands receiving sweetness. Background: flowering plants
+      providing nectar sources'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Seeds of Rebellion"
+  setting:
+    time: "1911, night"
+    location: "Hidden corner behind village temple where secret meeting occurs"
+    weather: "Dark night with minimal moonlight, creating secretive atmosphere"
+  characters:
+    - appearance: "Young village rebel with determined expression"
+      clothing: "Dark clothing to blend with shadows"
+      position: "Crouched by temple wall, brush in hand"
+      action: "Painting forbidden revolutionary symbol on wall while constantly glancing over shoulder for guards"
+    - appearance: "Lookout figure barely visible in shadows"
+      clothing: "Black clothing, nearly invisible"
+      position: "Hidden near corner, watching for authorities"
+      action: "Keeping watch while partner completes dangerous act of defiance"
+  scene:
+    mainElements: "Ancient temple wall serving as canvas for forbidden political symbol. Revolutionary character partially painted, brush strokes visible in wet paint. Temple architecture providing cover for clandestine activity"
+    details: "Revolutionary symbol painted in white paint against dark stone wall, dripping slightly as paint is still wet. Brush and paint pot hidden in shadows. Ancient religious carvings on temple wall creating ironic contrast"
+    background: "Temple courtyard empty and dark, traditional architecture casting deep shadows. Distant village lights suggesting normal life continuing while rebellion is planned"
+    atmosphere: "Dangerous courage in face of oppression. Small acts of defiance that risk everything. Hope struggling against despair, individual conscience asserting itself against collective submission"
+  composition:
+    cameraAngle: "Close-up showing both the rebellious act and the fear of discovery"
+    focus: "The forbidden symbol being painted as act of resistance against authority"
+    depth: "Foreground captures the detail of forbidden symbol taking shape, middle ground shows the rebel risking everything, background reveals the dangerous context where discovery means death"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Luxury and Misery in Single Frame"
+  setting:
+    time: "1776, evening golden light contrasting shadows"
+    location: "Palladian manor house set in landscaped parkland in English countryside"
+    weather: "Golden evening light creating dramatic contrasts"
+  characters:
+    - appearance: "60-year-old aristocrat, portly frame with ruddy complexion from outdoor life and good food, round pleasant face, powdered wig for formal occasions"
+      clothing: "riding coat of fine wool in brown, leather breeches, tall riding boots, practical country gentleman attire rather than court dress"
+      position: "relaxed aristocratic bearing, often holding riding crop or examining his estate"
+      action: "surveying his vast estate from mansion terrace with satisfaction and proprietary pride"
+    - appearance: "Rural laborers working in fields, thin frames showing hard physical labor, weathered faces and rough clothing"
+      clothing: "Simple work clothes, patched garments, bare feet or rough shoes, clothing showing poverty and manual labor"
+      position: "bent over in distant fields, barely visible as small figures"
+      action: "working in estate fields as tiny figures, suggesting their insignificance to landowner"
+  scene:
+    mainElements: "Symmetrical stone mansion with columned facade, manicured gardens with geometric patterns, grazing sheep in rolling green fields, artificial lake reflecting the building"
+    details: "Landowner stands on elegant mansion terrace overlooking vast estate, displaying ownership and control. Laborers work in distant fields as small figures, emphasizing their insignificance in landowner's perspective. Manicured gardens and decorative lake show resources spent on luxury while workers toil in distant fields"
+    background: "Peaceful rural tranquility with sounds of nature, fresh country air, sense of established wealth and social hierarchy"
+    atmosphere: "Aristocratic dominance over landscape and people, workers reduced to distant figures, extreme inequality disguised as pastoral beauty"
+  composition:
+    cameraAngle: "High angle from mansion terrace showing landowner's commanding view"
+    focus: "Aristocrat surveying estate with workers as tiny distant figures in fields"
+    depth: "Landowner prominent in foreground on terrace, estate grounds in middle distance, laborers barely visible in far background"

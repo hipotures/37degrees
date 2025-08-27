@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1513, dramatic evening light
+    location: Fortified cities in Romagna region of Italian peninsula dominated by military strongholds (rocca). Massive square
+      fortress with four powerful round corner towers like Rocca Roveresca in Senigallia, designed to withstand artillery
+      fire.
+    weather: Storm clouds gathering, creating ominous atmosphere
+  characters: No characters present in this scene
+  scene:
+    mainElements: 'Thick walls of brick or stone with narrow arrow slits and battlements. Surrounded by deep moat. Sparse
+      interior furnishings with simple wooden tables, stools, soldiers'' bunks. Weapons everywhere: pikes leaning against
+      walls, arquebuses, helmets. Central parade ground (piazza d''armi).'
+    details: Massive iron gates and drawbridge mechanisms. Artillery positions with cannons aimed at potential threats. Heraldic
+      banners displaying ruler's symbols. Supply wagons and military equipment stored in courtyards. Guard towers with commanding
+      views of surrounding territory.
+    background: War-marked landscape where violence and pragmatism dominate. Air filled with smoke from campfires, moist earth,
+      horses. Silence broken by marching soldiers, creaking leather harnesses, distant hammer strikes in forge.
+    atmosphere: Overwhelming display of military might and readiness for violence. Architecture designed to intimidate both
+      external enemies and internal dissent.
+  composition:
+    cameraAngle: Low angle shot emphasizing fortress's towering dominance
+    focus: Fortress as symbol of state power built on threat of violence
+    depth: Foreground shows moat and outer defenses, middle ground centers on main fortress, background reveals smaller settlements
+      cowering in its shadow
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

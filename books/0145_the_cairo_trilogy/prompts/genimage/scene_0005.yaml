@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 'Temporal sequence: 1917 to 1944'
+    location: Corner of master bedroom transitioning to ground floor room in Cairene house
+    weather: Interior lighting from oil lamps to electric bulbs
+  characters:
+  - appearance: 45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue
+      eyes, large prominent nose, commanding presence that fills space
+    clothing: 'At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt
+      fez (tarbush) with black tassel'
+    position: Standing with authority and dignity, movements heavy and measured
+    action: '1917: Gripping stick with power and confidence, using it to emphasize commands'
+  scene:
+    mainElements: Dark polished wooden walking stick with worn brass or metal tip, creates distinctive tapping sound on stone
+      steps announcing patriarch's return home - shown through its lifecycle of power and abandonment
+    details: 'Stick transformation: 1917 gleaming polished wood gripped firmly in strong hands, 1924 showing first wear marks
+      from daily use, 1935 more weathered with brass tip dulled, 1944 abandoned against wall covered in dust, leather grip
+      cracked with age. Position evolution: from active grip to ceremonial holding to supportive crutch to forgotten relic,
+      no text or letters visible'
+    background: Room location changing from upper floor master bedroom to ground floor sickroom, architectural elements remaining
+      same but showing accumulated wear and changing purpose
+    atmosphere: Symbolic weight of declining authority, transformation from weapon of control to abandoned artifact, temporal
+      tragedy of physical diminishment
+  composition:
+    cameraAngle: Close-up following stick through various positions and conditions
+    focus: Stick itself as central character showing progression from power symbol to forgotten object
+    depth: 'Foreground: stick in different states of use and abandonment, middle ground: changing hands and grips, background:
+      evolving room contexts'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

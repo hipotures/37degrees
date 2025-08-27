@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1850s autumn abundance to winter dormancy, late afternoon to twilight
+    location: Down House dining room and kitchen garden, Kent countryside residence
+    weather: Golden autumn warmth fading to gray winter cold
+  characters:
+  - appearance: Gentle English lady in her forties to fifties, average height 165cm, matronly figure softened by childbearing,
+      light brown hair graying at temples and pinned in neat Victorian chignon, warm brown eyes with kind expression, pleasant
+      round face with gentle smile
+    clothing: 'Modest Victorian lady''s dress: dark blue or brown woolen day dress with high neckline, white lace collar,
+      small cameo brooch, white cotton apron when in kitchen, delicate shawl over shoulders, simple black boots'
+    position: At dining table surrounded by harvest abundance, overlaid with same figure at bare winter table
+    action: Emma arranging abundant autumn harvest for family dinner transforming to contemplating sparse winter meal planning
+  scene:
+    mainElements: Dining room table progressing from groaning with autumn harvest to sparse winter setting with single oil
+      lamp
+    details: Table laden with fresh fruits, vegetables, preserves, and flowers from garden gradually becoming bare polished
+      wood with simple place settings, abundant apple baskets and root vegetables disappearing to reveal underlying furniture,
+      colorful autumn flowers in vases wilting and being replaced by bare branches, full pantry shelves visible through doorway
+      becoming nearly empty, warm golden afternoon light through windows shifting to pale gray winter twilight, oil lamps
+      increasing in number as daylight decreases, no text or letters visible
+    background: Garden view through windows showing fruit trees heavy with apples becoming bare skeletal branches against
+      gray sky, experimental plots changing from lush growth to snow-covered dormancy
+    atmosphere: Seasonal abundance and family warmth giving way to winter's quiet contemplation and conservation, natural
+      rhythm of plenty and scarcity
+  composition:
+    cameraAngle: Medium shot from kitchen doorway looking into dining room
+    focus: The dining table as symbol of seasonal and household rhythms
+    depth: 'Foreground: detailed food and tableware, middle: family dining space, background: winter garden through windows'
+visualElements:
+  colorPalette:
+    primary:
+    - forest green
+    - earth brown
+    - sky blue
+    - sunlight yellow
+    secondary:
+    - moss
+    - bark
+    - leaf variations
+    - flower tones
+    background: natural paper or soft nature scenes
+    usageNotes: Natural, earthy tones found in nature
+    saturation: natural, not oversaturated
+    contrast: gentle, natural light
+  lineArt:
+    style: delicate, botanical accuracy
+    weight: varied, organic
+    color: earth tones
+    texture: hand-drawn quality
+    edgeTreatment: soft, natural
+  lighting:
+    type: natural sunlight
+    direction: dappled, filtered through leaves
+    intensity: gentle, golden hour
+    shadows:
+      style: soft, organic
+      color: cool earth tones
+      opacity: translucent
+    highlights: sun-kissed edges
+  rendering:
+    technique: botanical illustration mixed with modern eco-art
+    texture: paper texture, organic materials
+    detailLevel: high botanical accuracy
+    finish: natural, handcrafted feel
+  perspective: intimate nature views
+  mood:
+    overall: peaceful, conscious, harmonious
+    emotion: connection, responsibility, wonder
+    tempo: calm, meditative
+    keywords:
+    - sustainable
+    - conscious
+    - harmonious
+    - natural
+    - peaceful
+  stylePrecedents:
+  - Maria Sibylla Merian botanical illustrations
+  - John James Audubon nature art
+  - Contemporary botanical illustration
+  - Scientific field guides
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

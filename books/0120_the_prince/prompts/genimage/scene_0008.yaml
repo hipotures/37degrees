@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1513, mid-afternoon luxury
+    location: Wealthy district of Renaissance city contrasted with poor quarters visible beyond
+    weather: Bright sunlight highlighting the contrast between wealth and poverty
+  characters:
+  - appearance: Wealthy nobility and merchants in luxurious attire
+    clothing: Finest silks, velvets, and brocades with gold thread, jeweled accessories, exotic furs
+    position: Leisurely strolling through manicured gardens and marble courtyards
+    action: Enjoying banquet and entertainment while servants attend to every need
+  - appearance: Poor laborers and servants visible in background
+    clothing: Rough wool, patched clothing, bare feet, signs of manual labor
+    position: Working in service to the wealthy or visible through district boundaries
+    action: Carrying goods, cleaning, maintaining the luxury of the elite
+  scene:
+    mainElements: Sharp visual divide between pristine wealthy quarter with marble fountains, manicured gardens, and fine
+      architecture versus visible slums with cramped wooden buildings and muddy streets.
+    details: Elaborate feasts with exotic foods and wines while servants survive on scraps. Fine art and luxury goods displayed
+      alongside evidence of the labor that created such wealth. Guard barriers separating social classes.
+    background: Poor districts clearly visible beyond walls or barriers, creating stark visual contrast between opulence and
+      squalor.
+    atmosphere: Blatant inequality justified by social hierarchy. Luxury built on exploitation of lower classes.
+  composition:
+    cameraAngle: Split composition showing both worlds simultaneously
+    focus: Visual contrast between extreme wealth and extreme poverty in same frame
+    depth: Foreground shows luxury details, middle ground reveals social barriers, background displays poverty and hardship
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

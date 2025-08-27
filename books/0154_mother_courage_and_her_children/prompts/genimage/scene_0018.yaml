@@ -1,0 +1,76 @@
+sceneDescription:
+  setting:
+    time: 1634 winter, first signs of resistance beginning to appear
+    location: Secret location where forbidden knowledge and resistance symbols are preserved
+    weather: Dark winter night providing cover for clandestine resistance activities
+  characters:
+  - appearance: Civilian resistance members secretly preserving forbidden knowledge and symbols
+    clothing: Simple civilian clothes designed to avoid attracting military attention
+    position: Huddled in secret gathering carefully protecting forbidden materials from discovery
+    action: Secretly reading forbidden books, sharing banned information, preserving resistance symbols despite extreme danger
+  scene:
+    mainElements: Hidden cache of forbidden books knowledge and resistance symbols preserved despite systematic suppression
+    details: Books banned by military authorities being secretly read and preserved, resistance symbols painted or carved
+      in hidden locations, underground network sharing forbidden knowledge, dangerous act of preserving truth
+    background: Underground resistance network maintaining forbidden knowledge despite systematic military suppression
+    atmosphere: Desperate preservation of truth and resistance despite extreme danger, hope maintained through secret knowledge
+      sharing
+  composition:
+    cameraAngle: Close-up emphasizing secrecy and danger of resistance knowledge preservation
+    focus: Forbidden knowledge as spark of resistance against military information control
+    depth: Foreground shows forbidden materials, middle ground secret gathering, background danger of discovery and punishment
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

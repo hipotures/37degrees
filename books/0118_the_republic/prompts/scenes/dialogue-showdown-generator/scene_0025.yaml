@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "End of Conversation - The Cosmic Vision Fades"
+  setting:
+    time: "375 BCE, dawn breaking"
+    location: "celestial center of universe where souls encounter divine justice and cosmic order, transitioning back to earthly symposium"
+    weather: "ethereal divine atmosphere giving way to morning mist"
+  characters:
+    - appearance: "dead warrior with battle wounds, peaceful expression despite fatal injuries"
+      clothing: "bloodied military gear and armor from final battle"
+      position: "lying on funeral pyre but awakening to tell cosmic tale"
+      action: "opening eyes after twelve-day journey through afterlife, ready to share vision of ultimate justice"
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "seated in pre-dawn andron, symposium now concluded"
+      action: "finishing narrative of Er's vision while first light enters through windows"
+  scene:
+    mainElements: "divine harmony of spheres creating cosmic music, ethereal light emanating from celestial mechanics, sense of eternal justice and predetermined order - all fading back to simple andron"
+    details: "Spindle of Necessity with eight nested celestial spheres rotating at different speeds dissolving into memory, judgment portals closing, cosmic music becoming silence of dawn"
+    background: "empty wine cups and exhausted symposium setting as philosophical night ends with approaching day"
+    atmosphere: "transition from cosmic vision back to human scale, sense of vast journey completed as dialogue reaches its end"
+  composition:
+    cameraAngle: "wide shot showing return from infinite cosmic scale to intimate human gathering"
+    focus: "completion of philosophical journey from descent to Piraeus to cosmic vision and back"
+    depth: "fading cosmic imagery in foreground, earthly symposium in middle ground, approaching dawn in background"

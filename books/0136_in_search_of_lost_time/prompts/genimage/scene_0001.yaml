@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1880s childhood transitioning to 1920s adulthood, evening twilight
+    location: Second-floor bedroom in Aunt Léonie's house, Combray, Beauce region central France
+    weather: Clear evening with gentle light fading through lace curtains
+  characters:
+  - appearance: Young boy aged 7 years overlaid with middle-aged man around 50, same contemplative eyes bridging decades
+    clothing: Child in simple white cotton nightshirt overlapping with adult in elegant dark silk pajamas and burgundy dressing
+      gown
+    position: Same bed, child sitting upright anxiously waiting for mother's goodnight kiss, adult reclining against pillows
+      in solitary reflection
+    action: Child's hands clasped in desperate prayer for maternal comfort, adult's weathered hands holding worn fountain
+      pen above manuscript pages
+  scene:
+    mainElements: Identical bedroom showing temporal layers where childhood furniture appears ghostlike beneath adult furnishings.
+      Original small wooden bed transforms into larger mahogany frame. Magic lantern projector aged to antique curiosity on
+      same windowsill.
+    details: Wallpaper roses faded from vibrant pink to sepia shadows. Floorboards worn smooth by decades of pacing. Same
+      brass doorknob now tarnished. Window glass slightly warped with age but casting identical evening light patterns. Dust
+      motes dance in same shaft of fading sunlight.
+    background: Through window, Combray church bell tower unchanged as eternal reference point. Village rooftops show accumulated
+      ivy growth and weathered tiles. Same lime tree grown massive outside window.
+    atmosphere: Bittersweet nostalgia where childhood terror of abandonment transforms into adult understanding of solitude
+      as creative sanctuary. Time's passage revealed through physical decay contrasted with spiritual continuity, no text
+      or letters visible
+  composition:
+    cameraAngle: Medium shot from doorway perspective, same angle across both time periods
+    focus: Bed as temporal anchor showing innocent childhood fear evolving into mature artistic purpose
+    depth: Foreground shows dual-time bed, middle ground reveals transformed furniture, background maintains eternal church
+      tower through window
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

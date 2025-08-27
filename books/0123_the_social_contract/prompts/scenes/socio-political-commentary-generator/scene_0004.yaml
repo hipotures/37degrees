@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Technology of Control - Mechanical Society in Perfect Synchronization"
+  setting:
+    time: "1760s, late afternoon"
+    location: "Industrial workshop in Paris where craftsmen work under state supervision producing luxury goods for court"
+    weather: "Dim interior lit by controlled artificial light from oil lamps and candles"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Arranged at identical workstations spaced with mathematical precision"
+      action: "Moving in synchronized rhythm like components of a great machine, performing identical gestures with mechanical regularity"
+  scene:
+    mainElements: "Rows of identical workbenches, hanging tools arranged in perfect symmetry, finished products stacked with geometric precision"
+    details: "Large clock dominates the space, its pendulum marking exact tempo of work. Workers move in unison, starting and stopping tasks at precise intervals. No individual creativity or variation visible. Steam from machinery creates artificial clouds obscuring natural light"
+    background: "Stone walls with barred windows, supervisors with ledgers recording production, mechanical devices controlling timing and output"
+    atmosphere: "Oppressive rhythm of industrial control, human creativity sacrificed to mechanical efficiency, individuals reduced to interchangeable parts of state machinery"
+  composition:
+    cameraAngle: "Wide shot emphasizing the repetitive, mechanical nature of human labor"
+    focus: "Central clock face governing the synchronized movements of human workers"
+    depth: "Foreground shows detailed mechanical tools and products, middle ground displays synchronized workers, background reveals supervisory oversight structures"

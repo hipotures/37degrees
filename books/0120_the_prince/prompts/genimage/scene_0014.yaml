@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1513, morning lesson
+    location: Educational facility where young citizens learn obedience
+    weather: Controlled indoor environment
+  characters:
+  - appearance: Children of various ages from wealthy and common families
+    clothing: Simple, uniform educational garments eliminating class distinctions
+    position: Seated in rigid rows facing instructor
+    action: Memorizing and reciting lessons emphasizing duty to state rather than independent thinking
+  scene:
+    mainElements: Classroom organized to prevent individual expression or questioning. Lessons focused on obedience rather
+      than critical thinking. Children learning identical responses to political situations.
+    details: Standardized texts promoting state ideology. Maps showing ruler's territories as natural and permanent. Religious
+      and civic symbols intermingled to suggest divine approval of current system.
+    background: Educational institution serving state power rather than student development.
+    atmosphere: Systematic preparation of future citizens to accept authority without question. Education weaponized for political
+      control.
+  composition:
+    cameraAngle: Medium shot showing uniformity of educational indoctrination
+    focus: Children being shaped into compliant future subjects
+    depth: Foreground shows individual young faces, middle ground reveals uniform instruction, background displays state symbols
+      and propaganda
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 375 BCE, evening
+    location: wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture
+    weather: calm evening air
+  characters:
+  - appearance: stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent
+      of a satyr
+    clothing: simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot
+    position: rising to standing position for emphasis
+    action: gesturing downward with authority while explaining that craftsmen serve their subjects, not themselves
+  - appearance: energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training
+    clothing: well-tailored chiton and himation showing family wealth, quality leather sandals
+    position: remaining seated on couch, looking up
+    action: craning neck upward with growing recognition of being intellectually outmaneuvered
+  scene:
+    mainElements: andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases
+      and colorful cushions, low portable tables, ceramic symposium vessels
+    details: Dramatic height difference emphasizing shift in intellectual authority, shadows of standing figure falling across
+      seated opponent, oil lamps creating theatrical lighting from below
+    background: other symposium guests remaining seated while observing change in debate dynamics
+    atmosphere: palpable shift in intellectual authority as philosophical method demonstrates its power over conventional
+      wisdom
+  composition:
+    cameraAngle: low angle from seated opponent's perspective looking up at philosopher
+    focus: towering intellectual authority contrasted with diminished conventional position
+    depth: gesturing philosopher dominating foreground, seated opponent in middle ground, witnessing audience in background
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

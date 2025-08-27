@@ -1,0 +1,31 @@
+sceneDescription:
+  title: "Funeral: Liberation or Abandonment"
+  setting:
+    time: "1820, winter afternoon"
+    location: "Père-Lachaise Cemetery during Goriot's burial"
+    weather: "Gray, cold afternoon with wind sweeping across cemetery"
+  characters:
+    - appearance: "Few mourners and absent daughters"
+      age: "Mixed ages of sparse funeral attendees"
+      appearance: "Small group of genuine mourners contrasted with empty carriages bearing daughters' coats of arms"
+      clothing: "Simple mourning attire for those present, implied luxury for those absent"
+      posture: "Mixed reactions showing both grief for abandoned father and recognition of released burden"
+      position: "Small cluster at graveside while ornate empty carriages wait at distance"
+      action: "Experiencing same funeral as either heartbreaking abandonment or inevitable conclusion"
+    - appearance: "Eugène de Rastignac"
+      age: "21-22 years old"
+      appearance: "Slender young man with refined bearing and natural elegance. Southern French features with fair complexion, blue eyes, black hair. Handsome and charming with youthful energy and determination"
+      hair: "Black hair, well-groomed in fashionable style"
+      clothing: "Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools"
+      posture: "Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive or thoughtful and torn by internal conflict"
+      position: "Standing alone at graveside while others depart"
+      action: "Interpreting funeral either as society's heartless abandonment or as natural end to destructive relationship"
+  scene:
+    mainElements: "Same funeral generates conflicting interpretations - either heartbreaking proof of society's cruelty or inevitable conclusion to destructive family dynamics. Empty carriages represent either ultimate abandonment or appropriate distance from toxic relationship."
+    details: "Split perspective shows sparse attendance as either tragic isolation or justified disengagement, daughters' absence as either heartless cruelty or healthy boundary-setting, burial as either society's failure or individual consequence."
+    background: "Cemetery setting that appears either as sacred ground for abandoned saint or as appropriate resting place for destructive obsession"
+    atmosphere: "Simultaneous mourning and relief, tragic abandonment and necessary conclusion, depending on interpretive framework"
+  composition:
+    cameraAngle: "Divided composition showing funeral from perspectives that reach opposite moral conclusions"
+    focus: "Same burial ceremony appearing as either social tragedy or individual consequence depending on viewer's interpretation"
+    depth: "Sparse mourners in foreground showing genuine but conflicted grief, simple grave in middle ground representing either abandoned saint or finished obsession, Paris in background appearing as either heartless destroyer or neutral stage, no text or letters visible"

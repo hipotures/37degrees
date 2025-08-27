@@ -1,0 +1,28 @@
+sceneDescription:
+  title: "The Explosion - Orgon Emerges from Hiding"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "dramatic evening with violent shadows cast by flickering candles"
+  characters:
+    - appearance: "wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing"
+      clothing: "expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath, white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles"
+      position: "bursting from beneath table with explosive fury, face contorted with rage and humiliation"
+      action: "shouting in uncontrolled fury while pointing accusingly at shocked Tartuffe, eyes blazing with hatred and betrayal, periwig disheveled from cramped concealment"
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "recoiling in shock from Elmire as hidden husband emerges like avenging demon"
+      action: "staring in horror as his world collapses, mouth agape with shock, calculating mind racing to find escape from impossible situation"
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "rising from sofa with mixture of relief and continuing fear"
+      action: "breathing heavily with relief while smoothing disheveled dress, watching husband's fury with concern for what he might do"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, overturned table with burgundy cloth lying in disarray from violent emergence"
+    details: "violent candlelight creating chaotic shadows matching emotional explosion, heavy table cloth thrown aside revealing hiding place, furniture scattered by sudden eruption of concealed witness"
+    background: "doorways through which family members will rush drawn by shouting, family portraits witnessing complete destruction of household peace"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, volcanic eruption as truth finally explodes through fanatical delusion"
+  composition:
+    cameraAngle: "dramatic wide shot capturing the explosive revelation and its immediate aftermath"
+    focus: "Orgon's transformation from hidden fool to enraged patriarch while Tartuffe experiences first taste of complete defeat"
+    depth: "foreground dominated by furious confrontation, middle ground showing destroyed concealment, background suggesting household chaos about to erupt"

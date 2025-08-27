@@ -1,0 +1,105 @@
+canon:
+  characters:
+    - id: "freud"
+      name: "Sigmund Freud"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual forehead, dark full beard, hair thinning on crown"
+            clothing: "Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible watch chain"
+            position: "Seated behind mahogany desk or in leather armchair positioned behind analytical couch"
+            action: "Writing notes with fountain pen while holding cigar, or listening intently with fingers steepled"
+    
+    - id: "emma_eckstein" 
+      name: "Emma Eckstein (Irma)"
+      description_block: |
+        characters:
+          - appearance: "Woman around 30 years old, intelligent and attractive face with serious expression, dark hair arranged in elaborate updo typical of 1890s, after February 1895 shows visible disfigurement with collapsed left side of face"
+            clothing: "Elegant but modest bourgeois dress with high collar, long sleeves with puffy shoulders, dark colors, long skirt to floor"
+            position: "Seated in chair facing away from analyst or lying on analytical couch"
+            action: "Speaking hesitantly while touching handkerchief to face, or resisting examination"
+
+    - id: "wilhelm_fliess"
+      name: "Wilhelm Fliess" 
+      description_block: |
+        characters:
+          - appearance: "Man around 37 years old, solid build similar to Freud, dark hair with neat mustache and short beard, round wire-rimmed glasses, serious authoritative expression"
+            clothing: "Dark well-tailored suit in austere Berlin style, white shirt with high collar, vest"
+            position: "Standing beside desk or seated across from colleague in discussion"
+            action: "Gesturing while explaining theories or examining medical instruments"
+
+    - id: "josef_breuer"
+      name: "Josef Breuer"
+      description_block: |
+        characters:
+          - appearance: "Older man around 53 years old, patriarchal appearance with graying full beard and hair, gentler features than Freud, emanates calm authority and established position"
+            clothing: "Conservative dark suit typical of Viennese medical professor, white shirt, formal vest with watch chain"
+            position: "Standing with hands clasped behind back or seated in consultation"
+            action: "Speaking with measured authority or examining patient documents"
+
+    - id: "martha_freud"
+      name: "Martha Freud"
+      description_block: |
+        characters:
+          - appearance: "Woman around 34 years old, slender petite build, delicate regular features, pale complexion, dark hair arranged in neat updo"
+            clothing: "Modest but elegant dress of middle-class housewife, often with apron, practical but well-made garments in darker colors"
+            position: "Standing in doorway or moving through domestic space"
+            action: "Organizing household items or serving tea with quiet efficiency"
+
+  locations:
+    - id: "freud_study"
+      name: "Freud's Study at Berggasse 19"
+      description_block: |
+        setting:
+          location: "Professional study in Viennese bourgeois apartment building, Berggasse 19, Alsergrund district, late 1890s Vienna"
+        mainElements: "Massive dark wooden desk surrounded by smaller tables creating fortress-like workspace, famous analytical couch covered with Persian carpet, leather armchair positioned behind couch, floor-to-ceiling bookshelves filled with leather-bound volumes"
+        atmosphere: "Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space, gas lighting creating warm yellow pools of light among deep shadows"
+
+    - id: "freud_consultation_room"
+      name: "Freud's Consultation Room"
+      description_block: |
+        setting:
+          location: "Treatment room connected to study at Berggasse 19, Vienna, designed for psychoanalytical sessions"
+        mainElements: "The famous analytical couch covered entirely with thick patterned Persian rug and plush cushions, matching carpet hung on wall behind couch, analyst's leather chair positioned out of patient's sight, glass display cases containing ancient artifacts"
+        atmosphere: "Intimate sacred space for revealing secrets, warm Oriental textiles creating cave-like environment, afternoon light filtered through heavy curtains, air thick with tobacco smoke and ceramic humidifier moisture"
+
+    - id: "vienna_streets"
+      name: "Vienna Streets (Ringstrasse area)"  
+      description_block: |
+        setting:
+          location: "Imperial Vienna streets around Ringstrasse boulevard, Habsburg Empire capital, 1890s fin de siècle period"
+        mainElements: "Wide cobblestone boulevards lined with monumental historicist buildings, horse-drawn carriages and early omnibuses, gas street lamps, elegant shop windows, coffee house terraces"
+        atmosphere: "Cosmopolitan imperial grandeur masking underlying social tensions, mixture of liberal bourgeois prosperity and emerging political anxieties, ordered facades concealing cultural nervousness"
+
+    - id: "viennese_coffeehouse"
+      name: "Viennese Coffeehouse"
+      description_block: |
+        setting:
+          location: "Traditional Viennese coffeehouse interior, late 19th century Habsburg Vienna, intellectual gathering place"
+        mainElements: "High ornate ceilings, marble-topped tables, red plush banquettes, enormous mirrors, newspaper racks, waiters in black tailcoats, clouds of tobacco smoke"
+        atmosphere: "Intellectual ferment and animated discussion, clinking of coffee cups and newspaper rustling, warm gaslight creating intimate pools of conversation among scholars and artists"
+
+  items:
+    - id: "analytical_couch"
+      name: "The Famous Analytical Couch"
+      description_block: |
+        details: "Simple horsehair chaise longue completely covered with thick patterned Persian carpet (Qashqai type), plush chenille cushions at head, matching carpet hung on wall behind, represents the sacred space of psychoanalytical revelation"
+
+    - id: "ancient_figurines"
+      name: "Freud's Ancient Artifact Collection"
+      description_block: |
+        details: "Over 2000 ancient artifacts from Egypt, Greece, Rome, and Etruria displayed in glass cabinets and on shelves - statuettes of deities, burial portraits, vases, amulets, and stelae creating visual metaphor for archaeological exploration of the psyche"
+
+    - id: "freuds_cigars"
+      name: "Freud's Cigars"
+      description_block: |
+        details: "Ever-present cigars held in hand or between lips, thick aromatic smoke filling study air, symbol of contemplation, masculine authority, and later source of oral cancer, essential prop for thinking and analysis"
+
+    - id: "dream_notebook"
+      name: "Dream Analysis Notebooks"
+      description_block: |
+        details: "Leather-bound journals filled with handwritten dream accounts and analysis, fountain pen nearby, pages covered with careful script recording the royal road to the unconscious, scientific documentation of inner world"
+
+    - id: "green_banker_lamp" 
+      name: "Green Banker's Lamp"
+      description_block: |
+        details: "Traditional banker's lamp with green glass shade on Freud's desk, creating focused pool of warm yellow light for evening work, illuminating manuscripts and books while casting dramatic shadows in study"

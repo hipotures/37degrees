@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1899 late night during final manuscript preparation
+    location: Freud's study at Berggasse 19, Vienna, illuminated only by green banker's lamp
+    weather: Quiet winter night outside
+  characters:
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Seated behind mahogany desk or in leather armchair positioned behind analytical couch
+    action: Writing notes with fountain pen while holding cigar, or listening intently with fingers steepled
+  scene:
+    mainElements: Freud's reflection in study window showing his self-image as courageous scientific explorer, manuscript
+      pages glowing with revolutionary significance, his figure appearing heroic against backdrop of psychological discoveries
+    details: Traditional banker's lamp with green glass shade on Freud's desk, creating focused pool of warm yellow light
+      for evening work, illuminating manuscripts and books while casting dramatic shadows in study. His reflection in dark
+      window appears larger than life, like portrait of great discoverer. Manuscript pages seem to radiate importance, each
+      word representing breakthrough in human understanding. Ancient artifacts arranged like supporting evidence for archaeological
+      metaphor of mind.
+    background: Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space,
+      gas lighting creating warm yellow pools of light among deep shadows, but shadows appear deeper and more threatening
+      than usual
+    atmosphere: Sense of historic mission and scientific destiny, lone genius preparing to transform human understanding,
+      manuscript as sacred text that will revolutionize psychology, self-image as courageous explorer venturing into uncharted
+      territory of human unconscious, no text or letters visible
+  composition:
+    cameraAngle: Low heroic angle emphasizing Freud's stature as pioneering scientist
+    focus: Freud's concentrated expression as he reviews groundbreaking work, illuminated by lamp's golden glow
+    depth: 'Foreground: manuscript pages catching lamplight like treasure, Middle: Freud''s figure bent over historic work,
+      Background: ancient artifacts bearing witness to timeless human psychological truths'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

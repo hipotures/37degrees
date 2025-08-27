@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1950s Algeria, morning
+    location: French colonial district in Algeria with wide tree-lined boulevards, Haussmanian architecture mixed with neo-Moorish
+      elements, clean illuminated streets
+    weather: Clear morning with organized shadows
+  characters:
+  - appearance: European colonist in Algeria, well-dressed, displaying superiority and contempt toward local population
+    clothing: Fashionable 1950s European attire, quality fabrics, modern styling
+    position: Marching in perfect formation
+    action: Walking in synchronized steps, carrying small French flags, participating in colonial celebration parade
+  - appearance: Educated Algerian man in his 30s, wearing European-style glasses, well-groomed appearance, conflicted expression
+      showing internal alienation
+    clothing: Impeccably tailored European suit, white shirt, tie, attempting to mirror colonial elite dress
+    position: Reluctantly joining march at periphery
+    action: Walking with uncertain steps, forced smile, attempting to blend with colonial celebration
+  scene:
+    mainElements: Perfectly organized parade of European settlers and assimilated Algerians marching down main boulevard,
+      banners celebrating French Algeria
+    details: Participants in neat rows carrying miniature French flags, colonial officials reviewing march from decorated
+      platform, band playing French patriotic music, red-white-blue bunting decorating lamp posts, slogans reading 'Vive l'Algérie
+      Française' on building facades
+    background: Monumental colonial buildings, manicured parks, elegant shop windows, organized urban planning
+    atmosphere: Sterile orderliness masking underlying tension and control, geometric precision symbolizing colonial domination
+  composition:
+    cameraAngle: Elevated view showing march organization and scale
+    focus: Synchronized marching formation, contrast between enthusiastic and reluctant participants
+    depth: Marching crowd in foreground, reviewing platform in middle ground, colonial buildings in background
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

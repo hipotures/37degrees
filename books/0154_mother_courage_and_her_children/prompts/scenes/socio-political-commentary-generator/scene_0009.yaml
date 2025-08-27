@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Wealth Extraction - War Profiteering System"
+  setting:
+    time: "1629 summer, peak of war economy extraction"
+    location: "Market area within military camp showing economic exploitation"
+    weather: "Hot oppressive summer emphasizing exploitation of desperate soldiers"
+  characters:
+    - appearance: "Woman aged 40-52, medium height, stocky robust build with wiry resilient frame, weather-beaten face deeply lined with wrinkles, sharp calculating eyes, graying hair practically pinned up often hidden under headscarf"
+      clothing: "Multi-layered worn peasant clothing in earth tones, thick brown wool skirt, linen shirt, fitted bodice, work apron, heavy cloak or shawl, patched and stained but functional garments"
+      position: "Standing beside or pulling the covered wagon, hands often counting coins or handling merchandise"
+      action: "Conducting business transactions, counting money, negotiating prices, or maintaining her wagon and goods"
+    - appearance: "Other war profiteers and merchants exploiting soldier desperation"
+      clothing: "Merchant clothing slightly better than soldiers but still showing wear from campaign life"
+      position: "Arranged around trading area extracting maximum profit from military necessity"
+      action: "Selling overpriced necessities to desperate soldiers, exploiting military pay system for maximum extraction"
+  scene:
+    mainElements: "Large four-wheeled wooden merchant wagon covered with canvas canopy, filled with military supplies and household goods for sale to soldiers, serves as both shop and home for the family, represents both livelihood and curse that leads to children's deaths"
+    details: "Merchants charging excessive prices for basic necessities soldiers cannot afford, soldiers forced to sell personal possessions for survival, economic system extracting wealth from those serving military cause, war profiteering disguised as patriotic service"
+    background: "Economic system designed to extract maximum profit from military conflict and human desperation"
+    atmosphere: "Exploitation disguised as free enterprise, soldiers victimized by same economic system they serve, desperation creating profitable market conditions"
+  composition:
+    cameraAngle: "Wide shot showing systematic economic exploitation throughout military area"
+    focus: "War profiteering system extracting wealth from military service and human suffering"
+    depth: "Foreground shows individual exploitation, middle ground market system, background institutional economic extraction"

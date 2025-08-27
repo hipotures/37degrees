@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1928, sunny afternoon in memory
+    location: small yard behind Loman house, surrounded by towering apartment buildings, soil poor and shaded, representing
+      failed dreams of growth and prosperity
+    weather: brilliant sunshine filtering through leaves, warm golden light
+  characters:
+  - appearance: younger version of 63-year-old man, in his forties, standing straight with energy and confidence, face animated
+      with dreams and enthusiasm, hair fuller and darker
+    clothing: crisp well-fitting suit of better quality, polished shoes, white shirt bright in sunlight, appearance of man
+      on his way up in the world
+    position: standing proudly beside gleaming automobile
+    action: polishing bright red 1928 Chevrolet convertible with evident pride and satisfaction
+  - appearance: teenage version of 34-year-old man, athletic and confident, face glowing with health and promise, muscular
+      build from sports training
+    clothing: letterman sweater with large university letter, clean trousers, athletic shoes, clothing of high school sports
+      hero
+    position: holding leather American football with University of Virginia markings
+    action: tossing football in air and catching it, grinning with youthful confidence and unlimited future
+  scene:
+    mainElements: bright red 1928 Chevrolet convertible polished to perfection, small yard transformed by golden sunlight,
+      father and son in moment of shared triumph and possibility
+    details: bright red 1928 Chevrolet convertible appearing in flashback memories, polished and gleaming, representing peak
+      of American prosperity and best days, symbol of freedom and success. leather American football with University of Virginia
+      markings, worn from use but treasured as symbol of past athletic glory and lost potential, represents peak of family
+      dreams
+    background: same apartment buildings but softened by golden light and perspective of memory, yard appearing more spacious
+      and hopeful in recollection
+    atmosphere: peak moment of family success and dreams, warm golden light creating sense of unlimited possibility, father
+      and son united in vision of bright future
+  composition:
+    cameraAngle: medium shot in warm golden light, emphasizing joy and shared success between father and son
+    focus: gleaming car and sports equipment as symbols of achieved and promised success, two figures basking in moment of
+      triumph
+    depth: foreground shows polished automobile and athletic equipment, middle ground captures father and son in their golden
+      moment, background reveals same environment transformed by success and hope
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

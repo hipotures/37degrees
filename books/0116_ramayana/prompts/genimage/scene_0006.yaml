@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, bright sunlit afternoon during forest exile
+    location: Forest clearing in Panchavati beside river Godavari, simple hermit dwelling with thatched roof surrounded by
+      wild forest, place of peaceful exile now disrupted by supernatural temptation
+    weather: Brilliant sunshine creating dappled forest light through tree canopy
+  characters:
+  - appearance: Young woman aged eighteen to twenty, ideally proportioned with slender waist and graceful build, golden complexion
+      like molten gold, long thick black hair in single braid, large dark lotus-shaped eyes, red lips like bimba fruit, radiant
+      pure smile
+    clothing: Simple ochre-colored sari suitable for forest life
+    position: Standing at forest edge with face filled with wonder and enchantment
+    action: Gazing in fascination at magical deer, expressing pure delight and desire
+  scene:
+    mainElements: Extreme close-up of Sita's face filling frame to capture micro-expressions of enchantment and wonder. Eyes
+      wide with amazement reflecting golden light from magical deer, slight smile of innocent pleasure, face positioned slightly
+      above center line using rule of thirds
+    details: Shallow depth of field isolating Sita's face while golden deer creates bokeh light effects in background, play
+      of sunlight and shadow across her features creating natural rim lighting, single braid catching light, eyes reflecting
+      supernatural golden glow of the deer's jeweled form
+    background: Heavily blurred forest setting with golden light emanating from magical deer visible as bright bokeh, simple
+      hermitage barely visible in soft focus
+    atmosphere: Moment of dangerous enchantment disguised as innocent beauty, warm golden light creating dreamy romantic atmosphere
+      that masks the deception beneath, sense of tragic mistake about to unfold
+  composition:
+    cameraAngle: Close-up shot with face filling most of frame, eyes positioned on upper third line
+    focus: Sharp focus on Sita's eyes and expression, everything else in soft focus
+    depth: Extreme shallow depth of field with only face sharp, golden deer light in background blur, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

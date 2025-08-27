@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1911, morning
+    location: Village announcement wall where official news is posted
+    weather: Bright morning light illuminating posted materials
+  characters:
+  - appearance: Village clerk in simple official uniform
+    clothing: Plain dark jacket with minor official insignia
+    position: Standing beside wall with paste pot and brush
+    action: Carefully posting new government announcements over previous ones, smoothing down edges with practiced efficiency
+  - appearance: Small group of villagers gathered to read announcements
+    clothing: Work clothes, some still carrying farming tools
+    position: Standing at respectful distance from wall
+    action: Reading silently, nodding agreement, discussing content in hushed, approving tones
+  scene:
+    mainElements: Large wooden bulletin board covered with layers of official notices, proclamations, and propaganda posters.
+      New materials being pasted over old ones in endless cycle of information control
+    details: Government seals on every document, imperial symbols, moral exhortations in elegant calligraphy. Older notices
+      visible at edges where new ones don't completely cover them
+    background: Village buildings with additional propaganda posters, official slogans painted on walls, creating environment
+      where state messaging is omnipresent
+    atmosphere: Information as weapon of control. Truth becomes whatever authority currently declares it to be. Previous 'truths'
+      literally covered over and forgotten. Reality constantly rewritten to serve power
+  composition:
+    cameraAngle: Close-up on the wall showing layers of information and the process of covering previous messages
+    focus: The act of pasting new propaganda over old, symbolizing how truth is manufactured and manipulated
+    depth: Foreground shows the detailed layers of official messaging, middle ground captures the clerk implementing information
+      control, background reveals villagers accepting the new version of reality
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,32 @@
+sceneDescription:
+  title: "Hidden Truth Behind Closed Door"
+  setting:
+    time: "1819, evening"
+    location: "Corridor outside private room where family confrontation occurs"
+    weather: "Cold evening with minimal lighting revealing concealed drama"
+  characters:
+    - appearance: "Delphine de Nucingen"
+      age: "20-25 years old approximately"
+      appearance: "Beautiful blonde with sensual, provocative beauty rather than aristocratic elegance. Always dressed in ostentatiously luxurious clothing following latest fashions to display her husband's wealth"
+      hair: "Golden blonde hair styled fashionably"
+      clothing: "Constantly wears newest, most expensive fashions with costly jewelry, fans, and accessories - living mannequin of her banker husband's fortune"
+      posture: "Graceful movements that blend genuine warmth with calculated charm. Her smile often masks unhappiness and longing for true acceptance and love"
+      position: "Inside room, visible through keyhole, desperately demanding money from father"
+      action: "Revealing her true mercenary nature hidden from public social performances"
+    - appearance: "Jean Joachim Goriot"
+      age: "69 years old"
+      appearance: "Originally robust and well-built man, now emaciated and stooped from years of financial ruin. Gaunt, pale, worn face with sunken cheeks and swollen, drooping eyelids surrounded by dark circles. Long angular nose. Broad, naive facial expression that shows his simple, honest nature."
+      hair: "Originally powdered daily by barber, now thin and unkempt grey hair"
+      clothing: "Deteriorated from wealthy merchant's fine clothes to worn, cheap, dirty garments. Threadbare coat, stained shirts, broken shoes - each piece reflecting his progressive financial decline"
+      posture: "Bent and shuffling gait, moves slowly and uncertainly. Once confident merchant's bearing now replaced by defeated slouuch. In final scenes, spasmatic movements as he clutches golden locket to chest"
+      position: "Inside room, visible through partial opening, being emotionally manipulated"
+      action: "Surrendering last resources to daughter's financial demands"
+  scene:
+    mainElements: "View from corridor reveals private family drama normally hidden from public observation - daughter's brutal financial manipulation of father, his pathetic willingness to sacrifice everything, the calculated cruelty disguised as filial affection in public settings."
+    details: "Hidden vantage point exposes truth invisible from normal social angles - Delphine's mask of elegant daughter falling away to reveal desperate gold-digger, Goriot's public dignity crumbling under private exploitation, evidence of systematic financial abuse carefully concealed from outside observers."
+    background: "Private interior space where true family dynamics operate without social performance or public disguise"
+    atmosphere: "Shocking revelation of brutal reality carefully hidden from social observation and public knowledge"
+  composition:
+    cameraAngle: "Through partially opened door or keyhole, showing forbidden view of private family exploitation"
+    focus: "Contrast between hidden reality and public performance, revealing truth normally concealed from social observation"
+    depth: "Concealed viewing position in foreground, brutal private exploitation in middle ground, public social spaces in background where this truth remains carefully hidden, no text or letters visible"

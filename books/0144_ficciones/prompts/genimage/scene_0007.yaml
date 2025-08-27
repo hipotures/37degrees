@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1940s Buenos Aires, late night
+    location: Detective's spartan office in Buenos Aires police headquarters, surrounded by case files
+    weather: Rainy night with water streaming down windows
+  characters:
+  - appearance: Experienced detective in his 40s, tall lean build, ascetic face with sharp angular features, cold penetrating
+      eyes, thin lips, intellectual bearing suggesting pure reason incarnate
+    clothing: 'Impeccable 1940s detective attire: dark charcoal suit, pressed white shirt, narrow tie, black trench coat,
+      fedora hat, polished leather shoes'
+    position: Hunched over desk, drawing geometric patterns on city map with compass and ruler
+    action: Tracing red lines connecting crime scenes, creating perfect rhomboid pattern that will become his doom
+  scene:
+    mainElements: Large Buenos Aires city map spread across desk, marked with red ink forming perfect geometric rhombus connecting
+      four crime scene locations, compass and ruler creating precise mathematical measurements, detective's elegant handwriting
+      annotating cabalistic references and calculations
+    details: Map transforms from practical tool into mystical diagram, red ink lines glowing like blood in lamplight, forming
+      sacred geometry that reveals pattern behind apparent chaos. Mathematical precision creates illusion of control over
+      reality, but geometric perfection becomes trap. Compass points not just to magnetic north but to inevitable destiny
+    background: Cluttered detective office with filing cabinets, evidence boards, law books, single desk lamp creating pool
+      of light, rain-streaked windows showing dark city beyond
+    atmosphere: Intellectual obsession overriding survival instinct, lamplight emphasizing occult significance of geometric
+      patterns, rain drumming accompaniment to fatal deduction, logic becoming form of madness, no text or letters visible
+  composition:
+    cameraAngle: Overhead shot looking down at map and detective's hands working
+    focus: The red geometric pattern emerging on city map as detective traces connections
+    depth: Drawing instruments and hands in foreground, illuminated map in middle ground, dark office fading into background
+      shadows
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

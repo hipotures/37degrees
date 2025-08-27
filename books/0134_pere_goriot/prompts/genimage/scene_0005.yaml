@@ -1,0 +1,89 @@
+sceneDescription:
+  setting:
+    time: 1819, evening
+    location: Rastignac's modest room in Vauquer boarding house
+    weather: Cold winter night with frost on windows
+  characters:
+  - appearance: Slender young man with refined bearing and natural elegance. Southern French features with fair complexion,
+      blue eyes, black hair. Handsome and charming with youthful energy and determination
+    age: 21-22 years old
+    hair: Black hair, well-groomed in fashionable style
+    clothing: Transforms from poor provincial student's worn, unfashionable clothes to elegant Parisian dandy. Evolution includes
+      fashionable frock coats, well-tailored waistcoats, expensive boots and gloves - strategic self-presentation tools
+    posture: Energetic movements full of fire and determination. Graceful, expressive gestures that can be charming and seductive
+      or thoughtful and torn by internal conflict
+    position: Standing before small cracked mirror, studying his reflection with critical intensity
+    action: Examining himself with mixture of determination and doubt after his first social defeat
+  scene:
+    mainElements: Through Rastignac's introspective eyes, his modest room appears as both prison and launching pad. The cracked
+      mirror reflects not just his physical appearance but his fractured confidence after the day's humiliation. Yet in the
+      flickering candlelight, he also sees potential for transformation and conquest.
+    details: From Rastignac's analytical perspective, every detail of his appearance becomes strategic - his provincial clothes
+      appear as obstacles to overcome, his natural good looks as weapons to sharpen. The mirror shows both his current humble
+      state and visions of his future elegant self. Letters from family represent both guilt and motivation.
+    background: Modest boarding house room with worn furniture, single candle creating dramatic shadows, small window showing
+      frost patterns like maps of future conquest
+    atmosphere: Intense self-examination mixed with renewed determination. The room pulses with internal conflict between
+      doubt and ambition, shame and resolve
+  composition:
+    cameraAngle: Over Rastignac's shoulder looking into mirror, showing both his face and reflection simultaneously
+    focus: The cracked mirror as central element showing both current reality and future dreams reflected in Rastignac's determined
+      expression
+    depth: Rastignac's contemplative figure in foreground, cracked mirror reflecting his internal division in middle ground,
+      modest room fading into shadows of past he's determined to escape, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - earthy browns
+    - muted grays
+    - somber greens
+    secondary:
+    - stone colors
+    - worn fabric tones
+    - dull blues
+    background: ordinary interiors, rural landscapes, urban settings
+    usageNotes: A sober, naturalistic palette reflecting the reality of the subject.
+    saturation: low to medium
+    contrast: natural, often reflecting harsh or plain lighting
+  lineArt:
+    style: naturalistic contours defined by form and light, not strong outlines
+    weight: n/a
+    color: integrated into the form
+    texture: realistic depiction of textures (wood, stone, cloth)
+    edgeTreatment: realistic, unidealized edges
+  lighting:
+    type: natural and often stark or unflattering light
+    direction: as it would appear in reality, without dramatic effect
+    intensity: moderate, realistic
+    shadows:
+      style: rendered truthfully from the light source
+      color: dark, neutral tones
+      opacity: realistic
+    highlights: natural reflections, not idealized
+  rendering:
+    technique: meticulous oil painting to capture details accurately
+    texture: faithful reproduction of real-world textures
+    detailLevel: high, focused on truthful representation
+    finish: matte, non-glamorous
+  perspective: accurate linear and atmospheric perspective
+  mood:
+    overall: objective, sober, observant
+    emotion: empathy, dignity in labor, social awareness
+    tempo: static, a captured moment of reality
+    keywords:
+    - objective
+    - truthful
+    - everyday
+    - unembellished
+    - social
+  stylePrecedents:
+  - Gustave Courbet
+  - Jean-François Millet
+  - Honoré Daumier
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

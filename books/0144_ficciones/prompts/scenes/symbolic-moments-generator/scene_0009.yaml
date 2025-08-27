@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Book That Rewrites Itself"
+  setting:
+    time: "Early 20th century France, afternoon in scholar's study"
+    location: "Cluttered private study of French symbolist writer, surrounded by manuscripts and books"
+    weather: "Overcast autumn afternoon with gray light through tall windows"
+  characters:
+    - appearance: "French intellectual in his 50s, thin ascetic build like desert mystic, sharp angular face with high forehead, intense deep-set eyes, graying hair in artistic disarray"
+      clothing: "Dark velvet smoking jacket worn with artistic negligence, white shirt with loose collar, silk scarf instead of tie, reflecting artistic personality over conformity"
+      position: "Seated at writing desk, hunched over manuscript pages, pen frozen in mid-air"
+      action: "Staring at pages of Don Quixote he has just written word-for-word, realizing impossible accomplishment"
+  scene:
+    mainElements: "Two identical texts side by side on desk - original Cervantes Don Quixote and Pierre Menard's supposedly identical recreation, both books open to same passage yet somehow completely different works, fountain pen hovering between them like compass needle seeking true north"
+    details: "Books transform from mere objects into philosophical paradox made tangible, identical words carrying completely different meanings based on author and historical context. Same letters form different universes of significance, showing how meaning emerges from reader's interpretation rather than author's intention. Manuscript pages seem to shimmer with impossible achievement"
+    background: "Scholar's study filled with books in multiple languages, manuscripts scattered across surfaces, portraits of authors on walls, tall windows showing gray afternoon light, ink bottles and writing supplies"
+    atmosphere: "Intellectual breakthrough creating existential vertigo, gray light emphasizing weight of impossible achievement, silence of study broken only by ticking clock, triumph mixed with cosmic horror of what has been accomplished, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up shot from above showing both books and writer's suspended hand"
+    focus: "The two identical yet completely different texts side by side on desk"
+    depth: "Open books in immediate foreground, writer's concentrated face in middle ground, cluttered study fading into soft background"

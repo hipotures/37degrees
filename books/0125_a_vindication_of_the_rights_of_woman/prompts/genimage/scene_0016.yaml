@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1792, controlled artificial lighting suggesting manufactured rather than natural environment
+    location: Educational setting where Rousseau's theories about feminine nature are being implemented
+    weather: Indoor controlled environment emphasizing artificial nature of gender ideology being taught
+  characters:
+  - appearance: Male educator representing Rousseauian philosophy about women's natural subordination
+    clothing: Academic dress marking his authority as interpreter of natural law and feminine destiny
+    position: Positioned as teacher and authority figure explaining women's supposed natural limitations
+    action: Lecturing about women's natural delicacy, need for protection, and destiny for pleasing men rather than developing
+      reason
+  - appearance: Young women being instructed in their supposed natural inferiority and proper submission
+    clothing: Modest dress appropriate to their supposed natural modesty and need for protection
+    position: Seated as passive recipients of instruction about their own limitations
+    action: Listening to teachings about their natural weakness and accepting these as scientific truth about feminine nature
+  scene:
+    mainElements: Educational setting where ideology of feminine inferiority is presented as natural philosophy and scientific
+      truth
+    details: Books and materials presenting gender hierarchy as natural law. Charts and diagrams showing supposed differences
+      in masculine and feminine capacities. Educational materials that present women's subordination as scientific fact
+    background: Academic setting lending authority to ideological instruction about gender roles
+    atmosphere: Atmosphere of systematic indoctrination where social prejudices are presented as natural philosophy and scientific
+      truth
+  composition:
+    cameraAngle: Wide shot showing the institutional nature of gender indoctrination
+    focus: The systematic teaching of feminine inferiority as natural and scientific fact
+    depth: Foreground shows students receiving indoctrination, middle ground shows authoritative instruction, background suggests
+      institutional support for gender ideology
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia tones
+    - aged paper
+    background: cream or aged paper
+    usageNotes: Primarily monochromatic, occasional sepia wash
+    saturation: none to minimal
+    contrast: high through line density
+  lineArt:
+    style: precise engraving lines
+    weight: very fine, built up in layers
+    color: black ink
+    texture: crosshatching, stippling
+    edgeTreatment: precise, controlled
+  lighting:
+    type: classical, theatrical
+    direction: three-quarter lighting
+    intensity: dramatic through line density
+    shadows:
+      style: built through crosshatching
+      color: black line density
+      opacity: varied through technique
+    highlights: white paper showing through
+  rendering:
+    technique: steel engraving simulation
+    texture: fine line patterns throughout
+    detailLevel: extremely high, meticulous
+    finish: printed illustration quality
+  perspective: classical, accurate
+  mood:
+    overall: formal, literary, refined
+    emotion: dignity, propriety, narrative drama
+    tempo: measured, contemplative
+    keywords:
+    - classical
+    - refined
+    - literary
+    - formal
+    - dignified
+  stylePrecedents:
+  - Gustave Doré
+  - John Tenniel
+  - George Cruikshank
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

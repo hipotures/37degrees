@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The All-Seeing Eye - Surveillance Network Watching Every Movement"
+  setting:
+    time: "1760s, early evening"
+    location: "Busy commercial street in Paris with hidden observation points monitoring citizen activity"
+    weather: "Overcast evening with shadows providing cover for surveillance operations"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Moving through streets unaware of constant observation, going about daily business"
+      action: "Shopping, conversing, conducting business while being secretly watched and recorded by hidden agents"
+  scene:
+    mainElements: "Concealed observers in upper windows with telescopes, guards disguised as merchants, informants mingling with crowds taking mental notes"
+    details: "Every doorway conceals potential watchers, every window might hide surveillance equipment. Small mirrors positioned to reflect street activity to hidden observers. Citizens unconsciously glance over shoulders sensing they are being watched"
+    background: "Network of observation posts connected by subtle signals, rooftop sentries communicating through coded gestures"
+    atmosphere: "Pervasive paranoia and mistrust, privacy eliminated through systematic observation, freedom constrained by constant potential for discovery and punishment"
+  composition:
+    cameraAngle: "High angle from concealed observation point, showing citizens from perspective of surveillance"
+    focus: "Central street intersection where multiple sight lines converge on unaware citizens"
+    depth: "Foreground shows detail of surveillance equipment, middle ground displays monitored citizens, background reveals network of connected observation posts"

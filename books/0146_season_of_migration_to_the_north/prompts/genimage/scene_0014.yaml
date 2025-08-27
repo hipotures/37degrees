@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1960s, morning
+    location: Courtyard area where women gather for daily tasks, traditional domestic space
+    weather: Early morning coolness before heat of day
+  characters:
+  - appearance: Elderly Sudanese woman in her eighties, weathered face showing strength and independence, direct and unconventional
+      bearing
+    clothing: Traditional toub but worn with less convention, sometimes loosely draped
+    position: Seated grinding grain or preparing food, watching younger women work
+    action: Speaking bluntly while working, occasionally pausing to study young faces with knowing recognition
+  scene:
+    mainElements: Traditional grinding stones, water jars, women engaged in daily domestic tasks, morning light revealing
+      familiar patterns
+    details: Through elder woman's perspective of generational wisdom, young women's faces reveal echoes of their mothers
+      and grandmothers - same gestures of kneading bread mirror movements from decades past, familiar complaints about husbands
+      repeat conversations she heard as young wife, patterns of marriage and childbirth cycle endlessly with slight variations.
+      Grinding stone's rhythm matches heartbeat of village continuity, morning tasks connect present women to ancestral chain
+      of domestic wisdom, no text or letters visible
+    background: Traditional courtyard with clay walls, doorways leading to family rooms, cooking areas with morning fires
+      beginning
+    atmosphere: Elder woman experiencing bittersweet recognition of life's repetitive patterns, morning domestic work carrying
+      forward ancient rhythms of women's community, sense that individual dramas are part of larger eternal cycle
+  composition:
+    cameraAngle: Elder woman's seated perspective watching patterns of women's work
+    focus: Elder woman's knowing expression as she observes familiar patterns in new generation
+    depth: Elder woman's weathered hands at work in foreground, younger women's activities in middle ground, traditional courtyard
+      space in background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - deep purple
+    - rich gold
+    - electric blue
+    - cosmic black
+    secondary:
+    - sunset orange
+    - emerald green
+    - bronze
+    background: cosmic space or african landscapes
+    usageNotes: Rich, vibrant colors inspired by African textiles and cosmic imagery
+    saturation: high
+    contrast: high
+  lineArt:
+    style: geometric patterns mixed with flowing cosmic forms
+    weight: varied, bold for patterns
+    color: gold and white on dark backgrounds
+    texture: intricate traditional patterns
+    edgeTreatment: combination of sharp geometric and flowing organic
+  lighting:
+    type: cosmic glow and dramatic lighting
+    direction: multiple sources including celestial
+    intensity: dramatic with glowing elements
+    shadows:
+      style: deep with colored undertones
+      color: purple or blue shadows
+      opacity: medium to heavy
+    highlights: metallic gleams, cosmic glows
+  rendering:
+    technique: digital art with traditional pattern elements
+    texture: mix of high-tech surfaces and traditional textures
+    detailLevel: high in patterns and technological elements
+    finish: combination of matte and metallic
+  perspective: varied, often cosmic or aerial views
+  mood:
+    overall: empowering, mystical, futuristic
+    emotion: pride, wonder, cultural celebration
+    tempo: rhythmic, powerful
+    keywords:
+    - empowering
+    - cosmic
+    - cultural
+    - innovative
+    - mystical
+  stylePrecedents:
+  - Black Panther concept art
+  - Sun Ra's cosmic philosophy
+  - Janelle Monáe's visual aesthetics
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

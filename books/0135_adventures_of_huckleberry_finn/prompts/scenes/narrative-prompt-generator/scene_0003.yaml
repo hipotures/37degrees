@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Widow Douglas Teaching Huck - Civilization Lessons"
+  setting:
+    time: "1840s Missouri, afternoon"
+    location: "Widow Douglas's parlor, St. Petersburg, Missouri"
+    weather: "Bright afternoon sunlight streaming through windows"
+  characters:
+    - appearance: "50-60 year old woman with kind but stern facial features. Matronly figure. Face shows both gentleness and firm resolve regarding proper behavior."
+      clothing: "Dark, modest but well-made dress appropriate for respectable widow. White cap or bonnet on head. Dress shows middle-class respectability."
+      position: "Sitting upright in wooden chair beside table"
+      action: "Pointing to open book, instructing with patient but firm manner"
+    - appearance: "13-14 year old white boy with slim, wiry build. Medium height for his age. Tanned, weathered skin from outdoor life. Face often dirty with keen, observing eyes. Light brown hair bleached by sun, permanently tousled and unkempt. Freckled face with boyish but wary expression."
+      clothing: "Stiff new clothes that don't fit properly. Clean white shirt, dark pants with suspenders, uncomfortable shoes on feet instead of usual bare feet."
+      position: "Fidgeting in chair across from Widow Douglas, tugging at restrictive clothing"
+      action: "Reluctantly looking at book while clearly longing to escape outdoors"
+  scene:
+    mainElements: "Modest but respectable parlor with wooden furniture, lace curtains, family Bible on table, oil portraits on walls"
+    details: "Open primer book between them, small wooden table, antimacassar doilies on chair arms, china teacup and saucer, ticking mantle clock, braided rug on wooden floor"
+    background: "Lace-curtained windows showing glimpse of freedom outside, religious pictures on papered walls, bookshelf with leather-bound volumes"
+    atmosphere: "Tension between civilized order and natural wildness, stifling indoor propriety contrasted with outdoor freedom visible through windows, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot showing both characters across table"
+    focus: "Contrast between Widow Douglas's proper posture and Huck's obvious discomfort"
+    depth: "Characters and table in foreground, parlor furnishings in middle, windows showing outside world in background"

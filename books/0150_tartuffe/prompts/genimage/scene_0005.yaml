@@ -1,0 +1,99 @@
+sceneDescription:
+  setting:
+    time: 1660s France, early evening
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: twilight approaching with golden light fading through windows
+  characters:
+  - appearance: delicate young woman aged eighteen, petite slender build, heart-shaped face with large innocent eyes, pale
+      complexion, blonde hair arranged in simple girlish curls with blue silk ribbons
+    clothing: modest but fine pale blue silk dress with higher neckline, white lace collar and cuffs, simple silver cross
+      on ribbon, soft leather shoes, carries small embroidered handkerchief
+    position: standing with back turned to her beloved, shoulders rigid with hurt pride
+    action: speaking coldly over shoulder while refusing to face him directly, dabbing eyes with handkerchief between accusations
+  - appearance: handsome young gentleman aged twenty-two, elegant bearing with fashionable dress, intelligent face now clouded
+      with wounded pride and confusion
+    clothing: well-tailored indigo silk justaucorps with gold buttons, cream silk waistcoat, pristine white linen shirt with
+      lace cravat, matching breeches, white silk stockings, polished shoes with jeweled buckles
+    position: standing at distance with hand extended pleadingly but pride preventing him from stepping closer
+    action: gesturing in frustrated confusion while arguing that if she truly loved him she would refuse the marriage, voice
+      rising with hurt and indignation
+  - appearance: sturdy woman in her thirties, compact muscular build from household work, intelligent weathered face with
+      bright alert eyes, practical manner, brown hair completely concealed under white linen cap
+    clothing: plain brown wool dress with practical cut for work, white linen apron tied at waist, white linen cap covering
+      all hair, simple leather shoes, sleeves rolled up for work, no jewelry or ornaments
+    position: moving between the quarreling lovers like a referee in boxing match
+    action: throwing hands up in exasperation at their stubborn pride, alternately grabbing each by the arm to physically
+      prevent them from leaving in opposite directions
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, elegant
+      furnishings arranged for intimate conversation now witnessing romantic dissolution
+    details: fading daylight creates romantic atmosphere ironically contrasting with lovers' quarrel, candles beginning to
+      be lit by invisible servants, expensive furniture and art creating backdrop of privilege that cannot guarantee happiness
+    background: doorways to different parts of house suggesting the separate paths the lovers threaten to take, family portraits
+      watching from walls like disapproving ancestors
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, heartbreaking sense of true love being sacrificed
+      to pride and circumstance
+  composition:
+    cameraAngle: medium shot capturing the triangle of conflict between stubborn lovers and exasperated peacemaker
+    focus: emotional distance between Mariane and Valère despite physical proximity, with Dorine's practical wisdom trying
+      to bridge their wounded pride
+    depth: foreground showing young love in crisis, middle ground displaying luxury that offers no comfort, background hinting
+      at forces beyond their control that threaten their happiness
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

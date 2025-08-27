@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Seeds Bear Fruit of Victory"
+  setting:
+    time: "506 BCE, morning after successful capture of Chu capital"
+    location: "Conquered palace garden within Chu capital Ying, formerly enemy territory now under Wu control"
+    weather: "Bright morning with warm sun encouraging new growth"
+  characters:
+    - appearance: "Chinese court advisor in his 40s, medium height, weathered face showing years of hardship, intense dark eyes with determined expression, graying hair at temples"
+      clothing: "Dark blue court robes with minimal ornamentation, practical leather boots, carries simple bronze dagger at belt, wears small jade pendant indicating court rank"
+      position: "Kneeling in garden where original symbolic seed has grown into mature plant"
+      action: "Harvesting fruit from plant that grew from seed planted symbolically at campaign's beginning"
+  scene:
+    mainElements: "Plant grown from original symbolic seed now bears actual fruit, representing how strategic patience and proper cultivation yield tangible results, seasons of planning reaching natural harvest"
+    details: "Mature fruit tree shows blossoms and ripe fruit simultaneously, representing continuous growth cycle and sustained success. Small jade pendant indicating court rank reflects morning sunlight while owner harvests fruits of long cultivation - both literal garden produce and metaphorical victory achievements. Ancient Chinese military treatise written on thin bamboo strips bound with silk cord, each strip inscribed with black ink calligraphy, rolled into compact scroll form, stored in lacquered wooden case rests open beneath tree, tactical wisdom having grown into practical success"
+    background: "Conquered Chu palace gardens showing mix of maintained beauty and recent military occupation, Wu banners among palace architecture, successful integration of victory with preservation"
+    atmosphere: "Harvest satisfaction with strategic wisdom proven effective, sound of fruit dropping into collection basket, warm morning air carrying scent of ripening produce, sense of natural conclusion to long process, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Ground level view emphasizing growth from seed to fruit-bearing maturity"
+    focus: "Mature plant with visible fruit representing fulfillment of strategic patience and proper cultivation"
+    depth: "Foreground shows detailed fruit harvest and tree maturity, middle ground captures satisfied harvester, background reveals conquered territory now peacefully integrated"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Mythical era around XII century BCE, clear morning before decisive battle
+    location: Open plain before walls of Latin capital city in central Italian countryside
+    weather: Bright, cloudless day with morning light illuminating armies in formation
+  characters:
+  - appearance: tall, powerfully built warrior with noble bearing
+    clothing: Trojan-style armor with bronze or iron cuirass, helmet with plume, greaves; civilian tunika with longer sleeves
+      in Eastern style
+    position: standing at front of Trojan formation with divine shield visible
+    action: raising sword toward enemy while addressing troops before single combat
+  - appearance: handsome young warrior described as second Achilles
+    clothing: Italian king's armor with distinctive helmet crowned by high plume with fire-breathing chimera
+    position: positioned at head of Italian forces across battlefield
+    action: pointing weapon defiantly while war-fury blazes in his expression
+  scene:
+    mainElements: Two vast armies arranged in formal battle lines across Italian plain, fortified city walls rising behind
+      one force, organized military formations with banners and standards, clear separation between opposing forces
+    details: Trojan warriors with Eastern-style equipment in disciplined ranks, Italian fighters with local weapons and shields,
+      cavalry units on flanks, bronze armor gleaming in sunlight, colorful military banners identifying units, spears creating
+      forest of points, war chariots at formation edges
+    background: Italian hill town with defensive walls and towers, rolling countryside of Latium with forests and river valley,
+      distant mountains under clear Mediterranean sky
+    atmosphere: Tension before inevitable conflict, formal military honor and ceremony, fate of nations hanging in balance,
+      divine destiny approaching fulfillment
+  composition:
+    cameraAngle: Master shot showing entire battlefield geography from elevated central position
+    focus: Two champions positioned opposite each other with armies as massive supporting elements
+    depth: Detailed military formations in foreground and middle distance, fortified city and Italian landscape in background,
+      no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,102 @@
+canon:
+  characters:
+    - id: "james_tyrone"
+      name: "James Tyrone"
+      description_block: |
+        characters:
+          - appearance: "65-year-old man who looks 10 years younger, about 173 cm tall, barczysty and broad in chest. Straight, military-style posture with head up, chest out, shoulders back. Thinning grey hair with bald spot on top resembling monk's tonsure. Handsome profile with deeply-set light brown eyes and strong facial features. Face beginning to show age but still remarkably handsome."
+            clothing: "Worn grey ready-made sack suit with non-shining black shoes. Often wears shirt without collar with thick white neckerchief loosely tied around neck. Everything deliberately worn to limits of usefulness but not picturesquely shabby. In evening wears old brown bathrobe."
+            posture: "Upright, dignified bearing with learned theatrical technique visible in movements and gestures. Beautiful, resonant and flexible voice of which he is very proud. Natural simplicity overlaid with professional stagecraft."
+
+    - id: "mary_tyrone"
+      name: "Mary Cavan Tyrone"
+      description_block: |
+        characters:
+          - appearance: "54-year-old woman of medium height with young, graceful figure that is somewhat plump but shows no signs of middle-aged spread. Thick, pure white hair arranged with pedantic care. Distinctly Irish-type face that must have been extremely pretty and still is striking. Thin, pale face with clearly-marked bone structure contrasting with healthy figure. Long straight nose, wide mouth with full, sensitive lips. Uses no rouge or makeup. Very large and beautiful dark brown eyes that appear black, with black eyebrows and long, curled lashes."
+            clothing: "Dressed simply but with sense of what becomes her. Long ankle-length dress with raised waistline typical of 1912 fashion, in muted colors like dove grey or powder blue that emphasize her delicacy and withdrawal."
+            posture: "Extremely nervous with hands never at rest. Moves with nervous grace that becomes increasingly distant and absent as morphine takes effect. When happy, trace of Irish lilt appears in voice. Has straightforward, unaffected charm of shy convent girl."
+
+    - id: "jamie_tyrone"
+      name: "James 'Jamie' Tyrone Jr."
+      description_block: |
+        characters:
+          - appearance: "33-year-old man about an inch taller than his father with same broad-shouldered build but appears shorter and stockier due to lack of father's bearing and poise. Hair thinning with beginning of father's type of baldness. Face still handsome despite signs of premature dissipation, resembling father but never as good-looking. Beautiful brown eyes, color between father's lighter eyes and mother's darker ones. Prominent aquiline nose that with habitual expression of cynicism gives face Mephistophelean look."
+            clothing: "Old suit not as worn as father's, with collar and tie. Typical costume of Broadway habitué attempting to maintain appearances of elegance undermined by general neglect."
+            posture: "Lacks father's grace in movement. Moves with nonchalance masking uncertainty. Face almost constantly twisted in cynical smirk as defensive shield. Only in rare moments when he smiles sincerely shows remnants of humorous, romantic, irresponsible Irish charm."
+
+    - id: "edmund_tyrone"
+      name: "Edmund Tyrone"
+      description_block: |
+        characters:
+          - appearance: "23-year-old man several inches taller than Jamie but thin and wiry. Plainly in bad health, much thinner than should be. Dark brown hair sun-bleached to reddish at ends, brushed straight back from high forehead. More like mother than father with her long, narrow Irish face dominated by her large dark eyes. Mouth has same hypersensitivity. Profile recalls father. Despite suntan, skin has sickly yellow pallor and cheeks are sunken. Hands remarkably similar to mother's with same exceptionally long fingers and similar nervousness."
+            clothing: "Most casually dressed of family: shirt, collar and tie but no coat, with old flannel trousers and brown canvas shoes. Attire reflects artistic, nonconformist nature and status as invalid not required to fully observe formal conventions."
+            posture: "Most resembles mother in quality of extreme nervous sensibility. Movements probably slow and economical, betraying physical weakness. Face highly expressive, easily showing pain, disappointment and sensitivity. Frequently coughs with dry, exhausting cough that shakes wasted frame."
+
+    - id: "cathleen"
+      name: "Cathleen"
+      description_block: |
+        characters:
+          - appearance: "Woman in early twenties described as sturdy Irish peasant with ruddy, pretty face, black hair and blue eyes. Good-natured but ignorant, awkward and possessed of dense, well-meaning stupidity."
+            clothing: "Typical servant's attire of period: simple dark dress (probably black or navy blue) with white starched apron and small cap on hair."
+            posture: "Moves with straightforward, earthy manner contrasting with neurotic quality of employers. Speaks with simple directness and occasional chattiness."
+
+  locations:
+    - id: "monte_cristo_cottage_exterior"
+      name: "Monte Cristo Cottage exterior"
+      description_block: |
+        setting:
+          location: "Two-story wooden frame house in New London, Connecticut, summer 1912, with view of Thames River and Long Island Sound. Victorian Stick and Queen Anne architectural style with clapboard siding."
+        mainElements: "Single-story wooden veranda running across front and north side of building. Small single-story tower with pyramidal roof on north side behind veranda. Gable end of main roof faces street creating classical pediment appearance. House painted grey with green trim, surrounded by garden vegetation."
+        atmosphere: "Initially idyllic summer residence becoming increasingly isolated and fog-shrouded as day progresses. Proximity to water allows thick fog to roll in, cutting house off from outside world."
+
+    - id: "tyrone_living_room"
+      name: "Tyrone family living room"
+      description_block: |
+        setting:
+          location: "Back living room on ground floor of Monte Cristo Cottage, New London, Connecticut, August 1912. Room with ceiling raised to impressive height of over 11 feet creating illusion of spaciousness and elegance."
+        mainElements: "Round table in center with four chairs: three wicker armchairs and one oak rocker belonging to James. Four-bulb chandelier above table with cord to green glass reading lamp on table surface. Under walls: sofa, small wicker table, oak desk. Two distinct bookcases - smaller one with contemporary 'subversive' authors (Balzac, Zola, Nietzsche, Ibsen, Swinburne) read by sons, larger one with 'respectable sets' of classics (three Shakespeare sets, Dumas, Hugo) favored by James. Portrait of Shakespeare hangs over sons' bookshelf. Three main exits: double doors left to rarely-used front parlor, similar doors rear to dark back parlor leading to dining room, right side to front hall with entrance doors and stairs to upper floor."
+        atmosphere: "Comfortable but worn furniture showing scrupulous medium-priced tastelessness of period. Dark wooden elements in shades of oak and brown. Somber brown-dark red patterned wallpaper. Heavy, oppressive atmosphere growing increasingly claustrophobic as day progresses and lighting dims."
+
+    - id: "new_london_1912"
+      name: "New London, Connecticut in 1912"
+      description_block: |
+        setting:
+          location: "Respectable seaside town in Connecticut, northeastern United States, during height of Progressive Era in August 1912. Located at mouth of Thames River where it meets Long Island Sound."
+        mainElements: "Established American coastal community with mix of permanent residents and summer visitors. Town features proper Victorian and Colonial architecture, tree-lined streets, and maritime character with boats and shipping activity. Social hierarchy exists with established Anglo-Protestant families at top and immigrant families like Irish Catholics occupying uncertain middle position despite financial success."
+        atmosphere: "Atmosphere of turn-of-century American respectability with underlying social tensions. Maritime climate allows for sudden fog formations rolling in from Sound. Era of seeming stability just before World War I disrupts old certainties."
+
+  items:
+    - id: "whisky_bottle"
+      name: "Whisky bottle"
+      description_block: |
+        details: "Bottle of Irish whiskey constantly present on living room table, level decreasing throughout day as three men use alcohol to escape painful realities. Symbol of masculine approach to coping through drink, aggression and forgetfulness. Bottle should be period-appropriate Irish whiskey with label typical of 1912 era."
+
+    - id: "morphine_vial"
+      name: "Morphine vial" 
+      description_block: |
+        details: "Small glass vial containing morphine kept hidden in spare room upstairs, never seen on stage but powerful invisible presence throughout play. Represents Mary's escape into idealized past and withdrawal from unbearable present reality."
+
+    - id: "wedding_dress"
+      name: "Mary's wedding dress"
+      description_block: |
+        details: "Old wedding gown of white satin, now yellowed and wrinkled from age and storage. Tangible symbol of Mary's lost innocence, unfulfilled hopes and happy past in which she remains forever trapped. Delicate but aged appearance, relic from different era representing dreams destroyed by time and suffering."
+
+    - id: "green_table_lamp"
+      name: "Green reading lamp"
+      description_block: |
+        details: "Green glass-shaded reading lamp standing on central table, connected by cord to chandelier above. Creates intimate but claustrophobic circle of light where most important confrontations occur. Thick green glass shade typical of period, providing focused illumination that isolates characters in pool of light surrounded by gathering darkness."
+
+    - id: "mary_eyeglasses"
+      name: "Mary's eyeglasses"
+      description_block: |
+        details: "Reading glasses that Mary constantly searches for but cannot find, symbolizing her attempt to see reality clearly and her inability to locate truth about her condition. Represents her lost connection to clear perception of present circumstances."
+
+    - id: "wall_telephone"
+      name: "Wall telephone"
+      description_block: |
+        details: "Large oak-cased wall telephone typical of 1912 with crank handle for generating signal to operator exchange, separate funnel microphone and receiver on cord. Represents intrusion of outside world bringing bad news into family's fragile illusion of normalcy."
+
+    - id: "playing_cards"
+      name: "Playing cards for solitaire"
+      description_block: |
+        details: "Standard deck of playing cards used by James for solitary card games, representing his isolation and attempt to pass time while avoiding painful family interactions. Cards become scattered on table during late-night drinking scenes."

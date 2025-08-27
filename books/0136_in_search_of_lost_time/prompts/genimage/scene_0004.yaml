@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: 1904 Balbec summer overlaid with 1910 Parisian captivity, then 1918 ethereal memory
+    location: Grand-Hôtel dining room Balbec transitioning to Paris apartment bedroom
+    weather: Bright seaside morning becoming intimate lamplight becoming misty remembrance
+  characters:
+  - appearance: 'Albertine Simonet: 16-year-old girl with tanned athletic build, dark hair, laughing eyes overlaid with 20-year-old
+      woman pale from confinement, then dissolving into memory''s uncertainty'
+    clothing: 'Balbec: simple summer beret and light dress, Paris: luxurious Fortuny silk gown in deep blues, memory: clothing
+      indistinct and flowing'
+    position: 'Same three-quarter profile: first at hotel dining table, then in apartment armchair, finally as fading presence'
+    action: Seaside self laughing with vital energy, captive self reading listlessly, memory self becoming transparent and
+      elusive
+  scene:
+    mainElements: Three-layer temporal composition where bright hotel dining room dissolves into shadowy apartment interior
+      finally becoming ethereal void. Same distinctive moving mole shifts location on face across versions.
+    details: Hotel crystal and silver becoming apartment's heavy curtains becoming memory's indistinct shapes. Fresh sea air
+      and morning light becoming stifling interior atmosphere becoming weightless remembrance.
+    background: Ocean view through hotel windows becoming Paris courtyard through apartment windows becoming blank void where
+      all certainty dissolves. Distant sound of waves becoming city murmur becoming silence.
+    atmosphere: Tragic ephemerality where vibrant youth becomes imprisoned beauty finally dissolving into memory's uncertainty.
+      Love's inability to capture or hold another being made visible through temporal dissolution, no text or letters visible
+  composition:
+    cameraAngle: Close portrait shot maintaining same framing across all three temporal layers
+    focus: Albertine's face as center of temporal transformation from substance to memory
+    depth: Foreground shows face detail across time, middle ground reveals environmental changes, background fades from specific
+      to universal void
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

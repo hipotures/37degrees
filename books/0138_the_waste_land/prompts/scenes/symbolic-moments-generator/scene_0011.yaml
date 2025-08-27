@@ -1,0 +1,17 @@
+sceneDescription:
+  title: "Sword and Olive Branch Entwined"
+  setting:
+    time: "1922, midday"
+    location: "London Bridge spanning Thames River, massive stone construction with five solid arches designed by John Rennie in 1831, early winter morning"
+    weather: "Clear cold light cutting through dissipating fog"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Ancient bronze sword and fresh olive branch lie crossed on stone bridge, their intersection creating shadow in shape of cross"
+    details: "The sword blade shows battle damage - nicks and scratches from combat, dark stains on metal that could be rust or dried blood, its hilt worn smooth by countless hands that have gripped it in anger and fear. The olive branch appears impossibly fresh and green despite the urban setting, its leaves silver-green and shimmering, small white flowers blooming along its length, representing peace and reconciliation. Where they cross, neither dominates - they exist in perfect tension, the branch's softness not broken by the blade's sharpness."
+    background: "Stone bridge structure with Thames River flowing beneath, city rising on both banks"
+    atmosphere: "Profound tension between war and peace, destruction and healing, the eternal human choice between violence and reconciliation made visible, no text or letters visible"
+  composition:
+    cameraAngle: "Overhead view looking down at the crossed sword and branch"
+    focus: "The point of intersection where war and peace meet"
+    depth: "Crossed symbols in sharp foreground, bridge stones in middle ground, London cityscape across Thames in background"

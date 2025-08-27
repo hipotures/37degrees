@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1910, evening during kitchen fire preparation
+    location: Village courtyard where cooking fire is being prepared, rural Bengal, British colonial India
+    weather: Still evening air perfect for observing smoke patterns
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Crouched beside small fire observing smoke patterns
+    action: Watching smoke tendrils rise while adding dried cow dung fuel causing different colored smoke streams
+  scene:
+    mainElements: Cooking fire producing distinct smoke patterns and colors that change with different fuel materials while
+      protagonist reads fire's aromatic messages through visible smoke behavior
+    details: Small cooking fire burns with multiple fuel sources creating different smoke characteristics - white steam from
+      wet wood, gray smoke from dried leaves, darker smoke from cow dung fuel creating layered aromatic information visible
+      in smoke patterns. Protagonist observes smoke tendrils that twist and separate based on fuel type, each stream carrying
+      different aromatic messages about fire's needs and condition. Smoke particles rise in distinct columns before dispersing,
+      creating temporary aromatic pathways visible in still evening air. Different materials produce different particle sizes
+      visible in light - fine ash dust from complete combustion, larger particles from incomplete burning indicating fuel
+      moisture or size issues. Fire itself shows varying flame colors suggesting different combustion temperatures and aromatic
+      outputs. Evening light catches smoke particles creating visibility for aromatic information normally invisible. Nearby
+      fuel materials - wood, dried dung, leaves - show different aromatic potential in their visible textures and colors.
+      No text or letters visible.
+    background: Village courtyard with prepared cooking area showing accumulated aromatic history of many evening fires
+    atmosphere: Sacred domestic ritual where fire's aromatic messages become visible guidance for maintaining proper combustion
+      and nourishment preparation
+  composition:
+    cameraAngle: Low angle showing smoke patterns rising into evening air with different characteristics
+    focus: Multiple smoke streams with different colors and particle patterns indicating various aromatic fuel messages
+    depth: 'Foreground: detailed fire with various fuel types. Middle: protagonist reading smoke patterns. Background: evening
+      air receiving aromatic messages'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

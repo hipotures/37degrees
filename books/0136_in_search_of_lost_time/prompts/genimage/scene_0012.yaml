@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1870s Charles Swann as child, 1900s Swann serving his own family, 1920s Gilberte continuing tradition
+    location: Elegant bourgeois dining room with afternoon light through lace curtains
+    weather: Consistent soft afternoon light across all three periods
+  characters:
+  - appearance: 'Three generations showing family resemblance: child Charles aged 8 with dark hair and intelligent eyes, adult
+      Charles aged 40 with mustache and monocle, young woman Gilberte aged 25 with reddish hair and black eyes'
+    clothing: 'Child: sailor suit with brass buttons, adult: morning coat with cattleya boutonniere, woman: elegant afternoon
+      dress with pearl necklace'
+    position: Same chair at head of mahogany table, each generation performing identical pouring gesture
+    action: Child learning to pour tea from silver service with careful concentration, adult serving with practiced elegance,
+      woman continuing ritual with unconscious grace
+  scene:
+    mainElements: Identical mahogany dining table with same silver tea service across generations. China pattern consistent
+      but showing accumulated chips and wear. Lace curtains replaced but maintaining same afternoon light quality.
+    details: Silver teapot gaining patina through decades of use. Same china pattern but pieces replaced over time. Table
+      linen showing progression from fresh to carefully mended to replaced. Fresh flowers consistent across periods but species
+      changing with seasons.
+    background: Dining room showing accumulated family portraits on walls. Furniture arrangement consistent but pieces showing
+      wear and careful maintenance. Window view of same garden through three stages of mature growth.
+    atmosphere: Domestic continuity where refined bourgeois culture transmits through unconscious gesture repetition. Family
+      identity maintained through ritual consistency despite temporal change, no text or letters visible
+  composition:
+    cameraAngle: Medium shot across table showing pouring gesture across three generations
+    focus: Tea service and pouring hands as central elements connecting family tradition
+    depth: Foreground shows table service details, middle ground captures generational figures, background reveals accumulated
+      family history on walls
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ever-Watchful Eyes - Surveillance Network"
+  setting:
+    time: "1651, early morning patrol hours"
+    location: "London street corners and public spaces with discrete observation points"
+    weather: "Misty morning with filtered light"
+  characters:
+    - appearance: "Man around 25 years old, 180cm tall, muscular from military training, disciplined face with short-cropped hair"
+      clothing: "Leather jerkin with steel breastplate and helmet, practical military attire"
+      position: "Standing at attention with weapon at ready, facing toward Sovereign"
+      action: "Holding musket or pike, gaze directed to commander, expression of trained discipline and loyalty"
+  scene:
+    mainElements: "Guards positioned at strategic points throughout the street, elevated watchtowers with clear sightlines, official notices posted on buildings requiring citizen compliance"
+    details: "Armed sentries at building corners, watchtowers with guards scanning the area, official proclamations mounted on posts, citizens moving carefully and quietly past observation points. Clumsy smoke-belching 17th century firearms with wooden stocks held by guards. State emblems on guard uniforms and watch posts."
+    background: "Tudor architecture with narrow streets creating natural surveillance corridors, church bells visible suggesting time regulation, official buildings with government insignia"
+    atmosphere: "Subtle tension and awareness of constant observation, muted sounds of cautious movement, sense of security through control"
+  composition:
+    cameraAngle: "High angle showing the network of surveillance points"
+    focus: "The systematic placement of guards and observation posts creating comprehensive coverage"
+    depth: "Foreground shows citizens under observation, middle reveals guard positions, background displays the controlled urban environment"

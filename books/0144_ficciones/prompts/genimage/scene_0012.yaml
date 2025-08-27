@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1824 Ireland, night of nationalist assassination
+    location: Dark Dublin street where revolutionary theater becomes actual tragedy
+    weather: Cold rainy night with fog obscuring gaslit streets
+  characters:
+  - appearance: Young heroic Irish patriot in his prime, tall noble bearing, handsome features with passionate eyes, dark
+      hair wild with revolutionary fervor, perfect specimen of romantic hero
+    clothing: Dark gentleman's coat of early 19th century, high collar, white shirt, clothing suggesting aristocratic patriot
+    position: Lying fallen in muddy street, still wearing crown from theatrical performance
+    action: Dying in street with theatrical crown rolling away into gutter, ultimate performance completed
+  scene:
+    mainElements: Ornate theatrical crown lies half-submerged in muddy puddle, gold and paste jewels reflecting gaslight,
+      symbol of kingship degraded to theater prop then elevated to martyr's halo, crown simultaneously worthless and priceless
+      depending on context and observer
+    details: Crown transforms from stage prop to sacred relic through martyrdom, gold reflecting both gaslight and spilled
+      blood, fake jewels becoming real through sacrifice. Mud threatens to swallow symbol of authority, yet crown's presence
+      transforms squalid assassination into noble tragedy. Theater and reality merge completely
+    background: Dark Dublin street with cobblestones gleaming wet, gaslight creating pools of yellow illumination, fog drifting
+      between buildings, sound of running footsteps fading in distance
+    atmosphere: Revolutionary violence and theatrical sacrifice, gaslight creating dramatic chiaroscuro, fog making scene
+      dreamlike, moment where performance becomes reality and death becomes immortality, no text or letters visible
+  composition:
+    cameraAngle: Low angle from street level showing fallen figure with crown in foreground
+    focus: The muddy crown reflecting gaslight as symbol of noble sacrifice
+    depth: Fallen crown in immediate foreground, martyred patriot in middle ground, fog-shrouded street disappearing into
+      dark background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ballroom Debate with Scientists from Multiple Eras"
+  setting:
+    time: "1860 Oxford debate with ghostly presence of past and future scientists, evening gaslight"
+    location: "Oxford University Museum of Natural History grand hall, Oxford, England"
+    weather: "Indoor controlled environment with evening gaslight illumination"
+  characters:
+    - appearance: "Various Victorian-era scientists and academics in formal evening wear"
+      clothing: "Black formal evening suits, white shirts with high collars, some in academic robes"
+      position: "Seated in tiered lecture hall arrangement, some figures appearing as transparent overlays"
+      action: "Heated debate about evolution with temporal layers showing earlier and later scientific discussions"
+  scene:
+    mainElements: "Grand Victorian lecture hall with tiered seating, ornate architecture, gaslight chandeliers, podium for speakers"
+    details: "Lecture hall showing multiple historical periods simultaneously: 1860 evolution debate overlaid with ghostly presence of earlier naturalists discussing classification and later geneticists explaining heredity, same seats occupied by different generations of scientists, gaslight fixtures evolving to electric illumination, blackboards showing equations and diagrams from different scientific eras, audience members appearing in multiple time periods with period-appropriate clothing, scientific instruments displayed on tables advancing through technological development, no text or letters visible on blackboards or documents"
+    background: "Oxford University museum architecture with Gothic revival details, specimen cases and scientific displays evolving through different periods of natural history"
+    atmosphere: "Intellectual ferment of scientific revolution with multiple generations of thinkers contributing to expanding understanding, continuity of scientific inquiry across centuries"
+  composition:
+    cameraAngle: "Wide shot from rear of hall showing full debate scene with temporal layers"
+    focus: "The podium as focal point where different eras of scientific thought converge"
+    depth: "Foreground: contemporary Victorian audience, middle: overlapping generations of scientists, background: evolving scientific displays and architecture"

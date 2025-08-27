@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mirror of Wisdom Reflects All Truths"
+  setting:
+    time: "506 BCE, evening after successful integration of conquered territory"
+    location: "Private chamber within conquered Chu palace, now serving as Wu administrative center"
+    weather: "Calm evening with peaceful atmosphere of successful conclusion"
+  characters:
+    - appearance: "Chinese king in his late 30s, tall imposing stature around 180cm, broad shoulders, well-built from combat training, black hair reaching shoulders often bound in royal topknot, clean-shaven except short mustache"
+      clothing: "Ceremonial scarlet silk robes embroidered with golden dragon motifs around chest and shoulders, wide sleeves with white silk lining, golden crown with stylized flame design, ceremonial bronze sword at waist"
+      position: "Seated before polished bronze mirror that now shows multiple perspectives simultaneously"
+      action: "Contemplating reflections that reveal past decisions, present reality, and future possibilities"
+  scene:
+    mainElements: "Polished bronze mirror surface divided into sections, each reflecting different aspects of the campaign - past planning, present victory, future responsibilities - all visible simultaneously in single surface"
+    details: "Bronze mirror shows incredible craftsmanship with surface polished to impossible clarity, reflecting multiple time periods and perspectives within single viewing surface. Ceremonial bronze sword with straight double-edged blade approximately 60cm long, wooden grip wrapped in silk cord, bronze crossguard with geometric designs, worn as symbol of military authority appears in reflection showing different aspects - ceremonial function, tactical tool, symbol of authority - all visible simultaneously"
+    background: "Simple private chamber with minimal furnishing, contrast to elaborate throne rooms, emphasizing personal reflection rather than public display"
+    atmosphere: "Contemplative wisdom gained through experience, soft evening light creating perfect conditions for reflection, sense of complete understanding achieved through successful campaign, integration of all lessons learned, no text or letters visible to viewer"
+  composition:
+    cameraAngle: "Close view of mirror surface showing multiple simultaneous reflections with contemplating figure"
+    focus: "Bronze mirror revealing past, present, and future perspectives in single surface, representing complete strategic understanding"
+    depth: "Foreground emphasizes mirror reflections and their complexity, middle ground shows king in peaceful contemplation, background suggests simple wisdom environment"

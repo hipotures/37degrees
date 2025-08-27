@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1635 spring, strategic manipulation of human beings as game pieces
+    location: Giant chessboard representing society as strategic game played by powerful forces
+    weather: Clear spring day allowing full view of strategic manipulation
+  characters:
+  - appearance: Human beings arranged as chess pieces on giant board representing social hierarchy
+    clothing: Clothing indicating social class from peasants as pawns to nobles as major pieces
+    position: Arranged on chessboard according to social hierarchy and strategic value to powerful players
+    action: Moving according to strategic decisions made by powerful game players rather than individual choice
+  - appearance: Elite strategic players moving human pieces for their own advantage
+    clothing: Wealthy aristocratic clothing representing concentrated power making strategic decisions
+    position: Elevated above chessboard in position to control strategic movements
+    action: Making strategic decisions using human beings as game pieces to advance their own interests
+  scene:
+    mainElements: Giant chessboard with human beings arranged as strategic pieces in game controlled by elite players
+    details: People positioned according to social class and strategic value, movements controlled by strategic decisions
+      rather than individual will, human lives sacrificed for strategic advantage
+    background: Society organized as strategic game where human beings serve as expendable pieces for powerful players
+    atmosphere: Human beings reduced to strategic game pieces, individual lives sacrificed for elite strategic advantage,
+      society as game board
+  composition:
+    cameraAngle: Aerial view showing society organized as strategic chess game
+    focus: Human society as strategic game played by elite using human lives as expendable pieces
+    depth: Foreground shows individual human pieces, middle ground chessboard society, background elite strategic players
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

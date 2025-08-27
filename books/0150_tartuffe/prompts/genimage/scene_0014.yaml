@@ -1,0 +1,94 @@
+sceneDescription:
+  setting:
+    time: 1660s France, late evening
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: calm evening with steady candlelight illuminating reasoned discourse
+  characters:
+  - appearance: distinguished gentleman in his late forties, tall lean build, thoughtful oval face with intelligent eyes,
+      neatly groomed appearance, wearing fashionable auburn periwig with careful curls
+    clothing: well-tailored steel blue silk justaucorps with silver embroidery, ivory silk waistcoat, white linen shirt with
+      fine lace cravat, matching silk breeches, white silk stockings, polished shoes with decorative buckles
+    position: seated across from Tartuffe in attitude of rational discourse and civilized debate
+    action: speaking with measured gestures and philosophical calm, appealing to reason and Christian charity to heal family
+      wounds
+  - appearance: man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair
+      under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire
+    clothing: plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather
+      shoes, large wooden rosary beads hanging from belt, carries small prayer book
+    position: seated with affected humility but increasingly confident posture as he deflects rational arguments
+    action: responding to logical appeals with empty religious platitudes and pious phrases, smiling condescendingly at worldly
+      wisdom
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, comfortable
+      chairs arranged for philosophical discussion
+    details: steady candlelight creating atmosphere suitable for rational discourse, religious artifacts providing ironic
+      backdrop to conversation about true versus false piety, elegant furnishings suggesting civilized society's attempt to
+      reason with unreasonable fanaticism
+    background: closed doors suggesting private attempt to reach understanding away from household chaos, family portraits
+      witnessing failure of enlightenment to penetrate willful blindness
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, profound sadness as voice of reason meets immovable
+      wall of calculated deception
+  composition:
+    cameraAngle: medium two-shot emphasizing civilized conversation doomed to failure
+    focus: contrast between Cléante's genuine philosophical appeal and Tartuffe's manipulative deflection of all rational
+      argument
+    depth: foreground showing reasoned discourse, middle ground revealing luxury household falling to deception, background
+      suggesting enlightened society's inability to defend against clever manipulation
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

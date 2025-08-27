@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Ancient Oak Witnessing Human Civilizations Rise and Fall"
+  setting:
+    time: "Geological time spanning millennia, all seasons and weather patterns"
+    location: "Single location in Kent countryside showing complete civilizational cycle"
+    weather: "All climate patterns across millennia: ice age, temperate periods, drought cycles"
+  characters:
+    - appearance: "Various human civilizations across time: prehistoric hunter-gatherers, Roman soldiers, medieval peasants, Victorian gentlemen, modern scientists"
+      clothing: "Period-appropriate dress showing cultural evolution: animal skins to togas to medieval robes to Victorian suits to modern clothing"
+      position: "Different human groups interacting with same ancient tree across millennia"
+      action: "Hunting, worshipping, building, studying same tree showing changing human relationship with nature"
+  scene:
+    mainElements: "Massive ancient oak tree as witness to complete cycle of human civilization in same location"
+    details: "Oak tree growing from seedling to ancient giant over millennia while human settlements rise and fall around it: prehistoric camps becoming Roman villa becoming medieval village becoming Victorian estate becoming modern preservation site, tree showing growth rings corresponding to historical periods, human structures built and crumbling while tree endures, archaeological layers accumulating around tree base, same tree providing shelter, worship site, landmark, and scientific study object across all human cultures, root system constant while surface settlements change, no carved initials or human text visible on ancient bark"
+    background: "Landscape showing geological features enduring while human modifications appear and disappear, distant hills and river valleys providing consistent geographic reference points"
+    atmosphere: "Cosmic perspective on human time versus natural time, ancient tree as silent witness to full scope of human civilization, continuity of natural processes underlying cultural change"
+  composition:
+    cameraAngle: "Wide establishing shot showing tree as central constant with human activity cycling around it"
+    focus: "The ancient oak as measure of deep time versus human cultural cycles"
+    depth: "Foreground: human activities across time periods, middle: enduring oak tree, background: consistent geological landscape across millennia"

@@ -1,0 +1,91 @@
+sceneDescription:
+  setting:
+    time: 1910, winter dawn during unusual Bengal snow
+    location: Snow-covered field near river Padma, rural Bengal during rare winter snowfall, British colonial India
+    weather: Gentle snowfall creating unusual winter scene in typically warm Bengal climate
+  characters:
+  - appearance: Mężczyzna w wieku około 45-50 lat, wzrost około 175 cm, szczupła, ascetyczna budowa ciała zahartowana wędrówką
+      i prostym życiem. Długie, ciemne, falujące włosy obficie przetykane pasmami siwizny, często związane w luźny węzeł na
+      karku lub swobodnie opadające na ramiona. Pełna, zadbana broda, również posiwiała. Twarz pociągła o wyrazistych, szlachetnych
+      rysach, śniada cera ogorzała od słońca i wiatru, skóra poorana zmarszczkami życiowego doświadczenia. Głęboko osadzone,
+      ciemne oczy o niezwykłej intensywności - główny nośnik stanu ducha.
+    clothing: Luźne, długie szaty (alkhalla) z surowej bawełny w kolorze szafranu, ochry lub prostej, niebielonej bawełny.
+      Tkanina surowa, czasem w widoczny sposób połatana, symbolizująca ubóstwo z wyboru. Chodzi boso, podkreślając bezpośredni
+      związek z ziemią.
+    position: Standing motionless in snow-covered field like statue frozen in contemplation
+    action: Breathing so gently that no vapor clouds form while snowflakes accumulate undisturbed on shoulders and hair
+  scene:
+    mainElements: Perfect visual silence where snow muffles all movement creating world where only stillness exists, making
+      absence of sound more profound than any noise
+    details: Fresh snow has transformed Bengal landscape into realm of absolute stillness where every surface absorbs rather
+      than reflects movement. Protagonist stands so motionless that snowflakes accumulate on his shoulders, hair, and outstretched
+      arms without disturbance, creating white sculpture of human form merged with winter silence. His footprints leading
+      to this spot are already filling with fresh snow, erasing evidence of movement. No breath vapor escapes his lips despite
+      cold air, suggesting breathing so controlled it creates no disturbance. Birds are absent from sky, leaving empty white
+      space above. Even Padma river flows silently under thin ice crust. Snow continues falling in perfectly vertical lines
+      showing complete absence of wind. Tree branches droop under snow weight without creaking. No text or letters visible.
+    background: Snow-transformed Bengal countryside where familiar sounds of rural life have been absorbed into profound white
+      silence
+    atmosphere: Sacred stillness where absence of sound becomes more present than any music, creating visual meditation on
+      the power of divine silence
+  composition:
+    cameraAngle: Wide shot emphasizing vast silent landscape with solitary motionless figure
+    focus: Undisturbed snow accumulation on protagonist's form showing depth of his stillness
+    depth: 'Foreground: fresh snow showing no disturbance. Middle: statue-like figure in white. Background: silent snow-covered
+      landscape extending to horizon'
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

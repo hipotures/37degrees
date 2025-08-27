@@ -1,0 +1,152 @@
+canon:
+  characters:
+    - id: "meursault"
+      name: "Meursault"
+      description_block: |
+        characters:
+          - appearance: "Young man aged 25-30 years, European features, average build, distant expression in eyes"
+            clothing: "Simple white linen shirt with rolled sleeves, dark trousers, black tie and armband for formal occasions"
+            position: "Standing with shoulders slightly slouched, hands often in pockets or holding cigarette"
+            action: "Moving with deliberate, economical gestures, frequently squinting against bright sunlight"
+    
+    - id: "marie_cardona"
+      name: "Marie Cardona"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged 20-25 years, tanned Mediterranean complexion, bright eyes, frequently smiling expression"
+            clothing: "Light summer dress typical of 1930s fashion, reaching mid-calf, or one-piece swimming costume"
+            position: "Standing with relaxed, natural posture, often in motion or preparing to move"
+            action: "Laughing genuinely while gesturing with hands, comfortable with physical contact"
+    
+    - id: "raymond_sintes"
+      name: "Raymond Sintès"
+      description_block: |
+        characters:
+          - appearance: "Short man around 30 years old, broad shoulders, boxer's broken nose, well-built muscular frame"
+            clothing: "Well-fitted, slightly flashy clothing such as double-breasted jacket, pressed trousers, polished shoes"
+            position: "Standing with confident, assertive posture, chest slightly puffed out"
+            action: "Making emphatic gestures with hands, speaking with animated expressions"
+    
+    - id: "salamano"
+      name: "Salamano"
+      description_block: |
+        characters:
+          - appearance: "Elderly man over 70 years old, stooped posture, reddish scabs on face, sparse yellow hair"
+            clothing: "Old, worn, somewhat disheveled clothing including faded vest and patched trousers"
+            position: "Standing hunched over, holding leather leash, looking down at ground"
+            action: "Muttering complaints while tugging leash, occasionally looking up with watery eyes"
+    
+    - id: "celeste"
+      name: "Céleste"
+      description_block: |
+        characters:
+          - appearance: "Middle-aged man 45-55 years, portly build with prominent belly, thick white mustache"
+            clothing: "White restaurant apron over simple shirt and dark trousers, sleeves rolled up"
+            position: "Standing behind restaurant counter or at table, wiping hands on apron"
+            action: "Serving food with friendly gestures, stroking mustache while talking"
+    
+    - id: "arab_man"
+      name: "Arab Man"
+      description_block: |
+        characters:
+          - appearance: "Young man aged 20-30 years, face often in shadow or seen from distance, lean build"
+            clothing: "Blue worker's coveralls, simple clothing suitable for manual labor"
+            position: "Sitting or lying in shade of large rock, often motionless"
+            action: "Remaining still, occasionally reaching for knife, mostly observed from afar"
+    
+    - id: "thomas_perez"
+      name: "Thomas Pérez"
+      description_block: |
+        characters:
+          - appearance: "Very elderly man over 80 years, deeply wrinkled face, drooping ears, blackheads on skin"
+            clothing: "Formal but slightly comical funeral attire including felt hat and creased trousers"
+            position: "Walking slowly with difficulty, often falling behind group"
+            action: "Weeping openly while struggling to keep pace, wiping tears and sweat from face"
+
+  locations:
+    - id: "algiers_apartment"
+      name: "Meursault's Apartment Building"
+      description_block: |
+        setting:
+          location: "Multi-story residential building in European quarter of French colonial Algiers, Algeria"
+        mainElements: "Narrow staircase with worn stone steps, simple apartment doors, small balcony overlooking busy street"
+        atmosphere: "Modest working-class building with sounds of tramways and street vendors echoing from below"
+    
+    - id: "algiers_beach"
+      name: "Algiers Public Beach"
+      description_block: |
+        setting:
+          location: "Mediterranean coastal beach in French colonial Algiers, Algeria"
+        mainElements: "Golden sand, clear blue water, scattered bathers, concrete changing facilities"
+        atmosphere: "Lively recreational area with sounds of waves, seagulls, and people enjoying leisure activities"
+    
+    - id: "marengo_asylum"
+      name: "Old People's Home in Marengo"
+      description_block: |
+        setting:
+          location: "Rural institutional facility 80 kilometers from Algiers in French colonial Algeria"
+        mainElements: "Simple functional buildings, whitewashed mortuary room, wooden benches, institutional furniture"
+        atmosphere: "Sterile, impersonal environment with harsh electric lighting and smell of disinfectant"
+    
+    - id: "murder_beach"
+      name: "Rocky Beach near Masson's Cabin"
+      description_block: |
+        setting:
+          location: "Isolated Mediterranean coastline with rocky outcroppings near coastal village in French colonial Algeria"
+        mainElements: "Large boulder providing shade, source of fresh water spring, burning white sand, crystal-clear sea"
+        atmosphere: "Oppressively hot, silent except for sound of waves and insect buzzing, shimmering heat distortion"
+    
+    - id: "celestes_restaurant"
+      name: "Céleste's Restaurant"
+      description_block: |
+        setting:
+          location: "Small neighborhood restaurant in European quarter of French colonial Algiers"
+        mainElements: "Simple wooden tables, basic chairs, service counter, kitchen visible from dining area"
+        atmosphere: "Friendly local establishment with aromas of cooking food and conversation of regular customers"
+    
+    - id: "courtroom"
+      name: "Colonial Courthouse"
+      description_block: |
+        setting:
+          location: "French colonial justice building in Algiers with high-ceilinged formal courtroom"
+        mainElements: "Defendant's dock, jury box, judge's elevated bench, public gallery with wooden benches"
+        atmosphere: "Stuffy, formal environment with sounds of shuffling papers and murmuring crowd"
+    
+    - id: "prison_cell"
+      name: "Prison Cell"
+      description_block: |
+        setting:
+          location: "Small stone cell in French colonial prison facility in Algiers"
+        mainElements: "Stone sleeping cot, small barred window high on wall, bare stone walls"
+        atmosphere: "Austere, quiet space with only sounds of distant footsteps and echo of voices"
+
+  items:
+    - id: "telegram"
+      name: "Death Notification Telegram"
+      description_block: |
+        details: "Small rectangular piece of yellow paper with brief, official typed message announcing death"
+    
+    - id: "black_tie"
+      name: "Borrowed Funeral Tie"
+      description_block: |
+        details: "Plain black necktie borrowed from colleague Emmanuel, accompanied by black armband"
+    
+    - id: "raymonds_gun"
+      name: "Raymond's Revolver"
+      description_block: |
+        details: "Small metallic pistol, standard design of 1930s era, feels heavy and foreign in hand"
+    
+    - id: "arab_knife"
+      name: "Arab's Knife"
+      description_block: |
+        details: "Simple work knife with worn handle, blade reflects intense Mediterranean sunlight creating blinding flashes"
+    
+    - id: "cigarettes"
+      name: "Cigarettes"
+      description_block: |
+        details: "Regular French cigarettes of 1930s, constantly present, smoked methodically as calming ritual"
+    
+    - id: "silver_crucifix"
+      name: "Judge's Crucifix"
+      description_block: |
+        details: "Polished silver religious cross on chain, held up as symbol of moral and religious authority"

@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Symbol of Absolute Power - The State Building Towering Over Citizens"
+  setting:
+    time: "1760s, sunset"
+    location: "Government complex in central Paris with massive administrative buildings representing centralized absolute monarchy"
+    weather: "Dramatic sunset light casting long shadows from imposing architecture"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Scattered as tiny figures at the base of enormous government structures"
+      action: "Walking quickly with heads down, dwarfed by architectural mass, hurrying to avoid notice of authorities"
+  scene:
+    mainElements: "Colossal stone government building with countless windows like eyes, massive entrance guarded by armed sentries, royal emblems carved in stone facades"
+    details: "Building stretches upward beyond visible frame, creating sense of infinite state power. Windows are dark and impenetrable, suggesting hidden surveillance. Guards stand motionless like statues. Bronze doors remain firmly closed to common citizens"
+    background: "Similar monumental buildings extending to horizon, creating urban landscape of state domination, narrow streets channeling citizens between walls of power"
+    atmosphere: "Crushing weight of absolute authority, individuals reduced to insignificance, architecture designed to intimidate and suppress dissent"
+  composition:
+    cameraAngle: "Extreme low angle making buildings appear to lean inward and threaten to fall"
+    focus: "Massive government facade with tiny human figures demonstrating scale disparity"
+    depth: "Foreground shows small human figures, middle ground displays imposing building mass, background extends upward into sky dominated by state architecture"

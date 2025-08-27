@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Broken Mirror of Memory"
+  setting:
+    time: "1922, early morning"
+    location: "Munich Hofgarten, public park with formal gravel paths and manicured flower beds"
+    weather: "Bright sunlight creating sharp shadows on gravel paths"
+  characters:
+    - appearance: "European aristocrat, 25-30 years old, slender elegant build, refined features bearing expression of weariness and melancholy, dark hair and eyes suggesting German heritage"
+      clothing: "Fashionable 1920s day dress in silk or linen reaching knee length, cloche hat, elegant travel coat with fur collar typical of wealthy women of the era"
+      position: "Seated at outdoor cafe table"
+      action: "Drinking coffee while lost in nostalgic memories, speaking of childhood winter sledding in mountains"
+  scene:
+    mainElements: "Ornate hand mirror lies abandoned on table beside coffee cup, its surface cracked into seven irregular pieces reflecting different fragments of the garden simultaneously"
+    details: "Each mirror fragment shows a different season - spring blossoms, summer leaves, autumn gold, winter snow - while wildflowers grow through the actual cracks in the mirror's silver backing. The broken reflection multiplies Marie's face into fragmented memories, some showing her as a child, others as she appears now. Coffee steam rises between the mirror pieces, distorting the reflections further."
+    background: "Formal garden paths stretch away with perfectly aligned trees, contrasting with the chaotic fragmentation in the foreground mirror"
+    atmosphere: "Melancholic beauty of shattered time and memory, where past and present exist simultaneously in broken reflections, no text or letters visible"
+  composition:
+    cameraAngle: "Close-up angled view focusing on the broken mirror with Marie's hands and coffee cup"
+    focus: "The cracked mirror as primary symbol of fragmented memory and lost unity"
+    depth: "Mirror fragments in foreground, Marie's contemplative figure in middle ground, orderly garden paths receding into background"

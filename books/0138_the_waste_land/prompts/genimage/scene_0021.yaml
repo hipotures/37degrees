@@ -1,0 +1,77 @@
+sceneDescription:
+  setting:
+    time: 1922, dawn of understanding
+    location: Zrujnowana, pusta kaplica pośród przewróconych grobów, ruined empty chapel among overturned graves
+  characters: No characters present in this scene
+  scene:
+    mainElements: Polished brass key with Victorian scrollwork fits perfectly into an ornate lock on a chapel door that has
+      materialized from emptiness
+    details: The key is fully restored to golden gleaming brass with all Victorian scrollwork visible and beautiful, sliding
+      into a lock that matches its intricate design perfectly. The chapel door is heavy oak with iron hinges, appearing solid
+      and real where previously there was empty doorway. As the key turns with a satisfying click, warm golden light begins
+      to pour through the opening, illuminating dust motes that dance like tiny spirits. The lock mechanism is complex and
+      beautiful, showing craftsmanship that matches the key's restoration.
+    background: Zrujnowana, kamienna, pusta kaplica w stylu gotyckim, ruined stone chapel in Gothic style with overturned
+      graves around, but now showing signs of potential restoration
+    atmosphere: Groza, oczekiwanie, pustka, but now touched with hope and possibility, the moment when purpose is finally
+      fulfilled after long searching, no text or letters visible
+  composition:
+    cameraAngle: Close-up view of the key turning in the lock with light streaming through the opening door
+    focus: The moment of fulfillment as key meets its intended lock
+    depth: Key and lock mechanism in sharp foreground, opening door and golden light in middle ground, chapel interior mystery
+      in background
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

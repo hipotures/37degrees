@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Automated Humanity - Faces Without Expression"
+  setting:
+    time: "1760s, midday"
+    location: "Government administrative office where clerks process citizens like inventory items"
+    weather: "Dim interior lit by high windows creating stark contrast between light and shadow"
+  characters:
+    - appearance: "Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public affairs. Posture shows transformation from individual to member of political body"
+      clothing: "All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality"
+      position: "Seated at identical desks arranged in geometric grid pattern throughout office space"
+      action: "Copying identical documents with mechanical precision, stamping papers in perfect rhythm, showing no individual initiative or creative thinking"
+  scene:
+    mainElements: "Endless rows of identical desks with clerks performing same repetitive tasks, stacks of identical documents, large mechanical clock governing work tempo"
+    details: "Every desk has identical supplies arranged in same pattern, every worker uses identical hand movements, every face shows same blank expression of mechanical obedience. No conversation or human interaction visible"
+    background: "Supervisory offices overlooking floor of automated human labor, filing cabinets containing standardized forms, quality control stations"
+    atmosphere: "Complete loss of individual humanity through bureaucratic systematization, people reduced to functions within administrative machinery, creativity eliminated through standardization"
+  composition:
+    cameraAngle: "Overhead view revealing geometric pattern of human automation"
+    focus: "Grid of identical workstations with workers performing synchronized clerical tasks"
+    depth: "Foreground shows detailed view of mechanical work process, middle ground displays pattern of automated humans, background extends to supervisory control systems"

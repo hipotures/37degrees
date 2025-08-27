@@ -1,0 +1,104 @@
+canon:
+  characters:
+    - id: "blanche_dubois"
+      name: "Blanche DuBois"
+      description_block: |
+        characters:
+          - appearance: "Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain and nervous, moves with moth-like nervousness and theatrical gestures"
+            clothing: "Elegant but inexpensive clothing attempting to maintain facade of refinement. White suit with fluffy bodice, pearl necklace and earrings, white gloves and hat for arrival. Often wears flowing feminine fabrics in soft colors, red or scarlet satin robes at home, tattered white evening gown with rhinestone tiara in climactic scenes"
+            posture: "Uncertain movements, nervous gestures, often covering naked light bulb with hand, frequently reaching for alcohol or cigarettes, theatrical body language with exaggerated gestures"
+    
+    - id: "stanley_kowalski"
+      name: "Stanley Kowalski" 
+      description_block: |
+        characters:
+          - appearance: "Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence. Sharp, roughly defined facial features with appraising, often mocking expression"
+            clothing: "Rough blue denim work clothes stained with grease. Tight, sweat-stained undershirts at home. Brightly colored silk shirts for bowling and poker (green-scarlet, purple, red-white checkered). Bright silk pajamas during climactic scene"
+            posture: "Moves with animal grace and violent energy. Gestures are forceful and often aggressive - hurls, stalks, slams doors. Confident, dominating physical presence"
+    
+    - id: "stella_kowalski"
+      name: "Stella Kowalski"
+      description_block: |
+        characters:
+          - appearance: "Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through most scenes. Soft, caring facial features"
+            clothing: "Simple, practical home clothing - cotton dresses, skirts, blouses without pretensions to elegance. Modest, functional attire reflecting acceptance of working-class life"
+            posture: "Moves with gentleness and calm, often serves as mediator between others. Caring, nurturing gestures, sometimes torn between loyalty and inner conflict"
+    
+    - id: "harold_mitch_mitchell"
+      name: "Harold 'Mitch' Mitchell"
+      description_block: |
+        characters:
+          - appearance: "Man 30-35 years old, tall and solidly built but moves awkwardly like dancing bear. More sensitive expression than other men, often shy and gentle"
+            clothing: "Work clothes daily, but dresses carefully for dates with neat jacket and buttoned shirt. Later appears drunk and unshaven in dirty work clothes during confrontation"
+            posture: "Clumsy, awkward movements but trying to be gentlemanly. Later becomes aggressive when disillusioned, but generally more restrained than Stanley's group"
+
+  locations:
+    - id: "elysian_fields_street"
+      name: "Elysian Fields Street, New Orleans"
+      description_block: |
+        setting:
+          location: "Working-class street in New Orleans French Quarter, between L&N railroad tracks and Mississippi River. Two-story corner building with weathered white wooden frame turned gray, rickety external stairs, galleries with ornate gables"
+        mainElements: "Cosmopolitan, racially mixed neighborhood with raffish charm. Street life spills onto sidewalks, verandas, and stairways. Nearby bar with blue piano music, railroad tracks, river warehouses"
+        atmosphere: "Mix of vitality and decay, humid heat, sounds of blue piano, train whistles, street vendors calling, smells of coffee, bananas, and mustiness from river"
+    
+    - id: "kowalski_apartment_kitchen"
+      name: "Kowalski Apartment - Kitchen/Living Room"
+      description_block: |
+        setting:
+          location: "Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with fold-out bed for guests"
+        mainElements: "Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling with green glass shade over dining area. Portières instead of solid doors to bedroom"
+        atmosphere: "Claustrophobic, lacking privacy, harsh lighting from naked bulb, saturated with masculine energy during poker games and domestic tension"
+    
+    - id: "kowalski_apartment_bedroom"  
+      name: "Kowalski Apartment - Bedroom"
+      description_block: |
+        setting:
+          location: "Small bedroom adjoining kitchen, separated only by portières, central bed dominates cramped space"
+        mainElements: "Double bed, Blanche's trunk with scattered belongings, dresser with perfumes and powder, wardrobe"
+        atmosphere: "Intimate but constantly invaded space, site of passion between Stella and Stanley, and ultimate violation of Blanche"
+
+  items:
+    - id: "naked_light_bulb"
+      name: "Naked Light Bulb"
+      description_block: |
+        details: "Single harsh electric bulb hanging from kitchen ceiling, casting unforgiving bright light. Later covered with paper Chinese lantern to soften illumination"
+    
+    - id: "paper_lantern"
+      name: "Chinese Paper Lantern"
+      description_block: |
+        details: "Inexpensive colored paper lantern that Blanche places over naked bulb to create softer, more romantic lighting and hide harsh reality"
+    
+    - id: "blanche_trunk"
+      name: "Blanche's Trunk"
+      description_block: |
+        details: "Large traveling trunk containing Blanche's possessions - elegant but worn dresses, fake furs, rhinestone jewelry, love letters from deceased husband Allan, documents from Belle Reve plantation"
+    
+    - id: "poker_table"
+      name: "Kitchen Poker Table"
+      description_block: |
+        details: "Kitchen table covered with yellow linoleum, used for poker games. Surrounded by chairs for Stanley, Mitch, Steve, and Pablo. Cards, poker chips, cash, and whiskey bottles scattered across surface"
+    
+    - id: "radio"
+      name: "Radio"
+      description_block: |
+        details: "Large wooden radio cabinet that Stanley violently throws out window during poker night when Blanche tries to dance with Mitch"
+    
+    - id: "meat_package"
+      name: "Butcher's Meat Package"
+      description_block: |
+        details: "Blood-stained brown paper package of raw meat that Stanley hurls to Stella from street, symbolizing his primitive, sexual dominance"
+    
+    - id: "whiskey_bottle"
+      name: "Whiskey Bottle"
+      description_block: |
+        details: "Bottle of whiskey that Blanche secretively drinks to calm her nerves and escape reality. Later broken and used as weapon against Stanley"
+    
+    - id: "silver_cigarette_case"
+      name: "Mitch's Silver Cigarette Case"
+      description_block: |
+        details: "Engraved silver cigarette case that belonged to Mitch's deceased girlfriend, sentimental object he shows to Blanche"
+    
+    - id: "bus_ticket"
+      name: "Bus Ticket to Laurel"
+      description_block: |
+        details: "One-way Greyhound bus ticket back to Laurel, Mississippi, that Stanley cruelly gives Blanche as birthday present, representing her exile and defeat"

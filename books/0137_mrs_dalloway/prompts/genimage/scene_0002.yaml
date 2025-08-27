@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: June 1923, mid-morning around 10:15 AM
+    location: Westminster district streets, London, heart of British Empire establishment
+    weather: Beautiful clear June morning, soft breeze, bright sunlight creating sharp shadows
+  characters:
+  - appearance: 52-year-old woman, slender and filigranous build with delicate frame, sharp aristocratic facial features with
+      prominent hooked nose like bird's beak, very white hair from illness, small face with bright intelligent eyes, moves
+      with natural grace and elegance
+    clothing: Simple elegant day dress in light color, cloche hat and gloves for morning walk, evening dress in shimmering
+      green silk in mermaid style for party, well-dressed but not ostentatious according to modest spending habits
+    position: Walking purposefully down Westminster pavement, surrounded by morning crowd
+    action: Moving through familiar streets with heightened awareness, every detail appearing vivid and significant
+  scene:
+    mainElements: Westminster district in London, heart of British Empire establishment, Georgian terraced houses with white
+      porticoes and black wrought iron balustrades, symmetrical windows, dominated by monumental historic architecture
+    details: Through Clarissa's euphoric lens, street transforms into theater of life, Portland stone buildings glowing like
+      temples in morning sun, red buses appearing as magnificent scarlet chariots, black iron railings becoming musical staffs,
+      pedestrians moving in choreographed dance, shop windows blazing with jewel-like colors, Big Ben's distant chimes creating
+      symphony of time, no text or letters visible
+    background: Parliament buildings and Big Ben tower looming majestically, distant Thames glimpsed between buildings, early
+      morning London traffic creating rhythmic urban symphony
+    atmosphere: Dynamic pulsing with life, mixture of vitality and oppressive order, but filtered through Clarissa's joy making
+      everything seem charged with meaning and beauty, psychological state transforming ordinary street into stage for life's
+      grand drama
+  composition:
+    cameraAngle: Subjective tracking shot from Clarissa's eye level, moving forward with her rhythm and excitement
+    focus: Street details appearing hyperreal and significant through her heightened awareness, colors more saturated than
+      objective reality
+    depth: Immediate foreground shows pavement and her moving feet, middle ground captures fellow pedestrians and street life,
+      background reveals Westminster's architectural grandeur
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

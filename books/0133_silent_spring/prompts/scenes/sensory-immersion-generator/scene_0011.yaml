@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Steam Rising from Cooling Bread in Chemical-Free Kitchen"
+  setting:
+    time: "1962 morning, early"
+    location: "Traditional American farmhouse kitchen before widespread chemical contamination of food supply"
+    weather: "Cool morning air creating visible steam from warm bread"
+  characters:
+    - appearance: "Typical American suburbanite of early 1960s, clean-cut appearance reflecting post-war prosperity and optimism, age varying by scene context"
+      clothing: "Middle-class American attire - women in modest dresses or skirts, men in casual slacks and shirts or business attire, children in simple play clothes"
+      position: "Standing at kitchen counter, removing fresh bread from cooling racks"
+      action: "Enjoying natural bread aroma before chemical preservatives change food production"
+  scene:
+    mainElements: "Fresh-baked bread cooling on wooden racks with visible steam curling upward in graceful spirals, natural wheat fragrance suggested by baker's satisfied expression and deep breathing posture, kitchen filled with wholesome food preparation"
+    details: "Golden-brown bread loaves releasing visible steam clouds in cool morning air, spiral patterns of vapor rising from warm crust, baker taking deep satisfied breaths suggesting rich wheat and yeast aromas, traditional kitchen ingredients visible on counters, morning sunlight illuminating steam patterns creating ethereal atmosphere, simple glass windows allowing natural ventilation, wholesome food preparation without chemical additives"
+    background: "Traditional American farmhouse kitchen with wooden cabinets, checkered tablecloth, simple appliances representing pre-chemical food era, garden herbs growing on windowsill"
+    atmosphere: "Pure, natural food aromas in era before chemical preservation, wholesome domestic life celebrating natural nutrition, simple pleasures of traditional food preparation, no text or letters visible"
+  composition:
+    cameraAngle: "Medium shot emphasizing steam patterns and baker's appreciation"
+    focus: "Visible steam suggesting natural bread aromas and human enjoyment"
+    depth: "Foreground shows detailed bread and steam, middle ground includes baker's reaction, background reveals traditional kitchen environment"

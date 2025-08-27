@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Letter Written at Night - Socrates Accepts the Challenge"
+  setting:
+    time: "375 BCE, deep night"
+    location: "andron of Kefalos house, symposium now transformed into philosophical laboratory"
+    weather: "still night air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "leaning forward with renewed energy and purpose"
+      action: "accepting challenge to defend justice by proposing to examine it in large letters of the state first"
+    - appearance: "handsome aristocratic young man, athletic build from military service, intelligent eyes"
+      clothing: "refined himation and chiton indicating high social status, polished bronze accessories"
+      position: "seated attentively awaiting response"
+      action: "watching with satisfaction as philosopher takes up their serious philosophical gauntlet"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Writing materials appearing on table as if to record the coming discourse, oil lamps repositioned for serious work, wine service transformed into scholarly setting"
+    background: "household settling into deeper night while philosophical work begins in earnest"
+    atmosphere: "sense of momentous undertaking beginning as casual symposium becomes systematic philosophical inquiry"
+  composition:
+    cameraAngle: "close-up on hands and materials suggesting serious intellectual labor about to begin"
+    focus: "moment of acceptance and commitment to vast philosophical enterprise"
+    depth: "scholarly preparations in foreground, committed philosophers in middle ground, sleeping household in background"

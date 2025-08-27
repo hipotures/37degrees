@@ -1,0 +1,81 @@
+sceneDescription:
+  setting:
+    time: 1940s Buenos Aires, midnight
+    location: Abandoned symmetrical Villa Triste-le-Roy in Buenos Aires suburbs, architectural nightmare of obsessive repetitions
+    weather: Clear cold night with full moon casting geometric shadows
+  characters:
+  - appearance: Experienced detective in his 40s, tall lean build, ascetic face with sharp angular features, cold penetrating
+      eyes, thin lips, intellectual bearing suggesting pure reason incarnate
+    clothing: 'Impeccable 1940s detective attire: dark charcoal suit, pressed white shirt, narrow tie, black trench coat,
+      fedora hat, polished leather shoes'
+    position: Standing between two opposing mirrors in villa's central hallway
+    action: Staring at infinite reflections of himself, hand reaching toward gun in coat, realizing trap too late
+  scene:
+    mainElements: Two massive mirrors face each other across narrow hallway, creating infinite corridor of reflections where
+      detective's image multiplies endlessly, each reflection slightly distorted, becoming progressively more grotesque with
+      distance, silver surfaces tarnished and cracked with age
+    details: Mirrors transform from simple reflective surfaces into portals of nightmare, showing not just detective's image
+      but revealing his intellectual pride as fatal flaw. Each reflection appears more desperate, more trapped, creating visual
+      metaphor for labyrinth of pure reason that becomes prison. Cracks in mirror surfaces suggest breakdown of logical world
+    background: Symmetrical villa with double staircases, duplicated balconies, rhomboid windows casting colored light patterns,
+      empty rooms filled with dust and shadows, architectural madness of perfect mathematical repetition
+    atmosphere: Geometric nightmare and intellectual trap closing, cold moonlight mixing with colored window light, sense
+      of mind-game reaching deadly conclusion, mathematical beauty becoming instrument of death, no text or letters visible
+  composition:
+    cameraAngle: Straight-on shot down corridor showing infinite reflections
+    focus: The endless multiplication of detective's image disappearing into mirror infinity
+    depth: Detective's real form in middle ground, first few reflections clear in middle distance, infinite progression fading
+      to ghostly suggestions in far background
+visualElements:
+  colorPalette:
+    primary:
+    - a wide, symbolic palette where colors are tied to emotions (e.g., deep blues for melancholy, vibrant yellows for joy,
+      harsh reds for anger)
+    secondary:
+    - neutral tones for "unexplored" or subconscious territories
+    background: a textured surface like old paper, a nebula, or a biological cell texture
+    usageNotes: Color is purely symbolic and is used to create an emotional topography.
+    saturation: varies depending on the intensity of the emotion represented
+    contrast: varies, creating areas of calm and areas of emotional conflict
+  lineArt:
+    style: a mix of fluid, wandering lines (thoughts) and sharp, jagged lines (anxieties), connecting various symbolic nodes
+    weight: varies; thicker lines for dominant thought patterns, thinner for fleeting ideas
+    color: ink-like black or colors that reflect the nature of the thought
+    texture: hand-drawn, personal, like a diary entry
+    edgeTreatment: lines can be smooth, broken, or frayed
+  lighting:
+    type: flat, diagrammatic, or with a subtle inner glow on certain "hotspots" of emotional intensity
+    direction: n/a
+    intensity: varies
+    shadows:
+      style: none, or subtle drop shadows on symbolic elements to give them importance
+      color: light gray
+      opacity: subtle
+    highlights: certain nodes or regions might glow, representing epiphanies or core memories
+  rendering:
+    technique: mixed-media look, combining ink drawing, watercolor washes, and collaged symbols
+    texture: paper texture, watercolor bleeds, layered elements
+    detailLevel: highly intricate, filled with tiny symbols and annotations
+    finish: matte, handcrafted, personal
+  perspective: a top-down, 2D map perspective
+  mood:
+    overall: introspective, complex, personal
+    emotion: a full range of human emotions, from joy to despair
+    tempo: complex and multi-layered, inviting slow exploration
+    keywords:
+    - introspective
+    - symbolic
+    - complex
+    - personal
+    - emotional
+  stylePrecedents:
+  - Abstract Expressionism (for its emotionality)
+  - Antique cartography and star charts
+  - Mind mapping techniques
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

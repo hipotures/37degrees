@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Palace of Colonial Authority"
+  setting:
+    time: "1950s Algeria, late afternoon"
+    location: "Imposing French colonial government building in Algeria, grand architecture symbolizing imperial power"
+    weather: "Golden afternoon light casting long shadows"
+  characters:
+    - appearance: "Middle-aged European man in his 40s, stern authoritative demeanor, sunglasses, tense posture betraying underlying fear of revolt"
+      clothing: "Elegant civilian suit typical of 1950s colonial administration"
+      position: "Standing on palace steps"
+      action: "Ascending grand staircase with briefcase, embodying colonial administrative power"
+  scene:
+    mainElements: "Massive stone columns, French flags, marble halls, imposing staircases, official portraits"
+    details: "Towering neoclassical facade with French tricolor flags flanking entrance, armed guards at attention, marble lions on pedestals, brass plaques listing colonial achievements, manicured gardens with geometric patterns, official government vehicles parked in courtyard"
+    background: "French colonial district extending beyond palace, European-style buildings creating backdrop of imperial control"
+    atmosphere: "Overwhelming display of colonial authority designed to intimidate and assert dominance over subject population"
+  composition:
+    cameraAngle: "Low angle emphasizing building's imposing scale and authority"
+    focus: "Government palace as monument to colonial power, human figure dwarfed by architecture"
+    depth: "Palace steps and entrance in foreground, building facade in middle ground, colonial district in background"

@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1962 spring, late morning
+    location: Elm tree on Midwestern university campus showing effects of DDT treatment for Dutch elm disease
+    weather: Mild spring day with filtered sunlight
+  characters:
+  - appearance: Middle-aged researcher in 40s, thoughtful expression, wearing practical eyeglasses, appearance suggesting
+      dedication to scientific truth over corporate interests
+    clothing: White laboratory coat over shirt and tie, practical attire for fieldwork when outdoors, clothing indicating
+      scientific profession
+    position: Standing beside massive elm tree, hand touching bark surface
+    action: Examining texture contrast between natural bark roughness and artificial chemical coating
+  scene:
+    mainElements: Massive elm tree trunk showing dramatic textural contrast between deeply grooved natural bark and smooth,
+      artificial chemical residue coating, researcher's fingers tracing boundary between rough organic surface and slick pesticide
+      film
+    details: Deep furrows and ridges of mature elm bark creating complex natural texture, glossy chemical coating creating
+      unnaturally smooth patches where DDT treatment has dried, stark visual and tactile contrast between organic roughness
+      and artificial smoothness, researcher's fingertips detecting difference between natural tree surface and chemical residue,
+      small sections where coating has begun peeling away revealing bark beneath
+    background: Prestigious university grounds in American Midwest, expansive green lawns beneath towering elm trees, red
+      brick academic buildings covered with ivy, representing centers of learning and scientific inquiry
+    atmosphere: Disturbing contrast between natural organic complexity and artificial chemical simplification, sense of environmental
+      intervention masquerading as protection, scientific investigation revealing hidden environmental modification, no text
+      or letters visible
+  composition:
+    cameraAngle: Close-up macro view emphasizing textural contrasts
+    focus: Hand contact showing difference between rough bark and smooth chemical coating
+    depth: Extreme foreground shows detailed bark texture, middle ground reveals researcher examination, background suggests
+      campus environment
+visualElements:
+  colorPalette:
+    primary:
+    - vibrant green
+    - sky blue
+    - golden yellow
+    - clean white
+    secondary:
+    - warm orange
+    - natural wood brown
+    - soft lavender
+    background: bright blue sky with white clouds
+    usageNotes: Bright, optimistic colors inspired by nature and sunlight
+    saturation: medium to high
+    contrast: moderate
+  lineArt:
+    style: flowing organic curves inspired by Art Nouveau
+    weight: medium, elegant
+    color: natural greens and browns
+    texture: smooth, botanical
+    edgeTreatment: soft, organic transitions
+  lighting:
+    type: abundant natural sunlight
+    direction: golden hour lighting
+    intensity: bright and warm
+    shadows:
+      style: soft, dappled through foliage
+      color: cool blue-green
+      opacity: light
+    highlights: sun glints on solar panels and glass
+  rendering:
+    technique: clean digital painting with organic details
+    texture: natural materials, living plants, smooth tech
+    detailLevel: high in botanical elements
+    finish: fresh, clean, luminous
+  perspective: wide panoramic views showing city-nature integration
+  mood:
+    overall: hopeful, harmonious, peaceful
+    emotion: optimism, community, wonder
+    tempo: calm, flowing
+    keywords:
+    - optimistic
+    - sustainable
+    - harmonious
+    - verdant
+    - innovative
+  stylePrecedents:
+  - Vincent Callebaut architecture
+  - Studio Ghibli nature scenes
+  - Art Nouveau botanical designs
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

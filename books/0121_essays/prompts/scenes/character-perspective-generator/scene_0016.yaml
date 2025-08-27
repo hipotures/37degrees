@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Documentary Reality of Horse Accident"
+  setting:
+    time: "1573, midday collision"
+    location: "Forest path near Château de Montaigne in Aquitaine countryside"
+    weather: "Clear neutral daylight revealing exact physical details"
+  characters:
+    - appearance: "Middle-aged nobleman thrown from horse, body contorted in mid-air fall, face showing physical shock"
+      clothing: "Riding attire torn and disheveled from violent collision, hat flying off separately"
+      position: "Airborne between horses after collision, limbs splayed unnaturally"
+      action: "Falling unconscious through air after being struck by companion's larger horse"
+    - appearance: "Companion rider on large powerful horse, face showing alarm at accidental collision"
+      clothing: "Riding costume appropriate for nobleman's outing, reins pulled tight trying to control mount"
+      position: "Still mounted but struggling to control horse after collision"
+      action: "Fighting to control powerful horse that struck companion, looking back in horror"
+  scene:
+    mainElements: "Precise documentation of violent collision between horses on forest path, showing exact physical dynamics"
+    details: "Dust cloud erupts from collision point showing force of impact, horse hooves churn earth creating precise pattern of disturbed ground, fallen rider's trajectory follows exact laws of physics, scattered riding equipment marks collision site, second horse rears showing muscular tension and fear, forest witnesses remain unchanged by human drama, sunlight illuminates scene with neutral clarity revealing every detail, no text or letters visible"
+    background: "Unchanged forest continuing natural cycles regardless of human accident, trees and path maintaining eternal indifference"
+    atmosphere: "Clinical neutrality of physical forces operating without emotional interpretation, nature's indifference to human suffering or philosophical meaning"
+  composition:
+    cameraAngle: "Neutral documentary angle capturing exact mechanics of collision without emotional interpretation"
+    focus: "Physical dynamics of accident showing precise cause and effect without subjective meaning"
+    depth: "Foreground shows collision impact, middle ground captures falling figure, background reveals indifferent natural setting, no text or letters visible"

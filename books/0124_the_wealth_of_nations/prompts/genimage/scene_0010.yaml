@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: 1776, twilight atmosphere of suppression
+    location: Public library or bookseller shop with empty shelves and censored materials
+    weather: Dim twilight filtering through windows
+  characters:
+  - appearance: Scholarly citizens in middle-class dress, looking frustrated and disappointed
+    clothing: Respectable wool coats, simple but clean attire of educated middle class, spectacles for reading
+    position: standing before empty bookshelves with expressions of disappointment
+    action: examining sparse selection of approved books while speaking in hushed tones, glancing around nervously
+  scene:
+    mainElements: Library interior with many empty shelves where books have been removed, remaining books show only government-approved
+      titles, signs indicating restricted access, locked cabinets presumably containing forbidden materials
+    details: Bookshelves show obvious gaps where volumes have been removed, dust outlines indicating missing books. Remaining
+      titles are clearly government-approved materials. Locked glass cabinets suggest forbidden books stored away from public
+      access. Citizens speak in whispers, suggesting atmosphere of intellectual suppression
+    background: Library setting with reading tables and chairs, some citizens quietly reading approved materials, librarian
+      appearing nervous and watchful
+    atmosphere: Intellectual oppression and restricted access to ideas, citizens showing frustration with limited information,
+      atmosphere of censorship constraining free thought
+  composition:
+    cameraAngle: Medium shot emphasizing empty shelves and frustrated citizens
+    focus: Citizens examining limited book selection with obvious disappointment
+    depth: Empty bookshelves prominent in foreground, disappointed citizens in middle ground, nervous librarian visible in
+      background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

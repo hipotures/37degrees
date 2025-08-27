@@ -1,0 +1,16 @@
+sceneDescription:
+  title: "The Clock with Seasons for Hands"
+  setting:
+    time: "Beyond time"
+    location: "Temporal abstraction made visible"
+  characters:
+    No characters present in this scene
+  scene:
+    mainElements: "Enormous grandfather clock stands in open space, but instead of traditional hands, it has miniature seasonal landscapes that rotate around the clock face"
+    details: "The clock tower is ancient dark wood with ornate carvings, standing impossibly tall. The clock face is traditional white enamel with Roman numerals, but the hour hand is a tiny spring landscape complete with budding trees, green grass, and flowers that actually bloom and wither in real time. The minute hand is a summer scene with full leafy trees, bright sunshine, and growing crops. The second hand moves as autumn with changing leaves falling continuously. The pendulum swings with winter scenes of snow and bare branches. The clock makes no sound, and the seasons rotate regardless of actual time passage."
+    background: "Undefined space that could be indoors or outdoors, with mysterious light that changes with the seasonal hands"
+    atmosphere: "Meditation on time's passage and the disconnect between mechanical measurement and natural cycles, eternal present where all seasons exist simultaneously, no text or letters visible"
+  composition:
+    cameraAngle: "Medium view showing the full clock with emphasis on the seasonal hands"
+    focus: "The rotating seasonal landscapes serving as clock hands"
+    depth: "Clock tower in foreground, seasonal hand details in middle ground, shifting light effects in background"

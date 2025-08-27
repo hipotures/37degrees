@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 'Simultaneous ghostly overlays: 1917, 1924, 1935, 1944'
+    location: Main reception room of Al-Jawad family house showing accumulated memory layers
+    weather: Evening interior lighting across all time periods
+  characters:
+  - appearance: 45-year-old Egyptian man with imponująca, strong physique, black hair with thick mustaches, piercing blue
+      eyes, large prominent nose, commanding presence that fills space
+    clothing: 'At home: white cotton galabija. In public: well-tailored European suit with waistcoat, white shirt, red felt
+      fez (tarbush) with black tassel'
+    position: Standing with authority and dignity, movements heavy and measured
+    action: Multiple transparent versions receiving different guests across decades
+  - appearance: Various family members and guests from different time periods
+    clothing: Period-appropriate dress showing fashion evolution
+    position: Overlapping positions creating temporal density
+    action: Different social gatherings occurring simultaneously as memory layers
+  scene:
+    mainElements: Interior of traditional Cairene middle-class house organized around small open courtyard (hosh) providing
+      light and ventilation, serving as memory repository for decades of family events
+    details: 'Multiple transparent layers: 1917 celebration with full family, 1924 political discussions, 1935 reduced gatherings,
+      1944 wartime sparse meetings. Same Persian Shiraz carpet with rich multicolored patterns but showing different degrees
+      of wear in each layer. Furniture remains consistent but shows progressive aging. Lighting evolution from oil lamps to
+      electric bulbs creating different atmospheric moods, no text or letters visible'
+    background: Whitewashed walls contrasting with dark massive wooden furniture, same architectural elements hosting decades
+      of accumulated social memory
+    atmosphere: Palimpsest effect of overlapping social gatherings, sense of room holding memory of all events, temporal density
+      creating feeling of historical weight and continuity
+  composition:
+    cameraAngle: Wide view showing multiple transparent temporal layers simultaneously
+    focus: Central space where all temporal gatherings overlap, creating density of social memory
+    depth: 'Foreground: overlapping furniture in different states, middle ground: multiple transparent figure groups, background:
+      consistent architecture holding all memories'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

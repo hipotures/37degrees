@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Socratic Counterattack - The Madman's Weapons"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "leaning forward on couch with intense focus"
+      action: "presenting counter-example with surgical precision, hands miming giving sword to dangerous person"
+    - appearance: "very elderly man with white hair and beard, weathered face showing wisdom and contentment of age"
+      clothing: "fine woolen himation befitting wealthy metojk, ceremonial wreath on head from recent sacrifice"
+      position: "seated in chair, posture shifting from confidence to contemplation"
+      action: "considering the philosophical challenge with furrowed brow, hand stroking beard in thought"
+  scene:
+    mainElements: "andron (men's dining room) with raised platforms along walls, wooden klinai couches with woven leather bases and colorful cushions, low portable tables, ceramic symposium vessels"
+    details: "Lamp flames seeming to flicker more intensely during intellectual confrontation, wine forgotten as minds focus on argument, shadows deepening as evening progresses, air of philosophical combat"
+    background: "other symposium guests pausing their conversations to witness the debate"
+    atmosphere: "intellectual tension replacing social pleasantries as philosophical method begins to expose weaknesses"
+  composition:
+    cameraAngle: "medium shot showing both debaters with emphasis on body language"
+    focus: "Socrates delivering methodical counter-argument while Kefalos processes the challenge"
+    depth: "philosopher's animated gestures in foreground, elder's thoughtful response in middle ground, audience reactions in background"

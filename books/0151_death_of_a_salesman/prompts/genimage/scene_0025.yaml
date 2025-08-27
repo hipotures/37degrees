@@ -1,0 +1,88 @@
+sceneDescription:
+  setting:
+    time: 1949, late afternoon
+    location: small fragile-looking wooden house in Brooklyn, New York, surrounded by towering angular apartment buildings
+      that cast oppressive shadows, feeling of being trapped and enclosed
+    weather: late afternoon light with different quality than opening scene
+  characters:
+  - appearance: 34 years old, well-built athletic man, tall with broad shoulders from physical work, face showing internal
+      conflict and weariness, hands roughened from farm labor, expression mixing frustration with deep sadness
+    clothing: work clothes - practical cotton shirt, denim pants, sturdy boots, when trying to dress for business - simple
+      dark suit that seems uncomfortable on him
+    position: standing in doorway of house, no longer silhouetted but clearly visible
+    action: opening door to step out into world, carrying single small suitcase instead of heavy sample cases, moving forward
+      with purpose
+  scene:
+    mainElements: modest two-story frame house with weathered siding, small front yard with struggling plants, apartment towers
+      looming on all sides like walls of a canyon, man stepping forward rather than retreating
+    details: Single modest suitcase representing personal belongings rather than business burden. Door open wide to world
+      beyond house. Plants in yard showing slight signs of new growth despite difficult conditions. Light falling differently
+      on same buildings, suggesting change in perspective if not circumstances.
+    background: towering angular apartment buildings creating canyon-like enclosure, windows of neighboring buildings, urban
+      landscape still present but no longer quite as oppressive
+    atmosphere: oppressive and claustrophobic, orange glow from city lights creates harsh illumination while blue light from
+      sky provides only faint relief, sense of urban pressure closing in - but figure now moving toward rather than away from
+      this world, accepting rather than being crushed by circumstances
+  composition:
+    cameraAngle: medium shot from slightly below, still showing looming buildings but emphasizing forward movement
+    focus: figure stepping through doorway toward uncertain but chosen future, no longer trapped by circumstances or family
+      expectations
+    depth: foreground shows threshold being crossed decisively, middle ground captures figure moving forward with new determination,
+      background reveals same urban canyon but no longer crushing - simply the world that must be faced
+visualElements:
+  colorPalette:
+    primary:
+    - dark browns
+    - grays
+    - muted greens
+    - black
+    secondary:
+    - dirty whites and yellows
+    - somber reds
+    - flesh tones
+    background: city streets, tenements, bars, and back alleys
+    usageNotes: A dark, somber palette reflecting the gritty reality of the urban poor.
+    saturation: low, desaturated
+    contrast: medium, often with a dark overall tonality
+  lineArt:
+    style: loose, energetic, painterly lines, often sketched quickly
+    weight: varied and expressive
+    color: integrated into the paint, often dark
+    texture: rough, quick brushwork
+    edgeTreatment: soft, painterly, not sharply defined
+  lighting:
+    type: realistic but moody urban light
+    direction: streetlights, light from windows, overcast daylight
+    intensity: often low, creating a dark, atmospheric feel
+    shadows:
+      style: broad, dark areas of paint
+      color: dark browns and blacks
+      opacity: heavy, painterly
+    highlights: quick, energetic dabs of lighter paint
+  rendering:
+    technique: alla prima (wet-on-wet) oil painting, capturing a moment quickly
+    texture: visible, energetic brushstrokes, sometimes thick impasto
+    detailLevel: moderate, focusing on mood and character over fine detail
+    finish: painterly, raw, energetic
+  perspective: realistic, often at street level, like a snapshot or journalistic sketch
+  mood:
+    overall: gritty, authentic, vital
+    emotion: empathy, observation, a sense of life and energy amidst the grime
+    tempo: dynamic, captured moment
+    keywords:
+    - gritty
+    - urban
+    - authentic
+    - realist
+    - energetic
+  stylePrecedents:
+  - Robert Henri
+  - George Bellows
+  - John Sloan
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

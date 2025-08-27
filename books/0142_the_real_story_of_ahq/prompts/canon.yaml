@@ -1,0 +1,132 @@
+canon:
+  characters:
+    - id: "ah_q"
+      name: "Ah Q"
+      description_block: |
+        characters:
+          - appearance: "Malnourished Chinese man in late twenties, lean and weak build with angular face, weathered skin. Mandarin queue hairstyle with front of head shaved, brownish scrawny queue hanging down back. Most distinctive feature is shiny ringworm scars on scalp that turn scarlet red when angry or humiliated"
+            clothing: "Ragged indigo-dyed cotton jacket and loose pants, patched and dirty from constant wear, made from coarse hand-woven cloth typical of rural laborers"
+            posture: "Alternates between hunched, defeated posture after humiliation and swaggering, arrogant stride during moments of 'spiritual victory'"
+    
+    - id: "chao_taiye"
+      name: "Chao T'ai-yeh (Venerable Mr. Chao)"
+      description_block: |
+        characters:
+          - appearance: "Well-fed Chinese landowner in his fifties, stocky build with slight paunch. Stern face prone to flushing scarlet with anger. Traditional Mandarin queue well-maintained and groomed. Authoritative bearing"
+            clothing: "Traditional long dark changshan robe made of quality silk or fine cotton, worn with vest (magua) over it. Clean, well-tailored garments in subdued colors befitting scholarly-official class"
+            posture: "Slow, commanding gestures with hands often resting on hips. Moves with dignity and certainty of his authority"
+
+    - id: "false_foreign_devil"
+      name: "Ch'ien Shao-yeh (False Foreign Devil)"
+      description_block: |
+        characters:
+          - appearance: "Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style but wears fake braided queue poorly attached. Represents failed modernization"
+            clothing: "Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village attire. Clothes mark him as pretentious outsider"
+            posture: "Stiff, nervous movements. Carries bamboo mourning stick as weapon, using it for beatings with cold precision"
+
+    - id: "wu_ma"
+      name: "Wu Ma (Amah Wu)"
+      description_block: |
+        characters:
+          - appearance: "Young Chinese servant woman around twenty years old, simple and neat appearance. Hair smoothly combed back and tied. Face expresses shock and terror when confronted"
+            clothing: "Plain cotton blouse and pants in light or neutral color. Clean but modest practical work attire suitable for domestic service"
+            posture: "Covers face with hands when frightened, flees when threatened. Normal movements are efficient and work-focused"
+
+    - id: "young_d"
+      name: "Young D"
+      description_block: |
+        characters:
+          - appearance: "Malnourished Chinese man in late twenties, lean and weak build nearly identical to Ah Q in poverty and physical condition. Gaunt, underfed appearance"
+            clothing: "Equally torn and patched clothing as Ah Q, dirty rags of indigo-dyed cotton. Garments show extreme wear and poverty"
+            posture: "Hunched posture, uncertain movements. Physical mirror of Ah Q's destitution and marginalization"
+
+    - id: "young_nun"
+      name: "Young Nun"
+      description_block: |
+        characters:
+          - appearance: "Young Chinese girl around sixteen to eighteen years old, small delicate frame. Most distinctive feature is freshly shaved head typical of Buddhist nuns"
+            clothing: "Simple grey Buddhist nun's habit, plain and unadorned monastic robes"
+            posture: "Initially calm and composed movements, becomes defensive with crying and protective gestures when harassed"
+
+    - id: "mustachioed_wang"
+      name: "Mustachioed Wang"  
+      description_block: |
+        characters:
+          - appearance: "Chinese man in his thirties, stronger and better-built than Ah Q. Prominent mustache or beard as suggested by nickname. More robust physical presence"
+            clothing: "Similar rural clothing to other village loafers but in slightly better condition than Ah Q's rags"
+            posture: "Aggressive stance, broad gestures. Physical confidence of someone higher in village pecking order"
+
+  locations:
+    - id: "weizhuang_village"
+      name: "Weizhuang Village"
+      description_block: |
+        setting:
+          location: "Fictional rural village in Zhejiang Province, eastern China during late Qing Dynasty period around 1911. Traditional Chinese countryside with network of canals and rice fields"
+        mainElements: "Low single-story traditional Chinese houses with grey tile roofs, narrow muddy streets without urban planning. Wooden structures with brick or wattle-and-daub filling on stone foundations"
+        atmosphere: "Closed, hermetic community dominated by feudal hierarchy. Stagnant social order with dusty streets, gossip, and daily brutality. Harsh sunlight creates deep shadows during day"
+
+    - id: "tutelary_god_temple"
+      name: "Temple of Tutelary God"
+      description_block: |
+        setting:
+          location: "Small ruined village shrine dedicated to local earth deity (Tudi Miao) on outskirts of Weizhuang, serves as shelter for Ah Q"
+        mainElements: "Tiny single-room structure in state of decay. Wooden columns once painted red now faded and cracked. Grey tile roof partially collapsed with weeds growing in gaps. Doorless dark entrance. Interior has beaten earth floor, pile of dirty straw bedding, small soot-blackened altar with simple stone deity figure"
+        atmosphere: "Abandonment, desolation and cold. Musty smell of neglect. Represents complete social marginalization of its inhabitant"
+
+    - id: "chao_compound"
+      name: "Chao Family Compound"  
+      description_block: |
+        setting:
+          location: "Traditional Chinese courtyard house (siheyuan) of wealthy Chao clan, center of power in Weizhuang village"
+        mainElements: "High grey brick wall surrounding property, heavy wooden gate painted vermillion red indicating wealth and status. Spirit wall (zhaobi) behind entrance blocks view of courtyard. Stone-paved inner courtyard surrounded by main buildings with ornate wooden lattice windows. Main hall has heavy dark wooden furniture and possibly ancestral altar"
+        atmosphere: "Order, hierarchy, and inaccessibility. Quiet, controlled environment projecting authority and exclusion from common villagers"
+
+    - id: "village_tavern"
+      name: "Village Tavern (Wine Shop)"
+      description_block: |
+        setting:
+          location: "Public drinking establishment in Weizhuang, center of male social interaction and gossip"
+        mainElements: "Simple single-story building with open front facing street. Long wooden counter with large clay wine jars behind it. Rough wooden tables and benches. Beaten earth or uneven wooden plank floor"
+        atmosphere: "Continuous chatter and arguments. Thick air from smoke, alcohol smell and sweat. Dim lighting from street entrance creates shadows in back. Boisterous, crude and aggressive social space"
+
+    - id: "quiet_self_improvement_convent"
+      name: "Convent of Quiet Self-Improvement"
+      description_block: |
+        setting:
+          location: "Small Buddhist monastery outside Weizhuang with vegetable garden, isolated religious retreat"
+        mainElements: "White-washed walls contrasting with surrounding green fields. Low earthen wall around property with vegetable plots containing bamboo and mulberry trees. Modest ascetic architecture"
+        atmosphere: "Peaceful isolation, simplicity. Clean, well-tended grounds separate from village chaos and corruption"
+
+    - id: "county_yamen"
+      name: "County Administrative Office (Yamen)"
+      description_block: |
+        setting:
+          location: "Official government building in county town, seat of imperial bureaucracy and legal proceedings"
+        mainElements: "Large formal hall with high ceiling. Raised platform for magistrate behind massive wooden desk. Stone floor creating echo. Side areas for guards. Sparsely furnished emphasizing official authority"
+        atmosphere: "Intimidating governmental power. Dark, shadows cast by flickering oil lamps at night. Bureaucratic coldness, designed to overawe common people"
+
+  items:
+    - id: "bamboo_mourning_stick"
+      name: "Bamboo Mourning Stick"
+      description_block: |
+        details: "Thin bamboo cane carried by False Foreign Devil as weapon for beating people. Makes sharp cracking sound when used. Symbol of his borrowed, pretentious authority and casual violence"
+
+    - id: "foreign_rifles"
+      name: "Foreign Rifles"
+      description_block: |
+        details: "Modern Western firearms brought by revolutionaries, stark contrast to traditional village. Represent intrusion of modern warfare technology into pre-industrial world"
+
+    - id: "crooked_circle"
+      name: "Crooked Circle (Death Warrant Signature)"
+      description_block: |
+        details: "Imperfect circular mark drawn by Ah Q's trembling hand with ink brush on legal document. Represents his illiteracy and sealed fate. Symbol of flawed life and cyclical nature of Chinese history"
+
+    - id: "white_vest"
+      name: "White Execution Vest"
+      description_block: |
+        details: "White vest made of foreign cloth with black characters worn by condemned prisoner. Associated with mourning and death. Terrifies Ah Q who sees it as funeral garment"
+
+    - id: "mandarin_queue"
+      name: "Mandarin Queue (Pigtail)"
+      description_block: |
+        details: "Traditional Manchu-imposed hairstyle with front of head shaved and remaining hair braided into long braid down back. Political symbol of loyalty to Qing Dynasty. Ah Q's is described as scrawny and brownish, False Foreign Devil wears fake one, elite maintain well-groomed versions"

@@ -1,0 +1,79 @@
+sceneDescription:
+  setting:
+    time: August 1912, early evening, around 5:30 PM
+    location: Two-story wooden frame house in New London, Connecticut, summer 1912, with view of Thames River and Long Island
+      Sound. Victorian Stick and Queen Anne architectural style with clapboard siding.
+    weather: Thick fog rolling in from water, beginning to envelop house and surroundings
+  characters: No characters present in this scene
+  scene:
+    mainElements: Single-story wooden veranda running across front and north side of building. Small single-story tower with
+      pyramidal roof on north side behind veranda. Gable end of main roof faces street creating classical pediment appearance.
+      House painted grey with green trim, surrounded by garden vegetation.
+    details: Dense white fog bank advancing from Thames River and Long Island Sound, gradually obscuring distant view and
+      beginning to surround cottage, garden flowers becoming indistinct in advancing mist, house beginning to look isolated
+      and cut off from world
+    background: Connecticut countryside disappearing into fog, other summer cottages becoming invisible, sky completely overcast
+      and darkening toward evening
+    atmosphere: Environmental transformation reflecting family's emotional fog, house becoming isolated fortress cut off from
+      outside world, nature providing perfect metaphor for addiction and withdrawal from reality, no text or letters visible
+  composition:
+    cameraAngle: Wide shot showing house being gradually enveloped by advancing fog
+    focus: Advancing wall of fog transforming peaceful cottage into isolated prison
+    depth: Foreground clear garden details, middle ground house partially obscured, background complete fog obscurity
+visualElements:
+  colorPalette:
+    primary:
+    - stark contrasts
+    - deep reds
+    - harsh yellows
+    - midnight blues
+    secondary:
+    - acid greens
+    - violent purples
+    - stark whites
+    background: turbulent, uneven color fields
+    usageNotes: Clashing, emotional color choices
+    saturation: very high or very low
+    contrast: extreme
+  lineArt:
+    style: jagged, emotional
+    weight: heavy, uneven
+    color: black or contrasting colors
+    texture: rough, aggressive
+    edgeTreatment: angular, distorted
+  lighting:
+    type: dramatic, unnatural
+    direction: multiple conflicting sources
+    intensity: harsh
+    shadows:
+      style: deep, angular
+      color: unnatural colors
+      opacity: heavy
+    highlights: stark, unsettling
+  rendering:
+    technique: rough brushwork
+    texture: visible, aggressive strokes
+    detailLevel: simplified for emotional impact
+    finish: raw, unfinished feeling
+  perspective: distorted, unsettling
+  mood:
+    overall: intense, psychological, disturbing
+    emotion: anxiety, alienation, passion
+    tempo: urgent, unstable
+    keywords:
+    - psychological
+    - intense
+    - emotional
+    - disturbing
+    - raw
+  stylePrecedents:
+  - Edvard Munch
+  - Ernst Ludwig Kirchner
+  - Egon Schiele
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

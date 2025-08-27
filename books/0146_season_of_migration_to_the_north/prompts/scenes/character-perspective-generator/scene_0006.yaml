@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Mustafa's View of Village - Calculated Sanctuary"
+  setting:
+    time: "1960s, early morning"
+    location: "Traditional Sudanese village beside bend of Nile River in Northern Province, viewed from elevated position near riverbank"
+    weather: "Clear morning light revealing village in full detail"
+  characters:
+    - appearance: "Handsome Sudanese man around fifty years old, noble broad forehead, wide-set eyebrows forming crescents over eyes, sharply defined nose with hair growing from nostrils, thick graying hair, head in perfect proportion to neck and shoulders"
+      clothing: "Simple farmer's djellaba in earth tones"
+      position: "Standing on slight rise overlooking village, hands clasped behind back"
+      action: "Surveying village with cold analytical gaze, assessing rather than admiring"
+  scene:
+    mainElements: "Earth-toned buildings seeming to grow from ground, date palm groves along riverbank, irrigation channels, villagers beginning morning activities"
+    details: "Through Mustafa's calculating perspective, village appears as perfect hiding place rather than home - clay houses seem like camouflage allowing him to blend invisibly, simple villagers appear as unwitting shields protecting his anonymity. Every familiar element that narrator saw as blessing, Mustafa sees as strategic advantage: isolated location means no probing questions, traditional ways ensure no one challenges his fabricated identity, agricultural rhythms provide reliable routine for maintaining his disguise, no text or letters visible"
+    background: "Wide Nile River stretching toward distant horizon, cultivated fields extending to desert, other villages barely visible in distance"
+    atmosphere: "Cold analytical assessment rather than emotional connection, village appearing as useful tool rather than beloved community, morning light revealing practical benefits of rural anonymity rather than spiritual belonging"
+  composition:
+    cameraAngle: "Elevated perspective showing Mustafa's surveying position above village"
+    focus: "Mustafa's calculating expression as he studies his chosen refuge"
+    depth: "Mustafa in commanding position in foreground, village spread below in middle ground, Nile and distant lands in background, no text or letters visible"

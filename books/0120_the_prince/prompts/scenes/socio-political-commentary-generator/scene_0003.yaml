@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Citizens in Perfect Order - Illusion of Social Harmony"
+  setting:
+    time: "1513, morning ceremonial hour"
+    location: "Main piazza of Renaissance Italian city-state with cathedral and government palace"
+    weather: "Crisp morning with dramatic shadows"
+  characters:
+    - appearance: "Citizens of various ages and social classes arranged in organized groups"
+      clothing: "Period-appropriate Renaissance clothing indicating social hierarchy - wealthy merchants in fine fabrics, artisans in quality wool, laborers in simpler garments"
+      position: "Standing in orderly formations facing government buildings"
+      action: "Participating in civic ceremony with synchronized gestures of loyalty and submission"
+  scene:
+    mainElements: "Stone-paved piazza surrounded by impressive civic and religious architecture. Citizens arranged in geometric patterns before authority symbols. Banners and heraldic symbols prominently displayed."
+    details: "Guild banners representing different trades and professions. Religious icons mixed with civic symbols. Guards positioned strategically around perimeter. Official proclamations being read from elevated platform."
+    background: "Cathedral spires and palace towers dominating skyline. Market stalls temporarily cleared for ceremony. Windows of surrounding buildings filled with observing residents."
+    atmosphere: "Carefully orchestrated display of civic unity and submission to authority. Underlying tension beneath surface harmony."
+  composition:
+    cameraAngle: "Elevated wide shot showing organized crowd patterns"
+    focus: "Geometric arrangement of citizens as symbol of controlled society"
+    depth: "Foreground shows individual faces in crowd, middle ground reveals organized patterns, background displays imposing architecture of power"

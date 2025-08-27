@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: Treta Yuga ancient era, dramatic lighting during the great war
+    location: Battlefield outside Lanka's walls during climactic war, area devastated by supernatural combat with broken weapons
+      and churned earth
+    weather: Storm clouds with unnatural lighting reflecting cosmic battle between good and evil
+  characters:
+  - appearance: Ancient powerful demon with ten heads and twenty arms, each face capable of different expressions, powerfully
+      built with dark skin, sharp fangs, imposing and terrifying yet majestic presence
+    clothing: Richest royal silk garments and golden crown on each of ten heads, covered in precious jewels, body anointed
+      with sandalwood paste
+    position: Standing in war chariot preparing for final battle, all ten faces showing different emotions
+    action: Raging with fury over death of his son, twenty arms gesturing in different threatening poses
+  scene:
+    mainElements: Extreme close-up of Ravana's multiple faces filling frame to show incredible detail of supernatural fury
+      and power. Each of ten faces expressing different emotion simultaneously - rage, grief, determination, hatred, pride,
+      desperation - creating complex psychological portrait of ultimate antagonist
+    details: Sharp focus on central face with others slightly softer but visible, elaborate golden crowns and jeweled ornaments
+      on each head catching storm light, eyes glowing with supernatural fire, fangs visible in snarling mouths, rich textures
+      of royal garments and demon skin
+    background: Blurred battlefield devastation with storm clouds and supernatural lighting creating dramatic chiaroscuro
+      effect
+    atmosphere: Peak moment of demonic rage and supernatural power, dramatic lighting with multiple light sources from celestial
+      weapons and storm, sense of ultimate evil confronting its final defeat
+  composition:
+    cameraAngle: Close-up shot with multiple faces filling frame in complex arrangement
+    focus: Central face in sharpest focus with gradual soft focus on surrounding heads
+    depth: Multiple focal planes showing ten faces with different degrees of sharpness, blurred battle background, no text
+      or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - lapis blue
+    - rich gold
+    - crimson
+    - jade green
+    secondary:
+    - turquoise
+    - ivory
+    - burnt orange
+    background: aged paper with gold accents
+    usageNotes: Rich natural pigments with gold leaf details
+    saturation: high
+    contrast: medium
+  lineArt:
+    style: fine ink outlines around figures and patterns
+    weight: thin, delicate
+    color: dark brown or black (with gold highlights)
+    texture: smooth, flowing
+    edgeTreatment: crisp, organic curves
+  lighting:
+    type: flat (decorative, non-realistic)
+    direction: none (stylized)
+    intensity: even
+    shadows:
+      style: minimal or decorative patterns
+      color: deeper tones of base colors
+      opacity: light
+    highlights: gold leaf shine
+  rendering:
+    technique: hand-painted miniature on paper
+    texture: smooth with fine brush strokes
+    detailLevel: very high (elaborate details and patterns)
+    finish: matte with metallic gold accents
+  perspective: stacked, flattened perspective
+  mood:
+    overall: elegant, narrative, cultural
+    emotion: scholarly beauty, nostalgia
+    tempo: calm and detailed
+    keywords:
+    - ornate
+    - historical
+    - narrative
+    - delicate
+    - rich
+  stylePrecedents:
+  - Shahnameh miniature paintings
+  - Kamal ud-Din Behzad (Persian court artist)
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

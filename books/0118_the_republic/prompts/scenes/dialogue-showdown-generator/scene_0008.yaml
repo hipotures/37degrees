@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Across the Table - Philosophical Combat"
+  setting:
+    time: "375 BCE, evening"
+    location: "wealthy metojk residence in Piraeus, built around central courtyard typical of Greek domestic architecture"
+    weather: "calm evening air"
+  characters:
+    - appearance: "stout, middle-aged philosopher with bulging eyes, upturned nose, and physically plain features reminiscent of a satyr"
+      clothing: "simple woolen himation cloak over basic chiton tunic, worn leather sandals or barefoot"
+      position: "leaning forward across low table toward opponent"
+      action: "pressing argument that just person should never harm anyone, using geometric precision in reasoning"
+    - appearance: "energetic young man in twenties, clean-shaven with dark hair, athletic build from gymnasium training"
+      clothing: "well-tailored chiton and himation showing family wealth, quality leather sandals"
+      position: "leaning back defensively from philosophical assault"
+      action: "struggling to defend conventional morality against systematic deconstruction"
+  scene:
+    mainElements: "low portable table between the debaters loaded with symposium vessels acting as philosophical battlefield, andron space creating arena for intellectual combat"
+    details: "Wine cups and food forgotten as mental battle intensifies, table surface reflecting lamplight between opponents, ceramic vessels seeming to vibrate with tension of debate"
+    background: "other guests forming circle around central confrontation, household slaves pausing their duties"
+    atmosphere: "electric tension of minds clashing across physical barrier of table, intellectual warfare replacing social dining"
+  composition:
+    cameraAngle: "overhead shot showing table as dividing line between opposing philosophies"
+    focus: "geometric arrangement emphasizing opposition across physical and intellectual divide"
+    depth: "table surface in foreground, leaning debaters in middle ground, circle of witnesses in background"

@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "The Coughing Signal - Desperate Wife's Growing Panic"
+  setting:
+    time: "1660s France, evening"
+    location: "spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center, 1660s France under reign of Louis XIV"
+    weather: "evening with dramatic candlelight casting moving shadows"
+  characters:
+    - appearance: "elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments"
+      clothing: "fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan"
+      position: "seated on sofa with growing desperation as Tartuffe becomes more aggressive"
+      action: "coughing louder and more frequently as agreed signal while trying to fend off increasingly bold advances, fan waving frantically"
+    - appearance: "man in his forties, stocky and well-fed build with ruddy complexion, round face with fleshy cheeks, dark hair under simple cap or short-cut natural style, small calculating eyes that shift between false piety and cunning desire"
+      clothing: "plain dark brown wool coat reaching to knees, simple white linen shirt underneath, dark breeches, worn leather shoes, large wooden rosary beads hanging from belt, carries small prayer book"
+      position: "pressing closer on sofa, emboldened by her apparent cooperation"
+      action: "reaching for her more boldly while explaining that secret sins are no sins at all, completely ignoring her increasingly desperate coughing"
+  scene:
+    mainElements: "high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive rectangular oak dining table where Orgon remains stubbornly hidden despite obvious signals"
+    details: "dramatic candlelight creating ominous shadows as situation becomes dangerous, heavy table cloth concealing husband who refuses to emerge despite wife's clear distress signals, religious artifacts mocking scene of assault on virtue"
+    background: "closed doors trapping wife with predator while husband's cowardice leaves her defenseless, family portraits witnessing failure of male protection"
+    atmosphere: "atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious conflict, air thick with unspoken accusations and family discord, mounting terror as trap backfires and wife finds herself truly trapped with dangerous man"
+  composition:
+    cameraAngle: "tightening shot emphasizing Elmire's growing panic and Tartuffe's increasing aggression"
+    focus: "desperate coughing becoming more violent while husband remains criminally passive under table"
+    depth: "foreground showing woman in real danger, middle ground revealing cowardly husband's failure to protect, background suggesting complete isolation from help"

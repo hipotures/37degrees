@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Uniform Identity - Identical Clothing and Gestures"
+  setting:
+    time: "1651, morning assembly time"
+    location: "Public square in London for daily citizen gathering and instruction"
+    weather: "Clear morning with formal lighting"
+  characters:
+    - appearance: "Man around 45 years old, slightly corpulent build showing prosperity, shrewd intelligent face, short practical hair"
+      clothing: "Well-tailored but austere black wool suit, simple white collar and cuffs, wide-brimmed hat, representing Parliamentary supporter dress"
+      position: "Standing respectfully with slight bow toward Sovereign, hands clasped in deference"
+      action: "Face expressing mixture of hope for peace and fear of authority they helped create, eyes focused on Sovereign"
+  scene:
+    mainElements: "Large crowd of citizens dressed in nearly identical clothing, all performing the same respectful gestures simultaneously, creating visual uniformity that erases individual identity"
+    details: "Citizens in matching dark wool clothing with white collars, all bowing at identical angles, hands positioned identically, facial expressions showing same respectful attention. Simple clay pipes tucked away uniformly in identical pockets. State symbols repeated on clothing and accessories."
+    background: "Public square with official platform for announcements, uniform architecture surrounding the space, state banners hanging at regular intervals"
+    atmosphere: "Collective identity overwhelming individual personality, synchronized sounds of unified movement, social conformity masquerading as harmony"
+  composition:
+    cameraAngle: "Wide shot showing the mass uniformity of appearance and gesture"
+    focus: "The elimination of individual identity through enforced conformity"
+    depth: "Foreground shows individual citizens lost in crowd uniformity, middle displays the mass geometric pattern, background reveals controlling architecture"

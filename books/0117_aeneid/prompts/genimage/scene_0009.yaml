@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: Mythical era in timeless underworld realm
+    location: Elysian Fields with eternal sunlight and peaceful groves in realm of blessed dead
+    weather: Supernatural eternal springtime with divine radiance
+  characters:
+  - appearance: elderly, frail patriarch with divine authority in spirit form
+    clothing: flowing robes of spiritual realm that shimmer with otherworldly light
+    position: standing among souls of future Roman heroes beside river of memory
+    action: gesturing toward procession of unborn spirits while wisdom radiates from transformed features
+  scene:
+    mainElements: Ethereal landscape of afterlife with supernatural groves bearing golden fruit, river Lethe flowing with
+      waters of forgetfulness, souls of heroes waiting for rebirth
+    details: Spirits of future Romans in gleaming procession, divine light emanating from blessed souls, golden trees with
+      supernatural fruit, crystal-clear waters reflecting spiritual radiance, other blessed spirits engaged in eternal pastimes,
+      supernatural architecture defying mortal understanding
+    background: Infinite vistas of Elysium with divine light replacing sun, other regions of underworld visible in distance,
+      eternal peace pervading spiritual realm
+    atmosphere: Divine wisdom transcending mortal understanding, eternal peace of blessed afterlife, prophetic revelation
+      of glorious destiny
+  composition:
+    cameraAngle: Medium shot capturing spiritual authority and relationship with divine prophecy
+    focus: Transformed patriarch sharing divine wisdom with supernatural landscape supporting prophetic vision
+    depth: Spiritual figures in luminous foreground, procession of souls in middle distance, infinite Elysian vistas in ethereal
+      background, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

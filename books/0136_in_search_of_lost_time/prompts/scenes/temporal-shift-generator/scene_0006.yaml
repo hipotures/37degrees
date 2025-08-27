@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Combray Hawthorn Path - Spring Awakening to Summer Fulfillment"
+  setting:
+    time: "Early May to late July, same year, morning light progression"
+    location: "Country path beside Combray church leading toward Swann's estate, Beauce countryside"
+    weather: "Cool spring morning with soft breeze becoming warm summer day with gentle heat"
+  characters:
+    - appearance: "Young Marcel aged 7, small boy with contemplative eyes and delicate features, same figure across seasonal transition"
+      clothing: "Spring: light wool jacket and knickers, summer: linen shirt and cotton shorts, both periods showing bourgeois child's attire"
+      position: "Standing beside hawthorn hedge at same spot, reaching toward blossoms in both seasons"
+      action: "Spring self discovering first white buds with wonder, summer self touching full pink and white blooms with familiar reverence"
+  scene:
+    mainElements: "Same hawthorn hedge showing seasonal transformation from bare branches with tiny green buds to full flowering glory. Church tower constant background. Stone path shows wildflower progression."
+    details: "Spring hedge: delicate white buds just opening, fresh green leaves unfurling, morning dew on thorns. Summer hedge: abundant pink and white blossoms creating natural cathedral, leaves full and deep green, bees gathering nectar."
+    background: "Swann's estate gardens visible through hedge gaps showing corresponding seasonal change. Village rooftops consistent but showing different light quality. Sky changing from pale spring blue to deep summer azure."
+    atmosphere: "Aesthetic awakening where child's first encounter with natural beauty deepens into understood appreciation. Innocence discovering art in nature's seasonal rhythm, wonder maturing into recognition, no text or letters visible"
+  composition:
+    cameraAngle: "Low angle from child's perspective showing hedge towering above across both seasons"
+    focus: "Hawthorn blossoms as center of temporal transformation from promise to fulfillment"
+    depth: "Foreground shows child's reaching gesture, middle ground captures hedge transformation, background maintains church as eternal constant"

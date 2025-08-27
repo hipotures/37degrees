@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, very late night
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Hot, oppressive late night air
+  characters:
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Brightly colored silk shirt now disheveled from drinking and anger
+    position: Standing in center of chaos, towering over destruction
+    action: In explosive rage, hurling radio against wall, turning toward women with violent intent
+  - appearance: Woman approximately 25 years old, gentle build, described as plump as little partridge. Visibly pregnant through
+      most scenes. Soft, caring facial features
+    clothing: Simple nightgown or house dress, appearance disheveled from violence
+    position: Recoiling from male violence, hands raised protectively
+    action: Shrinking away from violent outburst, showing shock and fear
+  scene:
+    mainElements: Large wooden radio cabinet that Stanley violently throws out window during poker night when Blanche tries
+      to dance with Mitch
+    details: Radio smashed against wall creating debris and chaos. Poker cards and chips scattered across floor. Overturned
+      chairs from sudden violence. Broken glass and furniture fragments. Harsh electric light illuminating destruction. Men
+      frozen in shock at sudden escalation. No text or letters visible
+    background: Kitchen table covered with yellow linoleum, used for poker games. Surrounded by chairs for Stanley, Mitch,
+      Steve, and Pablo. Cards, poker chips, cash, and whiskey bottles scattered across surface
+    atmosphere: Sudden eruption of primitive violence shattering evening's entertainment. Raw masculine aggression unleashed
+      without warning. Fear and shock replacing jovial mood. Sense of dangerous unpredictability
+  composition:
+    cameraAngle: Dynamic shot capturing moment of explosive violence
+    focus: Destructive action and terrified reactions of witnesses
+    depth: 'Foreground: flying debris and violence; middle ground: shocked observers; background: destroyed domestic space'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

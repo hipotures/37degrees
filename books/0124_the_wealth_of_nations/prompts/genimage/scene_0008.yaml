@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1776, afternoon stark sunlight
+    location: London street showing dramatic contrast between wealthy Georgian mansion and poor tenement
+    weather: Bright harsh sunlight creating sharp shadows
+  characters:
+  - appearance: 60-year-old aristocrat, portly frame with ruddy complexion from outdoor life and good food, round pleasant
+      face, powdered wig for formal occasions
+    clothing: riding coat of fine wool in brown, leather breeches, tall riding boots, practical country gentleman attire rather
+      than court dress
+    position: stepping from elegant carriage at mansion entrance
+    action: alighting from luxury coach with footman assistance, displaying wealth through fine dress and equipage
+  - appearance: Poor laborers in ragged clothing, thin from inadequate nutrition, weathered faces showing hard life
+    clothing: Patched and worn garments, shabby coats, broken shoes, clothing showing poverty and hard labor
+    position: huddled in doorway of crumbling tenement building
+    action: watching the wealthy arrival with mixture of resentment and resignation
+  scene:
+    mainElements: Elegant Georgian mansion with classical facade and manicured grounds directly adjacent to crumbling tenement
+      building with broken windows and deteriorating stonework, highlighting extreme economic inequality
+    details: Wealthy mansion shows polished stone, pristine paintwork, ornate iron railings, well-maintained gardens with
+      trimmed hedges. Luxury carriage with livried servants displays aristocratic wealth. Adjacent tenement shows cracked
+      walls, boarded windows, refuse in street, representing stark poverty. The contrast occurs within single street view
+    background: London street continuing with similar contrasts, other mansions and slums in close proximity, suggesting systemic
+      inequality
+    atmosphere: Shocking economic disparity within same geographical space, tension between extreme wealth and poverty, visual
+      representation of class-based society
+  composition:
+    cameraAngle: Wide shot capturing both mansion and tenement in single frame
+    focus: Dramatic contrast between aristocrat's luxury and poor workers' conditions
+    depth: Poor tenement in foreground, wealthy mansion and carriage dominate middle ground, street extending into background
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - sepia ink
+    - brown ink
+    background: white or aged paper
+    usageNotes: Monochromatic, tone through line density
+    saturation: none
+    contrast: created through line spacing
+  lineArt:
+    style: systematic parallel lines
+    weight: consistent, fine
+    color: black or brown ink
+    texture: created entirely through lines
+    edgeTreatment: defined by line direction changes
+  lighting:
+    type: implied through line density
+    direction: shown through hatching direction
+    intensity: varies with line spacing
+    shadows:
+      style: dense crosshatching
+      color: black ink
+      opacity: line density
+    highlights: sparse or no lines
+  rendering:
+    technique: traditional pen technique
+    texture: entirely line-based
+    detailLevel: high through careful line work
+    finish: hand-drawn quality
+  perspective: traditional, often architectural
+  mood:
+    overall: classic, scholarly, detailed
+    emotion: contemplative, serious, refined
+    tempo: measured, careful
+    keywords:
+    - classic
+    - scholarly
+    - refined
+    - traditional
+    - meticulous
+  stylePrecedents:
+  - Albrecht Dürer
+  - Rembrandt etchings
+  - Scientific illustration
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

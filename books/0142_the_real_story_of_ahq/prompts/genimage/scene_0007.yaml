@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1911, morning
+    location: Village square in Weizhuang with wooden platform for public announcements
+    weather: Crisp morning air, clear visibility
+  characters:
+  - appearance: Official herald in formal robes
+    clothing: Dark official robes with rank insignia, formal cap
+    position: Standing on raised wooden platform
+    action: Reading from imperial scroll, voice carrying across square with practiced authority
+  - appearance: Young Chinese man in early twenties, lean build with arrogant expression. Hair cut short in Western style
+      but wears fake braided queue poorly attached. Represents failed modernization
+    clothing: Western-style clothing such as fitted student uniform or early suit, contrasting sharply with traditional village
+      attire. Clothes mark him as pretentious outsider
+    position: Standing at edge of crowd, bamboo stick in hand
+    action: Watching crowd for reactions, ready to enforce compliance with violence if necessary
+  scene:
+    mainElements: Wooden announcement platform in village center, surrounded by gathered villagers maintaining careful distance.
+      Official proclamations posted on boards around square
+    details: Thin bamboo cane carried by False Foreign Devil as weapon for beating people. Makes sharp cracking sound when
+      used. Symbol of his borrowed, pretentious authority and casual violence. Imperial seals and official papers emphasizing
+      governmental authority
+    background: Villagers standing in rigid formation, children held close, everyone maintaining expressions of forced attention
+      and compliance
+    atmosphere: Ritualized intimidation disguised as information sharing. The announcement itself matters less than the demonstration
+      of power and the crowd's required submission. Fear masquerading as civic duty
+  composition:
+    cameraAngle: Eye level showing the power dynamic between platform and crowd
+    focus: The official herald as voice of imperial authority, with the enforcer's weapon as threat of violence
+    depth: Foreground captures the threatening enforcer, middle ground shows the official announcer, background reveals the
+      intimidated crowd
+visualElements:
+  colorPalette:
+    primary:
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - deep ochre
+    - forest green
+    - burgundy
+    background: paper texture, off-white
+    usageNotes: Limited colors as in traditional printing
+    saturation: deep, earthy
+    contrast: maximum
+  lineArt:
+    style: carved, gouged appearance
+    weight: bold, uneven as if hand-carved
+    color: black or single color
+    texture: visible wood grain or carving marks
+    edgeTreatment: rough, handmade quality
+  lighting:
+    type: none - flat printing
+    direction: n/a
+    intensity: n/a
+    shadows:
+      style: created by line density
+      color: same as ink
+      opacity: solid
+    highlights: negative space
+  rendering:
+    technique: relief printing simulation
+    texture: visible grain and carving marks
+    detailLevel: simplified, essential forms
+    finish: printed, slightly uneven ink coverage
+  perspective: folk art perspective, slightly naive
+  mood:
+    overall: traditional, earthy, authentic
+    emotion: folk wisdom, cultural roots, strength
+    tempo: timeless, grounded
+    keywords:
+    - traditional
+    - folk
+    - authentic
+    - earthy
+    - cultural
+  stylePrecedents:
+  - Folk printmakers
+  - Władysław Skoczylas
+  - German Expressionist woodcuts
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

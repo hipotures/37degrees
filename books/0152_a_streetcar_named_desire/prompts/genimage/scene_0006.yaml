@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: Late 1940s, next day afternoon
+    location: Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with
+      fold-out bed for guests
+    weather: Hot afternoon sun streaming through windows, building heat
+  characters:
+  - appearance: Man 28-30 years old, strongly and compactly built with muscular physique. Moves with animal-like joy and confidence.
+      Sharp, roughly defined facial features with appraising, often mocking expression
+    clothing: Rough blue denim work clothes stained with grease. Tight, sweat-stained undershirts at home. Brightly colored
+      silk shirts for bowling and poker (green-scarlet, purple, red-white checkered). Bright silk pajamas during climactic
+      scene
+    position: Hunched over opened trunk, roughly handling delicate belongings
+    action: Aggressively searching through woman's possessions, holding up items with contempt and suspicion
+  - appearance: Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in
+      soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain
+      and nervous, moves with moth-like nervousness and theatrical gestures
+    clothing: Flowing feminine fabrics in soft colors, red or scarlet satin robes at home
+    position: Standing defensively beside trunk, hands reaching protectively toward belongings
+    action: Attempting to protect her possessions while explaining with increasing desperation
+  scene:
+    mainElements: Large traveling trunk containing Blanche's possessions - elegant but worn dresses, fake furs, rhinestone
+      jewelry, love letters from deceased husband Allan, documents from Belle Reve plantation
+    details: Clothing and personal items scattered carelessly across floor and furniture. Legal papers being examined with
+      suspicion. Delicate fabrics contrasting with rough male hands. Hot afternoon light making tension more oppressive. Trunk
+      contents revealing both elegance and desperation. No text or letters visible
+    background: Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling with
+      green glass shade over dining area. Portières instead of solid doors to bedroom
+    atmosphere: Increasing hostility and invasion of privacy. Class warfare erupting over material possessions. Growing sense
+      of woman's vulnerability and isolation
+  composition:
+    cameraAngle: Medium shot showing power dynamic between aggressor and defender
+    focus: Contrast between rough male hands and delicate feminine belongings
+    depth: 'Foreground: scattered possessions; middle ground: confronting figures; background: harsh apartment setting'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blacks
+    - stark whites
+    - blood red
+    secondary:
+    - gunmetal gray
+    - amber streetlight
+    - neon accent
+    background: dark urban settings
+    usageNotes: Mostly monochromatic with rare color accents
+    saturation: low except for accents
+    contrast: extreme
+  lineArt:
+    style: sharp, angular
+    weight: bold with fine details
+    color: black
+    texture: rough, sketchy in shadows
+    edgeTreatment: hard-boiled, no softness
+  lighting:
+    type: harsh, directional
+    direction: low angle, venetian blind patterns
+    intensity: extreme contrast
+    shadows:
+      style: deep, geometric
+      color: pure black
+      opacity: solid, dramatic
+    highlights: harsh, limited
+  rendering:
+    technique: high contrast illustration
+    texture: gritty, urban textures
+    detailLevel: selective, focus on mood
+    finish: pulp magazine quality
+  perspective: dramatic angles, Dutch tilts
+  mood:
+    overall: mysterious, dangerous, urban
+    emotion: suspicion, danger, fatalism
+    tempo: tense, suspenseful
+    keywords:
+    - mysterious
+    - dangerous
+    - urban
+    - gritty
+    - fatalistic
+  stylePrecedents:
+  - Pulp magazine covers
+  - Film noir posters
+  - James M. Cain book covers
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

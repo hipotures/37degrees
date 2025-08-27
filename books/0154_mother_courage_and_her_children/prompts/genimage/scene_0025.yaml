@@ -1,0 +1,87 @@
+sceneDescription:
+  setting:
+    time: 1636 January dawn, moment of ultimate sacrifice creating possibility for change
+    location: Simple wooden or half-timbered farmhouse with attached barn featuring steep thatched or shingled roof, well
+      or trough nearby
+    weather: Cold winter dawn with first light breaking through darkness suggesting possible renewal
+  characters:
+  - appearance: Mute young woman aged 16-28, disfiguring scar above eye, expressive eyes and gestures compensating for inability
+      to speak
+    clothing: Simplest most modest garments in the family, plain dark dress, work apron, headscarf, occasionally trying on
+      Yvette's flashy red boots
+    position: Often positioned near the wagon or children, communicating through gestures and facial expressions
+    action: Drumming desperately from rooftop to warn the sleeping city, heroic self-sacrifice
+  - appearance: Small plant or flower breaking through concrete or frozen ground
+    clothing: Natural green growth contrasting with gray winter landscape
+    position: Growing from crack in stone or frozen earth where life seemed impossible
+    action: Breaking through seemingly impenetrable barrier to reach light and continue life cycle
+  scene:
+    mainElements: Large military marching drum with wooden body and stretched leather drumhead, used by Kattrin in climactic
+      scene to warn sleeping city of approaching Catholic attack, symbol of heroic self-sacrifice and maternal protection
+      of children she'll never have
+    details: Individual sacrifice creating possibility for collective survival, single act of heroism potentially breaking
+      cycle of systematic oppression, question whether human conscience can overcome systematic evil
+    background: Basic rural architecture with ladder to barn roof, Mother Courage's wagon standing in farmyard, natural wood
+      construction
+    atmosphere: Night scene filled with fear and tension, dawn scene with grief emptiness and resignation, rural setting as
+      backdrop for final tragedy
+  composition:
+    cameraAngle: Wide shot showing individual sacrifice against vast system while small sign of hope emerges
+    focus: Ultimate question whether individual heroic sacrifice can create possibility for systematic change
+    depth: Foreground shows heroic sacrifice, middle ground oppressive system continuing, background small sign of hope and
+      possible renewal
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

@@ -1,0 +1,85 @@
+sceneDescription:
+  setting:
+    time: 1895-1899 compressed time showing actual writing process over four years
+    location: Freud's study at Berggasse 19, Vienna, documenting real work patterns
+    weather: Various seasons and times of day showing actual working conditions
+  characters:
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Seated behind mahogany desk or in leather armchair positioned behind analytical couch
+    action: Writing notes with fountain pen while holding cigar, or listening intently with fingers steepled
+  scene:
+    mainElements: Accelerated documentation of actual manuscript creation showing gradual accumulation of pages, revision
+      cycles, periods of frustration and breakthrough, realistic work patterns over extended time
+    details: Traditional banker's lamp with green glass shade on Freud's desk, creating focused pool of warm yellow light
+      for evening work, illuminating manuscripts and books while casting dramatic shadows in study. Manuscript pages slowly
+      accumulating, showing multiple drafts, revisions, additions. Cigar ash accumulating and being cleaned. Seasonal changes
+      in light patterns. Periods of intensive writing alternating with research, patient sessions, correspondence. Realistic
+      documentation of slow, methodical scholarly work.
+    background: Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space,
+      gas lighting creating warm yellow pools of light among deep shadows
+    atmosphere: Realistic documentation of scholarly work showing actual time requirements, revision process, and methodical
+      progress without romanticizing creative process, revealing mundane aspects of intellectual achievement, no text or letters
+      visible
+  composition:
+    cameraAngle: Fixed position showing gradual changes in manuscript pile and seasonal light variations
+    focus: Slow accumulation of written pages documenting real pace of scholarly work
+    depth: 'Foreground: manuscript pages growing slowly over years of work, Middle: consistent workspace with gradual changes,
+      Background: changing seasonal light patterns marking passage of time'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

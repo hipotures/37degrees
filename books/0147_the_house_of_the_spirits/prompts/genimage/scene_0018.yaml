@@ -1,0 +1,84 @@
+sceneDescription:
+  setting:
+    time: 1965-1970, five years compressed into single accelerated sequence
+    location: Big House interior showing rapid deterioration across multiple rooms
+    weather: changing seasons blurred together, rain and sun alternating rapidly
+  characters:
+  - appearance: man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and
+      anger, graying hair, stern dark eyes that command respect and fear
+    clothing: impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding
+      boots, wool vest, white cotton shirt
+    position: moving through house like ghost of former self, aging rapidly with grief
+    action: wandering empty rooms while house decays around him in accelerated time, becoming more bent and frail with each
+      passing season
+  scene:
+    mainElements: house aging and deteriorating in accelerated time sequence - walls cracking and paint peeling rapidly, furniture
+      gathering dust in time-lapse photography style, plants withering and dying at supernatural speed, building literally
+      aging years in minutes
+    details: rapid decay showing impact of Clara's death on physical environment - flowers in courtyard blooming and dying
+      repeatedly in accelerated cycles, dust accumulating in thick layers across surfaces, curtains fading and tearing from
+      repeated seasonal changes, wallpaper curling and falling in fast-motion deterioration, no text or letters visible
+    background: rooms switching rapidly between different seasons and states of decay, windows showing accelerated weather
+      changes, cobwebs forming and dissolving repeatedly, architectural elements aging dramatically
+    atmosphere: supernatural compression of grief into visible decay, house mourning Clara's death through rapid physical
+      deterioration, time distorted by profound loss, Esteban aging in proportion to building decay
+  composition:
+    cameraAngle: sweeping interior views showing accelerated deterioration across multiple rooms
+    focus: central emphasis on house as living entity dying from Clara's absence
+    depth: foreground shows detailed rapid decay effects, middle ground captures Esteban's accelerated aging, background reveals
+      seasonal changes compressed into moments
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

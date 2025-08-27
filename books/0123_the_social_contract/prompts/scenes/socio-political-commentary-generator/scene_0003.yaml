@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Surface Harmony - Citizens in Perfect Uniform Order"
+  setting:
+    time: "1760s, morning"
+    location: "Planned public garden in central Paris with geometric pathways and manicured landscapes"
+    weather: "Pleasant morning light with controlled, artificial perfection of planned environment"
+  characters:
+    - appearance: "Person aged 25-60 with smooth powdered face showing haughty or bored expression. Posture is stiff and studied according to court etiquette requirements. Represents corruption of Ancien Régime"
+      clothing: "Extravagant Rococo-style dress - man in bright silk justaucorps coat, lace shirt, knee-length culottes, silk stockings, powdered wig. Woman in enormous panniers-supported gown with tightly laced corset and elaborate coiffure. Clothing is uncomfortable and restricting but displays status"
+      position: "Walking along prescribed pathways in groups, maintaining exact distances from each other"
+      action: "Following predetermined routes through garden, pausing at designated viewpoints, nodding approvingly at approved scenic spots"
+  scene:
+    mainElements: "Perfectly trimmed hedges forming geometric patterns, marble statues of classical figures in predetermined poses, symmetrical flower beds arranged in royal emblems"
+    details: "Every tree pruned to identical shape, every path swept clean, every bench positioned at precise intervals. Fountains operate with mechanical regularity. No wildflowers or uncontrolled growth visible anywhere. Nature completely subdued to human will"
+    background: "Regular buildings with identical facades, uniform street lighting, distant government structures maintaining visual harmony"
+    atmosphere: "Deceptive tranquility of controlled environment, beauty achieved through rigid suppression of natural spontaneity, underlying tension beneath perfect order"
+  composition:
+    cameraAngle: "Bird's eye view revealing the geometric prison of the planned environment"
+    focus: "Intersection of pathways where multiple groups converge in choreographed movement"
+    depth: "Foreground shows detailed geometric patterns of garden, middle ground displays moving figures, background extends to horizon of controlled urban landscape"

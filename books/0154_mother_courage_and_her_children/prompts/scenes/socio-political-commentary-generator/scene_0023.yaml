@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Panopticon Prison - All-Seeing Military Control"
+  setting:
+    time: "1635 summer, surveillance and control system reaching ultimate form"
+    location: "Circular prison structure representing complete surveillance and control of population"
+    weather: "Harsh bright sunlight eliminating all shadows and hiding places"
+  characters:
+    - appearance: "Guard in central tower representing all-seeing authority monitoring all human behavior"
+      clothing: "Military uniform with surveillance insignia representing complete monitoring capability"
+      position: "Elevated in central observation tower with complete view of all controlled subjects"
+      action: "Maintaining constant surveillance over all human activity, ensuring complete behavioral control through observation"
+    - appearance: "Controlled population arranged in cells under constant surveillance"
+      clothing: "Uniform prisoner or military clothing eliminating individual identity and privacy"
+      position: "Arranged in circular formation around central surveillance with no privacy or escape"
+      action: "Living under constant surveillance with all behavior monitored and controlled by central authority"
+  scene:
+    mainElements: "Circular panopticon structure with central surveillance tower monitoring all human activity"
+    details: "Complete elimination of privacy through architectural surveillance design, all human behavior visible to central authority, psychological control through constant potential observation"
+    background: "Surveillance state architecture designed to eliminate human privacy and individual autonomy"
+    atmosphere: "Complete surveillance and control, elimination of human privacy, psychological dominance through constant potential observation"
+  composition:
+    cameraAngle: "Aerial view showing circular surveillance architecture with central control point"
+    focus: "Complete surveillance system eliminating human privacy and individual autonomy"
+    depth: "Foreground shows controlled individuals, middle ground surveillance architecture, background central control tower"

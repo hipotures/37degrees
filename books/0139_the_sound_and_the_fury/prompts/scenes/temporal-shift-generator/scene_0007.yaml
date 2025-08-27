@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "The Pasture's Transformation - Eden to Commerce"
+  setting:
+    time: "1905 summer abundance transforming into 1909 autumn sale"
+    location: "Former Compson pastureland, Benjy's beloved meadow that was sold to finance Quentin's Harvard education, later becoming golf course"
+    weather: "Warm summer sunlight fading to melancholy autumn light showing seasonal and economic transition"
+  characters:
+    - appearance: "Large, imposing male figure age 33 with mental age of 3, unnaturally oversized body like a trained bear, shapeless form as if composed of loose parts that don't properly connect, pale hairless skin, bland face with sagging lips and drooling mouth, pale delicate hair combed smooth across forehead like children in old daguerreotypes, most distinctive feature is pure pale sweet blue cornflower eyes that are often completely empty and thoughtless"
+      clothing: "Simple, ill-fitting clothing often disheveled and unkempt, plain work shirt and trousers that don't quite fit his large frame"
+      position: "Usually passive, being led by caretaker, or sitting on ground with awkward shambling movements"
+      action: "Either silent and vacant-eyed or emitting long moaning sounds or terrifying inhuman bellowing when distressed"
+  scene:
+    mainElements: "Open meadow space showing temporal division: left portion reveals 1905 lush summer pasture with tall green grass, wildflowers, and grazing area; right portion shows 1909 autumn with surveyor stakes, cleared patches, and signs of pending development"
+    details: "Split seasonal view of same beloved landscape: left side shows peak summer with Benjy as adolescent sitting peacefully in deep grass, hands filled with wildflowers including narcissus blooms, face showing rare contentment, surrounded by natural abundance - butterflies, birds, full tree canopies creating shade patterns. Right side depicts same space in autumn decline: grass brown and beaten down, surveyors' equipment visible, property markers driven into ground, trees showing stress from construction preparation, same figure now agitated and distressed at loss of sanctuary no text or letters visible"
+    background: "Compson house visible in distance showing how family financial pressures manifest in landscape destruction, architectural stability contrasting with environmental sacrifice"
+    atmosphere: "Profound melancholy showing how economic necessity destroys personal paradise, visualizing sacrifice of innocent joy for practical survival"
+  composition:
+    cameraAngle: "Wide panoramic shot showing full meadow transformation"
+    focus: "Central figure experiencing landscape from Eden-like summer abundance to autumn destruction and loss"
+    depth: "Foreground: seasonal ground cover from lush grass to beaten earth; middle ground: figure experiencing joy then grief; background: distant house representing family pressures driving landscape sacrifice"

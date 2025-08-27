@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Luxury Feast While Others Hunger - Single Frame Inequality"
+  setting:
+    time: "1651, evening banquet hour"
+    location: "Palace dining hall with view through windows to common streets of London"
+    weather: "Clear evening with warm interior lighting contrasting cold outside"
+  characters:
+    - appearance: "Imposing man around 50 years old, 185cm tall, broad shoulders and powerful build representing state authority, stern unmoving face with strong jaw, dark hair to shoulders or formal wig, may have pointed Van Dyke beard"
+      clothing: "Royal black or deep crimson velvet dublet with satin underneath, immaculate wide lace collar, high-quality leather boots, crown of heavy gold or iron symbolizing weighty authority"
+      position: "Standing erect on elevated platform or throne, perfectly still like a statue, unwavering center around which the state revolves"
+      action: "One hand resting on sword hilt, other holding royal orb or document, facial expression of absolute judgment without personal emotion"
+    - appearance: "Man around 35 years old, 175cm tall, lean and sinewy build from deprivation but still strong, weathered face with sharp cheekbones and prominent forehead, disheveled brown shoulder-length hair, rough untrimmed beard"
+      clothing: "Worn leather jerkin over coarse linen shirt, wool breeches patched and faded, damaged leather boots, all in earth tones - browns, grays, muted greens for survival camouflage"
+      position: "Crouched defensively or moving cautiously, constantly alert and ready to fight or flee"
+      action: "Eyes constantly scanning surroundings, hand on crude knife, body language of perpetual mistrust and fear"
+  scene:
+    mainElements: "Opulent banquet table laden with exotic foods and golden vessels inside palace, while through tall windows common people are visible in cold streets searching for basic necessities"
+    details: "Inside: elaborate feast with silver platters, fine wines, courtiers in silk and velvet. Outside: common folk in patched clothing, children begging, thin faces pressed against glass. Heavy oak table with pewter dishes contrasts with golden palace tableware. Simple clay pipes visible outside versus ornate smoking accessories inside."
+    background: "Ornate palace interior with tapestries and chandeliers contrasting with grey London streets visible through windows"
+    atmosphere: "Uncomfortable juxtaposition of abundance and want, warm golden light inside versus cold blue light outside, silence of privilege versus sounds of need"
+  composition:
+    cameraAngle: "Medium shot through palace window showing both interior feast and exterior want"
+    focus: "The moral contradiction between state-protected luxury and citizen poverty"
+    depth: "Foreground shows palace abundance, middle displays window barrier, background reveals common people's struggles"

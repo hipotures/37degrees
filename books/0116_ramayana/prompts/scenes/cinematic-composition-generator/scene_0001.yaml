@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Divine Sacrifice at Sacred Altar - King's Prayer for Heir"
+  setting:
+    time: "Treta Yuga ancient era, bright midday sunlight"
+    location: "Sacred ceremonial ground on banks of river Saraju near Ayodhya, specially constructed large offering plaza with elaborate brick-built fire altar (yajna kunda) at center, assembled with kingdom's most important priests and sages"
+    weather: "Clear bright day with gentle breeze carrying ritual smoke heavenward"
+  characters:
+    - appearance: "Elderly king over sixty years old, majestic but aged bearing, gray-haired with regal features, face initially expressing paternal love then tragic despair, body weakened by grief"
+      clothing: "Rich royal silk garments, crown and royal jewels symbolizing his powerful kingdom"
+      position: "Seated before fire altar in respectful posture with three queens beside him"
+      action: "Leading ritual prayers with priests, face showing deep hope and devotion"
+  scene:
+    mainElements: "Extreme wide establishing shot from elevated riverbank showing vast ritual ground with tiny human figures around blazing central fire altar, emphasizing cosmic scale of divine intervention. Central blazing fire altar with pure bright flames reaching toward heaven, ritual implements and offerings, gathering of holy men in white ceremonial garments"
+    details: "Supernatural divine being (Prajaapatya purusha) with dark skin in red robes emerges from fire's heart holding golden bowl of celestial rice pudding (payasam). Clarified butter and grains being poured into flames making them leap skyward. Smoke spiraling upward in ritualistic patterns. Sacred geometry of altar construction visible from height. River flowing peacefully in background"
+    background: "Rolling landscape of ancient northern India stretching to distant mountains, Ayodhya's golden spires visible on horizon, morning mist rising from sacred river Saraju"
+    atmosphere: "Bright daylight with central fire as primary light source, solemn sacred atmosphere of divine ritual, hope and anticipation filling the air. Sense of momentous cosmic significance and divine blessing about to change destiny of kingdoms"
+  composition:
+    cameraAngle: "Extreme high angle crane shot from riverbank elevation looking down at ritual ground"
+    focus: "Fire altar at center with divine manifestation emerging from flames as primary focal point"
+    depth: "Foreground shows riverbank vegetation, middle ground contains entire ritual plaza with participants, background reveals distant Ayodhya and landscape, no text or letters visible"

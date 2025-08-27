@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Drawing room revealed from hidden angles and listening positions"
+  setting:
+    time: "June 1923, late morning around 11:45 AM"
+    location: "Clarissa's drawing room during Peter's visit, shown from concealed viewpoints"
+    weather: "Morning sunlight creating specific shadow patterns revealing hidden spaces"
+  characters:
+    - appearance: "52-year-old woman, slender and filigranous build with delicate frame, sharp aristocratic facial features with prominent hooked nose like bird's beak, very white hair from illness, small face with bright intelligent eyes, moves with natural grace and elegance"
+      clothing: "Simple elegant day dress in light color, cloche hat and gloves for morning walk, evening dress in shimmering green silk in mermaid style for party, well-dressed but not ostentatious according to modest spending habits"
+      position: "Standing by window with Peter, unaware of hidden observation angles"
+      action: "Emotional conversation with Peter, dropping formal hostess manner"
+    - appearance: "53-year-old man, slightly asymmetrical face that is thinner and more weathered than in youth, restless energy despite age, well-dressed but less formal than establishment figures"
+      clothing: "Plaid suit with soft collar suggesting colonial informality, less rigid than London conventions"
+      position: "Standing close to Clarissa in intimate conversation"
+      action: "Breaking down emotionally, weeping in front of Clarissa"
+  scene:
+    mainElements: "Drawing room revealed from servant's stairway viewpoint, garden window angle, doorway listening position showing what hidden observers would see"
+    details: "Hidden angles reveal room's secrets invisible to main participants: servant listening from kitchen doorway, gardener's view through French windows showing intimate moment from outside, upstairs view from servant's stairway revealing private emotional display, shadows in hallway where Elizabeth might observe parents' visitor, household staff aware of drama upstairs, no text or letters visible"
+    background: "Elegant dark wood furniture appearing different from concealed viewpoints, formal room's private moments exposed to household's hidden observation"
+    atmosphere: "Private emotional scene simultaneously observed from multiple hidden positions, revealing how domestic privacy is illusion in staffed household"
+  composition:
+    cameraAngle: "Hidden observation angles - through keyhole, from garden, from servant stairs - revealing private scene from concealed positions"
+    focus: "Intimate emotional moment between Clarissa and Peter as witnessed by hidden household observers"
+    depth: "Each hidden viewpoint shows different spatial relationships and reveals previously invisible room details"

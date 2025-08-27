@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1513, mid-morning light
+    location: Interior of massive fortress-like palace in Renaissance Florence, capital of Tuscan Republic. Palatial chamber
+      built from rusticated local stone blocks (pietra forte) creating impression of strength and inaccessibility.
+    weather: Clear day with bright sunlight streaming through windows
+  characters:
+  - appearance: 21 year old young man with aristocratic, delicate features representing powerful Medici family. Face shows
+      youth but also weight of responsibility as ruler.
+    clothing: Finest quality Florentine garments of silk and brocade following latest fashion trends.
+    position: Seated behind massive desk in ornate chair
+    action: Examining official documents and seals, representing legitimate governmental authority
+  scene:
+    mainElements: Square, symmetrical floor plan with central courtyard (cortile) surrounded by classical arcades on columns.
+      Monumental, architecturally-formed furniture including heavy carved chests (cassoni), simple sturdy chairs (sedia).
+      Walls adorned with tapestries depicting mythological or historical scenes.
+    details: Heraldic symbols prominently displayed - six balls of Medici family on banners and carved into furniture. Official
+      maps of Florence territories. Legal documents with elaborate seals. Golden ornaments and religious artifacts suggesting
+      divine approval of rule.
+    background: Massive stone walls with high windows casting geometric shadows. Courtyard visible through archways showing
+      classical columns and peaceful garden.
+    atmosphere: Mixture of artistic refinement and constant political tension. Air filled with scents of oil paints, wet plaster
+      from artists' workshops, beeswax from candles, dust of old books. Sounds of church bells, horse hooves on stone pavement,
+      hushed conversations about politics and business in loggias and piazzas.
+  composition:
+    cameraAngle: Wide establishing shot from elevated position
+    focus: Lorenzo as symbol of established, hereditary power surrounded by legitimacy markers
+    depth: Foreground shows Lorenzo at desk, middle ground reveals palace grandeur, background hints at city beyond walls
+visualElements:
+  colorPalette:
+    primary:
+    - deep reds (carmine)
+    - ultramarine blue
+    - rich golds
+    - earthy browns
+    secondary:
+    - flesh tones
+    - olive green
+    - ivory white
+    background: architectural interiors, idealized landscapes
+    usageNotes: A rich, harmonious color palette with subtle tonal transitions.
+    saturation: medium to high, natural
+    contrast: medium, built through light and shadow
+  lineArt:
+    style: soft, fluid contours, often blurred by the sfumato technique
+    weight: varied, natural
+    color: integrated into the painting, rarely as a black outline
+    texture: smooth, realistic transitions
+    edgeTreatment: soft, blurred edges (sfumato)
+  lighting:
+    type: soft, directional chiaroscuro
+    direction: usually from a single source, creating depth
+    intensity: moderate, realistic
+    shadows:
+      style: deep but soft, with subtle transitions
+      color: warm browns and umber
+      opacity: translucent, built up in layers
+    highlights: delicate, emphasizing form
+  rendering:
+    technique: oil painting, tempera, fresco, with attention to detail
+    texture: smooth surface with invisible brushstrokes
+    detailLevel: very high (anatomy, fabrics, architecture)
+    finish: smooth, with a subtle sheen of oil paint
+  perspective: precise linear and atmospheric perspective
+  mood:
+    overall: harmonious, sublime, intellectual
+    emotion: serenity, divinity, humanism, dignity
+    tempo: calm, static, timeless
+    keywords:
+    - harmonious
+    - sublime
+    - realistic
+    - classical
+    - divine
+  stylePrecedents:
+  - Leonardo da Vinci
+  - Raphael
+  - Michelangelo
+  - Titian
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

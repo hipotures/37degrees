@@ -1,0 +1,83 @@
+sceneDescription:
+  setting:
+    time: 1760s, before dawn
+    location: Large textile workshop in Paris where workers perform repetitive tasks under strict supervision
+    weather: Pre-dawn darkness with artificial illumination from oil lamps creating harsh shadows
+  characters:
+  - appearance: Adult of any age with upright bearing full of dignity. Face expresses seriousness and engagement in public
+      affairs. Posture shows transformation from individual to member of political body
+    clothing: All citizens wear similar simple garments modeled on Roman civic toga. Attire is modest, functional, without
+      ornaments that might indicate wealth or status. Uniform dress visually emphasizes fundamental principle of equality
+    position: Arranged at identical workstations in perfect rows like mechanical components
+    action: Moving in synchronized rhythm like parts of great machine, performing identical gestures with expressionless faces,
+      no individual creativity visible
+  scene:
+    mainElements: Massive mechanical loom dominating space, workers moving in perfect unison, overseer with timepiece controlling
+      tempo of production
+    details: Giant gear wheels and pulleys overhead reduce human workers to interchangeable parts. Clock pendulum sets exact
+      rhythm of labor. Workers' faces show no emotion or individual personality - they have become extensions of machinery
+    background: Steam-powered mechanisms, supervisors with production quotas, finished goods stacked with mathematical precision
+    atmosphere: Dehumanization of labor through industrial control, individual identity sacrificed to mechanical efficiency,
+      human creativity crushed by systematic organization
+  composition:
+    cameraAngle: High angle showing workers as components within larger mechanical system
+    focus: Central gear mechanism with human workers integrated as moving parts
+    depth: Foreground shows mechanical details of industrial apparatus, middle ground displays synchronized human labor, background
+      extends to administrative oversight
+visualElements:
+  colorPalette:
+    primary:
+    - somber reds
+    - deep blues
+    - stone grays
+    - stark whites
+    secondary:
+    - gold
+    - bronze
+    - olive green
+    background: classical architecture, stark interiors
+    usageNotes: A severe, controlled palette emphasizing form and structure.
+    saturation: medium, often subdued
+    contrast: high, with dramatic chiaroscuro
+  lineArt:
+    style: sharp, clear, and defined contours, emphasizing drawing (disegno)
+    weight: precise and controlled
+    color: integrated into the form, not a separate outline
+    texture: smooth, polished
+    edgeTreatment: sharp, sculptural edges
+  lighting:
+    type: clear, strong, often theatrical lighting
+    direction: strong directional source, creating sharp shadows
+    intensity: high contrast, like stage lighting
+    shadows:
+      style: sharp and well-defined, carving out forms
+      color: dark browns and grays
+      opacity: heavy, solid
+    highlights: clear and bright on key figures and objects
+  rendering:
+    technique: smooth, polished oil painting with invisible brushstrokes
+    texture: surfaces appear like polished marble or stone
+    detailLevel: very high, with attention to historical accuracy
+    finish: smooth, highly finished, almost enamel-like
+  perspective: logical and clear, often using a stage-like composition
+  mood:
+    overall: serious, heroic, rational
+    emotion: civic virtue, duty, sacrifice, stoicism
+    tempo: static, posed, monumental
+    keywords:
+    - heroic
+    - rational
+    - serious
+    - moral
+    - classical
+  stylePrecedents:
+  - Jacques-Louis David
+  - Jean-Auguste-Dominique Ingres
+  - Antonio Canova
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

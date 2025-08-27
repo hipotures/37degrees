@@ -1,0 +1,90 @@
+sceneDescription:
+  setting:
+    time: 1897 afternoon during unexpected colleague visit
+    location: Freud's study at Berggasse 19, Vienna, viewed with professional skepticism
+    weather: Bright clear day outside
+  characters:
+  - appearance: Older man around 53 years old, patriarchal appearance with graying full beard and hair, gentler features than
+      Freud, emanates calm authority and established position
+    clothing: Conservative dark suit typical of Viennese medical professor, white shirt, formal vest with watch chain
+    position: Standing with hands clasped behind back or seated in consultation
+    action: Speaking with measured authority or examining patient documents
+  - appearance: Middle-aged man, 39-43 years old, medium height and slender build, dark deeply penetrating eyes, high intellectual
+      forehead, dark full beard, hair thinning on crown
+    clothing: Dark three-piece wool suit, white shirt with very high stiff collar, dark tie or bow tie, vest with visible
+      watch chain
+    position: Seated behind mahogany desk or in leather armchair positioned behind analytical couch
+    action: Writing notes with fountain pen while holding cigar, or listening intently with fingers steepled
+  scene:
+    mainElements: Study perceived through Breuer's conservative medical perspective as eccentric theatre of unscientific speculation,
+      the analytical setup appearing as stage for pseudo-medical performance rather than legitimate treatment
+    details: Massive dark wooden desk surrounded by smaller tables creating fortress-like workspace, famous analytical couch
+      covered with Persian carpet, leather armchair positioned behind couch, floor-to-ceiling bookshelves filled with leather-bound
+      volumes. The analytical couch appears theatrically dramatic rather than medically necessary. Ancient artifacts seem
+      like occult props rather than scholarly objects. Cigar smoke creates unhealthy atmosphere. The whole arrangement suggests
+      mysticism rather than medical science.
+    background: Dense scholarly atmosphere heavy with cigar smoke, mixture of academic authority and intimate confession space,
+      gas lighting creating warm yellow pools of light among deep shadows
+    atmosphere: Professional concern for colleague who has strayed from scientific rigor into dangerous speculation, room
+      feeling like stage for elaborate self-deception rather than medical practice, worry about Freud's reputation and the
+      dignity of medical profession, no text or letters visible
+  composition:
+    cameraAngle: Breuer's disapproving perspective from study doorway, surveying concerning scene
+    focus: The controversial analytical couch as symbol of departure from proper medical practice
+    depth: 'Foreground: conservative medical authority observing with concern, Middle: questionable analytical setup, Background:
+      legitimate medical books mixed with suspicious mystical objects'
+visualElements:
+  colorPalette:
+    primary:
+    - dream blues
+    - flesh tones
+    - earth browns
+    secondary:
+    - sunset oranges
+    - deep shadows
+    - ethereal whites
+    background: dreamlike landscapes or impossible spaces
+    usageNotes: Colors may be hyper-realistic or completely unnatural
+    saturation: varies (realistic to impossible)
+    contrast: high (dramatic light and shadow)
+  lineArt:
+    style: precise realistic detail in impossible contexts
+    weight: varies from fine detail to bold impossible forms
+    color: natural or unnatural depending on dream logic
+    texture: hyper-realistic textures in surreal contexts
+    edgeTreatment: sharp realistic edges creating impossible forms
+  lighting:
+    type: dramatic, often impossible lighting scenarios
+    direction: multiple or impossible light sources
+    intensity: varies dramatically within single image
+    shadows:
+      style: realistic shadows in impossible situations
+      color: natural shadow colors
+      opacity: varies, sometimes impossible
+    highlights: realistic highlights on impossible forms
+  rendering:
+    technique: meticulous realistic technique for unreal subjects
+    texture: hyper-realistic textures
+    detailLevel: very high (convincing impossible realities)
+    finish: smooth, often oil painting finish
+  perspective: often distorted or multiple impossible perspectives
+  mood:
+    overall: mysterious, unsettling, thought-provoking
+    emotion: wonder, unease, fascination
+    tempo: static but mentally dynamic
+    keywords:
+    - mysterious
+    - unsettling
+    - thought-provoking
+    - fascinating
+    - impossible
+  stylePrecedents:
+  - Salvador Dali melting clocks
+  - René Magritte impossible realities
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

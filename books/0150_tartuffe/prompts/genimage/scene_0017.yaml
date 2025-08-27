@@ -1,0 +1,93 @@
+sceneDescription:
+  setting:
+    time: 1660s France, evening
+    location: spacious main reception room in wealthy Parisian bourgeois residence in fashionable district near city center,
+      1660s France under reign of Louis XIV
+    weather: still evening with carefully arranged candlelight for intimate encounter
+  characters:
+  - appearance: wealthy Parisian bourgeois man aged fifty to sixty years, solid stocky build showing good living, stern rectangular
+      face with prominent jaw, graying hair concealed under formal brown periwig, authoritative bearing
+    clothing: expensive but conservative dark brown wool justaucorps coat with silver buttons, matching waistcoat underneath,
+      white linen shirt with minimal lace, dark knee-length breeches, silk stockings, polished leather shoes with silver buckles
+    position: crouched uncomfortably beneath large table completely concealed by heavy cloth reaching to floor
+    action: adjusting position under cramped tablecloth while preparing to witness confrontation that will shatter his worldview
+  - appearance: elegant woman in her early thirties, tall graceful figure, intelligent oval face with clear complexion, expressive
+      dark eyes, chestnut hair arranged in elaborate curls pinned up with pearl ornaments
+    clothing: fashionable silk gown in deep emerald green with square neckline edged in Venetian lace, fitted bodice with
+      silver brocade trim, full skirt over structured undergarments, delicate silk slippers, holds ivory fan
+    position: seated on sofa arranged to face table where husband hides, checking her appearance in preparation
+    action: smoothing her dress and arranging herself attractively while steeling herself for difficult performance ahead
+  scene:
+    mainElements: high-ceilinged rectangular chamber with tall arched windows facing courtyard, ornate marble fireplace with
+      carved mantelpiece dominating one wall, rich wood paneling in dark oak with gilt moldings covering lower walls, massive
+      rectangular oak dining table in center covered with heavy burgundy velvet tablecloth embroidered with gold threads,
+      cloth hangs to floor on all sides creating perfect hiding space underneath, solid construction capable of concealing
+      full-grown man
+    details: carefully arranged candlelight creating romantic atmosphere for deception, heavy burgundy cloth providing complete
+      concealment for hidden observer, elegant furnishings arranged to facilitate both seduction scene and secret witnessing
+    background: doorway through which Tartuffe will enter expecting private encounter, religious artifacts providing ironic
+      witness to upcoming exposure of hypocrisy
+    atmosphere: atmosphere of bourgeois prosperity and social ambition, with undertones of domestic tension and religious
+      conflict, air thick with unspoken accusations and family discord, mounting tension as trap is set and actors prepare
+      for climactic confrontation
+  composition:
+    cameraAngle: complex composition showing both the concealed husband and waiting wife
+    focus: dramatic irony of hidden observer about to witness destruction of his own delusions while wife prepares dangerous
+      performance
+    depth: foreground showing elegantly arranged seduction scene, middle ground revealing perfect concealment, background
+      suggesting upcoming entrance of unsuspecting victim
+visualElements:
+  colorPalette:
+    primary:
+    - pale pink
+    - powder blue
+    - cream white
+    secondary:
+    - gold leaf
+    - soft lavender
+    - mint green
+    background: elegant interior settings or pastoral landscapes
+    usageNotes: Soft, refined pastel colors with gold accents
+    saturation: low to medium (delicate, refined)
+    contrast: low (soft, harmonious)
+  lineArt:
+    style: delicate, flowing curves
+    weight: light, graceful lines
+    color: soft, subtle outlines
+    texture: smooth, refined finish
+    edgeTreatment: soft, curved edges
+  lighting:
+    type: soft, diffused lighting
+    direction: gentle, flattering illumination
+    intensity: soft, never harsh
+    shadows:
+      style: soft, delicate shadows
+      color: light grays and pastels
+      opacity: very light
+    highlights: gentle, pearlescent highlights
+  rendering:
+    technique: smooth oil painting with fine detail
+    texture: silk, porcelain, delicate fabrics
+    detailLevel: high (ornate decorative details)
+    finish: smooth, polished finish
+  perspective: intimate, human scale
+  mood:
+    overall: elegant, refined, leisurely
+    emotion: pleasure, refinement, grace
+    tempo: leisurely, graceful
+    keywords:
+    - elegant
+    - refined
+    - graceful
+    - delicate
+    - aristocratic
+  stylePrecedents:
+  - Antoine Watteau paintings
+  - Fragonard romantic scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

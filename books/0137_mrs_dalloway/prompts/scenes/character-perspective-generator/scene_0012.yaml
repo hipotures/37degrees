@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Miss Kilman's bitter perspective on Army Navy Stores tea room"
+  setting:
+    time: "June 1923, late afternoon around 4:30 PM"
+    location: "Crowded tea room in Army and Navy Stores department store, London"
+    weather: "Stuffy indoor atmosphere contrasting with bright day outside"
+  characters:
+    - appearance: "Woman over 40, heavy ungraceful build, gooseberry eyes, forehead like egg, face expressing bitterness and resentment"
+      clothing: "Cheap unattractive green mackintosh coat worn as symbol of rejecting worldly vanity and reflecting her poor status"
+      position: "Seated at small tea table, consuming cakes with desperate hunger"
+      action: "Folded hands as in prayer, greedy eating habits"
+    - appearance: "17-year-old girl with quiet dark oriental beauty contrasting with her fair-haired parents, pale complexion, great composure for her age"
+      clothing: "Simple modest clothing, prefers countryside to parties and fashionable society"
+      position: "Seated uncomfortably across from Miss Kilman, planning escape"
+      action: "Looking increasingly uncomfortable with Miss Kilman's possessive attention"
+  scene:
+    mainElements: "Crowded department store tea room filled with middle-class shoppers and small tables"
+    details: "Through Miss Kilman's resentful perception, tea room becomes arena of class warfare, wealthy shoppers appearing as enemies flaunting their privilege, cream cakes becoming symbols of denied pleasures, Elizabeth appearing as precious possession being stolen by corrupt upper classes, other diners' laughter sounding like mockery, mirrors reflecting her own ugliness and poverty, waitresses serving as reminder of her fallen social status, no text or letters visible"
+    background: "Busy tea room with chattering customers, department store displays visible through doorways, sounds of commercial activity"
+    atmosphere: "Suffocating social resentment poisoning ordinary tea room experience, Miss Kilman's psychological filter of bitterness transforming consumer space into battlefield of class envy and religious fanaticism"
+  composition:
+    cameraAngle: "Close-up from Miss Kilman's perspective, emphasizing her isolation and resentment"
+    focus: "Elizabeth as object of possessive desire and the cream cakes representing forbidden pleasures"
+    depth: "Tea table and food in foreground, uncomfortable interaction in middle ground, crowded tea room as hostile environment in background"

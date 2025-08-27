@@ -1,0 +1,163 @@
+canon:
+  characters:
+    - id: "esteban_trueba_young"
+      name: "Esteban Trueba (Young)"
+      description_block: |
+        characters:
+          - appearance: "man in his twenties, extraordinarily tall and powerfully built, imposing physical presence that intimidates others, strong jawline, determined dark eyes"
+            clothing: "simple worn mining work clothes, rough brown cotton shirt, patched dark trousers, heavy leather boots"
+            position: "standing with commanding posture, shoulders squared"
+            action: "surveying his domain with fierce determination and barely contained ambition"
+    
+    - id: "esteban_trueba_middle"
+      name: "Esteban Trueba (Middle-aged)"
+      description_block: |
+        characters:
+          - appearance: "man in his forties to fifties, tall and still powerfully built, weathered face with deep lines from sun and anger, graying hair, stern dark eyes that command respect and fear"
+            clothing: "impeccable conservative dark suits when in capital, practical landowner attire in countryside - leather riding boots, wool vest, white cotton shirt"
+            position: "seated in position of authority or standing with hands clasped behind back"
+            action: "gesturing with authority while giving orders or sitting in judgment"
+
+    - id: "esteban_trueba_old"
+      name: "Esteban Trueba (Elderly)"
+      description_block: |
+        characters:
+          - appearance: "man in his eighties to nineties, dramatically shrunken from his once imposing height, bent and fragile, face deeply lined like a map of suffering, white sparse hair, eyes that have lost their fire but gained wisdom"
+            clothing: "elegant but loose-fitting dark suits that hang on his diminished frame, always formal despite physical decline"
+            position: "leaning heavily on wooden walking cane, often seated due to frailty"
+            action: "moving slowly and deliberately, occasionally pausing to catch breath or remember"
+
+    - id: "clara_del_valle"
+      name: "Clara del Valle Trueba"
+      description_block: |
+        characters:
+          - appearance: "woman aged twenty-five to fifty-seven, petite and delicate build, ethereal presence, gentle facial features with absent dreamy expression, several missing front teeth from violent attack, otherworldly demeanor"
+            clothing: "simple flowing light-colored dresses in soft fabrics, slightly eccentric style that ignores fashion, comfortable garments that don't restrict movement"
+            position: "sitting gracefully with perfect posture, often appearing to listen to invisible voices"
+            action: "writing in notebooks with delicate precise handwriting or tending to exotic plants and colorful caged birds"
+
+    - id: "rosa_del_valle"
+      name: "Rosa del Valle (The Beautiful)"
+      description_block: |
+        characters:
+          - appearance: "young woman aged eighteen, otherworldly beauty like porcelain doll, translucent pale skin with bluish tint, bright yellow eyes, long flowing green hair color of old bronze, graceful movements like mythical sea creature"
+            clothing: "flowing white or pale ethereal dresses in light fabrics that emphasize her supernatural beauty"
+            position: "reclining or sitting with fluid grace, movements slow and mesmerizing"
+            action: "embroidering fabrics with mythical beasts and magical creatures, moving with siren-like elegance"
+
+    - id: "blanca_trueba"
+      name: "Blanca Trueba de Satigny"
+      description_block: |
+        characters:
+          - appearance: "woman aged fifteen to fifty, practical appearance more earthbound than ethereal mother, sturdy build suited for physical work, determined expression often showing internal conflict"
+            clothing: "simple functional dresses, often work clothes stained with clay from pottery making, modest attire appropriate for artistic pursuits"
+            position: "seated at potter's wheel or standing with hands covered in clay"
+            action: "molding clay figurines and nativity scene pieces, creating art with focused concentration"
+
+    - id: "alba_de_satigny"
+      name: "Alba de Satigny Trueba"
+      description_block: |
+        characters:
+          - appearance: "young woman aged eighteen to twenty-two, considered ordinary looking by family standards, long straight green hair like great-aunt Rosa, eyes inherited from father Pedro Tercero, earnest expression showing political passion"
+            clothing: "1970s student activist attire - denim jeans, simple t-shirts, wool sweaters, canvas sneakers, clothes reflecting political consciousness"
+            position: "standing defiantly with chin raised or sitting hunched over books and political materials"
+            action: "reading revolutionary texts, writing manifestos, or engaged in passionate political discussions"
+
+    - id: "pedro_tercero_garcia"
+      name: "Pedro Tercero García"
+      description_block: |
+        characters:
+          - appearance: "man aged twenty to fifty, sturdy peasant build with sun-weathered skin from field work, strong shoulders, most distinctive feature is mutilated right hand missing three fingers from violent punishment"
+            clothing: "simple peasant work clothes - rough cotton shirts, patched trousers, sometimes traditional poncho, occasionally disguises as priest or vagrant"
+            position: "standing with guitar slung over shoulder or sitting cross-legged while playing"
+            action: "playing acoustic guitar and singing protest songs, his damaged hand clearly visible on instrument"
+
+    - id: "ferula_trueba"
+      name: "Férula Trueba"
+      description_block: |
+        characters:
+          - appearance: "woman in her forties to sixties, sharp angular features showing bitterness and repressed emotions, thin build from years of self-denial, severe expression hiding deep pain"
+            clothing: "modest dark-colored old-fashioned dresses, conservative styling that reflects austere lifestyle and devotion to duty"
+            position: "standing rigidly upright with hands clasped in front, formal posture of constraint"
+            action: "performing acts of service or devotion, caring for sick or cleaning with obsessive precision"
+
+    - id: "esteban_garcia"
+      name: "Esteban García"
+      description_block: |
+        characters:
+          - appearance: "man in his twenties, bears physical resemblance to grandfather Esteban Trueba but with coarser peasant features, cold eyes showing resentment and cruelty, expressions of suppressed rage"
+            clothing: "military or police uniform representing authority and power he craved, crisp dark uniform with insignia of rank"
+            position: "standing at attention in military posture or looming threateningly over victims"
+            action: "interrogating prisoners with calculated brutality or studying documents with predatory satisfaction"
+
+  locations:
+    - id: "big_house_corner_clara_era"
+      name: "Big House on Corner (Clara's Era)"
+      description_block: |
+        setting:
+          location: "sprawling mansion in unnamed South American capital city, magnificent architectural chaos with towers, winding staircases leading nowhere, doors suspended in air, organic growth guided by spirits"
+        mainElements: "three-level internal courtyard filled with exotic flowering plants, multiple birdcages with colorful tropical birds, rooms growing in impossible directions"
+        atmosphere: "magical bustling energy, warm golden sunlight streaming through large windows, sounds of laughter and supernatural whispers, scent of flowers and incense"
+
+    - id: "big_house_corner_after_clara"
+      name: "Big House on Corner (After Clara's Death)"
+      description_block: |
+        setting:
+          location: "same sprawling mansion in South American capital, now decaying and abandoned, architectural magnificence turning to ruin"
+        mainElements: "permanently shuttered windows, dust-covered furniture under white sheets, crumbling plaster walls, sealed bedroom shrine to Clara"
+        atmosphere: "oppressive silence and abandonment, gray filtered light through closed shutters, musty smell of neglect, haunted by memories rather than spirits"
+
+    - id: "tres_marias_before_renovation"
+      name: "Tres Marías (Before Renovation)"
+      description_block: |
+        setting:
+          location: "abandoned rural estate in South American countryside, formerly productive hacienda now fallen into complete ruin"
+        mainElements: "collapsed main house filled with debris, fields overgrown with wild vegetation, crumbling peasant huts with holes in thatched roofs"
+        atmosphere: "desolation and hopelessness, muted browns and grays of decay, silence broken only by wind through broken timbers"
+
+    - id: "tres_marias_renovated"
+      name: "Tres Marías (After Renovation)"
+      description_block: |
+        setting:
+          location: "prosperous rural estate in South American countryside, transformed into model hacienda through iron discipline and brutal efficiency"
+        mainElements: "solid stone and timber patron's house, neat rows of grapevines, simple but clean workers' houses, functional school building, work bell tower"
+        atmosphere: "harsh sunlight creating sharp shadows, tension and fear beneath surface order, sounds of forced labor and patron's shouted commands"
+
+    - id: "capital_city_streets_1970s"
+      name: "Capital City Streets (1970s Political Era)"
+      description_block: |
+        setting:
+          location: "urban streets of South American capital during political upheaval, mixture of colonial and modern architecture"
+        mainElements: "university buildings, political demonstration sites, military checkpoints, walls covered with revolutionary graffiti and protest slogans"
+        atmosphere: "electric tension of social revolution, sounds of marching crowds and protest songs, acrid smell of tear gas and burning barricades"
+
+  items:
+    - id: "clara_notebooks"
+      name: "Clara's Notebooks"
+      description_block: |
+        details: "collection of leather-bound notebooks of various sizes and conditions, filled with Clara's delicate precise handwriting recording life events, spirit communications, and family prophecies, some pages yellowed with age, ink faded but still legible"
+
+    - id: "nivea_head_suitcase"
+      name: "Nívea's Head in Medical Suitcase"
+      description_block: |
+        details: "old black leather medical bag containing preserved head of Clara's mother, macabre family secret stored in basement, represents connection to past and unfinished business with death"
+
+    - id: "pedro_guitar"
+      name: "Pedro Tercero's Guitar"
+      description_block: |
+        details: "simple acoustic guitar showing wear from constant use, wooden surface scratched and stained from outdoor performances, represents voice of revolution and forbidden love songs"
+
+    - id: "blanca_pottery"
+      name: "Blanca's Pottery Figurines"
+      description_block: |
+        details: "collection of small hand-crafted clay figures, especially nativity scene characters, simple earthenware pieces showing artistic skill and connection to earth, therapeutic creative expression"
+
+    - id: "green_hair"
+      name: "Supernatural Green Hair"
+      description_block: |
+        details: "distinctive green-colored hair inherited by Rosa and Alba, color described as old bronze or sea-green, supernatural family trait representing magical inheritance and cyclical nature of family gifts"
+
+    - id: "esteban_walking_cane"
+      name: "Esteban's Walking Cane"
+      description_block: |
+        details: "simple wooden walking stick supporting elderly Esteban, represents his lost physical power and dependence, humble tool for once-mighty patriarch"

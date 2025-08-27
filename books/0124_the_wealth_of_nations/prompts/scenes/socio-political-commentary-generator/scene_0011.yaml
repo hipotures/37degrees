@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Workers as Mechanical Components"
+  setting:
+    time: "1776, monotonous afternoon routine"
+    location: "Long rectangular ground-floor workshop in brick industrial building, British Midlands"
+    weather: "Gray overcast light filtering through windows"
+  characters:
+    - appearance: "25-year-old male laborer, lean but muscular from physical work, weathered hands with calluses, tired expression in brown eyes, short unkempt dark hair"
+      clothing: "coarse unbleached linen shirt, patched wool breeches, thick woolen stockings, heavy leather shoes, thick leather apron stained with metal dust"
+      position: "bent over workbench in focused concentration on repetitive task"
+      action: "performing single specialized operation in pin-making process with mechanical precision"
+  scene:
+    mainElements: "Extended wooden workbench running length of room with ten workstations, each with specific tools for pin-making stages, hand-operated machinery including wire-drawing apparatus and grinding stones"
+    details: "Workers perform identical motions in perfect synchronization, their movements becoming mechanical rather than human. Each person operates like a component in larger machine, showing no individual expression or creativity. Tools and machinery dominate the scene, with humans appearing as accessories to the manufacturing process. Metal dust creates hazy atmosphere suggesting industrial pollution"
+    background: "Rhythmic industrial sounds of hammering and grinding, metallic dust particles floating in cold light from large utilitarian windows, smell of heated metal and oil"
+    atmosphere: "Dehumanization through extreme specialization, workers reduced to mechanical functions, loss of individual creativity and autonomy, humans serving machinery rather than reverse"
+  composition:
+    cameraAngle: "Low angle emphasizing machinery dominance over human workers"
+    focus: "Worker performing repetitive motion with machine-like precision, showing loss of human individuality"
+    depth: "Mechanical tools prominent in foreground, worker as component in middle ground, industrial setting extending to background"

@@ -1,0 +1,153 @@
+canon:
+  characters:
+    - id: "rama"
+      name: "Rama"
+      description_block: |
+        characters:
+          - appearance: "Tall athletic man in his twenties to late thirties, broad chest and long muscular arms reaching to his knees, noble facial features with high forehead and strong jaw, large lotus-shaped eyes with reddish corners, dark blue-green skin like rain clouds or blue lotus"
+            clothing: "Royal: rich silk dhoti and uttariya shawl decorated with gold threads and gems, golden jewelry. Ascetic: rough tree bark garments (valkala), hair in ascetic's knot (jata) on top of head"
+            posture: "Majestic bearing like a lion or elephant, moves with royal dignity and confidence, controlled gestures even in anger or despair"
+
+    - id: "sita" 
+      name: "Sita"
+      description_block: |
+        characters:
+          - appearance: "Young woman aged eighteen to twenty, ideally proportioned with slender waist and graceful build, golden complexion like molten gold, long thick black hair in single braid, large dark lotus-shaped eyes, red lips like bimba fruit, radiant pure smile"
+            clothing: "Royal: luxurious silk sari in vibrant colors with gold embroidery, rich jewelry. Ascetic: simple ochre-colored sari. Captivity: single worn and soiled garment"
+            posture: "Natural grace and dignity, delicate refined gestures, in despair becomes bent with head bowed"
+
+    - id: "lakshmana"
+      name: "Lakshmana" 
+      description_block: |
+        characters:
+          - appearance: "Man in his twenties, tall athletic build similar to Rama with noble features and lotus-shaped eyes, light golden complexion (gaura) contrasting with Rama's dark skin, identical facial features to Rama"
+            clothing: "Always mirrors Rama's attire exactly - royal silks and gold in palace, tree bark garments on exile, always carries bow and arrows"
+            posture: "Alert guardian stance ready to defend, energetic movement with vigilance, face often shows quick temper and fierce loyalty"
+
+    - id: "hanuman"
+      name: "Hanuman"
+      description_block: |
+        characters:
+          - appearance: "Humanoid monkey-like being with muscular diamond-hard body, red face like ruby, long powerful tail, ability to change size from thumb-sized to mountain-large, adult supernatural being of indeterminate age"
+            clothing: "Simple loincloth (langot) around hips"
+            posture: "Moves with extraordinary agility and strength, characteristic pose of deep devotion kneeling at Rama's feet with palms joined in anjali mudra gesture"
+
+    - id: "ravana"
+      name: "Ravana"
+      description_block: |
+        characters:
+          - appearance: "Ancient powerful demon with ten heads and twenty arms, each face capable of different expressions, powerfully built with dark skin, sharp fangs, imposing and terrifying yet majestic presence"
+            clothing: "Richest royal silk garments and golden crown on each of ten heads, covered in precious jewels, body anointed with sandalwood paste"
+            posture: "Commanding regal bearing despite demonic nature, multiple arms create dynamic imposing silhouette"
+
+    - id: "dasaratha"
+      name: "King Dasaratha"
+      description_block: |
+        characters:
+          - appearance: "Elderly king over sixty years old, majestic but aged bearing, gray-haired with regal features, face initially expressing paternal love then tragic despair, body weakened by grief"
+            clothing: "Rich royal silk garments, crown and royal jewels symbolizing his powerful kingdom"
+            posture: "Royal dignity gradually declining into grief-stricken collapse"
+
+    - id: "kaikeyi"
+      name: "Queen Kaikeyi"
+      description_block: |
+        characters:
+          - appearance: "Mature beautiful woman aged forty to fifty years, youngest beloved wife of the king, facial expression transforms from loving to cold determined then to remorseful"
+            clothing: "Finest silk sari and most precious royal jewels as the king's favored queen"
+            posture: "Initially confident and beloved, becomes rigid with determination during demands, later shows regret and sorrow"
+
+    - id: "bharata"
+      name: "Prince Bharata"
+      description_block: |
+        characters:
+          - appearance: "Young prince younger than Rama, noble features similar to his royal brothers, during regent period becomes ascetic-like with gaunt face marked by sadness and guilt from living like hermit"
+            clothing: "Royal princely garments initially, later simple tree bark clothing as ascetic during fourteen-year exile from palace"
+            posture: "Noble bearing transformed by grief and guilt, carries himself with dignified sorrow"
+
+    - id: "sugriva"
+      name: "King Sugriva"
+      description_block: |
+        characters:
+          - appearance: "Powerful humanoid monkey (vanara) with beautiful neck as his name suggests, lighter fur color than his brother Vali (possibly golden as son of sun god Surya), adult monkey-king"
+            clothing: "Simple loincloth, after coronation wears royal ornaments and crown"
+            posture: "Regal bearing when crowned, initially shows defeat and exile posture before alliance with Rama"
+
+    - id: "vibhishana"
+      name: "Vibhishana"
+      description_block: |
+        characters:
+          - appearance: "Demon (rakshasa) brother of Ravana but with noble non-monstrous appearance, calm dignified bearing reflecting his righteous sattvic nature, adult demon of noble character"
+            clothing: "Royal garments more modest than Ravana's elaborate dress"
+            posture: "Serene and dignified posture showing his moral character despite demonic race"
+
+  locations:
+    - id: "ayodhya"
+      name: "Ayodhya"
+      description_block: |
+        setting:
+          location: "Ideal capital city of ancient Kosala kingdom in northern India, majestic multi-story palaces decorated with precious gems and golden temple spires reaching skyward, broad straight royal avenues constantly sprinkled with water and scattered with flowers, mighty fortifications with high decorative walls and deep water-filled moats"
+        mainElements: "Golden and white architecture with jewel-decorated building facades creating brilliant urban landscape"
+        atmosphere: "Bright warm sunlight symbolizing prosperity and divine favor, atmosphere of peace happiness and piety with melodious chanting of sacred texts floating from homes and temples, fragrant air with flower and incense scents"
+
+    - id: "dandaka_forest"
+      name: "Dandaka Forest"
+      description_block: |
+        setting:
+          location: "Vast wild untamed forest in central ancient India, dangerous territory mixing demon-haunted dark depths with peaceful hermitage clearings beside lotus-covered rivers and lakes"
+        mainElements: "Dense forest canopy creating dramatic light-shadow contrasts, simple bamboo and leaf hermit dwellings with thatched roofs, ritual fire altars, meditation platforms"
+        atmosphere: "Deep dangerous areas show thick green darkness and threatening shadows, peaceful hermitages glow with warm spiritual light, sounds range from demonic roars to melodious hymn chanting"
+
+    - id: "lanka"
+      name: "Lanka"
+      description_block: |
+        setting:
+          location: "Island fortress capital of demon kingdom built on mountain peak Trikuta far south across ocean, magnificent city designed by divine architect Vishwakarma with golden gates and majestic golden-tinted residences, massive walls and defensive moats making it nearly impregnable"
+        mainElements: "Opulent architecture mixing beauty with menace, golden and black color scheme with deep red and purple accents, enormous multi-level palace complex guarded by four-tusked elephants and powerful demons"
+        atmosphere: "Dramatic lighting with sharp light-shadow contrasts emphasizing tyrannical nature, air of military power and arrogant luxury mixed with fear, sounds of demon guards and courtly music"
+
+    - id: "ashoka_vatika"
+      name: "Ashoka Vatika Garden"
+      description_block: |
+        setting:
+          location: "Beautiful captive garden within Lanka where Sita is imprisoned, heavenly garden filled with blooming ashoka trees meaning without sorrow, rare plants and fragrant flowers, pavilions and gem-edged ponds and lakes, small bells hanging from trees chiming in wind"
+        mainElements: "Lush flowering paradise contrasting with Sita's deep despair and captivity, natural beauty emphasizing the tragedy of imprisonment"
+        atmosphere: "Melancholy moonlit or soft natural lighting to reflect Sita's sadness, place of silence and sorrow broken only by demon guards' taunts and Sita's weeping"
+
+    - id: "putrakameshti_altar"
+      name: "Ritual Fire Altar"
+      description_block: |
+        setting:
+          location: "Sacred ceremonial ground on banks of river Saraju near Ayodhya, specially constructed large offering plaza with elaborate brick-built fire altar (yajna kunda) at center, assembled with kingdom's most important priests and sages"
+        mainElements: "Central blazing fire altar with pure bright flames reaching toward heaven, ritual implements and offerings, gathering of holy men in white ceremonial garments"
+        atmosphere: "Bright daylight with central fire as primary light source, solemn sacred atmosphere of divine ritual, hope and anticipation filling the air"
+
+  items:
+    - id: "kodanda_bow"
+      name: "Kodanda Bow"
+      description_block: |
+        details: "Divine bow belonging to Rama, powerful weapon capable of firing celestial arrows (astras), symbol of his divine warrior nature, always carried with kola"
+
+    - id: "shiva_bow_pinaka"
+      name: "Shiva's Bow Pinaka"
+      description_block: |
+        details: "Gigantic divine bow of god Shiva made of indestructible dark material possibly decorated with gold and divine symbols, so heavy it requires eight-wheeled chest pulled by hundreds of strong men, emanates aura of divine power"
+
+    - id: "pushpaka_vimana"
+      name: "Pushpaka Flying Chariot"
+      description_block: |
+        details: "Magnificent two-story flying vehicle originally belonging to god Kubera then stolen by Ravana, beautifully painted with multiple chambers and windows decorated with flags and garlands, magical ability to change size accommodating any number of passengers, moves at speed of thought while producing melodious sound during flight"
+
+    - id: "divine_astras"
+      name: "Divine Weapons (Astras)"
+      description_block: |
+        details: "Supernatural weapons summoned by mantras rather than physical projectiles, each connected to specific deity or element - Agneyastra creates unquenchable flames, Varunastra brings torrential rains, Brahmastra has world-destroying power - visualized as spectacular elemental energy effects not mechanical weapons"
+
+    - id: "valkala_garments"
+      name: "Tree Bark Garments"
+      description_block: |
+        details: "Simple rough clothing made from tree bark (valkala) worn by ascetics and hermits, coarse textured natural brown garments symbolizing renunciation of material world and dedication to spiritual life"
+
+    - id: "royal_jewels"
+      name: "Royal Jewelry and Ornaments"
+      description_block: |
+        details: "Elaborate golden jewelry worn by royal family including necklaces (kantha lambanam), bracelets (kangan), arm ornaments (baju band), earrings (karnika), waist chains (mekhala), and ankle decorations (kara), often set with precious gems, symbols of royal status and divine favor"

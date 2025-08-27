@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1880s social season overlapping with 1910s decline overlapping with 1928 abandonment
+    location: Formal front room of Compson mansion with high ceilings, used for important family events transformed into ghostly
+      ballroom showing multiple time periods simultaneously
+    weather: Indoor gaslight transforming to electric light then to dust-filtered daylight
+  characters: No characters present in this scene
+  scene:
+    mainElements: Heavy dark wood furniture, horsehair-stuffed sofa, thick curtains blocking natural light, closed piano,
+      formal seating arrangement transformed into ballroom showing three temporal layers as transparent overlays
+    details: 'Triple temporal transparency showing same parlor as multi-generational ballroom: deepest layer reveals 1880s
+      elegant social gathering with formally dressed couples dancing, gaslight fixtures blazing, piano playing, elaborate
+      refreshment tables, wallpaper fresh and vibrant; middle layer shows 1910s more modest social events with fewer participants,
+      electric lighting mixed with gas, piano occasionally played, furniture showing wear; surface layer depicts 1928 empty
+      room with dust particles dancing in afternoon sunbeams instead of people, closed piano silent, furniture covered with
+      sheets, party ghosts visible as transparent memories no text or letters visible'
+    background: Same architectural space showing progression from social vitality through decline to abandonment, with building
+      details aging across nearly fifty years
+    atmosphere: Haunting visualization of how spaces hold memory layers, showing social decline through ghostly presence of
+      former celebrations in empty rooms
+  composition:
+    cameraAngle: Wide shot from parlor doorway showing full room with temporal transparencies
+    focus: Central dancing area showing transparent figures from multiple decades occupying same space
+    depth: 'Foreground: empty 1928 room with dust motes replacing dancers; middle ground: fading 1910s social activities;
+      background: vibrant 1880s ballroom celebrations'
+visualElements:
+  colorPalette:
+    primary:
+    - bold primary colors
+    - earth tones
+    - black and white
+    secondary:
+    - mixed intermediary colors
+    - paint tube colors
+    - accidental color mixing
+    background: large color fields or gestural backgrounds
+    usageNotes: Either bold gestural colors or subtle color field gradations
+    saturation: varies (high for action painting, subtle for color field)
+    contrast: varies by approach (high contrast gestures or subtle field)
+  lineArt:
+    style: gestural marks or no lines (color field)
+    weight: varies dramatically with gesture
+    color: paint colors, often mixed on canvas
+    texture: heavy impasto or smooth color application
+    edgeTreatment: rough gestural edges or soft color transitions
+  lighting:
+    type: no representational lighting
+    direction: paint application creates light effects
+    intensity: created by color intensity
+    shadows:
+      style: no representational shadows
+      color: darker paint applications
+      opacity: varies with paint thickness
+    highlights: bright paint applications or canvas showing through
+  rendering:
+    technique: direct paint application, often alla prima
+    texture: varies from smooth to heavy impasto
+    detailLevel: abstract (no representational detail)
+    finish: varies from matte to heavy texture
+  perspective: no representational perspective
+  mood:
+    overall: emotional, expressive, spontaneous or contemplative
+    emotion: raw expression or meditative calm
+    tempo: energetic gesture or slow contemplation
+    keywords:
+    - emotional
+    - expressive
+    - spontaneous
+    - contemplative
+    - raw
+  stylePrecedents:
+  - Jackson Pollock drip paintings
+  - Mark Rothko color fields
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

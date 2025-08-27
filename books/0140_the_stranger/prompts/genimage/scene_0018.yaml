@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1940, morning
+    location: Lawyers' preparation room adjacent to French colonial courthouse
+    weather: Bright morning with natural light through windows
+  characters:
+  - appearance: Niski, pulchny, dość młody, z włosami zaczesanymi do tyłu... w ciemnym garniturze
+    clothing: Ciemny garnitur, ze stójką i dziwacznym, pasiastym krawatem
+    position: Seated at desk reviewing papers
+    action: Preparing legal strategy while expressing frustration about client's unhelpful attitude
+  scene:
+    mainElements: Legal preparation room showing actual work of constructing trial narrative, papers scattered with case notes,
+      lawyer's genuine frustration with uncooperative defendant
+    details: Case files revealing systematic approach to building defense, lawyer's notes showing attempts to create sympathetic
+      narrative from difficult facts, coffee cups and cigarette ash showing long hours of preparation. Window showing courthouse
+      where performance will occur.
+    background: Professional legal environment with law books, filing cabinets, typewriter for preparing documents, sounds
+      of courthouse business beginning
+    atmosphere: Behind-the-scenes reality of legal system as professional theater requiring preparation and performance, showing
+      gap between legal process and truth
+  composition:
+    cameraAngle: Objective view from side showing lawyer's preparation work and frustration
+    focus: Lawyer's actual working process and genuine professional concerns about difficult case
+    depth: Foreground shows scattered case documents and preparation materials, middle ground shows lawyer's working posture,
+      background shows courthouse window and legal environment, no text or letters visible
+visualElements:
+  colorPalette:
+    primary:
+    - pure white
+    - deep black
+    - single accent color
+    secondary:
+    - neutral gray
+    - natural beige
+    - single primary color
+    background: pure white or single color
+    usageNotes: Extremely limited palette, often monochromatic
+    saturation: low to none (except single accent)
+    contrast: high (strong black/white relationships)
+  lineArt:
+    style: simple geometric lines, basic shapes
+    weight: uniform, precise
+    color: black or single color
+    texture: completely smooth
+    edgeTreatment: clean, sharp edges
+  lighting:
+    type: even, minimal lighting effects
+    direction: ambient, non-directional
+    intensity: subtle, understated
+    shadows:
+      style: minimal or no shadows
+      color: light gray
+      opacity: very subtle
+    highlights: minimal, if any
+  rendering:
+    technique: simple geometric construction
+    texture: smooth, no texture
+    detailLevel: minimal (only essential elements)
+    finish: flat, matte
+  perspective: simple or no perspective
+  mood:
+    overall: calm, contemplative, pure
+    emotion: serenity, focus, clarity
+    tempo: static, meditative
+    keywords:
+    - calm
+    - pure
+    - focused
+    - serene
+    - essential
+  stylePrecedents:
+  - Donald Judd sculptures
+  - Agnes Martin paintings
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

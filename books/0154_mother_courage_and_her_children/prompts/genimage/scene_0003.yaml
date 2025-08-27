@@ -1,0 +1,80 @@
+sceneDescription:
+  setting:
+    time: 1625 winter, during apparent Swedish military success
+    location: Chaotic Swedish or Catholic army encampment with canvas tents wooden barracks supply wagons and artillery pieces
+    weather: Clear cold winter day with organized military precision
+  characters:
+  - appearance: Swedish military officers in dress uniforms, displaying authority and confidence
+    clothing: Clean pressed military uniforms with insignia, polished leather equipment, ceremonial swords
+    position: Standing in formation reviewing troops and camp organization
+    action: Conducting military inspections, delivering orders, maintaining apparent discipline
+  scene:
+    mainElements: Scattered heavy canvas tents, rough wooden structures, makeshift cooking fires, fortifications of earth
+      and wood, clotheslines with laundry, weapons stacked against wagons
+    details: Military camp arranged in orderly rows suggesting efficiency and control, soldiers marching in formation, clean
+      banners flying, weapons properly maintained and displayed, maps and strategic materials visible suggesting competent
+      command
+    background: Artillery pieces positioned strategically, tents arranged in military precision, supply wagons organized for
+      maximum efficiency
+    atmosphere: Constant movement noise and tension, smell of smoke sweat and cooked food, organized chaos of military life,
+      provisional temporary feeling of wartime existence
+  composition:
+    cameraAngle: Wide shot showing apparent military organization and efficiency
+    focus: Illusion of military competence and justified warfare through proper organization
+    depth: Foreground shows officers and discipline, middle ground organized camp structures, background strategic military
+      equipment
+visualElements:
+  colorPalette:
+    primary:
+    - '#FF0000'
+    - '#000000'
+    - '#FFFFFF'
+    secondary:
+    - '#FFD700'
+    - '#1E3A8A'
+    background: solid color blocks
+    usageNotes: Limited palette, maximum impact
+    saturation: maximum
+    contrast: extreme
+  lineArt:
+    style: geometric, angular
+    weight: bold, uniform
+    color: black or contrasting
+    texture: clean, sharp
+    edgeTreatment: precise, mechanical
+  lighting:
+    type: flat, graphic
+    direction: none - flat design
+    intensity: n/a
+    shadows:
+      style: geometric drop shadows
+      color: black
+      opacity: solid
+    highlights: none
+  rendering:
+    technique: vector-like precision
+    texture: flat color blocks
+    detailLevel: simplified to essentials
+    finish: poster-like, graphic
+  perspective: dynamic diagonals, forced perspective
+  mood:
+    overall: powerful, urgent, revolutionary
+    emotion: determination, conflict, awakening
+    tempo: dynamic, forceful
+    keywords:
+    - powerful
+    - revolutionary
+    - bold
+    - urgent
+    - authoritative
+  stylePrecedents:
+  - El Lissitzky
+  - Alexander Rodchenko
+  - Constructivist movement
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

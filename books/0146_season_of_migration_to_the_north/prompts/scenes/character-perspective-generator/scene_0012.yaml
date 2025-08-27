@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Child Witnesses Stranger's Poetry - Magic and Fear"
+  setting:
+    time: "1960s, late night"
+    location: "Interior of traditional house during adult gathering, viewed from child's hiding position"
+    weather: "Still night air, temperature cooling"
+  characters:
+    - appearance: "Young Sudanese child around seven years old, bright curious eyes, small bare feet, pressed against doorway"
+      clothing: "Simple nightclothes, traditional child's sleeping garment"
+      position: "Crouched by doorway, partially hidden, watching adults with wide frightened eyes"
+      action: "Trembling with confusion and fear as familiar world becomes strange"
+    - appearance: "Handsome Sudanese man around fifty years old, appearing giant-like and terrifying from child's perspective"
+      clothing: "Simple farmer's djellaba, disheveled from alcohol consumption"
+      position: "Standing in center of room like threatening tower"
+      action: "Speaking in incomprehensible foreign language with frightening intensity"
+  scene:
+    mainElements: "Room appearing cavern-like from child's low position, single oil lamp creating monster-shadows on walls, adults frozen in shock"
+    details: "Through child's perspective of terror and incomprehension, Mustafa transforms into frightening supernatural being - his foreign words sound like magical incantations or demon speech, his towering figure casts monstrous shadow across ceiling, familiar villagers appear paralyzed by his spell. Oil lamp flame flickers creating dancing devils on walls, normal room becomes haunted space where safe world of known language breaks apart. Child cannot understand words but feels dangerous magic in stranger's voice, no text or letters visible"
+    background: "Dark corners of room appearing as caves where monsters might hide, doorway to courtyard showing escape route to safety"
+    atmosphere: "Child experiencing primal fear as familiar world reveals hidden dangers, foreign language sounding like curse or evil spell, night gathering transformed from adult socializing into supernatural threat requiring hiding and eventual flight"
+  composition:
+    cameraAngle: "Extremely low angle from child's frightened hiding position"
+    focus: "Mustafa appearing massive and threatening as he speaks foreign words"
+    depth: "Child's trembling form in immediate foreground, towering Mustafa in middle ground, shocked adult faces in background, no text or letters visible"

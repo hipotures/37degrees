@@ -1,0 +1,20 @@
+sceneDescription:
+  title: "Crown of Thorns - Rama's Lonely Throne in Light"
+  setting:
+    time: "Treta Yuga ancient era, harsh bright noon light in throne room"
+    location: "Royal throne room in Ayodhya palace, magnificent golden throne surrounded by courtly splendor but emotionally empty"
+    weather: "Bright sunlight streaming through palace windows creating stark lighting"
+  characters:
+    - appearance: "Tall athletic man now showing weight of years and kingship, noble features marked by sorrow and duty, dark blue-green skin, wearing royal crown"
+      clothing: "Full royal regalia with crown and ceremonial garments, symbols of kingship that have become burden"
+      position: "Seated alone on golden throne surrounded by bright light"
+      action: "Ruling in solitude, making royal decisions without family happiness"
+  scene:
+    mainElements: "Shadow frame created by bright spotlight effect isolating king on throne, surrounded by darkness beyond the harsh light. Bright throne area contrasts with shadows around, showing isolation of power and duty without love"
+    details: "Golden throne gleaming in harsh bright light, royal crown and regalia catching light with cold gleam, empty throne room showing absence of family warmth, courtly decorations unable to provide comfort, stark contrast between bright center and dark surroundings"
+    background: "Palace throne room extending into shadows beyond bright throne area, empty spaces where family should be, cold grandeur of royal isolation"
+    atmosphere: "Harsh bright lighting creating sense of exposed duty and lonely power, contrast between royal splendor and emotional emptiness, cold light showing the price of perfect dharmic kingship"
+  composition:
+    cameraAngle: "Shot with bright spotlight on throne contrasting with surrounding darkness"
+    focus: "Rama on throne in sharp bright focus, surrounding areas in shadow frame"
+    depth: "Bright throne area in center focus, darkness creating frame around, palace architecture in shadow background, no text or letters visible"

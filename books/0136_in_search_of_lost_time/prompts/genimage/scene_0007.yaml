@@ -1,0 +1,82 @@
+sceneDescription:
+  setting:
+    time: August vacation peak transitioning to September departure, afternoon light
+    location: Beach promenade before Grand-Hôtel Balbec, Norman coastline
+    weather: Bright summer sunshine with gentle sea breeze becoming cooler autumn wind with graying skies
+  characters:
+  - appearance: The 'little band' of five teenage girls aged 16-18, athletic and tanned, overlaid with their absence
+    clothing: 'Summer: light berrets, short skirts, summer blouses in bright colors, autumn: empty beach showing only wind-blown
+      fabric scraps'
+    position: 'Summer: dynamic group walking arm-in-arm along promenade, autumn: empty boardwalk with only their ghostly footprint
+      traces'
+    action: 'Summer: laughing, gesturing with golf clubs, full of vital energy, autumn: presence felt only through memory
+      impressions'
+  scene:
+    mainElements: Same stretch of wooden boardwalk and beach showing seasonal abandonment. Summer's populated leisure scene
+      becoming autumn's deserted melancholy. Hotel facade unchanged but windows beginning to close.
+    details: 'Summer: colorful beach umbrellas, scattered towels, playing children, active tennis court. Autumn: umbrellas
+      folded away, sand showing only wind patterns, tennis net lowered, deck chairs stacked.'
+    background: Ocean changing from sparkling summer blue with gentle waves to darker autumn gray with stronger swells. Hotel
+      showing lights in all windows versus only scattered illumination.
+    atmosphere: Bittersweet nostalgia where summer's social energy dissolves into autumn's contemplative solitude. Youth's
+      fleeting nature captured through seasonal transition and social emptiness, no text or letters visible
+  composition:
+    cameraAngle: Wide panoramic shot capturing full promenade from hotel to beach across seasons
+    focus: Wooden boardwalk as constant thread connecting populated summer to empty autumn
+    depth: Foreground shows boardwalk detail, middle ground captures beach activity transformation, background shows ocean
+      and sky mood changes
+visualElements:
+  colorPalette:
+    primary:
+    - light blue
+    - sunny yellow
+    - fresh green
+    secondary:
+    - violet shadows
+    - orange sunlight
+    - pink reflections
+    background: outdoor natural settings with changing light
+    usageNotes: Pure colors mixed optically, avoiding black and brown
+    saturation: medium to high (pure color mixing)
+    contrast: medium (soft light transitions)
+  lineArt:
+    style: broken color technique, no hard outlines
+    weight: defined by color changes rather than lines
+    color: color edges rather than drawn lines
+    texture: visible brush strokes
+    edgeTreatment: soft, broken edges
+  lighting:
+    type: natural outdoor lighting
+    direction: changing sunlight throughout day
+    intensity: bright natural light
+    shadows:
+      style: colored shadows (not black)
+      color: complementary colors to light
+      opacity: translucent, colorful
+    highlights: pure color highlights
+  rendering:
+    technique: alla prima, wet-on-wet oil painting
+    texture: visible canvas texture and brush marks
+    detailLevel: impressionistic (capturing essence, not detail)
+    finish: textured, painterly surface
+  perspective: atmospheric perspective
+  mood:
+    overall: luminous, spontaneous, fresh
+    emotion: joy in natural beauty, spontaneity
+    tempo: quick, captured moment
+    keywords:
+    - luminous
+    - spontaneous
+    - fresh
+    - atmospheric
+    - natural
+  stylePrecedents:
+  - Claude Monet water lilies
+  - Renoir outdoor scenes
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical

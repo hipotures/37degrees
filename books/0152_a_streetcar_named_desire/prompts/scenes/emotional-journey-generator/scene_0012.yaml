@@ -1,0 +1,24 @@
+sceneDescription:
+  title: "Heartbreaking revelation of tragic past and lost love"
+  setting:
+    time: "Late 1940s, intimate evening in summer"
+    location: "Cramped two-room ground floor apartment in French Quarter tenement. Kitchen serves as main living space with fold-out bed for guests"
+    weather: "Calm summer evening, cooler indoor air"
+  characters:
+    - appearance: "Woman approximately 30 years old, slender build with delicate beauty. Fair blonde hair carefully styled in soft waves. Blue eyes with delicate facial features, though showing signs of nervous strain and fatigue. Posture uncertain and nervous, moves with moth-like nervousness and theatrical gestures"
+      clothing: "Simple but feminine evening dress, more vulnerable appearance"
+      position: "Seated close to companion, hands clasped together in lap, head slightly bowed"
+      action: "Speaking in hushed, pained tones about devastating loss, occasionally touching companion for support"
+    - appearance: "Man 30-35 years old, tall and solidly built but moves awkwardly like dancing bear. More sensitive expression than other men, often shy and gentle"
+      clothing: "Respectful evening attire, jacket removed showing more relaxed intimacy"
+      position: "Leaning forward attentively, positioned to offer comfort"
+      action: "Listening with growing empathy and concern, occasionally reaching out to offer comfort"
+  scene:
+    mainElements: "Bottle of whiskey secretively consumed to calm nerves and escape reality. Later broken and used as weapon against Stanley"
+    details: "Dim lighting creating intimate confessional atmosphere. Shared whiskey glass between them showing growing trust. Woman's vulnerability more apparent in soft light. Man's gentle attention and growing protective instinct. Shadows creating safe space for painful revelations. No text or letters visible"
+    background: "Simple functional furniture, yellow linoleum-covered poker table, single naked bulb hanging from ceiling with green glass shade over dining area. Portières instead of solid doors to bedroom"
+    atmosphere: "Sacred space for sharing deepest pain and trauma. Mutual recognition of loneliness and need. Growing emotional intimacy despite harsh surroundings. Hope for healing through human connection"
+  composition:
+    cameraAngle: "Close intimate shots emphasizing emotional vulnerability"
+    focus: "Shared pain and growing bond between two damaged souls"
+    depth: "Foreground: intimate couple; middle ground: softly lit apartment; background: shadows providing privacy and safety"

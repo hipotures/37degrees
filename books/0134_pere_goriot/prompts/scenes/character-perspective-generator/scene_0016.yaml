@@ -1,0 +1,23 @@
+sceneDescription:
+  title: "Boarding House Documentary Reality"
+  setting:
+    time: "1819, noon"
+    location: "Vauquer boarding house dining room in clear daylight without emotional filters"
+    weather: "Overcast winter day providing neutral gray light"
+  characters:
+    - appearance: "All boarding house residents"
+      age: "Various ages from early twenties to elderly"
+      appearance: "Neutral documentation of physical facts without emotional interpretation - actual heights, builds, clothing conditions as they objectively exist"
+      clothing: "Clothing described by actual fabric, wear patterns, and monetary value rather than emotional associations"
+      posture: "Physical positions and movements recorded without psychological interpretation"
+      position: "Seated around dining table in habitual arrangements"
+      action: "Eating lunch and conversing according to established social patterns"
+  scene:
+    mainElements: "Documentary view shows boarding house as modest three-story building with standard furnishing appropriate to its rental prices. Residents appear as collection of individuals with measurable ages, documented incomes, and quantifiable possessions, engaged in routine activities of communal dining and conversation."
+    details: "Objective observation records actual dimensions of rooms, condition of furniture, menu contents, conversation topics, financial transactions, and social interactions without emotional coloring or subjective interpretation. Everything appears in its measurable, factual state."
+    background: "Physical architecture, furnishing, and spatial arrangements recorded as they actually exist, without symbolic interpretation"
+    atmosphere: "Neutral documentation without emotional atmosphere - simply record of people living according to their economic circumstances and social positions"
+  composition:
+    cameraAngle: "Straight-on documentary angle recording scene without perspective bias or emotional framing"
+    focus: "Clear documentation of all elements with equal attention, no subjective emphasis or emotional highlighting"
+    depth: "Accurate spatial relationships between people, furniture, and architecture according to actual measurements and positions, no text or letters visible"

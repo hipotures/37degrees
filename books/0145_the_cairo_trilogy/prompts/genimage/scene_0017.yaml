@@ -1,0 +1,86 @@
+sceneDescription:
+  setting:
+    time: 1927, moment of receiving news of family tragedy during evening meal
+    location: Family dining area during traditional evening feast when devastating news arrives
+    weather: Warm evening interior lighting from oil lamps and early electric fixtures
+  characters:
+  - appearance: 40-year-old Egyptian woman, medium height, slender delicate build, chestnut hair hidden under brown headscarf,
+      small dreamy eyes, elongated face with delicate features, small thin nose, distinctive black mole on cheek
+    clothing: Simple long domestic dress, brown headscarf covering hair completely
+    position: Moving quietly and gracefully, gestures restrained and modest
+    action: Frozen at moment of receiving tragic news, brass tea glass slipping from fingers
+  - appearance: Family members continuing normal activities in blurred motion around frozen central figure
+    clothing: Traditional family dinner attire
+    position: Various dinner positions
+    action: Continuing meal preparations and conversations unaware of suspended tragedy
+  scene:
+    mainElements: Traditional family feast setting with Persian Shiraz carpet, brass trays gleaming with dishes, showing temporal
+      suspension at moment of personal catastrophe
+    details: 'Frozen elements: Brass tea glass suspended mid-fall, drops of tea caught in air, tragic expression locked on
+      receiving devastating family news, hands frozen in gesture of loss. Moving elements: Other family members continue eating
+      in blurred motion, oil lamps flickering normally, steam rising from hot food, shadows dancing on walls. Feast abundance
+      contrasts with suspended personal devastation, no text or letters visible'
+    background: Whitewashed walls contrasting with dark massive wooden furniture, same architectural elements witnessing both
+      celebration and tragedy simultaneously
+    atmosphere: Surreal contrast between suspended personal grief and continuing family normalcy, temporal isolation of tragic
+      moment, sense of time stopping when devastating news arrives
+  composition:
+    cameraAngle: Close view focusing on suspended falling glass with blurred family activity around
+    focus: Central falling glass and frozen tragic expression surrounded by continuing normal life
+    depth: 'Foreground: suspended glass and tea drops, middle ground: frozen tragic figure, background: blurred continuing
+      feast activity'
+visualElements:
+  colorPalette:
+    primary:
+    - deep blue
+    - gold leaf
+    - white
+    secondary:
+    - emerald green
+    - burgundy red
+    - black outlines
+    background: neutral or colored backgrounds showcasing geometric patterns
+    usageNotes: Rich, saturated colors often with gold accents
+    saturation: high (rich, jewel-like colors)
+    contrast: high (clear pattern definition)
+  lineArt:
+    style: precise geometric lines forming complex patterns
+    weight: consistent, mathematical precision
+    color: dark outlines defining geometric forms
+    texture: smooth, precise geometric construction
+    edgeTreatment: sharp, mathematically precise edges
+  lighting:
+    type: even lighting to show pattern clarity
+    direction: consistent illumination
+    intensity: clear, pattern-revealing
+    shadows:
+      style: minimal shadows (focus on pattern)
+      color: darker pattern colors
+      opacity: subtle
+    highlights: gold or bright accents in patterns
+  rendering:
+    technique: precise geometric construction
+    texture: smooth with intricate pattern detail
+    detailLevel: extremely high (complex mathematical patterns)
+    finish: smooth, often with metallic accents
+  perspective: flat, pattern-based composition
+  mood:
+    overall: spiritual, infinite, mathematical beauty
+    emotion: contemplation, divine order, infinite complexity
+    tempo: meditative, rhythmic
+    keywords:
+    - spiritual
+    - infinite
+    - mathematical
+    - contemplative
+    - divine
+  stylePrecedents:
+  - Alhambra palace patterns
+  - Islamic manuscript illumination
+technicalSpecifications:
+  resolution:
+    aspectRatio: '9:16'
+    minWidth: 1080
+    minHeight: 1920
+    unit: pixels
+  orientation: Portrait/Vertical
